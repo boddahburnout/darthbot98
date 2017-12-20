@@ -1,0 +1,28 @@
+24 Aug 2016 19:49:08 : PassionMC, general, Wertfuzzy77#0274, i think i got it
+24 Aug 2016 19:49:19 : The Pleb Privateers, general, enragednuke#2565, @Wertfuzzy77 is ur bot dying repeatedly
+24 Aug 2016 19:49:25 : The Pleb Privateers, general, Wertfuzzy77#0274, si
+24 Aug 2016 19:49:29 : The Pleb Privateers, general, enragednuke#2565, lol
+24 Aug 2016 19:49:31 : The Pleb Privateers, general, Wertfuzzy77#0274, im testing him
+24 Aug 2016 19:49:34 : The Pleb Privateers, general, enragednuke#2565, rip
+24 Aug 2016 19:49:47 : The Pleb Privateers, general, Wertfuzzy77#0274, working on server config files and json
+24 Aug 2016 19:49:47 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+24 Aug 2016 19:49:50 : Penguins, general, Botfuzzy77#2209, **chaliema**(Rayquaza) is now Online!
+24 Aug 2016 19:49:50 : PassionMC, general, Botfuzzy77#2209, **chaliema**(No Role) is now Online!
+24 Aug 2016 19:49:51 : The Pleb Privateers, general, Wertfuzzy77#0274, ;config
+24 Aug 2016 19:49:51 : The Pleb Privateers, general, Botfuzzy77#2209, Invalid config command passed...
+24 Aug 2016 19:49:54 : PassionMC, general, Botfuzzy77#2209, **ItzArchie**(No Role) is now Offline!
+24 Aug 2016 19:49:59 : The Pleb Privateers, general, Wertfuzzy77#0274, ;config All
+24 Aug 2016 19:49:59 : The Pleb Privateers, general, Botfuzzy77#2209, Server Settings are as Follows:
+Welcome new members: **True**
+Send a message when a player comes online: **True**
+24 Aug 2016 19:50:05 : PassionMC, general, Botfuzzy77#2209, **ItzArchie**(No Role) is now Online!
+24 Aug 2016 19:50:11 : The Pleb Privateers, general, Wertfuzzy77#0274, ;config Set Online False
+24 Aug 2016 19:50:11 : The Pleb Privateers, general, Botfuzzy77#2209, Sucessfully Set Online to False
+24 Aug 2016 19:50:14 : The Pleb Privateers, general, Wertfuzzy77#0274, ;config All
+24 Aug 2016 19:50:15 : The Pleb Privateers, general, Botfuzzy77#2209, Server Settings are as Follows:
+Welcome new members: **True**
+Send a message when a player comes online: **False**
+24 Aug 2016 19:50:22 : PassionMC, general, Wertfuzzy77#0274, rip
+24 Aug 2016 19:50:31 : PassionMC, general, ItzArchie#5783, ?
+24 Aug 2016 19:50:49 : PassionMC, general, Wertfuzzy77#0274, ;relog
+24 Aug 2016 19:50:49 : PassionMC, general, Botfuzzy77#2209, Relogging...

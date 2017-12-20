@@ -1,0 +1,60 @@
+21 Dec 2016 04:08:02 : LimitlessMc, mainchat, Wertfuzzy77#0274, there
+21 Dec 2016 04:08:11 : LimitlessMc, mainchat, crystal4209#4698, what?
+21 Dec 2016 04:08:30 : LimitlessMc, mainchat, AlphaBit#3869, ;kys
+21 Dec 2016 04:08:30 : LimitlessMc, mainchat, Botfuzzy77#2209, Hey Mean!
+21 Dec 2016 04:09:02 : LimitlessMc, mainchat, Wertfuzzy77#0274, but actually, someone kill me, ive done nothing but schoolwork all day ;-; and I'm home already
+21 Dec 2016 04:09:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+21 Dec 2016 04:09:48 : LimitlessMc, mainchat, Wertfuzzy77#0274, quick, someone playing something weeby
+21 Dec 2016 04:11:22 : LimitlessMc, mainchat, crystal4209#4698, what lel
+21 Dec 2016 04:12:23 : LimitlessMc, mainchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=lNT31qyWQa4
+21 Dec 2016 04:12:25 : LimitlessMc, mainchat, Botfuzzy77#2209, Added Porter Robinson & Madeon - Shelter - Acapella Cover to the queue
+21 Dec 2016 04:12:36 : LimitlessMc, mainchat, Wertfuzzy77#0274, Acapella covers of things always amaze me
+21 Dec 2016 04:13:11 : LimitlessMc, mainchat, Wertfuzzy77#0274, Also, there are so many new version of shelter now 😄 its incredible
+21 Dec 2016 04:13:26 : LimitlessMc, mainchat, crystal4209#4698, yeah been listening to them all
+21 Dec 2016 04:14:04 : LimitlessMc, mainchat, Wertfuzzy77#0274, I should make a ;playlist Shelter with like 10 different versions of shelter
+21 Dec 2016 04:14:06 : LimitlessMc, mainchat, Wertfuzzy77#0274, would be cool
+21 Dec 2016 04:14:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;help MusicPlayer
+21 Dec 2016 04:14:12 : LimitlessMc, botchat, Botfuzzy77#2209, ```
+Commands:
+  makeplaylist   Makes a custom playlist for the bot to save
+  loop           Plays the current song again
+  music          Returns the current status of the Music Bot
+  join           Joins the Voice channel you are currently in
+  playlists      Shows all the current playlists
+  viewplaylist   Views the songs of a playlists
+  desc           Decription of the Current playing song
+  skip           Skips the Current song
+  extendplaylist Extends a custom playlist
+  Radio          Toggles Radio Mode
+  songs          Prints the songs in the queue
+  clear          Clears the Queue
+  shuffle        Shuffles the songs in the Queue
+  search         Searches for a song
+  playlist       Adds songs from a predefined playlist to the songs list
+  song           Returns information about the current playing song
+  remove         removes a song from a queue by index
+  leave          Leaves the Join chat
+  youtube        Adds a Song for the Bot to Play
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+21 Dec 2016 04:14:57 : LimitlessMc, mainchat, crystal4209#4698, you should
+21 Dec 2016 04:16:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;makeplaylist Shelter https://www.youtube.com/watch?v=lNT31qyWQa4 https://www.youtube.com/watch?v=bemckIPfRn0 https://www.youtube.com/watch?v=HQnC1UHBvWA https://www.youtube.com/watch?v=5dsJdlCB4j8 https://www.youtube.com/watch?v=uNze7yakEfE https://www.youtube.com/watch?v=s6yOFbMFyoM https://www.youtube.com/watch?v=hsALwczlNRk https://www.youtube.com/watch?v=vK5RWzXxG0E https://www.youtube.com/watch?v=Ts8YP6hhELU https://www.youtube.com/watch?v=o8fC4zl-KNI
+21 Dec 2016 04:16:59 : LimitlessMc, botchat, Botfuzzy77#2209, Created Playlist Shelter with 10 songs
+21 Dec 2016 04:17:03 : LimitlessMc, botchat, Wertfuzzy77#0274, 😄
+21 Dec 2016 04:17:16 : LimitlessMc, botchat, Wertfuzzy77#0274, ;playlist Shelter
+21 Dec 2016 04:17:31 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+21 Dec 2016 04:17:31 : LimitlessMc, botchat, Botfuzzy77#2209, Queue is Empty
+21 Dec 2016 04:17:34 : LimitlessMc, botchat, Wertfuzzy77#0274, ...
+21 Dec 2016 04:17:43 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+21 Dec 2016 04:17:43 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Porter Robinson & Madeon - Shelter - Acapella Cover
+**Requester**: Wertfuzzy77
+**URL**: <https://www.youtube.com/watch?v=lNT31qyWQa4>
+```py
+Time: 0:04:13
+Views: 194,819
+Likes: 11,139, 97.33%
+Dislikes: 306, 2.67%```
+21 Dec 2016 04:17:48 : LimitlessMc, botchat, Wertfuzzy77#0274, ;relog
+21 Dec 2016 04:17:48 : LimitlessMc, botchat, Botfuzzy77#2209, Relogging...

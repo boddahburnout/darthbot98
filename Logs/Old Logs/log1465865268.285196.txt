@@ -1,0 +1,325 @@
+D3NSH1N#8702, !how_are_you_today
+TheMajesticSeal#2289, !meme Wert is the sexiest mod
+Botfuzzy77#2926, Sorry <@176394182083084289>, I cant talk right here, it isnt safe, but visit me in #botchat
+Gerald#7099, http://i.imgflip.com/15smco.jpg
+TheMajesticSeal#2289, Damn wert
+Wertfuzzy77#0274, !help
+Gerald#7099, 
+Hello, I am Gerald, the channel Bot. I can do many things, I can even be extended by plugins (weehee).
+
+Current commands: (note that arguments in <> are required, those in [] not)
+  - !clean  : lets me purge messages, options below
+    - !clean lets me purge the last 50 messages
+    - !clean <number> does the same for n messages (no maximum :P)
+    - !clean infinite removes messages until !kill, even the end of the channel doesn't seem like the limit
+    - !clean images deletes any message containing either a link to a jpg, !meme or an attachment
+    - !clean <string> removes every message containing the string
+    - !clean @someone cleans @someones messages in the last 100
+  - <@158641216311787520> (<@!158641216311787520>)  : Talk with me :)
+  - !help (!info) : Prints the help
+  - !kill : Kills me and lets me (hopefully) respawn instantly
+  - !ping (!pong) : Ping Pong
+  - !invite : Add me to your server
+  - !dropbox <secret> : Register Dropbox. Go to http://ultramc.org:8087/dropbox/authorize
+  - !id <beginning of name> : Outputs their internal id
+  - !serverid : Prints this server's id
+  - !channelid : Let me output the id of thid channel
+  - !roleids : Lists all roles with their ids
+  - !mention <role name> : Mentions everyone in that role
+  - !permissions <username> : Lists all permissions the spefific user has in this channel
+  - !meme <text you wanna write> : Generate a funny image
+  - !play <name> : Plays a specific song from soundcloud
+  - !youtube <name> : Plays a specific song from youtube. Can also be a url
+  - !pause : Pauses playback
+  - !stop : Stops playback and empties the queue
+  - !queue : Prints the current queue
+  - !shufflequeue : Shuffles the queue
+  - !flushqueue : Empties the queue
+  - !skip : Skips the current song
+  - !replay : Adds the current playing song to the queue
+  - !webplayer : Outputs your personal webplayer url
+  - !resetsecret : Resets your webplayer secret in case you lost it
+Gerald#7099, 
+  - !stats  : Outputs which users wrote the most in this channel
+  - !words  : Outputs which users wrote the most words in this channel
+  - !topwords  : Sends the most common words in this channel
+  - !suspicious  : NSA-like who should be tracked a bit more :)
+  - !weblog  : The channel's weblog for easy search in the browser
+  - !punchcard  : The channel's punchcard - when are people active in here
+  - !rate [@mention] : outputs my rating for a user
+  - !luck [@mention] : outputs the luck of a user today
+  - !nowelcome  : Disables the welcome message for this server
+  - !dowelcome  : Enables the welcome message again
+Genesect#6492, !luck
+Botfuzzy77#2926, Sorry <@135660968804876289>, I cant talk right here, it isnt safe, but visit me in #botchat
+Gerald#7099, My calculations say that Genesect will have 80.2502415402453400% luck today
+Wertfuzzy77#0274, !mute Gerald
+Botfuzzy77#2926, Muted Gerald
+Genesect#6492, !rate
+Botfuzzy77#2926, Sorry <@135660968804876289>, I cant talk right here, it isnt safe, but visit me in #botchat
+TheMajesticSeal#2289, !luck
+Botfuzzy77#2926, Sorry <@176394182083084289>, I cant talk right here, it isnt safe, but visit me in #botchat
+Gerald#7099, Hmmm, I'd say I like Genesect to 31.2294548721221240%
+Wertfuzzy77#0274, ha eat that <@158641216311787520>
+Gerald#7099, My calculations say that Knight_Steel (TheMajesticSeal) will have 12.3688001815333220% luck today
+Wertfuzzy77#0274, ya thats what i thought
+TheMajesticSeal#2289, !rate
+Botfuzzy77#2926, Sorry <@176394182083084289>, I cant talk right here, it isnt safe, but visit me in #botchat
+D3NSH1N#8702, !Botfuzzy_vs_Gerald
+Gerald#7099, Hmmm, I'd say I like Knight_Steel (TheMajesticSeal) to 16.6927264003318000%
+Wertfuzzy77#0274, i win
+D3NSH1N#8702, #TeamFuzzy
+Wertfuzzy77#0274, he cant talk here now
+Wertfuzzy77#0274, !meme test
+Wertfuzzy77#0274, gg
+GioHyzero(Lugia)#8149, The server ded
+Gerald#7099, http://i.imgflip.com/15sme1.jpg
+Wertfuzzy77#0274, i think
+Flamenightblitz#8516, rekt
+Wertfuzzy77#0274, nuu
+TheMajesticSeal#2289, yea
+D3NSH1N#8702, rekt
+TheMajesticSeal#2289, server ded
+GioHyzero(Lugia)#8149, rip
+D3NSH1N#8702, !meme Stop this this
+Wertfuzzy77#0274, !mutelist
+Botfuzzy77#2926, Mute List:
+Gerald
+Gerald
+
+Gerald#7099, http://i.imgflip.com/15smep.jpg
+TheMajesticSeal#2289, just like your hopes and dreams
+Flamenightblitz#8516, !words
+Botfuzzy77#2926, Sorry <@190353979430010880>, I cant talk right here, it isnt safe, but visit me in #botchat
+Gerald#7099, These users wrote so many words in this channel:
+
+Unknown User: 22 (37.93103448275862%)
+FearlessFalconX: 8 (13.793103448275861%)
+cdellama: 6 (10.344827586206897%)
+Unknown User: 4 (6.896551724137931%)
+Unknown User: 3 (5.172413793103448%)
+Knight_Steel (TheMajesticSeal): 1 (1.7241379310344827%)
+
+- 0 users were ignored, because they sent less than 1%
+- 58 words in total
+Planet_E#5568, !meme yay! the server has cancer again!
+Botfuzzy77#2926, Sorry <@176229624353783809>, I cant talk right here, it isnt safe, but visit me in #botchat
+Gerald#7099, http://i.imgflip.com/15smey.jpg
+Genesect#6492, !meme give me porygon
+Botfuzzy77#2926, Sorry <@135660968804876289>, I cant talk right here, it isnt safe, but visit me in #botchat
+Wertfuzzy77#0274, y gerald
+Gerald#7099, http://i.imgflip.com/15smfh.jpg
+Wertfuzzy77#0274, y you do this to me
+D3NSH1N#8702, !mute Gerald
+Wertfuzzy77#0274, i cri
+D3NSH1N#8702, !mute
+TheMajesticSeal#2289, !meme Shut up
+Botfuzzy77#2926, Sorry <@176394182083084289>, I cant talk right here, it isnt safe, but visit me in #botchat
+Gerald#7099, http://i.imgflip.com/15smge.jpg
+Wertfuzzy77#0274, !kill <@134441036905840640>
+Botfuzzy77#2926, :skull: *Wertfuzzy77 Killed <@134441036905840640>* :skull:
+D3NSH1N#8702, !sadface
+Gerald#7099, Sorry, you are not permitted to use this feature
+ThaOriginal#5897, im glad your porygon is gone
+Flamenightblitz#8516, !meme Give Me my Pornygon
+Botfuzzy77#2926, Sorry <@190353979430010880>, I cant talk right here, it isnt safe, but visit me in #botchat
+TheMajesticSeal#2289, !meme same
+Botfuzzy77#2926, Sorry <@176394182083084289>, I cant talk right here, it isnt safe, but visit me in #botchat
+Gerald#7099, http://i.imgflip.com/15smgj.jpg
+Gerald#7099, http://i.imgflip.com/15smgk.jpg
+D3NSH1N#8702, !IUseWhatIwantYouFuckingBot
+Nalk Xulk Uk Eht#7098, !meme you can never ever stop <@158641216311787520>
+Gerald#7099, http://i.imgflip.com/15smh2.jpg
+GioHyzero(Lugia)#8149, Is server down
+TheMajesticSeal#2289, !meme yes
+Botfuzzy77#2926, Sorry <@176394182083084289>, I cant talk right here, it isnt safe, but visit me in #botchat
+Wertfuzzy77#0274, DIE GERALD
+Gerald#7099, http://i.imgflip.com/15smhc.jpg
+Wertfuzzy77#0274, I would kick em, but would prob get in trouble
+Nalk Xulk Uk Eht#7098, !meme never!
+Gerald#7099, http://i.imgflip.com/15smhp.jpg
+TheMajesticSeal#2289, !meme Server is down syndrome
+Botfuzzy77#2926, Sorry <@176394182083084289>, I cant talk right here, it isnt safe, but visit me in #botchat
+Gerald#7099, http://i.imgflip.com/15smhr.jpg
+Wertfuzzy77#0274, plus, he is playing my music
+Wertfuzzy77#0274, so eh
+TheMajesticSeal#2289, !meme server is me pizza
+Botfuzzy77#2926, Sorry <@176394182083084289>, I cant talk right here, it isnt safe, but visit me in #botchat
+Gerald#7099, http://i.imgflip.com/15smi8.jpg
+Botfuzzy77#2926, Sorry <@190353979430010880>, I cant talk right here, it isnt safe, but visit me in #botchat
+Gerald#7099, http://i.imgflip.com/15smi9.jpg
+D3NSH1N#8702, !help
+Gerald#7099, 
+Hello, I am Gerald, the channel Bot. I can do many things, I can even be extended by plugins (weehee).
+
+Current commands: (note that arguments in <> are required, those in [] not)
+  - !clean  : lets me purge messages, options below
+    - !clean lets me purge the last 50 messages
+    - !clean <number> does the same for n messages (no maximum :P)
+    - !clean infinite removes messages until !kill, even the end of the channel doesn't seem like the limit
+    - !clean images deletes any message containing either a link to a jpg, !meme or an attachment
+    - !clean <string> removes every message containing the string
+    - !clean @someone cleans @someones messages in the last 100
+  - <@158641216311787520> (<@!158641216311787520>)  : Talk with me :)
+  - !help (!info) : Prints the help
+  - !kill : Kills me and lets me (hopefully) respawn instantly
+  - !ping (!pong) : Ping Pong
+  - !invite : Add me to your server
+  - !dropbox <secret> : Register Dropbox. Go to http://ultramc.org:8087/dropbox/authorize
+  - !id <beginning of name> : Outputs their internal id
+  - !serverid : Prints this server's id
+  - !channelid : Let me output the id of thid channel
+  - !roleids : Lists all roles with their ids
+  - !mention <role name> : Mentions everyone in that role
+  - !permissions <username> : Lists all permissions the spefific user has in this channel
+  - !meme <text you wanna write> : Generate a funny image
+  - !play <name> : Plays a specific song from soundcloud
+  - !youtube <name> : Plays a specific song from youtube. Can also be a url
+  - !pause : Pauses playback
+  - !stop : Stops playback and empties the queue
+  - !queue : Prints the current queue
+  - !shufflequeue : Shuffles the queue
+  - !flushqueue : Empties the queue
+  - !skip : Skips the current song
+  - !replay : Adds the current playing song to the queue
+  - !webplayer : Outputs your personal webplayer url
+  - !resetsecret : Resets your webplayer secret in case you lost it
+Gerald#7099, 
+  - !stats  : Outputs which users wrote the most in this channel
+  - !words  : Outputs which users wrote the most words in this channel
+  - !topwords  : Sends the most common words in this channel
+  - !suspicious  : NSA-like who should be tracked a bit more :)
+  - !weblog  : The channel's weblog for easy search in the browser
+  - !punchcard  : The channel's punchcard - when are people active in here
+  - !rate [@mention] : outputs my rating for a user
+  - !luck [@mention] : outputs the luck of a user today
+  - !nowelcome  : Disables the welcome message for this server
+  - !dowelcome  : Enables the welcome message again
+Wertfuzzy77#0274, once i add music to my bot, gonna kill em
+Nalk Xulk Uk Eht#7098, !meme you should be gratefull i'm here <@134441036905840640>
+Gerald#7099, http://i.imgflip.com/15smin.jpg
+TheMajesticSeal#2289, !meme me is porn and pizza likes penis like men
+Botfuzzy77#2926, Sorry <@176394182083084289>, I cant talk right here, it isnt safe, but visit me in #botchat
+Gerald#7099, http://i.imgflip.com/15smit.jpg
+ThaOriginal#5897, im literally only camping mew from now on
+TheMajesticSeal#2289, !meme tree burger fart juice window, fat
+Botfuzzy77#2926, Sorry <@176394182083084289>, I cant talk right here, it isnt safe, but visit me in #botchat
+Gerald#7099, http://i.imgflip.com/15smjs.jpg
+D3NSH1N#8702, So, server's down
+Nalk Xulk Uk Eht#7098, !meme bet
+Gerald#7099, http://i.imgflip.com/15smjy.jpg
+Botfuzzy77#2926, Sorry <@151163520120127488>, I cant talk right here, it isnt safe, but visit me in #botchat
+Wertfuzzy77#0274, !tournaments
+Wertfuzzy77#0274, and rip
+Wertfuzzy77#0274, !tournaments
+Wertfuzzy77#0274, yu[
+Wertfuzzy77#0274, yup *
+Wertfuzzy77#0274, !help
+Wertfuzzy77#0274, !sell -1
+Botfuzzy77#2926, <@134441036905840640> sold TM126: DynamicPunch for...
+Botfuzzy77#2926, *With Testing Code*
+Botfuzzy77#2926, $52.5
+Wertfuzzy77#0274, !data Wertfuzzy77
+Botfuzzy77#2926, Name: Wertfuzzy77
+FuzzyIndex: 119.9, Rank: 13
+Win-Lose Ratio: 1.0
+Tournaments Participated in 5
+TournamentURL: http://limitlessmc.challonge.com/LimitlessMC-LimitlessMCTournament
+Rank: 9 Out of 24 Participants
+
+TournamentURL: http://limitlessmc.challonge.com/LimitlessMC-Level100Battle
+Rank: 7 Out of 8 Participants
+
+TournamentURL: http://limitlessmc.challonge.com/LimitlessMC-20jkjerl
+Rank: 3 Out of 13 Participants
+
+TournamentURL: http://limitlessmc.challonge.com/LimitlessMC-1juwze7i
+Rank: 3 Out of 10 Participants
+
+TournamentURL: http://limitlessmc.challonge.com/LimitlessMC-vhfqet4z
+Rank: 2 Out of 12 Participants
+
+
+Players Won Against
+Cryotrees: 1
+xN3MOx: 1
+WolfBreath: 1
+mycaelspear: 1
+TheLast1Alive: 1
+Latichris: 1
+MGirard: 2
+sc0tty14: 1
+
+
+Players Lost Against
+HeroNeos: 1
+TheSolvdow: 1
+TheLast1Alive: 1
+PoroTheSquirrel: 1
+Bakafish: 1
+ruleroftri: 2
+Latichris: 1
+That_Guy_Gilly: 2
+
+D3NSH1N#8702, ?
+D3NSH1N#8702, !challonge
+Wertfuzzy77#0274, !ranking 10
+Botfuzzy77#2926, Name: TheSolvdow, Rank: 1, Index: 188.3
+Name: Bakafish, Rank: 2, Index: 182.7
+Name: HeroNeos, Rank: 3, Index: 157.3
+Name: Joeswalt3, Rank: 4, Index: 149.8
+Name: Zeathrus, Rank: 5, Index: 140.1
+Name: That_Guy_Gilly, Rank: 6, Index: 136.9
+Name: PacMen, Rank: 7, Index: 136.3
+Name: Laintime, Rank: 8, Index: 129.5
+Name: Sephirium, Rank: 9, Index: 128.8
+Name: EHHockey35, Rank: 10, Index: 128.8
+
+Wertfuzzy77#0274, !prize
+Botfuzzy77#2926, https://gist.github.com/77Wertfuzzy77/30567d6ea547adce48042b86eec0573d
+D3NSH1N#8702, !forum
+Wertfuzzy77#0274, !roll 3d3
+Botfuzzy77#2926, 2, 1, 2
+D3NSH1N#8702, !forums
+Wertfuzzy77#0274, !ev HP
+Botfuzzy77#2926, Pokemon that Give Health EVs
+Caterpie - 1
+Nidoran (female) - 1
+Nidorina - 2
+Clefairy - 2
+Jigglypuff - 2
+Slowpoke - 1
+Grimer - 1
+Lickitung - 2
+Chansey - 2
+Kangaskhan - 2
+Lapras - 2
+Ditto - 1
+Snorlax - 2
+Chinchou - 1
+Lanturn - 2
+
+ZyroPlayz#3967, waht happened to server
+D3NSH1N#8702, !welp
+Wertfuzzy77#0274, !ev Pikachu
+Botfuzzy77#2926, Not a Valid input
+Nalk Xulk Uk Eht#7098, music?
+Nalk Xulk Uk Eht#7098, !queue
+Botfuzzy77#2926, Sorry <@151163520120127488>, I cant talk right here, it isnt safe, but visit me in #botchat
+Wertfuzzy77#0274, !ev pikachu
+Botfuzzy77#2926, Not a Valid input
+Gerald#7099, The queue is empty
+Wertfuzzy77#0274, !ev Pikachu
+Botfuzzy77#2926, Not a Valid input
+Nalk Xulk Uk Eht#7098, !youtube no - megan trainor
+Botfuzzy77#2926, Sorry <@151163520120127488>, I cant talk right here, it isnt safe, but visit me in #botchat
+Nalk Xulk Uk Eht#7098, !queue
+Botfuzzy77#2926, Sorry <@151163520120127488>, I cant talk right here, it isnt safe, but visit me in #botchat
+Gerald#7099, The queue is empty
+D3NSH1N#8702, !meme Gerald - 1 Botfuzzy - 0
+Nalk Xulk Uk Eht#7098, wtf
+Flamenightblitz#8516, !youtube  heyeyeyeyey
+Gerald#7099, http://i.imgflip.com/15smn5.jpg
+Botfuzzy77#2926, Sorry <@190353979430010880>, I cant talk right here, it isnt safe, but visit me in #botchat
+Wertfuzzy77#0274, !relog
+Botfuzzy77#2926, Relogging...

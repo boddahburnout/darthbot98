@@ -1,0 +1,186 @@
+Botfuzzy77#2926, Starting up...
+Botfuzzy77#2926, Loaded with Version 0.8.7
+Wertfuzzy77#0274, !add 2 2
+Botfuzzy77#2926, Fish Silly
+Wertfuzzy77#0274, boom
+Wertfuzzy77#0274, done
+Wertfuzzy77#0274, !roll 2d3
+Botfuzzy77#2926, 1, 3
+Rachel#2264, Yay
+Wertfuzzy77#0274, !roll 5d6
+Botfuzzy77#2926, 5, 2, 2, 5, 5
+Rachel#2264, How did you...
+Rachel#2264, !roll 1
+Botfuzzy77#2926, Format has to be in NdN!
+Wertfuzzy77#0274, !help roll
+Botfuzzy77#2926, ```
+!roll <dice>
+
+Rolls a dice in NdN format.
+Max number of 499 Dice Rolls
+
+```
+Rachel#2264, Oh
+Rachel#2264, !roll 9d1
+Botfuzzy77#2926, 1, 1, 1, 1, 1, 1, 1, 1, 1
+Wertfuzzy77#0274, hj
+Rachel#2264, !roll 2d10
+Botfuzzy77#2926, 5, 3
+Rachel#2264, That is fun.
+Wertfuzzy77#0274, ya
+Wertfuzzy77#0274, *!ev and !pokemon best cmds tho
+Wertfuzzy77#0274, try !help ev or !help pokemon
+Rachel#2264, !help ev
+Botfuzzy77#2926, ```
+!ev [playerInput...]
+
+Returns Best Pokemon to Find Certain EVs 
+Inputs are 'HP', 'SPD', 'DEF', 'SP.DEF', 'ATT', 'SP.ATT'
+Or you can do !ev [pokemon] to get the EV drops for a certain pokemon
+
+```
+Wertfuzzy77#0274, cant integrate it into MC rn
+Wertfuzzy77#0274, working on it
+Wertfuzzy77#0274, but not fun
+Rachel#2264, Only with the Books?
+JustinOPGamer#9138, is that Rachel OOO
+Wertfuzzy77#0274, ya
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+Botfuzzy77#2926, JustinOPGamer won a Pack prize from a TESTING book...
+Botfuzzy77#2926, Its a **Breeding Pack**
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+Botfuzzy77#2926, JustinOPGamer won a Items prize from a TESTING book...
+Botfuzzy77#2926, Its a **Lucky egg**
+Botfuzzy77#2926, JustinOPGamer won a Items prize from a TESTING book...
+JustinOPGamer#9138, !redeem TEST
+Botfuzzy77#2926, Its a **Destiny Knot**
+Botfuzzy77#2926, JustinOPGamer won a Money prize from a TESTING book...
+Botfuzzy77#2926, JustinOPGamer won a Items prize from a TESTING book...
+Botfuzzy77#2926, Its a **Master Ball!**
+JustinOPGamer#9138, !redeem TEST
+Botfuzzy77#2926, JustinOPGamer won a Pack prize from a TESTING book...
+JustinOPGamer#9138, !redeem TEST
+Wertfuzzy77#0274, Books i make
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+Botfuzzy77#2926, JustinOPGamer won a Items prize from a TESTING book...
+Botfuzzy77#2926, JustinOPGamer won a Money prize from a TESTING book...
+Botfuzzy77#2926, JustinOPGamer won a Pack prize from a TESTING book...
+Botfuzzy77#2926, JustinOPGamer won a Items prize from a TESTING book...
+Botfuzzy77#2926, Its a **Pokeball Pack**
+Botfuzzy77#2926, Its **$4500**
+Botfuzzy77#2926, Its **$4800**
+Botfuzzy77#2926, Its a **Power Bracer**
+Botfuzzy77#2926, Its a **Choice Band**
+Botfuzzy77#2926, Its a **Training Pack**
+Wertfuzzy77#0274, wtb !mute
+JustinOPGamer#9138, testing XD
+Wertfuzzy77#0274, i make !mute rn
+JustinOPGamer#9138, ok
+Rachel#2264, !ev atk
+Botfuzzy77#2926, ```Pokemon Not Found
+```
+Wertfuzzy77#0274, its !ev ATT
+Rachel#2264, !ev att
+Botfuzzy77#2926, Pokemon that Give Attack EVs
+Ekans - 1
+Arbok - 2
+Nidoran (male) - 1
+Nidorino - 2
+Paras - 1
+Mankey - 1
+Primeape - 2
+Growlithe - 1
+Machop - 1
+Machoke - 2
+Bellsprout - 1
+Weepinbell - 2
+Krabby - 1
+Kingler - 2
+Hitmonlee - 2
+Rhydon - 2
+Goldeen - 1
+Seaking - 2
+
+Wertfuzzy77#0274, btw
+Wertfuzzy77#0274, or !ev [pokemon]
+Rachel#2264, Yeah found that out lol
+JustinOPGamer#9138, Rachel i owe wert 500k u have that money?
+Rachel#2264, Nope
+Rachel#2264, So...
+JustinOPGamer#9138, rachel i won shiny legend on here but i need like 500k to get it XD
+JustinOPGamer#9138, !redeem TEST
+Botfuzzy77#2926, JustinOPGamer won a Pack prize from a TESTING book...
+Botfuzzy77#2926, Its a **Training Pack**
+Rachel#2264, How do you get the Codes though?
+Rachel#2264, Other than the test one
+Wertfuzzy77#0274, if you want, i can send you a book with a code
+Wertfuzzy77#0274, I drop in drop party, or as tourney prize
+JustinOPGamer#9138, wert i test a random code okei
+Wertfuzzy77#0274, gl
+Rachel#2264, That would be fine, But, i still want to know how do you make the Codes xD
+Wertfuzzy77#0274, like i said 10^9 different combos
+JustinOPGamer#9138, random
+Wertfuzzy77#0274, <@170365279774179338>  they are random 9 length numbers
+Wertfuzzy77#0274, i just have a list of good ones
+Wertfuzzy77#0274, if doesnt match, its invalid
+Rachel#2264, I thought you hand picked them lol
+Wertfuzzy77#0274, and each code is either $500, 1k, 2k, or 5k
+Wertfuzzy77#0274, nah lol
+PacMen#1450, !tournament
+Wertfuzzy77#0274, too much work
+PacMen#1450, !tournaments
+Botfuzzy77#2926, Limitless Mayors Tournement
+Date: Completed			Participants: 24
+
+Level 100 Battle
+Date: Completed			Participants: 8
+
+Battle of the Noobs Month 1
+Date: Completed			Participants: 15
+
+Level 100 Battle
+Date: Completed			Participants: 13
+
+Battle of the Noobs Month 2 - April 30th
+Date: April 30,2016		Participants: 15
+Type: double elimination	ID: 2367167
+URL: https://limitlessmc.challonge.com/k4ssiskw
+
+April Showers - April 23rd
+Date: Completed			Participants: 13
+
+6v6 Tournament - April 16th
+Date: Completed			Participants: 10
+
+6 v 6 Tournament - May 1st 
+Date: May 1,2016		Participants: 8
+Type: double elimination	ID: 2437422
+URL: https://limitlessmc.challonge.com/4h5lg5li
+
+May Flowers - May 28th
+Date: May 28,2016		Participants: 1
+Type: double elimination	ID: 2461202
+URL: https://limitlessmc.challonge.com/vm2cjefi
+
+
+Wertfuzzy77#0274, ew, only 3 open rn
+Wertfuzzy77#0274, need to make more
+Rachel#2264, Double Elimination?
+Wertfuzzy77#0274, ya
+Wertfuzzy77#0274, so losers bracket
+Wertfuzzy77#0274, you need to lose x2 to be out
+Rachel#2264, Oh
+Rachel#2264, What's the level cap?
+Wertfuzzy77#0274, for which
+Rachel#2264, Umm april's
+Wertfuzzy77#0274, actually, all are level 100 rn
+Rachel#2264, lol
+Wertfuzzy77#0274, also, April Showers closed
+Wertfuzzy77#0274, already done
+Rachel#2264, Oh and Yes to that book you said before.
+Wertfuzzy77#0274, !relog
+Botfuzzy77#2926, Relogging...

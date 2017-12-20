@@ -1,0 +1,8 @@
+04 Jan 2017 03:14:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+04 Jan 2017 03:14:30 : LimitlessMc, botchat, Botfuzzy77#2209, Something went wrong :(
+04 Jan 2017 03:14:30 : LimitlessMc, botchat, Botfuzzy77#2209, AttributeError: 'Games' object has no attribute 'DIFFICULTY'
+04 Jan 2017 03:14:36 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+04 Jan 2017 03:14:36 : LimitlessMc, botchat, Botfuzzy77#2209, Something went wrong :(
+04 Jan 2017 03:14:36 : LimitlessMc, botchat, Botfuzzy77#2209, AttributeError: 'Games' object has no attribute 'DIFFICULTY'
+04 Jan 2017 03:14:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;relog
+04 Jan 2017 03:14:38 : LimitlessMc, botchat, Botfuzzy77#2209, Relogging...

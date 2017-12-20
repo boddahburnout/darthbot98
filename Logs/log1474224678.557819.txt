@@ -1,0 +1,113 @@
+18 Sep 2016 18:51:38 : The Wild Weeaboos, general, Wertfuzzy77#0274, ;join
+18 Sep 2016 18:51:49 : The Wild Weeaboos, general, \//\#7946, qtpqwack
+18 Sep 2016 18:51:50 : The Wild Weeaboos, general, Wertfuzzy77#0274, ;playlist Kimi AnimeOpenings
+18 Sep 2016 18:52:03 : The Wild Weeaboos, general, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+18 Sep 2016 18:52:20 : The Wild Weeaboos, general, enragednuke#2565, ;debug [x for x in bot.servers]
+18 Sep 2016 18:52:20 : The Wild Weeaboos, general, Botfuzzy77#2209, ```py
+[<discord.server.Server object at 0x00000241F9340C48>, <discord.server.Server object at 0x00000241F9340D08>, <discord.server.Server object at 0x00000241F9340648>, <discord.server.Server object at 0x00000241F9340708>, <discord.server.Server object at 0x00000241F9340948>, <discord.server.Server object at 0x00000241F9340AC8>, <discord.server.Server object at 0x00000241F9340B88>, <discord.server.Server object at 0x00000241F9340888>, <discord.server.Server object at 0x00000241F9340A08>, <discord.server.Server object at 0x00000241F93407C8>]
+```
+18 Sep 2016 18:52:26 : The Wild Weeaboos, general, enragednuke#2565, ;debug [x.channels for x in bot.servers]
+18 Sep 2016 18:52:40 : The Wild Weeaboos, general, enragednuke#2565, ;debug [x.channels[0] for x in bot.servers]
+18 Sep 2016 18:52:41 : The Wild Weeaboos, general, Botfuzzy77#2209, ```py
+TypeError: 'dict_values' object does not support indexing
+```
+18 Sep 2016 18:53:09 : The Wild Weeaboos, general, enragednuke#2565, ;debug [x.channels.keys()[0] for x in bot.servers]
+18 Sep 2016 18:53:09 : The Wild Weeaboos, general, Botfuzzy77#2209, ```py
+AttributeError: 'dict_values' object has no attribute 'keys'
+```
+18 Sep 2016 18:53:11 : The Wild Weeaboos, general, enragednuke#2565, kek
+18 Sep 2016 18:53:23 : The Wild Weeaboos, general, Wertfuzzy77#0274, ;debug [list(x.channels)[0] for x in bot.servers]
+18 Sep 2016 18:53:24 : The Wild Weeaboos, general, Botfuzzy77#2209, ```py
+[<discord.channel.Channel object at 0x00000241F9449D48>, <discord.channel.Channel object at 0x00000241F944C4C8>, <discord.channel.Channel object at 0x00000241F93A8CC8>, <discord.channel.Channel object at 0x00000241F942F348>, <discord.channel.Channel object at 0x00000241F94461C8>, <discord.channel.Channel object at 0x00000241F94353C8>, <discord.channel.Channel object at 0x00000241F94491C8>, <discord.channel.Channel object at 0x00000241F94395C8>, <discord.channel.Channel object at 0x00000241F9439CC8>, <discord.channel.Channel object at 0x00000241F9446AC8>]
+```
+18 Sep 2016 18:53:28 : The Wild Weeaboos, general, enragednuke#2565, ;debug [list(x.channels)[0] for x in bot.servers]
+18 Sep 2016 18:53:28 : The Wild Weeaboos, general, Botfuzzy77#2209, ```py
+[<discord.channel.Channel object at 0x00000241F9449D48>, <discord.channel.Channel object at 0x00000241F944C4C8>, <discord.channel.Channel object at 0x00000241F93A8CC8>, <discord.channel.Channel object at 0x00000241F942F348>, <discord.channel.Channel object at 0x00000241F94461C8>, <discord.channel.Channel object at 0x00000241F94353C8>, <discord.channel.Channel object at 0x00000241F94491C8>, <discord.channel.Channel object at 0x00000241F94395C8>, <discord.channel.Channel object at 0x00000241F9439CC8>, <discord.channel.Channel object at 0x00000241F9446AC8>]
+```
+18 Sep 2016 18:53:47 : The Wild Weeaboos, general, enragednuke#2565, ;debug [bot.send_message(list(x.channels)[0], "hi") for x in bot.servers]
+18 Sep 2016 18:53:48 : The Wild Weeaboos, general, Botfuzzy77#2209, ```py
+[<generator object Client.send_message at 0x00000241FAFC4F68>, <generator object Client.send_message at 0x00000241FAFC4E60>, <generator object Client.send_message at 0x00000241FAFC4CA8>, <generator object Client.send_message at 0x00000241FAFC4D58>, <generator object Client.send_message at 0x00000241FAFC4FC0>, <generator object Client.send_message at 0x00000241FAFC4EB8>, <generator object Client.send_message at 0x00000241FAFC4D00>, <generator object Client.send_message at 0x00000241FAFC4DB0>, <generator object Client.send_message at 0x00000241FAFC47D8>, <generator object Client.send_message at 0x00000241FAFC4468>]
+```
+18 Sep 2016 18:53:49 : Penguins, general, Botfuzzy77#2209, **Resolate**(Suicune) is now Offline!
+18 Sep 2016 18:53:52 : The Wild Weeaboos, general, enragednuke#2565, lol
+18 Sep 2016 18:53:58 : The Wild Weeaboos, general, enragednuke#2565, ;debug [await bot.send_message(list(x.channels)[0], "hi") for x in bot.servers]
+18 Sep 2016 18:53:58 : The Wild Weeaboos, general, Botfuzzy77#2209, ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+18 Sep 2016 18:53:59 : Penguins, general, Botfuzzy77#2209, **Hiraeth**(Ass) is now Offline!
+18 Sep 2016 18:54:00 : Cipher, general, Botfuzzy77#2209, **Hiraeth**(Grunt) is now Offline!
+18 Sep 2016 18:54:21 : The Wild Weeaboos, general, enragednuke#2565, ;debug bot.send_message(ctx.message.channel, ";debug 1")
+18 Sep 2016 18:54:22 : The Wild Weeaboos, general, Botfuzzy77#2209, ;debug 1
+18 Sep 2016 18:54:22 : The Wild Weeaboos, general, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x00000241FB120C88>
+```
+18 Sep 2016 18:56:42 : Penguins, general, Botfuzzy77#2209, **Olivia**(Xerneas) is now Online!
+18 Sep 2016 18:57:43 : GetPlebd, weeaboo-chat, druif#0498, https://www.youtube.com/watch?v=CQ21YpfX7UU
+18 Sep 2016 18:57:49 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Online!
+18 Sep 2016 18:57:50 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+18 Sep 2016 18:58:26 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, https://www.youtube.com/watch?v=iAmI1ExVqt4
+18 Sep 2016 18:58:42 : Penguins, general, Botfuzzy77#2209, **Olivia**(Xerneas) is now Offline!
+18 Sep 2016 18:59:21 : Cipher, general, Botfuzzy77#2209, **Es Fusel**(Grunt) is now Online!
+18 Sep 2016 18:59:50 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Offline!
+18 Sep 2016 18:59:50 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+18 Sep 2016 19:00:39 : My Personal Server, general, Botfuzzy77#2209, **Twist3dMindz**(Member) is now Online!
+18 Sep 2016 19:01:36 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **I-Like-Pizzja**(Nazi) is now Offline!
+18 Sep 2016 19:02:53 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Online!
+18 Sep 2016 19:02:53 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+18 Sep 2016 19:04:48 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Daniel**(Children of The Raw Man) is now Online!
+18 Sep 2016 19:04:52 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Offline!
+18 Sep 2016 19:04:52 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+18 Sep 2016 19:05:14 : Penguins, general, Botfuzzy77#2209, **Survivra**(Deoxys) is now Online!
+18 Sep 2016 19:05:33 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Priests of The Raw Man) is now Online!
+18 Sep 2016 19:07:07 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Default**(SchutzStaffel) is now Online!
+18 Sep 2016 19:07:50 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Default**(SchutzStaffel) is now Online!
+18 Sep 2016 19:08:33 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+18 Sep 2016 19:08:33 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+18 Sep 2016 19:09:16 : Team Harmony, botchat, D3NSH1N#8702, ;server 74.124.12.245
+18 Sep 2016 19:09:17 : Team Harmony, botchat, Botfuzzy77#2209, **Server IP**: 74.124.12.245
+18 Sep 2016 19:09:17 : Team Harmony, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 0 players out of 80
+ *Ping*: 140.347 ms
+ *MC Version*: 1.10.2
+18 Sep 2016 19:09:17 : Team Harmony, botchat, Botfuzzy77#2209, *Server is Down :(*
+18 Sep 2016 19:09:19 : Penguins, general, Botfuzzy77#2209, **Survivra**(Deoxys) is now Offline!
+18 Sep 2016 19:10:57 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+18 Sep 2016 19:10:57 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Offline!
+18 Sep 2016 19:11:19 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **The Fat Walrus**(Priests of The Raw Man) is now Online!
+18 Sep 2016 19:12:42 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **druif**(Nazi) is now Offline!
+18 Sep 2016 19:13:02 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **warnier**(No Role) is now Offline!
+18 Sep 2016 19:13:57 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+18 Sep 2016 19:13:57 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+18 Sep 2016 19:15:57 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+18 Sep 2016 19:15:57 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Offline!
+18 Sep 2016 19:18:42 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Priests of The Raw Man) is now Online!
+18 Sep 2016 19:19:31 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Stormzzzy**(Popes of The Raw Man) is now Online!
+18 Sep 2016 19:25:41 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Default**(SchutzStaffel) is now Offline!
+18 Sep 2016 19:29:05 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Offline!
+18 Sep 2016 19:29:29 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Online!
+18 Sep 2016 19:29:47 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Sushigawa**(No Role) is now Offline!
+18 Sep 2016 19:31:23 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Offline!
+18 Sep 2016 19:31:43 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Online!
+18 Sep 2016 19:32:50 : Penguins, general, Botfuzzy77#2209, **Olivia**(Xerneas) is now Online!
+18 Sep 2016 19:33:42 : LimitlessMc, mainchat, Omed#8171, @Jay113355  can ihave a restart when u come online ?
+18 Sep 2016 19:34:51 : Penguins, general, Botfuzzy77#2209, **Olivia**(Xerneas) is now Offline!
+18 Sep 2016 19:37:37 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Daniel**(Children of The Raw Man) is now Online!
+18 Sep 2016 19:38:04 : Penguins, general, Botfuzzy77#2209, **Olivia**(Xerneas) is now Online!
+18 Sep 2016 19:45:34 : Cipher, general, Botfuzzy77#2209, **Akinci**(Grunt) is now Online!
+18 Sep 2016 19:46:33 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Priests of The Raw Man) is now Online!
+18 Sep 2016 19:49:38 : Cipher, general, Botfuzzy77#2209, **Akinci**(Grunt) is now Offline!
+18 Sep 2016 19:50:11 : Penguins, general, Botfuzzy77#2209, **Olivia**(Xerneas) is now Offline!
+18 Sep 2016 20:02:38 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **The Fat Walrus**(Priests of The Raw Man) is now Online!
+18 Sep 2016 20:02:43 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Schauda**(Priests of The Raw Man) is now Offline!
+18 Sep 2016 20:06:19 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Daniel**(Children of The Raw Man) is now Offline!
+18 Sep 2016 20:07:03 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Gilles**(Nazi) is now Offline!
+18 Sep 2016 20:07:10 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+18 Sep 2016 20:07:11 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+18 Sep 2016 20:07:32 : Team Harmony, botchat, D3NSH1N#8702, ;server 74.124.12.245
+18 Sep 2016 20:07:32 : Team Harmony, botchat, Botfuzzy77#2209, **Server IP**: 74.124.12.245
+18 Sep 2016 20:07:32 : Team Harmony, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 0 players out of 80
+ *Ping*: 133.86 ms
+ *MC Version*: 1.10.2
+18 Sep 2016 20:07:33 : Team Harmony, botchat, Botfuzzy77#2209, *Server is Down :(*
+18 Sep 2016 20:07:57 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Daniel**(Children of The Raw Man) is now Online!

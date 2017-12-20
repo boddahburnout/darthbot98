@@ -1,0 +1,43 @@
+10 Jul 2016 15:39:21 : Cipher , Wertfuzzy77#0274 , YOU NUB
+10 Jul 2016 15:39:25 : Cipher , Wertfuzzy77#0274 , ;join
+10 Jul 2016 15:39:31 : Cipher , Wertfuzzy77#0274 , ;youtube https://www.youtube.com/watch?v=pB-5XG-DbAA
+10 Jul 2016 15:39:36 : Cipher , Wertfuzzy77#0274 , we did it
+10 Jul 2016 15:39:48 : Cipher , Wertfuzzy77#0274 , now... lets see what happens when i try to add another song
+10 Jul 2016 15:39:58 : Cipher , Wertfuzzy77#0274 , ;youtube https://www.youtube.com/watch?v=nCkpzqqog4k
+10 Jul 2016 15:40:07 : Cipher , Wertfuzzy77#0274 , it didnt crash
+10 Jul 2016 15:40:09 : Cipher , Wertfuzzy77#0274 , thats a start
+10 Jul 2016 15:40:30 : Cipher , Wertfuzzy77#0274 , ;debug queue
+10 Jul 2016 15:40:30 : Cipher , Botfuzzy77#2209 , ```py
+NameError: name 'queue' is not defined
+```
+10 Jul 2016 15:40:40 : Cipher , Wertfuzzy77#0274 , ;debug Music.queue
+10 Jul 2016 15:40:40 : Cipher , Botfuzzy77#2209 , ```py
+NameError: name 'Music' is not defined
+```
+10 Jul 2016 15:40:44 : Cipher , Wertfuzzy77#0274 , D:
+10 Jul 2016 15:40:55 : Cipher , Wertfuzzy77#0274 , we just gonna have to wait and find out xD
+10 Jul 2016 15:40:59 : Cipher , Wertfuzzy77#0274 , and see if it plays
+10 Jul 2016 15:43:01 : Cipher , Wertfuzzy77#0274 , ;song
+10 Jul 2016 15:43:01 : Cipher , Botfuzzy77#2209 , ```Name: Sam Smith - Stay With Me
+URL: <https://www.youtube.com/watch?v=pB-5XG-DbAA>
+Views: 634,237,357
+Likes: 2,247,189, 96.51%
+Dislikes: 81,198, 3.49%
+```
+10 Jul 2016 15:43:09 : Cipher , Wertfuzzy77#0274 , ;song
+10 Jul 2016 15:43:09 : Cipher , Botfuzzy77#2209 , ```Name: Sam Smith - Stay With Me
+URL: <https://www.youtube.com/watch?v=pB-5XG-DbAA>
+Views: 634,237,357
+Likes: 2,247,189, 96.51%
+Dislikes: 81,198, 3.49%
+```
+10 Jul 2016 15:43:11 : Cipher , Wertfuzzy77#0274 , eh
+10 Jul 2016 15:43:14 : Cipher , Wertfuzzy77#0274 , dont think it worked
+10 Jul 2016 15:43:18 : Cipher , RoyGasm ;)#7098 , ;queue
+10 Jul 2016 15:43:21 : Cipher , RoyGasm ;)#7098 , Fuck you
+10 Jul 2016 15:43:22 : Cipher , Wertfuzzy77#0274 , no ;queue
+10 Jul 2016 15:43:25 : Cipher , Wertfuzzy77#0274 , wait
+10 Jul 2016 15:43:29 : Cipher , Wertfuzzy77#0274 , that would be really nice to have xD
+10 Jul 2016 15:43:31 : Cipher , Wertfuzzy77#0274 , one sec
+10 Jul 2016 15:44:36 : Cipher , Wertfuzzy77#0274 , ;relog
+10 Jul 2016 15:44:36 : Cipher , Botfuzzy77#2209 , Relogging...

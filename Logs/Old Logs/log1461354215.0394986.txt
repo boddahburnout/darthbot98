@@ -1,0 +1,76 @@
+Botfuzzy77#2926, Starting up...
+Botfuzzy77#2926, Loaded with Version 0.5.1
+Wertfuzzy77#0274, !data
+Wertfuzzy77#0274, !data
+Botfuzzy77#2926, Name: Wertfuzzy77
+FuzzyIndex: 100.2, Rank: 11
+Tournaments Participated in 2
+TournamentURL: LimitlessMC-Level100Battle
+Rank: 7 Out of 8 Participants
+
+TournamentURL: LimitlessMC-1juwze7i
+Rank: 3 Out of 10 Participants
+
+
+Players Won Against
+mycaelspear: 1
+TheLast1Alive: 1
+Latichris: 1
+
+
+Players Lost Against
+TheLast1Alive: 1
+PoroTheSquirrel: 1
+Latichris: 1
+ruleroftri: 1
+
+Wertfuzzy77#0274, !data Gilman2
+Botfuzzy77#2926, Sorry, I couldnt find that Player
+Wertfuzzy77#0274, !data That_Guy_Gilman
+Botfuzzy77#2926, Sorry, I couldnt find that Player
+Wertfuzzy77#0274, !data That_Guy_Gilly
+Botfuzzy77#2926, Name: That_Guy_Gilly
+FuzzyIndex: 100, Rank: None
+Tournaments Participated in 0
+
+Players Won Against
+
+
+Players Lost Against
+
+Wertfuzzy77#0274, !ranking 1 30
+Botfuzzy77#2926, Name: Bakafish, Rank: 1, Index: 173.9
+Name: EHHockey35, Rank: 2, Index: 128.8
+Name: Zeathrus, Rank: 3, Index: 128.6
+Name: TheSolvdow, Rank: 4, Index: 117.3
+Name: BigJoseB, Rank: 5, Index: 115.5
+Name: ruleroftri, Rank: 6, Index: 112.4
+Name: kingbrenner, Rank: 7, Index: 111.2
+Name: sc0tty14, Rank: 8, Index: 108.1
+Name: Lizard_PlayzMC, Rank: 9, Index: 105.4
+Name: PoroTheSquirrel, Rank: 10, Index: 100.8
+Name: Wertfuzzy77, Rank: 11, Index: 100.2
+Name: TheLast1Alive, Rank: 12, Index: 99.2
+Name: WolfBreath, Rank: 13, Index: 98.7
+Name: Latichris, Rank: 14, Index: 98.6
+Name: redhunter732, Rank: 15, Index: 93.0
+Name: HeroNeos, Rank: 16, Index: 90.5
+Name: Ziandermoon, Rank: 17, Index: 89.8
+Name: Jackwolf2003, Rank: 18, Index: 83.5
+Name: D_Bones98, Rank: 19, Index: 83.3
+Name: Rex9999, Rank: 20, Index: 82.6
+Name: XzsAce, Rank: 21, Index: 82.6
+Name: bloops121, Rank: 22, Index: 82.0
+Name: Bringer0fDeath, Rank: 23, Index: 81.9
+Name: mycaelspear, Rank: 24, Index: 80.4
+
+Wertfuzzy77#0274, !ranking _ 20
+Wertfuzzy77#0274, !help ranking
+Botfuzzy77#2926, ```
+!ranking [number=1] [number2=5]
+
+Returns the Current Server Rankings
+
+```
+Wertfuzzy77#0274, !relog
+Botfuzzy77#2926, Relogging...

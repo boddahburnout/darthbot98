@@ -1,0 +1,111 @@
+15 Feb 2017 02:26:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+15 Feb 2017 02:26:50 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+15 Feb 2017 02:26:54 : LimitlessMc, botchat, JustinOPGamer#9138, Mike Posner - I Took A Pill In Ibiza (SeeB Remix)Mike Posner - I Took A Pill In Ibiza (SeeB Remix)
+15 Feb 2017 02:26:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio Rock-n-Roll
+15 Feb 2017 02:26:59 : LimitlessMc, botchat, Botfuzzy77#2209, Now listening to Rock-n-Roll radio channel
+15 Feb 2017 02:26:59 : LimitlessMc, mainchat, Lightning#6734, i'm having to do sprites, code, and animation
+15 Feb 2017 02:27:05 : LimitlessMc, mainchat, Lightning#6734, all by maself
+15 Feb 2017 02:27:06 : LimitlessMc, botchat, JustinOPGamer#9138, ;search Mike Posner - I Took A Pill In Ibiza (SeeB Remix)
+15 Feb 2017 02:27:06 : LimitlessMc, botchat, Botfuzzy77#2209, Turn off Radio mode first!
+15 Feb 2017 02:27:10 : LimitlessMc, botchat, JustinOPGamer#9138, booooooo
+15 Feb 2017 02:27:13 : LimitlessMc, botchat, Tgamer101#2795, lol
+15 Feb 2017 02:27:15 : LimitlessMc, botchat, JustinOPGamer#9138, xD
+15 Feb 2017 02:27:18 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+15 Feb 2017 02:27:18 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+15 Feb 2017 02:27:19 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Alive **Radio: Rock-n-Roll**
+	<https://www.youtube.com/watch?v=3MutXUvS37k>
+2. The Who - Won't Get Fooled Again **Radio: Rock-n-Roll**
+	<https://www.youtube.com/watch?v=SHhrZgojY1Q>
+3. Who do You Love - George Thorogood **Radio: Rock-n-Roll**
+	<https://www.youtube.com/watch?v=G9tenSy-vzo>
+4. Vanattica - Confidential Liar **Radio: Rock-n-Roll**
+	<https://www.youtube.com/watch?v=wgEmsIJgYdc>
+5. Boston-Smokin **Radio: Rock-n-Roll**
+	<https://www.youtube.com/watch?v=5GzMx9CnhVk>
+Total Time is 0:26:41
+15 Feb 2017 02:27:21 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+15 Feb 2017 02:27:21 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Boys Are Back In Town Thin Lizzy
+**Requester**: Radio: Rock-n-Roll
+**URL**: <https://www.youtube.com/watch?v=hQo1HIcSVtg>
+```py
+Time: 0:04:24
+Views: 6,632,285
+Likes: 31,247, 97.87%
+Dislikes: 680, 2.13%
+Skips: 0/2```
+15 Feb 2017 02:27:24 : LimitlessMc, botchat, Tgamer101#2795, ;search megalovania
+15 Feb 2017 02:27:24 : LimitlessMc, botchat, Botfuzzy77#2209, Turn off Radio mode first!
+15 Feb 2017 02:27:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio off
+15 Feb 2017 02:27:30 : LimitlessMc, botchat, Botfuzzy77#2209, Radio mode OFF
+15 Feb 2017 02:27:33 : LimitlessMc, botchat, JustinOPGamer#9138, ;search Mike Posner - I Took A Pill In Ibiza (SeeB Remix)
+15 Feb 2017 02:27:34 : LimitlessMc, botchat, Botfuzzy77#2209, Added Mike Posner - I Took A Pill In Ibiza (SeeB Remix) to the queue
+15 Feb 2017 02:27:35 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=u3VFzuUiTGw
+15 Feb 2017 02:27:42 : LimitlessMc, botchat, Tgamer101#2795, ;search megalovania
+15 Feb 2017 02:27:43 : LimitlessMc, botchat, Botfuzzy77#2209, Added Undertale OST - Megalovania Extended to the queue
+15 Feb 2017 02:27:44 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=B2jVbSI9H4o
+15 Feb 2017 02:27:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+15 Feb 2017 02:27:46 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+15 Feb 2017 02:27:46 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Alive **Radio: Rock-n-Roll**
+	<https://www.youtube.com/watch?v=3MutXUvS37k>
+2. The Who - Won't Get Fooled Again **Radio: Rock-n-Roll**
+	<https://www.youtube.com/watch?v=SHhrZgojY1Q>
+3. Who do You Love - George Thorogood **Radio: Rock-n-Roll**
+	<https://www.youtube.com/watch?v=G9tenSy-vzo>
+4. Vanattica - Confidential Liar **Radio: Rock-n-Roll**
+	<https://www.youtube.com/watch?v=wgEmsIJgYdc>
+5. Boston-Smokin **Radio: Rock-n-Roll**
+	<https://www.youtube.com/watch?v=5GzMx9CnhVk>
+6. Mike Posner - I Took A Pill In Ibiza (SeeB Remix) **JustinOPGamer**
+	<https://www.youtube.com/watch?v=u3VFzuUiTGw>
+7. Undertale OST - Megalovania Extended **Tgamer101**
+	<https://www.youtube.com/watch?v=B2jVbSI9H4o>
+Total Time is 0:47:01
+15 Feb 2017 02:27:46 : LimitlessMc, botchat, Tgamer101#2795, der
+15 Feb 2017 02:27:49 : LimitlessMc, botchat, JustinOPGamer#9138, it isnt working for me tho XD
+15 Feb 2017 02:27:54 : LimitlessMc, botchat, TherminatorX#6644, Wait, so Botfuzzy is a she?
+15 Feb 2017 02:28:02 : LimitlessMc, botchat, Tgamer101#2795, ''it''
+15 Feb 2017 02:28:06 : LimitlessMc, botchat, JustinOPGamer#9138, wert i dont hear botfuxx halp
+15 Feb 2017 02:28:07 : LimitlessMc, botchat, Wertfuzzy77#0274, she
+15 Feb 2017 02:28:12 : LimitlessMc, botchat, TherminatorX#6644, How was this decided?
+15 Feb 2017 02:28:17 : LimitlessMc, botchat, Tgamer101#2795, wert how old u
+15 Feb 2017 02:28:19 : LimitlessMc, botchat, Wertfuzzy77#0274, 20
+15 Feb 2017 02:28:24 : LimitlessMc, botchat, Tgamer101#2795, ooo
+15 Feb 2017 02:28:26 : LimitlessMc, botchat, Tgamer101#2795, lol
+15 Feb 2017 02:28:29 : LimitlessMc, botchat, JustinOPGamer#9138, wert how come i dont hear her XD
+15 Feb 2017 02:28:48 : LimitlessMc, botchat, Tgamer101#2795, who?
+15 Feb 2017 02:28:51 : LimitlessMc, botchat, Wertfuzzy77#0274, no idea, but its showing that you are talking
+15 Feb 2017 02:28:55 : LimitlessMc, botchat, TherminatorX#6644, What makes BFuzz a girl bot?
+15 Feb 2017 02:28:57 : LimitlessMc, botchat, Wertfuzzy77#0274, not now
+15 Feb 2017 02:28:59 : LimitlessMc, botchat, Wertfuzzy77#0274, is a girl
+15 Feb 2017 02:29:00 : LimitlessMc, botchat, Wertfuzzy77#0274, si
+15 Feb 2017 02:29:03 : LimitlessMc, botchat, Wertfuzzy77#0274, look at her icon
+15 Feb 2017 02:29:04 : LimitlessMc, botchat, JustinOPGamer#9138, ok its working now
+15 Feb 2017 02:29:07 : LimitlessMc, botchat, TherminatorX#6644, So?
+15 Feb 2017 02:29:09 : LimitlessMc, botchat, Tgamer101#2795, SHE said it be girl
+15 Feb 2017 02:29:09 : LimitlessMc, botchat, JustinOPGamer#9138, ;search Mike Posner - I Took A Pill In Ibiza (SeeB Remix)
+15 Feb 2017 02:29:10 : LimitlessMc, botchat, Botfuzzy77#2209, Added Mike Posner - I Took A Pill In Ibiza (SeeB Remix) to the queue
+15 Feb 2017 02:29:10 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=u3VFzuUiTGw
+15 Feb 2017 02:29:12 : LimitlessMc, botchat, Tgamer101#2795, it be girl
+15 Feb 2017 02:29:19 : LimitlessMc, botchat, Tgamer101#2795, ;songs
+15 Feb 2017 02:29:19 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+15 Feb 2017 02:29:19 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Alive **Radio: Rock-n-Roll**
+	<https://www.youtube.com/watch?v=3MutXUvS37k>
+2. The Who - Won't Get Fooled Again **Radio: Rock-n-Roll**
+	<https://www.youtube.com/watch?v=SHhrZgojY1Q>
+3. Who do You Love - George Thorogood **Radio: Rock-n-Roll**
+	<https://www.youtube.com/watch?v=G9tenSy-vzo>
+4. Vanattica - Confidential Liar **Radio: Rock-n-Roll**
+	<https://www.youtube.com/watch?v=wgEmsIJgYdc>
+5. Boston-Smokin **Radio: Rock-n-Roll**
+	<https://www.youtube.com/watch?v=5GzMx9CnhVk>
+6. Mike Posner - I Took A Pill In Ibiza (SeeB Remix) **JustinOPGamer**
+	<https://www.youtube.com/watch?v=u3VFzuUiTGw>
+7. Undertale OST - Megalovania Extended **Tgamer101**
+	<https://www.youtube.com/watch?v=B2jVbSI9H4o>
+8. Mike Posner - I Took A Pill In Ibiza (SeeB Remix) **JustinOPGamer**
+	<https://www.youtube.com/watch?v=u3VFzuUiTGw>
+Total Time is 0:50:21
+15 Feb 2017 02:29:21 : LimitlessMc, botchat, Wertfuzzy77#0274, She has decided to be a girl
+15 Feb 2017 02:29:22 : LimitlessMc, botchat, TherminatorX#6644, Look at yours, Wert
+15 Feb 2017 02:29:22 : LimitlessMc, botchat, JustinOPGamer#9138, skip to this song thank
+15 Feb 2017 02:29:24 : LimitlessMc, botchat, Tgamer101#2795, there is a que

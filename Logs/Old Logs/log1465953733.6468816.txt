@@ -1,0 +1,83 @@
+15 Jun 2016 01:22:17 : Wertfuzzy77#0274 , there now silent mode
+15 Jun 2016 01:22:26 : Wertfuzzy77#0274 , !fakecmd
+15 Jun 2016 01:22:34 : Wertfuzzy77#0274 , <@151438890107011072>  try a cmd here
+15 Jun 2016 01:26:31 : Mank#0033 , !bet
+15 Jun 2016 01:26:38 : Wertfuzzy77#0274 , a real one plz
+15 Jun 2016 01:26:42 : Mank#0033 , !hep
+15 Jun 2016 01:26:49 : Wertfuzzy77#0274 , k good
+15 Jun 2016 01:26:52 : Wertfuzzy77#0274 , it worked
+15 Jun 2016 01:26:58 : Wertfuzzy77#0274 , !help
+15 Jun 2016 01:26:59 : Gerald#7099 , 
+Hello, I am Gerald, the channel Bot. I can do many things, I can even be extended by plugins (weehee).
+
+Current commands: (note that arguments in <> are required, those in [] not)
+  - !clean  : lets me purge messages, options below
+    - !clean lets me purge the last 50 messages
+    - !clean <number> does the same for n messages (no maximum :P)
+    - !clean infinite removes messages until !kill, even the end of the channel doesn't seem like the limit
+    - !clean images deletes any message containing either a link to a jpg, !meme or an attachment
+    - !clean <string> removes every message containing the string
+    - !clean @someone cleans @someones messages in the last 100
+  - <@158641216311787520> (<@!158641216311787520>)  : Talk with me :)
+  - !help (!info) : Prints the help
+  - !kill : Kills me and lets me (hopefully) respawn instantly
+  - !ping (!pong) : Ping Pong
+  - !invite : Add me to your server
+  - !dropbox <secret> : Register Dropbox. Go to http://ultramc.org:8087/dropbox/authorize
+  - !id <beginning of name> : Outputs their internal id
+  - !serverid : Prints this server's id
+  - !channelid : Let me output the id of thid channel
+  - !roleids : Lists all roles with their ids
+  - !mention <role name> : Mentions everyone in that role
+  - !permissions <username> : Lists all permissions the spefific user has in this channel
+  - !meme <text you wanna write> : Generate a funny image
+  - !play <name> : Plays a specific song from soundcloud
+  - !youtube <name> : Plays a specific song from youtube. Can also be a url
+  - !twitch <name> : Streams from twitch.tv
+  - !pause : Pauses playback
+  - !stop : Stops playback and empties the queue
+  - !queue : Prints the current queue
+  - !shufflequeue : Shuffles the queue
+  - !flushqueue : Empties the queue
+  - !skip : Skips the current song
+  - !replay : Adds the current playing song to the queue
+  - !webplayer : Outputs your personal webplayer url
+15 Jun 2016 01:27:00 : Gerald#7099 , 
+  - !resetsecret : Resets your webplayer secret in case you lost it
+  - !stats  : Outputs which users wrote the most in this channel
+  - !words  : Outputs which users wrote the most words in this channel
+  - !topwords  : Sends the most common words in this channel
+  - !suspicious  : NSA-like who should be tracked a bit more :)
+  - !weblog  : The channel's weblog for easy search in the browser
+  - !punchcard  : The channel's punchcard - when are people active in here
+  - !rate [@mention] : outputs my rating for a user
+  - !luck [@mention] : outputs the luck of a user today
+  - !nowelcome  : Disables the welcome message for this server
+  - !dowelcome  : Enables the welcome message again
+15 Jun 2016 01:27:21 : Wertfuzzy77#0274 , it only replies if asked to, and only to authorized people
+15 Jun 2016 01:27:53 : Mank#0033 , !mute Wertfuzzy77
+15 Jun 2016 01:28:09 : Wertfuzzy77#0274 , by default, it will only listen to me in this chat
+15 Jun 2016 01:28:12 : Wertfuzzy77#0274 , no one else has perms
+15 Jun 2016 01:28:14 : Mank#0033 , ;C
+15 Jun 2016 01:28:24 : Wertfuzzy77#0274 , Jay didnt want the bot used in this channel
+15 Jun 2016 01:28:29 : Wertfuzzy77#0274 , so he made botchat
+15 Jun 2016 01:29:01 : Wertfuzzy77#0274 , Ill renable it if he says i can
+15 Jun 2016 01:29:14 : Wertfuzzy77#0274 , but seeing Gerald spam here, i might not even lol
+15 Jun 2016 01:29:41 : Mank#0033 , !meme bet
+15 Jun 2016 01:29:43 : Gerald#7099 , http://i.imgflip.com/15ut20.jpg
+15 Jun 2016 01:30:02 : Wertfuzzy77#0274 , !debug
+15 Jun 2016 01:30:06 : Wertfuzzy77#0274 , !debug ctx
+15 Jun 2016 01:30:06 : Botfuzzy77#2926 , ```py
+<discord.ext.commands.context.Context object at 0x000001D695CF6A20>
+```
+15 Jun 2016 01:30:11 : Wertfuzzy77#0274 , !debug ctx.server
+15 Jun 2016 01:30:11 : Botfuzzy77#2926 , ```py
+AttributeError: 'Context' object has no attribute 'server'
+```
+15 Jun 2016 01:30:18 : Wertfuzzy77#0274 , !debug ctx.message.server
+15 Jun 2016 01:30:18 : Botfuzzy77#2926 , ```py
+LimitlessMc
+```
+15 Jun 2016 01:30:21 : Wertfuzzy77#0274 , cool
+15 Jun 2016 01:31:00 : Wertfuzzy77#0274 , !relog
+15 Jun 2016 01:31:01 : Botfuzzy77#2926 , Relogging...

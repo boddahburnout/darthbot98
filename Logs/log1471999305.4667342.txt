@@ -1,0 +1,37 @@
+24 Aug 2016 00:41:56 : PassionMC, general, Mystz#8072, wert u no javascript?
+24 Aug 2016 00:41:59 : PassionMC, general, D3NSH1N#8702, I know some Java and Im supposed to study it a lot more in September
+24 Aug 2016 00:42:04 : PassionMC, general, Mystz#8072, there is a sponge plugin that lets u make plugins in javascript
+24 Aug 2016 00:42:08 : PassionMC, general, Mystz#8072, lel
+24 Aug 2016 00:42:10 : PassionMC, general, D3NSH1N#8702, Maybe we can code our own authme?
+24 Aug 2016 00:42:18 : PassionMC, botchat, Wertfuzzy77#0274, ;debug
+24 Aug 2016 00:42:21 : PassionMC, botchat, Wertfuzzy77#0274, ;config
+24 Aug 2016 00:42:21 : PassionMC, botchat, Botfuzzy77#2209, Invalid config command passed...
+24 Aug 2016 00:42:32 : PassionMC, general, Mystz#8072, search sponge powered docs and look at it
+24 Aug 2016 00:42:36 : PassionMC, general, Mystz#8072, idk how to code be my guest.
+24 Aug 2016 00:42:46 : PassionMC, botchat, Wertfuzzy77#0274, ;help
+24 Aug 2016 00:42:46 : PassionMC, botchat, Botfuzzy77#2209, ```
+  joined         Says when a member joined.
+  fml            Returns a Random Post from fmylife.com
+  feedback       Returns a link to a Google Forums, where you can leave feedb...
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+24 Aug 2016 00:42:52 : PassionMC, botchat, Wertfuzzy77#0274, ;help config
+24 Aug 2016 00:42:52 : PassionMC, botchat, Botfuzzy77#2209, ```
+;config
+
+Allows you to change settings for the server
+
+Commands:
+  Set 
+  All 
+  Get 
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+24 Aug 2016 00:42:56 : PassionMC, botchat, Wertfuzzy77#0274, cool
+24 Aug 2016 00:43:14 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Online!
+24 Aug 2016 00:44:32 : PassionMC, botchat, Wertfuzzy77#0274, ;relog
+24 Aug 2016 00:44:33 : PassionMC, botchat, Botfuzzy77#2209, Relogging...

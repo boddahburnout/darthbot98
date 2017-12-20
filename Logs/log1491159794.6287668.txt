@@ -1,0 +1,36 @@
+02 Apr 2017 19:03:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ;settype ice
+02 Apr 2017 19:03:29 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Ice type
+02 Apr 2017 19:03:31 : LimitlessMc, mainchat, Talha_choudhry#5495, Yeah
+02 Apr 2017 19:03:32 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 19:03:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 19:03:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ;settype fire
+02 Apr 2017 19:03:46 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Fire type
+02 Apr 2017 19:03:48 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 19:03:51 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 19:04:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ;settype dragon
+02 Apr 2017 19:04:22 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Dragon type
+02 Apr 2017 19:04:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 19:04:27 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 19:04:57 : LimitlessMc, botchat, Wertfuzzy77#0274, ;setbackground https://s-media-cache-ak0.pinimg.com/originals/7c/43/6d/7c436db6400b75577f7c9ab7a6968eee.jpg
+02 Apr 2017 19:05:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;setBackground https://s-media-cache-ak0.pinimg.com/originals/7c/43/6d/7c436db6400b75577f7c9ab7a6968eee.jpg
+02 Apr 2017 19:05:06 : LimitlessMc, botchat, Wertfuzzy77#0274, ;changeBackground https://s-media-cache-ak0.pinimg.com/originals/7c/43/6d/7c436db6400b75577f7c9ab7a6968eee.jpg
+02 Apr 2017 19:05:07 : LimitlessMc, botchat, Botfuzzy77#2209, Changed Background sucessfully
+02 Apr 2017 19:05:09 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 19:05:11 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 19:05:17 : LimitlessMc, botchat, Talha_choudhry#5495, .songs
+02 Apr 2017 19:05:17 : LimitlessMc, botchat, LightBot#4090, Queue is Empty
+02 Apr 2017 19:05:25 : LimitlessMc, botchat, Talha_choudhry#5495, .radio
+02 Apr 2017 19:05:31 : LimitlessMc, botchat, Talha_choudhry#5495, .Radio
+02 Apr 2017 19:05:31 : LimitlessMc, botchat, LightBot#4090, Radio Mode: True
+02 Apr 2017 19:05:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ;settype Poison
+02 Apr 2017 19:05:43 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Poison type
+02 Apr 2017 19:05:44 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 19:05:46 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 19:05:54 : LimitlessMc, botchat, Wertfuzzy77#0274, ;settype water
+02 Apr 2017 19:05:54 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Water type
+02 Apr 2017 19:05:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 19:05:57 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 19:06:14 : LimitlessMc, botchat, Talha_choudhry#5495, ;settype fire
+02 Apr 2017 19:06:14 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Fire type
+02 Apr 2017 19:06:19 : LimitlessMc, botchat, Talha_choudhry#5495, ;level
+02 Apr 2017 19:06:22 : LimitlessMc, botchat, Botfuzzy77#2209, 

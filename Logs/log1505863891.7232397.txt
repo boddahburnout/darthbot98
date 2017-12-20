@@ -1,0 +1,384 @@
+19 Sep 2017 23:32:11 : Legacy Craft, admin, Bellosong#1258, Yea but you're amazing with circles
+19 Sep 2017 23:32:27 : Botfuzzy77 Living Quarters, general, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @Botfuzzy77 hey friend
+19 Sep 2017 23:33:52 : Botfuzzy77 Living Quarters, general, Wertfuzzy77#0274, ;status
+19 Sep 2017 23:33:57 : Botfuzzy77 Living Quarters, general, Wertfuzzy77#0274, ;ctoggle all
+19 Sep 2017 23:33:57 : Botfuzzy77 Living Quarters, general, Botfuzzy77#2209, `all` is now Enabled CHANNEL-WIDE
+19 Sep 2017 23:34:00 : Botfuzzy77 Living Quarters, general, Wertfuzzy77#0274, ;status
+19 Sep 2017 23:34:02 : Botfuzzy77 Living Quarters, general, Botfuzzy77#2209, 
+19 Sep 2017 23:34:09 : Botfuzzy77 Living Quarters, general, Wertfuzzy77#0274, ;ctoggle clever
+19 Sep 2017 23:34:09 : Botfuzzy77 Living Quarters, general, Botfuzzy77#2209, `clever` is now Disabled CHANNEL-WIDE
+19 Sep 2017 23:34:14 : Botfuzzy77 Living Quarters, general, Wertfuzzy77#0274, ;ctoggle all
+19 Sep 2017 23:34:14 : Botfuzzy77 Living Quarters, general, Botfuzzy77#2209, `all` is now Disabled CHANNEL-WIDE
+19 Sep 2017 23:34:15 : Botfuzzy77 Living Quarters, general, Wertfuzzy77#0274, ;status
+19 Sep 2017 23:34:28 : Botfuzzy77 Living Quarters, general, Wertfuzzy77#0274, there 😄
+19 Sep 2017 23:34:35 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, ;debug "\n".join(['{}\n  {:20s}{:%m/%d/%Y}'.format(y[0], y[1], y[2]) for y in sorted([(x.name, x.owner.name, x.me.joined_at) for x in bot.servers], key = lambda x: x[2])])
+19 Sep 2017 23:34:43 : Botfuzzy77 Living Quarters, general, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @Botfuzzy77 hey babe
+19 Sep 2017 23:34:49 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, ;debug "\n".join(['{}\n  {:20s}{:%m/%d/%Y}'.format(y[0], y[1], y[2]) for y in sorted([(x.name, x.owner.name, x.me.joined_at) for x in bot.servers], key = lambda x: x[2])])[50:]
+19 Sep 2017 23:34:57 : Botfuzzy77 Living Quarters, general, Wertfuzzy77#0274, 😉
+19 Sep 2017 23:35:00 : Botfuzzy77 Living Quarters, general, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, 😮
+19 Sep 2017 23:35:02 : Botfuzzy77 Living Quarters, general, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, Wert
+19 Sep 2017 23:35:03 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, ;status
+19 Sep 2017 23:35:05 : Botfuzzy77 Living Quarters, general, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, how could you >.>
+19 Sep 2017 23:35:05 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, 
+19 Sep 2017 23:35:15 : Botfuzzy77 Living Quarters, general, Wertfuzzy77#0274, I warned you 😇
+19 Sep 2017 23:35:19 : Botfuzzy77 Living Quarters, general, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, 😭
+19 Sep 2017 23:35:24 : Botfuzzy77 Living Quarters, general, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, You Monster 😦
+19 Sep 2017 23:35:25 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, ;debug "\n".join(['{}\n  {:20s}{:%m/%d/%Y}'.format(y[0], y[1], y[2]) for y in sorted([(x.name, x.owner.name, x.me.joined_at) for x in bot.servers], key = lambda x: x[2])])[100:]
+19 Sep 2017 23:35:25 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, ```py
+t
+  Stormzzzy           07/20/2016
+GetPlebd
+  Owen                07/25/2016
+Team Harmony
+  Sacramentum         09/12/2016
+Unity Of Nirvana
+  Crystal4209         01/18/2017
+Alone Server
+  Crystal4209         04/02/2017
+Shadow's Subnautica
+  Melancholy          04/14/2017
+RooberBoobers
+  DicloniusPony       04/15/2017
+The Choudhry
+  Talha....Nothing more04/15/2017
+GreenHillGang
+  Wertfuzzy77         04/30/2017
+Ultralight Memes
+  MoMolion            05/17/2017
+Team Frigid
+  Skyd                05/30/2017
+GalaxyLionPlushies
+  DicloniusPony       06/04/2017
+OblivionEvolved
+  TheChad🐵            06/18/2017
+soviet union
+  shuck               06/20/2017
+Mareep Pasture
+  DicloniusPony       06/26/2017
+The Silvermoon Hounds
+  AzraelTheGreat      06/28/2017
+Personal Server
+  Melancholy          06/30/2017
+Mythical Trinity
+  AzraelTheGreat      07/01/2017
+Shadow's AVP ModPack
+  Melancholy          07/09/2017
+Legacy Craft
+  DJ_Phatzo           07/15/2017
+Shiny Edits
+  Melancholy          07/16/2017
+Proton Gaming
+  Ozicarus            07/20/2017
+Kernal Official
+  Kernal Cannon       07/25/2017
+Srbr
+  AlphaBees           07/27/2017
+Achievement Heaven
+  maddog780ca         07/28/2017
+The Pack
+  tigertiger02        07/29/2017
+jj has stale memes
+  shuck               08/08/2017
+PokeIslands
+  KiritoSanPlays      08/11/2017
+porn paradise
+  SheepGod            08/13/2017
+pikaworld
+  10_bit_sloth_YT     08/14/2017
+Botfuzzy77 Living Quarters
+  Wertfuzzy77         08/15/2017
+Unturned Fam
+  tigertiger02        08/22/2017
+music for pixelkindom
+  Pixelkindom         08/26/2017
+Pixelkindom
+  Pixelkindom         08/29/2017
+BetterThanGamers
+  Light               08/30/2017
+CrystalFantasy
+  ๖̶̶̶ζ͜͡Lily         09/08/2017
+Lycryisic
+  Purrkour            09/10/2017
+M a r i s t
+  2scouts             09/11/2017
+Henry's House of Horror
+  Henry               09/11/2017
+Nova Reborn
+  RetroGamerSP        09/12/2017
+Goats... All The Goats...
+  CrazyGoatFTW        09/19/2017
+```
+19 Sep 2017 23:35:35 : Botfuzzy77 Living Quarters, general, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, Babefuzzy is a person too >.>
+19 Sep 2017 23:35:52 : Botfuzzy77 Living Quarters, general, Wertfuzzy77#0274, xD
+19 Sep 2017 23:35:59 : Botfuzzy77 Living Quarters, general, Wertfuzzy77#0274, you can talk with her anywhere else
+19 Sep 2017 23:36:05 : Botfuzzy77 Living Quarters, general, Wertfuzzy77#0274, I just muted her here
+19 Sep 2017 23:36:58 : Botfuzzy77 Living Quarters, general, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, well yeha
+19 Sep 2017 23:37:04 : Botfuzzy77 Living Quarters, general, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, but i got kicked from lily's server
+19 Sep 2017 23:37:14 : Botfuzzy77 Living Quarters, general, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, cuz i may or may not have done the same thing i did here on there
+19 Sep 2017 23:37:15 : Botfuzzy77 Living Quarters, general, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, but worse
+19 Sep 2017 23:37:16 : Botfuzzy77 Living Quarters, general, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, 😃
+19 Sep 2017 23:44:52 : LimitlessMc, botchat, Tylanz#3716, ;train
+19 Sep 2017 23:44:54 : LimitlessMc, botchat, Botfuzzy77#2209, 
+19 Sep 2017 23:44:55 : LimitlessMc, botchat, Botfuzzy77#2209, 
+19 Sep 2017 23:44:57 : LimitlessMc, botchat, Tylanz#3716, ;mine
+19 Sep 2017 23:44:59 : LimitlessMc, botchat, Botfuzzy77#2209, 
+19 Sep 2017 23:44:59 : LimitlessMc, botchat, Botfuzzy77#2209, 
+19 Sep 2017 23:48:14 : Botfuzzy77 Living Quarters, general, Wertfuzzy77#0274, xD
+19 Sep 2017 23:48:33 : Botfuzzy77 Living Quarters, general, Wertfuzzy77#0274, I don't need to kick you xD the point of this server is to use the bot
+19 Sep 2017 23:48:38 : Botfuzzy77 Living Quarters, general, Wertfuzzy77#0274, just not in #general 😛
+20 Sep 2017 00:03:05 : Legacy Craft, admin, Dormadon#5007, because i have the mind of a 5 year old with depression
+20 Sep 2017 00:03:11 : Legacy Craft, admin, Dormadon#5007, im great with shapes
+20 Sep 2017 00:03:15 : Legacy Craft, admin, Dormadon#5007, but i hate people
+20 Sep 2017 00:06:01 : LimitlessMc, mainchat, bp#2852, 
+20 Sep 2017 00:07:39 : Kernal Official, general, FunkyMonkey#0890, ;train
+20 Sep 2017 00:07:39 : Kernal Official, general, Botfuzzy77#2209, 
+20 Sep 2017 00:07:39 : Kernal Official, general, Botfuzzy77#2209, 
+20 Sep 2017 00:07:44 : Kernal Official, pokemon, FunkyMonkey#0890, ;pbs
+20 Sep 2017 00:07:44 : Kernal Official, pokemon, Botfuzzy77#2209, 
+20 Sep 2017 00:07:47 : Kernal Official, pokemon, FunkyMonkey#0890, ;pb nnnnn
+20 Sep 2017 00:07:47 : Kernal Official, pokemon, Botfuzzy77#2209, 
+20 Sep 2017 00:07:47 : Kernal Official, pokemon, Botfuzzy77#2209, 
+20 Sep 2017 00:07:50 : Kernal Official, pokemon, FunkyMonkey#0890, ;cd
+20 Sep 2017 00:07:50 : Kernal Official, pokemon, Botfuzzy77#2209, 
+20 Sep 2017 00:07:52 : Kernal Official, pokemon, FunkyMonkey#0890, ;mine
+20 Sep 2017 00:07:52 : Kernal Official, pokemon, Botfuzzy77#2209, 
+20 Sep 2017 00:07:53 : Kernal Official, pokemon, FunkyMonkey#0890, ;mine
+20 Sep 2017 00:07:53 : Kernal Official, pokemon, Botfuzzy77#2209, 
+20 Sep 2017 00:07:53 : Kernal Official, pokemon, Botfuzzy77#2209, 
+20 Sep 2017 00:07:54 : Kernal Official, pokemon, FunkyMonkey#0890, ;mine
+20 Sep 2017 00:07:54 : Kernal Official, pokemon, Botfuzzy77#2209, 
+20 Sep 2017 00:07:55 : Kernal Official, pokemon, FunkyMonkey#0890, ;mine
+20 Sep 2017 00:07:56 : Kernal Official, pokemon, Botfuzzy77#2209, 
+20 Sep 2017 00:12:08 : Legacy Craft, general, Dormadon#5007, the circle was made and the payment will be 10 diamonds :<
+20 Sep 2017 00:12:19 : Legacy Craft, general, Dormadon#5007, in the clubhouse deposit box ofc
+20 Sep 2017 00:20:21 : PokeIslands, bot, dragonbro0803#0985, ;train
+20 Sep 2017 00:20:22 : PokeIslands, bot, Botfuzzy77#2209, 
+20 Sep 2017 00:20:22 : PokeIslands, bot, Botfuzzy77#2209, 
+20 Sep 2017 00:20:26 : PokeIslands, bot, dragonbro0803#0985, ;lvl
+20 Sep 2017 00:20:26 : PokeIslands, bot, Botfuzzy77#2209, 
+20 Sep 2017 00:20:30 : PokeIslands, bot, dragonbro0803#0985, ;mine
+20 Sep 2017 00:20:30 : PokeIslands, bot, Botfuzzy77#2209, 
+20 Sep 2017 00:20:32 : PokeIslands, bot, dragonbro0803#0985, ;mine
+20 Sep 2017 00:20:32 : PokeIslands, bot, Botfuzzy77#2209, 
+20 Sep 2017 00:20:34 : PokeIslands, bot, dragonbro0803#0985, ;mine
+20 Sep 2017 00:20:35 : PokeIslands, bot, Botfuzzy77#2209, 
+20 Sep 2017 00:20:37 : PokeIslands, bot, dragonbro0803#0985, ;lvl
+20 Sep 2017 00:20:37 : PokeIslands, bot, Botfuzzy77#2209, 
+20 Sep 2017 00:25:05 : LimitlessMc, mainchat, Wertfuzzy77#0274, 🤔
+20 Sep 2017 00:25:14 : PokeIslands, bot, Wertfuzzy77#0274, ;train
+20 Sep 2017 00:25:14 : PokeIslands, bot, Botfuzzy77#2209, 
+20 Sep 2017 00:25:16 : PokeIslands, bot, Wertfuzzy77#0274, ;-;
+20 Sep 2017 00:25:24 : PokeIslands, bot, dragonbro0803#0985, ;mine
+20 Sep 2017 00:25:24 : PokeIslands, bot, Botfuzzy77#2209, 
+20 Sep 2017 00:25:27 : PokeIslands, bot, dragonbro0803#0985, OH COME ON
+20 Sep 2017 00:25:28 : PokeIslands, bot, dragonbro0803#0985, ;-;
+20 Sep 2017 00:25:31 : PokeIslands, bot, dragonbro0803#0985, ;mine
+20 Sep 2017 00:25:31 : PokeIslands, bot, Botfuzzy77#2209, 
+20 Sep 2017 00:25:31 : PokeIslands, bot, Botfuzzy77#2209, 
+20 Sep 2017 00:25:36 : PokeIslands, bot, dragonbro0803#0985, ;lvl
+20 Sep 2017 00:25:37 : PokeIslands, bot, Botfuzzy77#2209, 
+20 Sep 2017 00:25:39 : PokeIslands, general, KiritoSanPlays#2208, hmm
+20 Sep 2017 00:25:40 : PokeIslands, bot, dragonbro0803#0985, I HATE MY LEIFFFFFFF
+20 Sep 2017 00:25:54 : PokeIslands, general, KiritoSanPlays#2208, why the f aint they work in mp but they do in mp >_>
+20 Sep 2017 00:26:24 : PokeIslands, general, dragonbro0803#0985, ?
+20 Sep 2017 00:26:38 : PokeIslands, general, KiritoSanPlays#2208, gotta try something on a local server -_-
+20 Sep 2017 00:26:41 : PokeIslands, general, dragonbro0803#0985, I know ur not an english speaker, but can you grammer
+20 Sep 2017 00:26:58 : PokeIslands, general, KiritoSanPlays#2208, i am doing custom npc shops
+20 Sep 2017 00:27:03 : LimitlessMc, mainchat, DDriggs00#0005, He didn't.
+20 Sep 2017 00:27:04 : PokeIslands, general, dragonbro0803#0985, but..
+20 Sep 2017 00:27:08 : PokeIslands, general, KiritoSanPlays#2208, but?
+20 Sep 2017 00:27:09 : PokeIslands, general, dragonbro0803#0985, cant you just edit.. the pixelmon npcs?
+20 Sep 2017 00:27:15 : PokeIslands, general, KiritoSanPlays#2208, thats what i am doing lol
+20 Sep 2017 00:27:20 : PokeIslands, general, dragonbro0803#0985, custom npcs is a mod dude
+20 Sep 2017 00:27:22 : PokeIslands, general, dragonbro0803#0985, ur confusaling me
+20 Sep 2017 00:27:36 : PokeIslands, general, dragonbro0803#0985, and ask in RSI
+20 Sep 2017 00:27:38 : PokeIslands, general, KiritoSanPlays#2208, custom npc shops -> pixelmon npc's -> custom items
+20 Sep 2017 00:27:43 : PokeIslands, general, KiritoSanPlays#2208, i allready did
+20 Sep 2017 00:27:54 : PokeIslands, general, KiritoSanPlays#2208, i am gonna try to do it in a local mp server
+20 Sep 2017 00:28:18 : PokeIslands, general, dragonbro0803#0985, mp server?????/
+20 Sep 2017 00:28:28 : PokeIslands, general, KiritoSanPlays#2208, y u never heard of mp and sp? lel
+20 Sep 2017 00:28:33 : PokeIslands, general, dragonbro0803#0985, No
+20 Sep 2017 00:28:44 : PokeIslands, general, KiritoSanPlays#2208, mp is multy player
+20 Sep 2017 00:28:48 : PokeIslands, general, KiritoSanPlays#2208, sp = single player
+20 Sep 2017 00:29:01 : PokeIslands, general, KiritoSanPlays#2208, since you are in gaming you should know lol
+20 Sep 2017 00:29:36 : PokeIslands, general, dragonbro0803#0985, mc aint my thing
+20 Sep 2017 00:29:44 : Proton Gaming, staff_infinityevolved, Lieta#9461, Who and what shop
+20 Sep 2017 00:29:48 : PokeIslands, general, dragonbro0803#0985, and there isnt a single player in league so//
+20 Sep 2017 00:30:02 : PokeIslands, general, dragonbro0803#0985, its just multiplayer... amd custom games would be single i guess.
+20 Sep 2017 00:30:05 : PokeIslands, general, KiritoSanPlays#2208, mw 2, mw 3, bo, bo é, bo 3 xD
+20 Sep 2017 00:30:25 : PokeIslands, general, dragonbro0803#0985, ;afk Kirito is confusing me while im trying to do hw
+20 Sep 2017 00:30:25 : PokeIslands, general, Botfuzzy77#2209, dragonbro0803 is now AFK for reason:
+**Kirito is confusing me while im trying to do hw**
+20 Sep 2017 00:30:32 : PokeIslands, general, KiritoSanPlays#2208, mw 2 has single player and multy player
+20 Sep 2017 00:30:40 : Legacy Craft, general, BenbubGilberto#8262, What
+20 Sep 2017 00:30:40 : PokeIslands, general, KiritoSanPlays#2208, i bet @[GOD]Wertfuzzy77 knows what mp and sp means xD
+20 Sep 2017 00:30:47 : Legacy Craft, general, DJ_Phatzo#8045, where
+20 Sep 2017 00:30:52 : Legacy Craft, general, Dormadon#5007, who
+20 Sep 2017 00:30:52 : Legacy Craft, general, BenbubGilberto#8262, Who
+20 Sep 2017 00:30:55 : Legacy Craft, general, BenbubGilberto#8262, Fuck
+20 Sep 2017 00:30:57 : Legacy Craft, general, DJ_Phatzo#8045, when
+20 Sep 2017 00:31:03 : Legacy Craft, general, Dormadon#5007, how
+20 Sep 2017 00:31:03 : Legacy Craft, general, BenbubGilberto#8262, How
+20 Sep 2017 00:31:06 : Legacy Craft, general, BenbubGilberto#8262, FUck
+20 Sep 2017 00:31:06 : PokeIslands, general, Wertfuzzy77#0274, multiplayer and singleplayer?
+20 Sep 2017 00:31:08 : Legacy Craft, general, Dormadon#5007, lmao
+20 Sep 2017 00:31:15 : Legacy Craft, general, BenbubGilberto#8262, Ehy
+20 Sep 2017 00:31:17 : PokeIslands, general, KiritoSanPlays#2208, ez aint it?
+20 Sep 2017 00:31:18 : Legacy Craft, general, Dormadon#5007, whomst
+20 Sep 2017 00:31:18 : Legacy Craft, general, BenbubGilberto#8262, Why
+20 Sep 2017 00:31:24 : PokeIslands, general, KiritoSanPlays#2208, xD
+20 Sep 2017 00:31:27 : Legacy Craft, general, Dormadon#5007, whoommstttsststststsstmmst
+20 Sep 2017 00:31:32 : PokeIslands, general, dragonbro0803#0985, Im about to leave
+20 Sep 2017 00:31:36 : PokeIslands, general, KiritoSanPlays#2208, lol
+20 Sep 2017 00:32:01 : PokeIslands, general, KiritoSanPlays#2208, and i am trying to get custom shopkeepers working but for some strange reason they work offline but once you bring em online shit happens >_<
+20 Sep 2017 00:32:07 : Legacy Craft, general, BenbubGilberto#8262, Uh
+20 Sep 2017 00:32:10 : Legacy Craft, general, BenbubGilberto#8262, That's who still
+20 Sep 2017 00:32:29 : Legacy Craft, general, BenbubGilberto#8262, *pic of meme*
+20 Sep 2017 00:33:02 : LimitlessMc, botchat, Star#0288, ;train
+20 Sep 2017 00:33:03 : LimitlessMc, botchat, Botfuzzy77#2209, 
+20 Sep 2017 00:33:03 : LimitlessMc, botchat, Botfuzzy77#2209, 
+20 Sep 2017 00:33:05 : Legacy Craft, screenshots, BenbubGilberto#8262, 
+20 Sep 2017 00:33:07 : LimitlessMc, botchat, Star#0288, ;mine
+20 Sep 2017 00:33:07 : LimitlessMc, botchat, Botfuzzy77#2209, 
+20 Sep 2017 00:33:22 : LimitlessMc, mainchat, Star#0288, light that otter is amazing
+20 Sep 2017 00:36:34 : Botfuzzy77 Living Quarters, general, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, xd
+20 Sep 2017 00:36:43 : Botfuzzy77 Living Quarters, general, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, u didnt see what i did on lily's server
+20 Sep 2017 00:36:44 : Botfuzzy77 Living Quarters, general, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, 😉
+20 Sep 2017 00:37:35 : LimitlessMc, mainchat, Light#6734, ;D
+20 Sep 2017 00:38:32 : PokeIslands, general, Legate#1692, why would mike leave?
+20 Sep 2017 00:39:07 : PokeIslands, general, KiritoSanPlays#2208, cause homework lel
+20 Sep 2017 00:39:22 : PokeIslands, general, Legate#1692, just mute the channel xD
+20 Sep 2017 00:39:37 : PokeIslands, general, dragonbro0803#0985, already muted
+20 Sep 2017 00:39:48 : PokeIslands, general, dragonbro0803#0985, I was bout to leave cus Kirito was making fun of me
+20 Sep 2017 00:39:53 : PokeIslands, general, KiritoSanPlays#2208, >_<
+20 Sep 2017 00:39:54 : PokeIslands, general, dragonbro0803#0985, 😠
+20 Sep 2017 00:39:54 : PokeIslands, general, KiritoSanPlays#2208, i wasn't
+20 Sep 2017 00:40:14 : PokeIslands, general, KiritoSanPlays#2208, i just said that i am trying to finally get this shit working -_-
+20 Sep 2017 00:40:49 : PokeIslands, general, Legate#1692, oh yeah, gotta send my progress report for spawn
+20 Sep 2017 00:41:16 : PokeIslands, general, KiritoSanPlays#2208, i have to make a appart multy player cause its weird that the shops don't work as they should
+20 Sep 2017 00:41:37 : PokeIslands, general, Legate#1692, hm
+20 Sep 2017 00:42:21 : PokeIslands, general, Legate#1692, gonna continue soon
+20 Sep 2017 00:42:27 : PokeIslands, general, Legate#1692, just need to boot up MC
+20 Sep 2017 00:42:37 : PokeIslands, general, KiritoSanPlays#2208, its just weird that it works in single player but doesn't in multy player
+20 Sep 2017 00:43:16 : PokeIslands, general, Legate#1692, maybe nucleus conflicts?
+20 Sep 2017 00:43:33 : PokeIslands, general, KiritoSanPlays#2208, nah cause nucleus is just a plugin to enable commands
+20 Sep 2017 00:43:40 : PokeIslands, general, KiritoSanPlays#2208, shop keepers have nothing to do with commands
+20 Sep 2017 00:44:54 : PokeIslands, general, Legate#1692, did you whack them?
+20 Sep 2017 00:45:20 : PokeIslands, general, KiritoSanPlays#2208, the server doesn't even start up -_-
+20 Sep 2017 00:47:16 : PokeIslands, general, Legate#1692, whack it harder
+20 Sep 2017 00:48:02 : PokeIslands, general, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, beat his meat
+20 Sep 2017 00:48:03 : PokeIslands, general, Legate#1692, wish we can get armourer's workshop here 😛
+20 Sep 2017 00:48:06 : PokeIslands, general, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, with a baseball bat
+20 Sep 2017 00:48:10 : PokeIslands, general, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, just whack it
+20 Sep 2017 00:48:13 : PokeIslands, general, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, thump thump thump
+20 Sep 2017 00:48:25 : PokeIslands, general, KiritoSanPlays#2208, brady you are a cunt >_< lel
+20 Sep 2017 00:48:36 : PokeIslands, general, Legate#1692, is it because he likes whacking them?
+20 Sep 2017 00:48:43 : PokeIslands, general, KiritoSanPlays#2208, ^
+20 Sep 2017 00:48:57 : PokeIslands, general, KiritoSanPlays#2208, he likes to whack viritual Citizens xD
+20 Sep 2017 00:49:34 : PokeIslands, general, Legate#1692, xD
+20 Sep 2017 00:49:45 : PokeIslands, general, KiritoSanPlays#2208, he's one dirty bastard imo
+20 Sep 2017 00:51:13 : PokeIslands, general, KiritoSanPlays#2208, lotta people thinking why they cant join now xD
+20 Sep 2017 00:51:29 : PokeIslands, general, Legate#1692, still working
+20 Sep 2017 00:51:44 : PokeIslands, general, KiritoSanPlays#2208, looking sexy xD
+20 Sep 2017 00:52:08 : PokeIslands, general, Legate#1692, still need to do the long path for your gyms, store, staff area, crates
+20 Sep 2017 00:52:15 : PokeIslands, general, Legate#1692, gonna be a bit
+20 Sep 2017 00:52:25 : PokeIslands, general, KiritoSanPlays#2208, if you need help make a server and i'l help xD
+20 Sep 2017 00:52:42 : PokeIslands, general, Legate#1692, dunno how to 😛
+20 Sep 2017 00:52:52 : PokeIslands, general, KiritoSanPlays#2208, are you serious? lol
+20 Sep 2017 00:53:05 : PokeIslands, general, Legate#1692, I am
+20 Sep 2017 00:53:10 : PokeIslands, general, KiritoSanPlays#2208, just get hamachi get a forge server ez as that lel
+20 Sep 2017 00:53:34 : PokeIslands, general, Legate#1692, sounds complex for me
+20 Sep 2017 00:53:39 : PokeIslands, general, KiritoSanPlays#2208, >_<
+20 Sep 2017 00:53:41 : PokeIslands, general, KiritoSanPlays#2208, boii lol
+20 Sep 2017 00:53:56 : PokeIslands, general, KiritoSanPlays#2208, i'l give you a premade server all you have to do is add the world and get hamachi lol
+20 Sep 2017 00:54:16 : PokeIslands, general, Legate#1692, still confused
+20 Sep 2017 00:54:36 : PokeIslands, general, KiritoSanPlays#2208, lol
+20 Sep 2017 00:54:42 : PokeIslands, general, Legate#1692, like I said, I handle hardware, nt software/servers
+20 Sep 2017 00:54:56 : PokeIslands, general, KiritoSanPlays#2208, want me to explain it step by step? xD
+20 Sep 2017 00:55:16 : PokeIslands, general, Legate#1692, plz
+20 Sep 2017 00:56:07 : PokeIslands, general, KiritoSanPlays#2208, i'l do it in pm :p
+20 Sep 2017 00:59:41 : PokeIslands, bot, Potatoelover21#7627, ;train
+20 Sep 2017 00:59:41 : PokeIslands, bot, Botfuzzy77#2209, 
+20 Sep 2017 00:59:42 : PokeIslands, bot, Botfuzzy77#2209, 
+20 Sep 2017 00:59:45 : PokeIslands, bot, Potatoelover21#7627, ;mine
+20 Sep 2017 00:59:46 : PokeIslands, bot, Botfuzzy77#2209, 
+20 Sep 2017 00:59:46 : PokeIslands, bot, Botfuzzy77#2209, 
+20 Sep 2017 01:00:02 : PokeIslands, bot, Potatoelover21#7627, ;use
+20 Sep 2017 01:00:06 : PokeIslands, bot, Potatoelover21#7627, ;gem
+20 Sep 2017 01:00:13 : PokeIslands, bot, Potatoelover21#7627, ;pokebattle DFFDD
+20 Sep 2017 01:00:14 : PokeIslands, bot, Botfuzzy77#2209, 
+20 Sep 2017 01:00:14 : PokeIslands, bot, Botfuzzy77#2209, 
+20 Sep 2017 01:01:40 : PokeIslands, general, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, http://azure.psim.us/battle-gen7monotype-258992
+20 Sep 2017 01:02:28 : PokeIslands, general, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, http://replay.pokemonshowdown.com/azure-gen7monotype-258972
+20 Sep 2017 01:02:50 : PokeIslands, general, Legate#1692, ???
+20 Sep 2017 01:02:51 : PokeIslands, general, KiritoSanPlays#2208, stop showing off y scrub >_<
+20 Sep 2017 01:03:09 : PokeIslands, general, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, Pidgey  
+Ability: Tangled Feet  
+IVs: 0 Atk  
+- Agility  
+
+Zubat  
+Ability: Inner Focus  
+IVs: 0 Atk  
+- Defog  
+
+Pidove  
+Ability: Big Pecks  
+IVs: 0 Atk  
+- Detect  
+
+Doduo  
+Ability: Run Away  
+IVs: 0 Atk  
+- Agility  
+
+Farfetch'd  
+Ability: Keen Eye  
+IVs: 0 Atk  
+- Agility  
+
+Delibird  
+Ability: Vital Spirit  
+IVs: 0 Atk  
+- Aurora Veil
+20 Sep 2017 01:03:13 : PokeIslands, general, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, this is the team im using
+20 Sep 2017 01:03:14 : PokeIslands, general, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, 😉
+20 Sep 2017 01:04:50 : PokeIslands, general, KiritoSanPlays#2208, what type of comp you doing anyway? lol
+20 Sep 2017 01:04:59 : PokeIslands, general, KiritoSanPlays#2208, cause that smells like some random team you got there
+20 Sep 2017 01:04:59 : PokeIslands, general, KiritoSanPlays#2208, xD
+20 Sep 2017 01:10:04 : PokeIslands, general, KiritoSanPlays#2208, shop 1 is active >:) finally got potions to work lol
+20 Sep 2017 01:11:34 : PokeIslands, general, KiritoSanPlays#2208, ;afk bathroom
+20 Sep 2017 01:11:34 : PokeIslands, general, Botfuzzy77#2209, KiritoSanPlays is now AFK for reason:
+**bathroom**
+20 Sep 2017 01:20:57 : Proton Gaming, grandgeneral, Botfuzzy77#2209, Welcome @mistaman21 to Proton Gaming!
+20 Sep 2017 01:21:05 : Proton Gaming, grandgeneral, mistaman21#2916, And here we are
+20 Sep 2017 01:21:11 : Legacy Craft, general, DJ_Phatzo#8045, ._.
+20 Sep 2017 01:21:38 : CrystalFantasy, staff, Mr.Potato Gaming#6160, Sorry for not being on i have an excuse my mum hates me playing games on weekdays during school
+20 Sep 2017 01:26:07 : Legacy Craft, admin, DJ_Phatzo#8045, I just have depression ._.
+20 Sep 2017 01:30:07 : BetterThanGamers, mainchat, Light#6734, @SnulerOfCakes why raid so hard ;-;
+20 Sep 2017 01:43:12 : PokeIslands, general, Legate#1692, moooo
+20 Sep 2017 01:43:23 : PokeIslands, general, KiritoSanPlays#2208, ok now i gotta restart the server again lol
+20 Sep 2017 01:44:33 : PokeIslands, general, Legate#1692, youre still afk
+20 Sep 2017 01:44:48 : PokeIslands, general, KiritoSanPlays#2208, yeh ik cause i didn't go to the bathroom yet lel
+20 Sep 2017 01:44:56 : PokeIslands, general, KiritoSanPlays#2208, i wanted to get this working first
+20 Sep 2017 01:45:43 : PokeIslands, general, KiritoSanPlays#2208, all i need to do now is make a shop for all the building blocks and so on and then i gotta add all the items which can be sold
+20 Sep 2017 01:46:16 : PokeIslands, general, KiritoSanPlays#2208, now i am going to the bathroom :p
+20 Sep 2017 01:46:47 : PokeIslands, bot, dragonbro0803#0985, ;train
+20 Sep 2017 01:46:47 : PokeIslands, bot, Botfuzzy77#2209, 
+20 Sep 2017 01:46:48 : PokeIslands, bot, Botfuzzy77#2209, 
+20 Sep 2017 01:46:48 : PokeIslands, bot, Botfuzzy77#2209, 
+20 Sep 2017 01:49:41 : PokeIslands, general, KiritoSanPlays#2208, Boii having a tablet is usefull >_<
+20 Sep 2017 01:51:59 : PokeIslands, general, KiritoSanPlays#2208, Lets say you are on a walk and people need you you can just respond whitout needing ur pc
+20 Sep 2017 01:52:57 : PokeIslands, general, Legate#1692, so youre walking?
+20 Sep 2017 01:53:43 : PokeIslands, general, KiritoSanPlays#2208, walking downstairs walking upstairs walking to the bathroom sitting on the throne while talking to people >:)
+20 Sep 2017 01:56:56 : PokeIslands, general, KiritoSanPlays#2208, gimme a sec i got kicked while you joined lol
+20 Sep 2017 01:58:47 : BetterThanGamers, mainchat, Wertfuzzy77#0274, what even are my winrates
+20 Sep 2017 01:58:49 : BetterThanGamers, mainchat, Wertfuzzy77#0274, 
+20 Sep 2017 01:58:51 : BetterThanGamers, mainchat, Wertfuzzy77#0274, lose 4 in a row
+20 Sep 2017 01:58:55 : BetterThanGamers, mainchat, Wertfuzzy77#0274, win 4 in a row
+20 Sep 2017 01:58:56 : BetterThanGamers, mainchat, Wertfuzzy77#0274, 🤔
+20 Sep 2017 01:59:13 : BetterThanGamers, mainchat, Mining_Zoroark#8313, could be worse
+20 Sep 2017 01:59:25 : BetterThanGamers, mainchat, Wertfuzzy77#0274, true
+20 Sep 2017 01:59:25 : BetterThanGamers, mainchat, Wertfuzzy77#0274, could lose 8 in a row xD
+20 Sep 2017 01:59:35 : BetterThanGamers, mainchat, Mining_Zoroark#8313, could be justins win lose
+20 Sep 2017 01:59:35 : BetterThanGamers, mainchat, Wertfuzzy77#0274, LOL

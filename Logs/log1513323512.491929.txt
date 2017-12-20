@@ -1,0 +1,61 @@
+15 Dec 2017 07:38:39 : FAM, off-topic, darth kota#9446, ;join
+15 Dec 2017 07:38:40 : FAM, off-topic, darthbot98#5182, Connected channel!
+15 Dec 2017 07:38:43 : FAM, off-topic, darth kota#9446, ;search 45
+15 Dec 2017 07:38:48 : FAM, off-topic, darthbot98#5182, Added Shinedown - 45 [OFFICIAL VIDEO] to the queue
+15 Dec 2017 07:38:48 : FAM, off-topic, darthbot98#5182, https://www.youtube.com/watch?v=MLeIyy2ipps
+15 Dec 2017 07:38:57 : FAM, off-topic, darth kota#9446, ;pause
+15 Dec 2017 07:38:57 : FAM, off-topic, darthbot98#5182, The Bot isnt connected in this server!
+15 Dec 2017 07:40:16 : FAM, off-topic, darth kota#9446, ;reload
+15 Dec 2017 07:40:16 : FAM, off-topic, darthbot98#5182, Reloaded
+15 Dec 2017 07:40:19 : FAM, off-topic, darth kota#9446, ;join
+15 Dec 2017 07:40:20 : FAM, off-topic, darthbot98#5182, Reconnected channel!
+15 Dec 2017 07:40:22 : FAM, off-topic, darth kota#9446, ;pause
+15 Dec 2017 07:41:02 : FAM, off-topic, darth kota#9446, ;reload
+15 Dec 2017 07:41:02 : FAM, off-topic, darthbot98#5182, Reloaded
+15 Dec 2017 07:41:07 : FAM, off-topic, darth kota#9446, ;join
+15 Dec 2017 07:41:07 : FAM, off-topic, darthbot98#5182, Reconnected channel!
+15 Dec 2017 07:41:10 : FAM, off-topic, darth kota#9446, ;pause
+15 Dec 2017 07:42:11 : FAM, off-topic, darth kota#9446, ;reload
+15 Dec 2017 07:42:11 : FAM, off-topic, darthbot98#5182, Reloaded
+15 Dec 2017 07:42:15 : FAM, off-topic, darth kota#9446, ;join
+15 Dec 2017 07:42:15 : FAM, off-topic, darthbot98#5182, Reconnected channel!
+15 Dec 2017 07:42:18 : FAM, off-topic, darth kota#9446, ;pause
+15 Dec 2017 07:42:56 : FAM, off-topic, darth kota#9446, ;loop 2
+15 Dec 2017 07:43:13 : FAM, off-topic, darth kota#9446, ;search 45
+15 Dec 2017 07:43:15 : FAM, off-topic, darthbot98#5182, Added Shinedown - 45 [OFFICIAL VIDEO] to the queue
+15 Dec 2017 07:43:15 : FAM, off-topic, darthbot98#5182, https://www.youtube.com/watch?v=MLeIyy2ipps
+15 Dec 2017 07:43:22 : FAM, off-topic, darth kota#9446, ;loop 20
+15 Dec 2017 07:43:23 : FAM, off-topic, darthbot98#5182, Can not loop that many times!
+15 Dec 2017 07:43:26 : FAM, off-topic, darth kota#9446, ;loop 10
+15 Dec 2017 07:43:26 : FAM, off-topic, darthbot98#5182, Can not loop that many times!
+15 Dec 2017 07:43:31 : FAM, off-topic, darth kota#9446, ;loop 5
+15 Dec 2017 07:43:32 : FAM, off-topic, darthbot98#5182, Added '*Shinedown - 45 [OFFICIAL VIDEO]*' **5** more times
+15 Dec 2017 07:43:43 : FAM, off-topic, darth kota#9446, ;pause
+15 Dec 2017 07:43:54 : FAM, off-topic, darth kota#9446, ;pause
+15 Dec 2017 07:44:02 : FAM, off-topic, darth kota#9446, ;pause
+15 Dec 2017 07:44:10 : FAM, off-topic, darth kota#9446, ;songs
+15 Dec 2017 07:44:10 : FAM, off-topic, darthbot98#5182, 
+15 Dec 2017 07:44:15 : FAM, off-topic, darth kota#9446, ;pause
+15 Dec 2017 07:44:19 : FAM, off-topic, darth kota#9446, ;songs
+15 Dec 2017 07:44:19 : FAM, off-topic, darthbot98#5182, 
+15 Dec 2017 07:44:22 : FAM, off-topic, darth kota#9446, ?
+15 Dec 2017 07:55:00 : FAM, off-topic, darth kota#9446, ;reload
+15 Dec 2017 07:55:01 : FAM, off-topic, darthbot98#5182, Something went wrong :(
+15 Dec 2017 07:55:01 : FAM, off-topic, darthbot98#5182, TabError: inconsistent use of tabs and spaces in indentation (Music.py, line 832)
+15 Dec 2017 07:55:36 : FAM, off-topic, darth kota#9446, ;reload
+15 Dec 2017 07:55:36 : FAM, off-topic, darthbot98#5182, Something went wrong :(
+15 Dec 2017 07:55:36 : FAM, off-topic, darthbot98#5182, TabError: inconsistent use of tabs and spaces in indentation (Music.py, line 831)
+15 Dec 2017 07:55:52 : FAM, off-topic, darth kota#9446, ;reload
+15 Dec 2017 07:55:52 : FAM, off-topic, darthbot98#5182, Something went wrong :(
+15 Dec 2017 07:55:52 : FAM, off-topic, darthbot98#5182, IndentationError: expected an indented block (Music.py, line 832)
+15 Dec 2017 07:56:10 : FAM, off-topic, darth kota#9446, ;reload
+15 Dec 2017 07:56:11 : FAM, off-topic, darthbot98#5182, Reloaded
+15 Dec 2017 07:58:52 : FAM, off-topic, darth kota#9446, ;reload
+15 Dec 2017 07:58:52 : FAM, off-topic, darthbot98#5182, Reloaded
+15 Dec 2017 07:58:58 : FAM, off-topic, darth kota#9446, ;join
+15 Dec 2017 07:58:58 : FAM, off-topic, darthbot98#5182, Reconnected channel!
+15 Dec 2017 07:59:01 : FAM, off-topic, darth kota#9446, ;serach 45
+15 Dec 2017 07:59:08 : FAM, off-topic, darth kota#9446, ;search 45
+15 Dec 2017 07:59:11 : FAM, off-topic, darthbot98#5182, Added Shinedown - 45 [OFFICIAL VIDEO] to the queue
+15 Dec 2017 07:59:11 : FAM, off-topic, darthbot98#5182, https://www.youtube.com/watch?v=MLeIyy2ipps
+15 Dec 2017 07:59:31 : FAM, off-topic, darth kota#9446, ;relog

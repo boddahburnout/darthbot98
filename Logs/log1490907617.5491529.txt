@@ -1,0 +1,155 @@
+30 Mar 2017 21:00:21 : Cipher, cala, Wertfuzzy77#0274, trying again
+30 Mar 2017 21:00:37 : Unity Of Nirvana, bot_chat, Lightshadow#5809, Oh gad this song is high pitched as fuck in the beginning
+30 Mar 2017 21:00:54 : Unity Of Nirvana, bot_chat, Lightshadow#5809, @#FuzzyRuthlessJayFazingRainbow try to survive
+30 Mar 2017 21:01:20 : Cipher, cala, Wertfuzzy77#0274, @T.A.R.D.I.S hai!
+30 Mar 2017 21:01:21 : Cipher, cala, Botfuzzy77#2209, Should I date ryan?
+30 Mar 2017 21:01:24 : Cipher, cala, Wertfuzzy77#0274, lol wut
+30 Mar 2017 21:01:30 : Cipher, cala, Calamariela#4119, umm
+30 Mar 2017 21:01:33 : Cipher, cala, Wertfuzzy77#0274, @T.A.R.D.I.S who is ryan?
+30 Mar 2017 21:01:34 : Cipher, cala, Botfuzzy77#2209, My friend.
+30 Mar 2017 21:01:41 : Cipher, cala, Wertfuzzy77#0274, @T.A.R.D.I.S no? yes? idk what you want from me
+30 Mar 2017 21:01:42 : Cipher, cala, Botfuzzy77#2209, But I don't want anything from you.
+30 Mar 2017 21:01:56 : Cipher, cala, Wertfuzzy77#0274, @T.A.R.D.I.S but... you just asked me if you should date ryan
+30 Mar 2017 21:01:59 : Cipher, cala, Botfuzzy77#2209, No I didn't.
+30 Mar 2017 21:02:02 : Cipher, cala, Calamariela#4119, friend zoned by a bot
+30 Mar 2017 21:02:05 : Cipher, cala, Calamariela#4119, nice niko
+30 Mar 2017 21:02:08 : Cipher, cala, Wertfuzzy77#0274, ;debug CLEVERBOT
+30 Mar 2017 21:02:08 : Cipher, cala, Botfuzzy77#2209, ```py
+{<discord.member.Member object at 0x7fdd133e9488>: <cleverwrap.cleverwrap.CleverWrap object at 0x7fdd0c0b7ef0>}
+```
+30 Mar 2017 21:02:11 : Cipher, cala, Wertfuzzy77#0274, ayyy
+30 Mar 2017 21:02:12 : Cipher, cala, Wertfuzzy77#0274, it worked
+30 Mar 2017 21:02:13 : Unity Of Nirvana, bot_chat, Lightshadow#5809, @Third_Worm much better
+30 Mar 2017 21:02:14 : Cipher, cala, Wertfuzzy77#0274, you try
+30 Mar 2017 21:02:17 : Unity Of Nirvana, bot_chat, Lightshadow#5809, Damn
+30 Mar 2017 21:02:20 : Cipher, cala, Calamariela#4119, @T.A.R.D.I.S  hello
+30 Mar 2017 21:02:21 : Cipher, cala, Botfuzzy77#2209, Nothing much as far as I know.
+30 Mar 2017 21:02:23 : Unity Of Nirvana, bot_chat, Lightshadow#5809, Lel
+30 Mar 2017 21:02:27 : Cipher, cala, Wertfuzzy77#0274, hmmm
+30 Mar 2017 21:02:34 : Cipher, cala, Wertfuzzy77#0274, ;debug CLEVERBOT
+30 Mar 2017 21:02:34 : Cipher, cala, Botfuzzy77#2209, ```py
+{<discord.member.Member object at 0x7fdd0c0bc2f0>: <cleverwrap.cleverwrap.CleverWrap object at 0x7fdd0cd192e8>, <discord.member.Member object at 0x7fdd133e9488>: <cleverwrap.cleverwrap.CleverWrap object at 0x7fdd0c0b7ef0>}
+```
+30 Mar 2017 21:02:40 : Cipher, cala, Wertfuzzy77#0274, well, there are now 2 conversations
+30 Mar 2017 21:02:54 : Cipher, cala, Wertfuzzy77#0274, ;debug CLEVERBOT[ctx.message.author]
+30 Mar 2017 21:02:54 : Cipher, cala, Botfuzzy77#2209, ```py
+<cleverwrap.cleverwrap.CleverWrap object at 0x7fdd0c0b7ef0>
+```
+30 Mar 2017 21:02:56 : Unity Of Nirvana, bot_chat, Third_Worm#4804, le
+30 Mar 2017 21:02:58 : Cipher, cala, Calamariela#4119, @T.A.R.D.I.S how are you?
+30 Mar 2017 21:02:59 : Cipher, cala, Botfuzzy77#2209, Good, you.
+30 Mar 2017 21:03:01 : Unity Of Nirvana, bot_chat, Third_Worm#4804, am okei
+30 Mar 2017 21:03:02 : Cipher, cala, Wertfuzzy77#0274, ;debug CLEVERBOT[ctx.message.author].history
+30 Mar 2017 21:03:02 : Cipher, cala, Botfuzzy77#2209, ```py
+{'interaction_47': '', 'interaction_3': 'who is ryan?', 'interaction_50': '', 'interaction_30': '', 'interaction_24': '', 'interaction_36': '', 'interaction_22': '', 'interaction_1': 'but... you just asked me if you should date ryan.', 'interaction_7': '', 'interaction_10': '', 'interaction_12': '', 'interaction_46': '', 'interaction_33': '', 'interaction_38': '', 'interaction_1_other': "No I didn't.", 'interaction_45': '', 'interaction_28': '', 'interaction_43': '', 'interaction_9': '', 'interaction_2': 'no? yes? idk what you want from me.', 'interaction_42': '', 'interaction_11': '', 'interaction_4': '', 'interaction_27': '', 'interaction_34': '', 'interaction_26': '', 'interaction_16': '', 'interaction_15': '', 'interaction_32': '', 'interaction_29': '', 'interaction_count': '4', 'interaction_8': '', 'interaction_20': '', 'interaction_3_other': 'My friend.', 'interaction_39': '', 'interaction_18': '', 'interaction_25': '', 'interaction_19': '', 'interaction_31': '', 'interaction_40': '', 'interaction_44': '', 'interaction_6': '', 'interaction_49': '', 'interaction_17': '', 'interaction_41': '', 'interaction_5': '', 'interaction_35': '', 'interaction_14': '', 'interaction_4_other': 'Should I date ryan?', 'interaction_37': '', 'interaction_23': '', 'interaction_21': '', 'interaction_2_other': "But I don't want anything from you.", 'interaction_48': '', 'interaction_13': ''}
+```
+30 Mar 2017 21:03:06 : Cipher, cala, Calamariela#4119, jesus
+30 Mar 2017 21:03:08 : Unity Of Nirvana, bot_chat, Lightshadow#5809, XD
+30 Mar 2017 21:03:09 : Cipher, cala, Wertfuzzy77#0274, interesting
+30 Mar 2017 21:03:27 : Cipher, cala, Wertfuzzy77#0274, ;debug CLEVERBOT[ctx.message.author].history['interaction_1']
+30 Mar 2017 21:03:27 : Cipher, cala, Botfuzzy77#2209, ```py
+but... you just asked me if you should date ryan.
+```
+30 Mar 2017 21:03:31 : Cipher, cala, Wertfuzzy77#0274, o
+30 Mar 2017 21:03:31 : Cipher, cala, Calamariela#4119, @T.A.R.D.I.S can you rub my back?
+30 Mar 2017 21:03:33 : Cipher, cala, Botfuzzy77#2209, Yes. Can you?
+30 Mar 2017 21:03:34 : Cipher, cala, Wertfuzzy77#0274, I can use tthat
+30 Mar 2017 21:03:55 : Cipher, cala, Calamariela#4119, @T.A.R.D.I.S  yes
+30 Mar 2017 21:03:56 : Cipher, cala, Botfuzzy77#2209, How do you know?
+30 Mar 2017 21:04:05 : Cipher, cala, Calamariela#4119, its dumb lol
+30 Mar 2017 21:04:15 : Cipher, cala, Wertfuzzy77#0274, xD
+30 Mar 2017 21:04:20 : Cipher, cala, Wertfuzzy77#0274, ya, not the smartest
+30 Mar 2017 21:04:31 : Cipher, cala, Wertfuzzy77#0274, but it seems like I can make it display your conversation
+30 Mar 2017 21:04:37 : Cipher, cala, Wertfuzzy77#0274, or atleast the last 50 messages
+30 Mar 2017 21:05:22 : Unity Of Nirvana, bot_chat, Lightshadow#5809, =music s
+30 Mar 2017 21:05:22 : Unity Of Nirvana, bot_chat, Ayana#8911, ​:fast_forward: Skipped `Porter Robinson - Goodbye To A World (Audio)`.
+30 Mar 2017 21:05:22 : Cipher, cala, Wertfuzzy77#0274, ;debug CLEVERBOT[ctx.message.author].history['interaction_1_other']
+30 Mar 2017 21:05:23 : Cipher, cala, Botfuzzy77#2209, ```py
+No I didn't.
+```
+30 Mar 2017 21:05:24 : Unity Of Nirvana, bot_chat, Ayana#8911, ​:notes: Now playing: `[Undertale Original] SharaX - Renegade (Sans, Papyrus & SharaX's Vocals)` requested by `Lightshadow#5809`.
+30 Mar 2017 21:05:30 : Cipher, cala, Wertfuzzy77#0274, cool
+30 Mar 2017 21:05:31 : Unity Of Nirvana, bot_chat, Lightshadow#5809, More sharax
+30 Mar 2017 21:05:59 : Cipher, cala, Calamariela#4119, @T.A.R.D.I.S yawn
+30 Mar 2017 21:06:00 : Cipher, cala, Botfuzzy77#2209, What is your name?
+30 Mar 2017 21:06:04 : Unity Of Nirvana, bot_chat, Third_Worm#4804, *nods*
+30 Mar 2017 21:06:10 : Cipher, cala, Calamariela#4119, kill it
+30 Mar 2017 21:06:15 : Cipher, cala, Wertfuzzy77#0274, lol
+30 Mar 2017 21:06:18 : Cipher, cala, Wertfuzzy77#0274, thats mean xD
+30 Mar 2017 21:06:34 : Cipher, cala, Calamariela#4119, its too dumb....so kill
+30 Mar 2017 21:06:45 : Cipher, cala, Wertfuzzy77#0274, I can clear your conversation
+30 Mar 2017 21:06:51 : Cipher, cala, Calamariela#4119, clear
+30 Mar 2017 21:07:01 : Unity Of Nirvana, bot_chat, Lightshadow#5809, How is your slowvee?
+30 Mar 2017 21:07:19 : Cipher, cala, Wertfuzzy77#0274, ;debug CLEVERBOT[ctx.message.server.get_member_named("Calamariela")].history['interaction_1_other']
+30 Mar 2017 21:07:19 : Cipher, cala, Botfuzzy77#2209, ```py
+What is your name?
+```
+30 Mar 2017 21:07:21 : Cipher, cala, Wertfuzzy77#0274, o
+30 Mar 2017 21:07:27 : Cipher, cala, Wertfuzzy77#0274, first try
+30 Mar 2017 21:07:29 : Cipher, cala, Wertfuzzy77#0274, thats new
+30 Mar 2017 21:07:31 : Cipher, cala, Calamariela#4119, Zhuefwin[h3uihreewyfiygehrgbeufureiueuyfvyewgichdshbvuyerghgrbsfdkjhoewgbhjbejrsnfegruyvfhebjshdguyefhweyfgiewuhgweiflhskgflewihfvduykgviurhgjheuyfgiusgrbeugsjakjcmdvnhdgfwiujdgyfjurygcbdsnvsdgfewnhvougseiosjdvjlhgweihfkhbjdhsjfhjegfu4iwhfewfgveuwbfdncijsdditew6ijslldmffyryakncgdjabgisngdgsbvkdnvgwhfoijkdghysdgiyasijhvwtfdisckbscnskdiowyirsgfbdslkawrhuglkhmklkbddkhfjbjfbiejousygdtya6c6s7yriwfjskjcysiujgsgljiusldhovjsdojiesjdo;jhewgrtyiwtaijfweilurhfiwhlfwefeu
+30 Mar 2017 21:07:56 : Cipher, cala, Calamariela#4119, i put nothing special in this btw
+30 Mar 2017 21:08:07 : Cipher, cala, Wertfuzzy77#0274, hush, im looking
+30 Mar 2017 21:08:11 : Cipher, cala, Calamariela#4119, xD
+30 Mar 2017 21:08:12 : Unity Of Nirvana, bot_chat, Third_Worm#4804, Pretty op af
+30 Mar 2017 21:08:13 : Unity Of Nirvana, bot_chat, Third_Worm#4804, 😄
+30 Mar 2017 21:09:14 : Unity Of Nirvana, bot_chat, Lightshadow#5809, =music q sharax hydregon curse
+30 Mar 2017 21:09:14 : Unity Of Nirvana, bot_chat, Ayana#8911, ```css
+[Search Results]
+
+Pick an option below to enqueue it.
+1 : "SharaX- Hydreigon's Curse"
+2 : "SSO | GHV Champ on Nightstar + Buying a Jorvik Wild!"
+3 : "[Speedpaint] Neko guy..?"
+c : Cancel
+```
+30 Mar 2017 21:09:19 : Unity Of Nirvana, bot_chat, Lightshadow#5809, 1
+30 Mar 2017 21:09:20 : Unity Of Nirvana, bot_chat, Ayana#8911, ​Enqueued: `SharaX- Hydreigon's Curse` to position **37**. Run `music play` to play the queue.
+30 Mar 2017 21:09:27 : Cipher, cala, Wertfuzzy77#0274, Zhuefwin[h3uihreewyfiygehrgbeufureiueuyfvyewgichdshbvuyerghgrbsfdkjhoewgbhjbejrsnfegruyvfhebjshdguyefhweyfgiewuhgweiflhskgflewihfvduykgviurhgjheuyfgiusgrbeugsjakjcmdvnhdgfwiujdgyfjurygcbdsnvsdgfewnhvougseiosjdvjlhgweihfkhbjdhsjfhjegfu4iwhfewfgveuwbfdncijsdditew6ijslldmffyryakncgdjabgisngdgsbvkdnvgwhfoijkdghysdgiyasijhvwtfdisckbscnskdiowyirsgfbdslkawr**hug**lkhmklkbddkhfjbjfbiejousygdtya6c6s7yriwfjskjcysiujgsgljiusldhovjsdojiesjdo;jhewgrtyiwtaijfweilurhfiwhlfwefeu
+30 Mar 2017 21:09:30 : Cipher, cala, Wertfuzzy77#0274, hug xD
+30 Mar 2017 21:09:40 : Unity Of Nirvana, bot_chat, Lightshadow#5809, =music q sharax sound of winter
+30 Mar 2017 21:09:41 : Unity Of Nirvana, bot_chat, Ayana#8911, ```css
+[Search Results]
+
+Pick an option below to enqueue it.
+1 : "[Undertronic Original] SharaX - Sound of Winter (Cider, Chronos & Zephyr Vocals)"
+2 : "SharaX | [Undertronic Original] - Sound of Winter (Cider, Chronos & Zephyr Vocals) (1 Hour)"
+3 : "SharaX - Sound of Winter ♫ 10 HOURS"
+c : Cancel
+```
+30 Mar 2017 21:09:44 : Unity Of Nirvana, bot_chat, Lightshadow#5809, 1
+30 Mar 2017 21:09:45 : Unity Of Nirvana, bot_chat, Ayana#8911, ​Enqueued: `[Undertronic Original] SharaX - Sound of Winter (Cider, Chronos & Zephyr Vocals)` to position **38**. Run `music play` to play the queue.
+30 Mar 2017 21:09:59 : Unity Of Nirvana, bot_chat, Lightshadow#5809, =music q undertale drop pop candy
+30 Mar 2017 21:09:59 : Unity Of Nirvana, bot_chat, Ayana#8911, ```css
+[Search Results]
+
+Pick an option below to enqueue it.
+1 : "Drop Pop Candy Undertale MAP (completed)"
+2 : "Undertale - Drop Pop Candy w/ lyrics [1M Reupload]"
+3 : "Drop Pop Candy - Undertale Fan Animation"
+c : Cancel
+```
+30 Mar 2017 21:10:04 : Unity Of Nirvana, bot_chat, Lightshadow#5809, 1
+30 Mar 2017 21:10:05 : Unity Of Nirvana, bot_chat, Ayana#8911, ​Enqueued: `Drop Pop Candy Undertale MAP (completed)` to position **39**. Run `music play` to play the queue.
+30 Mar 2017 21:10:14 : Unity Of Nirvana, bot_chat, Lightshadow#5809, =music s
+30 Mar 2017 21:10:15 : Unity Of Nirvana, bot_chat, Ayana#8911, ​:fast_forward: Skipped `[Undertale Original] SharaX - Renegade (Sans, Papyrus & SharaX's Vocals)`.
+30 Mar 2017 21:10:16 : Unity Of Nirvana, bot_chat, Ayana#8911, ​:notes: Now playing: `N's Castle Bridge Remix v.II` requested by `Lightshadow#5809`.
+30 Mar 2017 21:10:42 : Cipher, cala, Wertfuzzy77#0274, ;debug CLEVERBOT[ctx.message.server.get_member_named("Calamariela")].reset()
+30 Mar 2017 21:10:42 : Cipher, cala, Botfuzzy77#2209, ```py
+None
+```
+30 Mar 2017 21:10:44 : Cipher, cala, Wertfuzzy77#0274, there
+30 Mar 2017 21:10:49 : Cipher, cala, Wertfuzzy77#0274, I reset it
+30 Mar 2017 21:10:52 : Cipher, cala, Wertfuzzy77#0274, try talking again
+30 Mar 2017 21:11:02 : Unity Of Nirvana, bot_chat, Lightshadow#5809, Like it?
+30 Mar 2017 21:11:14 : Cipher, cala, Wertfuzzy77#0274, ;debug CLEVERBOT[ctx.message.server.get_member_named("Calamariela")].count
+30 Mar 2017 21:11:15 : Cipher, cala, Botfuzzy77#2209, ```py
+5
+```
+30 Mar 2017 21:11:16 : Cipher, cala, Wertfuzzy77#0274, hmmmm
+30 Mar 2017 21:12:17 : Unity Of Nirvana, bot_chat, Third_Worm#4804, Ye
+30 Mar 2017 21:12:22 : Unity Of Nirvana, bot_chat, Lightshadow#5809, :D
+30 Mar 2017 21:15:29 : Unity Of Nirvana, bot_chat, Ayana#8911, ​:notes: Now playing: `N's Castle Remix` requested by `Lightshadow#5809`.
+30 Mar 2017 21:15:40 : Unity Of Nirvana, bot_chat, Third_Worm#4804, oooo
+30 Mar 2017 21:15:42 : Unity Of Nirvana, bot_chat, Third_Worm#4804, pokemon
+30 Mar 2017 21:15:47 : Unity Of Nirvana, bot_chat, Lightshadow#5809, Yes

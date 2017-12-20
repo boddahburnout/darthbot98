@@ -1,0 +1,758 @@
+26 Aug 2016 11:27:57 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Cat**(Children of The Raw Man) is now Online!
+26 Aug 2016 11:29:53 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+26 Aug 2016 11:31:37 : Cipher, general, Botfuzzy77#2209, **Calamariela**(Officer) is now Online!
+26 Aug 2016 11:43:04 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+26 Aug 2016 11:43:27 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Cat**(Children of The Raw Man) is now Online!
+26 Aug 2016 11:44:06 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+26 Aug 2016 11:46:06 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+26 Aug 2016 11:53:22 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **I-Like-Pizzja**(Nazi) is now Offline!
+26 Aug 2016 11:54:09 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **I-Like-Pizzja**(Nazi) is now Online!
+26 Aug 2016 11:58:12 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+26 Aug 2016 11:59:55 : Cipher, general, Botfuzzy77#2209, **Calamariela**(Officer) is now Online!
+26 Aug 2016 12:13:38 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+26 Aug 2016 12:14:38 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Cat**(Children of The Raw Man) is now Online!
+26 Aug 2016 12:15:37 : Penguins, general, Botfuzzy77#2209, **chaliema**(Rayquaza) is now Online!
+26 Aug 2016 12:16:19 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+26 Aug 2016 12:18:00 : Cipher, general, Botfuzzy77#2209, **Calamariela**(Officer) is now Online!
+26 Aug 2016 12:19:36 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Online!
+26 Aug 2016 12:20:24 : Penguins, general, chaliema#8598, wow
+26 Aug 2016 12:20:50 : Penguins, general, chaliema#8598, that's mean @xPalkia(lugia)  is a homosexual :3
+26 Aug 2016 12:21:36 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **BrickInJail**(No Role) is now Offline!
+26 Aug 2016 12:23:36 : LimitlessMc, botchat, mitchal#3037, .HELP
+26 Aug 2016 12:23:43 : LimitlessMc, botchat, mitchal#3037, !help
+26 Aug 2016 12:23:45 : LimitlessMc, botchat, Gerald#7099, Hello, I am Gerald, the channel Bot. I can do many things, I can even be extended by plugins (weehee).
+
+Current commands: (note that arguments in <> are required, those in [] not)
+  - !clean  : lets me purge messages, options below
+    - !clean lets me purge the last 50 messages
+    - !clean <number> does the same for n messages (no maximum :P)
+    - !clean infinite removes messages until !kill, even the end of the channel doesn't seem like the limit
+    - !clean images deletes any message containing either a link to a jpg, !meme or an attachment
+    - !clean <string> removes every message containing the string
+    - !clean @someone cleans @someones messages in the last 100
+  - @Gerald (Music Bot) (@Gerald (Music Bot))  : Talk with me :)
+  - !help (!info) : Prints the help
+  - !kill : Kills me and lets me (hopefully) respawn instantly
+  - !ping (!pong) : Ping Pong
+  - (DM) !nobroadcast : Disables update broadcasts from me if you have a server
+  - (DM) !dobroadcast : Enables update broadcasts from me again
+  - !bugreport <message> : File a bug so it will reach my master even if you can't contact him directly (If it's abused, I will block certain ~~ab~~users)
+  - !invite : Add me to your server
+  - !status : Prints some overall status
+  - !plugins : Prints informations about all plugins
+  - (DM) !dropbox <secret> : Register Dropbox. Go to https://ultramc.org:8087/dropbox/authorize
+  - !id <beginning of name> : Outputs their internal id
+  - !serverid : Prints this server's id
+  - !channelid : Let me output the id of thid channel
+  - !roleids : Lists all roles with their ids
+  - !mention <role name> : Mentions everyone in that role
+  - !permissions <username> : Lists all permissions the spefific user has in this channel
+  - !meme <text you wanna write> : Generate a funny image
+  - !pause : Pauses playback
+  - !stop : Stops playback and empties the queue
+  - !queue : Prints the current queue
+26 Aug 2016 12:23:46 : LimitlessMc, botchat, Gerald#7099, - !shufflequeue : Shuffles the queue
+  - !flushqueue : Empties the queue
+  - !skip : Skips the current song
+  - !replay : Adds the current playing song to the queue
+  - !webplayer : Outputs your personal webplayer url
+  - !resetsecret : Resets your webplayer secret in case you lost it
+  - !soundcloud <name> : Plays a specific song from soundcloud
+  - !youtube <name> : Plays a specific song from youtube. Can also be a url
+  - !stats  : Outputs which users wrote the most in this channel
+  - !words  : Outputs which users wrote the most words in this channel
+  - !topwords  : Sends the most common words in this channel
+  - !suspicious  : NSA-like who should be tracked a bit more :)
+  - !weblog  : The channel's weblog for easy search in the browser
+  - !punchcard  : The channel's punchcard - when are people active in here
+  - (DM) !steam Authenticates a steam user linking his steam id to the discord id (visit https://ultramc.org:8087/steam
+  - (DM) !nosteam Deauthenticates a steam user and disables notifications
+  - (DM) !arkserver <name> : Creates an api token for use of the ARK webalarms
+  - (DM) !deleteark <key> : Delete an ARK server from the config. Provide the key as argument
+  - !rate [@mention] : outputs my rating for a user
+  - !luck [@mention] : outputs the luck of a user today
+
+(DM) means that you have to issue this command via a direct message to me.
+26 Aug 2016 12:26:19 : LimitlessMc, mainchat, Lucario#0401, Nice multiaccounting lol
+26 Aug 2016 12:26:40 : LimitlessMc, mainchat, Lucario#0401, 500 bucks every 20 seconds
+26 Aug 2016 12:28:38 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **I-Like-Pizzja**(Nazi) is now Online!
+26 Aug 2016 12:31:36 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+26 Aug 2016 12:32:31 : My Personal Server, general, Botfuzzy77#2209, **Techni**(Member) is now Offline!
+26 Aug 2016 12:34:09 : My Personal Server, general, Botfuzzy77#2209, **Techni**(Member) is now Online!
+26 Aug 2016 12:34:38 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+26 Aug 2016 12:35:05 : Cipher, general, Botfuzzy77#2209, **Calamariela**(Officer) is now Online!
+26 Aug 2016 12:37:02 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+26 Aug 2016 12:39:28 : Cipher, general, Botfuzzy77#2209, **Calamariela**(Officer) is now Online!
+26 Aug 2016 12:42:04 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+26 Aug 2016 12:43:45 : 02Gaming, general, Botfuzzy77#2209, **Wu Tang**(Member) is now Online!
+26 Aug 2016 12:44:52 : My Personal Server, general, Botfuzzy77#2209, **Techni**(Member) is now Offline!
+26 Aug 2016 12:51:57 : My Personal Server, general, Botfuzzy77#2209, **Techni**(Member) is now Online!
+26 Aug 2016 12:51:57 : My Personal Server, general, Botfuzzy77#2209, **Techni**(Member) is now Offline!
+26 Aug 2016 12:52:08 : My Personal Server, general, Botfuzzy77#2209, **Techni**(Member) is now Online!
+26 Aug 2016 12:53:00 : 02Gaming, general, Botfuzzy77#2209, **Wu Tang**(Member) is now Offline!
+26 Aug 2016 12:55:30 : LimitlessMc, botchat, Pokken#0986, ;server
+26 Aug 2016 12:55:33 : LimitlessMc, botchat, Botfuzzy77#2209, *Server is Down :(*
+26 Aug 2016 12:55:33 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+26 Aug 2016 12:56:51 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **I-Like-Pizzja**(Nazi) is now Online!
+26 Aug 2016 12:57:32 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+26 Aug 2016 12:58:15 : My Personal Server, general, Botfuzzy77#2209, **Techni**(Member) is now Offline!
+26 Aug 2016 12:59:13 : Cipher, general, Botfuzzy77#2209, **Calamariela**(Officer) is now Online!
+26 Aug 2016 13:00:24 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Cat**(Children of The Raw Man) is now Offline!
+26 Aug 2016 13:01:46 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+26 Aug 2016 13:02:37 : LimitlessMc, mainchat, XimenChuixue#6316, hi
+26 Aug 2016 13:02:43 : LimitlessMc, mainchat, XimenChuixue#6316, when will the server be back online
+26 Aug 2016 13:02:49 : LimitlessMc, mainchat, XimenChuixue#6316, is it restarting or something
+26 Aug 2016 13:02:53 : LimitlessMc, mainchat, XimenChuixue#6316, its offline
+26 Aug 2016 13:03:03 : LimitlessMc, mainchat, Joker#3619, yeah i was thinking that too i donated and everything
+26 Aug 2016 13:03:03 : LimitlessMc, mainchat, M1g0r3n9#2508, Is the server down?
+26 Aug 2016 13:03:09 : LimitlessMc, mainchat, XimenChuixue#6316, i don't knwo
+26 Aug 2016 13:03:14 : LimitlessMc, mainchat, XimenChuixue#6316, its just offline
+26 Aug 2016 13:03:30 : Cipher, general, Botfuzzy77#2209, **Calamariela**(Officer) is now Online!
+26 Aug 2016 13:03:38 : LimitlessMc, mainchat, XimenChuixue#6316, still offline
+26 Aug 2016 13:04:36 : LimitlessMc, mainchat, XimenChuixue#6316, Five Eternities Later......
+26 Aug 2016 13:04:50 : LimitlessMc, mainchat, XimenChuixue#6316, Still oFfline
+26 Aug 2016 13:05:01 : None, Direct Message with Joker, Joker#3619, /server
+26 Aug 2016 13:05:19 : None, Direct Message with Joker, Joker#3619, ;server
+26 Aug 2016 13:05:29 : None, Direct Message with Joker, Botfuzzy77#2209, *Server is Down :(*
+26 Aug 2016 13:05:41 : LimitlessMc, botchat, Joker#3619, why?
+26 Aug 2016 13:05:57 : LimitlessMc, mainchat, Joker#3619, the server is down atm
+26 Aug 2016 13:06:01 : LimitlessMc, mainchat, M1g0r3n9#2508, Maybe it crashed and the Owner hasn't restart it
+26 Aug 2016 13:06:06 : LimitlessMc, mainchat, Joker#3619, ;server
+26 Aug 2016 13:06:27 : LimitlessMc, mainchat, Joker#3619, look in botchat
+26 Aug 2016 13:06:28 : LimitlessMc, mainchat, XimenChuixue#6316, when will it be back online
+26 Aug 2016 13:06:33 : LimitlessMc, mainchat, XimenChuixue#6316, botchat?
+26 Aug 2016 13:06:36 : LimitlessMc, mainchat, XimenChuixue#6316, wuts dat
+26 Aug 2016 13:06:50 : Cipher, general, Botfuzzy77#2209, **Calamariela**(Officer) is now Online!
+26 Aug 2016 13:07:11 : LimitlessMc, mainchat, XimenChuixue#6316, oh i c it
+26 Aug 2016 13:07:16 : LimitlessMc, mainchat, Joker#3619, look on the left atm we are in #mainchat there is a chat above that saying #botchat
+26 Aug 2016 13:07:39 : LimitlessMc, botchat, XimenChuixue#6316, when will it be back online?
+26 Aug 2016 13:09:41 : LimitlessMc, mainchat, jedikaal#4634, The network and the server is reachable. probably a program crash or so
+26 Aug 2016 13:10:02 : LimitlessMc, mainchat, M1g0r3n9#2508, Program Crash?
+26 Aug 2016 13:11:06 : LimitlessMc, mainchat, XimenChuixue#6316, so and E.T.A of when the server will be back online
+26 Aug 2016 13:11:46 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+26 Aug 2016 13:12:20 : LimitlessMc, mainchat, jedikaal#4634, Like, the same that your minecraft client crashed but not your computer
+26 Aug 2016 13:14:23 : LimitlessMc, mainchat, XimenChuixue#6316, so who are we waiting on
+26 Aug 2016 13:14:26 : LimitlessMc, mainchat, XimenChuixue#6316, xD
+26 Aug 2016 13:14:27 : LimitlessMc, mainchat, XimenChuixue#6316, the Owner
+26 Aug 2016 13:14:30 : LimitlessMc, mainchat, XimenChuixue#6316, ?
+26 Aug 2016 13:15:24 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **I-Like-Pizzja**(Nazi) is now Online!
+26 Aug 2016 13:17:48 : LimitlessMc, mainchat, jedikaal#4634, A admnistrator or someone who can operate the server.
+26 Aug 2016 13:17:58 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **I-Like-Pizzja**(Nazi) is now Offline!
+26 Aug 2016 13:20:44 : LimitlessMc, mainchat, jedikaal#4634, yeah! And I would like to begin building my uber beautiful mansion!
+26 Aug 2016 13:21:23 : LimitlessMc, mainchat, Joker#3619, i havent even started a house yet need to find an area
+26 Aug 2016 13:21:25 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Cat**(Children of The Raw Man) is now Online!
+26 Aug 2016 13:23:10 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+26 Aug 2016 13:23:10 : GreenHillGang, general, Botfuzzy77#2209, **Wertfuzzy77**(No Role) is now Online!
+26 Aug 2016 13:24:39 : LimitlessMc, mainchat, kaisaaaaaaaa#2306, is the server down?
+26 Aug 2016 13:24:43 : LimitlessMc, mainchat, sparkymorgan#3696, yes
+26 Aug 2016 13:24:45 : LimitlessMc, mainchat, Joker#3619, yeah
+26 Aug 2016 13:24:49 : LimitlessMc, mainchat, kaisaaaaaaaa#2306, dang
+26 Aug 2016 13:24:58 : LimitlessMc, mainchat, Joker#3619, yeah i know
+26 Aug 2016 13:25:06 : LimitlessMc, mainchat, sparkymorgan#3696, what happend?
+26 Aug 2016 13:25:18 : LimitlessMc, mainchat, kaisaaaaaaaa#2306, Well I guess since I have nothing better to do
+26 Aug 2016 13:25:22 : LimitlessMc, mainchat, kaisaaaaaaaa#2306, Let me introduce myself
+26 Aug 2016 13:25:43 : LimitlessMc, mainchat, Joker#3619, hey haha
+26 Aug 2016 13:25:50 : LimitlessMc, mainchat, Joker#3619, mines MindlessJoker98
+26 Aug 2016 13:26:07 : LimitlessMc, mainchat, kaisaaaaaaaa#2306, cool
+26 Aug 2016 13:27:26 : LimitlessMc, mainchat, jedikaal#4634, Hello!
+26 Aug 2016 13:27:31 : LimitlessMc, mainchat, sparkymorgan#3696, hi
+26 Aug 2016 13:27:35 : LimitlessMc, mainchat, jedikaal#4634, mine is jedikaal
+26 Aug 2016 13:27:44 : LimitlessMc, mainchat, jedikaal#4634, same as here ^^
+26 Aug 2016 13:28:08 : LimitlessMc, mainchat, Joker#3619, hit me up when the servers online if you want
+26 Aug 2016 13:28:18 : LimitlessMc, mainchat, Bringer#7277, hi im Bringer lol
+26 Aug 2016 13:29:13 : LimitlessMc, mainchat, Joker#3619, lol
+26 Aug 2016 13:29:32 : LimitlessMc, mainchat, jedikaal#4634, yeah ofcourse!
+26 Aug 2016 13:29:41 : LimitlessMc, mainchat, Joker#3619, im just casually doing single player while i wait so holla when the servers back up
+26 Aug 2016 13:29:48 : Cipher, general, Botfuzzy77#2209, **Jabulla**(Grunt) is now Online!
+26 Aug 2016 13:29:57 : LimitlessMc, mainchat, jedikaal#4634, I'm gonna do the same
+26 Aug 2016 13:30:17 : LimitlessMc, mainchat, jedikaal#4634, But I have an other instance for it. My SP is a modded version.
+26 Aug 2016 13:30:44 : LimitlessMc, mainchat, Joker#3619, really what mods?
+26 Aug 2016 13:31:05 : LimitlessMc, mainchat, jedikaal#4634, I try to keep it separate. Otherwise I'm missing my tools and stuff on vanilla
+26 Aug 2016 13:31:29 : LimitlessMc, mainchat, jedikaal#4634, Iron Chests, Buildcraft for now
+26 Aug 2016 13:32:31 : LimitlessMc, mainchat, BAiLS2274#1638, whens the server coming back on aye
+26 Aug 2016 13:32:50 : LimitlessMc, mainchat, Joker#3619, sweet haha mewtwo and serperiors mounts are funny
+26 Aug 2016 13:33:31 : League Of Legends, general, Botfuzzy77#2209, **Alpha is in Senior HS**(No Role) is now Online!
+26 Aug 2016 13:33:31 : Cipher, general, Botfuzzy77#2209, **Alpha is in Senior HS**(Grunt) is now Online!
+26 Aug 2016 13:33:48 : LimitlessMc, mainchat, jedikaal#4634, and mods that I use on this server too are Inventory Tweaks, JEI, Xaero's Minimap
+26 Aug 2016 13:34:13 : LimitlessMc, mainchat, Joker#3619, what do they do?
+26 Aug 2016 13:35:04 : Cipher, general, Alpha is in Senior HS#3869, drama le
+26 Aug 2016 13:35:36 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+26 Aug 2016 13:35:46 : Cipher, general, Alpha is in Senior HS#3869, Akinci - Today at 4:55 AM
+what is gui?
+
+rememger, its "whats a gooey?"
+26 Aug 2016 13:37:20 : Cipher, general, Botfuzzy77#2209, **Calamariela**(Officer) is now Online!
+26 Aug 2016 13:37:26 : LimitlessMc, mainchat, jedikaal#4634, Inventory Tweaks is mostly used to organise my inventory. So, all the berries or apricorns are sorted in my inventory. JEI (Just Enough Items) gives me a catalog of all the items and blocks. It will also give you recipes for the items/blocks. And Minimaps stands for itself.
+26 Aug 2016 13:38:39 : LimitlessMc, mainchat, Joker#3619, oh right yeah i get ya
+26 Aug 2016 13:39:27 : LimitlessMc, mainchat, jedikaal#4634, And as far as I know, it does not conflict with the 'terms of service'
+26 Aug 2016 13:39:37 : LimitlessMc, mainchat, Joker#3619, yeah
+26 Aug 2016 13:40:01 : LimitlessMc, mainchat, jedikaal#4634, No enhancement mods, or mods that give me an advantage over other players.
+26 Aug 2016 13:40:36 : LimitlessMc, mainchat, jedikaal#4634, I will get on the mic within half a hour
+26 Aug 2016 13:40:49 : LimitlessMc, mainchat, jedikaal#4634, When the noise settles down overhere
+26 Aug 2016 13:41:03 : LimitlessMc, mainchat, Joker#3619, yeah well its silent where i am so i can now but noone is
+26 Aug 2016 13:41:48 : LimitlessMc, mainchat, jedikaal#4634, btw, those mods are all forge required mods. So just, drag and drop in the mods folder. No items are haveing conflicts as of MC v 1.10.2
+26 Aug 2016 13:41:56 : LimitlessMc, botchat, BAiLS2274#1638, whens the server coming back online
+26 Aug 2016 13:42:13 : LimitlessMc, mainchat, Joker#3619, yeah i know
+26 Aug 2016 13:42:27 : LimitlessMc, mainchat, jedikaal#4634, I love forge!
+26 Aug 2016 13:42:41 : LimitlessMc, mainchat, Joker#3619, same i just wish i had a beastyer pc
+26 Aug 2016 13:43:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Gerald**(Bots) is now Offline!
+26 Aug 2016 13:43:00 : Penguins, general, Botfuzzy77#2209, **Gerald**(Genesect) is now Offline!
+26 Aug 2016 13:43:05 : LimitlessMc, mainchat, jedikaal#4634, I am a long time player of the Feed The Beast modded packs.
+26 Aug 2016 13:43:29 : LimitlessMc, mainchat, jedikaal#4634, Same here, I'm collecting money and saving it so I can build my own high end computer
+26 Aug 2016 13:43:32 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Gerald**(Bots) is now Online!
+26 Aug 2016 13:43:32 : Penguins, general, Botfuzzy77#2209, **Gerald**(Genesect) is now Online!
+26 Aug 2016 13:44:05 : LimitlessMc, mainchat, Joker#3619, yeah well im on a laptop so you know im povity right here haha
+26 Aug 2016 13:44:21 : LimitlessMc, mainchat, jedikaal#4634, haha I get it
+26 Aug 2016 13:44:35 : LimitlessMc, mainchat, jedikaal#4634, Same here. Have you tried using Optifine?
+26 Aug 2016 13:45:04 : LimitlessMc, mainchat, Joker#3619, yeah but can you use optifine on the beta 1.5?
+26 Aug 2016 13:45:24 : LimitlessMc, mainchat, jedikaal#4634, I'm gonna check
+26 Aug 2016 13:45:31 : LimitlessMc, mainchat, jedikaal#4634, need to install it myself yet haha
+26 Aug 2016 13:45:52 : LimitlessMc, mainchat, Joker#3619, coz if you can that gives me about 30 fps instead of like max 19
+26 Aug 2016 13:46:23 : LimitlessMc, mainchat, jedikaal#4634, Oh fyi, click on the battery icon in the right down corner and set it to high performance.
+26 Aug 2016 13:46:44 : LimitlessMc, mainchat, jedikaal#4634, and keep the power plug, plugged in. That way it can pull full power from the wall outlet
+26 Aug 2016 13:46:56 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Cat**(Children of The Raw Man) is now Online!
+26 Aug 2016 13:47:04 : LimitlessMc, mainchat, Joker#3619, yeah that already is on haha
+26 Aug 2016 13:47:07 : LimitlessMc, mainchat, jedikaal#4634, And if you're worried about damaging the battery, remove it!
+26 Aug 2016 13:47:37 : Cipher, general, Alpha is in Senior HS#3869, je buh lah
+26 Aug 2016 13:47:45 : Cipher, general, Jabulla#3761, Me?
+26 Aug 2016 13:47:45 : LimitlessMc, mainchat, Joker#3619, hahah so you know if optifine is working for this version im up for it hahha
+26 Aug 2016 13:47:55 : Cipher, general, Alpha is in Senior HS#3869, whut
+26 Aug 2016 13:47:57 : Cipher, general, Alpha is in Senior HS#3869, hola
+26 Aug 2016 13:48:10 : Cipher, general, Jabulla#3761, AlphaBenis
+26 Aug 2016 13:48:11 : Cipher, general, Alpha is in Senior HS#3869, its Alpha is in Senior HS
+26 Aug 2016 13:48:28 : Cipher, general, Alpha is in Senior HS#3869, Alpha is in Senior Hell School
+26 Aug 2016 13:48:34 : Cipher, general, Jabulla#3761, Ayyy dude
+26 Aug 2016 13:48:39 : Cipher, general, Jabulla#3761, I don't miss that
+26 Aug 2016 13:48:45 : LimitlessMc, mainchat, jedikaal#4634, I'm loading it right now
+26 Aug 2016 13:48:47 : Cipher, general, Alpha is in Senior HS#3869, lol
+26 Aug 2016 13:48:56 : Cipher, general, Alpha is in Senior HS#3869, @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+26 Aug 2016 13:48:58 : Cipher, general, Alpha is in Senior HS#3869, bye
+26 Aug 2016 13:49:13 : Cipher, general, Alpha is in Senior HS#3869, lol
+26 Aug 2016 13:49:16 : Cipher, general, Jabulla#3761, :3
+26 Aug 2016 13:49:18 : LimitlessMc, mainchat, Joker#3619, what?
+26 Aug 2016 13:49:18 : Cipher, general, Botfuzzy77#2209, **Calamariela**(Officer) is now Online!
+26 Aug 2016 13:49:41 : LimitlessMc, mainchat, jedikaal#4634, Loading minecraft
+26 Aug 2016 13:49:46 : LimitlessMc, mainchat, Joker#3619, ok
+26 Aug 2016 13:49:47 : LimitlessMc, mainchat, jedikaal#4634, I use the pixelmon client
+26 Aug 2016 13:50:03 : LimitlessMc, mainchat, jedikaal#4634, for easy management between versions for the servers and mods.
+26 Aug 2016 13:50:08 : LimitlessMc, mainchat, Joker#3619, yeah same im gunna try the latest version of optifine
+26 Aug 2016 13:50:21 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **I-Like-Pizzja**(Nazi) is now Online!
+26 Aug 2016 13:50:23 : LimitlessMc, mainchat, jedikaal#4634, http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272953-optifine-hd-c3-fps-boost-dynamic-lights-shaders
+26 Aug 2016 13:50:39 : LimitlessMc, mainchat, Joker#3619, whats that?
+26 Aug 2016 13:50:47 : LimitlessMc, mainchat, jedikaal#4634, This is the official page of optifine on the minecraftforum
+26 Aug 2016 13:51:25 : LimitlessMc, mainchat, jedikaal#4634, IT WORKS!
+26 Aug 2016 13:51:33 : LimitlessMc, mainchat, Joker#3619, sweet im gunna try
+26 Aug 2016 13:51:34 : LimitlessMc, mainchat, jedikaal#4634, well optifine
+26 Aug 2016 13:52:08 : LimitlessMc, mainchat, Joker#3619, really?!
+26 Aug 2016 13:52:15 : LimitlessMc, mainchat, jedikaal#4634, yeah man
+26 Aug 2016 13:52:36 : My Personal Server, general, Botfuzzy77#2209, **Techni**(Member) is now Online!
+26 Aug 2016 13:52:45 : LimitlessMc, mainchat, Joker#3619, two secs ill get other mic
+26 Aug 2016 13:52:54 : LimitlessMc, mainchat, jedikaal#4634, alright
+26 Aug 2016 13:53:20 : LimitlessMc, mainchat, jedikaal#4634, brb gonna smoke
+26 Aug 2016 13:54:10 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+26 Aug 2016 13:54:35 : My Personal Server, general, Botfuzzy77#2209, **Techni**(Member) is now Offline!
+26 Aug 2016 13:55:56 : Cipher, general, Botfuzzy77#2209, **Calamariela**(Officer) is now Online!
+26 Aug 2016 13:57:05 : League Of Legends, general, Botfuzzy77#2209, **Alpha is in Senior HS**(No Role) is now Offline!
+26 Aug 2016 13:57:05 : Cipher, general, Botfuzzy77#2209, **Alpha is in Senior HS**(Grunt) is now Offline!
+26 Aug 2016 13:57:56 : Cipher, general, Botfuzzy77#2209, **Calamariela**(Officer) is now Offline!
+26 Aug 2016 13:58:14 : Cipher, general, Botfuzzy77#2209, **Calamariela**(Officer) is now Online!
+26 Aug 2016 13:58:53 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+26 Aug 2016 14:00:14 : Cipher, general, Botfuzzy77#2209, **Calamariela**(Officer) is now Offline!
+26 Aug 2016 14:02:52 : Cipher, general, Botfuzzy77#2209, **Calamariela**(Officer) is now Online!
+26 Aug 2016 14:06:30 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **BrickInJail**(No Role) is now Online!
+26 Aug 2016 14:09:26 : Cipher, general, Botfuzzy77#2209, **Calamariela**(Officer) is now Online!
+26 Aug 2016 14:12:09 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **warnier**(No Role) is now Online!
+26 Aug 2016 14:13:45 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+26 Aug 2016 14:15:28 : Cipher, general, Botfuzzy77#2209, **Calamariela**(Officer) is now Online!
+26 Aug 2016 14:16:59 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+26 Aug 2016 14:17:02 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+26 Aug 2016 14:18:43 : Cipher, general, Botfuzzy77#2209, **Calamariela**(Officer) is now Online!
+26 Aug 2016 14:22:04 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+26 Aug 2016 14:23:04 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Online!
+26 Aug 2016 14:23:04 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Online!
+26 Aug 2016 14:23:04 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Offline!
+26 Aug 2016 14:23:04 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Offline!
+26 Aug 2016 14:23:14 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Online!
+26 Aug 2016 14:23:14 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Online!
+26 Aug 2016 14:24:38 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Online!
+26 Aug 2016 14:24:41 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **I-Like-Pizzja**(Nazi) is now Online!
+26 Aug 2016 14:25:14 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Offline!
+26 Aug 2016 14:25:14 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Offline!
+26 Aug 2016 14:31:43 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+26 Aug 2016 14:35:21 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Schauda**(Priests of The Raw Man) is now Online!
+26 Aug 2016 14:36:06 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Online!
+26 Aug 2016 14:37:44 : Penguins, general, Botfuzzy77#2209, **Survivra**(Deoxys) is now Online!
+26 Aug 2016 14:37:48 : LimitlessMc, mainchat, willdale#5761, hi
+26 Aug 2016 14:38:34 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Schauda**(Priests of The Raw Man) is now Offline!
+26 Aug 2016 14:39:39 : Penguins, general, Survivra#7191, no ? xd
+26 Aug 2016 14:39:43 : Penguins, general, Survivra#7191, homosexual=gay
+26 Aug 2016 14:40:00 : Penguins, general, Survivra#7191, actually straight people normally likes shemales xd
+26 Aug 2016 14:47:15 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Aethex**(Bots) is now Online!
+26 Aug 2016 14:47:53 : Penguins, general, Botfuzzy77#2209, **chaliema**(Rayquaza) is now Online!
+26 Aug 2016 14:49:24 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **I-Like-Pizzja**(Nazi) is now Offline!
+26 Aug 2016 14:50:26 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Online!
+26 Aug 2016 14:54:59 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Gerald**(Bots) is now Offline!
+26 Aug 2016 14:54:59 : Penguins, general, Botfuzzy77#2209, **Gerald**(Genesect) is now Offline!
+26 Aug 2016 14:56:23 : Penguins, general, Botfuzzy77#2209, **Resolate**(Suicune) is now Online!
+26 Aug 2016 14:57:21 : Cipher, general, Botfuzzy77#2209, **Hiraeth**(Grunt) is now Online!
+26 Aug 2016 14:57:22 : Penguins, general, Botfuzzy77#2209, **Hiraeth**(Rayquaza) is now Online!
+26 Aug 2016 14:57:37 : LimitlessMc, botchat, Resolate#7058, !luck
+26 Aug 2016 14:57:43 : LimitlessMc, botchat, Resolate#7058, ;luck
+26 Aug 2016 14:57:43 : LimitlessMc, botchat, Botfuzzy77#2209, Resolate's luck is 32.97 out of 100, which is **Pretty Bad**
+26 Aug 2016 14:57:48 : LimitlessMc, botchat, Resolate#7058, ;server
+26 Aug 2016 14:57:48 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: 23.111.129.82
+26 Aug 2016 14:57:48 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 80 players out of 100
+ *Ping*: 132.63 ms
+ *MC Version*: 1.10.2
+26 Aug 2016 14:57:48 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *Smelwin, DylanTheEgg, Ireiza, M1g0r3n9, willdale, Sl3nderMan, Bigomri1, gogasaajr, PanZHitlerHere, OheyyItsYang, Larsvhs, XxCrepperpvpxX...*
+26 Aug 2016 14:58:53 : Penguins, general, Hiraeth#1962, Holy shit, so many new people
+26 Aug 2016 14:59:00 : Cipher, general, Botfuzzy77#2209, **Calamariela**(Officer) is now Online!
+26 Aug 2016 15:00:03 : Penguins, general, Hiraeth#1962, Any news for the server? Plugins etc?
+26 Aug 2016 15:00:24 : Penguins, general, Resolate#7058, I don't think so
+26 Aug 2016 15:00:28 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Online!
+26 Aug 2016 15:00:28 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Online!
+26 Aug 2016 15:00:32 : Penguins, general, Hiraeth#1962, Alright
+26 Aug 2016 15:00:36 : Penguins, general, Resolate#7058, When was the last time you checked?
+26 Aug 2016 15:00:42 : Penguins, general, Hiraeth#1962, Like a week
+26 Aug 2016 15:00:51 : Penguins, general, Survivra#7191, omg mom
+26 Aug 2016 15:00:55 : Penguins, general, Hiraeth#1962, haai
+26 Aug 2016 15:00:57 : Penguins, general, Resolate#7058, Ah, gyms are back
+26 Aug 2016 15:01:00 : Penguins, general, Hiraeth#1962, !
+26 Aug 2016 15:01:10 : Penguins, general, Resolate#7058, Only 1 so far tho, flying
+26 Aug 2016 15:01:26 : Penguins, general, Resolate#7058, Topheralen
+26 Aug 2016 15:01:29 : Penguins, general, Hiraeth#1962, ah xd
+26 Aug 2016 15:01:41 : Penguins, general, Hiraeth#1962, @Survivra been super busy with school ;-;
+26 Aug 2016 15:01:54 : Penguins, general, Hiraeth#1962, come home like 4-6 pm everyday super tired
+26 Aug 2016 15:03:27 : Penguins, general, Survivra#7191, oh
+26 Aug 2016 15:03:27 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Online!
+26 Aug 2016 15:03:29 : Penguins, general, Survivra#7191, come here mom
+26 Aug 2016 15:03:38 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Online!
+26 Aug 2016 15:03:38 : Penguins, general, Hiraeth#1962, kk
+26 Aug 2016 15:05:57 : Penguins, general, Survivra#7191, crash ffs
+26 Aug 2016 15:06:05 : Penguins, general, Hiraeth#1962, xd
+26 Aug 2016 15:06:11 : Penguins, general, Resolate#7058, lol
+26 Aug 2016 15:07:09 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **warnier**(No Role) is now Online!
+26 Aug 2016 15:07:21 : Penguins, general, Survivra#7191, @xPalkia(lugia)
+26 Aug 2016 15:07:23 : Penguins, general, Survivra#7191, get ur ass
+26 Aug 2016 15:07:25 : Penguins, general, Survivra#7191, im serious
+26 Aug 2016 15:07:57 : Penguins, general, Hiraeth#1962, Are voters gettin' their ranks back yet? :l
+26 Aug 2016 15:08:07 : Penguins, general, Survivra#7191, mom votings is disabled
+26 Aug 2016 15:08:11 : Penguins, general, Survivra#7191, prob like 5ever
+26 Aug 2016 15:08:18 : Penguins, general, Survivra#7191, bc of this "EULA" bullshit
+26 Aug 2016 15:08:18 : Penguins, general, Hiraeth#1962, daamnn
+26 Aug 2016 15:08:20 : Penguins, general, Resolate#7058, No master  balls D;
+26 Aug 2016 15:08:22 : Penguins, general, Hiraeth#1962, ^
+26 Aug 2016 15:08:22 : Penguins, general, Botfuzzy77#2209, ^
+26 Aug 2016 15:08:27 : Penguins, general, Hiraeth#1962, oo right
+26 Aug 2016 15:08:27 : Penguins, general, Survivra#7191, who ever found EULA please die
+26 Aug 2016 15:08:30 : Penguins, general, Hiraeth#1962, ;image balls
+26 Aug 2016 15:08:31 : Penguins, general, Botfuzzy77#2209, https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Set_of_Snookerballs.png/300px-Set_of_Snookerballs.png
+26 Aug 2016 15:08:33 : Penguins, general, Hiraeth#1962, !
+26 Aug 2016 15:08:35 : Penguins, general, Survivra#7191, ;image asssssssss
+26 Aug 2016 15:08:36 : Penguins, general, Botfuzzy77#2209, http://orig03.deviantart.net/b172/f/2011/075/f/9/dat_asssssssss_by_flameabel-d3brzcb.png
+26 Aug 2016 15:08:39 : Penguins, general, Hiraeth#1962, lelel
+26 Aug 2016 15:08:40 : Penguins, general, Survivra#7191, ;image shemale palkia
+26 Aug 2016 15:08:41 : Penguins, general, Botfuzzy77#2209, ERROR
+26 Aug 2016 15:08:43 : Penguins, general, Survivra#7191, SHHISHIS
+26 Aug 2016 15:08:44 : Penguins, general, Hiraeth#1962, XD
+26 Aug 2016 15:08:47 : Penguins, general, Survivra#7191, ;image Shemale
+26 Aug 2016 15:08:48 : Penguins, general, Botfuzzy77#2209, ERROR
+26 Aug 2016 15:08:50 : Penguins, general, Hiraeth#1962, They fixed it yaaas
+26 Aug 2016 15:08:55 : Penguins, general, Hiraeth#1962, ;image palkia x dialga
+26 Aug 2016 15:08:55 : Penguins, general, Botfuzzy77#2209, http://orig07.deviantart.net/f56e/f/2014/358/4/c/dialga_x_palkia_by_metaknighta-d8b2nns.png
+26 Aug 2016 15:08:56 : Penguins, general, Survivra#7191, ;image Hot sext
+26 Aug 2016 15:08:57 : Penguins, general, Botfuzzy77#2209, http://img.ccrd.clearchannel.com/media/mlib/1802/2014/08/default/sext1_0_1407876122.png
+26 Aug 2016 15:08:58 : Penguins, general, Survivra#7191, xD
+26 Aug 2016 15:09:01 : Penguins, general, Survivra#7191, OMGH
+26 Aug 2016 15:09:01 : Penguins, general, Survivra#7191, XD
+26 Aug 2016 15:09:02 : Penguins, general, Hiraeth#1962, HAHHA
+26 Aug 2016 15:09:14 : Penguins, general, Hiraeth#1962, ;image palkia x dialga
+26 Aug 2016 15:09:15 : Penguins, general, Botfuzzy77#2209, http://orig07.deviantart.net/f56e/f/2014/358/4/c/dialga_x_palkia_by_metaknighta-d8b2nns.png
+26 Aug 2016 15:09:16 : Penguins, general, Survivra#7191, ;image palkia x dialga
+26 Aug 2016 15:09:17 : Penguins, general, Botfuzzy77#2209, http://orig07.deviantart.net/f56e/f/2014/358/4/c/dialga_x_palkia_by_metaknighta-d8b2nns.png
+26 Aug 2016 15:09:19 : Penguins, general, Hiraeth#1962, lelele
+26 Aug 2016 15:09:19 : Penguins, general, Survivra#7191, XDDDDDDDDDDDD
+26 Aug 2016 15:09:22 : Penguins, general, Survivra#7191, XDDDD
+26 Aug 2016 15:09:30 : Penguins, general, Survivra#7191, Giratini on the other side
+26 Aug 2016 15:09:31 : Penguins, general, Survivra#7191, xd
+26 Aug 2016 15:09:33 : Penguins, general, Hiraeth#1962, best everrr
+26 Aug 2016 15:09:35 : Penguins, general, Hiraeth#1962, XD
+26 Aug 2016 15:09:47 : Penguins, general, Hiraeth#1962, What this place you tp'd me to btw?
+26 Aug 2016 15:09:54 : Penguins, general, Survivra#7191, toph's gym
+26 Aug 2016 15:09:56 : Penguins, general, Survivra#7191, flying gym
+26 Aug 2016 15:09:58 : Penguins, general, Hiraeth#1962, ooo
+26 Aug 2016 15:10:00 : Penguins, general, Hiraeth#1962, nice
+26 Aug 2016 15:17:20 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Online!
+26 Aug 2016 15:20:22 : LimitlessMc, mainchat, jedikaal#4634, i get called
+26 Aug 2016 15:20:32 : LimitlessMc, mainchat, Joker#3619, ok
+26 Aug 2016 15:27:40 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Online!
+26 Aug 2016 15:31:33 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Online!
+26 Aug 2016 15:32:09 : Cipher, general, Botfuzzy77#2209, **Alpha is in Senior HS**(Grunt) is now Online!
+26 Aug 2016 15:32:09 : League Of Legends, general, Botfuzzy77#2209, **Alpha is in Senior HS**(No Role) is now Online!
+26 Aug 2016 15:35:26 : Penguins, general, Botfuzzy77#2209, **Survivra**(Deoxys) is now Offline!
+26 Aug 2016 15:36:56 : Penguins, general, Botfuzzy77#2209, **Survivra**(Deoxys) is now Online!
+26 Aug 2016 15:37:59 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+26 Aug 2016 15:38:00 : GreenHillGang, general, Botfuzzy77#2209, **Wertfuzzy77**(No Role) is now Online!
+26 Aug 2016 15:46:31 : League Of Legends, general, Botfuzzy77#2209, **Alpha is in Senior HS**(No Role) is now Offline!
+26 Aug 2016 15:46:31 : Cipher, general, Botfuzzy77#2209, **Alpha is in Senior HS**(Grunt) is now Offline!
+26 Aug 2016 15:49:10 : Cipher, general, Botfuzzy77#2209, **Alpha is in Senior HS**(Grunt) is now Online!
+26 Aug 2016 15:49:10 : League Of Legends, general, Botfuzzy77#2209, **Alpha is in Senior HS**(No Role) is now Online!
+26 Aug 2016 15:50:56 : LimitlessMc, mainchat, johannes heed#7921, when will the server update to beta 6?
+26 Aug 2016 15:52:40 : LimitlessMc, mainchat, Gilles#3169, nobody knows
+26 Aug 2016 15:53:28 : LimitlessMc, mainchat, Survivra#7191, omg @Alpha is in Senior HS
+26 Aug 2016 15:53:30 : LimitlessMc, mainchat, Survivra#7191, xd
+26 Aug 2016 15:53:37 : LimitlessMc, mainchat, Alpha is in Senior HS#3869, omg its me
+26 Aug 2016 15:53:40 : LimitlessMc, mainchat, Survivra#7191, gl xd
+26 Aug 2016 15:53:55 : LimitlessMc, mainchat, Alpha is in Senior HS#3869, is hell school
+26 Aug 2016 15:54:11 : LimitlessMc, mainchat, Survivra#7191, nah school is like riding a bike
+26 Aug 2016 15:54:16 : LimitlessMc, mainchat, Alpha is in Senior HS#3869, 7 subjects
+26 Aug 2016 15:54:20 : LimitlessMc, mainchat, Survivra#7191, the only thing is ur in hell and dthe bike is on fire
+26 Aug 2016 15:54:30 : LimitlessMc, mainchat, Alpha is in Senior HS#3869, a fuck ton of vacant periods
+26 Aug 2016 15:54:33 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Online!
+26 Aug 2016 15:54:35 : LimitlessMc, mainchat, Survivra#7191, le
+26 Aug 2016 15:54:39 : LimitlessMc, mainchat, Alpha is in Senior HS#3869, still stressed af due to reqs
+26 Aug 2016 15:54:48 : LimitlessMc, mainchat, Survivra#7191, 4fun9me
+26 Aug 2016 15:56:00 : LimitlessMc, mainchat, Alpha is in Senior H(ell)S#3869, nailed it
+26 Aug 2016 15:58:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Online!
+26 Aug 2016 16:00:51 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Offline!
+26 Aug 2016 16:03:03 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Online!
+26 Aug 2016 16:03:21 : GreenHillGang, general, Botfuzzy77#2209, **Wertfuzzy77**(No Role) is now Online!
+26 Aug 2016 16:03:21 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+26 Aug 2016 16:03:31 : The Pleb Privateers, general, Wertfuzzy77#0274, xD morning joe
+26 Aug 2016 16:03:33 : The Pleb Privateers, general, Wertfuzzy77#0274, And thanks
+26 Aug 2016 16:03:43 : The Pleb Privateers, general, Tally#2764, lol morning
+26 Aug 2016 16:03:47 : The Pleb Privateers, general, enragednuke#2565, @Wertfuzzy77 HAPPY BIRTHDAY KAPPA
+26 Aug 2016 16:03:50 : The Pleb Privateers, general, enragednuke#2565, <:hubLewd:216307396916543498>
+26 Aug 2016 16:03:55 : The Pleb Privateers, general, Wertfuzzy77#0274, Thanks
+26 Aug 2016 16:04:06 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Gilles**(Nazi) is now Offline!
+26 Aug 2016 16:05:08 : LimitlessMc, mainchat, Alpha is in Senior H(ell)S#3869, should be Heper tho
+26 Aug 2016 16:05:12 : The Pleb Privateers, general, enragednuke#2565, @Tally
+26 Aug 2016 16:05:13 : The Pleb Privateers, general, enragednuke#2565, 4
+26 Aug 2016 16:05:13 : The Pleb Privateers, general, enragednuke#2565, days
+26 Aug 2016 16:05:15 : The Pleb Privateers, general, enragednuke#2565, FOUR
+26 Aug 2016 16:05:15 : The Pleb Privateers, general, enragednuke#2565, DAYS
+26 Aug 2016 16:05:21 : The Pleb Privateers, general, Tally#2764, lol
+26 Aug 2016 16:05:22 : The Pleb Privateers, general, Tally#2764, yes
+26 Aug 2016 16:05:31 : The Pleb Privateers, general, enragednuke#2565, my body is ready
+26 Aug 2016 16:05:37 : The Pleb Privateers, general, Wertfuzzy77#0274, Till what?
+26 Aug 2016 16:05:42 : The Pleb Privateers, general, enragednuke#2565, legion
+26 Aug 2016 16:05:46 : The Pleb Privateers, general, enragednuke#2565, new wow expacerino
+26 Aug 2016 16:05:51 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Online!
+26 Aug 2016 16:05:53 : The Pleb Privateers, general, Wertfuzzy77#0274, Ah
+26 Aug 2016 16:05:57 : The Pleb Privateers, general, Wertfuzzy77#0274, Weirdos
+26 Aug 2016 16:06:07 : The Pleb Privateers, general, Wertfuzzy77#0274, How much is this one?
+26 Aug 2016 16:06:36 : The Pleb Privateers, general, enragednuke#2565, $50 as usual for new expacs
+26 Aug 2016 16:06:49 : The Pleb Privateers, general, Wertfuzzy77#0274, xD mucho money
+26 Aug 2016 16:06:51 : The Pleb Privateers, general, enragednuke#2565, all expacs except legion are bundled for $20 tho
+26 Aug 2016 16:06:57 : The Pleb Privateers, general, enragednuke#2565, + free month of game time
+26 Aug 2016 16:07:01 : The Pleb Privateers, general, Wertfuzzy77#0274, Fancy
+26 Aug 2016 16:08:03 : LimitlessMc, mainchat, Wertfuzzy77#0274, @Rachel 'Playing `Mozilla Firefox`' 10/10 game
+26 Aug 2016 16:08:19 : Cipher, general, Botfuzzy77#2209, **Akinci**(Grunt) is now Online!
+26 Aug 2016 16:08:59 : Cipher, general, Akinci#5072, @AlphaWhore HAI
+26 Aug 2016 16:09:16 : Cipher, general, Akinci#5072, Damn thought u were ded
+26 Aug 2016 16:09:17 : Cipher, general, Alpha is in Senior H(ell)S#3869, gooey okei
+26 Aug 2016 16:09:22 : Penguins, general, Botfuzzy77#2209, **Olivia**(Xerneas) is now Online!
+26 Aug 2016 16:09:22 : Cipher, general, Wertfuzzy77#0274, ^
+26 Aug 2016 16:09:22 : Cipher, general, Botfuzzy77#2209, ^
+26 Aug 2016 16:09:24 : Cipher, general, Akinci#5072, Ye gooey
+26 Aug 2016 16:09:35 : LimitlessMc, mainchat, Survivra#7191, ^
+26 Aug 2016 16:09:42 : Cipher, general, Alpha is in Senior H(ell)S#3869, tho irl i say gee you eye
+26 Aug 2016 16:09:52 : Cipher, general, Wertfuzzy77#0274, I say both
+26 Aug 2016 16:09:54 : LimitlessMc, mainchat, Alpha is in Senior H(ell)S#3869, ^
+26 Aug 2016 16:10:03 : Cipher, general, Wertfuzzy77#0274, Mostly G U I tho
+26 Aug 2016 16:10:03 : Cipher, general, Botfuzzy77#2209, **Calamariela**(Officer) is now Online!
+26 Aug 2016 16:10:22 : Cipher, general, Alpha is in Senior H(ell)S#3869, http://limitlessmc.net/f/viewtopic.php?f=20&t=3679
+title pls @Akinci
+26 Aug 2016 16:10:23 : Cipher, general, Botfuzzy77#2209, **I'm not dead**
+#10915 by AlphaBit
+ Sat Aug 13, 2016 4:23 am 
+------------------------------------
+Some of you already know i've been inactive for the past two weeks, and a few of you know why.
+
+If anyone was wondering why, it's because of school, my PC being in sht condition right now and me having no internet connection for the past few weeks. But mostly its about school.
+
+This is just a status post saying im not dead. I still have two weeks of testing the waters to see if my plan will work out. (Which I'll explain soon)
+
+Good day to y'all and see you in the holidays. And if Op Fix PC is successful, a random weekend.
+
+Ta-ta
+26 Aug 2016 16:10:45 : Cipher, general, Akinci#5072, @Calamariela HAI TO YOU TOO
+26 Aug 2016 16:11:09 : Cipher, general, Alpha is in Senior H(ell)S#3869, ah keen see ah keen see ah keen see ah keen see ah keen see ah keen see ah keen see ah keen see ah keen see ah keen see  miss me ah keen see ah keen see ah keen see ah keen see ah keen see ah keen see ah keen see ah keen see ah keen see
+26 Aug 2016 16:11:19 : LimitlessMc, mainchat, Olivia#5408, @Rachel sorry went to sleep last night
+26 Aug 2016 16:11:32 : Cipher, general, Alpha is in Senior H(ell)S#3869, it got cut yay
+26 Aug 2016 16:11:51 : Cipher, general, Wertfuzzy77#0274, We tried
+26 Aug 2016 16:12:32 : Cipher, general, Akinci#5072, Ah lafa beetch ah lafa beetch ah lafa beetch ah lafa beetch
+26 Aug 2016 16:12:44 : Penguins, general, Botfuzzy77#2209, **Olivia**(Xerneas) is now Offline!
+26 Aug 2016 16:13:18 : Cipher, general, Akinci#5072, @Calamariela pfft why do you ignore us
+26 Aug 2016 16:13:23 : Cipher, general, Akinci#5072, ;-;
+26 Aug 2016 16:14:04 : Penguins, general, Botfuzzy77#2209, **Olivia**(Xerneas) is now Online!
+26 Aug 2016 16:14:45 : Cipher, general, Wertfuzzy77#0274, Which I should be doing to, but I'm more of a bum, and have yet to get out of bed lol
+26 Aug 2016 16:15:30 : Cipher, general, Akinci#5072, le bums
+26 Aug 2016 16:15:53 : Cipher, general, Alpha is in Senior H(ell)S#3869, lazy bums
+26 Aug 2016 16:16:04 : Penguins, general, Botfuzzy77#2209, **Olivia**(Xerneas) is now Offline!
+26 Aug 2016 16:17:12 : LimitlessMc, mainchat, Alpha is in Senior H(ell)S#3869, i haz fancy game too
+26 Aug 2016 16:17:46 : GreenHillGang, general, Botfuzzy77#2209, **Wertfuzzy77**(No Role) is now Online!
+26 Aug 2016 16:17:46 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+26 Aug 2016 16:17:50 : Cipher, general, Wertfuzzy77#0274, Si
+26 Aug 2016 16:21:24 : Cipher, general, Botfuzzy77#2209, **Akinci**(Grunt) is now Offline!
+26 Aug 2016 16:22:03 : Cipher, general, Botfuzzy77#2209, **Akinci**(Grunt) is now Online!
+26 Aug 2016 16:24:12 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **BrickInJail**(No Role) is now Online!
+26 Aug 2016 16:24:49 : Cipher, general, Botfuzzy77#2209, **Calamariela**(Officer) is now Online!
+26 Aug 2016 16:25:25 : Cipher, general, Botfuzzy77#2209, **Akinci**(Grunt) is now Offline!
+26 Aug 2016 16:26:16 : Cipher, general, Botfuzzy77#2209, **Akinci**(Grunt) is now Online!
+26 Aug 2016 16:27:20 : Cipher, general, Botfuzzy77#2209, **Calamariela**(Officer) is now Online!
+26 Aug 2016 16:28:16 : Cipher, general, Botfuzzy77#2209, **Akinci**(Grunt) is now Offline!
+26 Aug 2016 16:29:33 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Gilles**(Nazi) is now Online!
+26 Aug 2016 16:30:40 : Cipher, general, Botfuzzy77#2209, **Calamariela**(Officer) is now Online!
+26 Aug 2016 16:31:09 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **warnier**(No Role) is now Online!
+26 Aug 2016 16:39:05 : Cipher, general, Botfuzzy77#2209, **Akinci**(Grunt) is now Online!
+26 Aug 2016 16:41:05 : Cipher, general, Botfuzzy77#2209, **Akinci**(Grunt) is now Offline!
+26 Aug 2016 16:42:27 : Cipher, general, Botfuzzy77#2209, **Akinci**(Grunt) is now Online!
+26 Aug 2016 16:43:28 : GreenHillGang, general, Botfuzzy77#2209, **Wertfuzzy77**(No Role) is now Online!
+26 Aug 2016 16:43:28 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+26 Aug 2016 19:56:41 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+26 Aug 2016 19:57:43 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **warnier**(No Role) is now Online!
+26 Aug 2016 19:57:51 : Cipher, general, Botfuzzy77#2209, **Akinci**(Grunt) is now Online!
+26 Aug 2016 19:58:41 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+26 Aug 2016 19:58:49 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+26 Aug 2016 19:59:06 : LimitlessMc, botchat, Resolate#7058, !luck
+26 Aug 2016 19:59:07 : LimitlessMc, botchat, Gerald#7099, My calculations say that Resolate will have 11.4832947240086040% luck today
+26 Aug 2016 19:59:14 : LimitlessMc, botchat, Resolate#7058, !rate
+26 Aug 2016 19:59:16 : LimitlessMc, botchat, Gerald#7099, Hmmm, I'd say I like Resolate to 10.2947109767891480%
+26 Aug 2016 19:59:18 : LimitlessMc, botchat, Resolate#7058, !words
+26 Aug 2016 19:59:25 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **warnier**(No Role) is now Offline!
+26 Aug 2016 19:59:51 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **I-Like-Pizzja**(Nazi) is now Online!
+26 Aug 2016 20:00:33 : LimitlessMc, botchat, Resolate#7058, The bots are too op
+26 Aug 2016 20:00:49 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+26 Aug 2016 20:00:52 : Penguins, general, Botfuzzy77#2209, **Survivra**(Deoxys) is now Offline!
+26 Aug 2016 20:00:58 : Penguins, general, Resolate#7058, !words
+26 Aug 2016 20:01:00 : Penguins, general, Gerald#7099, These users wrote so many words in this channel:
+
+Botfuzzy77: 4428 (38.70967741935484%)
+Survivra: 3101 (27.109013025614125%)
+chaliema: 1266 (11.06740099659061%)
+xPalkia(lugia): 1002 (8.759506949908209%)
+Unknown User: 544 (4.755660459830405%)
+Resolate: 297 (2.5963808025177024%)
+Olivia: 232 (2.028149313751202%)
+ZyroPlayz: 187 (1.6347582830667018%)
+Gerald: 149 (1.3025614127109013%)
+
+- 3 users were ignored, because they sent less than 1%
+- 11439 words in total
+26 Aug 2016 20:01:50 : League Of Legends, general, Botfuzzy77#2209, **Anarchy**(Officer) is now Offline!
+26 Aug 2016 20:02:26 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **The Innkeeper**(Bots) is now Offline!
+26 Aug 2016 20:03:58 : Cipher, general, Botfuzzy77#2209, **Dudubidu**(Grunt) is now Online!
+26 Aug 2016 20:04:30 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+26 Aug 2016 20:04:32 : Penguins, general, Botfuzzy77#2209, **Survivra**(Deoxys) is now Online!
+26 Aug 2016 20:05:39 : Penguins, general, Survivra#7191, lol
+26 Aug 2016 20:05:50 : LimitlessMc, botchat, MountainDewRed#4034, ;luck
+26 Aug 2016 20:05:50 : LimitlessMc, botchat, Botfuzzy77#2209, MountainDewRed's luck is 80.32 out of 100, which is **AMAZING**
+26 Aug 2016 20:05:50 : Penguins, general, Botfuzzy77#2209, **chaliema**(Rayquaza) is now Online!
+26 Aug 2016 20:05:58 : LimitlessMc, botchat, MountainDewRed#4034, !luck
+26 Aug 2016 20:05:59 : LimitlessMc, botchat, Gerald#7099, My calculations say that undefined will have 66.3309000320721140% luck today
+26 Aug 2016 20:06:30 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+26 Aug 2016 20:06:39 : Cipher, general, Botfuzzy77#2209, **Dudubidu**(Grunt) is now Offline!
+26 Aug 2016 20:06:51 : Cipher, general, Botfuzzy77#2209, **Dudubidu**(Grunt) is now Online!
+26 Aug 2016 20:07:51 : Penguins, general, Botfuzzy77#2209, **chaliema**(Rayquaza) is now Offline!
+26 Aug 2016 20:08:51 : Cipher, general, Botfuzzy77#2209, **Dudubidu**(Grunt) is now Offline!
+26 Aug 2016 20:09:26 : LimitlessMc, botchat, Survivra#7191, !words
+26 Aug 2016 20:10:08 : Penguins, general, Botfuzzy77#2209, **Olivia**(Xerneas) is now Online!
+26 Aug 2016 20:10:41 : Cipher, general, Botfuzzy77#2209, **Jabulla**(Grunt) is now Offline!
+26 Aug 2016 20:14:11 : Penguins, general, Botfuzzy77#2209, **Olivia**(Xerneas) is now Offline!
+26 Aug 2016 20:14:29 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+26 Aug 2016 20:14:29 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+26 Aug 2016 20:16:29 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+26 Aug 2016 20:16:37 : LimitlessMc, mainchat, KenKaneki01#8266, i eat blue whales
+26 Aug 2016 20:18:57 : Cipher, general, Botfuzzy77#2209, **Dudubidu**(Grunt) is now Online!
+26 Aug 2016 20:20:11 : Penguins, general, Survivra#7191, wow this mcdopeman is stealing stuff
+26 Aug 2016 20:20:12 : Penguins, general, Survivra#7191, :/
+26 Aug 2016 20:20:13 : Penguins, general, Survivra#7191, @xPalkia(lugia)
+26 Aug 2016 20:20:18 : Penguins, general, Survivra#7191, Come to the fucking server
+26 Aug 2016 20:20:21 : Penguins, general, Resolate#7058, D;
+26 Aug 2016 20:20:35 : Penguins, general, Resolate#7058, What's he stealing?
+26 Aug 2016 20:21:02 : Penguins, general, Survivra#7191, my fucking 2 gems
+26 Aug 2016 20:21:08 : Penguins, general, Survivra#7191, he first stole my water gem and said
+26 Aug 2016 20:21:14 : Penguins, general, Resolate#7058, xD
+26 Aug 2016 20:21:14 : Penguins, general, Survivra#7191, "it somehow got in to my chest"
+26 Aug 2016 20:21:19 : Penguins, general, Resolate#7058, lmfao
+26 Aug 2016 20:21:25 : Penguins, general, Survivra#7191, and now my poison gem is gone :/
+26 Aug 2016 20:21:31 : Penguins, general, Survivra#7191, Im just gonna untrust his ass
+26 Aug 2016 20:21:32 : Penguins, general, Survivra#7191, xd
+26 Aug 2016 20:21:33 : Penguins, wefuckedup, xPalkia(lugia)#8149, ;afk busy
+26 Aug 2016 20:21:33 : Penguins, wefuckedup, Botfuzzy77#2209, xPalkia(lugia) is now AFK for reason:
+**busy**
+26 Aug 2016 20:21:40 : Penguins, wefuckedup, Survivra#7191, haha b.s
+26 Aug 2016 20:21:42 : Penguins, general, Resolate#7058, Ye do that lol
+26 Aug 2016 20:26:06 : Penguins, general, Survivra#7191, he said " i think my bro stole it"
+26 Aug 2016 20:26:15 : Penguins, general, Survivra#7191, "my brother played on my account"
+26 Aug 2016 20:26:16 : Penguins, general, Resolate#7058, wtf
+26 Aug 2016 20:31:06 : LimitlessMc, botchat, Survivra#7191, !rate
+26 Aug 2016 20:31:07 : LimitlessMc, botchat, Gerald#7099, Hmmm, I'd say I like Survivra to 12.0918743171717150%
+26 Aug 2016 20:31:20 : LimitlessMc, mainchat, Survivra#7191, ik
+26 Aug 2016 20:32:50 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+26 Aug 2016 20:35:59 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+26 Aug 2016 20:36:21 : GreenHillGang, general, Botfuzzy77#2209, **Wertfuzzy77**(No Role) is now Online!
+26 Aug 2016 20:36:21 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+26 Aug 2016 20:38:22 : Cipher, general, Botfuzzy77#2209, **Dudubidu**(Grunt) is now Offline!
+26 Aug 2016 20:38:51 : Cipher, general, Botfuzzy77#2209, **Dudubidu**(Grunt) is now Online!
+26 Aug 2016 20:39:14 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **I-Like-Pizzja**(Nazi) is now Online!
+26 Aug 2016 20:40:43 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Online!
+26 Aug 2016 20:40:47 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Online!
+26 Aug 2016 20:40:55 : Penguins, general, Botfuzzy77#2209, **Survivra**(Deoxys) is now Offline!
+26 Aug 2016 20:42:56 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+26 Aug 2016 20:44:56 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+26 Aug 2016 20:45:02 : Cipher, general, Botfuzzy77#2209, **Dudubidu**(Grunt) is now Offline!
+26 Aug 2016 20:45:13 : Cipher, general, Botfuzzy77#2209, **Dudubidu**(Grunt) is now Online!
+26 Aug 2016 20:45:19 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Dong Ding**(Children of The Raw Man) is now Online!
+26 Aug 2016 20:48:27 : 02Gaming, general, Botfuzzy77#2209, **Wu Tang**(Member) is now Online!
+26 Aug 2016 20:55:41 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Online!
+26 Aug 2016 20:56:37 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **I-Like-Pizzja**(Nazi) is now Online!
+26 Aug 2016 20:59:49 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Dong Ding**(Children of The Raw Man) is now Online!
+26 Aug 2016 20:59:58 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Online!
+26 Aug 2016 21:00:49 : League Of Legends, general, Botfuzzy77#2209, **TheLast1Alive**(Security) is now Online!
+26 Aug 2016 21:02:45 : Cipher, general, Botfuzzy77#2209, **Dudubidu**(Grunt) is now Offline!
+26 Aug 2016 21:02:52 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+26 Aug 2016 21:03:01 : Cipher, general, Botfuzzy77#2209, **Dudubidu**(Grunt) is now Online!
+26 Aug 2016 21:03:30 : League Of Legends, general, Botfuzzy77#2209, **TheLast1Alive**(Security) is now Offline!
+26 Aug 2016 21:04:52 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+26 Aug 2016 21:05:18 : GreenHillGang, general, Botfuzzy77#2209, **Wertfuzzy77**(No Role) is now Online!
+26 Aug 2016 21:05:18 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+26 Aug 2016 21:07:46 : Cipher, general, Botfuzzy77#2209, **Dudubidu**(Grunt) is now Offline!
+26 Aug 2016 21:08:29 : Cipher, music, Akinci#5072, ;join
+26 Aug 2016 21:08:37 : Cipher, music, Akinci#5072, ;playlist Akinci
+26 Aug 2016 21:08:49 : Cipher, music, Akinci#5072, ;songs
+26 Aug 2016 21:08:50 : Cipher, music, Botfuzzy77#2209, **The Following songs are in the Queue**
+26 Aug 2016 21:08:50 : Cipher, music, Botfuzzy77#2209, Justin Bieber - Company (https://www.youtube.com/watch?v=gdx7gN1UyX0)
+Jonas Blue - Perfect Strangers ft. JP Cooper (https://www.youtube.com/watch?v=Ey_hgKCCYU4)
+Møme - Aloha (Official Music Video) ft. Merryn Jeann (https://www.youtube.com/watch?v=1YRW1QRKTBc)
+Major Lazer - Cold Water (feat. Justin Bieber & MØ) (Official Lyric Video) (https://www.youtube.com/watch?v=a59gmGkq_pw)
+Robin Schulz - LA & Las Vegas 2015 (Show me Love) (https://www.youtube.com/watch?v=17Hk9ODBLXI)
+Galantis - No Money (https://www.youtube.com/watch?v=a52Ul2AM92c)
+Seeb - Breathe (Lyric Video) ft. Neev (https://www.youtube.com/watch?v=kzYA34zDmTs)
+Fat Joe, Remy Ma - All The Way Up ft. French Montana, Infared (https://www.youtube.com/watch?v=y2ak_oBeC-I)
+Alvaro Soler - Sofia (https://www.youtube.com/watch?v=qaZ0oAh4evU)
+Total Time is 0:31:54
+26 Aug 2016 21:08:50 : Cipher, music, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+26 Aug 2016 21:09:24 : Cipher, general, Botfuzzy77#2209, **Dudubidu**(Grunt) is now Online!
+26 Aug 2016 21:15:18 : Cipher, general, Botfuzzy77#2209, **Dudubidu**(Grunt) is now Offline!
+26 Aug 2016 21:16:52 : Cipher, general, Botfuzzy77#2209, **Dudubidu**(Grunt) is now Online!
+26 Aug 2016 21:17:48 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **I-Like-Pizzja**(Nazi) is now Online!
+26 Aug 2016 21:26:31 : League Of Legends, general, Botfuzzy77#2209, **TheLast1Alive**(Security) is now Online!
+26 Aug 2016 21:28:31 : League Of Legends, general, Botfuzzy77#2209, **TheLast1Alive**(Security) is now Offline!
+26 Aug 2016 21:30:43 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **I-Like-Pizzja**(Nazi) is now Online!
+26 Aug 2016 21:32:17 : Cipher, general, Botfuzzy77#2209, **Dudubidu**(Grunt) is now Offline!
+26 Aug 2016 21:32:47 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **I-Like-Pizzja**(Nazi) is now Offline!
+26 Aug 2016 21:36:06 : Cipher, general, Botfuzzy77#2209, **Akinci**(Grunt) is now Offline!
+26 Aug 2016 21:36:30 : Cipher, general, Botfuzzy77#2209, **Akinci**(Grunt) is now Online!
+26 Aug 2016 21:37:32 : GreenHillGang, general, Botfuzzy77#2209, **Wertfuzzy77**(No Role) is now Online!
+26 Aug 2016 21:37:32 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+26 Aug 2016 21:37:52 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+26 Aug 2016 21:39:52 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+26 Aug 2016 21:39:52 : Cipher, general, Botfuzzy77#2209, **Akinci**(Grunt) is now Offline!
+26 Aug 2016 21:46:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Daniel**(No Role) is now Online!
+26 Aug 2016 21:47:02 : League Of Legends, general, Botfuzzy77#2209, **Anarchy**(Officer) is now Online!
+26 Aug 2016 21:47:47 : Penguins, general, Botfuzzy77#2209, **Olivia**(Xerneas) is now Online!
+26 Aug 2016 21:47:56 : LimitlessMc, mainchat, Anarchy#7098, Le
+26 Aug 2016 21:49:47 : Penguins, general, Botfuzzy77#2209, **Olivia**(Xerneas) is now Offline!
+26 Aug 2016 21:51:13 : League Of Legends, general, Botfuzzy77#2209, **Anarchy**(Officer) is now Offline!
+26 Aug 2016 21:52:21 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+26 Aug 2016 21:53:32 : LimitlessMc, mainchat, TheMajesticSeal#2289, does anyone from before the server restart even still play
+26 Aug 2016 21:53:37 : LimitlessMc, mainchat, TheMajesticSeal#2289, everyones gone
+26 Aug 2016 21:53:48 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+26 Aug 2016 21:53:52 : LimitlessMc, mainchat, TheMajesticSeal#2289, out of 100 people on their rn i only saw 3 people i knew
+26 Aug 2016 21:54:11 : LimitlessMc, botchat, TheMajesticSeal#2289, !luck
+26 Aug 2016 21:54:12 : LimitlessMc, botchat, Gerald#7099, My calculations say that Knight_Steel (TheMajesticSeal) will have 88.0231017698515200% luck today
+26 Aug 2016 21:54:16 : LimitlessMc, botchat, TheMajesticSeal#2289, !rate
+26 Aug 2016 21:54:16 : LimitlessMc, botchat, Gerald#7099, Hmmm, I'd say I like Knight_Steel (TheMajesticSeal) to 58.6528375045957100%
+26 Aug 2016 21:54:24 : LimitlessMc, botchat, TheMajesticSeal#2289, Good enough Gerald
+26 Aug 2016 21:54:27 : LimitlessMc, botchat, TheMajesticSeal#2289, Good enough
+26 Aug 2016 21:54:58 : 02Gaming, general, Botfuzzy77#2209, **bsaaddict**(Member) is now Online!
+26 Aug 2016 21:55:09 : 02Gaming, general, Botfuzzy77#2209, **bsaaddict**(Member) is now Online!
+26 Aug 2016 21:56:28 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+26 Aug 2016 21:58:28 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+26 Aug 2016 22:00:32 : My Personal Server, general, Botfuzzy77#2209, **Twist3dMindz**(Member) is now Online!
+26 Aug 2016 22:00:32 : 02Gaming, general, Botfuzzy77#2209, **Twist3dMindz**(Member) is now Online!
+26 Aug 2016 22:00:38 : 02Gaming, general, Botfuzzy77#2209, **Twist3dMindz**(Member) is now Online!
+26 Aug 2016 22:00:38 : My Personal Server, general, Botfuzzy77#2209, **Twist3dMindz**(Member) is now Online!
+26 Aug 2016 22:01:08 : Penguins, general, Botfuzzy77#2209, **Olivia**(Xerneas) is now Online!
+26 Aug 2016 22:02:20 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+26 Aug 2016 22:02:32 : LimitlessMc, mainchat, Resolate#7058, Only a few left
+26 Aug 2016 22:02:55 : LimitlessMc, mainchat, Resolate#7058, Techni, Mank and Mystz only left like 2 days ago
+26 Aug 2016 22:03:02 : LimitlessMc, mainchat, Resolate#7058, And a few others
+26 Aug 2016 22:03:07 : Cipher, general, Botfuzzy77#2209, **Akinci**(Grunt) is now Online!
+26 Aug 2016 22:03:08 : Penguins, general, Botfuzzy77#2209, **Olivia**(Xerneas) is now Offline!
+26 Aug 2016 22:03:33 : Cipher, music, Akinci#5072, ;playlist Akinci
+26 Aug 2016 22:03:43 : Cipher, music, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+26 Aug 2016 22:05:36 : LimitlessMc, mainchat, bambam5898#9272, If I had premium, I'd be playing on both servers, buuuuut I don't
+26 Aug 2016 22:05:51 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+26 Aug 2016 22:06:06 : LimitlessMc, mainchat, bambam5898#9272, lol yup
+26 Aug 2016 22:07:29 : Penguins, general, Resolate#7058, Fuck, I'm stuck inside one of Survivra houses xD
+26 Aug 2016 22:10:10 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+26 Aug 2016 22:12:10 : Cipher, music, Akinci#5072, ;song
+26 Aug 2016 22:12:10 : Cipher, music, Botfuzzy77#2209, ```Name: Møme - Aloha (Official Music Video) ft. Merryn Jeann
+URL: <https://www.youtube.com/watch?v=1YRW1QRKTBc>
+Time: 0:03:43
+Views: 10,184,301
+Likes: 66,397, 97.69%
+Dislikes: 1,569, 2.31%
+```
+26 Aug 2016 22:12:11 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+26 Aug 2016 22:12:20 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+26 Aug 2016 22:14:12 : Cipher, music, Akinci#5072, ;leave
+26 Aug 2016 22:14:17 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+26 Aug 2016 22:14:18 : Cipher, music, Akinci#5072, ;join
+26 Aug 2016 22:14:18 : Cipher, music, Botfuzzy77#2209, Sorry, I'm already connected to a channel
+26 Aug 2016 22:14:27 : Cipher, music, Akinci#5072, ;song
+26 Aug 2016 22:14:27 : Cipher, music, Botfuzzy77#2209, ```Name: DJ Snake ft. Justin Bieber - Let Me Love You [Lyric Video]
+URL: <https://www.youtube.com/watch?v=SMs0GnYze34>
+Time: 0:03:26
+Views: 38,697,012
+Likes: 444,757, 98.62%
+Dislikes: 6,221, 1.38%
+```
+26 Aug 2016 22:14:51 : Cipher, music, Akinci#5072, @T.A.R.D.I.S play the songs
+26 Aug 2016 22:14:52 : Cipher, music, Botfuzzy77#2209, Song of Healing?
+26 Aug 2016 22:16:11 : Cipher, music, Akinci#5072, ;leave
+26 Aug 2016 22:16:58 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+26 Aug 2016 22:17:32 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **The Fat Walrus**(Priests of The Raw Man) is now Online!
+26 Aug 2016 22:18:23 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Cat**(Children of The Raw Man) is now Online!
+26 Aug 2016 22:19:07 : LimitlessMc, mainchat, TheMajesticSeal#2289, left?
+26 Aug 2016 22:19:22 : LimitlessMc, mainchat, TheMajesticSeal#2289, @Resolate
+26 Aug 2016 22:19:24 : LimitlessMc, mainchat, TheMajesticSeal#2289, like
+26 Aug 2016 22:19:27 : LimitlessMc, mainchat, TheMajesticSeal#2289, left the server?
+26 Aug 2016 22:19:41 : LimitlessMc, mainchat, Resolate#7058, Ye left the server
+26 Aug 2016 22:19:42 : LimitlessMc, mainchat, Akinci#5072, yes
+26 Aug 2016 22:19:46 : LimitlessMc, mainchat, TheMajesticSeal#2289, wow
+26 Aug 2016 22:20:39 : Cipher, music, Akinci#5072, ;relog
+26 Aug 2016 22:21:20 : Cipher, music, Akinci#5072, fuk
+26 Aug 2016 22:21:24 : Cipher, general, Botfuzzy77#2209, **Dudubidu**(Grunt) is now Online!
+26 Aug 2016 22:21:25 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **The Fat Walrus**(Priests of The Raw Man) is now Online!
+26 Aug 2016 22:22:26 : Penguins, general, Botfuzzy77#2209, **Olivia**(Xerneas) is now Online!
+26 Aug 2016 22:23:24 : Cipher, general, Botfuzzy77#2209, **Dudubidu**(Grunt) is now Offline!
+26 Aug 2016 22:24:51 : Penguins, general, Botfuzzy77#2209, **Olivia**(Xerneas) is now Offline!
+26 Aug 2016 22:27:08 : 02Gaming, general, Botfuzzy77#2209, **bsaaddict**(Member) is now Online!
+26 Aug 2016 22:27:26 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Daniel**(No Role) is now Offline!
+26 Aug 2016 22:28:35 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Daniel**(No Role) is now Online!
+26 Aug 2016 22:29:08 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Daniel**(No Role) is now Offline!
+26 Aug 2016 22:32:02 : 02Gaming, general, Botfuzzy77#2209, **bsaaddict**(Member) is now Offline!
+26 Aug 2016 22:34:26 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Online!
+26 Aug 2016 22:39:52 : League Of Legends, general, Botfuzzy77#2209, **Anarchy**(Officer) is now Online!
+26 Aug 2016 22:42:38 : League Of Legends, general, Botfuzzy77#2209, **Anarchy**(Officer) is now Offline!
+26 Aug 2016 22:42:43 : League Of Legends, general, Botfuzzy77#2209, **Anarchy**(Officer) is now Online!
+26 Aug 2016 22:42:48 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **The Innkeeper**(Bots) is now Online!
+26 Aug 2016 22:42:55 : Cipher, general, Botfuzzy77#2209, **Akinci**(Grunt) is now Offline!
+26 Aug 2016 22:43:28 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+26 Aug 2016 22:44:03 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Cat**(Children of The Raw Man) is now Offline!
+26 Aug 2016 22:44:14 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Cat**(Children of The Raw Man) is now Online!
+26 Aug 2016 22:44:54 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Offline!
+26 Aug 2016 22:48:44 : League Of Legends, general, Botfuzzy77#2209, **Anarchy**(Officer) is now Offline!
+26 Aug 2016 22:52:01 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+26 Aug 2016 22:52:58 : League Of Legends, general, Botfuzzy77#2209, **Anarchy**(Officer) is now Online!
+26 Aug 2016 22:53:00 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+26 Aug 2016 22:54:01 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+26 Aug 2016 22:54:51 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+26 Aug 2016 22:56:35 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Daniel**(No Role) is now Online!
+26 Aug 2016 22:59:29 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!

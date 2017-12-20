@@ -1,0 +1,26 @@
+07 May 2017 03:00:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+07 May 2017 03:00:30 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+07 May 2017 03:00:34 : LimitlessMc, botchat, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=oerZ1cYE-Qk
+07 May 2017 03:00:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;loop
+07 May 2017 03:00:41 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*Billy Joel - Live at Bonnaroo 2015 (Full Concert) (HD)*' **1** more times
+07 May 2017 03:00:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 1
+07 May 2017 03:00:43 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: Billy Joel - Live at Bonnaroo 2015 (Full Concert) (HD)
+07 May 2017 03:00:49 : LimitlessMc, botchat, Wertfuzzy77#0274, ;loop 10
+07 May 2017 03:00:50 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*Billy Joel - Live at Bonnaroo 2015 (Full Concert) (HD)*' **10** more times
+07 May 2017 03:00:52 : LimitlessMc, botchat, Wertfuzzy77#0274, ;loop 20
+07 May 2017 03:00:53 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*Billy Joel - Live at Bonnaroo 2015 (Full Concert) (HD)*' **20** more times
+07 May 2017 03:00:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 14
+07 May 2017 03:00:56 : LimitlessMc, botchat, Botfuzzy77#2209, Removed 0 that 14 requested
+07 May 2017 03:00:58 : LimitlessMc, botchat, Wertfuzzy77#0274, hmm
+07 May 2017 03:01:08 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 15
+07 May 2017 03:01:09 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: Billy Joel - Live at Bonnaroo 2015 (Full Concert) (HD)
+07 May 2017 03:01:12 : LimitlessMc, botchat, Wertfuzzy77#0274, interesting
+07 May 2017 03:01:16 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+07 May 2017 03:01:18 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 03:01:27 : LimitlessMc, botchat, Wertfuzzy77#0274, LOL 2 days of songs
+07 May 2017 03:01:27 : LimitlessMc, botchat, Wertfuzzy77#0274, gg
+07 May 2017 03:02:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;shuffle
+07 May 2017 03:02:12 : LimitlessMc, botchat, Botfuzzy77#2209, Shuffled songs!
+07 May 2017 03:02:19 : LimitlessMc, botchat, Wertfuzzy77#0274, super quick shuffle again
+07 May 2017 03:03:39 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio
+07 May 2017 03:05:08 : LimitlessMc, botchat, Wertfuzzy77#0274, ;music

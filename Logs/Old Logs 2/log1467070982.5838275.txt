@@ -1,0 +1,14 @@
+27 Jun 2016 23:43:08 : Cipher , Wertfuzzy77#0274 , !mutelist
+27 Jun 2016 23:43:08 : Cipher , Botfuzzy77#2209 , No One is Muted
+27 Jun 2016 23:43:20 : Cipher , Wertfuzzy77#0274 , !tempmute someone
+27 Jun 2016 23:44:50 : Cipher , Wertfuzzy77#0274 , so <@&176813995049615360> Are we saying Mari for Officer?
+27 Jun 2016 23:45:42 : Cipher , Wertfuzzy77#0274 , !mute someone
+27 Jun 2016 23:45:42 : Cipher , Botfuzzy77#2209 , Muted someone
+27 Jun 2016 23:45:47 : Cipher , Wertfuzzy77#0274 , !mutelist
+27 Jun 2016 23:45:47 : Cipher , Botfuzzy77#2209 , Mute List:
+someone
+
+27 Jun 2016 23:45:52 : Cipher , Wertfuzzy77#0274 , !tempmute everyone
+27 Jun 2016 23:45:54 : Cipher , Wertfuzzy77#0274 , ...
+27 Jun 2016 23:46:28 : Cipher , Wertfuzzy77#0274 , !relog
+27 Jun 2016 23:46:29 : Cipher , Botfuzzy77#2209 , Relogging...

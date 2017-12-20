@@ -1,0 +1,291 @@
+29 Oct 2016 23:44:58 : The Wild Weebs, weeb, Wertfuzzy77#0274, ;trivia 100
+29 Oct 2016 23:45:33 : The Wild Weebs, weeb, Wertfuzzy77#0274, ;trivia 100
+29 Oct 2016 23:45:33 : The Wild Weebs, weeb, Botfuzzy77#2209, Lets play the Mixed game
+29 Oct 2016 23:45:34 : The Wild Weebs, weeb, Botfuzzy77#2209, Next Question in 5 Seconds
+29 Oct 2016 23:45:39 : The Wild Weebs, weeb, Botfuzzy77#2209, Question 1
+29 Oct 2016 23:45:39 : The Wild Weebs, weeb, Botfuzzy77#2209, Which Pokemon is This?
+**Using the electric charge found in its fur, [Pokemon] stimulates its leg muscles and runs faster than the human eye can follow. It uses friction from the atmosphere to generate electricity. Because of this, its body gives off showers of sparks in seasons with arid air or before a storm. As shown in **
+29 Oct 2016 23:45:40 : The Wild Weebs, weeb, Botfuzzy77#2209, You have Thirty seconds to submit an answer using ;ans [Your Answer]...
+        
+
+**Note:** If you know it and want to save it for the end, be wary that it may not recognize some answers if multiple are simultaneous!
+29 Oct 2016 23:45:43 : The Wild Weebs, weeb, enragedrobo#6009, **Pokemon Ranger to Umi no Ouji Manaphy**
+Link: <https://myanimelist.net/manga/24227>
+**Volumes**: 1
+**Chapters**: 4
+**Status**: Finished
+**Rating**: 6.68 (by 149 users)
+29 Oct 2016 23:45:45 : The Wild Weebs, weeb, enragedrobo#6009, There was an issue searching **Your Answer**. It's likely that the title contains characters not supported by Discord/Python's basic text engine
+
+If this is not the case, please send this bot a message starting with `BUG ` and report the issue! Thanks!
+29 Oct 2016 23:45:56 : The Wild Weebs, weeb, Botfuzzy77#2209, Currently received an answer from: 
+
+You have ten more seconds to respond.
+29 Oct 2016 23:46:11 : The Wild Weebs, weeb, Botfuzzy77#2209, **Here are the results**:
+
+The answer was: **['Electrike']**
+29 Oct 2016 23:46:11 : The Wild Weebs, weeb, Botfuzzy77#2209, Next Question in 5 Seconds
+29 Oct 2016 23:46:16 : The Wild Weebs, weeb, Botfuzzy77#2209, Question 2
+29 Oct 2016 23:46:17 : The Wild Weebs, weeb, Botfuzzy77#2209, What is the Hidden Ability of **Zangoose**
+29 Oct 2016 23:46:17 : The Wild Weebs, weeb, Botfuzzy77#2209, You have Thirty seconds to submit an answer using ;ans [Your Answer]...
+        
+
+**Note:** If you know it and want to save it for the end, be wary that it may not recognize some answers if multiple are simultaneous!
+29 Oct 2016 23:46:19 : The Wild Weebs, weeb, enragedrobo#6009, There was an issue searching **Your Answer**. It's likely that the title contains characters not supported by Discord/Python's basic text engine
+
+If this is not the case, please send this bot a message starting with `BUG ` and report the issue! Thanks!
+29 Oct 2016 23:46:32 : The Wild Weebs, weeb, Botfuzzy77#2209, Currently received an answer from: 
+
+You have ten more seconds to respond.
+29 Oct 2016 23:46:47 : The Wild Weebs, weeb, Botfuzzy77#2209, **Here are the results**:
+
+The answer was: **['Unknow']**
+29 Oct 2016 23:46:47 : The Wild Weebs, weeb, Botfuzzy77#2209, Next Question in 5 Seconds
+29 Oct 2016 23:46:54 : The Wild Weebs, weeb, Botfuzzy77#2209, Question 3
+29 Oct 2016 23:46:55 : The Wild Weebs, weeb, Botfuzzy77#2209, What is the Hidden Ability of **Manaphy**
+29 Oct 2016 23:46:55 : The Wild Weebs, weeb, Botfuzzy77#2209, You have Thirty seconds to submit an answer using ;ans [Your Answer]...
+        
+
+**Note:** If you know it and want to save it for the end, be wary that it may not recognize some answers if multiple are simultaneous!
+29 Oct 2016 23:46:57 : The Wild Weebs, weeb, enragedrobo#6009, There was an issue searching **Your Answer**. It's likely that the title contains characters not supported by Discord/Python's basic text engine
+
+If this is not the case, please send this bot a message starting with `BUG ` and report the issue! Thanks!
+29 Oct 2016 23:47:10 : The Wild Weebs, weeb, Botfuzzy77#2209, Currently received an answer from: 
+
+You have ten more seconds to respond.
+29 Oct 2016 23:47:26 : The Wild Weebs, weeb, Botfuzzy77#2209, **Here are the results**:
+
+The answer was: **['Genderles']**
+29 Oct 2016 23:47:27 : The Wild Weebs, weeb, Botfuzzy77#2209, Next Question in 5 Seconds
+29 Oct 2016 23:47:32 : The Wild Weebs, weeb, Botfuzzy77#2209, Question 4
+29 Oct 2016 23:47:32 : The Wild Weebs, weeb, Botfuzzy77#2209, **What was the Name of the ONLY Dragon Move in Pokemon Red/Blue/Yellow?**
+29 Oct 2016 23:47:32 : The Wild Weebs, weeb, Botfuzzy77#2209, You have Thirty seconds to submit an answer using ;ans [Your Answer]...
+        
+
+**Note:** If you know it and want to save it for the end, be wary that it may not recognize some answers if multiple are simultaneous!
+29 Oct 2016 23:47:34 : The Wild Weebs, weeb, enragedrobo#6009, There was an issue searching **Your Answer**. It's likely that the title contains characters not supported by Discord/Python's basic text engine
+
+If this is not the case, please send this bot a message starting with `BUG ` and report the issue! Thanks!
+29 Oct 2016 23:47:47 : The Wild Weebs, weeb, Botfuzzy77#2209, Currently received an answer from: 
+
+You have ten more seconds to respond.
+29 Oct 2016 23:47:55 : The Wild Weebs, general, Wertfuzzy77#0274, ;debug bot.say("?level")
+29 Oct 2016 23:47:56 : The Wild Weebs, general, Botfuzzy77#2209, ?level
+29 Oct 2016 23:47:56 : The Wild Weebs, general, Botfuzzy77#2209, ?level
+29 Oct 2016 23:47:56 : The Wild Weebs, general, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x000001A649B81588>
+```
+29 Oct 2016 23:47:56 : The Wild Weebs, general, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7f6d50338c88>
+```
+29 Oct 2016 23:47:56 : The Wild Weebs, general, enragedrobo#6009, :newspaper: | **Botfuzzy77's Level Card**
+29 Oct 2016 23:47:56 : The Wild Weebs, general, enragedrobo#6009, :newspaper: | **Botfuzzy77's Level Card**
+29 Oct 2016 23:47:56 : The Wild Weebs, general, enragedrobo#6009, 
+29 Oct 2016 23:47:56 : The Wild Weebs, general, enragedrobo#6009, 
+29 Oct 2016 23:48:03 : The Wild Weebs, weeb, Botfuzzy77#2209, **Here are the results**:
+
+The answer was: **['DragonRage']**
+29 Oct 2016 23:48:03 : The Wild Weebs, weeb, Botfuzzy77#2209, Next Question in 5 Seconds
+29 Oct 2016 23:48:08 : The Wild Weebs, weeb, Botfuzzy77#2209, Question 5
+29 Oct 2016 23:48:09 : The Wild Weebs, weeb, Botfuzzy77#2209, What is the Hidden Ability of **Frillish**
+29 Oct 2016 23:48:09 : The Wild Weebs, weeb, Botfuzzy77#2209, You have Thirty seconds to submit an answer using ;ans [Your Answer]...
+        
+
+**Note:** If you know it and want to save it for the end, be wary that it may not recognize some answers if multiple are simultaneous!
+29 Oct 2016 23:48:12 : The Wild Weebs, weeb, enragedrobo#6009, There was an issue searching **Your Answer**. It's likely that the title contains characters not supported by Discord/Python's basic text engine
+
+If this is not the case, please send this bot a message starting with `BUG ` and report the issue! Thanks!
+29 Oct 2016 23:48:25 : The Wild Weebs, weeb, Botfuzzy77#2209, Currently received an answer from: 
+
+You have ten more seconds to respond.
+29 Oct 2016 23:48:40 : The Wild Weebs, weeb, Botfuzzy77#2209, **Here are the results**:
+
+The answer was: **[' 190 (24.8%']**
+29 Oct 2016 23:48:40 : The Wild Weebs, weeb, Botfuzzy77#2209, Next Question in 5 Seconds
+29 Oct 2016 23:48:40 : The Wild Weebs, weeb, enragedrobo#6009, **:up: | Level Up!**
+29 Oct 2016 23:48:40 : The Wild Weebs, weeb, enragedrobo#6009, 
+29 Oct 2016 23:48:40 : The Wild Weebs, weeb, enragedrobo#6009, **Level 5 Perks**
+Unlocked `?gamble <amt>` and `?train`
+29 Oct 2016 23:48:45 : The Wild Weebs, weeb, Botfuzzy77#2209, Question 6
+29 Oct 2016 23:48:47 : The Wild Weebs, weeb, Botfuzzy77#2209, What is the Hidden Ability of **Meowth**
+29 Oct 2016 23:48:47 : The Wild Weebs, weeb, Botfuzzy77#2209, You have Thirty seconds to submit an answer using ;ans [Your Answer]...
+        
+
+**Note:** If you know it and want to save it for the end, be wary that it may not recognize some answers if multiple are simultaneous!
+29 Oct 2016 23:48:49 : The Wild Weebs, weeb, enragedrobo#6009, There was an issue searching **Your Answer**. It's likely that the title contains characters not supported by Discord/Python's basic text engine
+
+If this is not the case, please send this bot a message starting with `BUG ` and report the issue! Thanks!
+29 Oct 2016 23:49:03 : The Wild Weebs, weeb, Botfuzzy77#2209, Currently received an answer from: 
+
+You have ten more seconds to respond.
+29 Oct 2016 23:49:18 : The Wild Weebs, weeb, Botfuzzy77#2209, **Here are the results**:
+
+The answer was: **[' Unnerve ']**
+29 Oct 2016 23:49:18 : The Wild Weebs, weeb, Botfuzzy77#2209, Next Question in 5 Seconds
+29 Oct 2016 23:49:23 : The Wild Weebs, weeb, Botfuzzy77#2209, Question 7
+29 Oct 2016 23:49:23 : The Wild Weebs, weeb, Botfuzzy77#2209, Which Pokemon is This?
+**[Pokemon] is a short, white, eel-like Pokémon with dark, oval eyes and a red, four-point star-shaped mouth. A wavy, yellow stripe runs along its body, which has a long fin membrane, giving it a tapered shape.
+**
+29 Oct 2016 23:49:24 : The Wild Weebs, weeb, Botfuzzy77#2209, You have Thirty seconds to submit an answer using ;ans [Your Answer]...
+        
+
+**Note:** If you know it and want to save it for the end, be wary that it may not recognize some answers if multiple are simultaneous!
+29 Oct 2016 23:49:29 : The Wild Weebs, weeb, enragedrobo#6009, **Gekijouban Pocket Monsters Diamond & Pearl: Giratina to Sora no Hanataba Shaymin**
+Link: <https://myanimelist.net/manga/22602>
+**Volumes**: 1
+**Chapters**: 4
+**Status**: Finished
+**Rating**: 6.93 (by 154 users)
+29 Oct 2016 23:49:29 : The Wild Weebs, weeb, enragedrobo#6009, There was an issue searching **Your Answer**. It's likely that the title contains characters not supported by Discord/Python's basic text engine
+
+If this is not the case, please send this bot a message starting with `BUG ` and report the issue! Thanks!
+29 Oct 2016 23:49:39 : The Wild Weebs, weeb, Botfuzzy77#2209, Currently received an answer from: 
+
+You have ten more seconds to respond.
+29 Oct 2016 23:49:46 : The Wild Weebs, weeb, enragednuke#2565, a
+29 Oct 2016 23:49:55 : The Wild Weebs, weeb, Botfuzzy77#2209, **Here are the results**:
+
+The answer was: **['Tynamo']**
+29 Oct 2016 23:49:55 : The Wild Weebs, weeb, Botfuzzy77#2209, Next Question in 5 Seconds
+29 Oct 2016 23:50:00 : The Wild Weebs, weeb, Botfuzzy77#2209, Question 8
+29 Oct 2016 23:50:02 : The Wild Weebs, weeb, Botfuzzy77#2209, Which Pokemon is This?
+**[Pokemon] is a round, pink ball with pointed ears and large, blue eyes. It has rubbery, balloon-like skin and small, stubby arms and somewhat long feet. On top of its head is a curled tuft of fur. As seen in Pokémon Stadium, it is filled with air, as a defeated [Pokemon], deflates until it is flat. **
+29 Oct 2016 23:50:02 : The Wild Weebs, weeb, Botfuzzy77#2209, You have Thirty seconds to submit an answer using ;ans [Your Answer]...
+        
+
+**Note:** If you know it and want to save it for the end, be wary that it may not recognize some answers if multiple are simultaneous!
+29 Oct 2016 23:50:07 : The Wild Weebs, weeb, enragedrobo#6009, **Gekijouban Pocket Monsters Diamond & Pearl: Giratina to Sora no Hanataba Shaymin**
+Link: <https://myanimelist.net/manga/22602>
+**Volumes**: 1
+**Chapters**: 4
+**Status**: Finished
+**Rating**: 6.93 (by 154 users)
+**Gekijouban Pocket Monsters Diamond & Pearl: Giratina to Sora no Hanataba Shaymin**
+Link: <https://myanimelist.net/manga/22602>
+**Volumes**: 1
+**Chapters**: 4
+**Status**: Finished
+**Rating**: 6.93 (by 154 users)
+29 Oct 2016 23:50:09 : The Wild Weebs, weeb, enragedrobo#6009, There was an issue searching **Your Answer**. It's likely that the title contains characters not supported by Discord/Python's basic text engine
+
+If this is not the case, please send this bot a message starting with `BUG ` and report the issue! Thanks!
+29 Oct 2016 23:50:17 : The Wild Weebs, weeb, Botfuzzy77#2209, Currently received an answer from: 
+
+You have ten more seconds to respond.
+29 Oct 2016 23:50:32 : The Wild Weebs, weeb, Botfuzzy77#2209, **Here are the results**:
+
+The answer was: **['Jigglypuff']**
+29 Oct 2016 23:50:32 : The Wild Weebs, weeb, Botfuzzy77#2209, Next Question in 5 Seconds
+29 Oct 2016 23:50:37 : The Wild Weebs, weeb, Botfuzzy77#2209, Question 9
+29 Oct 2016 23:50:38 : The Wild Weebs, weeb, Botfuzzy77#2209, Which Pokemon is This?
+**Wani-Wani is a [Pokemon] owned by Marina which she received in The Legend of Thunder! as a Totodile. Its most recent appearance was in A Stand-Up Sit-Down!.
+**
+29 Oct 2016 23:50:38 : The Wild Weebs, weeb, Botfuzzy77#2209, You have Thirty seconds to submit an answer using ;ans [Your Answer]...
+        
+
+**Note:** If you know it and want to save it for the end, be wary that it may not recognize some answers if multiple are simultaneous!
+29 Oct 2016 23:50:43 : The Wild Weebs, weeb, enragedrobo#6009, **Gekijouban Pocket Monsters Diamond & Pearl: Giratina to Sora no Hanataba Shaymin**
+Link: <https://myanimelist.net/manga/22602>
+**Volumes**: 1
+**Chapters**: 4
+**Status**: Finished
+**Rating**: 6.93 (by 154 users)
+29 Oct 2016 23:50:43 : The Wild Weebs, weeb, enragedrobo#6009, There was an issue searching **Your Answer**. It's likely that the title contains characters not supported by Discord/Python's basic text engine
+
+If this is not the case, please send this bot a message starting with `BUG ` and report the issue! Thanks!
+29 Oct 2016 23:50:54 : The Wild Weebs, weeb, Botfuzzy77#2209, Currently received an answer from: 
+
+You have ten more seconds to respond.
+29 Oct 2016 23:51:09 : The Wild Weebs, general, Wertfuzzy77#0274, ;debug bot.say("?level")
+29 Oct 2016 23:51:09 : The Wild Weebs, general, Botfuzzy77#2209, ?level
+29 Oct 2016 23:51:09 : The Wild Weebs, general, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7f6d50262ac8>
+```
+29 Oct 2016 23:51:09 : The Wild Weebs, general, enragedrobo#6009, :newspaper: | **Botfuzzy77's Level Card**
+29 Oct 2016 23:51:09 : The Wild Weebs, general, Botfuzzy77#2209, ?level
+29 Oct 2016 23:51:09 : The Wild Weebs, general, enragedrobo#6009, 
+29 Oct 2016 23:51:09 : The Wild Weebs, weeb, Botfuzzy77#2209, **Here are the results**:
+
+The answer was: **['Feraligatr']**
+29 Oct 2016 23:51:09 : The Wild Weebs, general, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x000001A64B14CAC8>
+```
+29 Oct 2016 23:51:09 : The Wild Weebs, general, enragedrobo#6009, :newspaper: | **Botfuzzy77's Level Card**
+29 Oct 2016 23:51:09 : The Wild Weebs, weeb, Botfuzzy77#2209, Next Question in 5 Seconds
+29 Oct 2016 23:51:09 : The Wild Weebs, general, enragedrobo#6009, 
+29 Oct 2016 23:51:13 : The Wild Weebs, general, Wertfuzzy77#0274, ;debug bot.say("?train")
+29 Oct 2016 23:51:13 : The Wild Weebs, general, Botfuzzy77#2209, ?train
+29 Oct 2016 23:51:13 : The Wild Weebs, general, enragedrobo#6009, You begin training...
+
+You didn't benefit much from basic training...
+
+You begin fighting some monsters in the forest...
+You *lost* to a Lv. **11** **Captain** (Chance: **25.6%**)
+
+You gained **60** XP!
+29 Oct 2016 23:51:14 : The Wild Weebs, general, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7f6d5026b588>
+```
+29 Oct 2016 23:51:14 : The Wild Weebs, general, Botfuzzy77#2209, ?train
+29 Oct 2016 23:51:14 : The Wild Weebs, general, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x000001A64B246748>
+```
+29 Oct 2016 23:51:14 : The Wild Weebs, general, enragedrobo#6009, You are still too tired to train again, try again in 59 minutes.
+29 Oct 2016 23:51:15 : The Wild Weebs, weeb, Botfuzzy77#2209, Question 10
+29 Oct 2016 23:51:17 : The Wild Weebs, weeb, Botfuzzy77#2209, What is the Hidden Ability of **Klinklang**
+29 Oct 2016 23:51:17 : The Wild Weebs, weeb, Botfuzzy77#2209, You have Thirty seconds to submit an answer using ;ans [Your Answer]...
+        
+
+**Note:** If you know it and want to save it for the end, be wary that it may not recognize some answers if multiple are simultaneous!
+29 Oct 2016 23:51:19 : The Wild Weebs, weeb, enragedrobo#6009, There was an issue searching **Your Answer**. It's likely that the title contains characters not supported by Discord/Python's basic text engine
+
+If this is not the case, please send this bot a message starting with `BUG ` and report the issue! Thanks!
+29 Oct 2016 23:51:22 : The Wild Weebs, general, Wertfuzzy77#0274, ;debug bot.say("?gamble 150")
+29 Oct 2016 23:51:22 : The Wild Weebs, general, Botfuzzy77#2209, ?gamble 150
+29 Oct 2016 23:51:22 : The Wild Weebs, general, enragedrobo#6009, The black magic courses through you. You gain a portion of your remaining level.
+29 Oct 2016 23:51:22 : The Wild Weebs, general, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7f6d5026b128>
+```
+29 Oct 2016 23:51:22 : The Wild Weebs, general, Botfuzzy77#2209, ?gamble 150
+29 Oct 2016 23:51:22 : The Wild Weebs, general, enragedrobo#6009, You would have lost offering, but the Grace of Light has saved it. You cannot be saved for another two hours.
+29 Oct 2016 23:51:22 : The Wild Weebs, general, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x000001A64BAD8668>
+```
+29 Oct 2016 23:51:27 : The Wild Weebs, general, Wertfuzzy77#0274, ;debug bot.say("?level")
+29 Oct 2016 23:51:27 : The Wild Weebs, general, Botfuzzy77#2209, ?level
+29 Oct 2016 23:51:27 : The Wild Weebs, general, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7f6d502774a8>
+```
+29 Oct 2016 23:51:27 : The Wild Weebs, general, Botfuzzy77#2209, ?level
+29 Oct 2016 23:51:28 : The Wild Weebs, general, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x000001A64BB3C048>
+```
+29 Oct 2016 23:51:28 : The Wild Weebs, general, enragedrobo#6009, :newspaper: | **Botfuzzy77's Level Card**
+29 Oct 2016 23:51:28 : The Wild Weebs, general, enragedrobo#6009, :newspaper: | **Botfuzzy77's Level Card**
+29 Oct 2016 23:51:28 : The Wild Weebs, general, enragedrobo#6009, 
+29 Oct 2016 23:51:28 : The Wild Weebs, general, enragedrobo#6009, 
+29 Oct 2016 23:51:32 : The Wild Weebs, weeb, Botfuzzy77#2209, Currently received an answer from: 
+
+You have ten more seconds to respond.
+29 Oct 2016 23:51:47 : The Wild Weebs, weeb, Botfuzzy77#2209, **Here are the results**:
+
+The answer was: **['Genderles']**
+29 Oct 2016 23:51:47 : The Wild Weebs, weeb, Botfuzzy77#2209, Next Question in 5 Seconds
+29 Oct 2016 23:51:52 : The Wild Weebs, weeb, Botfuzzy77#2209, Question 11
+29 Oct 2016 23:51:53 : The Wild Weebs, weeb, Botfuzzy77#2209, **What are the coordinates of Spawn? (Where does the /spawn command bring you?) [format your answer in X,Y,Z]**
+29 Oct 2016 23:51:53 : The Wild Weebs, weeb, Botfuzzy77#2209, You have Thirty seconds to submit an answer using ;ans [Your Answer]...
+        
+
+**Note:** If you know it and want to save it for the end, be wary that it may not recognize some answers if multiple are simultaneous!
+29 Oct 2016 23:51:55 : The Wild Weebs, weeb, enragedrobo#6009, There was an issue searching **Your Answer**. It's likely that the title contains characters not supported by Discord/Python's basic text engine
+
+If this is not the case, please send this bot a message starting with `BUG ` and report the issue! Thanks!
+29 Oct 2016 23:51:57 : The Wild Weebs, weeb, enragednuke#2565, SHADDUP
+29 Oct 2016 23:52:00 : The Wild Weebs, weeb, enragednuke#2565, ;debug 1
+29 Oct 2016 23:52:00 : The Wild Weebs, weeb, Botfuzzy77#2209, ```py
+1
+```
+29 Oct 2016 23:52:00 : The Wild Weebs, weeb, Botfuzzy77#2209, ```py
+1
+```
+29 Oct 2016 23:52:05 : The Wild Weebs, weeb, enragednuke#2565, ;debug bot.logout()

@@ -1,0 +1,34 @@
+02 Jan 2017 22:32:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;help
+02 Jan 2017 22:32:11 : LimitlessMc, botchat, Botfuzzy77#2209, ```
+  joined         Says when a member joined.
+  pokemon        Returns Links to Pokemon pages
+  feedback       Returns a link to a Google Forums, where you can leave feedb...
+  source         Returns a link to the source code for this bot
+  server         Returns Information on the Limitless MC server!
+  ev             
+  afk            Sets you as AFK, and the Bot will auto Reply for you with th...
+  help           Shows this message.
+  invite         Returns a Link to the Invite URL for this bot
+  status         Returns the Status of the Bot, along with Additional Informa...
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+02 Jan 2017 22:32:11 : LimitlessMc, botchat, Botfuzzy77#2209, ```
+  help           Shows this message.
+  feedback       Returns a link to a Google Forums, where you can leave feedb...
+  status         Returns the Status of the Bot, along with Additional Informa...
+  server         Returns Information on the Limitless MC server!
+  source         Returns a link to the source code for this bot
+  invite         Returns a Link to the Invite URL for this bot
+  joined         Says when a member joined.
+  ev             
+  pokemon        Returns Links to Pokemon pages
+  afk            Sets you as AFK, and the Bot will auto Reply for you with th...
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+02 Jan 2017 22:32:23 : LimitlessMc, botchat, jjtwilefc#0051, .join
+02 Jan 2017 22:32:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ew
+02 Jan 2017 22:32:37 : LimitlessMc, botchat, jjtwilefc#0051, Le

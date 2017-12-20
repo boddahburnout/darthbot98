@@ -1,0 +1,192 @@
+05 Jan 2017 18:43:04 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, (losses across the board)
+05 Jan 2017 18:43:04 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, 😶
+05 Jan 2017 18:43:04 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, lol, gj
+05 Jan 2017 18:43:05 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;train
+05 Jan 2017 18:43:30 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;whoamI
+05 Jan 2017 18:43:30 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, I think its train that causes it to lag
+05 Jan 2017 18:43:30 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You **Lost** to a Level 25 **Solrock** (32% to beat)
+You **Beat** a Level 12 **Claydol** for 266 XP (66% to beat)
+You **Lost** to a Level 27 **Togekiss** (29% to beat)
+You **Beat** a Level 4 **Lilligant** for 160 XP (80% to beat)
+You **Lost** to a Level 2 **Heatran** (80% to beat)
+05 Jan 2017 18:43:30 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You trained for 427 XP!
+05 Jan 2017 18:43:37 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, maybe I should make a local copy of all the pokemon names, instead ofreading from the API everytime
+05 Jan 2017 18:43:49 : Pokemon Mystery Dungeon, poke_battles, jjtwilefc#0051, ;whoamI
+05 Jan 2017 18:43:50 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, Or like, on startup, it will make a copy
+05 Jan 2017 18:43:53 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, (yee)
+05 Jan 2017 18:44:09 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, (less fetching of everything)
+05 Jan 2017 18:44:13 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ^
+05 Jan 2017 18:44:13 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, ^
+05 Jan 2017 18:44:22 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;whoamI
+05 Jan 2017 18:44:28 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;level
+05 Jan 2017 18:44:28 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Name**: *TherminatorX*
+**Level**: 14
+**XP**: 1555.693181818182/3375
+05 Jan 2017 18:44:38 : Pokemon Mystery Dungeon, poke_battles, jjtwilefc#0051, ;level
+05 Jan 2017 18:44:38 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Name**: *jjtwilefc*
+**Level**: 6
+**XP**: 292/343
+05 Jan 2017 18:44:42 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;level
+05 Jan 2017 18:44:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Name**: *Bakafish*
+**Level**: 0
+**XP**: 0/1
+05 Jan 2017 18:44:44 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, rip
+05 Jan 2017 18:44:49 : Pokemon Mystery Dungeon, poke_battles, jjtwilefc#0051, Le
+05 Jan 2017 18:44:54 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;summon 3
+05 Jan 2017 18:44:54 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait for the current boss to be defeated before you summon a new one!
+05 Jan 2017 18:45:05 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle FPPWI
+05 Jan 2017 18:45:05 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, A Level 0 Boss **Trevenant** has appeared!
+It has 0 Health.
+05 Jan 2017 18:45:05 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 18:45:05 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_p: :regional_indicator_p: :regional_indicator_w: :regional_indicator_i:
+:x: :x: :x: :x: :x:
+05 Jan 2017 18:45:05 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 0 damage
+05 Jan 2017 18:45:05 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 0 Boss **Trevenant** has been defeated!
+05 Jan 2017 18:45:10 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Most Damage by **Bakafish** with **0** damage
+05 Jan 2017 18:45:18 : Pokemon Mystery Dungeon, poke_battles, jjtwilefc#0051, ;pokebattle FDDWI
+05 Jan 2017 18:45:18 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, The Boss has been Defeated! Please check ;pokeboss for stats.
+05 Jan 2017 18:45:21 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, (lol)
+05 Jan 2017 18:45:24 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;summon 3
+05 Jan 2017 18:45:27 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, A Level 1 boss has been summoned
+05 Jan 2017 18:45:30 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, its just ;summon
+05 Jan 2017 18:45:32 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, (check level now)
+05 Jan 2017 18:45:33 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, oh ok
+05 Jan 2017 18:45:35 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;level
+05 Jan 2017 18:45:35 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Name**: *Bakafish*
+**Level**: 1
+**XP**: 0/8
+05 Jan 2017 18:45:36 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, it will summon one at your level
+05 Jan 2017 18:45:40 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, nc
+05 Jan 2017 18:45:50 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle GGGGG
+05 Jan 2017 18:45:50 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, A Level 1 Boss **Charmeleon** has appeared!
+It has 344 Health.
+05 Jan 2017 18:45:50 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 18:45:50 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g:
+:x: :x: :x: :x: :white_check_mark:
+05 Jan 2017 18:45:50 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 1 damage
+05 Jan 2017 18:45:50 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 1 Boss **Charmeleon** has 343 health left.
+05 Jan 2017 18:45:52 : Pokemon Mystery Dungeon, poke_battles, jjtwilefc#0051, ;pokebattle GGGGG
+05 Jan 2017 18:45:54 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, fun
+05 Jan 2017 18:45:55 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 1 Boss **Charmeleon** has 343 health left.
+05 Jan 2017 18:45:55 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 18:45:55 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g:
+:x: :x: :x: :x: :white_check_mark:
+05 Jan 2017 18:45:55 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 6 damage
+05 Jan 2017 18:45:55 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 1 Boss **Charmeleon** has 337 health left.
+05 Jan 2017 18:46:00 : LimitlessMc, mainchat, ruleroftri#6648, Don't bring me into this @Adam
+05 Jan 2017 18:46:00 : Pokemon Mystery Dungeon, poke_battles, jjtwilefc#0051, lol
+05 Jan 2017 18:46:07 : Pokemon Mystery Dungeon, poke_battles, jjtwilefc#0051, We both did the same
+05 Jan 2017 18:46:15 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;pokebattle BBBBG
+05 Jan 2017 18:46:15 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 1 Boss **Charmeleon** has 337 health left.
+05 Jan 2017 18:46:15 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 18:46:15 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_g:
+:x: :white_check_mark: :x: :x: :white_check_mark:
+05 Jan 2017 18:46:15 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 23 damage
+05 Jan 2017 18:46:15 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 1 Boss **Charmeleon** has 314 health left.
+05 Jan 2017 18:46:21 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle EBEEG
+05 Jan 2017 18:46:21 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 1 Boss **Charmeleon** has 314 health left.
+05 Jan 2017 18:46:21 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 18:46:21 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_e: :regional_indicator_b: :regional_indicator_e: :regional_indicator_e: :regional_indicator_g:
+:x: :white_check_mark: :x: :x: :white_check_mark:
+05 Jan 2017 18:46:21 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 30 damage
+05 Jan 2017 18:46:21 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 1 Boss **Charmeleon** has 284 health left.
+05 Jan 2017 18:46:29 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle SBSSG
+05 Jan 2017 18:46:29 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 52 seconds before you can fight the boss again.
+05 Jan 2017 18:46:33 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokeboss
+05 Jan 2017 18:46:33 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, -= **Boss Pokemon** =-
+*Name*: Charmeleon
+*Health*: 284/344 (82.56%)
+*Level*: 1
+Last Combo: :regional_indicator_e: :regional_indicator_b: :regional_indicator_e: :regional_indicator_e: :regional_indicator_g:
+:x: :white_check_mark: :x: :x: :white_check_mark:
+05 Jan 2017 18:46:33 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 18:46:33 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Most Damage by **Wertfuzzy77** with **30** damage
+05 Jan 2017 18:46:33 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 2nd most Damage by *TherminatorX* with *23* damage
+05 Jan 2017 18:46:34 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 3rd most Damage by *jjtwilefc* with *6* damage
+05 Jan 2017 18:46:34 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Assisted by Bakafish
+05 Jan 2017 18:46:35 : LimitlessMc, mainchat, ChesireKat#7022, @Adam  no bring him in and keep me out like now
+05 Jan 2017 18:46:40 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, poor baka
+05 Jan 2017 18:46:47 : LimitlessMc, mainchat, ChesireKat#7022, @ruleroftri take one for the team 😛
+05 Jan 2017 18:46:47 : Pokemon Mystery Dungeon, poke_battles, jjtwilefc#0051, rip
+05 Jan 2017 18:46:51 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, le
+05 Jan 2017 18:46:51 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, (what's the exact calculations again?)
+05 Jan 2017 18:46:53 : LimitlessMc, mainchat, Adam#7575, ;-;
+05 Jan 2017 18:47:05 : LimitlessMc, mainchat, Adam#7575, you are not part of this ruler
+05 Jan 2017 18:47:10 : LimitlessMc, mainchat, Adam#7575, and apparently neither is kat
+05 Jan 2017 18:47:17 : LimitlessMc, mainchat, ruleroftri#6648, I heard tri, now I'm part of it
+05 Jan 2017 18:47:19 : LimitlessMc, mainchat, Adam#7575, and dowritox has been gone for 3 weeks
+05 Jan 2017 18:47:24 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle SBSSG
+05 Jan 2017 18:47:24 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 1 Boss **Charmeleon** has 284 health left.
+05 Jan 2017 18:47:26 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ```py
+        dmg = player['Level']
+        if dmg == 0:
+            dmg = 1
+
+        Total_Damage = [dmg if value else 0 for value in correctOnes]
+        Total_Damage = sum(Total_Damage)
+        if random.random() < 0.10:
+            await self.bot.say("Its a Critical Strike")
+            Total_Damage = int(Total_Damage * 2) + int(0.02 * self.boss.StartingHealth)
+        if correctOnes.count(True) == NUM_MOVES - 1:
+            await self.bot.say("Its Super Effective! The Boss has switched 1/4 of the Super Effective Moves!")
+            Total_Damage = int(Total_Damage * NUM_MOVES) + int(0.05 * self.boss.StartingHealth)
+            for x in range (0, int(NUM_MOVES/4), 1):
+                self.boss.change1()
+        elif correctOnes.count(True) == NUM_MOVES:
+            await self.bot.say("Its a Perfect Combo. The Boss has switched 1/2 of the Super Effective Moves!")
+            Total_Damage = int(Total_Damage * NUM_MOVES * 2) + + int(0.12 * self.boss.StartingHealth)
+            for x in range (0, int(NUM_MOVES/2), 1):
+                self.boss.change1()
+        elif correctOnes.count(True) > NUM_MOVES / 2:
+            await self.bot.say("Its Sort-Of Effective")
+            Total_Damage = int(Total_Damage * 2) + int(0.01 * self.boss.StartingHealth)
+        Total_Damage = int(Total_Damage * random.randrange(75, 125, 5) / 100)
+        await self.bot.say("Your moves did {} damage".format(Total_Damage))
+
+
+        self.boss.Health = self.boss.Health - Total_Damage```
+05 Jan 2017 18:47:26 : LimitlessMc, mainchat, ChesireKat#7022, i haz no name parts in it
+05 Jan 2017 18:47:27 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 18:47:27 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_s: :regional_indicator_b: :regional_indicator_s: :regional_indicator_s: :regional_indicator_g:
+:x: :white_check_mark: :x: :x: :white_check_mark:
+05 Jan 2017 18:47:28 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 1 damage
+05 Jan 2017 18:47:28 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 1 Boss **Charmeleon** has 283 health left.
+05 Jan 2017 18:47:28 : LimitlessMc, mainchat, Adam#7575, so i guess this is now a talhachoudhry solo ship
+05 Jan 2017 18:47:29 : LimitlessMc, mainchat, ChesireKat#7022, 😄
+05 Jan 2017 18:47:36 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, thats the exact calculations xD
+05 Jan 2017 18:47:38 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, python!
+05 Jan 2017 18:47:40 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ^
+05 Jan 2017 18:47:40 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, ^
+05 Jan 2017 18:47:44 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, gotta love it
+05 Jan 2017 18:47:45 : LimitlessMc, mainchat, Adam#7575, we'll get him a stuffed bear he'll be fine on the dinghy on his own
+05 Jan 2017 18:47:49 : LimitlessMc, mainchat, ruleroftri#6648, No, you brought me aboard, now I'm a part of this ship matey
+05 Jan 2017 18:48:01 : LimitlessMc, mainchat, ChesireKat#7022, ^
+05 Jan 2017 18:48:01 : LimitlessMc, mainchat, Botfuzzy77#2209, ^
+05 Jan 2017 18:48:11 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;pokebattle FBDFG
+05 Jan 2017 18:48:11 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 1 Boss **Charmeleon** has 283 health left.
+05 Jan 2017 18:48:11 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 18:48:11 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_b: :regional_indicator_d: :regional_indicator_f: :regional_indicator_g:
+:x: :white_check_mark: :x: :x: :white_check_mark:
+05 Jan 2017 18:48:11 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 29 damage
+05 Jan 2017 18:48:11 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 1 Boss **Charmeleon** has 254 health left.
+05 Jan 2017 18:48:24 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle DBFDG
+05 Jan 2017 18:48:24 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 1 Boss **Charmeleon** has 254 health left.
+05 Jan 2017 18:48:24 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 18:48:24 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_d: :regional_indicator_b: :regional_indicator_f: :regional_indicator_d: :regional_indicator_g:
+:x: :white_check_mark: :x: :x: :white_check_mark:
+05 Jan 2017 18:48:24 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 32 damage
+05 Jan 2017 18:48:24 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 1 Boss **Charmeleon** has 222 health left.
+05 Jan 2017 18:48:34 : LimitlessMc, mainchat, ChesireKat#7022, i only see tris ame in there Xd tbh
+05 Jan 2017 18:48:39 : LimitlessMc, mainchat, ChesireKat#7022, where are the others?
+05 Jan 2017 18:48:49 : LimitlessMc, mainchat, ruleroftri#6648, Also #2manysecretchats
+05 Jan 2017 18:48:55 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;join
+05 Jan 2017 18:48:57 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;playlist Shelter
+05 Jan 2017 18:49:05 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;song
+05 Jan 2017 18:49:05 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Name**: Shelter - Porter Robinson & Madeon [Fingerstyle Guitar Cover by Eddie van der Meer]
+**Requester**: Wertfuzzy77
+**URL**: <https://www.youtube.com/watch?v=NtOJw5DUrKw>
+```py
+Time: 0:03:56
+Views: 151,770
+Likes: 8,926, 99.73%
+Dislikes: 24, 0.27%```

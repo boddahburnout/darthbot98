@@ -1,0 +1,1139 @@
+22 Jul 2017 15:48:12 : Proton Gaming Network, grandgeneral, Botfuzzy77#2209, Welcome @DDriggs00 to Proton Gaming Network!
+22 Jul 2017 15:49:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+22 Jul 2017 15:49:26 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+22 Jul 2017 15:49:27 : LimitlessMc, botchat, Wertfuzzy77#0274, ;radio
+22 Jul 2017 15:49:27 : LimitlessMc, botchat, Botfuzzy77#2209, **Please choose one of these options**: 
+```py
+Electro Hub       https://temp.discord.fm/libraries/electro-hub
+Chill Corner      https://temp.discord.fm/libraries/chill-corner
+Korean Madness    https://temp.discord.fm/libraries/korean-madness
+Japanese Lounge   https://temp.discord.fm/libraries/japanese-lounge
+Classical         https://temp.discord.fm/libraries/classical
+Retro Renegade    https://temp.discord.fm/libraries/retro-renegade
+Metal Mix         https://temp.discord.fm/libraries/metal-mix
+Hip-hop           https://temp.discord.fm/libraries/hip-hop
+Electro Swing     https://temp.discord.fm/libraries/electro-swing
+Purely Pop        https://temp.discord.fm/libraries/purely-pop
+Rock-n-Roll       https://temp.discord.fm/libraries/rock-n-roll
+Coffee-house Jazz https://temp.discord.fm/libraries/coffee-house-jazz```
+Example: `;Radio Purely Pop`
+22 Jul 2017 15:49:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ;radio purely pop
+22 Jul 2017 15:49:30 : LimitlessMc, botchat, Botfuzzy77#2209, Now listening to **Purely Pop** radio channel
+22 Jul 2017 15:49:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 15:49:55 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 4 seconds before you can mine again.
+22 Jul 2017 15:50:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 15:50:06 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 15:50:08 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 15:50:08 : LimitlessMc, botchat, Botfuzzy77#2209, You are exhausted from Mining...
+22 Jul 2017 15:52:28 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, __CharaDStoryshift__ left the server!
+22 Jul 2017 15:53:07 : LimitlessMc, botchat, Wertfuzzy77#0274, ;leave
+22 Jul 2017 15:53:07 : LimitlessMc, botchat, Botfuzzy77#2209, The Bot isnt connected in this server!
+22 Jul 2017 15:54:34 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 15:54:35 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 34 seconds before you can mine again.
+22 Jul 2017 15:54:36 : LimitlessMc, botchat, Wertfuzzy77#0274, ....
+22 Jul 2017 15:54:37 : LimitlessMc, botchat, Wertfuzzy77#0274, die
+22 Jul 2017 15:54:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cooldown
+22 Jul 2017 15:54:40 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You can Train right now!
+**Gamble**
+You can Gamble right now!
+22 Jul 2017 15:54:40 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You can Train right now!
+**Gamble**
+You can Gamble right now!
+22 Jul 2017 15:54:52 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, __Shadowfire1217__ has joined the server!
+22 Jul 2017 15:56:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 15:56:05 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 15:56:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lv
+22 Jul 2017 15:56:17 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 15:56:18 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 15:56:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 15:56:22 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 15:56:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 15:56:48 : LimitlessMc, botchat, KidKraft#7732, ;train
+22 Jul 2017 15:56:51 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 15:56:51 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 15:56:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 15:56:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 15:56:57 : LimitlessMc, botchat, KidKraft#7732, ;mine
+22 Jul 2017 15:57:00 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 15:57:06 : LimitlessMc, botchat, Wertfuzzy77#0274, thats a new thing 😛
+22 Jul 2017 15:57:11 : LimitlessMc, botchat, Wertfuzzy77#0274, going to replace ;gamble
+22 Jul 2017 15:57:17 : LimitlessMc, botchat, Wertfuzzy77#0274, it costs 10% of your level XP to use
+22 Jul 2017 15:57:31 : LimitlessMc, botchat, Wertfuzzy77#0274, rn its only on the test bot, so feel free to use it as much as you want
+22 Jul 2017 15:57:38 : LimitlessMc, botchat, KidKraft#7732, Sweet
+22 Jul 2017 15:57:49 : LimitlessMc, botchat, KidKraft#7732, Never really liked gamble anyway
+22 Jul 2017 15:57:52 : LimitlessMc, botchat, Wertfuzzy77#0274, ^
+22 Jul 2017 15:57:52 : LimitlessMc, botchat, Botfuzzy77#2209, ^
+22 Jul 2017 15:57:52 : LimitlessMc, botchat, Botfuzzy77#2209, ^
+22 Jul 2017 15:57:54 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 15:57:54 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 206 seconds before you can mine again.
+22 Jul 2017 15:57:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ...
+22 Jul 2017 16:01:20 : LimitlessMc, botchat, StubbyMuffins#1053, ;train
+22 Jul 2017 16:01:22 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:01:22 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:01:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:01:56 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 16:01:59 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:02:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;-;
+22 Jul 2017 16:02:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 16:02:06 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:02:21 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 16:02:24 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:02:26 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:05:14 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 16:05:17 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:05:19 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:07:00 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 16:07:01 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 194 seconds before you can mine again.
+22 Jul 2017 16:07:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ...
+22 Jul 2017 16:07:06 : LimitlessMc, botchat, Wertfuzzy77#0274, ugh
+22 Jul 2017 16:07:16 : LimitlessMc, botchat, Wertfuzzy77#0274, why did I have to patch the ;relog and cooldown bug
+22 Jul 2017 16:08:08 : LimitlessMc, botchat, StubbyMuffins#1053, wert unlock the game for ark server
+22 Jul 2017 16:08:11 : LimitlessMc, botchat, StubbyMuffins#1053, if you can bb
+22 Jul 2017 16:08:31 : LimitlessMc, botchat, Wertfuzzy77#0274, hmm?
+22 Jul 2017 16:08:38 : LimitlessMc, botchat, Wertfuzzy77#0274, oh, lol, you wanna be able to play it there now?
+22 Jul 2017 16:08:50 : LimitlessMc, mainchat, jjtwilefc#7374, @ruleroftri I probably should have put that in pm's but for the record there isn't much left to get banned from
+22 Jul 2017 16:08:53 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 16:08:54 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 81 seconds before you can mine again.
+22 Jul 2017 16:08:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ...
+22 Jul 2017 16:08:59 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, Shadowfire1217 @Pixel It is updated
+22 Jul 2017 16:09:08 : Lycryisic, lycrysic-modded-chat, Pixel Zane#2042, Oki
+22 Jul 2017 16:09:13 : Lycryisic, lycrysic-modded-chat, Lastshadow#5809, join me?
+22 Jul 2017 16:09:23 : Lycryisic, lycrysic-modded-chat, Pixel Zane#2042, sure
+22 Jul 2017 16:09:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 16:09:38 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 36 seconds before you can mine again.
+22 Jul 2017 16:09:40 : LimitlessMc, botchat, Wertfuzzy77#0274, DIE
+22 Jul 2017 16:10:22 : LimitlessMc, botchat, Wertfuzzy77#0274, next push it will be unlocked @StubbyMuffins making a big patch today
+22 Jul 2017 16:10:41 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 16:10:44 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:10:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:10:49 : LimitlessMc, botchat, Wertfuzzy77#0274, 😄
+22 Jul 2017 16:13:43 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 16:13:46 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:13:48 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:14:49 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 16:14:49 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 114 seconds before you can mine again.
+22 Jul 2017 16:14:51 : LimitlessMc, botchat, Wertfuzzy77#0274, die
+22 Jul 2017 16:17:50 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, Silvermane .........
+22 Jul 2017 16:18:10 : None, Direct Message with TherminatorX, TherminatorX#6644, ;train
+22 Jul 2017 16:18:13 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+22 Jul 2017 16:18:15 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+22 Jul 2017 16:18:18 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+22 Jul 2017 16:18:18 : LimitlessMc, botchat, StubbyMuffins#1053, ok thanks man @Wertfuzzy77
+22 Jul 2017 16:18:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 16:18:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:18:28 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:18:35 : LimitlessMc, botchat, StubbyMuffins#1053, yeah started server up again with new host
+22 Jul 2017 16:18:35 : LimitlessMc, botchat, Wertfuzzy77#0274, 😄
+22 Jul 2017 16:18:43 : LimitlessMc, botchat, StubbyMuffins#1053, hopefully this one doesnt drain bank account
+22 Jul 2017 16:18:47 : LimitlessMc, botchat, Wertfuzzy77#0274, lol
+22 Jul 2017 16:18:52 : LimitlessMc, botchat, StubbyMuffins#1053, last fucks left me with 33 bucks for almost 2 weeks
+22 Jul 2017 16:18:54 : LimitlessMc, botchat, StubbyMuffins#1053, zzzzzzzzzzzzz
+22 Jul 2017 16:19:12 : LimitlessMc, botchat, StubbyMuffins#1053, took out like almost 230 for one paymet cuz they fucked up
+22 Jul 2017 16:19:22 : LimitlessMc, botchat, StubbyMuffins#1053, almost triple charged me for a single month
+22 Jul 2017 16:19:38 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+22 Jul 2017 16:19:40 : LimitlessMc, botchat, Wertfuzzy77#0274, sux
+22 Jul 2017 16:19:46 : LimitlessMc, botchat, StubbyMuffins#1053, yeah dude i was fucking livid
+22 Jul 2017 16:19:53 : LimitlessMc, botchat, StubbyMuffins#1053, then took them almost a week to refund
+22 Jul 2017 16:19:59 : LimitlessMc, botchat, StubbyMuffins#1053, like breh
+22 Jul 2017 16:20:01 : LimitlessMc, botchat, Wertfuzzy77#0274, yeah, switch hosts lol
+22 Jul 2017 16:20:06 : LimitlessMc, botchat, StubbyMuffins#1053, did man lel
+22 Jul 2017 16:20:12 : LimitlessMc, botchat, StubbyMuffins#1053, working on new serber now
+22 Jul 2017 16:20:17 : LimitlessMc, botchat, Wertfuzzy77#0274, fancy
+22 Jul 2017 16:20:18 : LimitlessMc, botchat, Wertfuzzy77#0274, ;srbr
+22 Jul 2017 16:20:18 : LimitlessMc, botchat, Botfuzzy77#2209, Dont Be Lazy, Type ;server
+22 Jul 2017 16:20:19 : LimitlessMc, botchat, Botfuzzy77#2209, Dont Be Lazy, Type ;server
+22 Jul 2017 16:20:25 : LimitlessMc, botchat, StubbyMuffins#1053, kek
+22 Jul 2017 16:20:54 : LimitlessMc, mainchat, StubbyMuffins#1053, i can still ban you from discord 😃
+22 Jul 2017 16:21:26 : LimitlessMc, mainchat, Wertfuzzy77#0274, same 😄
+22 Jul 2017 16:24:34 : LimitlessMc, mainchat, AlphaBit#3869, le
+22 Jul 2017 16:25:05 : LimitlessMc, botchat, AlphaBit#3869, ;cd
+22 Jul 2017 16:25:05 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You can Train right now!
+**Gamble**
+You can Gamble right now!
+22 Jul 2017 16:25:36 : LimitlessMc, botchat, AlphaBit#3869, ;srbr
+22 Jul 2017 16:25:36 : LimitlessMc, botchat, Botfuzzy77#2209, Dont Be Lazy, Type ;server
+22 Jul 2017 16:25:36 : LimitlessMc, botchat, Botfuzzy77#2209, Dont Be Lazy, Type ;server
+22 Jul 2017 16:25:45 : LimitlessMc, botchat, AlphaBit#3869, exdee
+22 Jul 2017 16:25:58 : LimitlessMc, botchat, AlphaBit#3869, ;mine
+22 Jul 2017 16:26:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:26:03 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:26:11 : LimitlessMc, botchat, AlphaBit#3869, sux
+22 Jul 2017 16:26:55 : LimitlessMc, botchat, AlphaBit#3869, ;pbs
+22 Jul 2017 16:26:55 : LimitlessMc, botchat, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> medium to fight and reveal the boss.
+22 Jul 2017 16:26:55 : LimitlessMc, botchat, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> medium to fight and reveal the boss.
+22 Jul 2017 16:27:08 : LimitlessMc, botchat, AlphaBit#3869, oh boi
+22 Jul 2017 16:27:39 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 16:27:42 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:27:44 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:27:46 : LimitlessMc, botchat, Wertfuzzy77#0274, what you think of ;mine so far?
+22 Jul 2017 16:29:12 : None, Direct Message with AlphaBit, AlphaBit#3869, ;pbs
+22 Jul 2017 16:29:12 : None, Direct Message with AlphaBit, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> medium to fight and reveal the boss.
+22 Jul 2017 16:29:12 : None, Direct Message with AlphaBit, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> medium to fight and reveal the boss.
+22 Jul 2017 16:29:22 : LimitlessMc, botchat, AlphaBit#3869, ;mine
+22 Jul 2017 16:29:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:29:27 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:29:30 : LimitlessMc, botchat, AlphaBit#3869, fancy
+22 Jul 2017 16:29:32 : LimitlessMc, botchat, Wertfuzzy77#0274, 😄
+22 Jul 2017 16:30:19 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, Shadowfire1217 brb
+22 Jul 2017 16:30:24 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, Shadowfire1217 feeding dogs
+22 Jul 2017 16:30:32 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, Shadowfire1217 just a few secs
+22 Jul 2017 16:30:34 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, Shadowfire1217 YEESH
+22 Jul 2017 16:31:06 : LimitlessMc, mainchat, BuildMaster Talha#5495, yeah, then this is the end....... bye for now guys
+22 Jul 2017 16:31:31 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, BloodmoonPack .........
+22 Jul 2017 16:31:58 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 16:32:00 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:32:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lv
+22 Jul 2017 16:32:10 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:32:10 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:32:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 16:32:16 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:32:18 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:32:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lv
+22 Jul 2017 16:32:26 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:32:26 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:32:28 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, Bloodmoons .........
+22 Jul 2017 16:32:42 : Lycryisic, lycrysic-modded-chat, Lastshadow#5809, @Pixel :/
+22 Jul 2017 16:32:48 : Lycryisic, lycrysic-modded-chat, Pixel Zane#2042, talking to mom
+22 Jul 2017 16:32:51 : Lycryisic, lycrysic-modded-chat, Lastshadow#5809, oh
+22 Jul 2017 16:32:56 : LimitlessMc, botchat, AlphaBit#3869, ;mine
+22 Jul 2017 16:32:59 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:33:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:33:08 : Lycryisic, lycrysic-modded-chat, Lastshadow#5809, Does the changelog say 1.8
+22 Jul 2017 16:33:10 : Lycryisic, lycrysic-modded-chat, Lastshadow#5809, ?
+22 Jul 2017 16:33:14 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, Bloodmoons .........
+22 Jul 2017 16:33:27 : Lycryisic, lycrysic-modded-chat, Pixel Zane#2042, Nu'
+22 Jul 2017 16:33:37 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, Shadowfire1217 Want the mods???
+22 Jul 2017 16:33:44 : Lycryisic, lycrysic-modded-chat, Pixel Zane#2042, sure
+22 Jul 2017 16:34:07 : LimitlessMc, mainchat, jjtwilefc#7374, lol that doesn't really count for much of anything at all
+22 Jul 2017 16:34:30 : Lycryisic, lycrysic-modded-chat, Lastshadow#5809, 
+22 Jul 2017 16:34:34 : Lycryisic, lycrysic-modded-chat, Lastshadow#5809, 
+22 Jul 2017 16:34:41 : Lycryisic, lycrysic-modded-chat, Lastshadow#5809, 
+22 Jul 2017 16:34:59 : LimitlessMc, botchat, StubbyMuffins#1053, ;mine
+22 Jul 2017 16:35:02 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:35:07 : LimitlessMc, botchat, StubbyMuffins#1053, ;train
+22 Jul 2017 16:35:10 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:35:12 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:36:18 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 16:36:21 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:36:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 16:36:26 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:36:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:37:07 : LimitlessMc, botchat, StubbyMuffins#1053, how often can we mine
+22 Jul 2017 16:37:09 : LimitlessMc, botchat, StubbyMuffins#1053, ;mine
+22 Jul 2017 16:37:12 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:37:50 : LimitlessMc, botchat, AlphaBit#3869, ;mine
+22 Jul 2017 16:37:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:37:56 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:38:09 : Lycryisic, lycrysic-modded-chat, Lastshadow#5809, 
+22 Jul 2017 16:39:07 : LimitlessMc, botchat, theOnlyJuan#9357, ;train
+22 Jul 2017 16:39:09 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:39:12 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:39:17 : LimitlessMc, botchat, theOnlyJuan#9357, ;mine
+22 Jul 2017 16:39:19 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:39:25 : LimitlessMc, botchat, theOnlyJuan#9357, ;mine
+22 Jul 2017 16:39:27 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:39:36 : LimitlessMc, botchat, theOnlyJuan#9357, ;lv
+22 Jul 2017 16:39:38 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:39:38 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:39:43 : LimitlessMc, botchat, AlphaBit#3869, ;mine
+22 Jul 2017 16:39:45 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:39:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:39:49 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, __CharaDStoryshift__ left the server!
+22 Jul 2017 16:39:58 : LimitlessMc, botchat, theOnlyJuan#9357, ;mine
+22 Jul 2017 16:40:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:40:03 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:40:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lookup theOnlyJuan
+22 Jul 2017 16:40:30 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:40:34 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:40:44 : LimitlessMc, botchat, theOnlyJuan#9357, Damn that spent a lot
+22 Jul 2017 16:40:44 : LimitlessMc, botchat, Wertfuzzy77#0274, bot???
+22 Jul 2017 16:40:51 : LimitlessMc, botchat, Wertfuzzy77#0274, spends 10% of your level
+22 Jul 2017 16:40:57 : LimitlessMc, botchat, theOnlyJuan#9357, Rip
+22 Jul 2017 16:40:58 : LimitlessMc, botchat, Wertfuzzy77#0274, replaces ;gamble
+22 Jul 2017 16:41:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ```50%   -0.10
+22.5% -0.08
+12.5% -0.01
+7.5%   0.05
+2.5%   0.30
+2.0%   0.40
+2.5%   Refresh Train
+0.5%   1.00```
+22 Jul 2017 16:41:12 : LimitlessMc, botchat, Wertfuzzy77#0274, this is the drop table
+22 Jul 2017 16:41:13 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, __CharaDStoryshift__ left the server!
+22 Jul 2017 16:41:42 : LimitlessMc, botchat, Wertfuzzy77#0274, Ex. you have a 50% chance to end your mining session losing 10% of your XP for your next level
+22 Jul 2017 16:41:59 : LimitlessMc, botchat, Wertfuzzy77#0274, or a 2.5% chance to gain 30% of the progress for your level
+22 Jul 2017 16:42:48 : LimitlessMc, botchat, theOnlyJuan#9357, And .5% to level up kinda like rare candy?
+22 Jul 2017 16:42:51 : LimitlessMc, botchat, Wertfuzzy77#0274, still need to balance this out, as its just a round estimate
+22 Jul 2017 16:42:52 : LimitlessMc, botchat, Wertfuzzy77#0274, ya
+22 Jul 2017 16:43:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+Options = {
+            "Large rock" : {
+                "Count" : 45, 
+                "Value" : 0.02,
+                "Flavor Text" : "A useless piece of rock. Makes a good paper weight!",
+                "Note" : ""
+            },
+            "Common TYPE Gem" : {
+                "Count" : 25,
+                "Value" : 0.09,
+                "Flavor Text" : "A small gem worth a little experience. Its not really worth your time.",
+                "Note" : "Doubles XP gain if gem type is the same as yours"
+            },
+            "Greater TYPE Gem" : {
+                "Count" : 15,
+                "Value" : 0.15,
+                "Flavor Text" : "A medium sized gem that gives you a good amount of experience.",
+                "Note" : "Doubles XP gain if gem type is the same as yours"
+            },
+            "Legendary TYPE Gem" : {
+                "Count" : 5,
+                "Value" : 0.40,
+                "Flavor Text" : "A large gem that is filled with valuable experience.",
+                "Note" : "Doubles XP gain if gem type is the same as yours"
+            },
+            "Rainbow Gem" : {
+                "Count" : 4,
+                "Value" : 0.50,
+                "Flavor Text" : "A rainbowed colored Gem that sparkles in the sunlight.",
+                "Note" : "A very colorful gem"
+            },
+            "Energy Crystal" : {
+                "Count" : 5,
+                "Value" : 0.10,
+                "Flavor Text" : "A rare crystal that fills you with energy.",
+                "Note" : "Unfortunatly, its only usable once"
+            },
+            "Gold Artifact" : {
+                "Count" : 1,
+                "Value" : 1,
+                "Flavor Text" : "A powerful and ancient pokemon artifact that pulses with power!",
+                "Note" : "A rare artifact that holds great power"
+            },
+        }```
+22 Jul 2017 16:43:08 : LimitlessMc, botchat, theOnlyJuan#9357, Kk makes sense
+22 Jul 2017 16:43:08 : LimitlessMc, botchat, Wertfuzzy77#0274, here are the actual drops
+22 Jul 2017 16:43:51 : LimitlessMc, botchat, theOnlyJuan#9357, ;lookup wertfuzzy77
+22 Jul 2017 16:43:51 : LimitlessMc, botchat, Botfuzzy77#2209, Could Not find that player!
+22 Jul 2017 16:44:23 : LimitlessMc, botchat, theOnlyJuan#9357, ;lookup Wertfuzzy77
+22 Jul 2017 16:44:27 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:44:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:44:30 : LimitlessMc, botchat, Wertfuzzy77#0274, lol
+22 Jul 2017 16:44:34 : LimitlessMc, botchat, theOnlyJuan#9357, Rip
+22 Jul 2017 16:44:40 : LimitlessMc, botchat, theOnlyJuan#9357, Was testing it
+22 Jul 2017 16:44:41 : LimitlessMc, botchat, Wertfuzzy77#0274, the local bot is a little funky rn xD
+22 Jul 2017 16:44:48 : LimitlessMc, botchat, Wertfuzzy77#0274, making some breaking changes
+22 Jul 2017 16:45:06 : LimitlessMc, botchat, Wertfuzzy77#0274, hopefully by tonight it will be stable enough to be pushed to real bot
+22 Jul 2017 16:45:49 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lookup theOnlyJuan
+22 Jul 2017 16:45:51 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:45:52 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:45:56 : LimitlessMc, botchat, Wertfuzzy77#0274, there we go
+22 Jul 2017 16:46:01 : LimitlessMc, botchat, theOnlyJuan#9357, Its fine for now. Its just for fun anyways
+22 Jul 2017 16:46:08 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 16:46:10 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:46:13 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:46:16 : LimitlessMc, botchat, AlphaBit#3869, ;lookup AlphaBit
+22 Jul 2017 16:46:19 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:46:19 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:46:31 : LimitlessMc, botchat, AlphaBit#3869, exdee
+22 Jul 2017 16:46:34 : LimitlessMc, botchat, AlphaBit#3869, ;mine
+22 Jul 2017 16:46:36 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:46:38 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:47:17 : LimitlessMc, mainchat, ruleroftri#6648, @jjtwilefc that was sarcasm
+22 Jul 2017 16:47:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lv
+22 Jul 2017 16:47:31 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:47:31 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:47:38 : LimitlessMc, botchat, Wertfuzzy77#0274, just synced real and local bot
+22 Jul 2017 16:47:42 : LimitlessMc, mainchat, jjtwilefc#7374, >:D
+22 Jul 2017 16:47:44 : LimitlessMc, botchat, Wertfuzzy77#0274, so levels and stuff were pulled to local
+22 Jul 2017 16:47:56 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 16:47:56 : LimitlessMc, botchat, Botfuzzy77#2209, You don't have enough XP (need 5,931)
+22 Jul 2017 16:47:58 : LimitlessMc, botchat, Wertfuzzy77#0274, die
+22 Jul 2017 16:47:58 : LimitlessMc, mainchat, ruleroftri#6648, I wonder if I'll get my staff role back
+22 Jul 2017 16:47:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+22 Jul 2017 16:48:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:48:03 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:48:08 : LimitlessMc, botchat, Wertfuzzy77#0274, o ya
+22 Jul 2017 16:48:12 : LimitlessMc, botchat, Wertfuzzy77#0274, training is broke on local
+22 Jul 2017 16:49:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+22 Jul 2017 16:49:42 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 1,701 seconds before you can train again.
+22 Jul 2017 16:50:57 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+22 Jul 2017 16:50:57 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 1,626 seconds before you can train again.
+22 Jul 2017 16:50:59 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:51:02 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:51:04 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 16:51:06 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:51:09 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:51:18 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lv
+22 Jul 2017 16:51:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:51:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:51:46 : LimitlessMc, botchat, AlphaBit#3869, ;mine
+22 Jul 2017 16:51:46 : LimitlessMc, botchat, Botfuzzy77#2209, You don't have enough XP (need 6,400)
+22 Jul 2017 16:51:52 : LimitlessMc, botchat, AlphaBit#3869, lw
+22 Jul 2017 16:51:54 : LimitlessMc, botchat, AlphaBit#3869, le
+22 Jul 2017 16:51:55 : LimitlessMc, botchat, AlphaBit#3869, ;lv
+22 Jul 2017 16:51:58 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:51:59 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:52:09 : LimitlessMc, botchat, AlphaBit#3869, ;train
+22 Jul 2017 16:52:11 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:52:11 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:52:13 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:52:14 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:52:17 : LimitlessMc, botchat, AlphaBit#3869, ;lv
+22 Jul 2017 16:52:20 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:52:20 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:52:33 : LimitlessMc, botchat, AlphaBit#3869, ;min
+22 Jul 2017 16:52:35 : LimitlessMc, botchat, AlphaBit#3869, ;mine
+22 Jul 2017 16:52:38 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:52:56 : LimitlessMc, botchat, AlphaBit#3869, ;min
+22 Jul 2017 16:52:58 : LimitlessMc, botchat, AlphaBit#3869, ;mine
+22 Jul 2017 16:53:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:53:03 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:53:55 : Lycryisic, lycrysic-modded-chat, Lastshadow#5809, @Pixel it is updated, you need to click modpack options and reinstall pack :/
+22 Jul 2017 16:53:58 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 16:54:00 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:54:03 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:54:09 : LimitlessMc, botchat, Wertfuzzy77#0274, lol
+22 Jul 2017 16:54:10 : LimitlessMc, mainchat, Chiran#2127, well its been fun everyone i know that i couldnt beat Cryotees but whatever i probably wont ever come back annnnndd baii
+22 Jul 2017 16:54:32 : LimitlessMc, botchat, AlphaBit#3869, le
+22 Jul 2017 16:54:34 : LimitlessMc, botchat, AlphaBit#3869, ;mine
+22 Jul 2017 16:54:37 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:54:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 16:54:41 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:54:41 : LimitlessMc, botchat, AlphaBit#3869, boo
+22 Jul 2017 16:54:42 : LimitlessMc, botchat, AlphaBit#3869, ;mine
+22 Jul 2017 16:54:43 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+22 Jul 2017 16:54:46 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:54:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:55:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 16:55:32 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:55:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 16:56:19 : LimitlessMc, botchat, Wertfuzzy77#0274, hmm, I don't think the purple fits tho
+22 Jul 2017 16:56:21 : LimitlessMc, botchat, Wertfuzzy77#0274, need a new color
+22 Jul 2017 17:02:56 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 17:02:59 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:03:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:03:09 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 17:03:09 : LimitlessMc, botchat, Botfuzzy77#2209, You don't have enough XP (need 5,931)
+22 Jul 2017 17:03:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+22 Jul 2017 17:03:13 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 890 seconds before you can train again.
+22 Jul 2017 17:03:14 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 1,068 seconds before you can train again.
+22 Jul 2017 17:03:17 : LimitlessMc, botchat, Wertfuzzy77#0274, .......
+22 Jul 2017 17:06:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 17:06:22 : LimitlessMc, botchat, Botfuzzy77#2209, You don't have enough XP (need 5,931)
+22 Jul 2017 17:06:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+22 Jul 2017 17:06:26 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 697 seconds before you can train again.
+22 Jul 2017 17:06:26 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 876 seconds before you can train again.
+22 Jul 2017 17:14:52 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 17:14:52 : LimitlessMc, botchat, Botfuzzy77#2209, You don't have enough XP (need 5,931)
+22 Jul 2017 17:14:53 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+22 Jul 2017 17:14:53 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 190 seconds before you can train again.
+22 Jul 2017 17:14:53 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 369 seconds before you can train again.
+22 Jul 2017 17:14:54 : LimitlessMc, botchat, Wertfuzzy77#0274, die
+22 Jul 2017 17:19:18 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+22 Jul 2017 17:19:19 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 103 seconds before you can train again.
+22 Jul 2017 17:19:20 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:19:22 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:19:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 17:19:26 : LimitlessMc, botchat, Botfuzzy77#2209, You don't have enough XP (need 5,931)
+22 Jul 2017 17:19:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ;-;
+22 Jul 2017 17:19:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lv
+22 Jul 2017 17:19:34 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:19:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:25:04 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+22 Jul 2017 17:25:04 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 1,459 seconds before you can train again.
+22 Jul 2017 17:25:07 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:25:08 : Legacy Craft, general, Sleeping Quill#1038, Meh
+22 Jul 2017 17:25:09 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:25:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 17:27:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 17:27:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:27:45 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+22 Jul 2017 17:27:45 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 1,298 seconds before you can train again.
+22 Jul 2017 17:27:45 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 1,644 seconds before you can train again.
+22 Jul 2017 17:27:47 : LimitlessMc, botchat, Wertfuzzy77#0274, die
+22 Jul 2017 17:28:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 17:28:32 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:29:16 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 17:29:18 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:29:21 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:29:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:29:54 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 17:29:57 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:30:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 17:30:41 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:30:44 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:30:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 17:30:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:30:55 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:30:57 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:31:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 17:31:04 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:31:07 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:31:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 17:31:14 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:31:16 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:31:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 17:31:22 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:31:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:31:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 17:31:32 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:31:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:34:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 17:34:32 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:34:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:36:23 : Legacy Craft, docs_random_build_ideas, Sleeping Quill#1038, Then don't take a potato screenshot
+22 Jul 2017 17:37:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 17:37:26 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:38:11 : Legacy Craft, general, tigertiger02#4338, if anyone has an idea for a project or a vid please let me know
+22 Jul 2017 17:38:32 : Legacy Craft, general, DormantSolice#5007, make big underwater village
+22 Jul 2017 17:38:36 : Legacy Craft, general, DormantSolice#5007, WITH villagers
+22 Jul 2017 17:38:52 : Legacy Craft, general, tigertiger02#4338, villagers disappear randomly
+22 Jul 2017 17:38:57 : Legacy Craft, general, DormantSolice#5007, hardcore mode would be make it without sponges 😃
+22 Jul 2017 17:39:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 17:39:42 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:39:46 : LimitlessMc, botchat, AlphaBit#3869, ;mine
+22 Jul 2017 17:40:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 17:40:14 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:40:17 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:40:19 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:40:25 : LimitlessMc, botchat, AlphaBit#3869, ;mine
+22 Jul 2017 17:40:27 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:40:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:40:45 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 17:40:48 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:40:50 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:40:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:40:54 : Legacy Craft, general, DormantSolice#5007, do it
+22 Jul 2017 17:41:18 : LimitlessMc, botchat, Wertfuzzy77#0274, it now has a larger chance to give you a "Large Rock" by level
+22 Jul 2017 17:41:27 : LimitlessMc, botchat, Wertfuzzy77#0274, so the higher your level, the more rocks you are gonna get
+22 Jul 2017 17:41:45 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+22 Jul 2017 17:41:48 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:41:48 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:42:45 : LimitlessMc, botchat, Wertfuzzy77#0274, ;afk breakfast
+22 Jul 2017 17:42:45 : LimitlessMc, botchat, Botfuzzy77#2209, Wertfuzzy77 is now AFK for reason:
+**breakfast**
+22 Jul 2017 17:42:45 : LimitlessMc, botchat, Botfuzzy77#2209, Wertfuzzy77 is now AFK for reason:
+**breakfast**
+22 Jul 2017 17:42:47 : Personal Server, botchat, Lastshadow#5809, =music p
+22 Jul 2017 17:42:49 : Personal Server, botchat, Ayana#8911, :white_check_mark: Joined and bound to :speaker: `Music` and :newspaper: `botchat`.
+22 Jul 2017 17:42:50 : Personal Server, botchat, Ayana#8911, :notes: Now playing: `My Demons - Starset - (fan lyric video)` requested by `Lastshadow#5809`.
+22 Jul 2017 17:42:54 : LimitlessMc, botchat, AlphaBit#3869, rip
+22 Jul 2017 17:46:51 : Personal Server, botchat, Ayana#8911, :notes: Now playing: `[Undertronic Original] SharaX - Sound of Winter (Cider, Chronos & Zephyr Vocals)` requested by `Lastshadow#5809`.
+22 Jul 2017 17:47:38 : LimitlessMc, botchat, AlphaBit#3869, 'mine
+22 Jul 2017 17:47:41 : LimitlessMc, botchat, AlphaBit#3869, ;mine
+22 Jul 2017 17:47:43 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:47:45 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:48:49 : LimitlessMc, botchat, AlphaBit#3869, ;mine
+22 Jul 2017 17:48:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:48:55 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:49:08 : LimitlessMc, mainchat, Chiran#2127, guys
+22 Jul 2017 17:49:09 : LimitlessMc, mainchat, Chiran#2127, http://replay.pokemonshowdown.com/gen7anythinggoes-607364557
+22 Jul 2017 17:50:45 : LimitlessMc, mainchat, powting#0986, I guess limitless is limited considering the server is shutting down #notlimitless
+22 Jul 2017 17:50:58 : LimitlessMc, botchat, AlphaBit#3869, the prestige levels minimize xp trade-off. might wanna do something about that wert
+22 Jul 2017 17:51:59 : Personal Server, botchat, Ayana#8911, :notes: Now playing: `Anna Graceman - Treble Heart - Lyric Video` requested by `Lastshadow#5809`.
+22 Jul 2017 17:53:48 : Proton Gaming Network, bot_commands, jjtwilefc#7374, ;mine
+22 Jul 2017 17:53:48 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, 
+22 Jul 2017 17:53:48 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, 
+22 Jul 2017 17:56:16 : Personal Server, botchat, Ayana#8911, :notes: Now playing: `Vanic x Tove Styrke - Borderline` requested by `Lastshadow#5809`.
+22 Jul 2017 17:56:17 : Legacy Craft, docs_random_build_ideas, DJ Small#8652, not like I give a shit
+22 Jul 2017 17:58:22 : LimitlessMc, botchat, Fiodor#5640, ;train
+22 Jul 2017 17:58:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:58:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:58:27 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:58:27 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 17:58:43 : Legacy Craft, screenshots, DJ Small#8652, [10:19 PM] Sleeping Quill: seriously though everytime I try to chop a tree down I get this.... [@]EmMiERoSe i hate chat spam
+
+https://cdn.discordapp.com/attachments/266890338252095489/300499957549498368/2017-04-08_22.16.39.png
+@Sleeping Quill calling yourself free from potato screenshots.
+22 Jul 2017 17:58:54 : None, Direct Message with Fiodor, Fiodor#5640, ;pbs
+22 Jul 2017 17:58:54 : None, Direct Message with Fiodor, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> insane to fight and reveal the boss.
+22 Jul 2017 17:58:55 : None, Direct Message with Fiodor, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> insane to fight and reveal the boss.
+22 Jul 2017 17:59:14 : Legacy Craft, screenshots, DJ Small#8652, (╯°□°）╯︵ ┻━┻
+22 Jul 2017 17:59:23 : Legacy Craft, screenshots, DormantSolice#5007, thats a better screen shot than you did small 😛
+22 Jul 2017 17:59:35 : Legacy Craft, screenshots, DormantSolice#5007, because he did that on purpose to show the chat
+22 Jul 2017 17:59:36 : Lycryisic, lycrysic-modded-chat, Lastshadow#5809, @Modded By the Way I added the morph mod, but there is a glitch! Do NOT KILL ALIENS
+22 Jul 2017 17:59:39 : Legacy Craft, screenshots, DJ Small#8652, ┻━┻ ︵ (╯°□°）╯︵ ┻━┻
+22 Jul 2017 17:59:45 : Lycryisic, lycrysic-modded-chat, Lastshadow#5809, or you will glitch your character
+22 Jul 2017 17:59:49 : Legacy Craft, screenshots, DJ Small#8652, *throws two tables at once*
+22 Jul 2017 18:00:00 : Lycryisic, lycrysic-modded-chat, Lastshadow#5809, I have asked the Dev of the morph mod for help
+22 Jul 2017 18:00:04 : Lycryisic, lycrysic-modded-chat, Lastshadow#5809, so it should be fixed
+22 Jul 2017 18:00:07 : Lycryisic, lycrysic-modded-chat, Lastshadow#5809, hopefully soon
+22 Jul 2017 18:00:34 : Personal Server, botchat, Ayana#8911, :notes: Now playing: `Dust OST - Melancholy` requested by `Lastshadow#5809`.
+22 Jul 2017 18:01:27 : LimitlessMc, botchat, Fiodor#5640, ;lv
+22 Jul 2017 18:01:30 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:01:31 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:02:09 : Legacy Craft, screenshots, Sleeping Quill#1038, And plus if I used F1 it would make chat disappear.
+22 Jul 2017 18:02:10 : LimitlessMc, botchat, Fiodor#5640, lel
+22 Jul 2017 18:02:17 : Legacy Craft, screenshots, DormantSolice#5007, well
+22 Jul 2017 18:02:27 : Legacy Craft, screenshots, DJ Small#8652, not that I care, you still have the hotbar.
+22 Jul 2017 18:02:31 : Legacy Craft, screenshots, DormantSolice#5007, opening chat in f1 still just opens chat and its like you didn't even press f1
+22 Jul 2017 18:02:35 : Personal Server, botchat, Ayana#8911, :notes: Now playing: `ALL THE WAY - Jacksepticeye Songify Remix by Schmoyoho` requested by `Lastshadow#5809`.
+22 Jul 2017 18:02:41 : Legacy Craft, screenshots, DJ Small#8652, That, in itself, is a potato screenshot.
+22 Jul 2017 18:02:47 : Legacy Craft, screenshots, DormantSolice#5007, small go eat a potato :<
+22 Jul 2017 18:02:53 : Legacy Craft, screenshots, DJ Small#8652, Don't have any
+22 Jul 2017 18:03:03 : Legacy Craft, screenshots, DormantSolice#5007, then go buy one,
+22 Jul 2017 18:03:10 : Legacy Craft, screenshots, DJ Small#8652, give me a fake drivers license and $5 for gas
+22 Jul 2017 18:03:14 : Legacy Craft, screenshots, DJ Small#8652, and $3 for a potato
+22 Jul 2017 18:03:16 : Legacy Craft, screenshots, DormantSolice#5007, boil it, and then put a whole cup of salt on it
+22 Jul 2017 18:03:19 : Legacy Craft, screenshots, DJ Small#8652, and I will go buy a potato.
+22 Jul 2017 18:03:23 : Lycryisic, lycrysic-modded-chat, Lastshadow#5809, =music
+22 Jul 2017 18:03:25 : Legacy Craft, screenshots, DormantSolice#5007, nah use your own money
+22 Jul 2017 18:03:33 : Legacy Craft, screenshots, DormantSolice#5007, use the thousand you have in your bank
+22 Jul 2017 18:03:34 : Personal Server, botchat, Lastshadow#5809, =music
+22 Jul 2017 18:03:34 : Personal Server, botchat, Ayana#8911, ```css
+[Music Help]
+
+music q | queue - Shows queue
+music q | queue [song name (yt) | url] - Queues a song or playlist
+   music q [song name (yt) | url] --next - Queues song or playlist to the next position(s)
+
+music qp | queueplay [song name (yt) | url] - Queues a song and plays from the start of the queue.
+
+music sq | showqueue - Shows queue
+music pg | purge - Clears queue
+music d | delete <itemNumber|search>- Deletes item(s) from the queue
+
+music p | play - Starts playing queued song(s)
+music s | skip - Skips current song
+music sf | shuffle - Shuffles queue randomly 
+music r | repeat <all|one|off> - Turns on|off repeat
+
+music pv | providers - Shows a list of available music providers.
+
+music j | join - Joins your current voice channel *note you must be in the voice channel* 
+music l | leave - Leaves the voice channel
+
+<> = required information, [] = optional information, | = or, do not include <> [] or | in your command input
+Please join the support server for any questions. (=support for link)```
+22 Jul 2017 18:03:42 : Legacy Craft, screenshots, DJ Small#8652, well then I won't buy a potato and eat it
+22 Jul 2017 18:03:42 : Personal Server, botchat, Botfuzzy77#2209, **Gi(a)rlish Number**
+Link: https://myanimelist.net/anime/32607
+**Episodes**: 12
+**Status**: Finished Airing
+**Rating**: 7.05 (by 19,747 users)
+**One Off**
+Link: https://myanimelist.net/anime/13283
+**Episodes**: 4
+**Status**: Finished Airing
+**Rating**: 6.49 (by 4,099 users)
+**Bakemonogatari**
+Link: https://myanimelist.net/anime/5081
+**Episodes**: 15
+**Status**: Finished Airing
+**Rating**: 8.37 (by 301,678 users)
+22 Jul 2017 18:03:47 : Personal Server, botchat, Botfuzzy77#2209, **Gi(a)rlish Number**
+Link: https://myanimelist.net/anime/32607
+**Episodes**: 12
+**Status**: Finished Airing
+**Rating**: 7.05 (by 19,747 users)
+**One Off**
+Link: https://myanimelist.net/anime/13283
+**Episodes**: 4
+**Status**: Finished Airing
+**Rating**: 6.49 (by 4,099 users)
+**Bakemonogatari**
+Link: https://myanimelist.net/anime/5081
+**Episodes**: 15
+**Status**: Finished Airing
+**Rating**: 8.37 (by 301,678 users)
+22 Jul 2017 18:03:49 : LimitlessMc, botchat, Fiodor#5640, ;ranking
+22 Jul 2017 18:03:51 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:03:57 : Legacy Craft, screenshots, DormantSolice#5007, then stop complaining about potato screen shots
+22 Jul 2017 18:04:04 : Legacy Craft, screenshots, DJ Small#8652, wait, wait
+22 Jul 2017 18:04:15 : Personal Server, botchat, Lastshadow#5809, =music q All the way!
+22 Jul 2017 18:04:15 : Personal Server, botchat, Ayana#8911, Pick an option below to enqueue it.
+```prolog
+[Page 1/1]
+
+ 1 : ALL THE WAY - Jacksepticeye Songify Remix by Schmoyoho
+ 2 : Fat Joe, Remy Ma - All The Way Up ft. French Montana, Infared
+ 3 : Space is cool Vs. All the way Vs. Brofist
+ c : Cancel
+```Type `<` and `>` to switch the page. Type `p<num>` to jump to a page (ex. `p10`).
+22 Jul 2017 18:04:18 : Personal Server, botchat, Lastshadow#5809, 1
+22 Jul 2017 18:04:18 : Legacy Craft, screenshots, DJ Small#8652, who started this potato conversation, me or karuko?
+22 Jul 2017 18:04:18 : Personal Server, botchat, Botfuzzy77#2209, **Mobile Suit Gundam Wing: Operation Meteor**
+Link: https://myanimelist.net/anime/3626
+**Episodes**: 4
+**Status**: Finished Airing
+**Rating**: 7.64 (by 2,694 users)
+22 Jul 2017 18:04:19 : Personal Server, botchat, Botfuzzy77#2209, **Mobile Suit Gundam Wing: Operation Meteor**
+Link: https://myanimelist.net/anime/3626
+**Episodes**: 4
+**Status**: Finished Airing
+**Rating**: 7.64 (by 2,694 users)
+22 Jul 2017 18:04:19 : Personal Server, botchat, Ayana#8911, Enqueued: `ALL THE WAY - Jacksepticeye Songify Remix by Schmoyoho` to position **23**. Run `music play` to play the queue.
+22 Jul 2017 18:04:21 : Legacy Craft, screenshots, DormantSolice#5007, both of you
+22 Jul 2017 18:04:27 : Personal Server, botchat, Lastshadow#5809, =music q All the way!
+22 Jul 2017 18:04:28 : Personal Server, botchat, Ayana#8911, Pick an option below to enqueue it.
+```prolog
+[Page 1/1]
+
+ 1 : ALL THE WAY - Jacksepticeye Songify Remix by Schmoyoho
+ 2 : Fat Joe, Remy Ma - All The Way Up ft. French Montana, Infared
+ 3 : Space is cool Vs. All the way Vs. Brofist
+ c : Cancel
+```Type `<` and `>` to switch the page. Type `p<num>` to jump to a page (ex. `p10`).
+22 Jul 2017 18:04:30 : Personal Server, botchat, Lastshadow#5809, 1
+22 Jul 2017 18:04:30 : Legacy Craft, screenshots, DormantSolice#5007, you posted the screen shot :< so you did 😄
+22 Jul 2017 18:04:30 : Personal Server, botchat, Botfuzzy77#2209, **Mobile Suit Gundam Wing: Operation Meteor**
+Link: https://myanimelist.net/anime/3626
+**Episodes**: 4
+**Status**: Finished Airing
+**Rating**: 7.64 (by 2,694 users)
+22 Jul 2017 18:04:30 : Personal Server, botchat, Lastshadow#5809, =music q All the way!
+22 Jul 2017 18:04:31 : Personal Server, botchat, Ayana#8911, Pick an option below to enqueue it.
+```prolog
+[Page 1/1]
+
+ 1 : ALL THE WAY - Jacksepticeye Songify Remix by Schmoyoho
+ 2 : Fat Joe, Remy Ma - All The Way Up ft. French Montana, Infared
+ 3 : Space is cool Vs. All the way Vs. Brofist
+ c : Cancel
+```Type `<` and `>` to switch the page. Type `p<num>` to jump to a page (ex. `p10`).
+22 Jul 2017 18:04:33 : Personal Server, botchat, Ayana#8911, Enqueued: `ALL THE WAY - Jacksepticeye Songify Remix by Schmoyoho` to position **24**. Run `music play` to play the queue.
+22 Jul 2017 18:04:33 : Personal Server, botchat, Botfuzzy77#2209, **Mobile Suit Gundam Wing: Operation Meteor**
+Link: https://myanimelist.net/anime/3626
+**Episodes**: 4
+**Status**: Finished Airing
+**Rating**: 7.64 (by 2,694 users)
+22 Jul 2017 18:04:33 : Personal Server, botchat, Lastshadow#5809, 1
+22 Jul 2017 18:04:33 : Personal Server, botchat, Botfuzzy77#2209, **Mobile Suit Gundam Wing: Operation Meteor**
+Link: https://myanimelist.net/anime/3626
+**Episodes**: 4
+**Status**: Finished Airing
+**Rating**: 7.64 (by 2,694 users)
+22 Jul 2017 18:04:33 : Personal Server, botchat, Ayana#8911, Enqueued: `ALL THE WAY - Jacksepticeye Songify Remix by Schmoyoho` to position **25**. Run `music play` to play the queue.
+22 Jul 2017 18:04:34 : Personal Server, botchat, Lastshadow#5809, =music q All the way!
+22 Jul 2017 18:04:34 : Personal Server, botchat, Ayana#8911, Pick an option below to enqueue it.
+```prolog
+[Page 1/1]
+
+ 1 : ALL THE WAY - Jacksepticeye Songify Remix by Schmoyoho
+ 2 : Fat Joe, Remy Ma - All The Way Up ft. French Montana, Infared
+ 3 : Space is cool Vs. All the way Vs. Brofist
+ c : Cancel
+```Type `<` and `>` to switch the page. Type `p<num>` to jump to a page (ex. `p10`).
+22 Jul 2017 18:04:36 : Personal Server, botchat, Botfuzzy77#2209, **Mobile Suit Gundam Wing: Operation Meteor**
+Link: https://myanimelist.net/anime/3626
+**Episodes**: 4
+**Status**: Finished Airing
+**Rating**: 7.64 (by 2,694 users)
+22 Jul 2017 18:04:36 : Personal Server, botchat, Lastshadow#5809, 1
+22 Jul 2017 18:04:36 : None, Direct Message with Fiodor, Fiodor#5640, ;pbs
+22 Jul 2017 18:04:36 : None, Direct Message with Fiodor, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> insane to fight and reveal the boss.
+22 Jul 2017 18:04:36 : Personal Server, botchat, Botfuzzy77#2209, **Mobile Suit Gundam Wing: Operation Meteor**
+Link: https://myanimelist.net/anime/3626
+**Episodes**: 4
+**Status**: Finished Airing
+**Rating**: 7.64 (by 2,694 users)
+22 Jul 2017 18:04:37 : Personal Server, botchat, Ayana#8911, Enqueued: `ALL THE WAY - Jacksepticeye Songify Remix by Schmoyoho` to position **26**. Run `music play` to play the queue.
+22 Jul 2017 18:04:37 : Personal Server, botchat, Botfuzzy77#2209, **Mobile Suit Gundam Wing: Operation Meteor**
+Link: https://myanimelist.net/anime/3626
+**Episodes**: 4
+**Status**: Finished Airing
+**Rating**: 7.64 (by 2,694 users)
+22 Jul 2017 18:04:45 : None, Direct Message with Fiodor, Fiodor#5640, ;pb nnnnnnnnnnnnnnn
+22 Jul 2017 18:04:47 : None, Direct Message with Fiodor, Botfuzzy77#2209, 
+22 Jul 2017 18:04:50 : None, Direct Message with Fiodor, Botfuzzy77#2209, 
+22 Jul 2017 18:05:08 : Legacy Craft, screenshots, DJ Small#8652, can into screwings of yuo?
+22 Jul 2017 18:05:24 : Personal Server, botchat, Ayana#8911, :notes: Now playing: `"Destiny Bond"【Lavender Town Glitchhop Mix】Original Pokémon  Song-YZYX & Trickywi` requested by `Lastshadow#5809`.
+22 Jul 2017 18:06:13 : Legacy Craft, screenshots, DJ Small#8652, @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice
+22 Jul 2017 18:06:16 : Legacy Craft, screenshots, DJ Small#8652, @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice @DormantSolice
+22 Jul 2017 18:06:17 : Legacy Craft, screenshots, DJ Small#8652, 😄
+22 Jul 2017 18:06:22 : Legacy Craft, screenshots, DormantSolice#5007, spam
+22 Jul 2017 18:06:25 : Legacy Craft, screenshots, DJ Small#8652, I is of no longer screwings of yuo
+22 Jul 2017 18:06:26 : Legacy Craft, screenshots, tigertiger02#4338, ban him
+22 Jul 2017 18:06:27 : Legacy Craft, screenshots, DormantSolice#5007, kick
+22 Jul 2017 18:06:33 : Legacy Craft, screenshots, DJ Small#8652, I go to do my business somewhere else 😄
+22 Jul 2017 18:06:37 : Legacy Craft, screenshots, DormantSolice#5007, then do so.
+22 Jul 2017 18:06:44 : Legacy Craft, screenshots, DormantSolice#5007, *throws potatoes*
+22 Jul 2017 18:07:55 : Legacy Craft, screenshots, DJ Small#8652, You don't have potatoes.
+22 Jul 2017 18:08:01 : Legacy Craft, screenshots, DormantSolice#5007, yes i do
+22 Jul 2017 18:08:06 : Legacy Craft, screenshots, DormantSolice#5007, i also have rice and salt
+22 Jul 2017 18:08:07 : Legacy Craft, screenshots, DJ Small#8652, no you don't
+22 Jul 2017 18:08:25 : Legacy Craft, screenshots, DormantSolice#5007, ill throw salt on your grave
+22 Jul 2017 18:08:40 : Legacy Craft, screenshots, DormantSolice#5007, and then pour white wine on the gravestone
+22 Jul 2017 18:09:03 : Legacy Craft, screenshots, DJ Small#8652, you think you're magical enough to summon a refrigerator! I bet you $18 that you can't even walk down to your parents goddamn restraunt and grab a potato to throw at me.
+22 Jul 2017 18:09:05 : Legacy Craft, screenshots, DJ Small#8652, lol
+22 Jul 2017 18:09:15 : Legacy Craft, screenshots, DJ Small#8652, you're an asshole XD
+22 Jul 2017 18:09:29 : Legacy Craft, screenshots, DormantSolice#5007, well i can actually
+22 Jul 2017 18:09:35 : Legacy Craft, screenshots, DJ Small#8652, no you can't
+22 Jul 2017 18:09:41 : Legacy Craft, screenshots, DormantSolice#5007, im litteraly in the backroom of the restaruant
+22 Jul 2017 18:09:49 : Legacy Craft, screenshots, DormantSolice#5007, im not at home >.>
+22 Jul 2017 18:09:50 : Legacy Craft, screenshots, DJ Small#8652, because there'll be a lightning strike in 3
+22 Jul 2017 18:09:52 : Legacy Craft, screenshots, DJ Small#8652, 2
+22 Jul 2017 18:09:54 : Legacy Craft, screenshots, DJ Small#8652, 1
+22 Jul 2017 18:09:55 : Personal Server, botchat, Ayana#8911, :notes: Now playing: `The Magikarp Song` requested by `Lastshadow#5809`.
+22 Jul 2017 18:09:58 : Legacy Craft, screenshots, DormantSolice#5007, its not raining
+22 Jul 2017 18:10:03 : Legacy Craft, screenshots, DormantSolice#5007, and we don't have dry lightning
+22 Jul 2017 18:10:08 : Legacy Craft, screenshots, DJ Small#8652, ffff
+22 Jul 2017 18:10:17 : Legacy Craft, screenshots, DormantSolice#5007, i can open the door, and walk 5 meters and find a potato.
+22 Jul 2017 18:10:20 : LimitlessMc, botchat, TherminatorX#6644, Wait
+22 Jul 2017 18:10:24 : LimitlessMc, botchat, TherminatorX#6644, what's mine?
+22 Jul 2017 18:10:24 : Legacy Craft, screenshots, DormantSolice#5007, https://giphy.com/gifs/potato-2u9HmOf6BmqwU
+22 Jul 2017 18:10:27 : LimitlessMc, botchat, TherminatorX#6644, ;mine
+22 Jul 2017 18:10:38 : Legacy Craft, screenshots, DJ Small#8652, well great.
+22 Jul 2017 18:11:17 : Legacy Craft, screenshots, DJ Small#8652, assuming you can hurtle a potato that far...
+22 Jul 2017 18:11:31 : LimitlessMc, botchat, Fiodor#5640, Wert test not avaible atm
+22 Jul 2017 18:11:46 : Legacy Craft, screenshots, DJ Small#8652, "ever heard of a spud gun?"
+22 Jul 2017 18:11:54 : LimitlessMc, botchat, Fiodor#5640, will be mine instead of gamble
+22 Jul 2017 18:12:07 : Legacy Craft, screenshots, DormantSolice#5007, i cause a rift in the space time  and throw it
+22 Jul 2017 18:12:25 : Legacy Craft, screenshots, DJ Small#8652, no you can't. You can get potatoes but you ca
+22 Jul 2017 18:12:38 : Legacy Craft, screenshots, DJ Small#8652, WHAT THE FUCK WHO THREW A POTATO AT ME?!
+22 Jul 2017 18:12:46 : Legacy Craft, screenshots, DormantSolice#5007, the potato merchant
+22 Jul 2017 18:12:48 : Legacy Craft, screenshots, DJ Small#8652, DORM WHAT THE ACTUAL FUCK
+22 Jul 2017 18:12:52 : Legacy Craft, screenshots, DJ Small#8652, DORM
+22 Jul 2017 18:12:54 : Legacy Craft, screenshots, DJ Small#8652, WHAT
+22 Jul 2017 18:13:00 : Legacy Craft, screenshots, DJ Small#8652, WHAT THE ACTUAL FUCK!
+22 Jul 2017 18:13:06 : Legacy Craft, screenshots, DormantSolice#5007, p.p i don't has potatoes
+22 Jul 2017 18:13:06 : Legacy Craft, screenshots, DJ Small#8652, HOWWWW?!
+22 Jul 2017 18:13:17 : Legacy Craft, screenshots, DJ Small#8652, I LITERALLY JUST GOT HIT BY A POTATO
+22 Jul 2017 18:13:21 : Legacy Craft, screenshots, DormantSolice#5007, *hides all evidence&
+22 Jul 2017 18:13:25 : Legacy Craft, screenshots, DJ Small#8652, I JUST GOT HIT BY A POTATO
+22 Jul 2017 18:13:30 : Legacy Craft, screenshots, DormantSolice#5007, QUICK CLOSE THE SPACE GATE
+22 Jul 2017 18:13:43 : Legacy Craft, screenshots, DJ Small#8652, I just got hit by a tater
+22 Jul 2017 18:13:50 : Legacy Craft, screenshots, DJ Small#8652, and I'm sitting in my bedroom
+22 Jul 2017 18:13:51 : Legacy Craft, screenshots, DJ Small#8652, wtf
+22 Jul 2017 18:13:51 : Personal Server, botchat, Ayana#8911, :notes: Now playing: `Nightcore - Dollhouse (Male Version).` requested by `Lastshadow#5809`.
+22 Jul 2017 18:13:58 : Legacy Craft, screenshots, DormantSolice#5007, 0/9
+22 Jul 2017 18:13:59 : LimitlessMc, botchat, Fiodor#5640, gamble way too strong
+22 Jul 2017 18:14:14 : Personal Server, botchat, Lastshadow#5809, =music s
+22 Jul 2017 18:14:14 : Personal Server, botchat, Ayana#8911, :fast_forward: Skipped `Nightcore - Dollhouse (Male Version).`.
+22 Jul 2017 18:14:15 : Personal Server, botchat, Ayana#8911, :notes: Now playing: `Tattletail Song- Don't Tattle On Me Remix- The Living Tombstone feat. Caleb Hyles and Fandroid` requested by `Lastshadow#5809`.
+22 Jul 2017 18:15:28 : LimitlessMc, botchat, TherminatorX#6644, Agreed 100%
+22 Jul 2017 18:16:41 : Personal Server, botchat, Ayana#8911, :notes: Now playing: `♪ No Mercy ♪ ~ Overwatch Gun Sync Musical Song by The Living Tombstone` requested by `Lastshadow#5809`.
+22 Jul 2017 18:17:41 : LimitlessMc, botchat, Fiodor#5640, got 3 lvl from it yesterday
+22 Jul 2017 18:19:18 : Personal Server, botchat, Ayana#8911, :notes: Now playing: `Nightcore - Dollhouse (Male Version).` requested by `Lastshadow#5809`.
+22 Jul 2017 18:22:54 : Personal Server, botchat, Ayana#8911, :notes: Now playing: `Tattletail Song- Don't Tattle On Me Remix- The Living Tombstone feat. Caleb Hyles and Fandroid` requested by `Lastshadow#5809`.
+22 Jul 2017 18:24:25 : None, Direct Message with Fiodor, Fiodor#5640, ;pb ffffnffffffffff
+22 Jul 2017 18:24:28 : None, Direct Message with Fiodor, Botfuzzy77#2209, 
+22 Jul 2017 18:24:30 : None, Direct Message with Fiodor, Botfuzzy77#2209, 
+22 Jul 2017 18:25:20 : Personal Server, botchat, Ayana#8911, :notes: Now playing: `♪ No Mercy ♪ ~ Overwatch Gun Sync Musical Song by The Living Tombstone` requested by `Lastshadow#5809`.
+22 Jul 2017 18:27:57 : Personal Server, botchat, Ayana#8911, :notes: Now playing: `No Mercy- Overwatch Original Song by The Living Tombstone (Feat. BlackGryphon & LittleJayneyCakes)` requested by `Lastshadow#5809`.
+22 Jul 2017 18:29:05 : Lycryisic, lycrysic-modded-chat, Lastshadow#5809, @Modded I am working on disabling AVP morphs
+22 Jul 2017 18:29:23 : LimitlessMc, mainchat, OGButtSagington#1200, sorry to bother, but does anyone here still have the pixelmon5.0.4 universal.jar file?
+22 Jul 2017 18:29:37 : Lycryisic, lycrysic-modded-chat, Lastshadow#5809, !online
+22 Jul 2017 18:29:38 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, No players online
+22 Jul 2017 18:29:41 : Lycryisic, lycrysic-modded-chat, Lastshadow#5809, !tps
+22 Jul 2017 18:30:32 : Personal Server, botchat, Ayana#8911, :notes: Now playing: `【MV】　Again　【ARAKI】` requested by `Lastshadow#5809`.
+22 Jul 2017 18:32:05 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, __Shadowfire1217__ has joined the server!
+22 Jul 2017 18:33:51 : LimitlessMc, mainchat, OGButtSagington#1200, i desperately need it
+22 Jul 2017 18:34:07 : Personal Server, botchat, Ayana#8911, :notes: Now playing: `Five Nights at Freddys Sister Location Song-I Can’t Fix You(FNAFSL)-The Living Tombstone & Crusher-P` requested by `Lastshadow#5809`.
+22 Jul 2017 18:35:20 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, __Shadowfire1217__ left the server!
+22 Jul 2017 18:39:14 : Personal Server, botchat, Ayana#8911, :notes: Now playing: `Nightcore - Please Don't Go` requested by `Lastshadow#5809`.
+22 Jul 2017 18:42:09 : Personal Server, botchat, Ayana#8911, :notes: Now playing: `TheFatRat - Time Lapse` requested by `Lastshadow#5809`.
+22 Jul 2017 18:42:54 : Lycryisic, lycrysic-modded-chat, Lastshadow#5809, @Modded I have set it up so you can delete the morph before a crash to prevent it! I have also made backups!
+22 Jul 2017 18:44:34 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, __Shadowfire1217__ has joined the server!
+22 Jul 2017 18:44:59 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, __Shadowfire1217__ left the server!
+22 Jul 2017 18:45:09 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, __Shadowfire1217__ has joined the server!
+22 Jul 2017 18:45:15 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, __Shadowfire1217__ left the server!
+22 Jul 2017 18:45:16 : Personal Server, botchat, Ayana#8911, :notes: Now playing: `My Demons - Starset - (fan lyric video)` requested by `Lastshadow#5809`.
+22 Jul 2017 18:46:42 : LimitlessMc, botchat, Bakafish#8693, ;train
+22 Jul 2017 18:46:44 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:46:46 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:47:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 18:47:28 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:47:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;afk
+22 Jul 2017 18:47:30 : LimitlessMc, botchat, Botfuzzy77#2209, Wertfuzzy77 is no Longer AFK
+22 Jul 2017 18:47:31 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:47:31 : LimitlessMc, botchat, Botfuzzy77#2209, Wertfuzzy77 is no Longer AFK
+22 Jul 2017 18:47:35 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 18:47:37 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:47:40 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:48:06 : LimitlessMc, botchat, Wertfuzzy77#0274, @AlphaBit Thats the idea, its worth more if you prestige as opposed to high levels
+22 Jul 2017 18:48:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 18:48:43 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:48:46 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:49:01 : LimitlessMc, botchat, Fiodor#5640, why do you have to do it so manny time?
+22 Jul 2017 18:49:02 : LimitlessMc, botchat, Wertfuzzy77#0274, @TherminatorX still needs to be balance, but this should be better than just gamble
+22 Jul 2017 18:49:16 : Personal Server, botchat, Ayana#8911, :notes: Now playing: `[Undertronic Original] SharaX - Sound of Winter (Cider, Chronos & Zephyr Vocals)` requested by `Lastshadow#5809`.
+22 Jul 2017 18:49:21 : LimitlessMc, botchat, Wertfuzzy77#0274, I mean, I'm testing it xD I keep making changes to stuff and I'm making sure it goes through
+22 Jul 2017 18:49:37 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, __Shadowfire1217__ has joined the server!
+22 Jul 2017 18:49:57 : LimitlessMc, botchat, Wertfuzzy77#0274, like now its impossible to get nothing from mining
+22 Jul 2017 18:50:00 : LimitlessMc, botchat, Wertfuzzy77#0274, I removed that
+22 Jul 2017 18:50:19 : LimitlessMc, botchat, Fiodor#5640, i still try to figure how to use the bot btw
+22 Jul 2017 18:50:24 : LimitlessMc, botchat, StubbyMuffins#1053, ;mine
+22 Jul 2017 18:50:27 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:50:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:50:33 : LimitlessMc, botchat, StubbyMuffins#1053, ;train
+22 Jul 2017 18:50:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:50:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:50:37 : LimitlessMc, botchat, Fiodor#5640, ;cd
+22 Jul 2017 18:50:37 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:50:37 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You can Train right now!
+**Gamble**
+You can Gamble right now!
+22 Jul 2017 18:50:38 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:50:44 : LimitlessMc, botchat, StubbyMuffins#1053, the fuck
+22 Jul 2017 18:50:47 : LimitlessMc, botchat, Fiodor#5640, ;train
+22 Jul 2017 18:50:48 : LimitlessMc, botchat, Wertfuzzy77#0274, 2 bots online
+22 Jul 2017 18:50:49 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:50:49 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:50:50 : LimitlessMc, botchat, Fiodor#5640, lel
+22 Jul 2017 18:50:52 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:50:52 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:50:53 : LimitlessMc, botchat, Bakafish#8693, ;mine
+22 Jul 2017 18:50:54 : Lycryisic, lycrysic-modded-chat, Lastshadow#5809, !tps
+22 Jul 2017 18:50:55 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:50:56 : LimitlessMc, botchat, StubbyMuffins#1053, oh ok i was like wut
+22 Jul 2017 18:50:58 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:51:00 : LimitlessMc, botchat, Bakafish#8693, nc
+22 Jul 2017 18:51:01 : Lycryisic, lycrysic-modded-chat, Lastshadow#5809, @help
+22 Jul 2017 18:51:03 : Lycryisic, lycrysic-modded-chat, Lastshadow#5809, !help
+22 Jul 2017 18:51:03 : Lycryisic, lycrysic-modded-chat, LewdBot#2135, H-hello, I'm LewdBot, a multi-purpose discord bot, you can learn more about me here:
+<https://github.com/Fabricio20/LewdWiki/wiki>
+22 Jul 2017 18:51:10 : LimitlessMc, botchat, Wertfuzzy77#0274, Mining is worse for high levle
+22 Jul 2017 18:51:12 : LimitlessMc, botchat, Wertfuzzy77#0274, s
+22 Jul 2017 18:51:13 : Lycryisic, lycrysic-modded-chat, Lastshadow#5809, !online
+22 Jul 2017 18:51:13 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, Currently 1 player online: `Shadowfire1217`
+22 Jul 2017 18:51:15 : LimitlessMc, botchat, Wertfuzzy77#0274, you get more rocks
+22 Jul 2017 18:51:28 : LimitlessMc, botchat, Bakafish#8693, wocks
+22 Jul 2017 18:51:28 : LimitlessMc, botchat, Fiodor#5640, ;mine
+22 Jul 2017 18:51:30 : LimitlessMc, botchat, StubbyMuffins#1053, ay okei
+22 Jul 2017 18:51:30 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:51:31 : LimitlessMc, botchat, Fiodor#5640, ;mine
+22 Jul 2017 18:51:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:51:36 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:51:38 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:51:38 : LimitlessMc, botchat, Wertfuzzy77#0274, and there is no cooldown for it rn
+22 Jul 2017 18:51:41 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 18:51:45 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:51:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:51:50 : LimitlessMc, botchat, Fiodor#5640, ;mine
+22 Jul 2017 18:51:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:51:56 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:52:00 : LimitlessMc, botchat, Bakafish#8693, #negativereturns
+22 Jul 2017 18:52:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ^
+22 Jul 2017 18:52:03 : LimitlessMc, botchat, Botfuzzy77#2209, ^
+22 Jul 2017 18:52:03 : LimitlessMc, botchat, Botfuzzy77#2209, ^
+22 Jul 2017 18:52:06 : LimitlessMc, botchat, Fiodor#5640, yup
+22 Jul 2017 18:52:08 : LimitlessMc, botchat, StubbyMuffins#1053, ;level
+22 Jul 2017 18:52:11 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:52:11 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:52:14 : LimitlessMc, botchat, Fiodor#5640, ;lv
+22 Jul 2017 18:52:17 : LimitlessMc, botchat, Wertfuzzy77#0274, just a fancier gamble
+22 Jul 2017 18:52:18 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:52:27 : LimitlessMc, botchat, StubbyMuffins#1053, ;gamble 242562
+22 Jul 2017 18:52:27 : LimitlessMc, botchat, Botfuzzy77#2209, You don't have that much XP
+22 Jul 2017 18:52:42 : LimitlessMc, botchat, Fiodor#5640, ;mine
+22 Jul 2017 18:52:52 : LimitlessMc, botchat, Bakafish#8693, therminator was complainin about gamble a while ago
+22 Jul 2017 18:52:58 : LimitlessMc, botchat, Bakafish#8693, this a replacement in progress?
+22 Jul 2017 18:53:03 : LimitlessMc, botchat, Wertfuzzy77#0274, and I'm going to fix Score and ranks so that it takes into account other stuff
+22 Jul 2017 18:53:04 : LimitlessMc, botchat, Wertfuzzy77#0274, ya
+22 Jul 2017 18:53:05 : LimitlessMc, botchat, Fiodor#5640, easy to see why
+22 Jul 2017 18:53:32 : LimitlessMc, botchat, Wertfuzzy77#0274, Score will be based off of Pokedex, Prestige, and Takedowns soon as well as Level/XP
+22 Jul 2017 18:53:45 : LimitlessMc, botchat, StubbyMuffins#1053, gay
+22 Jul 2017 18:53:56 : LimitlessMc, botchat, StubbyMuffins#1053, u just mad i got ahead of u
+22 Jul 2017 18:53:59 : LimitlessMc, botchat, StubbyMuffins#1053, xD
+22 Jul 2017 18:54:04 : LimitlessMc, botchat, Wertfuzzy77#0274, I mean, I would prob go down xD
+22 Jul 2017 18:54:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lv
+22 Jul 2017 18:54:10 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:54:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+22 Jul 2017 18:54:18 : LimitlessMc, botchat, StubbyMuffins#1053, ;level
+22 Jul 2017 18:54:20 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:54:22 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:54:25 : Personal Server, botchat, Ayana#8911, :notes: Now playing: `Anna Graceman - Treble Heart - Lyric Video` requested by `Lastshadow#5809`.
+22 Jul 2017 18:54:27 : LimitlessMc, botchat, Wertfuzzy77#0274, rip #7
+22 Jul 2017 18:54:28 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, <__Shadowfire1217__> @Pixel hey!
+22 Jul 2017 18:54:30 : Lycryisic, lycrysic-modded-chat, Botfuzzy77#2209, **Kage (OVA)**
+Link: https://myanimelist.net/anime/2138
+**Episodes**: 4
+**Status**: Finished Airing
+**Rating**: 6.44 (by 1,164 users)
+22 Jul 2017 18:54:30 : Lycryisic, lycrysic-modded-chat, Botfuzzy77#2209, **Kage (OVA)**
+Link: https://myanimelist.net/anime/2138
+**Episodes**: 4
+**Status**: Finished Airing
+**Rating**: 6.44 (by 1,164 users)
+22 Jul 2017 18:54:34 : LimitlessMc, botchat, StubbyMuffins#1053, cant even see my takedowns
+22 Jul 2017 18:54:35 : LimitlessMc, botchat, StubbyMuffins#1053, el
+22 Jul 2017 18:54:38 : LimitlessMc, botchat, Wertfuzzy77#0274, lol, the diff between you and therm tho xD
+22 Jul 2017 18:54:44 : LimitlessMc, botchat, Fiodor#5640, it 9
+22 Jul 2017 18:54:45 : LimitlessMc, botchat, Wertfuzzy77#0274, literally 50M
+22 Jul 2017 18:54:51 : LimitlessMc, botchat, StubbyMuffins#1053, think it says 9
+22 Jul 2017 18:54:52 : Personal Server, botchat, Lastshadow#5809, ;recromend
+22 Jul 2017 18:54:57 : LimitlessMc, botchat, Fiodor#5640, ;lv
+22 Jul 2017 18:55:00 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:55:08 : LimitlessMc, botchat, Fiodor#5640, mine is 81
+22 Jul 2017 18:55:11 : LimitlessMc, botchat, Wertfuzzy77#0274, hax
+22 Jul 2017 18:55:16 : LimitlessMc, botchat, Wertfuzzy77#0274, but you do alot of PM battles
+22 Jul 2017 18:55:18 : LimitlessMc, botchat, Wertfuzzy77#0274, so maybe
+22 Jul 2017 18:55:27 : Personal Server, botchat, Lastshadow#5809, ;recommend
+22 Jul 2017 18:55:27 : Personal Server, botchat, Botfuzzy77#2209, The Bot isnt connected in this server!
+22 Jul 2017 18:55:27 : Personal Server, botchat, Botfuzzy77#2209, The Bot isnt connected in this server!
+22 Jul 2017 18:55:29 : LimitlessMc, botchat, StubbyMuffins#1053, ban okei
+22 Jul 2017 18:55:34 : LimitlessMc, botchat, Fiodor#5640, had to to beat baka
+22 Jul 2017 18:55:35 : LimitlessMc, botchat, Wertfuzzy77#0274, also, your level card is ugly 😄
+22 Jul 2017 18:55:37 : Personal Server, botchat, Lastshadow#5809, ;join
+22 Jul 2017 18:55:38 : Personal Server, botchat, Botfuzzy77#2209, Reconnected channel!
+22 Jul 2017 18:55:38 : Personal Server, botchat, Botfuzzy77#2209, Reconnected channel!
+22 Jul 2017 18:55:39 : Personal Server, botchat, Lastshadow#5809, ;recommend
+22 Jul 2017 18:55:39 : Personal Server, botchat, Botfuzzy77#2209, Recommend Songs to play: True
+22 Jul 2017 18:55:39 : Personal Server, botchat, Botfuzzy77#2209, Recommend Songs to play: True
+22 Jul 2017 18:55:45 : LimitlessMc, botchat, Fiodor#5640, thx
+22 Jul 2017 18:55:45 : Personal Server, botchat, Lastshadow#5809, ;recommend false
+22 Jul 2017 18:55:45 : Personal Server, botchat, Botfuzzy77#2209, Recommend Songs to play: False
+22 Jul 2017 18:55:45 : Personal Server, botchat, Botfuzzy77#2209, Recommend Songs to play: False
+22 Jul 2017 18:55:48 : Personal Server, botchat, Lastshadow#5809, ;leave
+22 Jul 2017 18:55:51 : LimitlessMc, botchat, Wertfuzzy77#0274, why is it all red?
+22 Jul 2017 18:55:57 : Lycryisic, botchat, Lastshadow#5809, ;recommend false
+22 Jul 2017 18:55:58 : Lycryisic, botchat, Botfuzzy77#2209, The Bot isnt connected in this server!
+22 Jul 2017 18:55:58 : Lycryisic, botchat, Botfuzzy77#2209, The Bot isnt connected in this server!
+22 Jul 2017 18:56:02 : LimitlessMc, botchat, Fiodor#5640, i like red
+22 Jul 2017 18:56:10 : LimitlessMc, botchat, Wertfuzzy77#0274, doesnt fit background thooooooooooo
+22 Jul 2017 18:56:15 : LimitlessMc, botchat, Fiodor#5640, wont spent hour on making it good too
+22 Jul 2017 18:56:30 : LimitlessMc, botchat, StubbyMuffins#1053, anything is a dildo if your brave enough
+22 Jul 2017 18:56:36 : LimitlessMc, botchat, Wertfuzzy77#0274, wat
+22 Jul 2017 18:56:40 : LimitlessMc, botchat, StubbyMuffins#1053, exactly
+22 Jul 2017 18:56:51 : LimitlessMc, botchat, Fiodor#5640, Stubby one is not that good
+22 Jul 2017 18:56:51 : LimitlessMc, botchat, Wertfuzzy77#0274, ;tempmute StubbyMuffins 60
+22 Jul 2017 18:56:51 : LimitlessMc, botchat, Botfuzzy77#2209, Something went Wrong: Forbidden
+22 Jul 2017 18:56:52 : LimitlessMc, botchat, Botfuzzy77#2209, Something went Wrong: Forbidden
+22 Jul 2017 18:56:54 : LimitlessMc, botchat, Wertfuzzy77#0274, feelsbad
+22 Jul 2017 18:57:03 : LimitlessMc, botchat, StubbyMuffins#1053, rofl
+22 Jul 2017 18:57:18 : LimitlessMc, botchat, Fiodor#5640, can't read shit on it
+22 Jul 2017 18:57:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ^
+22 Jul 2017 18:57:23 : LimitlessMc, botchat, Botfuzzy77#2209, ^
+22 Jul 2017 18:57:23 : LimitlessMc, botchat, Botfuzzy77#2209, ^
+22 Jul 2017 18:57:28 : LimitlessMc, botchat, Wertfuzzy77#0274, both yours are bad
+22 Jul 2017 18:57:50 : LimitlessMc, botchat, StubbyMuffins#1053, na mines godtier
+22 Jul 2017 18:57:51 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lookup theOnlyJuan
+22 Jul 2017 18:57:52 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:58:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lookup Bakafish
+22 Jul 2017 18:58:06 : LimitlessMc, botchat, Fiodor#5640, lerned what was rgb while doing it
+22 Jul 2017 18:58:08 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 18:58:12 : LimitlessMc, botchat, Wertfuzzy77#0274, gj 😛
+22 Jul 2017 18:58:22 : LimitlessMc, botchat, Wertfuzzy77#0274, Baka's is pretty clean
+22 Jul 2017 18:58:35 : LimitlessMc, botchat, Fiodor#5640, too much melon
+22 Jul 2017 18:58:42 : LimitlessMc, botchat, Wertfuzzy77#0274, don't tell her that
+22 Jul 2017 18:58:42 : Personal Server, botchat, Ayana#8911, :notes: Now playing: `Vanic x Tove Styrke - Borderline` requested by `Lastshadow#5809`.
+22 Jul 2017 19:00:28 : LimitlessMc, mainchat, Nekupe#5929, to the desperate seeking what they love hear this plee, if you scroll high enough, then the one you love will be free. A mediafire file baka did share, so venture forth now if you so dare.
+22 Jul 2017 19:01:37 : LimitlessMc, botchat, Fiodor#5640, Baka is here lel
+22 Jul 2017 19:02:13 : LimitlessMc, mainchat, OGButtSagington#1200, very well written , but  all i saw was the 5.1.2 version
+22 Jul 2017 19:02:31 : LimitlessMc, mainchat, OGButtSagington#1200, is there a 5.0.4 there?
+22 Jul 2017 19:02:52 : LimitlessMc, mainchat, Nekupe#5929, why would you want an ealier version of pixelmon?
+22 Jul 2017 19:02:54 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+22 Jul 2017 19:02:56 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:03:00 : Personal Server, botchat, Ayana#8911, :notes: Now playing: `Dust OST - Melancholy` requested by `Lastshadow#5809`.
+22 Jul 2017 19:03:20 : LimitlessMc, mainchat, Nekupe#5929, wouldn't you rather have the final version?
+22 Jul 2017 19:03:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+22 Jul 2017 19:03:27 : LimitlessMc, botchat, Fiodor#5640, ;lookup TherminatorX
+22 Jul 2017 19:03:28 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:03:30 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:03:30 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:03:38 : LimitlessMc, botchat, Fiodor#5640, he got 121
+22 Jul 2017 19:04:39 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+22 Jul 2017 19:04:41 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:04:42 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:04:45 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, __Shadowfire1217__ left the server!
+22 Jul 2017 19:04:55 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, __Shadowfire1217__ has joined the server!
+22 Jul 2017 19:05:01 : Personal Server, botchat, Ayana#8911, :notes: Now playing: `ALL THE WAY - Jacksepticeye Songify Remix by Schmoyoho` requested by `Lastshadow#5809`.
+22 Jul 2017 19:05:26 : LimitlessMc, botchat, Fiodor#5640, ;lv
+22 Jul 2017 19:05:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:05:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+22 Jul 2017 19:05:42 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:05:42 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:05:53 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, __Shadowfire1217__ left the server!
+22 Jul 2017 19:06:01 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, __Shadowfire1217__ has joined the server!
+22 Jul 2017 19:06:10 : LimitlessMc, mainchat, OGButtSagington#1200, i already have the final version, the other day i found a cracked pixelmon server (i´m premium but my friends aren´t) and  it only supports the 5.0.4 version, which none of us have
+22 Jul 2017 19:06:15 : Legacy Craft, admin, Sunstrikeh#8034, Should give out a daily key after 10 votes
+22 Jul 2017 19:06:22 : Legacy Craft, admin, DormantSolice#5007, o.o
+22 Jul 2017 19:06:40 : Legacy Craft, admin, DormantSolice#5007, 10 votes = 1 key, 3votes = 1 diamond
+22 Jul 2017 19:06:52 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, __Shadowfire1217__ left the server!
+22 Jul 2017 19:07:01 : Legacy Craft, admin, DormantSolice#5007, also, are there going to be more added to the /vote shop? o.o
+22 Jul 2017 19:07:01 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, __Shadowfire1217__ has joined the server!
+22 Jul 2017 19:07:28 : Legacy Craft, admin, Sunstrikeh#8034, There could be. It's just default right now..
+22 Jul 2017 19:07:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug math,pow(.1,.5)
+22 Jul 2017 19:07:30 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+(<module 'math' (built-in)>, 0.31622776601683794)
+```
+22 Jul 2017 19:07:30 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+(<module 'math' (built-in)>, 0.31622776601683794)
+```
+22 Jul 2017 19:07:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug math.pow(.1,.5)
+22 Jul 2017 19:07:38 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+0.31622776601683794
+```
+22 Jul 2017 19:07:38 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+0.31622776601683794
+```
+22 Jul 2017 19:07:50 : Personal Server, botchat, Ayana#8911, :notes: Now playing: `"Destiny Bond"【Lavender Town Glitchhop Mix】Original Pokémon  Song-YZYX & Trickywi` requested by `Lastshadow#5809`.
+22 Jul 2017 19:08:09 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug log(121, 2)
+22 Jul 2017 19:08:09 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+NameError: name 'log' is not defined
+```
+22 Jul 2017 19:08:10 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+NameError: name 'log' is not defined
+```
+22 Jul 2017 19:08:16 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug math.log(121, 2)
+22 Jul 2017 19:08:16 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+6.9188632372745955
+```
+22 Jul 2017 19:08:16 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+6.9188632372745955
+```
+22 Jul 2017 19:08:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug math.log(121, 3)
+22 Jul 2017 19:08:25 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+4.365316677288276
+```
+22 Jul 2017 19:08:25 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+4.365316677288276
+```
+22 Jul 2017 19:09:26 : LimitlessMc, botchat, KidKraft#7732, ;train
+22 Jul 2017 19:09:28 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:09:30 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:09:36 : LimitlessMc, botchat, KidKraft#7732, ;mine
+22 Jul 2017 19:09:54 : LimitlessMc, botchat, KidKraft#7732, Or not
+22 Jul 2017 19:10:00 : LimitlessMc, botchat, Wertfuzzy77#0274, its still starting up
+22 Jul 2017 19:10:27 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, <__Sarah__> .........
+22 Jul 2017 19:10:29 : Lycryisic, lycrysic-modded-chat, Botfuzzy77#2209, **Sengoku Basara Two**
+Link: https://myanimelist.net/anime/6634
+**Episodes**: 12
+**Status**: Finished Airing
+**Rating**: 7.71 (by 22,434 users)
+22 Jul 2017 19:10:50 : Lycryisic, lycrysic-modded-chat, Botfuzzy77#2209, **Sengoku Basara Two**
+Link: https://myanimelist.net/anime/6634
+**Episodes**: 12
+**Status**: Finished Airing
+**Rating**: 7.71 (by 22,434 users)
+22 Jul 2017 19:11:21 : LimitlessMc, botchat, KidKraft#7732, Cool cool
+22 Jul 2017 19:11:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 19:11:48 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:11:51 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:11:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+22 Jul 2017 19:11:57 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:12:21 : Personal Server, botchat, Ayana#8911, :notes: Now playing: `The Magikarp Song` requested by `Lastshadow#5809`.
+22 Jul 2017 19:13:20 : LimitlessMc, botchat, StubbyMuffins#1053, wert join back in my aek discord so i can put you back under bot dev
+22 Jul 2017 19:13:31 : OblivionEvolved, mainchat, Botfuzzy77#2209, Welcome @Drunke the Monk to OblivionEvolved!
+22 Jul 2017 19:13:31 : OblivionEvolved, mainchat, Botfuzzy77#2209, Welcome @Drunke the Monk to OblivionEvolved!
+22 Jul 2017 19:13:43 : LimitlessMc, botchat, StubbyMuffins#1053, @Wertfuzzy77
+22 Jul 2017 19:13:44 : LimitlessMc, botchat, Wertfuzzy77#0274, link me
+22 Jul 2017 19:13:59 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, __Shadowfire1217__ fell out of the world
+22 Jul 2017 19:14:07 : OblivionEvolved, mainchat, StubbyMuffins#1053, dont mind bot second one is open bot dev is working on stuff
+22 Jul 2017 19:14:20 : LimitlessMc, botchat, StubbyMuffins#1053, https://discord.gg/TmuZHB
+22 Jul 2017 19:14:32 : OblivionEvolved, mainchat, Botfuzzy77#2209, Welcome @Wertfuzzy77 to OblivionEvolved!
+22 Jul 2017 19:15:40 : OblivionEvolved, mainchat, StubbyMuffins#1053, @Wertfuzzy77 finish bot okei bb and dont forget to unlock pokemon game for srbr
+22 Jul 2017 19:16:18 : Personal Server, botchat, Ayana#8911, :notes: Now playing: `ALL THE WAY - Jacksepticeye Songify Remix by Schmoyoho` requested by `Lastshadow#5809`.
+22 Jul 2017 19:17:12 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, __Shadowfire1217__ left the server!
+22 Jul 2017 19:17:17 : OblivionEvolved, bots, Wertfuzzy77#0274, ;relog
+22 Jul 2017 19:17:17 : OblivionEvolved, bots, Botfuzzy77#2209, Relogging...

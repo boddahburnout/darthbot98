@@ -1,0 +1,31 @@
+13 Jul 2016 00:20:54 : Cipher , Wertfuzzy77#0274 , ;join
+13 Jul 2016 00:21:01 : Cipher , Wertfuzzy77#0274 , ;playlist Sheeran
+13 Jul 2016 00:21:07 : Cipher , Botfuzzy77#2209 , Finished Adding songs from playlist(s)
+13 Jul 2016 00:21:09 : Cipher , Wertfuzzy77#0274 , ;songs
+13 Jul 2016 00:21:09 : Cipher , Botfuzzy77#2209 , The Following songs are in the Queue
+13 Jul 2016 00:21:09 : Cipher , Botfuzzy77#2209 , Ed Sheeran - Give Me Love [Official Video] (https://www.youtube.com/watch?v=FOjdXSrtUxA)
+Ed Sheeran - The A Team [Official Video] (https://www.youtube.com/watch?v=UAWcs5H-qgQ)
+Ed Sheeran - I See Fire (Music Video) (https://www.youtube.com/watch?v=2fngvQS_PmQ)
+Ed Sheeran - Lego House [Official Video] (https://www.youtube.com/watch?v=c4BLVznuWnU)
+Ed Sheeran - Don't [Official Video] (https://www.youtube.com/watch?v=iD2rhdFRehU)
+Ed Sheeran - Photograph (Official Music Video) (https://www.youtube.com/watch?v=nSDgHBxUbVQ)
+
+13 Jul 2016 00:21:17 : Cipher , Wertfuzzy77#0274 , ;shuffle
+13 Jul 2016 00:21:19 : Cipher , Wertfuzzy77#0274 , ;songs
+13 Jul 2016 00:21:19 : Cipher , Botfuzzy77#2209 , The Following songs are in the Queue
+13 Jul 2016 00:21:20 : Cipher , Botfuzzy77#2209 , Ed Sheeran - Don't [Official Video] (https://www.youtube.com/watch?v=iD2rhdFRehU)
+Ed Sheeran - Photograph (Official Music Video) (https://www.youtube.com/watch?v=nSDgHBxUbVQ)
+Ed Sheeran - The A Team [Official Video] (https://www.youtube.com/watch?v=UAWcs5H-qgQ)
+Ed Sheeran - I See Fire (Music Video) (https://www.youtube.com/watch?v=2fngvQS_PmQ)
+Ed Sheeran - Lego House [Official Video] (https://www.youtube.com/watch?v=c4BLVznuWnU)
+Ed Sheeran - Give Me Love [Official Video] (https://www.youtube.com/watch?v=FOjdXSrtUxA)
+
+13 Jul 2016 00:26:30 : Cipher , Wertfuzzy77#0274 , ;song
+13 Jul 2016 00:26:30 : Cipher , Botfuzzy77#2209 , ```Name: Ed Sheeran - Don't [Official Video]
+URL: <https://www.youtube.com/watch?v=iD2rhdFRehU>
+Views: 127,224,057
+Likes: 593,216, 97.11%
+Dislikes: 17,677, 2.89%
+```
+13 Jul 2016 00:32:00 : Cipher , Wertfuzzy77#0274 , ;relog
+13 Jul 2016 00:32:00 : Cipher , Botfuzzy77#2209 , Relogging...

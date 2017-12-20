@@ -1,0 +1,9 @@
+24 Aug 2016 00:32:15 : PassionMC, botchat, Wertfuzzy77#0274, ;config
+24 Aug 2016 00:32:16 : PassionMC, botchat, Botfuzzy77#2209, Invalid config command passed...
+24 Aug 2016 00:32:20 : PassionMC, botchat, Wertfuzzy77#0274, ;config Get Welcome
+24 Aug 2016 00:32:20 : PassionMC, botchat, Botfuzzy77#2209, Welcome is set to False
+24 Aug 2016 00:32:28 : PassionMC, botchat, Wertfuzzy77#0274, ;config ALl
+24 Aug 2016 00:32:28 : PassionMC, botchat, Botfuzzy77#2209, Invalid config command passed...
+24 Aug 2016 00:32:32 : PassionMC, botchat, Wertfuzzy77#0274, ;config All
+24 Aug 2016 00:32:42 : PassionMC, botchat, Wertfuzzy77#0274, ;relog
+24 Aug 2016 00:32:42 : PassionMC, botchat, Botfuzzy77#2209, Relogging...

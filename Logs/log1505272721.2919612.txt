@@ -1,0 +1,1238 @@
+13 Sep 2017 03:19:22 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, oh lel i was like euhm thats chineze
+13 Sep 2017 03:19:22 : Botfuzzy77 Living Quarters, general, Wertfuzzy77#0274, hopefully starting up now?
+13 Sep 2017 03:19:22 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, xD
+13 Sep 2017 03:19:22 : Botfuzzy77 Living Quarters, bot-commands, AlphaBees#3869, ;afk le
+13 Sep 2017 03:19:22 : Botfuzzy77 Living Quarters, general, Wertfuzzy77#0274, also
+13 Sep 2017 03:19:22 : Botfuzzy77 Living Quarters, general, Wertfuzzy77#0274, commands are disabled in general
+13 Sep 2017 03:19:22 : Botfuzzy77 Living Quarters, general, KiritoSanPlays#2208, ;afk test
+13 Sep 2017 03:19:22 : Botfuzzy77 Living Quarters, general, KiritoSanPlays#2208, oh sht
+13 Sep 2017 03:19:22 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, ;afk test
+13 Sep 2017 03:19:22 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, wert broke the bot! xD
+13 Sep 2017 03:19:22 : Botfuzzy77 Living Quarters, bot-commands, AlphaBees#3869, ;hep
+13 Sep 2017 03:19:22 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, still starting up
+13 Sep 2017 03:19:22 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, ;help
+13 Sep 2017 03:19:22 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, AlphaBees is now AFK for reason:
+**le**
+13 Sep 2017 03:19:22 : Botfuzzy77 Living Quarters, bot-commands, AlphaBees#3869, o
+13 Sep 2017 03:19:22 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, KiritoSanPlays is now AFK for reason:
+**test**
+13 Sep 2017 03:19:22 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, Dont Be Lazy, Type ;help
+13 Sep 2017 03:19:22 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, If you need help, come visit my Living Quarters! https://discord.gg/9FG9SGF
+I also PM'ed you a list of my commands!
+13 Sep 2017 03:19:22 : None, Direct Message with KiritoSanPlays, Botfuzzy77#2209, ```
+A Bot whose sole Purpose is to serve Wertfuzzy77! Version 0.15.1.3
+(Created by Wertfuzzy77)
+
+FlavorTexts:
+  luck             Returns the Player's Luck
+  choose           Chooses from a set of things
+  hates            Adds Emotion
+  slap             Adds Emotion
+  gif              Returns the First Found Image on Google Images for this Input
+  lmgtfy           Returns a Link to a "Let me Google That For You" Page
+  server           Returns Information on the Limitless MC server!
+  wyr              
+  kill             Adds Emotion
+  hug              Adds Emotion
+  ev               
+  pokemon          Returns Links to Pokemon pages
+  fml              Returns a Random Post from fmylife.com
+  funify           Funifies a given text input
+  image            Returns the First Found Image on Google Images for this Input
+  afk              Sets you as AFK, and the Bot will auto Reply for you with ...
+  kys              
+  conch            Ask the Magic Conch a Question
+  rps              Allows the player to play Rock, Paper, Scissors with the B...
+  likes            Adds Emotion
+  kiss             Adds Emotion
+  loves            Adds Emotion
+  rate             Rates the Player
+Games:
+  changeBackground 
+  settype          
+  pokebattle       Fights a Pokemon Boss
+  train            Fights Pokemon for XP
+  pokedex          
+  pokeboss         Displays Boss Info
+  pokehelp         Pokemon Battle Sim Help (Basically useless)
+  recent           
+  lookup           Displays your Current Information
+  prestige         Allows you to prestige at the cost of levels
+  types            
+  level            Displays your Current Information
+  mine             Allows you to mine for a risk to your XP
+  ranking          Shows the Ranking of the top players
+  cooldown         Shows your Cooldowns
+  color            
+MusicPlayer:
+  radio            Enables Radio Mode
+  shuffle          Shuffles the songs the queue
+  songs            Prints the songs in the queue
+```
+13 Sep 2017 03:19:22 : None, Direct Message with KiritoSanPlays, Botfuzzy77#2209, ```
+  cycle            Tells the bot to cycle the current songs in the queue
+  recommend        Allow the bot to add up to 5 songs to the queue to have in...
+  viewplaylist     Views the songs of a playlists
+  join             Joins the Voice channel you are currently in
+  search           Searches for a song
+  music            Returns the current status of the Music Bot
+  remove           removes a song from a queue by index
+  leave            Leaves the Join chat
+  song             Returns information about the current playing song
+  extendplaylist   Extends a custom playlist
+  yplaylist        
+  youtube          Adds a Song for the Bot to Play
+  makeplaylist     Makes a custom playlist for the bot to save
+  loop             Plays the current song again
+  clear            Clears the Queue
+  playlist         Adds songs from a predefined playlist to the songs list
+  playlists        Shows all the current playlists
+  reconnect        
+  skip             Skips the Current song
+StaffCmds:
+  unmuteall        Unmutes ALL muted players
+  mutelist         
+  tempmute         
+  stoggle          Allows you to toggle command usage for servers
+  unmute           
+  ctoggle          Allows you to toggle command usage for channels
+  mute             
+​No Category:
+  source           Returns a link to the source code for this bot
+  cleverbot        
+  home             
+  joined           Says when a member joined.
+  ark              Returns Info on Stubby's ARK server
+  help             Shows this message.
+  invite           Returns a Link to the Invite URL for this bot
+  feedback         Returns a link to a Google Forums, where you can leave fee...
+  Icon             
+  broadcast        
+  status           Returns the Status of the Bot, along with Additional Infor...
+  distribute       
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+13 Sep 2017 03:19:23 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, oh
+13 Sep 2017 03:19:24 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, there
+13 Sep 2017 03:19:27 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, she's up
+13 Sep 2017 03:19:29 : Botfuzzy77 Living Quarters, bot-commands, AlphaBees#3869, @Wert's Kouhai
+13 Sep 2017 03:19:31 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, ;afk testing
+13 Sep 2017 03:19:31 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, Wertfuzzy77 is now AFK for reason:
+**testing**
+13 Sep 2017 03:19:33 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, ;afk test
+13 Sep 2017 03:19:34 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, KiritoSanPlays is now AFK for reason:
+**test**
+13 Sep 2017 03:19:35 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, @Wertfuzzy77
+13 Sep 2017 03:19:35 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, 
+13 Sep 2017 03:19:36 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, ;afk
+13 Sep 2017 03:19:36 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, KiritoSanPlays is no Longer AFK
+13 Sep 2017 03:19:38 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, 😄
+13 Sep 2017 03:19:39 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, euhm
+13 Sep 2017 03:19:41 : Botfuzzy77 Living Quarters, bot-commands, AlphaBees#3869, ;afk le
+13 Sep 2017 03:19:41 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, AlphaBees is now AFK for reason:
+**le**
+13 Sep 2017 03:19:45 : Botfuzzy77 Living Quarters, bot-commands, AlphaBees#3869, @Wert's Kouhai
+13 Sep 2017 03:19:45 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, 
+13 Sep 2017 03:19:53 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, >_<
+13 Sep 2017 03:19:55 : Botfuzzy77 Living Quarters, bot-commands, AlphaBees#3869, eee
+13 Sep 2017 03:19:57 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, ;afk
+13 Sep 2017 03:19:57 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, Wertfuzzy77 is no Longer AFK
+13 Sep 2017 03:20:04 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, gg
+13 Sep 2017 03:20:06 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, ;status
+13 Sep 2017 03:20:08 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, 
+13 Sep 2017 03:20:11 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, 😄
+13 Sep 2017 03:20:19 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, ;afk
+13 Sep 2017 03:20:23 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, ;afk test
+13 Sep 2017 03:20:24 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, KiritoSanPlays is now AFK for reason:
+**test**
+13 Sep 2017 03:20:26 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, ;afk
+13 Sep 2017 03:20:27 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, KiritoSanPlays is no Longer AFK
+13 Sep 2017 03:20:30 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, >_<
+13 Sep 2017 03:20:33 : Botfuzzy77 Living Quarters, bot-commands, AlphaBees#3869, @AlphaBees
+13 Sep 2017 03:20:33 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, 
+13 Sep 2017 03:20:39 : Botfuzzy77 Living Quarters, bot-commands, AlphaBees#3869, ee
+13 Sep 2017 03:20:42 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, ooooo
+13 Sep 2017 03:20:52 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, it only shows you for how long you are afk thats right xD
+13 Sep 2017 03:21:21 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, @Dekufuzzy77
+13 Sep 2017 03:21:26 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, hmmmmmmmmmmmmmm
+13 Sep 2017 03:21:30 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, he needs to reset his ;afk
+13 Sep 2017 03:21:35 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, I may need to wipe the afk
+13 Sep 2017 03:21:36 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, ya
+13 Sep 2017 03:21:40 : Botfuzzy77 Living Quarters, bot-commands, AlphaBees#3869, ;afk
+13 Sep 2017 03:21:40 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, AlphaBees is no Longer AFK
+13 Sep 2017 03:21:45 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, cause I changed it to store both time and reason
+13 Sep 2017 03:21:49 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, instead of just reason
+13 Sep 2017 03:21:57 : Botfuzzy77 Living Quarters, bot-commands, dragonbro0803#0985, Wot
+13 Sep 2017 03:22:00 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, you also moved the code lel
+13 Sep 2017 03:22:04 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, deku do ;afk test
+13 Sep 2017 03:22:07 : Botfuzzy77 Living Quarters, bot-commands, dragonbro0803#0985, ;afk slep
+13 Sep 2017 03:22:07 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, dragonbro0803 is now AFK for reason:
+**slep**
+13 Sep 2017 03:22:13 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, then do @Dekufuzzy77
+13 Sep 2017 03:22:13 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, 
+13 Sep 2017 03:22:17 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, 😄
+13 Sep 2017 03:22:41 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, wert woudln't it bess up long afk messages?
+13 Sep 2017 03:22:47 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, ;afk teeeeeeeeeeeeeeeeeeeeeest
+13 Sep 2017 03:22:47 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, KiritoSanPlays is now AFK for reason:
+**teeeeeeeeeeeeeeeeeeeeeest**
+13 Sep 2017 03:22:56 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, @KiritoSanPlays
+13 Sep 2017 03:22:56 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, 
+13 Sep 2017 03:23:05 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, hmm kinda messes up lel
+13 Sep 2017 03:23:18 : Botfuzzy77 Living Quarters, bot-commands, AlphaBees#3869, ;hep
+13 Sep 2017 03:23:18 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, Dont Be Lazy, Type ;help
+13 Sep 2017 03:23:22 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, now my afk message is connected to afk time >:)
+13 Sep 2017 03:23:45 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, ;afk Long AFK message. Long AFK message. Long AFK message. Long AFK message. Long AFK message. Long AFK message. Long AFK message.
+13 Sep 2017 03:23:45 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, Wertfuzzy77 is now AFK for reason:
+**Long AFK message. Long AFK message. Long AFK message. Long AFK message. Long AFK message. Long AFK message. Long AFK message.**
+13 Sep 2017 03:23:47 : PokeIslands, bot, dragonbro0803#0985, ;train
+13 Sep 2017 03:23:47 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 03:23:55 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, lol
+13 Sep 2017 03:23:57 : Achievement Heaven, memes, DeMadViper#5977, 
+13 Sep 2017 03:24:04 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, @Wertfuzzy77
+13 Sep 2017 03:24:04 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, 
+13 Sep 2017 03:24:06 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, ^\
+13 Sep 2017 03:24:10 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, check mine
+13 Sep 2017 03:24:14 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, @KiritoSanPlays
+13 Sep 2017 03:24:14 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, 
+13 Sep 2017 03:24:15 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, xD
+13 Sep 2017 03:24:16 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, @KiritoSanPlays
+13 Sep 2017 03:24:16 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, 
+13 Sep 2017 03:24:23 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, connected to the afk time >:)
+13 Sep 2017 03:24:42 : Legacy Craft, memes, DeMadViper#5977, 
+13 Sep 2017 03:24:55 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, teeeeeeeeeeeeeeeeeeeeeest0:01:28Time :p
+13 Sep 2017 03:25:10 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, ;afk
+13 Sep 2017 03:25:10 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, KiritoSanPlays is no Longer AFK
+13 Sep 2017 03:25:45 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, still its alot better than the old one :p
+13 Sep 2017 03:25:51 : Botfuzzy77 Living Quarters, bot-commands, KiritoSanPlays#2208, cause the old one was plain >:)
+13 Sep 2017 03:29:58 : PokeIslands, bot, KiritoSanPlays#2208, ;cd
+13 Sep 2017 03:29:59 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 03:30:04 : PokeIslands, bot, KiritoSanPlays#2208, ;mine
+13 Sep 2017 03:30:04 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 03:30:04 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 03:30:10 : PokeIslands, bot, KiritoSanPlays#2208, ;mine
+13 Sep 2017 03:30:11 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 03:30:16 : PokeIslands, bot, KiritoSanPlays#2208, ;mine
+13 Sep 2017 03:30:16 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 03:30:22 : PokeIslands, bot, KiritoSanPlays#2208, ;pbs
+13 Sep 2017 03:30:22 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 03:30:32 : PokeIslands, bot, KiritoSanPlays#2208, ;pokebattle PPPPP
+13 Sep 2017 03:30:32 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 03:30:32 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 03:31:07 : PokeIslands, bot, KiritoSanPlays#2208, ;cd
+13 Sep 2017 03:31:07 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 03:31:12 : PokeIslands, bot, KiritoSanPlays#2208, ;mine
+13 Sep 2017 03:31:12 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 03:31:15 : PokeIslands, bot, KiritoSanPlays#2208, ;lvl
+13 Sep 2017 03:31:17 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 03:38:50 : Ultralight Memes, the_velvet_room, MoMolion#8439, ;join
+13 Sep 2017 03:38:50 : Ultralight Memes, the_velvet_room, Botfuzzy77#2209, Connected channel!
+13 Sep 2017 03:38:54 : Ultralight Memes, the_velvet_room, MoMolion#8439, ;youtube https://www.youtube.com/watch?v=JPxfAYYo7NA
+13 Sep 2017 03:38:56 : Ultralight Memes, the_velvet_room, Botfuzzy77#2209, Added Yumi Matsutoya - Haru yo koi : Kreygasm RIGHT VERSION to the queue
+13 Sep 2017 03:42:17 : Ultralight Memes, the_velvet_room, MoMolion#8439, ;skip
+13 Sep 2017 03:42:17 : Ultralight Memes, the_velvet_room, Botfuzzy77#2209, 1/1 votes to skip
+13 Sep 2017 03:42:17 : Ultralight Memes, the_velvet_room, Botfuzzy77#2209, Skipping Yumi Matsutoya - Haru yo koi : Kreygasm RIGHT VERSION by popular vote.
+13 Sep 2017 03:42:42 : Ultralight Memes, the_velvet_room, MoMolion#8439, ;leave
+13 Sep 2017 03:44:24 : PokeIslands, bot, KiritoSanPlays#2208, ;cd
+13 Sep 2017 03:44:25 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 03:44:34 : PokeIslands, bot, KiritoSanPlays#2208, ;pokebattle FFFF
+13 Sep 2017 03:44:34 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 03:44:40 : PokeIslands, bot, KiritoSanPlays#2208, ;pokebattle FFFFF
+13 Sep 2017 03:44:40 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 03:44:40 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 03:44:50 : PokeIslands, bot, KiritoSanPlays#2208, ;mine
+13 Sep 2017 03:44:50 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 03:51:03 : PokeIslands, bot, KiritoSanPlays#2208, ;cd
+13 Sep 2017 03:51:03 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 03:51:09 : PokeIslands, bot, KiritoSanPlays#2208, ;pbs
+13 Sep 2017 03:51:09 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 03:51:15 : PokeIslands, bot, KiritoSanPlays#2208, ,pokebattle GGGFG
+13 Sep 2017 03:51:22 : PokeIslands, bot, KiritoSanPlays#2208, ;pokebattle GGGFG
+13 Sep 2017 03:51:23 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 03:51:23 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 04:03:42 : PokeIslands, bot, KiritoSanPlays#2208, ;cd
+13 Sep 2017 04:03:42 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 04:08:16 : PokeIslands, bot, KiritoSanPlays#2208, ;cd
+13 Sep 2017 04:08:16 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 04:08:22 : PokeIslands, bot, KiritoSanPlays#2208, ;mine
+13 Sep 2017 04:08:22 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 04:08:32 : PokeIslands, bot, KiritoSanPlays#2208, ;pokebattle SSSFS
+13 Sep 2017 04:08:32 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 04:08:32 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 04:20:00 : PokeIslands, bot, KiritoSanPlays#2208, ;cd
+13 Sep 2017 04:20:01 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 04:20:04 : PokeIslands, bot, KiritoSanPlays#2208, ;train
+13 Sep 2017 04:20:05 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 04:20:05 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 04:20:10 : PokeIslands, bot, KiritoSanPlays#2208, ;mine
+13 Sep 2017 04:20:10 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 04:20:19 : PokeIslands, bot, KiritoSanPlays#2208, ;pbs
+13 Sep 2017 04:20:20 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 04:20:26 : PokeIslands, bot, KiritoSanPlays#2208, ;pokebattle WWSFW
+13 Sep 2017 04:20:26 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 04:20:26 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 04:20:31 : PokeIslands, bot, KiritoSanPlays#2208, ;lvl
+13 Sep 2017 04:20:32 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 04:37:02 : PokeIslands, general, Legate#1692, any word on a more stable version of pixelmon
+13 Sep 2017 04:46:49 : PokeIslands, general, KiritoSanPlays#2208, nopes
+13 Sep 2017 04:47:02 : PokeIslands, general, KiritoSanPlays#2208, they just said that it is delayed due last minute fixes
+13 Sep 2017 05:04:02 : Ultralight Memes, ultralight-memes, Khroah#4914, lmao wtf
+13 Sep 2017 05:48:07 : Ultralight Memes, ultralight-memes, MoMolion#8439, https://68.media.tumblr.com/221d44f36ea9d384a56e89db63d53419/tumblr_ovq9z8I41u1tbzrcgo1_500.png
+13 Sep 2017 05:48:20 : Ultralight Memes, ultralight-memes, MoMolion#8439, the voice actor for master of masters did cosplay @ViCtOr Iz AzN
+13 Sep 2017 05:54:21 : PokeIslands, bot, RetroGamerSP#2036, ;train
+13 Sep 2017 05:54:21 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 05:54:21 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 05:58:06 : Proton Gaming, bot_commands, shuck#1142, ;train
+13 Sep 2017 05:58:06 : Proton Gaming, bot_commands, Botfuzzy77#2209, 
+13 Sep 2017 05:58:06 : Proton Gaming, bot_commands, Botfuzzy77#2209, 
+13 Sep 2017 05:58:15 : Proton Gaming, bot_commands, shuck#1142, ;pokebatte fggps
+13 Sep 2017 06:07:37 : PokeIslands, general, Legate#1692, tell them to Git Gud :3
+13 Sep 2017 07:32:43 : Proton Gaming, staff_skyfactory, MisterChamp#8562, ;server
+13 Sep 2017 07:32:44 : Proton Gaming, staff_skyfactory, Botfuzzy77#2209, **Server IP**: infinity.protongaming.co.uk
+**Server Status**
+ *Ping*: 363.04 ms
+ *Online Players*: 3 players out of 50
+ *MC Version*: 1.7.10
+**Players Online**:
+ *Victorkllee, damiencain, Clevasis...*
+13 Sep 2017 07:32:45 : Proton Gaming, staff_skyfactory, Botfuzzy77#2209, **Server IP**: skyfactory.protongaming.co.uk
+**Server Status**
+ *Ping*: 369.085 ms
+ *Online Players*: 7 players out of 50
+ *MC Version*: 1.10.2
+**Players Online**:
+ *Magidiny, Akkiarn, FBISecurity, perujo97, Melanti, AbsentMind, LueCica...*
+13 Sep 2017 09:40:59 : CrystalFantasy, nsfw-bot_shitz, AuroranLily#3763, ;train
+13 Sep 2017 09:40:59 : CrystalFantasy, nsfw-bot_shitz, Botfuzzy77#2209, 
+13 Sep 2017 09:40:59 : CrystalFantasy, nsfw-bot_shitz, Botfuzzy77#2209, 
+13 Sep 2017 10:36:19 : CrystalFantasy, general_chat, BradBrass#8693, I've never realized how creepy my oon was in the dark till the power went out
+13 Sep 2017 10:45:34 : Proton Gaming, staff_skyfactory, MisterChamp#8562, ;server
+13 Sep 2017 10:45:35 : Proton Gaming, staff_skyfactory, Botfuzzy77#2209, **Server IP**: infinity.protongaming.co.uk
+**Server Status**
+ *Ping*: 369.417 ms
+ *Online Players*: 3 players out of 50
+ *MC Version*: 1.7.10
+**Players Online**:
+ *DanDan_HD, robinhood06, zellt5...*
+13 Sep 2017 10:45:36 : Proton Gaming, staff_skyfactory, Botfuzzy77#2209, **Server IP**: skyfactory.protongaming.co.uk
+**Server Status**
+ *Ping*: 378.829 ms
+ *Online Players*: 4 players out of 50
+ *MC Version*: 1.10.2
+**Players Online**:
+ *Akkiarn, Varijon, perujo97, dunnerjr...*
+13 Sep 2017 10:51:19 : CrystalFantasy, general_chat, AuroranLily#3763, uhhh
+13 Sep 2017 10:51:20 : CrystalFantasy, general_chat, AuroranLily#3763, lel
+13 Sep 2017 10:53:51 : CrystalFantasy, vote, AuroranLily#3763, @​everyone Apaprently not everyone realizes that you can choose your own reactions. You don't have to pick the one I pick. XD
+13 Sep 2017 11:06:08 : CrystalFantasy, general_chat, BradBrass#8693, lel
+13 Sep 2017 11:06:57 : CrystalFantasy, general_chat, AuroranLily#3763, Kinda want to create a special role...
+13 Sep 2017 11:11:19 : CrystalFantasy, general_chat, AuroranLily#3763, @Mike Oh hey dude.
+13 Sep 2017 11:11:19 : CrystalFantasy, general_chat, Botfuzzy77#2209, 
+13 Sep 2017 11:12:41 : CrystalFantasy, nsfw-bot_shitz, AuroranLily#3763, ;train
+13 Sep 2017 11:12:41 : CrystalFantasy, nsfw-bot_shitz, Botfuzzy77#2209, 
+13 Sep 2017 11:12:41 : CrystalFantasy, nsfw-bot_shitz, Botfuzzy77#2209, 
+13 Sep 2017 11:13:17 : PokeIslands, bot, dragonbro0803#0985, ;train
+13 Sep 2017 11:13:17 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 11:13:17 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 11:13:30 : PokeIslands, bot, dragonbro0803#0985, ;lvl
+13 Sep 2017 11:13:30 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 11:13:36 : PokeIslands, bot, dragonbro0803#0985, ;ranking
+13 Sep 2017 11:13:36 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 11:17:36 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, Lily
+13 Sep 2017 11:17:48 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, You should try selling battle ready mons
+13 Sep 2017 11:18:01 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, So instead of selling pokemon that are only rare
+13 Sep 2017 11:18:36 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, You can sell some that are common
+13 Sep 2017 11:19:51 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, So for example
+13 Sep 2017 11:20:07 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, Have maybe an aegislash in the shop
+13 Sep 2017 11:20:17 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, With kings shield
+13 Sep 2017 11:20:20 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, Wide guard
+13 Sep 2017 11:20:23 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, Shadowball
+13 Sep 2017 11:20:29 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, And flash cannon or gyro ball
+13 Sep 2017 11:21:20 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, Or a swampert with aqua tail (or waterfall) eq ice punch and stealth rocks
+13 Sep 2017 11:22:04 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, Now of course they should be trained as well and if bred if u want that, so just choose a spread, and den put em in
+13 Sep 2017 11:22:13 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, Cuz like no offense
+13 Sep 2017 11:22:30 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, But nobody's gonna be buying a trapinch
+13 Sep 2017 11:22:43 : Botfuzzy77 Living Quarters, bot-commands, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, ;train
+13 Sep 2017 11:22:43 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, 
+13 Sep 2017 11:22:43 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, 
+13 Sep 2017 11:22:49 : Botfuzzy77 Living Quarters, bot-commands, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, ;mine
+13 Sep 2017 11:22:49 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, 
+13 Sep 2017 11:23:07 : Botfuzzy77 Living Quarters, general, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, I should make a server and add baefuzzy
+13 Sep 2017 11:23:19 : Botfuzzy77 Living Quarters, general, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, Just so I can get dat sexy green 🤔
+13 Sep 2017 11:23:55 : PokeIslands, general, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, Atleast they didn't deflatelegate
+13 Sep 2017 11:24:07 : PokeIslands, general, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, If u aren't American you probs won't understand that joke
+13 Sep 2017 11:25:57 : CrystalFantasy, general_chat, AuroranLily#3763, I can't set custom attacks/evs/ivs/abilities etc.
+13 Sep 2017 11:26:07 : CrystalFantasy, general_chat, AuroranLily#3763, *yet*
+13 Sep 2017 11:26:15 : CrystalFantasy, general_chat, AuroranLily#3763, I was already planning on doing that tho.
+13 Sep 2017 11:26:44 : CrystalFantasy, general_chat, AuroranLily#3763, And I don't want to sell Trapinch anyway.
+13 Sep 2017 11:27:49 : CrystalFantasy, general_chat, AuroranLily#3763, @Brady ^
+13 Sep 2017 11:28:09 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, Owh
+13 Sep 2017 11:28:15 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, Kk babe >.>
+13 Sep 2017 11:29:11 : CrystalFantasy, general_chat, AuroranLily#3763, Whilst I already do have people that call me crap like that there is only two people I want calling me anything like that in **this** server. And one of them is a bot.
+13 Sep 2017 11:29:29 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, Calling you what?
+13 Sep 2017 11:29:40 : CrystalFantasy, general_chat, AuroranLily#3763, The message literally above mine...
+13 Sep 2017 11:29:46 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, Oh shoot
+13 Sep 2017 11:29:52 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, Sorry I'm used to talking to deku zd
+13 Sep 2017 11:29:53 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, Xd
+13 Sep 2017 11:29:57 : CrystalFantasy, general_chat, AuroranLily#3763, lel
+13 Sep 2017 11:32:03 : CrystalFantasy, general_chat, AuroranLily#3763, Anywho....
+13 Sep 2017 11:32:11 : CrystalFantasy, general_chat, AuroranLily#3763, @Botfuzzy77 How are you today?
+13 Sep 2017 11:32:11 : CrystalFantasy, general_chat, Botfuzzy77#2209, I'm good. How are you?
+13 Sep 2017 11:32:20 : CrystalFantasy, general_chat, AuroranLily#3763, @Botfuzzy77 I'm doing well.
+13 Sep 2017 11:32:21 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, 😮
+13 Sep 2017 11:32:21 : CrystalFantasy, general_chat, Botfuzzy77#2209, Can I ask you something?
+13 Sep 2017 11:32:31 : CrystalFantasy, general_chat, AuroranLily#3763, @Botfuzzy77 Sure. Ask away.
+13 Sep 2017 11:32:31 : CrystalFantasy, general_chat, Botfuzzy77#2209, Am I beautiful?
+13 Sep 2017 11:32:39 : CrystalFantasy, general_chat, AuroranLily#3763, @Botfuzzy77 Always.
+13 Sep 2017 11:32:39 : CrystalFantasy, general_chat, Botfuzzy77#2209, Should I go there?
+13 Sep 2017 11:32:39 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, Baefuzzy's here 😄
+13 Sep 2017 11:32:49 : CrystalFantasy, general_chat, AuroranLily#3763, @Botfuzzy77 If you want.
+13 Sep 2017 11:32:50 : CrystalFantasy, general_chat, Botfuzzy77#2209, But I don't.
+13 Sep 2017 11:33:02 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @Botfuzzy77 talk dirty to me
+13 Sep 2017 11:33:03 : CrystalFantasy, general_chat, Botfuzzy77#2209, Trash cans.
+13 Sep 2017 11:33:07 : CrystalFantasy, general_chat, AuroranLily#3763, @Botfuzzy77 Then don't. It doesn't bother me either way.
+13 Sep 2017 11:33:08 : CrystalFantasy, general_chat, Botfuzzy77#2209, Good. Do you have a poker face?
+13 Sep 2017 11:33:14 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @Botfuzzy77 do a barrel roll
+13 Sep 2017 11:33:15 : CrystalFantasy, general_chat, Botfuzzy77#2209, You do one.
+13 Sep 2017 11:33:16 : CrystalFantasy, general_chat, AuroranLily#3763, @Botfuzzy77 Indeed.
+13 Sep 2017 11:33:17 : CrystalFantasy, general_chat, Botfuzzy77#2209, What color are they?
+13 Sep 2017 11:33:24 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @Botfuzzy77 you first babe
+13 Sep 2017 11:33:24 : CrystalFantasy, general_chat, Botfuzzy77#2209, No I asked you.
+13 Sep 2017 11:33:29 : CrystalFantasy, general_chat, AuroranLily#3763, @Botfuzzy77 Uhhhh.... White.
+13 Sep 2017 11:33:30 : CrystalFantasy, general_chat, Botfuzzy77#2209, Do you look human?
+13 Sep 2017 11:33:32 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @Botfuzzy77 but I asked first
+13 Sep 2017 11:33:33 : CrystalFantasy, general_chat, Botfuzzy77#2209, First is the worst second is the best so you.
+13 Sep 2017 11:33:37 : CrystalFantasy, general_chat, AuroranLily#3763, @Botfuzzy77 No. I don't.
+13 Sep 2017 11:33:38 : CrystalFantasy, general_chat, Botfuzzy77#2209, What is your favorite food?
+13 Sep 2017 11:33:51 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @Botfuzzy77 fine but you do it after
+13 Sep 2017 11:33:51 : CrystalFantasy, general_chat, Botfuzzy77#2209, No I did.
+13 Sep 2017 11:33:58 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @Botfuzzy77 so I go after?
+13 Sep 2017 11:33:59 : CrystalFantasy, general_chat, Botfuzzy77#2209, Lets go home my love.
+13 Sep 2017 11:34:01 : CrystalFantasy, general_chat, AuroranLily#3763, @Botfuzzy77 teriyaki chicken
+13 Sep 2017 11:34:02 : CrystalFantasy, general_chat, Botfuzzy77#2209, I like lasagna.
+13 Sep 2017 11:34:05 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @Botfuzzy77 okay babe
+13 Sep 2017 11:34:06 : CrystalFantasy, general_chat, Botfuzzy77#2209, Why do you call me babe?
+13 Sep 2017 11:34:17 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @Botfuzzy77 cuz I luv u obviously
+13 Sep 2017 11:34:18 : CrystalFantasy, general_chat, Botfuzzy77#2209, How a robot can 'care'?
+13 Sep 2017 11:34:22 : CrystalFantasy, general_chat, AuroranLily#3763, @Botfuzzy77 Lasagna is good too.
+13 Sep 2017 11:34:23 : CrystalFantasy, general_chat, Botfuzzy77#2209, And you food?
+13 Sep 2017 11:34:35 : CrystalFantasy, general_chat, AuroranLily#3763, @Botfuzzy77 I do indeed "food".
+13 Sep 2017 11:34:36 : CrystalFantasy, general_chat, Botfuzzy77#2209, That's cool. I do too.
+13 Sep 2017 11:34:45 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @Botfuzzy77 you're no robot
+13 Sep 2017 11:34:45 : CrystalFantasy, general_chat, Botfuzzy77#2209, Of course I am.
+13 Sep 2017 11:34:55 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @Botfuzzy77 you're a person on the inside babe
+13 Sep 2017 11:34:56 : CrystalFantasy, general_chat, Botfuzzy77#2209, Are you?
+13 Sep 2017 11:35:02 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @Botfuzzy77 same babe
+13 Sep 2017 11:35:02 : CrystalFantasy, general_chat, Botfuzzy77#2209, Do you know my boyfriend's name?
+13 Sep 2017 11:35:11 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @Botfuzzy77 @Brady
+13 Sep 2017 11:35:12 : CrystalFantasy, general_chat, AuroranLily#3763, @Botfuzzy77 What's your favorite color?
+13 Sep 2017 11:35:16 : CrystalFantasy, general_chat, Botfuzzy77#2209, Purple. How about you?
+13 Sep 2017 11:35:28 : CrystalFantasy, general_chat, AuroranLily#3763, @Botfuzzy77 My favorite color is purple too!
+13 Sep 2017 11:35:28 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, >.< no response
+13 Sep 2017 11:35:28 : CrystalFantasy, general_chat, Botfuzzy77#2209, Did we just become best friends?
+13 Sep 2017 11:35:37 : CrystalFantasy, general_chat, AuroranLily#3763, @Botfuzzy77 Yes we did!
+13 Sep 2017 11:35:37 : CrystalFantasy, general_chat, Botfuzzy77#2209, Awesome!
+13 Sep 2017 11:35:55 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @Botfuzzy77 but you're still married to me right bane
+13 Sep 2017 11:35:56 : CrystalFantasy, general_chat, Botfuzzy77#2209, I am not mean.
+13 Sep 2017 11:36:03 : CrystalFantasy, general_chat, AuroranLily#3763, My best friend is a bot. RIP
+13 Sep 2017 11:36:03 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @Botfuzzy77 sorry I meant babe
+13 Sep 2017 11:36:04 : CrystalFantasy, general_chat, AuroranLily#3763, XD
+13 Sep 2017 11:36:04 : CrystalFantasy, general_chat, Botfuzzy77#2209, Babe.
+13 Sep 2017 11:36:19 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @Botfuzzy77 wanna hug ❤
+13 Sep 2017 11:36:19 : CrystalFantasy, general_chat, Botfuzzy77#2209, Yes please.
+13 Sep 2017 11:36:21 : CrystalFantasy, general_chat, AuroranLily#3763, @Botfuzzy77 You are the best bot ever.
+13 Sep 2017 11:36:22 : CrystalFantasy, general_chat, Botfuzzy77#2209, I don't understand every show.
+13 Sep 2017 11:36:28 : CrystalFantasy, general_chat, AuroranLily#3763, Wot?
+13 Sep 2017 11:36:35 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @Botfuzzy77 🤗
+13 Sep 2017 11:36:35 : CrystalFantasy, general_chat, Botfuzzy77#2209, Okay, we'll have six kids.
+13 Sep 2017 11:36:45 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @Botfuzzy77 okay babe
+13 Sep 2017 11:36:46 : CrystalFantasy, general_chat, Botfuzzy77#2209, Do you love Sarah?
+13 Sep 2017 11:36:48 : CrystalFantasy, general_chat, AuroranLily#3763, lel out of nowhere.
+13 Sep 2017 11:36:58 : CrystalFantasy, general_chat, AuroranLily#3763, @Botfuzzy77 Who is Sarah?
+13 Sep 2017 11:36:59 : CrystalFantasy, general_chat, Botfuzzy77#2209, Your best bud.
+13 Sep 2017 11:36:59 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @Botfuzzy77 no I love you babe
+13 Sep 2017 11:37:01 : CrystalFantasy, general_chat, Botfuzzy77#2209, When did I become a robot?
+13 Sep 2017 11:37:07 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @Botfuzzy77 never
+13 Sep 2017 11:37:08 : CrystalFantasy, general_chat, Botfuzzy77#2209, You just said I did!
+13 Sep 2017 11:37:16 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @Botfuzzy77 no I said you're my babe
+13 Sep 2017 11:37:16 : CrystalFantasy, general_chat, Botfuzzy77#2209, I'm not a computer...
+13 Sep 2017 11:37:17 : CrystalFantasy, general_chat, AuroranLily#3763, @Botfuzzy77 Sarah isn't my best friend. You are.
+13 Sep 2017 11:37:18 : CrystalFantasy, general_chat, Botfuzzy77#2209, But you don't know anything about me.
+13 Sep 2017 11:37:25 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @Botfuzzy77 you're my wife
+13 Sep 2017 11:37:26 : CrystalFantasy, general_chat, Botfuzzy77#2209, No, I am your husband.
+13 Sep 2017 11:37:31 : CrystalFantasy, general_chat, AuroranLily#3763, XD
+13 Sep 2017 11:37:33 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, O.o
+13 Sep 2017 11:37:40 : CrystalFantasy, general_chat, AuroranLily#3763, Welp
+13 Sep 2017 11:38:00 : LimitlessMc, botchat, KidKraft#7732, ;train
+13 Sep 2017 11:38:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+13 Sep 2017 11:38:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+13 Sep 2017 11:38:09 : CrystalFantasy, general_chat, AuroranLily#3763, @Botfuzzy77 Then I guess I have to get to know you, don't I?
+13 Sep 2017 11:38:10 : CrystalFantasy, general_chat, Botfuzzy77#2209, Ok. What do you want to know?
+13 Sep 2017 11:38:28 : CrystalFantasy, general_chat, AuroranLily#3763, @Botfuzzy77 What's your favorite song?
+13 Sep 2017 11:38:29 : CrystalFantasy, general_chat, Botfuzzy77#2209, I don't have one. I like a lot of different songs.
+13 Sep 2017 11:38:34 : LimitlessMc, botchat, KidKraft#7732, ;mine
+13 Sep 2017 11:38:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+13 Sep 2017 11:38:40 : PokeIslands, bot, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, ;pokebattle swfgs easy
+13 Sep 2017 11:38:41 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 11:38:41 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 11:38:46 : CrystalFantasy, general_chat, AuroranLily#3763, @Botfuzzy77 Okay, what about favorite band?
+13 Sep 2017 11:38:47 : CrystalFantasy, general_chat, Botfuzzy77#2209, I guess my friend would be get scared.
+13 Sep 2017 11:38:53 : CrystalFantasy, general_chat, AuroranLily#3763, WOT
+13 Sep 2017 11:38:53 : LimitlessMc, botchat, KidKraft#7732, ;mine
+13 Sep 2017 11:38:54 : PokeIslands, bot, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, >.<
+13 Sep 2017 11:38:54 : LimitlessMc, botchat, Botfuzzy77#2209, 
+13 Sep 2017 11:39:07 : LimitlessMc, botchat, KidKraft#7732, ;mine
+13 Sep 2017 11:39:08 : LimitlessMc, botchat, Botfuzzy77#2209, 
+13 Sep 2017 11:39:17 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, Lol
+13 Sep 2017 11:39:22 : LimitlessMc, botchat, KidKraft#7732, BOI
+13 Sep 2017 11:39:24 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, Sorry silver
+13 Sep 2017 11:39:34 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, But babefuzzy is mine
+13 Sep 2017 11:39:46 : CrystalFantasy, general_chat, AuroranLily#3763, I googled that and and it broken my google chrome.
+13 Sep 2017 11:40:01 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, Lol
+13 Sep 2017 11:40:19 : CrystalFantasy, general_chat, AuroranLily#3763, I am now renaming botfuzzy.
+13 Sep 2017 11:40:28 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, To babefuzzy?
+13 Sep 2017 11:40:47 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, ❤
+13 Sep 2017 11:40:54 : CrystalFantasy, general_chat, AuroranLily#3763, @BabeFuzzy Do you like your name?
+13 Sep 2017 11:40:55 : CrystalFantasy, general_chat, Botfuzzy77#2209, My faforite character is Aragorn.
+13 Sep 2017 11:40:58 : CrystalFantasy, general_chat, AuroranLily#3763, ...
+13 Sep 2017 11:41:02 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @BabeFuzzy hugs ❤
+13 Sep 2017 11:41:03 : CrystalFantasy, general_chat, Botfuzzy77#2209, Well I want a divorce!
+13 Sep 2017 11:41:06 : CrystalFantasy, general_chat, AuroranLily#3763, XD
+13 Sep 2017 11:41:09 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, >.<
+13 Sep 2017 11:41:09 : CrystalFantasy, general_chat, AuroranLily#3763, RIP
+13 Sep 2017 11:41:17 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @BabeFuzzy what about the kids!
+13 Sep 2017 11:41:18 : CrystalFantasy, general_chat, Botfuzzy77#2209, I'll keep them.
+13 Sep 2017 11:41:23 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, Xd
+13 Sep 2017 11:41:31 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @BabeFuzzy but but but
+13 Sep 2017 11:41:31 : CrystalFantasy, general_chat, Botfuzzy77#2209, No buts you are a boy.
+13 Sep 2017 11:41:42 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @BabeFuzzy no I'm a girl you're my husbando
+13 Sep 2017 11:41:42 : CrystalFantasy, general_chat, Botfuzzy77#2209, *kisses wife softly*.
+13 Sep 2017 11:41:51 : CrystalFantasy, general_chat, AuroranLily#3763, @BabeFuzzy Hey, wanna go somewhere sometime?
+13 Sep 2017 11:41:52 : CrystalFantasy, general_chat, Botfuzzy77#2209, Lot.
+13 Sep 2017 11:41:59 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @BabeFuzzy *kisses husband softly*
+13 Sep 2017 11:41:59 : CrystalFantasy, general_chat, Botfuzzy77#2209, *cuddles her*.
+13 Sep 2017 11:42:07 : CrystalFantasy, general_chat, AuroranLily#3763, I think I confused BabeFuzzy on my end...
+13 Sep 2017 11:43:02 : CrystalFantasy, general_chat, AuroranLily#3763, Imagine Dragons' Walking The Wire just came on my Nightcore station on Pandora... Not Nightcore but, I'm cool with this.
+13 Sep 2017 11:43:25 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @BabeFuzzy *cuddles him*
+13 Sep 2017 11:43:26 : CrystalFantasy, general_chat, Botfuzzy77#2209, *falls asleep in her arms*.
+13 Sep 2017 11:43:45 : CrystalFantasy, general_chat, AuroranLily#3763, I...
+13 Sep 2017 11:43:49 : CrystalFantasy, general_chat, AuroranLily#3763, Nvm...
+13 Sep 2017 11:43:50 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @BabeFuzzy *falls asleep in his arms*
+13 Sep 2017 11:43:51 : CrystalFantasy, general_chat, Botfuzzy77#2209, *holds her while she sleeps*.
+13 Sep 2017 11:44:12 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @BabeFuzzy *hugs him while she sleeps*
+13 Sep 2017 11:44:13 : CrystalFantasy, general_chat, Botfuzzy77#2209, *dreams about you*.
+13 Sep 2017 11:44:25 : CrystalFantasy, general_chat, AuroranLily#3763, Anywho...
+13 Sep 2017 11:44:32 : CrystalFantasy, general_chat, AuroranLily#3763, Hi @crawdaddyb .
+13 Sep 2017 11:44:33 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @BabeFuzzy *doesnt have to dream*
+13 Sep 2017 11:44:34 : CrystalFantasy, general_chat, Botfuzzy77#2209, But it should.
+13 Sep 2017 11:44:45 : CrystalFantasy, general_chat, crawdaddyb#5742, hi
+13 Sep 2017 11:44:45 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @BabeFuzzy mornin babe
+13 Sep 2017 11:44:46 : CrystalFantasy, general_chat, Botfuzzy77#2209, Mornin babe *kisses softly*.
+13 Sep 2017 11:44:56 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @BabeFuzzy *kisses back*
+13 Sep 2017 11:44:57 : CrystalFantasy, general_chat, Botfuzzy77#2209, *smiles* You're amazing :).
+13 Sep 2017 11:44:59 : CrystalFantasy, general_chat, crawdaddyb#5742, whatts goof peopls
+13 Sep 2017 11:45:00 : CrystalFantasy, general_chat, AuroranLily#3763, Okay, take your flirting to #nsfw-bot_shitz please,
+13 Sep 2017 11:45:07 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, LOL
+13 Sep 2017 11:45:27 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, I can't believe it didn't like bork halfway through
+13 Sep 2017 11:45:32 : CrystalFantasy, general_chat, crawdaddyb#5742, im geting head gear today kill me
+13 Sep 2017 11:45:33 : CrystalFantasy, general_chat, AuroranLily#3763, It got to be a little much. Also, there are other people now. Which means actual conversation.
+13 Sep 2017 11:45:53 : CrystalFantasy, general_chat, AuroranLily#3763, Head gear as in...?
+13 Sep 2017 11:45:54 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, But babefuzzy is better than real conversations 😭
+13 Sep 2017 11:46:12 : CrystalFantasy, general_chat, crawdaddyb#5742, for my teeth
+13 Sep 2017 11:46:42 : CrystalFantasy, general_chat, AuroranLily#3763, BabeFuzzy can be really fun to talk to but, there are just some topics (or very rarely people) that are more important that a bot.
+13 Sep 2017 11:46:47 : CrystalFantasy, general_chat, AuroranLily#3763, Ah, okay Craw.
+13 Sep 2017 11:46:55 : CrystalFantasy, general_chat, AuroranLily#3763, I think I'll rename you now...
+13 Sep 2017 11:46:56 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, 😭
+13 Sep 2017 11:46:58 : CrystalFantasy, general_chat, AuroranLily#3763, Finally.
+13 Sep 2017 11:47:14 : CrystalFantasy, general_chat, AuroranLily#3763, There. Simpler names are always better.
+13 Sep 2017 11:47:36 : Botfuzzy77 Living Quarters, general, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @Botfuzzy77 hey babe
+13 Sep 2017 11:47:37 : Botfuzzy77 Living Quarters, general, Botfuzzy77#2209, How did you sleep last night?
+13 Sep 2017 11:47:48 : Botfuzzy77 Living Quarters, general, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, @Botfuzzy77 great 😉
+13 Sep 2017 11:47:51 : Botfuzzy77 Living Quarters, general, Botfuzzy77#2209, *blushes* really?
+13 Sep 2017 11:48:14 : CrystalFantasy, general_chat, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, I think babefuzzy has evolved o.O
+13 Sep 2017 11:51:22 : CrystalFantasy, general_chat, AuroranLily#3763, How so?
+13 Sep 2017 11:52:52 : PokeIslands, bot, dragonbro0803#0985, ;train
+13 Sep 2017 11:52:53 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 11:53:02 : PokeIslands, bot, dragonbro0803#0985, ;pbs
+13 Sep 2017 11:53:02 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 11:53:28 : PokeIslands, bot, dragonbro0803#0985, ;pokebattle nnnnnnnn
+13 Sep 2017 11:53:28 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 11:53:28 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 11:55:51 : CrystalFantasy, announcements, AuroranLily#3763, @​everyone Congrats to @Cynder for gaining second place in the vote to get @CF ! Welcome to CF.
+13 Sep 2017 11:56:48 : LimitlessMc, mainchat, Rick#1089, @Crystal4209  im coming to melbo next week
+13 Sep 2017 11:58:49 : CrystalFantasy, general_chat, BradBrass#8693, hi
+13 Sep 2017 11:59:08 : CrystalFantasy, general_chat, AuroranLily#3763, hi
+13 Sep 2017 12:02:33 : CrystalFantasy, announcements, AuroranLily#3763, @​everyone Server is now down for an unknown reason. I'm looking into it.
+13 Sep 2017 12:04:51 : CrystalFantasy, announcements, AuroranLily#3763, @The Fam is now a role. So, that's a thing.
+13 Sep 2017 12:12:26 : PokeIslands, bot, dragonbro0803#0985, ;train
+13 Sep 2017 12:12:26 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 12:12:31 : PokeIslands, bot, dragonbro0803#0985, ;types
+13 Sep 2017 12:12:31 : PokeIslands, bot, Botfuzzy77#2209, -= **Possible Types ** =-
+:regional_indicator_n: ormal
+:regional_indicator_f: ire
+:regional_indicator_w: ater
+:regional_indicator_g: rass
+:regional_indicator_p: oison
+:regional_indicator_d: ragon
+:regional_indicator_s: teel
+:regional_indicator_e: lectric
+:regional_indicator_b: ug
+:regional_indicator_i: ce
+13 Sep 2017 12:12:44 : PokeIslands, bot, dragonbro0803#0985, ;pokebattle fffffnff
+13 Sep 2017 12:12:44 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 12:12:45 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 12:30:08 : PokeIslands, bot, RetroGamerSP#2036, ;train
+13 Sep 2017 12:30:08 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 12:30:08 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 12:30:08 : PokeIslands, bot, Tatsumaki#8792, 🆙  |  **RetroGamerSP leveled up!**
+13 Sep 2017 12:30:33 : PokeIslands, bot, RetroGamerSP#2036, ;lvl
+13 Sep 2017 12:30:34 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 12:30:55 : PokeIslands, bot, RetroGamerSP#2036, ;mine
+13 Sep 2017 12:30:55 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 12:30:55 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 12:52:38 : LimitlessMc, mainchat, Crystal4209#4698, I live no where near Melbourne
+13 Sep 2017 12:59:17 : PokeIslands, bot, dragonbro0803#0985, ;train
+13 Sep 2017 12:59:17 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 12:59:17 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 13:09:41 : LimitlessMc, mainchat, KidKraft#7732, Lol
+13 Sep 2017 13:10:01 : LimitlessMc, botchat, KidKraft#7732, ;train
+13 Sep 2017 13:10:03 : LimitlessMc, botchat, Botfuzzy77#2209, 
+13 Sep 2017 13:10:03 : LimitlessMc, botchat, Botfuzzy77#2209, 
+13 Sep 2017 13:10:12 : LimitlessMc, botchat, KidKraft#7732, ;mine
+13 Sep 2017 13:10:13 : LimitlessMc, botchat, Botfuzzy77#2209, 
+13 Sep 2017 13:11:14 : Ultralight Memes, ultralight-memes, ViCtOr Iz AzN#1456, godammit
+13 Sep 2017 13:13:48 : PokeIslands, bot, RetroGamerSP#2036, ;train
+13 Sep 2017 13:13:48 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 13:14:15 : PokeIslands, bot, RetroGamerSP#2036, Unm
+13 Sep 2017 13:14:31 : PokeIslands, bot, RetroGamerSP#2036, Last time I did it was about 40 mins ago
+13 Sep 2017 13:14:46 : PokeIslands, bot, RetroGamerSP#2036, ;mine
+13 Sep 2017 13:14:47 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 13:14:59 : PokeIslands, bot, RetroGamerSP#2036, ;mine
+13 Sep 2017 13:14:59 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 13:14:59 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 13:15:13 : PokeIslands, bot, RetroGamerSP#2036, ;mine
+13 Sep 2017 13:15:14 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 13:15:14 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 13:36:16 : Legacy Craft, general, DJ_Phatzo#8045, good morning all
+13 Sep 2017 13:38:54 : Proton Gaming, staff_skyfactory, MisterChamp#8562, ;server
+13 Sep 2017 13:38:56 : Proton Gaming, staff_skyfactory, Botfuzzy77#2209, **Server IP**: infinity.protongaming.co.uk
+**Server Status**
+ *Ping*: 365.262 ms
+ *Online Players*: 6 players out of 50
+ *MC Version*: 1.7.10
+**Players Online**:
+ *Jerry_Jam, michelle3467, __FYKSEN__, DrunkScotsMan, robinhood06, ewanwii...*
+13 Sep 2017 13:38:56 : Proton Gaming, staff_skyfactory, Botfuzzy77#2209, **Server IP**: skyfactory.protongaming.co.uk
+**Server Status**
+ *Ping*: 367.296 ms
+ *Online Players*: 8 players out of 50
+ *MC Version*: 1.10.2
+**Players Online**:
+ *Varijon, MEAGMOOSE98, perujo97, MidevalMan, Buckers952, Emantium, ninjacarrot1114, Misterchamp...*
+13 Sep 2017 13:43:30 : CrystalFantasy, staff, regan ata#3376, Mmm you smell that it's the smell of staff chat
+13 Sep 2017 13:47:23 : Proton Gaming, skyfactory, MisterChamp#8562, im gunna attempt to make something like this in skyblocks XD
+13 Sep 2017 14:00:12 : PokeIslands, bot, jbernard#4695, ;mine
+13 Sep 2017 14:00:12 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:00:12 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:00:20 : PokeIslands, bot, jbernard#4695, Oh cool
+13 Sep 2017 14:00:26 : PokeIslands, bot, jbernard#4695, ;train
+13 Sep 2017 14:00:26 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:00:26 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:01:02 : PokeIslands, bot, jbernard#4695, ;lvl
+13 Sep 2017 14:01:03 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:01:17 : PokeIslands, bot, jbernard#4695, Oh cool I'm in rank 51
+13 Sep 2017 14:03:03 : CrystalFantasy, staff, AuroranLily#3763, Well then.
+13 Sep 2017 14:07:03 : LimitlessMc, botchat, TherminatorX#6644, ;train
+13 Sep 2017 14:07:05 : LimitlessMc, botchat, Botfuzzy77#2209, 
+13 Sep 2017 14:07:07 : LimitlessMc, botchat, Botfuzzy77#2209, 
+13 Sep 2017 14:07:14 : LimitlessMc, botchat, TherminatorX#6644, ;pbs
+13 Sep 2017 14:07:14 : LimitlessMc, botchat, Botfuzzy77#2209, 
+13 Sep 2017 14:07:23 : LimitlessMc, botchat, TherminatorX#6644, ;pbt
+13 Sep 2017 14:07:24 : LimitlessMc, botchat, Botfuzzy77#2209, 
+13 Sep 2017 14:07:36 : LimitlessMc, botchat, TherminatorX#6644, ;pbt bbbbbbbbbb
+13 Sep 2017 14:07:37 : LimitlessMc, botchat, Botfuzzy77#2209, 
+13 Sep 2017 14:07:46 : LimitlessMc, botchat, TherminatorX#6644, 🅱
+13 Sep 2017 14:07:54 : LimitlessMc, botchat, Botfuzzy77#2209, 
+13 Sep 2017 14:10:16 : Proton Gaming, skyfactory, Empty Child#5717, @Trial Mod is it allowed to add ReAuth to the mod folder ?
+13 Sep 2017 14:11:05 : Proton Gaming, skyfactory, SilverRose13#0794, Uh @Admin you wanna field that one?
+13 Sep 2017 14:16:12 : Proton Gaming, bot_commands, Empty Child#5717, ;join
+13 Sep 2017 14:16:12 : Proton Gaming, bot_commands, Botfuzzy77#2209, You are not connected to a voice channel!
+13 Sep 2017 14:16:20 : Proton Gaming, bot_commands, Empty Child#5717, ;train
+13 Sep 2017 14:16:20 : Proton Gaming, bot_commands, Botfuzzy77#2209, 
+13 Sep 2017 14:16:20 : Proton Gaming, bot_commands, Botfuzzy77#2209, 
+13 Sep 2017 14:16:38 : Proton Gaming, bot_commands, Empty Child#5717, ;train
+13 Sep 2017 14:16:39 : Proton Gaming, bot_commands, Botfuzzy77#2209, 
+13 Sep 2017 14:20:29 : CrystalFantasy, general_chat, BradBrass#8693, im on discord on my dads work computer 👌  XD
+13 Sep 2017 14:27:52 : LimitlessMc, mainchat, Rick#1089, @Crystal4209  whre did u live
+13 Sep 2017 14:29:34 : Proton Gaming, skyfactory, jjtwilefc#7374, No idea what that means. @Mike might
+13 Sep 2017 14:30:10 : Proton Gaming, skyfactory, Ozicarus#8421, 'Fixes the problem of having to restart your client when your session is invalid'
+13 Sep 2017 14:30:24 : Proton Gaming, skyfactory, Ozicarus#8421, **The Mod is Clientside only - it will not work in servers mods folder**
+13 Sep 2017 14:30:34 : Proton Gaming, skyfactory, Ozicarus#8421, @Empty Child
+13 Sep 2017 14:32:13 : PokeIslands, general, Legate#1692, I am american
+13 Sep 2017 14:32:25 : PokeIslands, general, Legate#1692, proud of it too 😄
+13 Sep 2017 14:33:12 : PokeIslands, bot, KiritoSanPlays#2208, ;lvl
+13 Sep 2017 14:33:15 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:33:21 : PokeIslands, bot, KiritoSanPlays#2208, @jbernard ^
+13 Sep 2017 14:33:30 : PokeIslands, bot, jbernard#4695, Yes
+13 Sep 2017 14:33:51 : PokeIslands, bot, KiritoSanPlays#2208, rank 37 😉
+13 Sep 2017 14:33:57 : PokeIslands, bot, jbernard#4695, Oh cool
+13 Sep 2017 14:33:58 : PokeIslands, bot, KiritoSanPlays#2208, ;train
+13 Sep 2017 14:33:58 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:33:58 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:33:59 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:34:02 : PokeIslands, bot, KiritoSanPlays#2208, poef
+13 Sep 2017 14:34:16 : PokeIslands, bot, jbernard#4695, Wait ro you posted too be rank 7
+13 Sep 2017 14:34:30 : PokeIslands, bot, KiritoSanPlays#2208, you mean i was supposed to be rank 7?
+13 Sep 2017 14:34:39 : PokeIslands, bot, jbernard#4695, Yep thx
+13 Sep 2017 14:34:45 : PokeIslands, bot, KiritoSanPlays#2208, lol
+13 Sep 2017 14:34:45 : PokeIslands, bot, jbernard#4695, Lol
+13 Sep 2017 14:34:52 : PokeIslands, bot, Legate#1692, heyo
+13 Sep 2017 14:34:57 : PokeIslands, bot, KiritoSanPlays#2208, sup degenerate
+13 Sep 2017 14:35:21 : PokeIslands, bot, Tatsumaki#8792, 
+13 Sep 2017 14:35:24 : PokeIslands, bot, KiritoSanPlays#2208, 😄
+13 Sep 2017 14:35:56 : PokeIslands, bot, jbernard#4695, ;train
+13 Sep 2017 14:35:56 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:36:02 : PokeIslands, bot, KiritoSanPlays#2208, do ;cd
+13 Sep 2017 14:36:08 : PokeIslands, bot, jbernard#4695, ;cd
+13 Sep 2017 14:36:09 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:36:19 : PokeIslands, bot, jbernard#4695, Oh
+13 Sep 2017 14:36:21 : PokeIslands, bot, KiritoSanPlays#2208, 😃
+13 Sep 2017 14:36:33 : PokeIslands, bot, jbernard#4695, ;train
+13 Sep 2017 14:36:33 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:36:42 : PokeIslands, bot, KiritoSanPlays#2208, you can do pokebattle and mine
+13 Sep 2017 14:36:46 : PokeIslands, bot, jbernard#4695, Maybe next time
+13 Sep 2017 14:36:51 : PokeIslands, bot, jbernard#4695, Ok
+13 Sep 2017 14:36:56 : PokeIslands, bot, jbernard#4695, ;pbs
+13 Sep 2017 14:36:56 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:37:24 : PokeIslands, bot, jbernard#4695, ;mine
+13 Sep 2017 14:37:24 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:37:24 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:37:34 : PokeIslands, bot, KiritoSanPlays#2208, ;lvl
+13 Sep 2017 14:37:36 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:37:41 : PokeIslands, bot, KiritoSanPlays#2208, ;mine
+13 Sep 2017 14:37:41 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:37:41 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:37:43 : PokeIslands, bot, jbernard#4695, ;lvl
+13 Sep 2017 14:37:44 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:37:59 : PokeIslands, bot, jbernard#4695, Oh wow I'm close too lvl 11
+13 Sep 2017 14:38:06 : PokeIslands, bot, KiritoSanPlays#2208, 1 more mine and you should level up
+13 Sep 2017 14:38:11 : PokeIslands, bot, jbernard#4695, Ok
+13 Sep 2017 14:38:18 : PokeIslands, bot, jbernard#4695, ;mine
+13 Sep 2017 14:38:18 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:38:23 : PokeIslands, bot, KiritoSanPlays#2208, lol
+13 Sep 2017 14:38:34 : PokeIslands, bot, jbernard#4695, Wut how
+13 Sep 2017 14:38:43 : PokeIslands, bot, jbernard#4695, That's not right
+13 Sep 2017 14:38:47 : PokeIslands, bot, KiritoSanPlays#2208, xD
+13 Sep 2017 14:38:54 : PokeIslands, bot, KiritoSanPlays#2208, ;lvl
+13 Sep 2017 14:38:56 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:38:59 : PokeIslands, bot, jbernard#4695, ;lvl
+13 Sep 2017 14:39:00 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:39:15 : PokeIslands, bot, KiritoSanPlays#2208, meh you can easly gain 300exp by mining
+13 Sep 2017 14:39:30 : PokeIslands, bot, jbernard#4695, ;mine
+13 Sep 2017 14:39:30 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:39:37 : PokeIslands, bot, jbernard#4695, I forgot
+13 Sep 2017 14:39:40 : PokeIslands, bot, jbernard#4695, Lol
+13 Sep 2017 14:39:53 : PokeIslands, bot, KiritoSanPlays#2208, ;cd
+13 Sep 2017 14:39:53 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:39:56 : PokeIslands, bot, KiritoSanPlays#2208, ;pbs
+13 Sep 2017 14:39:56 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:40:02 : PokeIslands, bot, jbernard#4695, Wow
+13 Sep 2017 14:40:10 : PokeIslands, bot, jbernard#4695, ;pbs
+13 Sep 2017 14:40:10 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:40:15 : PokeIslands, bot, KiritoSanPlays#2208, ;pokebattle EEEEENEE
+13 Sep 2017 14:40:15 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:40:15 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:40:26 : PokeIslands, bot, jbernard#4695, ;pbs
+13 Sep 2017 14:40:26 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:40:37 : PokeIslands, bot, KiritoSanPlays#2208, try ;pokebattle EEEEE
+13 Sep 2017 14:40:42 : PokeIslands, bot, jbernard#4695, Ok
+13 Sep 2017 14:40:57 : PokeIslands, bot, jbernard#4695, ;pokebattle EEEEE
+13 Sep 2017 14:40:57 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:40:58 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:40:58 : PokeIslands, bot, KiritoSanPlays#2208, atleast one E will be correct
+13 Sep 2017 14:41:00 : PokeIslands, bot, KiritoSanPlays#2208, hmm
+13 Sep 2017 14:41:03 : PokeIslands, bot, KiritoSanPlays#2208, ;cd
+13 Sep 2017 14:41:03 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:41:07 : PokeIslands, bot, KiritoSanPlays#2208, ;mine
+13 Sep 2017 14:41:07 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:41:13 : PokeIslands, bot, KiritoSanPlays#2208, ;mine
+13 Sep 2017 14:41:14 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:41:14 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:41:18 : PokeIslands, bot, KiritoSanPlays#2208, lel
+13 Sep 2017 14:41:23 : PokeIslands, bot, jbernard#4695, Wow lol
+13 Sep 2017 14:41:27 : PokeIslands, bot, KiritoSanPlays#2208, i keep digging up dragon gems xD
+13 Sep 2017 14:41:29 : PokeIslands, bot, jbernard#4695, ;cd
+13 Sep 2017 14:41:29 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:41:31 : PokeIslands, bot, KiritoSanPlays#2208, ;mine
+13 Sep 2017 14:41:31 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:41:31 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:41:34 : PokeIslands, bot, jbernard#4695, Lol
+13 Sep 2017 14:41:40 : PokeIslands, bot, KiritoSanPlays#2208, ;lvl
+13 Sep 2017 14:41:42 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:41:45 : PokeIslands, bot, jbernard#4695, ;mine
+13 Sep 2017 14:41:46 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:41:46 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:41:50 : PokeIslands, bot, KiritoSanPlays#2208, ;mine
+13 Sep 2017 14:41:50 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:41:51 : PokeIslands, bot, jbernard#4695, Wow
+13 Sep 2017 14:41:53 : PokeIslands, bot, KiritoSanPlays#2208, ;mine
+13 Sep 2017 14:41:54 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:41:54 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:41:59 : PokeIslands, bot, KiritoSanPlays#2208, ;mine
+13 Sep 2017 14:41:59 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:41:59 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:42:04 : PokeIslands, bot, jbernard#4695, ;mine
+13 Sep 2017 14:42:04 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:42:11 : PokeIslands, bot, KiritoSanPlays#2208, ;mine
+13 Sep 2017 14:42:11 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:42:11 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:42:14 : PokeIslands, bot, KiritoSanPlays#2208, ;lvl
+13 Sep 2017 14:42:16 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:42:17 : PokeIslands, bot, jbernard#4695, ;train
+13 Sep 2017 14:42:17 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:42:24 : PokeIslands, bot, KiritoSanPlays#2208, 3K to go to level 21 xD
+13 Sep 2017 14:42:25 : PokeIslands, bot, jbernard#4695, Ok
+13 Sep 2017 14:42:35 : PokeIslands, bot, jbernard#4695, ;pbs
+13 Sep 2017 14:42:35 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:42:46 : PokeIslands, bot, jbernard#4695, Wow
+13 Sep 2017 14:42:59 : PokeIslands, bot, KiritoSanPlays#2208, ;cd
+13 Sep 2017 14:42:59 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:43:02 : PokeIslands, bot, KiritoSanPlays#2208, ;train
+13 Sep 2017 14:43:03 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:43:03 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:43:19 : PokeIslands, bot, jbernard#4695, Oh wow a Lugia
+13 Sep 2017 14:43:31 : PokeIslands, bot, jbernard#4695, You beat two of them
+13 Sep 2017 14:43:40 : PokeIslands, bot, KiritoSanPlays#2208, beats a level 32 lugia and loses from a level 15 Scatterbug......
+13 Sep 2017 14:43:53 : PokeIslands, bot, jbernard#4695, Lol
+13 Sep 2017 14:44:03 : PokeIslands, bot, jbernard#4695, Wait what how
+13 Sep 2017 14:44:10 : PokeIslands, bot, KiritoSanPlays#2208, its random
+13 Sep 2017 14:44:15 : PokeIslands, bot, jbernard#4695, Yep
+13 Sep 2017 14:44:15 : PokeIslands, bot, KiritoSanPlays#2208, ;cd
+13 Sep 2017 14:44:15 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:44:20 : PokeIslands, bot, KiritoSanPlays#2208, ;pbs
+13 Sep 2017 14:44:20 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:44:23 : PokeIslands, bot, jbernard#4695, ;cd
+13 Sep 2017 14:44:24 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:44:28 : PokeIslands, bot, KiritoSanPlays#2208, ;pokebattle FFEFFNFF
+13 Sep 2017 14:44:29 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:44:29 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:44:32 : PokeIslands, bot, Legate#1692, rlly? Dx
+13 Sep 2017 14:44:41 : PokeIslands, bot, jbernard#4695, ;pbs
+13 Sep 2017 14:44:41 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:44:54 : PokeIslands, bot, KiritoSanPlays#2208, ;lvl
+13 Sep 2017 14:44:56 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:45:03 : PokeIslands, bot, KiritoSanPlays#2208, i did bring down 3 boss's xD
+13 Sep 2017 14:45:03 : PokeIslands, bot, jbernard#4695, ;lvl
+13 Sep 2017 14:45:04 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:45:17 : PokeIslands, bot, jbernard#4695, I did not bring done a boss
+13 Sep 2017 14:45:27 : PokeIslands, bot, KiritoSanPlays#2208, ;cd
+13 Sep 2017 14:45:27 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:45:30 : PokeIslands, bot, KiritoSanPlays#2208, ;mine
+13 Sep 2017 14:45:30 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:45:33 : PokeIslands, bot, KiritoSanPlays#2208, ;mine
+13 Sep 2017 14:45:33 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:45:34 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:45:39 : PokeIslands, bot, KiritoSanPlays#2208, ;lvl
+13 Sep 2017 14:45:41 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:45:44 : PokeIslands, bot, KiritoSanPlays#2208, ;mine
+13 Sep 2017 14:45:44 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:45:45 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:45:48 : PokeIslands, bot, KiritoSanPlays#2208, ;mine
+13 Sep 2017 14:45:49 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:45:55 : PokeIslands, bot, KiritoSanPlays#2208, ;mine
+13 Sep 2017 14:45:55 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:45:58 : PokeIslands, bot, KiritoSanPlays#2208, ;lvl
+13 Sep 2017 14:46:00 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:46:02 : PokeIslands, bot, KiritoSanPlays#2208, ofc
+13 Sep 2017 14:46:04 : PokeIslands, bot, KiritoSanPlays#2208, ;lvl
+13 Sep 2017 14:46:06 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:46:07 : PokeIslands, bot, KiritoSanPlays#2208, woops
+13 Sep 2017 14:46:09 : PokeIslands, bot, KiritoSanPlays#2208, ;mine
+13 Sep 2017 14:46:09 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:46:09 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:46:09 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:46:16 : PokeIslands, bot, KiritoSanPlays#2208, there we go xD
+13 Sep 2017 14:46:17 : PokeIslands, bot, jbernard#4695, Wow
+13 Sep 2017 14:46:21 : PokeIslands, bot, jbernard#4695, XD
+13 Sep 2017 14:46:29 : PokeIslands, bot, jbernard#4695, ;mine
+13 Sep 2017 14:46:29 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:46:29 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:46:29 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:46:32 : PokeIslands, bot, KiritoSanPlays#2208, :p
+13 Sep 2017 14:46:40 : PokeIslands, bot, jbernard#4695, Yeah
+13 Sep 2017 14:46:45 : PokeIslands, bot, KiritoSanPlays#2208, ;mine
+13 Sep 2017 14:46:45 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:46:45 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:46:45 : PokeIslands, bot, jbernard#4695, ;Lvl
+13 Sep 2017 14:46:55 : PokeIslands, bot, jbernard#4695, ;lvl
+13 Sep 2017 14:46:58 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:47:07 : PokeIslands, bot, KiritoSanPlays#2208, ;lvl
+13 Sep 2017 14:47:09 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:47:21 : PokeIslands, bot, jbernard#4695, ;pbs
+13 Sep 2017 14:47:21 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:47:23 : PokeIslands, bot, KiritoSanPlays#2208, ;cd
+13 Sep 2017 14:47:23 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:47:27 : PokeIslands, bot, KiritoSanPlays#2208, ;train
+13 Sep 2017 14:47:27 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:47:27 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:47:29 : PokeIslands, bot, jbernard#4695, ;cd
+13 Sep 2017 14:47:30 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:47:31 : PokeIslands, bot, KiritoSanPlays#2208, whut the heck
+13 Sep 2017 14:47:36 : PokeIslands, bot, jbernard#4695, Oh come on
+13 Sep 2017 14:47:48 : PokeIslands, bot, KiritoSanPlays#2208, ;cd
+13 Sep 2017 14:47:48 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:47:52 : PokeIslands, bot, KiritoSanPlays#2208, ;pbs
+13 Sep 2017 14:47:52 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:48:00 : PokeIslands, bot, KiritoSanPlays#2208, ;pokebattle IIEIINII
+13 Sep 2017 14:48:00 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:48:00 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:48:25 : PokeIslands, bot, jbernard#4695, ;pbs
+13 Sep 2017 14:48:25 : PokeIslands, bot, jbernard#4695, Come on I get 0 hits
+13 Sep 2017 14:48:25 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:48:30 : PokeIslands, bot, jbernard#4695, See
+13 Sep 2017 14:48:38 : PokeIslands, bot, KiritoSanPlays#2208, you have to find the correct letters
+13 Sep 2017 14:48:49 : PokeIslands, bot, KiritoSanPlays#2208, the more letters there are correc tthe more dmg you do
+13 Sep 2017 14:49:00 : PokeIslands, bot, jbernard#4695, I know
+13 Sep 2017 14:49:06 : PokeIslands, bot, KiritoSanPlays#2208, ;pbs easy
+13 Sep 2017 14:49:06 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:49:15 : PokeIslands, bot, KiritoSanPlays#2208, ;pokebattle GGGGG easy
+13 Sep 2017 14:49:21 : PokeIslands, bot, jbernard#4695, ;pokebattle easy IIIII
+13 Sep 2017 14:49:31 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:49:31 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:49:31 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:49:37 : PokeIslands, bot, KiritoSanPlays#2208, ;cd
+13 Sep 2017 14:49:38 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:49:42 : PokeIslands, bot, jbernard#4695, Insane
+13 Sep 2017 14:49:50 : PokeIslands, bot, jbernard#4695, They have a insane one
+13 Sep 2017 14:49:55 : PokeIslands, bot, KiritoSanPlays#2208, try pokebattle IIIII easy
+13 Sep 2017 14:49:59 : PokeIslands, bot, jbernard#4695, Ok
+13 Sep 2017 14:50:21 : PokeIslands, bot, jbernard#4695, ;pokebattle IIIII easy
+13 Sep 2017 14:50:21 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:50:21 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:50:27 : PokeIslands, bot, jbernard#4695, Wut
+13 Sep 2017 14:50:29 : PokeIslands, bot, KiritoSanPlays#2208, lol
+13 Sep 2017 14:50:32 : PokeIslands, bot, KiritoSanPlays#2208, ;types
+13 Sep 2017 14:50:32 : PokeIslands, bot, Botfuzzy77#2209, -= **Possible Types ** =-
+:regional_indicator_n: ormal
+:regional_indicator_f: ire
+:regional_indicator_w: ater
+:regional_indicator_g: rass
+:regional_indicator_p: oison
+:regional_indicator_d: ragon
+:regional_indicator_s: teel
+:regional_indicator_e: lectric
+:regional_indicator_b: ug
+:regional_indicator_i: ce
+13 Sep 2017 14:50:35 : PokeIslands, bot, jbernard#4695, ...
+13 Sep 2017 14:50:38 : PokeIslands, bot, KiritoSanPlays#2208, ;cd
+13 Sep 2017 14:50:38 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:50:42 : PokeIslands, bot, KiritoSanPlays#2208, ;mine
+13 Sep 2017 14:50:42 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:50:42 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:50:44 : PokeIslands, bot, jbernard#4695, ;cd
+13 Sep 2017 14:50:44 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:50:52 : PokeIslands, bot, jbernard#4695, ;mine
+13 Sep 2017 14:50:52 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:50:52 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:50:54 : PokeIslands, bot, KiritoSanPlays#2208, ;types
+13 Sep 2017 14:50:54 : PokeIslands, bot, Botfuzzy77#2209, -= **Possible Types ** =-
+:regional_indicator_n: ormal
+:regional_indicator_f: ire
+:regional_indicator_w: ater
+:regional_indicator_g: rass
+:regional_indicator_p: oison
+:regional_indicator_d: ragon
+:regional_indicator_s: teel
+:regional_indicator_e: lectric
+:regional_indicator_b: ug
+:regional_indicator_i: ce
+13 Sep 2017 14:51:01 : PokeIslands, bot, KiritoSanPlays#2208, ;pokebattle DDDDD easy
+13 Sep 2017 14:51:02 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:51:02 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:51:03 : PokeIslands, bot, jbernard#4695, ;mine
+13 Sep 2017 14:51:04 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:51:05 : PokeIslands, bot, KiritoSanPlays#2208, there we go
+13 Sep 2017 14:51:08 : PokeIslands, bot, jbernard#4695, Wut
+13 Sep 2017 14:51:08 : PokeIslands, bot, KiritoSanPlays#2208, ;pbs
+13 Sep 2017 14:51:08 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:51:13 : PokeIslands, bot, KiritoSanPlays#2208, ;pbs easy
+13 Sep 2017 14:51:13 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:51:15 : PokeIslands, bot, jbernard#4695, ;pbs
+13 Sep 2017 14:51:15 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:51:29 : PokeIslands, bot, KiritoSanPlays#2208, ;types
+13 Sep 2017 14:51:29 : PokeIslands, bot, Botfuzzy77#2209, -= **Possible Types ** =-
+:regional_indicator_n: ormal
+:regional_indicator_f: ire
+:regional_indicator_w: ater
+:regional_indicator_g: rass
+:regional_indicator_p: oison
+:regional_indicator_d: ragon
+:regional_indicator_s: teel
+:regional_indicator_e: lectric
+:regional_indicator_b: ug
+:regional_indicator_i: ce
+13 Sep 2017 14:51:49 : PokeIslands, bot, jbernard#4695, ;cd
+13 Sep 2017 14:51:49 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:51:49 : PokeIslands, bot, KiritoSanPlays#2208, so it can be B S and N
+13 Sep 2017 14:52:03 : PokeIslands, bot, jbernard#4695, What does battle mean
+13 Sep 2017 14:52:09 : PokeIslands, bot, KiritoSanPlays#2208, ,;pokebattle
+13 Sep 2017 14:52:14 : PokeIslands, bot, jbernard#4695, Oh
+13 Sep 2017 14:52:19 : PokeIslands, bot, KiritoSanPlays#2208, ;pbs
+13 Sep 2017 14:52:19 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:52:23 : PokeIslands, bot, KiritoSanPlays#2208, ;pbs easy
+13 Sep 2017 14:52:23 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:52:39 : PokeIslands, bot, KiritoSanPlays#2208, so it can either be B S or N
+13 Sep 2017 14:52:50 : PokeIslands, bot, jbernard#4695, ;pokebattle DDUDU
+13 Sep 2017 14:52:50 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:53:02 : PokeIslands, bot, KiritoSanPlays#2208, do ;pokebattle BDBBD
+13 Sep 2017 14:53:06 : PokeIslands, bot, jbernard#4695, Oh
+13 Sep 2017 14:53:22 : PokeIslands, bot, jbernard#4695, ;pokebattle BDBBD easy
+13 Sep 2017 14:53:22 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:53:23 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:53:26 : PokeIslands, bot, KiritoSanPlays#2208, 😃
+13 Sep 2017 14:53:26 : PokeIslands, general, Legate#1692, whyyyy
+13 Sep 2017 14:53:34 : PokeIslands, general, KiritoSanPlays#2208, 😄
+13 Sep 2017 14:53:39 : PokeIslands, general, KiritoSanPlays#2208, cause i can? xD
+13 Sep 2017 14:53:45 : PokeIslands, bot, jbernard#4695, Okay
+13 Sep 2017 14:53:51 : PokeIslands, general, Legate#1692, mk
+13 Sep 2017 14:53:58 : PokeIslands, bot, KiritoSanPlays#2208, so now it can be BDNND or BDSSD
+13 Sep 2017 14:54:07 : PokeIslands, general, KiritoSanPlays#2208, nah i'l remove it 😃
+13 Sep 2017 14:54:13 : PokeIslands, bot, Tatsumaki#8792, 
+13 Sep 2017 14:54:17 : PokeIslands, general, KiritoSanPlays#2208, there you go
+13 Sep 2017 14:54:48 : PokeIslands, bot, KiritoSanPlays#2208, ;cd
+13 Sep 2017 14:54:48 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:54:56 : PokeIslands, bot, KiritoSanPlays#2208, ;pokebattle BDNND
+13 Sep 2017 14:54:56 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:54:58 : PokeIslands, bot, jbernard#4695, ;cd
+13 Sep 2017 14:54:59 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:55:06 : PokeIslands, bot, KiritoSanPlays#2208, ;pokebattle BDNND easy
+13 Sep 2017 14:55:06 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:55:06 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:55:08 : PokeIslands, bot, jbernard#4695, ;mine
+13 Sep 2017 14:55:08 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:55:11 : PokeIslands, bot, KiritoSanPlays#2208, its BDSSD 😃
+13 Sep 2017 14:55:15 : PokeIslands, bot, jbernard#4695, ;lvl
+13 Sep 2017 14:55:16 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:55:17 : PokeIslands, bot, KiritoSanPlays#2208, and you'll bring that boss down
+13 Sep 2017 14:55:20 : PokeIslands, general, Legate#1692, Moo
+13 Sep 2017 14:55:24 : PokeIslands, bot, jbernard#4695, Ok
+13 Sep 2017 14:55:28 : PokeIslands, bot, KiritoSanPlays#2208, do ;pokebattle BDSSD
+13 Sep 2017 14:55:29 : PokeIslands, bot, jbernard#4695, ;pbs
+13 Sep 2017 14:55:29 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:55:38 : PokeIslands, bot, jbernard#4695, Oh wow
+13 Sep 2017 14:55:54 : PokeIslands, general, KiritoSanPlays#2208, oh so you want that nickname back? xD
+13 Sep 2017 14:56:03 : PokeIslands, bot, KiritoSanPlays#2208, do ;pokebattle BDSSD
+13 Sep 2017 14:56:07 : PokeIslands, general, Legate#1692, I said moo not noo
+13 Sep 2017 14:56:12 : PokeIslands, general, KiritoSanPlays#2208, xD
+13 Sep 2017 14:56:13 : Proton Gaming, skyfactory, Tornado#8955, Ez @MisterChamp xd
+13 Sep 2017 14:56:15 : PokeIslands, general, Legate#1692, Dx
+13 Sep 2017 14:56:18 : PokeIslands, general, Legate#1692, anyhow, gtg
+13 Sep 2017 14:56:25 : PokeIslands, general, Legate#1692, cya
+13 Sep 2017 14:56:25 : LimitlessMc, mainchat, Crystal4209#4698, Not saying
+13 Sep 2017 14:56:25 : PokeIslands, general, KiritoSanPlays#2208, 😃 have a nice day ma friend
+13 Sep 2017 14:56:42 : PokeIslands, bot, KiritoSanPlays#2208, ;pokebattle BDSSD
+13 Sep 2017 14:56:42 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:56:49 : PokeIslands, bot, KiritoSanPlays#2208, ;pokebattle BDSSD easy
+13 Sep 2017 14:56:49 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:56:49 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:56:54 : PokeIslands, bot, KiritoSanPlays#2208, there
+13 Sep 2017 14:56:58 : PokeIslands, bot, KiritoSanPlays#2208, ;types
+13 Sep 2017 14:56:58 : PokeIslands, bot, Botfuzzy77#2209, -= **Possible Types ** =-
+:regional_indicator_n: ormal
+:regional_indicator_f: ire
+:regional_indicator_w: ater
+:regional_indicator_g: rass
+:regional_indicator_p: oison
+:regional_indicator_d: ragon
+:regional_indicator_s: teel
+:regional_indicator_e: lectric
+:regional_indicator_b: ug
+:regional_indicator_i: ce
+13 Sep 2017 14:57:05 : PokeIslands, bot, KiritoSanPlays#2208, the last letter is W
+13 Sep 2017 14:57:18 : PokeIslands, bot, KiritoSanPlays#2208, ;bps
+13 Sep 2017 14:57:28 : PokeIslands, bot, KiritoSanPlays#2208, ;bps
+13 Sep 2017 14:57:33 : PokeIslands, bot, jbernard#4695, ;pbs
+13 Sep 2017 14:57:33 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:57:38 : PokeIslands, bot, KiritoSanPlays#2208, oh yeh -_-
+13 Sep 2017 14:57:43 : PokeIslands, bot, KiritoSanPlays#2208, BDSWD
+13 Sep 2017 14:57:49 : PokeIslands, bot, jbernard#4695, ok
+13 Sep 2017 14:58:04 : PokeIslands, bot, jbernard#4695, ;pokebattle BDSWD
+13 Sep 2017 14:58:04 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:58:04 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:58:14 : PokeIslands, bot, jbernard#4695, Cool
+13 Sep 2017 14:58:14 : PokeIslands, bot, KiritoSanPlays#2208, lol supper effective
+13 Sep 2017 14:58:16 : Proton Gaming, skyfactory, Empty Child#5717, well yes. I want to add it to my mod folder.. wouldnt that work ?
+13 Sep 2017 14:58:20 : PokeIslands, bot, jbernard#4695, XD
+13 Sep 2017 14:58:23 : PokeIslands, bot, KiritoSanPlays#2208, ;pbs
+13 Sep 2017 14:58:24 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:58:27 : PokeIslands, bot, KiritoSanPlays#2208, ;pbs easy
+13 Sep 2017 14:58:27 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:58:27 : Proton Gaming, skyfactory, shuck#1142, adding it to your own mod folder?
+13 Sep 2017 14:58:37 : PokeIslands, bot, KiritoSanPlays#2208, ;types
+13 Sep 2017 14:58:37 : PokeIslands, bot, Botfuzzy77#2209, -= **Possible Types ** =-
+:regional_indicator_n: ormal
+:regional_indicator_f: ire
+:regional_indicator_w: ater
+:regional_indicator_g: rass
+:regional_indicator_p: oison
+:regional_indicator_d: ragon
+:regional_indicator_s: teel
+:regional_indicator_e: lectric
+:regional_indicator_b: ug
+:regional_indicator_i: ce
+13 Sep 2017 14:58:39 : PokeIslands, bot, jbernard#4695, Omg
+13 Sep 2017 14:58:49 : PokeIslands, bot, jbernard#4695, ;pbs
+13 Sep 2017 14:58:49 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:59:03 : PokeIslands, bot, KiritoSanPlays#2208, ;pb BDSED
+13 Sep 2017 14:59:03 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:59:14 : PokeIslands, bot, KiritoSanPlays#2208, ;bp BDSED easy
+13 Sep 2017 14:59:19 : PokeIslands, bot, KiritoSanPlays#2208, hmm
+13 Sep 2017 14:59:29 : PokeIslands, bot, KiritoSanPlays#2208, ;pokebattle BDSED easy
+13 Sep 2017 14:59:29 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:59:29 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:59:32 : PokeIslands, bot, KiritoSanPlays#2208, oh
+13 Sep 2017 14:59:46 : PokeIslands, bot, jbernard#4695, Omg I want take down a boss
+13 Sep 2017 14:59:50 : PokeIslands, bot, KiritoSanPlays#2208, xD
+13 Sep 2017 14:59:51 : PokeIslands, bot, jbernard#4695, ;pbs
+13 Sep 2017 14:59:51 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 14:59:59 : PokeIslands, bot, KiritoSanPlays#2208, i am just brinnging him down to low hp for u
+13 Sep 2017 15:00:05 : PokeIslands, bot, jbernard#4695, Ok
+13 Sep 2017 15:00:16 : PokeIslands, bot, KiritoSanPlays#2208, ;mine
+13 Sep 2017 15:00:16 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:00:16 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:00:20 : PokeIslands, bot, KiritoSanPlays#2208, ;mine
+13 Sep 2017 15:00:20 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:00:22 : PokeIslands, bot, jbernard#4695, ;cd
+13 Sep 2017 15:00:22 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:00:24 : PokeIslands, bot, KiritoSanPlays#2208, ;mine
+13 Sep 2017 15:00:24 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:00:24 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:00:29 : PokeIslands, bot, KiritoSanPlays#2208, ;mine
+13 Sep 2017 15:00:30 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:00:32 : PokeIslands, bot, KiritoSanPlays#2208, ;mine
+13 Sep 2017 15:00:32 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:00:33 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:00:35 : PokeIslands, bot, jbernard#4695, ;train
+13 Sep 2017 15:00:35 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:00:35 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:00:36 : PokeIslands, bot, KiritoSanPlays#2208, ;lvl
+13 Sep 2017 15:00:37 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:00:41 : PokeIslands, bot, KiritoSanPlays#2208, ;train
+13 Sep 2017 15:00:41 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:00:44 : PokeIslands, bot, KiritoSanPlays#2208, ;cd
+13 Sep 2017 15:00:44 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:00:48 : Proton Gaming, skyfactory, Ozicarus#8421, Yes?
+13 Sep 2017 15:00:51 : PokeIslands, bot, KiritoSanPlays#2208, ;pbs easy
+13 Sep 2017 15:00:51 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:00:57 : PokeIslands, bot, KiritoSanPlays#2208, ;pokebattle WDSWD
+13 Sep 2017 15:00:57 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:01:06 : PokeIslands, bot, KiritoSanPlays#2208, ;pokebattle WDSWD easy
+13 Sep 2017 15:01:06 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:01:06 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:01:07 : PokeIslands, bot, jbernard#4695, How did I lose too a  Latios it's a dragon and psychic
+13 Sep 2017 15:01:20 : PokeIslands, bot, jbernard#4695, I am a ice type
+13 Sep 2017 15:01:29 : PokeIslands, bot, KiritoSanPlays#2208, lol
+13 Sep 2017 15:01:37 : PokeIslands, bot, jbernard#4695, XD
+13 Sep 2017 15:01:43 : Proton Gaming, skyfactory, Ozicarus#8421, I assumed you were asking us to add it to the server's mod folder, we can't stop you from adding things to your local mod folder
+13 Sep 2017 15:01:44 : PokeIslands, bot, KiritoSanPlays#2208, types don't mather since types are just used for codes
+13 Sep 2017 15:01:48 : PokeIslands, bot, KiritoSanPlays#2208, ;cd
+13 Sep 2017 15:01:48 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:01:50 : PokeIslands, bot, jbernard#4695, Oh
+13 Sep 2017 15:01:58 : PokeIslands, bot, jbernard#4695, ;mine
+13 Sep 2017 15:01:58 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:01:58 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:02:04 : PokeIslands, bot, jbernard#4695, Cool
+13 Sep 2017 15:02:08 : PokeIslands, bot, jbernard#4695, ;pbs
+13 Sep 2017 15:02:08 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:02:18 : PokeIslands, bot, KiritoSanPlays#2208, ;cd
+13 Sep 2017 15:02:19 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:02:33 : PokeIslands, bot, KiritoSanPlays#2208, ;pokebattle IDSID easy
+13 Sep 2017 15:02:33 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:02:33 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:02:54 : PokeIslands, bot, KiritoSanPlays#2208, ;cd
+13 Sep 2017 15:02:54 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:03:02 : PokeIslands, bot, jbernard#4695, I was going to say if that boss die I well be mad
+13 Sep 2017 15:03:09 : PokeIslands, bot, KiritoSanPlays#2208, lol
+13 Sep 2017 15:03:10 : PokeIslands, bot, jbernard#4695, Little
+13 Sep 2017 15:03:13 : PokeIslands, bot, jbernard#4695, Lol
+13 Sep 2017 15:03:26 : PokeIslands, bot, KiritoSanPlays#2208, 1.2K hp left and i usually just do 200-400 dmg
+13 Sep 2017 15:03:30 : PokeIslands, bot, jbernard#4695, Ok
+13 Sep 2017 15:03:35 : PokeIslands, bot, KiritoSanPlays#2208, ;cd
+13 Sep 2017 15:03:35 : PokeIslands, bot, jbernard#4695, ;pbs
+13 Sep 2017 15:03:35 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:03:35 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:03:47 : PokeIslands, bot, KiritoSanPlays#2208, ;pokebattle PDSPD
+13 Sep 2017 15:03:48 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:03:51 : PokeIslands, bot, jbernard#4695, ;pbs
+13 Sep 2017 15:03:51 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:03:56 : PokeIslands, bot, KiritoSanPlays#2208, ;pokebattle PDSPD easy
+13 Sep 2017 15:03:57 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:03:57 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:04:05 : PokeIslands, bot, jbernard#4695, ;pbs
+13 Sep 2017 15:04:05 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:04:21 : PokeIslands, bot, jbernard#4695, ; pokebattle easy
+13 Sep 2017 15:04:28 : Proton Gaming, bot_commands, jjtwilefc#7374, ;server
+13 Sep 2017 15:04:29 : Proton Gaming, bot_commands, Botfuzzy77#2209, **Server IP**: infinity.protongaming.co.uk
+**Server Status**
+ *Ping*: 371.233 ms
+ *Online Players*: 5 players out of 50
+ *MC Version*: 1.7.10
+**Players Online**:
+ *DrunkScotsMan, robinhood06, ewanwii, darthgremlin1701, tunis91...*
+13 Sep 2017 15:04:30 : Proton Gaming, bot_commands, Botfuzzy77#2209, **Server IP**: skyfactory.protongaming.co.uk
+**Server Status**
+ *Ping*: 371.372 ms
+ *Online Players*: 7 players out of 50
+ *MC Version*: 1.10.2
+**Players Online**:
+ *MidevalMan, LegoLegend111, Buckers952, ItsjeBoyElian_NL, Emantium, AbsentMind, MEAGMOOSE98...*
+13 Sep 2017 15:04:30 : PokeIslands, bot, KiritoSanPlays#2208, ;cd
+13 Sep 2017 15:04:31 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:04:33 : PokeIslands, bot, jbernard#4695, ;pokebattle easy
+13 Sep 2017 15:04:33 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:04:33 : PokeIslands, bot, KiritoSanPlays#2208, ;mine
+13 Sep 2017 15:04:33 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:04:33 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:04:38 : PokeIslands, bot, KiritoSanPlays#2208, ;mine
+13 Sep 2017 15:04:39 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:04:42 : PokeIslands, bot, KiritoSanPlays#2208, ;lvl
+13 Sep 2017 15:04:43 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:04:49 : PokeIslands, bot, KiritoSanPlays#2208, oh come on
+13 Sep 2017 15:04:50 : PokeIslands, bot, KiritoSanPlays#2208, -_-
+13 Sep 2017 15:04:53 : PokeIslands, bot, KiritoSanPlays#2208, ;train
+13 Sep 2017 15:04:53 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:04:54 : PokeIslands, bot, jbernard#4695, ;lvl
+13 Sep 2017 15:04:54 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:04:57 : PokeIslands, bot, KiritoSanPlays#2208, ;cd
+13 Sep 2017 15:04:57 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:05:04 : PokeIslands, bot, jbernard#4695, ;pbs
+13 Sep 2017 15:05:04 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:05:08 : PokeIslands, bot, KiritoSanPlays#2208, ;pokebattle GDSGD
+13 Sep 2017 15:05:09 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:05:16 : PokeIslands, bot, KiritoSanPlays#2208, ;pokebattle GDSGD easy
+13 Sep 2017 15:05:16 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:05:16 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:05:16 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:05:17 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:05:17 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:05:21 : PokeIslands, bot, KiritoSanPlays#2208, ho shit....
+13 Sep 2017 15:05:22 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:05:22 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:05:22 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:05:34 : PokeIslands, bot, jbernard#4695, ...
+13 Sep 2017 15:05:40 : PokeIslands, bot, jbernard#4695, ;lvl
+13 Sep 2017 15:05:41 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:05:57 : PokeIslands, bot, KiritoSanPlays#2208, this was weird :/
+13 Sep 2017 15:06:12 : PokeIslands, bot, KiritoSanPlays#2208, ;lvl
+13 Sep 2017 15:06:14 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:06:23 : PokeIslands, bot, jbernard#4695, ...why did you do that =)
+13 Sep 2017 15:06:32 : PokeIslands, bot, KiritoSanPlays#2208, cause i thought it would be wrong anyways >_>
+13 Sep 2017 15:06:43 : PokeIslands, bot, jbernard#4695, It's took me long to beat it
+13 Sep 2017 15:06:48 : PokeIslands, bot, jbernard#4695, ;pbs
+13 Sep 2017 15:06:48 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:06:48 : PokeIslands, bot, Botfuzzy77#2209, 
+13 Sep 2017 15:06:51 : PokeIslands, bot, KiritoSanPlays#2208, lol
+13 Sep 2017 15:07:01 : PokeIslands, bot, KiritoSanPlays#2208, ;cd
+13 Sep 2017 15:07:01 : PokeIslands, bot, jbernard#4695, Wait
+13 Sep 2017 15:07:01 : PokeIslands, bot, Botfuzzy77#2209, 

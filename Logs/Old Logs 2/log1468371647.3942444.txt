@@ -1,0 +1,41 @@
+13 Jul 2016 01:01:08 : Cipher , Wertfuzzy77#0274 , ;join
+13 Jul 2016 01:01:15 : Cipher , Wertfuzzy77#0274 , ;playlist Maroon
+13 Jul 2016 01:01:20 : Cipher , Botfuzzy77#2209 , Finished Adding songs from playlist(s)
+13 Jul 2016 01:01:26 : Cipher , Wertfuzzy77#0274 , ;reload
+13 Jul 2016 01:01:26 : Cipher , Botfuzzy77#2209 , Reloaded all Modules
+13 Jul 2016 01:01:35 : Cipher , Wertfuzzy77#0274 , ;songs
+13 Jul 2016 01:01:35 : Cipher , Botfuzzy77#2209 , Queue is Empty
+13 Jul 2016 01:02:05 : Cipher , Wertfuzzy77#0274 , ;youtube https://www.youtube.com/watch?v=OPf0YbXqDm0
+13 Jul 2016 01:02:05 : Cipher , Botfuzzy77#2209 , You Need to Connect to a Voice Chat first!
+13 Jul 2016 01:02:14 : Cipher , Wertfuzzy77#0274 , D:
+13 Jul 2016 01:02:15 : Cipher , Wertfuzzy77#0274 , i am
+13 Jul 2016 01:02:17 : Cipher , Wertfuzzy77#0274 , rip
+13 Jul 2016 01:04:35 : Cipher , Wertfuzzy77#0274 , ;reload
+13 Jul 2016 01:04:35 : Cipher , Botfuzzy77#2209 , Something went wrong :(
+13 Jul 2016 01:04:36 : Cipher , Botfuzzy77#2209 , SyntaxError: invalid syntax (Music.py, line 69)
+13 Jul 2016 01:05:28 : Cipher , Wertfuzzy77#0274 , ;reload
+13 Jul 2016 01:05:28 : Cipher , Botfuzzy77#2209 , Reloaded all Modules
+13 Jul 2016 01:05:31 : Cipher , Wertfuzzy77#0274 , ;songs
+13 Jul 2016 01:05:31 : Cipher , Botfuzzy77#2209 , Queue is Empty
+13 Jul 2016 01:05:39 : Cipher , Wertfuzzy77#0274 , ;youtube https://www.youtube.com/watch?v=OPf0YbXqDm0
+13 Jul 2016 01:05:39 : Cipher , Botfuzzy77#2209 , You Need to Connect to a Voice Chat first!
+13 Jul 2016 01:05:58 : Cipher , Wertfuzzy77#0274 , ;reload
+13 Jul 2016 01:05:58 : Cipher , Botfuzzy77#2209 , Reloaded all Modules
+13 Jul 2016 01:06:07 : Cipher , Wertfuzzy77#0274 , ;youtube https://www.youtube.com/watch?v=OPf0YbXqDm0
+13 Jul 2016 01:06:07 : Cipher , Botfuzzy77#2209 , You Need to Connect to a Voice Chat first!
+13 Jul 2016 01:06:07 : Cipher , Botfuzzy77#2209 , name 'bot' is not defined
+13 Jul 2016 01:06:19 : Cipher , Wertfuzzy77#0274 , ;reload
+13 Jul 2016 01:06:19 : Cipher , Botfuzzy77#2209 , Reloaded all Modules
+13 Jul 2016 01:06:26 : Cipher , Wertfuzzy77#0274 , ;youtube https://www.youtube.com/watch?v=OPf0YbXqDm0
+13 Jul 2016 01:06:26 : Cipher , Botfuzzy77#2209 , You Need to Connect to a Voice Chat first!
+13 Jul 2016 01:06:26 : Cipher , Botfuzzy77#2209 , object VoiceClient can't be used in 'await' expression
+13 Jul 2016 01:06:33 : Cipher , Wertfuzzy77#0274 , ;reload
+13 Jul 2016 01:06:33 : Cipher , Botfuzzy77#2209 , Reloaded all Modules
+13 Jul 2016 01:06:35 : Cipher , Wertfuzzy77#0274 , ;youtube https://www.youtube.com/watch?v=OPf0YbXqDm0
+13 Jul 2016 01:06:37 : Cipher , Wertfuzzy77#0274 , ;queue
+13 Jul 2016 01:06:39 : Cipher , Wertfuzzy77#0274 , ;songs
+13 Jul 2016 01:06:39 : Cipher , Botfuzzy77#2209 , Queue is Empty
+13 Jul 2016 01:08:59 : Cipher , Topheralan#1202 , I need you <@!134441036905840640> cunts keep challenging me without level locking. I need rules trivia ASAP!
+13 Jul 2016 01:09:54 : Cipher , Wertfuzzy77#0274 , ;shutdown
+13 Jul 2016 01:09:54 : Cipher , Botfuzzy77#2209 , Ok :(
+13 Jul 2016 01:09:54 : Cipher , Botfuzzy77#2209 , Gooodbye cruel world

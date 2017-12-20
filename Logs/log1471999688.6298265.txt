@@ -1,0 +1,16 @@
+24 Aug 2016 00:48:26 : PassionMC, general, Mystz#8072, Bukkit is dead
+24 Aug 2016 00:48:26 : PassionMC, general, Wertfuzzy77#0274, ;config Set Welcome True
+24 Aug 2016 00:48:26 : PassionMC, general, Botfuzzy77#2209, Sucessfully Set Welcome to True
+24 Aug 2016 00:48:29 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Schauda**(Priests of The Raw Man) is now Online!
+24 Aug 2016 00:48:33 : PassionMC, general, Mystz#8072, sponge is A Forge Api mix thing
+24 Aug 2016 00:48:33 : PassionMC, general, Wertfuzzy77#0274, @Lucario you can set what you want
+24 Aug 2016 00:48:34 : PassionMC, general, Mystz#8072, idk
+24 Aug 2016 00:48:39 : PassionMC, general, Wertfuzzy77#0274, ;config All
+24 Aug 2016 00:48:40 : PassionMC, general, Botfuzzy77#2209, Server Settings are as Follows:
+Welcome new members: **True**
+Send a message when a player comes online: **True**
+24 Aug 2016 00:48:41 : PassionMC, general, Lucario#0401, yeah it would be spigot now
+24 Aug 2016 00:48:51 : My Personal Server, general, Botfuzzy77#2209, **Soner**(No Role) is now Online!
+24 Aug 2016 00:49:18 : PassionMC, general, Lucario#0401, differance is their api. forge api much more complicated. spigot just hooks plugins into minecraft
+24 Aug 2016 00:49:23 : PassionMC, general, Wertfuzzy77#0274, ;relog
+24 Aug 2016 00:49:23 : PassionMC, general, Botfuzzy77#2209, Relogging...

@@ -1,0 +1,757 @@
+30 Apr 2017 00:46:48 : OblivionEvolved, bots, Wertfuzzy77#0274, ;join
+30 Apr 2017 00:46:48 : OblivionEvolved, bots, Botfuzzy77#2209, Connected channel!
+30 Apr 2017 00:46:53 : OblivionEvolved, bots, Wertfuzzy77#0274, ;search Highway to Hell
+30 Apr 2017 00:46:55 : OblivionEvolved, bots, Botfuzzy77#2209, Added AC/DC - Highway to Hell to the queue
+30 Apr 2017 00:46:55 : OblivionEvolved, bots, Botfuzzy77#2209, https://www.youtube.com/watch?v=qKggnBh2Mdw
+30 Apr 2017 00:47:02 : OblivionEvolved, bots, Wertfuzzy77#0274, ;loop
+30 Apr 2017 00:47:03 : OblivionEvolved, bots, Botfuzzy77#2209, Added '*AC/DC - Highway to Hell*' **1** more times
+30 Apr 2017 00:47:06 : OblivionEvolved, bots, Wertfuzzy77#0274, ;reconnect
+30 Apr 2017 00:47:10 : OblivionEvolved, bots, Wertfuzzy77#0274, ooooooooooo
+30 Apr 2017 00:47:11 : OblivionEvolved, bots, Wertfuzzy77#0274, it works
+30 Apr 2017 00:47:12 : OblivionEvolved, bots, Wertfuzzy77#0274, go me
+30 Apr 2017 00:47:21 : OblivionEvolved, bots, Wertfuzzy77#0274, ;songs
+30 Apr 2017 00:47:21 : OblivionEvolved, bots, Botfuzzy77#2209, Queue is Empty
+30 Apr 2017 00:47:23 : OblivionEvolved, bots, Wertfuzzy77#0274, 😄
+30 Apr 2017 00:47:34 : OblivionEvolved, bots, Wertfuzzy77#0274, ;playlist Subby
+30 Apr 2017 00:47:35 : OblivionEvolved, bots, Wertfuzzy77#0274, woops
+30 Apr 2017 00:47:39 : OblivionEvolved, bots, Wertfuzzy77#0274, ;playlist Stubby
+30 Apr 2017 00:47:47 : LimitlessMc, mainchat, Wertfuzzy77#0274, good 😄
+30 Apr 2017 00:47:48 : OblivionEvolved, bots, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+30 Apr 2017 00:47:51 : LimitlessMc, mainchat, Wertfuzzy77#0274, send it to me?
+30 Apr 2017 00:47:54 : LimitlessMc, mainchat, Mining_Zoroark#8313, sure
+30 Apr 2017 00:48:18 : LimitlessMc, mainchat, Wertfuzzy77#0274, I've uploaded like 1000 more animes in my database since I last gave you recommendations, so might be even better ones now
+30 Apr 2017 00:48:27 : OblivionEvolved, bots, Wertfuzzy77#0274, ;cycle
+30 Apr 2017 00:48:27 : OblivionEvolved, bots, Botfuzzy77#2209, Cycle Mode: True
+30 Apr 2017 00:48:31 : OblivionEvolved, bots, Wertfuzzy77#0274, there
+30 Apr 2017 00:48:37 : OblivionEvolved, bots, Wertfuzzy77#0274, inifite stubby playlist for you 😛
+30 Apr 2017 00:48:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+30 Apr 2017 00:48:47 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+30 Apr 2017 00:48:53 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Highway to Hell
+30 Apr 2017 00:48:55 : LimitlessMc, botchat, Botfuzzy77#2209, Added AC/DC - Highway to Hell to the queue
+30 Apr 2017 00:48:56 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=qKggnBh2Mdw
+30 Apr 2017 00:49:35 : LimitlessMc, mainchat, Mining_Zoroark#8313, nice
+30 Apr 2017 00:50:12 : RooberBoobers, kinkyrubiestalk, navy#8336, i love my gf
+30 Apr 2017 00:51:08 : LimitlessMc, mainchat, Mining_Zoroark#8313, brb dog needs to go out
+30 Apr 2017 00:53:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;loop 2
+30 Apr 2017 00:53:03 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*AC/DC - Highway to Hell*' **2** more times
+30 Apr 2017 00:53:38 : LimitlessMc, mainchat, Wertfuzzy77#0274, ```py
+>>> print(recommendAnimes("Zoroark", nice_print = True, exclude_genres = ['Sports'], recommend_types = ['TV']))
+New Analyzer
+New Analyzer
+Hyouka - 84.67925%
+Fullmetal Alchemist: Brotherhood - 83.0668%
+Hokuto no Ken: Raoh Gaiden Ten no Haoh - 81.94187%
+Strike Witches 2 - 80.08756%
+Magi: The Kingdom of Magic - 79.10018%
+Magi: The Labyrinth of Magic - 79.10018%
+Aa! Megami-sama!: Chichaitte Koto wa Benri da ne - 78.82587%
+Kingdom 2nd Season - 78.39426%
+Kingdom - 78.39426%
+Yomigaeru Sora: Rescue Wings - 77.05669%```
+30 Apr 2017 00:54:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cycl
+30 Apr 2017 00:54:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cycl
+30 Apr 2017 00:54:27 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cycle
+30 Apr 2017 00:54:27 : LimitlessMc, botchat, Botfuzzy77#2209, Cycle Mode: True
+30 Apr 2017 00:54:57 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, i love my wif
+30 Apr 2017 00:55:59 : RooberBoobers, kinkyrubiestalk, navy#8336, i love my cogsworth
+30 Apr 2017 00:56:45 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, i love my navy
+30 Apr 2017 00:58:13 : LimitlessMc, mainchat, Bakafish#8693, justin been off server for almost two days
+30 Apr 2017 00:58:17 : LimitlessMc, mainchat, Bakafish#8693, remarkable
+30 Apr 2017 00:58:35 : LimitlessMc, mainchat, Crystal4209#4698, He's somewhere
+30 Apr 2017 00:58:47 : LimitlessMc, mainchat, Wertfuzzy77#0274, #RIPJustin #YouWIllBeMissed
+30 Apr 2017 00:59:13 : LimitlessMc, mainchat, Crystal4209#4698, Lel I remember when I was off for a week, nobody cared xD
+30 Apr 2017 00:59:23 : LimitlessMc, mainchat, Wertfuzzy77#0274, I leave for months at a time
+30 Apr 2017 00:59:48 : LimitlessMc, mainchat, Crystal4209#4698, I know
+30 Apr 2017 01:00:14 : LimitlessMc, mainchat, Bakafish#8693, justin was supposed to be going for frontier
+30 Apr 2017 01:01:37 : LimitlessMc, botchat, Crystal4209#4698, ;train
+30 Apr 2017 01:01:39 : LimitlessMc, botchat, Botfuzzy77#2209, 
+30 Apr 2017 01:01:41 : LimitlessMc, botchat, Botfuzzy77#2209, 
+30 Apr 2017 01:02:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lmgtfy ramune in Japan
+30 Apr 2017 01:02:12 : LimitlessMc, botchat, Botfuzzy77#2209, http://lmgtfy.com/?q=ramune+in+Japan
+30 Apr 2017 01:02:18 : LimitlessMc, mainchat, Crystal4209#4698, I think he is, I know that third was ev training a togepi for him
+30 Apr 2017 01:04:03 : LimitlessMc, mainchat, Bakafish#8693, hope he can also start building soon
+30 Apr 2017 01:04:11 : LimitlessMc, mainchat, Crystal4209#4698, Yeah
+30 Apr 2017 01:05:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ;invite
+30 Apr 2017 01:05:15 : LimitlessMc, botchat, Botfuzzy77#2209, https://discordapp.com/oauth2/authorize?client_id=187608834381053952&scope=bot&permissions=00000008
+30 Apr 2017 01:05:29 : GreenHillGang, general, Wertfuzzy77#0274, ;lmgtfy japan
+30 Apr 2017 01:05:29 : GreenHillGang, general, Botfuzzy77#2209, http://lmgtfy.com/?q=japan
+30 Apr 2017 01:05:42 : GreenHillGang, general, FunkyKong#0890, ;Imgtfy japan
+30 Apr 2017 01:06:31 : GreenHillGang, general, Wertfuzzy77#0274, why would you think its an I, its `Let me google that for you`
+30 Apr 2017 01:06:35 : GreenHillGang, general, Wertfuzzy77#0274, so L
+30 Apr 2017 01:06:39 : GreenHillGang, general, Wertfuzzy77#0274, nub
+30 Apr 2017 01:06:52 : GreenHillGang, general, FunkyKong#0890, oh
+30 Apr 2017 01:07:15 : GreenHillGang, general, FunkyKong#0890, ;lmgtfy how to get a nicer brother
+30 Apr 2017 01:07:15 : GreenHillGang, general, Botfuzzy77#2209, http://lmgtfy.com/?q=how+to+get+a+nicer+brother
+30 Apr 2017 01:07:45 : GreenHillGang, general, Wertfuzzy77#0274, ;lmgtfy how do I teach my younger brother to use his head
+30 Apr 2017 01:07:45 : GreenHillGang, general, Botfuzzy77#2209, http://lmgtfy.com/?q=how+do+I+teach+my+younger+brother+to+use+his+head
+30 Apr 2017 01:07:46 : LimitlessMc, mainchat, Third_Worm#4804, @Bakafish Won't be on for the weekend
+30 Apr 2017 01:07:57 : LimitlessMc, mainchat, Third_Worm#4804, Went out of state for family reasons
+30 Apr 2017 01:08:00 : LimitlessMc, mainchat, Wertfuzzy77#0274, rip
+30 Apr 2017 01:08:03 : LimitlessMc, mainchat, Wertfuzzy77#0274, safari games tho
+30 Apr 2017 01:08:20 : LimitlessMc, mainchat, Third_Worm#4804, I'm gettin whatever extra shit i can get
+30 Apr 2017 01:08:22 : RooberBoobers, kinkyrubiestalk, navy#8336, yay
+30 Apr 2017 01:08:29 : GreenHillGang, general, FunkyKong#0890, ;lmgtfy why are younger brothers smarter than older ones
+30 Apr 2017 01:08:29 : GreenHillGang, general, Botfuzzy77#2209, http://lmgtfy.com/?q=why+are+younger+brothers+smarter+than+older+ones
+30 Apr 2017 01:08:40 : LimitlessMc, mainchat, Mining_Zoroark#8313, Im back
+30 Apr 2017 01:09:06 : LimitlessMc, mainchat, Third_Worm#4804, Wb
+30 Apr 2017 01:09:10 : LimitlessMc, mainchat, Mining_Zoroark#8313, Ty
+30 Apr 2017 01:09:26 : GreenHillGang, general, Wertfuzzy77#0274, says the one who used a `I` instead of an `L`
+30 Apr 2017 01:09:39 : LimitlessMc, voice-junk, Third_Worm#4804, @Jay113355 Evening Jay
+30 Apr 2017 01:09:52 : GreenHillGang, general, FunkyKong#0890, you had to edit it
+30 Apr 2017 01:09:58 : GreenHillGang, general, FunkyKong#0890, let me guess you spelled used wrong
+30 Apr 2017 01:10:04 : LimitlessMc, voice-junk, Third_Worm#4804, @Crystal4209 Morning
+30 Apr 2017 01:10:13 : LimitlessMc, voice-junk, Crystal4209#4698, Ola
+30 Apr 2017 01:10:24 : GreenHillGang, general, FunkyKong#0890, also jesus christ this monster has like 150 health
+30 Apr 2017 01:10:25 : LimitlessMc, voice-junk, Crystal4209#4698, Been up since 6am sam xD
+30 Apr 2017 01:10:27 : GreenHillGang, general, FunkyKong#0890, and my hits do like 20
+30 Apr 2017 01:10:38 : LimitlessMc, voice-junk, Crystal4209#4698, Lel I got a headache
+30 Apr 2017 01:10:43 : LimitlessMc, voice-junk, Crystal4209#4698, Wanna hear it xD
+30 Apr 2017 01:10:54 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, 
+30 Apr 2017 01:11:01 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, oMg
+30 Apr 2017 01:11:16 : LimitlessMc, voice-junk, Crystal4209#4698, *whispers* renovations
+30 Apr 2017 01:11:55 : LimitlessMc, voice-junk, Crystal4209#4698, Watching Netflix at the moment too xD
+30 Apr 2017 01:11:55 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+30 Apr 2017 01:12:00 : RooberBoobers, kinkyrubiestalk, navy#8336, lmao rip
+30 Apr 2017 01:12:03 : GreenHillGang, general, Wertfuzzy77#0274, I mean, I put `a` instead of `an`
+30 Apr 2017 01:12:21 : GreenHillGang, general, Wertfuzzy77#0274, thats why you have 4 people tho
+30 Apr 2017 01:12:24 : LimitlessMc, voice-junk, Crystal4209#4698, @Jay113355 do you have a myanimelist account?
+30 Apr 2017 01:12:35 : GreenHillGang, general, FunkyKong#0890, i only got 2
+30 Apr 2017 01:12:40 : GreenHillGang, general, Wertfuzzy77#0274, oh ya
+30 Apr 2017 01:12:40 : GreenHillGang, general, FunkyKong#0890, because every time i move 2 squares
+30 Apr 2017 01:12:42 : GreenHillGang, general, FunkyKong#0890, i fight someone else
+30 Apr 2017 01:12:43 : GreenHillGang, general, Wertfuzzy77#0274, kidnapped
+30 Apr 2017 01:12:49 : GreenHillGang, general, Wertfuzzy77#0274, lol, unlucky
+30 Apr 2017 01:13:02 : GreenHillGang, general, FunkyKong#0890, i have made it 15 squares so far
+30 Apr 2017 01:13:03 : GreenHillGang, general, FunkyKong#0890, with 5 fights
+30 Apr 2017 01:13:09 : GreenHillGang, general, Wertfuzzy77#0274, I didnt fight nearly as much
+30 Apr 2017 01:13:14 : GreenHillGang, general, FunkyKong#0890, how
+30 Apr 2017 01:13:24 : GreenHillGang, general, Wertfuzzy77#0274, `lol, unlucky` luck
+30 Apr 2017 01:13:33 : GreenHillGang, general, FunkyKong#0890, also
+30 Apr 2017 01:13:44 : GreenHillGang, general, FunkyKong#0890, how do you quote yourself
+30 Apr 2017 01:13:52 : GreenHillGang, general, FunkyKong#0890, or is that the css thing
+30 Apr 2017 01:14:08 : GreenHillGang, general, Wertfuzzy77#0274, its the ` character
+30 Apr 2017 01:14:11 : GreenHillGang, general, Wertfuzzy77#0274, used as quotes
+30 Apr 2017 01:14:12 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, 
+30 Apr 2017 01:14:17 : GreenHillGang, general, Wertfuzzy77#0274, not the '
+30 Apr 2017 01:14:19 : GreenHillGang, general, Wertfuzzy77#0274, but the `
+30 Apr 2017 01:14:26 : GreenHillGang, general, Wertfuzzy77#0274, ontop of the tab key
+30 Apr 2017 01:14:28 : GreenHillGang, general, FunkyKong#0890, ```css 
+blah blah blah
+```
+30 Apr 2017 01:14:30 : GreenHillGang, general, Wertfuzzy77#0274, ^
+30 Apr 2017 01:14:30 : GreenHillGang, general, Botfuzzy77#2209, ^
+30 Apr 2017 01:14:31 : GreenHillGang, general, Wertfuzzy77#0274, well
+30 Apr 2017 01:14:34 : GreenHillGang, general, Wertfuzzy77#0274, only 1
+30 Apr 2017 01:14:39 : GreenHillGang, general, Wertfuzzy77#0274, for the small codeblock
+30 Apr 2017 01:14:41 : GreenHillGang, general, FunkyKong#0890, but i like the css thing
+30 Apr 2017 01:14:44 : GreenHillGang, general, FunkyKong#0890, but i messed it up
+30 Apr 2017 01:14:46 : GreenHillGang, general, Wertfuzzy77#0274, ^
+30 Apr 2017 01:14:46 : GreenHillGang, general, Botfuzzy77#2209, ^
+30 Apr 2017 01:14:56 : GreenHillGang, general, FunkyKong#0890, ```
+did i do this right
+```
+30 Apr 2017 01:14:59 : GreenHillGang, general, FunkyKong#0890, sick
+30 Apr 2017 01:15:18 : GreenHillGang, general, Wertfuzzy77#0274, ```py
+def FindInDataBase(genreGroup, **kwargs):
+    ID_TO_GENRES = kwargs.get("ID_TO_GENRES", None)
+    if ID_TO_GENRES == None:
+        with open("Genres.json", 'r') as f:
+            ID_TO_GENRES = json.load(f)
+    toRet = []
+    currentIDs = []
+    for genre in genreGroup:
+        if len(currentIDs) == 0:
+            currentIDs = GENRES_TO_ID[genre]
+        else:
+            currentIDs = set(currentIDs) & set(GENRES_TO_ID[genre])
+    for ID in currentIDs:
+        toRet.append((ID, ID_TO_GENRES[ID]))
+    return toRet```
+30 Apr 2017 01:15:23 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, 
+30 Apr 2017 01:15:25 : GreenHillGang, general, FunkyKong#0890, wut
+30 Apr 2017 01:15:29 : GreenHillGang, general, Wertfuzzy77#0274, really only useful for actual code lol
+30 Apr 2017 01:15:46 : GreenHillGang, general, FunkyKong#0890, nah i use it to make my trades pop out
+30 Apr 2017 01:15:46 : GreenHillGang, general, FunkyKong#0890, lo
+30 Apr 2017 01:15:49 : GreenHillGang, general, FunkyKong#0890, lol*
+30 Apr 2017 01:16:06 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, the background is black to match my soul
+30 Apr 2017 01:16:08 : GreenHillGang, general, Wertfuzzy77#0274, what formatting do you use? like which language?
+30 Apr 2017 01:16:16 : GreenHillGang, general, FunkyKong#0890, umm
+30 Apr 2017 01:16:24 : GreenHillGang, general, FunkyKong#0890, also when i said  i made it to the end
+30 Apr 2017 01:16:26 : GreenHillGang, general, FunkyKong#0890, i made it to the end
+30 Apr 2017 01:16:27 : GreenHillGang, general, FunkyKong#0890, with no one
+30 Apr 2017 01:16:31 : GreenHillGang, general, FunkyKong#0890, so i have to find them
+30 Apr 2017 01:16:39 : GreenHillGang, general, Wertfuzzy77#0274, gl
+30 Apr 2017 01:16:39 : GreenHillGang, general, FunkyKong#0890, and i have no idea which language i am using
+30 Apr 2017 01:16:52 : GreenHillGang, general, Wertfuzzy77#0274, """[language]
+STUFF
+STUFF
+"""
+30 Apr 2017 01:16:57 : GreenHillGang, general, FunkyKong#0890, css
+30 Apr 2017 01:17:04 : GreenHillGang, general, FunkyKong#0890, ```css 
+stuff stuff
+```
+30 Apr 2017 01:17:08 : GreenHillGang, general, FunkyKong#0890, but for some reason
+30 Apr 2017 01:17:11 : RooberBoobers, kinkyrubiestalk, navy#8336, same
+30 Apr 2017 01:17:20 : GreenHillGang, general, FunkyKong#0890, but i think i messed something up
+30 Apr 2017 01:17:27 : GreenHillGang, general, Wertfuzzy77#0274, ```py
+# HELLOOOOOOOOO```
+30 Apr 2017 01:17:30 : GreenHillGang, general, Wertfuzzy77#0274, hmm
+30 Apr 2017 01:17:33 : GreenHillGang, general, Wertfuzzy77#0274, not #
+30 Apr 2017 01:17:34 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, its spekil
+30 Apr 2017 01:17:39 : GreenHillGang, general, Wertfuzzy77#0274, maybe was @
+30 Apr 2017 01:17:41 : GreenHillGang, general, FunkyKong#0890, `
+30 Apr 2017 01:17:42 : GreenHillGang, general, FunkyKong#0890, `
+30 Apr 2017 01:17:43 : GreenHillGang, general, FunkyKong#0890, `
+30 Apr 2017 01:17:44 : GreenHillGang, general, FunkyKong#0890, css
+30 Apr 2017 01:17:45 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, because it's handmade
+30 Apr 2017 01:17:46 : GreenHillGang, general, FunkyKong#0890, stuff
+30 Apr 2017 01:17:48 : GreenHillGang, general, FunkyKong#0890, `
+30 Apr 2017 01:17:49 : GreenHillGang, general, FunkyKong#0890, `
+30 Apr 2017 01:17:49 : GreenHillGang, general, FunkyKong#0890, `
+30 Apr 2017 01:17:51 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, so was my ass
+30 Apr 2017 01:17:52 : GreenHillGang, general, Wertfuzzy77#0274, ```py
+@Testing```
+30 Apr 2017 01:17:52 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, *pats back*
+30 Apr 2017 01:18:02 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, w a i t  n o
+30 Apr 2017 01:18:05 : GreenHillGang, general, FunkyKong#0890, ```py 
+@aren't i cool
+```
+30 Apr 2017 01:18:08 : GreenHillGang, general, FunkyKong#0890, nope
+30 Apr 2017 01:18:10 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, **bad timing kid**
+30 Apr 2017 01:18:12 : GreenHillGang, general, Wertfuzzy77#0274, ```R
+Thing```
+30 Apr 2017 01:18:21 : GreenHillGang, general, FunkyKong#0890, oh i got it
+30 Apr 2017 01:18:23 : GreenHillGang, general, Wertfuzzy77#0274, I mean, you have to put it on the same line at the `s
+30 Apr 2017 01:18:39 : GreenHillGang, general, FunkyKong#0890, ```py
+look at me i'm mr. meeseeks```
+30 Apr 2017 01:18:48 : RooberBoobers, kinkyrubiestalk, navy#8336, why was your ass handmade
+30 Apr 2017 01:18:48 : GreenHillGang, general, FunkyKong#0890, wait
+30 Apr 2017 01:18:52 : GreenHillGang, general, FunkyKong#0890, why did it color that blue
+30 Apr 2017 01:19:01 : GreenHillGang, general, Wertfuzzy77#0274, cause ' is the key to define a string
+30 Apr 2017 01:19:11 : GreenHillGang, general, Wertfuzzy77#0274, and python formatting colors strings
+30 Apr 2017 01:19:18 : GreenHillGang, general, Wertfuzzy77#0274, ```py
+method()```
+30 Apr 2017 01:19:19 : GreenHillGang, general, Wertfuzzy77#0274, hmm
+30 Apr 2017 01:19:31 : GreenHillGang, general, Wertfuzzy77#0274, ```py
+1 2 3 "String" not string```
+30 Apr 2017 01:19:57 : GreenHillGang, general, FunkyKong#0890, ```py
+@thisisred```
+30 Apr 2017 01:20:03 : GreenHillGang, general, FunkyKong#0890, how would i make it red
+30 Apr 2017 01:20:08 : GreenHillGang, general, FunkyKong#0890, without the at sign
+30 Apr 2017 01:20:10 : GreenHillGang, general, Wertfuzzy77#0274, cant
+30 Apr 2017 01:20:16 : GreenHillGang, general, Wertfuzzy77#0274, unless you try other languages
+30 Apr 2017 01:20:21 : GreenHillGang, general, Wertfuzzy77#0274, but I lazy
+30 Apr 2017 01:20:22 : GreenHillGang, general, Wertfuzzy77#0274, so you do that
+30 Apr 2017 01:20:27 : GreenHillGang, general, FunkyKong#0890, ok
+30 Apr 2017 01:20:50 : LimitlessMc, mainchat, Wertfuzzy77#0274, ```py
+>>> print(recommendAnimes("Zoroark", nice_print = True, exclude_genres = ['Sports'], recommend_types = ['TV']))
+New Analyzer
+New Analyzer
+Title: Hyouka
+Type: TV
+Genres: Mystery, School, Slice of Life
+Likeness: 84.67925%
+
+Title: Fullmetal Alchemist: Brotherhood
+Type: TV
+Genres: Action, Military, Adventure, Drama, Magic, Fantasy, Shounen
+Likeness: 83.0668%
+
+Title: Hokuto no Ken: Raoh Gaiden Ten no Haoh
+Type: TV
+Genres: Action, Drama, Martial Arts
+Likeness: 81.94187%
+
+Title: Strike Witches 2
+Type: TV
+Genres: Action, Military, Sci-Fi, Magic, Ecchi
+Likeness: 80.08756%
+
+Title: Magi: The Kingdom of Magic
+Type: TV
+Genres: Action, Adventure, Fantasy, Magic, Shounen
+Likeness: 79.10018%
+
+Title: Magi: The Labyrinth of Magic
+Type: TV
+Genres: Action, Adventure, Fantasy, Magic, Shounen
+Likeness: 79.10018%
+
+Title: Aa! Megami-sama!: Chichaitte Koto wa Benri da ne
+Type: TV
+Genres: Comedy, Magic, Supernatural
+Likeness: 78.82587%
+
+Title: Kingdom 2nd Season
+Type: TV
+Genres: Action, Military, Historical, Seinen
+Likeness: 78.39426%
+
+Title: Kingdom
+Type: TV
+Genres: Action, Historical, Military, Seinen
+Likeness: 78.39426%
+
+Title: Yomigaeru Sora: Rescue Wings
+Type: TV
+Genres: Drama, Military, Seinen
+Likeness: 77.05669%```
+30 Apr 2017 01:20:54 : LimitlessMc, mainchat, Wertfuzzy77#0274, wow
+30 Apr 2017 01:20:59 : LimitlessMc, mainchat, Wertfuzzy77#0274, thats a long message
+30 Apr 2017 01:21:00 : GreenHillGang, general, FunkyKong#0890, ;lmgtfy how can you change colors of text on discord
+30 Apr 2017 01:21:00 : GreenHillGang, general, Botfuzzy77#2209, http://lmgtfy.com/?q=how+can+you+change+colors+of+text+on+discord
+30 Apr 2017 01:21:05 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, shes a robot
+30 Apr 2017 01:21:06 : LimitlessMc, mainchat, Wertfuzzy77#0274, lets not
+30 Apr 2017 01:21:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+>>> print(recommendAnimes("Zoroark", nice_print = True, exclude_genres = ['Sports'], recommend_types = ['TV']))
+New Analyzer
+New Analyzer
+Title: Hyouka
+Type: TV
+Genres: Mystery, School, Slice of Life
+Likeness: 84.67925%
+
+Title: Fullmetal Alchemist: Brotherhood
+Type: TV
+Genres: Action, Military, Adventure, Drama, Magic, Fantasy, Shounen
+Likeness: 83.0668%
+
+Title: Hokuto no Ken: Raoh Gaiden Ten no Haoh
+Type: TV
+Genres: Action, Drama, Martial Arts
+Likeness: 81.94187%
+
+Title: Strike Witches 2
+Type: TV
+Genres: Action, Military, Sci-Fi, Magic, Ecchi
+Likeness: 80.08756%
+
+Title: Magi: The Kingdom of Magic
+Type: TV
+Genres: Action, Adventure, Fantasy, Magic, Shounen
+Likeness: 79.10018%
+
+Title: Magi: The Labyrinth of Magic
+Type: TV
+Genres: Action, Adventure, Fantasy, Magic, Shounen
+Likeness: 79.10018%
+
+Title: Aa! Megami-sama!: Chichaitte Koto wa Benri da ne
+Type: TV
+Genres: Comedy, Magic, Supernatural
+Likeness: 78.82587%
+
+Title: Kingdom 2nd Season
+Type: TV
+Genres: Action, Military, Historical, Seinen
+Likeness: 78.39426%
+
+Title: Kingdom
+Type: TV
+Genres: Action, Historical, Military, Seinen
+Likeness: 78.39426%
+
+Title: Yomigaeru Sora: Rescue Wings
+Type: TV
+Genres: Drama, Military, Seinen
+Likeness: 77.05669%```
+30 Apr 2017 01:21:20 : LimitlessMc, botchat, Wertfuzzy77#0274, @Mining_Zoroark there are your recommendations now
+30 Apr 2017 01:21:32 : LimitlessMc, botchat, Wertfuzzy77#0274, and I have it print info about the animes too
+30 Apr 2017 01:21:35 : LimitlessMc, botchat, Wertfuzzy77#0274, so you can see genres
+30 Apr 2017 01:21:35 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+30 Apr 2017 01:21:41 : LimitlessMc, mainchat, Mining_Zoroark#8313, hmm?
+30 Apr 2017 01:21:42 : GreenHillGang, general, FunkyKong#0890, i am making the shortest possible route
+30 Apr 2017 01:21:46 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, obviously
+30 Apr 2017 01:21:46 : GreenHillGang, general, FunkyKong#0890, because i hit so many things otherwise
+30 Apr 2017 01:21:59 : LimitlessMc, mainchat, Wertfuzzy77#0274, I just deleted a really long message I put in chat
+30 Apr 2017 01:22:03 : LimitlessMc, mainchat, Wertfuzzy77#0274, its in #botchat now
+30 Apr 2017 01:22:12 : RooberBoobers, kinkyrubiestalk, navy#8336, 
+30 Apr 2017 01:22:14 : GreenHillGang, general, FunkyKong#0890, like i am mid level 3
+30 Apr 2017 01:22:14 : RooberBoobers, kinkyrubiestalk, navy#8336, me @ my wif
+30 Apr 2017 01:22:37 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, we vore each other lovingly
+30 Apr 2017 01:23:30 : LimitlessMc, mainchat, Bakafish#8693, ah so justin will be back soon
+30 Apr 2017 01:23:32 : LimitlessMc, mainchat, Bakafish#8693, that's good
+30 Apr 2017 01:24:27 : LimitlessMc, botchat, Mining_Zoroark#8313, mkay
+30 Apr 2017 01:25:38 : GreenHillGang, general, FunkyKong#0890, ```jc
+donuts
+```
+30 Apr 2017 01:25:49 : GreenHillGang, general, FunkyKong#0890, ```css
+donuts
+```
+30 Apr 2017 01:26:05 : GreenHillGang, general, FunkyKong#0890, ```py
+donuts
+```
+30 Apr 2017 01:28:41 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, https://images.discordapp.net/.eJwVzEEOhCAMAMC_8AAKuGDxNwQJkogltJ6Mf9_dyxznUfc81aYOkcEbwN4409w1C81Ui65E9SxpNNaZOiSRlI9eLmFwazQWf7rovQ0BHSwGzRLiapz3H3SIFlr_N-Oq6v0CwUsh3w.pSLk67Db2ZnlVWUZ67qBOatnRYU
+30 Apr 2017 01:28:46 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, **when your gf blocks you**
+30 Apr 2017 01:29:17 : RooberBoobers, kinkyrubiestalk, navy#8336, why
+30 Apr 2017 01:29:23 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, idk
+30 Apr 2017 01:29:30 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, she blocked me for nothing
+30 Apr 2017 01:29:35 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, so ;/
+30 Apr 2017 01:29:44 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, probably an accident then
+30 Apr 2017 01:29:47 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, nope
+30 Apr 2017 01:29:53 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, completely knowing
+30 Apr 2017 01:30:36 : RooberBoobers, kinkyrubiestalk, navy#8336, rip
+30 Apr 2017 01:32:16 : GreenHillGang, general, FunkyKong#0890, so
+30 Apr 2017 01:32:18 : GreenHillGang, general, FunkyKong#0890, i can make it green
+30 Apr 2017 01:32:21 : GreenHillGang, general, FunkyKong#0890, without anything
+30 Apr 2017 01:32:23 : GreenHillGang, general, FunkyKong#0890, with
+30 Apr 2017 01:32:30 : GreenHillGang, general, FunkyKong#0890, w
+30 Apr 2017 01:32:48 : GreenHillGang, general, FunkyKong#0890, ```css
+(random text)
+```
+30 Apr 2017 01:32:55 : GreenHillGang, general, FunkyKong#0890, `
+30 Apr 2017 01:32:55 : GreenHillGang, general, FunkyKong#0890, `
+30 Apr 2017 01:32:56 : GreenHillGang, general, FunkyKong#0890, `
+30 Apr 2017 01:32:57 : GreenHillGang, general, FunkyKong#0890, css
+30 Apr 2017 01:33:01 : GreenHillGang, general, FunkyKong#0890, enter
+30 Apr 2017 01:33:04 : GreenHillGang, general, FunkyKong#0890, text
+30 Apr 2017 01:33:08 : GreenHillGang, general, FunkyKong#0890, enter
+30 Apr 2017 01:33:08 : GreenHillGang, general, FunkyKong#0890, `
+30 Apr 2017 01:33:09 : GreenHillGang, general, FunkyKong#0890, `
+30 Apr 2017 01:33:09 : GreenHillGang, general, FunkyKong#0890, `
+30 Apr 2017 01:33:13 : GreenHillGang, general, FunkyKong#0890, makes it green
+30 Apr 2017 01:34:41 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, o h geez
+30 Apr 2017 01:34:43 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, im sorr
+30 Apr 2017 01:35:06 : LimitlessMc, voice-junk, Crystal4209#4698, Shhh I'm back
+30 Apr 2017 01:35:55 : LimitlessMc, botchat, Crystal4209#4698, @Wertfuzzy77 oooo do me xD
+30 Apr 2017 01:37:12 : LimitlessMc, voice-junk, Crystal4209#4698, Adam :3
+30 Apr 2017 01:37:27 : LimitlessMc, voice-junk, Crystal4209#4698, 💖
+30 Apr 2017 01:37:43 : LimitlessMc, voice-junk, Crystal4209#4698, 10/10
+30 Apr 2017 01:38:17 : LimitlessMc, voice-junk, Crystal4209#4698, @Third_Worm loud noises ;-;
+30 Apr 2017 01:39:14 : GreenHillGang, general, FunkyKong#0890, ```Markdown
+orange i hope
+```
+30 Apr 2017 01:39:36 : GreenHillGang, general, FunkyKong#0890, ```Markdown 
+#givemeorange
+```
+30 Apr 2017 01:39:47 : GreenHillGang, general, FunkyKong#0890, ```Markdown
+orange
+```
+30 Apr 2017 01:40:03 : GreenHillGang, general, FunkyKong#0890, ```Markdown
+#orange
+```
+30 Apr 2017 01:40:06 : GreenHillGang, general, FunkyKong#0890, what
+30 Apr 2017 01:40:19 : GreenHillGang, general, FunkyKong#0890, ```css
+#orange
+```
+30 Apr 2017 01:43:57 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, 
+30 Apr 2017 01:59:47 : OblivionEvolved, bots, StubbyMuffins#1053, ;playlist Stubby
+30 Apr 2017 01:59:56 : OblivionEvolved, bots, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+30 Apr 2017 02:00:01 : OblivionEvolved, bots, StubbyMuffins#1053, ;clear
+30 Apr 2017 02:00:01 : OblivionEvolved, bots, Botfuzzy77#2209, Cleared Queue!
+30 Apr 2017 02:00:04 : OblivionEvolved, bots, StubbyMuffins#1053, ;skip
+30 Apr 2017 02:00:04 : OblivionEvolved, bots, Botfuzzy77#2209, Skipping Naruto Shippuden [295] - When The Beat Drops (AMV) 【1080p】 by ADMIN request
+30 Apr 2017 02:00:09 : OblivionEvolved, bots, StubbyMuffins#1053, ;leave
+30 Apr 2017 02:00:13 : OblivionEvolved, bots, StubbyMuffins#1053, ;join
+30 Apr 2017 02:00:14 : OblivionEvolved, bots, Botfuzzy77#2209, Connected channel!
+30 Apr 2017 02:00:23 : OblivionEvolved, bots, StubbyMuffins#1053, playlist Stubby
+30 Apr 2017 02:00:33 : OblivionEvolved, bots, StubbyMuffins#1053, ;playlist Stubby
+30 Apr 2017 02:00:43 : OblivionEvolved, bots, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+30 Apr 2017 02:03:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+>>> print(recommendAnimes("Crystal", nice_print = True, recommend_types = ['Movie', 'TV']))
+New Analyzer
+New Analyzer
+Title: Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare
+Type: Movie
+Genres: Action, Sci-Fi, Comedy, Historical, Parody, Samurai, Shounen
+Likeness: 81.82779%
+
+Title: Mahou Shoujo Madoka★Magica Movie 1: Hajimari no Monogatari
+Type: Movie
+Genres: Drama, Magic, Psychological, Thriller
+Likeness: 77.93888%
+
+Title: Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari
+Type: Movie
+Genres: Psychological, Drama, Magic, Thriller
+Likeness: 77.93888%
+
+Title: Slayers Next
+Type: TV
+Genres: Adventure, Comedy, Demons, Magic, Fantasy
+Likeness: 77.07882%
+
+Title: Gintama: Yorinuki Gintama-san on Theater 2D
+Type: Movie
+Genres: Action, Sci-Fi, Comedy, Historical, Parody, Samurai, Shounen
+Likeness: 74.71233%
+
+Title: Gintama Movie: Shinyaku Benizakura-hen
+Type: Movie
+Genres: Action, Sci-Fi, Comedy, Historical, Parody, Samurai, Shounen
+Likeness: 74.71233%
+
+Title: Tengen Toppa Gurren Lagann
+Type: TV
+Genres: Action, Adventure, Comedy, Mecha, Sci-Fi
+Likeness: 73.14878%
+
+Title: Tentai Senshi Sunred 2nd Season
+Type: TV
+Genres: Comedy, Parody, Seinen, Super Power
+Likeness: 72.48801%
+
+Title: Grimm Masterpiece Theater II
+Type: TV
+Genres: Adventure, Comedy, Fantasy, Kids, Magic
+Likeness: 70.94989%
+
+Title: Grimm Masterpiece Theater
+Type: TV
+Genres: Adventure, Comedy, Kids, Magic, Fantasy
+Likeness: 70.94989%```
+30 Apr 2017 02:03:12 : LimitlessMc, botchat, Wertfuzzy77#0274, #8
+30 Apr 2017 02:03:14 : LimitlessMc, botchat, Wertfuzzy77#0274, Tentai
+30 Apr 2017 02:03:16 : LimitlessMc, botchat, Wertfuzzy77#0274, sounds sketchy
+30 Apr 2017 02:03:39 : OblivionEvolved, bots, Wertfuzzy77#0274, btw
+30 Apr 2017 02:03:44 : OblivionEvolved, bots, Wertfuzzy77#0274, just do ;reconnect
+30 Apr 2017 02:03:48 : OblivionEvolved, bots, Wertfuzzy77#0274, instead of ;leave and ;join
+30 Apr 2017 02:03:54 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reconnect
+30 Apr 2017 02:04:12 : OblivionEvolved, bots, StubbyMuffins#1053, why my music dead again
+30 Apr 2017 02:04:15 : OblivionEvolved, bots, StubbyMuffins#1053, zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+30 Apr 2017 02:04:39 : OblivionEvolved, bots, Wertfuzzy77#0274, works finee?????
+30 Apr 2017 02:04:41 : OblivionEvolved, bots, Wertfuzzy77#0274, hmmmmmmmmmmmmmmmmmmmmmm
+30 Apr 2017 02:04:55 : OblivionEvolved, bots, Wertfuzzy77#0274, ;songs
+30 Apr 2017 02:04:56 : OblivionEvolved, bots, Botfuzzy77#2209, 
+30 Apr 2017 02:05:10 : OblivionEvolved, bots, Wertfuzzy77#0274, ;playlist Shelter
+30 Apr 2017 02:05:12 : OblivionEvolved, bots, Wertfuzzy77#0274, yw
+30 Apr 2017 02:05:20 : OblivionEvolved, bots, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+30 Apr 2017 02:05:26 : OblivionEvolved, bots, Wertfuzzy77#0274, ;shuffle
+30 Apr 2017 02:05:33 : OblivionEvolved, bots, Botfuzzy77#2209, Shuffled songs!
+30 Apr 2017 02:05:53 : OblivionEvolved, bots, Wertfuzzy77#0274, ;songs
+30 Apr 2017 02:05:53 : OblivionEvolved, bots, Botfuzzy77#2209, 
+30 Apr 2017 02:06:05 : OblivionEvolved, bots, Wertfuzzy77#0274, ;shuffle
+30 Apr 2017 02:06:13 : OblivionEvolved, bots, Botfuzzy77#2209, Shuffled songs!
+30 Apr 2017 02:06:15 : OblivionEvolved, bots, Wertfuzzy77#0274, ;songs
+30 Apr 2017 02:06:16 : OblivionEvolved, bots, Botfuzzy77#2209, 
+30 Apr 2017 02:06:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;music
+30 Apr 2017 02:06:51 : LimitlessMc, botchat, Botfuzzy77#2209, Connected to voice channels in the following servers:
+LimitlessMc playing AC/DC - Highway to Hell
+OblivionEvolved playing Foxes - Glorious (Official Video)
+30 Apr 2017 02:11:33 : LimitlessMc, botchat, Crystal4209#4698, Does sound sketchy xD
+30 Apr 2017 02:12:21 : LimitlessMc, voice-junk, darth kota#9446, Louder noises
+30 Apr 2017 02:13:58 : LimitlessMc, botchat, Wertfuzzy77#0274, lol
+30 Apr 2017 02:13:58 : LimitlessMc, botchat, Wertfuzzy77#0274, well
+30 Apr 2017 02:14:03 : LimitlessMc, botchat, Wertfuzzy77#0274, I fixed my likeness score
+30 Apr 2017 02:14:06 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+>>> print(recommendAnimes("Crystal", nice_print = True, recommend_types = ['Movie', 'TV']))
+New Analyzer
+New Analyzer
+Title: Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare
+Type: Movie
+Genres: Action, Sci-Fi, Comedy, Historical, Parody, Samurai, Shounen
+Likeness: 98.41355%
+
+Title: Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari
+Type: Movie
+Genres: Psychological, Drama, Magic, Thriller
+Likeness: 91.46939%
+
+Title: Mahou Shoujo Madoka★Magica Movie 1: Hajimari no Monogatari
+Type: Movie
+Genres: Drama, Magic, Psychological, Thriller
+Likeness: 91.46939%
+
+Title: Slayers Next
+Type: TV
+Genres: Adventure, Comedy, Demons, Magic, Fantasy
+Likeness: 91.03868%
+
+Title: Gintama: Yorinuki Gintama-san on Theater 2D
+Type: Movie
+Genres: Action, Sci-Fi, Comedy, Historical, Parody, Samurai, Shounen
+Likeness: 89.85585%
+
+Title: Gintama Movie: Shinyaku Benizakura-hen
+Type: Movie
+Genres: Action, Sci-Fi, Comedy, Historical, Parody, Samurai, Shounen
+Likeness: 89.85585%
+
+Title: Kimi no Na wa.
+Type: Movie
+Genres: Supernatural, Drama, Romance, School
+Likeness: 89.82615%
+
+Title: Fullmetal Alchemist: Brotherhood
+Type: TV
+Genres: Action, Military, Adventure, Drama, Magic, Fantasy, Shounen
+Likeness: 89.76819%
+
+Title: Koe no Katachi
+Type: Movie
+Genres: Drama, School, Shounen
+Likeness: 89.37294%
+
+Title: Tengen Toppa Gurren Lagann
+Type: TV
+Genres: Action, Adventure, Comedy, Mecha, Sci-Fi
+Likeness: 89.07392%```
+30 Apr 2017 02:14:11 : LimitlessMc, botchat, Wertfuzzy77#0274, 98% matc
+30 Apr 2017 02:14:12 : LimitlessMc, botchat, Wertfuzzy77#0274, gg
+30 Apr 2017 02:14:45 : LimitlessMc, botchat, Crystal4209#4698, I haven't even seen the anime xD
+30 Apr 2017 02:14:58 : LimitlessMc, botchat, Crystal4209#4698, Gonna have to watch the anime before the movie
+30 Apr 2017 02:15:13 : LimitlessMc, botchat, Wertfuzzy77#0274, let me set it to just TV then 😛
+30 Apr 2017 02:15:41 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+>>> print(recommendAnimes("Crystal", nice_print = True, recommend_types = ['TV']))
+New Analyzer
+New Analyzer
+Title: Slayers Next
+Type: TV
+Genres: Adventure, Comedy, Demons, Magic, Fantasy
+Likeness: 91.03868%
+
+Title: Fullmetal Alchemist: Brotherhood
+Type: TV
+Genres: Action, Military, Adventure, Drama, Magic, Fantasy, Shounen
+Likeness: 89.76819%
+
+Title: Trigun
+Type: TV
+Genres: Action, Sci-Fi, Comedy
+Likeness: 89.5965%
+
+Title: Tengen Toppa Gurren Lagann
+Type: TV
+Genres: Action, Adventure, Comedy, Mecha, Sci-Fi
+Likeness: 89.07392%
+
+Title: Re:Zero kara Hajimeru Isekai Seikatsu
+Type: TV
+Genres: Psychological, Drama, Thriller, Fantasy
+Likeness: 88.89888%
+
+Title: Tentai Senshi Sunred 2nd Season
+Type: TV
+Genres: Comedy, Parody, Seinen, Super Power
+Likeness: 88.74338%
+
+Title: Toaru Kagaku no Railgun S
+Type: TV
+Genres: Action, Sci-Fi, Super Power
+Likeness: 87.92858%
+
+Title: Samurai Champloo
+Type: TV
+Genres: Action, Adventure, Comedy, Historical, Samurai, Shounen
+Likeness: 87.84479%
+
+Title: Magi: The Kingdom of Magic
+Type: TV
+Genres: Action, Adventure, Fantasy, Magic, Shounen
+Likeness: 87.50606%
+
+Title: D.Gray-man
+Type: TV
+Genres: Action, Adventure, Comedy, Shounen
+Likeness: 87.467%```
+30 Apr 2017 02:16:08 : LimitlessMc, botchat, Wertfuzzy77#0274, <Tentai Senshi Sunred 2nd Season>
+30 Apr 2017 02:16:13 : LimitlessMc, botchat, Botfuzzy77#2209, **Tentai Senshi Sunred 2nd Season**
+Link: https://myanimelist.net/anime/6582
+**Episodes**: 26
+**Status**: Finished Airing
+**Rating**: 8.06 (by 2,262 users)
+30 Apr 2017 02:19:21 : LimitlessMc, botchat, ssj4blake#1490, ;server
+30 Apr 2017 02:19:22 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+30 Apr 2017 02:19:22 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 10 players out of 150
+ *Ping*: 114.224 ms
+ *MC Version*: 1.10.2
+30 Apr 2017 02:19:22 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.3
+30 Apr 2017 02:19:22 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *razar_sly12, Luna_Eclipse123, RetroGamer05, FearlessFalconX, darthkota98, Dragoninecraft, Feitor, Dasherstrike, Fiodor, Bakafish...*
+30 Apr 2017 02:21:17 : LimitlessMc, botchat, Crystal4209#4698, Looks very sketchy
+30 Apr 2017 02:23:23 : LimitlessMc, botchat, Crystal4209#4698, <samurai champloo>
+30 Apr 2017 02:23:26 : LimitlessMc, botchat, Botfuzzy77#2209, **Samurai Champloo**
+Link: https://myanimelist.net/anime/205
+**Episodes**: 26
+**Status**: Finished Airing
+**Rating**: 8.50 (by 244,030 users)
+30 Apr 2017 02:25:30 : LimitlessMc, botchat, Crystal4209#4698, Interesting
+30 Apr 2017 02:27:41 : LimitlessMc, botchat, Crystal4209#4698, <re:zero Kara hajimeru isekai seikatsu>
+30 Apr 2017 02:32:14 : None, Direct Message with TherminatorX, TherminatorX#6644, 
+30 Apr 2017 02:39:15 : None, Direct Message with TherminatorX, TherminatorX#6644, 
+30 Apr 2017 02:49:28 : Cipher, cala, Calamariela#4119, weeb
+30 Apr 2017 02:49:35 : Cipher, cala, Wertfuzzy77#0274, hai xD
+30 Apr 2017 02:50:11 : Cipher, cala, Wertfuzzy77#0274, whats up 😛
+30 Apr 2017 02:53:39 : Cipher, cala, Wertfuzzy77#0274, nub
+30 Apr 2017 02:53:47 : Cipher, cala, Wertfuzzy77#0274, says weeb and then logs off xD
+30 Apr 2017 02:56:42 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, 
+30 Apr 2017 02:57:02 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, im adding more
+30 Apr 2017 02:58:06 : LimitlessMc, botchat, TherminatorX#6644, ;train
+30 Apr 2017 02:58:10 : LimitlessMc, botchat, Botfuzzy77#2209, 
+30 Apr 2017 02:58:13 : LimitlessMc, botchat, Botfuzzy77#2209, 
+30 Apr 2017 03:03:48 : LimitlessMc, botchat, B3TAMAN#5712, ;train
+30 Apr 2017 03:03:51 : LimitlessMc, botchat, Botfuzzy77#2209, 
+30 Apr 2017 03:03:52 : LimitlessMc, botchat, Botfuzzy77#2209, 
+30 Apr 2017 03:15:58 : None, Direct Message with TherminatorX, TherminatorX#6644, 
+30 Apr 2017 03:18:44 : LimitlessMc, mainchat, (Not Really)Head Mod AlphaBit#3869, reee
+30 Apr 2017 03:21:41 : LimitlessMc, botchat, TherminatorX#6644, ;pbs
+30 Apr 2017 03:21:41 : LimitlessMc, botchat, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> hard to fight and reveal the boss.
+30 Apr 2017 03:21:46 : LimitlessMc, botchat, TherminatorX#6644, ;pbt bbbbbbbbbb
+30 Apr 2017 03:22:50 : LimitlessMc, botchat, Wertfuzzy77#0274, thats unfortunate
+30 Apr 2017 03:23:36 : LimitlessMc, botchat, (Not Really)Head Mod AlphaBit#3869, rip
+30 Apr 2017 03:24:11 : RooberBoobers, kinkyrubiestalk, navy#8336, 
+30 Apr 2017 03:24:13 : LimitlessMc, botchat, Crystal4209#4698, ;train
+30 Apr 2017 03:24:16 : LimitlessMc, botchat, Botfuzzy77#2209, 
+30 Apr 2017 03:24:18 : LimitlessMc, botchat, Botfuzzy77#2209, 
+30 Apr 2017 03:24:36 : LimitlessMc, botchat, (Not Really)Head Mod AlphaBit#3869, ;train
+30 Apr 2017 03:24:38 : LimitlessMc, botchat, Botfuzzy77#2209, 
+30 Apr 2017 03:24:40 : LimitlessMc, botchat, Botfuzzy77#2209, 
+30 Apr 2017 03:24:43 : LimitlessMc, botchat, (Not Really)Head Mod AlphaBit#3869, ;level
+30 Apr 2017 03:24:46 : LimitlessMc, botchat, Botfuzzy77#2209, 
+30 Apr 2017 03:25:01 : LimitlessMc, botchat, Crystal4209#4698, ;level
+30 Apr 2017 03:25:06 : LimitlessMc, botchat, Botfuzzy77#2209, 
+30 Apr 2017 03:25:22 : LimitlessMc, botchat, (Not Really)Head Mod AlphaBit#3869, ;hrp
+30 Apr 2017 03:25:25 : LimitlessMc, botchat, (Not Really)Head Mod AlphaBit#3869, ;hep
+30 Apr 2017 03:25:25 : LimitlessMc, botchat, Botfuzzy77#2209, Dont Be Lazy, Type ;help
+30 Apr 2017 03:26:11 : LimitlessMc, botchat, (Not Really)Head Mod AlphaBit#3869, ;ranking
+30 Apr 2017 03:26:14 : LimitlessMc, botchat, Botfuzzy77#2209, 
+30 Apr 2017 03:26:38 : LimitlessMc, botchat, (Not Really)Head Mod AlphaBit#3869, ;pbs
+30 Apr 2017 03:26:38 : LimitlessMc, botchat, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> medium to fight and reveal the boss.
+30 Apr 2017 03:26:45 : LimitlessMc, botchat, (Not Really)Head Mod AlphaBit#3869, ;pokebattle GGGGGGGG
+30 Apr 2017 03:26:52 : LimitlessMc, botchat, (Not Really)Head Mod AlphaBit#3869, notlikethis
+30 Apr 2017 03:28:08 : RooberBoobers, kinkydrawings, Bill Nye the Nazi Spy#4053, nah u good
+30 Apr 2017 03:30:30 : RooberBoobers, lewdie, navy#8336, i look at eyeball and think "d,amn id Smash that like butt on "
+then i see Steven and. smol child. i wouldnt lov him as much as eyeball, hes so young and he is a Baby
+and yet im younger than stebo so uh
+30 Apr 2017 03:32:08 : LimitlessMc, botchat, Bakafish#8693, ;train
+30 Apr 2017 03:32:10 : LimitlessMc, botchat, Botfuzzy77#2209, 
+30 Apr 2017 03:32:12 : LimitlessMc, botchat, Botfuzzy77#2209, 
+30 Apr 2017 03:35:27 : OblivionEvolved, bots, StubbyMuffins#1053, ;playlist Stubby
+30 Apr 2017 03:35:36 : OblivionEvolved, bots, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+30 Apr 2017 03:46:03 : RooberBoobers, kinkydrawings, navy#8336, im gay
+30 Apr 2017 03:49:34 : LimitlessMc, voice-junk, Lastshadow#5809, ;train
+30 Apr 2017 03:49:37 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+30 Apr 2017 03:49:40 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+30 Apr 2017 03:51:04 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;pbs
+30 Apr 2017 03:51:04 : LimitlessMc, botchat, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> easy to fight and reveal the boss.
+30 Apr 2017 03:51:37 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;cd
+30 Apr 2017 03:51:37 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You can Train right now!
+**Gamble**
+You can Gamble right now!
+30 Apr 2017 03:51:42 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;train
+30 Apr 2017 03:51:45 : LimitlessMc, botchat, Botfuzzy77#2209, 
+30 Apr 2017 03:51:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+30 Apr 2017 03:51:58 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;pokebattle wwwww
+30 Apr 2017 03:52:02 : LimitlessMc, botchat, Botfuzzy77#2209, 
+30 Apr 2017 03:52:04 : LimitlessMc, botchat, Botfuzzy77#2209, 
+30 Apr 2017 03:52:09 : LimitlessMc, botchat, (Not Really)Head Mod AlphaBit#3869, ;pb gggggggg
+30 Apr 2017 03:52:14 : LimitlessMc, botchat, (Not Really)Head Mod AlphaBit#3869, notlikethis
+30 Apr 2017 03:52:21 : LimitlessMc, botchat, (Not Really)Head Mod AlphaBit#3869, ;pb
+30 Apr 2017 03:52:21 : LimitlessMc, botchat, Botfuzzy77#2209, Please use a Combination of **8** Types. `;types`
+30 Apr 2017 03:59:27 : LimitlessMc, mainchat, Crystal4209#4698, Saaaam go to bed @Third_Worm
+30 Apr 2017 04:01:21 : LimitlessMc, botchat, Crystal4209#4698, ;train
+30 Apr 2017 04:01:24 : LimitlessMc, botchat, Botfuzzy77#2209, 
+30 Apr 2017 04:01:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+30 Apr 2017 04:02:49 : LimitlessMc, botchat, TherminatorX#6644, ;pb bbbbbbbbbb
+30 Apr 2017 04:03:05 : LimitlessMc, botchat, TherminatorX#6644, ;pokebattle bbbbbbbbbb
+30 Apr 2017 04:03:22 : LimitlessMc, botchat, TherminatorX#6644, @Wertfuzzy77
+30 Apr 2017 04:03:29 : LimitlessMc, botchat, TherminatorX#6644, hep
+30 Apr 2017 04:03:54 : LimitlessMc, botchat, TherminatorX#6644, ;pbs
+30 Apr 2017 04:06:03 : LimitlessMc, mainchat, TherminatorX#6644, Wert, what are my most used words?

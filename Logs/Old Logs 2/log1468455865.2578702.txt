@@ -1,0 +1,18 @@
+14 Jul 2016 00:24:31 : Cipher , Wertfuzzy77#0274 , ;join
+14 Jul 2016 00:24:37 : Cipher , Wertfuzzy77#0274 , ;youtube https://www.youtube.com/watch?v=6JCLY0Rlx6Q
+14 Jul 2016 00:25:24 : Cipher , Wertfuzzy77#0274 , ;help StaffCmds
+14 Jul 2016 00:25:24 : Cipher , Botfuzzy77#2209 , ```
+Commands:
+  unmute      
+  mute        
+  unmuteall   Unmutes ALL muted players
+  tempmute    
+  mutelist    
+  cmd         Returns the Given W/E Cmd (Only Usable by Wertfuzzy77)
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+14 Jul 2016 00:25:31 : Cipher , Wertfuzzy77#0274 , ;reload
+14 Jul 2016 00:26:07 : Cipher , Wertfuzzy77#0274 , ;relog
+14 Jul 2016 00:26:08 : Cipher , Botfuzzy77#2209 , Relogging...

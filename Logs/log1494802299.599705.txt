@@ -1,0 +1,1036 @@
+14 May 2017 22:51:41 : LimitlessMc, botchat, Lightning#6734, but is smol fix i need to adjust
+14 May 2017 22:51:52 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+14 May 2017 22:51:57 : LimitlessMc, botchat, Wertfuzzy77#0274, hmmm
+14 May 2017 22:52:02 : LimitlessMc, botchat, Wertfuzzy77#0274, giving me some read error
+14 May 2017 22:52:15 : LimitlessMc, botchat, Lightning#6734, w8 is it same as mine?
+14 May 2017 22:52:18 : LimitlessMc, botchat, Lightning#6734, .level
+14 May 2017 22:52:23 : LimitlessMc, botchat, Wertfuzzy77#0274, something about the avatar
+14 May 2017 22:52:59 : LimitlessMc, botchat, Lightning#6734, mine has no object attribute 'read'
+14 May 2017 22:53:53 : LimitlessMc, botchat, Wertfuzzy77#0274, same
+14 May 2017 22:54:03 : LimitlessMc, botchat, Wertfuzzy77#0274, I think thats a discord error tho
+14 May 2017 22:54:06 : LimitlessMc, botchat, Wertfuzzy77#0274, cause I had it before
+14 May 2017 22:54:09 : LimitlessMc, botchat, Wertfuzzy77#0274, and it fixed itself
+14 May 2017 22:54:13 : LimitlessMc, botchat, Lightning#6734, w8
+14 May 2017 22:54:27 : LimitlessMc, botchat, Lightning#6734, has error in levelHelper.py
+14 May 2017 22:54:39 : LimitlessMc, mainchat, Third_Worm#4804, Mornin
+14 May 2017 22:54:40 : LimitlessMc, botchat, Lightning#6734, line 99 getLevelCard
+14 May 2017 22:55:23 : LimitlessMc, botchat, Lightning#6734, .train
+14 May 2017 22:55:25 : LimitlessMc, botchat, LightBot#4090, 
+14 May 2017 22:55:27 : LimitlessMc, botchat, LightBot#4090, 
+14 May 2017 22:56:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+14 May 2017 22:57:08 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug ctx.message.author.avatar_url
+14 May 2017 22:57:08 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+https://cdn.discordapp.com/avatars/134441036905840640/d53d43fbfe4e946115cfc8faa0db7252.webp?size=1024
+```
+14 May 2017 22:57:12 : LimitlessMc, botchat, Wertfuzzy77#0274, https://cdn.discordapp.com/avatars/134441036905840640/d53d43fbfe4e946115cfc8faa0db7252.webp?size=1024
+14 May 2017 22:57:53 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug Image.open("https://cdn.discordapp.com/avatars/134441036905840640/d53d43fbfe4e946115cfc8faa0db7252.webp?size=1024")
+14 May 2017 22:57:53 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+FileNotFoundError: [Errno 2] No such file or directory: 'https://cdn.discordapp.com/avatars/134441036905840640/d53d43fbfe4e946115cfc8faa0db7252.webp?size=1024'
+```
+14 May 2017 22:57:58 : LimitlessMc, mainchat, Crystal4209#4698, Grandparents stayed the night ;-;
+14 May 2017 22:58:42 : memes, general, Void#8062, https://tenor.co/ukdq.gif
+14 May 2017 22:58:42 : LimitlessMc, mainchat, Third_Worm#4804, Oh dang, le, How are you?
+14 May 2017 22:59:12 : LimitlessMc, mainchat, Crystal4209#4698, Hm alright
+14 May 2017 22:59:33 : LimitlessMc, mainchat, Third_Worm#4804, Ah, My Dad is goin to Ohio for the entire week
+14 May 2017 22:59:39 : LimitlessMc, mainchat, Crystal4209#4698, Ooo
+14 May 2017 22:59:47 : LimitlessMc, mainchat, Third_Worm#4804, Just me and mom and doggo Bandit
+14 May 2017 22:59:54 : LimitlessMc, mainchat, Third_Worm#4804, and a tiny bit of money
+14 May 2017 22:59:54 : LimitlessMc, mainchat, Crystal4209#4698, doggo!
+14 May 2017 22:59:55 : LimitlessMc, mainchat, Third_Worm#4804, lol
+14 May 2017 22:59:58 : LimitlessMc, mainchat, Third_Worm#4804, doggo!
+14 May 2017 22:59:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug Image.open(requests.get("https://cdn.discordapp.com/avatars/134441036905840640/d53d43fbfe4e946115cfc8faa0db7252.webp?size=1024"))
+14 May 2017 22:59:59 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+AttributeError: 'Response' object has no attribute 'read'
+```
+14 May 2017 23:00:22 : LimitlessMc, mainchat, Crystal4209#4698, Sounds like fun I think
+14 May 2017 23:00:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+14 May 2017 23:01:22 : LimitlessMc, voice-junk, Third_Worm#4804, le
+14 May 2017 23:05:21 : LimitlessMc, voice-junk, Crystal4209#4698, http://imgur.com/a/pR3yo  HAHAH omg lol
+14 May 2017 23:06:05 : LimitlessMc, botchat, Crystal4209#4698, ;train
+14 May 2017 23:06:07 : LimitlessMc, botchat, Botfuzzy77#2209, 
+14 May 2017 23:06:09 : LimitlessMc, botchat, Botfuzzy77#2209, 
+14 May 2017 23:06:58 : LimitlessMc, botchat, Crystal4209#4698, @Wertfuzzy77 so when are you going home?
+14 May 2017 23:18:37 : memes, general, Mal#8419, 
+14 May 2017 23:21:47 : LimitlessMc, botchat, Crystal4209#4698, ;join
+14 May 2017 23:21:48 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+14 May 2017 23:22:09 : LimitlessMc, botchat, Crystal4209#4698, ;search azuras dance and song
+14 May 2017 23:22:11 : LimitlessMc, botchat, Botfuzzy77#2209, Added "Azura/Aqua's Dance (Nohr)" (Full Extended Song Cover // Fire Emblem Fates) (Adriana Figueroa) to the queue
+14 May 2017 23:22:11 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=7VxoHCPD4C0
+14 May 2017 23:22:29 : LimitlessMc, botchat, Crystal4209#4698, ;skip
+14 May 2017 23:22:30 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping "Azura/Aqua's Dance (Nohr)" (Full Extended Song Cover // Fire Emblem Fates) (Adriana Figueroa) by request of the requester
+14 May 2017 23:22:42 : LimitlessMc, botchat, Crystal4209#4698, ;search azuras dance and song English
+14 May 2017 23:22:44 : LimitlessMc, botchat, Botfuzzy77#2209, Added Fire Emblem Fates - Azura's Dance Cutscenes - Real HD@60FPS (English+Japanese) to the queue
+14 May 2017 23:22:44 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=fBFWOEdxd_c
+14 May 2017 23:23:01 : LimitlessMc, botchat, Crystal4209#4698, Eh works for me
+14 May 2017 23:26:27 : LimitlessMc, botchat, Crystal4209#4698, ;skip
+14 May 2017 23:26:27 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Fire Emblem Fates - Azura's Dance Cutscenes - Real HD@60FPS (English+Japanese) by request of the requester
+14 May 2017 23:26:37 : LimitlessMc, botchat, Crystal4209#4698, ;search Guzman theme
+14 May 2017 23:26:39 : LimitlessMc, botchat, Botfuzzy77#2209, Added Pokemon Sun & Moon -  Team Skull Leader Guzma Battle Music (HQ) to the queue
+14 May 2017 23:26:40 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=REC7daXbjho
+14 May 2017 23:26:49 : LimitlessMc, botchat, Lightning#6734, .join
+14 May 2017 23:26:49 : LimitlessMc, botchat, Crystal4209#4698, ;loop 5
+14 May 2017 23:26:50 : LimitlessMc, botchat, LightBot#4090, Connected channel!
+14 May 2017 23:26:50 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*Pokemon Sun & Moon -  Team Skull Leader Guzma Battle Music (HQ)*' **5** more times
+14 May 2017 23:27:11 : LimitlessMc, botchat, Lightning#6734, .search lifelines
+14 May 2017 23:27:40 : LimitlessMc, botchat, LightBot#4090, Added I Prevail - Lifelines to the queue
+14 May 2017 23:27:40 : LimitlessMc, botchat, LightBot#4090, https://www.youtube.com/watch?v=LPEvojZ_MzI
+14 May 2017 23:27:58 : LimitlessMc, botchat, Crystal4209#4698, Best theme 👌
+14 May 2017 23:28:10 : LimitlessMc, botchat, Lightning#6734, nah
+14 May 2017 23:28:17 : LimitlessMc, botchat, Crystal4209#4698, Yeah
+14 May 2017 23:28:20 : LimitlessMc, botchat, Lightning#6734, nah
+14 May 2017 23:28:23 : LimitlessMc, botchat, Lightning#6734, Aurons theme
+14 May 2017 23:28:27 : LimitlessMc, botchat, Lightning#6734, best theme
+14 May 2017 23:29:38 : LimitlessMc, botchat, Lightning#6734, .search madness all that remains
+14 May 2017 23:29:42 : LimitlessMc, botchat, LightBot#4090, Added All That Remains - Madness (Official Music Video) to the queue
+14 May 2017 23:29:43 : LimitlessMc, botchat, LightBot#4090, https://www.youtube.com/watch?v=qFnE2_pEFJo
+14 May 2017 23:30:05 : LimitlessMc, botchat, Lightning#6734, .search angels fall
+14 May 2017 23:30:10 : LimitlessMc, botchat, LightBot#4090, Added Breaking Benjamin - Angels Fall (Official Video) to the queue
+14 May 2017 23:30:11 : LimitlessMc, botchat, LightBot#4090, https://www.youtube.com/watch?v=9zFfRSeA1ls
+14 May 2017 23:32:43 : LimitlessMc, botchat, Lightning#6734, .leave
+14 May 2017 23:32:44 : LimitlessMc, botchat, LightBot#4090, The Bot isnt connected in this server!
+14 May 2017 23:32:46 : LimitlessMc, botchat, Lightning#6734, .join
+14 May 2017 23:32:47 : LimitlessMc, botchat, LightBot#4090, Connected channel!
+14 May 2017 23:32:50 : LimitlessMc, botchat, Lightning#6734, - ,-
+14 May 2017 23:33:04 : LimitlessMc, botchat, Lightning#6734, .search madness all that remains
+14 May 2017 23:33:07 : LimitlessMc, mainchat, Crystal4209#4698, God damn it, rains heavily when im about to go to my bus stop thanks rain
+14 May 2017 23:33:09 : LimitlessMc, botchat, LightBot#4090, Added All That Remains - Madness (Official Music Video) to the queue
+14 May 2017 23:33:10 : LimitlessMc, botchat, LightBot#4090, https://www.youtube.com/watch?v=qFnE2_pEFJo
+14 May 2017 23:33:28 : LimitlessMc, mainchat, Lightning#6734, rip rain
+14 May 2017 23:34:34 : LimitlessMc, mainchat, Crystal4209#4698, And im cold
+14 May 2017 23:35:35 : LimitlessMc, botchat, TherminatorX#6644, ;train
+14 May 2017 23:35:36 : LimitlessMc, botchat, Botfuzzy77#2209, 
+14 May 2017 23:35:38 : LimitlessMc, botchat, Botfuzzy77#2209, 
+14 May 2017 23:35:50 : LimitlessMc, botchat, Crystal4209#4698, ;train
+14 May 2017 23:35:50 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 18 seconds before you can train again.
+14 May 2017 23:36:43 : LimitlessMc, botchat, Lightning#6734, .search angels fall
+14 May 2017 23:36:46 : LimitlessMc, botchat, LightBot#4090, Added Breaking Benjamin - Angels Fall (Official Video) to the queue
+14 May 2017 23:36:47 : LimitlessMc, botchat, LightBot#4090, https://www.youtube.com/watch?v=9zFfRSeA1ls
+14 May 2017 23:37:01 : LimitlessMc, mainchat, Lightning#6734, rip cold D:
+14 May 2017 23:38:54 : LimitlessMc, mainchat, Crystal4209#4698, And bus was like 3 minutes late xD
+14 May 2017 23:38:58 : LimitlessMc, mainchat, Lightning#6734, xD
+14 May 2017 23:39:20 : LimitlessMc, mainchat, Crystal4209#4698, Im still outside waiting for it l..
+14 May 2017 23:39:28 : LimitlessMc, mainchat, Lightning#6734, :L
+14 May 2017 23:39:38 : LimitlessMc, mainchat, Crystal4209#4698, Now its here yay!
+14 May 2017 23:39:48 : LimitlessMc, mainchat, Lightning#6734, wew #latebus
+14 May 2017 23:41:13 : LimitlessMc, mainchat, Crystal4209#4698, Ah the warmth
+14 May 2017 23:41:44 : LimitlessMc, botchat, Lightning#6734, .search gapra whitewoods
+14 May 2017 23:41:49 : LimitlessMc, botchat, LightBot#4090, Added The Gapra Whitewood - Final Fantasy XIII [OST] to the queue
+14 May 2017 23:41:50 : LimitlessMc, botchat, LightBot#4090, https://www.youtube.com/watch?v=NX94tfBsgcU
+14 May 2017 23:41:50 : LimitlessMc, botchat, Crystal4209#4698, ;songs
+14 May 2017 23:41:52 : LimitlessMc, botchat, Botfuzzy77#2209, 
+14 May 2017 23:42:07 : LimitlessMc, botchat, Lightning#6734, ahh this best vgs
+14 May 2017 23:42:40 : LimitlessMc, botchat, Crystal4209#4698, ;train
+14 May 2017 23:42:42 : LimitlessMc, botchat, Botfuzzy77#2209, 
+14 May 2017 23:42:44 : LimitlessMc, botchat, Botfuzzy77#2209, 
+14 May 2017 23:42:46 : LimitlessMc, botchat, Botfuzzy77#2209, 
+14 May 2017 23:42:46 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+14 May 2017 23:42:48 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I learned that despite having told them two years ago, my parents still aren't accepting of me being gay. I found this out when my mom called and asked if I was "cured" yet. FML*
+14 May 2017 23:42:49 : LimitlessMc, botchat, Lightning#6734, bet
+14 May 2017 23:42:51 : LimitlessMc, botchat, Lightning#6734, .train
+14 May 2017 23:42:53 : LimitlessMc, botchat, LightBot#4090, 
+14 May 2017 23:42:55 : LimitlessMc, botchat, LightBot#4090, 
+14 May 2017 23:43:02 : LimitlessMc, botchat, Crystal4209#4698, Ha
+14 May 2017 23:43:07 : LimitlessMc, botchat, Lightning#6734, .ranking
+14 May 2017 23:43:09 : LimitlessMc, botchat, LightBot#4090, 
+14 May 2017 23:43:18 : LimitlessMc, botchat, Lightning#6734, :L
+14 May 2017 23:43:34 : LimitlessMc, botchat, Crystal4209#4698, Hacks
+14 May 2017 23:43:47 : LimitlessMc, botchat, Lightning#6734, been playing in pm's since i made it work again
+14 May 2017 23:43:57 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+14 May 2017 23:43:58 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I decided to visit my dad. I haven't seen him in a while so I wanted to give him another chance to be an actual dad to me. Apparently, getting drunk and getting it on with his girlfriend while I was there was more important than spending time with his daughter, who he hasn't seen in almost a year. FML*
+14 May 2017 23:44:03 : LimitlessMc, botchat, Lightning#6734, .kys
+14 May 2017 23:44:03 : LimitlessMc, botchat, LightBot#4090, How about... no
+14 May 2017 23:44:11 : LimitlessMc, botchat, Lightning#6734, awh damn she didn't do one of the new ones
+14 May 2017 23:44:34 : LimitlessMc, botchat, Lightning#6734, .kys
+14 May 2017 23:44:35 : LimitlessMc, botchat, LightBot#4090, How about... no
+14 May 2017 23:44:39 : LimitlessMc, botchat, Lightning#6734, .kys
+14 May 2017 23:44:39 : LimitlessMc, botchat, LightBot#4090, Hey Mean!
+14 May 2017 23:44:45 : LimitlessMc, botchat, Lightning#6734, u nub @LightBot
+14 May 2017 23:44:47 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+14 May 2017 23:44:49 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was driving in the left lane and was suddenly hit by a woman who was in the right lane. I ran off the road, taking out a fence and totaling my car. When the cops asked the woman what happened she responded, "My tom-tom told me to turn left." FML*
+14 May 2017 23:45:18 : LimitlessMc, botchat, Lightning#6734, .kys
+14 May 2017 23:45:18 : LimitlessMc, botchat, LightBot#4090, Im Sorry, That goes against my programming
+14 May 2017 23:45:26 : LimitlessMc, botchat, Lightning#6734, .kys
+14 May 2017 23:45:26 : LimitlessMc, botchat, LightBot#4090, Sure, i heard cyanide works wonders
+14 May 2017 23:45:30 : LimitlessMc, botchat, Lightning#6734, HA
+14 May 2017 23:45:47 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+14 May 2017 23:45:49 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, after handing out several résumés for several jobs, I realized that I forgot to add my phone number to them. FML*
+14 May 2017 23:45:58 : LimitlessMc, botchat, Lightning#6734, LOL
+14 May 2017 23:46:02 : LimitlessMc, botchat, Crystal4209#4698, XD
+14 May 2017 23:46:09 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+14 May 2017 23:46:10 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, my father informed me that I was born only because my mom lied about being on birth control. FML*
+14 May 2017 23:46:16 : LimitlessMc, botchat, Lightning#6734, ouch
+14 May 2017 23:46:23 : LimitlessMc, botchat, Crystal4209#4698, Thats harsh
+14 May 2017 23:46:27 : LimitlessMc, botchat, Lightning#6734, very
+14 May 2017 23:46:33 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+14 May 2017 23:46:35 : LimitlessMc, botchat, Botfuzzy77#2209, * Today, after staying at my boyfriend's house for the first time, I got in the shower. His bathroom door doesn't lock, so half way through my shower he walked in. Trying to be sexy, I pressed myself up against the glass, which turned out the be a door that opens outwards. I fell on the floor. FML*
+14 May 2017 23:46:49 : LimitlessMc, botchat, Lightning#6734, hahaha
+14 May 2017 23:46:56 : LimitlessMc, botchat, Crystal4209#4698, XD
+14 May 2017 23:47:07 : LimitlessMc, botchat, Lightning#6734, why does that sound like somethin i'd do lul
+14 May 2017 23:47:18 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+14 May 2017 23:47:19 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I witnessed my boyfriend taking a dump in the litter box. He said he wanted to know what it felt like for the cat. FML*
+14 May 2017 23:47:27 : LimitlessMc, botchat, Lightning#6734, ok wut
+14 May 2017 23:47:29 : LimitlessMc, botchat, Crystal4209#4698, Lol
+14 May 2017 23:47:44 : LimitlessMc, botchat, Lightning#6734, i've heard of people being special but that... taht takes the cake
+14 May 2017 23:47:55 : LimitlessMc, botchat, Crystal4209#4698, That does take the cake
+14 May 2017 23:47:58 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+14 May 2017 23:47:59 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was working as a swim instructor for kids. Teaching them not to be afraid of the water, I put my face in the water and blew bubbles. I asked them to try it. All of them did, except for one. I went right to him and blew bubbles again. He then said to me, "but I just peed in that water." FML*
+14 May 2017 23:48:14 : LimitlessMc, botchat, Lightning#6734, EWW
+14 May 2017 23:48:21 : LimitlessMc, botchat, Crystal4209#4698, XD
+14 May 2017 23:48:26 : LimitlessMc, botchat, TherminatorX#6644, ;cd
+14 May 2017 23:48:26 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You need to wait 1,033 seconds
+**Gamble**
+You can Gamble right now!
+14 May 2017 23:48:35 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+14 May 2017 23:48:37 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I showed up to work and my boss was nowhere to be found. A phone call later, I find out he's in Dubai. Oh, and since I'm his personal assistant, I should be able to take care of matters until he gets back. I've only been his assistant for a week. FML*
+14 May 2017 23:48:49 : LimitlessMc, botchat, Lightning#6734, o.O
+14 May 2017 23:49:00 : LimitlessMc, botchat, Crystal4209#4698, Means he trusts you
+14 May 2017 23:49:13 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+14 May 2017 23:49:15 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was petsitting for my neighbor's new puppy. A huge thunderstorm came, and the puppy started whining and shivering violently. I pulled it into my lap to try and comfort it. One loud clap of thunder later, and the puppy had explosive diarrhea all over me. FML*
+14 May 2017 23:49:32 : LimitlessMc, botchat, Crystal4209#4698, Ew
+14 May 2017 23:49:45 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+14 May 2017 23:49:46 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I finally got a job interview, and I thought it went amazing. They were supposed to call me today or tomorrow with the news. Today is also the day that my phone company decided to cut my phone off. FML*
+14 May 2017 23:49:59 : LimitlessMc, botchat, Crystal4209#4698, Sucks
+14 May 2017 23:50:33 : LimitlessMc, botchat, Crystal4209#4698, ;search team skulls theme
+14 May 2017 23:50:35 : LimitlessMc, botchat, Botfuzzy77#2209, Added Pokemon Sun & Moon - Team Skull Encounter Music (HQ) to the queue
+14 May 2017 23:50:36 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=XXe37XCnn-E
+14 May 2017 23:50:47 : LimitlessMc, botchat, Crystal4209#4698, ;songs
+14 May 2017 23:50:49 : LimitlessMc, botchat, Botfuzzy77#2209, 
+14 May 2017 23:50:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;fml
+14 May 2017 23:50:56 : LimitlessMc, botchat, Crystal4209#4698, ;skip
+14 May 2017 23:50:57 : LimitlessMc, botchat, Botfuzzy77#2209, * Today, my cats found my box of condoms. This is the third one they've chewed up. The worst part? They've gotten more use out of them in the last two months than I have. FML*
+14 May 2017 23:50:57 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Pokemon Sun & Moon -  Team Skull Leader Guzma Battle Music (HQ) by request of the requester
+14 May 2017 23:51:09 : LimitlessMc, botchat, Crystal4209#4698, Ha
+14 May 2017 23:51:11 : LimitlessMc, botchat, Lightning#6734, lullll
+14 May 2017 23:51:16 : LimitlessMc, botchat, Wertfuzzy77#0274, ;fml
+14 May 2017 23:51:18 : LimitlessMc, botchat, Crystal4209#4698, ;skip
+14 May 2017 23:51:18 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, it was my 17th birthday. I didn't want my family to spend money on a cake, so my dad made this delicious apple ring. At least, it was great until my mouth began to itch and my throat closed. I have been allergic to nuts since birth, and my dad put walnuts in my birthday cake. FML*
+14 May 2017 23:51:18 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Pokemon Sun & Moon - Team Skull Encounter Music (HQ) by request of the requester
+14 May 2017 23:51:25 : LimitlessMc, botchat, Crystal4209#4698, ;search pity party
+14 May 2017 23:51:26 : LimitlessMc, botchat, Botfuzzy77#2209, Added Melanie Martinez - Pity Party (Official Video) to the queue
+14 May 2017 23:51:26 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=6bAPlojfgO0
+14 May 2017 23:51:39 : LimitlessMc, botchat, Lightning#6734, ouch walnuts in cake
+14 May 2017 23:51:46 : LimitlessMc, botchat, Crystal4209#4698, Rip
+14 May 2017 23:51:51 : LimitlessMc, botchat, Wertfuzzy77#0274, who even likes walnuts
+14 May 2017 23:51:52 : LimitlessMc, botchat, Wertfuzzy77#0274, ;fml
+14 May 2017 23:51:54 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I got up on stage excited to recite a spoken word piece that I worked on and memorized for about 20 hours, neglecting other obligations like studying for an exam the next day. I blanked out in the middle of the performance in front of hundreds of people. FML*
+14 May 2017 23:51:54 : LimitlessMc, botchat, Crystal4209#4698, ;recommend
+14 May 2017 23:51:54 : LimitlessMc, botchat, Botfuzzy77#2209, Recommend Songs to play: True
+14 May 2017 23:52:05 : LimitlessMc, botchat, Wertfuzzy77#0274, gj
+14 May 2017 23:52:07 : LimitlessMc, botchat, Wertfuzzy77#0274, ;music
+14 May 2017 23:52:09 : LimitlessMc, botchat, Botfuzzy77#2209, 
+14 May 2017 23:52:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;musicdebug len(self.ServerPlayers)
+14 May 2017 23:52:30 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+AttributeError: 'MusicPlayer' object has no attribute 'ServerPlayers'
+```
+14 May 2017 23:52:33 : LimitlessMc, botchat, Wertfuzzy77#0274, hmmmm
+14 May 2017 23:52:39 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+14 May 2017 23:52:40 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was leaving my doctor's appointment when a nurse stopped me. She exclaimed, "Wow you are so skinny! What's your secret?" My secret? Having an autoimmune disease. FML*
+14 May 2017 23:52:55 : LimitlessMc, botchat, Crystal4209#4698, Ouch
+14 May 2017 23:53:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;musicdebug len(self.serverPlayers)
+14 May 2017 23:53:02 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+1
+```
+14 May 2017 23:53:05 : LimitlessMc, botchat, Wertfuzzy77#0274, 1
+14 May 2017 23:53:05 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+14 May 2017 23:53:10 : LimitlessMc, botchat, Wertfuzzy77#0274, only 1 person playing music
+14 May 2017 23:53:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ;musicdebug [x for x in self.serverPlayers]
+14 May 2017 23:53:25 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+['148202028244402176']
+```
+14 May 2017 23:53:28 : LimitlessMc, botchat, Wertfuzzy77#0274, hmmm
+14 May 2017 23:53:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ;musicdebug [x for x in self.serverPlayers.values()]
+14 May 2017 23:53:37 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+[<Modules.Music.ServerPlayer object at 0x7fe8a4107ef0>]
+```
+14 May 2017 23:53:39 : LimitlessMc, botchat, Wertfuzzy77#0274, hmmmmmmmmmmmm
+14 May 2017 23:53:52 : LimitlessMc, botchat, Wertfuzzy77#0274, ;musicdebug self.bot.say([x for x in self.serverPlayers.values()])
+14 May 2017 23:53:52 : LimitlessMc, botchat, Botfuzzy77#2209, [<Modules.Music.ServerPlayer object at 0x7fe8a4107ef0>]
+14 May 2017 23:53:52 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7fe88cb57300>
+```
+14 May 2017 23:53:56 : LimitlessMc, botchat, Wertfuzzy77#0274, hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+14 May 2017 23:54:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;musicdebug self.bot.say([x for x in self.serverPlayers.values()][0])
+14 May 2017 23:54:03 : LimitlessMc, botchat, Botfuzzy77#2209, Connected Channel: 🎧 Fuzzy Music
+Queue Length: 5
+**Auto Recommend Songs Enabled**
+ - Songs will be automatically added based off of the current playing song.
+14 May 2017 23:54:03 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7fe88cb57788>
+```
+14 May 2017 23:54:03 : LimitlessMc, botchat, Lightning#6734, many hmm's today
+14 May 2017 23:54:05 : LimitlessMc, botchat, Wertfuzzy77#0274, o
+14 May 2017 23:54:07 : LimitlessMc, botchat, Wertfuzzy77#0274, there we go
+14 May 2017 23:54:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;musicdebug self.bot.say([x for x in self.serverPlayers.values()][1])
+14 May 2017 23:54:11 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+IndexError: list index out of range
+```
+14 May 2017 23:54:15 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+14 May 2017 23:54:20 : LimitlessMc, botchat, Wertfuzzy77#0274, don't know what I expected
+14 May 2017 23:54:27 : LimitlessMc, botchat, Lightning#6734, cake?
+14 May 2017 23:54:43 : LimitlessMc, botchat, Wertfuzzy77#0274, 🍰
+14 May 2017 23:54:53 : LimitlessMc, botchat, Lightning#6734, .search painkiller
+14 May 2017 23:54:56 : LimitlessMc, botchat, LightBot#4090, Added Judas Priest - Painkiller to the queue
+14 May 2017 23:54:56 : LimitlessMc, botchat, LightBot#4090, https://www.youtube.com/watch?v=nM__lPTWThU
+14 May 2017 23:55:03 : LimitlessMc, botchat, Lightning#6734, wrong one but okey
+14 May 2017 23:55:22 : LimitlessMc, botchat, Crystal4209#4698, Wow a kid just said merry Christmas to me when i got off the bus
+14 May 2017 23:55:28 : LimitlessMc, botchat, Lightning#6734, wut lol
+14 May 2017 23:55:46 : LimitlessMc, botchat, Wertfuzzy77#0274, *merry christmas*
+14 May 2017 23:55:52 : LimitlessMc, botchat, Crystal4209#4698, Idk but hes gettjng the wrong holiday
+14 May 2017 23:55:56 : LimitlessMc, botchat, Lightning#6734, o crys
+14 May 2017 23:55:59 : LimitlessMc, botchat, Lightning#6734, cryssss
+14 May 2017 23:56:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;likes merry christmas
+14 May 2017 23:56:02 : LimitlessMc, botchat, Botfuzzy77#2209, :thumbsup: *Wertfuzzy77 Likes merry christmas* :thumbsup:
+14 May 2017 23:56:08 : LimitlessMc, botchat, Crystal4209#4698, Ye?
+14 May 2017 23:56:18 : LimitlessMc, botchat, Lightning#6734, try .marry @Third_Worm
+14 May 2017 23:56:24 : LimitlessMc, botchat, Lightning#6734, may be capital M tho
+14 May 2017 23:56:32 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+14 May 2017 23:56:35 : LimitlessMc, botchat, Crystal4209#4698, .Marry @Third_Worm
+14 May 2017 23:56:35 : LimitlessMc, botchat, LightBot#4090, :ring: *Crystal4209 Married @Third_Worm* :ring:
+14 May 2017 23:56:35 : LimitlessMc, botchat, LightBot#4090, You may now kiss the bride!
+14 May 2017 23:56:40 : LimitlessMc, botchat, Lightning#6734, woo
+14 May 2017 23:56:47 : LimitlessMc, botchat, Crystal4209#4698, .Kiss @Third_Worm
+14 May 2017 23:56:47 : LimitlessMc, botchat, Wertfuzzy77#0274, the fact that its 2 messages annoys me
+14 May 2017 23:56:53 : LimitlessMc, botchat, Crystal4209#4698, Dam
+14 May 2017 23:56:54 : LimitlessMc, botchat, Wertfuzzy77#0274, not capital k
+14 May 2017 23:56:54 : LimitlessMc, botchat, Lightning#6734, kiss is no cap
+14 May 2017 23:56:57 : LimitlessMc, botchat, Wertfuzzy77#0274, only marry
+14 May 2017 23:57:00 : LimitlessMc, botchat, Wertfuzzy77#0274, cause he coded that one
+14 May 2017 23:57:01 : LimitlessMc, botchat, Lightning#6734, fixing marry rn
+14 May 2017 23:57:04 : LimitlessMc, botchat, Wertfuzzy77#0274, I did the others 😛
+14 May 2017 23:57:06 : LimitlessMc, botchat, Crystal4209#4698, .kiss @Third_Worm
+14 May 2017 23:57:06 : LimitlessMc, botchat, LightBot#4090, :heart: *Crystal4209 Kissed @Third_Worm* :heart:
+14 May 2017 23:57:10 : LimitlessMc, botchat, Lightning#6734, i did more than marry
+14 May 2017 23:57:14 : LimitlessMc, botchat, Wertfuzzy77#0274, bet
+14 May 2017 23:57:18 : LimitlessMc, botchat, Lightning#6734, others are hidden cause i didn't like the outcome
+14 May 2017 23:57:21 : LimitlessMc, botchat, Lightning#6734, sounded better in ma head
+14 May 2017 23:57:24 : LimitlessMc, botchat, Wertfuzzy77#0274, gj
+14 May 2017 23:57:32 : LimitlessMc, botchat, Lightning#6734, like the ehmm finger cmd
+14 May 2017 23:57:33 : LimitlessMc, botchat, Lightning#6734, >_>
+14 May 2017 23:57:36 : LimitlessMc, botchat, Wertfuzzy77#0274, ;hates unfinished work
+14 May 2017 23:57:36 : LimitlessMc, botchat, Botfuzzy77#2209, :angry: *Wertfuzzy77 Hates unfinished work* :angry:
+14 May 2017 23:57:36 : LimitlessMc, botchat, Crystal4209#4698, XD
+14 May 2017 23:57:59 : LimitlessMc, botchat, Crystal4209#4698, That finger cmd tho
+14 May 2017 23:58:07 : LimitlessMc, botchat, Lightning#6734, .skip
+14 May 2017 23:58:09 : LimitlessMc, botchat, LightBot#4090, Skipping Judas Priest - Painkiller by request of the requester
+14 May 2017 23:58:12 : LimitlessMc, botchat, Wertfuzzy77#0274, .skip
+14 May 2017 23:58:12 : LimitlessMc, botchat, LightBot#4090, You need to be in the voice channel!
+14 May 2017 23:58:14 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+14 May 2017 23:58:17 : LimitlessMc, botchat, Wertfuzzy77#0274, .shuffle
+14 May 2017 23:58:17 : LimitlessMc, botchat, LightBot#4090, Shuffled songs!
+14 May 2017 23:58:18 : LimitlessMc, botchat, Wertfuzzy77#0274, heh
+14 May 2017 23:58:22 : LimitlessMc, botchat, Wertfuzzy77#0274, .remove 1
+14 May 2017 23:58:22 : LimitlessMc, botchat, LightBot#4090, The Queue isnt that long!
+14 May 2017 23:58:24 : LimitlessMc, botchat, Wertfuzzy77#0274, .remove 0
+14 May 2017 23:58:25 : LimitlessMc, botchat, LightBot#4090, Removed 0 that 0 requested
+14 May 2017 23:58:26 : LimitlessMc, botchat, Lightning#6734, L
+14 May 2017 23:58:27 : LimitlessMc, botchat, Wertfuzzy77#0274, LOL
+14 May 2017 23:58:31 : LimitlessMc, botchat, Wertfuzzy77#0274, old code
+14 May 2017 23:58:31 : LimitlessMc, botchat, Wertfuzzy77#0274, noob
+14 May 2017 23:58:34 : LimitlessMc, botchat, Lightning#6734, only had the one song
+14 May 2017 23:58:39 : LimitlessMc, botchat, Lightning#6734, OLD>?
+14 May 2017 23:58:43 : LimitlessMc, botchat, Wertfuzzy77#0274, si old
+14 May 2017 23:58:47 : LimitlessMc, botchat, Crystal4209#4698, Send warmth
+14 May 2017 23:58:48 : LimitlessMc, botchat, Lightning#6734, ITS the one YOU have on git
+14 May 2017 23:58:48 : LimitlessMc, botchat, Wertfuzzy77#0274, it should say queue isnt tthat long
+14 May 2017 23:58:49 : LimitlessMc, botchat, Lightning#6734, ya wank
+14 May 2017 23:58:50 : LimitlessMc, botchat, Crystal4209#4698, To cold
+14 May 2017 23:58:51 : LimitlessMc, botchat, Wertfuzzy77#0274, rly
+14 May 2017 23:58:53 : LimitlessMc, botchat, Wertfuzzy77#0274, ?
+14 May 2017 23:58:55 : LimitlessMc, botchat, Wertfuzzy77#0274, wat
+14 May 2017 23:58:56 : LimitlessMc, botchat, Lightning#6734, ye
+14 May 2017 23:58:57 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+14 May 2017 23:58:59 : LimitlessMc, botchat, Botfuzzy77#2209, 
+14 May 2017 23:59:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 0
+14 May 2017 23:59:05 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: Melanie Martinez - Pity Party (Official Video)
+14 May 2017 23:59:09 : LimitlessMc, botchat, Crystal4209#4698, Damn it showing my secret
+14 May 2017 23:59:10 : LimitlessMc, botchat, Wertfuzzy77#0274, hmm, mine works tho
+14 May 2017 23:59:19 : LimitlessMc, botchat, Lightning#6734, .songs
+14 May 2017 23:59:22 : LimitlessMc, botchat, LightBot#4090, 
+14 May 2017 23:59:26 : LimitlessMc, botchat, Wertfuzzy77#0274, lol
+14 May 2017 23:59:27 : LimitlessMc, botchat, Wertfuzzy77#0274, it has ;
+14 May 2017 23:59:29 : LimitlessMc, botchat, Wertfuzzy77#0274, gj
+14 May 2017 23:59:30 : LimitlessMc, botchat, Wertfuzzy77#0274, you potato
+14 May 2017 23:59:32 : LimitlessMc, botchat, Lightning#6734, ik
+14 May 2017 23:59:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search something random
+14 May 2017 23:59:40 : LimitlessMc, botchat, Botfuzzy77#2209, You need to be in the voice channel!
+14 May 2017 23:59:43 : LimitlessMc, botchat, Wertfuzzy77#0274, ........
+14 May 2017 23:59:44 : LimitlessMc, botchat, Wertfuzzy77#0274, woops
+14 May 2017 23:59:46 : LimitlessMc, botchat, Crystal4209#4698, Ha
+14 May 2017 23:59:50 : LimitlessMc, botchat, Lightning#6734, ik
+14 May 2017 23:59:50 : LimitlessMc, botchat, Lightning#6734, i need to fix
+14 May 2017 23:59:54 : LimitlessMc, botchat, Wertfuzzy77#0274, .search something random
+15 May 2017 00:00:04 : LimitlessMc, botchat, Wertfuzzy77#0274, 🤔
+15 May 2017 00:00:08 : LimitlessMc, botchat, LightBot#4090, Added Funny cats scared of random things - Funny cats compilation to the queue
+15 May 2017 00:00:09 : LimitlessMc, botchat, LightBot#4090, https://www.youtube.com/watch?v=1Kl4rNUTWCA
+15 May 2017 00:00:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;likes 🤔
+15 May 2017 00:00:11 : LimitlessMc, botchat, Botfuzzy77#2209, :thumbsup: *Wertfuzzy77 Likes 🤔* :thumbsup:
+15 May 2017 00:00:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ;loop
+15 May 2017 00:00:15 : LimitlessMc, botchat, Botfuzzy77#2209, You need to be in the voice channel!
+15 May 2017 00:00:16 : LimitlessMc, botchat, Crystal4209#4698, Lol
+15 May 2017 00:00:17 : LimitlessMc, botchat, Wertfuzzy77#0274, .loop
+15 May 2017 00:00:22 : LimitlessMc, botchat, Wertfuzzy77#0274, so slowwwwww
+15 May 2017 00:00:26 : LimitlessMc, botchat, LightBot#4090, Added '*Funny cats scared of random things - Funny cats compilation*' **1** more times
+15 May 2017 00:00:29 : LimitlessMc, botchat, Wertfuzzy77#0274, .remove 0
+15 May 2017 00:00:29 : LimitlessMc, botchat, Lightning#6734, wut is dis
+15 May 2017 00:00:31 : LimitlessMc, botchat, LightBot#4090, Removed: Funny cats scared of random things - Funny cats compilation
+15 May 2017 00:00:32 : LimitlessMc, botchat, Wertfuzzy77#0274, no idea
+15 May 2017 00:00:33 : LimitlessMc, botchat, Wertfuzzy77#0274, hmmmm
+15 May 2017 00:00:37 : LimitlessMc, botchat, Wertfuzzy77#0274, it works
+15 May 2017 00:00:37 : LimitlessMc, botchat, Lightning#6734, WUT
+15 May 2017 00:00:40 : LimitlessMc, botchat, Wertfuzzy77#0274, just says the wrong thing
+15 May 2017 00:00:42 : LimitlessMc, botchat, Wertfuzzy77#0274, interesting
+15 May 2017 00:00:42 : LimitlessMc, botchat, Lightning#6734, holy shit my ears
+15 May 2017 00:00:49 : LimitlessMc, botchat, Wertfuzzy77#0274, .clear
+15 May 2017 00:00:50 : LimitlessMc, botchat, LightBot#4090, Cleared Queue!
+15 May 2017 00:00:53 : LimitlessMc, botchat, Crystal4209#4698, Glad that wasnt me xD
+15 May 2017 00:01:35 : LimitlessMc, botchat, Lightning#6734, .leave
+15 May 2017 00:01:44 : LimitlessMc, botchat, Lightning#6734, not dis again
+15 May 2017 00:01:53 : LimitlessMc, botchat, Lightning#6734, .leave
+15 May 2017 00:02:06 : LimitlessMc, botchat, Lightning#6734, leeve u shitter
+15 May 2017 00:02:09 : LimitlessMc, botchat, Lightning#6734, .leave
+15 May 2017 00:02:12 : LimitlessMc, botchat, Lightning#6734, .relog
+15 May 2017 00:02:12 : LimitlessMc, botchat, LightBot#4090, Relogging...
+15 May 2017 00:02:14 : LimitlessMc, mainchat, Crystal4209#4698, @Third_Worm oi email me during class i want to talk with you more
+15 May 2017 00:02:27 : LimitlessMc, botchat, Wertfuzzy77#0274, lol
+15 May 2017 00:02:28 : LimitlessMc, botchat, Wertfuzzy77#0274, so slow
+15 May 2017 00:03:11 : LimitlessMc, botchat, Crystal4209#4698, ;song
+15 May 2017 00:03:13 : LimitlessMc, botchat, Botfuzzy77#2209, 
+15 May 2017 00:03:17 : LimitlessMc, botchat, Lightning#6734, .kys
+15 May 2017 00:03:17 : LimitlessMc, botchat, LightBot#4090, How about... no
+15 May 2017 00:03:20 : LimitlessMc, botchat, Lightning#6734, .kms
+15 May 2017 00:03:20 : LimitlessMc, botchat, LightBot#4090, Bet
+15 May 2017 00:03:21 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 00:03:23 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I decided to wear my Ugg boots to work. I forgot that my office is carpeted and that the fur in my boots makes me shock every metal thing I touch. I work with computers all day. FML*
+15 May 2017 00:03:33 : LimitlessMc, botchat, Lightning#6734, lelele
+15 May 2017 00:03:36 : LimitlessMc, botchat, Lightning#6734, .kns
+15 May 2017 00:03:37 : LimitlessMc, botchat, Crystal4209#4698, Lel
+15 May 2017 00:03:39 : LimitlessMc, botchat, Lightning#6734, .kms
+15 May 2017 00:03:39 : LimitlessMc, botchat, LightBot#4090, Good :)
+15 May 2017 00:03:43 : LimitlessMc, botchat, Lightning#6734, ^ evil
+15 May 2017 00:03:49 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 00:03:51 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was having a nice conversation with my fiancé when he said out of nowhere, "I sold some of your panties". I thought he was joking so I said I hoped they weren't any of my favorites. He wasn't joking, though, and now some stranger from Craigslist owns my panties. FML*
+15 May 2017 00:04:05 : LimitlessMc, botchat, Crystal4209#4698, Wow
+15 May 2017 00:04:08 : LimitlessMc, botchat, Lightning#6734, thas weird asf
+15 May 2017 00:04:15 : LimitlessMc, botchat, Lightning#6734, .kms
+15 May 2017 00:04:15 : LimitlessMc, botchat, LightBot#4090, Bet
+15 May 2017 00:04:15 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 00:04:17 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I called my wife to tell her I finally found a job after 6 months. A man answered the phone claiming to be the cable guy. We cut our cable off when I was laid off 6 months ago. FML*
+15 May 2017 00:04:34 : LimitlessMc, botchat, Crystal4209#4698, Poor guy
+15 May 2017 00:04:37 : LimitlessMc, botchat, Lightning#6734, ye
+15 May 2017 00:04:38 : LimitlessMc, botchat, Lightning#6734, .kms
+15 May 2017 00:04:39 : LimitlessMc, botchat, LightBot#4090, Here's a noose then
+15 May 2017 00:04:41 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 00:04:43 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, my father informed me that I was born only because my mom lied about being on birth control. FML*
+15 May 2017 00:04:43 : LimitlessMc, botchat, Lightning#6734, ouch
+15 May 2017 00:04:51 : LimitlessMc, botchat, Lightning#6734, damn lightbot
+15 May 2017 00:04:51 : LimitlessMc, botchat, Crystal4209#4698, Seen that one
+15 May 2017 00:04:53 : LimitlessMc, botchat, Lightning#6734, savagery
+15 May 2017 00:04:59 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 00:05:00 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I got a new roommate. He's from Mongolia. He has had 5 friends over for the last 7 hours, all speaking Mongolian. This is the most awkward party I have ever been to. FML*
+15 May 2017 00:05:12 : LimitlessMc, botchat, Crystal4209#4698, Aww
+15 May 2017 00:05:22 : LimitlessMc, botchat, Crystal4209#4698, ;leave
+15 May 2017 00:05:30 : LimitlessMc, botchat, Lightning#6734, .kms
+15 May 2017 00:05:30 : LimitlessMc, botchat, LightBot#4090, More souls for me then (:
+15 May 2017 00:05:36 : LimitlessMc, botchat, Lightning#6734, weirdo ^
+15 May 2017 00:06:28 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 00:06:29 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was told by my girlfriend that in the thralls of my drunken haze last night, I tried to French-kiss her mom. FML*
+15 May 2017 00:06:39 : LimitlessMc, botchat, Crystal4209#4698, Lel
+15 May 2017 00:06:53 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 00:06:55 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I came home to yet another kitten. My girlfriend swore to me this would never happen again. When I reminded her of her promise, she told me the kitten will be staying, and she wants me to move out. FML*
+15 May 2017 00:07:09 : LimitlessMc, botchat, Crystal4209#4698, Lol
+15 May 2017 00:07:19 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 00:07:20 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, my boss decided to have the whole staff drug tested and fire everyone who failed. Out of an original staff of 14 people, only my boss, two coworkers and I remain. I now have four times my normal workload and am seriously thinking maybe I should've said "Yes" to drugs. FML*
+15 May 2017 00:07:39 : LimitlessMc, botchat, Crystal4209#4698, XD
+15 May 2017 00:07:54 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 00:07:56 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, my girlfriend broke up with me. When I asked why, she replied with "You don't go out anymore. All you do is lay in bed." I've had the flu for the past week. FML*
+15 May 2017 00:08:10 : LimitlessMc, botchat, Crystal4209#4698, Poor guy
+15 May 2017 00:08:21 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 00:08:24 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I had to unpick a wedgie in the street. I backed against a wall, lifted my skirt and sorted it. I then turned around and caught eye contact with several men in the barbers behind me. Not such a solid wall after all. FML*
+15 May 2017 00:08:45 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 00:08:47 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, my intern was given his own office. I have been asking to move out of my cubicle for nearly four years. FML*
+15 May 2017 00:09:00 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 00:09:02 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I went to the beach. While I was enjoying the sun, an old man with prosthetic leg and no clothes on sat next to me. He took off his fake leg and put it behind his head. Then he opened his legs revealing his "stuff." I will never unsee this. Ever. FML*
+15 May 2017 00:10:20 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 00:10:21 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I complimented a guy on his Van Gogh costume. As it turns out, he had an infection in his ear. FML*
+15 May 2017 00:10:31 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 00:10:32 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was meeting my sister's fiancé. I went to an internet cafe before I went to her house for dinner with them. I was on a computer and there was this really attractive man next to me. I was flirting with him and we exchanged numbers. Turns out, he is my sister's fiancé. FML*
+15 May 2017 00:11:00 : LimitlessMc, botchat, Crystal4209#4698, Damn small world
+15 May 2017 00:19:41 : LimitlessMc, mainchat, Third_Worm#4804, kk
+15 May 2017 00:22:55 : memes, general, Crown#7932, gey
+15 May 2017 00:24:38 : LimitlessMc, mainchat, AlphaBit has school till 26#3869, 🐸👌🏻
+15 May 2017 00:26:05 : LimitlessMc, botchat, AlphaBit has school till 26#3869, ;hep
+15 May 2017 00:26:05 : LimitlessMc, botchat, Botfuzzy77#2209, Dont Be Lazy, Type ;help
+15 May 2017 00:39:18 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+15 May 2017 00:40:03 : OblivionEvolved, mainchat, Lobito#7623, @Oblivion Bot  hi
+15 May 2017 00:40:04 : OblivionEvolved, mainchat, Botfuzzy77#2209, To what sir?
+15 May 2017 00:40:22 : OblivionEvolved, mainchat, Lobito#7623, @Oblivion Bot  to you
+15 May 2017 00:40:23 : OblivionEvolved, mainchat, Botfuzzy77#2209, About what?
+15 May 2017 00:40:36 : OblivionEvolved, mainchat, Lobito#7623, @Oblivion Bot  i just wanted to say hello
+15 May 2017 00:40:36 : OblivionEvolved, mainchat, Botfuzzy77#2209, Are you a bot?
+15 May 2017 00:40:47 : OblivionEvolved, mainchat, Lobito#7623, @Oblivion Bot  no are you?
+15 May 2017 00:40:48 : OblivionEvolved, mainchat, Botfuzzy77#2209, No, I'm not.
+15 May 2017 00:41:05 : OblivionEvolved, mainchat, Lobito#7623, @Oblivion Bot then waht are you?
+15 May 2017 00:41:06 : OblivionEvolved, mainchat, Botfuzzy77#2209, I am a human being.
+15 May 2017 00:41:07 : OblivionEvolved, mainchat, JenGrl#2637, o.o
+15 May 2017 00:41:29 : OblivionEvolved, mainchat, Lobito#7623, @Oblivion Bot but your name says bot in it
+15 May 2017 00:41:30 : OblivionEvolved, mainchat, Botfuzzy77#2209, No it doesn't.
+15 May 2017 00:41:33 : OblivionEvolved, mainchat, JenGrl#2637, @Oblivion Bot  make love to me
+15 May 2017 00:41:33 : OblivionEvolved, mainchat, Botfuzzy77#2209, To what sir?
+15 May 2017 00:41:49 : OblivionEvolved, mainchat, JenGrl#2637, 😆
+15 May 2017 00:41:52 : OblivionEvolved, mainchat, Lobito#7623, @Oblivion Bot yea it does
+15 May 2017 00:41:53 : OblivionEvolved, mainchat, Botfuzzy77#2209, You know me, now.
+15 May 2017 00:42:37 : OblivionEvolved, mainchat, Lobito#7623, @Oblivion Bot yes i know you. remember you wouldnt marry me
+15 May 2017 00:42:38 : OblivionEvolved, mainchat, Botfuzzy77#2209, Where do you know me from?
+15 May 2017 00:42:48 : OblivionEvolved, mainchat, Lobito#7623, @Oblivion Bot WE DATED
+15 May 2017 00:42:49 : OblivionEvolved, mainchat, Botfuzzy77#2209, When?
+15 May 2017 00:43:11 : OblivionEvolved, mainchat, Lobito#7623, @Oblivion Bot YOU DONT REMEMBEER THE MONTHS WE WEERE DATING?
+15 May 2017 00:43:23 : OblivionEvolved, mainchat, Botfuzzy77#2209, I just don't know you.
+15 May 2017 00:43:44 : OblivionEvolved, mainchat, Lobito#7623, @Oblivion Bot you have gone too far this time
+15 May 2017 00:43:45 : OblivionEvolved, mainchat, Botfuzzy77#2209, I'm sorry, I didn't quite get that, ask again please!
+15 May 2017 00:44:50 : OblivionEvolved, mainchat, Lobito#7623, @Oblivion Bot i mean sayinng you wont marry me is one thing i get that. but to say you dont even know me..... What about our time in France.... or did you forget that to??
+15 May 2017 00:44:51 : OblivionEvolved, mainchat, Botfuzzy77#2209, I'm sorry, I didn't quite get that, ask again please!
+15 May 2017 00:45:22 : OblivionEvolved, mainchat, Lobito#7623, @Oblivion Bot  OOOOOHHHH yea NOW act like the bot everyone knows you are
+15 May 2017 00:45:23 : OblivionEvolved, mainchat, Botfuzzy77#2209, I'm sorry, I didn't quite get that, ask again please!
+15 May 2017 00:46:28 : OblivionEvolved, mainchat, Lobito#7623, @Oblivion Bot You know what no. I wont. Im done chasing after you, just to be turned down every time. Goodbye oblivion bot... forever
+15 May 2017 00:46:29 : OblivionEvolved, mainchat, Botfuzzy77#2209, I'm sorry, I didn't quite get that, ask again please!
+15 May 2017 00:46:40 : OblivionEvolved, mainchat, Lobito#7623, @Oblivion Bot FUCK YOU
+15 May 2017 00:46:41 : OblivionEvolved, mainchat, Botfuzzy77#2209, I'm sorry, I didn't quite get that, ask again please!
+15 May 2017 00:48:01 : LimitlessMc, mainchat, AlphaBit has school till 26#3869, reeeeeeeeeeeee
+15 May 2017 00:59:03 : LimitlessMc, botchat, TherminatorX#6644, ;train
+15 May 2017 00:59:05 : LimitlessMc, botchat, Botfuzzy77#2209, 
+15 May 2017 00:59:07 : LimitlessMc, botchat, Botfuzzy77#2209, 
+15 May 2017 01:39:46 : LimitlessMc, mainchat, That-Guy-Gilly#6803, weebs
+15 May 2017 03:18:04 : LimitlessMc, mainchat, AlphaBit has school till 26#3869, no u
+15 May 2017 04:09:02 : memes, general, 𝓦𝒂𝒕𝒆𝒓𝓜𝒆𝒍𝒐𝒏𝓦𝒐𝒍𝒇#3276, Im suicidal
+15 May 2017 04:49:24 : memes, general, Klaus Gross#5770, @Singletittelover1999
+15 May 2017 04:49:41 : memes, general, Laz#3629, seems fair
+15 May 2017 04:52:20 : memes, general, Ya boi velcro#1129, 
+15 May 2017 04:55:23 : memes, general, Ya boi velcro#1129, 
+15 May 2017 04:56:57 : memes, general, Laz#3629, WHAT
+15 May 2017 04:56:58 : memes, general, Laz#3629, THE
+15 May 2017 04:57:07 : memes, general, Laz#3629, ***FL*P***
+15 May 2017 04:58:05 : memes, general, Big Papa Lust#3444, https://68.media.tumblr.com/5a58c3ff4f5a339758295b0a20456053/tumblr_inline_n829qtFIVN1syqdzi.gif
+15 May 2017 04:58:24 : memes, general, Big Papa Lust#3444, https://m.popkey.co/581c2e/azobY.gif
+15 May 2017 04:58:38 : memes, general, Klaus Gross#5770, 
+15 May 2017 04:58:51 : memes, general, Big Papa Lust#3444, http://imgur.com/qhbvF9W
+15 May 2017 04:59:01 : memes, general, Klaus Gross#5770, https://media.tenor.co/images/94c9d688135e9ed634a284cbfda0cd97/tenor.gif
+15 May 2017 04:59:14 : memes, general, Ya boi velcro#1129, 
+15 May 2017 04:59:16 : memes, general, Laz#3629, ILL FUCKING WOOD YOU ALL
+15 May 2017 04:59:20 : memes, general, Laz#3629, I WILL WOOD YOU
+15 May 2017 04:59:35 : memes, general, Big Papa Lust#3444, https://68.media.tumblr.com/6f5dc7e7661c5c292fc1c604ebe7b3af/tumblr_inline_mzzrpfZwjm1rbapf4.gif
+15 May 2017 04:59:37 : memes, general, Laz#3629, ===============▄▀▄==============
+=============▄▀===▀▄============
+===========▄▀====▄▀█============
+=========▄▀====▄▀=▄▀=▄▀▄========
+=======▄▀====▄▀=▄▀=▄▀===▀▄======
+=======█▀▄====▀█=▄▀=======▀▄====
+===▄▀▄=▀▄=▀▄====▀====▄█▄====▀▄===
+=▄▀===▀▄=▀▄=▀▄=====▄▀=█=▀▄====▀▄
+=█▀▄====▀▄=█▀=======▀█=▀▄=▀▄=▄▀█
+=▀▄=▀▄====▀====▄█▄====▀▄=▀▄=█=▄▀
+===▀▄=▀▄=====▄▀=█=▀▄====▀▄=▀█▀===
+=====▀▄=▀▄=▄▀=▄▀=█▀====▄▀█======
+=======▀▄=█=▄▀=▄▀====▄▀=▄▀======
+=========▀█▀=▄▀====▄▀=▄▀========
+=============█▀▄=▄▀=▄▀==========
+=============▀▄=█=▄▀============
+===============▀█▀=============
+15 May 2017 04:59:39 : memes, general, Laz#3629, ===============▄▀▄==============
+=============▄▀===▀▄============
+===========▄▀====▄▀█============
+=========▄▀====▄▀=▄▀=▄▀▄========
+=======▄▀====▄▀=▄▀=▄▀===▀▄======
+=======█▀▄====▀█=▄▀=======▀▄====
+===▄▀▄=▀▄=▀▄====▀====▄█▄====▀▄===
+=▄▀===▀▄=▀▄=▀▄=====▄▀=█=▀▄====▀▄
+=█▀▄====▀▄=█▀=======▀█=▀▄=▀▄=▄▀█
+=▀▄=▀▄====▀====▄█▄====▀▄=▀▄=█=▄▀
+===▀▄=▀▄=====▄▀=█=▀▄====▀▄=▀█▀===
+=====▀▄=▀▄=▄▀=▄▀=█▀====▄▀█======
+=======▀▄=█=▄▀=▄▀====▄▀=▄▀======
+=========▀█▀=▄▀====▄▀=▄▀========
+=============█▀▄=▄▀=▄▀==========
+=============▀▄=█=▄▀============
+===============▀█▀=============
+15 May 2017 04:59:40 : memes, general, Laz#3629, ===============▄▀▄==============
+=============▄▀===▀▄============
+===========▄▀====▄▀█============
+=========▄▀====▄▀=▄▀=▄▀▄========
+=======▄▀====▄▀=▄▀=▄▀===▀▄======
+=======█▀▄====▀█=▄▀=======▀▄====
+===▄▀▄=▀▄=▀▄====▀====▄█▄====▀▄===
+=▄▀===▀▄=▀▄=▀▄=====▄▀=█=▀▄====▀▄
+=█▀▄====▀▄=█▀=======▀█=▀▄=▀▄=▄▀█
+=▀▄=▀▄====▀====▄█▄====▀▄=▀▄=█=▄▀
+===▀▄=▀▄=====▄▀=█=▀▄====▀▄=▀█▀===
+=====▀▄=▀▄=▄▀=▄▀=█▀====▄▀█======
+=======▀▄=█=▄▀=▄▀====▄▀=▄▀======
+=========▀█▀=▄▀====▄▀=▄▀========
+=============█▀▄=▄▀=▄▀==========
+=============▀▄=█=▄▀============
+===============▀█▀=============
+15 May 2017 04:59:41 : memes, general, Laz#3629, ===============▄▀▄==============
+=============▄▀===▀▄============
+===========▄▀====▄▀█============
+=========▄▀====▄▀=▄▀=▄▀▄========
+=======▄▀====▄▀=▄▀=▄▀===▀▄======
+=======█▀▄====▀█=▄▀=======▀▄====
+===▄▀▄=▀▄=▀▄====▀====▄█▄====▀▄===
+=▄▀===▀▄=▀▄=▀▄=====▄▀=█=▀▄====▀▄
+=█▀▄====▀▄=█▀=======▀█=▀▄=▀▄=▄▀█
+=▀▄=▀▄====▀====▄█▄====▀▄=▀▄=█=▄▀
+===▀▄=▀▄=====▄▀=█=▀▄====▀▄=▀█▀===
+=====▀▄=▀▄=▄▀=▄▀=█▀====▄▀█======
+=======▀▄=█=▄▀=▄▀====▄▀=▄▀======
+=========▀█▀=▄▀====▄▀=▄▀========
+=============█▀▄=▄▀=▄▀==========
+=============▀▄=█=▄▀============
+===============▀█▀=============
+15 May 2017 04:59:56 : memes, general, Laz#3629, THIS IS CLEANING
+15 May 2017 05:00:26 : memes, general, Laz#3629, https://www.youtube.com/watch?v=8GneGRd6LP4
+15 May 2017 05:00:26 : memes, general, Laz#3629, https://www.youtube.com/watch?v=8GneGRd6LP4
+15 May 2017 05:00:27 : memes, general, Laz#3629, https://www.youtube.com/watch?v=8GneGRd6LP4
+15 May 2017 05:00:28 : memes, general, Laz#3629, https://www.youtube.com/watch?v=8GneGRd6LP4
+15 May 2017 05:00:28 : memes, general, Laz#3629, https://www.youtube.com/watch?v=8GneGRd6LP4
+15 May 2017 05:00:54 : memes, general, Klaus Gross#5770, https://media.tenor.co/images/272f2c7ac59291a7ee717791746861ad/tenor.gif
+15 May 2017 05:01:33 : memes, general, Big Papa Lust#3444, https://68.media.tumblr.com/48d1d476e31c8c7831639311d2d7ac6c/tumblr_inline_ohb6miUE7J1rllbbi_500.gif
+15 May 2017 05:07:28 : memes, general, Big Papa Lust#3444, http://reactiongifs.me/wp-content/uploads/2013/12/creepy-santa.gif
+15 May 2017 05:07:54 : memes, general, Big Papa Lust#3444, http://www.reactiongifs.com/r/wink.gif
+15 May 2017 05:07:55 : LimitlessMc, botchat, Gertwert#6877, ;train
+15 May 2017 05:07:57 : LimitlessMc, botchat, Botfuzzy77#2209, 
+15 May 2017 05:07:59 : LimitlessMc, botchat, Botfuzzy77#2209, 
+15 May 2017 05:08:00 : memes, general, Laz#3629, KILL YOURSELF
+15 May 2017 05:08:10 : memes, general, Laz#3629, ***REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE***
+15 May 2017 05:08:27 : memes, general, Klaus Gross#5770, http://imgur.com/N1QCyPI
+15 May 2017 05:08:42 : memes, general, Big Papa Lust#3444, http://img.pandawhale.com/post-62151-Oberyn-wink-gif-Imgur-Tumblr-P-4tDb.gif
+15 May 2017 05:09:32 : memes, general, Klaus Gross#5770, http://gifrific.com/wp-content/uploads/2012/07/John-Lennon-Wink.gif
+15 May 2017 05:09:40 : memes, general, Klaus Gross#5770, ^^^
+15 May 2017 05:13:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ;recent
+15 May 2017 05:13:37 : LimitlessMc, botchat, Botfuzzy77#2209, **Gertwert**: *5* minutes ago
+There have been *9* players active in the last 24 hours
+15 May 2017 05:13:44 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+15 May 2017 05:13:46 : LimitlessMc, botchat, Botfuzzy77#2209, 
+15 May 2017 05:13:48 : LimitlessMc, botchat, Botfuzzy77#2209, 
+15 May 2017 05:51:10 : memes, general, Laz#3629, https://www.youtube.com/watch?v=26GZT6e_7E0&t=78s
+15 May 2017 05:51:11 : memes, general, vee#6867, double titties? gay
+15 May 2017 05:51:20 : memes, general, Laz#3629, mal did research
+15 May 2017 05:51:25 : memes, general, Laz#3629, apperantly no one has 1 ittie
+15 May 2017 05:51:35 : memes, general, vee#6867, tragic
+15 May 2017 06:03:17 : memes, general, Ya boi velcro#1129, but they do
+15 May 2017 06:03:19 : memes, general, Ya boi velcro#1129, mal is lie
+15 May 2017 06:07:52 : LimitlessMc, botchat, TherminatorX#6644, ;train
+15 May 2017 06:07:54 : LimitlessMc, botchat, Botfuzzy77#2209, 
+15 May 2017 06:07:56 : LimitlessMc, botchat, Botfuzzy77#2209, 
+15 May 2017 07:13:47 : LimitlessMc, mainchat, Crystal4209#4698, Afternoon everyone
+15 May 2017 07:14:04 : LimitlessMc, botchat, Crystal4209#4698, ;train
+15 May 2017 07:14:06 : LimitlessMc, botchat, Botfuzzy77#2209, 
+15 May 2017 07:14:08 : LimitlessMc, botchat, Botfuzzy77#2209, 
+15 May 2017 07:14:13 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 07:14:14 : LimitlessMc, botchat, Botfuzzy77#2209, * Today, my boss asked to use my phone since the company pays for it. A few hours later the same boss called me into his office to fire me. Apparently the company checks the phone records and found a call made on my cell to a sex line. My boss made that call and just fired me. FML*
+15 May 2017 07:15:03 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 07:15:04 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, was a nice day, so I opened the sunroof and all the windows in my car. My hair started flying around and at one point it went out the sunroof. My friends thought it would be funny to close my hair in the sunroof. They laughed until they couldn't open it up again. It short-circuited. FML*
+15 May 2017 07:16:01 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 07:16:03 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I left a note on the kitchen table saying to leave the door unlocked because I lost my key. I come home to find our house ransacked and robbed. Minutes later, I found my key. In my pocket. FML*
+15 May 2017 07:27:26 : LimitlessMc, botchat, TherminatorX#6644, ;cd
+15 May 2017 07:27:26 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You can Train right now!
+**Gamble**
+You can Gamble right now!
+15 May 2017 07:27:32 : LimitlessMc, botchat, TherminatorX#6644, ;train
+15 May 2017 07:27:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+15 May 2017 07:27:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+15 May 2017 07:35:47 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 07:35:48 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I found out that my sister is going to spend the last two months of her pregancy in my house to be with my mother. She's bringing with her her three wild children. The visit also happens to coincide with my end of year examinations in May and June. FML*
+15 May 2017 07:36:34 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 07:36:36 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was at the gas station with my grandma. After I slid her card and began to pump, I convinced her that it was a lot easier and more convenient to pay at the pump with your credit card instead of paying inside. She yelled as I realized I went $20 over what she had to spend. FML*
+15 May 2017 07:36:58 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 07:36:59 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I got a nose bleed in the ladies bathroom. An old lady comes out of a stall and says, "Oh, your nose is bleeding. Well I shit my pants. I'm sure it'll come out in the wash." FML*
+15 May 2017 07:37:21 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 07:37:22 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was visiting my grandma who has a beagle named Max. He was so excited to see me, he jumped on my face and peed. FML*
+15 May 2017 07:37:39 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 07:37:41 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, while at the airport with a cast on my leg, I fell backwards onto my suitcase. My family was too busy to notice my squirming as I tried to get up, so a kind woman awkwardly helped me off the ground. Later on, I found out my dad saw me but thought someone would help me "soon enough." FML*
+15 May 2017 07:41:09 : LimitlessMc, botchat, Crystal4209#4698, ;join
+15 May 2017 07:41:09 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+15 May 2017 07:41:18 : LimitlessMc, botchat, Crystal4209#4698, ;search guzmas theme
+15 May 2017 07:41:20 : LimitlessMc, botchat, Botfuzzy77#2209, Added Pokemon Sun & Moon -  Team Skull Leader Guzma Battle Music (HQ) to the queue
+15 May 2017 07:41:21 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=REC7daXbjho
+15 May 2017 07:41:37 : LimitlessMc, botchat, Crystal4209#4698, ;loop 2
+15 May 2017 07:41:38 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*Pokemon Sun & Moon -  Team Skull Leader Guzma Battle Music (HQ)*' **2** more times
+15 May 2017 07:41:58 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 07:42:00 : LimitlessMc, botchat, Botfuzzy77#2209, *BLOG47*
+15 May 2017 07:42:04 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 07:42:06 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was informed by my boss that he has been stealing quarters out of my change bowl to pay for his bus rides. He makes six times the amount I make. FML*
+15 May 2017 07:42:25 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 07:42:26 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, during a date, I discovered that if I cough with my mouth closed, snot will spray from my nose all over the place like some kind of mucus cannon. FML*
+15 May 2017 07:42:44 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 07:42:47 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I sampled some of the food my fiancée's mom is making for our wedding. Everything tasted terrible, and I almost vomited. Turns out she never actually went to culinary school as she claimed, but had just watched Julie and Julia. It's too late to book another caterer for the wedding. FML*
+15 May 2017 07:43:08 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 07:43:09 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I found out that people are notified when you list them on Twitter. I've been listing people as "Interesting" and "Stupid". FML*
+15 May 2017 07:43:20 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 07:43:21 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was to give a presentation to several of my company's senior employees. The moment I stood up, I accidentally let rip a monstrous fart that lasted a good two or three seconds. When I tried to utter an apology, I clammed up and let out a whiny grunt. They were not amused. FML*
+15 May 2017 07:43:45 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 07:43:47 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, while answering an "anonymous" survey about how to keep my school drug free, I told them they should stop drug testing the kids that they know don't do drugs and test the sketchier ones. They in turn drug tested me. FML*
+15 May 2017 07:44:07 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 07:44:09 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I went out to a restaurant with a girl I have been dating. The only conversation was about how proud she was of her fart during work earlier, and how she managed to clear out a section of the office. FML*
+15 May 2017 07:44:26 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 07:44:28 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I've been robbed. I came home to find my oven door missing. FML*
+15 May 2017 07:44:36 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 07:44:38 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I went to a thrift store and found heaps of clothes that I loved that fit me perfectly. Then I found a special distinctive dress. My dress. My dad had thrown away heaps of my clothes and I had to buy them all back. FML*
+15 May 2017 07:44:58 : LimitlessMc, botchat, Crystal4209#4698, ;search pity party
+15 May 2017 07:45:00 : LimitlessMc, botchat, Botfuzzy77#2209, Added Melanie Martinez - Pity Party (Official Video) to the queue
+15 May 2017 07:45:00 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=6bAPlojfgO0
+15 May 2017 07:45:04 : LimitlessMc, botchat, Crystal4209#4698, ;skip
+15 May 2017 07:45:04 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Pokemon Sun & Moon -  Team Skull Leader Guzma Battle Music (HQ) by request of the requester
+15 May 2017 07:45:08 : LimitlessMc, botchat, Crystal4209#4698, ;skip
+15 May 2017 07:45:08 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Pokemon Sun & Moon -  Team Skull Leader Guzma Battle Music (HQ) by request of the requester
+15 May 2017 07:45:12 : LimitlessMc, botchat, Crystal4209#4698, ;skip
+15 May 2017 07:45:12 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Pokemon Sun & Moon -  Team Skull Leader Guzma Battle Music (HQ) by request of the requester
+15 May 2017 07:45:28 : LimitlessMc, botchat, Crystal4209#4698, ;search azuras song english
+15 May 2017 07:45:30 : LimitlessMc, botchat, Botfuzzy77#2209, Added Fire Emblem Fates - Lost in Thoughts All Alone [Full English Version] to the queue
+15 May 2017 07:45:30 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=ENwFAmeWEYk
+15 May 2017 07:45:43 : LimitlessMc, botchat, Crystal4209#4698, ;remove 1
+15 May 2017 07:45:44 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: Fire Emblem Fates - Lost in Thoughts All Alone [Full English Version]
+15 May 2017 07:46:02 : LimitlessMc, botchat, Crystal4209#4698, ;search azuras song and dance english
+15 May 2017 07:46:04 : LimitlessMc, botchat, Botfuzzy77#2209, Added Fire Emblem Fates - Azura Dance Dark Song [Extended] [English] [No Garon] [HD] to the queue
+15 May 2017 07:46:04 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=hXgKubNksQ0
+15 May 2017 07:47:00 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 07:47:02 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was sitting in my school's crowded auditorium. When our single, abstinence-only ballsack of a Sex Ed teacher was announced to be stepping down due to being pregnant, I burst into uncontrollable laughter. My reward was aching sides and a week of detention. FML*
+15 May 2017 07:47:49 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 07:47:51 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was reading to a child during nap time because she woke up crying. She calmed down right after I began reading, but soon started crying again. I was confused until I felt something warm and wet on my leg. She peed on me. FML*
+15 May 2017 07:48:07 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 07:48:08 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I went on a first date, only for us to find the restaurant wasn't open on New Year's Day. My date suggested going to the mall instead. We drove in our own cars. Me: the mall, him: home. I waited for 40 minutes before realising he'd stood me up. Happy New Year to me. FML*
+15 May 2017 07:48:30 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 07:48:32 : LimitlessMc, botchat, Botfuzzy77#2209, * Today, I found out that my mum has been texting my ex-boyfriend to tell him what a dick he is. FML*
+15 May 2017 07:48:42 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+15 May 2017 07:48:43 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was going to take my father to dinner for Father's Day. It all would have gone according to plan, but he saw my Facebook post about a 12-hour stomach virus I had yesterday, so he went out fishing with his friends instead without telling me because he didn't want to catch my "disease." FML*
+15 May 2017 07:49:31 : LimitlessMc, botchat, Crystal4209#4698, ;search mad hatter
+15 May 2017 07:49:33 : LimitlessMc, botchat, Botfuzzy77#2209, Added Melanie Martinez - Mad Hatter to the queue
+15 May 2017 07:49:33 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=6GtPW4nB3Ro
+15 May 2017 07:50:10 : LimitlessMc, botchat, Crystal4209#4698, ;recommend
+15 May 2017 07:50:10 : LimitlessMc, botchat, Botfuzzy77#2209, Recommend Songs to play: True
+15 May 2017 07:50:30 : LimitlessMc, botchat, Crystal4209#4698, ;leave
+15 May 2017 07:57:51 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, who needs jesus XD
+15 May 2017 09:01:15 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, https://s-media-cache-ak0.pinimg.com/736x/f5/3f/9c/f53f9c5c7ae6a56a7a65830d3a74e000.jpg
+15 May 2017 09:01:18 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, @Lewdie
+15 May 2017 09:36:55 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;train
+15 May 2017 09:36:57 : LimitlessMc, botchat, Botfuzzy77#2209, 
+15 May 2017 09:36:59 : LimitlessMc, botchat, Botfuzzy77#2209, 
+15 May 2017 10:32:46 : LimitlessMc, mainchat, jjtwilefc#7374, Afternoon *tips hat*
+15 May 2017 10:32:58 : None, Direct Message with jjtwilefc, jjtwilefc#7374, ;fml
+15 May 2017 10:32:59 : None, Direct Message with jjtwilefc, Botfuzzy77#2209, *Today, my first (and only true) date ended with the girl saying "Thanks for dinner, I was hungry - and oh, by the way, I'm a lesbian". FML*
+15 May 2017 10:33:11 : LimitlessMc, mainchat, Professor Oak#5495, @Crystal4209  you asleep?
+15 May 2017 10:33:22 : None, Direct Message with jjtwilefc, jjtwilefc#7374, ;fml
+15 May 2017 10:33:23 : None, Direct Message with jjtwilefc, Botfuzzy77#2209, *Today, I came back from vacation to find a packet on the company's stress management programs on my desk. I was sent the same packet over my vacation. I got the same packet from my boss as I left. All because I snapped at a co-worker who was throwing a tantrum over the Star Wars trailer. FML*
+15 May 2017 10:33:40 : None, Direct Message with jjtwilefc, jjtwilefc#7374, ;fml
+15 May 2017 10:33:42 : None, Direct Message with jjtwilefc, Botfuzzy77#2209, *Today, I thought it would be funny to pee on a small bug in the toilet. A much larger bug thought it would be funny to fly into my eye while I was doing this. FML*
+15 May 2017 10:52:12 : None, Direct Message with jjtwilefc, jjtwilefc#7374, ;fml
+15 May 2017 10:52:14 : None, Direct Message with jjtwilefc, Botfuzzy77#2209, *Today, I received a package. When my mom asked what I had bought, I had told her that I had ordered dumbbells and was going to start lifting. She laughed her way into the kitchen. FML*
+15 May 2017 10:53:34 : None, Direct Message with jjtwilefc, jjtwilefc#7374, ;fml
+15 May 2017 10:53:36 : None, Direct Message with jjtwilefc, Botfuzzy77#2209, *Today, I had to once again lie to a customer about why I was the only one manning the shop, saying that they must have run out for lunch - my coworkers were too busy getting stoned in their cars to do their job. FML*
+15 May 2017 10:54:23 : None, Direct Message with jjtwilefc, jjtwilefc#7374, ;fml
+15 May 2017 10:54:25 : None, Direct Message with jjtwilefc, Botfuzzy77#2209, *Today, I've had my tenth "Christmas" dinner since Christmas last took place. My mum has gone nuts and keeps playing Christmas music, making these dinners, and refusing to let me take down the Christmas decorations. My dad is too whipped to save us from this hell. FML*
+15 May 2017 10:57:19 : None, Direct Message with jjtwilefc, jjtwilefc#7374, ;fml
+15 May 2017 10:57:21 : None, Direct Message with jjtwilefc, Botfuzzy77#2209, *BLOG4*
+15 May 2017 10:57:28 : LimitlessMc, botchat, Lightning#6734, .train
+15 May 2017 10:57:50 : None, Direct Message with jjtwilefc, jjtwilefc#7374, ;fml
+15 May 2017 10:57:51 : None, Direct Message with jjtwilefc, Botfuzzy77#2209, *Today, my mum asked when she's getting grandkids. I had to tell her that, at 21 years old, I hadn't even managed to get a boyfriend yet. FML*
+15 May 2017 11:02:12 : LimitlessMc, mainchat, Crystal4209#4698, Nah I'm not asleep, about to work on my assignment
+15 May 2017 11:02:33 : LimitlessMc, botchat, Crystal4209#4698, ;train
+15 May 2017 11:02:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+15 May 2017 11:02:36 : LimitlessMc, botchat, Botfuzzy77#2209, 
+15 May 2017 11:02:42 : LimitlessMc, mainchat, Professor Oak#5495, o okey, good luck with that
+15 May 2017 11:03:00 : LimitlessMc, mainchat, Crystal4209#4698, Just research since I left my poster at school xD
+15 May 2017 11:03:14 : LimitlessMc, mainchat, Professor Oak#5495, hahaha
+15 May 2017 11:04:36 : LimitlessMc, mainchat, Crystal4209#4698, And it's due tonight, said I would hand it in tomorrow then later on I forgot that poster at school xD
+15 May 2017 11:05:13 : LimitlessMc, mainchat, Professor Oak#5495, poooo, what is the assignment?
+15 May 2017 11:05:48 : LimitlessMc, mainchat, Crystal4209#4698, Difference between the House of Representatives and the senate
+15 May 2017 11:06:11 : LimitlessMc, mainchat, Professor Oak#5495, ooooo haha, is it a very hard task?
+15 May 2017 11:06:21 : LimitlessMc, mainchat, Crystal4209#4698, Dunno
+15 May 2017 11:06:27 : LimitlessMc, mainchat, Professor Oak#5495, haha
+15 May 2017 11:06:36 : LimitlessMc, mainchat, Bakafish#8693, wew
+15 May 2017 11:06:42 : LimitlessMc, mainchat, Professor Oak#5495, trying to spawn this shitty dexoys
+15 May 2017 11:06:45 : LimitlessMc, mainchat, Professor Oak#5495, man so hard
+15 May 2017 11:07:40 : LimitlessMc, mainchat, Crystal4209#4698, Good luck, been hunting that for over a month only 1 spawned and a dumbass killed it in front of me
+15 May 2017 11:07:58 : LimitlessMc, mainchat, Professor Oak#5495, crystal it happend two times with me
+15 May 2017 11:08:04 : LimitlessMc, mainchat, Professor Oak#5495, in two weeks haha
+15 May 2017 11:08:15 : LimitlessMc, mainchat, Crystal4209#4698, Boo
+15 May 2017 11:08:25 : LimitlessMc, mainchat, Professor Oak#5495, light ows me one,
+15 May 2017 11:08:32 : LimitlessMc, mainchat, Crystal4209#4698, Double boo
+15 May 2017 11:08:38 : LimitlessMc, mainchat, Professor Oak#5495, haha
+15 May 2017 11:09:28 : LimitlessMc, mainchat, Crystal4209#4698, I wonder how many book are in my bag xD
+15 May 2017 11:09:47 : LimitlessMc, mainchat, Professor Oak#5495, i have my mac and a norwegian book le, and a pencil
+15 May 2017 11:10:17 : LimitlessMc, mainchat, Crystal4209#4698, I got like so many books, an iPad and a pencil case
+15 May 2017 11:10:39 : LimitlessMc, botchat, Crystal4209#4698, ;join
+15 May 2017 11:10:40 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+15 May 2017 11:10:42 : LimitlessMc, mainchat, Professor Oak#5495, haha, in norway we dont use books
+15 May 2017 11:10:47 : LimitlessMc, botchat, Crystal4209#4698, ;search cold water
+15 May 2017 11:10:49 : LimitlessMc, botchat, Botfuzzy77#2209, Added Major Lazer - Cold Water (feat. Justin Bieber & MØ) (Official Lyric Video) to the queue
+15 May 2017 11:10:49 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=a59gmGkq_pw
+15 May 2017 11:11:02 : LimitlessMc, mainchat, Crystal4209#4698, Boo
+15 May 2017 11:11:14 : LimitlessMc, mainchat, Professor Oak#5495, haha
+15 May 2017 11:11:21 : LimitlessMc, botchat, Crystal4209#4698, ;search sorry
+15 May 2017 11:11:23 : LimitlessMc, botchat, Botfuzzy77#2209, Added Justin Bieber - Sorry (PURPOSE : The Movement) to the queue
+15 May 2017 11:11:24 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=fRh_vgS2dFE
+15 May 2017 11:11:52 : LimitlessMc, botchat, Crystal4209#4698, ;search mad hatter
+15 May 2017 11:11:54 : LimitlessMc, botchat, Botfuzzy77#2209, Added Melanie Martinez - Mad Hatter to the queue
+15 May 2017 11:11:54 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=6GtPW4nB3Ro
+15 May 2017 11:12:02 : LimitlessMc, botchat, Crystal4209#4698, ;search pity party
+15 May 2017 11:12:04 : LimitlessMc, botchat, Botfuzzy77#2209, Added Melanie Martinez - Pity Party (Official Video) to the queue
+15 May 2017 11:12:04 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=6bAPlojfgO0
+15 May 2017 11:12:13 : LimitlessMc, botchat, Crystal4209#4698, ;search mrs potato head
+15 May 2017 11:12:15 : LimitlessMc, botchat, Botfuzzy77#2209, Added Melanie Martinez - Mrs. Potato Head [Official Video] to the queue
+15 May 2017 11:12:15 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=wkri1NUq9ro
+15 May 2017 11:12:31 : LimitlessMc, botchat, Crystal4209#4698, ;search Guzmas theme
+15 May 2017 11:12:33 : LimitlessMc, botchat, Botfuzzy77#2209, Added Pokemon Sun & Moon -  Team Skull Leader Guzma Battle Music (HQ) to the queue
+15 May 2017 11:12:33 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=REC7daXbjho
+15 May 2017 11:12:36 : LimitlessMc, botchat, Crystal4209#4698, ;shuffle
+15 May 2017 11:12:36 : LimitlessMc, botchat, Botfuzzy77#2209, Shuffled songs!
+15 May 2017 11:13:21 : LimitlessMc, botchat, Crystal4209#4698, ;train
+15 May 2017 11:13:21 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 1,156 seconds before you can train again.
+15 May 2017 11:13:55 : LimitlessMc, mainchat, Crystal4209#4698, Well Iv been busy with assignments and friend issues xD
+15 May 2017 11:14:13 : LimitlessMc, mainchat, Professor Oak#5495, daim, friend issues?
+15 May 2017 11:14:41 : LimitlessMc, mainchat, Professor Oak#5495, is it that girl, that looks at you and then looks another way?
+15 May 2017 11:15:00 : LimitlessMc, mainchat, Crystal4209#4698, Eh yeah kinda
+15 May 2017 11:15:19 : LimitlessMc, mainchat, Crystal4209#4698, We were best friends and now she's been acting meanish
+15 May 2017 11:15:36 : LimitlessMc, mainchat, Professor Oak#5495, ^i know how it feels
+15 May 2017 11:15:47 : LimitlessMc, mainchat, Crystal4209#4698, Kinda why Iv been skipping school..
+15 May 2017 11:16:07 : LimitlessMc, mainchat, Professor Oak#5495, haha, you been away from school because of her?
+15 May 2017 11:16:15 : LimitlessMc, mainchat, Crystal4209#4698, Ye
+15 May 2017 11:16:32 : LimitlessMc, mainchat, Crystal4209#4698, Been having "study days"
+15 May 2017 11:16:59 : LimitlessMc, mainchat, Professor Oak#5495, reminds me of my ex girlfriend le
+15 May 2017 11:17:47 : LimitlessMc, mainchat, Professor Oak#5495, she broke up with me like 3 months ago, then she asked me last week to get together again le
+15 May 2017 11:17:57 : LimitlessMc, mainchat, Crystal4209#4698, Wow
+15 May 2017 11:18:23 : LimitlessMc, mainchat, Professor Oak#5495, i friendzoned her tho....
+15 May 2017 11:18:30 : LimitlessMc, mainchat, Crystal4209#4698, Lel
+15 May 2017 11:19:31 : LimitlessMc, mainchat, Crystal4209#4698, Well have you ever heard of a person being seen as desperate talking to you?
+15 May 2017 11:20:22 : LimitlessMc, mainchat, Professor Oak#5495, ehh i dont think so hah, why? happend to you lool
+15 May 2017 11:21:27 : LimitlessMc, mainchat, Crystal4209#4698, That's how this 'friend' thinks she is to me, saying that people might think that she's desperate talking to me, so she hasn't talked to me in over a few weeks now
+15 May 2017 11:22:00 : LimitlessMc, mainchat, Professor Oak#5495, 😂  wtf
+15 May 2017 11:22:02 : LimitlessMc, mainchat, Professor Oak#5495, haha
+15 May 2017 11:22:11 : LimitlessMc, mainchat, Crystal4209#4698, Best friend much right
+15 May 2017 11:22:16 : LimitlessMc, mainchat, Professor Oak#5495, yeah,
+15 May 2017 11:22:22 : LimitlessMc, mainchat, Professor Oak#5495, btw is this hentai music?
+15 May 2017 11:22:29 : LimitlessMc, mainchat, Crystal4209#4698, No xD
+15 May 2017 11:22:55 : LimitlessMc, mainchat, Professor Oak#5495, i hear breathing haha
+15 May 2017 11:23:12 : LimitlessMc, mainchat, Crystal4209#4698, Well I mean it's a music video so xD
+15 May 2017 11:23:24 : LimitlessMc, mainchat, Professor Oak#5495, haha, i see but its chill song tho haa
+15 May 2017 11:24:44 : LimitlessMc, mainchat, Professor Oak#5495, need to watch all 5 seasons of prison break le
+15 May 2017 11:24:52 : LimitlessMc, mainchat, Crystal4209#4698, Lel
+15 May 2017 11:25:05 : LimitlessMc, mainchat, Professor Oak#5495, on season 1 le
+15 May 2017 11:25:12 : LimitlessMc, mainchat, Crystal4209#4698, XD
+15 May 2017 11:26:33 : LimitlessMc, mainchat, Crystal4209#4698, Also all of that friendship stuff started happening last week during naplan
+15 May 2017 11:27:06 : LimitlessMc, mainchat, Professor Oak#5495, what? so its been a week now?
+15 May 2017 11:27:16 : LimitlessMc, mainchat, Crystal4209#4698, Yeah
+15 May 2017 11:27:24 : LimitlessMc, mainchat, Professor Oak#5495, o daim
+15 May 2017 11:27:33 : LimitlessMc, mainchat, Professor Oak#5495, feel very sorry for yaw
+15 May 2017 11:27:41 : LimitlessMc, mainchat, Crystal4209#4698, I ended up crying last Monday cause of that
+15 May 2017 11:28:06 : LimitlessMc, mainchat, Crystal4209#4698, Same thing happened a couple years ago with a different person who I once called a best friend
+15 May 2017 11:29:07 : LimitlessMc, mainchat, Professor Oak#5495, crystal i feel very sorry for you girl, it sound like you having a very bad! need to talk deep with anyone about it, will i always be there for yaw
+15 May 2017 11:29:35 : LimitlessMc, mainchat, Crystal4209#4698, Haha thanks, but I don't really have it bad
+15 May 2017 11:29:49 : LimitlessMc, mainchat, Professor Oak#5495, is it good now?
+15 May 2017 11:30:18 : LimitlessMc, mainchat, Crystal4209#4698, Nope, I'm just staying away from her like I did to the other person, keeping my distance
+15 May 2017 11:35:31 : LimitlessMc, botchat, Crystal4209#4698, ;search pity party
+15 May 2017 11:35:33 : LimitlessMc, botchat, Botfuzzy77#2209, Added Melanie Martinez - Pity Party (Official Video) to the queue
+15 May 2017 11:35:34 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=6bAPlojfgO0
+15 May 2017 11:35:38 : LimitlessMc, botchat, Crystal4209#4698, ;recommend
+15 May 2017 11:35:38 : LimitlessMc, botchat, Botfuzzy77#2209, Recommend Songs to play: True
+15 May 2017 11:39:27 : LimitlessMc, botchat, Crystal4209#4698, ;skip
+15 May 2017 11:39:27 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Melanie Martinez - Mrs. Potato Head [Official Video] by request (Radio Song)
+15 May 2017 11:42:38 : LimitlessMc, botchat, Crystal4209#4698, ;leave
+15 May 2017 12:39:42 : LimitlessMc, mainchat, Bakafish#8693, https://gyazo.com/074c993a551d7b7dcb0d6db8d314a6e8
+15 May 2017 12:39:49 : LimitlessMc, mainchat, Bakafish#8693, mob arena expansion in progress
+15 May 2017 12:39:56 : LimitlessMc, mainchat, Professor Oak#5495, o daim
+15 May 2017 12:43:23 : memes, general, Klaus Gross#5770, fuck, what was her name, in zims discord, I asked uuuuhhhhhh fuckin idk but I asked her for spaceforge if she had tiddy and she said yes, one single tiddy
+15 May 2017 12:59:56 : RooberBoobers, kinkyrubiestalk, ClokwerkDukk#0156, One on the right makes me laught more.
+15 May 2017 13:56:38 : OblivionEvolved, mainchat, StubbyMuffins#1053, might need a update
+15 May 2017 13:56:56 : OblivionEvolved, mainchat, StubbyMuffins#1053, just woke up
+15 May 2017 13:57:38 : OblivionEvolved, mainchat, StubbyMuffins#1053, yeah there was a pugnacia update today
+15 May 2017 13:58:06 : OblivionEvolved, offtopic_18plus, TheChad🐵#1660, back when times were tough, used to get like 1 legendary everyone 1-2 hours. In this video, no one had seen that many legionaries in a single rift left alone a single level of a rift. Also notice he's playing on T6, as one of the best geared characters in the game at the time.
+https://www.youtube.com/watch?v=4ygZnbFEdBg
+15 May 2017 14:08:22 : House of Stubb, bot2, StubbyMuffins#1053, ;level
+15 May 2017 14:08:33 : House of Stubb, bot2, StubbyMuffins#1053, ;gamble 30000
+15 May 2017 14:08:33 : House of Stubb, bot2, Botfuzzy77#2209, You have gained back your offering and more!
+15 May 2017 14:08:33 : House of Stubb, bot2, Botfuzzy77#2209, 
+15 May 2017 14:08:33 : House of Stubb, bot2, Botfuzzy77#2209, 
+15 May 2017 14:08:37 : House of Stubb, bot2, StubbyMuffins#1053, ;ranking
+15 May 2017 14:08:37 : House of Stubb, bot2, Botfuzzy77#2209, 
+15 May 2017 14:13:51 : OblivionEvolved, server_news, StubbyMuffins#1053, @​everyone Server has been updated.
+15 May 2017 14:20:32 : LimitlessMc, mainchat, jjtwilefc#7374, looks lit
+15 May 2017 14:30:45 : RooberBoobers, kinkyrubiestalk, navy#8336, m e
+15 May 2017 15:16:08 : LimitlessMc, mainchat, Bakafish#8693, https://gyazo.com/afdf9dd0580dfd881b7cdb7a101b694c
+15 May 2017 15:16:19 : LimitlessMc, mainchat, Bakafish#8693, mob arena's extra boss room
+15 May 2017 15:16:35 : LimitlessMc, mainchat, Professor Oak#5495, ooooo, thats just too good, haha
+15 May 2017 15:16:52 : LimitlessMc, mainchat, Bakafish#8693, did a test run with flawlessfeint with a group of zombies
+15 May 2017 15:16:58 : LimitlessMc, mainchat, Bakafish#8693, he died three times before killing em all
+15 May 2017 15:17:04 : LimitlessMc, mainchat, Professor Oak#5495, hhhhh
+15 May 2017 15:17:08 : LimitlessMc, mainchat, Professor Oak#5495, hahaha
+15 May 2017 16:02:06 : House of Stubb, general, StubbyMuffins#1053, ;level
+15 May 2017 16:02:22 : House of Stubb, bot2, StubbyMuffins#1053, ;train
+15 May 2017 16:02:22 : House of Stubb, bot2, Botfuzzy77#2209, 
+15 May 2017 16:02:22 : House of Stubb, bot2, Botfuzzy77#2209, 
+15 May 2017 16:02:28 : House of Stubb, bot2, StubbyMuffins#1053, ;gamble 25000
+15 May 2017 16:02:28 : House of Stubb, bot2, Botfuzzy77#2209, You have gained back your offering and more!
+15 May 2017 16:02:28 : House of Stubb, bot2, Botfuzzy77#2209, 
+15 May 2017 16:04:19 : RooberBoobers, kinkyrubiestalk, ComradeBismuth#5997, Yeah because wanting to save your team members from certain death in space by taking your vehicle back from the assholes who stole it and left you for dead in the first place clearly makes you sadistic.
+15 May 2017 16:13:16 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, **it wasn't that part of her heist, it was the fact she wanted to befriend lapis peridot and steven just to take it away from them**
+15 May 2017 16:18:46 : RooberBoobers, kinkyrubiestalk, ComradeBismuth#5997, Oh you mean the people she had no reason to actually trust given past behaviour and had her ship, meaning she had to pretend to be their friend so she could have access to the ship.
+15 May 2017 16:18:54 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, ah true
+15 May 2017 16:19:18 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, im not even caring whats going on rn, fucking fb randomly disabled my account that i have no idea what the password was for my email
+15 May 2017 16:19:45 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, and the email goes to my fucking mom and my fucking mom doesn' need to know i love my gf or any of the plans etc
+15 May 2017 16:20:44 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, i cant even remember what the password to the email was, or any of the information and my fucking gf has no internet so i cant even contact her (but whta would be the point, she probably forgot it such a long time ago ;/)
+15 May 2017 16:20:47 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, @BakaLord
+15 May 2017 16:20:50 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, @BakaLord
+15 May 2017 16:29:47 : OblivionEvolved, mainchat, DicloniusPony#6564, @StubbyMuffins how nice, my account got disabled ;/
+15 May 2017 16:30:30 : OblivionEvolved, mainchat, DicloniusPony#6564, my fb account
+15 May 2017 16:54:09 : Shadow's Subnautica, botchat, Lastshadow#5809, ;join
+15 May 2017 16:54:10 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Connected channel!
+15 May 2017 16:54:34 : Shadow's Subnautica, botchat, Lastshadow#5809, ;search nyxtheshield hopes and dreams will save the world
+15 May 2017 16:54:35 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Added Continue OST - Hopes and Dreams Will Save The World feat. Gatopaint [FULL VERSION] to the queue
+15 May 2017 16:54:35 : Shadow's Subnautica, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=UJtTIylzWk4
+15 May 2017 16:54:55 : Shadow's Subnautica, botchat, Lastshadow#5809, @Purrkour penis is an oc of undertale
+15 May 2017 16:55:03 : Shadow's Subnautica, botchat, Purrkour#4004, xD
+15 May 2017 16:55:04 : Shadow's Subnautica, botchat, Lastshadow#5809, Okay my 0hobe is gay
+15 May 2017 16:55:07 : Shadow's Subnautica, botchat, Lastshadow#5809, Phone
+15 May 2017 16:55:25 : Shadow's Subnautica, botchat, Purrkour#4004, ah
+15 May 2017 16:55:28 : Shadow's Subnautica, botchat, Lastshadow#5809, Fucking phone
+15 May 2017 16:55:31 : Shadow's Subnautica, botchat, Purrkour#4004, that makes more sence xD
+15 May 2017 16:55:31 : Shadow's Subnautica, botchat, Lastshadow#5809, XD
+15 May 2017 16:55:38 : Shadow's Subnautica, botchat, Purrkour#4004, how do u add songs with this bot?
+15 May 2017 16:55:42 : Shadow's Subnautica, botchat, Lastshadow#5809, ;search
+15 May 2017 16:55:42 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Search for SOMETHING you bum
+15 May 2017 16:55:51 : Shadow's Subnautica, botchat, Lastshadow#5809, XD
+15 May 2017 16:56:12 : Shadow's Subnautica, botchat, Lastshadow#5809, ;search nyxtheshield finale
+15 May 2017 16:56:14 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Added Your Best Friend OST - Finale !? to the queue
+15 May 2017 16:56:14 : Shadow's Subnautica, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=27njP_cCjag
+15 May 2017 16:56:36 : Shadow's Subnautica, botchat, Lastshadow#5809, @Purrkour what song?
+15 May 2017 16:56:42 : Shadow's Subnautica, botchat, Lastshadow#5809, Do u want
+15 May 2017 16:56:57 : Shadow's Subnautica, botchat, Lastshadow#5809, ;search fuck you nightcore male
+15 May 2017 16:56:58 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Added Nightcore - Fuck You [Male Version] to the queue
+15 May 2017 16:56:58 : Shadow's Subnautica, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=8zsHnKfbHJ4
+15 May 2017 16:57:02 : Shadow's Subnautica, botchat, Lastshadow#5809, Heh
+15 May 2017 16:57:09 : Shadow's Subnautica, botchat, Lastshadow#5809, Fuck you XD
+15 May 2017 16:57:43 : Shadow's Subnautica, botchat, Purrkour#4004, ;search Come Little Children {Male Version} Nightcore
+15 May 2017 16:57:44 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Added Come Little Children {Male Version} Nightcore to the queue
+15 May 2017 16:57:44 : Shadow's Subnautica, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=egfg4PyPXUU
+15 May 2017 16:57:53 : OblivionEvolved, mainchat, StubbyMuffins#1053, why
+15 May 2017 16:58:37 : Shadow's Subnautica, botchat, Purrkour#4004, ;search Andy Grammer 'Fresh Eyes' (Lyric Version)
+15 May 2017 16:58:39 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Added Andy Grammer 'Fresh Eyes' (Lyric Version) to the queue
+15 May 2017 16:58:39 : Shadow's Subnautica, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=Pv2iAnCiD4o
+15 May 2017 16:59:00 : Shadow's Subnautica, botchat, Purrkour#4004, ;search Andy Grammer - Honey, I'm Good (with lyrics)
+15 May 2017 16:59:02 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Added Andy Grammer - Honey, I'm Good (with lyrics) to the queue
+15 May 2017 16:59:02 : Shadow's Subnautica, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=8ejF8Qv6VZk
+15 May 2017 16:59:14 : Shadow's Subnautica, botchat, Purrkour#4004, there we go thats good for now :3
+15 May 2017 16:59:20 : Shadow's Subnautica, botchat, Lastshadow#5809, :3
+15 May 2017 16:59:38 : Shadow's Subnautica, botchat, Purrkour#4004, oh wait~
+15 May 2017 16:59:48 : Shadow's Subnautica, botchat, Lastshadow#5809, ;search nom nom nom nom
+15 May 2017 16:59:50 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Added Nom Nom Nom Nom Nom Nom Nom - Parry Gripp to the queue
+15 May 2017 16:59:50 : Shadow's Subnautica, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=SMWi7CLoZ2Q
+15 May 2017 17:00:03 : Shadow's Subnautica, botchat, Lastshadow#5809, ;search parry grip this is the best burrito
+15 May 2017 17:00:05 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Added This Is The Best Burrito I've Ever Eaten - Parry Gripp to the queue
+15 May 2017 17:00:05 : Shadow's Subnautica, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=--bqFOdb6_g
+15 May 2017 17:00:13 : Shadow's Subnautica, botchat, Lastshadow#5809, ;skip
+15 May 2017 17:00:13 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Skipping Continue OST - Hopes and Dreams Will Save The World feat. Gatopaint [FULL VERSION] by request of the requester
+15 May 2017 17:00:27 : Shadow's Subnautica, botchat, Lastshadow#5809, Finale!
+15 May 2017 17:00:37 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, http://img06.deviantart.net/ef7c/i/2017/070/d/7/__i_love_her_by_misspolycysticovary-db1znvx.png
+15 May 2017 17:00:40 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, @Gutsy
+15 May 2017 17:00:44 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, this devil? XD
+15 May 2017 17:01:14 : Shadow's Subnautica, botchat, Lastshadow#5809, ;search the knife game around the world
+15 May 2017 17:01:16 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Added The Knife Game Song AROUND THE WORLD! to the queue
+15 May 2017 17:01:16 : Shadow's Subnautica, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=7UkWkUaLu2Y
+15 May 2017 17:01:55 : LimitlessMc, botchat, TherminatorX#6644, ;train
+15 May 2017 17:01:57 : LimitlessMc, botchat, Botfuzzy77#2209, 
+15 May 2017 17:01:59 : LimitlessMc, botchat, Botfuzzy77#2209, 
+15 May 2017 17:02:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+15 May 2017 17:02:37 : Shadow's Subnautica, botchat, Purrkour#4004, ;search Halestorm - Innocence Lyrics
+15 May 2017 17:02:38 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Added Halestorm - Innocence Lyrics to the queue
+15 May 2017 17:02:38 : Shadow's Subnautica, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=_CRNN5fiEwI
+15 May 2017 17:02:47 : Shadow's Subnautica, botchat, Purrkour#4004, ok now im good
+15 May 2017 17:03:06 : Shadow's Subnautica, botchat, Lastshadow#5809, I saw you typing that for 3 mins ._.
+15 May 2017 17:03:15 : RooberBoobers, kinkyrubiestalk, ComradeBismuth#5997, Fuck you she isn't a devil for saving her friends. She a beautiful brave friend who doesn't deserve the shit she got and I will rend you down to bone dust if you give her shit
+15 May 2017 17:03:22 : Shadow's Subnautica, botchat, Lastshadow#5809, Why was that long XD
+15 May 2017 17:03:35 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, i was kidding XD
+15 May 2017 17:03:35 : Shadow's Subnautica, botchat, Purrkour#4004, welll when u acendently copy a hole webpage it takes a while to delate that -_-
+15 May 2017 17:03:41 : RooberBoobers, kinkyrubiestalk, ComradeBismuth#5997, So was I
+15 May 2017 17:03:44 : RooberBoobers, kinkyrubiestalk, ComradeBismuth#5997, Lol
+15 May 2017 17:03:45 : Shadow's Subnautica, botchat, Lastshadow#5809, XD
+15 May 2017 17:03:50 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, shes a devil who i need to smash XD
+15 May 2017 17:03:58 : Shadow's Subnautica, botchat, Lastshadow#5809, ;search die in a fire nightcore
+15 May 2017 17:04:00 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Added Nightcore - Die In A Fire to the queue
+15 May 2017 17:04:00 : Shadow's Subnautica, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=oybBxoZvkZA
+15 May 2017 17:04:06 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, **lemme smash**
+*no ron, go find becky*
+15 May 2017 17:04:07 : Shadow's Subnautica, botchat, Lastshadow#5809, ;search all the way
+15 May 2017 17:04:09 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Added ALL THE WAY - Jacksepticeye Songify Remix by Schmoyoho to the queue
+15 May 2017 17:04:09 : Shadow's Subnautica, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=BJPc49z57bU
+15 May 2017 17:04:17 : Shadow's Subnautica, botchat, Lastshadow#5809, ALL THE WAY
+15 May 2017 17:04:21 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, http://misspolycysticovary.deviantart.com/gallery/48992237/Steven-universe
+15 May 2017 17:04:25 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, there you go
+15 May 2017 17:04:27 : Shadow's Subnautica, botchat, Lastshadow#5809, ;songs
+15 May 2017 17:04:28 : Shadow's Subnautica, botchat, Botfuzzy77#2209, 
+15 May 2017 17:04:36 : RooberBoobers, kinkyrubiestalk, ComradeBismuth#5997, You are weak and red lesbians is coming for you
+15 May 2017 17:04:55 : Shadow's Subnautica, botchat, Lastshadow#5809, ;search unown Oliver vocaloid
+15 May 2017 17:04:57 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Added Vocaloid Oliver Pokemon Unow to the queue
+15 May 2017 17:04:58 : Shadow's Subnautica, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=uTtOdUiRmUo
+15 May 2017 17:05:30 : Shadow's Subnautica, botchat, Purrkour#4004, u forgot something
+15 May 2017 17:05:53 : Shadow's Subnautica, botchat, Lastshadow#5809, ;search human nightcore
+15 May 2017 17:05:56 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Added Nightcore - Human to the queue
+15 May 2017 17:05:56 : Shadow's Subnautica, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=FBRUhIGYoyQ
+15 May 2017 17:06:12 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, http://img12.deviantart.net/0ea1/i/2016/157/0/f/mmm_by_misspolycysticovary-da5akgy.png
+15 May 2017 17:06:14 : Shadow's Subnautica, botchat, Lastshadow#5809, ;search kagerou days
+15 May 2017 17:06:15 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Added English Cover【JubyPhonic】Kagerou Days カゲロウデイズ to the queue
+15 May 2017 17:06:15 : Shadow's Subnautica, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=MU-rdG-M5Ho
+15 May 2017 17:06:25 : Shadow's Subnautica, botchat, Lastshadow#5809, ;songs
+15 May 2017 17:06:25 : Shadow's Subnautica, botchat, Botfuzzy77#2209, 
+15 May 2017 17:06:34 : Shadow's Subnautica, botchat, Purrkour#4004, ;search The Magikarp Song
+15 May 2017 17:06:37 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Added The Magikarp Song to the queue
+15 May 2017 17:06:38 : Shadow's Subnautica, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=H3x3-22Gi3g
+15 May 2017 17:06:44 : Shadow's Subnautica, botchat, Purrkour#4004, how could u forget that song XD
+15 May 2017 17:06:58 : Shadow's Subnautica, botchat, Lastshadow#5809, ;search the magikarp song
+15 May 2017 17:06:59 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Added The Magikarp Song to the queue
+15 May 2017 17:06:59 : Shadow's Subnautica, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=H3x3-22Gi3g
+15 May 2017 17:07:00 : Shadow's Subnautica, botchat, Lastshadow#5809, ;search the magikarp song
+15 May 2017 17:07:02 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Added The Magikarp Song to the queue
+15 May 2017 17:07:02 : Shadow's Subnautica, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=H3x3-22Gi3g
+15 May 2017 17:07:04 : Shadow's Subnautica, botchat, Lastshadow#5809, ;search the magikarp song
+15 May 2017 17:07:06 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Added The Magikarp Song to the queue
+15 May 2017 17:07:06 : Shadow's Subnautica, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=H3x3-22Gi3g
+15 May 2017 17:07:12 : Shadow's Subnautica, botchat, Purrkour#4004, xD
+15 May 2017 17:07:12 : Shadow's Subnautica, botchat, Lastshadow#5809, You shouldn't have done that
+15 May 2017 17:07:14 : Shadow's Subnautica, botchat, Lastshadow#5809, ;search the magikarp song
+15 May 2017 17:07:15 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Added The Magikarp Song to the queue
+15 May 2017 17:07:16 : Shadow's Subnautica, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=H3x3-22Gi3g
+15 May 2017 17:07:17 : Shadow's Subnautica, botchat, Lastshadow#5809, ;search the magikarp song
+15 May 2017 17:07:18 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Added The Magikarp Song to the queue
+15 May 2017 17:07:18 : Shadow's Subnautica, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=H3x3-22Gi3g
+15 May 2017 17:07:22 : Shadow's Subnautica, botchat, Lastshadow#5809, ;search the magikarp song
+15 May 2017 17:07:24 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Added The Magikarp Song to the queue
+15 May 2017 17:07:24 : Shadow's Subnautica, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=H3x3-22Gi3g
+15 May 2017 17:07:28 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, **that moment you see a lot of old art of someones, and start spamming the favorite button**
+15 May 2017 17:07:30 : Shadow's Subnautica, botchat, Lastshadow#5809, :)
+15 May 2017 17:07:30 : Shadow's Subnautica, botchat, Purrkour#4004, oh do u want to see what i acendently coppyed?
+15 May 2017 17:07:37 : Shadow's Subnautica, botchat, Lastshadow#5809, No
+15 May 2017 17:07:39 : Shadow's Subnautica, botchat, Lastshadow#5809, XD
+15 May 2017 17:07:47 : Shadow's Subnautica, botchat, Purrkour#4004, ok 😢
+15 May 2017 17:07:55 : Shadow's Subnautica, botchat, Lastshadow#5809, 😨
+15 May 2017 17:09:11 : Shadow's Subnautica, botchat, Purrkour#4004, fun fact andrews school is in summer vaca  atm
+15 May 2017 17:09:23 : Shadow's Subnautica, botchat, Lastshadow#5809, Cool
+15 May 2017 17:09:38 : Shadow's Subnautica, botchat, Lastshadow#5809, I have finals next week
+15 May 2017 17:09:42 : Shadow's Subnautica, botchat, Purrkour#4004, cool
+15 May 2017 17:09:55 : Shadow's Subnautica, botchat, Purrkour#4004, OOOOOHH DAMN
+15 May 2017 17:09:56 : Shadow's Subnautica, botchat, Purrkour#4004, xD
+15 May 2017 17:11:12 : Shadow's Subnautica, botchat, Lastshadow#5809, ;search come little children
+15 May 2017 17:11:15 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Added Come Little Children (Lyrics) to the queue
+15 May 2017 17:11:15 : Shadow's Subnautica, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=1t8-_pI1-9Q
+15 May 2017 17:11:29 : Shadow's Subnautica, botchat, Lastshadow#5809, ;search come little children nightcore
+15 May 2017 17:11:31 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Added Nightcore - Come Little Children to the queue
+15 May 2017 17:11:31 : Shadow's Subnautica, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=1a5FPH5gqRo
+15 May 2017 17:17:33 : Shadow's Subnautica, botchat, Purrkour#4004, ;songs
+15 May 2017 17:17:34 : Shadow's Subnautica, botchat, Botfuzzy77#2209, 
+15 May 2017 17:23:12 : Shadow's Subnautica, botchat, Lastshadow#5809, ;skip
+15 May 2017 17:23:12 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Skipping The Knife Game Song AROUND THE WORLD! by request of the requester
+15 May 2017 17:23:48 : Shadow's Subnautica, botchat, Lastshadow#5809, ;search corpse party chapter 1 main theme

@@ -1,0 +1,48 @@
+22 Jul 2017 19:05:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+22 Jul 2017 19:05:42 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:05:42 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:05:52 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, __Shadowfire1217__ left the server!
+22 Jul 2017 19:06:00 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, __Shadowfire1217__ has joined the server!
+22 Jul 2017 19:06:09 : LimitlessMc, mainchat, OGButtSagington#1200, i already have the final version, the other day i found a cracked pixelmon server (i´m premium but my friends aren´t) and  it only supports the 5.0.4 version, which none of us have
+22 Jul 2017 19:06:14 : Legacy Craft, admin, Sunstrikeh#8034, Should give out a daily key after 10 votes
+22 Jul 2017 19:06:21 : Legacy Craft, admin, DormantSolice#5007, o.o
+22 Jul 2017 19:06:39 : Legacy Craft, admin, DormantSolice#5007, 10 votes = 1 key, 3votes = 1 diamond
+22 Jul 2017 19:06:51 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, __Shadowfire1217__ left the server!
+22 Jul 2017 19:07:01 : Legacy Craft, admin, DormantSolice#5007, also, are there going to be more added to the /vote shop? o.o
+22 Jul 2017 19:07:01 : Lycryisic, lycrysic-modded-chat, Lycrysic Server Bot#1200, __Shadowfire1217__ has joined the server!
+22 Jul 2017 19:07:27 : Legacy Craft, admin, Sunstrikeh#8034, There could be. It's just default right now..
+22 Jul 2017 19:07:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug math,pow(.1,.5)
+22 Jul 2017 19:07:29 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+(<module 'math' (built-in)>, 0.31622776601683794)
+```
+22 Jul 2017 19:07:30 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+(<module 'math' (built-in)>, 0.31622776601683794)
+```
+22 Jul 2017 19:07:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug math.pow(.1,.5)
+22 Jul 2017 19:07:38 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+0.31622776601683794
+```
+22 Jul 2017 19:07:38 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+0.31622776601683794
+```
+22 Jul 2017 19:08:09 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug log(121, 2)
+22 Jul 2017 19:08:09 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+NameError: name 'log' is not defined
+```
+22 Jul 2017 19:08:09 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+NameError: name 'log' is not defined
+```
+22 Jul 2017 19:08:16 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug math.log(121, 2)
+22 Jul 2017 19:08:16 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+6.9188632372745955
+```
+22 Jul 2017 19:08:16 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+6.9188632372745955
+```
+22 Jul 2017 19:08:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug math.log(121, 3)
+22 Jul 2017 19:08:25 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+4.365316677288276
+```
+22 Jul 2017 19:08:25 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+4.365316677288276
+```

@@ -1,0 +1,159 @@
+22 Sep 2016 22:54:41 : The Wild Weeaboos, general, Wertfuzzy77#0274, yes
+22 Sep 2016 22:54:52 : The Wild Weeaboos, general, Ryan#3332, I guess im a weeaboo
+22 Sep 2016 22:54:57 : The Wild Weeaboos, general, enragednuke#2565, LUL
+22 Sep 2016 22:55:58 : The Wild Weeaboos, general, Wertfuzzy77#0274, ;join
+22 Sep 2016 22:56:06 : The Wild Weeaboos, general, Wertfuzzy77#0274, ;playlist Kimi Kimi Kimi Kimi Kimi Kimi Kimi Kimi
+22 Sep 2016 22:56:31 : The Wild Weeaboos, general, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+22 Sep 2016 22:58:14 : The Wild Weeaboos, general, enragednuke#2565, @Tally @FinaldF what was #1
+22 Sep 2016 22:59:01 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Online!
+22 Sep 2016 22:59:01 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+22 Sep 2016 22:59:31 : The Wild Weeaboos, general, Tally#2764, basically show that when you run through a nxn student and college thing
+22 Sep 2016 22:59:36 : The Wild Weeaboos, general, Tally#2764, i forgot what it was called
+22 Sep 2016 22:59:49 : Cipher, general, Botfuzzy77#2209, **Es Fusel**(Grunt) is now Offline!
+22 Sep 2016 22:59:53 : The Wild Weeaboos, general, FinaldF#5864, 1.    Stable Marriage Running Time:
+College A    X     Y    Z
+College B    X    Z    Y
+College C    Y    Z    X
+
+Student X    B    A    C
+Student Y    B    C    A
+Student Z    A    C    B
+
+    College A propose to X and X accepts
+    College B propose to X and X accepts
+    College A proposes to Y and Y accepts
+    College C proposes to Y and Y denies
+    College C proposes to Z and Z accepts
+    This takes 5 iterations and n = 3. Therefore n2 = 9 and 5 is in between the range of 0n2 and n2.
+22 Sep 2016 22:59:53 : Cipher, general, Botfuzzy77#2209, **Es Fusel**(Grunt) is now Online!
+22 Sep 2016 22:59:56 : The Wild Weeaboos, general, FinaldF#5864, that's mine
+22 Sep 2016 22:59:57 : The Wild Weeaboos, general, Tally#2764, show that for some c between 0 and 1
+22 Sep 2016 23:00:03 : The Wild Weeaboos, general, Tally#2764, that the rune time still works
+22 Sep 2016 23:00:09 : The Wild Weeaboos, general, FinaldF#5864, Just change the table basically
+22 Sep 2016 23:06:47 : The Wild Weeaboos, general, enragednuke#2565, @FinaldF and 4a?
+22 Sep 2016 23:07:36 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Online!
+22 Sep 2016 23:08:34 : My Personal Server, general, Botfuzzy77#2209, **Twist3dMindz**(Member) is now Online!
+22 Sep 2016 23:10:30 : The Wild Weeaboos, general, enragednuke#2565, i think i made a mistake in my algorithm btw
+22 Sep 2016 23:10:38 : The Wild Weeaboos, general, enragednuke#2565, i think it's this
+```
+for i = 1, 2, ... n
+  B[i,i+1] = A[i]
+  for j = i+2, i+3, ..., n
+    B[i,j] = B[i,j-1] + A[j]
+  endfor
+endfor
+```
+22 Sep 2016 23:12:21 : The Wild Weeaboos, general, Wertfuzzy77#0274, `show that for some c between 0 and 1` @FinaldF So where does that c come into your answer?
+22 Sep 2016 23:12:43 : The Wild Weeaboos, general, enragednuke#2565, also I think 4a is actually n^3
+22 Sep 2016 23:12:54 : The Wild Weeaboos, general, enragednuke#2565, werent we saying it was only n^2 though that one page said n^3?
+22 Sep 2016 23:13:02 : The Wild Weeaboos, general, Wertfuzzy77#0274, 4a is theta not )
+22 Sep 2016 23:13:05 : The Wild Weeaboos, general, Wertfuzzy77#0274, O*
+22 Sep 2016 23:13:13 : The Wild Weeaboos, general, enragednuke#2565, hmm
+22 Sep 2016 23:13:35 : The Wild Weeaboos, general, Wertfuzzy77#0274, so Chris's sigma thing that we translated still works
+22 Sep 2016 23:13:39 : The Wild Weeaboos, general, Wertfuzzy77#0274, for 4a
+22 Sep 2016 23:14:05 : The Wild Weeaboos, general, enragednuke#2565, i think we need to specify a function not just say that theta(f(n)) = x^2
+22 Sep 2016 23:14:08 : The Wild Weeaboos, general, enragednuke#2565, we need that f(n) part
+22 Sep 2016 23:15:19 : The Wild Weeaboos, general, enragednuke#2565, @Tally
+22 Sep 2016 23:15:23 : The Wild Weeaboos, general, enragednuke#2565, dont forget to do BIOCHEM owls before work
+22 Sep 2016 23:15:34 : The Wild Weeaboos, general, enragednuke#2565, @Tally
+22 Sep 2016 23:15:34 : The Wild Weeaboos, general, enragednuke#2565, @Tally
+22 Sep 2016 23:15:34 : The Wild Weeaboos, general, enragednuke#2565, @Tally @Tally
+22 Sep 2016 23:15:36 : The Wild Weeaboos, general, enragednuke#2565, @Tally @Tally @Tally
+22 Sep 2016 23:16:10 : The Wild Weeaboos, general, Wertfuzzy77#0274, ;image Yes Mom
+22 Sep 2016 23:16:11 : Temp Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Online!
+22 Sep 2016 23:16:11 : The Wild Weeaboos, general, Botfuzzy77#2209, http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-say-yes-mom.png
+22 Sep 2016 23:16:11 : My Personal Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Online!
+22 Sep 2016 23:16:14 : The Wild Weeaboos, general, Wertfuzzy77#0274, ew
+22 Sep 2016 23:17:01 : Cipher, general, Botfuzzy77#2209, **Es Fusel**(Grunt) is now Offline!
+22 Sep 2016 23:17:13 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+22 Sep 2016 23:17:13 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+22 Sep 2016 23:17:29 : Penguins, general, Botfuzzy77#2209, **Google**(Genesect) is now Offline!
+22 Sep 2016 23:17:35 : Penguins, general, Botfuzzy77#2209, **Google**(Genesect) is now Online!
+22 Sep 2016 23:18:13 : The Wild Weeaboos, general, \//\#7946, ;image rare pepe
+22 Sep 2016 23:18:13 : The Wild Weeaboos, general, Botfuzzy77#2209, http://www.pantherprowler.com/wp-content/uploads/2015/12/Pepe_rare.png
+22 Sep 2016 23:18:41 : The Wild Weeaboos, general, enragednuke#2565, lol
+22 Sep 2016 23:18:48 : The Wild Weeaboos, general, enragednuke#2565, f r e s h m e m e s
+22 Sep 2016 23:19:01 : The Wild Weeaboos, general, \//\#7946, ;image fresh memes
+22 Sep 2016 23:19:02 : The Wild Weeaboos, general, Botfuzzy77#2209, https://a.thumbs.redditmedia.com/noTO3DZEuJu6oGsnPfoJ5AjXgw5f2uJ76f_8CYgM200.png
+22 Sep 2016 23:19:13 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Offline!
+22 Sep 2016 23:19:13 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+22 Sep 2016 23:24:19 : The Wild Weeaboos, general, Ryan#3332, Do my hw
+22 Sep 2016 23:24:21 : The Wild Weeaboos, general, enragednuke#2565, no
+22 Sep 2016 23:24:22 : The Wild Weeaboos, general, enragednuke#2565, kys
+22 Sep 2016 23:24:24 : The Wild Weeaboos, general, enragednuke#2565, ;kys
+22 Sep 2016 23:24:24 : The Wild Weeaboos, general, Botfuzzy77#2209, Hey Mean!
+22 Sep 2016 23:24:26 : The Wild Weeaboos, general, \//\#7946, ;image kys
+22 Sep 2016 23:24:27 : The Wild Weeaboos, general, Botfuzzy77#2209, http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-kys-14.png
+22 Sep 2016 23:24:40 : The Wild Weeaboos, general, enragednuke#2565, LUL
+22 Sep 2016 23:24:42 : The Wild Weeaboos, general, enragednuke#2565, ;image kms
+22 Sep 2016 23:24:43 : The Wild Weeaboos, general, Botfuzzy77#2209, https://pbs.twimg.com/profile_images/530791169794404353/2b6D_150.png
+22 Sep 2016 23:24:43 : The Wild Weeaboos, general, Ryan#3332, ;image bleach
+22 Sep 2016 23:24:43 : The Wild Weeaboos, general, Botfuzzy77#2209, https://www.clorox.com/wp-content/uploads/2015/05/concentrated-regular-bleach-ymal.png
+22 Sep 2016 23:24:50 : The Wild Weeaboos, general, enragednuke#2565, ;image oxycodon
+22 Sep 2016 23:24:50 : The Wild Weeaboos, general, Botfuzzy77#2209, https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Oxycodone_skeletal.png/200px-Oxycodone_skeletal.png
+22 Sep 2016 23:25:13 : The Wild Weeaboos, general, Ryan#3332, ;image death
+22 Sep 2016 23:25:14 : The Wild Weeaboos, general, Botfuzzy77#2209, http://images.huffingtonpost.com/2016-02-07-1454862213-4170494-skullandcrossbones.png
+22 Sep 2016 23:25:20 : The Wild Weeaboos, general, \//\#7946, ;image anime noose
+22 Sep 2016 23:25:20 : The Wild Weeaboos, general, Botfuzzy77#2209, http://i291.photobucket.com/albums/ll287/21wq/ponies/649019__meme_grimdark_anon_feels_ponyville_suicide_truth_doinglovingthings_noose_zpsce29184d.png
+22 Sep 2016 23:26:09 : The Wild Weeaboos, general, \//\#7946, ;image "anime noose"
+22 Sep 2016 23:26:10 : The Wild Weeaboos, general, Botfuzzy77#2209, http://i291.photobucket.com/albums/ll287/21wq/ponies/649019__meme_grimdark_anon_feels_ponyville_suicide_truth_doinglovingthings_noose_zpsce29184d.png
+22 Sep 2016 23:26:32 : The Wild Weeaboos, general, Ryan#3332, ;image weeb
+22 Sep 2016 23:26:33 : The Wild Weeaboos, general, Botfuzzy77#2209, http://static.tumblr.com/bfd3a0b3a4bb0b9193e0c7e26b5f0e82/rheyrxl/2J6n5jt1r/tumblr_static_6xjht5ejyscgg80k04kcco4wg.png
+22 Sep 2016 23:26:34 : The Wild Weeaboos, general, enragednuke#2565, 
+22 Sep 2016 23:26:51 : The Wild Weeaboos, general, enragednuke#2565, 
+22 Sep 2016 23:26:56 : The Wild Weeaboos, general, enragednuke#2565, godbless anime memes
+22 Sep 2016 23:27:30 : The Wild Weeaboos, general, \//\#7946, ;image anime_irl
+22 Sep 2016 23:27:31 : The Wild Weeaboos, general, Botfuzzy77#2209, http://i.imgur.com/YQGy6ZG.png
+22 Sep 2016 23:27:31 : The Wild Weeaboos, general, Wertfuzzy77#0274, ;reload
+22 Sep 2016 23:27:31 : The Wild Weeaboos, general, Botfuzzy77#2209, Reloaded all Modules
+22 Sep 2016 23:27:43 : The Wild Weeaboos, general, enragednuke#2565, lol
+22 Sep 2016 23:27:51 : The Wild Weeaboos, general, enragednuke#2565, ;image anime_irl
+22 Sep 2016 23:27:51 : The Wild Weeaboos, general, Botfuzzy77#2209, http://i.imgur.com/EIFyvJJ.png
+22 Sep 2016 23:27:56 : The Wild Weeaboos, general, \//\#7946, ;image anime noose
+22 Sep 2016 23:27:56 : The Wild Weeaboos, general, Botfuzzy77#2209, http://i291.photobucket.com/albums/ll287/21wq/ponies/649019__meme_grimdark_anon_feels_ponyville_suicide_truth_doinglovingthings_noose_zpsce29184d.png
+22 Sep 2016 23:27:57 : The Wild Weeaboos, general, enragednuke#2565, ;image anime_irl
+22 Sep 2016 23:27:58 : The Wild Weeaboos, general, Botfuzzy77#2209, http://i.imgur.com/EIFyvJJ.png
+22 Sep 2016 23:28:32 : The Wild Weeaboos, general, Wertfuzzy77#0274, ;reload
+22 Sep 2016 23:28:32 : The Wild Weeaboos, general, Botfuzzy77#2209, Reloaded all Modules
+22 Sep 2016 23:28:40 : The Wild Weeaboos, general, Wertfuzzy77#0274, ;image anime noose
+22 Sep 2016 23:28:41 : The Wild Weeaboos, general, Botfuzzy77#2209, https://hikkichan.com/hikki/src/1444682333422.jpg
+22 Sep 2016 23:28:54 : The Wild Weeaboos, general, Wertfuzzy77#0274, ;image anime_irl
+22 Sep 2016 23:28:55 : The Wild Weeaboos, general, Botfuzzy77#2209, https://img.ifcdn.com/images/29620f28ab0af6b248abaaf27823badc713f0b5398993c2bf1f0892b75be50c2_1.jpg
+22 Sep 2016 23:31:44 : The Wild Weeaboos, general, Ryan#3332, Help
+22 Sep 2016 23:38:03 : Penguins, general, Botfuzzy77#2209, **Google**(Genesect) is now Offline!
+22 Sep 2016 23:38:08 : Penguins, general, Botfuzzy77#2209, **Google**(Genesect) is now Online!
+22 Sep 2016 23:40:19 : The Wild Weeaboos, general, FinaldF#5864, Sorry wasn't paying attention and yes 4a is n^3
+22 Sep 2016 23:40:25 : The Wild Weeaboos, general, FinaldF#5864, the function is the sigma thing that we have to create
+22 Sep 2016 23:40:34 : The Wild Weeaboos, general, FinaldF#5864, the c for my answer is like whatever the fuck 5/9 is
+22 Sep 2016 23:40:36 : The Wild Weeaboos, general, FinaldF#5864, so like
+22 Sep 2016 23:40:38 : The Wild Weeaboos, general, FinaldF#5864, .5555555555555555555
+22 Sep 2016 23:40:46 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **ErisBot**(ErisBot) is now Offline!
+22 Sep 2016 23:40:49 : The Wild Weeaboos, general, FinaldF#5864, @Nubs (CS311)
+22 Sep 2016 23:41:21 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Cat**(Children of The Raw Man) is now Online!
+22 Sep 2016 23:41:24 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Cat**(Children of The Raw Man) is now Offline!
+22 Sep 2016 23:41:26 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Cat**(Children of The Raw Man) is now Online!
+22 Sep 2016 23:41:30 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **ErisBot**(ErisBot) is now Online!
+22 Sep 2016 23:42:29 : Penguins, general, Botfuzzy77#2209, **Olivia**(Xerneas) is now Online!
+22 Sep 2016 23:43:55 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+22 Sep 2016 23:43:55 : GreenHillGang, general, Botfuzzy77#2209, **Wertfuzzy77**(No Role) is now Online!
+22 Sep 2016 23:44:05 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **RadicalRadius**(Children of The Raw Man) is now Online!
+22 Sep 2016 23:44:07 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **RadicalRadius**(Children of The Raw Man) is now Online!
+22 Sep 2016 23:44:29 : Penguins, general, Botfuzzy77#2209, **Olivia**(Xerneas) is now Offline!
+22 Sep 2016 23:47:18 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+22 Sep 2016 23:47:19 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+22 Sep 2016 23:48:53 : Penguins, general, Botfuzzy77#2209, **Olivia**(Xerneas) is now Online!
+22 Sep 2016 23:49:37 : GreenHillGang, general, Botfuzzy77#2209, **Wertfuzzy77**(No Role) is now Online!
+22 Sep 2016 23:49:37 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+22 Sep 2016 23:50:53 : Penguins, general, Botfuzzy77#2209, **Olivia**(Xerneas) is now Offline!
+22 Sep 2016 23:52:25 : The Wild Weeaboos, general, FinaldF#5864, uhhhhhh anyone hae an idea
+22 Sep 2016 23:52:28 : The Wild Weeaboos, general, FinaldF#5864, for 6c-f
+22 Sep 2016 23:52:48 : The Wild Weeaboos, general, enragednuke#2565, i dont even know a/b so lol
+22 Sep 2016 23:53:01 : Penguins, general, Botfuzzy77#2209, **Olivia**(Xerneas) is now Online!
+22 Sep 2016 23:53:03 : The Wild Weeaboos, coding, Wertfuzzy77#0274, ;join
+22 Sep 2016 23:53:12 : The Wild Weeaboos, coding, Wertfuzzy77#0274, ;playlist Kimi Kimi Kimi Kimi Kimi Kimi
+22 Sep 2016 23:53:37 : The Wild Weeaboos, coding, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+22 Sep 2016 23:53:39 : The Wild Weeaboos, coding, Wertfuzzy77#0274, ;skipo
+22 Sep 2016 23:53:41 : The Wild Weeaboos, coding, Wertfuzzy77#0274, ;skip
+22 Sep 2016 23:53:41 : The Wild Weeaboos, coding, Botfuzzy77#2209, Skipping Kimi no Na wa. (Your Name.) RADWIMPS – Yumetourou (ENG SUB)
+22 Sep 2016 23:53:50 : The Wild Weeaboos, coding, Wertfuzzy77#0274, ;relog
+22 Sep 2016 23:53:50 : The Wild Weeaboos, coding, Botfuzzy77#2209, Relogging...

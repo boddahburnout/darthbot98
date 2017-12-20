@@ -1,0 +1,877 @@
+14 Aug 2017 04:37:50 : PokeIslands, general, KiritoSanPlays#2208, 😭
+14 Aug 2017 04:37:50 : PokeIslands, general, Wertfuzzy77#0274, She's not responding to me
+14 Aug 2017 04:37:58 : PokeIslands, general, Brady#8237, oh shit
+14 Aug 2017 04:37:58 : PokeIslands, general, dragonbro0803#0985, ;help
+14 Aug 2017 04:37:58 : None, Direct Message with dragonbro0803, Botfuzzy77#2209, ```
+A Bot whose sole Purpose is to serve Wertfuzzy77! Version 0.15.1.3
+(Created by Wertfuzzy77)
+
+FlavorTexts:
+  lmgtfy           Returns a Link to a "Let me Google That For You" Page
+  choose           Chooses from a set of things
+  funify           Funifies a given text input
+  ev               
+  rate             Rates the Player
+  fml              Returns a Random Post from fmylife.com
+  hug              Adds Emotion
+  conch            Ask the Magic Conch a Question
+  wyr              
+  kys              
+  slap             Adds Emotion
+  luck             Returns the Player's Luck
+  rps              Allows the player to play Rock, Paper, Scissors with the B...
+  kiss             Adds Emotion
+  image            Returns the First Found Image on Google Images for this Input
+  hates            Adds Emotion
+  pokemon          Returns Links to Pokemon pages
+  kill             Adds Emotion
+  loves            Adds Emotion
+  gif              Returns the First Found Image on Google Images for this Input
+  likes            Adds Emotion
+  server           Returns Information on the Limitless MC server!
+Games:
+  prestige         Allows you to prestige at the cost of levels
+  color            
+  ranking          Shows the Ranking of the top players
+  lookup           Displays your Current Information
+  cooldown         Shows your Cooldowns
+  level            Displays your Current Information
+  mine             Allows you to mine for a risk to your XP
+  train            Fights Pokemon for XP
+  pokehelp         Pokemon Battle Sim Help (Basically useless)
+  settype          
+  pokedex          
+  pokebattle       Fights a Pokemon Boss
+  types            
+  pokeboss         Displays Boss Info
+  changeBackground 
+  recent           
+MusicPlayer:
+  loop             Plays the current song again
+  yplaylist        
+  song             Returns information about the current playing song
+  clear            Clears the Queue
+  skip             Skips the Current song
+```
+14 Aug 2017 04:37:58 : None, Direct Message with dragonbro0803, Botfuzzy77#2209, ```
+  youtube          Adds a Song for the Bot to Play
+  cycle            Tells the bot to cycle the current songs in the queue
+  music            Returns the current status of the Music Bot
+  playlist         Adds songs from a predefined playlist to the songs list
+  makeplaylist     Makes a custom playlist for the bot to save
+  join             Joins the Voice channel you are currently in
+  search           Searches for a song
+  remove           removes a song from a queue by index
+  recommend        Allow the bot to add up to 5 songs to the queue to have in...
+  songs            Prints the songs in the queue
+  extendplaylist   Extends a custom playlist
+  viewplaylist     Views the songs of a playlists
+  shuffle          Shuffles the songs the queue
+  reconnect        
+  radio            Enables Radio Mode
+  playlists        Shows all the current playlists
+  leave            Leaves the Join chat
+StaffCmds:
+  tempmute         
+  unmute           
+  mutelist         
+  unmuteall        Unmutes ALL muted players
+  mute             
+​No Category:
+  Icon             
+  status           Returns the Status of the Bot, along with Additional Infor...
+  source           Returns a link to the source code for this bot
+  joined           Says when a member joined.
+  feedback         Returns a link to a Google Forums, where you can leave fee...
+  afk              Sets you as AFK, and the Bot will auto Reply for you with ...
+  invite           Returns a Link to the Invite URL for this bot
+  cleverbot        
+  help             Shows this message.
+  ark              Returns Info on Stubby's ARK server
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+14 Aug 2017 04:38:00 : PokeIslands, general, Brady#8237, i borked botfuzzy
+14 Aug 2017 04:38:00 : PokeIslands, general, Brady#8237, 😭
+14 Aug 2017 04:38:07 : PokeIslands, general, Wertfuzzy77#0274, That's alright xD I have console access on my phone, I'll restart her
+14 Aug 2017 04:38:14 : PokeIslands, general, KiritoSanPlays#2208, 😭
+14 Aug 2017 04:38:21 : PokeIslands, general, KiritoSanPlays#2208, me want botfuzzy 😭
+14 Aug 2017 04:38:35 : PokeIslands, general, dragonbro0803#0985, Botfuzzy is PMing me
+14 Aug 2017 04:38:37 : PokeIslands, general, Wertfuzzy77#0274, Says she's already up?
+14 Aug 2017 04:38:44 : PokeIslands, general, Wertfuzzy77#0274, ;status
+14 Aug 2017 04:38:45 : PokeIslands, general, Botfuzzy77#2209, ```UpTime: 0:00:54.100000s
+Total Messages: 12
+Servers Joined: 32
+CPU usage: 0.0%
+Memory usage: 32.4%
+```
+14 Aug 2017 04:38:48 : PokeIslands, general, KiritoSanPlays#2208, she's still in the online list for me
+14 Aug 2017 04:38:48 : PokeIslands, general, Wertfuzzy77#0274, O
+14 Aug 2017 04:38:49 : PokeIslands, general, Wertfuzzy77#0274, Is up
+14 Aug 2017 04:38:58 : PokeIslands, general, Wertfuzzy77#0274, Restarted herself
+14 Aug 2017 04:39:01 : PokeIslands, general, dragonbro0803#0985, ;search bad luck charm
+14 Aug 2017 04:39:01 : PokeIslands, general, Botfuzzy77#2209, The Bot isnt connected in this server!
+14 Aug 2017 04:39:05 : PokeIslands, general, KiritoSanPlays#2208, look @Bots
+14 Aug 2017 04:39:14 : PokeIslands, general, dragonbro0803#0985, ;summon
+14 Aug 2017 04:39:18 : PokeIslands, general, dragonbro0803#0985, ;come
+14 Aug 2017 04:39:20 : PokeIslands, general, dragonbro0803#0985, ;musix
+14 Aug 2017 04:39:23 : PokeIslands, general, KiritoSanPlays#2208, @Botfuzzy77  are you broke?
+14 Aug 2017 04:39:23 : Proton Gaming Network, staff_infinityevolved, Light#6734, @Mike  what doin
+14 Aug 2017 04:39:23 : PokeIslands, general, Botfuzzy77#2209, Yes...
+14 Aug 2017 04:39:24 : PokeIslands, general, dragonbro0803#0985, ;play
+14 Aug 2017 04:39:28 : PokeIslands, general, KiritoSanPlays#2208, ok she's broke
+14 Aug 2017 04:39:28 : PokeIslands, general, dragonbro0803#0985, Uh
+14 Aug 2017 04:39:31 : LimitlessMc, mainchat, Wertfuzzy77#0274, You are better off just becoming a contrib on my bot xD
+14 Aug 2017 04:39:40 : PokeIslands, general, Wertfuzzy77#0274, ;join
+14 Aug 2017 04:39:40 : PokeIslands, general, Botfuzzy77#2209, Connected channel!
+14 Aug 2017 04:39:44 : PokeIslands, general, dragonbro0803#0985, @Botfuzzy77 do you love me
+14 Aug 2017 04:39:44 : PokeIslands, general, Botfuzzy77#2209, Yes.
+14 Aug 2017 04:39:45 : PokeIslands, general, Wertfuzzy77#0274, I mean no
+14 Aug 2017 04:39:50 : PokeIslands, general, dragonbro0803#0985, .-.
+14 Aug 2017 04:39:50 : PokeIslands, general, Wertfuzzy77#0274, Try joining first xD
+14 Aug 2017 04:39:50 : PokeIslands, general, KiritoSanPlays#2208, loooool
+14 Aug 2017 04:40:01 : PokeIslands, general, dragonbro0803#0985, ;search bad luck charm
+14 Aug 2017 04:40:02 : LimitlessMc, mainchat, Light#6734, listen
+14 Aug 2017 04:40:03 : PokeIslands, general, Botfuzzy77#2209, Added Bad Luck Charm by Jeff Williams with Lyrics to the queue
+14 Aug 2017 04:40:03 : PokeIslands, general, Botfuzzy77#2209, https://www.youtube.com/watch?v=7o_LmTfARno
+14 Aug 2017 04:40:07 : LimitlessMc, mainchat, Light#6734, okei let me have this
+14 Aug 2017 04:40:08 : PokeIslands, general, KiritoSanPlays#2208, @Botfuzzy77  wanna sing a song?
+14 Aug 2017 04:40:33 : PokeIslands, general, dragonbro0803#0985, ;search armed and ready
+14 Aug 2017 04:40:33 : LimitlessMc, mainchat, Light#6734, but i shall contribute to fuzzybot
+14 Aug 2017 04:40:33 : PokeIslands, general, KiritoSanPlays#2208, o_O
+14 Aug 2017 04:40:33 : PokeIslands, general, KiritoSanPlays#2208, gg
+14 Aug 2017 04:40:33 : PokeIslands, general, dragonbro0803#0985, And we broke her
+14 Aug 2017 04:40:33 : PokeIslands, general, KiritoSanPlays#2208, nah we didn't
+14 Aug 2017 04:40:33 : PokeIslands, general, KiritoSanPlays#2208, try again
+14 Aug 2017 04:40:34 : PokeIslands, general, Botfuzzy77#2209, Ok, what shall we sing?
+14 Aug 2017 04:40:35 : PokeIslands, general, Botfuzzy77#2209, Added Armed and Ready (feat. Casey Lee Williams) by Jeff Williams with Lyrics to the queue
+14 Aug 2017 04:40:35 : PokeIslands, general, Botfuzzy77#2209, https://www.youtube.com/watch?v=cvnmpsWTsBo
+14 Aug 2017 04:40:38 : PokeIslands, general, dragonbro0803#0985, Oh
+14 Aug 2017 04:40:40 : PokeIslands, general, KiritoSanPlays#2208, see 😃
+14 Aug 2017 04:40:41 : LimitlessMc, mainchat, Wertfuzzy77#0274, I mean.. That was directed to alpha xD but sure, you too
+14 Aug 2017 04:40:46 : LimitlessMc, mainchat, Light#6734, XD
+14 Aug 2017 04:40:48 : PokeIslands, general, dragonbro0803#0985, And we broke her
+14 Aug 2017 04:40:51 : PokeIslands, general, KiritoSanPlays#2208, @Botfuzzy77  i am a barby girl?
+14 Aug 2017 04:40:52 : PokeIslands, general, Botfuzzy77#2209, I'm ticklish.
+14 Aug 2017 04:40:56 : PokeIslands, general, KiritoSanPlays#2208, looool
+14 Aug 2017 04:41:00 : PokeIslands, general, Wertfuzzy77#0274, ;music
+14 Aug 2017 04:41:00 : PokeIslands, general, Botfuzzy77#2209, 
+14 Aug 2017 04:41:02 : LimitlessMc, mainchat, Light#6734, what u tryin to get bot 4 @AlphaBit
+14 Aug 2017 04:41:10 : PokeIslands, general, dragonbro0803#0985, Yo she can only do one thing at once stop talking to her
+14 Aug 2017 04:41:12 : PokeIslands, general, Wertfuzzy77#0274, Yeah, what is up with her today
+14 Aug 2017 04:41:24 : PokeIslands, general, KiritoSanPlays#2208, its coz she was spammed before :/
+14 Aug 2017 04:41:30 : PokeIslands, general, dragonbro0803#0985, ;skip
+14 Aug 2017 04:41:30 : PokeIslands, general, Botfuzzy77#2209, Skipping Bad Luck Charm by Jeff Williams with Lyrics by request of the requester
+14 Aug 2017 04:41:32 : PokeIslands, general, KiritoSanPlays#2208, she worked perfectly before
+14 Aug 2017 04:41:43 : PokeIslands, general, KiritoSanPlays#2208, except for some voice cracks on my end
+14 Aug 2017 04:41:49 : PokeIslands, general, dragonbro0803#0985, You broke her skrill
+14 Aug 2017 04:41:53 : PokeIslands, general, KiritoSanPlays#2208, nope i didn't >_<
+14 Aug 2017 04:41:53 : PokeIslands, general, dragonbro0803#0985, ;skip
+14 Aug 2017 04:41:53 : PokeIslands, general, Botfuzzy77#2209, Skipping Armed and Ready (feat. Casey Lee Williams) by Jeff Williams with Lyrics by request of the requester
+14 Aug 2017 04:41:58 : PokeIslands, general, dragonbro0803#0985, ;skip
+14 Aug 2017 04:41:58 : PokeIslands, general, Botfuzzy77#2209, Skipping Armed and Ready (feat. Casey Lee Williams) by Jeff Williams with Lyrics by request of the requester
+14 Aug 2017 04:42:09 : PokeIslands, general, KiritoSanPlays#2208, look how much you added that >_<
+14 Aug 2017 04:42:22 : PokeIslands, general, dragonbro0803#0985, I added 2 songs
+14 Aug 2017 04:42:27 : PokeIslands, general, Wertfuzzy77#0274, ;reconnect
+14 Aug 2017 04:42:28 : PokeIslands, general, Botfuzzy77#2209, Reconnected channel!
+14 Aug 2017 04:42:31 : PokeIslands, general, KiritoSanPlays#2208, and i just talked to her >_<
+14 Aug 2017 04:42:38 : PokeIslands, general, dragonbro0803#0985, ;search Armed and Ready
+14 Aug 2017 04:42:40 : PokeIslands, general, Botfuzzy77#2209, Added Armed and Ready (feat. Casey Lee Williams) by Jeff Williams with Lyrics to the queue
+14 Aug 2017 04:42:40 : PokeIslands, general, Botfuzzy77#2209, https://www.youtube.com/watch?v=cvnmpsWTsBo
+14 Aug 2017 04:42:51 : PokeIslands, general, KiritoSanPlays#2208, wait whats the speed she's typing at?
+14 Aug 2017 04:43:01 : PokeIslands, general, Wertfuzzy77#0274, Infinite
+14 Aug 2017 04:43:05 : PokeIslands, general, KiritoSanPlays#2208, o_O
+14 Aug 2017 04:43:17 : PokeIslands, general, Wertfuzzy77#0274, Well, as fast as a computer can send a message
+14 Aug 2017 04:43:21 : PokeIslands, general, KiritoSanPlays#2208, lol
+14 Aug 2017 04:43:25 : LimitlessMc, botchat, ThundererZ#4598, ;train
+14 Aug 2017 04:43:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+14 Aug 2017 04:43:26 : LimitlessMc, botchat, Botfuzzy77#2209, 
+14 Aug 2017 04:43:27 : PokeIslands, general, Wertfuzzy77#0274, It's not actually typing
+14 Aug 2017 04:43:29 : PokeIslands, general, KiritoSanPlays#2208, i can insta send messages with ahk lol
+14 Aug 2017 04:43:34 : LimitlessMc, botchat, ThundererZ#4598, ;luck
+14 Aug 2017 04:43:34 : LimitlessMc, botchat, Botfuzzy77#2209, ThundererZ's luck is 12.87 out of 100, which is **Completly Horrible**
+14 Aug 2017 04:43:39 : LimitlessMc, botchat, ThundererZ#4598, ;mine
+14 Aug 2017 04:43:40 : LimitlessMc, botchat, Botfuzzy77#2209, 
+14 Aug 2017 04:43:48 : PokeIslands, general, dragonbro0803#0985, ;search like morning follows night
+14 Aug 2017 04:43:50 : PokeIslands, general, Botfuzzy77#2209, Added Like Morning Follows Night (feat. Casey Lee Williams and Lamar Hall) by Jeff Williams with Lyrics to the queue
+14 Aug 2017 04:43:50 : PokeIslands, general, Botfuzzy77#2209, https://www.youtube.com/watch?v=BKXhmK4SYmk
+14 Aug 2017 04:43:58 : PokeIslands, general, Wertfuzzy77#0274, I have the typing there to visually look good, and I have it start typing wayyyy before I send a message
+14 Aug 2017 04:44:08 : PokeIslands, general, KiritoSanPlays#2208, oh :p
+14 Aug 2017 04:44:15 : PokeIslands, general, dragonbro0803#0985, A WHISPER TO A ROARRR
+14 Aug 2017 04:44:18 : PokeIslands, general, Wertfuzzy77#0274, Like the beginning of the command, it does all its stuff and then sends the message
+14 Aug 2017 04:44:19 : PokeIslands, general, dragonbro0803#0985, NO MORE CRYING
+14 Aug 2017 04:44:22 : PokeIslands, general, KiritoSanPlays#2208, wait is it some way of SetKeyDelay typed?
+14 Aug 2017 04:44:25 : PokeIslands, general, dragonbro0803#0985, It's time for me to soarer
+14 Aug 2017 04:44:26 : PokeIslands, general, Wertfuzzy77#0274, Makes it look realistic
+14 Aug 2017 04:44:33 : PokeIslands, general, dragonbro0803#0985, Feel like I'm finally unbroken
+14 Aug 2017 04:44:38 : PokeIslands, general, dragonbro0803#0985, Feel like I'm back from the dead
+14 Aug 2017 04:44:44 : PokeIslands, general, dragonbro0803#0985, Out of my way cus I'm armed
+14 Aug 2017 04:44:45 : PokeIslands, general, dragonbro0803#0985, And
+14 Aug 2017 04:44:47 : PokeIslands, general, dragonbro0803#0985, Ready
+14 Aug 2017 04:44:52 : PokeIslands, general, dragonbro0803#0985, Armed and rwad
+14 Aug 2017 04:44:52 : PokeIslands, general, KiritoSanPlays#2208, wait lemme get something from my ahk script :p
+14 Aug 2017 04:44:54 : PokeIslands, general, dragonbro0803#0985, Ready
+14 Aug 2017 04:44:55 : PokeIslands, general, dragonbro0803#0985, Ready
+14 Aug 2017 04:45:00 : PokeIslands, general, Wertfuzzy77#0274, ;gif ready
+14 Aug 2017 04:45:00 : PokeIslands, general, Botfuzzy77#2209, https://giphy.com/gifs/beatsbydre-26FKZKwH1aGz2dZSw
+14 Aug 2017 04:45:00 : PokeIslands, general, dragonbro0803#0985, Armed and ready
+14 Aug 2017 04:45:14 : PokeIslands, general, Wertfuzzy77#0274, ;gif I'm ready, I'm ready
+14 Aug 2017 04:45:14 : PokeIslands, general, Botfuzzy77#2209, https://giphy.com/gifs/reaction-ready-maNsFlqpY7p96
+14 Aug 2017 04:45:29 : PokeIslands, general, dragonbro0803#0985, Skrill
+14 Aug 2017 04:45:29 : PokeIslands, general, KiritoSanPlays#2208, wait something like this? SetKeyDelay  20,100
+14 Aug 2017 04:45:37 : PokeIslands, general, dragonbro0803#0985, Why can't I have long all caps msgs
+14 Aug 2017 04:45:47 : PokeIslands, general, Wertfuzzy77#0274, Cause my bot doesn't appreciate it
+14 Aug 2017 04:45:51 : PokeIslands, general, dragonbro0803#0985, 😐
+14 Aug 2017 04:45:52 : PokeIslands, general, KiritoSanPlays#2208, its to prevent caps spam 😃
+14 Aug 2017 04:46:05 : PokeIslands, general, KiritoSanPlays#2208, not even i can caps spam
+14 Aug 2017 04:46:05 : PokeIslands, general, dragonbro0803#0985, Feel like I'm finally unbroken
+14 Aug 2017 04:46:13 : PokeIslands, general, dragonbro0803#0985, Feel like I'm back from the dead
+14 Aug 2017 04:46:21 : PokeIslands, general, KiritoSanPlays#2208, if i am correct its like 5 Capped letters before it removes ur message
+14 Aug 2017 04:46:21 : PokeIslands, general, dragonbro0803#0985, And radyy
+14 Aug 2017 04:46:28 : PokeIslands, general, dragonbro0803#0985, Allene's and reasdy
+14 Aug 2017 04:46:29 : PokeIslands, general, dragonbro0803#0985, Ready
+14 Aug 2017 04:46:31 : PokeIslands, general, Wertfuzzy77#0274, Ya, something like that
+14 Aug 2017 04:46:33 : PokeIslands, general, dragonbro0803#0985, Armed and ready
+14 Aug 2017 04:46:35 : PokeIslands, general, dragonbro0803#0985, Ready
+14 Aug 2017 04:46:37 : PokeIslands, general, dragonbro0803#0985, Ready
+14 Aug 2017 04:46:37 : PokeIslands, general, KiritoSanPlays#2208, lemme test 😃
+14 Aug 2017 04:46:37 : PokeIslands, general, Wertfuzzy77#0274, But... If you do like this
+14 Aug 2017 04:46:40 : PokeIslands, general, dragonbro0803#0985, Armed and ready
+14 Aug 2017 04:46:44 : PokeIslands, general, Wertfuzzy77#0274, AAAAAAAAAAAAAAA. Hi
+14 Aug 2017 04:46:47 : PokeIslands, general, KiritoSanPlays#2208, TESTING FOR CAPS
+14 Aug 2017 04:46:47 : PokeIslands, general, Wertfuzzy77#0274, It's fine
+14 Aug 2017 04:46:51 : PokeIslands, general, KiritoSanPlays#2208, oh
+14 Aug 2017 04:47:02 : PokeIslands, general, KiritoSanPlays#2208, yeh then it depends on the lenght of the line
+14 Aug 2017 04:47:04 : PokeIslands, general, Wertfuzzy77#0274, I think it has to be one word? Maybe
+14 Aug 2017 04:47:06 : PokeIslands, general, dragonbro0803#0985, ;skip
+14 Aug 2017 04:47:06 : PokeIslands, general, Botfuzzy77#2209, Skipping Armed and Ready (feat. Casey Lee Williams) by Jeff Williams with Lyrics by request of the requester
+14 Aug 2017 04:47:08 : LimitlessMc, mainchat, Light#6734, why does mc always crash
+14 Aug 2017 04:47:10 : LimitlessMc, mainchat, Light#6734, :L
+14 Aug 2017 04:47:15 : PokeIslands, general, dragonbro0803#0985, YOU DONT
+14 Aug 2017 04:47:16 : PokeIslands, general, Wertfuzzy77#0274, ;recommend
+14 Aug 2017 04:47:16 : PokeIslands, general, Botfuzzy77#2209, Recommend Songs to play: True
+14 Aug 2017 04:47:18 : PokeIslands, general, KiritoSanPlays#2208, AAAAAAAAAAAAAAA
+14 Aug 2017 04:47:22 : PokeIslands, general, KiritoSanPlays#2208, 16 x A
+14 Aug 2017 04:47:23 : PokeIslands, general, dragonbro0803#0985, know what it's like to live in shadow
+14 Aug 2017 04:47:31 : PokeIslands, general, dragonbro0803#0985, Always regretting what you've done
+14 Aug 2017 04:47:32 : PokeIslands, general, Wertfuzzy77#0274, ;songs
+14 Aug 2017 04:47:32 : PokeIslands, general, Botfuzzy77#2209, 
+14 Aug 2017 04:47:35 : PokeIslands, general, dragonbro0803#0985, Spending time
+14 Aug 2017 04:47:41 : PokeIslands, general, dragonbro0803#0985, Counting every little mistake
+14 Aug 2017 04:47:47 : PokeIslands, general, dragonbro0803#0985, Knowing it's always easier to run
+14 Aug 2017 04:47:48 : PokeIslands, general, KiritoSanPlays#2208, AAAAAAAAAAAAAAAAAAAAAAAA
+14 Aug 2017 04:47:54 : PokeIslands, general, KiritoSanPlays#2208, oh 24 and it deletes it
+14 Aug 2017 04:47:56 : PokeIslands, general, dragonbro0803#0985, Don't have to spend your life looking backeard
+14 Aug 2017 04:48:01 : PokeIslands, general, Wertfuzzy77#0274, What you think of the bots recommended songs?
+14 Aug 2017 04:48:02 : PokeIslands, general, KiritoSanPlays#2208, so its arround 20 caps
+14 Aug 2017 04:48:06 : PokeIslands, general, dragonbro0803#0985, We've been through this over and over sgain
+14 Aug 2017 04:48:12 : PokeIslands, general, dragonbro0803#0985, You can just wish it away
+14 Aug 2017 04:48:18 : PokeIslands, general, dragonbro0803#0985, The past is the past it will never change
+14 Aug 2017 04:48:20 : PokeIslands, general, KiritoSanPlays#2208, 😃 i love the way it works but as said a cooldown on the command
+14 Aug 2017 04:48:29 : PokeIslands, general, Guttermagic916#2784, server down?
+14 Aug 2017 04:48:31 : PokeIslands, general, KiritoSanPlays#2208, to prevent stuff like what happened before
+14 Aug 2017 04:48:32 : PokeIslands, general, dragonbro0803#0985, 😄 skrill not getting mad at my spamming
+14 Aug 2017 04:48:34 : PokeIslands, general, Wertfuzzy77#0274, ;server
+14 Aug 2017 04:48:43 : PokeIslands, general, dragonbro0803#0985, Go where you neeed to
+14 Aug 2017 04:48:43 : PokeIslands, general, Botfuzzy77#2209, *Server is Down :(*
+14 Aug 2017 04:48:46 : PokeIslands, general, dragonbro0803#0985, Know I won't leave youu
+14 Aug 2017 04:48:46 : PokeIslands, general, Guttermagic916#2784, why
+14 Aug 2017 04:48:56 : PokeIslands, general, dragonbro0803#0985, .-.
+14 Aug 2017 04:48:58 : PokeIslands, general, KiritoSanPlays#2208, coz the marriage mod broke it
+14 Aug 2017 04:49:02 : PokeIslands, general, dragonbro0803#0985, WHO KILLED FUZZY
+14 Aug 2017 04:49:06 : PokeIslands, general, KiritoSanPlays#2208, i didn't
+14 Aug 2017 04:49:08 : PokeIslands, general, Guttermagic916#2784, damn how long is it gonna be down
+14 Aug 2017 04:49:12 : PokeIslands, general, Wertfuzzy77#0274, ;music
+14 Aug 2017 04:49:12 : PokeIslands, general, Botfuzzy77#2209, 
+14 Aug 2017 04:49:13 : PokeIslands, general, KiritoSanPlays#2208, and no ETA
+14 Aug 2017 04:49:17 : PokeIslands, general, KiritoSanPlays#2208, ;reconnect
+14 Aug 2017 04:49:18 : PokeIslands, general, Botfuzzy77#2209, Reconnected channel!
+14 Aug 2017 04:49:21 : PokeIslands, general, Guttermagic916#2784, :/
+14 Aug 2017 04:49:27 : PokeIslands, general, KiritoSanPlays#2208, there we go 😃
+14 Aug 2017 04:49:37 : PokeIslands, general, dragonbro0803#0985, PAINNN
+14 Aug 2017 04:49:39 : PokeIslands, general, KiritoSanPlays#2208, wert yep a double check is needed :/
+14 Aug 2017 04:49:44 : PokeIslands, general, dragonbro0803#0985, Is your reward for being near me
+14 Aug 2017 04:49:46 : PokeIslands, general, dragonbro0803#0985, PAIN
+14 Aug 2017 04:49:50 : PokeIslands, general, dragonbro0803#0985, Wait
+14 Aug 2017 04:49:51 : PokeIslands, general, dragonbro0803#0985, FATE
+14 Aug 2017 04:49:58 : PokeIslands, general, dragonbro0803#0985, won't be your friend when I'm around
+14 Aug 2017 04:50:08 : PokeIslands, general, Brady#8237, lol
+14 Aug 2017 04:50:10 : PokeIslands, general, Wertfuzzy77#0274, Guess that means tomorrow is bug fixing day xD
+14 Aug 2017 04:50:10 : PokeIslands, general, Wertfuzzy77#0274, She's being mean today, and not working nicely
+14 Aug 2017 04:50:10 : PokeIslands, general, Wertfuzzy77#0274, She's being mean today, and not working nicely
+14 Aug 2017 04:50:10 : PokeIslands, general, Wertfuzzy77#0274, Guess that means tomorrow is bug fixing day xD
+14 Aug 2017 04:50:10 : PokeIslands, general, Wertfuzzy77#0274, She's being mean today, and not working nicely
+14 Aug 2017 04:50:13 : PokeIslands, general, Brady#8237, ¯\_(ツ)_/¯
+14 Aug 2017 04:50:17 : PokeIslands, general, Brady#8237, ;p;
+14 Aug 2017 04:50:19 : PokeIslands, general, Brady#8237, wert
+14 Aug 2017 04:50:24 : PokeIslands, general, dragonbro0803#0985, before the tragedy that follows
+14 Aug 2017 04:50:30 : PokeIslands, general, Brady#8237, can u gives bot fuzzballs a hug for me
+14 Aug 2017 04:50:35 : PokeIslands, general, KiritoSanPlays#2208, @Botfuzzy77  you are broken as fuck
+14 Aug 2017 04:50:36 : PokeIslands, general, Botfuzzy77#2209, How do you know?
+14 Aug 2017 04:50:37 : PokeIslands, general, Brady#8237, and tell it im sorry for borking it 😭
+14 Aug 2017 04:50:42 : PokeIslands, general, Wertfuzzy77#0274, ;hug botfuzzy77
+14 Aug 2017 04:50:42 : PokeIslands, general, Botfuzzy77#2209, :hugging: *Wertfuzzy77 Hugged botfuzzy77* :hugging:
+14 Aug 2017 04:50:45 : PokeIslands, general, dragonbro0803#0985, @Botfuzzy77 ily
+14 Aug 2017 04:50:46 : PokeIslands, general, KiritoSanPlays#2208, @Botfuzzy77  i just know
+14 Aug 2017 04:50:48 : PokeIslands, general, Botfuzzy77#2209, Ok. I still love you.
+14 Aug 2017 04:50:48 : PokeIslands, general, Brady#8237, 😄
+14 Aug 2017 04:50:48 : PokeIslands, general, Botfuzzy77#2209, You can't be sure.
+14 Aug 2017 04:50:49 : PokeIslands, general, Wertfuzzy77#0274, .;hug
+14 Aug 2017 04:50:54 : PokeIslands, general, KiritoSanPlays#2208, >_<
+14 Aug 2017 04:50:54 : PokeIslands, general, Brady#8237, @Botfuzzy77 Besties
+14 Aug 2017 04:50:55 : PokeIslands, general, Botfuzzy77#2209, Yes!!
+14 Aug 2017 04:50:57 : PokeIslands, general, Brady#8237, 😄
+14 Aug 2017 04:51:07 : PokeIslands, general, KiritoSanPlays#2208, @Botfuzzy77 you are mean
+14 Aug 2017 04:51:08 : PokeIslands, general, Botfuzzy77#2209, I am sorry.
+14 Aug 2017 04:51:13 : PokeIslands, general, Wertfuzzy77#0274, ;kill you all
+14 Aug 2017 04:51:13 : PokeIslands, general, Botfuzzy77#2209, :skull: *Wertfuzzy77 Killed you all* :skull:
+14 Aug 2017 04:51:16 : PokeIslands, general, KiritoSanPlays#2208, @Botfuzzy77 no problem 😃
+14 Aug 2017 04:51:17 : PokeIslands, general, Botfuzzy77#2209, Thank you.
+14 Aug 2017 04:51:18 : PokeIslands, general, dragonbro0803#0985, I thought we were besties ;-;
+14 Aug 2017 04:51:37 : PokeIslands, general, dragonbro0803#0985, Brady am I being betrayed again ;-;
+14 Aug 2017 04:51:39 : PokeIslands, general, KiritoSanPlays#2208, wert planning to add a point system?
+14 Aug 2017 04:51:43 : LimitlessMc, botchat, TherminatorX#6644, ;train
+14 Aug 2017 04:51:44 : LimitlessMc, botchat, Botfuzzy77#2209, 
+14 Aug 2017 04:51:45 : LimitlessMc, botchat, Botfuzzy77#2209, 
+14 Aug 2017 04:51:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+14 Aug 2017 04:51:47 : LimitlessMc, botchat, TherminatorX#6644, ;pbs
+14 Aug 2017 04:51:48 : LimitlessMc, botchat, Botfuzzy77#2209, 
+14 Aug 2017 04:51:50 : PokeIslands, general, dragonbro0803#0985, @Botfuzzy77 😉
+14 Aug 2017 04:51:51 : PokeIslands, general, Botfuzzy77#2209, Does HE love me?
+14 Aug 2017 04:51:52 : PokeIslands, general, Wertfuzzy77#0274, Point?
+14 Aug 2017 04:51:53 : PokeIslands, general, Brady#8237, no
+14 Aug 2017 04:51:57 : PokeIslands, general, Brady#8237, I love you both
+14 Aug 2017 04:52:01 : LimitlessMc, botchat, TherminatorX#6644, wait what
+14 Aug 2017 04:52:03 : PokeIslands, general, Brady#8237, :kissing_heartL
+14 Aug 2017 04:52:04 : PokeIslands, general, dragonbro0803#0985, @Botfuzzy77 I love you
+14 Aug 2017 04:52:05 : PokeIslands, general, KiritoSanPlays#2208, just for cossmetic :p
+14 Aug 2017 04:52:05 : PokeIslands, general, Botfuzzy77#2209, You want to marry me?
+14 Aug 2017 04:52:11 : PokeIslands, general, dragonbro0803#0985, @Botfuzzy77 yes
+14 Aug 2017 04:52:12 : PokeIslands, general, Botfuzzy77#2209, Really?
+14 Aug 2017 04:52:15 : PokeIslands, general, Brady#8237, @Botfuzzy77 he's my bestie!
+14 Aug 2017 04:52:16 : PokeIslands, general, Botfuzzy77#2209, 'twas brillig, and the slithy toves.
+14 Aug 2017 04:52:17 : LimitlessMc, mainchat, Crystal4209#4698, probs got wrong modpack
+14 Aug 2017 04:52:21 : PokeIslands, general, Brady#8237, 😮
+14 Aug 2017 04:52:22 : PokeIslands, general, Wertfuzzy77#0274, Don't understand xD what's a point system?
+14 Aug 2017 04:52:24 : PokeIslands, general, dragonbro0803#0985, @Botfuzzy77 yes but that would be cheating on spuddy and brady
+14 Aug 2017 04:52:25 : PokeIslands, general, Botfuzzy77#2209, Do you already have a girlfriend?
+14 Aug 2017 04:52:30 : PokeIslands, general, Brady#8237, @Botfuzzy77 😢
+14 Aug 2017 04:52:56 : PokeIslands, general, KiritoSanPlays#2208, wait ima pm u coz of the spam lel
+14 Aug 2017 04:52:56 : PokeIslands, general, dragonbro0803#0985, @Botfuzzy77 I guess you can say they're girls
+14 Aug 2017 04:52:59 : PokeIslands, general, Wertfuzzy77#0274, Sure
+14 Aug 2017 04:52:59 : PokeIslands, general, KiritoSanPlays#2208, or a different channel
+14 Aug 2017 04:52:59 : PokeIslands, general, Brady#8237, @Botfuzzy77 still besties 😄
+14 Aug 2017 04:52:59 : PokeIslands, general, Brady#8237, Nooooooo!
+14 Aug 2017 04:52:59 : LimitlessMc, botchat, Crystal4209#4698, ;train
+14 Aug 2017 04:52:59 : PokeIslands, general, Brady#8237, is it borked?
+14 Aug 2017 04:52:59 : PokeIslands, general, Botfuzzy77#2209, What gender will your second child be?
+14 Aug 2017 04:52:59 : PokeIslands, general, Botfuzzy77#2209, So what are you doing right now?
+14 Aug 2017 04:52:59 : PokeIslands, general, Botfuzzy77#2209, So two males then?
+14 Aug 2017 04:53:01 : LimitlessMc, botchat, Wertfuzzy77#0274, Had a small patch, had to restart earlier
+14 Aug 2017 04:53:13 : PokeIslands, general, Brady#8237, @Botfuzzy77 BESTIES
+14 Aug 2017 04:53:14 : PokeIslands, general, Botfuzzy77#2209, Don't you love em?
+14 Aug 2017 04:53:15 : PokeIslands, general, KiritoSanPlays#2208, nope 😃
+14 Aug 2017 04:53:18 : PokeIslands, general, Brady#8237, 😦
+14 Aug 2017 04:53:21 : LimitlessMc, botchat, TherminatorX#6644, No, the training details didn't show until I restarted Discord
+14 Aug 2017 04:53:22 : PokeIslands, general, KiritoSanPlays#2208, the song ended
+14 Aug 2017 04:53:27 : PokeIslands, general, dragonbro0803#0985, @Botfuzzy77 I love them very much
+14 Aug 2017 04:53:28 : PokeIslands, general, Botfuzzy77#2209, Do you want to know my name?
+14 Aug 2017 04:53:35 : LimitlessMc, mainchat, Light#6734, - ,-
+14 Aug 2017 04:53:40 : PokeIslands, general, dragonbro0803#0985, @Botfuzzy77 I had a child with one and named her fart
+14 Aug 2017 04:53:42 : LimitlessMc, botchat, Crystal4209#4698, @Botfuzzy77 why you so slow!!
+14 Aug 2017 04:53:42 : PokeIslands, general, Botfuzzy77#2209, Yes we made robot love and had one.
+14 Aug 2017 04:53:42 : LimitlessMc, botchat, Botfuzzy77#2209, Why you so bad grammar?
+14 Aug 2017 04:53:50 : LimitlessMc, botchat, TherminatorX#6644, It just told me I got 218k xp
+14 Aug 2017 04:54:00 : LimitlessMc, mainchat, Light#6734, got the latest one jay compiled while i was in wales
+14 Aug 2017 04:54:02 : LimitlessMc, botchat, Wertfuzzy77#0274, Only slow on this server fyi
+14 Aug 2017 04:54:03 : PokeIslands, general, dragonbro0803#0985, @Botfuzzy77 how does robo pregnancy work
+14 Aug 2017 04:54:05 : PokeIslands, general, Botfuzzy77#2209, I'm sorry, I didn't quite get that, ask again please!
+14 Aug 2017 04:54:17 : LimitlessMc, mainchat, Light#6734, mc is just being a shitbag as usual
+14 Aug 2017 04:54:23 : LimitlessMc, mainchat, Crystal4209#4698, ^
+14 Aug 2017 04:54:25 : PokeIslands, general, dragonbro0803#0985, @Botfuzzy77 how do robots get pregnant
+14 Aug 2017 04:54:27 : PokeIslands, general, Botfuzzy77#2209, I'm sorry, I didn't quite get that, ask again please!
+14 Aug 2017 04:54:36 : LimitlessMc, mainchat, Light#6734, stitching texture errors
+14 Aug 2017 04:54:44 : PokeIslands, general, dragonbro0803#0985, @Botfuzzy77 how do you get pregnant
+14 Aug 2017 04:54:46 : PokeIslands, general, Botfuzzy77#2209, I'm sorry, I didn't quite get that, ask again please!
+14 Aug 2017 04:54:58 : PokeIslands, general, dragonbro0803#0985, @Botfuzzy77 do you love me?
+14 Aug 2017 04:55:00 : PokeIslands, general, Botfuzzy77#2209, I'm sorry, I didn't quite get that, ask again please!
+14 Aug 2017 04:55:08 : PokeIslands, general, dragonbro0803#0985, 😮
+14 Aug 2017 04:55:13 : PokeIslands, general, dragonbro0803#0985, ;reconnect
+14 Aug 2017 04:55:14 : PokeIslands, general, Botfuzzy77#2209, Reconnected channel!
+14 Aug 2017 04:55:28 : PokeIslands, general, dragonbro0803#0985, @Botfuzzy77 How do robots get pregnant
+14 Aug 2017 04:55:30 : PokeIslands, general, Botfuzzy77#2209, I'm sorry, I didn't quite get that, ask again please!
+14 Aug 2017 04:55:38 : PokeIslands, general, Wertfuzzy77#0274, She gets mad at you
+14 Aug 2017 04:55:43 : PokeIslands, general, Wertfuzzy77#0274, And stops talking to you
+14 Aug 2017 04:55:45 : PokeIslands, general, dragonbro0803#0985, ...
+14 Aug 2017 04:55:53 : PokeIslands, general, dragonbro0803#0985, But I said I live her
+14 Aug 2017 04:55:54 : PokeIslands, general, Wertfuzzy77#0274, And stops talking to you
+14 Aug 2017 04:56:03 : PokeIslands, general, dragonbro0803#0985, ;song
+14 Aug 2017 04:56:03 : PokeIslands, general, Botfuzzy77#2209, 
+14 Aug 2017 04:56:09 : PokeIslands, general, KiritoSanPlays#2208, ;train
+14 Aug 2017 04:56:09 : PokeIslands, general, Botfuzzy77#2209, 
+14 Aug 2017 04:56:10 : PokeIslands, general, Botfuzzy77#2209, 
+14 Aug 2017 04:56:15 : PokeIslands, general, KiritoSanPlays#2208, oh wow
+14 Aug 2017 04:56:17 : PokeIslands, general, Spuddy👌#3462, Why can't I join the server D:
+14 Aug 2017 04:56:17 : PokeIslands, general, dragonbro0803#0985, ;train
+14 Aug 2017 04:56:17 : PokeIslands, general, Botfuzzy77#2209, 
+14 Aug 2017 04:56:17 : PokeIslands, general, Botfuzzy77#2209, 
+14 Aug 2017 04:56:19 : PokeIslands, general, Brady#8237, ;train
+14 Aug 2017 04:56:19 : PokeIslands, general, Botfuzzy77#2209, 
+14 Aug 2017 04:56:20 : PokeIslands, general, Botfuzzy77#2209, 
+14 Aug 2017 04:56:22 : PokeIslands, general, Brady#8237, thnx bb
+14 Aug 2017 04:56:26 : PokeIslands, general, dragonbro0803#0985, ;train
+14 Aug 2017 04:56:27 : PokeIslands, general, Spuddy👌#3462, ;train
+14 Aug 2017 04:56:28 : PokeIslands, general, Botfuzzy77#2209, 
+14 Aug 2017 04:56:28 : PokeIslands, general, Botfuzzy77#2209, 
+14 Aug 2017 04:56:30 : PokeIslands, general, Brady#8237, >Beats Zekrom
+14 Aug 2017 04:56:34 : PokeIslands, general, dragonbro0803#0985, ;level
+14 Aug 2017 04:56:35 : PokeIslands, general, Botfuzzy77#2209, 
+14 Aug 2017 04:56:40 : PokeIslands, general, Brady#8237, >loses to natu
+14 Aug 2017 04:56:44 : PokeIslands, general, dragonbro0803#0985, Yeeeee boy
+14 Aug 2017 04:56:45 : PokeIslands, general, Brady#8237, ;level
+14 Aug 2017 04:56:45 : PokeIslands, general, Botfuzzy77#2209, 
+14 Aug 2017 04:56:52 : PokeIslands, general, dragonbro0803#0985, Lel rekt
+14 Aug 2017 04:56:53 : PokeIslands, general, KiritoSanPlays#2208, ;level
+14 Aug 2017 04:56:54 : PokeIslands, general, Botfuzzy77#2209, 
+14 Aug 2017 04:57:03 : PokeIslands, general, dragonbro0803#0985, Why are you dragon type
+14 Aug 2017 04:57:05 : PokeIslands, general, dragonbro0803#0985, No fair
+14 Aug 2017 04:57:10 : PokeIslands, general, KiritoSanPlays#2208, coz i am op?
+14 Aug 2017 04:57:13 : PokeIslands, general, dragonbro0803#0985, ;type
+14 Aug 2017 04:57:27 : PokeIslands, general, Wertfuzzy77#0274, ,;settype
+14 Aug 2017 04:57:33 : PokeIslands, general, KiritoSanPlays#2208, looool xD
+14 Aug 2017 04:57:36 : PokeIslands, general, dragonbro0803#0985, ;settype dragon
+14 Aug 2017 04:57:36 : PokeIslands, general, Botfuzzy77#2209, 
+14 Aug 2017 04:57:40 : PokeIslands, general, KiritoSanPlays#2208, ;train
+14 Aug 2017 04:57:41 : PokeIslands, general, Spuddy👌#3462, Kirito
+14 Aug 2017 04:57:43 : PokeIslands, general, KiritoSanPlays#2208, ye?
+14 Aug 2017 04:57:45 : PokeIslands, general, Wertfuzzy77#0274, ;lv
+14 Aug 2017 04:57:47 : PokeIslands, general, Botfuzzy77#2209, 
+14 Aug 2017 04:57:48 : PokeIslands, general, Spuddy👌#3462, whats wrong with the server?
+14 Aug 2017 04:57:52 : PokeIslands, general, KiritoSanPlays#2208, its not done
+14 Aug 2017 04:57:57 : PokeIslands, general, Spuddy👌#3462, k
+14 Aug 2017 04:58:01 : PokeIslands, general, KiritoSanPlays#2208, wait how does the rank thingy work?
+14 Aug 2017 04:58:05 : PokeIslands, general, KiritoSanPlays#2208, ;lv
+14 Aug 2017 04:58:06 : PokeIslands, general, Botfuzzy77#2209, 
+14 Aug 2017 04:58:11 : PokeIslands, general, Wertfuzzy77#0274, ;ranking
+14 Aug 2017 04:58:11 : PokeIslands, general, Botfuzzy77#2209, 
+14 Aug 2017 04:58:13 : PokeIslands, general, KiritoSanPlays#2208, rank 81?
+14 Aug 2017 04:58:16 : PokeIslands, general, dragonbro0803#0985, Skrill is breaking the server
+14 Aug 2017 04:58:23 : PokeIslands, general, Wertfuzzy77#0274, I'm global ranking
+14 Aug 2017 04:58:23 : PokeIslands, general, KiritoSanPlays#2208, oh now i see
+14 Aug 2017 04:58:26 : PokeIslands, general, dragonbro0803#0985, Oh and skrill
+14 Aug 2017 04:58:29 : PokeIslands, general, Wertfuzzy77#0274, Across every server
+14 Aug 2017 04:58:42 : PokeIslands, general, dragonbro0803#0985, Zane is chill now
+14 Aug 2017 04:58:47 : PokeIslands, general, dragonbro0803#0985, 😐
+14 Aug 2017 04:58:51 : PokeIslands, general, KiritoSanPlays#2208, wait the bot notices when you are in that certain server?
+14 Aug 2017 04:58:59 : PokeIslands, general, KiritoSanPlays#2208, yo he came on the server and called me a bitch
+14 Aug 2017 04:59:14 : PokeIslands, general, Wertfuzzy77#0274, Certain server?
+14 Aug 2017 04:59:17 : PokeIslands, general, Spuddy👌#3462, ;o
+14 Aug 2017 04:59:29 : PokeIslands, general, KiritoSanPlays#2208, yeh like does the bot notice when you join a different server?
+14 Aug 2017 04:59:36 : PokeIslands, general, KiritoSanPlays#2208, then i am talking about you as the dev lol
+14 Aug 2017 04:59:39 : PokeIslands, general, dragonbro0803#0985, Who what huh?
+14 Aug 2017 04:59:52 : PokeIslands, general, KiritoSanPlays#2208, zane called me a bitch then left the server while i was fixing something
+14 Aug 2017 05:00:03 : PokeIslands, general, dragonbro0803#0985, Like
+14 Aug 2017 05:00:09 : PokeIslands, general, dragonbro0803#0985, Just now?
+14 Aug 2017 05:00:12 : PokeIslands, general, KiritoSanPlays#2208, no
+14 Aug 2017 05:00:18 : PokeIslands, general, KiritoSanPlays#2208, like 3hours ago
+14 Aug 2017 05:00:23 : PokeIslands, general, dragonbro0803#0985, I said he chill NOW
+14 Aug 2017 05:00:28 : PokeIslands, general, Wertfuzzy77#0274, I mean ya, he can tell what servers people are in and put them in local ranking
+14 Aug 2017 05:00:41 : PokeIslands, general, KiritoSanPlays#2208, but doesn't he auto reconize you?
+14 Aug 2017 05:00:46 : PokeIslands, general, KiritoSanPlays#2208, as a dev i mean lel
+14 Aug 2017 05:00:55 : PokeIslands, general, Wertfuzzy77#0274, O
+14 Aug 2017 05:00:55 : PokeIslands, general, dragonbro0803#0985, It's a sheee
+14 Aug 2017 05:01:01 : PokeIslands, general, KiritoSanPlays#2208, meh its a bot
+14 Aug 2017 05:01:10 : PokeIslands, general, dragonbro0803#0985, @Botfuzzy77 pls forgive me
+14 Aug 2017 05:01:11 : PokeIslands, general, Botfuzzy77#2209, I'm sorry, I didn't quite get that, ask again please!
+14 Aug 2017 05:01:16 : PokeIslands, general, KiritoSanPlays#2208, rekt
+14 Aug 2017 05:01:19 : PokeIslands, general, dragonbro0803#0985, >.<
+14 Aug 2017 05:01:24 : PokeIslands, general, Wertfuzzy77#0274, Ya, I have hard codes my ID into the source, so I have admin access for her everywhere
+14 Aug 2017 05:01:31 : PokeIslands, general, KiritoSanPlays#2208, 😄
+14 Aug 2017 05:01:39 : PokeIslands, general, KiritoSanPlays#2208, well would be dumb if you didn't xD
+14 Aug 2017 05:01:40 : PokeIslands, general, Wertfuzzy77#0274, Coded *
+14 Aug 2017 05:01:50 : PokeIslands, general, Guttermagic916#2784, whats the ip xD the mod deleated my server savee
+14 Aug 2017 05:01:55 : PokeIslands, general, KiritoSanPlays#2208, >_<
+14 Aug 2017 05:02:03 : PokeIslands, general, KiritoSanPlays#2208, you mean it corrupted the server saves?
+14 Aug 2017 05:02:08 : PokeIslands, general, Wertfuzzy77#0274, ;server
+14 Aug 2017 05:02:17 : PokeIslands, general, Guttermagic916#2784, i think so
+14 Aug 2017 05:02:17 : PokeIslands, general, dragonbro0803#0985, //ip
+14 Aug 2017 05:02:17 : PokeIslands, general, Guttermagic916#2784, //ip
+14 Aug 2017 05:02:17 : PokeIslands, general, dragonbro0803#0985, .-.
+14 Aug 2017 05:02:17 : PokeIslands, general, KiritoSanPlays#2208, //ip doesn't work
+14 Aug 2017 05:02:17 : PokeIslands, general, Botfuzzy77#2209, *Server is Down :(*
+14 Aug 2017 05:02:19 : PokeIslands, general, KiritoSanPlays#2208, for some reason
+14 Aug 2017 05:02:21 : PokeIslands, general, Wertfuzzy77#0274, ^
+14 Aug 2017 05:02:21 : PokeIslands, general, Botfuzzy77#2209, ^
+14 Aug 2017 05:02:27 : PokeIslands, general, KiritoSanPlays#2208, oh noes
+14 Aug 2017 05:02:30 : PokeIslands, general, Guttermagic916#2784, ya /ip dosent work'
+14 Aug 2017 05:02:31 : PokeIslands, general, Wertfuzzy77#0274, Is down anyways
+14 Aug 2017 05:02:32 : PokeIslands, general, Guttermagic916#2784, RIP
+14 Aug 2017 05:02:35 : PokeIslands, general, dragonbro0803#0985, ...
+14 Aug 2017 05:02:40 : PokeIslands, general, Guttermagic916#2784, but whats the IP?
+14 Aug 2017 05:02:41 : PokeIslands, general, dragonbro0803#0985, You guys
+14 Aug 2017 05:02:46 : PokeIslands, general, KiritoSanPlays#2208, i didn't break her
+14 Aug 2017 05:02:47 : PokeIslands, general, dragonbro0803#0985, Killed
+14 Aug 2017 05:02:50 : PokeIslands, general, dragonbro0803#0985, REM
+14 Aug 2017 05:02:57 : PokeIslands, general, KiritoSanPlays#2208, i have been talking to wert the whole time
+14 Aug 2017 05:02:59 : PokeIslands, general, dragonbro0803#0985, AAAAAAAAAAAAAAAAAAAAA
+14 Aug 2017 05:03:03 : PokeIslands, general, dragonbro0803#0985, AAAAAAAAAA
+14 Aug 2017 05:03:03 : PokeIslands, general, Wertfuzzy77#0274, Same
+14 Aug 2017 05:03:07 : PokeIslands, general, dragonbro0803#0985, AAAAAAAAAAAAA
+14 Aug 2017 05:03:11 : PokeIslands, general, dragonbro0803#0985, AAAAAAAAA
+14 Aug 2017 05:03:13 : PokeIslands, general, Wertfuzzy77#0274, I've been talking to me this whole time
+14 Aug 2017 05:03:16 : PokeIslands, general, KiritoSanPlays#2208, lol
+14 Aug 2017 05:03:17 : PokeIslands, general, Guttermagic916#2784, xD
+14 Aug 2017 05:03:20 : PokeIslands, general, dragonbro0803#0985, MY REMMM
+14 Aug 2017 05:03:30 : PokeIslands, general, KiritoSanPlays#2208, !summon
+14 Aug 2017 05:03:30 : PokeIslands, general, Rythm#3722, 👍 **Joined** `General` :page_facing_up: **And bound to** `general`
+14 Aug 2017 05:03:33 : PokeIslands, general, dragonbro0803#0985, @Botfuzzy77 pls love me
+14 Aug 2017 05:03:35 : PokeIslands, general, KiritoSanPlays#2208, no i don't want you
+14 Aug 2017 05:03:35 : PokeIslands, general, Botfuzzy77#2209, I'm sorry, I didn't quite get that, ask again please!
+14 Aug 2017 05:03:35 : PokeIslands, general, Wertfuzzy77#0274, #EmeliaBestGirl
+14 Aug 2017 05:03:45 : PokeIslands, general, KiritoSanPlays#2208, hmm how the heck
+14 Aug 2017 05:03:55 : PokeIslands, general, KiritoSanPlays#2208, rem is offline >_<
+14 Aug 2017 05:03:59 : PokeIslands, general, dragonbro0803#0985, We all know ezreal best girl
+14 Aug 2017 05:04:09 : PokeIslands, general, KiritoSanPlays#2208, we all know asuna best girl
+14 Aug 2017 05:04:24 : PokeIslands, general, Wertfuzzy77#0274, How about Ram best girl, with her creepy clown master
+14 Aug 2017 05:04:29 : PokeIslands, general, KiritoSanPlays#2208, lol
+14 Aug 2017 05:04:45 : PokeIslands, general, KiritoSanPlays#2208, urgh time to get Rem back on
+14 Aug 2017 05:04:59 : PokeIslands, general, dragonbro0803#0985, How about illaoi best girl
+14 Aug 2017 05:05:20 : PokeIslands, general, KiritoSanPlays#2208, omg
+14 Aug 2017 05:05:24 : PokeIslands, general, KiritoSanPlays#2208, he made the bot private!
+14 Aug 2017 05:05:26 : PokeIslands, general, Wertfuzzy77#0274, If you are into that sort of thing 😉
+14 Aug 2017 05:05:39 : LimitlessMc, mainchat, Light#6734, mc literally annoy the shit out of me sometimes
+14 Aug 2017 05:05:40 : PokeIslands, general, dragonbro0803#0985, Tentacle Hentai
+14 Aug 2017 05:05:41 : PokeIslands, general, dragonbro0803#0985, Op
+14 Aug 2017 05:05:56 : PokeIslands, general, KiritoSanPlays#2208, https://gyazo.com/ce6028a5dd374a65e368a8c904cf2e41
+14 Aug 2017 05:06:00 : PokeIslands, general, KiritoSanPlays#2208, 😦
+14 Aug 2017 05:06:03 : PokeIslands, general, KiritoSanPlays#2208, no more rem bot
+14 Aug 2017 05:06:04 : PokeIslands, general, dragonbro0803#0985, But I like miss fortune 😉
+14 Aug 2017 05:06:25 : PokeIslands, general, KiritoSanPlays#2208, me wants custom commands!
+14 Aug 2017 05:06:33 : PokeIslands, general, KiritoSanPlays#2208, 😭
+14 Aug 2017 05:06:35 : PokeIslands, general, dragonbro0803#0985, What do you mean no more rem bot
+14 Aug 2017 05:06:41 : PokeIslands, general, KiritoSanPlays#2208, read the red part
+14 Aug 2017 05:06:42 : PokeIslands, general, Wertfuzzy77#0274, It's private now xD
+14 Aug 2017 05:06:48 : PokeIslands, general, Wertfuzzy77#0274, Rip
+14 Aug 2017 05:06:50 : PokeIslands, general, KiritoSanPlays#2208, 😭
+14 Aug 2017 05:06:54 : PokeIslands, general, KiritoSanPlays#2208, no more custom commands 😭
+14 Aug 2017 05:06:57 : PokeIslands, general, Wertfuzzy77#0274, My not will never be private xD
+14 Aug 2017 05:07:00 : PokeIslands, general, Wertfuzzy77#0274, Bot *
+14 Aug 2017 05:07:03 : PokeIslands, general, dragonbro0803#0985, Probably adding something
+14 Aug 2017 05:07:07 : PokeIslands, general, Wertfuzzy77#0274, Public forever 😄
+14 Aug 2017 05:07:16 : PokeIslands, general, KiritoSanPlays#2208, 😭 add custom commands to bot fuzzy pls pls pl
+14 Aug 2017 05:07:29 : LimitlessMc, mainchat, Crystal4209#4698, hey light, once you eventually get on wanna go to the end with me?
+14 Aug 2017 05:07:30 : PokeIslands, general, Wertfuzzy77#0274, Sounds like a lot of work
+14 Aug 2017 05:07:38 : PokeIslands, general, dragonbro0803#0985, I need my //pp
+14 Aug 2017 05:07:44 : PokeIslands, general, KiritoSanPlays#2208, no u need /waifu
+14 Aug 2017 05:07:54 : PokeIslands, general, dragonbro0803#0985, I got my back up wiafu
+14 Aug 2017 05:07:56 : PokeIslands, general, KiritoSanPlays#2208, //waifu
+14 Aug 2017 05:08:02 : PokeIslands, general, dragonbro0803#0985, //waifu
+14 Aug 2017 05:08:08 : PokeIslands, general, KiritoSanPlays#2208, nope 😭
+14 Aug 2017 05:08:17 : PokeIslands, general, KiritoSanPlays#2208, and i miss //dance and //dance2 😭
+14 Aug 2017 05:08:19 : PokeIslands, general, dragonbro0803#0985, You know what I really need
+14 Aug 2017 05:08:42 : PokeIslands, general, KiritoSanPlays#2208, i need some sleep >_<
+14 Aug 2017 05:08:44 : PokeIslands, general, dragonbro0803#0985, Same
+14 Aug 2017 05:08:49 : PokeIslands, general, dragonbro0803#0985, Goodnight people
+14 Aug 2017 05:08:52 : PokeIslands, general, Wertfuzzy77#0274, Sane
+14 Aug 2017 05:08:52 : PokeIslands, general, Wertfuzzy77#0274, Same *
+14 Aug 2017 05:08:53 : PokeIslands, general, KiritoSanPlays#2208, i cant go to bed
+14 Aug 2017 05:09:00 : PokeIslands, general, KiritoSanPlays#2208, untill the server hits the spot
+14 Aug 2017 05:09:01 : PokeIslands, general, KiritoSanPlays#2208, -_-
+14 Aug 2017 05:09:03 : PokeIslands, general, Wertfuzzy77#0274, I sleep now
+14 Aug 2017 05:09:03 : LimitlessMc, mainchat, Light#6734, IF i can ever get on
+14 Aug 2017 05:09:13 : PokeIslands, general, KiritoSanPlays#2208, oh wait ima leave my pc on >:)
+14 Aug 2017 05:09:14 : PokeIslands, general, Wertfuzzy77#0274, ;afk all the sleeps
+14 Aug 2017 05:09:14 : PokeIslands, general, Botfuzzy77#2209, Wertfuzzy77 is now AFK for reason:
+**all the sleeps**
+14 Aug 2017 05:09:24 : PokeIslands, general, KiritoSanPlays#2208, gn peeps
+14 Aug 2017 05:09:25 : LimitlessMc, mainchat, Light#6734, no matter what i do i get this shite error
+14 Aug 2017 05:09:40 : Ultralight Memes, ultralight-memes, MoMolion#8439, http://yugioh.wikia.com/wiki/Legendary_Shadow_of_the_Six_Samurai
+14 Aug 2017 05:09:41 : PokeIslands, general, KiritoSanPlays#2208, ;afk sleeping snoozing breaking my bed call it whatever you want! BIATCH
+14 Aug 2017 05:09:41 : PokeIslands, general, Botfuzzy77#2209, KiritoSanPlays is now AFK for reason:
+**sleeping snoozing breaking my bed call it whatever you want! BIATCH**
+14 Aug 2017 05:11:01 : LimitlessMc, mainchat, Light#6734, stitching texture atlas
+14 Aug 2017 05:11:54 : PokeIslands, general, KiritoSanPlays#2208, t!profile
+14 Aug 2017 05:12:11 : PokeIslands, bot, KiritoSanPlays#2208, t!profile
+14 Aug 2017 05:12:13 : PokeIslands, bot, Tatsumaki#8792, 📝  |  **User profile card for KiritoSanPlays**
+14 Aug 2017 05:13:19 : PokeIslands, general, Botfuzzy77#2209, Welcome @PvPCraft to PokeIslands!
+14 Aug 2017 05:13:19 : PokeIslands, bot, Tatsumaki#8792, Welcome to the %SERVER% %MENTION%, If you have questions feel free to join #support!
+14 Aug 2017 05:13:19 : PokeIslands, bot, Tatsumaki#8792, 
+14 Aug 2017 05:13:19 : PokeIslands, general, PvPCraft#0625, Sorry their was an error processing your command. The error is ```TypeError: Cannot read property 'ask' of undefined``` reference code `bd1fdd22658c4cb6bd121b6ceb3b7bf4`
+14 Aug 2017 05:14:48 : PokeIslands, general, KiritoSanPlays#2208, pokemon <reshiram>
+14 Aug 2017 05:14:51 : PokeIslands, general, Botfuzzy77#2209, **Pokemon Best Wishes!: Victini to Shiroki Eiyuu Reshiram**
+Link: https://myanimelist.net/anime/10740
+**Episodes**: 1
+**Status**: Finished Airing
+**Rating**: 6.89 (by 9,811 users)
+14 Aug 2017 05:15:08 : PokeIslands, general, KiritoSanPlays#2208, /pokemon reshiram
+14 Aug 2017 05:15:23 : PokeIslands, general, KiritoSanPlays#2208, /pokemon <reshiram>
+14 Aug 2017 05:15:25 : PokeIslands, general, Botfuzzy77#2209, **Pokemon Best Wishes!: Victini to Shiroki Eiyuu Reshiram**
+Link: https://myanimelist.net/anime/10740
+**Episodes**: 1
+**Status**: Finished Airing
+**Rating**: 6.89 (by 9,811 users)
+14 Aug 2017 05:15:53 : LimitlessMc, botchat, Crystal4209#4698, ;train
+14 Aug 2017 05:15:54 : LimitlessMc, botchat, Botfuzzy77#2209, 
+14 Aug 2017 05:15:55 : LimitlessMc, botchat, Botfuzzy77#2209, 
+14 Aug 2017 05:15:56 : LimitlessMc, botchat, Botfuzzy77#2209, 
+14 Aug 2017 05:16:24 : PokeIslands, general, Guttermagic916#2784, damn i wanted to play on the server :/
+14 Aug 2017 05:16:38 : PokeIslands, general, KiritoSanPlays#2208, gg
+14 Aug 2017 05:16:50 : PokeIslands, general, KiritoSanPlays#2208, i cant do shit til its done so might aswell snooze
+14 Aug 2017 05:19:09 : PokeIslands, general, Kirito#1860, Hopefully shit will be working as it should toug :/
+14 Aug 2017 05:19:17 : PokeIslands, general, Kirito#1860, ;server
+14 Aug 2017 05:19:26 : PokeIslands, general, Botfuzzy77#2209, *Server is Down :(*
+14 Aug 2017 05:19:46 : PokeIslands, general, Brady#8237, ;search bmblb
+14 Aug 2017 05:19:46 : PokeIslands, general, Botfuzzy77#2209, You need to be in the voice channel!
+14 Aug 2017 05:19:53 : PokeIslands, general, Brady#8237, rip
+14 Aug 2017 05:20:05 : PokeIslands, general, Brady#8237, @Botfuzzy77 besties?
+14 Aug 2017 05:20:06 : PokeIslands, general, Botfuzzy77#2209, I'm sorry, I didn't quite get that, ask again please!
+14 Aug 2017 05:20:13 : PokeIslands, general, Brady#8237, @Botfuzzy77 Besties?
+14 Aug 2017 05:20:14 : PokeIslands, general, Botfuzzy77#2209, Who is your favorite hetalia character?
+14 Aug 2017 05:20:29 : PokeIslands, general, Brady#8237, @Botfuzzy77 Are you my bestie?
+14 Aug 2017 05:20:30 : PokeIslands, general, Botfuzzy77#2209, No, I am your boyfriend.
+14 Aug 2017 05:20:35 : PokeIslands, general, Brady#8237, 😄
+14 Aug 2017 05:20:35 : PokeIslands, general, Kirito#1860, Gg
+14 Aug 2017 05:21:06 : Legacy Craft, general, DJ Small#8652, the other creative... is for staff eyes only.
+14 Aug 2017 05:21:19 : PokeIslands, general, Kirito#1860, @Botfuzzy77  do you ever sleep?
+14 Aug 2017 05:21:19 : PokeIslands, general, Botfuzzy77#2209, Of course XD.
+14 Aug 2017 05:21:24 : PokeIslands, general, Kirito#1860, Loooool
+14 Aug 2017 05:21:33 : PokeIslands, general, Brady#8237, @Botfuzzy77 is BBPro the worst?
+14 Aug 2017 05:22:00 : PokeIslands, general, Brady#8237, 🤔
+14 Aug 2017 05:22:00 : PokeIslands, general, Brady#8237, @Botfuzzy77 Bffs?
+14 Aug 2017 05:22:01 : PokeIslands, general, Brady#8237, @Botfuzzy77 Rape?
+14 Aug 2017 05:22:02 : PokeIslands, general, Botfuzzy77#2209, Yes you are.
+14 Aug 2017 05:22:02 : PokeIslands, general, Botfuzzy77#2209, Best friends forever.
+14 Aug 2017 05:22:02 : PokeIslands, general, Botfuzzy77#2209, You are so kind.
+14 Aug 2017 05:22:07 : PokeIslands, general, Brady#8237, LOL
+14 Aug 2017 05:22:14 : PokeIslands, general, Brady#8237, if u didnt know
+14 Aug 2017 05:22:22 : PokeIslands, general, Kirito#1860, Yo bbpro said you linked us to him >_<
+14 Aug 2017 05:22:23 : PokeIslands, general, Brady#8237, that last one was just the word rape
+14 Aug 2017 05:22:24 : PokeIslands, general, Brady#8237, xD
+14 Aug 2017 05:22:26 : PokeIslands, general, Brady#8237, ?
+14 Aug 2017 05:22:39 : PokeIslands, general, Brady#8237, I said you were the one that found proof about bbpro
+14 Aug 2017 05:22:45 : PokeIslands, general, Brady#8237, and told me to punish him
+14 Aug 2017 05:23:19 : PokeIslands, general, Kirito#1860, Yeh but he said that you showed images to him off us laufing >_<
+14 Aug 2017 05:23:38 : PokeIslands, general, Kirito#1860, I was like wtf
+14 Aug 2017 05:23:52 : PokeIslands, general, Brady#8237, i didnt show any images
+14 Aug 2017 05:24:04 : PokeIslands, general, Brady#8237, I pulled like chatlogs of y'all telling me to do it
+14 Aug 2017 05:24:06 : PokeIslands, general, Brady#8237, but thats it
+14 Aug 2017 05:24:06 : PokeIslands, general, Brady#8237, :d
+14 Aug 2017 05:24:19 : Legacy Craft, admin, DJ Small#8652, sorry if I missed anything, I passed out about two hours earlier while supervising legacy
+14 Aug 2017 05:24:22 : PokeIslands, general, Brady#8237, the laughing was too good to pass up
+14 Aug 2017 05:24:29 : PokeIslands, general, Brady#8237, sadly he ss'd my gay flirting xD
+14 Aug 2017 05:24:43 : PokeIslands, general, Kirito#1860, Lol i did check general chat coz he said tht you posted it all in public chat
+14 Aug 2017 05:25:32 : PokeIslands, general, Kirito#1860, And then he was starting abou that he is going to get my server empty and so on
+14 Aug 2017 05:26:02 : PokeIslands, general, Kirito#1860, And that zen is helping with hisnserver
+14 Aug 2017 05:26:36 : PokeIslands, general, Kirito#1860, I just dont understand that guy rageing for a rank
+14 Aug 2017 05:28:07 : Achievement Heaven, bot-channel, DJ Small#8652, yui daily
+14 Aug 2017 05:28:07 : Achievement Heaven, bot-channel, Yui (ユイ)#2222, 💰 | You collected **103 silver** from your daily reward!
+14 Aug 2017 05:28:14 : Achievement Heaven, bot-channel, DJ Small#8652, yui exchange
+14 Aug 2017 05:28:14 : Achievement Heaven, bot-channel, Yui (ユイ)#2222, 💰 | You exchanged **37,000 bronze** for **37 silver**.
+14 Aug 2017 05:28:45 : PokeIslands, general, Kirito#1860, Anyways i would like to see someone anwser this question and pm it to me, what is so important about a minecraft that you basically wil end ur life for it?
+14 Aug 2017 05:29:09 : PokeIslands, general, Kirito#1860, Woops
+14 Aug 2017 05:29:22 : PokeIslands, general, Kirito#1860, Minecraft rank?
+14 Aug 2017 05:31:26 : PokeIslands, general, Spuddy👌#3462, OOO
+14 Aug 2017 05:31:30 : PokeIslands, general, Spuddy👌#3462, CHICKEN
+14 Aug 2017 05:39:42 : LimitlessMc, mainchat, Crystal4209#4698, ;-; why light get perms
+14 Aug 2017 05:43:10 : Achievement Heaven, staff-room, DJ Small#8652, @Kat @maddog780ca did I handle this properly?
+14 Aug 2017 05:43:11 : Achievement Heaven, staff-room, DJ Small#8652, 
+14 Aug 2017 05:47:05 : LimitlessMc, mainchat, Pixlexia#8073, yo @StubbyMuffins  i need your help
+14 Aug 2017 05:48:33 : LimitlessMc, mainchat, Light#6734, cause am god
+14 Aug 2017 05:59:55 : PokeIslands, general, Brady#8237, //ip
+14 Aug 2017 05:59:59 : PokeIslands, general, Brady#8237, fack
+14 Aug 2017 06:02:09 : PokeIslands, bot, Brady#8237, is pixelmon dark still the mod we're using?
+14 Aug 2017 06:02:37 : PokeIslands, general, Botfuzzy77#2209, Welcome @bbbbbbbbb to PokeIslands!
+14 Aug 2017 06:02:37 : PokeIslands, bot, Tatsumaki#8792, Welcome to the %SERVER% %MENTION%, If you have questions feel free to join #support!
+14 Aug 2017 06:02:37 : PokeIslands, bot, Tatsumaki#8792, 
+14 Aug 2017 06:04:29 : LimitlessMc, mainchat, Jay113355#4999, Light remove optifine
+14 Aug 2017 06:04:53 : LimitlessMc, mainchat, Jay113355#4999, And maybe form fix adter that if you didnt have optifine
+14 Aug 2017 06:05:07 : LimitlessMc, mainchat, Jay113355#4999, @Light
+14 Aug 2017 06:05:25 : LimitlessMc, mainchat, Light#6734, yeah that helped after i had to update java multiple times
+14 Aug 2017 06:05:29 : LimitlessMc, mainchat, StubbyMuffins#1053, @Jay113355 can u give me perms on server
+14 Aug 2017 06:05:32 : LimitlessMc, mainchat, StubbyMuffins#1053, for atleast kick
+14 Aug 2017 06:05:42 : LimitlessMc, mainchat, Light#6734, that would be nice about now tbf stubby
+14 Aug 2017 06:05:57 : LimitlessMc, mainchat, StubbyMuffins#1053, fucking dudes keep going after pix
+14 Aug 2017 06:06:11 : LimitlessMc, mainchat, Light#6734, i'm watching it rn
+14 Aug 2017 06:06:15 : LimitlessMc, mainchat, Light#6734, told them both to stop
+14 Aug 2017 06:06:27 : LimitlessMc, mainchat, StubbyMuffins#1053, like pvp is one thing but constantly fucking with someone is bullshit
+14 Aug 2017 06:06:34 : PokeIslands, admin, Brady#8237, oi amigos
+14 Aug 2017 06:06:40 : PokeIslands, admin, Brady#8237, lets switch back to dark
+14 Aug 2017 06:06:42 : PokeIslands, admin, Brady#8237, reborn*
+14 Aug 2017 06:06:48 : LimitlessMc, mainchat, Light#6734, all pix was doing was exploring and those two went apeshit at him for walking around
+14 Aug 2017 06:06:51 : PokeIslands, admin, Brady#8237, dark's staff members, while not being complete shit
+14 Aug 2017 06:06:54 : PokeIslands, admin, Brady#8237, are complete shit
+14 Aug 2017 06:06:58 : PokeIslands, admin, Brady#8237, like
+14 Aug 2017 06:07:01 : PokeIslands, admin, Brady#8237, even more than reborn
+14 Aug 2017 06:07:34 : LimitlessMc, mainchat, Jay113355#4999, who needs ban>
+14 Aug 2017 06:07:48 : LimitlessMc, mainchat, StubbyMuffins#1053, DarkSpark0905
+14 Aug 2017 06:08:00 : LimitlessMc, mainchat, StubbyMuffins#1053, venzix
+14 Aug 2017 06:08:03 : LimitlessMc, mainchat, StubbyMuffins#1053, those 2
+14 Aug 2017 06:08:05 : LimitlessMc, mainchat, Light#6734, and that one yea
+14 Aug 2017 06:08:20 : PokeIslands, bot, Tatsumaki#8792, 
+14 Aug 2017 06:08:32 : LimitlessMc, mainchat, Jay113355#4999, @Carl You connected to rcon?
+14 Aug 2017 06:08:33 : LimitlessMc, mainchat, Carl#2678, Yes.
+14 Aug 2017 06:09:08 : LimitlessMc, mainchat, StubbyMuffins#1053, you connected your bot into rcon wut 😮
+14 Aug 2017 06:09:11 : LimitlessMc, mainchat, StubbyMuffins#1053, i want
+14 Aug 2017 06:09:14 : LimitlessMc, mainchat, StubbyMuffins#1053, brooo i want
+14 Aug 2017 06:09:20 : LimitlessMc, mainchat, Light#6734, wat
+14 Aug 2017 06:09:26 : LimitlessMc, mainchat, StubbyMuffins#1053, rcon server control
+14 Aug 2017 06:09:33 : LimitlessMc, mainchat, Light#6734, oshit whaddup
+14 Aug 2017 06:09:40 : LimitlessMc, mainchat, StubbyMuffins#1053, use it to connect to server console
+14 Aug 2017 06:09:54 : LimitlessMc, mainchat, StubbyMuffins#1053, i use shitty thing for my server
+14 Aug 2017 06:10:02 : LimitlessMc, mainchat, StubbyMuffins#1053, i want to have bot for it 😮
+14 Aug 2017 06:10:11 : LimitlessMc, mainchat, Light#6734, build bot stubbeh
+14 Aug 2017 06:10:19 : LimitlessMc, mainchat, Light#6734, call it the stubbbot9000 lmao
+14 Aug 2017 06:10:19 : LimitlessMc, mainchat, Jay113355#4999, @Carl sudo limitlessmc.game1 ban DarkSpark0905 dick killing.
+14 Aug 2017 06:10:29 : LimitlessMc, mainchat, StubbyMuffins#1053, i got wayyy to much going on right now to add that to the mix i do enough reading
+14 Aug 2017 06:10:32 : LimitlessMc, mainchat, Carl#2678, Sending..
+14 Aug 2017 06:10:42 : LimitlessMc, mainchat, StubbyMuffins#1053, let alone making a bot lel
+14 Aug 2017 06:10:46 : LimitlessMc, mainchat, Light#6734, le
+14 Aug 2017 06:11:20 : LimitlessMc, mainchat, Jay113355#4999, That took way to long
+14 Aug 2017 06:11:26 : LimitlessMc, mainchat, Light#6734, yeah
+14 Aug 2017 06:11:30 : LimitlessMc, mainchat, Jay113355#4999, rcon is messed up
+14 Aug 2017 06:11:37 : LimitlessMc, mainchat, Jay113355#4999, it had to reconnect
+14 Aug 2017 06:11:50 : LimitlessMc, mainchat, Jay113355#4999, Dark - Today at 1:11 AM
+
+Jay why am i banned? i never killed anyone
+14 Aug 2017 06:12:13 : LimitlessMc, mainchat, Dark#1819, Jay
+14 Aug 2017 06:12:14 : LimitlessMc, mainchat, Dark#1819, why
+14 Aug 2017 06:12:17 : LimitlessMc, mainchat, Jay113355#4999, Who was killing Pixlexia?
+14 Aug 2017 06:12:30 : LimitlessMc, mainchat, Dark#1819, i was hitting him because he was trying to take stuff from my base
+14 Aug 2017 06:12:35 : LimitlessMc, mainchat, Dark#1819, i never killed him
+14 Aug 2017 06:12:45 : LimitlessMc, mainchat, StubbyMuffins#1053, i told him to tell you guy to knock it the fuck off but you wanna run your mouths
+14 Aug 2017 06:12:52 : LimitlessMc, mainchat, StubbyMuffins#1053, no he wasnt bullshit
+14 Aug 2017 06:13:16 : LimitlessMc, mainchat, StubbyMuffins#1053, venix was main one being a ass
+14 Aug 2017 06:13:28 : LimitlessMc, mainchat, Jay113355#4999, @Carl sudo limitlessmc.game1 unban DarkSpark0905
+14 Aug 2017 06:13:29 : LimitlessMc, mainchat, Carl#2678, Sending..
+14 Aug 2017 06:13:30 : LimitlessMc, mainchat, StubbyMuffins#1053, venzix*
+14 Aug 2017 06:15:03 : LimitlessMc, mainchat, Jay113355#4999, @Carl sudo limitlessmc.game1 pardon DarkSpark0905
+14 Aug 2017 06:15:04 : LimitlessMc, mainchat, Carl#2678, Sending..
+14 Aug 2017 06:15:27 : LimitlessMc, mainchat, Light#6734, oml people linking meatspin in srbr chat
+14 Aug 2017 06:16:43 : LimitlessMc, mainchat, Jay113355#4999, Well modpack v0.3 is coming soon
+14 Aug 2017 06:16:56 : LimitlessMc, mainchat, Jay113355#4999, So i'll start working on perms after that
+14 Aug 2017 06:17:01 : LimitlessMc, mainchat, StubbyMuffins#1053, did you take care of venzix jay?
+14 Aug 2017 06:17:04 : LimitlessMc, mainchat, StubbyMuffins#1053, and alright dope
+14 Aug 2017 06:17:15 : LimitlessMc, mainchat, Crystal4209#4698, why graves not work
+14 Aug 2017 06:17:20 : LimitlessMc, mainchat, Light#6734, dope stuff
+14 Aug 2017 06:17:22 : LimitlessMc, mainchat, Jay113355#4999, graves are openblocks
+14 Aug 2017 06:17:26 : LimitlessMc, mainchat, StubbyMuffins#1053, and when i get more work done here ill be on more
+14 Aug 2017 06:17:33 : LimitlessMc, mainchat, StubbyMuffins#1053, just busy myself
+14 Aug 2017 06:17:38 : LimitlessMc, mainchat, Jay113355#4999, openblocks got removed do to it being a bugged beta
+14 Aug 2017 06:17:42 : LimitlessMc, mainchat, Light#6734, now that i'm back home i'll be around alot more
+14 Aug 2017 06:18:10 : LimitlessMc, mainchat, Venzi#0986, Lol Stubby want to hear the full story or do you want to listen to the lies your friend sent to youy
+14 Aug 2017 06:18:55 : LimitlessMc, mainchat, StubbyMuffins#1053, he has no reason to lie
+14 Aug 2017 06:19:06 : LimitlessMc, mainchat, StubbyMuffins#1053, not to mention he never truly eft staff
+14 Aug 2017 06:19:09 : LimitlessMc, mainchat, StubbyMuffins#1053, left*
+14 Aug 2017 06:19:12 : LimitlessMc, mainchat, Venzi#0986, I mean
+14 Aug 2017 06:19:18 : LimitlessMc, mainchat, Venzi#0986, He told you we killed him
+14 Aug 2017 06:19:22 : LimitlessMc, mainchat, Venzi#0986, which never happened
+14 Aug 2017 06:19:29 : LimitlessMc, mainchat, Venzi#0986, so he abused your power
+14 Aug 2017 06:19:30 : LimitlessMc, mainchat, Venzi#0986, ❤
+14 Aug 2017 06:19:47 : LimitlessMc, mainchat, StubbyMuffins#1053, yeah considering jay is the one who did it
+14 Aug 2017 06:20:09 : LimitlessMc, mainchat, Venzi#0986, He was unbanned instantly and I never got banned
+14 Aug 2017 06:20:15 : LimitlessMc, mainchat, StubbyMuffins#1053, either way im not going to bother fighting about it
+14 Aug 2017 06:20:20 : LimitlessMc, mainchat, Crystal4209#4698, i got killed by witches 2many times
+14 Aug 2017 06:20:32 : LimitlessMc, mainchat, Venzi#0986, So in other words
+14 Aug 2017 06:20:36 : LimitlessMc, mainchat, Venzi#0986, Your friend lied to you
+14 Aug 2017 06:20:49 : LimitlessMc, mainchat, StubbyMuffins#1053, running your mouth and shit and acting like a asshole and saying we can do shit without perms fast track to ban dude
+14 Aug 2017 06:21:10 : LimitlessMc, mainchat, Venzi#0986, Didnt say you couldnt do shit
+14 Aug 2017 06:21:20 : LimitlessMc, mainchat, Venzi#0986, Said you couldnt do shit because we didnt break any rules
+14 Aug 2017 06:21:35 : LimitlessMc, mainchat, Venzi#0986, I respect youre admin, but your buddy is feeding you lies dude
+14 Aug 2017 06:22:24 : LimitlessMc, mainchat, Jay113355#4999, 
+14 Aug 2017 06:22:59 : LimitlessMc, mainchat, Venzi#0986, read em
+14 Aug 2017 06:23:09 : LimitlessMc, mainchat, Crystal4209#4698, ew gross
+14 Aug 2017 06:24:27 : LimitlessMc, mainchat, StubbyMuffins#1053, i cant even read half that
+14 Aug 2017 06:24:31 : LimitlessMc, mainchat, StubbyMuffins#1053, to much shit going on
+14 Aug 2017 06:24:39 : LimitlessMc, mainchat, Venzi#0986, yeah its kinda hard for me too
+14 Aug 2017 06:24:42 : LimitlessMc, mainchat, Venzi#0986, im trying tho
+14 Aug 2017 06:25:18 : LimitlessMc, mainchat, Jay113355#4999, hence why i sent it here instead of reading it my self
+14 Aug 2017 06:25:25 : LimitlessMc, mainchat, Venzi#0986, lol
+14 Aug 2017 06:27:38 : LimitlessMc, mainchat, Venzi#0986, [01:54:18] [Server thread/INFO]: <Pixlexia> i gave your names to stub
+[01:54:19] [Server thread/INFO]: <crystal4209> guys stop being annoying little shitters okai?
+[01:54:21] [Server thread/INFO]: <aadie11> light will make a great parent
+[01:54:22] [Server thread/INFO]: <Venzix> good for you
+[01:54:34] [Server thread/INFO]: <LegendaryFaze> i am a decent parent i think? lol
+[01:54:38] [Server thread/INFO]: <crystal4209> lol
+[01:54:44] [Server thread/INFO]: <Venzix> Also whats stub going to do
+[01:54:47] [Server thread/INFO]: <Venzix> we didnt break any rules
+[01:54:50] [Server thread/INFO]: <Venzix> dont be an idiot
+14 Aug 2017 06:28:02 : LimitlessMc, mainchat, Venzi#0986, Thats what he was refurring to when I said "You had no power" or whatever he told you
+14 Aug 2017 06:29:14 : LimitlessMc, mainchat, StubbyMuffins#1053, i know im reading all your reactions are completely unwarrented and he wasnt moving because he was talking to me
+14 Aug 2017 06:29:27 : LimitlessMc, mainchat, StubbyMuffins#1053, dont be dicks for the sake of being fucking dicks
+14 Aug 2017 06:29:41 : LimitlessMc, mainchat, Venzi#0986, He walked up to our base after staring at it
+14 Aug 2017 06:29:44 : LimitlessMc, mainchat, Venzi#0986, and wouldnt leave
+14 Aug 2017 06:29:50 : LimitlessMc, mainchat, Venzi#0986, he just kept trying to get up there
+14 Aug 2017 06:30:00 : LimitlessMc, mainchat, StubbyMuffins#1053, oooo good lord dude get a grip
+14 Aug 2017 06:30:04 : LimitlessMc, mainchat, Venzi#0986, We asked him to leave nicely at first, not sure if the log shows
+14 Aug 2017 06:30:15 : LimitlessMc, mainchat, StubbyMuffins#1053, next time i log on im spending 8 horus just staring at your base
+14 Aug 2017 06:30:15 : LimitlessMc, mainchat, Venzi#0986, There is a raider on the server I dont know
+14 Aug 2017 06:30:19 : LimitlessMc, mainchat, Venzi#0986, I dont want to be raided
+14 Aug 2017 06:30:39 : LimitlessMc, mainchat, StubbyMuffins#1053, that doesnt give you warrent to be a asshat dude
+14 Aug 2017 06:30:48 : LimitlessMc, mainchat, Venzi#0986, He was being equally rude?
+14 Aug 2017 06:30:55 : LimitlessMc, mainchat, Venzi#0986, He also threw you under the bus
+14 Aug 2017 06:31:02 : LimitlessMc, mainchat, StubbyMuffins#1053, how?
+14 Aug 2017 06:31:09 : LimitlessMc, mainchat, Venzi#0986, Basically saying becuase you guys are friends he would ban us
+14 Aug 2017 06:31:36 : LimitlessMc, mainchat, Venzi#0986, [01:54:18] [Server thread/INFO]: <Pixlexia> i gave your names to stub
+[01:54:19] [Server thread/INFO]: <crystal4209> guys stop being annoying little shitters okai?
+[01:54:21] [Server thread/INFO]: <aadie11> light will make a great parent
+[01:54:22] [Server thread/INFO]: <Venzix> good for you
+[01:54:34] [Server thread/INFO]: <LegendaryFaze> i am a decent parent i think? lol
+[01:54:38] [Server thread/INFO]: <crystal4209> lol
+[01:54:44] [Server thread/INFO]: <Venzix> Also whats stub going to do
+[01:54:47] [Server thread/INFO]: <Venzix> we didnt break any rules
+[01:54:50] [Server thread/INFO]: <Venzix> dont be an idiot
+[01:54:50] [Server thread/INFO]: <LegendaryFaze> stubby is also an admin
+[01:54:57] [Server thread/INFO]: <crystal4209> D:
+[01:54:58] [Server thread/INFO]: <Venzix> I know
+[01:55:00] [Server thread/INFO]: <LegendaryFaze> and doesn't take kindly to nonsense
+[01:55:04] [Server thread/INFO]: <crystal4209> why i have no perms ;-;
+[01:55:13] [Server thread/INFO]: <Venzix> Ya then he shouldnt take kindly to Pixlexia not listening to us
+[01:55:33] [Server thread/INFO]: <Pixlexia> Stub and i have been friends for two years
+[01:55:35] [Server thread/INFO]: <Venzix> This conflict could have been avoided if he just left instead of sitting there
+14 Aug 2017 06:32:07 : LimitlessMc, mainchat, Venzi#0986, He threw you under the bus
+14 Aug 2017 06:32:16 : LimitlessMc, mainchat, StubbyMuffins#1053, i would say the same shit for anyone dude listen ok i been with this community a long time man i dont just do shit for friends and i don't need to explain my self either
+14 Aug 2017 06:32:32 : LimitlessMc, mainchat, Venzi#0986, I didnt say you did
+14 Aug 2017 06:32:46 : LimitlessMc, mainchat, Venzi#0986, Nor do I think of you that low
+14 Aug 2017 06:32:54 : LimitlessMc, mainchat, Venzi#0986, Im just saying, he threw you under the bus
+14 Aug 2017 06:32:54 : LimitlessMc, mainchat, StubbyMuffins#1053, and it comes down to someone being by your base so you light him on fire and act like a dick you act like you havnt acted like a retard before pokken
+14 Aug 2017 06:33:21 : LimitlessMc, mainchat, Venzi#0986, I have
+14 Aug 2017 06:33:30 : LimitlessMc, mainchat, Venzi#0986, but I dont continuously walk somewhere Im not told
+14 Aug 2017 06:33:35 : LimitlessMc, mainchat, Jay113355#4999, guys
+14 Aug 2017 06:33:36 : LimitlessMc, mainchat, Jay113355#4999, stop
+14 Aug 2017 06:33:40 : LimitlessMc, mainchat, Jay113355#4999, go to bed
+14 Aug 2017 06:33:47 : LimitlessMc, mainchat, Venzi#0986, I will in 30 mins
+14 Aug 2017 06:33:54 : LimitlessMc, mainchat, Venzi#0986, Its only 11:30
+14 Aug 2017 06:33:58 : LimitlessMc, mainchat, StubbyMuffins#1053, i just woke up 3 hours ago am trying to work and im getting blown up with messages
+14 Aug 2017 06:34:01 : LimitlessMc, mainchat, Jay113355#4999, well in the mean time stfu
+14 Aug 2017 06:34:11 : LimitlessMc, mainchat, StubbyMuffins#1053, only if you buy me dinner bb
+14 Aug 2017 06:34:14 : LimitlessMc, mainchat, Jay113355#4999, no more bitching about this
+14 Aug 2017 06:34:21 : LimitlessMc, mainchat, Venzi#0986, deal
+14 Aug 2017 06:34:43 : LimitlessMc, mainchat, StubbyMuffins#1053, btw jay i like when you take change
+14 Aug 2017 06:35:00 : LimitlessMc, mainchat, StubbyMuffins#1053, idk what happened but am liking new personality now give me a yeah boi
+14 Aug 2017 06:35:19 : LimitlessMc, mainchat, StubbyMuffins#1053, jjjaaayyy
+14 Aug 2017 06:38:38 : PokeIslands, general, Botfuzzy77#2209, Welcome @Nicwa to PokeIslands!
+14 Aug 2017 06:38:38 : PokeIslands, bot, Tatsumaki#8792, Welcome to the %SERVER% %MENTION%, If you have questions feel free to join #support!
+14 Aug 2017 06:38:38 : PokeIslands, bot, Tatsumaki#8792, 
+14 Aug 2017 06:41:24 : PokeIslands, general, Nicwa#8125, what is the IP
+14 Aug 2017 06:41:27 : PokeIslands, general, Spuddy👌#3462, //ip
+14 Aug 2017 06:41:53 : PokeIslands, general, Brady#8237, playpokeislands.tk:59278
+14 Aug 2017 06:43:21 : PokeIslands, general, Spuddy👌#3462, @KiritoSanPlays
+14 Aug 2017 06:43:21 : PokeIslands, general, Botfuzzy77#2209, KiritoSanPlays is afk for reason:
+**sleeping snoozing breaking my bed call it whatever you want! BIATCH**
+14 Aug 2017 06:48:18 : LimitlessMc, mainchat, Bakafish#8693, well finally settled at university
+14 Aug 2017 06:48:25 : LimitlessMc, mainchat, 7up#2378, Since we have agreed to a custom modpack and we don't have any protection as of yet, how about a grief proof-factions server for protection? As you mentioned in the olden days of factions limitless, raiding was not possible since you cannot take over other factions claims and explosions were turned off. However, enemying and fighting was was still possible, which I think would be really cool with all these mods in place. Also, give players the option to play completely peaceful. I have not seen any other servers with FTB and factions so I think it would be pretty unique and attract more players.
+14 Aug 2017 06:48:31 : LimitlessMc, mainchat, 7up#2378, glhf baka
+14 Aug 2017 06:48:44 : LimitlessMc, mainchat, Bakafish#8693, tyty
+14 Aug 2017 06:48:53 : LimitlessMc, mainchat, Bakafish#8693, no idea how raided my fort is at this point
+14 Aug 2017 06:49:07 : LimitlessMc, mainchat, Bakafish#8693, since i logged off while trying to reach zoroark near spawn
+14 Aug 2017 06:50:27 : Achievement Heaven, ah-general, DJ Small#8652, remember that the internet evolved from this: https://www.youtube.com/watch?v=1qN72LEQnaU
+14 Aug 2017 06:50:33 : Achievement Heaven, ah-general, DJ Small#8652, the hampsterdance.
+14 Aug 2017 07:00:36 : LimitlessMc, botchat, ThundererZ#4598, ;train
+14 Aug 2017 07:00:36 : LimitlessMc, botchat, Botfuzzy77#2209, 
+14 Aug 2017 07:00:36 : LimitlessMc, botchat, Botfuzzy77#2209, 
+14 Aug 2017 07:00:36 : LimitlessMc, botchat, Botfuzzy77#2209, 
+14 Aug 2017 07:00:52 : LimitlessMc, botchat, ThundererZ#4598, ;mine
+14 Aug 2017 07:00:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+14 Aug 2017 07:00:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+14 Aug 2017 07:06:47 : PokeIslands, general, Spuddy👌#3462, IM so bored

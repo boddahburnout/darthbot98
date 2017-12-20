@@ -1,0 +1,421 @@
+04 Oct 2016 19:50:45 : The Wild Weebs, music, Wertfuzzy77#0274, ;join
+04 Oct 2016 19:50:49 : The Wild Weebs, music, Wertfuzzy77#0274, ;playlist AnimeOpenings AnimeOpenings AnimeOpenings AnimeOpenings
+04 Oct 2016 19:51:46 : The Wild Weebs, music, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+04 Oct 2016 20:13:36 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, https://www.youtube.com/watch?v=dIQ3nN3o-H8
+04 Oct 2016 20:21:38 : GetPlebd, weeaboo-chat, ErisBot#1777, Command: **music** **<function>** **[args]**
+Description: Play your favorite songs straight from YouTube
+Parameters:
+	**play** [URL/Video Title] - Start playing/play a song from YouTube/SoundCloud
+	**pause** - Pause the current song
+	**volume** [0 - 100] - Changed the volume of the music. _Admin/DJ Overridable_
+	**queue** [Page number] - View the Music queue and select which page
+	**skip** - Vote to skip. Requires 40% of undefeaned users to skip
+	**nowplaying** - View what's playing
+	**stop** - Stop the music
+	**shuffle** - Shuffle the queue _Admin/DJ Only_
+	**forceskip** - Force skip the song _Admin/DJ Only_
+	**reset** - This completely resets the Music bot _Admin/DJ Only_
+Example:
+	_music play https://www.youtube.com/watch?v=dQw4w9WgXcQ_
+
+DJ's can be defined with a role called "DJ"
+Music Bot Credit: DinosParkour (Modded by TheEpTic)
+04 Oct 2016 20:24:16 : GetPlebd, weeaboo-chat, druif#0498, .music play https://www.youtube.com/watch?v=1V_xRb0x9aw
+04 Oct 2016 20:24:20 : GetPlebd, weeaboo-chat, ErisBot#1777, [**Music**] @druif has added `Gorillaz - Clint Eastwood (Official Video)` to the queue. (`04:29`) [`0`]
+04 Oct 2016 20:55:19 : The Wild Weebs, coding, Tally#2764, cs 311
+04 Oct 2016 20:55:22 : The Wild Weebs, coding, Wertfuzzy77#0274, shhh, i learning ruby
+04 Oct 2016 20:55:26 : The Wild Weebs, coding, Tally#2764, me chris and alex are here
+04 Oct 2016 20:55:29 : The Wild Weebs, coding, Wertfuzzy77#0274, sux
+04 Oct 2016 20:55:35 : The Wild Weebs, coding, Wertfuzzy77#0274, dylan at work
+04 Oct 2016 20:56:05 : The Wild Weebs, coding, enragednuke#2565, ^
+04 Oct 2016 20:56:05 : The Wild Weebs, coding, Botfuzzy77#2209, ^
+04 Oct 2016 20:56:09 : The Wild Weebs, coding, enragednuke#2565, sux im at work
+04 Oct 2016 20:56:50 : The Wild Weebs, coding, Wertfuzzy77#0274, ^
+04 Oct 2016 20:56:50 : The Wild Weebs, coding, Botfuzzy77#2209, ^
+04 Oct 2016 21:10:53 : Penguins 2, general, Young mom#1962, I've been reborn @xAlain_(Charizard) I shall now venture out to get you a brother.
+04 Oct 2016 21:25:01 : LimitlessMc, mainchat, MelvZz#6815, Byee catch you all in a few, need to munch.
+04 Oct 2016 21:38:56 : The Wild Weebs, coding, enragednuke#2565, @Wertfuzzy77 my 5th boss is 3 pages long lol
+04 Oct 2016 21:50:17 : The Wild Weebs, coding, Wertfuzzy77#0274, I can see you are def "Working"
+04 Oct 2016 21:50:27 : The Wild Weebs, coding, enragednuke#2565, im working on my internships
+04 Oct 2016 21:50:28 : The Wild Weebs, coding, enragednuke#2565, duh
+04 Oct 2016 21:50:33 : The Wild Weebs, coding, enragednuke#2565, anyhow
+04 Oct 2016 21:50:35 : The Wild Weebs, coding, enragednuke#2565, @Wertfuzzy77 food?
+04 Oct 2016 21:50:49 : The Wild Weebs, coding, Wertfuzzy77#0274, when
+04 Oct 2016 21:50:52 : The Wild Weebs, coding, enragednuke#2565, right now
+04 Oct 2016 21:51:17 : The Wild Weebs, coding, Wertfuzzy77#0274, rahaun is in a game
+04 Oct 2016 21:51:48 : The Wild Weebs, coding, enragednuke#2565, how long
+04 Oct 2016 21:51:58 : The Wild Weebs, coding, Wertfuzzy77#0274, no idea, he isnt responding
+04 Oct 2016 21:52:08 : The Wild Weebs, coding, Wertfuzzy77#0274, not LoL
+04 Oct 2016 21:52:11 : The Wild Weebs, coding, Wertfuzzy77#0274, rocket league
+04 Oct 2016 21:52:19 : The Wild Weebs, coding, enragednuke#2565, those are fast
+04 Oct 2016 21:53:26 : The Wild Weebs, coding, Wertfuzzy77#0274, When he is done, sure, we will meet you there
+04 Oct 2016 21:55:08 : The Wild Weebs, coding, enragednuke#2565, is he done?
+04 Oct 2016 21:55:16 : The Wild Weebs, coding, enragednuke#2565, do I leave now?
+04 Oct 2016 21:55:17 : The Wild Weebs, coding, enragednuke#2565, lol
+04 Oct 2016 21:56:25 : The Wild Weebs, coding, enragednuke#2565, @Wertfuzzy77
+04 Oct 2016 21:56:51 : The Wild Weebs, coding, Wertfuzzy77#0274, he not done
+04 Oct 2016 21:58:20 : The Wild Weebs, coding, Wertfuzzy77#0274, yeah leave
+04 Oct 2016 22:09:39 : LimitlessMc, mainchat, Josh#0498, end ur career
+04 Oct 2016 22:23:24 : LimitlessMc, mainchat, Jay113355#4999, Wat
+04 Oct 2016 22:39:11 : LimitlessMc, mainchat, Dowritox#0220, Yo whats up
+05 Oct 2016 00:37:49 : LimitlessMc, mainchat, Pugs#3166, @MoshonT  what gym ?
+05 Oct 2016 01:10:03 : Penguins 2, general, xAlain_(Charizard)#0865, @Young mom  ok mom
+05 Oct 2016 01:11:13 : LimitlessMc, mainchat, xAlain_(Charizard)#0865, @Rachel  ohayo senpai
+05 Oct 2016 01:11:32 : LimitlessMc, mainchat, Harambe#3735, @xAlain_(Charizard) hush
+05 Oct 2016 01:11:35 : LimitlessMc, mainchat, xAlain_(Charizard)#0865, @Pugs I'll make a mank out of you
+05 Oct 2016 01:11:50 : LimitlessMc, mainchat, xAlain_(Charizard)#0865, ;image harambe
+05 Oct 2016 01:12:08 : LimitlessMc, mainchat, xAlain_(Charizard)#0865, !meme Harambe is just a gorilla
+05 Oct 2016 01:12:10 : LimitlessMc, mainchat, Gerald#7099, http://i.imgflip.com/1bs48q.jpg
+05 Oct 2016 01:12:28 : LimitlessMc, mainchat, Harambe#3735, fuck you too
+05 Oct 2016 01:12:47 : LimitlessMc, mainchat, xAlain_(Charizard)#0865, !meme *TRIGGERED*
+05 Oct 2016 01:12:49 : LimitlessMc, mainchat, Gerald#7099, http://i.imgflip.com/1bs4a3.jpg
+05 Oct 2016 01:13:26 : LimitlessMc, mainchat, xAlain_(Charizard)#0865, !meme Did you just assume my gender?
+05 Oct 2016 01:13:27 : LimitlessMc, mainchat, Gerald#7099, http://i.imgflip.com/1bs4bg.jpg
+05 Oct 2016 02:34:43 : LimitlessMc, mainchat, MelvZz#6815, Loool
+05 Oct 2016 02:47:16 : The Wild Weebs, general, enragednuke#2565, @Tally
+05 Oct 2016 02:47:22 : The Wild Weebs, general, enragednuke#2565, CHRIS SAYS YOU HAVE 311
+05 Oct 2016 02:47:25 : The Wild Weebs, general, enragednuke#2565, SOMETHING ABOUT BIRDS
+05 Oct 2016 02:47:37 : The Wild Weebs, general, Tally#2764, oh yeah
+05 Oct 2016 02:47:40 : The Wild Weebs, general, Tally#2764, lol
+05 Oct 2016 02:47:56 : The Wild Weebs, general, enragednuke#2565, WHAT DOES THAT MEAN
+05 Oct 2016 02:48:06 : The Wild Weebs, general, enragednuke#2565, PLZ HELP
+05 Oct 2016 02:48:14 : The Wild Weebs, general, enragednuke#2565, R U TELLING ME I DONT NEED TO DO 311?
+05 Oct 2016 02:48:18 : The Wild Weebs, general, enragednuke#2565, IS THIS REAL LIFE
+05 Oct 2016 02:49:07 : The Wild Weebs, general, Tally#2764, lol
+05 Oct 2016 02:49:15 : The Wild Weebs, general, Tally#2764, you dont have to do 1 3 or 6
+05 Oct 2016 02:50:54 : The Wild Weebs, general, enragednuke#2565, craig got em to me on fb
+05 Oct 2016 02:53:05 : The Wild Weebs, general, Tally#2764, oh i just emailed them to you
+05 Oct 2016 02:58:15 : The Wild Weebs, general, enragednuke#2565, i see that
+05 Oct 2016 02:58:21 : The Wild Weebs, general, enragednuke#2565, he sent me specific ones but this is all of them
+05 Oct 2016 03:04:21 : The Wild Weebs, general, Tally#2764, yes
+05 Oct 2016 03:04:25 : The Wild Weebs, general, Tally#2764, its the whole book
+05 Oct 2016 03:54:19 : The Wild Weebs, general, enragednuke#2565, @Tally
+05 Oct 2016 03:54:19 : The Wild Weebs, general, enragednuke#2565, @Tally
+05 Oct 2016 03:54:24 : The Wild Weebs, general, enragednuke#2565, what key do you have this week
+05 Oct 2016 04:15:06 : The Wild Weebs, general, Tally#2764, arcway
+05 Oct 2016 04:15:09 : The Wild Weebs, general, Tally#2764, lvl 2
+05 Oct 2016 04:17:02 : The Wild Weebs, general, enragednuke#2565, hmm
+05 Oct 2016 04:17:04 : The Wild Weebs, general, enragednuke#2565, ew
+05 Oct 2016 04:17:04 : The Wild Weebs, general, enragednuke#2565, lol
+05 Oct 2016 04:17:07 : The Wild Weebs, general, enragednuke#2565, is that this week?
+05 Oct 2016 04:17:10 : The Wild Weebs, general, enragednuke#2565, i thought you had that laast week
+05 Oct 2016 04:18:43 : The Wild Weebs, general, enragednuke#2565, @Tally
+05 Oct 2016 04:21:35 : The Wild Weebs, general, Tally#2764, i had the maw
+05 Oct 2016 04:23:27 : The Wild Weebs, general, enragednuke#2565, fuk
+05 Oct 2016 04:23:36 : The Wild Weebs, general, enragednuke#2565, my guild is carrying +2 maws atm lol
+05 Oct 2016 04:23:41 : The Wild Weebs, general, enragednuke#2565, dank AP farming
+05 Oct 2016 04:25:15 : The Wild Weebs, general, Tally#2764, lol
+05 Oct 2016 04:25:20 : The Wild Weebs, general, Tally#2764, any legendary
+05 Oct 2016 04:25:28 : The Wild Weebs, general, enragednuke#2565, i got myy legendary alreadyy
+05 Oct 2016 04:25:32 : The Wild Weebs, general, enragednuke#2565, i guess i forgot to tell u lol
+05 Oct 2016 04:25:35 : The Wild Weebs, general, enragednuke#2565, i got it from a +8 HoV i think
+05 Oct 2016 04:26:40 : The Wild Weebs, general, Tally#2764, damn a +8
+05 Oct 2016 04:28:02 : The Wild Weebs, music, Wertfuzzy77#0274, ;playlist AnimeOpenings AnimeOpenings AnimeOpenings AnimeOpenings
+05 Oct 2016 04:28:52 : The Wild Weebs, music, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+05 Oct 2016 04:33:39 : The Wild Weebs, general, enragednuke#2565, same
+05 Oct 2016 04:40:05 : The Wild Weebs, general, enragednuke#2565, @Tally we got to a +10 last week
+05 Oct 2016 04:40:18 : The Wild Weebs, general, Tally#2764, damn
+05 Oct 2016 04:40:18 : The Wild Weebs, general, enragednuke#2565, but it was tyrannical
+05 Oct 2016 04:40:18 : The Wild Weebs, general, enragednuke#2565, Eye of Azshara on tyrannical is actually just impossible
+05 Oct 2016 04:40:21 : The Wild Weebs, general, Tally#2764, how was that
+05 Oct 2016 04:40:26 : The Wild Weebs, general, enragednuke#2565, we spent 2 hours in there
+05 Oct 2016 04:40:31 : The Wild Weebs, general, enragednuke#2565, half of of that on eye of azsahra
+05 Oct 2016 04:40:33 : The Wild Weebs, general, enragednuke#2565, and didnt beat it
+05 Oct 2016 04:40:33 : The Wild Weebs, general, enragednuke#2565, lol
+05 Oct 2016 04:40:35 : The Wild Weebs, general, Tally#2764, hahahaha
+05 Oct 2016 04:41:07 : The Wild Weebs, general, enragednuke#2565, you shouldve seen it
+05 Oct 2016 04:41:09 : The Wild Weebs, general, enragednuke#2565, shit was fuckin crazy
+05 Oct 2016 04:41:10 : The Wild Weebs, general, enragednuke#2565, hold on
+05 Oct 2016 04:41:12 : The Wild Weebs, general, enragednuke#2565, i streamed it
+05 Oct 2016 04:42:31 : The Wild Weebs, general, enragednuke#2565, @Tally https://www.twitch.tv/priestism/v/92703167
+05 Oct 2016 04:42:34 : The Wild Weebs, general, enragednuke#2565, look at that shit
+05 Oct 2016 04:42:38 : The Wild Weebs, general, enragednuke#2565, look at the fucking health bars
+05 Oct 2016 04:42:40 : The Wild Weebs, general, enragednuke#2565, ???????????????????
+05 Oct 2016 06:01:58 : The Wild Weebs, general, enragednuke#2565, ;song
+05 Oct 2016 06:01:58 : The Wild Weebs, general, Botfuzzy77#2209, ```Name: Clannad opening theme full
+URL: <https://www.youtube.com/watch?v=k8eokj5MlEE>
+Time: 0:04:46
+Views: 1,378,852
+Likes: 8,718, 98.59%
+Dislikes: 125, 1.41%
+```
+05 Oct 2016 06:14:59 : The Wild Weebs, general, enragednuke#2565, @Tally https://www.youtube.com/watch?v=qwUq9kaOSQE
+05 Oct 2016 06:15:03 : The Wild Weebs, general, enragednuke#2565, whenever it finishes processing
+05 Oct 2016 06:15:05 : The Wild Weebs, general, enragednuke#2565, lol
+05 Oct 2016 06:28:38 : LimitlessMc, mainchat, AussieAge#6629, Hey Jay got a issue gyms can be over claimed
+05 Oct 2016 06:30:57 : LimitlessMc, mainchat, Pleasuringly#0125, @Jay113355  Gyms can be claimed by other players
+05 Oct 2016 06:33:26 : LimitlessMc, mainchat, AussieAge#6629, But blocks can't be broken
+05 Oct 2016 06:36:24 : LimitlessMc, mainchat, MoshonT#8152, Something happen to someone's gym?
+05 Oct 2016 06:53:06 : LimitlessMc, mainchat, Pleasuringly#0125, No just some people worried about people claiming their gyms so they cant do stuff or open chests and what not
+05 Oct 2016 10:33:55 : Penguins 2, general, SurvivraInHellAKASchool#7191, Omg mom @Young mom  that profile
+05 Oct 2016 12:07:23 : LimitlessMc, mainchat, Lightning#6734, what'd i miss? o-o
+05 Oct 2016 12:13:20 : Penguins 2, general, Young mom#1962, You need some appeal to flock the men. We need more brothers and fathers up in here @SurvivraInHellAKASchool
+05 Oct 2016 12:17:06 : Penguins 2, general, Young mom#1962, should I've showed more skin?
+05 Oct 2016 12:17:41 : Penguins 2, general, xAlain_(Charizard)#0865, Yes mom
+05 Oct 2016 12:17:59 : Penguins 2, general, xAlain_(Charizard)#0865, Im a bad son
+05 Oct 2016 12:18:07 : Penguins 2, general, xAlain_(Charizard)#0865, Incest is wincest
+05 Oct 2016 12:18:08 : Penguins 2, general, Young mom#1962, oke I've use that profile for the pornhubs profile then
+05 Oct 2016 12:18:12 : Penguins 2, general, Young mom#1962, i'll
+05 Oct 2016 12:18:16 : Penguins 2, general, Young mom#1962, *
+05 Oct 2016 12:18:19 : Penguins 2, general, xAlain_(Charizard)#0865, ;image incest
+05 Oct 2016 12:18:21 : Penguins 2, general, Botfuzzy77#2209, http://www.dailystormer.com/wp-content/uploads/2014/09/inbreeding-1_zps252508aa_thumb.jpg
+05 Oct 2016 12:18:24 : Penguins 2, general, Young mom#1962, xD
+05 Oct 2016 12:18:26 : Penguins 2, general, Young mom#1962, omg
+05 Oct 2016 12:18:34 : Penguins 2, general, Young mom#1962, ;image incest in wincest
+05 Oct 2016 12:18:35 : Penguins 2, general, Botfuzzy77#2209, https://img.ifcdn.com/images/550e0699f437fe3ec90e2a74f2bf20687057cbc61fa3ed7cc5deade450fccf24_1.jpg
+05 Oct 2016 12:18:58 : Penguins 2, general, xAlain_(Charizard)#0865, ;image wincest
+05 Oct 2016 12:19:01 : Penguins 2, general, Botfuzzy77#2209, http://67.media.tumblr.com/ad37d4cccf591de4afb340828342de2b/tumblr_ntjdzdGibc1u4pk4mo1_500.jpg
+05 Oct 2016 12:19:05 : Penguins 2, general, Young mom#1962, OH
+05 Oct 2016 12:19:07 : Penguins 2, general, Young mom#1962, YES
+05 Oct 2016 12:19:14 : Penguins 2, general, Young mom#1962, ;image wincest
+05 Oct 2016 12:19:14 : Penguins 2, general, Botfuzzy77#2209, http://67.media.tumblr.com/ad37d4cccf591de4afb340828342de2b/tumblr_ntjdzdGibc1u4pk4mo1_500.jpg
+05 Oct 2016 12:19:31 : Penguins 2, general, xAlain_(Charizard)#0865, ;image lannister incest
+05 Oct 2016 12:19:34 : Penguins 2, general, Young mom#1962, You know your stuff alain
+05 Oct 2016 12:19:34 : Penguins 2, general, Botfuzzy77#2209, http://s2.quickmeme.com/img/33/33887eaafb5635d6d6571589b98ed0935753eb563808dc19cf3cfc3f57abea1c.jpg
+05 Oct 2016 12:19:39 : Penguins 2, general, Young mom#1962, xD
+05 Oct 2016 12:19:57 : Penguins 2, general, xAlain_(Charizard)#0865, ;image girl suck dog dick
+05 Oct 2016 12:19:59 : Penguins 2, general, Botfuzzy77#2209, http://t1.lebenna.com/zoopussy/original/5277447201ada.jpg
+05 Oct 2016 12:20:02 : Penguins 2, general, Young mom#1962, WTF
+05 Oct 2016 12:20:04 : Penguins 2, general, Young mom#1962, WTF
+05 Oct 2016 12:20:17 : Penguins 2, general, Young mom#1962, I*M IN CLASS
+05 Oct 2016 12:20:19 : Penguins 2, general, Young mom#1962, STOP
+05 Oct 2016 12:20:26 : Penguins 2, general, xAlain_(Charizard)#0865, I like thos stuff
+05 Oct 2016 12:20:37 : Penguins 2, general, Young mom#1962, beasteality side of pornhub lele
+05 Oct 2016 12:20:47 : Penguins 2, general, xAlain_(Charizard)#0865, ;image rayquaza x groudon
+05 Oct 2016 12:20:49 : Penguins 2, general, Botfuzzy77#2209, http://t09.deviantart.net/xd72oyRsMjriCGyr1Kkmo_SLHp4=/fit-in/300x900/filters:no_upscale():origin()/pre07/48b4/th/pre/f/2016/104/f/6/peacekeeper__groudon_x_rayquaza_reader_x_kyogre_by_clanwarrior-d9yto4c.jpg
+05 Oct 2016 12:21:02 : Penguins 2, general, Young mom#1962, lol
+05 Oct 2016 12:21:04 : Penguins 2, general, Young mom#1962, ray
+05 Oct 2016 12:21:24 : Penguins 2, general, xAlain_(Charizard)#0865, ;image groudon x palkia
+05 Oct 2016 12:21:25 : Penguins 2, general, Botfuzzy77#2209, http://static1.comicvine.com/uploads/scale_super/11112/111122896/4921344-tumblr_static_tumblr_msg3mkdrgo1qjjg2fo1_1280.jpg
+05 Oct 2016 12:21:33 : Penguins 2, general, Young mom#1962, ;image palkia x dialga
+05 Oct 2016 12:21:34 : Penguins 2, general, Botfuzzy77#2209, http://img05.deviantart.net/7822/i/2009/256/7/7/palkia_and_dialga_hugging_by_renagadeorigins.jpg
+05 Oct 2016 12:21:43 : Penguins 2, general, Young mom#1962, tf
+05 Oct 2016 12:22:01 : Penguins 2, general, Young mom#1962, ;image steamy palkia
+05 Oct 2016 12:22:04 : Penguins 2, general, Botfuzzy77#2209, https://i.ytimg.com/vi/VHCERV5LacM/maxresdefault.jpg
+05 Oct 2016 12:22:19 : Penguins 2, general, Young mom#1962, ;image sexy palkia
+05 Oct 2016 12:22:29 : Penguins 2, general, Young mom#1962, it no work?
+05 Oct 2016 12:22:31 : Penguins 2, general, xAlain_(Charizard)#0865, ;image sexy hiraeth
+05 Oct 2016 12:22:33 : Penguins 2, general, Botfuzzy77#2209, http://orig13.deviantart.net/11ce/f/2015/311/2/e/___h_i_r_a_e_t_h______page_3_by_mariamediahere-d9fxcdr.jpg
+05 Oct 2016 12:22:36 : Penguins 2, general, Young mom#1962, tf
+05 Oct 2016 12:22:39 : Penguins 2, general, Young mom#1962, no fair
+05 Oct 2016 12:22:44 : Penguins 2, general, Young mom#1962, ;image sexy Alain
+05 Oct 2016 12:22:46 : Penguins 2, general, Botfuzzy77#2209, http://i.ebayimg.com/images/g/WeoAAOSwgQ9VxHhy/s-l300.jpg
+05 Oct 2016 12:22:49 : Penguins 2, general, Young mom#1962, xD
+05 Oct 2016 12:22:51 : Penguins 2, general, Young mom#1962, I love it
+05 Oct 2016 12:22:59 : Penguins 2, general, xAlain_(Charizard)#0865, ;image sexy sabadab
+05 Oct 2016 12:23:01 : Penguins 2, general, Botfuzzy77#2209, https://s-media-cache-ak0.pinimg.com/564x/f0/b7/20/f0b720c2372127f703bb29bf10c76cf0.jpg
+05 Oct 2016 12:23:07 : Penguins 2, general, Young mom#1962, scanned for auction place your bud now!
+05 Oct 2016 12:23:12 : Penguins 2, general, Young mom#1962, bid
+05 Oct 2016 12:23:19 : Penguins 2, general, Young mom#1962, ;image sexy xalain
+05 Oct 2016 12:23:21 : Penguins 2, general, Botfuzzy77#2209, https://s-media-cache-ak0.pinimg.com/originals/86/b3/c9/86b3c9814ec117f4b4d6db6766984d5c.jpg
+05 Oct 2016 12:23:27 : Penguins 2, general, Young mom#1962, ;image sexy alain
+05 Oct 2016 12:23:29 : Penguins 2, general, Botfuzzy77#2209, http://i.ebayimg.com/images/g/WeoAAOSwgQ9VxHhy/s-l300.jpg
+05 Oct 2016 12:23:34 : Penguins 2, general, Young mom#1962, hehe
+05 Oct 2016 12:23:35 : Penguins 2, general, xAlain_(Charizard)#0865, ;image sexy sabargos
+05 Oct 2016 12:23:38 : Penguins 2, general, Botfuzzy77#2209, http://img.gancxadebebi.ge/ka/gancxadebebi/korpusis-bina-GEO597470-123635.jpg
+05 Oct 2016 12:23:41 : Penguins 2, general, Young mom#1962, ;image sexy saba
+05 Oct 2016 12:23:42 : Penguins 2, general, Botfuzzy77#2209, http://celebrityiconz.com/wp-content/uploads/2011/09/sexy-white-saree.jpg
+05 Oct 2016 12:23:53 : Penguins 2, general, Young mom#1962, ;image sexy saba-kun
+05 Oct 2016 12:23:56 : Penguins 2, general, Botfuzzy77#2209, http://67.media.tumblr.com/520fed65adae7f404acfd98e516eea7d/tumblr_npletqVXU61u1zp57o1_1280.jpg
+05 Oct 2016 12:24:01 : Penguins 2, general, Young mom#1962, lol
+05 Oct 2016 12:24:03 : Penguins 2, general, xAlain_(Charizard)#0865, ;image hot hiraeth
+05 Oct 2016 12:24:05 : Penguins 2, general, Young mom#1962, "kun"
+05 Oct 2016 12:24:05 : Penguins 2, general, Botfuzzy77#2209, http://im.whatshot.in/event/2015/Nov/1447845827-itcl.jpg?w=252&h=252&ca=1&cf=n&q=75
+05 Oct 2016 12:24:15 : Penguins 2, general, Young mom#1962, ;image hot alain
+05 Oct 2016 12:24:18 : Penguins 2, general, Botfuzzy77#2209, https://s-media-cache-ak0.pinimg.com/236x/1a/76/32/1a76327d6af08ff4de8847e6847fb531.jpg
+05 Oct 2016 12:24:22 : Penguins 2, general, Young mom#1962, damn
+05 Oct 2016 12:24:26 : Penguins 2, general, Young mom#1962, ;) call me son
+05 Oct 2016 12:24:31 : Penguins 2, general, xAlain_(Charizard)#0865, Son
+05 Oct 2016 12:24:34 : Penguins 2, general, Young mom#1962, ;image hot son
+05 Oct 2016 12:24:37 : Penguins 2, general, Botfuzzy77#2209, http://cdn.crushable.com/files/2011/01/chet1.jpg
+05 Oct 2016 12:24:39 : Penguins 2, general, xAlain_(Charizard)#0865, ;image sexy mom
+05 Oct 2016 12:24:40 : Penguins 2, general, Botfuzzy77#2209, https://s-media-cache-ak0.pinimg.com/564x/e1/fc/4b/e1fc4b26268a74f25cad04918cb8eebf.jpg
+05 Oct 2016 12:24:44 : Penguins 2, general, Young mom#1962, omg
+05 Oct 2016 12:24:46 : Penguins 2, general, Young mom#1962, xD
+05 Oct 2016 12:24:49 : Penguins 2, general, Young mom#1962, don't go there pls
+05 Oct 2016 12:24:55 : Penguins 2, general, Young mom#1962, ;image milf
+05 Oct 2016 12:24:56 : Penguins 2, general, Botfuzzy77#2209, https://i.ytimg.com/vi/bsUWK-fixiA/maxresdefault.jpg
+05 Oct 2016 12:25:05 : Penguins 2, general, Young mom#1962, ;image sexy milf
+05 Oct 2016 12:25:07 : Penguins 2, general, xAlain_(Charizard)#0865, ;image hot mom
+05 Oct 2016 12:25:08 : Penguins 2, general, Botfuzzy77#2209, http://sexy-milf.pics/jmq/thumbs/c/2326.jpg
+05 Oct 2016 12:25:08 : Penguins 2, general, Botfuzzy77#2209, http://hitchfit.com/wp-content/uploads/2011/09/DBDS8402.jpg
+05 Oct 2016 12:25:11 : Penguins 2, general, Young mom#1962, damn
+05 Oct 2016 12:25:16 : Penguins 2, general, Young mom#1962, whee loordy
+05 Oct 2016 12:25:23 : Penguins 2, general, Young mom#1962, ;image dilf
+05 Oct 2016 12:25:28 : Penguins 2, general, Botfuzzy77#2209, http://gaycities-featured-images-production.s3.amazonaws.com/events/medsq_fb_10702027_10202771588318057_3516535640654862007_n.jpg
+05 Oct 2016 12:25:29 : Penguins 2, general, Young mom#1962, ;image sexy dilf
+05 Oct 2016 12:25:30 : Penguins 2, general, Botfuzzy77#2209, http://i44.tinypic.com/zspweh.jpg
+05 Oct 2016 12:25:38 : Penguins 2, general, Young mom#1962, second one's better LOL
+05 Oct 2016 12:25:39 : Penguins 2, general, Young mom#1962, xD
+05 Oct 2016 12:25:50 : Penguins 2, general, Young mom#1962, hair
+05 Oct 2016 12:25:55 : Penguins 2, general, Young mom#1962, hi survs
+05 Oct 2016 12:25:58 : Penguins 2, general, SurvivraInHellAKASchool#7191, Mom u boodiful then
+05 Oct 2016 12:26:08 : Penguins 2, general, Young mom#1962, Oh thanks
+05 Oct 2016 12:26:10 : Penguins 2, general, Young mom#1962, :D
+05 Oct 2016 12:26:10 : Penguins 2, general, SurvivraInHellAKASchool#7191, ;image milf
+05 Oct 2016 12:26:11 : Penguins 2, general, Botfuzzy77#2209, https://i.ytimg.com/vi/bsUWK-fixiA/maxresdefault.jpg
+05 Oct 2016 12:26:12 : Penguins 2, general, xAlain_(Charizard)#0865, ;image sexy gilf
+05 Oct 2016 12:26:14 : Penguins 2, general, Botfuzzy77#2209, https://pbs.twimg.com/media/Br7GDiVIAAAIdnD.jpg
+05 Oct 2016 12:26:15 : Penguins 2, general, SurvivraInHellAKASchool#7191, LOL
+05 Oct 2016 12:26:15 : Penguins 2, general, Young mom#1962, I true milf noe
+05 Oct 2016 12:26:22 : Penguins 2, general, Young mom#1962, ;image hot milf
+05 Oct 2016 12:26:25 : Penguins 2, general, SurvivraInHellAKASchool#7191, ;image true milf
+05 Oct 2016 12:26:26 : Penguins 2, general, Botfuzzy77#2209, http://1.bp.blogspot.com/-bDgZiPJOtqw/VVmPc2WeO1I/AAAAAAAABUA/Srajp3EMY4w/s1600/VERY-HOT-MILF-in-pantyhose-stockings-1.jpg
+05 Oct 2016 12:26:26 : Penguins 2, general, Botfuzzy77#2209, https://pbs.twimg.com/media/Bylyk5YIgAA5NpF.jpg
+05 Oct 2016 12:26:29 : Penguins 2, general, Young mom#1962, ;)
+05 Oct 2016 12:26:35 : Penguins 2, general, Young mom#1962, "Live footage"
+05 Oct 2016 12:26:36 : Penguins 2, general, SurvivraInHellAKASchool#7191, ;image ass
+05 Oct 2016 12:26:39 : Penguins 2, general, Botfuzzy77#2209, http://daily.jstor.org/wp-content/uploads/2016/06/donkey1050x700.jpg
+05 Oct 2016 12:26:42 : Penguins 2, general, Young mom#1962, LOL
+05 Oct 2016 12:26:43 : Penguins 2, general, xAlain_(Charizard)#0865, ;image hot young mon
+05 Oct 2016 12:26:45 : Penguins 2, general, Botfuzzy77#2209, http://www.youngmoneyhq.com/images/nicki-minaj-performs-pills-n-potions-live-for-first-time-hot-97-2014-summer-jam.jpg
+05 Oct 2016 12:26:49 : Penguins 2, general, Young mom#1962, THat's up alains alley survs
+05 Oct 2016 12:26:52 : Penguins 2, general, SurvivraInHellAKASchool#7191, 10/10 ass
+05 Oct 2016 12:26:55 : Penguins 2, general, Young mom#1962, xD
+05 Oct 2016 12:26:58 : Penguins 2, general, Young mom#1962, would tap again
+05 Oct 2016 12:26:59 : Penguins 2, general, SurvivraInHellAKASchool#7191, ;image penis
+05 Oct 2016 12:27:01 : Penguins 2, general, Botfuzzy77#2209, https://cdn.shopify.com/s/files/1/0691/2467/files/curvature.jpg?1308
+05 Oct 2016 12:27:04 : Penguins 2, general, Young mom#1962, xD
+05 Oct 2016 12:27:05 : Penguins 2, general, SurvivraInHellAKASchool#7191, LOL
+05 Oct 2016 12:27:09 : Penguins 2, general, Young mom#1962, I'm in class
+05 Oct 2016 12:27:10 : Penguins 2, general, Young mom#1962, pls
+05 Oct 2016 12:27:11 : Penguins 2, general, Young mom#1962, xD
+05 Oct 2016 12:27:11 : Penguins 2, general, SurvivraInHellAKASchool#7191, ;image vagina
+05 Oct 2016 12:27:14 : Penguins 2, general, SurvivraInHellAKASchool#7191, Lellel
+05 Oct 2016 12:27:15 : Penguins 2, general, Botfuzzy77#2209, http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/image_article_collections/anatomy_pages/vagina.jpg?resize=646px:*&output-quality=100
+05 Oct 2016 12:27:15 : Penguins 2, general, Young mom#1962, NO
+05 Oct 2016 12:27:20 : Penguins 2, general, Young mom#1962, Oke not as bad
+05 Oct 2016 12:27:24 : Penguins 2, general, SurvivraInHellAKASchool#7191, ;image asshole
+05 Oct 2016 12:27:27 : Penguins 2, general, Young mom#1962, xD
+05 Oct 2016 12:27:27 : Penguins 2, general, Botfuzzy77#2209, https://s-media-cache-ak0.pinimg.com/564x/18/f3/46/18f346a4b448be7952f3c9022a068be8.jpg
+05 Oct 2016 12:27:31 : Penguins 2, general, SurvivraInHellAKASchool#7191, Lol
+05 Oct 2016 12:27:33 : Penguins 2, general, Young mom#1962, ;image true asshole
+05 Oct 2016 12:27:34 : Penguins 2, general, Botfuzzy77#2209, https://s-media-cache-ak0.pinimg.com/564x/0a/24/ab/0a24abe7d5b408f0f29e384d64c7c8f8.jpg
+05 Oct 2016 12:27:40 : Penguins 2, general, SurvivraInHellAKASchool#7191, ;image sex
+05 Oct 2016 12:27:41 : Penguins 2, general, Young mom#1962, lol
+05 Oct 2016 12:27:41 : Penguins 2, general, Botfuzzy77#2209, http://mac.h-cdn.co/assets/16/28/1600x800/landscape-1468532333-rsz-gettyimages-554598871.jpg
+05 Oct 2016 12:27:42 : Penguins 2, general, Young mom#1962, sounds like u
+05 Oct 2016 12:27:48 : Penguins 2, general, Young mom#1962, ;image steamy sex
+05 Oct 2016 12:27:50 : Penguins 2, general, SurvivraInHellAKASchool#7191, Dayum those scraps
+05 Oct 2016 12:27:50 : Penguins 2, general, Botfuzzy77#2209, https://thoughtcatalog.files.wordpress.com/2015/03/shutterstock_255226486.jpg
+05 Oct 2016 12:27:56 : Penguins 2, general, Young mom#1962, thats more like it
+05 Oct 2016 12:28:00 : Penguins 2, general, SurvivraInHellAKASchool#7191, ;image YAOI
+05 Oct 2016 12:28:01 : Penguins 2, general, Botfuzzy77#2209, https://i.ytimg.com/vi/ewC-oiN0Lqc/maxresdefault.jpg
+05 Oct 2016 12:28:06 : Penguins 2, general, Young mom#1962, ;image sexy yaoi
+05 Oct 2016 12:28:10 : Penguins 2, general, Botfuzzy77#2209, http://pm1.narvii.com/5771/f3f94acc84aabef8476fc1583885e79cac9989b0_hq.jpg
+05 Oct 2016 12:28:11 : Penguins 2, general, Young mom#1962, ;image wincest
+05 Oct 2016 12:28:11 : Penguins 2, general, Botfuzzy77#2209, http://67.media.tumblr.com/ad37d4cccf591de4afb340828342de2b/tumblr_ntjdzdGibc1u4pk4mo1_500.jpg
+05 Oct 2016 12:28:19 : Penguins 2, general, Young mom#1962, ;)
+05 Oct 2016 12:28:21 : Penguins 2, general, SurvivraInHellAKASchool#7191, What is winsect
+05 Oct 2016 12:28:27 : Penguins 2, general, Young mom#1962, lol
+05 Oct 2016 12:28:33 : Penguins 2, general, Young mom#1962, u serious
+05 Oct 2016 12:28:35 : Penguins 2, general, Young mom#1962, xD
+05 Oct 2016 12:28:39 : Penguins 2, general, SurvivraInHellAKASchool#7191, Ya lol
+05 Oct 2016 12:28:42 : Penguins 2, general, Young mom#1962, innocent soul
+05 Oct 2016 12:28:43 : Penguins 2, general, Young mom#1962, LOL
+05 Oct 2016 12:28:50 : Penguins 2, general, SurvivraInHellAKASchool#7191, Fuck y u try
+05 Oct 2016 12:28:55 : Penguins 2, general, SurvivraInHellAKASchool#7191, You*
+05 Oct 2016 12:28:58 : Penguins 2, general, SurvivraInHellAKASchool#7191, i
+05 Oct 2016 12:29:00 : Penguins 2, general, Young mom#1962, incest is wincest??
+05 Oct 2016 12:29:06 : Penguins 2, general, Young mom#1962, hellu?
+05 Oct 2016 12:29:10 : Penguins 2, general, SurvivraInHellAKASchool#7191, .
+05 Oct 2016 12:29:26 : Penguins 2, general, SurvivraInHellAKASchool#7191, I found a yaoi comic
+05 Oct 2016 12:29:27 : Penguins 2, general, Young mom#1962, teach behind me
+05 Oct 2016 12:29:29 : Penguins 2, general, Young mom#1962, 1 sec
+05 Oct 2016 12:29:32 : Penguins 2, general, SurvivraInHellAKASchool#7191, Lelele
+05 Oct 2016 12:29:42 : Penguins 2, general, SurvivraInHellAKASchool#7191, Listen to ur teacher
+05 Oct 2016 12:29:43 : Penguins 2, general, Young mom#1962, phew
+05 Oct 2016 12:29:46 : Penguins 2, general, Young mom#1962, I am
+05 Oct 2016 12:29:47 : Penguins 2, general, Young mom#1962, lol
+05 Oct 2016 12:29:54 : Penguins 2, general, Young mom#1962, kinda.
+05 Oct 2016 12:30:07 : Penguins 2, general, Young mom#1962, WAit aren't you guys in school
+05 Oct 2016 12:30:44 : Penguins 2, general, Young mom#1962, @Palki <3  @Palki <3  @Palki <3
+05 Oct 2016 12:31:02 : Penguins 2, general, SurvivraInHellAKASchool#7191, My school finishes esrly in wednesdays
+05 Oct 2016 12:31:07 : Penguins 2, general, SurvivraInHellAKASchool#7191, Early*
+05 Oct 2016 12:31:14 : Penguins 2, general, Young mom#1962, lol u ass
+05 Oct 2016 12:31:22 : Penguins 2, general, xAlain_(Charizard)#0865, Lol im alr end my classes
+05 Oct 2016 12:31:28 : Penguins 2, general, Young mom#1962, D:
+05 Oct 2016 12:31:43 : Penguins 2, general, Young mom#1962, My classes ends at 16:30 rip
+05 Oct 2016 12:31:52 : Penguins 2, general, SurvivraInHellAKASchool#7191, Mom pls dont look to this yaoi comic
+05 Oct 2016 12:31:54 : Penguins 2, general, xAlain_(Charizard)#0865, Mom why u still in high school
+05 Oct 2016 12:31:55 : Penguins 2, general, SurvivraInHellAKASchool#7191, Lelele
+05 Oct 2016 12:31:56 : Penguins 2, general, Young mom#1962, WOT
+05 Oct 2016 12:32:01 : Penguins 2, general, Young mom#1962, @xAlain_(Charizard)  ye
+05 Oct 2016 12:32:05 : Penguins 2, general, xAlain_(Charizard)#0865, ;image yaoi comic
+05 Oct 2016 12:32:07 : Penguins 2, general, Young mom#1962, @SurvivraInHellAKASchool  show me
+05 Oct 2016 12:32:07 : Penguins 2, general, Botfuzzy77#2209, http://orig14.deviantart.net/c7ed/f/2007/028/f/8/sappy_comic___yaoi_by_insectikette.jpg
+05 Oct 2016 12:32:11 : Penguins 2, general, SurvivraInHellAKASchool#7191, Ugh
+05 Oct 2016 12:32:14 : Penguins 2, general, Young mom#1962, SHOW ME MUAHHA*'
+05 Oct 2016 12:32:19 : Penguins 2, general, Young mom#1962, pls xD
+05 Oct 2016 12:32:28 : Penguins 2, general, Young mom#1962, @xala'
+05 Oct 2016 12:32:38 : Penguins 2, general, Young mom#1962, @xAlain_(Charizard)  aren't u in high school
+05 Oct 2016 12:32:43 : Penguins 2, general, xAlain_(Charizard)#0865, Nah
+05 Oct 2016 12:32:47 : Penguins 2, general, xAlain_(Charizard)#0865, Im in college
+05 Oct 2016 12:32:52 : Penguins 2, general, Young mom#1962, :o
+05 Oct 2016 12:32:55 : Penguins 2, general, Young mom#1962, how old are u
+05 Oct 2016 12:33:05 : Penguins 2, general, xAlain_(Charizard)#0865, 19
+05 Oct 2016 12:33:08 : Penguins 2, general, Young mom#1962, @SurvivraInHellAKASchool  no shit
+05 Oct 2016 12:33:12 : Penguins 2, general, Young mom#1962, @xAlain_(Charizard)  oooooo
+05 Oct 2016 12:33:13 : Penguins 2, general, SurvivraInHellAKASchool#7191, @xAlain_(Charizard)  wtf
+05 Oct 2016 12:33:17 : Penguins 2, general, SurvivraInHellAKASchool#7191, https://imgur.com/gallery/xFPVQ
+05 Oct 2016 12:33:18 : Penguins 2, general, Young mom#1962, I thought u were like 15
+05 Oct 2016 12:33:21 : Penguins 2, general, Young mom#1962, sorry
+05 Oct 2016 12:33:23 : Penguins 2, general, Young mom#1962, :I
+05 Oct 2016 12:33:23 : Penguins 2, general, xAlain_(Charizard)#0865, Nah
+05 Oct 2016 12:33:29 : Penguins 2, general, xAlain_(Charizard)#0865, Im 19
+05 Oct 2016 12:33:30 : Penguins 2, general, SurvivraInHellAKASchool#7191, Lle
+05 Oct 2016 12:33:31 : Penguins 2, general, Young mom#1962, lol
+05 Oct 2016 12:33:36 : Penguins 2, general, xAlain_(Charizard)#0865, Sexy and hot 19
+05 Oct 2016 12:33:38 : Penguins 2, general, Young mom#1962, alain the most grown up then
+05 Oct 2016 12:33:39 : Penguins 2, general, Young mom#1962, xD
+05 Oct 2016 12:33:42 : Penguins 2, general, Young mom#1962, lool
+05 Oct 2016 12:33:49 : Penguins 2, general, SurvivraInHellAKASchool#7191, Like eh
+05 Oct 2016 12:33:52 : Penguins 2, general, Young mom#1962, xD
+05 Oct 2016 12:33:56 : Penguins 2, general, Young mom#1962, Yeah what the same
+05 Oct 2016 12:34:19 : Penguins 2, general, Young mom#1962, omg spelling
+05 Oct 2016 12:34:20 : Penguins 2, general, SurvivraInHellAKASchool#7191, @Young mom
+05 Oct 2016 12:34:22 : Penguins 2, general, Young mom#1962, ?
+05 Oct 2016 12:34:29 : Penguins 2, general, SurvivraInHellAKASchool#7191, Ass
+05 Oct 2016 12:34:31 : Penguins 2, general, Young mom#1962, ass
+05 Oct 2016 12:34:34 : Penguins 2, general, Young mom#1962, ;image ass
+05 Oct 2016 12:34:35 : Penguins 2, general, Botfuzzy77#2209, http://daily.jstor.org/wp-content/uploads/2016/06/donkey1050x700.jpg
+05 Oct 2016 12:34:42 : Penguins 2, general, SurvivraInHellAKASchool#7191, Whay rhw he
+05 Oct 2016 12:34:55 : Penguins 2, general, Young mom#1962, ???
+05 Oct 2016 12:35:06 : Penguins 2, general, Young mom#1962, tf
+05 Oct 2016 12:35:09 : Penguins 2, general, SurvivraInHellAKASchool#7191, ????
+05 Oct 2016 12:35:14 : Penguins 2, general, SurvivraInHellAKASchool#7191, ????????
+05 Oct 2016 12:35:19 : Penguins 2, general, Young mom#1962, ?????????????
+05 Oct 2016 12:35:22 : Penguins 2, general, SurvivraInHellAKASchool#7191, ?????????????????????????????????????
+05 Oct 2016 12:35:26 : Penguins 2, general, SurvivraInHellAKASchool#7191, Well fk
+05 Oct 2016 12:35:46 : Penguins 2, general, Young mom#1962, :(
+05 Oct 2016 12:35:55 : Penguins 2, general, Young mom#1962, photo class is boring
+05 Oct 2016 12:36:04 : Penguins 2, general, Young mom#1962, fuck u
+05 Oct 2016 12:36:05 : Penguins 2, general, Young mom#1962, u ass
+05 Oct 2016 12:38:01 : Penguins 2, general, xAlain_(Charizard)#0865, 
+05 Oct 2016 12:38:26 : Penguins 2, general, xAlain_(Charizard)#0865, This what im doing while in classes
+05 Oct 2016 12:38:32 : Penguins 2, general, Young mom#1962, LOL
+05 Oct 2016 12:38:47 : Penguins 2, general, xAlain_(Charizard)#0865, Lel government property
+05 Oct 2016 12:38:55 : Penguins 2, general, Young mom#1962, that's how you spend your time in lessons
+05 Oct 2016 12:39:05 : Penguins 2, general, xAlain_(Charizard)#0865, Nah got bored
+05 Oct 2016 12:39:12 : Penguins 2, general, Young mom#1962, that's how you spend your time in lessons
+05 Oct 2016 12:39:40 : Penguins 2, general, xAlain_(Charizard)#0865, Well it's hard to deal with coding and shit
+05 Oct 2016 12:39:56 : Penguins 2, general, Young mom#1962, Oh yeah coding really hard xD
+05 Oct 2016 12:40:16 : Penguins 2, general, Young mom#1962, tried to get into it but then gave up a little bit since it started to get complicated
+05 Oct 2016 12:40:32 : Penguins 2, general, xAlain_(Charizard)#0865, Its all the same coding
+05 Oct 2016 12:40:39 : Penguins 2, general, xAlain_(Charizard)#0865, Only different number
+05 Oct 2016 12:40:56 : Penguins 2, general, Young mom#1962, i gtg now :I got yelled at by teach
+05 Oct 2016 12:41:07 : Penguins 2, general, Young mom#1962, enjoy your freedom guys
+05 Oct 2016 12:41:12 : Penguins 2, general, xAlain_(Charizard)#0865, Ok
+05 Oct 2016 12:41:12 : Penguins 2, general, xAlain_(Charizard)#0865, Gg
+05 Oct 2016 12:41:15 : Penguins 2, general, Young mom#1962, ^_^
+05 Oct 2016 12:41:38 : LimitlessMc, mainchat, xAlain_(Charizard)#0865, U miss @Pleasuringly#0125
+05 Oct 2016 15:09:47 : The Wild Weebs, music, Wertfuzzy77#0274, ;playlist AnimeOpenings AnimeOpenings AnimeOpenings AnimeOpenings
+05 Oct 2016 15:11:18 : The Wild Weebs, music, enragednuke#2565, ;leave
+05 Oct 2016 15:11:19 : The Wild Weebs, music, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+05 Oct 2016 15:11:42 : The Wild Weebs, music, Wertfuzzy77#0274, ;join
+05 Oct 2016 15:11:59 : The Wild Weebs, music, Wertfuzzy77#0274, ;songs
+05 Oct 2016 15:12:00 : The Wild Weebs, music, Botfuzzy77#2209, **The Following songs are in the Queue, plus [35] more**
+05 Oct 2016 15:12:03 : The Wild Weebs, music, Wertfuzzy77#0274, ;skip
+05 Oct 2016 15:12:03 : The Wild Weebs, music, Botfuzzy77#2209, Skipping Clannad After Story Op (Full)
+05 Oct 2016 15:12:20 : The Wild Weebs, music, Wertfuzzy77#0274, ;relog
+05 Oct 2016 15:12:20 : The Wild Weebs, music, Botfuzzy77#2209, Relogging...

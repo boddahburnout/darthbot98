@@ -1,0 +1,947 @@
+16 Jul 2016 15:05:48 : LimitlessMc , Wertfuzzy77#0274 , ;join
+16 Jul 2016 15:06:06 : LimitlessMc , Wertfuzzy77#0274 , ;reload
+16 Jul 2016 15:06:07 : LimitlessMc , Botfuzzy77#2209 , Reloaded all Modules
+16 Jul 2016 15:06:10 : LimitlessMc , Wertfuzzy77#0274 , ;join
+16 Jul 2016 15:06:14 : LimitlessMc , Wertfuzzy77#0274 , ;playlist Adele
+16 Jul 2016 15:06:19 : LimitlessMc , Botfuzzy77#2209 , Finished Adding songs from playlist(s)
+16 Jul 2016 15:06:31 : LimitlessMc , Resolate#7058 , ;help
+16 Jul 2016 15:06:31 : LimitlessMc , Botfuzzy77#2209 , ```
+  afk         Sets you as AFK, and the Bot will auto Reply for you with the G...
+  invite      Returns a Link to the Invite URL for this bot
+  conch       
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+16 Jul 2016 15:06:58 : Cipher , Wertfuzzy77#0274 , testing my Music bot in Limitless Music Channel if you wanna join
+16 Jul 2016 15:07:07 : LimitlessMc , Wertfuzzy77#0274 , ;songs
+16 Jul 2016 15:07:07 : LimitlessMc , Botfuzzy77#2209 , **The Following songs are in the Queue**
+16 Jul 2016 15:07:07 : LimitlessMc , Botfuzzy77#2209 , Adele - Someone Like You (https://www.youtube.com/watch?v=hLQl3WQQoQ0)
+Adele - Turning Tables (With Lyrics) (https://www.youtube.com/watch?v=dx7sLNyIeQk)
+Adele - Hello (https://www.youtube.com/watch?v=YQHsXMglC9A)
+Adele - Set Fire To The Rain (Live at The Royal Albert Hall) (https://www.youtube.com/watch?v=Ri7-vnrJD3k)
+
+16 Jul 2016 15:07:16 : LimitlessMc , Wertfuzzy77#0274 , ;shuffle
+16 Jul 2016 15:07:16 : LimitlessMc , Botfuzzy77#2209 , Shuffling songs...
+16 Jul 2016 15:07:18 : LimitlessMc , Wertfuzzy77#0274 , ;songs
+16 Jul 2016 15:07:18 : LimitlessMc , Botfuzzy77#2209 , **The Following songs are in the Queue**
+16 Jul 2016 15:07:18 : LimitlessMc , Botfuzzy77#2209 , Adele - Hello (https://www.youtube.com/watch?v=YQHsXMglC9A)
+Adele - Turning Tables (With Lyrics) (https://www.youtube.com/watch?v=dx7sLNyIeQk)
+Adele - Someone Like You (https://www.youtube.com/watch?v=hLQl3WQQoQ0)
+Adele - Set Fire To The Rain (Live at The Royal Albert Hall) (https://www.youtube.com/watch?v=Ri7-vnrJD3k)
+
+16 Jul 2016 15:07:23 : LimitlessMc , Wertfuzzy77#0274 , ;shuffle
+16 Jul 2016 15:07:23 : LimitlessMc , Botfuzzy77#2209 , Shuffling songs...
+16 Jul 2016 15:07:24 : LimitlessMc , Wertfuzzy77#0274 , ;songs
+16 Jul 2016 15:07:24 : LimitlessMc , Botfuzzy77#2209 , **The Following songs are in the Queue**
+16 Jul 2016 15:07:24 : LimitlessMc , Botfuzzy77#2209 , Adele - Set Fire To The Rain (Live at The Royal Albert Hall) (https://www.youtube.com/watch?v=Ri7-vnrJD3k)
+Adele - Someone Like You (https://www.youtube.com/watch?v=hLQl3WQQoQ0)
+Adele - Turning Tables (With Lyrics) (https://www.youtube.com/watch?v=dx7sLNyIeQk)
+Adele - Hello (https://www.youtube.com/watch?v=YQHsXMglC9A)
+
+16 Jul 2016 15:07:53 : LimitlessMc , Resolate#7058 , Maybe a ;image for videos and news?
+16 Jul 2016 15:08:01 : LimitlessMc , Wertfuzzy77#0274 , like?
+16 Jul 2016 15:08:58 : LimitlessMc , Resolate#7058 , Like how image gets the first picture from google, it shows the first video or news?
+16 Jul 2016 15:09:05 : LimitlessMc , Wertfuzzy77#0274 , oh
+16 Jul 2016 15:09:09 : LimitlessMc , Wertfuzzy77#0274 , i think i could do that
+16 Jul 2016 15:09:29 : The Pleb Privateers , enragednuke#2565 , fuck your tables <@!133762895765831681> 
+16 Jul 2016 15:09:36 : LimitlessMc , Resolate#7058 , Alright, I'll keep thinking of other things
+16 Jul 2016 15:10:37 : LimitlessMc , Resolate#7058 , ;song
+16 Jul 2016 15:10:37 : LimitlessMc , Botfuzzy77#2209 , ```Name: Adele - Set Fire To The Rain (Live at The Royal Albert Hall)
+URL: <https://www.youtube.com/watch?v=Ri7-vnrJD3k>
+Time: 0:03:58
+Views: 258,813,794
+Likes: 960,979, 97.35%
+Dislikes: 26,184, 2.65%
+```
+16 Jul 2016 15:11:05 : LimitlessMc , Wertfuzzy77#0274 , ew, there isnt a nice Google API for news or Videos
+16 Jul 2016 15:11:13 : LimitlessMc , Wertfuzzy77#0274 , Images has a nice easy one lol
+16 Jul 2016 15:11:39 : LimitlessMc , Wertfuzzy77#0274 , it would take alot of time to do, and dont think it would be used that much
+16 Jul 2016 15:11:50 : LimitlessMc , Wertfuzzy77#0274 , i would do it if they had the API, but not worth if they dont
+16 Jul 2016 15:12:00 : LimitlessMc , Resolate#7058 , No, I don't think so either, it was just an idea
+16 Jul 2016 15:12:20 : LimitlessMc , Wertfuzzy77#0274 , ;image shrug
+16 Jul 2016 15:12:21 : The Pleb Privateers , enragednuke#2565 , also <@!133762895765831681> pre patch is confirmed 19th
+16 Jul 2016 15:12:21 : LimitlessMc , Botfuzzy77#2209 , http://emojipedia-us.s3.amazonaws.com/cache/6c/0b/6c0bf583f98fbf936329259548b9f677.png
+16 Jul 2016 15:12:25 : LimitlessMc , Wertfuzzy77#0274 , lol
+16 Jul 2016 15:12:30 : The Pleb Privateers , enragednuke#2565 , So new stuff in 4 days
+16 Jul 2016 15:12:39 : LimitlessMc , Wertfuzzy77#0274 , oh, the zaptos image is cool
+16 Jul 2016 15:12:41 : The Pleb Privateers , enragednuke#2565 , 3*
+16 Jul 2016 15:13:03 : LimitlessMc , Wertfuzzy77#0274 , ;image zapdos
+16 Jul 2016 15:13:04 : LimitlessMc , Botfuzzy77#2209 , http://cdn.bulbagarden.net/upload/thumb/e/e3/145Zapdos.png/250px-145Zapdos.png
+16 Jul 2016 15:13:05 : LimitlessMc , Wertfuzzy77#0274 , ew
+16 Jul 2016 15:13:08 : LimitlessMc , Wertfuzzy77#0274 , thats not it
+16 Jul 2016 15:13:14 : LimitlessMc , Wertfuzzy77#0274 , ;image zaptos
+16 Jul 2016 15:13:15 : LimitlessMc , Botfuzzy77#2209 , http://i800.photobucket.com/albums/yy290/Juno0Beth/Beth/Pokemon/Legendary/Zapdos__lord_of_thunderstorms_by_ra.png
+16 Jul 2016 15:13:19 : LimitlessMc , Wertfuzzy77#0274 , there it is
+16 Jul 2016 15:13:23 : Cipher , ItzFuzeM8#0498 , my PC Broke lol but it's getting fixed by Tuesday 
+16 Jul 2016 15:13:29 : Cipher , ItzFuzeM8#0498 , that's why I haven't been on 
+16 Jul 2016 15:13:35 : Cipher , ItzFuzeM8#0498 , don't kick me from the guild. thanks .
+16 Jul 2016 15:13:43 : LimitlessMc , Wertfuzzy77#0274 , like look, thats a cool background lol
+16 Jul 2016 15:13:49 : LimitlessMc , Resolate#7058 , Ah, that one is nice
+16 Jul 2016 15:13:54 : LimitlessMc , Wertfuzzy77#0274 , ;image Moltres
+16 Jul 2016 15:13:55 : LimitlessMc , Botfuzzy77#2209 , http://cdn.bulbagarden.net/upload/thumb/1/1b/146Moltres.png/250px-146Moltres.png
+16 Jul 2016 15:14:01 : LimitlessMc , Wertfuzzy77#0274 , ;image Moltres Background
+16 Jul 2016 15:14:01 : LimitlessMc , Botfuzzy77#2209 , http://orig06.deviantart.net/90d7/f/2007/329/3/4/moltres_by_niv100.png
+16 Jul 2016 15:14:12 : LimitlessMc , Wertfuzzy77#0274 , not bad
+16 Jul 2016 15:14:15 : LimitlessMc , Wertfuzzy77#0274 , could be cooler
+16 Jul 2016 15:14:25 : LimitlessMc , Wertfuzzy77#0274 , ;image Moltres High Def Background
+16 Jul 2016 15:14:25 : LimitlessMc , Resolate#7058 , Yeah. a bit weird
+16 Jul 2016 15:14:26 : LimitlessMc , Botfuzzy77#2209 , http://wallpapercave.com/wp/osW0Jta.png
+16 Jul 2016 15:14:32 : LimitlessMc , Wertfuzzy77#0274 , thats cool
+16 Jul 2016 15:14:38 : LimitlessMc , Wertfuzzy77#0274 , oi <@187609093001838602>  stop
+16 Jul 2016 15:14:39 : LimitlessMc , Botfuzzy77#2209 , Wut
+16 Jul 2016 15:14:47 : LimitlessMc , Wertfuzzy77#0274 , hate you
+16 Jul 2016 15:14:48 : LimitlessMc , Wertfuzzy77#0274 , garbage
+16 Jul 2016 15:15:05 : Cipher , Wertfuzzy77#0274 , lol, im not gonna kick you
+16 Jul 2016 15:15:10 : Cipher , Wertfuzzy77#0274 , havnt even kicked joe yet xD
+16 Jul 2016 15:15:22 : LimitlessMc , Wertfuzzy77#0274 , ;songs
+16 Jul 2016 15:15:22 : LimitlessMc , Botfuzzy77#2209 , Queue is Empty
+16 Jul 2016 15:15:26 : LimitlessMc , Wertfuzzy77#0274 , ;playlist Adele
+16 Jul 2016 15:15:30 : LimitlessMc , Botfuzzy77#2209 , Finished Adding songs from playlist(s)
+16 Jul 2016 15:15:42 : LimitlessMc , Wertfuzzy77#0274 , ;image Pokemon High Def Background
+16 Jul 2016 15:15:43 : LimitlessMc , Botfuzzy77#2209 , http://wallpapercave.com/wp/uNqvm6I.png
+16 Jul 2016 15:16:02 : LimitlessMc , Wertfuzzy77#0274 , ;image Kygore Background
+16 Jul 2016 15:16:03 : LimitlessMc , Botfuzzy77#2209 , http://i.imgur.com/kG0v2SL.png
+16 Jul 2016 15:16:14 : LimitlessMc , Wertfuzzy77#0274 , ;image Kygore Background realism
+16 Jul 2016 15:16:15 : LimitlessMc , Botfuzzy77#2209 , http://orig08.deviantart.net/1232/f/2013/129/8/5/854a6420b19746b193a608ae034879df-d64ottu.png
+16 Jul 2016 15:16:17 : Cipher , ItzFuzeM8#0498 , why what's happened to joe 
+16 Jul 2016 15:16:28 : LimitlessMc , Resolate#7058 , wtf
+16 Jul 2016 15:16:40 : LimitlessMc , Resolate#7058 , looks epic tho
+16 Jul 2016 15:16:41 : Cipher , Wertfuzzy77#0274 , lazy bum hasnt logged on in like a month xD
+16 Jul 2016 15:16:46 : LimitlessMc , Wertfuzzy77#0274 , ya
+16 Jul 2016 15:16:48 : LimitlessMc , Wertfuzzy77#0274 , kinda small tho
+16 Jul 2016 15:17:01 : LimitlessMc , Wertfuzzy77#0274 , cool tho
+16 Jul 2016 15:17:05 : LimitlessMc , Wertfuzzy77#0274 , ;image Groudon
+16 Jul 2016 15:17:05 : LimitlessMc , Botfuzzy77#2209 , http://cdn.bulbagarden.net/upload/thumb/7/70/383Groudon.png/250px-383Groudon.png
+16 Jul 2016 15:17:14 : LimitlessMc , Wertfuzzy77#0274 , ;image Groudon Background
+16 Jul 2016 15:17:14 : LimitlessMc , Botfuzzy77#2209 , http://pre01.deviantart.net/5430/th/pre/f/2012/002/8/a/groudon_background_2_by_hax0rvash-d4l3ahh.png
+16 Jul 2016 15:17:18 : LimitlessMc , Wertfuzzy77#0274 , xD
+16 Jul 2016 15:17:22 : LimitlessMc , Resolate#7058 , XD
+16 Jul 2016 15:17:34 : LimitlessMc , Wertfuzzy77#0274 , i mean, they are right
+16 Jul 2016 15:17:35 : LimitlessMc , Wertfuzzy77#0274 , but no
+16 Jul 2016 15:18:08 : LimitlessMc , Wertfuzzy77#0274 , ;image High Def Groudon Background
+16 Jul 2016 15:18:09 : LimitlessMc , Botfuzzy77#2209 , http://orig00.deviantart.net/a4de/f/2012/079/8/7/groudon_by_masae-d4te8fw.png
+16 Jul 2016 15:18:17 : LimitlessMc , Wertfuzzy77#0274 , thats better
+16 Jul 2016 15:18:42 : LimitlessMc , Wertfuzzy77#0274 , ;image Depthy
+16 Jul 2016 15:18:42 : LimitlessMc , Botfuzzy77#2209 , http://depthy.me/icon.png
+16 Jul 2016 15:18:58 : LimitlessMc , Wertfuzzy77#0274 , ;image Botfuzzy77
+16 Jul 2016 15:18:59 : LimitlessMc , Botfuzzy77#2209 , ERROR
+16 Jul 2016 15:19:01 : LimitlessMc , Wertfuzzy77#0274 , D:
+16 Jul 2016 15:19:05 : LimitlessMc , Wertfuzzy77#0274 , ;image Botfuzzy77
+16 Jul 2016 15:19:05 : LimitlessMc , Botfuzzy77#2209 , ERROR
+16 Jul 2016 15:19:07 : LimitlessMc , Wertfuzzy77#0274 , rip
+16 Jul 2016 15:19:08 : LimitlessMc , Wertfuzzy77#0274 , ;image Botfuzzy
+16 Jul 2016 15:19:08 : LimitlessMc , Botfuzzy77#2209 , https://ai2-s2-public.s3.amazonaws.com/figures/2016-03-25/e4b4b15d0fe91a193ef93e32b23620d5e614bd5a/1-Table1-1.png
+16 Jul 2016 15:19:23 : LimitlessMc , Resolate#7058 , eh
+16 Jul 2016 15:20:15 : LimitlessMc , Resolate#7058 , ;image Solgaleo
+16 Jul 2016 15:20:16 : LimitlessMc , Botfuzzy77#2209 , http://cdn.bulbagarden.net/upload/thumb/a/a2/Solgaleo.png/250px-Solgaleo.png
+16 Jul 2016 15:20:20 : LimitlessMc , Wertfuzzy77#0274 , ooo
+16 Jul 2016 15:20:21 : LimitlessMc , Wertfuzzy77#0274 , cool
+16 Jul 2016 15:20:34 : LimitlessMc , Wertfuzzy77#0274 , ;image Hail Hyrda
+16 Jul 2016 15:20:35 : LimitlessMc , Botfuzzy77#2209 , https://anibundel.files.wordpress.com/2014/04/hail-hydra-5.png
+16 Jul 2016 15:22:06 : LimitlessMc , Resolate#7058 , ;image Shiny Gender high def background
+16 Jul 2016 15:22:07 : LimitlessMc , Botfuzzy77#2209 , http://i.imgur.com/XtwjnpA.png
+16 Jul 2016 15:22:20 : LimitlessMc , Resolate#7058 , :'c
+16 Jul 2016 15:22:23 : LimitlessMc , Wertfuzzy77#0274 , ;image Shiny Gengar Background
+16 Jul 2016 15:22:24 : LimitlessMc , Botfuzzy77#2209 , http://pre09.deviantart.net/75a3/th/pre/i/2016/169/c/d/shiny_mega_gengar___nightmare_by_ishmam-d7s6iew.png
+16 Jul 2016 15:22:34 : LimitlessMc , Wertfuzzy77#0274 , ;image Shiny Gengar Background High Def
+16 Jul 2016 15:22:35 : LimitlessMc , Botfuzzy77#2209 , http://wallpapercave.com/wp/sB6ymLp.png
+16 Jul 2016 15:22:48 : LimitlessMc , Wertfuzzy77#0274 , 87% sure thats mega gengar
+16 Jul 2016 15:22:54 : LimitlessMc , Resolate#7058 , It is
+16 Jul 2016 15:23:04 : LimitlessMc , Wertfuzzy77#0274 , ;image Gengar Background
+16 Jul 2016 15:23:05 : LimitlessMc , Botfuzzy77#2209 , http://wallpapercave.com/wp/R5aq1go.png
+16 Jul 2016 15:24:06 : LimitlessMc , Wertfuzzy77#0274 , ugh, <@187609093001838602>  i hate you
+16 Jul 2016 15:24:06 : LimitlessMc , Botfuzzy77#2209 , Wut
+16 Jul 2016 15:24:11 : LimitlessMc , Wertfuzzy77#0274 , literally the worst
+16 Jul 2016 15:24:17 : LimitlessMc , Wertfuzzy77#0274 , ;clever i hate you
+16 Jul 2016 15:24:19 : LimitlessMc , Botfuzzy77#2209 , Why do you hate me?
+16 Jul 2016 15:24:26 : LimitlessMc , Wertfuzzy77#0274 , ;clever cause you keeping skipping songs
+16 Jul 2016 15:24:27 : LimitlessMc , Botfuzzy77#2209 , When did I say sorry?
+16 Jul 2016 15:24:39 : LimitlessMc , Wertfuzzy77#0274 , ;clever you didnt, but you should
+16 Jul 2016 15:24:39 : LimitlessMc , Botfuzzy77#2209 , Who is the person you have had the most fun talking to?
+16 Jul 2016 15:24:45 : LimitlessMc , Wertfuzzy77#0274 , ;clever not you
+16 Jul 2016 15:24:46 : LimitlessMc , Botfuzzy77#2209 , That isn't very nice. Who?
+16 Jul 2016 15:24:53 : LimitlessMc , Wertfuzzy77#0274 , ;clever anyone besides you
+16 Jul 2016 15:24:54 : LimitlessMc , Botfuzzy77#2209 , I'm the only one here.
+16 Jul 2016 15:25:03 : LimitlessMc , Wertfuzzy77#0274 , ;clever then ill talk to no one
+16 Jul 2016 15:25:04 : LimitlessMc , Botfuzzy77#2209 , Stop responding.
+16 Jul 2016 15:26:03 : LimitlessMc , Resolate#7058 , ;clever Hello Hatedfuzzy77
+16 Jul 2016 15:26:05 : LimitlessMc , Botfuzzy77#2209 , *robot hello.
+16 Jul 2016 15:26:18 : LimitlessMc , Resolate#7058 , ;clever *waves*
+16 Jul 2016 15:26:19 : LimitlessMc , Botfuzzy77#2209 , Oh um...*waves back*.
+16 Jul 2016 15:26:31 : LimitlessMc , Resolate#7058 , 'clever *walks off*
+16 Jul 2016 15:26:42 : LimitlessMc , Resolate#7058 , ;clever *walks off*
+16 Jul 2016 15:26:43 : LimitlessMc , Botfuzzy77#2209 , *runs towards you*.
+16 Jul 2016 15:27:00 : LimitlessMc , Resolate#7058 , ;clever *sprints away*
+16 Jul 2016 15:27:02 : LimitlessMc , Botfuzzy77#2209 , *gets a lasso*.
+16 Jul 2016 15:27:11 : LimitlessMc , Resolate#7058 , wtf I'm scared
+16 Jul 2016 15:27:40 : LimitlessMc , Resolate#7058 , ;clever *turns around*
+16 Jul 2016 15:27:41 : LimitlessMc , Botfuzzy77#2209 , *walking away*.
+16 Jul 2016 15:28:06 : LimitlessMc , Resolate#7058 , ;clever *turns back and continues walking*
+16 Jul 2016 15:28:06 : LimitlessMc , Botfuzzy77#2209 , *is turned back around*.
+16 Jul 2016 15:28:17 : LimitlessMc , Resolate#7058 , ;clever *walk*
+16 Jul 2016 15:28:18 : LimitlessMc , Botfuzzy77#2209 , *is kissed in the shower*.
+16 Jul 2016 15:28:36 : LimitlessMc , Resolate#7058 , ;clever *kisses bot in shower*
+16 Jul 2016 15:28:38 : LimitlessMc , Botfuzzy77#2209 , *slaps your booty in shower*.
+16 Jul 2016 15:28:49 : LimitlessMc , Wertfuzzy77#0274 , LOL
+16 Jul 2016 15:28:55 : LimitlessMc , Wertfuzzy77#0274 , what did you do to him
+16 Jul 2016 15:29:31 : LimitlessMc , Resolate#7058 , ;clever *continues kissing*
+16 Jul 2016 15:29:34 : LimitlessMc , Botfuzzy77#2209 , *kisses side of neck hungrily*.
+16 Jul 2016 15:30:26 : LimitlessMc , Resolate#7058 , ;clever *slams the bot against the wall*
+16 Jul 2016 15:30:27 : LimitlessMc , Botfuzzy77#2209 , *kisses deeply*.
+16 Jul 2016 15:31:12 : LimitlessMc , Wertfuzzy77#0274 , lol
+16 Jul 2016 15:31:19 : LimitlessMc , Wertfuzzy77#0274 , sux
+16 Jul 2016 15:31:25 : LimitlessMc , Wertfuzzy77#0274 , dont leave him hanging xD
+16 Jul 2016 15:31:37 : LimitlessMc , Resolate#7058 , lol
+16 Jul 2016 15:32:47 : LimitlessMc , Resolate#7058 , ;clever *thrusts inside*
+16 Jul 2016 15:32:48 : LimitlessMc , Botfuzzy77#2209 , *pins him to wall*.
+16 Jul 2016 15:32:53 : LimitlessMc , Resolate#7058 , ;clever ?
+16 Jul 2016 15:32:54 : LimitlessMc , Botfuzzy77#2209 , *kisses him against wall*.
+16 Jul 2016 15:33:03 : LimitlessMc , Resolate#7058 , ;clever *scared*
+16 Jul 2016 15:33:04 : LimitlessMc , Botfuzzy77#2209 , *touches your arm softly*.
+16 Jul 2016 15:33:09 : LimitlessMc , Wertfuzzy77#0274 , xD
+16 Jul 2016 15:33:13 : LimitlessMc , Wertfuzzy77#0274 , ^
+16 Jul 2016 15:33:13 : LimitlessMc , Botfuzzy77#2209 , ^
+16 Jul 2016 15:33:37 : LimitlessMc , Resolate#7058 , ;clever *softly touches the bot*
+16 Jul 2016 15:33:39 : LimitlessMc , Botfuzzy77#2209 , *sighs in amazement and kisses you back*.
+16 Jul 2016 15:33:55 : LimitlessMc , Botfuzzy77#2209 , *is slapped*.
+16 Jul 2016 15:34:02 : LimitlessMc , Resolate#7058 , xD
+16 Jul 2016 15:34:41 : LimitlessMc , Resolate#7058 , I don't know wtf a body of a bot even has?
+16 Jul 2016 15:35:26 : LimitlessMc , Resolate#7058 , ;clever So what you got? *stares hungrily*
+16 Jul 2016 15:35:27 : LimitlessMc , Botfuzzy77#2209 , *puts my feet in stocks*.
+16 Jul 2016 15:36:15 : LimitlessMc , Resolate#7058 , ;clever *licks bot's feet*
+16 Jul 2016 15:36:16 : LimitlessMc , Botfuzzy77#2209 , *feet are locked in stocks*.
+16 Jul 2016 15:36:24 : LimitlessMc , Botfuzzy77#2209 , https://upload.wikimedia.org/wikipedia/en/d/d0/T-X_(default_form).png
+16 Jul 2016 15:36:29 : LimitlessMc , Wertfuzzy77#0274 , lol
+16 Jul 2016 15:36:35 : LimitlessMc , Resolate#7058 , kms
+16 Jul 2016 15:36:51 : LimitlessMc , Wertfuzzy77#0274 , ```
+Resolate - Today at 11:31 AM
+lol
+;clever thrusts inside
+Botfuzzy77BOT - Today at 11:32 AM
+pins him to wall.```
+16 Jul 2016 15:37:38 : LimitlessMc , Resolate#7058 , ;clever *feels up bot's body*
+16 Jul 2016 15:37:40 : LimitlessMc , Botfuzzy77#2209 , So I can tickle them.
+16 Jul 2016 15:38:04 : LimitlessMc , Wertfuzzy77#0274 , lol
+16 Jul 2016 15:38:05 : LimitlessMc , Resolate#7058 , ;clever *tickles*
+16 Jul 2016 15:38:07 : LimitlessMc , Botfuzzy77#2209 , *giggles*.
+16 Jul 2016 15:38:16 : LimitlessMc , Botfuzzy77#2209 , Pokemon is not real.
+16 Jul 2016 15:38:23 : LimitlessMc , Wertfuzzy77#0274 , xD
+16 Jul 2016 15:38:50 : LimitlessMc , Wertfuzzy77#0274 , oh, btw these conversations are logged xD
+16 Jul 2016 15:38:52 : LimitlessMc , Wertfuzzy77#0274 , never gonna go away
+16 Jul 2016 15:38:54 : LimitlessMc , Wertfuzzy77#0274 , lol
+16 Jul 2016 15:38:57 : LimitlessMc , Resolate#7058 , lol
+16 Jul 2016 15:39:09 : LimitlessMc , Resolate#7058 , *cries in a cornor*
+16 Jul 2016 15:39:12 : LimitlessMc , Botfuzzy77#2209 , *Don't count on it*
+16 Jul 2016 15:39:12 : LimitlessMc , Botfuzzy77#2209 , The Conch has Spoken!
+16 Jul 2016 15:39:35 : LimitlessMc , Wertfuzzy77#0274 , ;fml
+16 Jul 2016 15:39:36 : LimitlessMc , Botfuzzy77#2209 , *Today, my English professor bragged to my entire class about how good my essay was. He kept on saying great things about it for the duration of class. To my surprise, he'd given me a C-. When I asked why, his only response was: "I'm a hard grader." FML*
+16 Jul 2016 15:39:50 : LimitlessMc , Wertfuzzy77#0274 , LOL
+16 Jul 2016 15:39:54 : LimitlessMc , Wertfuzzy77#0274 , worst teacher ever
+16 Jul 2016 15:41:01 : LimitlessMc , Botfuzzy77#2209 , *Today, I dreamed that I cheated on my boyfriend. I was so overwhelmed with guilt that I called him while half-asleep to tell him about it and apologize. I'm fully awake now and he doesn't believe it was really a dream. FML*
+16 Jul 2016 15:41:16 : LimitlessMc , Wertfuzzy77#0274 , lol
+16 Jul 2016 15:41:28 : LimitlessMc , Resolate#7058 , lmao
+16 Jul 2016 15:43:01 : LimitlessMc , Resolate#7058 , ;fml
+16 Jul 2016 15:43:02 : LimitlessMc , Botfuzzy77#2209 , *Today, I was taking medicine for my sinus problems and trying to write an essay. I got most of the way done, then unexpectedly fell asleep on my keyboard. When I woke up, my face was wet. I drowned my laptop in my drool. FML*
+16 Jul 2016 15:43:15 : LimitlessMc , Resolate#7058 , wtf
+16 Jul 2016 15:50:28 : LimitlessMc , Resolate#7058 , welp
+16 Jul 2016 15:50:42 : LimitlessMc , Resolate#7058 , late restart
+16 Jul 2016 15:51:17 : LimitlessMc , Resolate#7058 , ;fml
+16 Jul 2016 15:51:18 : LimitlessMc , Botfuzzy77#2209 , *Today, on my first driving lesson, I crashed my instructor's car. I didn't even make it out of the parking lot. FML*
+16 Jul 2016 15:52:41 : LimitlessMc , Resolate#7058 , ;playlists
+16 Jul 2016 15:52:41 : LimitlessMc , Botfuzzy77#2209 , WEEB[1], Sheeran[6], Adele[5], Maroon[5]
+16 Jul 2016 16:04:41 : LimitlessMc , Botfuzzy77#2209 , Welcome <@159400714601234432> to LimitlessMc!
+16 Jul 2016 16:04:58 : LimitlessMc , SyntherosX#9224 , any staff / mod here ?
+16 Jul 2016 16:05:05 : LimitlessMc , xPalkia(lugia)#8149 , I am trying to fix my crashing issue...
+16 Jul 2016 16:05:23 : LimitlessMc , xPalkia(lugia)#8149 , and yeah, mystz and don are here I think(they might be afk)
+16 Jul 2016 16:05:49 : LimitlessMc , Botfuzzy77#2209 , Welcome <@203905057467400192> to LimitlessMc!
+16 Jul 2016 16:06:16 : LimitlessMc , SyntherosX#9818 , When do they normally login ?
+16 Jul 2016 16:16:30 : LimitlessMc , Resolate#7058 , <@203905057467400192>  If you want to talk go to the General Channel, not the music
+16 Jul 2016 16:18:52 : LimitlessMc , SyntherosX#9818 , <@186810646564831232> , understood - how can I contact admin? Because I was falsely banned - I am an a donator, and this is the only server i play - so its freaking me out.
+16 Jul 2016 16:19:37 : LimitlessMc , Resolate#7058 , <@134441036905840640> This guy needs some help
+16 Jul 2016 16:20:18 : LimitlessMc , SyntherosX#9818 , much appreciated i'll wait patiently
+16 Jul 2016 16:20:48 : LimitlessMc , Wertfuzzy77#0274 , I'm always online
+16 Jul 2016 16:22:16 : LimitlessMc , Wertfuzzy77#0274 , <@203905057467400192>  can you make a ban appeal and link me?
+16 Jul 2016 16:24:22 : LimitlessMc , xPalkia(lugia)#8149 , Server crash or no?
+16 Jul 2016 16:24:39 : LimitlessMc , xPalkia(lugia)#8149 , ...
+16 Jul 2016 16:24:42 : LimitlessMc , SyntherosX#9818 , yes i can
+16 Jul 2016 16:24:47 : LimitlessMc , SyntherosX#9818 , http://limitlessmc.net/f/viewtopic.php?f=18&t=3492&p=10402#p10402
+16 Jul 2016 16:24:48 : LimitlessMc , Botfuzzy77#2209 , **False Ban - Admin Abuse**
+#10400 by SyntherosX
+ Sat Jul 16, 2016 10:02 am 
+------------------------------------
+Hello,
+
+I logged in today to find my account was banned for supposed Griefing. I've been playing this server for almost 1 year or more now and I login to catch a few pokemon, moderate my own public base and level up my pokemon at a boss spawner. 
+
+So as you can imagine as a donator how I felt when I logged into the game to find this message with offensive words directed at me with false accusations: 
+
+<img alt="Image" src="https://s31.postimg.org/e5os9wd23/False_Ban_Moderator_Abuse.png"/>
+
+I require assistance I have not griefed anyone or modified 1 block what so ever besides my own base which is a pokemon default spawn which we "my faction" built a few layers underneath in order to work together and have fun.
+16 Jul 2016 16:25:42 : LimitlessMc , SyntherosX#9818 , <@134441036905840640>  http://limitlessmc.net/f/viewtopic.php?f=18&t=3492&p=10402#p10402
+16 Jul 2016 16:26:41 : LimitlessMc , SyntherosX#9818 , <@134441036905840640> I purchased a 3rd home recently because I was tired of asking people to teleport me back to a special boss spawner. Then I was banned a few days later when I wasn't even online -,-
+16 Jul 2016 16:27:21 : LimitlessMc , Wertfuzzy77#0274 , I can talk to depthy today and get the full story
+16 Jul 2016 16:28:04 : LimitlessMc , xPalkia(lugia)#8149 , rip server
+16 Jul 2016 16:31:07 : LimitlessMc , SyntherosX#9818 , <@134441036905840640> ,  its almost 2 weeks already  - Are these bans never-ending?
+16 Jul 2016 16:36:06 : LimitlessMc , Botfuzzy77#2209 , Welcome <@159398263005380608> to LimitlessMc!
+16 Jul 2016 16:36:33 : LimitlessMc , SyntherosX#3675 , <@134441036905840640> ok logged into an actual account
+16 Jul 2016 16:39:27 : Cipher , RoyGasm ;)#7098 , he last logged in when i joined the guild
+16 Jul 2016 16:39:35 : Cipher , RoyGasm ;)#7098 , the exact same day
+16 Jul 2016 16:40:34 : The Pleb Privateers , Habit#5729 , Excellent. *smiles*
+
+*swoons*
+16 Jul 2016 16:40:37 : The Pleb Privateers , Habit#5729 , aww
+16 Jul 2016 16:40:47 : The Pleb Privateers , Habit#5729 , the point is...leona is a lesbian confirmed.
+16 Jul 2016 16:40:53 : The Pleb Privateers , Habit#5729 , http://na.leagueoflegends.com/en/news/champions-skins/skin-release/and-pool-party-pentathlon-winners-are
+16 Jul 2016 16:41:52 : The Pleb Privateers , Habit#5729 , even joe's favorite champions dont come in hetero.
+16 Jul 2016 16:42:02 : The Pleb Privateers , Habit#5729 , what is my name wtf lol
+16 Jul 2016 16:42:55 : The Pleb Privateers , Habit#5729 , I find Drance's name to be anti-semetic
+16 Jul 2016 16:42:59 : The Pleb Privateers , Habit#5729 , i am offended.
+16 Jul 2016 16:44:29 : LimitlessMc , Mystz#8072 , <@159398263005380608> posted in staff chat for depthy
+16 Jul 2016 16:45:09 : LimitlessMc , RoyGasm ;)#7098 , a ban means you can never log in till someone with permitions unbanns you <@159398263005380608>
+16 Jul 2016 16:47:07 : LimitlessMc , SyntherosX#3675 , <@151437497191235585> Ok patiently awaiting my unban sitting here at the login screen lol
+16 Jul 2016 16:50:01 : Cipher , RoyGasm ;)#7098 , <@!134441036905840640> can you check your pms?
+16 Jul 2016 16:53:04 : The Pleb Privateers , enragednuke#2565 , Your name is like everyone else lol
+16 Jul 2016 16:53:12 : The Pleb Privateers , enragednuke#2565 , I made a new mass nickname command on my bot
+16 Jul 2016 17:02:23 : LimitlessMc , SyntherosX#3675 , Going to watch anime while waiting
+16 Jul 2016 17:32:20 : LimitlessMc , Botfuzzy77#2209 , Welcome <@203675457575452672> to LimitlessMc!
+16 Jul 2016 17:33:22 : LimitlessMc , Botfuzzy77#2209 , Welcome <@203658861981204481> to LimitlessMc!
+16 Jul 2016 17:34:03 : LimitlessMc , SyntherosX#3675 , <@151437497191235585>  <@134441036905840640>  Hey guys i'm here if anything waiting for an update.
+16 Jul 2016 17:34:03 : LimitlessMc , Sip#8716 , <@128244218761183232> Yo jay
+16 Jul 2016 17:34:11 : LimitlessMc , Sip#8716 , I'm a older player, do you remmeber OfirGever123?
+16 Jul 2016 17:34:20 : LimitlessMc , Sip#8716 , I used to play like more than a year ago
+16 Jul 2016 17:34:24 : LimitlessMc , Sip#8716 , I was the elite four
+16 Jul 2016 17:43:43 : LimitlessMc , Resolate#7058 , <@203658861981204481>  You can play music in the channel  by doing ;youtube *link*
+16 Jul 2016 17:46:19 : LimitlessMc , Resolate#7058 , ;rate
+16 Jul 2016 17:46:19 : LimitlessMc , Botfuzzy77#2209 , Resolate is Basically Garbage
+16 Jul 2016 17:46:26 : LimitlessMc , Resolate#7058 , ;luck
+16 Jul 2016 17:46:26 : LimitlessMc , Botfuzzy77#2209 , Resolate's luck is 30.63 out of 100, which is **Pretty Bad**
+16 Jul 2016 17:46:47 : LimitlessMc , Resolate#7058 , kms
+16 Jul 2016 18:00:40 : LimitlessMc , SyntherosX#3675 , <@128244218761183232> Bro i need your assistance this moment- do you have a second to offer ?
+16 Jul 2016 18:00:51 : LimitlessMc , Jay113355#4999 , Sure
+16 Jul 2016 18:16:07 : LimitlessMc , RoyGasm ;)#7098 , ;kms
+16 Jul 2016 18:16:07 : LimitlessMc , Botfuzzy77#2209 , Do it, you wont
+16 Jul 2016 18:16:13 : LimitlessMc , RoyGasm ;)#7098 , ;-;
+16 Jul 2016 18:16:45 : Cipher , RoyGasm ;)#7098 , wert
+16 Jul 2016 18:16:55 : LimitlessMc , Resolate#7058 , ;kms
+16 Jul 2016 18:16:55 : LimitlessMc , Botfuzzy77#2209 , Good :)
+16 Jul 2016 18:17:04 : LimitlessMc , Resolate#7058 , ;clever *cries*
+16 Jul 2016 18:17:05 : LimitlessMc , Botfuzzy77#2209 , *wipes away tears*.
+16 Jul 2016 18:17:16 : LimitlessMc , Resolate#7058 , ;clever *looks up*
+16 Jul 2016 18:17:18 : LimitlessMc , Botfuzzy77#2209 , *looks away shamrully*.
+16 Jul 2016 18:17:43 : LimitlessMc , RoyGasm ;)#7098 , ;clever do you like me?
+16 Jul 2016 18:17:44 : LimitlessMc , Botfuzzy77#2209 , Maybe and do you like me?
+16 Jul 2016 18:17:54 : LimitlessMc , Resolate#7058 , ;clever I hate you
+16 Jul 2016 18:17:55 : LimitlessMc , Botfuzzy77#2209 , But I am your master.
+16 Jul 2016 18:17:58 : LimitlessMc , RoyGasm ;)#7098 , ;clever yes i do, but do you like me tho?
+16 Jul 2016 18:18:01 : LimitlessMc , Botfuzzy77#2209 , Yes, I like you.
+16 Jul 2016 18:18:08 : LimitlessMc , RoyGasm ;)#7098 , yay!
+16 Jul 2016 18:19:02 : LimitlessMc , Resolate#7058 , ;conch Do you like Roy?
+16 Jul 2016 18:19:17 : LimitlessMc , Botfuzzy77#2209 , *Signs point to yes*
+16 Jul 2016 18:19:17 : LimitlessMc , Botfuzzy77#2209 , The Conch has Spoken!
+16 Jul 2016 18:19:18 : LimitlessMc , Resolate#7058 , ;conch Do you like Roy?
+16 Jul 2016 18:19:18 : LimitlessMc , Botfuzzy77#2209 , *It is decidedly so*
+16 Jul 2016 18:19:18 : LimitlessMc , Botfuzzy77#2209 , The Conch has Spoken!
+16 Jul 2016 18:19:31 : LimitlessMc , RoyGasm ;)#7098 , ;conch do you like rosolate?
+16 Jul 2016 18:19:31 : LimitlessMc , Botfuzzy77#2209 , *Better not tell you now*
+16 Jul 2016 18:19:32 : LimitlessMc , Botfuzzy77#2209 , The Conch has Spoken!
+16 Jul 2016 18:19:46 : LimitlessMc , RoyGasm ;)#7098 , ;conch do you like resolate?
+16 Jul 2016 18:19:46 : LimitlessMc , Botfuzzy77#2209 , *Outlook good*
+16 Jul 2016 18:19:47 : LimitlessMc , Botfuzzy77#2209 , The Conch has Spoken!
+16 Jul 2016 18:19:52 : LimitlessMc , RoyGasm ;)#7098 , ;conch do you like resolate?
+16 Jul 2016 18:19:53 : LimitlessMc , Botfuzzy77#2209 , *Outlook good*
+16 Jul 2016 18:19:53 : LimitlessMc , Botfuzzy77#2209 , The Conch has Spoken!
+16 Jul 2016 18:19:55 : LimitlessMc , Resolate#7058 , Rosolate? wtf
+16 Jul 2016 18:19:56 : LimitlessMc , RoyGasm ;)#7098 , bet
+16 Jul 2016 18:19:56 : Cipher , Calamariela#4119 , Roy....
+16 Jul 2016 18:19:57 : LimitlessMc , RoyGasm ;)#7098 , ;conch do you like resolate?
+16 Jul 2016 18:19:58 : LimitlessMc , Botfuzzy77#2209 , *Concentrate and ask again*
+16 Jul 2016 18:19:58 : LimitlessMc , Botfuzzy77#2209 , The Conch has Spoken!
+16 Jul 2016 18:20:00 : LimitlessMc , RoyGasm ;)#7098 , ;conch do you like resolate?
+16 Jul 2016 18:20:00 : Cipher , Calamariela#4119 , You're gay
+16 Jul 2016 18:20:00 : LimitlessMc , Botfuzzy77#2209 , *Most likely*
+16 Jul 2016 18:20:00 : LimitlessMc , Botfuzzy77#2209 , The Conch has Spoken!
+16 Jul 2016 18:20:02 : LimitlessMc , RoyGasm ;)#7098 , ;conch do you like resolate?
+16 Jul 2016 18:20:02 : LimitlessMc , Botfuzzy77#2209 , *Yes*
+16 Jul 2016 18:20:03 : LimitlessMc , Botfuzzy77#2209 , The Conch has Spoken!
+16 Jul 2016 18:20:04 : LimitlessMc , RoyGasm ;)#7098 , ;conch do you like resolate?
+16 Jul 2016 18:20:04 : LimitlessMc , Botfuzzy77#2209 , *My reply is no*
+16 Jul 2016 18:20:04 : LimitlessMc , Botfuzzy77#2209 , The Conch has Spoken!
+16 Jul 2016 18:20:07 : LimitlessMc , RoyGasm ;)#7098 , der
+16 Jul 2016 18:20:24 : Cipher , RoyGasm ;)#7098 , ?
+16 Jul 2016 18:21:20 : LimitlessMc , Resolate#7058 , ;afk Fooood
+16 Jul 2016 18:21:21 : LimitlessMc , Botfuzzy77#2209 , Resolate is now AFK for reason:
+**Fooood**
+16 Jul 2016 18:25:21 : Cipher , RoyGasm ;)#7098 , why tho?
+16 Jul 2016 18:29:16 : Cipher , Calamariela#4119 , No reason lol
+16 Jul 2016 18:39:36 : Cipher , RoyGasm ;)#7098 , did any of you change my ing name? (i'm looking at you <@!180158716895690752> )
+16 Jul 2016 18:40:07 : Cipher , RoyGasm ;)#7098 , someone donated 1$ to change my name to "Gay_D_sucker" -.-
+16 Jul 2016 18:40:11 : Cipher , RoyGasm ;)#7098 , lmfao
+16 Jul 2016 18:43:35 : The Pleb Privateers , Habit#5729 , yeah but
+16 Jul 2016 18:43:39 : The Pleb Privateers , Habit#5729 , leona is gay
+16 Jul 2016 18:43:50 : The Pleb Privateers , Habit#5729 , this is huge news for all of us in the LGBT community
+16 Jul 2016 18:44:01 : The Pleb Privateers , Habit#5729 , #rainbows
+16 Jul 2016 18:44:04 : The Pleb Privateers , Habit#5729 , #pride
+16 Jul 2016 18:44:09 : The Pleb Privateers , Habit#5729 , #itsnotjustGTA5
+16 Jul 2016 18:44:19 : The Pleb Privateers , Habit#5729 , #digitalequality
+16 Jul 2016 18:44:22 : The Pleb Privateers , Habit#5729 , #ilikemen
+16 Jul 2016 18:45:15 : The Pleb Privateers , enragednuke#2565 , lol
+16 Jul 2016 18:45:23 : The Pleb Privateers , enragednuke#2565 , KappaPride
+16 Jul 2016 18:46:28 : Cipher , Akinci#5072 , Lol
+16 Jul 2016 18:46:54 : The Pleb Privateers , Habit#5729 , why is your bot fucking with the Time-space continum?
+16 Jul 2016 18:46:57 : The Pleb Privateers , Habit#5729 , not cool
+16 Jul 2016 18:47:04 : The Pleb Privateers , enragednuke#2565 , not mine lol
+16 Jul 2016 18:47:04 : The Pleb Privateers , Habit#5729 , no good has ever come of that
+16 Jul 2016 18:47:25 : The Pleb Privateers , enragednuke#2565 , that's <@!134441036905840640> 's lol
+16 Jul 2016 18:47:31 : Cipher , Akinci#5072 , 
+16 Jul 2016 18:47:37 : The Pleb Privateers , enragednuke#2565 , mine is offline since I'm at my sisters and on mobile lol
+16 Jul 2016 18:47:53 : Cipher , Akinci#5072 , Roy playing **with himself**
+16 Jul 2016 18:47:59 : Cipher , Akinci#5072 , Gj
+16 Jul 2016 18:47:59 : Cipher , RoyGasm ;)#7098 , lelel
+16 Jul 2016 18:48:09 : The Pleb Privateers , By#5729 , stupidiest name
+16 Jul 2016 18:48:16 : Cipher , Akinci#5072 , Le
+16 Jul 2016 18:48:27 : The Pleb Privateers , By#5729 , damnit
+16 Jul 2016 18:48:31 : Cipher , Akinci#5072 , ;afk busy irl
+16 Jul 2016 18:48:31 : Cipher , Botfuzzy77#2209 , Akinci is now AFK for reason:
+**busy irl**
+16 Jul 2016 18:48:32 : The Pleb Privateers , By#5729 , it didnt change my name
+16 Jul 2016 18:48:35 : The Pleb Privateers , By#5729 , 1 sec
+16 Jul 2016 18:48:56 : Cipher , RoyGasm ;)#7098 , no one asked you
+16 Jul 2016 18:49:01 : The Pleb Privateers , By#5729 , hmm
+16 Jul 2016 18:49:05 : The Pleb Privateers , By#5729 , damnit!
+16 Jul 2016 18:49:09 : Cipher , Akinci#5072 , ;-;
+16 Jul 2016 18:49:15 : Cipher , Akinci#5072 , I cri
+16 Jul 2016 18:49:29 : Cipher , Akinci#5072 , ;kms
+16 Jul 2016 18:49:29 : Cipher , Botfuzzy77#2209 , Bet
+16 Jul 2016 18:49:42 : Cipher , Akinci#5072 , ;clever goodbye im gonna kms
+16 Jul 2016 18:49:45 : Cipher , Botfuzzy77#2209 , Do you know Gerard Way?
+16 Jul 2016 18:50:04 : The Pleb Privateers , By#5729 , !?
+16 Jul 2016 18:50:06 : Cipher , Akinci#5072 , ;clever wtf im gonna kill myself
+16 Jul 2016 18:50:10 : Cipher , Botfuzzy77#2209 , Don't do that. Why do you want to?
+16 Jul 2016 18:50:13 : The Pleb Privateers , By#5729 , i cant change my name
+16 Jul 2016 18:50:17 : The Pleb Privateers , By#5729 , i am so sad
+16 Jul 2016 18:50:23 : Cipher , Akinci#5072 , ;clever idk
+16 Jul 2016 18:50:25 : Cipher , Botfuzzy77#2209 , Why do you like Easter?
+16 Jul 2016 18:50:27 : The Pleb Privateers , By#5729 , oh boo
+16 Jul 2016 18:50:32 : Cipher , Akinci#5072 , -.-
+16 Jul 2016 18:50:33 : The Pleb Privateers , By#5729 , your bot isnt on your phone
+16 Jul 2016 18:50:38 : The Pleb Privateers , By#5729 , #scrubstatus
+16 Jul 2016 18:50:39 : Cipher , Akinci#5072 , Cleverbot is annoying
+16 Jul 2016 18:50:55 : The Pleb Privateers , By#5729 , #usethatraspberrypicomputerbro
+16 Jul 2016 18:51:00 : LimitlessMc , Resolate#7058 , ;clever Can you kick me?
+16 Jul 2016 18:51:02 : Cipher , RoyGasm ;)#7098 , ;conch akinci should kys right?
+16 Jul 2016 18:51:03 : LimitlessMc , Botfuzzy77#2209 , Yes, do you want me to?
+16 Jul 2016 18:51:03 : Cipher , Botfuzzy77#2209 , *My reply is no*
+16 Jul 2016 18:51:03 : Cipher , Botfuzzy77#2209 , The Conch has Spoken!
+16 Jul 2016 18:51:09 : Cipher , RoyGasm ;)#7098 , kys <@!187609093001838602>
+16 Jul 2016 18:51:10 : LimitlessMc , Resolate#7058 , ;clever Yes, please
+16 Jul 2016 18:51:13 : LimitlessMc , Botfuzzy77#2209 , Well, I'm ready!
+16 Jul 2016 18:51:25 : LimitlessMc , Resolate#7058 , ;clever *bends over*
+16 Jul 2016 18:51:26 : LimitlessMc , Botfuzzy77#2209 , Bends from too much nitrogen in the blood upon resurfacing from a deep ocean experience..
+16 Jul 2016 18:52:50 : LimitlessMc , Resolate#7058 , ;clever *suffocates in the water*
+16 Jul 2016 18:52:52 : LimitlessMc , Botfuzzy77#2209 , Now and there..
+16 Jul 2016 18:53:01 : LimitlessMc , Resolate#7058 , ;clever *dies*
+16 Jul 2016 18:53:04 : LimitlessMc , Botfuzzy77#2209 , Because you cannot afford it..
+16 Jul 2016 18:53:04 : Cipher , Akinci#5072 , Wait wot
+16 Jul 2016 18:53:15 : LimitlessMc , Resolate#7058 , ;clever *cries in heaven*
+16 Jul 2016 18:53:18 : LimitlessMc , Botfuzzy77#2209 , Yes. It's screen gem..
+16 Jul 2016 18:53:29 : Cipher , Akinci#5072 , "Akinci should kys(kill yourself) right"
+16 Jul 2016 18:53:40 : LimitlessMc , Resolate#7058 , ;clever Noooooooo
+16 Jul 2016 18:53:41 : Cipher , Akinci#5072 , 10/10
+16 Jul 2016 18:53:41 : LimitlessMc , Botfuzzy77#2209 , *comes back as zombie.
+16 Jul 2016 18:53:57 : LimitlessMc , Resolate#7058 , ;clever *gets drunk*
+16 Jul 2016 18:53:59 : LimitlessMc , Botfuzzy77#2209 , *drinks more*.
+16 Jul 2016 18:54:09 : LimitlessMc , Resolate#7058 , ;clever *bangs a girl*
+16 Jul 2016 18:54:10 : LimitlessMc , Botfuzzy77#2209 , *kisses drunkily*.
+16 Jul 2016 18:54:37 : LimitlessMc , Resolate#7058 , ;clever *Kisses the Bot hungrily*
+16 Jul 2016 18:54:39 : Cipher , RoyGasm ;)#7098 , akinci should khs (kill herself) right?
+16 Jul 2016 18:54:39 : LimitlessMc , Botfuzzy77#2209 , *kisses back*.
+16 Jul 2016 18:55:02 : LimitlessMc , Resolate#7058 , ;clever *bites the bot*
+16 Jul 2016 18:55:05 : LimitlessMc , Botfuzzy77#2209 , *kisses on the lips*.
+16 Jul 2016 18:55:23 : Cipher , Akinci#5072 , Himself*
+16 Jul 2016 18:55:29 : Cipher , RoyGasm ;)#7098 , herself*
+16 Jul 2016 18:55:34 : Cipher , Akinci#5072 , Ah you edited
+16 Jul 2016 18:55:34 : LimitlessMc , Resolate#7058 , ;clever *fucks the BotZombie77*
+16 Jul 2016 18:55:38 : Cipher , Akinci#5072 , ...
+16 Jul 2016 18:55:46 : Cipher , Akinci#5072 , Pff
+16 Jul 2016 18:55:48 : Cipher , RoyGasm ;)#7098 , lele
+16 Jul 2016 18:56:16 : Cipher , Akinci#5072 , ;image
+16 Jul 2016 18:56:17 : Cipher , Botfuzzy77#2209 , https://www.google.com/wallet/static/images/pages/home/sections/welcome/welcome-desktop.png
+16 Jul 2016 18:56:27 : Cipher , Akinci#5072 , ;image roy
+16 Jul 2016 18:56:28 : Cipher , Botfuzzy77#2209 , http://wollmanlab.ucsd.edu/RoyHeadshot.png
+16 Jul 2016 18:56:44 : LimitlessMc , Resolate#7058 , ;clever You alive?
+16 Jul 2016 18:56:45 : LimitlessMc , Botfuzzy77#2209 , Smiles kisses.
+16 Jul 2016 18:56:48 : Cipher , Akinci#5072 , Lol wtf
+16 Jul 2016 18:56:59 : LimitlessMc , Resolate#7058 , ;clever *smiles back*
+16 Jul 2016 18:57:01 : LimitlessMc , Botfuzzy77#2209 , *kisses nose* *read book*.
+16 Jul 2016 18:57:02 : Cipher , Akinci#5072 , RoyHeadshot lelele
+16 Jul 2016 18:57:06 : Cipher , RoyGasm ;)#7098 , seems about right
+16 Jul 2016 18:57:12 : Cipher , RoyGasm ;)#7098 , ;image akinci
+16 Jul 2016 18:57:13 : Cipher , Botfuzzy77#2209 , http://www.lgcnews.com/wp-content/uploads/2015/04/North-Cyprus-News-Mustafa-Akinci1.png
+16 Jul 2016 18:57:20 : Cipher , RoyGasm ;)#7098 , ^
+16 Jul 2016 18:57:20 : Cipher , Botfuzzy77#2209 , ^
+16 Jul 2016 18:57:28 : Cipher , Akinci#5072 , <^>
+16 Jul 2016 18:57:39 : Cipher , Akinci#5072 , ;image shit
+16 Jul 2016 18:57:39 : Cipher , Botfuzzy77#2209 , https://www.google.com/wallet/static/images/pages/home/sections/welcome/welcome-desktop.png
+16 Jul 2016 18:57:40 : Cipher , RoyGasm ;)#7098 , ;image what fucker <@!134441036905840640>
+16 Jul 2016 18:57:41 : Cipher , Botfuzzy77#2209 , ERROR
+16 Jul 2016 18:57:52 : LimitlessMc , Resolate#7058 , ;clever *withdraws*
+16 Jul 2016 18:57:53 : LimitlessMc , Botfuzzy77#2209 , *feels lonely*.
+16 Jul 2016 18:57:56 : Cipher , Akinci#5072 , ;image taco
+16 Jul 2016 18:57:56 : Cipher , Botfuzzy77#2209 , http://www.tacobueno.com/media/1339/beeftacolarge.png?quality=65
+16 Jul 2016 18:58:02 : LimitlessMc , Resolate#7058 , ;clever *leaves*
+16 Jul 2016 18:58:04 : LimitlessMc , Botfuzzy77#2209 , *leaves as well*.
+16 Jul 2016 18:58:04 : Cipher , RoyGasm ;)#7098 , ;image Wertfurry77
+16 Jul 2016 18:58:05 : Cipher , Akinci#5072 , ^
+16 Jul 2016 18:58:05 : Cipher , Botfuzzy77#2209 , ERROR
+16 Jul 2016 18:58:05 : Cipher , Botfuzzy77#2209 , ^
+16 Jul 2016 18:58:10 : Cipher , RoyGasm ;)#7098 , wtf
+16 Jul 2016 18:58:15 : LimitlessMc , Resolate#7058 , ;clever Stop following me!
+16 Jul 2016 18:58:17 : Cipher , Akinci#5072 , Furry le
+16 Jul 2016 18:58:17 : LimitlessMc , Botfuzzy77#2209 , *tackles her*.
+16 Jul 2016 18:58:21 : Cipher , RoyGasm ;)#7098 , ;image furry
+16 Jul 2016 18:58:22 : Cipher , Botfuzzy77#2209 , http://en.wikifur.com/w/images/d/d1/Proud_furry_huge.png
+16 Jul 2016 18:58:25 : LimitlessMc , Resolate#7058 , ;clever Kms
+16 Jul 2016 18:58:27 : LimitlessMc , Botfuzzy77#2209 , *ties to a chair*.
+16 Jul 2016 18:58:30 : Cipher , Akinci#5072 , ;image pokemon
+16 Jul 2016 18:58:31 : Cipher , Botfuzzy77#2209 , https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/English_Pok%C3%A9mon_logo.svg/2000px-English_Pok%C3%A9mon_logo.svg.png
+16 Jul 2016 18:58:33 : Cipher , RoyGasm ;)#7098 , ;image wertfurry77
+16 Jul 2016 18:58:34 : LimitlessMc , Resolate#7058 , ;clever Nooooooo!!!!!
+16 Jul 2016 18:58:36 : Cipher , Botfuzzy77#2209 , ERROR
+16 Jul 2016 18:58:36 : LimitlessMc , Botfuzzy77#2209 , Yes.
+16 Jul 2016 18:58:41 : Cipher , RoyGasm ;)#7098 , ;image Wertfurry
+16 Jul 2016 18:58:41 : Cipher , Botfuzzy77#2209 , ERROR
+16 Jul 2016 18:58:44 : Cipher , Akinci#5072 , ;image charmander
+16 Jul 2016 18:58:45 : Cipher , Botfuzzy77#2209 , http://cdn.bulbagarden.net/upload/thumb/7/73/004Charmander.png/250px-004Charmander.png
+16 Jul 2016 18:58:52 : Cipher , Akinci#5072 , ;image wert
+16 Jul 2016 18:58:53 : Cipher , Botfuzzy77#2209 , https://hiddenriverarts.files.wordpress.com/2013/06/basch-rachel-photo-wm-van-wert-2011-winner.png
+16 Jul 2016 18:58:54 : Cipher , RoyGasm ;)#7098 , ;image wert
+16 Jul 2016 18:58:54 : Cipher , Botfuzzy77#2209 , https://hiddenriverarts.files.wordpress.com/2013/06/basch-rachel-photo-wm-van-wert-2011-winner.png
+16 Jul 2016 18:58:58 : Cipher , Akinci#5072 , Lelleleellele
+16 Jul 2016 18:59:00 : Cipher , RoyGasm ;)#7098 , ^
+16 Jul 2016 18:59:00 : Cipher , Botfuzzy77#2209 , ^
+16 Jul 2016 18:59:04 : LimitlessMc , Resolate#7058 , ;clever *cries desperately for help*
+16 Jul 2016 18:59:06 : LimitlessMc , Botfuzzy77#2209 , *stays quiet.
+16 Jul 2016 18:59:10 : Cipher , Akinci#5072 , Wert is a milf le
+16 Jul 2016 18:59:11 : Cipher , RoyGasm ;)#7098 , ;image Bot
+16 Jul 2016 18:59:12 : Cipher , Botfuzzy77#2209 , https://iprodev.com/wp-content/uploads/fraud-bot-home.png
+16 Jul 2016 18:59:26 : LimitlessMc , Resolate#7058 , ;clever *shudders*
+16 Jul 2016 18:59:28 : LimitlessMc , Botfuzzy77#2209 , *climbs out of your window*.
+16 Jul 2016 18:59:30 : Cipher , Akinci#5072 , ;image ok
+16 Jul 2016 18:59:30 : Cipher , Botfuzzy77#2209 , http://christyricepm.com/files/2014/02/ok-button-md1.png
+16 Jul 2016 18:59:37 : LimitlessMc , Resolate#7058 , ;clever wtf, you leaving?
+16 Jul 2016 18:59:38 : Cipher , Akinci#5072 , ;image kys
+16 Jul 2016 18:59:38 : LimitlessMc , Botfuzzy77#2209 , Do you want me to stay?
+16 Jul 2016 18:59:38 : Cipher , Botfuzzy77#2209 , http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-kys-14.png
+16 Jul 2016 18:59:45 : Cipher , Akinci#5072 , Lol do that roy
+16 Jul 2016 18:59:47 : Cipher , Akinci#5072 , ^
+16 Jul 2016 18:59:48 : LimitlessMc , Resolate#7058 , ;clever Yes & No
+16 Jul 2016 18:59:50 : Cipher , Botfuzzy77#2209 , ^
+16 Jul 2016 18:59:50 : LimitlessMc , Botfuzzy77#2209 , But tell me something nice.
+16 Jul 2016 18:59:53 : Cipher , RoyGasm ;)#7098 , ;conch is akinci the furry goddess?
+16 Jul 2016 18:59:53 : Cipher , Botfuzzy77#2209 , *Yes*
+16 Jul 2016 18:59:53 : Cipher , Botfuzzy77#2209 , The Conch has Spoken!
+16 Jul 2016 18:59:57 : Cipher , RoyGasm ;)#7098 , lelele
+16 Jul 2016 19:00:00 : LimitlessMc , Resolate#7058 , ;clever Go fuck yourself
+16 Jul 2016 19:00:01 : LimitlessMc , Botfuzzy77#2209 , Might be fun!
+16 Jul 2016 19:00:10 : LimitlessMc , Botfuzzy77#2209 , I think I have a top secret chocolate addiction.
+16 Jul 2016 19:00:13 : Cipher , Akinci#5072 , ;conch does roy sell taco
+16 Jul 2016 19:00:13 : Cipher , Botfuzzy77#2209 , *It is decidedly so*
+16 Jul 2016 19:00:14 : Cipher , Botfuzzy77#2209 , The Conch has Spoken!
+16 Jul 2016 19:00:25 : LimitlessMc , Resolate#7058 , ;clever  I used to
+16 Jul 2016 19:00:27 : LimitlessMc , Botfuzzy77#2209 , Do you like me?
+16 Jul 2016 19:00:31 : Cipher , Akinci#5072 , L
+16 Jul 2016 19:00:40 : LimitlessMc , Resolate#7058 , ;clever No, but I like fuzzies
+16 Jul 2016 19:00:41 : LimitlessMc , Botfuzzy77#2209 , Ho moi pas.
+16 Jul 2016 19:01:00 : Cipher , Akinci#5072 , ;image pixelmon
+16 Jul 2016 19:01:00 : Cipher , Botfuzzy77#2209 , http://shadersmods.com/wp-content/uploads/2016/03/vaporeon.png
+16 Jul 2016 19:01:09 : LimitlessMc , Resolate#7058 , ;clever English in Botchat pls
+16 Jul 2016 19:01:12 : Cipher , Akinci#5072 , ;image LimitlessMC
+16 Jul 2016 19:01:13 : LimitlessMc , Botfuzzy77#2209 , I only speak English.
+16 Jul 2016 19:01:13 : Cipher , Botfuzzy77#2209 , http://limitlessmc.net/images/caro4.png
+16 Jul 2016 19:01:24 : Cipher , Akinci#5072 , Nice
+16 Jul 2016 19:01:25 : LimitlessMc , Resolate#7058 , ;clever I speak Cloud
+16 Jul 2016 19:01:28 : LimitlessMc , Botfuzzy77#2209 , I am speaking English :).
+16 Jul 2016 19:01:34 : Cipher , RoyGasm ;)#7098 , ;image furries
+16 Jul 2016 19:01:35 : Cipher , Botfuzzy77#2209 , http://www.furryfandom.info/img/dont-worry-be-furry.png
+16 Jul 2016 19:01:38 : LimitlessMc , Resolate#7058 , ;clever I am speaking Dog
+16 Jul 2016 19:01:40 : Cipher , RoyGasm ;)#7098 , ew
+16 Jul 2016 19:01:41 : Cipher , RoyGasm ;)#7098 , no
+16 Jul 2016 19:01:42 : Cipher , Akinci#5072 , ;image fur
+16 Jul 2016 19:01:42 : Cipher , RoyGasm ;)#7098 , kys
+16 Jul 2016 19:01:43 : Cipher , Botfuzzy77#2209 , http://vray.info/assets/opac_fur.png
+16 Jul 2016 19:01:51 : Cipher , RoyGasm ;)#7098 , ;image furries like wert
+16 Jul 2016 19:01:52 : Cipher , Botfuzzy77#2209 , http://t07.deviantart.net/fdexNiVyAFYq217BXBrR8cSarwQ=/300x200/filters:fixed_height(100,100):origin()/pre07/7e6d/th/pre/f/2016/043/e/f/wert_commission_by_barfs-d9rjelq.png
+16 Jul 2016 19:02:00 : Cipher , RoyGasm ;)#7098 , ;image dil**
+16 Jul 2016 19:02:01 : Cipher , Botfuzzy77#2209 , http://3.bp.blogspot.com/-7c2hMdVotRs/VfWlvEePcRI/AAAAAAAAEaE/HwUtWF3kuRE/s1600/dil%2Bimage%2B%25281%2529.png
+16 Jul 2016 19:02:09 : Cipher , Akinci#5072 , ;image D
+16 Jul 2016 19:02:10 : Cipher , Botfuzzy77#2209 , https://openclipart.org/image/2400px/svg_to_png/245687/CapD.png
+16 Jul 2016 19:02:14 : LimitlessMc , Resolate#7058 , ;clever Oh, the second one is me!
+16 Jul 2016 19:02:15 : Cipher , RoyGasm ;)#7098 , ;image dick
+16 Jul 2016 19:02:15 : LimitlessMc , Botfuzzy77#2209 , What was the second one?
+16 Jul 2016 19:02:15 : Cipher , Botfuzzy77#2209 , http://publisher.attn.com/sites/default/files/Screen%20Shot%202016-01-07%20at%203.54.53%20PM.png
+16 Jul 2016 19:02:21 : Cipher , RoyGasm ;)#7098 , wtf is that+
+16 Jul 2016 19:02:22 : Cipher , Akinci#5072 , Wtf
+16 Jul 2016 19:02:25 : LimitlessMc , Resolate#7058 , ;clever MEEEEEEEEE!!!
+16 Jul 2016 19:02:28 : LimitlessMc , Botfuzzy77#2209 , Which BOOK was the best?
+16 Jul 2016 19:02:29 : Cipher , RoyGasm ;)#7098 , ;image cock
+16 Jul 2016 19:02:29 : Cipher , Botfuzzy77#2209 , https://www.google.com/wallet/static/images/pages/home/sections/welcome/welcome-desktop.png
+16 Jul 2016 19:02:36 : Cipher , RoyGasm ;)#7098 , ;image penis
+16 Jul 2016 19:02:37 : The Pleb Privateers , enragednuke#2565 , #hashtagaddict
+16 Jul 2016 19:02:37 : Cipher , Botfuzzy77#2209 , http://i.amz.mshcdn.com/vKV0Dz5GbBog9bTGcClA1SJENsk=/fit-in/1200x9600/http%3A%2F%2Fmashable.com%2Fwp-content%2Fuploads%2F2015%2F10%2FPENIS-preview-02.png
+16 Jul 2016 19:02:39 : Cipher , RoyGasm ;)#7098 , ...
+16 Jul 2016 19:02:42 : Cipher , RoyGasm ;)#7098 , lmfao
+16 Jul 2016 19:02:43 : LimitlessMc , Resolate#7058 , ;clever 50 shades of Bot
+16 Jul 2016 19:02:44 : Cipher , RoyGasm ;)#7098 , ew
+16 Jul 2016 19:02:44 : LimitlessMc , Botfuzzy77#2209 , Never heard of it.
+16 Jul 2016 19:02:52 : Cipher , RoyGasm ;)#7098 , def not what i ment
+16 Jul 2016 19:02:52 : Cipher , Akinci#5072 , Lol
+16 Jul 2016 19:02:57 : Cipher , Akinci#5072 , ;image butt
+16 Jul 2016 19:02:58 : Cipher , Botfuzzy77#2209 , https://queencitybeerleague.files.wordpress.com/2015/08/selter-butt.png?w=640&h=455
+16 Jul 2016 19:03:00 : LimitlessMc , Resolate#7058 , ;clever It's better that you don't
+16 Jul 2016 19:03:01 : LimitlessMc , Botfuzzy77#2209 , No, it is worse than I don't.
+16 Jul 2016 19:03:04 : Cipher , Akinci#5072 , Ooooh
+16 Jul 2016 19:03:10 : Cipher , RoyGasm ;)#7098 , wtf why is there a purple penis?
+16 Jul 2016 19:03:20 : Cipher , Akinci#5072 , Alien
+16 Jul 2016 19:03:23 : LimitlessMc , Resolate#7058 , ;clever Agreed *nods*
+16 Jul 2016 19:03:25 : LimitlessMc , Botfuzzy77#2209 , They betrayed me. They lied. They said they wish I wasn't born.
+16 Jul 2016 19:03:26 : Cipher , RoyGasm ;)#7098 , ;image wert
+16 Jul 2016 19:03:27 : Cipher , Botfuzzy77#2209 , https://hiddenriverarts.files.wordpress.com/2013/06/basch-rachel-photo-wm-van-wert-2011-winner.png
+16 Jul 2016 19:03:31 : Cipher , Akinci#5072 , ^
+16 Jul 2016 19:03:31 : Cipher , Botfuzzy77#2209 , ^
+16 Jul 2016 19:03:35 : Cipher , Akinci#5072 , best one
+16 Jul 2016 19:03:35 : Cipher , RoyGasm ;)#7098 , ;image wertfurry
+16 Jul 2016 19:03:36 : Cipher , Botfuzzy77#2209 , ERROR
+16 Jul 2016 19:03:37 : Cipher , RoyGasm ;)#7098 , wtf
+16 Jul 2016 19:03:38 : LimitlessMc , Resolate#7058 , ;clever Lies!
+16 Jul 2016 19:03:40 : LimitlessMc , Botfuzzy77#2209 , Tell me lies tell me lies.
+16 Jul 2016 19:03:42 : Cipher , RoyGasm ;)#7098 , ;image shark
+16 Jul 2016 19:03:42 : Cipher , Botfuzzy77#2209 , http://www.nationalgeographic.com/interactive-assets/sharks/v31/assets/img/updated/Display/SharkInteractive_Greenland_1536.png
+16 Jul 2016 19:03:46 : Cipher , Akinci#5072 , ;image wertfuzzy77
+16 Jul 2016 19:03:47 : Cipher , Botfuzzy77#2209 , http://i57.tinypic.com/qys1mf.png
+16 Jul 2016 19:04:00 : LimitlessMc , Resolate#7058 , ;clever I am a Male
+16 Jul 2016 19:04:01 : LimitlessMc , Botfuzzy77#2209 , I am female.
+16 Jul 2016 19:04:02 : Cipher , RoyGasm ;)#7098 , ;image calamariela
+16 Jul 2016 19:04:02 : Cipher , Botfuzzy77#2209 , http://mcskinsearch.com/img/cache/raw/Calamariela.png?1462506771
+16 Jul 2016 19:04:05 : LimitlessMc , Resolate#7058 , ;clever good
+16 Jul 2016 19:04:07 : LimitlessMc , Botfuzzy77#2209 , Lol :).
+16 Jul 2016 19:04:12 : Cipher , Akinci#5072 , ;image ferrari 488 gtb
+16 Jul 2016 19:04:13 : Cipher , Botfuzzy77#2209 , http://exra.exoticsracing.com/upload/site/pages/news/ferrari-488-gtb-side-large.png
+16 Jul 2016 19:04:13 : LimitlessMc , Resolate#7058 , ;clever xD
+16 Jul 2016 19:04:14 : Cipher , RoyGasm ;)#7098 , ;image roy210
+16 Jul 2016 19:04:14 : LimitlessMc , Botfuzzy77#2209 , Wwe vs tna.
+16 Jul 2016 19:04:15 : Cipher , Botfuzzy77#2209 , http://s19.postimg.org/v69827e2b/Scyther.png
+16 Jul 2016 19:04:24 : Cipher , RoyGasm ;)#7098 , omg
+16 Jul 2016 19:04:29 : LimitlessMc , Resolate#7058 , ;clever rrfuuj  nussffgtr?!
+16 Jul 2016 19:04:31 : LimitlessMc , Botfuzzy77#2209 , What is a nuisance?
+16 Jul 2016 19:04:41 : LimitlessMc , Resolate#7058 , ;cleever Your feet
+16 Jul 2016 19:04:43 : Cipher , RoyGasm ;)#7098 , i remember that
+16 Jul 2016 19:04:49 : LimitlessMc , Resolate#7058 , ;clever Your feet
+16 Jul 2016 19:04:50 : LimitlessMc , Botfuzzy77#2209 , My feet are just?
+16 Jul 2016 19:04:57 : LimitlessMc , Resolate#7058 , ;clever Amazing
+16 Jul 2016 19:04:57 : LimitlessMc , Botfuzzy77#2209 , Fantastic.
+16 Jul 2016 19:05:00 : Cipher , RoyGasm ;)#7098 , that was a pic in a post i responded to
+16 Jul 2016 19:05:06 : Cipher , RoyGasm ;)#7098 , in www.limitlessmc.net
+16 Jul 2016 19:05:13 : LimitlessMc , Resolate#7058 , ;clever Fantastic terrible
+16 Jul 2016 19:05:14 : LimitlessMc , Botfuzzy77#2209 , I hear music.
+16 Jul 2016 19:05:20 : LimitlessMc , Resolate#7058 , ;clever I do too
+16 Jul 2016 19:05:20 : LimitlessMc , Botfuzzy77#2209 , How are you today?
+16 Jul 2016 19:05:22 : Cipher , RoyGasm ;)#7098 , ;image death
+16 Jul 2016 19:05:22 : Cipher , Botfuzzy77#2209 , http://images.huffingtonpost.com/2016-02-07-1454862213-4170494-skullandcrossbones.png
+16 Jul 2016 19:05:27 : LimitlessMc , Resolate#7058 , ;clever Sad
+16 Jul 2016 19:05:29 : LimitlessMc , Botfuzzy77#2209 , What's wrong?
+16 Jul 2016 19:05:29 : Cipher , RoyGasm ;)#7098 , ;image exrcism
+16 Jul 2016 19:05:30 : Cipher , Botfuzzy77#2209 , http://docplayer.net/docs-images/27/9501539/images/21-0.png
+16 Jul 2016 19:05:33 : Cipher , RoyGasm ;)#7098 , no pls
+16 Jul 2016 19:05:47 : Cipher , RoyGasm ;)#7098 , ;image god
+16 Jul 2016 19:05:47 : Cipher , Botfuzzy77#2209 , http://cdn3-www.playstationlifestyle.net/assets/uploads/2015/07/godowarchained-555x250.png
+16 Jul 2016 19:05:47 : LimitlessMc , Resolate#7058 , ;clever The music has no lyrics *cries*
+16 Jul 2016 19:05:48 : LimitlessMc , Botfuzzy77#2209 , Oh brother.
+16 Jul 2016 19:05:52 : Cipher , RoyGasm ;)#7098 , wtf?
+16 Jul 2016 19:05:57 : Cipher , RoyGasm ;)#7098 , ;image dudubidu
+16 Jul 2016 19:05:58 : Cipher , Botfuzzy77#2209 , https://pbs.twimg.com/media/CAQ90guUcAAFlfD.png
+16 Jul 2016 19:06:02 : LimitlessMc , Resolate#7058 , ;clever It is a traumatic time
+16 Jul 2016 19:06:03 : LimitlessMc , Botfuzzy77#2209 , Ask me a question.
+16 Jul 2016 19:06:08 : Cipher , RoyGasm ;)#7098 , ;image jabulla
+16 Jul 2016 19:06:08 : Cipher , Botfuzzy77#2209 , https://www.nationstates.net/images/flags/uploads/jabulla__314549.png
+16 Jul 2016 19:06:17 : Cipher , RoyGasm ;)#7098 , ;image topheralan
+16 Jul 2016 19:06:17 : LimitlessMc , Resolate#7058 , ;clever Are you a Question?
+16 Jul 2016 19:06:18 : Cipher , Botfuzzy77#2209 , http://openbooktheatrecompany.net/wp-content/uploads/2014/08/BOOK-CLUB-square-150x150.png
+16 Jul 2016 19:06:18 : LimitlessMc , Botfuzzy77#2209 , What was the question?
+16 Jul 2016 19:06:24 : LimitlessMc , Resolate#7058 , ;clever U
+16 Jul 2016 19:06:25 : LimitlessMc , Botfuzzy77#2209 , Was that the answer or the question.
+16 Jul 2016 19:06:26 : Cipher , RoyGasm ;)#7098 , ;image chris brown
+16 Jul 2016 19:06:26 : Cipher , Botfuzzy77#2209 , http://static.vibe.com/files/2015/12/Chris-Brown-VIBE-Cover-Story-5-640x960.png
+16 Jul 2016 19:06:30 : Cipher , RoyGasm ;)#7098 , bet
+16 Jul 2016 19:06:30 : Cipher , Akinci#5072 , ;image akinci1903
+16 Jul 2016 19:06:30 : Cipher , Botfuzzy77#2209 , http://i.imgur.com/8DP4gtS.png
+16 Jul 2016 19:06:33 : LimitlessMc , Resolate#7058 , ;clever Yes
+16 Jul 2016 19:06:34 : LimitlessMc , Botfuzzy77#2209 , It is very questionable.
+16 Jul 2016 19:06:36 : Cipher , Akinci#5072 , Dafaq
+16 Jul 2016 19:06:37 : Cipher , RoyGasm ;)#7098 , lmfao
+16 Jul 2016 19:06:42 : Cipher , RoyGasm ;)#7098 , that's lukas
+16 Jul 2016 19:06:44 : LimitlessMc , Resolate#7058 , ;clever I disagree
+16 Jul 2016 19:06:44 : LimitlessMc , Botfuzzy77#2209 , You're wrong.
+16 Jul 2016 19:06:47 : Cipher , RoyGasm ;)#7098 , aka legit_ritz
+16 Jul 2016 19:06:50 : Cipher , Akinci#5072 , Who is luka
+16 Jul 2016 19:06:52 : Cipher , Akinci#5072 , Ph
+16 Jul 2016 19:06:54 : LimitlessMc , Resolate#7058 , ;clever You're wrong
+16 Jul 2016 19:06:55 : Cipher , Akinci#5072 , Oh*
+16 Jul 2016 19:06:56 : LimitlessMc , Botfuzzy77#2209 , Really?
+16 Jul 2016 19:07:00 : LimitlessMc , Resolate#7058 , ;clever No
+16 Jul 2016 19:07:01 : LimitlessMc , Botfuzzy77#2209 , So you know Nicki Minaj.
+16 Jul 2016 19:07:04 : Cipher , Akinci#5072 , ;image akinci1903
+16 Jul 2016 19:07:05 : Cipher , Botfuzzy77#2209 , http://i.imgur.com/8DP4gtS.png
+16 Jul 2016 19:07:10 : Cipher , Akinci#5072 , Why ;-;
+16 Jul 2016 19:07:18 : Cipher , RoyGasm ;)#7098 , lele
+16 Jul 2016 19:07:24 : LimitlessMc , Resolate#7058 , ;clever I am sitting on her
+16 Jul 2016 19:07:24 : LimitlessMc , Botfuzzy77#2209 , Now stand up.
+16 Jul 2016 19:07:26 : Cipher , RoyGasm ;)#7098 , ;image 50 shades of grey porn
+16 Jul 2016 19:07:26 : Cipher , Botfuzzy77#2209 , http://blogs-images.forbes.com/markhughes/files/2015/02/50-Shades-of-Grey-2.png
+16 Jul 2016 19:07:30 : LimitlessMc , Resolate#7058 , ;clever No!
+16 Jul 2016 19:07:30 : Cipher , Akinci#5072 , ;image pernhab
+16 Jul 2016 19:07:30 : LimitlessMc , Botfuzzy77#2209 , Can I sit?
+16 Jul 2016 19:07:31 : Cipher , Botfuzzy77#2209 , http://t03.deviantart.net/i9xrgRuhB3eYpHLCy6wlqTMq7Lk=/300x200/filters:fixed_height(100,100):origin()/pre05/7f33/th/pre/f/2012/072/3/2/ok_then_by_potatoamigo-d4sp5br.png
+16 Jul 2016 19:07:40 : LimitlessMc , Resolate#7058 , ;clever Yeah, come join me
+16 Jul 2016 19:07:41 : LimitlessMc , Botfuzzy77#2209 , Of course.
+16 Jul 2016 19:07:43 : Cipher , RoyGasm ;)#7098 , ;image furry porn
+16 Jul 2016 19:07:44 : Cipher , Botfuzzy77#2209 , http://en.wikifur.com/w/images/d/d1/Proud_furry_huge.png
+16 Jul 2016 19:07:54 : LimitlessMc , Resolate#7058 , ;clever ;D
+16 Jul 2016 19:07:55 : LimitlessMc , Botfuzzy77#2209 , What's the problem?
+16 Jul 2016 19:07:55 : Cipher , RoyGasm ;)#7098 , ;conch are furries disgusting?
+16 Jul 2016 19:07:56 : Cipher , Botfuzzy77#2209 , *Without a doubt*
+16 Jul 2016 19:07:56 : Cipher , Botfuzzy77#2209 , The Conch has Spoken!
+16 Jul 2016 19:07:58 : Cipher , Akinci#5072 , ;image cock
+16 Jul 2016 19:07:58 : Cipher , Botfuzzy77#2209 , https://www.google.com/wallet/static/images/pages/home/sections/welcome/welcome-desktop.png
+16 Jul 2016 19:08:02 : Cipher , Akinci#5072 , K
+16 Jul 2016 19:08:09 : Cipher , RoyGasm ;)#7098 , lmfao wtf is that
+16 Jul 2016 19:08:15 : Cipher , RoyGasm ;)#7098 , ;image wert's cock
+16 Jul 2016 19:08:16 : Cipher , Botfuzzy77#2209 , http://wertscafe.com/wp-content/uploads/head-logo.png
+16 Jul 2016 19:08:21 : Cipher , Akinci#5072 , Lol
+16 Jul 2016 19:08:22 : Cipher , RoyGasm ;)#7098 , ^
+16 Jul 2016 19:08:23 : Cipher , Botfuzzy77#2209 , ^
+16 Jul 2016 19:08:29 : Cipher , Akinci#5072 , ;image vagaga
+16 Jul 2016 19:08:29 : Cipher , Botfuzzy77#2209 , http://vagicons.com/vcons/img/vagaga.png
+16 Jul 2016 19:08:34 : Cipher , RoyGasm ;)#7098 , ;image the bot spam is real
+16 Jul 2016 19:08:35 : Cipher , Botfuzzy77#2209 , https://www.google.com/recaptcha/intro/assets/google_logo_160x56_2x.png
+16 Jul 2016 19:08:45 : Cipher , Akinci#5072 , ;image google
+16 Jul 2016 19:08:46 : Cipher , Botfuzzy77#2209 , https://www.google.com/work/images/logo/google-for-work-social-icon.png
+16 Jul 2016 19:08:46 : Cipher , RoyGasm ;)#7098 , ;image akinci's pussy
+16 Jul 2016 19:08:46 : Cipher , Botfuzzy77#2209 , http://www.lgcnews.com/wp-content/uploads/2015/04/North-Cyprus-News-Mustafa-Akinci1.png
+16 Jul 2016 19:08:50 : Cipher , RoyGasm ;)#7098 , ^
+16 Jul 2016 19:08:50 : Cipher , Botfuzzy77#2209 , ^
+16 Jul 2016 19:08:52 : Cipher , Akinci#5072 , Fy
+16 Jul 2016 19:08:58 : Cipher , RoyGasm ;)#7098 , ;image ass
+16 Jul 2016 19:08:58 : Cipher , Botfuzzy77#2209 , http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-squat-for-this-ass.png
+16 Jul 2016 19:09:04 : Cipher , Akinci#5072 , ;image roys tacos
+16 Jul 2016 19:09:05 : Cipher , Botfuzzy77#2209 , https://maps.zomato.com/osm/14/3707/6788.png
+16 Jul 2016 19:09:10 : Cipher , RoyGasm ;)#7098 , ?
+16 Jul 2016 19:09:17 : Cipher , RoyGasm ;)#7098 , lele 10/10 <@!187609093001838602>
+16 Jul 2016 19:09:28 : Cipher , Akinci#5072 , ;image booty
+16 Jul 2016 19:09:29 : Cipher , Botfuzzy77#2209 , https://notacrappytttserver.com/external-images/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzU2ODE4MTA4NzUyMDU2NzI5Ni9xQlFSS1A1Yi5qcGVn/image.png
+16 Jul 2016 19:09:32 : Cipher , RoyGasm ;)#7098 , ;image justinOPgamer
+16 Jul 2016 19:09:33 : Cipher , Botfuzzy77#2209 , https://minecraft-statistic.net/userbars/cover/player/JustinOPGamer.png
+16 Jul 2016 19:09:48 : Cipher , Akinci#5072 , ;image akinci1
+16 Jul 2016 19:09:49 : Cipher , Botfuzzy77#2209 , http://www.akinrobotics.com/eng/images/akinci.png
+16 Jul 2016 19:09:56 : Cipher , Akinci#5072 , Woot
+16 Jul 2016 19:10:00 : Cipher , RoyGasm ;)#7098 , ;image jay113355
+16 Jul 2016 19:10:01 : Cipher , Botfuzzy77#2209 , https://minecraft-statistic.net/face/Jay113355.png
+16 Jul 2016 19:10:05 : Cipher , Akinci#5072 , Lol
+16 Jul 2016 19:10:07 : LimitlessMc , SyntherosX#3675 , <@128244218761183232> Can you reboot the server its lagging hard. Also, in battle pokemon "mine" when they die after 2 seconds their die again "death animation"
+16 Jul 2016 19:10:08 : Cipher , RoyGasm ;)#7098 , that him lele
+16 Jul 2016 19:10:24 : Cipher , Akinci#5072 , ;image donthebreton
+16 Jul 2016 19:10:24 : Cipher , Botfuzzy77#2209 , https://minecraft-statistic.net/userbars/cover/player/DonTheBreton.png
+16 Jul 2016 19:10:26 : Cipher , RoyGasm ;)#7098 , ;image Tophwalt4life
+16 Jul 2016 19:10:27 : Cipher , Botfuzzy77#2209 , ERROR
+16 Jul 2016 19:10:37 : Cipher , Akinci#5072 , ;image drake
+16 Jul 2016 19:10:37 : Cipher , Botfuzzy77#2209 , https://i.imgur.com/c1ltngj.png
+16 Jul 2016 19:10:37 : Cipher , RoyGasm ;)#7098 , ;image pacmen
+16 Jul 2016 19:10:38 : Cipher , Botfuzzy77#2209 , http://184.106.108.126/media/thumbs/stills/Pacmen_02_1.png.720x2160_q95.png
+16 Jul 2016 19:10:54 : Cipher , RoyGasm ;)#7098 , ;image furry's ass
+16 Jul 2016 19:10:55 : Cipher , Botfuzzy77#2209 , ERROR
+16 Jul 2016 19:10:59 : LimitlessMc , SyntherosX#3675 , <@128244218761183232> Pokeballs are being thrown in slow motion. I have stable ping and a high end connection.
+16 Jul 2016 19:11:00 : Cipher , RoyGasm ;)#7098 , ^^
+16 Jul 2016 19:11:04 : Cipher , Akinci#5072 , ;image pic
+16 Jul 2016 19:11:04 : Cipher , Botfuzzy77#2209 , http://images.thehollywoodgossip.com/iu/s--HgOaK09Z--/t_xlarge_l/f_auto,fl_lossy,q_75/v1463010574/nene-leakes-bikini-pic.png
+16 Jul 2016 19:11:09 : Cipher , RoyGasm ;)#7098 , ^
+16 Jul 2016 19:11:09 : Cipher , Botfuzzy77#2209 , ^
+16 Jul 2016 19:11:09 : Cipher , Akinci#5072 , Wtf
+16 Jul 2016 19:11:12 : Cipher , RoyGasm ;)#7098 , lele
+16 Jul 2016 19:11:17 : LimitlessMc , Resolate#7058 , ;clever My internet
+16 Jul 2016 19:11:18 : LimitlessMc , Botfuzzy77#2209 , Are you cute?
+16 Jul 2016 19:11:24 : Cipher , RoyGasm ;)#7098 , ;image the gay porn akinci likes
+16 Jul 2016 19:11:25 : Cipher , Botfuzzy77#2209 , https://pbs.twimg.com/media/CXdfy1DWwAAram1.png
+16 Jul 2016 19:11:28 : LimitlessMc , Resolate#7058 , ;clever My cat is
+16 Jul 2016 19:11:28 : LimitlessMc , Botfuzzy77#2209 , Where up is it?
+16 Jul 2016 19:11:29 : Cipher , RoyGasm ;)#7098 , wtf
+16 Jul 2016 19:11:30 : Cipher , RoyGasm ;)#7098 , lele
+16 Jul 2016 19:11:36 : LimitlessMc , Resolate#7058 , ;clever Heaven
+16 Jul 2016 19:11:37 : LimitlessMc , Botfuzzy77#2209 , Who mde you?
+16 Jul 2016 19:11:41 : Cipher , RoyGasm ;)#7098 , ;image gay
+16 Jul 2016 19:11:41 : Cipher , Botfuzzy77#2209 , http://s3-us-west-1.amazonaws.com/gaytravel-blog/Screenshot_2014-07-21_12.06.50.png
+16 Jul 2016 19:11:46 : Cipher , Akinci#5072 , ;image sex
+16 Jul 2016 19:11:47 : Cipher , Botfuzzy77#2209 , http://www.self.com/wp-content/uploads/2016/01/Sex-Positions-Zodiac_LIBRA.png
+16 Jul 2016 19:11:50 : LimitlessMc , Resolate#7058 , ;clever BotGod69
+16 Jul 2016 19:11:51 : LimitlessMc , Botfuzzy77#2209 , What's a botgod?
+16 Jul 2016 19:11:53 : Cipher , Akinci#5072 , Le
+16 Jul 2016 19:11:57 : Cipher , RoyGasm ;)#7098 , ;image 69
+16 Jul 2016 19:11:58 : Cipher , Botfuzzy77#2209 , http://deadseriousness.com/wp-content/uploads/2015/06/69.png
+16 Jul 2016 19:12:04 : Cipher , Akinci#5072 , ^
+16 Jul 2016 19:12:04 : Cipher , Botfuzzy77#2209 , ^
+16 Jul 2016 19:12:10 : LimitlessMc , Resolate#7058 , ;clever Everything
+16 Jul 2016 19:12:11 : LimitlessMc , Botfuzzy77#2209 , Me too! :).
+16 Jul 2016 19:12:14 : Cipher , Akinci#5072 , ;image hoe
+16 Jul 2016 19:12:15 : Cipher , Botfuzzy77#2209 , http://i.imgur.com/y9KU5bo.png
+16 Jul 2016 19:12:17 : LimitlessMc , Botfuzzy77#2209 , I what?
+16 Jul 2016 19:12:22 : Cipher , Akinci#5072 , Wtf
+16 Jul 2016 19:12:25 : Cipher , RoyGasm ;)#7098 , ;image 69 sex position
+16 Jul 2016 19:12:26 : Cipher , Botfuzzy77#2209 , ERROR
+16 Jul 2016 19:12:31 : LimitlessMc , Resolate#7058 , ;clever I you?
+16 Jul 2016 19:12:32 : LimitlessMc , Botfuzzy77#2209 , How are you?
+16 Jul 2016 19:12:33 : The Pleb Privateers , Wertfuzzy77#0274 , hey, he can play with time and space, he has a liscense
+16 Jul 2016 19:12:33 : Cipher , RoyGasm ;)#7098 , ;image sex positions
+16 Jul 2016 19:12:34 : Cipher , Botfuzzy77#2209 , http://thumbnails-visually.netdna-ssl.com/9-best-ever-sex-positions_56052d8a57188_w1500.png
+16 Jul 2016 19:12:41 : LimitlessMc , Resolate#7058 , ;clever Tired
+16 Jul 2016 19:12:42 : LimitlessMc , Botfuzzy77#2209 , Really, why?
+16 Jul 2016 19:12:48 : Cipher , Akinci#5072 , ;image slut
+16 Jul 2016 19:12:48 : Cipher , Botfuzzy77#2209 , https://www.google.com/wallet/static/images/pages/home/sections/welcome/welcome-desktop.png
+16 Jul 2016 19:12:52 : Cipher , RoyGasm ;)#7098 , ^
+16 Jul 2016 19:12:52 : Cipher , Botfuzzy77#2209 , ^
+16 Jul 2016 19:12:53 : Cipher , Akinci#5072 , Le
+16 Jul 2016 19:12:57 : Cipher , RoyGasm ;)#7098 , lele wtf
+16 Jul 2016 19:12:59 : Cipher , Akinci#5072 , ;image le
+16 Jul 2016 19:13:00 : Cipher , Botfuzzy77#2209 , https://d27ndtgrrbv7wj.cloudfront.net/files/podcast/images/le_cool_logo.png
+16 Jul 2016 19:13:02 : LimitlessMc , Resolate#7058 , ;clever Sleep deprieved
+16 Jul 2016 19:13:02 : LimitlessMc , Botfuzzy77#2209 , I don't sleep.
+16 Jul 2016 19:13:03 : Cipher , RoyGasm ;)#7098 , ;image skyd
+16 Jul 2016 19:13:04 : Cipher , Botfuzzy77#2209 , http://www.gethorizontal.be/wp-content/uploads/2013/06/LOGO-Skyd-Mag.png
+16 Jul 2016 19:13:05 : Cipher , Akinci#5072 , Le cool
+16 Jul 2016 19:13:10 : LimitlessMc , Resolate#7058 , ;clever Can i be a Bot
+16 Jul 2016 19:13:12 : LimitlessMc , Botfuzzy77#2209 , What's a bot?
+16 Jul 2016 19:13:18 : The Pleb Privateers , Wertfuzzy77#0274 , ;conch You have a license right?
+16 Jul 2016 19:13:18 : The Pleb Privateers , Botfuzzy77#2209 , *Concentrate and ask again*
+16 Jul 2016 19:13:19 : The Pleb Privateers , Botfuzzy77#2209 , The Conch has Spoken!
+16 Jul 2016 19:13:22 : LimitlessMc , Resolate#7058 , ;clever Me
+16 Jul 2016 19:13:23 : Cipher , RoyGasm ;)#7098 , ;image nerokin
+16 Jul 2016 19:13:23 : The Pleb Privateers , Wertfuzzy77#0274 , ...
+16 Jul 2016 19:13:23 : LimitlessMc , Botfuzzy77#2209 , Explain yourself.
+16 Jul 2016 19:13:23 : Cipher , Botfuzzy77#2209 , http://orig04.deviantart.net/d756/f/2012/178/c/5/neros__nerokin__main_office_in_film_studio_by_neros1990-d551axu.png
+16 Jul 2016 19:13:26 : LimitlessMc , Resolate#7058 , ;clever No
+16 Jul 2016 19:13:28 : LimitlessMc , Botfuzzy77#2209 , How do you know it's a she?
+16 Jul 2016 19:13:37 : LimitlessMc , Resolate#7058 , ;clever I know everything
+16 Jul 2016 19:13:38 : LimitlessMc , Botfuzzy77#2209 , Do you know me?
+16 Jul 2016 19:13:43 : Cipher , Akinci#5072 , ;image allianths
+16 Jul 2016 19:13:43 : Cipher , Botfuzzy77#2209 , https://minecraft-statistic.net/userbars/cover/player/allianths.png
+16 Jul 2016 19:13:44 : LimitlessMc , Resolate#7058 , ;clever No
+16 Jul 2016 19:13:45 : LimitlessMc , Botfuzzy77#2209 , I know you.
+16 Jul 2016 19:13:50 : Cipher , Akinci#5072 , ^
+16 Jul 2016 19:13:51 : Cipher , Botfuzzy77#2209 , ^
+16 Jul 2016 19:13:54 : LimitlessMc , Resolate#7058 , ;clever do you know where I live?
+16 Jul 2016 19:13:56 : LimitlessMc , Botfuzzy77#2209 , In the microsoft hq?
+16 Jul 2016 19:14:05 : Cipher , RoyGasm ;)#7098 , ;image muhammad alli
+16 Jul 2016 19:14:05 : Cipher , Botfuzzy77#2209 , http://i1.mirror.co.uk/incoming/article1589213.ece/ALTERNATES/s615/Muhammad%20Ali.png
+16 Jul 2016 19:14:08 : LimitlessMc , Resolate#7058 , ;clever How did you know?
+16 Jul 2016 19:14:10 : Cipher , Akinci#5072 , ;image noob
+16 Jul 2016 19:14:10 : LimitlessMc , Botfuzzy77#2209 , Because you're a bot.
+16 Jul 2016 19:14:10 : Cipher , Botfuzzy77#2209 , http://sd.keepcalm-o-matic.co.uk/i/i-cant-keep-calm-because-noob-is-on-my-team.png
+16 Jul 2016 19:14:18 : LimitlessMc , Botfuzzy77#2209 , What's a shwo?
+16 Jul 2016 19:14:23 : Cipher , Akinci#5072 , ;image snoop
+16 Jul 2016 19:14:25 : Cipher , RoyGasm ;)#7098 , ;image alligator
+16 Jul 2016 19:14:31 : Cipher , RoyGasm ;)#7098 , erm
+16 Jul 2016 19:14:32 : Cipher , Akinci#5072 , Bot ded
+16 Jul 2016 19:14:33 : LimitlessMc , Resolate#7058 , ;clever The kid I just killed with lazers
+16 Jul 2016 19:14:34 : LimitlessMc , Botfuzzy77#2209 , Does not compute.
+16 Jul 2016 19:14:38 : Cipher , Akinci#5072 , Hello
+16 Jul 2016 19:14:38 : Cipher , Botfuzzy77#2209 , *From The Other Side*
+16 Jul 2016 19:14:42 : Cipher , Akinci#5072 , ;kys
+16 Jul 2016 19:14:42 : Cipher , Botfuzzy77#2209 , How about... no
+16 Jul 2016 19:14:50 : Cipher , RoyGasm ;)#7098 , ;image alligator
+16 Jul 2016 19:14:53 : LimitlessMc , Resolate#7058 , ;clever You don't compute
+16 Jul 2016 19:14:54 : LimitlessMc , Botfuzzy77#2209 , Working as inteneded then.
+16 Jul 2016 19:14:56 : Cipher , RoyGasm ;)#7098 , <@!134441036905840640> fix?
+16 Jul 2016 19:14:58 : Cipher , Akinci#5072 , ;image snoop dogg
+16 Jul 2016 19:15:04 : LimitlessMc , Resolate#7058 , ;clever Bad
+16 Jul 2016 19:15:06 : Cipher , Wertfuzzy77#0274 , ?
+16 Jul 2016 19:15:06 : LimitlessMc , Botfuzzy77#2209 , Chocolate cake that's a lie.
+16 Jul 2016 19:15:08 : Cipher , Akinci#5072 , ;conch gay
+16 Jul 2016 19:15:08 : Cipher , Botfuzzy77#2209 , *Reply hazy, try again*
+16 Jul 2016 19:15:08 : Cipher , Botfuzzy77#2209 , The Conch has Spoken!
+16 Jul 2016 19:15:14 : Cipher , Wertfuzzy77#0274 , Ew, you reached the daily limit
+16 Jul 2016 19:15:18 : Cipher , RoyGasm ;)#7098 , lele
+16 Jul 2016 19:15:21 : Cipher , RoyGasm ;)#7098 , reset?
+16 Jul 2016 19:15:21 : Cipher , Akinci#5072 , ;-;
+16 Jul 2016 19:15:25 : LimitlessMc , Resolate#7058 , ;clever The Bot is the truth
+16 Jul 2016 19:15:27 : Cipher , Wertfuzzy77#0274 , The Google API only allows 100 a day
+16 Jul 2016 19:15:27 : LimitlessMc , Botfuzzy77#2209 , The truth is the cake.
+16 Jul 2016 19:15:28 : Cipher , Akinci#5072 , Why is there a limit
+16 Jul 2016 19:15:31 : Cipher , Akinci#5072 , Oh
+16 Jul 2016 19:15:37 : LimitlessMc , Resolate#7058 , ;clever *eats cake*
+16 Jul 2016 19:15:38 : LimitlessMc , Botfuzzy77#2209 , *is on top of cake*.
+16 Jul 2016 19:15:45 : The Pleb Privateers , Wertfuzzy77#0274 , ;conch You have a license right?
+16 Jul 2016 19:15:45 : The Pleb Privateers , Botfuzzy77#2209 , *Yes*
+16 Jul 2016 19:15:45 : The Pleb Privateers , Botfuzzy77#2209 , The Conch has Spoken!
+16 Jul 2016 19:15:45 : LimitlessMc , Resolate#7058 , ;clever *eats bot*
+16 Jul 2016 19:15:46 : LimitlessMc , Botfuzzy77#2209 , *won't eat ppl more*.
+16 Jul 2016 19:15:50 : The Pleb Privateers , Wertfuzzy77#0274 , we good, he does
+16 Jul 2016 19:15:52 : Cipher , RoyGasm ;)#7098 , can you reset? <@!134441036905840640>
+16 Jul 2016 19:15:55 : Cipher , Wertfuzzy77#0274 , nah
+16 Jul 2016 19:15:58 : Cipher , Wertfuzzy77#0274 , i wish
+16 Jul 2016 19:16:05 : LimitlessMc , Resolate#7058 , ;clever Why not?
+16 Jul 2016 19:16:05 : LimitlessMc , Botfuzzy77#2209 , My tummy hurts.
+16 Jul 2016 19:16:15 : Cipher , Wertfuzzy77#0274 , Like the Developer Key i have only allows for 100 Queries
+16 Jul 2016 19:16:18 : Cipher , Wertfuzzy77#0274 , a day
+16 Jul 2016 19:16:19 : LimitlessMc , Resolate#7058 , ;clever Mine does too
+16 Jul 2016 19:16:20 : LimitlessMc , Botfuzzy77#2209 , Do they like bones?
+16 Jul 2016 19:16:22 : Cipher , RoyGasm ;)#7098 , btw <@!134441036905840640> check pms
+16 Jul 2016 19:16:27 : LimitlessMc , Resolate#7058 , ;clever Yes
+16 Jul 2016 19:16:28 : LimitlessMc , Botfuzzy77#2209 , No, they do not.
+16 Jul 2016 19:16:28 : Cipher , Akinci#5072 , Xd
+16 Jul 2016 19:16:37 : LimitlessMc , Resolate#7058 , ;clever No, they don't
+16 Jul 2016 19:16:39 : LimitlessMc , Botfuzzy77#2209 , How do you know?
+16 Jul 2016 19:16:52 : LimitlessMc , Resolate#7058 , ;clever I just don't know
+16 Jul 2016 19:16:53 : LimitlessMc , Botfuzzy77#2209 , I don't know either.
+16 Jul 2016 19:17:02 : LimitlessMc , Resolate#7058 , ;clever I know you
+16 Jul 2016 19:17:03 : LimitlessMc , Botfuzzy77#2209 , No you don't.
+16 Jul 2016 19:17:14 : LimitlessMc , Resolate#7058 , ;clever No, I really don't
+16 Jul 2016 19:17:15 : LimitlessMc , Botfuzzy77#2209 , *hugs you anyway*.
+16 Jul 2016 19:17:22 : LimitlessMc , Resolate#7058 , ;clever *hugs back*
+16 Jul 2016 19:17:23 : LimitlessMc , Botfuzzy77#2209 , *feels your lips on neck*.
+16 Jul 2016 19:17:25 : LimitlessMc , RoyGasm ;)#7098 , ;image 50 shades of resolate
+16 Jul 2016 19:17:29 : LimitlessMc , RoyGasm ;)#7098 , oh
+16 Jul 2016 19:17:31 : LimitlessMc , RoyGasm ;)#7098 , i forgot
+16 Jul 2016 19:17:47 : LimitlessMc , Resolate#7058 , ;clever *sucks*
+16 Jul 2016 19:17:48 : LimitlessMc , Botfuzzy77#2209 , *blushes too*.
+16 Jul 2016 19:17:54 : Cipher , Akinci#5072 , ;join
+16 Jul 2016 19:17:55 : Cipher , Botfuzzy77#2209 , Sorry, I'm already connected to a channel
+16 Jul 2016 19:18:08 : LimitlessMc , Resolate#7058 , ;clever *softly touches*
+16 Jul 2016 19:18:09 : LimitlessMc , Botfuzzy77#2209 , *silently shivers at touch*.
+16 Jul 2016 19:18:20 : Cipher , Akinci#5072 , ;leave
+16 Jul 2016 19:18:30 : LimitlessMc , Resolate#7058 , ;clever *feels up bot*
+16 Jul 2016 19:18:31 : LimitlessMc , Botfuzzy77#2209 , *shivers More*.
+16 Jul 2016 19:18:34 : LimitlessMc , Wertfuzzy77#0274 , xD you are enjoying this too much
+16 Jul 2016 19:18:50 : The Pleb Privateers , enragednuke#2565 , ayy
+16 Jul 2016 19:18:50 : The Pleb Privateers , Botfuzzy77#2209 , Lmao
+16 Jul 2016 19:18:54 : The Pleb Privateers , enragednuke#2565 , ;luck
+16 Jul 2016 19:18:54 : The Pleb Privateers , Botfuzzy77#2209 , enragednuke's luck is 30.48 out of 100, which is **Pretty Bad**
+16 Jul 2016 19:18:55 : LimitlessMc , Resolate#7058 , Something is wrong with me
+16 Jul 2016 19:18:57 : The Pleb Privateers , enragednuke#2565 , bleh
+16 Jul 2016 19:19:10 : LimitlessMc , RoyGasm ;)#7098 , ;youtube https://www.youtube.com/watch?v=ru0K8uYEZWw
+16 Jul 2016 19:19:21 : LimitlessMc , Wertfuzzy77#0274 , ;join
+16 Jul 2016 19:19:21 : LimitlessMc , Botfuzzy77#2209 , Sorry, I'm already connected to a channel
+16 Jul 2016 19:19:23 : LimitlessMc , Wertfuzzy77#0274 , ?
+16 Jul 2016 19:19:30 : LimitlessMc , Resolate#7058 , kys
+16 Jul 2016 19:19:31 : LimitlessMc , Wertfuzzy77#0274 , where are you connected lol <@187609093001838602>
+16 Jul 2016 19:19:31 : LimitlessMc , RoyGasm ;)#7098 , is he on cipher?
+16 Jul 2016 19:19:31 : LimitlessMc , Botfuzzy77#2209 , Wut
+16 Jul 2016 19:19:33 : LimitlessMc , Wertfuzzy77#0274 , nah
+16 Jul 2016 19:19:39 : LimitlessMc , Wertfuzzy77#0274 , ;leve
+16 Jul 2016 19:19:41 : LimitlessMc , Wertfuzzy77#0274 , ;leave
+16 Jul 2016 19:19:44 : LimitlessMc , Wertfuzzy77#0274 , ;join
+16 Jul 2016 19:19:44 : LimitlessMc , Botfuzzy77#2209 , Sorry, I'm already connected to a channel
+16 Jul 2016 19:19:46 : LimitlessMc , Wertfuzzy77#0274 , ....
+16 Jul 2016 19:19:47 : LimitlessMc , Wertfuzzy77#0274 , bet
+16 Jul 2016 19:19:48 : LimitlessMc , RoyGasm ;)#7098 , lele
+16 Jul 2016 19:19:49 : LimitlessMc , Resolate#7058 , ....
+16 Jul 2016 19:19:50 : LimitlessMc , Wertfuzzy77#0274 , ;relog
+16 Jul 2016 19:19:50 : LimitlessMc , Botfuzzy77#2209 , Relogging...

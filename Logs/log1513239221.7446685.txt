@@ -1,0 +1,22 @@
+14 Dec 2017 08:13:51 : FAM, off-topic, darth kota#9446, ;topic whose mans
+14 Dec 2017 08:13:52 : FAM, off-topic, darthbot98#5182, set!
+14 Dec 2017 08:14:06 : FAM, off-topic, darth kota#9446, ;poll1 Waffles
+14 Dec 2017 08:14:06 : FAM, off-topic, darthbot98#5182, set!
+14 Dec 2017 08:14:06 : FAM, off-topic, darthbot98#5182, ('Waffles',)
+14 Dec 2017 08:14:19 : FAM, off-topic, darth kota#9446, ;poll2 reloaded
+14 Dec 2017 08:14:19 : FAM, off-topic, darthbot98#5182, set!
+14 Dec 2017 08:14:27 : FAM, off-topic, darth kota#9446, ;poll3 darth
+14 Dec 2017 08:14:27 : FAM, off-topic, darthbot98#5182, set!
+14 Dec 2017 08:14:35 : FAM, off-topic, darth kota#9446, ;startpoll
+14 Dec 2017 08:14:35 : FAM, off-topic, darthbot98#5182, whosemans
+14 Dec 2017 08:14:35 : FAM, off-topic, darthbot98#5182, :one: Waffles
+14 Dec 2017 08:14:35 : FAM, off-topic, darthbot98#5182, :two: reloaded
+14 Dec 2017 08:14:35 : FAM, off-topic, darthbot98#5182, :three: darth
+14 Dec 2017 08:19:48 : FAM, off-topic, darth kota#9446, ;status
+14 Dec 2017 08:19:50 : FAM, off-topic, darthbot98#5182, 
+14 Dec 2017 08:24:15 : FAM, off-topic, darth kota#9446, ;startpoll
+14 Dec 2017 08:24:15 : FAM, off-topic, darthbot98#5182, whosemans
+14 Dec 2017 08:24:15 : FAM, off-topic, darthbot98#5182, :one: Waffles
+14 Dec 2017 08:24:15 : FAM, off-topic, darthbot98#5182, :two: reloaded
+14 Dec 2017 08:24:15 : FAM, off-topic, darthbot98#5182, :three: darth
+14 Dec 2017 08:24:22 : FAM, off-topic, darth kota#9446, ;relog

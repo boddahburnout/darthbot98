@@ -1,0 +1,138 @@
+17 Jun 2016 02:00:17 : LimitlessMc , Wertfuzzy77#0274 , !fml
+17 Jun 2016 02:00:20 : LimitlessMc , GioHyzero(Lugia)#8149 , !fml
+17 Jun 2016 02:00:22 : LimitlessMc , Botfuzzy77#2926 , *Today, my husband was going to let me sleep in for Mother's Day. That would have been great, if my brother didn't call me at 5:30 in the morning to say Happy Mother's Day. Now I'm up like any other day. FML*
+17 Jun 2016 02:00:23 : LimitlessMc , Botfuzzy77#2926 , *Today, I noticed my kitten was growling and twitching in his sleep. I tried to wake him up by gently prodding him. He responded by waking up and attacking my face. FML*
+17 Jun 2016 02:00:30 : LimitlessMc , Wertfuzzy77#0274 , oh, ok, is just slow
+17 Jun 2016 02:00:56 : LimitlessMc , Mank#0033 , !fml
+17 Jun 2016 02:01:01 : LimitlessMc , Botfuzzy77#2926 , *Today, I yelled at my boyfriend for smoking in the house, because I didn't want the house to smell like smoke. While doing so, I knocked over a candle and lit the couch on fire. FML*
+17 Jun 2016 02:01:09 : LimitlessMc , Wertfuzzy77#0274 , my internet is slow for some reason
+17 Jun 2016 02:01:18 : LimitlessMc , Mank#0033 , have only fml be useable command in main chat
+17 Jun 2016 02:01:28 : LimitlessMc , Wertfuzzy77#0274 , not botchat?
+17 Jun 2016 02:01:31 : LimitlessMc , Mank#0033 , and others you think are important
+17 Jun 2016 02:01:34 : LimitlessMc , Wertfuzzy77#0274 , oh, only this cmd
+17 Jun 2016 02:01:36 : LimitlessMc , Wertfuzzy77#0274 , got it
+17 Jun 2016 02:01:56 : LimitlessMc , Mank#0033 , !youtube pepe frog
+17 Jun 2016 02:02:04 : LimitlessMc , Wertfuzzy77#0274 , how about lets exclude ones we done want
+17 Jun 2016 02:02:12 : LimitlessMc , Wertfuzzy77#0274 , which ones should i disable?
+17 Jun 2016 02:02:17 : LimitlessMc , Mank#0033 , most
+17 Jun 2016 02:02:24 : LimitlessMc , Wertfuzzy77#0274 , !help
+17 Jun 2016 02:02:26 : LimitlessMc , Wertfuzzy77#0274 , name em
+17 Jun 2016 02:02:26 : (MUTED PLAYER)-LimitlessMc , Gerald#7099 , 
+Hello, I am Gerald, the channel Bot. I can do many things, I can even be extended by plugins (weehee).
+
+Current commands: (note that arguments in <> are required, those in [] not)
+  - !clean  : lets me purge messages, options below
+    - !clean lets me purge the last 50 messages
+    - !clean <number> does the same for n messages (no maximum :P)
+    - !clean infinite removes messages until !kill, even the end of the channel doesn't seem like the limit
+    - !clean images deletes any message containing either a link to a jpg, !meme or an attachment
+    - !clean <string> removes every message containing the string
+    - !clean @someone cleans @someones messages in the last 100
+  - <@158641216311787520> (<@!158641216311787520>)  : Talk with me :)
+  - !help (!info) : Prints the help
+  - !kill : Kills me and lets me (hopefully) respawn instantly
+  - !ping (!pong) : Ping Pong
+  - !invite : Add me to your server
+  - !dropbox <secret> : Register Dropbox. Go to http://ultramc.org:8087/dropbox/authorize
+  - !id <beginning of name> : Outputs their internal id
+  - !serverid : Prints this server's id
+  - !channelid : Let me output the id of thid channel
+  - !roleids : Lists all roles with their ids
+  - !mention <role name> : Mentions everyone in that role
+  - !permissions <username> : Lists all permissions the spefific user has in this channel
+  - !meme <text you wanna write> : Generate a funny image
+  - !play <name> : Plays a specific song from soundcloud
+  - !youtube <name> : Plays a specific song from youtube. Can also be a url
+  - !twitch <name> : Streams from twitch.tv
+  - !pause : Pauses playback
+  - !stop : Stops playback and empties the queue
+  - !queue : Prints the current queue
+  - !shufflequeue : Shuffles the queue
+  - !flushqueue : Empties the queue
+  - !skip : Skips the current song
+  - !replay : Adds the current playing song to the queue
+  - !webplayer : Outputs your personal webplayer url
+17 Jun 2016 02:02:27 : (MUTED PLAYER)-LimitlessMc , Gerald#7099 , 
+  - !resetsecret : Resets your webplayer secret in case you lost it
+  - !stats  : Outputs which users wrote the most in this channel
+  - !words  : Outputs which users wrote the most words in this channel
+  - !topwords  : Sends the most common words in this channel
+  - !suspicious  : NSA-like who should be tracked a bit more :)
+  - !weblog  : The channel's weblog for easy search in the browser
+  - !punchcard  : The channel's punchcard - when are people active in here
+  - !rate [@mention] : outputs my rating for a user
+  - !luck [@mention] : outputs the luck of a user today
+  - !nowelcome  : Disables the welcome message for this server
+  - !dowelcome  : Enables the welcome message again
+17 Jun 2016 02:02:30 : LimitlessMc , Wertfuzzy77#0274 , NO GO AWAY GERALD
+17 Jun 2016 02:02:43 : LimitlessMc , Nalk Xulk Uk Eht#7098 , no pls <@134441036905840640>
+17 Jun 2016 02:02:48 : LimitlessMc , Nalk Xulk Uk Eht#7098 , gerald is bae
+17 Jun 2016 02:02:53 : LimitlessMc , GioHyzero(Lugia)#8149 , Go drink bleach <@158641216311787520>
+17 Jun 2016 02:02:53 : LimitlessMc , Nalk Xulk Uk Eht#7098 , wtf is this <@151438890107011072>
+17 Jun 2016 02:03:01 : LimitlessMc , Mank#0033 , keep kiss kill hug slap mute unmute fml
+17 Jun 2016 02:03:03 : LimitlessMc , Wertfuzzy77#0274 , how about just the ;Flavor Text' ones?
+17 Jun 2016 02:03:14 : LimitlessMc , Wertfuzzy77#0274 , ill move all those into that catagory
+17 Jun 2016 02:03:21 : LimitlessMc , GioHyzero(Lugia)#8149 , !prize
+17 Jun 2016 02:03:22 : LimitlessMc , Botfuzzy77#2926 , https://gist.github.com/77Wertfuzzy77/30567d6ea547adce48042b86eec0573d
+17 Jun 2016 02:03:22 : LimitlessMc , Wertfuzzy77#0274 , and include only those for main chat
+17 Jun 2016 02:03:27 : LimitlessMc , Mank#0033 , !youtube el chapo the game
+17 Jun 2016 02:03:33 : LimitlessMc , Mank#0033 , !skip
+17 Jun 2016 02:03:45 : LimitlessMc , Nalk Xulk Uk Eht#7098 , !youtube stroke
+17 Jun 2016 02:04:03 : LimitlessMc , Wertfuzzy77#0274 , oh btw <@151438890107011072>  i was just gonna make Staff members have access to all cmds everywhere, so done need to include mute or unmute
+17 Jun 2016 02:04:03 : LimitlessMc , GioHyzero(Lugia)#8149 , Dude no <@151163520120127488>
+17 Jun 2016 02:04:16 : LimitlessMc , Nalk Xulk Uk Eht#7098 , ur not even in the chat <@190928285532815361>
+17 Jun 2016 02:04:17 : LimitlessMc , Mank#0033 , okei
+17 Jun 2016 02:05:09 : LimitlessMc , MGirard#3037 , Any possibility of getting back the stuff that was lost in the rollback last restart?
+17 Jun 2016 02:05:19 : LimitlessMc , Nalk Xulk Uk Eht#7098 , <@151438890107011072> "playing club penguin"
+17 Jun 2016 02:05:23 : LimitlessMc , MGirard#3037 , Correction: the restart before last.
+17 Jun 2016 02:05:25 : LimitlessMc , Wertfuzzy77#0274 , i would log on, but tired
+17 Jun 2016 02:05:33 : LimitlessMc , Mank#0033 , i would log on but dont want to
+17 Jun 2016 02:05:41 : LimitlessMc , Mank#0033 , same
+17 Jun 2016 02:05:45 : LimitlessMc , GioHyzero(Lugia)#8149 , Wert u didnt fix our ranches <@134441036905840640>
+17 Jun 2016 02:05:46 : LimitlessMc , MGirard#3037 , Hey Mank, you remember that fire stone armor I was wearing earlier?
+17 Jun 2016 02:05:48 : LimitlessMc , Nalk Xulk Uk Eht#7098 , no one wants you on <@151438890107011072>
+17 Jun 2016 02:05:50 : LimitlessMc , Mank#0033 , yes
+17 Jun 2016 02:05:53 : LimitlessMc , Mank#0033 , stfu roy
+17 Jun 2016 02:06:00 : LimitlessMc , Wertfuzzy77#0274 , ik, i had to help move a 150 Lb Glass Table
+17 Jun 2016 02:06:01 : LimitlessMc , Mank#0033 , go steal with hoppers
+17 Jun 2016 02:06:09 : LimitlessMc , Nalk Xulk Uk Eht#7098 , too much cuss words <@151438890107011072>
+17 Jun 2016 02:06:14 : LimitlessMc , Nalk Xulk Uk Eht#7098 , lmao this song
+17 Jun 2016 02:06:16 : LimitlessMc , GioHyzero(Lugia)#8149 , <@134441036905840640>  so you wont fix it tonight?
+17 Jun 2016 02:06:30 : LimitlessMc , Mank#0033 , !youtube yo no se manana
+17 Jun 2016 02:06:36 : LimitlessMc , Mank#0033 , !skip
+17 Jun 2016 02:06:43 : LimitlessMc , Mank#0033 , this song for u roy
+17 Jun 2016 02:07:12 : LimitlessMc , Nalk Xulk Uk Eht#7098 , !youtube ur so gay
+17 Jun 2016 02:07:17 : LimitlessMc , Nalk Xulk Uk Eht#7098 , that for u <@151438890107011072>
+17 Jun 2016 02:07:18 : LimitlessMc , MGirard#3037 , The server says you're online Wert.
+17 Jun 2016 02:07:19 : LimitlessMc , Nalk Xulk Uk Eht#7098 , !skip
+17 Jun 2016 02:07:31 : LimitlessMc , Mank#0033 , !skip
+17 Jun 2016 02:07:33 : LimitlessMc , Wertfuzzy77#0274 , just logged in
+17 Jun 2016 02:07:42 : LimitlessMc , Nalk Xulk Uk Eht#7098 , <@151438890107011072> that's actually a song
+17 Jun 2016 02:07:57 : LimitlessMc , Mank#0033 , its about you
+17 Jun 2016 02:08:10 : LimitlessMc , Nalk Xulk Uk Eht#7098 , hey!, i made that joke first
+17 Jun 2016 02:08:14 : LimitlessMc , Nalk Xulk Uk Eht#7098 , get your own
+17 Jun 2016 02:08:27 : LimitlessMc , Mank#0033 , nah you said this song is for me
+17 Jun 2016 02:08:31 : LimitlessMc , Mank#0033 , the song is about you
+17 Jun 2016 02:08:41 : LimitlessMc , Mank#0033 , #gottem
+17 Jun 2016 02:08:43 : LimitlessMc , Nalk Xulk Uk Eht#7098 , !youtube bet
+17 Jun 2016 02:09:19 : LimitlessMc , Mank#0033 , !skip
+17 Jun 2016 02:09:22 : LimitlessMc , Mank#0033 , lele
+17 Jun 2016 02:09:42 : LimitlessMc , Nalk Xulk Uk Eht#7098 , this for u <@151438890107011072>
+17 Jun 2016 02:09:47 : LimitlessMc , Nalk Xulk Uk Eht#7098 , !youtube https://www.youtube.com/watch?v=8sxdUTVclnc
+17 Jun 2016 02:10:00 : LimitlessMc , Mank#0033 , !youtube mlg pingu
+17 Jun 2016 02:10:16 : LimitlessMc , Nalk Xulk Uk Eht#7098 , !youtube PINGAS!
+17 Jun 2016 02:10:19 : LimitlessMc , Nalk Xulk Uk Eht#7098 , !queue
+17 Jun 2016 02:10:20 : (MUTED PLAYER)-LimitlessMc , Gerald#7099 , I will play the following songs
+  - Pingu No-Scopes His Parents
+17 Jun 2016 02:10:21 : LimitlessMc , Mank#0033 , !skip
+17 Jun 2016 02:10:37 : LimitlessMc , Nalk Xulk Uk Eht#7098 , !skip
+17 Jun 2016 02:10:58 : LimitlessMc , Mank#0033 , !skip
+17 Jun 2016 02:11:15 : LimitlessMc , Nalk Xulk Uk Eht#7098 , !youtube roar
+17 Jun 2016 02:13:29 : LimitlessMc , Nalk Xulk Uk Eht#7098 , <@151438890107011072> what ur club penguin? Mine is : queef911
+17 Jun 2016 02:14:15 : LimitlessMc , Mank#0033 , mine is : fuckoff
+17 Jun 2016 02:14:37 : LimitlessMc , Nalk Xulk Uk Eht#7098 , k, sent you a friend request
+17 Jun 2016 02:16:05 : Cipher , Skyd#9935 , 
+17 Jun 2016 02:16:08 : LimitlessMc , Nalk Xulk Uk Eht#7098 , !youtube darude - sandstorm
+17 Jun 2016 02:16:10 : Cipher , Skyd#9935 , That's Henry 
+17 Jun 2016 02:16:18 : LimitlessMc , Nalk Xulk Uk Eht#7098 , !meme best meme 2015
+17 Jun 2016 02:16:19 : (MUTED PLAYER)-LimitlessMc , Gerald#7099 , http://i.imgflip.com/15z3bs.jpg

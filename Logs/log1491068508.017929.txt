@@ -1,0 +1,1566 @@
+01 Apr 2017 17:42:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+01 Apr 2017 17:42:01 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 39 **Shuckle** for 508 XP (39% to beat)
+You *Lost* to a Level 36 **Teddiursa** (43% to beat)
+You *Lost* to a Level 58 **Leafeon** (26% to beat)
+You **Beat** a Level 32 **Escavalier** for 342 XP (48% to beat)
+You **Beat** a Level 21 **Drapion** for 148 XP (73% to beat)
+You **Beat** a Level 24 **Togepi** for 193 XP (64% to beat)
+You *Lost* to a Level 53 **Butterfree** (29% to beat)
+You **Beat** a Level 31 **Stantler** for 321 XP (50% to beat)
+You *Lost* to a Level 47 **Lunatone** (32% to beat)
+You Find a **Pokeloot** worth 820 XP
+01 Apr 2017 17:42:01 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 2332 (+ 233) XP
+01 Apr 2017 17:42:13 : LimitlessMc, botchat, Wertfuzzy77#0274, It didnt load the games module properly
+01 Apr 2017 17:47:58 : LimitlessMc, botchat, TherminatorX#6644, ;train like never before
+01 Apr 2017 17:47:58 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 69 **Solosis** for 1,588 XP (31% to beat)
+You *Lost* to a Level 36 **Sharpedo** (61% to beat)
+You *Lost* to a Level 78 **Zweilous** (28% to beat)
+You **Beat** a Level 38 **Donphan** for 482 XP (57% to beat)
+You **Beat** a Level 26 **Carvanha** for 226 XP (84% to beat)
+You *Lost* to a Level 60 **Galvantula** (36% to beat)
+You **Beat** a Level 34 **Liepard** for 386 XP (64% to beat)
+You **Beat** a Level 65 **Swalot** for 1,409 XP (33% to beat)
+You *Lost* to a Level 60 **Barbaracle** (36% to beat)
+You *Lost* to a Level 61 **Dewgong** (36% to beat)
+You **Beat** a Level 71 **Espeon** for 1,681 XP (30% to beat)
+You **Beat** a Level 24 **Virizion** for 193 XP (90% to beat)
+01 Apr 2017 17:47:59 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 5965 (+ 1252) XP
+01 Apr 2017 17:48:22 : LimitlessMc, botchat, TherminatorX#6644, ;pokebattle bbbbbbbb
+01 Apr 2017 17:48:22 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 49 Boss **Cranidos** has appeared in the Medium zone!
+It has 52,920 Health.
+01 Apr 2017 17:48:22 : LimitlessMc, botchat, Botfuzzy77#2209, 
+01 Apr 2017 17:48:23 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b:
+:x: :x: :x: :x: :x: :x: :x: :x:
+01 Apr 2017 17:48:23 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+Your moves did **1** damage
+01 Apr 2017 17:48:23 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 1 (+ 0) XP
+01 Apr 2017 17:48:28 : LimitlessMc, botchat, Botfuzzy77#2209, Level 49 Boss **Cranidos** has 52,919 health left.
+01 Apr 2017 17:51:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pbt iiiiiiii
+01 Apr 2017 17:51:22 : LimitlessMc, botchat, Botfuzzy77#2209, Level 49 Boss **Cranidos** in Medium has 52,919 health left.
+01 Apr 2017 17:51:22 : LimitlessMc, botchat, Botfuzzy77#2209, 
+01 Apr 2017 17:51:22 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i:
+:white_check_mark: :x: :x: :x: :x: :x: :x: :x:
+01 Apr 2017 17:51:22 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **45** damage
+01 Apr 2017 17:51:22 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 9 (+ 0) XP
+01 Apr 2017 17:51:23 : LimitlessMc, botchat, Wertfuzzy77#0274, 😛
+01 Apr 2017 17:51:26 : LimitlessMc, botchat, Wertfuzzy77#0274, aliases
+01 Apr 2017 17:51:28 : LimitlessMc, botchat, Botfuzzy77#2209, Level 49 Boss **Cranidos** has 52,874 health left.
+01 Apr 2017 17:58:32 : LimitlessMc, botchat, Ankorzz#4034, ;train
+01 Apr 2017 17:59:13 : LimitlessMc, botchat, Ankorzz#4034, ;start
+01 Apr 2017 17:59:20 : LimitlessMc, botchat, Ankorzz#4034, ;help
+01 Apr 2017 17:59:21 : None, Direct Message with Ankorzz, Botfuzzy77#2209, ```
+A Bot whose sole Purpose is to serve Wertfuzzy77! Version 0.15.1.3
+(Created by Wertfuzzy77)
+
+FlavorTexts:
+  wyr            
+  gif            Returns the First Found Image on Google Images for this Input
+  fml            Returns a Random Post from fmylife.com
+  image          Returns the First Found Image on Google Images for this Input
+  choose         Chooses from a set of things
+  kiss           Adds Emotion
+  hates          Adds Emotion
+  conch          Ask the Magic Conch a Question
+  luck           Returns the Player's Luck
+  loves          Adds Emotion
+  lmgtfy         Returns a Link to a "Let me Google That For You" Page
+  likes          Adds Emotion
+  hug            Adds Emotion
+  kill           Adds Emotion
+  rps            Allows the player to play Rock, Paper, Scissors with the Bot...
+  funify         Funifies a given text input
+  rate           Rates the Player
+  slap           Adds Emotion
+  kys            
+Games:
+  gamble         
+  ranking        
+  train          Fights Pokemon for XP
+  pokehelp       Pokemon Battle Sim Help
+  pokebattle     Fights a Pokemon Boss
+  pokeboss       Displays Boss Info
+  lookup         Displays your Current Information
+  types          
+  level          Displays your Current Information
+  pokedex        
+  prestige       
+  settype        
+  cooldown       Shows your Cooldowns
+MusicPlayer:
+  Radio          Enables Radio Mode
+  youtube        Adds a Song for the Bot to Play
+  songs          Prints the songs in the queue
+  music          Returns the current status of the Music Bot
+  viewplaylist   Views the songs of a playlists
+  join           Joins the Voice channel you are currently in
+  playlist       Adds songs from a predefined playlist to the songs list
+  skip           Skips the Current song
+  remove         removes a song from a queue by index
+  loop           Plays the current song again
+  desc           Decription of the Current playing song
+  shuffle        Shuffles the songs the queue
+```
+01 Apr 2017 17:59:21 : None, Direct Message with Ankorzz, Botfuzzy77#2209, ```
+  clear          Clears the Queue
+  leave          Leaves the Join chat
+  search         Searches for a song
+  song           Returns information about the current playing song
+  recommend      Allow the bot to add up to 5 songs to the queue to have infi...
+  extendplaylist Extends a custom playlist
+  playlists      Shows all the current playlists
+  makeplaylist   Makes a custom playlist for the bot to save
+StaffCmds:
+  unmuteall      Unmutes ALL muted players
+  tempmute       
+  mutelist       
+  unmute         
+  mute           
+​No Category:
+  help           Shows this message.
+  changeIcon     
+  ev             
+  feedback       Returns a link to a Google Forums, where you can leave feedb...
+  pokemon        Returns Links to Pokemon pages
+  invite         Returns a Link to the Invite URL for this bot
+  cleverbot      
+  source         Returns a link to the source code for this bot
+  afk            Sets you as AFK, and the Bot will auto Reply for you with th...
+  joined         Says when a member joined.
+  server         Returns Information on the Limitless MC server!
+  status         Returns the Status of the Bot, along with Additional Informa...
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+01 Apr 2017 17:59:55 : LimitlessMc, botchat, Ankorzz#4034, .train
+01 Apr 2017 17:59:56 : LimitlessMc, botchat, LightBot#4090, You must be Level 10 to use ;train
+01 Apr 2017 18:00:20 : LimitlessMc, botchat, Ankorzz#4034, .level
+01 Apr 2017 18:00:20 : LimitlessMc, botchat, LightBot#4090, **Name**: *Ankorzz*
+**Level**: 0
+**XP**: 0/1
+**Boss Takedowns**: 0
+**Most Dmg in an Attack**: 0
+01 Apr 2017 18:00:28 : LimitlessMc, botchat, Ankorzz#4034, .play
+01 Apr 2017 18:00:34 : LimitlessMc, botchat, Ankorzz#4034, .luck
+01 Apr 2017 18:00:34 : LimitlessMc, botchat, LightBot#4090, Ankorzz's luck is 10.65 out of 100, which is **Completly Horrible**
+01 Apr 2017 18:01:16 : LimitlessMc, botchat, Ankorzz#4034, .battle
+01 Apr 2017 18:02:12 : LimitlessMc, botchat, Ankorzz#4034, .start
+01 Apr 2017 18:02:19 : LimitlessMc, botchat, Ankorzz#4034, .help
+01 Apr 2017 18:02:19 : LimitlessMc, botchat, LightBot#4090, ```
+A Bot for the Pulse/Limitless MC Server Discord! Version 0.14.2.6
+(Created by Lightning)
+
+FlavorTexts:
+  image          Returns the First Found Image on Google Images for this Input
+  rate           Rates the Player
+  rps            Allows the player to play Rock, Paper, Scissors with the Bot...
+  kys            
+  lmgtfy         Returns a Link to a "Let me Google That For You" Page
+  fml            Returns a Random Post from fmylife.com
+  hug            Adds Emotion
+  gif            Returns the First Found Image on Google Images for this Input
+  conch          Ask the Magic Conch a Question
+  kiss           Adds Emotion
+  punch          Adds Emotion
+  wyr            
+  funify         Funifies a given text input
+  luck           Returns the Player's Luck
+  choose         Chooses from a set of things
+  shoot          Adds Emotion
+Games:
+  pokebattle     Fights a Pokemon Boss using a combination of 10 total moves ...
+  pokehelp       Pokemon Battle Sim Help
+  pokeboss       Displays Boss Info
+  ranking        
+  types          
+  summon         Summons a Boss of your Level or a Level below yours
+  trivia         
+  lookup         Displays your Current Information
+  level          Displays your Current Information
+  cd             Shows your Cooldowns
+  train          Fights Pokemon for XP
+MusicPlayer:
+  shuffle        Shuffles the songs in the Queue
+  Radio          Toggles Radio Mode
+  extendplaylist Extends a custom playlist
+  desc           Decription of the Current playing song
+  join           Joins the Voice channel you are currently in
+  playlist       Adds songs from a predefined playlist to the songs list
+  remove         removes a song from a queue by index
+  clear          Clears the Queue
+  loop           Plays the current song again
+  song           Returns information about the current playing song
+  makeplaylist   Makes a custom playlist for the bot to save
+  songs          Prints the songs in the queue
+  leave          Leaves the Join chat
+```
+01 Apr 2017 18:02:19 : LimitlessMc, botchat, LightBot#4090, ```
+  playlists      Shows all the current playlists
+  search         Searches for a song
+  youtube        Adds a Song for the Bot to Play
+  viewplaylist   Views the songs of a playlists
+  skip           Skips the Current song
+  music          Returns the current status of the Music Bot
+StaffCmds:
+  tempmute       
+  mute           
+  unmuteall      Unmutes ALL muted players
+  unmute         
+  mutelist       
+​No Category:
+  pokemon        Returns Links to Pokemon pages
+  afk            Sets you as AFK, and the Bot will auto Reply for you with th...
+  source         Returns a link to the source code for this bot
+  help           Shows this message.
+  status         Returns the Status of the Bot, along with Additional Informa...
+  joined         Says when a member joined.
+  server         Returns Information on the Limitless MC server!
+  feedback       Returns a link to a Google Forums, where you can leave feedb...
+  ev             
+  invite         Returns a Link to the Invite URL for this bot
+
+Type .help command for more info on a command.
+You can also type .help category for more info on a category.
+```
+01 Apr 2017 18:02:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ew nu
+01 Apr 2017 18:02:29 : LimitlessMc, botchat, Wertfuzzy77#0274, please dont use lightbot
+01 Apr 2017 18:02:43 : LimitlessMc, botchat, Wertfuzzy77#0274, do ;help with a semicolon
+01 Apr 2017 18:03:01 : LimitlessMc, botchat, Ankorzz#4034, .pokehelp
+01 Apr 2017 18:03:02 : LimitlessMc, botchat, LightBot#4090, Welcome to the **Pokemon Battle Simulator**!
+Here you use commands as a group to fight bosses.
+In order to fight a boss, simply use the *;pokebattle <Moves>* cmd.
+01 Apr 2017 18:03:04 : LimitlessMc, botchat, LightBot#4090, Crit = 2x Damage and 2% of Max HP
+Super = 4x Damage and 5% Max HP
+Perfect = 15x Damage and 12% Max HP
+01 Apr 2017 18:03:04 : LimitlessMc, botchat, Botfuzzy77#2209, **Soredemo Machi wa Mawatteiru**
+Link: https://myanimelist.net/anime/8726
+**Episodes**: 12
+**Status**: Finished Airing
+**Rating**: 7.48 (by 13,422 users)
+01 Apr 2017 18:03:14 : LimitlessMc, botchat, Wertfuzzy77#0274, dont use . <.<
+01 Apr 2017 18:03:54 : LimitlessMc, botchat, Ankorzz#4034, but the ; wasn't doing anything
+01 Apr 2017 18:04:02 : LimitlessMc, botchat, Wertfuzzy77#0274, cause you didnt cmds that don't exist
+01 Apr 2017 18:04:05 : LimitlessMc, botchat, Wertfuzzy77#0274, do ;help
+01 Apr 2017 18:04:09 : LimitlessMc, botchat, Wertfuzzy77#0274, did *
+01 Apr 2017 18:04:22 : LimitlessMc, botchat, Wertfuzzy77#0274, wait... you did
+01 Apr 2017 18:04:24 : LimitlessMc, botchat, Wertfuzzy77#0274, check your PMs
+01 Apr 2017 18:04:29 : LimitlessMc, botchat, Wertfuzzy77#0274, it PMs you the list of help cmds
+01 Apr 2017 18:04:38 : LimitlessMc, botchat, Wertfuzzy77#0274, instead of throwing them all in chat to spam everyone
+01 Apr 2017 18:05:00 : LimitlessMc, botchat, Ankorzz#4034, ahh ok
+01 Apr 2017 18:05:30 : LimitlessMc, botchat, Ankorzz#4034, am i the only one left who knows depthys nickname for you?
+01 Apr 2017 18:05:40 : LimitlessMc, botchat, Wertfuzzy77#0274, maybe
+01 Apr 2017 18:05:49 : LimitlessMc, botchat, Ankorzz#4034, hopefully
+01 Apr 2017 18:06:06 : LimitlessMc, botchat, Ankorzz#4034, ;pokebattle
+01 Apr 2017 18:06:06 : LimitlessMc, botchat, Botfuzzy77#2209, Please use a Combination of **5** Types. `;types`
+01 Apr 2017 18:06:44 : LimitlessMc, botchat, Ankorzz#4034, ;types ghost fire normal ground steel
+01 Apr 2017 18:06:44 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Possible Types ** =-
+:regional_indicator_n: ormal
+:regional_indicator_f: ire
+:regional_indicator_w: ater
+:regional_indicator_g: rass
+:regional_indicator_p: oison
+:regional_indicator_d: ragon
+:regional_indicator_s: teel
+:regional_indicator_e: lectric
+:regional_indicator_b: ug
+:regional_indicator_i: ce
+01 Apr 2017 18:07:01 : LimitlessMc, botchat, Wertfuzzy77#0274, the way the game works is you use moves to battle pokemon
+01 Apr 2017 18:07:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokeboss easy
+01 Apr 2017 18:07:03 : LimitlessMc, botchat, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> easy to fight and reveal the boss.
+01 Apr 2017 18:07:14 : LimitlessMc, botchat, Wertfuzzy77#0274, good, so the boss hasnt been revealed for you yet
+01 Apr 2017 18:07:50 : LimitlessMc, botchat, Wertfuzzy77#0274, now, to fight a boss, you need to do `;pokebattle <Moves>` where Moves is a combination of length 5 of any of the 10 moves
+01 Apr 2017 18:07:53 : LimitlessMc, botchat, Botfuzzy77#2209, **Soredemo Machi wa Mawatteiru**
+Link: https://myanimelist.net/anime/8726
+**Episodes**: 12
+**Status**: Finished Airing
+**Rating**: 7.48 (by 13,422 users)
+01 Apr 2017 18:08:05 : LimitlessMc, botchat, Wertfuzzy77#0274, for example, ;pokebattle IIIII would be a valid attack
+01 Apr 2017 18:08:11 : LimitlessMc, botchat, Wertfuzzy77#0274, attacking with ice 5 times
+01 Apr 2017 18:08:11 : LimitlessMc, botchat, Ankorzz#4034, ;moved
+01 Apr 2017 18:08:18 : LimitlessMc, botchat, Ankorzz#4034, ;moves
+01 Apr 2017 18:08:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ;types
+01 Apr 2017 18:08:23 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Possible Types ** =-
+:regional_indicator_n: ormal
+:regional_indicator_f: ire
+:regional_indicator_w: ater
+:regional_indicator_g: rass
+:regional_indicator_p: oison
+:regional_indicator_d: ragon
+:regional_indicator_s: teel
+:regional_indicator_e: lectric
+:regional_indicator_b: ug
+:regional_indicator_i: ce
+01 Apr 2017 18:08:24 : LimitlessMc, botchat, Wertfuzzy77#0274, is moves
+01 Apr 2017 18:08:37 : LimitlessMc, botchat, Wertfuzzy77#0274, do `;pokebattle NNNNN`
+01 Apr 2017 18:08:58 : LimitlessMc, botchat, Ankorzz#4034, ;pokebattle nfigd
+01 Apr 2017 18:08:58 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 5 Boss **Swadloon** has appeared in the Easy zone!
+It has 2,968 Health.
+01 Apr 2017 18:08:58 : LimitlessMc, botchat, Botfuzzy77#2209, 
+01 Apr 2017 18:08:58 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_f: :regional_indicator_i: :regional_indicator_g: :regional_indicator_d:
+:x: :x: :x: :x: :x:
+01 Apr 2017 18:08:58 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+Your moves did **1** damage
+01 Apr 2017 18:08:58 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 1 (+ 0) XP
+01 Apr 2017 18:09:03 : LimitlessMc, botchat, Wertfuzzy77#0274, that works too
+01 Apr 2017 18:09:04 : LimitlessMc, botchat, Botfuzzy77#2209, Level 5 Boss **Swadloon** has 2,967 health left.
+01 Apr 2017 18:09:16 : LimitlessMc, botchat, Wertfuzzy77#0274, but as you can see, none of your moves were effective
+01 Apr 2017 18:09:28 : LimitlessMc, botchat, Wertfuzzy77#0274, this is because each boss has a specific code connected to them
+01 Apr 2017 18:09:42 : LimitlessMc, botchat, Wertfuzzy77#0274, the point of the game is find this code, and the more you get right, the more damage you do
+01 Apr 2017 18:10:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle iinii easy
+01 Apr 2017 18:10:12 : LimitlessMc, botchat, Botfuzzy77#2209, Level 5 Boss **Swadloon** in Easy has 2,967 health left.
+01 Apr 2017 18:10:12 : LimitlessMc, botchat, Botfuzzy77#2209, 
+01 Apr 2017 18:10:12 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_i: :regional_indicator_n: :regional_indicator_i: :regional_indicator_i:
+:x: :white_check_mark: :x: :x: :x:
+01 Apr 2017 18:10:12 : LimitlessMc, botchat, Botfuzzy77#2209, *Low level boss penalty...*
+Your moves did **7** damage
+01 Apr 2017 18:10:12 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 1 (+ 0) XP
+01 Apr 2017 18:10:16 : LimitlessMc, botchat, Ankorzz#4034, ;pokebattle pbsbw
+01 Apr 2017 18:10:17 : LimitlessMc, botchat, Wertfuzzy77#0274, there, I got 1 for you
+01 Apr 2017 18:10:18 : LimitlessMc, botchat, Botfuzzy77#2209, Level 5 Boss **Swadloon** has 2,960 health left.
+01 Apr 2017 18:10:18 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 19 seconds before you can fight the boss again.
+01 Apr 2017 18:10:24 : LimitlessMc, botchat, Wertfuzzy77#0274, 90 second cooldown
+01 Apr 2017 18:10:41 : LimitlessMc, botchat, Wertfuzzy77#0274, so people can't spam and just kill it by typing the fastest
+01 Apr 2017 18:10:45 : LimitlessMc, botchat, Wertfuzzy77#0274, as everyone fights the same boss
+01 Apr 2017 18:11:00 : LimitlessMc, botchat, Wertfuzzy77#0274, so you have to be smart about your attempts
+01 Apr 2017 18:12:11 : LimitlessMc, botchat, Ankorzz#4034, and from the looks of it i can't use my knowledge of pokemon at all
+01 Apr 2017 18:12:34 : LimitlessMc, botchat, Wertfuzzy77#0274, correct, its not directly connected to actaul types. ie, a fire type doesnt take more damage from water moves
+01 Apr 2017 18:13:00 : LimitlessMc, botchat, Wertfuzzy77#0274, its more of a mini-game
+01 Apr 2017 18:13:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+01 Apr 2017 18:13:01 : LimitlessMc, botchat, Botfuzzy77#2209, :first_place: **TherminatorX** Level **44** Prestige **2**
+:second_place: **Wertfuzzy77** Level **31** Prestige **1**
+:third_place: **Crystal4209** Level **29** Prestige **1**
+:medal: theOnlyJuan Level 25 Prestige 1
+:medal: MrMudkipKipperten Level 22 Prestige 1
+:medal: MoonWolf Level 14 Prestige 1
+:medal: DanTurboX Level 14 Prestige 1
+:medal: jjtwilefc Level 53 Prestige 0
+:medal: Bakafish Level 40 Prestige 0
+:medal: Mr. AlphaMeeseeks Level 34 Prestige 0
+:medal: 🌟💖Resolate💖🌟 Level 34 Prestige 0
+:medal: Third_Worm Level 33 Prestige 0
+:medal: PostalOffice Level 26 Prestige 0
+:medal: StubbyMuffins Level 24 Prestige 0
+:medal: Dzepps Level 23 Prestige 0
+:medal: Saba Level 17 Prestige 0
+:medal: Niionkai Level 16 Prestige 0
+:medal: Lightning Level 12 Prestige 0
+:medal: StarwinnerCraft Level 11 Prestige 0
+:medal: Dasher Level 10 Prestige 0
+01 Apr 2017 18:13:11 : LimitlessMc, botchat, Wertfuzzy77#0274, these are the top 20 players rn
+01 Apr 2017 18:13:40 : LimitlessMc, botchat, Ankorzz#4034, so i can't use 
+;train
+01 Apr 2017 18:13:47 : LimitlessMc, botchat, Wertfuzzy77#0274, not until you hit level 10
+01 Apr 2017 18:14:01 : LimitlessMc, botchat, Wertfuzzy77#0274, but you should get that after 1 or 2 bosses
+01 Apr 2017 18:14:09 : LimitlessMc, botchat, Wertfuzzy77#0274, you level quickly in the low levels
+01 Apr 2017 18:14:19 : LimitlessMc, botchat, Wertfuzzy77#0274, prob 1 boss
+01 Apr 2017 18:14:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lookup Ankorzz
+01 Apr 2017 18:14:42 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Ankorzz*
+**Level**: 5
+01 Apr 2017 18:14:42 : LimitlessMc, botchat, Botfuzzy77#2209, 
+01 Apr 2017 18:14:43 : LimitlessMc, botchat, Botfuzzy77#2209, **XP**: 1/216
+**Boss Takedowns**: 0
+**Most Dmg in an Attack**: 1
+01 Apr 2017 18:14:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+01 Apr 2017 18:14:47 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 31
+**Prestige**: 1
+01 Apr 2017 18:14:48 : LimitlessMc, botchat, Botfuzzy77#2209, 
+01 Apr 2017 18:14:48 : LimitlessMc, botchat, Botfuzzy77#2209, **XP**: 22,577/32,768
+**Boss Takedowns**: 21
+**Most Dmg in an Attack**: 35,084
+01 Apr 2017 18:15:14 : LimitlessMc, botchat, Wertfuzzy77#0274, I'm working on more features like item drops and stuff
+01 Apr 2017 18:15:26 : LimitlessMc, botchat, Wertfuzzy77#0274, and a tutorial
+01 Apr 2017 18:17:05 : LimitlessMc, botchat, Ankorzz#4034, well you could set it up so people who try the ;train recieve a pm'ed tutorial once from the bot
+;pokebattle fiipw
+01 Apr 2017 18:17:26 : LimitlessMc, botchat, Ankorzz#4034, and a pm of their respective cooldowns
+01 Apr 2017 18:18:36 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cd
+01 Apr 2017 18:18:36 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You need to wait 1,405 seconds
+**Gamble**
+You can Gamble right now!
+01 Apr 2017 18:18:58 : LimitlessMc, botchat, Wertfuzzy77#0274, you can use ;cd it tells your your cooldowns, then deletes itself after a few seconds
+01 Apr 2017 18:19:13 : None, Direct Message with Ankorzz, Ankorzz#4034, ;cd
+01 Apr 2017 18:19:13 : None, Direct Message with Ankorzz, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You can Train right now!
+**Gamble**
+You can Gamble right now!
+01 Apr 2017 18:19:26 : LimitlessMc, botchat, Ankorzz#4034, ;cd
+01 Apr 2017 18:19:26 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You can Train right now!
+**Gamble**
+You can Gamble right now!
+01 Apr 2017 18:19:41 : LimitlessMc, botchat, Ankorzz#4034, ;pokebattle fiipw
+01 Apr 2017 18:19:41 : LimitlessMc, botchat, Botfuzzy77#2209, Level 5 Boss **Swadloon** in Easy has 2,960 health left.
+01 Apr 2017 18:19:41 : LimitlessMc, botchat, Botfuzzy77#2209, 
+01 Apr 2017 18:19:41 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_i: :regional_indicator_i: :regional_indicator_p: :regional_indicator_w:
+:x: :white_check_mark: :x: :x: :x:
+01 Apr 2017 18:19:41 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+Your moves did **9** damage
+01 Apr 2017 18:19:41 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 1 (+ 0) XP
+01 Apr 2017 18:19:47 : LimitlessMc, botchat, Botfuzzy77#2209, Level 5 Boss **Swadloon** has 2,951 health left.
+01 Apr 2017 18:19:57 : LimitlessMc, botchat, Wertfuzzy77#0274, also, since you started the boss, you get a rival bonus of 1.25x damage
+01 Apr 2017 18:20:21 : None, Direct Message with Ankorzz, Ankorzz#4034, ;cd
+01 Apr 2017 18:20:21 : None, Direct Message with Ankorzz, Botfuzzy77#2209, **Battle**
+You need to wait 56 seconds
+**Train**
+You can Train right now!
+**Gamble**
+You can Gamble right now!
+01 Apr 2017 18:20:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ;afk food
+01 Apr 2017 18:20:46 : LimitlessMc, botchat, Botfuzzy77#2209, Wertfuzzy77 is now AFK for reason:
+**food**
+01 Apr 2017 18:21:30 : LimitlessMc, botchat, Ankorzz#4034, ;afk fueling planes
+01 Apr 2017 18:21:30 : LimitlessMc, botchat, Botfuzzy77#2209, Ankorzz is now AFK for reason:
+**fueling planes**
+01 Apr 2017 18:24:06 : LimitlessMc, botchat, theOnlyJuan#9357, ;train
+01 Apr 2017 18:24:06 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 23 **Regigigas** for 177 XP (54% to beat)
+You **Beat** a Level 14 **Larvitar** for 66 XP (89% to beat)
+You *Lost* to a Level 30 **Machoke** (41% to beat)
+You *Lost* to a Level 30 **Wingull** (41% to beat)
+You **Beat** a Level 30 **Nidoran♀** for 301 XP (41% to beat)
+You *Lost* to a Level 32 **Pansear** (39% to beat)
+You **Beat** a Level 19 **Weavile** for 121 XP (65% to beat)
+You Find a **Pokeloot** worth 440 XP
+01 Apr 2017 18:24:06 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 1105 (+ 110) XP
+01 Apr 2017 18:24:12 : LimitlessMc, botchat, theOnlyJuan#9357, ;pokeboss
+01 Apr 2017 18:24:12 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Medium Boss Pokemon** =-
+*Name*: Cranidos
+*Health*: 52,874/52,920 (99.91%)
+*Level*: 49
+Last Combo:
+:regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i:
+:white_check_mark: :x: :x: :x: :x: :x: :x: :x:
+01 Apr 2017 18:24:13 : LimitlessMc, botchat, Botfuzzy77#2209, 
+01 Apr 2017 18:24:13 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **Wertfuzzy77** with **45** damage
+01 Apr 2017 18:24:13 : LimitlessMc, botchat, Botfuzzy77#2209, 2nd most Damage by *TherminatorX* with *1* damage
+01 Apr 2017 18:24:39 : LimitlessMc, botchat, theOnlyJuan#9357, ;pokebattle iwwwwwww
+01 Apr 2017 18:24:39 : LimitlessMc, botchat, Botfuzzy77#2209, Level 49 Boss **Cranidos** in Medium has 52,874 health left.
+01 Apr 2017 18:24:39 : LimitlessMc, botchat, Botfuzzy77#2209, 
+01 Apr 2017 18:24:39 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w:
+:white_check_mark: :x: :x: :white_check_mark: :x: :white_check_mark: :x: :x:
+01 Apr 2017 18:24:39 : LimitlessMc, botchat, Botfuzzy77#2209, STAB bonus damage for Ice type (1x)
+Your moves did **89** damage
+01 Apr 2017 18:24:39 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 17 (+ 1) XP
+01 Apr 2017 18:24:45 : LimitlessMc, botchat, Botfuzzy77#2209, Level 49 Boss **Cranidos** has 52,785 health left.
+01 Apr 2017 18:27:05 : LimitlessMc, botchat, Ankorzz#4034, ;afk
+01 Apr 2017 18:27:05 : LimitlessMc, botchat, Botfuzzy77#2209, Ankorzz is no Longer AFK
+01 Apr 2017 18:27:35 : LimitlessMc, botchat, Ankorzz#4034, ;pokebattle dibep
+01 Apr 2017 18:27:35 : LimitlessMc, botchat, Botfuzzy77#2209, Level 5 Boss **Swadloon** in Easy has 2,951 health left.
+01 Apr 2017 18:27:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+01 Apr 2017 18:27:35 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_d: :regional_indicator_i: :regional_indicator_b: :regional_indicator_e: :regional_indicator_p:
+:x: :white_check_mark: :x: :x: :x:
+01 Apr 2017 18:27:35 : LimitlessMc, botchat, Botfuzzy77#2209, Its a Critical Strike
+Rival Bonus!
+Your moves did **14** damage
+01 Apr 2017 18:27:36 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 1 (+ 0) XP
+01 Apr 2017 18:27:41 : LimitlessMc, botchat, Botfuzzy77#2209, Level 5 Boss **Swadloon** has 2,937 health left.
+01 Apr 2017 18:30:16 : None, Direct Message with Ankorzz, Ankorzz#4034, ;cd
+01 Apr 2017 18:30:17 : None, Direct Message with Ankorzz, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You can Train right now!
+**Gamble**
+You can Gamble right now!
+01 Apr 2017 18:30:52 : LimitlessMc, botchat, Ankorzz#4034, ;pokebattle wipbe
+01 Apr 2017 18:30:52 : LimitlessMc, botchat, Botfuzzy77#2209, Level 5 Boss **Swadloon** in Easy has 2,937 health left.
+01 Apr 2017 18:30:52 : LimitlessMc, botchat, Botfuzzy77#2209, 
+01 Apr 2017 18:30:53 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_i: :regional_indicator_p: :regional_indicator_b: :regional_indicator_e:
+:x: :white_check_mark: :x: :x: :x:
+01 Apr 2017 18:30:53 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+Your moves did **7** damage
+01 Apr 2017 18:30:53 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 1 (+ 0) XP
+01 Apr 2017 18:30:58 : LimitlessMc, botchat, Botfuzzy77#2209, Level 5 Boss **Swadloon** has 2,930 health left.
+01 Apr 2017 18:32:22 : None, Direct Message with Ankorzz, Ankorzz#4034, ;cd
+01 Apr 2017 18:32:23 : None, Direct Message with Ankorzz, Botfuzzy77#2209, **Battle**
+You need to wait 5 seconds
+**Train**
+You can Train right now!
+**Gamble**
+You can Gamble right now!
+01 Apr 2017 18:34:33 : LimitlessMc, botchat, Ankorzz#4034, ;pokebattle eipeg
+01 Apr 2017 18:34:33 : LimitlessMc, botchat, Botfuzzy77#2209, Level 5 Boss **Swadloon** in Easy has 2,930 health left.
+01 Apr 2017 18:34:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+01 Apr 2017 18:34:33 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_e: :regional_indicator_i: :regional_indicator_p: :regional_indicator_e: :regional_indicator_g:
+:white_check_mark: :white_check_mark: :x: :x: :x:
+01 Apr 2017 18:34:33 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+Your moves did **19** damage
+01 Apr 2017 18:34:33 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 3 (+ 0) XP
+01 Apr 2017 18:34:39 : LimitlessMc, botchat, Botfuzzy77#2209, Level 5 Boss **Swadloon** has 2,911 health left.
+01 Apr 2017 18:36:42 : None, Direct Message with Ankorzz, Ankorzz#4034, ;cd
+01 Apr 2017 18:36:42 : None, Direct Message with Ankorzz, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You can Train right now!
+**Gamble**
+You can Gamble right now!
+01 Apr 2017 18:37:00 : LimitlessMc, botchat, Ankorzz#4034, ;pokebattle eisss
+01 Apr 2017 18:37:00 : LimitlessMc, botchat, Botfuzzy77#2209, Level 5 Boss **Swadloon** in Easy has 2,911 health left.
+01 Apr 2017 18:37:00 : LimitlessMc, botchat, Botfuzzy77#2209, 
+01 Apr 2017 18:37:01 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_e: :regional_indicator_i: :regional_indicator_s: :regional_indicator_s: :regional_indicator_s:
+:white_check_mark: :white_check_mark: :x: :x: :x:
+01 Apr 2017 18:37:01 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+Your moves did **12** damage
+01 Apr 2017 18:37:01 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 1 (+ 0) XP
+01 Apr 2017 18:37:06 : LimitlessMc, botchat, Botfuzzy77#2209, Level 5 Boss **Swadloon** has 2,899 health left.
+01 Apr 2017 18:39:02 : The Wild Weebs, general, enragednuke#2565, ¯\_(ツ)_/¯
+01 Apr 2017 18:40:32 : None, Direct Message with Ankorzz, Ankorzz#4034, ;cd
+01 Apr 2017 18:40:32 : None, Direct Message with Ankorzz, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You can Train right now!
+**Gamble**
+You can Gamble right now!
+01 Apr 2017 18:41:06 : LimitlessMc, botchat, Ankorzz#4034, ;pokebattle eipwg
+01 Apr 2017 18:41:06 : LimitlessMc, botchat, Botfuzzy77#2209, Level 5 Boss **Swadloon** in Easy has 2,899 health left.
+01 Apr 2017 18:41:06 : LimitlessMc, botchat, Botfuzzy77#2209, 
+01 Apr 2017 18:41:06 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_e: :regional_indicator_i: :regional_indicator_p: :regional_indicator_w: :regional_indicator_g:
+:white_check_mark: :white_check_mark: :x: :x: :x:
+01 Apr 2017 18:41:06 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+Your moves did **18** damage
+01 Apr 2017 18:41:06 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 2 (+ 0) XP
+01 Apr 2017 18:41:13 : LimitlessMc, botchat, Botfuzzy77#2209, Level 5 Boss **Swadloon** has 2,881 health left.
+01 Apr 2017 18:45:45 : The Raw Man Cult, mainchat, raw man masked#4656, tis a most peculiar duel
+01 Apr 2017 18:46:55 : LimitlessMc, botchat, Ankorzz#4034, ;pokebattle eifff
+01 Apr 2017 18:46:55 : LimitlessMc, botchat, Botfuzzy77#2209, Level 5 Boss **Swadloon** in Easy has 2,881 health left.
+01 Apr 2017 18:46:56 : LimitlessMc, botchat, Botfuzzy77#2209, 
+01 Apr 2017 18:46:56 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_e: :regional_indicator_i: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f:
+:white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark:
+01 Apr 2017 18:46:56 : LimitlessMc, botchat, Botfuzzy77#2209, Its Super Effective! The Boss has switched 1/4 of the Super Effective Moves!
+Rival Bonus!
+Your moves did **266** damage
+01 Apr 2017 18:46:56 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 37 (+ 0) XP
+01 Apr 2017 18:47:01 : LimitlessMc, botchat, Botfuzzy77#2209, Level 5 Boss **Swadloon** has 2,615 health left.
+01 Apr 2017 18:48:11 : None, Direct Message with Ankorzz, Ankorzz#4034, ;cd
+01 Apr 2017 18:48:11 : None, Direct Message with Ankorzz, Botfuzzy77#2209, **Battle**
+You need to wait 20 seconds
+**Train**
+You can Train right now!
+**Gamble**
+You can Gamble right now!
+01 Apr 2017 18:49:19 : LimitlessMc, botchat, Ankorzz#4034, ;pokebattle eigff
+01 Apr 2017 18:49:19 : LimitlessMc, botchat, Botfuzzy77#2209, Level 5 Boss **Swadloon** in Easy has 2,615 health left.
+01 Apr 2017 18:49:19 : LimitlessMc, botchat, Botfuzzy77#2209, 
+01 Apr 2017 18:49:19 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_e: :regional_indicator_i: :regional_indicator_g: :regional_indicator_f: :regional_indicator_f:
+:x: :white_check_mark: :x: :white_check_mark: :white_check_mark:
+01 Apr 2017 18:49:19 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+Rival Bonus!
+Your moves did **38** damage
+01 Apr 2017 18:49:19 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 4 (+ 0) XP
+01 Apr 2017 18:49:25 : LimitlessMc, botchat, Botfuzzy77#2209, Level 5 Boss **Swadloon** has 2,577 health left.
+01 Apr 2017 18:50:39 : None, Direct Message with Ankorzz, Ankorzz#4034, ;cd
+01 Apr 2017 18:50:39 : None, Direct Message with Ankorzz, Botfuzzy77#2209, **Battle**
+You need to wait 16 seconds
+**Train**
+You can Train right now!
+**Gamble**
+You can Gamble right now!
+01 Apr 2017 18:51:27 : LimitlessMc, botchat, Ankorzz#4034, ;pokebattle diwff
+01 Apr 2017 18:51:28 : LimitlessMc, botchat, Botfuzzy77#2209, Level 5 Boss **Swadloon** in Easy has 2,577 health left.
+01 Apr 2017 18:51:28 : LimitlessMc, botchat, Botfuzzy77#2209, 
+01 Apr 2017 18:51:28 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_d: :regional_indicator_i: :regional_indicator_w: :regional_indicator_f: :regional_indicator_f:
+:x: :white_check_mark: :x: :white_check_mark: :white_check_mark:
+01 Apr 2017 18:51:28 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+Rival Bonus!
+Your moves did **36** damage
+01 Apr 2017 18:51:28 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 5 (+ 0) XP
+01 Apr 2017 18:51:34 : LimitlessMc, botchat, Botfuzzy77#2209, Level 5 Boss **Swadloon** has 2,541 health left.
+01 Apr 2017 18:52:31 : None, Direct Message with Ankorzz, Ankorzz#4034, ;gamble
+01 Apr 2017 18:52:31 : None, Direct Message with Ankorzz, Botfuzzy77#2209, You need to gamble atleast 14 XP
+01 Apr 2017 18:52:40 : None, Direct Message with Ankorzz, Ankorzz#4034, ;xp
+01 Apr 2017 18:52:46 : None, Direct Message with Ankorzz, Ankorzz#4034, ;level
+01 Apr 2017 18:52:46 : None, Direct Message with Ankorzz, Botfuzzy77#2209, **Name**: *Ankorzz*
+**Level**: 5
+**Prestige**: 0
+01 Apr 2017 18:52:47 : None, Direct Message with Ankorzz, Botfuzzy77#2209, 
+01 Apr 2017 18:52:47 : None, Direct Message with Ankorzz, Botfuzzy77#2209, **XP**: 56/216
+**Boss Takedowns**: 0
+**Most Dmg in an Attack**: 266
+01 Apr 2017 18:52:58 : None, Direct Message with Ankorzz, Ankorzz#4034, ;gamble 27
+01 Apr 2017 18:52:58 : None, Direct Message with Ankorzz, Botfuzzy77#2209, You have gained back your offering and more!
+01 Apr 2017 18:52:59 : None, Direct Message with Ankorzz, Botfuzzy77#2209, You have gained 35 (+ 0) XP
+01 Apr 2017 18:53:34 : None, Direct Message with Ankorzz, Ankorzz#4034, ;pokebattle gieff
+01 Apr 2017 18:53:35 : None, Direct Message with Ankorzz, Botfuzzy77#2209, Level 5 Boss **Swadloon** in Easy has 2,541 health left.
+01 Apr 2017 18:53:36 : None, Direct Message with Ankorzz, Botfuzzy77#2209, 
+01 Apr 2017 18:53:36 : None, Direct Message with Ankorzz, Botfuzzy77#2209, :regional_indicator_g: :regional_indicator_i: :regional_indicator_e: :regional_indicator_f: :regional_indicator_f:
+:x: :white_check_mark: :x: :white_check_mark: :white_check_mark:
+01 Apr 2017 18:53:36 : None, Direct Message with Ankorzz, Botfuzzy77#2209, Its Sort-Of Effective
+Rival Bonus!
+Your moves did **54** damage
+01 Apr 2017 18:53:36 : None, Direct Message with Ankorzz, Botfuzzy77#2209, You have gained 7 (+ 0) XP
+01 Apr 2017 18:53:41 : None, Direct Message with Ankorzz, Botfuzzy77#2209, Level 5 Boss **Swadloon** has 2,487 health left.
+01 Apr 2017 18:54:23 : None, Direct Message with Ankorzz, Ankorzz#4034, ;cd
+01 Apr 2017 18:54:23 : None, Direct Message with Ankorzz, Botfuzzy77#2209, **Battle**
+You need to wait 48 seconds
+**Train**
+You can Train right now!
+**Gamble**
+You can Gamble right now!
+01 Apr 2017 18:55:59 : None, Direct Message with Ankorzz, Ankorzz#4034, ;cd
+01 Apr 2017 18:55:59 : None, Direct Message with Ankorzz, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You can Train right now!
+**Gamble**
+You can Gamble right now!
+01 Apr 2017 18:56:14 : LimitlessMc, botchat, Ankorzz#4034, ;pokebattle widff
+01 Apr 2017 18:56:14 : LimitlessMc, botchat, Botfuzzy77#2209, Level 5 Boss **Swadloon** in Easy has 2,487 health left.
+01 Apr 2017 18:56:14 : LimitlessMc, botchat, Botfuzzy77#2209, 
+01 Apr 2017 18:56:14 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_i: :regional_indicator_d: :regional_indicator_f: :regional_indicator_f:
+:x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+01 Apr 2017 18:56:14 : LimitlessMc, botchat, Botfuzzy77#2209, Its Super Effective! The Boss has switched 1/4 of the Super Effective Moves!
+Rival Bonus!
+Your moves did **297** damage
+01 Apr 2017 18:56:14 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 49 (+ 0) XP
+01 Apr 2017 18:56:20 : LimitlessMc, botchat, Botfuzzy77#2209, Level 5 Boss **Swadloon** has 2,190 health left.
+01 Apr 2017 19:15:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokeboss easy
+01 Apr 2017 19:15:02 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Easy Boss Pokemon** =-
+*Name*: Swadloon
+*Health*: 2,190/2,968 (73.79%)
+*Level*: 5
+Last Combo:
+:regional_indicator_w: :regional_indicator_i: :regional_indicator_d: :regional_indicator_f: :regional_indicator_f:
+:x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+01 Apr 2017 19:15:02 : LimitlessMc, botchat, Botfuzzy77#2209, 
+01 Apr 2017 19:15:02 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **Ankorzz** with **771** damage
+01 Apr 2017 19:15:02 : LimitlessMc, botchat, Botfuzzy77#2209, 2nd most Damage by *Wertfuzzy77* with *7* damage
+01 Apr 2017 19:15:19 : LimitlessMc, botchat, Wertfuzzy77#0274, see if you can get more people to help take it down 😛 it goes quicker
+01 Apr 2017 19:15:27 : LimitlessMc, botchat, Wertfuzzy77#0274, its hard to take down a boss by yourself
+01 Apr 2017 20:14:59 : LimitlessMc, mainchat, Bakafish#8693, r
+01 Apr 2017 20:21:11 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;train
+01 Apr 2017 20:21:11 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 14 **Ditto** for 66 XP (78% to beat)
+You *Lost* to a Level 19 **Milotic** (57% to beat)
+You **Beat** a Level 32 **Milotic** for 342 XP (34% to beat)
+You **Beat** a Level 23 **Rapidash** for 177 XP (47% to beat)
+You *Lost* to a Level 18 **Togepi** (61% to beat)
+You **Beat** a Level 12 **Greninja** for 49 XP (90% to beat)
+You *Lost* to a Level 14 **Seadra** (78% to beat)
+You Find a **Pokeloot** worth 305 XP
+01 Apr 2017 20:21:11 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 939 (+ 93) XP
+01 Apr 2017 20:34:42 : LimitlessMc, mainchat, Wertfuzzy77#0274, sneakpeak of what I'm working on for the bot
+01 Apr 2017 20:35:38 : LimitlessMc, mainchat, LightBot#4090, Welcome @wenjie to LimitlessMc!
+01 Apr 2017 20:44:55 : LimitlessMc, mainchat, LightBot#4090, Welcome @wenjie to LimitlessMc!
+01 Apr 2017 20:45:07 : LimitlessMc, mainchat, wenjie#6797, its premiun the server?
+01 Apr 2017 20:48:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+01 Apr 2017 20:48:11 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 31
+**Prestige**: 1
+01 Apr 2017 20:48:11 : LimitlessMc, botchat, Botfuzzy77#2209, 
+01 Apr 2017 20:48:11 : LimitlessMc, botchat, Botfuzzy77#2209, **XP**: 22,577/32,768
+**Boss Takedowns**: 21
+**Most Dmg in an Attack**: 35,084
+01 Apr 2017 20:51:36 : LimitlessMc, botchat, wenjie#6797, ;help
+01 Apr 2017 20:51:36 : None, Direct Message with wenjie, Botfuzzy77#2209, ```
+A Bot whose sole Purpose is to serve Wertfuzzy77! Version 0.15.1.3
+(Created by Wertfuzzy77)
+
+FlavorTexts:
+  wyr            
+  gif            Returns the First Found Image on Google Images for this Input
+  fml            Returns a Random Post from fmylife.com
+  image          Returns the First Found Image on Google Images for this Input
+  choose         Chooses from a set of things
+  kiss           Adds Emotion
+  hates          Adds Emotion
+  conch          Ask the Magic Conch a Question
+  luck           Returns the Player's Luck
+  loves          Adds Emotion
+  lmgtfy         Returns a Link to a "Let me Google That For You" Page
+  likes          Adds Emotion
+  hug            Adds Emotion
+  kill           Adds Emotion
+  rps            Allows the player to play Rock, Paper, Scissors with the Bot...
+  funify         Funifies a given text input
+  rate           Rates the Player
+  slap           Adds Emotion
+  kys            
+Games:
+  gamble         
+  ranking        
+  train          Fights Pokemon for XP
+  pokehelp       Pokemon Battle Sim Help
+  pokebattle     Fights a Pokemon Boss
+  pokeboss       Displays Boss Info
+  lookup         Displays your Current Information
+  types          
+  level          Displays your Current Information
+  pokedex        
+  prestige       
+  settype        
+  cooldown       Shows your Cooldowns
+MusicPlayer:
+  Radio          Enables Radio Mode
+  youtube        Adds a Song for the Bot to Play
+  songs          Prints the songs in the queue
+  music          Returns the current status of the Music Bot
+  viewplaylist   Views the songs of a playlists
+  join           Joins the Voice channel you are currently in
+  playlist       Adds songs from a predefined playlist to the songs list
+  skip           Skips the Current song
+  remove         removes a song from a queue by index
+  loop           Plays the current song again
+  desc           Decription of the Current playing song
+  shuffle        Shuffles the songs the queue
+```
+01 Apr 2017 20:51:36 : None, Direct Message with wenjie, Botfuzzy77#2209, ```
+  clear          Clears the Queue
+  leave          Leaves the Join chat
+  search         Searches for a song
+  song           Returns information about the current playing song
+  recommend      Allow the bot to add up to 5 songs to the queue to have infi...
+  extendplaylist Extends a custom playlist
+  playlists      Shows all the current playlists
+  makeplaylist   Makes a custom playlist for the bot to save
+StaffCmds:
+  unmuteall      Unmutes ALL muted players
+  tempmute       
+  mutelist       
+  unmute         
+  mute           
+​No Category:
+  help           Shows this message.
+  changeIcon     
+  ev             
+  feedback       Returns a link to a Google Forums, where you can leave feedb...
+  pokemon        Returns Links to Pokemon pages
+  invite         Returns a Link to the Invite URL for this bot
+  cleverbot      
+  source         Returns a link to the source code for this bot
+  afk            Sets you as AFK, and the Bot will auto Reply for you with th...
+  joined         Says when a member joined.
+  server         Returns Information on the Limitless MC server!
+  status         Returns the Status of the Bot, along with Additional Informa...
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+01 Apr 2017 20:52:11 : LimitlessMc, botchat, wenjie#6797, ;level
+01 Apr 2017 20:52:11 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *wenjie*
+**Level**: 5
+**Prestige**: 0
+01 Apr 2017 20:52:11 : LimitlessMc, botchat, Botfuzzy77#2209, 
+01 Apr 2017 20:52:11 : LimitlessMc, botchat, Botfuzzy77#2209, **XP**: 0/216
+**Boss Takedowns**: 0
+**Most Dmg in an Attack**: 0
+01 Apr 2017 20:52:19 : LimitlessMc, botchat, wenjie#6797, ;command
+01 Apr 2017 20:52:23 : LimitlessMc, botchat, wenjie#6797, ;help
+01 Apr 2017 20:52:24 : None, Direct Message with wenjie, Botfuzzy77#2209, ```
+A Bot whose sole Purpose is to serve Wertfuzzy77! Version 0.15.1.3
+(Created by Wertfuzzy77)
+
+FlavorTexts:
+  wyr            
+  gif            Returns the First Found Image on Google Images for this Input
+  fml            Returns a Random Post from fmylife.com
+  image          Returns the First Found Image on Google Images for this Input
+  choose         Chooses from a set of things
+  kiss           Adds Emotion
+  hates          Adds Emotion
+  conch          Ask the Magic Conch a Question
+  luck           Returns the Player's Luck
+  loves          Adds Emotion
+  lmgtfy         Returns a Link to a "Let me Google That For You" Page
+  likes          Adds Emotion
+  hug            Adds Emotion
+  kill           Adds Emotion
+  rps            Allows the player to play Rock, Paper, Scissors with the Bot...
+  funify         Funifies a given text input
+  rate           Rates the Player
+  slap           Adds Emotion
+  kys            
+Games:
+  gamble         
+  ranking        
+  train          Fights Pokemon for XP
+  pokehelp       Pokemon Battle Sim Help
+  pokebattle     Fights a Pokemon Boss
+  pokeboss       Displays Boss Info
+  lookup         Displays your Current Information
+  types          
+  level          Displays your Current Information
+  pokedex        
+  prestige       
+  settype        
+  cooldown       Shows your Cooldowns
+MusicPlayer:
+  Radio          Enables Radio Mode
+  youtube        Adds a Song for the Bot to Play
+  songs          Prints the songs in the queue
+  music          Returns the current status of the Music Bot
+  viewplaylist   Views the songs of a playlists
+  join           Joins the Voice channel you are currently in
+  playlist       Adds songs from a predefined playlist to the songs list
+  skip           Skips the Current song
+  remove         removes a song from a queue by index
+  loop           Plays the current song again
+  desc           Decription of the Current playing song
+  shuffle        Shuffles the songs the queue
+```
+01 Apr 2017 20:52:24 : None, Direct Message with wenjie, Botfuzzy77#2209, ```
+  clear          Clears the Queue
+  leave          Leaves the Join chat
+  search         Searches for a song
+  song           Returns information about the current playing song
+  recommend      Allow the bot to add up to 5 songs to the queue to have infi...
+  extendplaylist Extends a custom playlist
+  playlists      Shows all the current playlists
+  makeplaylist   Makes a custom playlist for the bot to save
+StaffCmds:
+  unmuteall      Unmutes ALL muted players
+  tempmute       
+  mutelist       
+  unmute         
+  mute           
+​No Category:
+  help           Shows this message.
+  changeIcon     
+  ev             
+  feedback       Returns a link to a Google Forums, where you can leave feedb...
+  pokemon        Returns Links to Pokemon pages
+  invite         Returns a Link to the Invite URL for this bot
+  cleverbot      
+  source         Returns a link to the source code for this bot
+  afk            Sets you as AFK, and the Bot will auto Reply for you with th...
+  joined         Says when a member joined.
+  server         Returns Information on the Limitless MC server!
+  status         Returns the Status of the Bot, along with Additional Informa...
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+01 Apr 2017 20:52:46 : LimitlessMc, botchat, wenjie#6797, ;train
+01 Apr 2017 20:52:46 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 3 **Cubone** for 4 XP (83% to beat)
+You *Lost* to a Level 8 **Phione** (31% to beat)
+You use an **EXP share** to gain more XP! (+ 2)
+You Find a **Pokeloot** worth 6 XP
+01 Apr 2017 20:52:46 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 12 (+ 0) XP
+01 Apr 2017 20:53:03 : LimitlessMc, botchat, wenjie#6797, ;train
+01 Apr 2017 20:53:03 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 3,583 seconds before you can train again.
+01 Apr 2017 20:53:07 : LimitlessMc, botchat, wenjie#6797, ;train
+01 Apr 2017 20:53:07 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 3,579 seconds before you can train again.
+01 Apr 2017 20:53:34 : LimitlessMc, botchat, wenjie#6797, ;train
+01 Apr 2017 20:53:34 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 3,553 seconds before you can train again.
+01 Apr 2017 20:56:07 : The Wild Weebs, general, Wertfuzzy77#0274, ?level
+01 Apr 2017 21:14:37 : LimitlessMc, mainchat, Wertfuzzy77#0274, more progress 😄
+01 Apr 2017 21:32:56 : LimitlessMc, mainchat, JustinOPGamer#9138, ;join
+01 Apr 2017 21:33:02 : LimitlessMc, botchat, JustinOPGamer#9138, ;join
+01 Apr 2017 21:33:02 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+01 Apr 2017 21:33:10 : LimitlessMc, botchat, JustinOPGamer#9138, ;search Hooked on a Feeling
+01 Apr 2017 21:33:12 : LimitlessMc, botchat, Botfuzzy77#2209, Added 1. Blue Swede - Hooked on a Feeling to the queue
+01 Apr 2017 21:33:12 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=NrI-UBIB8Jk
+01 Apr 2017 21:37:17 : LimitlessMc, botchat, JustinOPGamer#9138, ;search Radioactive
+01 Apr 2017 21:37:19 : LimitlessMc, botchat, Botfuzzy77#2209, Added Imagine Dragons - Radioactive to the queue
+01 Apr 2017 21:37:19 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=ktvTqknDobU
+01 Apr 2017 21:43:01 : LimitlessMc, botchat, How am i?#5495, .rate
+01 Apr 2017 21:43:01 : LimitlessMc, botchat, LightBot#4090, How am i? is kinda cool
+01 Apr 2017 21:43:58 : LimitlessMc, mainchat, How am i?#5495, @Wertfuzzy77  i love your svary bot,
+01 Apr 2017 21:44:20 : LimitlessMc, mainchat, Wertfuzzy77#0274, my bot is spooky?
+01 Apr 2017 21:44:39 : LimitlessMc, mainchat, How am i?#5495, Yeah, asking me all kinds of things
+01 Apr 2017 21:45:15 : LimitlessMc, mainchat, How am i?#5495, Btw you have done a good job with it
+01 Apr 2017 21:45:19 : LimitlessMc, mainchat, Wertfuzzy77#0274, I need to find a cool font for my bot to use for that level image
+01 Apr 2017 21:45:27 : LimitlessMc, mainchat, Wertfuzzy77#0274, but idk which one xD
+01 Apr 2017 21:45:32 : LimitlessMc, mainchat, How am i?#5495, Haha
+01 Apr 2017 21:45:37 : LimitlessMc, mainchat, Wertfuzzy77#0274, http://www.1001fonts.com/
+01 Apr 2017 21:45:44 : LimitlessMc, mainchat, Wertfuzzy77#0274, there are sooooo many
+01 Apr 2017 21:46:26 : LimitlessMc, mainchat, How am i?#5495, Daim, that many
+01 Apr 2017 21:47:06 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77  whats the time in Norway?
+01 Apr 2017 21:47:10 : LimitlessMc, botchat, Botfuzzy77#2209, I wouldn't know.
+01 Apr 2017 21:47:38 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 best nature for charmander?
+01 Apr 2017 21:47:39 : LimitlessMc, botchat, Botfuzzy77#2209, Charmander usa chorro de agua.
+01 Apr 2017 21:48:30 : LimitlessMc, mainchat, Wertfuzzy77#0274, how about this one?
+01 Apr 2017 21:48:36 : LimitlessMc, mainchat, Wertfuzzy77#0274, I like it
+01 Apr 2017 21:48:36 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 okey? Best nature for larvitar
+01 Apr 2017 21:48:37 : LimitlessMc, botchat, Botfuzzy77#2209, How is a nature lover like a cylon?
+01 Apr 2017 21:58:18 : LimitlessMc, mainchat, How am i?#5495, Yeah, look amazing
+01 Apr 2017 22:02:04 : LimitlessMc, mainchat, Wertfuzzy77#0274, when I finish this, it will replace the ;level cmd
+01 Apr 2017 22:02:42 : LimitlessMc, mainchat, Wertfuzzy77#0274, everything is changeable, the color of the XP line will change by their type
+01 Apr 2017 22:02:47 : LimitlessMc, mainchat, Wertfuzzy77#0274, players can set their own backgrounds
+01 Apr 2017 22:02:56 : LimitlessMc, mainchat, Wertfuzzy77#0274, and the icon is taken from your discord icon
+01 Apr 2017 22:02:59 : LimitlessMc, mainchat, How am i?#5495, Ooooo
+01 Apr 2017 22:03:11 : LimitlessMc, mainchat, How am i?#5495, Wert you thought of everything
+01 Apr 2017 22:03:20 : LimitlessMc, mainchat, Wertfuzzy77#0274, give me a cool icon and I'll show you 😛
+01 Apr 2017 22:03:30 : LimitlessMc, mainchat, Wertfuzzy77#0274, hmm, I'll even steal your icon rn xD
+01 Apr 2017 22:03:35 : LimitlessMc, mainchat, How am i?#5495, Hahahha
+01 Apr 2017 22:03:38 : LimitlessMc, mainchat, How am i?#5495, Okey
+01 Apr 2017 22:03:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug ctx.message.server.get_member_named('How am i?').avatar_url
+01 Apr 2017 22:03:50 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+https://cdn.discordapp.com/avatars/264460940370640896/e440ddda9739eee7635fd2acba3f1821.webp?size=1024
+```
+01 Apr 2017 22:03:57 : LimitlessMc, mainchat, How am i?#5495, Sooo hyped
+01 Apr 2017 22:07:16 : LimitlessMc, mainchat, Wertfuzzy77#0274, actually came out really cool xD
+01 Apr 2017 22:07:59 : LimitlessMc, mainchat, How am i?#5495, Ooo, daim
+01 Apr 2017 22:08:07 : LimitlessMc, mainchat, How am i?#5495, Thats sooooooo cooooø
+01 Apr 2017 22:08:10 : LimitlessMc, mainchat, How am i?#5495, L
+01 Apr 2017 22:08:21 : LimitlessMc, mainchat, Wertfuzzy77#0274, idk what else I need to add to it
+01 Apr 2017 22:08:35 : LimitlessMc, mainchat, Wertfuzzy77#0274, cause there is some blank space left in that text box
+01 Apr 2017 22:08:40 : LimitlessMc, mainchat, Wertfuzzy77#0274, but no idea what to put in it
+01 Apr 2017 22:09:09 : LimitlessMc, mainchat, How am i?#5495, Ehh, dont have any suggestions either haha
+01 Apr 2017 22:09:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+01 Apr 2017 22:09:29 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 31
+**Prestige**: 1
+01 Apr 2017 22:09:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+01 Apr 2017 22:09:29 : LimitlessMc, botchat, Botfuzzy77#2209, **XP**: 22,577/32,768
+**Boss Takedowns**: 21
+**Most Dmg in an Attack**: 35,084
+01 Apr 2017 22:09:42 : LimitlessMc, botchat, Wertfuzzy77#0274, hmmmmmm
+01 Apr 2017 22:09:44 : LimitlessMc, botchat, Wertfuzzy77#0274, don't know
+01 Apr 2017 22:10:17 : LimitlessMc, mainchat, How am i?#5495, Maybe pokes you catched
+01 Apr 2017 22:16:19 : LimitlessMc, mainchat, Wertfuzzy77#0274, messed with the colors a little, and made it customizable by the player
+01 Apr 2017 22:16:51 : LimitlessMc, mainchat, Wertfuzzy77#0274, have you used my bot before?
+01 Apr 2017 22:18:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+01 Apr 2017 22:18:12 : LimitlessMc, botchat, Botfuzzy77#2209, :first_place: **TherminatorX** Level **44** Prestige **2**
+:second_place: **Wertfuzzy77** Level **31** Prestige **1**
+:third_place: **Crystal4209** Level **29** Prestige **1**
+:medal: theOnlyJuan Level 25 Prestige 1
+:medal: MrMudkipKipperten Level 22 Prestige 1
+:medal: MoonWolf Level 14 Prestige 1
+:medal: DanTurboX Level 14 Prestige 1
+:medal: jjtwilefc Level 53 Prestige 0
+:medal: Bakafish Level 40 Prestige 0
+:medal: Mr. AlphaMeeseeks Level 34 Prestige 0
+:medal: 🌟💖Resolate💖🌟 Level 34 Prestige 0
+:medal: Third_Worm Level 33 Prestige 0
+:medal: PostalOffice Level 26 Prestige 0
+:medal: StubbyMuffins Level 24 Prestige 0
+:medal: Dzepps Level 23 Prestige 0
+:medal: Saba Level 17 Prestige 0
+:medal: Niionkai Level 16 Prestige 0
+:medal: Lightning Level 12 Prestige 0
+:medal: StarwinnerCraft Level 11 Prestige 0
+:medal: Dasher Level 10 Prestige 0
+01 Apr 2017 22:18:18 : LimitlessMc, mainchat, How am i?#5495, Yeah, have talked with it a few times why? Hah
+01 Apr 2017 22:18:25 : LimitlessMc, mainchat, Wertfuzzy77#0274, do ;level
+01 Apr 2017 22:18:30 : LimitlessMc, mainchat, Wertfuzzy77#0274, I wanna get your data 😛
+01 Apr 2017 22:18:36 : LimitlessMc, mainchat, How am i?#5495, Okey haha
+01 Apr 2017 22:18:46 : LimitlessMc, botchat, How am i?#5495, ;level
+01 Apr 2017 22:18:46 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *How am i?*
+**Level**: 5
+**Prestige**: 0
+01 Apr 2017 22:18:46 : LimitlessMc, botchat, Botfuzzy77#2209, 
+01 Apr 2017 22:18:46 : LimitlessMc, botchat, Botfuzzy77#2209, **XP**: 0/216
+**Boss Takedowns**: 0
+**Most Dmg in an Attack**: 0
+01 Apr 2017 22:19:16 : LimitlessMc, mainchat, How am i?#5495, Its so bad haha
+01 Apr 2017 22:19:25 : LimitlessMc, mainchat, How am i?#5495, My level haha
+01 Apr 2017 22:20:03 : LimitlessMc, botchat, Wertfuzzy77#0274, Well, hopefully in a few minutes, you would see this instead
+01 Apr 2017 22:20:09 : LimitlessMc, mainchat, Vinyl Scratch#2518, anyone here that can help me
+01 Apr 2017 22:20:15 : LimitlessMc, mainchat, Wertfuzzy77#0274, with?
+01 Apr 2017 22:20:31 : LimitlessMc, mainchat, Vinyl Scratch#2518, im trying to figure out how to increase my claim without having to always make a box
+01 Apr 2017 22:20:31 : LimitlessMc, botchat, How am i?#5495, Ooo, okey i will again afterwords then
+01 Apr 2017 22:20:47 : LimitlessMc, mainchat, Wertfuzzy77#0274, has to be a box
+01 Apr 2017 22:20:55 : LimitlessMc, mainchat, How am i?#5495, XD
+01 Apr 2017 22:20:57 : LimitlessMc, mainchat, Wertfuzzy77#0274, but you could try making several different claims
+01 Apr 2017 22:21:05 : LimitlessMc, mainchat, Wertfuzzy77#0274, instead of 1 big one
+01 Apr 2017 22:21:15 : LimitlessMc, mainchat, Vinyl Scratch#2518, then how did this one guy have 2 claims in 2 different locations?
+01 Apr 2017 22:21:38 : LimitlessMc, mainchat, Wertfuzzy77#0274, well, you can seperate your claim chunks into seperate boxes, but all of them have to be boxes
+01 Apr 2017 22:21:58 : LimitlessMc, mainchat, Vinyl Scratch#2518, if you cant increase your claim because it must be a box at all times then he shouldnt beable to seperate it
+01 Apr 2017 22:22:09 : LimitlessMc, mainchat, Wertfuzzy77#0274, he has 2 boxes
+01 Apr 2017 22:22:11 : LimitlessMc, mainchat, Vinyl Scratch#2518, thats what you told me
+01 Apr 2017 22:22:18 : LimitlessMc, mainchat, Vinyl Scratch#2518, you said it must be a box
+01 Apr 2017 22:22:20 : LimitlessMc, mainchat, Wertfuzzy77#0274, no, i said it has to be a box
+01 Apr 2017 22:22:24 : LimitlessMc, mainchat, Vinyl Scratch#2518, yea
+01 Apr 2017 22:22:25 : LimitlessMc, mainchat, Wertfuzzy77#0274, didnt say you coudlnt have 2
+01 Apr 2017 22:22:34 : LimitlessMc, mainchat, Vinyl Scratch#2518, but you can only have 1 box
+01 Apr 2017 22:22:37 : LimitlessMc, mainchat, Wertfuzzy77#0274, no
+01 Apr 2017 22:22:47 : LimitlessMc, mainchat, Vinyl Scratch#2518, then you do not understand what i am asking
+01 Apr 2017 22:22:55 : LimitlessMc, mainchat, Wertfuzzy77#0274, then ask again
+01 Apr 2017 22:22:59 : LimitlessMc, mainchat, Wertfuzzy77#0274, and maybe I'll get it
+01 Apr 2017 22:23:35 : LimitlessMc, mainchat, How am i?#5495, @Vinyl Scratch  one chunk is 16×16, right? You have 5 chunka in the beginning i think, then you can claim chunks at different places
+01 Apr 2017 22:24:00 : LimitlessMc, mainchat, How am i?#5495, One chunk will always be a box
+01 Apr 2017 22:24:12 : LimitlessMc, mainchat, Vinyl Scratch#2518, im asking how do you claim chunks without having them to be a giant box
+01 Apr 2017 22:24:20 : LimitlessMc, mainchat, Vinyl Scratch#2518, my claim is 3x5
+01 Apr 2017 22:24:29 : LimitlessMc, mainchat, Vinyl Scratch#2518, i cannot seperate it
+01 Apr 2017 22:24:32 : LimitlessMc, mainchat, How am i?#5495, Use a stick on the claim
+01 Apr 2017 22:24:45 : LimitlessMc, mainchat, How am i?#5495, And you will se your land
+01 Apr 2017 22:24:50 : LimitlessMc, mainchat, Vinyl Scratch#2518, if i try to seperate it it deleted my claim
+01 Apr 2017 22:25:10 : LimitlessMc, mainchat, How am i?#5495, Not all tho, only the chunk you are standing om
+01 Apr 2017 22:25:11 : LimitlessMc, mainchat, Wertfuzzy77#0274, you can't "seperate" a claim once its been made, you can re-size it tho
+01 Apr 2017 22:25:27 : LimitlessMc, mainchat, Wertfuzzy77#0274, but you can claim a 2nd claim somewhere else
+01 Apr 2017 22:25:31 : LimitlessMc, mainchat, Vinyl Scratch#2518, yea every time i resize it it destroys what i want
+01 Apr 2017 22:25:48 : LimitlessMc, mainchat, Vinyl Scratch#2518, still not understanding ive told third this
+01 Apr 2017 22:25:54 : LimitlessMc, mainchat, Vinyl Scratch#2518, no one understands me
+01 Apr 2017 22:25:59 : LimitlessMc, mainchat, Wertfuzzy77#0274, are you ig?
+01 Apr 2017 22:26:03 : LimitlessMc, mainchat, Vinyl Scratch#2518, yes
+01 Apr 2017 22:26:25 : LimitlessMc, mainchat, Wertfuzzy77#0274, alright, gimme a sec, ill log on and take a look
+01 Apr 2017 22:26:29 : LimitlessMc, mainchat, Vinyl Scratch#2518, also wert your more on topic of what im trying to talk about that this other guy
+01 Apr 2017 22:26:31 : LimitlessMc, mainchat, How am i?#5495, Mostly because we dont understand the question
+01 Apr 2017 22:27:02 : LimitlessMc, mainchat, How am i?#5495, Ey, dont call me other guy
+01 Apr 2017 22:27:14 : LimitlessMc, mainchat, Vinyl Scratch#2518, im not calling you by your name either
+01 Apr 2017 22:27:23 : LimitlessMc, mainchat, Wertfuzzy77#0274, eh... I don't have the new versino of pixelmon installed
+01 Apr 2017 22:27:27 : LimitlessMc, mainchat, Wertfuzzy77#0274, could be a while
+01 Apr 2017 22:27:28 : LimitlessMc, mainchat, How am i?#5495, Hahahaha
+01 Apr 2017 22:27:38 : LimitlessMc, mainchat, How am i?#5495, Isnt cryo on?
+01 Apr 2017 22:27:43 : LimitlessMc, mainchat, Vinyl Scratch#2518, no
+01 Apr 2017 22:27:52 : LimitlessMc, mainchat, How am i?#5495, Justin?
+01 Apr 2017 22:28:06 : LimitlessMc, mainchat, Vinyl Scratch#2518, yea but he says the samething that wet is saying
+01 Apr 2017 22:28:06 : LimitlessMc, botchat, JustinOPGamer#9138, ;train
+01 Apr 2017 22:28:06 : LimitlessMc, botchat, Botfuzzy77#2209, You *Lost* to a Level 6 **Palpitoad** (41% to beat)
+You *Lost* to a Level 5 **Magmar** (50% to beat)
+You Find a **Pokeloot** worth 6 XP
+01 Apr 2017 22:28:06 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 6 (+ 0) XP
+01 Apr 2017 22:28:16 : LimitlessMc, mainchat, Vinyl Scratch#2518, actually no
+01 Apr 2017 22:28:21 : LimitlessMc, mainchat, Vinyl Scratch#2518, justin is ignoring me
+01 Apr 2017 22:28:27 : LimitlessMc, mainchat, How am i?#5495, Looool
+01 Apr 2017 22:28:28 : LimitlessMc, mainchat, Vinyl Scratch#2518, and he only said 1 thing
+01 Apr 2017 22:28:36 : LimitlessMc, mainchat, Vinyl Scratch#2518, "do /buy chunks
+01 Apr 2017 22:28:43 : LimitlessMc, botchat, JustinOPGamer#9138, ;search Pokemon Theme song
+01 Apr 2017 22:28:44 : LimitlessMc, botchat, Botfuzzy77#2209, Added Pokémon Theme Song to the queue
+01 Apr 2017 22:28:44 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=JuYeHPFR3f0
+01 Apr 2017 22:28:51 : LimitlessMc, botchat, JustinOPGamer#9138, ;loop 5
+01 Apr 2017 22:28:52 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*Pokémon Theme Song*' **5** more times
+01 Apr 2017 22:28:53 : LimitlessMc, mainchat, How am i?#5495, Can i ask you something?
+01 Apr 2017 22:28:54 : LimitlessMc, mainchat, Pouting#0986, https://youtu.be/IYbUbQxXb7w
+01 Apr 2017 22:29:28 : LimitlessMc, mainchat, Wertfuzzy77#0274, so let me get this clear, you have a large claim, and you want to seperate it into 2 claims
+01 Apr 2017 22:29:38 : LimitlessMc, mainchat, Vinyl Scratch#2518, yes
+01 Apr 2017 22:29:42 : LimitlessMc, mainchat, JustinOPGamer#9138, https://cdn.discordapp.com/attachments/174393511116931072/297860004441096192/unknown.png
+01 Apr 2017 22:29:48 : LimitlessMc, mainchat, Wertfuzzy77#0274, question 1, why
+01 Apr 2017 22:29:55 : LimitlessMc, mainchat, JustinOPGamer#9138, y not
+01 Apr 2017 22:30:00 : LimitlessMc, mainchat, Wertfuzzy77#0274, well, no, not you justin
+01 Apr 2017 22:30:02 : LimitlessMc, mainchat, Vinyl Scratch#2518, bucause im trying to claim certain parts
+01 Apr 2017 22:30:08 : LimitlessMc, mainchat, Wertfuzzy77#0274, certain parts meaning?
+01 Apr 2017 22:30:16 : LimitlessMc, mainchat, How am i?#5495, @JustinOPGamer  can you ride the megas now?
+01 Apr 2017 22:30:16 : LimitlessMc, mainchat, Vinyl Scratch#2518, gym and my room
+01 Apr 2017 22:30:25 : LimitlessMc, mainchat, JustinOPGamer#9138, @How am i?  nope
+01 Apr 2017 22:30:27 : LimitlessMc, mainchat, JustinOPGamer#9138, i can
+01 Apr 2017 22:30:32 : LimitlessMc, mainchat, How am i?#5495, How
+01 Apr 2017 22:30:34 : LimitlessMc, mainchat, JustinOPGamer#9138, but u cant normally
+01 Apr 2017 22:30:37 : LimitlessMc, mainchat, Wertfuzzy77#0274, you have to claim in 16x16 chunks, you cant claim individual blocks
+01 Apr 2017 22:30:37 : LimitlessMc, mainchat, Vinyl Scratch#2518, /ride command
+01 Apr 2017 22:30:39 : LimitlessMc, mainchat, JustinOPGamer#9138, ^^^
+01 Apr 2017 22:31:01 : LimitlessMc, mainchat, Vinyl Scratch#2518, i dont have enough chunks to buy a 16x16
+01 Apr 2017 22:31:01 : LimitlessMc, mainchat, Wertfuzzy77#0274, so I'm assuming you want to claim the chunks your room is in?
+01 Apr 2017 22:31:13 : LimitlessMc, mainchat, Wertfuzzy77#0274, each chunk isss 16x16
+01 Apr 2017 22:31:16 : LimitlessMc, mainchat, Vinyl Scratch#2518, i have a 3x5
+01 Apr 2017 22:31:23 : LimitlessMc, mainchat, Vinyl Scratch#2518, which is 15 chunks
+01 Apr 2017 22:31:28 : LimitlessMc, mainchat, How am i?#5495, @Vinyl Scratch  btw which gym you doing?
+01 Apr 2017 22:31:51 : LimitlessMc, mainchat, Wertfuzzy77#0274, what happens when you do /buychunks whats the number you get?
+01 Apr 2017 22:31:59 : LimitlessMc, mainchat, Vinyl Scratch#2518, 15 out of 16
+01 Apr 2017 22:32:04 : LimitlessMc, mainchat, Vinyl Scratch#2518, because 16 is default
+01 Apr 2017 22:32:11 : LimitlessMc, mainchat, Wertfuzzy77#0274, so you can claim 15 16x16 areas
+01 Apr 2017 22:32:30 : LimitlessMc, mainchat, Vinyl Scratch#2518, my claim is 3x5 not 16x16
+01 Apr 2017 22:32:53 : LimitlessMc, mainchat, Wertfuzzy77#0274, it doesnt matter how small your claim is, you can ONLY claim in 16x16 areas
+01 Apr 2017 22:32:59 : LimitlessMc, mainchat, How am i?#5495, My brian hurts
+01 Apr 2017 22:33:01 : LimitlessMc, mainchat, Wertfuzzy77#0274, so if you claim that 3x5 you claim the whole 16x16 it is in
+01 Apr 2017 22:33:03 : LimitlessMc, mainchat, How am i?#5495, Alot
+01 Apr 2017 22:33:03 : LimitlessMc, mainchat, Vinyl Scratch#2518, im trying to get my storage room claimed but i cannot do it everytime i do it it gets rid of my other claim
+01 Apr 2017 22:33:22 : LimitlessMc, mainchat, Vinyl Scratch#2518, never mind
+01 Apr 2017 22:33:27 : LimitlessMc, mainchat, Vinyl Scratch#2518, ill wait till third gets on
+01 Apr 2017 22:33:43 : LimitlessMc, mainchat, Wertfuzzy77#0274, well, I'll be IG shortly, and I can explan better
+01 Apr 2017 22:34:04 : LimitlessMc, mainchat, Vinyl Scratch#2518, first off wert you are off topic to what im talking about
+01 Apr 2017 22:34:05 : LimitlessMc, mainchat, How am i?#5495, @Vinyl Scratch whiåch gym you doing?
+01 Apr 2017 22:34:07 : LimitlessMc, mainchat, Ankorzz#4034, so apparently there's a donation limit on the webstore and i've reached it
+01 Apr 2017 22:34:39 : LimitlessMc, mainchat, Vinyl Scratch#2518, you are talking about a single claim i am talking about seperating claims
+01 Apr 2017 22:35:02 : LimitlessMc, mainchat, Ankorzz#4034, are they near eachother?
+01 Apr 2017 22:35:06 : LimitlessMc, mainchat, Wertfuzzy77#0274, but you are trying to claim a 3x5 area... and I'm telling you you cant
+01 Apr 2017 22:35:25 : LimitlessMc, mainchat, Vinyl Scratch#2518, no im not
+01 Apr 2017 22:35:35 : LimitlessMc, mainchat, Vinyl Scratch#2518, i said i HAVE a 3x5 area
+01 Apr 2017 22:35:43 : LimitlessMc, mainchat, Vinyl Scratch#2518, thats my gym
+01 Apr 2017 22:36:01 : LimitlessMc, mainchat, Vinyl Scratch#2518, but i cannot claim anything without it becoming either 4x5 or 3x6
+01 Apr 2017 22:36:23 : LimitlessMc, mainchat, Wertfuzzy77#0274, o, thats a chunk border problem
+01 Apr 2017 22:36:29 : LimitlessMc, mainchat, Wertfuzzy77#0274, I can explain that ez ig
+01 Apr 2017 22:37:09 : LimitlessMc, mainchat, How am i?#5495, Now as that is explaind, which gym you going for or have? @Vinyl Scratch
+01 Apr 2017 22:37:16 : LimitlessMc, mainchat, How am i?#5495, Pliss tell me noe
+01 Apr 2017 22:37:17 : LimitlessMc, mainchat, How am i?#5495, Now
+01 Apr 2017 22:37:20 : LimitlessMc, mainchat, How am i?#5495, I begg
+01 Apr 2017 22:37:26 : LimitlessMc, mainchat, Wertfuzzy77#0274, whats you ig name?
+01 Apr 2017 22:37:55 : LimitlessMc, mainchat, How am i?#5495, @Crystal4209  hey sis
+01 Apr 2017 22:38:01 : LimitlessMc, mainchat, Crystal4209#4698, Yo
+01 Apr 2017 22:38:09 : LimitlessMc, mainchat, How am i?#5495, Was sup?
+01 Apr 2017 22:38:34 : LimitlessMc, mainchat, Vinyl Scratch#2518, slate spear
+01 Apr 2017 22:38:50 : LimitlessMc, mainchat, Crystal4209#4698, Eh my brain hurts from reading that conversation, other than that it's an eh
+01 Apr 2017 22:39:01 : LimitlessMc, mainchat, How am i?#5495, ^ i feel you sis
+01 Apr 2017 22:39:13 : LimitlessMc, mainchat, How am i?#5495, Have been here the whole time and this is going deeep
+01 Apr 2017 22:39:30 : LimitlessMc, botchat, Third_Worm#4804, ...
+01 Apr 2017 22:39:32 : LimitlessMc, mainchat, How am i?#5495, @Third_Worm  hey second sis
+01 Apr 2017 22:39:32 : LimitlessMc, botchat, Third_Worm#4804, shit
+01 Apr 2017 22:39:38 : LimitlessMc, mainchat, Third_Worm#4804, Hey Bro
+01 Apr 2017 22:39:41 : LimitlessMc, mainchat, Third_Worm#4804, Hows it goin?
+01 Apr 2017 22:39:44 : LimitlessMc, mainchat, JustinOPGamer#9138, Pokemon
+01 Apr 2017 22:39:49 : LimitlessMc, mainchat, How am i?#5495, @ruleroftri  hey ruler
+01 Apr 2017 22:39:52 : LimitlessMc, mainchat, Third_Worm#4804, i noticed ;-;
+01 Apr 2017 22:39:59 : LimitlessMc, botchat, Third_Worm#4804, fine
+01 Apr 2017 22:40:02 : LimitlessMc, botchat, JustinOPGamer#9138, ;loop 900000000000000000000000000000
+01 Apr 2017 22:40:02 : LimitlessMc, botchat, Botfuzzy77#2209, Can not loop that many times!
+01 Apr 2017 22:40:03 : LimitlessMc, botchat, Third_Worm#4804, lets do pokemon
+01 Apr 2017 22:40:05 : LimitlessMc, botchat, Third_Worm#4804, o-o]
+01 Apr 2017 22:40:18 : LimitlessMc, botchat, JustinOPGamer#9138, ;search Counting Stars
+01 Apr 2017 22:40:19 : LimitlessMc, botchat, Botfuzzy77#2209, Added OneRepublic - Counting Stars to the queue
+01 Apr 2017 22:40:19 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=hT_nvWreIhg
+01 Apr 2017 22:40:25 : LimitlessMc, mainchat, How am i?#5495, Good, with you?
+01 Apr 2017 22:40:26 : LimitlessMc, botchat, JustinOPGamer#9138, ;skip
+01 Apr 2017 22:40:26 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Pokémon Theme Song by request of the requester
+01 Apr 2017 22:40:30 : LimitlessMc, botchat, JustinOPGamer#9138, ;skip
+01 Apr 2017 22:40:30 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Pokémon Theme Song by request of the requester
+01 Apr 2017 22:40:34 : LimitlessMc, botchat, Third_Worm#4804, Le
+01 Apr 2017 22:40:35 : LimitlessMc, botchat, JustinOPGamer#9138, ;skip
+01 Apr 2017 22:40:36 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Pokémon Theme Song by request of the requester
+01 Apr 2017 22:40:39 : LimitlessMc, mainchat, Third_Worm#4804, eh
+01 Apr 2017 22:40:40 : LimitlessMc, mainchat, How am i?#5495, Was hoping ruler had answered me haha
+01 Apr 2017 22:40:41 : LimitlessMc, mainchat, Third_Worm#4804, fine
+01 Apr 2017 22:41:06 : LimitlessMc, botchat, Third_Worm#4804, eee i forgot the song name brb
+01 Apr 2017 22:41:08 : LimitlessMc, botchat, Third_Worm#4804, but first
+01 Apr 2017 22:41:10 : LimitlessMc, mainchat, How am i?#5495, You need to read the conversation le, its bants
+01 Apr 2017 22:41:10 : LimitlessMc, botchat, JustinOPGamer#9138, @Third_Worm  ATTACK ON TITAN SEASON 2 EP 1 IS OUT
+01 Apr 2017 22:41:15 : LimitlessMc, mainchat, Crystal4209#4698, I don't think he pays attention to this
+01 Apr 2017 22:41:27 : LimitlessMc, botchat, Third_Worm#4804, ;search Clas-WHAT I DIDN"T GET A NOFICATION
+01 Apr 2017 22:41:32 : LimitlessMc, mainchat, How am i?#5495, Same, just said hello anyway haha
+01 Apr 2017 22:41:42 : LimitlessMc, botchat, Third_Worm#4804, ;-; omg omg omg
+01 Apr 2017 22:41:43 : LimitlessMc, mainchat, Crystal4209#4698, @ruleroftri nub
+01 Apr 2017 22:41:53 : LimitlessMc, botchat, JustinOPGamer#9138, ill give u link to watch
+01 Apr 2017 22:41:57 : LimitlessMc, botchat, Third_Worm#4804, please do
+01 Apr 2017 22:41:57 : LimitlessMc, botchat, JustinOPGamer#9138, brb stay here
+01 Apr 2017 22:41:59 : LimitlessMc, mainchat, How am i?#5495, @MattRuc  hey matt
+01 Apr 2017 22:42:26 : LimitlessMc, botchat, Third_Worm#4804, ;search Classic
+01 Apr 2017 22:42:27 : LimitlessMc, botchat, Botfuzzy77#2209, Added MKTO - Classic to the queue
+01 Apr 2017 22:42:27 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=4Ba_qTPA4Ds
+01 Apr 2017 22:42:29 : LimitlessMc, mainchat, ruleroftri#6648, Hi
+01 Apr 2017 22:42:31 : LimitlessMc, botchat, Third_Worm#4804, ty bby
+01 Apr 2017 22:42:38 : LimitlessMc, botchat, JustinOPGamer#9138, https://ww1.gogoanime.io/shingeki-no-kyojin-season-2-episode-1
+01 Apr 2017 22:42:58 : LimitlessMc, mainchat, ruleroftri#6648, Why was I summoned
+01 Apr 2017 22:43:00 : LimitlessMc, mainchat, Wertfuzzy77#0274, lol
+01 Apr 2017 22:43:06 : LimitlessMc, mainchat, Crystal4209#4698, Lel
+01 Apr 2017 22:43:29 : LimitlessMc, mainchat, How am i?#5495, Hey ruler
+01 Apr 2017 22:43:36 : LimitlessMc, mainchat, How am i?#5495, Because your the best
+01 Apr 2017 22:43:40 : LimitlessMc, mainchat, Wertfuzzy77#0274, well, in order to claim the gym and that room, you need 3x5 chunks
+01 Apr 2017 22:43:50 : LimitlessMc, mainchat, ruleroftri#6648, I have no idea who you even are with the new picture and name
+01 Apr 2017 22:43:58 : LimitlessMc, mainchat, Wertfuzzy77#0274, cant
+01 Apr 2017 22:44:01 : LimitlessMc, mainchat, Wertfuzzy77#0274, ill show you
+01 Apr 2017 22:44:12 : LimitlessMc, mainchat, Wertfuzzy77#0274, it crosses chunk borders
+01 Apr 2017 22:44:12 : LimitlessMc, mainchat, Wertfuzzy77#0274, nope
+01 Apr 2017 22:44:15 : LimitlessMc, mainchat, Wertfuzzy77#0274, chunks are by world
+01 Apr 2017 22:44:47 : LimitlessMc, mainchat, How am i?#5495, @ruleroftri  okey now
+01 Apr 2017 22:45:01 : LimitlessMc, botchat, JustinOPGamer#9138, https://cdn.discordapp.com/attachments/279750074257375233/297863932293545995/unknown.png
+01 Apr 2017 22:45:19 : LimitlessMc, mainchat, Talha_choudhry#5495, Now
+01 Apr 2017 22:45:21 : LimitlessMc, mainchat, Wertfuzzy77#0274, yes
+01 Apr 2017 22:45:21 : LimitlessMc, mainchat, Talha_choudhry#5495, Haha
+01 Apr 2017 22:45:22 : LimitlessMc, mainchat, ruleroftri#6648, Oh ij
+01 Apr 2017 22:45:24 : LimitlessMc, mainchat, ruleroftri#6648, Ok
+01 Apr 2017 22:45:34 : LimitlessMc, mainchat, ruleroftri#6648, How's it been?
+01 Apr 2017 22:45:45 : LimitlessMc, mainchat, Talha_choudhry#5495, Good, how about you?
+01 Apr 2017 22:45:54 : LimitlessMc, mainchat, ruleroftri#6648, Eh, not a great day for me
+01 Apr 2017 22:46:16 : LimitlessMc, botchat, Third_Worm#4804, @JustinOPGamer did you just
+01 Apr 2017 22:46:20 : LimitlessMc, botchat, Third_Worm#4804, try to prank me
+01 Apr 2017 22:46:21 : LimitlessMc, mainchat, Talha_choudhry#5495, Very much work?
+01 Apr 2017 22:46:27 : LimitlessMc, botchat, JustinOPGamer#9138, ?
+01 Apr 2017 22:46:28 : LimitlessMc, botchat, JustinOPGamer#9138, wym
+01 Apr 2017 22:46:44 : LimitlessMc, mainchat, ruleroftri#6648, Nah, well, I'm at work, but that's not the reason
+01 Apr 2017 22:46:58 : LimitlessMc, mainchat, Talha_choudhry#5495, Just other stuf
+01 Apr 2017 22:47:01 : LimitlessMc, mainchat, ruleroftri#6648, Yeah
+01 Apr 2017 22:47:15 : LimitlessMc, mainchat, Talha_choudhry#5495, Hah
+01 Apr 2017 22:47:28 : LimitlessMc, mainchat, Talha_choudhry#5495, Hoper you feel well now tho
+01 Apr 2017 22:47:32 : LimitlessMc, botchat, JustinOPGamer#9138, @Third_Worm  what
+01 Apr 2017 22:47:33 : LimitlessMc, mainchat, Talha_choudhry#5495, Or soon
+01 Apr 2017 22:47:44 : LimitlessMc, botchat, Third_Worm#4804, oh nvm, now its loading, i had to reload
+01 Apr 2017 22:48:16 : LimitlessMc, botchat, Third_Worm#4804, it won't load ;-;
+01 Apr 2017 22:48:26 : LimitlessMc, mainchat, ruleroftri#6648, Nah, I still feel sucky
+01 Apr 2017 22:48:26 : LimitlessMc, botchat, JustinOPGamer#9138, thats on u
+01 Apr 2017 22:48:28 : LimitlessMc, botchat, JustinOPGamer#9138, lol
+01 Apr 2017 22:48:33 : LimitlessMc, botchat, JustinOPGamer#9138, u got bad internet
+01 Apr 2017 22:48:37 : LimitlessMc, mainchat, Talha_choudhry#5495, @Third_Worm  your toooo loud haha bloowed my ears haha
+01 Apr 2017 22:48:47 : LimitlessMc, mainchat, darth kota#9446, any mods or admins???
+01 Apr 2017 22:48:48 : LimitlessMc, mainchat, Third_Worm#4804, breh
+01 Apr 2017 22:48:51 : LimitlessMc, mainchat, Third_Worm#4804, am loud for once
+01 Apr 2017 22:49:04 : LimitlessMc, mainchat, Third_Worm#4804, @darth kota right here
+01 Apr 2017 22:49:10 : LimitlessMc, mainchat, ruleroftri#6648, Im angry, and feel betrayed, but that's my problem
+01 Apr 2017 22:49:17 : LimitlessMc, mainchat, Talha_choudhry#5495, @darth kota  ehhh, dont you see yellow things
+01 Apr 2017 22:49:19 : LimitlessMc, mainchat, Third_Worm#4804, -> @Crystal4209 and her
+01 Apr 2017 22:49:43 : LimitlessMc, mainchat, Talha_choudhry#5495, @ruleroftri  thats very bad feel man, hurts to hear that
+01 Apr 2017 22:49:49 : LimitlessMc, mainchat, darth kota#9446, oh im new to discord ive only used it for 7 days to die with freinds
+01 Apr 2017 22:50:01 : LimitlessMc, mainchat, ruleroftri#6648, It's ok man, I shouldn't have said anything
+01 Apr 2017 22:50:01 : LimitlessMc, mainchat, darth kota#9446, i still cant get on
+01 Apr 2017 22:50:11 : LimitlessMc, botchat, Third_Worm#4804, i gotta download it don't i
+01 Apr 2017 22:50:49 : LimitlessMc, mainchat, Talha_choudhry#5495, @ruleroftri nah its good, i now how you feel, its good to say it out loud insteed of keeping it for yourself
+01 Apr 2017 22:51:18 : LimitlessMc, botchat, Crystal4209#4698, https://cdn.discordapp.com/attachments/277341556749500417/297627969449623552/2017-04-01_13.05.21.png
+01 Apr 2017 22:51:33 : LimitlessMc, mainchat, ruleroftri#6648, Nah, I'm just a little heated right now, and I gotta cool off a bit
+01 Apr 2017 22:51:37 : LimitlessMc, mainchat, darth kota#9446, some mod this morning was supposed to get jay to come rescue me
+01 Apr 2017 22:51:56 : LimitlessMc, mainchat, darth kota#9446, but im still stuck on ther outside here 😦
+01 Apr 2017 22:52:04 : LimitlessMc, mainchat, Crystal4209#4698, Oh
+01 Apr 2017 22:52:12 : LimitlessMc, mainchat, Crystal4209#4698, We need jay on
+01 Apr 2017 22:52:19 : LimitlessMc, mainchat, Talha_choudhry#5495, @ruleroftri  need anyone to talk to just tell me, haha
+01 Apr 2017 22:52:37 : LimitlessMc, mainchat, ruleroftri#6648, It's ok man, I just have some soul searching to do
+01 Apr 2017 22:52:40 : LimitlessMc, mainchat, Crystal4209#4698, Plus that wasn't a mod that was a admin aka @Light
+01 Apr 2017 22:53:05 : LimitlessMc, mainchat, darth kota#9446, oh okay thks
+01 Apr 2017 22:53:10 : LimitlessMc, mainchat, Talha_choudhry#5495, Okey, hope you find it out
+01 Apr 2017 22:53:21 : LimitlessMc, mainchat, ruleroftri#6648, Thanks
+01 Apr 2017 22:53:33 : LimitlessMc, mainchat, darth kota#9446, has jay been on at all
+01 Apr 2017 22:54:05 : LimitlessMc, mainchat, Talha_choudhry#5495, Np man, we all stick together in bad situations, we the Hood haha
+01 Apr 2017 22:54:34 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+01 Apr 2017 22:54:34 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: MKTO - Classic
+**Requester**: Third_Worm
+**URL**: <https://www.youtube.com/watch?v=4Ba_qTPA4Ds>
+```py
+Time: 0:02:53
+Views: 80,353,877
+Likes: 634,685, 97.96%
+Dislikes: 13,233, 2.04%
+Skips: 0/1```
+01 Apr 2017 22:54:39 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+01 Apr 2017 22:54:39 : LimitlessMc, botchat, Botfuzzy77#2209, Queue is Empty
+01 Apr 2017 22:54:39 : LimitlessMc, mainchat, Crystal4209#4698, Idk Iv been asleep this whole time only woke up 20 minutes ago
+01 Apr 2017 22:54:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio
+01 Apr 2017 22:54:42 : LimitlessMc, botchat, Botfuzzy77#2209, **Please choose one of these options**: 
+```py
+Electro Hub        (1111 Songs) https://temp.discord.fm/libraries/electro-hub
+Chill Corner       (731 Songs) https://temp.discord.fm/libraries/chill-corner
+Korean Madness     (386 Songs) https://temp.discord.fm/libraries/korean-madness
+Japanese Lounge    (827 Songs) https://temp.discord.fm/libraries/japanese-lounge
+Classical          (278 Songs) https://temp.discord.fm/libraries/classical
+Retro Renegade     (452 Songs) https://temp.discord.fm/libraries/retro-renegade
+Metal Mix          (556 Songs) https://temp.discord.fm/libraries/metal-mix
+Hip-hop            (434 Songs) https://temp.discord.fm/libraries/hip-hop
+Electro Swing      (341 Songs) https://temp.discord.fm/libraries/electro-swing
+Purely Pop         (329 Songs) https://temp.discord.fm/libraries/purely-pop
+Rock-n-Roll        (638 Songs) https://temp.discord.fm/libraries/rock-n-roll
+Coffee-house Jazz  (523 Songs) https://temp.discord.fm/libraries/coffee-house-jazz```
+Example: `;Radio Purely Pop`
+01 Apr 2017 22:54:48 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio Rock-n-Roll
+01 Apr 2017 22:54:48 : LimitlessMc, botchat, Botfuzzy77#2209, Now listening to **Rock-n-Roll** radio channel
+01 Apr 2017 22:54:56 : LimitlessMc, voice-junk, JustinOPGamer#9138, @Third_Worm  wym
+01 Apr 2017 22:55:01 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;song
+01 Apr 2017 22:55:01 : LimitlessMc, voice-junk, Botfuzzy77#2209, **Name**: The Joker- Steve Miller Band
+**Requester**: Radio: Rock-n-Roll
+**URL**: <https://www.youtube.com/watch?v=FgDU17xqNXo>
+```py
+Time: 0:03:39
+Views: 3,139,594
+Likes: 23,342, 96.96%
+Dislikes: 733, 3.04%
+Skips: 0/1```
+01 Apr 2017 22:55:06 : LimitlessMc, botchat, Talha_choudhry#5495, Good choice wert haha
+01 Apr 2017 22:55:07 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;loop 2
+01 Apr 2017 22:55:08 : LimitlessMc, voice-junk, Botfuzzy77#2209, Added '*The Joker- Steve Miller Band*' **2** more times
+01 Apr 2017 22:55:10 : LimitlessMc, mainchat, darth kota#9446, never thought when ill left in like 2015 id be stuck in exile
+01 Apr 2017 22:55:20 : LimitlessMc, botchat, Wertfuzzy77#0274, got to give credit to the bot
+01 Apr 2017 22:55:23 : LimitlessMc, botchat, Wertfuzzy77#0274, was his choice
+01 Apr 2017 22:55:32 : LimitlessMc, botchat, Wertfuzzy77#0274, I just told it to find me rock and roll
+01 Apr 2017 22:55:36 : LimitlessMc, botchat, Talha_choudhry#5495, @Botfuzzy77 thanks for the song
+01 Apr 2017 22:55:37 : LimitlessMc, botchat, Botfuzzy77#2209, You're welcome. I'm Dr Phils.
+01 Apr 2017 22:55:58 : LimitlessMc, botchat, Talha_choudhry#5495, Wert he dr. Phils now?
+01 Apr 2017 22:56:01 : LimitlessMc, botchat, Talha_choudhry#5495, Haha
+01 Apr 2017 22:56:41 : LimitlessMc, mainchat, Third_Worm#4804, @Crystal4209 hey bby
+01 Apr 2017 22:56:43 : LimitlessMc, mainchat, Third_Worm#4804, 😃
+01 Apr 2017 22:56:46 : LimitlessMc, mainchat, Third_Worm#4804, hows it goin
+01 Apr 2017 22:56:53 : LimitlessMc, mainchat, Crystal4209#4698, Lel
+01 Apr 2017 22:56:54 : LimitlessMc, mainchat, Talha_choudhry#5495, @Crystal4209  join fuzzy music its awsome music here haha
+01 Apr 2017 22:57:00 : LimitlessMc, mainchat, Third_Worm#4804, nah
+01 Apr 2017 22:57:03 : LimitlessMc, mainchat, Crystal4209#4698, Nah
+01 Apr 2017 22:57:06 : LimitlessMc, mainchat, Third_Worm#4804, we having a great talk in here
+01 Apr 2017 22:57:17 : LimitlessMc, mainchat, Crystal4209#4698, We have a party in here
+01 Apr 2017 22:57:21 : LimitlessMc, mainchat, Talha_choudhry#5495, Okey😔
+01 Apr 2017 22:57:30 : LimitlessMc, mainchat, Third_Worm#4804, 😄
+01 Apr 2017 22:57:36 : LimitlessMc, mainchat, Crystal4209#4698, 😄
+01 Apr 2017 22:57:45 : LimitlessMc, mainchat, Third_Worm#4804, rip
+01 Apr 2017 22:57:46 : LimitlessMc, mainchat, Crystal4209#4698, Lel
+01 Apr 2017 22:57:46 : LimitlessMc, mainchat, Wertfuzzy77#0274, been doing a thing for my bot
+01 Apr 2017 22:57:53 : LimitlessMc, mainchat, Pouting#0986, https://youtu.be/IYbUbQxXb7w
+01 Apr 2017 22:57:55 : LimitlessMc, mainchat, Third_Worm#4804, ooooooo
+01 Apr 2017 22:57:55 : LimitlessMc, mainchat, Pouting#0986, lul
+01 Apr 2017 22:57:58 : LimitlessMc, mainchat, Third_Worm#4804, thats cool
+01 Apr 2017 22:58:00 : LimitlessMc, mainchat, Third_Worm#4804, wert
+01 Apr 2017 22:58:07 : LimitlessMc, mainchat, Wertfuzzy77#0274, fully customizable
+01 Apr 2017 22:58:22 : LimitlessMc, mainchat, Wertfuzzy77#0274, it will be auto generated by ;level with your stats
+01 Apr 2017 22:58:25 : LimitlessMc, mainchat, Talha_choudhry#5495, Wert saved the imagen too, loved it haha
+01 Apr 2017 22:58:35 : LimitlessMc, mainchat, Wertfuzzy77#0274, ya xD that one came out well
+01 Apr 2017 22:58:58 : LimitlessMc, botchat, Talha_choudhry#5495, ;radio pop
+01 Apr 2017 22:59:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+01 Apr 2017 22:59:05 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 31
+**Prestige**: 1
+01 Apr 2017 22:59:06 : LimitlessMc, botchat, Botfuzzy77#2209, 
+01 Apr 2017 22:59:06 : LimitlessMc, botchat, Botfuzzy77#2209, **XP**: 22,577/32,768
+**Boss Takedowns**: 21
+**Most Dmg in an Attack**: 35,084
+01 Apr 2017 22:59:20 : LimitlessMc, botchat, Talha_choudhry#5495, Daim
+01 Apr 2017 22:59:26 : LimitlessMc, mainchat, Red_Dragon_333#4168, Hi people
+01 Apr 2017 22:59:32 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokedex
+01 Apr 2017 22:59:32 : LimitlessMc, botchat, Botfuzzy77#2209, Your Pokedex is 84.19% complete!
+01 Apr 2017 22:59:40 : LimitlessMc, botchat, Talha_choudhry#5495, ;pokedex
+01 Apr 2017 22:59:40 : LimitlessMc, botchat, Botfuzzy77#2209, Your Pokedex is -0.14% complete!
+01 Apr 2017 22:59:44 : LimitlessMc, botchat, Wertfuzzy77#0274, lol
+01 Apr 2017 22:59:46 : LimitlessMc, botchat, Wertfuzzy77#0274, do ;train
+01 Apr 2017 22:59:54 : LimitlessMc, botchat, Talha_choudhry#5495, ;train
+01 Apr 2017 22:59:54 : LimitlessMc, botchat, Botfuzzy77#2209, You *Lost* to a Level 6 **Marill** (41% to beat)
+You **Beat** a Level 6 **Garbodor** for 13 XP (41% to beat)
+You Find a **Pokeloot** worth 6 XP
+01 Apr 2017 22:59:55 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 19 (+ 0) XP
+01 Apr 2017 23:00:01 : Unity Of Nirvana, general, Red_Dragon_333#4168, Naw
+01 Apr 2017 23:00:06 : LimitlessMc, botchat, Talha_choudhry#5495, Hahaha shame
+01 Apr 2017 23:00:19 : LimitlessMc, voice-junk, Third_Worm#4804, 
+01 Apr 2017 23:00:29 : LimitlessMc, botchat, Talha_choudhry#5495, .luck
+01 Apr 2017 23:00:29 : LimitlessMc, botchat, LightBot#4090, Talha_choudhry's luck is 12.01 out of 100, which is **Completly Horrible**
+01 Apr 2017 23:00:35 : Unity Of Nirvana, general, Red_Dragon_333#4168, Me no gama bar
+01 Apr 2017 23:00:45 : LimitlessMc, mainchat, Talha_choudhry#5495, Hey red
+01 Apr 2017 23:00:56 : LimitlessMc, voice-junk, Third_Worm#4804, @JustinOPGamer
+01 Apr 2017 23:01:01 : LimitlessMc, mainchat, Red_Dragon_333#4168, Hi
+01 Apr 2017 23:01:27 : LimitlessMc, mainchat, Third_Worm#4804, @Crystal4209 *cougH*
+01 Apr 2017 23:01:32 : LimitlessMc, voice-junk, Talha_choudhry#5495, @Third_Worm  got that shiny dragonair
+01 Apr 2017 23:01:38 : LimitlessMc, voice-junk, Third_Worm#4804, ye
+01 Apr 2017 23:01:47 : LimitlessMc, voice-junk, Red_Dragon_333#4168, I got 2 shiny legends today
+01 Apr 2017 23:01:51 : LimitlessMc, voice-junk, Red_Dragon_333#4168, Lel
+01 Apr 2017 23:01:52 : LimitlessMc, voice-junk, Red_Dragon_333#4168, Third
+01 Apr 2017 23:01:59 : LimitlessMc, voice-junk, Red_Dragon_333#4168, I got the regigoggas
+01 Apr 2017 23:02:00 : LimitlessMc, voice-junk, Third_Worm#4804, ...
+01 Apr 2017 23:02:06 : LimitlessMc, voice-junk, Third_Worm#4804, Ender rod? @Red_Dragon_333
+01 Apr 2017 23:02:11 : LimitlessMc, voice-junk, Red_Dragon_333#4168, Hmm
+01 Apr 2017 23:02:13 : LimitlessMc, voice-junk, Talha_choudhry#5495, How did you get so many shniys?
+01 Apr 2017 23:02:14 : LimitlessMc, mainchat, darth kota#9446, Hey @Third_Worm would it cause a problem if
+01 Apr 2017 23:02:21 : LimitlessMc, voice-junk, Third_Worm#4804, i spammed my damn r button
+01 Apr 2017 23:02:23 : LimitlessMc, voice-junk, Red_Dragon_333#4168, Just one?
+01 Apr 2017 23:02:26 : LimitlessMc, voice-junk, Third_Worm#4804, and level balls
+01 Apr 2017 23:02:34 : LimitlessMc, voice-junk, Third_Worm#4804, @Red_Dragon_333 I only have 1, 1 for 1 regi
+01 Apr 2017 23:02:37 : LimitlessMc, mainchat, darth kota#9446, gave server info to some here for my own private server for testing purposes
+01 Apr 2017 23:02:41 : LimitlessMc, voice-junk, Red_Dragon_333#4168, Rip
+01 Apr 2017 23:02:46 : LimitlessMc, voice-junk, Red_Dragon_333#4168, I dont want dat
+01 Apr 2017 23:02:52 : LimitlessMc, voice-junk, Red_Dragon_333#4168, Le
+01 Apr 2017 23:02:58 : LimitlessMc, mainchat, Third_Worm#4804, Make sure its good with another staff i guess
+01 Apr 2017 23:03:19 : LimitlessMc, mainchat, darth kota#9446, ok might want to clear it with jay then
+01 Apr 2017 23:03:23 : LimitlessMc, voice-junk, Third_Worm#4804, ;-;
+01 Apr 2017 23:03:25 : LimitlessMc, voice-junk, Third_Worm#4804, red come on
+01 Apr 2017 23:03:30 : LimitlessMc, voice-junk, Red_Dragon_333#4168, Hmm
+01 Apr 2017 23:03:32 : LimitlessMc, voice-junk, Third_Worm#4804, i'm here to bargain
+01 Apr 2017 23:03:49 : LimitlessMc, voice-junk, Red_Dragon_333#4168, Naw no bargain
+01 Apr 2017 23:03:50 : LimitlessMc, voice-junk, Crystal4209#4698, Sam you want regi
+01 Apr 2017 23:03:51 : LimitlessMc, voice-junk, Red_Dragon_333#4168, Y
+01 Apr 2017 23:03:55 : LimitlessMc, voice-junk, Red_Dragon_333#4168, Bargain
+01 Apr 2017 23:04:01 : LimitlessMc, voice-junk, Third_Worm#4804, i want shiny regi yes
+01 Apr 2017 23:04:03 : LimitlessMc, mainchat, Wertfuzzy77#0274, just made a quick one for me
+01 Apr 2017 23:04:06 : LimitlessMc, voice-junk, Red_Dragon_333#4168, Ill do cheapee for u
+01 Apr 2017 23:04:13 : LimitlessMc, voice-junk, Red_Dragon_333#4168, Bit not much
+01 Apr 2017 23:04:16 : LimitlessMc, voice-junk, Red_Dragon_333#4168, But
+01 Apr 2017 23:04:17 : LimitlessMc, mainchat, Wertfuzzy77#0274, ugh, need to center that rank num
+01 Apr 2017 23:04:24 : LimitlessMc, botchat, Talha_choudhry#5495, ;songs
+01 Apr 2017 23:04:25 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+01 Apr 2017 23:04:25 : LimitlessMc, botchat, Botfuzzy77#2209, 1. The Police - De Do Do Do, De Da Da Da **Radio: Rock-n-Roll**
+	<https://www.youtube.com/watch?v=7v2GDbEmjGE>
+2. Styx - Fooling Yourself **Radio: Rock-n-Roll**
+	<https://www.youtube.com/watch?v=AtzIWPeun7c>
+3. QUEEN: We Are The Champions (HQ) **Radio: Rock-n-Roll**
+	<https://www.youtube.com/watch?v=aRlk72bQK90>
+4. Bad Company - Feel Like Making Love **Radio: Rock-n-Roll**
+	<https://www.youtube.com/watch?v=SEuKkcX1uKA>
+5. Electric Light Orchestra - Mr  Blue Sky **Radio: Rock-n-Roll**
+	<https://www.youtube.com/watch?v=bjPqsDU0j2I>
+Total Time is 0:23:00
+01 Apr 2017 23:04:25 : LimitlessMc, mainchat, Wertfuzzy77#0274, useless @Botfuzzy77 why can't you center yourself
+01 Apr 2017 23:04:54 : LimitlessMc, mainchat, Crystal4209#4698, Ooo do me
+01 Apr 2017 23:05:02 : LimitlessMc, voice-junk, Red_Dragon_333#4168, U have 10 choris flowers ?
+01 Apr 2017 23:05:06 : LimitlessMc, voice-junk, Red_Dragon_333#4168, Chorus
+01 Apr 2017 23:05:07 : LimitlessMc, botchat, Talha_choudhry#5495, ;search Swalla jason derulo
+01 Apr 2017 23:05:07 : LimitlessMc, mainchat, Third_Worm#4804, *raises hand*
+01 Apr 2017 23:05:08 : LimitlessMc, botchat, Botfuzzy77#2209, Turn off Radio mode first! (`;Radio off`)
+01 Apr 2017 23:05:23 : LimitlessMc, voice-junk, Red_Dragon_333#4168, Or wait
+01 Apr 2017 23:05:27 : LimitlessMc, voice-junk, Red_Dragon_333#4168, If i want
+01 Apr 2017 23:05:30 : LimitlessMc, voice-junk, Third_Worm#4804, ...
+01 Apr 2017 23:05:32 : LimitlessMc, voice-junk, Red_Dragon_333#4168, @Third_Worm
+01 Apr 2017 23:05:36 : LimitlessMc, voice-junk, Third_Worm#4804, i'm here
+01 Apr 2017 23:05:38 : LimitlessMc, voice-junk, Red_Dragon_333#4168, 1 end rod
+01 Apr 2017 23:05:43 : LimitlessMc, voice-junk, Red_Dragon_333#4168, And 2 plants
+01 Apr 2017 23:05:50 : LimitlessMc, mainchat, Talha_choudhry#5495, Hahah
+01 Apr 2017 23:05:55 : LimitlessMc, mainchat, Wertfuzzy77#0274, I'm gonna fix the centering then connect it to the bot, and everyone can make their own 😛
+01 Apr 2017 23:05:58 : LimitlessMc, voice-junk, Third_Worm#4804, ..
+01 Apr 2017 23:05:59 : LimitlessMc, botchat, Talha_choudhry#5495, ;level
+01 Apr 2017 23:05:59 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *How am i?*
+**Level**: 5
+**Prestige**: 0
+01 Apr 2017 23:06:00 : LimitlessMc, botchat, Botfuzzy77#2209, 
+01 Apr 2017 23:06:00 : LimitlessMc, botchat, Botfuzzy77#2209, **XP**: 19/216
+**Boss Takedowns**: 0
+**Most Dmg in an Attack**: 0
+01 Apr 2017 23:06:02 : LimitlessMc, voice-junk, Third_Worm#4804, @JustinOPGamer
+01 Apr 2017 23:06:06 : LimitlessMc, voice-junk, Red_Dragon_333#4168, ..
+01 Apr 2017 23:06:15 : LimitlessMc, mainchat, Talha_choudhry#5495, Yes
+01 Apr 2017 23:06:16 : LimitlessMc, voice-junk, Crystal4209#4698, .
+01 Apr 2017 23:06:25 : LimitlessMc, mainchat, Talha_choudhry#5495, Mine is made tho, but yeah
+01 Apr 2017 23:06:35 : LimitlessMc, voice-junk, Red_Dragon_333#4168, I cant send spaces so i send this
+01 Apr 2017 23:06:54 : LimitlessMc, mainchat, Talha_choudhry#5495, @wert does lights music work too?
+01 Apr 2017 23:06:55 : LimitlessMc, voice-junk, Crystal4209#4698, £€¥
+01 Apr 2017 23:07:03 : LimitlessMc, voice-junk, Red_Dragon_333#4168, Euro
+01 Apr 2017 23:07:06 : LimitlessMc, voice-junk, Red_Dragon_333#4168, Ftwi
+01 Apr 2017 23:07:16 : LimitlessMc, mainchat, Third_Worm#4804, eh
+01 Apr 2017 23:07:18 : LimitlessMc, mainchat, Third_Worm#4804, yeah
+01 Apr 2017 23:07:20 : LimitlessMc, mainchat, Wertfuzzy77#0274, ^
+01 Apr 2017 23:07:20 : LimitlessMc, voice-junk, Red_Dragon_333#4168, Lol
+01 Apr 2017 23:07:21 : LimitlessMc, mainchat, Wertfuzzy77#0274, "eh"
+01 Apr 2017 23:07:26 : LimitlessMc, mainchat, Talha_choudhry#5495, How haha
+01 Apr 2017 23:07:29 : LimitlessMc, mainchat, Talha_choudhry#5495, Botchat?
+01 Apr 2017 23:07:36 : LimitlessMc, mainchat, Wertfuzzy77#0274, it works the same as my bot
+01 Apr 2017 23:07:43 : LimitlessMc, mainchat, Talha_choudhry#5495, Oo,
+01 Apr 2017 23:07:45 : LimitlessMc, mainchat, Wertfuzzy77#0274, well, it is my bot xD
+01 Apr 2017 23:07:56 : LimitlessMc, mainchat, Wertfuzzy77#0274, just LIghtning's reskin
+01 Apr 2017 23:07:58 : LimitlessMc, mainchat, Talha_choudhry#5495, Hahahah, what do i type?
+01 Apr 2017 23:08:05 : LimitlessMc, voice-junk, Third_Worm#4804, get on
+01 Apr 2017 23:08:16 : LimitlessMc, mainchat, Talha_choudhry#5495, The code master wert
+01 Apr 2017 23:08:18 : LimitlessMc, mainchat, Wertfuzzy77#0274, you could just change the radio station on my bot if you want different music
+01 Apr 2017 23:08:23 : LimitlessMc, mainchat, Wertfuzzy77#0274, ;Radio <Station>
+01 Apr 2017 23:08:28 : LimitlessMc, mainchat, Talha_choudhry#5495, Oo okey
+01 Apr 2017 23:08:42 : LimitlessMc, botchat, Talha_choudhry#5495, ;radio pop
+01 Apr 2017 23:09:03 : LimitlessMc, botchat, Talha_choudhry#5495, Hahah
+01 Apr 2017 23:09:06 : LimitlessMc, botchat, Wertfuzzy77#0274, has to be ;Radio
+01 Apr 2017 23:09:10 : LimitlessMc, botchat, Wertfuzzy77#0274, capital R
+01 Apr 2017 23:09:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ik
+01 Apr 2017 23:09:13 : LimitlessMc, botchat, Wertfuzzy77#0274, its dumb
+01 Apr 2017 23:09:18 : LimitlessMc, botchat, Talha_choudhry#5495, ;Radio pop
+01 Apr 2017 23:09:19 : LimitlessMc, botchat, Botfuzzy77#2209, **Please choose one of these options**: 
+```py
+Electro Hub        (1111 Songs) https://temp.discord.fm/libraries/electro-hub
+Chill Corner       (731 Songs) https://temp.discord.fm/libraries/chill-corner
+Korean Madness     (386 Songs) https://temp.discord.fm/libraries/korean-madness
+Japanese Lounge    (827 Songs) https://temp.discord.fm/libraries/japanese-lounge
+Classical          (278 Songs) https://temp.discord.fm/libraries/classical
+Retro Renegade     (452 Songs) https://temp.discord.fm/libraries/retro-renegade
+Metal Mix          (556 Songs) https://temp.discord.fm/libraries/metal-mix
+Hip-hop            (434 Songs) https://temp.discord.fm/libraries/hip-hop
+Electro Swing      (341 Songs) https://temp.discord.fm/libraries/electro-swing
+Purely Pop         (329 Songs) https://temp.discord.fm/libraries/purely-pop
+Rock-n-Roll        (638 Songs) https://temp.discord.fm/libraries/rock-n-roll
+Coffee-house Jazz  (523 Songs) https://temp.discord.fm/libraries/coffee-house-jazz```
+Example: `;Radio Purely Pop`
+01 Apr 2017 23:09:19 : LimitlessMc, botchat, Botfuzzy77#2209, Currently listening to the *Rock-n-Roll* radio channel
+01 Apr 2017 23:09:29 : LimitlessMc, botchat, Wertfuzzy77#0274, and has to match exactly the station
+01 Apr 2017 23:09:41 : LimitlessMc, botchat, Talha_choudhry#5495, Daim
+01 Apr 2017 23:09:52 : LimitlessMc, botchat, Talha_choudhry#5495, ;Radio Purely Pop
+01 Apr 2017 23:09:52 : LimitlessMc, botchat, Botfuzzy77#2209, Now listening to **Purely Pop** radio channel
+01 Apr 2017 23:09:56 : LimitlessMc, botchat, Wertfuzzy77#0274, yeah, this code is a not super userfriendly, I need to go back and fix it
+01 Apr 2017 23:09:56 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+01 Apr 2017 23:09:57 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+01 Apr 2017 23:09:57 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Ed Sheeran - Photograph (Audio) **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=sToJIgJ4aHo>
+2. Only Love Can Hurt Like This   Paloma Faith Lyrics **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=09F4s4GQd2M>
+3. Taylor Swift - 22 (Audio) **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=hrrhOi9m_k0>
+Total Time is 0:12:06
+01 Apr 2017 23:10:05 : LimitlessMc, mainchat, Third_Worm#4804, @Red_Dragon_333 get on you nub
+01 Apr 2017 23:10:19 : LimitlessMc, botchat, Wertfuzzy77#0274, you can skip any song with ;skip
+01 Apr 2017 23:10:26 : LimitlessMc, mainchat, Red_Dragon_333#4168, On what
+01 Apr 2017 23:10:31 : LimitlessMc, mainchat, Red_Dragon_333#4168, Lol
+01 Apr 2017 23:10:42 : LimitlessMc, botchat, Talha_choudhry#5495, Okey, thanks, btw your soo smart could never do this hah
+01 Apr 2017 23:10:43 : LimitlessMc, mainchat, Red_Dragon_333#4168, Ima start pc up
+01 Apr 2017 23:10:46 : LimitlessMc, botchat, Wertfuzzy77#0274, you can also add songs directly with ;youtube <youtube link> or ;search <key words>
+01 Apr 2017 23:10:52 : LimitlessMc, mainchat, Red_Dragon_333#4168, Is it del?
+01 Apr 2017 23:10:52 : LimitlessMc, botchat, Botfuzzy77#2209, **Peeping Life: YouTuber-kun**
+Link: https://myanimelist.net/anime/20955
+**Episodes**: 4
+**Status**: Finished Airing
+**Rating**: 4.85 (by 93 users)
+**Kotonoha no Niwa**
+Link: https://myanimelist.net/anime/16782
+**Episodes**: 1
+**Status**: Finished Airing
+**Rating**: 8.33 (by 126,558 users)
+01 Apr 2017 23:10:54 : LimitlessMc, botchat, Wertfuzzy77#0274, thanks 😄
+01 Apr 2017 23:10:59 : LimitlessMc, botchat, Talha_choudhry#5495, 😉
+01 Apr 2017 23:11:00 : LimitlessMc, botchat, Wertfuzzy77#0274, kys @Botfuzzy77 you know what I wanted
+01 Apr 2017 23:11:02 : LimitlessMc, botchat, Botfuzzy77#2209, No, what do you want?
+01 Apr 2017 23:11:09 : LimitlessMc, mainchat, darth kota#9446, yaaaaa my computer is high end vr ready
+01 Apr 2017 23:11:16 : LimitlessMc, botchat, Wertfuzzy77#0274, <Kimi no Na wa>
+01 Apr 2017 23:11:19 : LimitlessMc, botchat, Botfuzzy77#2209, **Kimi ni Todoke**
+Link: https://myanimelist.net/anime/6045
+**Episodes**: 25
+**Status**: Finished Airing
+**Rating**: 8.18 (by 175,166 users)
+01 Apr 2017 23:11:21 : LimitlessMc, mainchat, Red_Dragon_333#4168, Ihm
+01 Apr 2017 23:11:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ......
+01 Apr 2017 23:11:25 : LimitlessMc, botchat, Wertfuzzy77#0274, <your name>
+01 Apr 2017 23:11:28 : LimitlessMc, botchat, Botfuzzy77#2209, **Kimi no Na wa.**
+Link: https://myanimelist.net/anime/32281
+**Episodes**: 1
+**Status**: Finished Airing
+**Rating**: 9.32 (by 152,630 users)
+01 Apr 2017 23:11:39 : LimitlessMc, mainchat, Red_Dragon_333#4168, What did i just say @Third_Worm
+01 Apr 2017 23:11:42 : LimitlessMc, botchat, Talha_choudhry#5495, What is this haha
+01 Apr 2017 23:12:01 : LimitlessMc, mainchat, Red_Dragon_333#4168, K
+01 Apr 2017 23:12:12 : LimitlessMc, botchat, Wertfuzzy77#0274, if you use do something surrounded in < it searches for an anime with that name
+01 Apr 2017 23:12:21 : LimitlessMc, botchat, Wertfuzzy77#0274, my bot has a bunch of random features
+01 Apr 2017 23:12:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;fml
+01 Apr 2017 23:12:28 : LimitlessMc, botchat, Botfuzzy77#2209, * Today, I was walking to get ice-cream with my boyfriend. When we were ordering our cone, the girl who was scooping it said to my boyfriend, "Hey I know you! You're the one who slept with my sister-in-law the other night." FML*
+01 Apr 2017 23:12:33 : LimitlessMc, mainchat, Red_Dragon_333#4168, Lol
+01 Apr 2017 23:12:51 : LimitlessMc, botchat, Talha_choudhry#5495, Hahahah lol
+01 Apr 2017 23:13:24 : LimitlessMc, voice-junk, Crystal4209#4698, Swablu
+01 Apr 2017 23:13:37 : LimitlessMc, voice-junk, Crystal4209#4698, Bruh
+01 Apr 2017 23:13:55 : LimitlessMc, voice-junk, Crystal4209#4698, Ima name it after my Bae
+01 Apr 2017 23:13:57 : LimitlessMc, voice-junk, Lightshadow#5809, Tell me when to unmute
+01 Apr 2017 23:14:37 : LimitlessMc, botchat, Talha_choudhry#5495, ;skip
+01 Apr 2017 23:14:37 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Only Love Can Hurt Like This   Paloma Faith Lyrics by request (Radio Song)
+01 Apr 2017 23:14:50 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;debug ctx.message.server.get_member_named("Wertfuzzy77").avatar_url
+01 Apr 2017 23:14:51 : LimitlessMc, voice-junk, Botfuzzy77#2209, ```py
+https://cdn.discordapp.com/avatars/134441036905840640/ca702f32197eddb6d75aecc7dd0ba98f.webp?size=1024
+```
+01 Apr 2017 23:15:48 : LimitlessMc, mainchat, Talha_choudhry#5495, Its taylor swift party at fuzzy music join ahha
+01 Apr 2017 23:17:04 : LimitlessMc, botchat, Talha_choudhry#5495, @Botfuzzy77 you think i am cool? Ahha
+01 Apr 2017 23:17:05 : LimitlessMc, botchat, Botfuzzy77#2209, I do think you're cool.
+01 Apr 2017 23:17:25 : LimitlessMc, botchat, Talha_choudhry#5495, @Botfuzzy77 thanks for the support hah
+01 Apr 2017 23:17:27 : LimitlessMc, botchat, Botfuzzy77#2209, For customer support, please press one.
+01 Apr 2017 23:17:39 : LimitlessMc, botchat, Talha_choudhry#5495, @Botfuzzy77 one
+01 Apr 2017 23:17:40 : LimitlessMc, botchat, Botfuzzy77#2209, What do you think of astral projection?
+01 Apr 2017 23:17:56 : LimitlessMc, botchat, Talha_choudhry#5495, @Botfuzzy77 not sure you?
+01 Apr 2017 23:17:57 : LimitlessMc, botchat, Botfuzzy77#2209, Would you like to ask me a question to find out what you think?
+01 Apr 2017 23:18:14 : LimitlessMc, mainchat, Crystal4209#4698, Lel
+01 Apr 2017 23:18:25 : LimitlessMc, botchat, Talha_choudhry#5495, @Botfuzzy77 how much do you now about pixelmon?
+01 Apr 2017 23:18:27 : LimitlessMc, botchat, Botfuzzy77#2209, I know everything about you.
+01 Apr 2017 23:18:42 : LimitlessMc, botchat, Talha_choudhry#5495, @Botfuzzy77 how old am i?
+01 Apr 2017 23:18:43 : LimitlessMc, botchat, Botfuzzy77#2209, You are an age.
+01 Apr 2017 23:18:59 : LimitlessMc, botchat, Talha_choudhry#5495, @Botfuzzy77 where do i live?
+01 Apr 2017 23:19:01 : LimitlessMc, botchat, Botfuzzy77#2209, You live in my belly.
+01 Apr 2017 23:19:12 : LimitlessMc, botchat, Talha_choudhry#5495, @Botfuzzy77 your wrong
+01 Apr 2017 23:19:15 : LimitlessMc, botchat, Botfuzzy77#2209, I know my own age.
+01 Apr 2017 23:19:22 : LimitlessMc, botchat, Talha_choudhry#5495, ;stop
+01 Apr 2017 23:19:35 : LimitlessMc, botchat, Talha_choudhry#5495, ;Song
+01 Apr 2017 23:19:39 : LimitlessMc, botchat, Talha_choudhry#5495, ,Sonhs
+01 Apr 2017 23:19:44 : LimitlessMc, botchat, Talha_choudhry#5495, ;Songs
+01 Apr 2017 23:19:53 : LimitlessMc, botchat, Talha_choudhry#5495, I quiet haha
+01 Apr 2017 23:20:12 : LimitlessMc, botchat, Wertfuzzy77#0274, its ;song 😛
+01 Apr 2017 23:20:16 : LimitlessMc, botchat, Wertfuzzy77#0274, no capital xD
+01 Apr 2017 23:20:20 : LimitlessMc, botchat, Talha_choudhry#5495, Oo
+01 Apr 2017 23:20:27 : LimitlessMc, botchat, Wertfuzzy77#0274, only ;Radio is weird
+01 Apr 2017 23:20:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+01 Apr 2017 23:20:29 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Avicii - Hey Brother (Lyric)
+**Requester**: Radio: Purely Pop
+**URL**: <https://www.youtube.com/watch?v=YxIiPLVR6NA>
+```py
+Time: 0:04:19
+Views: 278,925,572
+Likes: 1,258,833, 96.38%
+Dislikes: 47,231, 3.62%
+Skips: 0/0```
+01 Apr 2017 23:20:33 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+01 Apr 2017 23:20:33 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+01 Apr 2017 23:20:33 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Katy Perry - Firework (Lyric Video) **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=b3bkpyNiv8Y>
+2. Hailee Steinfeld, Grey - Starving ft. Zedd **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=xwjwCFZpdns>
+3. The days - Avicii (Official Audio) **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=YF29ZNc9hXE>
+4. Adele - Skyfall (Lyric Video) **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=DeumyOzKqgI>
+5. will.i.am - It's my birthday Lyrics **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=Y9GQiJm2SuE>
+Total Time is 0:19:40
+01 Apr 2017 23:20:35 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+01 Apr 2017 23:20:35 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Avicii - Hey Brother (Lyric) by request (Radio Song)
+01 Apr 2017 23:20:39 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 4
+01 Apr 2017 23:20:39 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: will.i.am - It's my birthday Lyrics
+01 Apr 2017 23:20:59 : LimitlessMc, botchat, Talha_choudhry#5495, Ahhah, chill
+01 Apr 2017 23:21:28 : LimitlessMc, mainchat, Crystal4209#4698, Haiii jay
+01 Apr 2017 23:21:44 : LimitlessMc, mainchat, Talha_choudhry#5495, Ignord
+01 Apr 2017 23:22:02 : LimitlessMc, mainchat, Crystal4209#4698, Cause I didn't ping him duh
+01 Apr 2017 23:22:17 : LimitlessMc, mainchat, Talha_choudhry#5495, @Jay113355  can i summon you? Haha
+01 Apr 2017 23:22:28 : LimitlessMc, mainchat, Talha_choudhry#5495, Thats the right way crystal
+01 Apr 2017 23:22:30 : LimitlessMc, mainchat, Third_Worm#4804, oh god
+01 Apr 2017 23:22:34 : LimitlessMc, mainchat, Third_Worm#4804, he pinged jay
+01 Apr 2017 23:22:49 : LimitlessMc, mainchat, Third_Worm#4804, @Talha_choudhry Don't ping the almighty god
+01 Apr 2017 23:22:50 : LimitlessMc, mainchat, Third_Worm#4804, kthx
+01 Apr 2017 23:22:57 : LimitlessMc, mainchat, Talha_choudhry#5495, Hahah
+01 Apr 2017 23:23:12 : LimitlessMc, mainchat, Talha_choudhry#5495, Sorry god, my fails
+01 Apr 2017 23:23:33 : LimitlessMc, mainchat, Talha_choudhry#5495, I think i should get some sleep now haha, cya
+01 Apr 2017 23:23:53 : LimitlessMc, mainchat, Crystal4209#4698, @Third_Worm how long you have left on your computer?
+01 Apr 2017 23:24:20 : LimitlessMc, mainchat, Third_Worm#4804, to 12 if i'm lucky
+01 Apr 2017 23:30:02 : LimitlessMc, mainchat, Crystal4209#4698, Kinda sad I keep missing out on shiny party, I'm always asleep when we do them eh
+01 Apr 2017 23:30:14 : LimitlessMc, mainchat, Third_Worm#4804, thats why i catch shinys for you bby

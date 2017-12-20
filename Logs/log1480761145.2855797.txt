@@ -1,0 +1,50 @@
+03 Dec 2016 10:32:30 : LimitlessMc, botchat, Lightning#6734, or make relog dat werk
+03 Dec 2016 10:32:42 : LimitlessMc, botchat, crystal4209#4698, ;join
+03 Dec 2016 10:33:03 : LimitlessMc, botchat, Lightning#6734, ;playlist Lightning
+03 Dec 2016 10:33:16 : LimitlessMc, botchat, Lightning#6734, bot y u no play ma music? o.O
+03 Dec 2016 10:33:24 : LimitlessMc, botchat, crystal4209#4698, lol
+03 Dec 2016 10:33:30 : LimitlessMc, botchat, Lightning#6734, ;songs
+03 Dec 2016 10:33:31 : LimitlessMc, botchat, Botfuzzy77#2209, Queue is Empty
+03 Dec 2016 10:33:40 : LimitlessMc, botchat, Lightning#6734, oh ffs.. lol
+03 Dec 2016 10:33:43 : LimitlessMc, botchat, Lightning#6734, ;playlists
+03 Dec 2016 10:33:43 : LimitlessMc, botchat, Botfuzzy77#2209, Sheeran[6], Animenz[3], Bringer[1], 2Cellos[5], Maroon[5], Kimi[4], WEEB2[3], FUN[3], Train[3], MJackson[5], GnR[5], Old[9], Coldplay[5], SteinsGate[13], GAGA[3], Katy[3], WEEB[4], nicky[2], AnimeOpenings[14], Cala[21], Amagi[1], Perri[2], Akinci[12], Blunt[3], ACDC[5], Dragons[4], Adele[5]
+03 Dec 2016 10:33:52 : LimitlessMc, botchat, Lightning#6734, -.-
+03 Dec 2016 10:34:01 : LimitlessMc, botchat, crystal4209#4698, lol yours is gone
+03 Dec 2016 10:34:05 : LimitlessMc, botchat, Lightning#6734, WERT
+03 Dec 2016 10:34:08 : LimitlessMc, botchat, Lightning#6734, WHY
+03 Dec 2016 10:34:33 : LimitlessMc, botchat, crystal4209#4698, whats akinci's playlist
+03 Dec 2016 10:34:37 : LimitlessMc, botchat, Lightning#6734, ;search Dragon Knight
+03 Dec 2016 10:34:40 : LimitlessMc, botchat, Botfuzzy77#2209, Added Dota 2 Stream: Na`Vi Dendi playing Dragon Knight (Gameplay & Commentary) to the queue
+03 Dec 2016 10:34:40 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=8z5H2K3UgUI
+03 Dec 2016 10:34:48 : LimitlessMc, botchat, Lightning#6734, wrong fkn song bot lul
+03 Dec 2016 10:34:53 : LimitlessMc, botchat, crystal4209#4698, lol
+03 Dec 2016 10:35:04 : LimitlessMc, botchat, crystal4209#4698, bot hates you
+03 Dec 2016 10:35:07 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Dota 2 Stream: Na`Vi Dendi playing Dragon Knight (Gameplay & Commentary)
+03 Dec 2016 10:35:20 : LimitlessMc, botchat, Lightning#6734, hold on reso
+03 Dec 2016 10:35:52 : LimitlessMc, botchat, Lightning#6734, yeah wrong song lol i got the right link
+03 Dec 2016 10:37:00 : LimitlessMc, botchat, crystal4209#4698, ;search fairy tail opening 1
+03 Dec 2016 10:37:02 : LimitlessMc, botchat, Botfuzzy77#2209, Added Fairy tail all opening (1-21) to the queue
+03 Dec 2016 10:37:02 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=fx5-3CHUc_k
+03 Dec 2016 10:37:11 : LimitlessMc, botchat, crystal4209#4698, ;play
+03 Dec 2016 10:37:19 : LimitlessMc, botchat, Lightning#6734, ;songs
+03 Dec 2016 10:37:19 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+03 Dec 2016 10:37:19 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Fairy tail all opening (1-21) **crystal4209**
+	<https://www.youtube.com/watch?v=fx5-3CHUc_k>
+Total Time is 0:31:50
+03 Dec 2016 10:37:30 : LimitlessMc, botchat, Lightning#6734, 31minz wtf
+03 Dec 2016 10:37:35 : LimitlessMc, botchat, crystal4209#4698, oh yeah 31 minutes
+03 Dec 2016 10:37:39 : LimitlessMc, botchat, Lightning#6734, ;skip
+03 Dec 2016 10:37:39 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Dota 2 Stream: Na`Vi Dendi playing Dragon Knight (Gameplay & Commentary)
+03 Dec 2016 10:37:42 : LimitlessMc, botchat, crystal4209#4698, thats all the openings
+03 Dec 2016 10:37:43 : LimitlessMc, botchat, Lightning#6734, ;youtube https://www.youtube.com/watch?v=XuwK6vn6lBA
+03 Dec 2016 10:37:44 : LimitlessMc, botchat, Botfuzzy77#2209, Added Chrono Cross OST - Dragon Knight to the queue
+03 Dec 2016 10:37:56 : LimitlessMc, botchat, Lightning#6734, ;reload
+03 Dec 2016 10:37:56 : LimitlessMc, botchat, Botfuzzy77#2209, Reloaded all Modules
+03 Dec 2016 10:38:04 : LimitlessMc, botchat, Lightning#6734, ;forceplay https://www.youtube.com/watch?v=XuwK6vn6lBA
+03 Dec 2016 10:38:27 : LimitlessMc, botchat, crystal4209#4698, not working
+03 Dec 2016 10:38:29 : LimitlessMc, botchat, crystal4209#4698, ;song
+03 Dec 2016 10:38:29 : LimitlessMc, botchat, Botfuzzy77#2209, No Song Playing, ['NoneType' object has no attribute 'title']
+03 Dec 2016 10:38:35 : LimitlessMc, botchat, Lightning#6734, ;leave
+03 Dec 2016 10:38:43 : LimitlessMc, botchat, Lightning#6734, or... not
+03 Dec 2016 10:38:47 : LimitlessMc, botchat, crystal4209#4698, lol
+03 Dec 2016 10:38:57 : LimitlessMc, botchat, Lightning#6734, ;relog

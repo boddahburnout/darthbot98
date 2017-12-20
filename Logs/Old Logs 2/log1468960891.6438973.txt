@@ -1,0 +1,1013 @@
+19 Jul 2016 20:41:34 : Cipher , RoyGasm#7098 , but forrealz
+19 Jul 2016 20:41:37 : Cipher , RoyGasm#7098 , it no playing for me
+19 Jul 2016 20:41:41 : Cipher , Wertfuzzy77#0274 , ;mute RoyGasm
+19 Jul 2016 20:41:42 : Cipher , Botfuzzy77#2209 , Muted RoyGasm
+19 Jul 2016 20:41:44 : Cipher , Kburn1999#5526 , lol
+19 Jul 2016 20:41:49 : Cipher , Wertfuzzy77#0274 , ;join
+19 Jul 2016 20:41:50 : Cipher , Jabulla#3761 , So I basicly need to scrap my Trained bug, raise one to the lvl that gets those moves, and start over.
+19 Jul 2016 20:42:02 : Cipher , Kburn1999#5526 , ;playlist WEEB
+19 Jul 2016 20:42:03 : Cipher , Wertfuzzy77#0274 , ;playlist Old
+19 Jul 2016 20:42:04 : Cipher , Botfuzzy77#2209 , Finished Adding songs from playlist(s)
+19 Jul 2016 20:42:10 : Cipher , Jabulla#3761 , ;playlist Cuck
+19 Jul 2016 20:42:11 : Cipher , Botfuzzy77#2209 , Finished Adding songs from playlist(s)
+19 Jul 2016 20:42:11 : Cipher , Kburn1999#5526 , damit
+19 Jul 2016 20:42:12 : Cipher , Wertfuzzy77#0274 , ;youtube https://www.youtube.com/watch?v=kVpv8-5XWOI
+19 Jul 2016 20:42:19 : Cipher , Wertfuzzy77#0274 , ;shuffle
+19 Jul 2016 20:42:19 : Cipher , Botfuzzy77#2209 , Shuffling songs...
+19 Jul 2016 20:42:21 : Cipher , Wertfuzzy77#0274 , ;songs
+19 Jul 2016 20:42:21 : Cipher , Botfuzzy77#2209 , **The Following songs are in the Queue**
+19 Jul 2016 20:42:25 : Cipher , Wertfuzzy77#0274 , ayy
+19 Jul 2016 20:42:25 : Cipher , Botfuzzy77#2209 , Lmao
+19 Jul 2016 20:42:35 : Cipher , Wertfuzzy77#0274 , its the next song xD
+19 Jul 2016 20:42:37 : Cipher , Kburn1999#5526 , ;songs
+19 Jul 2016 20:42:37 : Cipher , Botfuzzy77#2209 , **The Following songs are in the Queue**
+19 Jul 2016 20:42:38 : Cipher , Akincifenwa#5072 , ;kys
+19 Jul 2016 20:42:38 : Cipher , Botfuzzy77#2209 , Im Sorry, That goes against my programming
+19 Jul 2016 20:42:45 : Cipher , Kburn1999#5526 , yep
+19 Jul 2016 20:43:04 : Cipher , Kburn1999#5526 , ;conch should roy stay muted?
+19 Jul 2016 20:43:05 : Cipher , Botfuzzy77#2209 , *Outlook good*
+19 Jul 2016 20:43:05 : Cipher , Botfuzzy77#2209 , The Conch has Spoken!
+19 Jul 2016 20:43:07 : Cipher , RoyGasm#7098 , bet
+19 Jul 2016 20:43:18 : Cipher , Wertfuzzy77#0274 , ;debug ctx.message.server.get_player_named("kburn1999").avatar_url
+19 Jul 2016 20:43:18 : Cipher , Botfuzzy77#2209 , ```py
+AttributeError: 'Server' object has no attribute 'get_player_named'
+```
+19 Jul 2016 20:43:21 : Cipher , Wertfuzzy77#0274 , get
+19 Jul 2016 20:43:27 : Cipher , Wertfuzzy77#0274 , ;debug ctx.message.server.get_member_named("kburn1999").avatar_url
+19 Jul 2016 20:43:27 : Cipher , Botfuzzy77#2209 , ```py
+AttributeError: 'NoneType' object has no attribute 'avatar_url'
+```
+19 Jul 2016 20:43:29 : Cipher , Wertfuzzy77#0274 , ....
+19 Jul 2016 20:43:30 : Cipher , Akincifenwa#5072 , ;conch is the next song shit?
+19 Jul 2016 20:43:30 : Cipher , Botfuzzy77#2209 , *Outlook good*
+19 Jul 2016 20:43:31 : Cipher , Botfuzzy77#2209 , The Conch has Spoken!
+19 Jul 2016 20:43:35 : None , RoyGasm#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], "kys fuckboi wert")
+19 Jul 2016 20:43:35 : Cipher , Akincifenwa#5072 , ^
+19 Jul 2016 20:43:35 : Cipher , Botfuzzy77#2209 , kys fuckboi wert
+19 Jul 2016 20:43:35 : None , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x0000024BB18D5F20>
+```
+19 Jul 2016 20:43:35 : Cipher , Botfuzzy77#2209 , ^
+19 Jul 2016 20:43:40 : Cipher , Wertfuzzy77#0274 , ;debug ctx.message.server.get_member_named("kburn1999").icon_url
+19 Jul 2016 20:43:40 : Cipher , Botfuzzy77#2209 , ```py
+AttributeError: 'NoneType' object has no attribute 'icon_url'
+```
+19 Jul 2016 20:43:44 : Cipher , Wertfuzzy77#0274 , D:
+19 Jul 2016 20:43:55 : LimitlessMc , Resolate#7058 , And what's in VIP rank again?
+19 Jul 2016 20:43:57 : Cipher , Akincifenwa#5072 , Kburn1999 maybe
+19 Jul 2016 20:44:04 : Cipher , Wertfuzzy77#0274 , ;debug ctx.message.server.get_member_named("Kburn1999").icon_url
+19 Jul 2016 20:44:04 : Cipher , Botfuzzy77#2209 , ```py
+AttributeError: 'Member' object has no attribute 'icon_url'
+```
+19 Jul 2016 20:44:07 : None , RoyGasm#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], "kys akinici fuckboi")
+19 Jul 2016 20:44:07 : Cipher , Botfuzzy77#2209 , kys akinici fuckboi
+19 Jul 2016 20:44:07 : None , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x0000024BB18C0818>
+```
+19 Jul 2016 20:44:09 : Cipher , Akincifenwa#5072 , ;debug ctx.message.server.get_member_named("Kburn1999").icon_url
+19 Jul 2016 20:44:09 : Cipher , Botfuzzy77#2209 , ```py
+AttributeError: 'Member' object has no attribute 'icon_url'
+```
+19 Jul 2016 20:44:15 : Cipher , Wertfuzzy77#0274 , ;debug ctx.message.server.get_member_named("Kburn1999").avatar_url
+19 Jul 2016 20:44:15 : Cipher , Botfuzzy77#2209 , ```py
+https://discordapp.com/api/users/204412085780742153/avatars/65fd5c16114df81947f2e8dcf276c4c8.jpg
+```
+19 Jul 2016 20:44:17 : Cipher , Akincifenwa#5072 , Roy
+19 Jul 2016 20:44:18 : Cipher , Wertfuzzy77#0274 , there we go
+19 Jul 2016 20:44:27 : None , RoyGasm#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], "bet")
+19 Jul 2016 20:44:28 : Cipher , Botfuzzy77#2209 , bet
+19 Jul 2016 20:44:28 : None , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x0000024BB18F21D8>
+```
+19 Jul 2016 20:44:29 : Cipher , Kburn1999#5526 , best picture
+19 Jul 2016 20:44:31 : Cipher , Wertfuzzy77#0274 , wanted to see what was lol
+19 Jul 2016 20:44:40 : Cipher , Kburn1999#5526 , michiru from grisaia no rakuen
+19 Jul 2016 20:44:51 : Cipher , Akincifenwa#5072 , ;debug ctx.message.server.get_member_named("Akincifenwa").avatar_url
+19 Jul 2016 20:44:51 : Cipher , Botfuzzy77#2209 , ```py
+https://discordapp.com/api/users/187658828739903489/avatars/672b28e3042d76c167d66b741eaddccc.jpg
+```
+19 Jul 2016 20:44:54 : The Pleb Privateers , Wertfuzzy77#0274 , <grisaia no rakuen>
+19 Jul 2016 20:44:58 : The Pleb Privateers , enragedrobo#6009 , **Grisaia no Rakuen**
+Link: <http://myanimelist.net/anime/29095>
+**Episodes**: 10
+**Status**: Finished Airing
+**Rating**: 8.09 (by 52,879 users)
+19 Jul 2016 20:45:00 : Cipher , Akincifenwa#5072 , Sexy af that car
+19 Jul 2016 20:45:22 : Cipher , Wertfuzzy77#0274 , ```enragedroboBOT - Today at 4:44 PM
+Grisaia no Rakuen
+Link: http://myanimelist.net/anime/29095
+Episodes: 10
+Status: Finished Airing
+Rating: 8.09 (by 52,879 users)```
+19 Jul 2016 20:45:32 : Cipher , Wertfuzzy77#0274 , found it
+19 Jul 2016 20:45:35 : Cipher , Kburn1999#5526 , yea
+19 Jul 2016 20:45:45 : Cipher , Wertfuzzy77#0274 , maybe i watch, i need a new show
+19 Jul 2016 20:45:55 : Cipher , Kburn1999#5526 , main character badass
+19 Jul 2016 20:45:58 : Cipher , Wertfuzzy77#0274 , kys <@&200769676693864448>
+19 Jul 2016 20:46:07 : Cipher , Wertfuzzy77#0274 , mimic nub
+19 Jul 2016 20:46:21 : Cipher , Wertfuzzy77#0274 , ;unmuteall
+19 Jul 2016 20:46:21 : Cipher , Botfuzzy77#2209 , Unmuting all players...
+19 Jul 2016 20:46:29 : Cipher , Akincifenwa#5072 , bot ded
+19 Jul 2016 20:46:35 : Cipher , Akincifenwa#5072 , nuuuuuuu
+19 Jul 2016 20:46:35 : Cipher , Wertfuzzy77#0274 , AYYYYY
+19 Jul 2016 20:46:36 : Cipher , Kburn1999#5526 , huh just noticed im in the channgle twice
+19 Jul 2016 20:46:42 : Cipher , Wertfuzzy77#0274 , go home <@&200769676693864448>
+19 Jul 2016 20:46:49 : Cipher , Kburn1999#5526 , oh no now u are wert
+19 Jul 2016 20:47:05 : Cipher , Akincifenwa#5072 , lol <@151163520120127488>
+19 Jul 2016 20:47:07 : Cipher , Wertfuzzy77#0274 , not god fuzzy tho
+19 Jul 2016 20:47:10 : Cipher , Akincifenwa#5072 , le
+19 Jul 2016 20:47:44 : Cipher , Wertfuzzy77#7098 , fuck
+19 Jul 2016 20:47:50 : Cipher , Wertfuzzy77#7098 , i changed my name too fast
+19 Jul 2016 20:47:52 : LimitlessMc , Wertfuzzy77#0274 , ```The VIP rank gives you the [VIP] prefix in-game, and also the following perks:
+
+4 extra homes
+/fly
+/enderchest (access to your enderchest anywhere!)
+/feed
+/nv (permanent night vision)
+/pokeheal
+/hat
+Access to server even when full```
+19 Jul 2016 20:47:54 : Cipher , Wertfuzzy77#7098 , can't change it anymore
+19 Jul 2016 20:48:04 : Cipher , Wertfuzzy77#0274 , rekt
+19 Jul 2016 20:48:07 : Cipher , Wertfuzzy77#7098 , bet
+19 Jul 2016 20:48:10 : Cipher , Wertfuzzy77#0274 , bet
+19 Jul 2016 20:48:15 : Cipher , Wertfuzzy77#7098 , kys
+19 Jul 2016 20:48:21 : The Pleb Privateers , enragednuke#2565 , wa
+19 Jul 2016 20:48:21 : LimitlessMc , Resolate#7058 , wtf is /hat?
+19 Jul 2016 20:48:25 : Cipher , Wertfuzzy77#0274 , ;kys
+19 Jul 2016 20:48:25 : LimitlessMc , Wertfuzzy77#7098 , hai
+19 Jul 2016 20:48:25 : Cipher , Botfuzzy77#2209 , Im Sorry, That goes against my programming
+19 Jul 2016 20:48:28 : Cipher , Kburn1999#5526 , oh thats why there was 2
+19 Jul 2016 20:48:28 : LimitlessMc , Wertfuzzy77#7098 , -.-
+19 Jul 2016 20:48:31 : The Pleb Privateers , Wertfuzzy77#0274 , ?
+19 Jul 2016 20:48:32 : LimitlessMc , Wertfuzzy77#7098 , kys nickname
+19 Jul 2016 20:48:39 : The Pleb Privateers , Wertfuzzy77#0274 , guild member had icon from that anime
+19 Jul 2016 20:48:45 : The Pleb Privateers , Wertfuzzy77#0274 , had to look it up xD
+19 Jul 2016 20:48:50 : Cipher , Jabulla#3761 , ;debug Jack and Diane
+19 Jul 2016 20:48:50 : Cipher , Botfuzzy77#2209 , ```py
+NameError: name 'Jack' is not defined
+```
+19 Jul 2016 20:48:53 : The Pleb Privateers , enragednuke#2565 , grisaia series
+19 Jul 2016 20:48:58 : The Pleb Privateers , Wertfuzzy77#0274 , 
+19 Jul 2016 20:49:02 : The Pleb Privateers , enragednuke#2565 , yes
+19 Jul 2016 20:49:07 : The Pleb Privateers , enragednuke#2565 , the twin tailed fucknugget
+19 Jul 2016 20:49:11 : The Pleb Privateers , Wertfuzzy77#0274 , lol
+19 Jul 2016 20:49:14 : The Pleb Privateers , Wertfuzzy77#0274 , is it good?
+19 Jul 2016 20:49:18 : LimitlessMc , Wertfuzzy77#0274 , rekt
+19 Jul 2016 20:49:22 : The Pleb Privateers , enragednuke#2565 , it's aight
+19 Jul 2016 20:49:27 : The Pleb Privateers , enragednuke#2565 , i havent seen all of it myself
+19 Jul 2016 20:49:30 : The Pleb Privateers , enragednuke#2565 , but it's based on a game
+19 Jul 2016 20:49:38 : The Pleb Privateers , enragednuke#2565 , and game-source animes are usually MEH
+19 Jul 2016 20:49:40 : None , Wertfuzzy77#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")].get_member_named("Akincifenwa").mention + " https://www.researchgate.net/profile/Michael_Thali/publication/270968401/figure/fig1/AS:295189424951308@1447390051969/Fig-1-Overview-of-the-corpse-Note-the-discolouration-and-bloating-especially-visible.png ")
+19 Jul 2016 20:49:40 : Cipher , Botfuzzy77#2209 , <@187658828739903489> https://www.researchgate.net/profile/Michael_Thali/publication/270968401/figure/fig1/AS:295189424951308@1447390051969/Fig-1-Overview-of-the-corpse-Note-the-discolouration-and-bloating-especially-visible.png 
+19 Jul 2016 20:49:40 : None , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x0000024BB190A368>
+```
+19 Jul 2016 20:49:49 : Cipher , Wertfuzzy77#7098 , ....
+19 Jul 2016 20:49:53 : Cipher , Wertfuzzy77#0274 , no body needs to see that
+19 Jul 2016 20:49:55 : Cipher , Wertfuzzy77#7098 , kys fake <@!134441036905840640>
+19 Jul 2016 20:49:58 : The Pleb Privateers , Wertfuzzy77#0274 , eh
+19 Jul 2016 20:50:01 : The Pleb Privateers , Wertfuzzy77#0274 , still gonna watch
+19 Jul 2016 20:50:03 : The Pleb Privateers , Wertfuzzy77#0274 , only 10 eps
+19 Jul 2016 20:50:07 : Cipher , Wertfuzzy77#0274 , go home
+19 Jul 2016 20:50:11 : Cipher , Wertfuzzy77#7098 , bet
+19 Jul 2016 20:50:20 : None , Wertfuzzy77#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")].get_member_named("Akincifenwa").mention + " https://www.researchgate.net/profile/Michael_Thali/publication/270968401/figure/fig1/AS:295189424951308@1447390051969/Fig-1-Overview-of-the-corpse-Note-the-discolouration-and-bloating-especially-visible.png ")
+19 Jul 2016 20:50:21 : Cipher , Botfuzzy77#2209 , <@187658828739903489> https://www.researchgate.net/profile/Michael_Thali/publication/270968401/figure/fig1/AS:295189424951308@1447390051969/Fig-1-Overview-of-the-corpse-Note-the-discolouration-and-bloating-especially-visible.png 
+19 Jul 2016 20:50:21 : None , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x0000024BB190AC00>
+```
+19 Jul 2016 20:50:31 : Cipher , Akincifenwa#5072 , kys roy
+19 Jul 2016 20:50:39 : Cipher , Wertfuzzy77#7098 , lele
+19 Jul 2016 20:51:03 : Cipher , Wertfuzzy77#7098 , k i go watch glee
+19 Jul 2016 20:51:05 : The Pleb Privateers , enragednuke#2565 , o wtf
+19 Jul 2016 20:51:06 : The Pleb Privateers , enragednuke#2565 , it is
+19 Jul 2016 20:51:07 : The Pleb Privateers , enragednuke#2565 , LOL
+19 Jul 2016 20:51:12 : Cipher , Wertfuzzy77#7098 , ;afk watching glee, gtfo
+19 Jul 2016 20:51:12 : Cipher , Botfuzzy77#2209 , Wertfuzzy77 is now AFK for reason:
+**watching glee, gtfo**
+19 Jul 2016 20:51:23 : LimitlessMc , Resolate#7058 , How much is the always access gonna be?
+19 Jul 2016 20:51:23 : The Pleb Privateers , enragednuke#2565 , it's got the ecchi factor
+19 Jul 2016 20:51:25 : The Pleb Privateers , enragednuke#2565 , so NSFW
+19 Jul 2016 20:52:18 : The Pleb Privateers , Wertfuzzy77#0274 , but lol, sure ill keep that im mind
+19 Jul 2016 20:52:32 : LimitlessMc , Wertfuzzy77#0274 , no idea
+19 Jul 2016 20:52:49 : Cipher , Akincifenwa#5072 , ;song
+19 Jul 2016 20:52:49 : Cipher , Botfuzzy77#2209 , ```Name: The Eagles - Hotel California - (High Quality)
+URL: <https://www.youtube.com/watch?v=lHje9w7Ev4U>
+Time: 0:06:40
+Views: 25,568
+Likes: 361, 98.9%
+Dislikes: 4, 1.1%
+```
+19 Jul 2016 20:53:13 : LimitlessMc , Resolate#7058 , Well, I'm probably gonna get another home and /fly at the same time
+19 Jul 2016 20:53:32 : LimitlessMc , Wertfuzzy77#0274 , you might as well get VIP then
+19 Jul 2016 20:53:39 : LimitlessMc , Wertfuzzy77#0274 , cause thats already over $20
+19 Jul 2016 20:54:27 : LimitlessMc , Resolate#7058 , I already got /pokeheal, 2 homes, and name change which was $20 in the past
+19 Jul 2016 20:54:55 : LimitlessMc , Wertfuzzy77#0274 , then dont lol, just sying
+19 Jul 2016 20:55:16 : LimitlessMc , Wertfuzzy77#0274 , ;server
+19 Jul 2016 20:55:17 : LimitlessMc , Botfuzzy77#2209 , **Server Status**
+ *Online Players*: 100 players out of 100
+ *Ping*: 137.77 ms
+ *MC Version*: 1.8.9
+19 Jul 2016 20:55:17 : LimitlessMc , Botfuzzy77#2209 , **Players Online**:
+ *pocket, betterthanU94, BigNastySgt, Princess_Austin, yodabugsy, Phoenix, Ashton3991, exanam, Kburn1999, ogmox, CrypticCat43, hollowminer1...*
+19 Jul 2016 20:55:21 : LimitlessMc , Wertfuzzy77#0274 , oi, get off meh server people
+19 Jul 2016 20:55:26 : LimitlessMc , Wertfuzzy77#0274 , was better when was quiet
+19 Jul 2016 20:55:34 : LimitlessMc , Resolate#7058 , so much better
+19 Jul 2016 20:55:37 : Cipher , Akincifenwa#5072 , FML server full
+19 Jul 2016 20:55:38 : LimitlessMc , xPalkia(lugia)#8149 , Staff cant even get on
+19 Jul 2016 20:55:46 : LimitlessMc , Wertfuzzy77#0274 , well, i could, but i would have to kick someone xD
+19 Jul 2016 20:55:53 : Cipher , Wertfuzzy77#0274 , ikr
+19 Jul 2016 20:56:05 : Cipher , Akincifenwa#5072 , u cant join aswell?
+19 Jul 2016 20:56:06 : LimitlessMc , xPalkia(lugia)#8149 , Well. Would be better with more player slots
+19 Jul 2016 20:56:10 : Cipher , Jabulla#3761 , I just left
+19 Jul 2016 20:56:26 : Cipher , Akincifenwa#5072 , still full fml
+19 Jul 2016 20:56:30 : Cipher , Akincifenwa#5072 , ;server
+19 Jul 2016 20:56:31 : Cipher , Botfuzzy77#2209 , **Server Status**
+ *Online Players*: 99 players out of 100
+ *Ping*: 189.634 ms
+ *MC Version*: 1.8.9
+19 Jul 2016 20:56:31 : Cipher , Botfuzzy77#2209 , **Players Online**:
+ *Thefancyman, swclone, IDemonWolf, ObKhalifa, KvngNet, FocusLvL160, Whidney, RawlFlash, Pupified, Donatron2, girlgamer830, Gameknight_99...*
+19 Jul 2016 20:56:44 : Cipher , Jabulla#3761 , Wert, you know if they are gonna improve server capacity for the recent popularity?
+19 Jul 2016 20:56:58 : LimitlessMc , Resolate#7058 , ;conch Do you think there should be more player slots?
+19 Jul 2016 20:56:58 : LimitlessMc , Botfuzzy77#2209 , *Don't count on it*
+19 Jul 2016 20:56:58 : LimitlessMc , Botfuzzy77#2209 , The Conch has Spoken!
+19 Jul 2016 20:57:00 : Cipher , Wertfuzzy77#0274 , we are discussing it
+19 Jul 2016 20:57:08 : Cipher , Wertfuzzy77#0274 , Jay doesnt like the idea
+19 Jul 2016 20:57:09 : Cipher , Kburn1999#5526 , jay told me no when i asked
+19 Jul 2016 20:57:12 : Cipher , Akincifenwa#5072 , welp no need to discuss
+19 Jul 2016 20:57:13 : Cipher , Wertfuzzy77#0274 , everyone else does
+19 Jul 2016 20:57:21 : Cipher , Akincifenwa#5072 , why
+19 Jul 2016 20:57:24 : Cipher , Kburn1999#5526 , money
+19 Jul 2016 20:57:26 : Cipher , Wertfuzzy77#0274 , which is the case with most server decisions xD
+19 Jul 2016 20:57:27 : Cipher , Jabulla#3761 , Fair enough. It really needs it, I saw it at 102/100 last night
+19 Jul 2016 20:57:42 : Cipher , Akincifenwa#5072 , vips
+19 Jul 2016 20:57:46 : Cipher , Kburn1999#5526 , maybe its not making enough money for it
+19 Jul 2016 20:57:47 : Cipher , Jabulla#3761 , Yee
+19 Jul 2016 20:57:54 : Cipher , Wertfuzzy77#0274 , nah, we making enough money
+19 Jul 2016 20:57:59 : LimitlessMc , Mystz#8072 , ;choose More Slots Or No More Slots
+19 Jul 2016 20:57:59 : LimitlessMc , Botfuzzy77#2209 , Oh, Thats easy
+19 Jul 2016 20:58:00 : LimitlessMc , Botfuzzy77#2209 , Chosen Option: More
+19 Jul 2016 20:58:04 : Cipher , Akincifenwa#5072 , so whats the problem
+19 Jul 2016 20:58:04 : Cipher , Wertfuzzy77#0274 , we are like 4x are donation needs each month
+19 Jul 2016 20:58:08 : Cipher , Jabulla#3761 , y den?
+19 Jul 2016 20:58:09 : Cipher , Kburn1999#5526 , damn
+19 Jul 2016 20:58:12 : Cipher , Wertfuzzy77#0274 , no idea why
+19 Jul 2016 20:58:15 : Cipher , Jabulla#3761 , RIP
+19 Jul 2016 20:58:34 : Cipher , Kburn1999#5526 , wow theres actually no staff on right now thats differnet
+19 Jul 2016 20:58:35 : Cipher , Jabulla#3761 , Where does the extra all go? A big hole?
+19 Jul 2016 20:58:37 : LimitlessMc , Resolate#7058 , ;choose More More
+19 Jul 2016 20:58:37 : LimitlessMc , Botfuzzy77#2209 , Hmm, tough choice
+19 Jul 2016 20:58:37 : LimitlessMc , Botfuzzy77#2209 , Chosen Option: More
+19 Jul 2016 20:58:50 : Cipher , Kburn1999#5526 , in to a deposit for the server
+19 Jul 2016 20:59:03 : Cipher , Jabulla#3761 , I guess to pay for slow minths
+19 Jul 2016 20:59:20 : LimitlessMc , Mystz#8072 , cant fucking join
+19 Jul 2016 20:59:21 : Cipher , Akincifenwa#5072 , so everyone needs to buy vip huh
+19 Jul 2016 20:59:29 : Cipher , Kburn1999#5526 , yea cause im pretty sure the donations only pay for the server doesnt go to pocket
+19 Jul 2016 20:59:36 : Cipher , Jabulla#3761 , Seems it, then we can REALLY crash the server.
+19 Jul 2016 20:59:44 : LimitlessMc , Resolate#7058 , ;fml
+19 Jul 2016 20:59:45 : LimitlessMc , Botfuzzy77#2209 , *Today, I was with my girlfriend in her room. She starts screaming. Her father bursts in and, thinking I'm some kind of rapist, hits me in the head with a baseball bat. Not bad enough? I wasn't the one making her scream. There was a huge spider on the wall. FML*
+19 Jul 2016 20:59:48 : Cipher , Wertfuzzy77#0274 , `a cause im pretty sure the donations only pay for the server doesnt go to pocket` yup
+19 Jul 2016 21:00:08 : Cipher , Jabulla#3761 , 150 people in a 100 person server. I can taste the rollbacks
+19 Jul 2016 21:00:12 : Cipher , Kburn1999#5526 , omg its hot in my house my 4 fans need to go on now
+19 Jul 2016 21:00:14 : Cipher , Wertfuzzy77#0274 , yeah lol
+19 Jul 2016 21:00:21 : LimitlessMc , Resolate#7058 , Rip poor random guy
+19 Jul 2016 21:00:30 : LimitlessMc , Wertfuzzy77#0274 , same
+19 Jul 2016 21:00:32 : LimitlessMc , Wertfuzzy77#0274 , v annoying
+19 Jul 2016 21:00:37 : LimitlessMc , Wertfuzzy77#0274 , we should kick people
+19 Jul 2016 21:00:51 : LimitlessMc , Wertfuzzy77#0274 , xD
+19 Jul 2016 21:00:52 : Cipher , Akincifenwa#5072 , ;server
+19 Jul 2016 21:00:52 : LimitlessMc , Resolate#7058 , ;choose Kick Notkick
+19 Jul 2016 21:00:52 : Cipher , Botfuzzy77#2209 , **Server Status**
+ *Online Players*: 100 players out of 100
+ *Ping*: 144.647 ms
+ *MC Version*: 1.8.9
+19 Jul 2016 21:00:52 : LimitlessMc , Botfuzzy77#2209 , Hmm, tough choice
+19 Jul 2016 21:00:53 : Cipher , Botfuzzy77#2209 , **Players Online**:
+ *teekee2, AWsker, ogmox, AnishaLunarAngel, Ant_thebuilder, Ashton3991, pocket, Veco00, Princess_Austin, EvanAlmightly, Daicito, Phoenix...*
+19 Jul 2016 21:00:53 : LimitlessMc , Botfuzzy77#2209 , Chosen Option: Kick
+19 Jul 2016 21:00:57 : Cipher , Akincifenwa#5072 , ;-;
+19 Jul 2016 21:01:00 : LimitlessMc , Wertfuzzy77#0274 , well, that decides it
+19 Jul 2016 21:02:03 : Cipher , Akincifenwa#5072 , oh a question, is ha dragonite much better than normal?
+19 Jul 2016 21:02:11 : Cipher , Jabulla#3761 , Yee
+19 Jul 2016 21:02:15 : Cipher , Wertfuzzy77#0274 , sry for the music lag lol
+19 Jul 2016 21:02:28 : Cipher , Akincifenwa#5072 , so not worth to train normal 5iv dratini?
+19 Jul 2016 21:02:32 : The Pleb Privateers , enragednuke#2565 , lul
+19 Jul 2016 21:02:40 : Cipher , Jabulla#3761 , Thats probably still fine, hella good stats
+19 Jul 2016 21:02:58 : Cipher , Kburn1999#5526 , rip bot
+19 Jul 2016 21:02:59 : Cipher , Kburn1999#5526 , lolz
+19 Jul 2016 21:03:01 : Cipher , Akincifenwa#5072 , i got 5 iv bagon too, but im looking for HA
+19 Jul 2016 21:03:12 : Cipher , Akincifenwa#5072 , becausee HA v good
+19 Jul 2016 21:03:17 : Cipher , Akincifenwa#5072 , of salamence
+19 Jul 2016 21:03:33 : Cipher , Jabulla#3761 , Like, inner focus, is a just so much less then multiscale.
+19 Jul 2016 21:04:19 : Cipher , Jabulla#3761 , WOW That music hahah
+19 Jul 2016 21:05:11 : Cipher , Akincifenwa#5072 , i ll train my normal dratini, cause catching just a dratini (not ha) is hard enough
+19 Jul 2016 21:05:37 : Cipher , Jabulla#3761 , lilBugPony has a HA Dratini that she was breeding.
+19 Jul 2016 21:06:02 : Cipher , Akincifenwa#5072 , dam
+19 Jul 2016 21:06:06 : Cipher , Akincifenwa#5072 , n
+19 Jul 2016 21:06:58 : Cipher , Kburn1999#5526 , how u talk in guild lolz
+19 Jul 2016 21:07:05 : Cipher , Akincifenwa#5072 , ./gc
+19 Jul 2016 21:07:06 : Cipher , Jabulla#3761 , IDK maybe she might sell you one, I asked and she said no to me though... So you would probably need to offer her a lot... :\
+19 Jul 2016 21:07:18 : 02Gaming , Botfuzzy77#2209 , **kayoooooooooo**(Member) is now Online!
+19 Jul 2016 21:07:30 : Cipher , Akincifenwa#5072 , why not to you?
+19 Jul 2016 21:08:39 : Cipher , Jabulla#3761 , I just said.  "Hey, would you be willing to sell me a HA  Dratini?" on the day she caught it, and she just said "No, sorry."  SNothing personall, I think she just wanted to keep it rare... Or didn't want to hatch eggs
+19 Jul 2016 21:09:24 : Cipher , Akincifenwa#5072 , hmm k
+19 Jul 2016 21:09:42 : Cipher , Akincifenwa#5072 , finally i was able to join the server
+19 Jul 2016 21:09:46 : Cipher , Akincifenwa#5072 , ;server
+19 Jul 2016 21:09:46 : Cipher , Botfuzzy77#2209 , **Server Status**
+ *Online Players*: 99 players out of 100
+ *Ping*: 139.31 ms
+ *MC Version*: 1.8.9
+19 Jul 2016 21:09:46 : Cipher , Botfuzzy77#2209 , **Players Online**:
+ *GetRekdM8, TheRagingUnicorn, WhingBring, Zombiedyll, Billdongerific, hipo21, Turbqn, Mystz, Wertfuzzy77, CraveeJay, WrathofOlympus, xStrile...*
+19 Jul 2016 21:10:02 : Cipher , Jabulla#3761 , If you see her, could just say, hey I heard you had blahblah blah, would you sell me one for blahblah. Might work. IDK
+19 Jul 2016 21:10:26 : Cipher , Akincifenwa#5072 , lol
+19 Jul 2016 21:10:29 : Cipher , Akincifenwa#5072 , okei
+19 Jul 2016 21:11:55 : Cipher , Jabulla#3761 , HAHAH I am reading IamLucarios Mod application holy shit hahah. This is gold
+19 Jul 2016 21:11:59 : Cipher , Wertfuzzy77#7098 , kys you weeb <@!134441036905840640>
+19 Jul 2016 21:12:04 : Cipher , Wertfuzzy77#0274 , wut
+19 Jul 2016 21:12:07 : Cipher , Akincifenwa#5072 , lol <@156331971717365760>
+19 Jul 2016 21:12:10 : Cipher , Akincifenwa#5072 , ikr
+19 Jul 2016 21:12:12 : Cipher , Wertfuzzy77#7098 , i'm not roy, duh
+19 Jul 2016 21:12:12 : Cipher , Jabulla#3761 , http://limitlessmc.net/f/viewtopic.php?f=25&t=3374
+19 Jul 2016 21:12:13 : Cipher , Botfuzzy77#2209 , **IamLucario's Admin Application (no mod plz)**
+#10084 by IamLucario
+ Sun Jun 26, 2016 8:11 am 
+------------------------------------
+**In-Game Usernames: 
+IamLucario, Blue, Charizard, XcharizardX, ArgentinaMadonna, NightblueX, Nighblue, Takki, Yuki, Taiku, Bakka, Shasta, ThatOneGuy, KoreanZed, TechniIsLove, PleaseLoveMe, IloveTechni, UsernameFriend, MankSD, RED, RED1, RED2, RED3, RED4, RED5, gilman1, gilman, Sepherium, IloveRachel, RachelSexMe, NoticeMeSenpai, Him, Jesus, and roughly about 100 more that are either inappropriate, or too random to remember.:</span>
+
+**Real (First) Name:
+Timmy</span>
+
+**Age:
+23</span>
+
+**Are you fluent in English?:
+Yes, I also know some Spanish, and I am very fluent in C++ C and Python, I am fairly familiar with UNIX and the Linux based server (I assume this website is ran off Linux).</span>
+
+**How long have you been a member of Limitless?:
+I don't know the exact date but I would venture to say my first account was created about 3-4 months ago.</span>
+
+**What Time Zone are you on?
+Eastern American</span>
+
+**How long can you be online per day?:
+On the weekends anywhere from 4-6+ hours. Weekdays I work second shift so maybe 4-6 hours still.</span>
+
+**What times of the day can you be online?
+Early morning/night-Late night.</span>
+
+**Have you ever broke any of the server rules?
+Yes I have, This will take me a minute to finish the list. Some rules I have broken consist of griefing Sephiriums castle on...
+------------------------------------
+*If you would like to read more, click the link below!*
+http://limitlessmc.net/f/viewtopic.php?f=25&t=3374
+19 Jul 2016 21:12:20 : Cipher , Wertfuzzy77#7098 , ^^^^
+19 Jul 2016 21:12:22 : Cipher , Wertfuzzy77#7098 , ikr lmfao
+19 Jul 2016 21:12:25 : Cipher , Akincifenwa#5072 , lele
+19 Jul 2016 21:12:28 : Cipher , Botfuzzy77#2209 , **Kburn1999**(Grunt) is now Online!
+19 Jul 2016 21:12:30 : Cipher , Akincifenwa#5072 , 100+ username
+19 Jul 2016 21:12:37 : Cipher , Jabulla#3761 , Have you broken any rules? This might take a minute
+19 Jul 2016 21:12:45 : Cipher , Wertfuzzy77#7098 , In-Game Usernames: 
+IamLucario, Blue, Charizard, XcharizardX, ArgentinaMadonna, NightblueX, Nighblue, Takki, Yuki, Taiku, Bakka, Shasta, ThatOneGuy, KoreanZed, TechniIsLove, PleaseLoveMe, IloveTechni, UsernameFriend, MankSD, RED, RED1, RED2, RED3, RED4, RED5, gilman1, gilman, Sepherium, IloveRachel, RachelSexMe, NoticeMeSenpai, Him, Jesus, and roughly about 100 more that are either inappropriate, or too random to remember.:</span>
+lelelelelelele
+19 Jul 2016 21:12:58 : Cipher , Jabulla#3761 , I am laughing too hard RN
+19 Jul 2016 21:13:14 : Cipher , Jabulla#3761 , Why do you want Admin, so I can use /fly and /give
+19 Jul 2016 21:13:15 : Cipher , Jabulla#3761 , Hahahah!
+19 Jul 2016 21:13:28 : Cipher , Akincifenwa#5072 , ArgentinaMadonna tf
+19 Jul 2016 21:13:33 : Cipher , Wertfuzzy77#7098 , lelelele
+19 Jul 2016 21:13:33 : Cipher , Jabulla#3761 , He may be a total fucker, but he is funny
+19 Jul 2016 21:13:38 : Cipher , Wertfuzzy77#7098 , ^^
+19 Jul 2016 21:13:49 : Cipher , Wertfuzzy77#7098 , i'm AsianRihanna okei
+19 Jul 2016 21:13:54 : Cipher , Akincifenwa#5072 , now he is v helpful and stuff
+19 Jul 2016 21:14:07 : Cipher , Wertfuzzy77#7098 , he is still a fucker tho
+19 Jul 2016 21:14:25 : Cipher , Akincifenwa#5072 , why?
+19 Jul 2016 21:14:34 : Cipher , Jabulla#3761 , He greifed >100 people
+19 Jul 2016 21:14:39 : Cipher , Jabulla#3761 , He should be banned for life
+19 Jul 2016 21:14:39 : Cipher , Wertfuzzy77#0274 , ^
+19 Jul 2016 21:14:40 : Cipher , Botfuzzy77#2209 , ^
+19 Jul 2016 21:14:45 : Cipher , Wertfuzzy77#0274 , not the banned for life thing
+19 Jul 2016 21:14:46 : Cipher , Akincifenwa#5072 , welp he hacked me too
+19 Jul 2016 21:14:48 : Cipher , Akincifenwa#5072 , but
+19 Jul 2016 21:14:55 : Cipher , Akincifenwa#5072 , what can you do
+19 Jul 2016 21:14:57 : Cipher , Jabulla#3761 , But he cam back in an unroucghable hacked account, and started fucking with admins
+19 Jul 2016 21:15:09 : Cipher , Wertfuzzy77#7098 , ^
+19 Jul 2016 21:15:09 : Cipher , Botfuzzy77#2209 , ^
+19 Jul 2016 21:15:15 : Cipher , Wertfuzzy77#7098 , kys <@!187609093001838602>
+19 Jul 2016 21:15:26 : Cipher , Wertfuzzy77#0274 , go home
+19 Jul 2016 21:15:55 : Cipher , Wertfuzzy77#7098 , and btw like those hacking things
+19 Jul 2016 21:16:18 : Cipher , Wertfuzzy77#7098 , i started them :/ if i didn't report him for griefing me it wouldn't have happened
+19 Jul 2016 21:16:28 : Cipher , Wertfuzzy77#7098 , so it kinda my fault, i guess
+19 Jul 2016 21:16:44 : Cipher , Akincifenwa#5072 , like you made him mad
+19 Jul 2016 21:16:46 : Cipher , Akincifenwa#5072 , ?
+19 Jul 2016 21:16:53 : Cipher , Jabulla#3761 , Nah, not your fault he's a fucker
+19 Jul 2016 21:17:37 : Cipher , Jabulla#3761 , Are you familiar with the Administrator commands?
+ //replace near 100 Stone Lava
+19 Jul 2016 21:17:42 : Cipher , Jabulla#3761 , Fuck
+19 Jul 2016 21:17:44 : Cipher , Akincifenwa#5072 , XD
+19 Jul 2016 21:18:32 : Cipher , Jabulla#3761 , Do you have Skype?Yeah, message me if you want it @Rachel or @Techni (I know you're at least an 8 ;)I haven't had much time to hit on @Depthy either but you can hit up the snap chat too
+19 Jul 2016 21:18:45 : Cipher , Jabulla#3761 , Jesus
+19 Jul 2016 21:18:51 : Cipher , Akincifenwa#5072 , tf
+19 Jul 2016 21:19:13 : Cipher , Wertfuzzy77#7098 , if he would of flirted with depthy
+19 Jul 2016 21:19:24 : Cipher , Wertfuzzy77#7098 , it would of been his doom
+19 Jul 2016 21:19:27 : Cipher , Wertfuzzy77#7098 , cause of jay
+19 Jul 2016 21:19:35 : Cipher , Wertfuzzy77#7098 , idk if he jealous
+19 Jul 2016 21:19:43 : Cipher , Wertfuzzy77#7098 , but i would think so
+19 Jul 2016 21:19:46 : Cipher , Akincifenwa#5072 , is depthy really jays gf
+19 Jul 2016 21:19:55 : Cipher , Jabulla#3761 , I thinkso yes
+19 Jul 2016 21:20:02 : Cipher , Wertfuzzy77#7098 , yea she is
+19 Jul 2016 21:20:09 : Cipher , Akincifenwa#5072 , so that means
+19 Jul 2016 21:20:11 : Cipher , Wertfuzzy77#7098 , depthy is co owner
+19 Jul 2016 21:20:14 : Cipher , Akincifenwa#5072 , jay is from germany?
+19 Jul 2016 21:20:17 : Cipher , Wertfuzzy77#7098 , even if it says mod
+19 Jul 2016 21:20:33 : Cipher , Wertfuzzy77#7098 , i don't know
+19 Jul 2016 21:20:39 : Cipher , Akincifenwa#5072 , because depthy is
+19 Jul 2016 21:20:49 : Cipher , Wertfuzzy77#7098 , but i do know it's a long distance relationship
+19 Jul 2016 21:21:05 : Cipher , Akincifenwa#5072 , oh
+19 Jul 2016 21:25:08 : Cipher , Jabulla#3761 , ¿Por qué estás tan español Rodrigo
+19 Jul 2016 21:25:23 : Cipher , Akincifenwa#5072 , ?
+19 Jul 2016 21:25:34 : Cipher , Jabulla#3761 , Why are you so Spanish Roy?
+19 Jul 2016 21:27:59 : Cipher , Wertfuzzy77#7098 , Cuando estaba hablando español?
+19 Jul 2016 21:28:10 : Cipher , Jabulla#3761 , English in main chat
+19 Jul 2016 21:28:13 : Cipher , Wertfuzzy77#7098 , and what happened to those messages
+19 Jul 2016 21:28:20 : Cipher , Wertfuzzy77#7098 , Apostamos <@156331971717365760>
+19 Jul 2016 21:28:28 : Cipher , Akincifenwa#5072 , amigo
+19 Jul 2016 21:28:48 : Cipher , Jabulla#3761 , I am reading your Mod Application, don't mind me, I am being stupid
+19 Jul 2016 21:29:03 : Cipher , Jabulla#3761 , Hahaha
+19 Jul 2016 21:29:04 : Cipher , Jabulla#3761 , Bet
+19 Jul 2016 21:29:09 : Cipher , Wertfuzzy77#7098 , bet
+19 Jul 2016 21:29:19 : Cipher , Wertfuzzy77#7098 , tu no tienes amigos <@187658828739903489>
+19 Jul 2016 21:29:37 : Cipher , Akincifenwa#5072 , ich habe freunde roy
+19 Jul 2016 21:29:46 : Cipher , Wertfuzzy77#7098 , no
+19 Jul 2016 21:29:47 : Cipher , Wertfuzzy77#7098 , kys
+19 Jul 2016 21:29:53 : Cipher , Wertfuzzy77#7098 , i don't understand
+19 Jul 2016 21:29:56 : Cipher , Jabulla#3761 , Man, Roy gets Savage in his mother tounge
+19 Jul 2016 21:30:09 : Cipher , Akincifenwa#5072 , ich liebe dich roy
+19 Jul 2016 21:30:09 : Cipher , Jabulla#3761 , Roy, thats German
+19 Jul 2016 21:30:25 : Cipher , Wertfuzzy77#7098 , k, google translator
+19 Jul 2016 21:31:12 : Cipher , Jabulla#3761 , It's "I have friends roy" "I have 3"
+19 Jul 2016 21:31:18 : Cipher , Jabulla#3761 , I think
+19 Jul 2016 21:31:29 : Cipher , Wertfuzzy77#7098 , idk
+19 Jul 2016 21:31:50 : Cipher , Jabulla#3761 , Say some more savage spanish stuff ? :3
+19 Jul 2016 21:32:17 : Cipher , Jabulla#3761 , :c
+19 Jul 2016 21:32:34 : LimitlessMc , kyle#6819 , rip
+19 Jul 2016 21:32:38 : Cipher , Akincifenwa#5072 , oh i think server will be ded
+19 Jul 2016 21:32:48 : LimitlessMc , Wertfuzzy77#0274 , alright... which nub crashed the server
+19 Jul 2016 21:32:53 : LimitlessMc , Wertfuzzy77#0274 , I blame Mystz
+19 Jul 2016 21:32:54 : Cipher , Akincifenwa#5072 , ;server
+19 Jul 2016 21:32:58 : Cipher , Botfuzzy77#2209 , *Server is Down :(*
+19 Jul 2016 21:32:59 : Cipher , Akincifenwa#5072 , ?
+19 Jul 2016 21:33:02 : Cipher , Akincifenwa#5072 , nuuuuu
+19 Jul 2016 21:33:11 : Cipher , Botfuzzy77#2209 , **Kburn1999**(Grunt) is now Online!
+19 Jul 2016 21:33:19 : LimitlessMc , swclone#1132 , Does anyone have a dawn stone?
+19 Jul 2016 21:33:23 : Cipher , Akincifenwa#5072 , #fixserver2k16
+19 Jul 2016 21:34:00 : LimitlessMc , xPalkia(lugia)#8149 , Gg
+19 Jul 2016 21:34:00 : LimitlessMc , swclone#1132 , I'll buy for an eevee and 200$
+19 Jul 2016 21:34:26 : LimitlessMc , xPalkia(lugia)#8149 , Server keeps crashing.
+19 Jul 2016 21:34:38 : Cipher , Wertfuzzy77#7098 , eres un pinche higo de puta <@156331971717365760>
+19 Jul 2016 21:34:59 : Cipher , Akincifenwa#5072 , du bist klein <@&200769676693864448>
+19 Jul 2016 21:35:02 : LimitlessMc , xPalkia(lugia)#8149 , ;choose mystz or wert. Who crashed server
+19 Jul 2016 21:35:02 : LimitlessMc , Botfuzzy77#2209 , Oh, Thats easy
+19 Jul 2016 21:35:02 : LimitlessMc , Botfuzzy77#2209 , Chosen Option: crashed
+19 Jul 2016 21:35:06 : LimitlessMc , xPalkia(lugia)#8149 , ...
+19 Jul 2016 21:35:08 : LimitlessMc , xPalkia(lugia)#8149 , No
+19 Jul 2016 21:35:12 : Cipher , Wertfuzzy77#7098 , kys <@187658828739903489>
+19 Jul 2016 21:35:16 : Cipher , Akincifenwa#5072 , k
+19 Jul 2016 21:35:17 : LimitlessMc , xPalkia(lugia)#8149 , ;choose mystz or wert
+19 Jul 2016 21:35:17 : LimitlessMc , Botfuzzy77#2209 , Alright, picked one
+19 Jul 2016 21:35:18 : LimitlessMc , Botfuzzy77#2209 , Chosen Option: mystz
+19 Jul 2016 21:35:18 : Cipher , Akincifenwa#5072 , ;kms
+19 Jul 2016 21:35:18 : Cipher , Botfuzzy77#2209 , Nu, I be sad then ;-;
+19 Jul 2016 21:35:20 : Cipher , Botfuzzy77#2209 , **PacMen**(Grunt) is now Online!
+19 Jul 2016 21:35:34 : LimitlessMc , xPalkia(lugia)#8149 , Ur right <@134441036905840640>
+19 Jul 2016 21:35:40 : The Pleb Privateers , enragednuke#2565 , <@!126123522497052672> evolve EleGiggle
+19 Jul 2016 21:36:39 : Cipher , Wertfuzzy77#7098 , i am small? <@187658828739903489>
+19 Jul 2016 21:36:50 : Cipher , Akincifenwa#5072 , idk maybe
+19 Jul 2016 21:37:02 : Cipher , Akincifenwa#5072 , du bist schön
+19 Jul 2016 21:37:25 : Cipher , Wertfuzzy77#7098 , thx <@187658828739903489>
+19 Jul 2016 21:37:27 : Cipher , Wertfuzzy77#7098 , ikr
+19 Jul 2016 21:37:29 : Cipher , Akincifenwa#5072 , lol
+19 Jul 2016 21:37:47 : Cipher , Akincifenwa#5072 , und du bist intelligent
+19 Jul 2016 21:38:39 : The Pleb Privateers , Ryan#3332 , its pretty fun actually
+19 Jul 2016 21:39:02 : The Pleb Privateers , enragednuke#2565 , 4Head EleGiggle ResidentSleeper
+19 Jul 2016 21:39:10 : Cipher , Wertfuzzy77#7098 , ^^
+19 Jul 2016 21:39:15 : Cipher , Wertfuzzy77#7098 , you aren't tho <@187658828739903489>
+19 Jul 2016 21:39:22 : The Pleb Privateers , Alex#8560 , donload it dyn
+19 Jul 2016 21:39:25 : The Pleb Privateers , Ryan#3332 , nice twitchg memes
+19 Jul 2016 21:40:18 : The Pleb Privateers , enragednuke#2565 , lol
+19 Jul 2016 21:40:24 : The Pleb Privateers , enragednuke#2565 , XDXDCDXDXDDXDXXDXDXDDXXDXDXDDX
+19 Jul 2016 21:41:01 : The Pleb Privateers , Ryan#3332 , you said it yourself it looked good
+19 Jul 2016 21:41:04 : The Pleb Privateers , Ryan#3332 , you scrub
+19 Jul 2016 21:41:05 : The Pleb Privateers , enragednuke#2565 , it does
+19 Jul 2016 21:41:05 : The Pleb Privateers , enragednuke#2565 , lol
+19 Jul 2016 21:41:21 : The Pleb Privateers , Ryan#3332 , its only like 19 gigs
+19 Jul 2016 21:41:26 : The Pleb Privateers , enragednuke#2565 , DansGame
+19 Jul 2016 21:41:32 : The Pleb Privateers , Ryan#3332 , die memes
+19 Jul 2016 21:41:34 : The Pleb Privateers , enragednuke#2565 , lol
+19 Jul 2016 21:44:13 : LimitlessMc , Stormzzzy#3051 , ;8ball are my nips moist
+19 Jul 2016 21:44:22 : LimitlessMc , Stormzzzy#3051 , !8ball are my nips moist
+19 Jul 2016 21:47:54 : 02Gaming , Botfuzzy77#2209 , **Wu Tang**(Member) is now Online!
+19 Jul 2016 21:55:01 : LimitlessMc , MountainDewRed#4034 , Who has more freetime
+19 Jul 2016 21:55:04 : LimitlessMc , MountainDewRed#4034 , ;choose Botfuzzy77 or Wertfuzzy77
+19 Jul 2016 21:55:04 : LimitlessMc , Botfuzzy77#2209 , Hmm, tough choice
+19 Jul 2016 21:55:04 : LimitlessMc , Botfuzzy77#2209 , Chosen Option: or
+19 Jul 2016 21:56:25 : The Pleb Privateers , Alex#8560 , dwnld
+19 Jul 2016 22:02:26 : The Pleb Privateers , Ryan#3332 , i agree
+19 Jul 2016 22:02:29 : The Pleb Privateers , Ryan#3332 , dwnld
+19 Jul 2016 22:02:50 : LimitlessMc , Resolate#7058 , !rate
+19 Jul 2016 22:02:56 : LimitlessMc , Gerald#7099 , Hmmm, I'd say I like Resolate to 54.4191861108968240%
+19 Jul 2016 22:02:59 : LimitlessMc , Resolate#7058 , !luck
+19 Jul 2016 22:03:00 : LimitlessMc , Gerald#7099 , My calculations say that Resolate will have 99.6322839588242000% luck today
+19 Jul 2016 22:03:04 : LimitlessMc , Resolate#7058 , ;luck
+19 Jul 2016 22:03:04 : LimitlessMc , Botfuzzy77#2209 , Resolate's luck is 89.81 out of 100, which is **AMAZING**
+19 Jul 2016 22:03:34 : LimitlessMc , Resolate#7058 , ;luck Botfuzzy77
+19 Jul 2016 22:03:34 : LimitlessMc , Botfuzzy77#2209 , Resolate's luck is 45.6 out of 100, which is **Not Bad**
+19 Jul 2016 22:03:52 : LimitlessMc , Resolate#7058 , ;luck Death
+19 Jul 2016 22:03:52 : LimitlessMc , Botfuzzy77#2209 , Resolate's luck is 29.2 out of 100, which is **Pretty Bad**
+19 Jul 2016 22:04:10 : LimitlessMc , Resolate#7058 , ;luck God
+19 Jul 2016 22:04:10 : LimitlessMc , Botfuzzy77#2209 , Resolate's luck is 63.07 out of 100, which is **Pretty Good**
+19 Jul 2016 22:04:21 : League Of Legends , Botfuzzy77#2209 , **!nsane**(!nsane) is now Online!
+19 Jul 2016 22:08:00 : Cipher , Akincifenwa#5072 , fy
+19 Jul 2016 22:08:09 : Cipher , Botfuzzy77#2209 , **D3NSH1N**(Grunt) is now Online!
+19 Jul 2016 22:08:28 : Cipher , D3NSH1N#8702 , Oi wert u here?
+19 Jul 2016 22:08:36 : Cipher , D3NSH1N#8702 , <@134441036905840640> :-)
+19 Jul 2016 22:10:45 : The Pleb Privateers , enragednuke#2565 , <@!133762895765831681> u there
+19 Jul 2016 22:15:01 : The Pleb Privateers , Ryan#3332 , dwnld
+19 Jul 2016 22:15:18 : The Pleb Privateers , enragednuke#2565 , stop ur retard typing
+19 Jul 2016 22:15:23 : The Pleb Privateers , enragednuke#2565 , ?flip dwnld
+19 Jul 2016 22:15:28 : The Pleb Privateers , enragednuke#2565 , "plump"
+19 Jul 2016 22:15:28 : The Pleb Privateers , enragednuke#2565 , LOL
+19 Jul 2016 22:15:36 : The Pleb Privateers , Ryan#3332 , retard typing?
+19 Jul 2016 22:15:40 : The Pleb Privateers , enragednuke#2565 , i mean
+19 Jul 2016 22:15:41 : The Pleb Privateers , enragednuke#2565 , typyin
+19 Jul 2016 22:15:42 : The Pleb Privateers , enragednuke#2565 , tyyping
+19 Jul 2016 22:15:48 : The Pleb Privateers , enragednuke#2565 , dwnld
+19 Jul 2016 22:15:53 : The Pleb Privateers , enragednuke#2565 , ?flip keyboard
+19 Jul 2016 22:15:54 : The Pleb Privateers , Ryan#3332 , dwnld is plump
+19 Jul 2016 22:16:03 : The Pleb Privateers , enragednuke#2565 , lul
+19 Jul 2016 22:16:19 : The Pleb Privateers , Ryan#3332 , no dwnld evolve
+19 Jul 2016 22:23:26 : League Of Legends , Botfuzzy77#2209 , **Wolf Power**(@everyone) is now Online!
+19 Jul 2016 22:24:39 : League Of Legends , Botfuzzy77#2209 , **Wolf Power**(@everyone) is now Online!
+19 Jul 2016 22:24:59 : The Pleb Privateers , enragednuke#2565 , <@!134441036905840640>
+19 Jul 2016 22:25:06 : The Pleb Privateers , enragednuke#2565 , what classes are you taking again
+19 Jul 2016 22:25:34 : Cipher , Wertfuzzy77#7098 , <@!134441036905840640> <@!134441036905840640> <@!134441036905840640>
+19 Jul 2016 22:25:35 : Cipher , Wertfuzzy77#7098 , <@!134441036905840640>
+19 Jul 2016 22:25:36 : Cipher , Wertfuzzy77#7098 , <@!134441036905840640>
+19 Jul 2016 22:25:38 : Cipher , Wertfuzzy77#7098 , <@!134441036905840640>
+19 Jul 2016 22:25:39 : Cipher , Wertfuzzy77#7098 , <@!134441036905840640>
+19 Jul 2016 22:25:40 : Cipher , Wertfuzzy77#7098 , <@!134441036905840640>
+19 Jul 2016 22:25:41 : Cipher , Wertfuzzy77#7098 , <@!134441036905840640>
+19 Jul 2016 22:25:42 : Cipher , Wertfuzzy77#7098 , <@!134441036905840640>
+19 Jul 2016 22:25:43 : Cipher , Wertfuzzy77#7098 , <@!134441036905840640>
+19 Jul 2016 22:25:44 : Cipher , Wertfuzzy77#7098 , <@!134441036905840640>
+19 Jul 2016 22:25:45 : Cipher , Wertfuzzy77#7098 , <@!134441036905840640>
+19 Jul 2016 22:25:46 : Cipher , Wertfuzzy77#7098 , <@!134441036905840640>
+19 Jul 2016 22:25:48 : Cipher , Wertfuzzy77#7098 , <@!134441036905840640>
+19 Jul 2016 22:25:49 : Cipher , Wertfuzzy77#7098 , <@!134441036905840640>
+19 Jul 2016 22:25:55 : The Pleb Privateers , enragednuke#2565 , <@!134441036905840640>
+19 Jul 2016 22:25:58 : The Pleb Privateers , enragednuke#2565 , REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+19 Jul 2016 22:27:52 : The Pleb Privateers , Ryan#3332 , <@!126122455248011265>
+19 Jul 2016 22:27:56 : The Pleb Privateers , enragednuke#2565 , yes
+19 Jul 2016 22:28:05 : The Pleb Privateers , Ryan#3332 , evolve Kappa
+19 Jul 2016 22:28:14 : The Pleb Privateers , enragednuke#2565 , im gonna be raiding soon
+19 Jul 2016 22:28:16 : The Pleb Privateers , enragednuke#2565 , so poop u
+19 Jul 2016 22:28:25 : The Pleb Privateers , Ryan#3332 , soon?
+19 Jul 2016 22:28:29 : The Pleb Privateers , Ryan#3332 , you mean 20 hours
+19 Jul 2016 22:28:33 : The Pleb Privateers , enragednuke#2565 , ?
+19 Jul 2016 22:28:37 : The Pleb Privateers , enragednuke#2565 , i mean when joe gets back
+19 Jul 2016 22:29:07 : The Pleb Privateers , enragednuke#2565 , wha
+19 Jul 2016 22:29:11 : The Pleb Privateers , enragednuke#2565 , ?commands
+19 Jul 2016 22:29:12 : 02Gaming , Botfuzzy77#2209 , **Wu Tang**(Member) is now Online!
+19 Jul 2016 22:29:18 : The Pleb Privateers , enragednuke#2565 , ?tag suggestivememe
+19 Jul 2016 22:29:30 : The Pleb Privateers , enragednuke#2565 , it saves the broken commands too wha
+19 Jul 2016 22:29:41 : The Pleb Privateers , enragednuke#2565 , wtf lol
+19 Jul 2016 22:29:42 : The Pleb Privateers , enragednuke#2565 , u got ish
+19 Jul 2016 22:29:45 : The Pleb Privateers , Ryan#3332 , slight
+19 Jul 2016 22:30:35 : Cipher , Wertfuzzy77#0274 , Well then
+19 Jul 2016 22:31:04 : LimitlessMc , Wertfuzzy77#0274 , It's ;conch for my bot
+19 Jul 2016 22:31:11 : LimitlessMc , Wertfuzzy77#0274 , Like the magic conch from sponge bob
+19 Jul 2016 22:31:17 : LimitlessMc , Wertfuzzy77#0274 , ;conch is that right?
+19 Jul 2016 22:31:18 : LimitlessMc , Botfuzzy77#2209 , *Very doubtful*
+19 Jul 2016 22:31:18 : LimitlessMc , Botfuzzy77#2209 , The Conch has Spoken!
+19 Jul 2016 22:31:52 : Cipher , Wertfuzzy77#0274 , ;afk not here
+19 Jul 2016 22:31:52 : Cipher , Botfuzzy77#2209 , Wertfuzzy77 is now AFK for reason:
+**not here**
+19 Jul 2016 22:32:12 : Cipher , Akincifenwa#5072 , ;-;
+19 Jul 2016 22:33:15 : LimitlessMc , Resolate#7058 , ;server
+19 Jul 2016 22:33:16 : LimitlessMc , Botfuzzy77#2209 , **Server Status**
+ *Online Players*: 93 players out of 100
+ *Ping*: 156.18 ms
+ *MC Version*: 1.8.9
+19 Jul 2016 22:33:16 : LimitlessMc , Botfuzzy77#2209 , **Players Online**:
+ *Blindeye56, xStrile, Resynchro, ShadowWolf425, ajc21, leon, Oblaaniik, EnergyBuzz, BUTTERMAN1213, xPalkia, twinky27, xSpark...*
+19 Jul 2016 22:34:22 : LimitlessMc , Resolate#7058 , ;help FlavorTexts
+19 Jul 2016 22:34:22 : LimitlessMc , Botfuzzy77#2209 , ```
+Commands:
+  choose      Chooses from a set of things
+  lmgtfy      Returns a Link to a "Let me Google That For You" Page
+  kiss        Adds Emotion
+  luck        Returns the Player's Luck
+  slap        Adds Emotion
+  image       
+  kill        Adds Emotion
+  funify      Funifies a given text input
+  kys         
+  hug         Adds Emotion
+  kms         
+  rate        
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+19 Jul 2016 22:43:36 : League Of Legends , Botfuzzy77#2209 , **ThaOriginal**(Security) is now Online!
+19 Jul 2016 23:00:27 : Cipher , Akincifenwa#5072 , ;help
+19 Jul 2016 23:00:28 : Cipher , Botfuzzy77#2209 , ```
+  afk         Sets you as AFK, and the Bot will auto Reply for you with the G...
+  fml         Returns a Random Post from fmylife.com
+  server      Returns Information on the Limitless MC server!
+  joined      Says when a member joined.
+  ev          Returns Best Pokemon to Find Certain EVs 
+  pokemon     Returns Links to Pokemon pages
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+19 Jul 2016 23:00:32 : LimitlessMc , Resolate#7058 , ;fml
+19 Jul 2016 23:00:33 : LimitlessMc , Botfuzzy77#2209 , *Today, while walking to class enjoying the warmer weather, a bee flew down my shirt. I'm allergic to bees so I freaked out and started ripping my clothes off. By the time I was done, I was half naked and there was no bee in sight. Turns out, it was the string on my jacket hood. FML*
+19 Jul 2016 23:01:14 : Cipher , Akincifenwa#5072 , ;choose work school
+19 Jul 2016 23:01:15 : Cipher , Botfuzzy77#2209 , Oh, Thats easy
+19 Jul 2016 23:01:15 : Cipher , Botfuzzy77#2209 , Chosen Option: school
+19 Jul 2016 23:01:20 : Cipher , Akincifenwa#5072 , Lol
+19 Jul 2016 23:01:46 : Cipher , Akincifenwa#5072 , ;chose bmw mercedes
+19 Jul 2016 23:01:56 : Cipher , Akincifenwa#5072 , ;choose bmw mercedes
+19 Jul 2016 23:01:56 : Cipher , Botfuzzy77#2209 , Hmm, tough choice
+19 Jul 2016 23:01:56 : Cipher , Botfuzzy77#2209 , Chosen Option: mercedes
+19 Jul 2016 23:02:00 : Cipher , Akincifenwa#5072 , Fy
+19 Jul 2016 23:02:34 : Cipher , Akincifenwa#5072 , ;choose ferrari lamborghini
+19 Jul 2016 23:02:35 : Cipher , Botfuzzy77#2209 , Alright, picked one
+19 Jul 2016 23:02:35 : Cipher , Botfuzzy77#2209 , Chosen Option: lamborghini
+19 Jul 2016 23:02:42 : Cipher , Akincifenwa#5072 , Ehhhhh
+19 Jul 2016 23:02:58 : Cipher , Akincifenwa#5072 , ;choose bugatti koenigsegg
+19 Jul 2016 23:02:58 : Cipher , Botfuzzy77#2209 , Alright, picked one
+19 Jul 2016 23:02:58 : Cipher , Botfuzzy77#2209 , Chosen Option: koenigsegg
+19 Jul 2016 23:03:04 : Cipher , Akincifenwa#5072 , Ehhhh
+19 Jul 2016 23:03:36 : Cipher , Akincifenwa#5072 , ;choose hoe milf
+19 Jul 2016 23:03:37 : Cipher , Botfuzzy77#2209 , Hmm, tough choice
+19 Jul 2016 23:03:37 : Cipher , Botfuzzy77#2209 , Chosen Option: milf
+19 Jul 2016 23:03:41 : Cipher , Akincifenwa#5072 , Le
+19 Jul 2016 23:05:55 : Cipher , Wertfuzzy77#0274 , Weirdo
+19 Jul 2016 23:06:59 : Cipher , Botfuzzy77#2209 , **D3NSH1N**(Grunt) is now Online!
+19 Jul 2016 23:07:02 : Cipher , Akincifenwa#5072 , xD
+19 Jul 2016 23:07:10 : The Pleb Privateers , enragednuke#2565 , <@!133762895765831681> HEEYYYYY
+19 Jul 2016 23:07:12 : The Pleb Privateers , enragednuke#2565 , YOU THERE
+19 Jul 2016 23:07:14 : The Pleb Privateers , enragednuke#2565 , BUTTBOY
+19 Jul 2016 23:07:27 : League Of Legends , Botfuzzy77#2209 , **ThaOriginal**(Security) is now Online!
+19 Jul 2016 23:07:42 : Cipher , Akincifenwa#5072 , ;choose Wertfuzzy77 Botfuzzy77
+19 Jul 2016 23:07:42 : Cipher , Botfuzzy77#2209 , Alright, picked one
+19 Jul 2016 23:07:43 : Cipher , Botfuzzy77#2209 , Chosen Option: Botfuzzy77
+19 Jul 2016 23:08:02 : Cipher , Akincifenwa#5072 , ;choose akinci akincifenwa
+19 Jul 2016 23:08:02 : Cipher , Botfuzzy77#2209 , Alright, picked one
+19 Jul 2016 23:08:02 : Cipher , Botfuzzy77#2209 , Chosen Option: akincifenwa
+19 Jul 2016 23:08:06 : Cipher , Akincifenwa#5072 , Yay
+19 Jul 2016 23:08:29 : Cipher , Akincifenwa#5072 , I just realized....
+19 Jul 2016 23:08:36 : Cipher , Akincifenwa#5072 , ;choose 1 w
+19 Jul 2016 23:08:36 : Cipher , Botfuzzy77#2209 , Hmm, tough choice
+19 Jul 2016 23:08:36 : Cipher , Botfuzzy77#2209 , Chosen Option: w
+19 Jul 2016 23:08:45 : Cipher , Akincifenwa#5072 , ;choose 1 2
+19 Jul 2016 23:08:45 : Cipher , Botfuzzy77#2209 , Oh, Thats easy
+19 Jul 2016 23:08:45 : Cipher , Botfuzzy77#2209 , Chosen Option: 2
+19 Jul 2016 23:08:52 : Cipher , Akincifenwa#5072 , ;choose 1 2
+19 Jul 2016 23:08:52 : Cipher , Botfuzzy77#2209 , Oh, Thats easy
+19 Jul 2016 23:08:52 : Cipher , Botfuzzy77#2209 , Chosen Option: 2
+19 Jul 2016 23:09:19 : Cipher , Akincifenwa#5072 , Well it always chooses the second word
+19 Jul 2016 23:09:22 : Cipher , Akincifenwa#5072 , Gg
+19 Jul 2016 23:09:36 : The Pleb Privateers , Tally#2764 , what whore <@!126122455248011265>
+19 Jul 2016 23:09:42 : The Pleb Privateers , Ryan#3332 , hey its me joe <@!126122455248011265>
+19 Jul 2016 23:09:45 : LimitlessMc , Botfuzzy77#2209 , Welcome <@205098884844748811> to LimitlessMc!
+19 Jul 2016 23:09:54 : The Pleb Privateers , enragednuke#2565 , PUGS
+19 Jul 2016 23:10:09 : Cipher , Akincifenwa#5072 , ;choose unicorn bigfatcock
+19 Jul 2016 23:10:09 : Cipher , Botfuzzy77#2209 , Hmm, tough choice
+19 Jul 2016 23:10:09 : Cipher , Botfuzzy77#2209 , Chosen Option: unicorn
+19 Jul 2016 23:10:13 : Cipher , Akincifenwa#5072 , Hmm
+19 Jul 2016 23:10:24 : Cipher , Akincifenwa#5072 , It was always the sexon word before
+19 Jul 2016 23:10:30 : Cipher , Akincifenwa#5072 , Second*
+19 Jul 2016 23:10:30 : LimitlessMc , xStrile#3217 , Server down?
+19 Jul 2016 23:11:03 : Cipher , Akincifenwa#5072 , ;choose le lö
+19 Jul 2016 23:11:04 : Cipher , Botfuzzy77#2209 , Oh, Thats easy
+19 Jul 2016 23:11:04 : Cipher , Botfuzzy77#2209 , Chosen Option: lö
+19 Jul 2016 23:11:10 : The Pleb Privateers , enragednuke#2565 , <@!133762895765831681> WoW
+19 Jul 2016 23:11:12 : The Pleb Privateers , enragednuke#2565 , pugs
+19 Jul 2016 23:11:13 : The Pleb Privateers , enragednuke#2565 , new
+19 Jul 2016 23:11:13 : The Pleb Privateers , enragednuke#2565 , stuff
+19 Jul 2016 23:11:14 : The Pleb Privateers , enragednuke#2565 , hype
+19 Jul 2016 23:11:21 : Cipher , Akincifenwa#5072 , ;choose lälälä lülüäöüäöäöüäöüä
+19 Jul 2016 23:11:21 : Cipher , Botfuzzy77#2209 , Hmm, tough choice
+19 Jul 2016 23:11:21 : Cipher , Botfuzzy77#2209 , Chosen Option: lülüäöüäöäöüäöüä
+19 Jul 2016 23:11:37 : The Pleb Privateers , Tally#2764 , oh yeah
+19 Jul 2016 23:12:40 : The Pleb Privateers , enragednuke#2565 , hmnm
+19 Jul 2016 23:12:42 : The Pleb Privateers , enragednuke#2565 , I can't seem
+19 Jul 2016 23:12:43 : The Pleb Privateers , enragednuke#2565 , tto log in
+19 Jul 2016 23:12:43 : The Pleb Privateers , enragednuke#2565 , LOL
+19 Jul 2016 23:13:07 : League Of Legends , Botfuzzy77#2209 , **Legit_0reo**(Security) is now Online!
+19 Jul 2016 23:14:50 : The Pleb Privateers , Tally#2764 , ehhhhh
+19 Jul 2016 23:14:54 : The Pleb Privateers , Tally#2764 , fuck pugs i dont want to tonight
+19 Jul 2016 23:15:59 : The Pleb Privateers , enragednuke#2565 , nvm i got in
+19 Jul 2016 23:16:12 : The Pleb Privateers , enragednuke#2565 , <@!133762895765831681> im pretty much only gonna do pugs tonight
+19 Jul 2016 23:16:21 : The Pleb Privateers , enragednuke#2565 , so if you want to do pugs tonight the only time
+19 Jul 2016 23:16:30 : The Pleb Privateers , Tally#2764 , ehhh
+19 Jul 2016 23:16:33 : The Pleb Privateers , Tally#2764 , thats okay
+19 Jul 2016 23:16:41 : The Pleb Privateers , Tally#2764 , i only ever do pugs
+19 Jul 2016 23:16:46 : The Pleb Privateers , Tally#2764 , so i can do them whenever
+19 Jul 2016 23:17:00 : LimitlessMc , dizzle#6593 , ;clever hi
+19 Jul 2016 23:17:00 : LimitlessMc , Botfuzzy77#2209 , Hi.
+19 Jul 2016 23:17:08 : LimitlessMc , dizzle#6593 , ;clever how are you
+19 Jul 2016 23:17:08 : LimitlessMc , Botfuzzy77#2209 , I'm ok.
+19 Jul 2016 23:17:14 : LimitlessMc , dizzle#6593 , ;clever thats good
+19 Jul 2016 23:17:15 : LimitlessMc , Botfuzzy77#2209 , What's your name?
+19 Jul 2016 23:17:21 : LimitlessMc , dizzle#6593 , ;clever call me dizzle
+19 Jul 2016 23:17:22 : LimitlessMc , Botfuzzy77#2209 , Can I call you Robert?
+19 Jul 2016 23:17:27 : LimitlessMc , dizzle#6593 , ;clever no
+19 Jul 2016 23:17:27 : LimitlessMc , Botfuzzy77#2209 , How can I call you?
+19 Jul 2016 23:17:38 : LimitlessMc , dizzle#6593 , ;clever just call me dizzle
+19 Jul 2016 23:17:38 : LimitlessMc , Botfuzzy77#2209 , Okay D.
+19 Jul 2016 23:17:56 : LimitlessMc , dizzle#6593 , ;clever so you just chilling
+19 Jul 2016 23:17:57 : LimitlessMc , Botfuzzy77#2209 , Do you like TV?
+19 Jul 2016 23:18:05 : LimitlessMc , dizzle#6593 , ;clever its ok
+19 Jul 2016 23:18:05 : LimitlessMc , Botfuzzy77#2209 , Will you kiss a girl?
+19 Jul 2016 23:18:12 : LimitlessMc , dizzle#6593 , ;clever yes
+19 Jul 2016 23:18:13 : LimitlessMc , Botfuzzy77#2209 , Kiss a girl then.
+19 Jul 2016 23:18:21 : LimitlessMc , dizzle#6593 , ;clever not now
+19 Jul 2016 23:18:21 : LimitlessMc , Botfuzzy77#2209 , Why not now?
+19 Jul 2016 23:18:29 : LimitlessMc , dizzle#6593 , ;clever im tired
+19 Jul 2016 23:18:30 : LimitlessMc , Botfuzzy77#2209 , Go to sleep.
+19 Jul 2016 23:18:34 : LimitlessMc , dizzle#6593 , ;clever no
+19 Jul 2016 23:18:34 : LimitlessMc , Botfuzzy77#2209 , Sleep well.
+19 Jul 2016 23:18:38 : LimitlessMc , dizzle#6593 , ;clever no
+19 Jul 2016 23:18:39 : LimitlessMc , Botfuzzy77#2209 , No? Okay.
+19 Jul 2016 23:18:43 : LimitlessMc , dizzle#6593 , ;clever ...
+19 Jul 2016 23:18:44 : LimitlessMc , Botfuzzy77#2209 , Hmm what.
+19 Jul 2016 23:18:47 : LimitlessMc , dizzle#6593 , ;clever ...
+19 Jul 2016 23:18:47 : LimitlessMc , Botfuzzy77#2209 , Love?
+19 Jul 2016 23:18:50 : LimitlessMc , dizzle#6593 , ;clever....
+19 Jul 2016 23:18:53 : LimitlessMc , dizzle#6593 , ;clever ...
+19 Jul 2016 23:18:54 : LimitlessMc , Botfuzzy77#2209 , Candy?
+19 Jul 2016 23:18:59 : LimitlessMc , dizzle#6593 , ;clever ....
+19 Jul 2016 23:18:59 : LimitlessMc , Botfuzzy77#2209 , *blushes*.
+19 Jul 2016 23:19:04 : LimitlessMc , dizzle#6593 , ;clever ...
+19 Jul 2016 23:19:05 : LimitlessMc , Botfuzzy77#2209 , Cake?
+19 Jul 2016 23:19:08 : LimitlessMc , dizzle#6593 , ;clever ...
+19 Jul 2016 23:19:08 : LimitlessMc , Botfuzzy77#2209 , Alles fertig.
+19 Jul 2016 23:19:13 : LimitlessMc , dizzle#6593 , ;clever bye
+19 Jul 2016 23:19:14 : LimitlessMc , Botfuzzy77#2209 , Bye :(.
+19 Jul 2016 23:20:30 : LimitlessMc , dizzle#6593 , ;luck
+19 Jul 2016 23:20:30 : LimitlessMc , Botfuzzy77#2209 , dizzle's luck is 24.43 out of 100, which is **Pretty Bad**
+19 Jul 2016 23:20:39 : LimitlessMc , dizzle#6593 , wow
+19 Jul 2016 23:20:43 : LimitlessMc , dizzle#6593 , ;luck
+19 Jul 2016 23:20:43 : LimitlessMc , Botfuzzy77#2209 , dizzle's luck is 56.24 out of 100, which is **Not Bad**
+19 Jul 2016 23:22:50 : LimitlessMc , dizzle#6593 , ;online
+19 Jul 2016 23:22:56 : LimitlessMc , dizzle#6593 , ;luck
+19 Jul 2016 23:22:56 : LimitlessMc , Botfuzzy77#2209 , dizzle's luck is 39.57 out of 100, which is **Pretty Bad**
+19 Jul 2016 23:23:03 : LimitlessMc , dizzle#6593 , ;luck
+19 Jul 2016 23:23:03 : LimitlessMc , Botfuzzy77#2209 , dizzle's luck is 57.74 out of 100, which is **Not Bad**
+19 Jul 2016 23:23:09 : LimitlessMc , dizzle#6593 , ;luck
+19 Jul 2016 23:23:09 : LimitlessMc , Botfuzzy77#2209 , dizzle's luck is 69.32 out of 100, which is **Pretty Good**
+19 Jul 2016 23:23:24 : Cipher , Jabulla#3761 , http://i.imgur.com/Z8VjLLY.jpg
+19 Jul 2016 23:23:57 : League Of Legends , Botfuzzy77#2209 , **ThaOriginal**(Security) is now Online!
+19 Jul 2016 23:24:35 : 02Gaming , Botfuzzy77#2209 , **Wu Tang**(Member) is now Online!
+19 Jul 2016 23:27:40 : LimitlessMc , Resolate#7058 , gn guys, won't be on for a few days as the laptop is getting fixed
+19 Jul 2016 23:27:59 : LimitlessMc , dizzle#6593 , what happen?
+19 Jul 2016 23:29:08 : LimitlessMc , Resolate#7058 , A part near the keys nearly came all off when it accidentall y slammed straight to the floor
+19 Jul 2016 23:29:22 : LimitlessMc , Resolate#7058 , rip
+19 Jul 2016 23:29:34 : LimitlessMc , dizzle#6593 , wow hope it gets fixed fast
+19 Jul 2016 23:29:35 : Cipher , Botfuzzy77#2209 , **Akincifenwa**(Grunt) is now Online!
+19 Jul 2016 23:30:01 : Cipher , Botfuzzy77#2209 , **Kburn1999**(Grunt) is now Online!
+19 Jul 2016 23:30:05 : LimitlessMc , Resolate#7058 , ;choose FixedFast FixedSlow
+19 Jul 2016 23:30:05 : LimitlessMc , Botfuzzy77#2209 , Hmm, tough choice
+19 Jul 2016 23:30:05 : LimitlessMc , Botfuzzy77#2209 , Chosen Option: FixedFast
+19 Jul 2016 23:30:22 : LimitlessMc , dizzle#6593 , may luck be on your side resolate
+19 Jul 2016 23:30:34 : LimitlessMc , Resolate#7058 , Anyway gn and thanks dizzle
+19 Jul 2016 23:30:40 : LimitlessMc , dizzle#6593 , np
+19 Jul 2016 23:30:43 : Cipher , Akincifenwa#5072 , Lol
+19 Jul 2016 23:30:46 : Cipher , Wertfuzzy77#0274 , ;playlist Old
+19 Jul 2016 23:30:46 : LimitlessMc , dizzle#6593 , night
+19 Jul 2016 23:30:52 : Cipher , Wertfuzzy77#0274 , ;youtube https://www.youtube.com/watch?v=kVpv8-5XWOI
+19 Jul 2016 23:30:54 : Cipher , Botfuzzy77#2209 , Finished Adding songs from playlist(s)
+19 Jul 2016 23:30:57 : Cipher , Wertfuzzy77#0274 , ;shuffle
+19 Jul 2016 23:30:57 : Cipher , Botfuzzy77#2209 , Shuffling songs...
+19 Jul 2016 23:30:59 : Cipher , Wertfuzzy77#0274 , ;skip
+19 Jul 2016 23:30:59 : Cipher , Botfuzzy77#2209 , Skipping Def Leppard - Pour Some Sugar On Me (lyrics)
+19 Jul 2016 23:31:11 : Cipher , Wertfuzzy77#0274 , lol
+19 Jul 2016 23:31:16 : Cipher , Kburn1999#5526 , ;playlists
+19 Jul 2016 23:31:16 : Cipher , Botfuzzy77#2209 , WEEB[1], Adele[5], Sheeran[6], Old[9], ACDC[5], Maroon[5], 2Cellos[5], Coldplay[5]
+19 Jul 2016 23:31:27 : Cipher , Kburn1999#5526 , ;playlist adele
+19 Jul 2016 23:31:33 : Cipher , Wertfuzzy77#0274 , has to be exact
+19 Jul 2016 23:31:35 : Cipher , Kburn1999#5526 , ;playlist Adele
+19 Jul 2016 23:31:38 : Cipher , Wertfuzzy77#0274 , there we go
+19 Jul 2016 23:31:39 : Cipher , Botfuzzy77#2209 , Finished Adding songs from playlist(s)
+19 Jul 2016 23:31:42 : Cipher , Wertfuzzy77#0274 , ;shuffle
+19 Jul 2016 23:31:43 : Cipher , Botfuzzy77#2209 , Shuffling songs...
+19 Jul 2016 23:32:53 : None , Akincifenwa#5072 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], "**Lelele**(Grand Master) is now online!")
+19 Jul 2016 23:32:53 : Cipher , Botfuzzy77#2209 , **Lelele**(Grand Master) is now online!
+19 Jul 2016 23:32:53 : None , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x0000024BB2B91750>
+```
+19 Jul 2016 23:33:32 : Cipher , Akincifenwa#5072 , Bet
+19 Jul 2016 23:37:10 : Cipher , Botfuzzy77#2209 , **Akincifenwa**(Grunt) is now Online!
+19 Jul 2016 23:38:23 : None , Akincifenwa#5072 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], "**Akincifenwa**(Grunt) is now Offline!")
+19 Jul 2016 23:38:23 : Cipher , Botfuzzy77#2209 , **Akincifenwa**(Grunt) is now Offline!
+19 Jul 2016 23:38:23 : None , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x0000024BB2B919A8>
+```
+19 Jul 2016 23:40:13 : Cipher , Botfuzzy77#2209 , **Akincifenwa**(Grunt) is now Online!
+19 Jul 2016 23:41:05 : LimitlessMc , BethUR#5559 , ;luck
+19 Jul 2016 23:41:05 : LimitlessMc , Botfuzzy77#2209 , BethUR's luck is 17.45 out of 100, which is **Completly Horrible**
+19 Jul 2016 23:41:30 : LimitlessMc , BethUR#5559 , ...
+19 Jul 2016 23:49:56 : Cipher , Botfuzzy77#2209 , **Akincifenwa**(Grunt) is now Online!
+19 Jul 2016 23:50:37 : Cipher , Akincifenwa#5072 , Hmm Iamlucario applied to be an architect
+19 Jul 2016 23:53:15 : Cipher , Wertfuzzy77#0274 , LOL
+19 Jul 2016 23:53:17 : Cipher , Wertfuzzy77#0274 , rly
+19 Jul 2016 23:53:22 : Cipher , Wertfuzzy77#0274 , link me
+19 Jul 2016 23:53:30 : Cipher , Wertfuzzy77#0274 , lsongs
+19 Jul 2016 23:53:32 : Cipher , Wertfuzzy77#0274 , ;songs
+19 Jul 2016 23:53:32 : Cipher , Botfuzzy77#2209 , **The Following songs are in the Queue**
+19 Jul 2016 23:53:32 : Cipher , Botfuzzy77#2209 , Sweet Home Alabama Lynyrd Skynyrd (https://www.youtube.com/watch?v=-Du-CWASm20)
+Don McLean- American Pie (with Lyrics) (https://www.youtube.com/watch?v=uAsV5-Hv-7U)
+Adele - Skyfall (Lyric Video) (https://www.youtube.com/watch?v=DeumyOzKqgI)
+The Eagles - Hotel California - (High Quality) (https://www.youtube.com/watch?v=lHje9w7Ev4U)
+Train - Hey, Soul Sister (https://www.youtube.com/watch?v=kVpv8-5XWOI)
+Tom Petty- Free Falling + Lyrics On Screen (https://www.youtube.com/watch?v=T3phscjgc_A)
+Adele - Someone Like You (https://www.youtube.com/watch?v=hLQl3WQQoQ0)
+Adele - Set Fire To The Rain (Live at The Royal Albert Hall) (https://www.youtube.com/watch?v=Ri7-vnrJD3k)
+Total Time is 0:41:23
+19 Jul 2016 23:53:42 : Cipher , Wertfuzzy77#0274 , He isnt a bad builder
+19 Jul 2016 23:53:46 : Cipher , Botfuzzy77#2209 , **Akincifenwa**(Grunt) is now Online!
+19 Jul 2016 23:54:01 : Cipher , Kburn1999#5526 , ;shuffle
+19 Jul 2016 23:54:02 : Cipher , Botfuzzy77#2209 , Shuffling songs...
+19 Jul 2016 23:54:03 : Cipher , Wertfuzzy77#0274 , but idk if Jay/Everyone else would trust em as a staff
+19 Jul 2016 23:54:25 : Cipher , Wertfuzzy77#0274 , ;playlist 2Cellos WEEB
+19 Jul 2016 23:54:31 : Cipher , Botfuzzy77#2209 , Finished Adding songs from playlist(s)
+19 Jul 2016 23:54:34 : Cipher , Akincifenwa#5072 , But mank, myst and someone else liked his post
+19 Jul 2016 23:54:35 : Cipher , Kburn1999#5526 , ;shuffle
+19 Jul 2016 23:54:35 : Cipher , Botfuzzy77#2209 , Shuffling songs...
+19 Jul 2016 23:54:44 : Cipher , Wertfuzzy77#0274 , ;songs
+19 Jul 2016 23:54:44 : Cipher , Botfuzzy77#2209 , **The Following songs are in the Queue, plus [4] more**
+19 Jul 2016 23:54:49 : Cipher , Akincifenwa#5072 , But after the things he did
+19 Jul 2016 23:54:52 : Cipher , Akincifenwa#5072 , Idk
+19 Jul 2016 23:54:58 : Cipher , Wertfuzzy77#0274 , Mystz only likes troll posts
+19 Jul 2016 23:55:04 : Cipher , Akincifenwa#5072 , How to trust
+19 Jul 2016 23:55:14 : Cipher , Akincifenwa#5072 , Le
+19 Jul 2016 23:55:23 : Cipher , Wertfuzzy77#0274 , can i get a link tho? wanna read
+19 Jul 2016 23:55:28 : Cipher , Akincifenwa#5072 , K wait
+19 Jul 2016 23:55:50 : Cipher , Akincifenwa#5072 , http://limitlessmc.net/f/viewtopic.php?f=17&t=3509
+19 Jul 2016 23:55:50 : Cipher , Botfuzzy77#2209 , **IamLucario's (real) Architect Application**
+#10440 by IamLucario
+ Mon Jul 18, 2016 3:50 pm 
+------------------------------------
+**In-Game Username:**
+
+**IamLucario**
+
+
+**Real (First) Name:**
+
+**Timmy**
+
+
+**Age:**
+
+**I am 23 years old.**
+
+
+**Are you fluent in English?:**
+
+**I was born and raised in the United States and I am fluent in English. I also Know some Spanish, as was required for college, however I have since forgotten alot of it. **
+
+
+**How long have you been a member of Limitless?:**
+
+**I first joined LimitlessMC in the beginning of May, 2016. Almost 4 months now. I have logged in almost everyday, many times for hours at a time. I imagine I have put almost 100 hours, if not more into the server.**
+
+
+**What Time Zone are you on?**
+
+**Eastern American Time zone**
+
+
+**How long can you be online per day?:**
+
+**I usually play anywhere from 4-6 hours on the weekdays, and anywhere from 6-8+ hours on the weekends. **
+
+
+**What times of the day can you be online?**
+
+**I have recently switched to 3rd shift at my job. I currently play anywhere between about 7:00 hours - sometimes 16:00 hours. (7:00 A.M. - 4:00 P.M. my time)**
+
+
+**Have you ever broke any of the server rules?**
+
+**Yes, I have. Because of this I was very hesitant to make this application, however some of the players and mods have suggested I give it a try anyway. This is something I am not at all proud of, and I have since been giving it my 100% to help the comm...
+------------------------------------
+*If you would like to read more, click the link below!*
+http://limitlessmc.net/f/viewtopic.php?f=17&t=3509
+19 Jul 2016 23:56:06 : Cipher , Akincifenwa#5072 , "(Real)"
+19 Jul 2016 23:56:09 : Cipher , Wertfuzzy77#0274 , `IamLucario's (real) Architect Application` Already see this as a problem lol
+19 Jul 2016 23:56:11 : Cipher , Wertfuzzy77#0274 , yeah lol
+19 Jul 2016 23:56:16 : Cipher , Akincifenwa#5072 , Lol
+19 Jul 2016 23:57:02 : Cipher , Wertfuzzy77#0274 , #DeniedWrongFormat
+19 Jul 2016 23:57:04 : Cipher , Wertfuzzy77#0274 , lol
+19 Jul 2016 23:57:14 : Cipher , Akincifenwa#5072 , xD
+19 Jul 2016 23:57:17 : Cipher , Akincifenwa#5072 , ^
+19 Jul 2016 23:57:18 : Cipher , Botfuzzy77#2209 , ^
+19 Jul 2016 23:57:32 : Cipher , Wertfuzzy77#0274 , but actually tho, like he bolded everything :/
+19 Jul 2016 23:57:40 : Cipher , Wertfuzzy77#0274 , bothers me
+19 Jul 2016 23:57:42 : Cipher , Akincifenwa#5072 , Yep le
+20 Jul 2016 00:00:41 : Cipher , Akincifenwa#5072 , oh ya btw because of the rollback, i got 2 3iv dittos with exact same ivs le
+20 Jul 2016 00:00:48 : Cipher , Kburn1999#5526 , lolz
+20 Jul 2016 00:01:35 : Cipher , Wertfuzzy77#0274 , hax
+20 Jul 2016 00:01:40 : Cipher , Wertfuzzy77#0274 , gimme 1 okei
+20 Jul 2016 00:01:44 : Cipher , Kburn1999#5526 , how do u train ivs
+20 Jul 2016 00:01:48 : Cipher , Wertfuzzy77#0274 , cant
+20 Jul 2016 00:01:50 : Cipher , Akincifenwa#5072 , le i sold d3 one
+20 Jul 2016 00:01:50 : Cipher , Wertfuzzy77#0274 , breed only
+20 Jul 2016 00:01:53 : Cipher , Wertfuzzy77#0274 , nub
+20 Jul 2016 00:01:59 : Cipher , Kburn1999#5526 , ive never done ivs evs
+20 Jul 2016 00:02:00 : Cipher , Akincifenwa#5072 , xD
+20 Jul 2016 00:02:02 : Cipher , Kburn1999#5526 , or whatever
+20 Jul 2016 00:03:23 : Cipher , Akincifenwa#5072 , welp you should
+20 Jul 2016 00:03:35 : Cipher , Akincifenwa#5072 , v essential
+20 Jul 2016 00:03:44 : Cipher , Kburn1999#5526 , i know cause skyd utterly desrtoyed me with his
+20 Jul 2016 00:03:51 : Cipher , Akincifenwa#5072 , lol
+20 Jul 2016 00:04:08 : Cipher , Akincifenwa#5072 , ;server
+20 Jul 2016 00:04:09 : Cipher , Botfuzzy77#2209 , *Server is Down :(*
+20 Jul 2016 00:04:20 : Cipher , Akincifenwa#5072 , it said 5mins till restart
+20 Jul 2016 00:04:22 : Cipher , Akincifenwa#5072 , mean
+20 Jul 2016 00:04:38 : Cipher , Wertfuzzy77#0274 , yeah, server was going v bda
+20 Jul 2016 00:04:39 : Cipher , Wertfuzzy77#0274 , ad*
+20 Jul 2016 00:04:44 : Cipher , Wertfuzzy77#0274 , BAD*
+20 Jul 2016 00:04:45 : Cipher , Wertfuzzy77#0274 , ugh
+20 Jul 2016 00:04:46 : Cipher , Wertfuzzy77#0274 , aihfbai
+20 Jul 2016 00:04:47 : Cipher , Wertfuzzy77#0274 , sdifbsadif
+20 Jul 2016 00:04:47 : Cipher , Wertfuzzy77#0274 , ibfa
+20 Jul 2016 00:04:49 : Cipher , Kburn1999#5526 , server didnt say it
+20 Jul 2016 00:04:51 : Cipher , Akincifenwa#5072 , difnpdsf
+20 Jul 2016 00:04:51 : Cipher , Kburn1999#5526 , wertdid
+20 Jul 2016 00:05:00 : Cipher , Wertfuzzy77#0274 , ^
+20 Jul 2016 00:05:01 : Cipher , Botfuzzy77#2209 , ^
+20 Jul 2016 00:05:01 : Cipher , Akincifenwa#5072 , #blamewert
+20 Jul 2016 00:05:03 : Cipher , Wertfuzzy77#0274 , ^
+20 Jul 2016 00:05:03 : Cipher , Botfuzzy77#2209 , ^
+20 Jul 2016 00:05:14 : Cipher , Kburn1999#5526 , ;song
+20 Jul 2016 00:05:14 : Cipher , Botfuzzy77#2209 , ```Name: Don McLean- American Pie (with Lyrics)
+URL: <https://www.youtube.com/watch?v=uAsV5-Hv-7U>
+Time: 0:08:42
+Views: 54,935,276
+Likes: 186,779, 96.01%
+Dislikes: 7,757, 3.99%
+```
+20 Jul 2016 00:05:30 : Cipher , Kburn1999#5526 , ;help
+20 Jul 2016 00:05:30 : Cipher , Botfuzzy77#2209 , ```
+  afk         Sets you as AFK, and the Bot will auto Reply for you with the G...
+  fml         Returns a Random Post from fmylife.com
+  server      Returns Information on the Limitless MC server!
+  joined      Says when a member joined.
+  ev          Returns Best Pokemon to Find Certain EVs 
+  pokemon     Returns Links to Pokemon pages
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+20 Jul 2016 00:05:38 : Cipher , Wertfuzzy77#0274 , keeps getting longer lol
+20 Jul 2016 00:05:47 : Cipher , Kburn1999#5526 , how to do forceplay
+20 Jul 2016 00:06:04 : Cipher , Wertfuzzy77#0274 , its only if the video doesnt go thru in ;youtube
+20 Jul 2016 00:06:17 : Cipher , Wertfuzzy77#0274 , and dont use it if you dont need to
+20 Jul 2016 00:06:20 : Cipher , Kburn1999#5526 , ok
+20 Jul 2016 00:06:21 : Cipher , Wertfuzzy77#0274 , cause has no checks
+20 Jul 2016 00:06:27 : Cipher , Wertfuzzy77#0274 , just tries to play it immediatly
+20 Jul 2016 00:06:27 : Cipher , Kburn1999#5526 , ;youtube https://www.youtube.com/watch?v=hEcjgJSqSRU
+20 Jul 2016 00:06:30 : Cipher , Wertfuzzy77#0274 , so can crash
+20 Jul 2016 00:07:21 : Cipher , Kburn1999#5526 , ;shuffle
+20 Jul 2016 00:07:21 : Cipher , Botfuzzy77#2209 , Shuffling songs...
+20 Jul 2016 00:07:24 : Cipher , Kburn1999#5526 , ;songs
+20 Jul 2016 00:07:24 : Cipher , Botfuzzy77#2209 , **The Following songs are in the Queue, plus [3] more**
+20 Jul 2016 00:07:56 : Cipher , Akincifenwa#5072 , ;youtube https://www.youtube.com/watch?v=0i0mUT2k34U
+20 Jul 2016 00:08:05 : Cipher , Kburn1999#5526 , oh jeez
+20 Jul 2016 00:10:31 : Cipher , Akincifenwa#5072 , lol wut
+20 Jul 2016 00:10:36 : Cipher , Akincifenwa#5072 , my song?
+20 Jul 2016 00:10:40 : Cipher , Kburn1999#5526 , yea
+20 Jul 2016 00:10:49 : Cipher , Akincifenwa#5072 , -.- its cool okei
+20 Jul 2016 00:11:13 : Cipher , Akincifenwa#5072 , ;song
+20 Jul 2016 00:11:13 : Cipher , Botfuzzy77#2209 , ```Name: Adele - Set Fire To The Rain (Live at The Royal Albert Hall)
+URL: <https://www.youtube.com/watch?v=Ri7-vnrJD3k>
+Time: 0:03:58
+Views: 259,537,393
+Likes: 963,419, 97.34%
+Dislikes: 26,280, 2.66%
+```
+20 Jul 2016 00:11:28 : Cipher , Wertfuzzy77#0274 , need a restart
+20 Jul 2016 00:11:29 : Cipher , Wertfuzzy77#0274 , sry
+20 Jul 2016 00:11:31 : Cipher , Akincifenwa#5072 , the live version is kinda cringey
+20 Jul 2016 00:11:34 : Cipher , Wertfuzzy77#0274 , ;shutdown
+20 Jul 2016 00:11:34 : Cipher , Botfuzzy77#2209 , Ok :(
+20 Jul 2016 00:11:34 : Cipher , Botfuzzy77#2209 , Gooodbye cruel world

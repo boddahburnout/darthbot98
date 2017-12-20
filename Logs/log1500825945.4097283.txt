@@ -1,0 +1,123 @@
+23 Jul 2017 16:06:34 : Proton Gaming Network, bot_commands, jjtwilefc#7374, use s1.protongaming.co.uk:25568
+23 Jul 2017 16:06:35 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, ;interactdebug 1+1
+23 Jul 2017 16:06:35 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, ```py
+2
+```
+23 Jul 2017 16:06:38 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, alright
+23 Jul 2017 16:06:56 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, ;interactdebug MinecraftServer.lookup("s1.protongaming.co.uk:25568").status
+23 Jul 2017 16:06:56 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, ```py
+<bound method MinecraftServer.status of <mcstatus.server.MinecraftServer object at 0x7f5dbf3a6c50>>
+```
+23 Jul 2017 16:07:00 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, ;interactdebug MinecraftServer.lookup("s1.protongaming.co.uk:25568").status()
+23 Jul 2017 16:07:01 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, ```py
+OSError: Received invalid status response packet.
+```
+23 Jul 2017 16:07:06 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, well
+23 Jul 2017 16:07:09 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, hmm
+23 Jul 2017 16:07:12 : Proton Gaming Network, bot_commands, jjtwilefc#7374, Blame shuck
+23 Jul 2017 16:07:17 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, ;interactdebug MinecraftServer.lookup("s1.protongaming.co.uk:25568")
+23 Jul 2017 16:07:18 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, ```py
+<mcstatus.server.MinecraftServer object at 0x7f5daeda5588>
+```
+23 Jul 2017 16:07:43 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, ;interactdebug MinecraftServer.lookup("s1.protongaming.co.uk:25568").status().latency
+23 Jul 2017 16:07:44 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, ```py
+OSError: Received invalid status response packet.
+```
+23 Jul 2017 16:07:50 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, ya.... it no like that IP
+23 Jul 2017 16:08:00 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, ;interactdebug MinecraftServer.lookup("mc.limitlessmc.net").status().latency
+23 Jul 2017 16:08:04 : Proton Gaming Network, bot_commands, jjtwilefc#7374, Ehhhh
+23 Jul 2017 16:08:04 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, ```py
+timeout: timed out
+```
+23 Jul 2017 16:08:12 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, doesnt like limitless either, but thats for good reason xD
+23 Jul 2017 16:08:50 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, ;interactdebug MinecraftServer.lookup("us.mineplex.com").status().latency
+23 Jul 2017 16:08:50 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, ```py
+87.926
+```
+23 Jul 2017 16:09:00 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, yeah, it doesnt like the IP you gave me
+23 Jul 2017 16:09:07 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, ;server us.mineplex.com
+23 Jul 2017 16:09:11 : Proton Gaming Network, bot_commands, shuck#1142, @Mike ^
+23 Jul 2017 16:09:32 : Legacy Craft, screenshots, Lastshadow#5809, Ugly fruit
+23 Jul 2017 16:09:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+23 Jul 2017 16:09:37 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+23 Jul 2017 16:09:38 : Legacy Craft, screenshots, Lastshadow#5809, That is a real fruit btw
+23 Jul 2017 16:09:48 : LimitlessMc, botchat, Wertfuzzy77#0274, ;yplaylist https://www.youtube.com/playlist?list=PLdakRkpsmtJHASl749igX8CUBGe0-DSH2
+23 Jul 2017 16:09:49 : Proton Gaming Network, bot_commands, jjtwilefc#7374, ;join
+23 Jul 2017 16:09:50 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, Connected channel!
+23 Jul 2017 16:09:56 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cycle
+23 Jul 2017 16:09:56 : LimitlessMc, botchat, Botfuzzy77#2209, Cycle Mode: True
+23 Jul 2017 16:10:18 : Proton Gaming Network, bot_commands, jjtwilefc#7374, ;search Jonny come home
+23 Jul 2017 16:10:19 : Legacy Craft, screenshots, DormantSolice#5007, durian
+23 Jul 2017 16:10:20 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, Added Fine Young Cannibals - Johnny Come Home to the queue
+23 Jul 2017 16:10:20 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, https://www.youtube.com/watch?v=2H5Se-9XAVE
+23 Jul 2017 16:11:08 : LimitlessMc, botchat, jjtwilefc#7374, You just destroyed my music with that
+23 Jul 2017 16:11:10 : LimitlessMc, botchat, Wertfuzzy77#0274, same
+23 Jul 2017 16:11:13 : LimitlessMc, botchat, Wertfuzzy77#0274, it crashed mine
+23 Jul 2017 16:11:18 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reconnect
+23 Jul 2017 16:11:28 : LimitlessMc, botchat, jjtwilefc#7374, ;aong
+23 Jul 2017 16:11:30 : LimitlessMc, botchat, Wertfuzzy77#0274, gotta love ;reconnect
+23 Jul 2017 16:11:31 : LimitlessMc, botchat, Wertfuzzy77#0274, ;shuffle
+23 Jul 2017 16:11:32 : LimitlessMc, botchat, Botfuzzy77#2209, Shuffled songs!
+23 Jul 2017 16:11:32 : LimitlessMc, botchat, jjtwilefc#7374, ;song
+23 Jul 2017 16:11:37 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 16:11:48 : LimitlessMc, botchat, jjtwilefc#7374, 👍
+23 Jul 2017 16:11:51 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+23 Jul 2017 16:11:54 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 16:12:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;shuffle
+23 Jul 2017 16:12:05 : LimitlessMc, botchat, Botfuzzy77#2209, Shuffled songs!
+23 Jul 2017 16:12:06 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cycle
+23 Jul 2017 16:12:06 : LimitlessMc, botchat, Botfuzzy77#2209, Cycle Mode: False
+23 Jul 2017 16:12:07 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cycle
+23 Jul 2017 16:12:07 : LimitlessMc, botchat, Botfuzzy77#2209, Cycle Mode: True
+23 Jul 2017 16:12:08 : LimitlessMc, botchat, Wertfuzzy77#0274, ;music
+23 Jul 2017 16:12:11 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 16:12:27 : LimitlessMc, botchat, jjtwilefc#7374, 98 queue length >_>
+23 Jul 2017 16:12:29 : LimitlessMc, botchat, Wertfuzzy77#0274, 😛
+23 Jul 2017 16:12:32 : LimitlessMc, botchat, Wertfuzzy77#0274, and on cycle
+23 Jul 2017 16:12:38 : LimitlessMc, botchat, Wertfuzzy77#0274, so infinite loops
+23 Jul 2017 16:13:08 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, ;cd
+23 Jul 2017 16:13:08 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, 
+23 Jul 2017 16:13:12 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, ;mine
+23 Jul 2017 16:13:12 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, 
+23 Jul 2017 16:13:12 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, 
+23 Jul 2017 16:13:12 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, 
+23 Jul 2017 16:13:14 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, 😄
+23 Jul 2017 16:13:14 : Proton Gaming Network, bot_commands, jjtwilefc#7374, @shuck what's your snapchat name
+23 Jul 2017 16:13:18 : Proton Gaming Network, bot_commands, jjtwilefc#7374, I lost my account
+23 Jul 2017 16:13:18 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, got the gold!
+23 Jul 2017 16:13:30 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, ;lv
+23 Jul 2017 16:13:32 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, 
+23 Jul 2017 16:13:32 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, ;leave
+23 Jul 2017 16:13:35 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, ;-;
+23 Jul 2017 16:13:43 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, why music crash
+23 Jul 2017 16:13:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reconnect
+23 Jul 2017 16:13:49 : Proton Gaming Network, bot_commands, jjtwilefc#7374, Blame shuck
+23 Jul 2017 16:13:51 : Proton Gaming Network, bot_commands, shuck#1142, U lost it again?
+23 Jul 2017 16:14:00 : Proton Gaming Network, bot_commands, jjtwilefc#7374, Idk at this point
+23 Jul 2017 16:14:07 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, ;cd
+23 Jul 2017 16:14:07 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, 
+23 Jul 2017 16:14:07 : Proton Gaming Network, bot_commands, jjtwilefc#7374, I just don't think I have you
+23 Jul 2017 16:14:11 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, ;pbs
+23 Jul 2017 16:14:11 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, 
+23 Jul 2017 16:14:14 : None, Direct Message with TherminatorX, TherminatorX#6644, ;train
+23 Jul 2017 16:14:16 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+23 Jul 2017 16:14:18 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+23 Jul 2017 16:14:22 : None, Direct Message with TherminatorX, TherminatorX#6644, K
+23 Jul 2017 16:14:23 : Proton Gaming Network, bot_commands, jjtwilefc#7374, Along with like 90% of the people I had
+23 Jul 2017 16:14:27 : Proton Gaming Network, bot_commands, shuck#1142, U been sending me shit tho
+23 Jul 2017 16:14:33 : Proton Gaming Network, bot_commands, jjtwilefc#7374, The fuck
+23 Jul 2017 16:14:47 : Proton Gaming Network, bot_commands, jjtwilefc#7374, Oh yeah I do have you nvm
+23 Jul 2017 16:14:56 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, wtb a role for my god tier bot
+23 Jul 2017 16:15:00 : Proton Gaming Network, bot_commands, jjtwilefc#7374, The name was different so I got confused
+23 Jul 2017 16:15:27 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+23 Jul 2017 16:15:27 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Michael Bublé - I’ll Be Home For Christmas [AUDIO] by request of the requester
+23 Jul 2017 16:15:28 : Proton Gaming Network, bot_commands, jjtwilefc#7374, ;join
+23 Jul 2017 16:15:29 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, Connected channel!
+23 Jul 2017 16:16:42 : Proton Gaming Network, bot_commands, jjtwilefc#7374, ;search the river flows in you
+23 Jul 2017 16:16:42 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, ayy
+23 Jul 2017 16:16:42 : Proton Gaming Network, bot_commands, jjtwilefc#7374, Is it in you or in me I can never remember
+23 Jul 2017 16:16:42 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, no idea
+23 Jul 2017 16:16:42 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, but why didnt it search???
+23 Jul 2017 16:16:42 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, oi @ProtonBot what you doing
+23 Jul 2017 16:16:42 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, hmm?
+23 Jul 2017 16:16:42 : Proton Gaming Network, bot_commands, jjtwilefc#7374, ;leave

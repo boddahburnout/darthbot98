@@ -1,0 +1,17 @@
+13 Jul 2016 00:33:17 : Cipher , Wertfuzzy77#0274 , ;join
+13 Jul 2016 00:33:25 : Cipher , Wertfuzzy77#0274 , ;youtube https://www.youtube.com/watch?v=2fngvQS_PmQ
+13 Jul 2016 00:33:52 : Cipher , Wertfuzzy77#0274 , hello
+13 Jul 2016 00:33:52 : Cipher , Botfuzzy77#2209 , *From The Other Side*
+13 Jul 2016 00:34:06 : Cipher , Wertfuzzy77#0274 , ;playlist Maroon
+13 Jul 2016 00:34:11 : Cipher , Botfuzzy77#2209 , Finished Adding songs from playlist(s)
+13 Jul 2016 00:39:35 : Cipher , Wertfuzzy77#0274 , ;song
+13 Jul 2016 00:39:35 : Cipher , Botfuzzy77#2209 , ```Name: Maroon 5 - Moves Like Jagger ft. Christina Aguilera
+URL: <https://www.youtube.com/watch?v=iEPTlhBmwRg>
+Views: 430,915,066
+Likes: 1,407,762, 96.15%
+Dislikes: 56,359, 3.85%
+```
+13 Jul 2016 00:39:37 : Cipher , Wertfuzzy77#0274 , ;skip
+13 Jul 2016 00:39:37 : Cipher , Botfuzzy77#2209 , Skipping Maroon 5 - Moves Like Jagger ft. Christina Aguilera
+13 Jul 2016 00:42:06 : Cipher , Wertfuzzy77#0274 , ;relog
+13 Jul 2016 00:42:06 : Cipher , Botfuzzy77#2209 , Relogging...

@@ -1,0 +1,12 @@
+15 Jun 2016 01:31:40 : LimitlessMc , Wertfuzzy77#0274 , test
+15 Jun 2016 01:31:44 : LimitlessMc , Wertfuzzy77#0274 , cool
+15 Jun 2016 01:34:09 : LimitlessMc , Wertfuzzy77#0274 , !debug @bot.command()
+async def joined(member : discord.Member):
+    """Says when a member joined."""
+    await bot.say('{0.name} joined in {0.joined_at}'.format(member))
+15 Jun 2016 01:34:09 : LimitlessMc , Botfuzzy77#2926 , ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+15 Jun 2016 01:34:13 : LimitlessMc , Wertfuzzy77#0274 , rip
+15 Jun 2016 01:35:44 : LimitlessMc , Wertfuzzy77#0274 , !relog
+15 Jun 2016 01:35:44 : LimitlessMc , Botfuzzy77#2926 , Relogging...

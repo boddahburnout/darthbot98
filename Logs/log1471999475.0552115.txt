@@ -1,0 +1,26 @@
+24 Aug 2016 00:44:55 : PassionMC, general, Wertfuzzy77#0274, @Mystz i can do the toggleable things now
+24 Aug 2016 00:44:59 : PassionMC, general, Wertfuzzy77#0274, ;config
+24 Aug 2016 00:45:00 : PassionMC, general, Botfuzzy77#2209, Invalid config command passed...
+24 Aug 2016 00:45:06 : PassionMC, general, Wertfuzzy77#0274, ;config get Welcome
+24 Aug 2016 00:45:06 : PassionMC, general, Botfuzzy77#2209, Invalid config command passed...
+24 Aug 2016 00:45:11 : PassionMC, general, Wertfuzzy77#0274, ;config Get Welcome
+24 Aug 2016 00:45:11 : PassionMC, general, Botfuzzy77#2209, **Welcome** is set to **False**
+24 Aug 2016 00:45:18 : PassionMC, general, Wertfuzzy77#0274, ;config All
+24 Aug 2016 00:45:18 : PassionMC, general, Botfuzzy77#2209, Server Settings are as Follows:
+Welcome new members: **False**
+Send a message when a player comes online: **True**
+24 Aug 2016 00:45:26 : PassionMC, general, Wertfuzzy77#0274, and its by server
+24 Aug 2016 00:45:30 : PassionMC, general, Wertfuzzy77#0274, so go me
+24 Aug 2016 00:45:53 : PassionMC, general, D3NSH1N#8702, ye, I have no idea
+24 Aug 2016 00:45:54 : PassionMC, general, Lucario#0401, Shouldnt welcome new mebers be true
+24 Aug 2016 00:46:00 : PassionMC, general, Lucario#0401, and send message for online false
+24 Aug 2016 00:46:04 : Cipher, general, Botfuzzy77#2209, **Skyd**(Champ) is now Online!
+24 Aug 2016 00:46:04 : PassionMC, general, Botfuzzy77#2209, **Skyd**(No Role) is now Online!
+24 Aug 2016 00:46:06 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Daniel**(No Role) is now Online!
+24 Aug 2016 00:46:08 : PassionMC, general, D3NSH1N#8702, I know java but idk wtf is sponge and shit
+24 Aug 2016 00:46:21 : PassionMC, general, D3NSH1N#8702, Message for online is good
+24 Aug 2016 00:46:22 : PassionMC, general, D3NSH1N#8702, Useful
+24 Aug 2016 00:47:06 : PassionMC, general, Wertfuzzy77#0274, those are just testing
+24 Aug 2016 00:47:10 : PassionMC, general, Wertfuzzy77#0274, you can set what you want
+24 Aug 2016 00:47:15 : PassionMC, general, Wertfuzzy77#0274, ;relog
+24 Aug 2016 00:47:15 : PassionMC, general, Botfuzzy77#2209, Relogging...

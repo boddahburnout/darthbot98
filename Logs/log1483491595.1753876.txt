@@ -1,0 +1,414 @@
+04 Jan 2017 01:00:17 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle speedspeed
+04 Jan 2017 01:00:17 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, A Boss **marshtomp** has appeared!
+It has 429 Health.
+04 Jan 2017 01:00:17 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 01:00:18 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_s: :regional_indicator_p: :regional_indicator_e: :regional_indicator_e: :regional_indicator_d: :regional_indicator_s: :regional_indicator_p: :regional_indicator_e: :regional_indicator_e: :regional_indicator_d:
+:x: :x: :x: :x: :x: :x: :x: :white_check_mark: :x: :x:
+04 Jan 2017 01:00:18 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 14 damage
+04 Jan 2017 01:00:18 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss marshtomp has 415 health left.
+04 Jan 2017 01:01:06 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, What number sounds good?
+04 Jan 2017 01:01:21 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle DEDEEEDEDE
+04 Jan 2017 01:01:21 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss **marshtomp** has 415 health left.
+04 Jan 2017 01:01:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 01:01:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_d: :regional_indicator_e: :regional_indicator_d: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_d: :regional_indicator_e: :regional_indicator_d: :regional_indicator_e:
+:x: :x: :x: :x: :x: :white_check_mark: :x: :white_check_mark: :x: :x:
+04 Jan 2017 01:01:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 14 damage
+04 Jan 2017 01:01:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss marshtomp has 401 health left.
+04 Jan 2017 01:01:46 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;reload
+04 Jan 2017 01:01:59 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Reloaded all Modules
+04 Jan 2017 01:02:02 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle EEEEEEEEEE
+04 Jan 2017 01:02:03 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, A Boss **victreebel** has appeared!
+It has 715 Health.
+04 Jan 2017 01:02:03 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 01:02:03 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e:
+:x: :x: :x: :x: :white_check_mark: :x: :x: :x: :white_check_mark: :x:
+04 Jan 2017 01:02:03 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 17 damage
+04 Jan 2017 01:02:04 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss victreebel has 698 health left.
+04 Jan 2017 01:02:14 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle DDDDEDDDED
+04 Jan 2017 01:02:14 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 0 seconds before you can fight the boss again.
+04 Jan 2017 01:02:17 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle DDDDEDDDED
+04 Jan 2017 01:02:17 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss **victreebel** has 698 health left.
+04 Jan 2017 01:02:17 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 01:02:17 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_e: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_e: :regional_indicator_d:
+:x: :white_check_mark: :x: :x: :white_check_mark: :x: :x: :x: :white_check_mark: :x:
+04 Jan 2017 01:02:17 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 24 damage
+04 Jan 2017 01:02:19 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss victreebel has 674 health left.
+04 Jan 2017 01:02:19 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle GGGGGEGGGEG
+04 Jan 2017 01:02:19 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please use a Combination of **10** Types to Fight the Boss: (**N**)ormal, (**F**)ire, (**W**)ater, (**G**)rass, (**P**)oison, (**D**)ragon, (**S**)teel, (**E**)lectric, (**B**)ug, or (**I**)ce.
+ Ex 'GSEBI' or 'DPGDB'
+04 Jan 2017 01:02:29 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle GDGGEGGGEG
+04 Jan 2017 01:02:29 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 0 seconds before you can fight the boss again.
+04 Jan 2017 01:02:32 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle GDGGEGGGEG
+04 Jan 2017 01:02:32 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss **victreebel** has 674 health left.
+04 Jan 2017 01:02:32 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 01:02:33 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_g: :regional_indicator_d: :regional_indicator_g: :regional_indicator_g: :regional_indicator_e: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_e: :regional_indicator_g:
+:x: :white_check_mark: :x: :x: :white_check_mark: :x: :x: :x: :white_check_mark: :x:
+04 Jan 2017 01:02:33 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its a Critical Strike
+04 Jan 2017 01:02:34 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 48 damage
+04 Jan 2017 01:02:34 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss victreebel has 626 health left.
+04 Jan 2017 01:02:39 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ayy, got a crit
+04 Jan 2017 01:02:43 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, 20% chance to crit
+04 Jan 2017 01:03:00 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle IDIIEIIIEI
+04 Jan 2017 01:03:00 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss **victreebel** has 626 health left.
+04 Jan 2017 01:03:00 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 01:03:01 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_d: :regional_indicator_i: :regional_indicator_i: :regional_indicator_e: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_e: :regional_indicator_i:
+:x: :white_check_mark: :x: :x: :white_check_mark: :x: :x: :white_check_mark: :white_check_mark: :x:
+04 Jan 2017 01:03:01 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 27 damage
+04 Jan 2017 01:03:01 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss victreebel has 599 health left.
+04 Jan 2017 01:03:07 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, If you get 1/2 of the correct moves, 2x damage, all except 1 = 5x and all of them = 10x
+04 Jan 2017 01:03:21 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle FDFFEFFIEF
+04 Jan 2017 01:03:21 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss **victreebel** has 599 health left.
+04 Jan 2017 01:03:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 01:03:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_d: :regional_indicator_f: :regional_indicator_f: :regional_indicator_e: :regional_indicator_f: :regional_indicator_f: :regional_indicator_i: :regional_indicator_e: :regional_indicator_f:
+:x: :white_check_mark: :x: :x: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :x:
+04 Jan 2017 01:03:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 36 damage
+04 Jan 2017 01:03:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss victreebel has 563 health left.
+04 Jan 2017 01:03:34 : Pokemon Mystery Dungeon, poke_battles, AnishaLunarAngel#5926, ;pokebattle WDWWEWFIEW
+04 Jan 2017 01:03:34 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss **victreebel** has 563 health left.
+04 Jan 2017 01:03:34 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 01:03:34 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_d: :regional_indicator_w: :regional_indicator_w: :regional_indicator_e: :regional_indicator_w: :regional_indicator_f: :regional_indicator_i: :regional_indicator_e: :regional_indicator_w:
+:white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+04 Jan 2017 01:03:34 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+04 Jan 2017 01:03:35 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 84 damage
+04 Jan 2017 01:03:37 : Pokemon Mystery Dungeon, poke_battles, AnishaLunarAngel#5926, woot
+04 Jan 2017 01:03:38 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, nice
+04 Jan 2017 01:03:39 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss victreebel has 479 health left.
+04 Jan 2017 01:03:54 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle WDBWEPFIEW
+04 Jan 2017 01:03:54 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss **victreebel** has 479 health left.
+04 Jan 2017 01:03:54 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 01:03:54 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_d: :regional_indicator_b: :regional_indicator_w: :regional_indicator_e: :regional_indicator_p: :regional_indicator_f: :regional_indicator_i: :regional_indicator_e: :regional_indicator_w:
+:white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+04 Jan 2017 01:03:54 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its a Critical Strike
+04 Jan 2017 01:03:54 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+04 Jan 2017 01:03:58 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, wat
+04 Jan 2017 01:03:59 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 126 damage
+04 Jan 2017 01:03:59 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss victreebel has 353 health left.
+04 Jan 2017 01:04:01 : LimitlessMc, botchat, StarwinnerCraft#0288, ;pokebattle wwwww
+04 Jan 2017 01:04:01 : LimitlessMc, botchat, Botfuzzy77#2209, Please use a Combination of **10** Types to Fight the Boss: (**N**)ormal, (**F**)ire, (**W**)ater, (**G**)rass, (**P**)oison, (**D**)ragon, (**S**)teel, (**E**)lectric, (**B**)ug, or (**I**)ce.
+ Ex 'GSEBI' or 'DPGDB'
+04 Jan 2017 01:04:12 : Pokemon Mystery Dungeon, poke_battles, AnishaLunarAngel#5926, ;pokebattle WDPWEBFIEW
+04 Jan 2017 01:04:12 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss **victreebel** has 353 health left.
+04 Jan 2017 01:04:12 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 01:04:12 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_d: :regional_indicator_p: :regional_indicator_w: :regional_indicator_e: :regional_indicator_b: :regional_indicator_f: :regional_indicator_i: :regional_indicator_e: :regional_indicator_w:
+:white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+04 Jan 2017 01:04:12 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+04 Jan 2017 01:04:12 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 79 damage
+04 Jan 2017 01:04:17 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss victreebel has 274 health left.
+04 Jan 2017 01:04:20 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle WDSWESFIEW
+04 Jan 2017 01:04:20 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss **victreebel** has 274 health left.
+04 Jan 2017 01:04:20 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 01:04:20 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_d: :regional_indicator_s: :regional_indicator_w: :regional_indicator_e: :regional_indicator_s: :regional_indicator_f: :regional_indicator_i: :regional_indicator_e: :regional_indicator_w:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+04 Jan 2017 01:04:21 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+04 Jan 2017 01:04:21 : LimitlessMc, botchat, StarwinnerCraft#0288, ;pokebattle wwwwwwwwww
+04 Jan 2017 01:04:21 : LimitlessMc, botchat, Botfuzzy77#2209, Boss **victreebel** has 274 health left.
+04 Jan 2017 01:04:21 : LimitlessMc, botchat, Botfuzzy77#2209, 
+04 Jan 2017 01:04:22 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w:
+:white_check_mark: :x: :x: :white_check_mark: :x: :x: :x: :x: :x: :white_check_mark:
+04 Jan 2017 01:04:22 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did 26 damage
+04 Jan 2017 01:04:22 : LimitlessMc, botchat, Botfuzzy77#2209, Boss victreebel has 248 health left.
+04 Jan 2017 01:04:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its a Ridiculously Effective. The Boss has switched 2 of the Super Effective Moves!
+04 Jan 2017 01:04:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 1050 damage
+04 Jan 2017 01:04:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss **victreebel** has been defeated!
+04 Jan 2017 01:04:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Most Damage by **Bakafish** with **1203** damage
+04 Jan 2017 01:04:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 2nd most Damage by *AnishaLunarAngel* with *163* damage
+04 Jan 2017 01:04:24 : Pokemon Mystery Dungeon, poke_battles, AnishaLunarAngel#5926, woo!
+04 Jan 2017 01:04:24 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, gg
+04 Jan 2017 01:04:27 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 3nd most Damage by *Wertfuzzy77* with *125* damage
+04 Jan 2017 01:04:33 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;-; only 3rd
+04 Jan 2017 01:04:42 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, literally a z move
+04 Jan 2017 01:04:43 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, that 1k Damage tho xD
+04 Jan 2017 01:05:40 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;reload
+04 Jan 2017 01:05:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Reloaded all Modules
+04 Jan 2017 01:05:57 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle NNNNNNNNN
+04 Jan 2017 01:05:57 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please use a Combination of **10** Types to Fight the Boss: (**N**)ormal, (**F**)ire, (**W**)ater, (**G**)rass, (**P**)oison, (**D**)ragon, (**S**)teel, (**E**)lectric, (**B**)ug, or (**I**)ce.
+ Ex 'GSEBI' or 'DPGDB'
+04 Jan 2017 01:06:02 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle NNNNNNNNNN
+04 Jan 2017 01:06:02 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, A Boss **gogoat** has appeared!
+It has 823 Health.
+04 Jan 2017 01:06:03 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 01:06:03 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :x: :x: :x: :x: :x: :x: :x:
+04 Jan 2017 01:06:04 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its a Critical Strike
+04 Jan 2017 01:06:04 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 21 damage
+04 Jan 2017 01:06:06 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;-;
+04 Jan 2017 01:06:07 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss gogoat has 802 health left.
+04 Jan 2017 01:06:26 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle FFFFFFFFFF
+04 Jan 2017 01:06:26 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss **gogoat** has 802 health left.
+04 Jan 2017 01:06:26 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 01:06:26 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f:
+:x: :x: :x: :x: :x: :x: :x: :x: :x: :x:
+04 Jan 2017 01:06:26 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 11 damage
+04 Jan 2017 01:06:26 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss gogoat has 791 health left.
+04 Jan 2017 01:06:34 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle IIIIIIIIII
+04 Jan 2017 01:06:34 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss **gogoat** has 791 health left.
+04 Jan 2017 01:06:35 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 01:06:35 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i:
+:white_check_mark: :x: :x: :x: :x: :x: :x: :x: :x: :x:
+04 Jan 2017 01:06:35 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its a Critical Strike
+04 Jan 2017 01:06:35 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 25 damage
+04 Jan 2017 01:06:39 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, xD
+04 Jan 2017 01:06:39 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss gogoat has 766 health left.
+04 Jan 2017 01:06:46 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle IDDDDDDDDD
+04 Jan 2017 01:06:46 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss **gogoat** has 766 health left.
+04 Jan 2017 01:06:46 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 01:06:46 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d:
+:white_check_mark: :white_check_mark: :x: :x: :white_check_mark: :x: :x: :x: :x: :x:
+04 Jan 2017 01:06:46 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 25 damage
+04 Jan 2017 01:06:46 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss gogoat has 741 health left.
+04 Jan 2017 01:06:57 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle IDWWDWWWWW
+04 Jan 2017 01:06:57 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss **gogoat** has 741 health left.
+04 Jan 2017 01:06:57 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle IDSPEEEEEE
+04 Jan 2017 01:06:58 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 01:06:58 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss **gogoat** has 741 health left.
+04 Jan 2017 01:06:58 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_d: :regional_indicator_w: :regional_indicator_w: :regional_indicator_d: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w:
+:white_check_mark: :white_check_mark: :x: :x: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :x:
+04 Jan 2017 01:06:58 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 01:07:02 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+04 Jan 2017 01:07:03 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_d: :regional_indicator_s: :regional_indicator_p: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e:
+:white_check_mark: :white_check_mark: :x: :x: :x: :white_check_mark: :x: :x: :x: :x:
+04 Jan 2017 01:07:03 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 61 damage
+04 Jan 2017 01:07:03 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 19 damage
+04 Jan 2017 01:07:03 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss gogoat has 680 health left.
+04 Jan 2017 01:07:08 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss gogoat has 661 health left.
+04 Jan 2017 01:07:24 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle IDPSDEWWWP
+04 Jan 2017 01:07:24 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss **gogoat** has 661 health left.
+04 Jan 2017 01:07:25 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 01:07:25 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_d: :regional_indicator_p: :regional_indicator_s: :regional_indicator_d: :regional_indicator_e: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_p:
+:white_check_mark: :white_check_mark: :x: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+04 Jan 2017 01:07:25 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+04 Jan 2017 01:07:25 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 92 damage
+04 Jan 2017 01:07:28 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle IDFFDEWWWP
+04 Jan 2017 01:07:29 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss gogoat has 569 health left.
+04 Jan 2017 01:07:30 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss **gogoat** has 569 health left.
+04 Jan 2017 01:07:30 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 01:07:30 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_d: :regional_indicator_f: :regional_indicator_f: :regional_indicator_d: :regional_indicator_e: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_p:
+:white_check_mark: :white_check_mark: :x: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+04 Jan 2017 01:07:30 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+04 Jan 2017 01:07:35 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 84 damage
+04 Jan 2017 01:07:35 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss gogoat has 485 health left.
+04 Jan 2017 01:07:45 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle IDBBDEWWWP
+04 Jan 2017 01:07:45 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss **gogoat** has 485 health left.
+04 Jan 2017 01:07:45 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 01:07:45 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_d: :regional_indicator_b: :regional_indicator_b: :regional_indicator_d: :regional_indicator_e: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_p:
+:white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+04 Jan 2017 01:07:45 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+04 Jan 2017 01:07:45 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Super Effective! The Boss has switched 1 of the Super Effective Moves!
+04 Jan 2017 01:07:50 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 345 damage
+04 Jan 2017 01:07:50 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss gogoat has 140 health left.
+04 Jan 2017 01:07:53 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle IDBFEWWWP
+04 Jan 2017 01:07:53 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please use a Combination of **10** Types to Fight the Boss: (**N**)ormal, (**F**)ire, (**W**)ater, (**G**)rass, (**P**)oison, (**D**)ragon, (**S**)teel, (**E**)lectric, (**B**)ug, or (**I**)ce.
+ Ex 'GSEBI' or 'DPGDB'
+04 Jan 2017 01:08:15 : Pokemon Mystery Dungeon, poke_battles, AnishaLunarAngel#5926, ;pokebattle IDBEDEWWWP
+04 Jan 2017 01:08:15 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss **gogoat** has 140 health left.
+04 Jan 2017 01:08:15 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle IDBDDEWWWP
+04 Jan 2017 01:08:15 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 01:08:15 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss **gogoat** has 140 health left.
+04 Jan 2017 01:08:15 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_d: :regional_indicator_b: :regional_indicator_e: :regional_indicator_d: :regional_indicator_e: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_p:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+04 Jan 2017 01:08:16 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 01:08:18 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, gg
+04 Jan 2017 01:08:20 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+04 Jan 2017 01:08:20 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_d: :regional_indicator_b: :regional_indicator_d: :regional_indicator_d: :regional_indicator_e: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_p:
+:white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+04 Jan 2017 01:08:20 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its a Ridiculously Effective. The Boss has switched 2 of the Super Effective Moves!
+04 Jan 2017 01:08:20 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+04 Jan 2017 01:08:20 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 850 damage
+04 Jan 2017 01:08:25 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Super Effective! The Boss has switched 1 of the Super Effective Moves!
+04 Jan 2017 01:08:25 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss **gogoat** has been defeated!
+04 Jan 2017 01:08:25 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 460 damage
+04 Jan 2017 01:08:25 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Most Damage by **AnishaLunarAngel** with **850** damage
+04 Jan 2017 01:08:26 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss **gogoat** has been defeated!
+04 Jan 2017 01:08:30 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 2nd most Damage by *Wertfuzzy77* with *555* damage
+04 Jan 2017 01:08:30 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Most Damage by **AnishaLunarAngel** with **850** damage
+04 Jan 2017 01:08:30 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 3nd most Damage by *Bakafish* with *128* damage
+04 Jan 2017 01:08:30 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 2nd most Damage by *Bakafish* with *588* damage
+04 Jan 2017 01:08:31 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 3nd most Damage by *Wertfuzzy77* with *555* damage
+04 Jan 2017 01:08:33 : Pokemon Mystery Dungeon, poke_battles, AnishaLunarAngel#5926, gg
+04 Jan 2017 01:08:35 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, lol
+04 Jan 2017 01:08:38 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, again with 3rd
+04 Jan 2017 01:08:42 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;kms
+04 Jan 2017 01:08:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Bet
+04 Jan 2017 01:08:51 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, Alright, resetting cooldowns
+04 Jan 2017 01:08:54 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;reload
+04 Jan 2017 01:08:58 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, le
+04 Jan 2017 01:08:58 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Reloaded all Modules
+04 Jan 2017 01:09:06 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, and bringing it back to 8
+04 Jan 2017 01:09:12 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;reload
+04 Jan 2017 01:09:14 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Reloaded all Modules
+04 Jan 2017 01:09:16 : LimitlessMc, botchat, Bakafish#8693, ;pokebattle NNNNNNNNNN
+04 Jan 2017 01:09:16 : LimitlessMc, botchat, Botfuzzy77#2209, Please use a Combination of **8** Types to Fight the Boss: (**N**)ormal, (**F**)ire, (**W**)ater, (**G**)rass, (**P**)oison, (**D**)ragon, (**S**)teel, (**E**)lectric, (**B**)ug, or (**I**)ce.
+ Ex 'GSEBI' or 'DPGDB'
+04 Jan 2017 01:09:20 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle NNNNNNNN
+04 Jan 2017 01:09:20 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, A Boss **porygon-z** has appeared!
+It has 1287 Health.
+04 Jan 2017 01:09:21 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 01:09:21 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :x: :x: :x: :x: :x:
+04 Jan 2017 01:09:21 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 8 damage
+04 Jan 2017 01:09:21 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss porygon-z has 1279 health left.
+04 Jan 2017 01:09:24 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, fancy Boss
+04 Jan 2017 01:09:24 : LimitlessMc, botchat, Bakafish#8693, ;pokebattle NNNNNNNNN
+04 Jan 2017 01:09:24 : LimitlessMc, botchat, Botfuzzy77#2209, Please use a Combination of **8** Types to Fight the Boss: (**N**)ormal, (**F**)ire, (**W**)ater, (**G**)rass, (**P**)oison, (**D**)ragon, (**S**)teel, (**E**)lectric, (**B**)ug, or (**I**)ce.
+ Ex 'GSEBI' or 'DPGDB'
+04 Jan 2017 01:09:31 : LimitlessMc, botchat, Bakafish#8693, ;pokebattle NNNNNNNNN
+04 Jan 2017 01:09:31 : LimitlessMc, botchat, Botfuzzy77#2209, Please use a Combination of **8** Types to Fight the Boss: (**N**)ormal, (**F**)ire, (**W**)ater, (**G**)rass, (**P**)oison, (**D**)ragon, (**S**)teel, (**E**)lectric, (**B**)ug, or (**I**)ce.
+ Ex 'GSEBI' or 'DPGDB'
+04 Jan 2017 01:09:34 : Pokemon Mystery Dungeon, poke_battles, AnishaLunarAngel#5926, ;pokebattle EEEEEEEE
+04 Jan 2017 01:09:34 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss **porygon-z** has 1279 health left.
+04 Jan 2017 01:09:34 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 01:09:34 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e:
+:x: :x: :x: :x: :x: :x: :x: :x:
+04 Jan 2017 01:09:34 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 7 damage
+04 Jan 2017 01:09:34 : LimitlessMc, botchat, Bakafish#8693, ;pokebattle NNNNNNNN
+04 Jan 2017 01:09:34 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss porygon-z has 1272 health left.
+04 Jan 2017 01:09:34 : LimitlessMc, botchat, Botfuzzy77#2209, Boss **porygon-z** has 1272 health left.
+04 Jan 2017 01:09:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+04 Jan 2017 01:09:35 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :x: :x: :x: :x: :x:
+04 Jan 2017 01:09:35 : LimitlessMc, botchat, Botfuzzy77#2209, Its a Critical Strike
+04 Jan 2017 01:09:36 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did 19 damage
+04 Jan 2017 01:09:36 : LimitlessMc, botchat, Botfuzzy77#2209, Boss porygon-z has 1253 health left.
+04 Jan 2017 01:09:47 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;boss
+04 Jan 2017 01:09:50 : The Wild Weebs, general, Tally#2764, that will be pretty nice then
+04 Jan 2017 01:09:54 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle PIPIPIPI
+04 Jan 2017 01:09:54 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 102 seconds before you can fight the boss again.
+04 Jan 2017 01:09:58 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, 2 min fun
+04 Jan 2017 01:10:01 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;boss
+04 Jan 2017 01:10:13 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle PIGIPIGI
+04 Jan 2017 01:10:13 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 82 seconds before you can fight the boss again.
+04 Jan 2017 01:10:17 : The Wild Weebs, general, enragednuke#2565, so im gonna hold off on training to 78 herb until day of release
+04 Jan 2017 01:10:26 : The Western Narc, general, Botfuzzy77#2209, Welcome @JenGrl to The Western Narc!
+04 Jan 2017 01:11:02 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle PIGIPIGI
+04 Jan 2017 01:11:02 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 34 seconds before you can fight the boss again.
+04 Jan 2017 01:11:03 : Pokemon Mystery Dungeon, poke_battles, AnishaLunarAngel#5926, ;pokebattle IIIIIIII
+04 Jan 2017 01:11:04 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 31 seconds before you can fight the boss again.
+04 Jan 2017 01:11:06 : Pokemon Mystery Dungeon, poke_battles, AnishaLunarAngel#5926, >(
+04 Jan 2017 01:11:14 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle PIGIPIGI
+04 Jan 2017 01:11:14 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 22 seconds before you can fight the boss again.
+04 Jan 2017 01:11:41 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle PIGIWIGI
+04 Jan 2017 01:11:41 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss **porygon-z** has 1253 health left.
+04 Jan 2017 01:11:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 01:11:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_p: :regional_indicator_i: :regional_indicator_g: :regional_indicator_i: :regional_indicator_w: :regional_indicator_i: :regional_indicator_g: :regional_indicator_i:
+:x: :x: :white_check_mark: :x: :x: :x: :x: :x:
+04 Jan 2017 01:11:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 9 damage
+04 Jan 2017 01:11:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss porygon-z has 1244 health left.
+04 Jan 2017 01:12:09 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle BBGBBBBB
+04 Jan 2017 01:12:09 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss **porygon-z** has 1244 health left.
+04 Jan 2017 01:12:10 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 01:12:10 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_b: :regional_indicator_b: :regional_indicator_g: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b:
+:x: :x: :white_check_mark: :x: :x: :x: :x: :x:
+04 Jan 2017 01:12:10 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 12 damage
+04 Jan 2017 01:12:10 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss porygon-z has 1232 health left.
+04 Jan 2017 01:12:21 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle SSGSSSSS
+04 Jan 2017 01:12:21 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 81 seconds before you can fight the boss again.
+04 Jan 2017 01:12:22 : LimitlessMc, mainchat, Wolferino#8885, Sup bois
+04 Jan 2017 01:12:35 : LimitlessMc, mainchat, Third_Worm#4804, Sup
+04 Jan 2017 01:12:38 : LimitlessMc, mainchat, Third_Worm#4804, How are you?
+04 Jan 2017 01:12:41 : LimitlessMc, mainchat, Wolferino#8885, Bad.
+04 Jan 2017 01:13:20 : LimitlessMc, mainchat, Third_Worm#4804, same
+04 Jan 2017 01:13:29 : LimitlessMc, mainchat, Third_Worm#4804, why you feeling bad?
+04 Jan 2017 01:13:31 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle SSGSSSSS
+04 Jan 2017 01:13:31 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 11 seconds before you can fight the boss again.
+04 Jan 2017 01:13:34 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle FFGFFFFF
+04 Jan 2017 01:13:34 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 36 seconds before you can fight the boss again.
+04 Jan 2017 01:13:35 : LimitlessMc, mainchat, depthy#3405, 
+04 Jan 2017 01:13:37 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;-;
+04 Jan 2017 01:13:39 : LimitlessMc, mainchat, Wolferino#8885, wat
+04 Jan 2017 01:13:44 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle SSGSSSSS
+04 Jan 2017 01:13:45 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss **porygon-z** has 1232 health left.
+04 Jan 2017 01:13:45 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 01:13:45 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_s: :regional_indicator_s: :regional_indicator_g: :regional_indicator_s: :regional_indicator_s: :regional_indicator_s: :regional_indicator_s: :regional_indicator_s:
+:x: :x: :white_check_mark: :x: :x: :x: :white_check_mark: :x:
+04 Jan 2017 01:13:45 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its a Critical Strike
+04 Jan 2017 01:13:45 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 35 damage
+04 Jan 2017 01:13:50 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss porygon-z has 1197 health left.
+04 Jan 2017 01:13:51 : LimitlessMc, mainchat, depthy#3405, Caption on snap was "SHE'S DOING IT WRONG"
+04 Jan 2017 01:13:53 : LimitlessMc, mainchat, Wolferino#8885, flying depty
+04 Jan 2017 01:13:54 : LimitlessMc, mainchat, Wolferino#8885, kek
+04 Jan 2017 01:13:58 : LimitlessMc, mainchat, JenGrl#2637, @Raffe2003  http://pixelmonmod.com/wiki/index.php?title=Pokeballs
+04 Jan 2017 01:13:59 : Pokemon Mystery Dungeon, poke_battles, AnishaLunarAngel#5926, ;pokebattle IIGIIISI
+04 Jan 2017 01:13:59 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss **porygon-z** has 1197 health left.
+04 Jan 2017 01:14:00 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 01:14:00 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_i: :regional_indicator_g: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_s: :regional_indicator_i:
+:x: :x: :white_check_mark: :x: :x: :x: :white_check_mark: :x:
+04 Jan 2017 01:14:00 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 14 damage
+04 Jan 2017 01:14:00 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss porygon-z has 1183 health left.
+04 Jan 2017 01:14:08 : Pokemon Mystery Dungeon, poke_battles, AnishaLunarAngel#5926, ;pokebattleWWGWWWSW
+04 Jan 2017 01:14:13 : LimitlessMc, mainchat, depthy#3405, Not me lmao is Wolf_feeder
+04 Jan 2017 01:14:14 : Pokemon Mystery Dungeon, poke_battles, AnishaLunarAngel#5926, rip forgot space
+04 Jan 2017 01:14:15 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle FFGFFFSF
+04 Jan 2017 01:14:15 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss **porygon-z** has 1183 health left.
+04 Jan 2017 01:14:15 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 01:14:15 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_f: :regional_indicator_g: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_s: :regional_indicator_f:
+:x: :x: :white_check_mark: :x: :x: :white_check_mark: :white_check_mark: :white_check_mark:
+04 Jan 2017 01:14:15 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 27 damage
+04 Jan 2017 01:14:15 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss porygon-z has 1156 health left.
+04 Jan 2017 01:14:23 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, has a 2 minute cooldown anyways
+04 Jan 2017 01:14:25 : LimitlessMc, mainchat, Wolferino#8885, flying wolf
+04 Jan 2017 01:14:25 : LimitlessMc, mainchat, Third_Worm#4804, oh wow lol
+04 Jan 2017 01:14:26 : LimitlessMc, mainchat, Wolferino#8885, kekek
+04 Jan 2017 01:14:31 : Pokemon Mystery Dungeon, poke_battles, AnishaLunarAngel#5926, ;L
+04 Jan 2017 01:14:31 : LimitlessMc, mainchat, Third_Worm#4804, Thats glorious
+04 Jan 2017 01:14:41 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle DDGDDFSF
+04 Jan 2017 01:14:41 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 69 seconds before you can fight the boss again.
+04 Jan 2017 01:15:33 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, There should be some reward for doing the most damage or something
+04 Jan 2017 01:15:45 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle DDGDDFSF
+04 Jan 2017 01:15:45 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 5 seconds before you can fight the boss again.
+04 Jan 2017 01:15:53 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle DDGDDFSF
+04 Jan 2017 01:15:53 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss **porygon-z** has 1156 health left.
+04 Jan 2017 01:15:53 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 01:15:53 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_d: :regional_indicator_d: :regional_indicator_g: :regional_indicator_d: :regional_indicator_d: :regional_indicator_f: :regional_indicator_s: :regional_indicator_f:
+:white_check_mark: :x: :white_check_mark: :x: :x: :white_check_mark: :white_check_mark: :white_check_mark:
+04 Jan 2017 01:15:53 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+04 Jan 2017 01:15:53 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+04 Jan 2017 01:15:58 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 95 damage
+04 Jan 2017 01:15:58 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss porygon-z has 1061 health left.
+04 Jan 2017 01:16:15 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle DWGWWFSF
+04 Jan 2017 01:16:15 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss **porygon-z** has 1061 health left.
+04 Jan 2017 01:16:16 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 01:16:16 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_d: :regional_indicator_w: :regional_indicator_g: :regional_indicator_w: :regional_indicator_w: :regional_indicator_f: :regional_indicator_s: :regional_indicator_f:
+:white_check_mark: :x: :white_check_mark: :x: :x: :white_check_mark: :white_check_mark: :white_check_mark:
+04 Jan 2017 01:16:16 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its a Critical Strike
+04 Jan 2017 01:16:16 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+04 Jan 2017 01:16:21 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+04 Jan 2017 01:16:21 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 212 damage
+04 Jan 2017 01:16:21 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss porygon-z has 849 health left.
+04 Jan 2017 01:16:25 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ayy, a crit
+04 Jan 2017 01:16:26 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, go me
+04 Jan 2017 01:16:48 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle DPGPPFSF
+04 Jan 2017 01:16:48 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 70 seconds before you can fight the boss again.
+04 Jan 2017 01:17:51 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle DDGDDFSF
+04 Jan 2017 01:17:51 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 7 seconds before you can fight the boss again.
+04 Jan 2017 01:17:57 : GetPlebd, weeaboo-chat, ErisBot#1777, [**Music**] No activity for 30 minutes, so I cleared the queue for this channel. (`0`)
+04 Jan 2017 01:18:01 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle DPGPPFSF
+04 Jan 2017 01:18:02 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss **porygon-z** has 849 health left.
+04 Jan 2017 01:18:02 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 01:18:02 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_d: :regional_indicator_p: :regional_indicator_g: :regional_indicator_p: :regional_indicator_p: :regional_indicator_f: :regional_indicator_s: :regional_indicator_f:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+04 Jan 2017 01:18:02 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its a Critical Strike
+04 Jan 2017 01:18:02 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+04 Jan 2017 01:18:05 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, gj
+04 Jan 2017 01:18:07 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its a Ridiculously Effective. The Boss has switched 2 of the Super Effective Moves!
+04 Jan 2017 01:18:07 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+04 Jan 2017 01:18:07 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 2720 damage
+04 Jan 2017 01:18:07 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss **porygon-z** has been defeated!
+04 Jan 2017 01:18:07 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Most Damage by **Bakafish** with **2878** damage
+04 Jan 2017 01:18:10 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, LOL
+04 Jan 2017 01:18:12 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 2nd most Damage by *Wertfuzzy77* with *259* damage
+04 Jan 2017 01:18:12 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 3nd most Damage by *AnishaLunarAngel* with *21* damage
+04 Jan 2017 01:18:15 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ayy, 2nd tho
+04 Jan 2017 01:18:17 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, go me
+04 Jan 2017 01:18:23 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, magnitudes of 10
+04 Jan 2017 01:18:53 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, I just lowered it to 3.5x and 5x instead of 5x and 10x
+04 Jan 2017 01:18:54 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, too ez
+04 Jan 2017 01:18:58 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;reload
+04 Jan 2017 01:19:15 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Reloaded all Modules
+04 Jan 2017 01:19:18 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;reload
+04 Jan 2017 01:19:38 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Reloaded all Modules
+04 Jan 2017 01:19:46 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle FFFFFFFF
+04 Jan 2017 01:19:46 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, A Boss **stunfisk** has appeared!
+It has 740 Health.
+04 Jan 2017 01:19:46 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 01:19:47 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f:
+:x: :white_check_mark: :x: :x: :x: :x: :x: :x:

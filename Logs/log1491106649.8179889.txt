@@ -1,0 +1,87 @@
+02 Apr 2017 04:17:33 : LimitlessMc, botchat, Wertfuzzy77#0274, patching
+02 Apr 2017 04:17:40 : LimitlessMc, botchat, Nerokin#3586, Oh
+02 Apr 2017 04:17:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 04:17:44 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 04:17:51 : LimitlessMc, botchat, Wertfuzzy77#0274, ;color reset
+02 Apr 2017 04:17:51 : LimitlessMc, botchat, Botfuzzy77#2209, Custom colors reset!
+02 Apr 2017 04:17:53 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 04:17:55 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 04:18:01 : LimitlessMc, botchat, Nerokin#3586, EH
+02 Apr 2017 04:18:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ooo, it worked
+02 Apr 2017 04:18:12 : LimitlessMc, botchat, Nerokin#3586, Okay
+02 Apr 2017 04:18:20 : LimitlessMc, botchat, Nerokin#3586, ;changeBackground https://www.dropbox.com/s/fn5rg9illcpgdvx/misc.jpg?dl=1
+02 Apr 2017 04:18:20 : LimitlessMc, botchat, Botfuzzy77#2209, Changed Background sucessfully
+02 Apr 2017 04:18:20 : LimitlessMc, botchat, Wertfuzzy77#0274, not super pretty xD but it worked
+02 Apr 2017 04:18:24 : LimitlessMc, botchat, Wertfuzzy77#0274, inverted the colors for me
+02 Apr 2017 04:18:26 : LimitlessMc, botchat, Nerokin#3586, ;level
+02 Apr 2017 04:18:30 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 04:18:38 : LimitlessMc, botchat, Wertfuzzy77#0274, you don't need to keep setting the background btw
+02 Apr 2017 04:18:40 : LimitlessMc, botchat, Wertfuzzy77#0274, it saves it
+02 Apr 2017 04:18:45 : LimitlessMc, botchat, Nerokin#3586, I know
+02 Apr 2017 04:18:48 : LimitlessMc, botchat, Nerokin#3586, I changed the image
+02 Apr 2017 04:18:57 : LimitlessMc, botchat, Nerokin#3586, Though, it seems to display wrong in discord
+02 Apr 2017 04:19:03 : LimitlessMc, botchat, Wertfuzzy77#0274, o
+02 Apr 2017 04:19:08 : LimitlessMc, botchat, Wertfuzzy77#0274, ;changeBackground https://s-media-cache-ak0.pinimg.com/originals/54/2b/59/542b595e012e70d4d2b5de72e2c2d22c.jpg
+02 Apr 2017 04:19:08 : LimitlessMc, botchat, Botfuzzy77#2209, Changed Background sucessfully
+02 Apr 2017 04:19:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 04:19:14 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 04:19:17 : LimitlessMc, botchat, Nerokin#3586, I flipped the red and blue around
+02 Apr 2017 04:19:42 : LimitlessMc, botchat, Wertfuzzy77#0274, maybe it just got caught betwene restarts
+02 Apr 2017 04:19:44 : LimitlessMc, botchat, Wertfuzzy77#0274, try it again
+02 Apr 2017 04:20:04 : LimitlessMc, botchat, Nerokin#3586, https://cdn.discordapp.com/attachments/167343916339822593/297947884106678274/Output.png
+https://cdn.discordapp.com/attachments/167343916339822593/297947364621025283/Output.png
+02 Apr 2017 04:20:32 : LimitlessMc, botchat, Wertfuzzy77#0274, I would change the box color to like 40 40 40
+02 Apr 2017 04:20:38 : LimitlessMc, botchat, Nerokin#3586, ;color box 40 40 40
+02 Apr 2017 04:20:39 : LimitlessMc, botchat, Botfuzzy77#2209, Box Color sucessfully
+02 Apr 2017 04:20:42 : LimitlessMc, botchat, Nerokin#3586, ;level
+02 Apr 2017 04:20:45 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 04:20:55 : LimitlessMc, botchat, Wertfuzzy77#0274, eh maybe 80 80 80
+02 Apr 2017 04:21:06 : LimitlessMc, botchat, Nerokin#3586, ;color 80 80 80
+02 Apr 2017 04:21:06 : LimitlessMc, botchat, Botfuzzy77#2209, Invalid option
+Options include:
+text_color
+box_color
+title_color
+type_color
+ Or use `reset` to reset the custom options back to default.
+02 Apr 2017 04:21:15 : LimitlessMc, botchat, Nerokin#3586, ;color box 80 80 80
+02 Apr 2017 04:21:15 : LimitlessMc, botchat, Botfuzzy77#2209, Box Color sucessfully
+02 Apr 2017 04:21:19 : LimitlessMc, botchat, Nerokin#3586, ;level
+02 Apr 2017 04:21:21 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 04:21:33 : LimitlessMc, botchat, Nerokin#3586, Alright
+02 Apr 2017 04:21:57 : Unity Of Nirvana, general, Bakafish#8693, drawing is fun
+02 Apr 2017 04:22:02 : Unity Of Nirvana, general, Bakafish#8693, when you have time to actually do it
+02 Apr 2017 04:22:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;changeBackground https://s-media-cache-ak0.pinimg.com/originals/11/c6/0d/11c60d1baacff6e76068236b2324e420.jpg
+02 Apr 2017 04:22:04 : LimitlessMc, botchat, Botfuzzy77#2209, Changed Background sucessfully
+02 Apr 2017 04:22:06 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 04:22:08 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 04:22:14 : Unity Of Nirvana, general, Third_Worm#4804, ^^^^^^
+02 Apr 2017 04:22:21 : Unity Of Nirvana, general, Third_Worm#4804, I so agree
+02 Apr 2017 04:22:55 : LimitlessMc, botchat, Wertfuzzy77#0274, I wonder if I could get it to return the color palette it uses
+02 Apr 2017 04:23:02 : LimitlessMc, botchat, Wertfuzzy77#0274, that would be nice
+02 Apr 2017 04:24:15 : LimitlessMc, botchat, Bakafish#8693, ;changeBackground http://orig06.deviantart.net/1452/f/2016/208/b/2/summmakm_by_iingo-dabmpnf.png
+02 Apr 2017 04:24:15 : LimitlessMc, botchat, Botfuzzy77#2209, Changed Background sucessfully
+02 Apr 2017 04:24:22 : LimitlessMc, botchat, Bakafish#8693, (not) summer time
+02 Apr 2017 04:24:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lookup Bakafish
+02 Apr 2017 04:24:24 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 04:24:27 : LimitlessMc, botchat, Wertfuzzy77#0274, ew
+02 Apr 2017 04:24:31 : LimitlessMc, botchat, Bakafish#8693, rip
+02 Apr 2017 04:24:44 : LimitlessMc, botchat, Wertfuzzy77#0274, it messed up the transparency xD happens sometimes
+02 Apr 2017 04:24:46 : LimitlessMc, botchat, Bakafish#8693, .png transparency issue?
+02 Apr 2017 04:25:03 : LimitlessMc, botchat, Wertfuzzy77#0274, pngs work fine, just for some reason, some images are buggy
+02 Apr 2017 04:25:11 : Unity Of Nirvana, general, Crystal4209#4698, agreed
+02 Apr 2017 04:25:14 : LimitlessMc, botchat, Bakafish#8693, ;changeBackground http://orig13.deviantart.net/1974/f/2016/273/5/5/forest_1_by_the_big_pumpkin_inc-dajfkk7.jpg
+02 Apr 2017 04:25:14 : LimitlessMc, botchat, Botfuzzy77#2209, Changed Background sucessfully
+02 Apr 2017 04:25:19 : LimitlessMc, botchat, Bakafish#8693, ;lookup Bakafish
+02 Apr 2017 04:25:20 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 04:25:24 : LimitlessMc, botchat, Wertfuzzy77#0274, you can just use level xD
+02 Apr 2017 04:25:28 : LimitlessMc, botchat, Bakafish#8693, ;level
+02 Apr 2017 04:25:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 04:25:38 : LimitlessMc, botchat, Bakafish#8693, ;gif limitlessmc
+02 Apr 2017 04:25:43 : LimitlessMc, botchat, Bakafish#8693, nice
+02 Apr 2017 04:26:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ;changeBackground https://s-media-cache-ak0.pinimg.com/originals/cd/4e/3b/cd4e3b802ad7e2239a78093832830108.jpg
+02 Apr 2017 04:26:23 : LimitlessMc, botchat, Botfuzzy77#2209, Changed Background sucessfully
+02 Apr 2017 04:26:27 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 04:26:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 04:26:33 : LimitlessMc, botchat, Wertfuzzy77#0274, eh
+02 Apr 2017 04:26:36 : LimitlessMc, botchat, Wertfuzzy77#0274, it tries xD

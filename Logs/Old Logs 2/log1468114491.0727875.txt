@@ -1,0 +1,93 @@
+10 Jul 2016 01:34:57 : Cipher , Wertfuzzy77#0274 , ;join 174395437330071553
+10 Jul 2016 01:35:03 : Cipher , Wertfuzzy77#0274 , ;youtube https://www.youtube.com/watch?v=KRaWnd3LJfs
+10 Jul 2016 01:35:05 : Cipher , RoyGasm ;)#7098 , racist
+10 Jul 2016 01:35:10 : Cipher , Wertfuzzy77#0274 , ;song
+10 Jul 2016 01:35:10 : Cipher , Botfuzzy77#2209 , ```Name: Maroon 5 - Payphone (Explicit) ft. Wiz Khalifa
+URL:  <https://www.youtube.com/watch?v=KRaWnd3LJfs>
+Views: 330,106,027
+Likes: 1,272,975
+Dislikes: 42,528```
+10 Jul 2016 01:35:13 : Cipher , Wertfuzzy77#0274 , better
+10 Jul 2016 01:35:21 : Cipher , Wertfuzzy77#0274 , dont like how it put the picture there
+10 Jul 2016 01:35:23 : Cipher , Wertfuzzy77#0274 , too spammy
+10 Jul 2016 01:35:59 : Cipher , RoyGasm ;)#7098 , make louder? <@!134441036905840640>
+10 Jul 2016 01:36:09 : Cipher , Wertfuzzy77#0274 , ya was gonna say, like my headphones are maxed
+10 Jul 2016 01:36:10 : Cipher , RoyGasm ;)#7098 , hep
+10 Jul 2016 01:36:11 : Cipher , Wertfuzzy77#0274 , and not v loud
+10 Jul 2016 01:36:11 : Cipher , RoyGasm ;)#7098 , wtf
+10 Jul 2016 01:36:15 : Cipher , RoyGasm ;)#7098 , shooting
+10 Jul 2016 01:36:16 : Cipher , RoyGasm ;)#7098 , hep
+10 Jul 2016 01:36:17 : Cipher , RoyGasm ;)#7098 , hep
+10 Jul 2016 01:36:20 : Cipher , Wertfuzzy77#0274 , lol
+10 Jul 2016 01:36:24 : Cipher , Wertfuzzy77#0274 , no die
+10 Jul 2016 01:36:35 : Cipher , RoyGasm ;)#7098 , no make this gay bar all over again
+10 Jul 2016 01:36:51 : Cipher , Wertfuzzy77#0274 , too soon xD
+10 Jul 2016 01:37:13 : Cipher , RoyGasm ;)#7098 , you know what i mean by that right? <@!134441036905840640>
+10 Jul 2016 01:37:21 : Cipher , Wertfuzzy77#0274 , ;debug player.volume
+10 Jul 2016 01:37:21 : Cipher , Botfuzzy77#2209 , ```py
+1.0
+```
+10 Jul 2016 01:37:28 : Cipher , Wertfuzzy77#0274 , ;debug player.volume = 1
+10 Jul 2016 01:37:28 : Cipher , Botfuzzy77#2209 , ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+10 Jul 2016 01:37:30 : Cipher , Wertfuzzy77#0274 , ...
+10 Jul 2016 01:37:47 : Cipher , RoyGasm ;)#7098 , racist
+10 Jul 2016 01:37:56 : Cipher , RoyGasm ;)#7098 , wtf racist bot
+10 Jul 2016 01:38:00 : Cipher , Wertfuzzy77#0274 , ;debug player.volume.set(2)
+10 Jul 2016 01:38:00 : Cipher , Botfuzzy77#2209 , ```py
+AttributeError: 'float' object has no attribute 'set'
+```
+10 Jul 2016 01:38:07 : Cipher , Wertfuzzy77#0274 , ;debug player.volume == 2
+10 Jul 2016 01:38:07 : Cipher , Botfuzzy77#2209 , ```py
+False
+```
+10 Jul 2016 01:38:11 : Cipher , Wertfuzzy77#0274 , ;debug player.volume = 2
+10 Jul 2016 01:38:11 : Cipher , Botfuzzy77#2209 , ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+10 Jul 2016 01:38:16 : Cipher , Wertfuzzy77#0274 , ;debug player.volume = 2.0
+10 Jul 2016 01:38:16 : Cipher , Botfuzzy77#2209 , ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+10 Jul 2016 01:38:23 : Cipher , Wertfuzzy77#0274 , ;debug player.volume() = 2.0
+10 Jul 2016 01:38:23 : Cipher , Botfuzzy77#2209 , ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+10 Jul 2016 01:38:29 : Cipher , Wertfuzzy77#0274 , ;debug player.volume(2)
+10 Jul 2016 01:38:30 : Cipher , Botfuzzy77#2209 , ```py
+TypeError: 'float' object is not callable
+```
+10 Jul 2016 01:38:37 : Cipher , Wertfuzzy77#0274 , ;debug player.volume = 2.00
+10 Jul 2016 01:38:37 : Cipher , Botfuzzy77#2209 , ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+10 Jul 2016 01:39:02 : Cipher , Wertfuzzy77#0274 , ugh
+10 Jul 2016 01:39:11 : Cipher , Wertfuzzy77#0274 , <@!151163520120127488>  try a song that has a low number of views
+10 Jul 2016 01:39:18 : Cipher , Wertfuzzy77#0274 , or one that has alot of dislikes
+10 Jul 2016 01:39:33 : Cipher , RoyGasm ;)#7098 , ;youtube https://www.youtube.com/watch?v=kffacxfA7G4
+10 Jul 2016 01:39:33 : Cipher , Botfuzzy77#2209 , Already playing a song
+10 Jul 2016 01:39:41 : Cipher , Wertfuzzy77#0274 , ;debug player.stop()
+10 Jul 2016 01:39:41 : Cipher , Botfuzzy77#2209 , ```py
+None
+```
+10 Jul 2016 01:39:42 : Cipher , RoyGasm ;)#7098 , ;youtube https://www.youtube.com/watch?v=kffacxfA7G4
+10 Jul 2016 01:39:42 : Cipher , Wertfuzzy77#0274 , try
+10 Jul 2016 01:39:43 : Cipher , Botfuzzy77#2209 , Sorry, too many people dislike that video.
+10 Jul 2016 01:39:45 : Cipher , Wertfuzzy77#0274 , xD
+10 Jul 2016 01:39:45 : Cipher , RoyGasm ;)#7098 , ;youtube https://www.youtube.com/watch?v=kffacxfA7G4
+10 Jul 2016 01:39:46 : Cipher , Botfuzzy77#2209 , Already playing a song
+10 Jul 2016 01:39:48 : Cipher , RoyGasm ;)#7098 , ;youtube https://www.youtube.com/watch?v=kffacxfA7G4
+10 Jul 2016 01:39:48 : Cipher , Botfuzzy77#2209 , Already playing a song
+10 Jul 2016 01:39:49 : Cipher , RoyGasm ;)#7098 , ;youtube https://www.youtube.com/watch?v=kffacxfA7G4
+10 Jul 2016 01:39:50 : Cipher , Botfuzzy77#2209 , Already playing a song
+10 Jul 2016 01:39:51 : Cipher , RoyGasm ;)#7098 , ;youtube https://www.youtube.com/watch?v=kffacxfA7G4
+10 Jul 2016 01:39:51 : Cipher , Botfuzzy77#2209 , Already playing a song
+10 Jul 2016 01:39:52 : Cipher , RoyGasm ;)#7098 , ;youtube https://www.youtube.com/watch?v=kffacxfA7G4
+10 Jul 2016 01:39:52 : Cipher , Botfuzzy77#2209 , Already playing a song
+10 Jul 2016 01:39:54 : Cipher , RoyGasm ;)#7098 , ;youtube https://www.youtube.com/watch?v=kffacxfA7G4
+10 Jul 2016 01:39:54 : Cipher , Botfuzzy77#2209 , Already playing a song
+10 Jul 2016 01:39:56 : Cipher , RoyGasm ;)#7098 , ;youtube https://www.youtube.com/watch?v=kffacxfA7G4
+10 Jul 2016 01:39:56 : Cipher , Botfuzzy77#2209 , Already playing a song
+10 Jul 2016 01:40:03 : Cipher , Wertfuzzy77#0274 , ;relog
+10 Jul 2016 01:40:03 : Cipher , Botfuzzy77#2209 , Relogging...

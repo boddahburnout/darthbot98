@@ -1,0 +1,18 @@
+15 Dec 2017 06:42:16 : FAM, off-topic, darth kota#9446, ;reddit jokes
+15 Dec 2017 06:43:46 : FAM, off-topic, darth kota#9446, ;reddit jokes client = aiohttp.ClientSession(loop=loop)
+15 Dec 2017 06:44:10 : FAM, off-topic, darth kota#9446, ;reddit jokes t
+15 Dec 2017 06:52:56 : FAM, off-topic, darth kota#9446, ;reload
+15 Dec 2017 06:52:57 : FAM, off-topic, darthbot98#5182, Reloaded
+15 Dec 2017 06:53:02 : FAM, off-topic, darth kota#9446, ;join
+15 Dec 2017 06:53:03 : FAM, off-topic, darthbot98#5182, Connected channel!
+15 Dec 2017 06:53:12 : FAM, off-topic, darth kota#9446, ;search simple man
+15 Dec 2017 06:53:25 : FAM, off-topic, darthbot98#5182, Added Simple Man - Lynyrd Skynyrd - Lyrics HD to the queue
+15 Dec 2017 06:53:25 : FAM, off-topic, darthbot98#5182, https://www.youtube.com/watch?v=sMmTkKz60W8
+15 Dec 2017 06:53:50 : FAM, off-topic, darth kota#9446, ;reload
+15 Dec 2017 06:53:50 : FAM, off-topic, darthbot98#5182, Reloaded
+15 Dec 2017 06:53:54 : FAM, off-topic, darth kota#9446, ;join
+15 Dec 2017 06:53:54 : FAM, off-topic, darthbot98#5182, Reconnected channel!
+15 Dec 2017 06:54:05 : FAM, off-topic, darth kota#9446, ;search simple man
+15 Dec 2017 06:54:07 : FAM, off-topic, darthbot98#5182, Added Simple Man - Lynyrd Skynyrd - Lyrics HD to the queue
+15 Dec 2017 06:54:07 : FAM, off-topic, darthbot98#5182, https://www.youtube.com/watch?v=sMmTkKz60W8
+15 Dec 2017 06:54:19 : FAM, off-topic, darth kota#9446, ;relog

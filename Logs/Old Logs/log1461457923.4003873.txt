@@ -1,0 +1,35 @@
+Botfuzzy77#2926, Starting up...
+Botfuzzy77#2926, Loaded with Version 0.5.1
+Wertfuzzy77#0274, !ranking
+Botfuzzy77#2926, Name: Bakafish, Rank: 1, Index: 195.4
+Name: Zeathrus, Rank: 2, Index: 132.1
+Name: EHHockey35, Rank: 3, Index: 128.8
+Name: ruleroftri, Rank: 4, Index: 126.1
+Name: TheLast1Alive, Rank: 5, Index: 124.8
+
+Wertfuzzy77#0274, !ranking 30 25
+Botfuzzy77#2926, Name: Jackwolf2003, Rank: 25, Index: 83.6
+Name: HecTiiCPanda, Rank: 26, Index: 82.6
+Name: XzsAce, Rank: 27, Index: 82.6
+Name: sk8gaming, Rank: 28, Index: 82.0
+Name: bloops121, Rank: 29, Index: 82.0
+Name: Bringer0fDeath, Rank: 30, Index: 81.9
+
+Wertfuzzy77#0274, !ranking 50 45
+Wertfuzzy77#0274, !help Tournament_Functions
+Botfuzzy77#2926, ```
+Commands:
+  sync        Syncs you Discord Account with the Given IG Name
+  tournaments Returns All tournament info
+  ibeat       WIP Addin for Adding matches that are not in Tournaments
+  ilose       WIP Addin for Adding matches that are not in Tournaments
+  ranking     Returns the Current Server Rankings
+  data        Returns Player Data
+  testing     
+
+Type !help command for more info on a command.
+You can also type !help category for more info on a category.
+```
+Wertfuzzy77#0274, !help
+Wertfuzzy77#0274, !relog
+Botfuzzy77#2926, Relogging...

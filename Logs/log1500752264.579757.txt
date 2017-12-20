@@ -1,0 +1,177 @@
+22 Jul 2017 19:38:00 : OblivionEvolved, bots, Wertfuzzy77#0274, ;color
+22 Jul 2017 19:38:00 : OblivionEvolved, bots, Botfuzzy77#2209, **Invalid option**
+Options include:
+Text, Box, Title, Bar
+Ex `;color box 30 30 30`
+Use `palette` to return the current color palette being used
+Use `reset` to reset the custom options back to default.
+22 Jul 2017 19:38:00 : OblivionEvolved, bots, Botfuzzy77#2209, 
+22 Jul 2017 19:38:04 : Mythical Trinity, announcements, Elijah_Laaku#0688, Towny:
+22 Jul 2017 19:38:05 : Mythical Trinity, announcements, Elijah_Laaku#0688, The command for the global-chat has changed. The new command is /gc
+22 Jul 2017 19:38:22 : OblivionEvolved, bots, Wertfuzzy77#0274, ;color palette
+22 Jul 2017 19:38:22 : OblivionEvolved, bots, Botfuzzy77#2209, text_color : [255, 255, 255]
+box_color : [180, 120, 160]
+title_color : [78, 7, 64]
+bar_color : [100, 30, 100]
+22 Jul 2017 19:38:22 : OblivionEvolved, bots, Botfuzzy77#2209, 
+22 Jul 2017 19:42:32 : None, Direct Message with Fiodor, Fiodor#5640, ;cd
+22 Jul 2017 19:42:32 : None, Direct Message with Fiodor, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You need to wait 491 seconds
+**Gamble**
+You can Gamble right now!
+22 Jul 2017 19:45:30 : LimitlessMc, mainchat, OGButtSagington#1200, i did like 3 years back
+22 Jul 2017 19:47:37 : Personal Server, general, Lastshadow#5809, =music p all the way
+22 Jul 2017 19:47:37 : Personal Server, general, Ayana#8911, Pick an option below to enqueue it.
+```prolog
+[Page 1/1]
+
+ 1 : ALL THE WAY - Jacksepticeye Songify Remix by Schmoyoho
+ 2 : Fat Joe, Remy Ma - All The Way Up ft. French Montana, Infared
+ 3 : Space is cool Vs. All the way Vs. Brofist
+ c : Cancel
+```Type `<` and `>` to switch the page. Type `p<num>` to jump to a page (ex. `p10`).
+22 Jul 2017 19:47:40 : Personal Server, general, Botfuzzy77#2209, **Mobile Suit Gundam Wing: Operation Meteor**
+Link: https://myanimelist.net/anime/3626
+**Episodes**: 4
+**Status**: Finished Airing
+**Rating**: 7.64 (by 2,694 users)
+22 Jul 2017 19:47:40 : Personal Server, general, Botfuzzy77#2209, **Mobile Suit Gundam Wing: Operation Meteor**
+Link: https://myanimelist.net/anime/3626
+**Episodes**: 4
+**Status**: Finished Airing
+**Rating**: 7.64 (by 2,694 users)
+22 Jul 2017 19:47:43 : Personal Server, general, Lastshadow#5809, 1
+22 Jul 2017 19:47:44 : Personal Server, general, Ayana#8911, Enqueued: `ALL THE WAY - Jacksepticeye Songify Remix by Schmoyoho` to position **1**. Run `music play` to play the queue.
+22 Jul 2017 19:47:46 : Personal Server, general, Ayana#8911, :white_check_mark: Joined and bound to :speaker: `Music` and :newspaper: `general`.
+22 Jul 2017 19:47:47 : Personal Server, general, Lastshadow#5809, =music p all the way
+22 Jul 2017 19:47:48 : Personal Server, general, Ayana#8911, Pick an option below to enqueue it.
+```prolog
+[Page 1/1]
+
+ 1 : ALL THE WAY - Jacksepticeye Songify Remix by Schmoyoho
+ 2 : Fat Joe, Remy Ma - All The Way Up ft. French Montana, Infared
+ 3 : Space is cool Vs. All the way Vs. Brofist
+ c : Cancel
+```Type `<` and `>` to switch the page. Type `p<num>` to jump to a page (ex. `p10`).
+22 Jul 2017 19:47:51 : Personal Server, general, Ayana#8911, :notes: Now playing: `ALL THE WAY - Jacksepticeye Songify Remix by Schmoyoho` requested by `Lastshadow#5809`.
+22 Jul 2017 19:47:51 : Personal Server, general, Botfuzzy77#2209, **Mobile Suit Gundam Wing: Operation Meteor**
+Link: https://myanimelist.net/anime/3626
+**Episodes**: 4
+**Status**: Finished Airing
+**Rating**: 7.64 (by 2,694 users)
+22 Jul 2017 19:47:51 : Personal Server, general, Botfuzzy77#2209, **Mobile Suit Gundam Wing: Operation Meteor**
+Link: https://myanimelist.net/anime/3626
+**Episodes**: 4
+**Status**: Finished Airing
+**Rating**: 7.64 (by 2,694 users)
+22 Jul 2017 19:47:51 : Personal Server, general, Lastshadow#5809, =music l
+22 Jul 2017 19:47:51 : Personal Server, general, Ayana#8911, :no_entry: Left and unbound channels. If you enjoyed using Ayana please consider helping us keep the lights on <https://ayana.io/donate>!
+22 Jul 2017 19:47:58 : Personal Server, botchat, Lastshadow#5809, =music p
+22 Jul 2017 19:47:59 : Personal Server, botchat, Ayana#8911, :white_check_mark: Joined and bound to :speaker: `Music` and :newspaper: `botchat`.
+22 Jul 2017 19:48:00 : Personal Server, botchat, Ayana#8911, :notes: Now playing: `ALL THE WAY - Jacksepticeye Songify Remix by Schmoyoho` requested by `Lastshadow#5809`.
+22 Jul 2017 19:48:01 : Personal Server, botchat, Lastshadow#5809, =music r all
+22 Jul 2017 19:48:01 : Personal Server, botchat, Ayana#8911, :repeat: Repeating queue.
+22 Jul 2017 19:48:18 : Personal Server, general, Ayana#8911, Question timed out.
+22 Jul 2017 19:49:43 : LimitlessMc, botchat, Bakafish#8693, ;train
+22 Jul 2017 19:49:45 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:49:46 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:49:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:49:48 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:49:50 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:49:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:50:00 : LimitlessMc, botchat, Bakafish#8693, double train
+22 Jul 2017 19:50:07 : None, Direct Message with Fiodor, Fiodor#5640, ;cd
+22 Jul 2017 19:50:07 : None, Direct Message with Fiodor, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You need to wait 36 seconds
+**Gamble**
+You can Gamble right now!
+22 Jul 2017 19:50:12 : LimitlessMc, botchat, AlphaBit#3869, mkayy
+22 Jul 2017 19:50:31 : LimitlessMc, botchat, TherminatorX#6644, ;level
+22 Jul 2017 19:50:34 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:50:34 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:50:44 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+22 Jul 2017 19:50:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:50:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:50:51 : Personal Server, botchat, Ayana#8911, :no_entry_sign: Left channel due to inactivity. If you enjoyed using Ayana please consider helping us keep the lights on <https://ayana.io/donate>!
+22 Jul 2017 19:51:09 : LimitlessMc, botchat, Wertfuzzy77#0274, top one is the new Score
+22 Jul 2017 19:51:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lv
+22 Jul 2017 19:51:15 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:51:16 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:51:22 : LimitlessMc, mainchat, Demon Assassin#9006, Wanna play it with me on roblox plaease;-;
+22 Jul 2017 19:51:37 : LimitlessMc, botchat, Wertfuzzy77#0274, now takes into account Prestige, Pokedex, and takedowns
+22 Jul 2017 19:51:46 : LimitlessMc, botchat, TherminatorX#6644, prestige doesn't help as much anymore tho
+22 Jul 2017 19:51:48 : Personal Server, botchat, Lastshadow#5809, =music p https://www.youtube.com/playlist?list=PLiIvS4WD7Sa-bPJNVugo7mvyilrLZaQJl
+22 Jul 2017 19:51:49 : Personal Server, botchat, Ayana#8911, Enqueued: `15` songs from `What I am listening to NOW`. Run `music play` to play the queue.
+22 Jul 2017 19:51:50 : Personal Server, botchat, Ayana#8911, :white_check_mark: Joined and bound to :speaker: `Music` and :newspaper: `botchat`.
+22 Jul 2017 19:51:51 : Personal Server, botchat, Lastshadow#5809, =music r all
+22 Jul 2017 19:51:51 : Personal Server, botchat, Ayana#8911, An error occurred. Please report this in our support guild (`support` command to get the invite).
+```Error 0: Repeat can only be enabled while connected```
+22 Jul 2017 19:51:51 : Personal Server, botchat, Ayana#8911, :notes: Now playing: `ALL THE WAY - Jacksepticeye Songify Remix by Schmoyoho` requested by `Lastshadow#5809`.
+22 Jul 2017 19:51:53 : LimitlessMc, botchat, StubbyMuffins#1053, ;level
+22 Jul 2017 19:51:55 : LimitlessMc, botchat, Wertfuzzy77#0274, it does with ;mine
+22 Jul 2017 19:51:56 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:51:58 : Personal Server, botchat, Lastshadow#5809, =music r all
+22 Jul 2017 19:51:58 : Personal Server, botchat, Ayana#8911, :repeat: Repeating queue.
+22 Jul 2017 19:52:11 : LimitlessMc, botchat, Wertfuzzy77#0274, and it now makes a bigger diff in score
+22 Jul 2017 19:52:11 : LimitlessMc, botchat, TherminatorX#6644, prestige gives you better mining stuff?
+22 Jul 2017 19:52:35 : LimitlessMc, botchat, Wertfuzzy77#0274, makes it harder to get bad stuff, and if you have prestiged, some of the bad stuff becomes not bad
+22 Jul 2017 19:52:44 : LimitlessMc, botchat, Wertfuzzy77#0274, the higher your level, the worse it is to mine
+22 Jul 2017 19:52:45 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 19:53:00 : LimitlessMc, botchat, Wertfuzzy77#0274, you get more rocks...
+22 Jul 2017 19:53:05 : LimitlessMc, botchat, Wertfuzzy77#0274, if it actualyl worked lol
+22 Jul 2017 19:53:12 : LimitlessMc, botchat, TherminatorX#6644, So you'd want high prestige, low level for mining
+22 Jul 2017 19:53:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ^
+22 Jul 2017 19:53:20 : LimitlessMc, botchat, Botfuzzy77#2209, ^
+22 Jul 2017 19:53:20 : LimitlessMc, botchat, Botfuzzy77#2209, ^
+22 Jul 2017 19:53:23 : LimitlessMc, botchat, TherminatorX#6644, lol
+22 Jul 2017 19:53:28 : LimitlessMc, botchat, Fiodor#5640, dont mine if you got hight lvl
+22 Jul 2017 19:53:28 : LimitlessMc, botchat, TherminatorX#6644, ^
+^
+22 Jul 2017 19:53:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 19:53:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:53:35 : LimitlessMc, botchat, Wertfuzzy77#0274, there
+22 Jul 2017 19:53:36 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:53:39 : LimitlessMc, botchat, TherminatorX#6644, ;mine
+22 Jul 2017 19:53:42 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:53:45 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:53:49 : LimitlessMc, botchat, Wertfuzzy77#0274, rocks are more common in higher levels
+22 Jul 2017 19:53:59 : LimitlessMc, botchat, Fiodor#5640, ;mine
+22 Jul 2017 19:54:00 : LimitlessMc, botchat, TherminatorX#6644, ooo
+22 Jul 2017 19:54:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:54:04 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:54:05 : LimitlessMc, botchat, TherminatorX#6644, a type based item
+22 Jul 2017 19:54:09 : LimitlessMc, botchat, Fiodor#5640, ;mine
+22 Jul 2017 19:54:11 : LimitlessMc, botchat, TherminatorX#6644, fancy
+22 Jul 2017 19:54:11 : LimitlessMc, botchat, Fiodor#5640, see
+22 Jul 2017 19:54:12 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:54:14 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:54:15 : LimitlessMc, botchat, Wertfuzzy77#0274, you get 2x XP if  its your same type
+22 Jul 2017 19:54:16 : LimitlessMc, botchat, Wertfuzzy77#0274, o
+22 Jul 2017 19:54:17 : LimitlessMc, botchat, Wertfuzzy77#0274, and
+22 Jul 2017 19:54:21 : LimitlessMc, botchat, Wertfuzzy77#0274, ;settype fire
+22 Jul 2017 19:54:21 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Fire type
+22 Jul 2017 19:54:22 : LimitlessMc, botchat, Fiodor#5640, ;mine
+22 Jul 2017 19:54:26 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:54:27 : LimitlessMc, botchat, Wertfuzzy77#0274, woops
+22 Jul 2017 19:54:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:54:30 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:54:40 : LimitlessMc, botchat, Wertfuzzy77#0274, also, I turned off the errors for mining xD
+22 Jul 2017 19:54:40 : Personal Server, botchat, Ayana#8911, :notes: Now playing: `Tattletail Song- Don't Tattle On Me Remix- The Living Tombstone feat. Caleb Hyles and Fandroid` requested by `Lastshadow#5809`.
+22 Jul 2017 19:54:45 : LimitlessMc, botchat, Wertfuzzy77#0274, its just text, doenst stop you
+22 Jul 2017 19:54:46 : LimitlessMc, botchat, Fiodor#5640, ;lv
+22 Jul 2017 19:54:50 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:54:51 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 19:54:52 : LimitlessMc, botchat, Wertfuzzy77#0274, so there is no cooldown or min-XP cap
+22 Jul 2017 19:54:55 : LimitlessMc, botchat, TherminatorX#6644, ...is it just grass gems? XD
+22 Jul 2017 19:55:01 : LimitlessMc, botchat, Wertfuzzy77#0274, nah, has all of em
+22 Jul 2017 19:55:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 19:55:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 19:55:14 : None, Direct Message with Fiodor, Fiodor#5640, ;train
+22 Jul 2017 19:55:17 : None, Direct Message with Fiodor, Botfuzzy77#2209, 
+22 Jul 2017 19:55:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ew, JSON errors
+22 Jul 2017 19:55:19 : None, Direct Message with Fiodor, Botfuzzy77#2209, 
+22 Jul 2017 19:56:10 : LimitlessMc, botchat, TherminatorX#6644, Alright

@@ -1,0 +1,47 @@
+19 Jan 2017 19:42:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;setpokemon Celebi
+19 Jan 2017 19:42:20 : LimitlessMc, botchat, Botfuzzy77#2209, You must have beat that pokemon in ;train to become it!
+19 Jan 2017 19:42:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokedex
+19 Jan 2017 19:42:24 : LimitlessMc, botchat, Botfuzzy77#2209, Your Pokedex is 12.23% complete!
+19 Jan 2017 19:43:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokedex Regice
+19 Jan 2017 19:43:20 : LimitlessMc, botchat, Botfuzzy77#2209, You **have** beat a Regice
+19 Jan 2017 19:43:22 : LimitlessMc, botchat, TherminatorX#6644, Wait
+19 Jan 2017 19:43:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;setpokemon Regice
+19 Jan 2017 19:43:26 : LimitlessMc, botchat, Botfuzzy77#2209, You must have beat that pokemon in ;train to become it!
+19 Jan 2017 19:43:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ...
+19 Jan 2017 19:43:31 : LimitlessMc, botchat, TherminatorX#6644, "Become" it?
+19 Jan 2017 19:43:34 : LimitlessMc, botchat, Wertfuzzy77#0274, working on it
+19 Jan 2017 19:43:35 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+19 Jan 2017 19:43:41 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+19 Jan 2017 19:43:47 : LimitlessMc, botchat, TherminatorX#6644, Ah, I see
+19 Jan 2017 19:43:50 : LimitlessMc, botchat, TherminatorX#6644, Beta bot
+19 Jan 2017 19:43:53 : LimitlessMc, botchat, Wertfuzzy77#0274, ya
+19 Jan 2017 19:44:15 : LimitlessMc, botchat, TherminatorX#6644, ;pokedex Kyogre
+19 Jan 2017 19:44:15 : LimitlessMc, botchat, Botfuzzy77#2209, You **have** beat a Kyogre
+19 Jan 2017 19:44:26 : LimitlessMc, botchat, TherminatorX#6644, ;setpokemon Kyogre
+19 Jan 2017 19:44:26 : LimitlessMc, botchat, Botfuzzy77#2209, You must have beat that pokemon in ;train to become it!
+19 Jan 2017 19:44:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug json.load(open('Players.json', 'r'))[ctx.message.author.id]
+19 Jan 2017 19:44:40 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+{'Pokemon': [' ', 'Pupitar', 'Misdreavus', 'Woobat', 'Espurr', 'Crawdaunt', 'Persian', 'Tauros', 'Unfezant', 'Abra', 'Hitmontop', 'Armaldo', 'Vanilluxe', 'Nidoqueen', 'Cranidos', 'Skitty', 'Baltoy', 'Sigilyph', 'Glaceon', 'Haunter', 'Meditite', 'Glameow', 'Mantine', 'Kecleon', 'Bastiodon', 'Castform', 'Beartic', 'Kabutops', 'Murkrow', 'Cresselia', 'Cacnea', 'Ludicolo', 'Numel', 'Metang', 'Wingull', 'Stantler', 'Remoraid', 'Serperior', 'Palpitoad', 'Grotle', 'Magnezone', 'Alakazam', 'Medicham', 'Torterra', 'Slaking', 'Scizor', 'Spinda', 'Spritzee', 'Azelf', 'Charmeleon', 'Wailmer', 'Donphan', 'Smoochum', 'Beautifly', 'Golduck', 'Pansage', 'Flabébé', 'Mandibuzz', 'Granbull', 'Garbodor', 'Zigzagoon', 'Mesprit', 'Regirock', 'Gothita', 'Inkay', 'Maractus', 'Manectric', 'Electrode', 'Ferrothorn', 'Jolteon', 'Carnivine', 'Entei', 'Amaura', 'Vibrava', 'Cryogonal', 'Azumarill', 'Regice', 'Goodra', 'Totodile', 'Machamp', 'Snorlax', 'Throh', 'Chinchou', 'Dragonite', 'Herdier', 'Seadra', 'Monferno', 'Phantump', 'Shuppet', 'Zekrom', 'Mightyena', 'Bayleef', 'Kyurem', 'Tranquill', 'Igglybuff', 'Poliwrath', 'Tyrunt', 'Slugma', 'Frogadier'], 'XP': 124605, 'Takedowns': 20, 'Name': 'Wertfuzzy77', 'Large_Damage': 7794, 'Level': 43}
+```
+19 Jan 2017 19:44:44 : LimitlessMc, botchat, TherminatorX#6644, ;help setpokemon
+19 Jan 2017 19:44:44 : LimitlessMc, botchat, Botfuzzy77#2209, ```
+;setpokemon <PlayerPokemon>
+
+```
+19 Jan 2017 19:45:21 : None, Direct Message with TherminatorX, TherminatorX#6644, ;level
+19 Jan 2017 19:45:30 : None, Direct Message with TherminatorX, TherminatorX#6644, ;train
+19 Jan 2017 19:45:30 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You **Lost** to a Level 77 **Bayleef** (29% to beat)
+You **Lost** to a Level 78 **Piloswine** (29% to beat)
+You **Lost** to a Level 34 **Combee** (67% to beat)
+You **Lost** to a Level 61 **Pancham** (37% to beat)
+You **Beat** a Level 30 **Purugly** for 1073 XP (76% to beat)
+You **Beat** a Level 27 **Raikou** for 681 XP (85% to beat)
+You **Beat** a Level 20 **Joltik** for 460 XP (90% to beat)
+You **Beat** a Level 56 **Garbodor** for 2710 XP (41% to beat)
+You **Beat** a Level 7 **Glaceon** for 460 XP (90% to beat)
+You **Beat** a Level 32 **Simisear** for 1293 XP (71% to beat)
+You **Beat** a Level 26 **Nuzleaf** for 530 XP (88% to beat)
+You **Beat** a Level 24 **Misdreavus** for 460 XP (90% to beat)
+You **Lost** to a Level 68 **Gloom** (33% to beat)
+You Find a **Great Pokeloot** worth 15574 XP
+19 Jan 2017 19:45:30 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You trained for 23241 XP!

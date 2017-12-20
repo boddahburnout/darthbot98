@@ -1,0 +1,136 @@
+08 Jul 2016 01:43:29 : Cipher , Wertfuzzy77#0274 , ;mutelist
+08 Jul 2016 01:43:29 : Cipher , Botfuzzy77#2209 , ['Meep', 'Someone']
+08 Jul 2016 01:43:29 : LimitlessMc , Genesect#6492 , well
+08 Jul 2016 01:43:32 : LimitlessMc , Genesect#6492 , i only got 3
+08 Jul 2016 01:43:33 : Cipher , Wertfuzzy77#0274 , we did it
+08 Jul 2016 01:43:34 : Cipher , Wertfuzzy77#0274 , gg
+08 Jul 2016 01:43:36 : Cipher , Roy210#7098 , u done cursing us?
+08 Jul 2016 01:43:42 : Cipher , Wertfuzzy77#0274 , check main chat
+08 Jul 2016 01:43:46 : LimitlessMc , Genesect#6492 , how long before i can use that pokestop again
+08 Jul 2016 01:43:47 : Cipher , Wertfuzzy77#0274 , ;mute Roy210
+08 Jul 2016 01:43:48 : Cipher , Botfuzzy77#2209 , Muted Roy210
+08 Jul 2016 01:43:50 : Cipher , Wertfuzzy77#0274 , ;mutelist
+08 Jul 2016 01:43:50 : Cipher , Botfuzzy77#2209 , ['Meep', 'Someone', 'Roy210']
+08 Jul 2016 01:43:57 : Cipher , Wertfuzzy77#0274 , WE DID IT REDDIT
+08 Jul 2016 01:43:59 : Cipher , Wertfuzzy77#0274 , IM A GOD
+08 Jul 2016 01:44:04 : Cipher , Wertfuzzy77#0274 , ;unmuteall
+08 Jul 2016 01:44:04 : Cipher , Botfuzzy77#2209 , Unmuted All Players
+08 Jul 2016 01:44:09 : Cipher , Wertfuzzy77#0274 , alright, im good
+08 Jul 2016 01:44:17 : Cipher , Roy210#7098 , not unmuted
+08 Jul 2016 01:44:17 : Cipher , Wertfuzzy77#0274 , ;mutelist
+08 Jul 2016 01:44:18 : Cipher , Botfuzzy77#2209 , ['Meep', 'Someone', 'Roy210']
+08 Jul 2016 01:44:20 : Cipher , Roy210#7098 , still rip
+08 Jul 2016 01:44:20 : Cipher , Wertfuzzy77#0274 , ew
+08 Jul 2016 01:44:27 : Cipher , Wertfuzzy77#0274 , ;unmute Roy210
+08 Jul 2016 01:44:27 : Cipher , Botfuzzy77#2209 , Unmuted Roy210
+08 Jul 2016 01:44:31 : Cipher , Wertfuzzy77#0274 , ;mutelist
+08 Jul 2016 01:44:31 : Cipher , Botfuzzy77#2209 , ['Meep', 'Someone']
+08 Jul 2016 01:44:33 : Cipher , Wertfuzzy77#0274 , there
+08 Jul 2016 01:44:40 : Cipher , Wertfuzzy77#0274 , forgot i didnt update ;unmuteall
+08 Jul 2016 01:45:01 : Cipher , Roy210#7098 , still rip
+08 Jul 2016 01:45:07 : Cipher , Wertfuzzy77#0274 , really? lol
+08 Jul 2016 01:45:12 : Cipher , Roy210#7098 , ya
+08 Jul 2016 01:45:26 : Cipher , Wertfuzzy77#0274 , ;unmute Wertfuzzy77
+08 Jul 2016 01:45:26 : Cipher , Botfuzzy77#2209 , Unmuted Wertfuzzy77
+08 Jul 2016 01:45:28 : Cipher , Wertfuzzy77#0274 , ;mutelist
+08 Jul 2016 01:45:28 : Cipher , Botfuzzy77#2209 , ['Meep', 'Someone']
+08 Jul 2016 01:45:32 : Cipher , Wertfuzzy77#0274 , shouldnt be?
+08 Jul 2016 01:45:43 : Cipher , Roy210#7098 , can't talk tho
+08 Jul 2016 01:45:44 : Cipher , Wertfuzzy77#0274 , ;mutelist
+08 Jul 2016 01:45:44 : Cipher , Botfuzzy77#2209 , ['Meep', 'Someone']
+08 Jul 2016 01:46:31 : Cipher , Roy210#7098 , hep?
+08 Jul 2016 01:46:48 : Cipher , Wertfuzzy77#0274 , ;debug ctx.message.channel.server.get_player_named("Roy210").permissions_in(ctx.message.channel).send_messages
+08 Jul 2016 01:46:48 : Cipher , Botfuzzy77#2209 , ```py
+AttributeError: 'Server' object has no attribute 'get_player_named'
+```
+08 Jul 2016 01:46:56 : Cipher , Wertfuzzy77#0274 , ;debug ctx.message.channel.server.get_member_named("Roy210").permissions_in(ctx.message.channel).send_messages
+08 Jul 2016 01:46:56 : Cipher , Botfuzzy77#2209 , ```py
+True
+```
+08 Jul 2016 01:46:58 : Cipher , Wertfuzzy77#0274 , ...
+08 Jul 2016 01:47:00 : Cipher , Wertfuzzy77#0274 , says you can talk
+08 Jul 2016 01:47:09 : Cipher , Roy210#7098 , ?
+08 Jul 2016 01:47:12 : Cipher , Roy210#7098 , can't
+08 Jul 2016 01:47:16 : Cipher , Wertfuzzy77#0274 , thats weird
+08 Jul 2016 01:47:23 : Cipher , Roy210#7098 , ik
+08 Jul 2016 01:47:38 : Cipher , Wertfuzzy77#0274 , cause in the menu for permissions it says you can
+08 Jul 2016 01:47:44 : Cipher , Roy210#7098 , rip me?
+08 Jul 2016 01:47:48 : Cipher , Wertfuzzy77#0274 , and even the bot manually found that you could
+08 Jul 2016 01:47:52 : Cipher , Wertfuzzy77#0274 , ;debug ctx.message.channel.server.get_member_named("Roy210").permissions_in(ctx.message.channel).send_messages
+08 Jul 2016 01:47:53 : Cipher , Botfuzzy77#2209 , ```py
+True
+```
+08 Jul 2016 01:47:58 : Cipher , Roy210#7098 , i can't tho
+08 Jul 2016 01:48:07 : Cipher , Wertfuzzy77#0274 , try now?
+08 Jul 2016 01:48:14 : Cipher , Roy210#7098 , ;debug ctx.message.channel.server.get_member_named("Meep").permissions_in(ctx.message.channel).send_messages
+08 Jul 2016 01:48:14 : Cipher , Botfuzzy77#2209 , ```py
+False
+```
+08 Jul 2016 01:48:21 : Cipher , Roy210#7098 , nope
+08 Jul 2016 01:48:24 : Cipher , Wertfuzzy77#0274 , meep cant talk anywhere
+08 Jul 2016 01:48:32 : Cipher , Roy210#7098 , why?
+08 Jul 2016 01:48:38 : Cipher , Wertfuzzy77#0274 , doesnt have a role
+08 Jul 2016 01:48:40 : Cipher , Roy210#7098 , who is meep btw?
+08 Jul 2016 01:48:53 : LimitlessMc , xPalkia(lugia)#8149 , idk
+08 Jul 2016 01:48:56 : Cipher , Wertfuzzy77#0274 , no idea
+08 Jul 2016 01:48:57 : Cipher , Wertfuzzy77#0274 , and try now
+08 Jul 2016 01:49:00 : Cipher , Wertfuzzy77#0274 , think i fixed
+08 Jul 2016 01:49:07 : Cipher , Roy210#7098 , nope
+08 Jul 2016 01:49:52 : Cipher , Roy210#7098 , <@!134441036905840640>
+08 Jul 2016 01:49:52 : Cipher , Wertfuzzy77#0274 , ;mutelist
+08 Jul 2016 01:49:52 : Cipher , Botfuzzy77#2209 , ['Meep', 'Someone']
+08 Jul 2016 01:49:58 : Cipher , Wertfuzzy77#0274 , ;unmute Roy210
+08 Jul 2016 01:49:58 : Cipher , Botfuzzy77#2209 , Unmuted Roy210
+08 Jul 2016 01:50:16 : Cipher , Roy210#7098 , still can't ;-;
+08 Jul 2016 01:50:20 : Cipher , Roy210#7098 , wert wat you do
+08 Jul 2016 01:50:23 : Cipher , Wertfuzzy77#0274 , ;-; no idea
+08 Jul 2016 01:50:33 : Cipher , Roy210#7098 , u go around breaking main chat
+08 Jul 2016 01:50:36 : Cipher , Wertfuzzy77#0274 , what about now?
+08 Jul 2016 01:50:37 : Cipher , Roy210#7098 , erm
+08 Jul 2016 01:50:47 : Cipher , Roy210#7098 , no
+08 Jul 2016 01:50:50 : Cipher , Roy210#7098 , ;-;
+08 Jul 2016 01:50:59 : Cipher , Wertfuzzy77#0274 , now?
+08 Jul 2016 01:51:11 : Cipher , Roy210#7098 , i can talk here
+08 Jul 2016 01:51:17 : Cipher , Roy210#7098 , not on main chat tho
+08 Jul 2016 01:51:22 : Cipher , Wertfuzzy77#0274 , ;mute Roy210
+08 Jul 2016 01:51:23 : Cipher , Botfuzzy77#2209 , Muted Roy210
+08 Jul 2016 01:51:31 : Cipher , Wertfuzzy77#0274 , ;mutelist
+08 Jul 2016 01:51:31 : Cipher , Botfuzzy77#2209 , ['Meep', 'Someone', 'Roy210']
+08 Jul 2016 01:51:37 : Cipher , Wertfuzzy77#0274 , ;unmute Roy210
+08 Jul 2016 01:51:38 : Cipher , Botfuzzy77#2209 , Unmuted Roy210
+08 Jul 2016 01:51:39 : Cipher , Wertfuzzy77#0274 , ?
+08 Jul 2016 01:51:41 : Cipher , Roy210#7098 , can't even access chat
+08 Jul 2016 01:51:55 : Cipher , Roy210#7098 , nope ;-;
+08 Jul 2016 01:52:47 : Cipher , Roy210#7098 , le
+08 Jul 2016 01:52:52 : Cipher , Roy210#7098 , i could always talk
+08 Jul 2016 01:53:01 : Cipher , Wertfuzzy77#0274 , ;mute Roy210
+08 Jul 2016 01:53:01 : Cipher , Botfuzzy77#2209 , Muted Roy210
+08 Jul 2016 01:53:19 : Cipher , Wertfuzzy77#0274 , ;mute Roy210
+08 Jul 2016 01:53:19 : Cipher , Botfuzzy77#2209 , Muted Roy210
+08 Jul 2016 01:53:31 : Cipher , Wertfuzzy77#0274 , ;mute Roy210
+08 Jul 2016 01:53:31 : Cipher , Botfuzzy77#2209 , Muted Roy210
+08 Jul 2016 01:53:33 : Cipher , Wertfuzzy77#0274 , ;mute Roy210
+08 Jul 2016 01:53:33 : Cipher , Botfuzzy77#2209 , Muted Roy210
+08 Jul 2016 01:53:34 : Cipher , Wertfuzzy77#0274 , ;mute Roy210
+08 Jul 2016 01:53:35 : Cipher , Botfuzzy77#2209 , Muted Roy210
+08 Jul 2016 01:53:36 : Cipher , Wertfuzzy77#0274 , ;mute Roy210
+08 Jul 2016 01:53:37 : Cipher , Botfuzzy77#2209 , Muted Roy210
+08 Jul 2016 01:53:41 : Cipher , Wertfuzzy77#0274 , muted you everywhere xD
+08 Jul 2016 01:53:44 : Cipher , Wertfuzzy77#0274 , yw
+08 Jul 2016 01:53:46 : Cipher , Wertfuzzy77#0274 , ya nub
+08 Jul 2016 01:54:00 : Cipher , Wertfuzzy77#0274 , ;mutelist
+08 Jul 2016 01:54:00 : Cipher , Botfuzzy77#2209 , ['Meep', 'Someone']
+08 Jul 2016 01:54:21 : Cipher , Wertfuzzy77#0274 , ;unmute Roy210
+08 Jul 2016 01:54:21 : Cipher , Botfuzzy77#2209 , Unmuted Roy210
+08 Jul 2016 01:54:23 : Cipher , Wertfuzzy77#0274 , ;mutelist
+08 Jul 2016 01:54:23 : Cipher , Botfuzzy77#2209 , ['Meep', 'Someone']
+08 Jul 2016 01:54:38 : Cipher , Roy210#7098 , <@!134441036905840640>
+08 Jul 2016 01:54:46 : Cipher , Roy210#7098 , "Congrats to the New Cipher Offcier "
+08 Jul 2016 01:54:51 : Cipher , Roy210#7098 , Offcier
+08 Jul 2016 01:54:54 : Cipher , Roy210#7098 , Offcier
+08 Jul 2016 01:54:58 : Cipher , Roy210#7098 , Offcier
+08 Jul 2016 01:55:08 : Cipher , Wertfuzzy77#0274 , i fixed xD
+08 Jul 2016 01:55:17 : Cipher , Roy210#7098 , lmfao
+08 Jul 2016 01:55:25 : Cipher , Roy210#7098 , purple name babe
+08 Jul 2016 01:55:27 : Cipher , Wertfuzzy77#0274 , ;relog
+08 Jul 2016 01:55:27 : Cipher , Botfuzzy77#2209 , Relogging...

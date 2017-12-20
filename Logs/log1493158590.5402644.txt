@@ -1,0 +1,2254 @@
+25 Apr 2017 22:16:43 : LimitlessMc, botchat, TherminatorX#6644, As a cosmetic preference, you could specify a Pokemon you have in your dex, and that would be the Pokemon you try to beat as a boss
+25 Apr 2017 22:16:53 : LimitlessMc, botchat, TherminatorX#6644, Everything else stays random
+25 Apr 2017 22:17:08 : LimitlessMc, mainchat, DicloniusPony#6564, https://s-media-cache-ak0.pinimg.com/736x/f8/50/01/f850010097a665e15a7bb43331f9d46c.jpg
+25 Apr 2017 22:17:22 : LimitlessMc, botchat, TherminatorX#6644, Only works of course after a boss has been beaten
+25 Apr 2017 22:17:22 : LimitlessMc, mainchat, DicloniusPony#6564, wish pokemon would actually have more variants like this^
+25 Apr 2017 22:18:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+25 Apr 2017 22:18:01 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+25 Apr 2017 22:18:07 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=s6yOFbMFyoM
+25 Apr 2017 22:18:09 : LimitlessMc, botchat, Botfuzzy77#2209, Added Porter Robinson & Madeon - Shelter (Pure 100% Remix) to the queue
+25 Apr 2017 22:18:12 : LimitlessMc, botchat, TherminatorX#6644, Actually, it would depend on when you generate values for each boss
+25 Apr 2017 22:18:31 : LimitlessMc, botchat, Wertfuzzy77#0274, its generated when you try to battle a boss and the previous is defeated
+25 Apr 2017 22:18:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ;loop
+25 Apr 2017 22:18:39 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*Porter Robinson & Madeon - Shelter (Pure 100% Remix)*' **1** more times
+25 Apr 2017 22:18:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 1
+25 Apr 2017 22:18:40 : LimitlessMc, botchat, Botfuzzy77#2209, Removed 0 that 1 requested
+25 Apr 2017 22:18:42 : LimitlessMc, botchat, Wertfuzzy77#0274, hmm
+25 Apr 2017 22:18:45 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove Wertfuzzy77
+25 Apr 2017 22:18:45 : LimitlessMc, botchat, Botfuzzy77#2209, Removed 1 that Wertfuzzy77 requested
+25 Apr 2017 22:18:47 : LimitlessMc, botchat, Wertfuzzy77#0274, o
+25 Apr 2017 22:18:49 : LimitlessMc, botchat, Wertfuzzy77#0274, ;loop 20
+25 Apr 2017 22:18:50 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*Porter Robinson & Madeon - Shelter (Pure 100% Remix)*' **20** more times
+25 Apr 2017 22:18:52 : LimitlessMc, botchat, TherminatorX#6644, Does it happen right after one is defeated, or when you start with the first attack?
+25 Apr 2017 22:18:57 : LimitlessMc, botchat, TherminatorX#6644, Oh, mkay
+25 Apr 2017 22:18:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove Wertfuzzy77
+25 Apr 2017 22:18:59 : LimitlessMc, botchat, Botfuzzy77#2209, Removed 20 that Wertfuzzy77 requested
+25 Apr 2017 22:19:00 : LimitlessMc, botchat, Wertfuzzy77#0274, 😄
+25 Apr 2017 22:19:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+25 Apr 2017 22:19:02 : LimitlessMc, botchat, Botfuzzy77#2209, Queue is Empty
+25 Apr 2017 22:19:03 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, smh i want this ;A;
+25 Apr 2017 22:19:04 : LimitlessMc, botchat, Wertfuzzy77#0274, we did a thing
+25 Apr 2017 22:19:06 : LimitlessMc, botchat, Wertfuzzy77#0274, ;loop 20
+25 Apr 2017 22:19:07 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*Porter Robinson & Madeon - Shelter (Pure 100% Remix)*' **20** more times
+25 Apr 2017 22:19:08 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+25 Apr 2017 22:19:11 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 22:19:12 : LimitlessMc, botchat, TherminatorX#6644, Noice
+25 Apr 2017 22:19:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+25 Apr 2017 22:19:16 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 22:19:21 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove Wertfuzzy77
+25 Apr 2017 22:19:21 : LimitlessMc, botchat, Botfuzzy77#2209, Removed 20 that Wertfuzzy77 requested
+25 Apr 2017 22:19:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+25 Apr 2017 22:19:23 : LimitlessMc, botchat, Botfuzzy77#2209, Queue is Empty
+25 Apr 2017 22:19:25 : LimitlessMc, botchat, Wertfuzzy77#0274, 😄
+25 Apr 2017 22:19:57 : LimitlessMc, botchat, Wertfuzzy77#0274, @Jay113355 is there any reason why embedded messages would be slow on this server?
+25 Apr 2017 22:20:04 : LimitlessMc, botchat, Wertfuzzy77#0274, ;loop 3
+25 Apr 2017 22:20:05 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*Porter Robinson & Madeon - Shelter (Pure 100% Remix)*' **3** more times
+25 Apr 2017 22:20:06 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cycle
+25 Apr 2017 22:20:07 : LimitlessMc, botchat, Botfuzzy77#2209, Cycle Mode: True
+25 Apr 2017 22:20:31 : LimitlessMc, botchat, TherminatorX#6644, So, feedback?
+25 Apr 2017 22:20:48 : LimitlessMc, botchat, Wertfuzzy77#0274, I could
+25 Apr 2017 22:20:52 : LimitlessMc, botchat, Wertfuzzy77#0274, i dont see the poing tho
+25 Apr 2017 22:20:56 : LimitlessMc, botchat, Wertfuzzy77#0274, point *
+25 Apr 2017 22:21:17 : RooberBoobers, kinkyrubiestalk, navy#8336, succ
+25 Apr 2017 22:21:30 : LimitlessMc, botchat, TherminatorX#6644, I didn't see a point to highly configurable backgrounds 😛
+25 Apr 2017 22:21:47 : LimitlessMc, botchat, TherminatorX#6644, It's just a cosmetic thing
+25 Apr 2017 22:22:11 : LimitlessMc, botchat, Wertfuzzy77#0274, but level cards are things players have unique to them xD bosses are universal
+25 Apr 2017 22:22:47 : LimitlessMc, botchat, TherminatorX#6644, And a way players who are quick on the draw can show off their favorite pokemon
+25 Apr 2017 22:23:05 : LimitlessMc, botchat, TherminatorX#6644, And make others deal with it XD
+25 Apr 2017 22:23:18 : LimitlessMc, botchat, Wertfuzzy77#0274, also... there is a technical problem with that
+25 Apr 2017 22:23:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pbs
+25 Apr 2017 22:23:19 : LimitlessMc, botchat, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> medium to fight and reveal the boss.
+25 Apr 2017 22:23:21 : LimitlessMc, botchat, Wertfuzzy77#0274, pokeboss cmd
+25 Apr 2017 22:23:46 : LimitlessMc, botchat, TherminatorX#6644, Or perhaps it could be a privilege reserved for those who dealt the finishing blow
+25 Apr 2017 22:23:52 : LimitlessMc, botchat, Wertfuzzy77#0274, I mean, I guess I could summon it, and have it not "reveal"
+25 Apr 2017 22:24:20 : LimitlessMc, botchat, TherminatorX#6644, Or "Boss has been chosen"
+25 Apr 2017 22:24:49 : LimitlessMc, botchat, Wertfuzzy77#0274, ya, but its hidden because I don't have the previous combo info yet xD cause no one has attacked it
+25 Apr 2017 22:24:49 : LimitlessMc, botchat, TherminatorX#6644, "use pokebattle to begin the fight"
+25 Apr 2017 22:25:26 : LimitlessMc, botchat, Wertfuzzy77#0274, That might be more useful for an elite 4 type setup
+25 Apr 2017 22:25:52 : LimitlessMc, botchat, Wertfuzzy77#0274, where the top 5 players would get to choose their favorite pokemon to be the challanger in the elite 4 and champ
+25 Apr 2017 22:26:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamble
+25 Apr 2017 22:26:25 : LimitlessMc, botchat, Botfuzzy77#2209, You need to gamble atleast 3,708 XP
+25 Apr 2017 22:26:27 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamble 7000
+25 Apr 2017 22:26:27 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained back your offering and more!
+25 Apr 2017 22:26:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 22:26:33 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamble 7000
+25 Apr 2017 22:26:33 : LimitlessMc, botchat, Botfuzzy77#2209, You have lost your offering...
+25 Apr 2017 22:26:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 22:26:35 : LimitlessMc, botchat, Botfuzzy77#2209, You are exhausted from Gambling...
+25 Apr 2017 22:26:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ayy, it worked
+25 Apr 2017 22:28:24 : LimitlessMc, botchat, TherminatorX#6644, Ooo, that would be cool too
+25 Apr 2017 22:28:54 : LimitlessMc, botchat, TherminatorX#6644, And who would have the Champion title? 😏
+25 Apr 2017 22:29:14 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+25 Apr 2017 22:29:16 : LimitlessMc, botchat, Wertfuzzy77#0274, you
+25 Apr 2017 22:29:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+25 Apr 2017 22:29:20 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 22:29:31 : LimitlessMc, botchat, Wertfuzzy77#0274, I'll take an elite 4 rank
+25 Apr 2017 22:29:36 : LimitlessMc, botchat, Wertfuzzy77#0274, seems pretty good to me
+25 Apr 2017 22:29:42 : LimitlessMc, botchat, Wertfuzzy77#0274, I mean
+25 Apr 2017 22:29:45 : LimitlessMc, botchat, Wertfuzzy77#0274, I could be whatever i want xD
+25 Apr 2017 22:29:54 : LimitlessMc, botchat, Wertfuzzy77#0274, but I'll follow my own rules 😛
+25 Apr 2017 22:29:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+25 Apr 2017 22:29:57 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 22:30:00 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 22:30:17 : LimitlessMc, botchat, TherminatorX#6644, Or you could just be the League Administrator
+25 Apr 2017 22:30:22 : LimitlessMc, botchat, Wertfuzzy77#0274, thats true
+25 Apr 2017 22:30:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+25 Apr 2017 22:30:34 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 22:30:42 : LimitlessMc, botchat, Wertfuzzy77#0274, I want to put little rank symbols next to the level
+25 Apr 2017 22:30:47 : LimitlessMc, botchat, Wertfuzzy77#0274, where that random little symbol is now
+25 Apr 2017 22:30:48 : LimitlessMc, botchat, TherminatorX#6644, Oooo
+25 Apr 2017 22:31:01 : LimitlessMc, botchat, Wertfuzzy77#0274, like different titles, but in symbols
+25 Apr 2017 22:31:03 : LimitlessMc, botchat, TherminatorX#6644, I'm thinking about those trainer cards now
+25 Apr 2017 22:31:27 : LimitlessMc, botchat, Wertfuzzy77#0274, I would get like a fancy purple Game Dev symbol or something
+25 Apr 2017 22:31:37 : LimitlessMc, botchat, Wertfuzzy77#0274, Champ would get a gold seal
+25 Apr 2017 22:31:44 : LimitlessMc, botchat, Wertfuzzy77#0274, Elite 4 would get a silver
+25 Apr 2017 22:31:51 : LimitlessMc, botchat, Wertfuzzy77#0274, top 10 would get a bronze
+25 Apr 2017 22:31:53 : LimitlessMc, botchat, TherminatorX#6644, Just give yourself the Game Freak symbol
+25 Apr 2017 22:32:04 : LimitlessMc, botchat, Wertfuzzy77#0274, and everyone else would get some meaningless symbol
+25 Apr 2017 22:32:15 : LimitlessMc, botchat, Wertfuzzy77#0274, `wood rank`
+25 Apr 2017 22:32:24 : LimitlessMc, botchat, Wertfuzzy77#0274, Gold-Silver-Bronze-Wood lol
+25 Apr 2017 22:32:30 : LimitlessMc, botchat, TherminatorX#6644, "Wood"
+25 Apr 2017 22:32:33 : LimitlessMc, botchat, TherminatorX#6644, 😏
+25 Apr 2017 22:32:50 : LimitlessMc, botchat, Wertfuzzy77#0274, well, like a wooden plaque
+25 Apr 2017 22:32:57 : LimitlessMc, botchat, TherminatorX#6644, No
+25 Apr 2017 22:33:06 : LimitlessMc, botchat, TherminatorX#6644, A yellow star
+25 Apr 2017 22:33:16 : LimitlessMc, botchat, TherminatorX#6644, "You tried"
+25 Apr 2017 22:33:20 : LimitlessMc, botchat, Wertfuzzy77#0274, lol
+25 Apr 2017 22:33:45 : LimitlessMc, botchat, TherminatorX#6644, ;afk driving
+25 Apr 2017 22:33:45 : LimitlessMc, botchat, Botfuzzy77#2209, TherminatorX is now AFK for reason:
+**driving**
+25 Apr 2017 22:38:55 : Shadow's Subnautica, botchat, Lastshadow#5809, ;train
+25 Apr 2017 22:38:55 : Shadow's Subnautica, botchat, Botfuzzy77#2209, 
+25 Apr 2017 22:38:55 : Shadow's Subnautica, botchat, Botfuzzy77#2209, 
+25 Apr 2017 22:38:55 : Shadow's Subnautica, botchat, Botfuzzy77#2209, 
+25 Apr 2017 22:39:34 : Shadow's Subnautica, botchat, Lastshadow#5809, ;level
+25 Apr 2017 22:39:35 : Shadow's Subnautica, botchat, Botfuzzy77#2209, 
+25 Apr 2017 22:39:45 : Shadow's Subnautica, botchat, Lastshadow#5809, ;train
+25 Apr 2017 22:39:45 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Please wait 1,750 seconds before you can train again.
+25 Apr 2017 22:40:13 : LimitlessMc, mainchat, Lastshadow#5809, Sub-species!!!!!!!
+25 Apr 2017 22:40:41 : LimitlessMc, mainchat, JustinOPGamer#9138, @DicloniusPony  i like the mountain one the most
+25 Apr 2017 22:40:47 : LimitlessMc, mainchat, JustinOPGamer#9138, looks like bobcat
+25 Apr 2017 22:41:02 : LimitlessMc, mainchat, Lastshadow#5809, I like arctic and mountain
+25 Apr 2017 22:41:30 : Shadow's Subnautica, botchat, Lastshadow#5809, ;train
+25 Apr 2017 22:41:30 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Please wait 1,645 seconds before you can train again.
+25 Apr 2017 22:41:38 : Pulse, game-chat, JustinOPGamer#9138, ;train
+25 Apr 2017 22:41:38 : Pulse, game-chat, Botfuzzy77#2209, 
+25 Apr 2017 22:41:38 : Pulse, game-chat, Botfuzzy77#2209, 
+25 Apr 2017 22:41:49 : Pulse, game-chat, JustinOPGamer#9138, Le nice add on wert
+25 Apr 2017 22:42:02 : Pulse, game-chat, Wertfuzzy77#0274, 🎉
+25 Apr 2017 22:42:09 : Shadow's Subnautica, botchat, Lastshadow#5809, ;train
+25 Apr 2017 22:42:09 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Please wait 1,606 seconds before you can train again.
+25 Apr 2017 22:42:16 : Pulse, game-chat, JustinOPGamer#9138, ;level
+25 Apr 2017 22:42:17 : Pulse, game-chat, Botfuzzy77#2209, 
+25 Apr 2017 22:42:23 : Pulse, game-chat, JustinOPGamer#9138, umm
+25 Apr 2017 22:42:29 : Pulse, game-chat, JustinOPGamer#9138, y did my level reset
+25 Apr 2017 22:42:32 : Pulse, game-chat, JustinOPGamer#9138, and background
+25 Apr 2017 22:42:37 : Pulse, game-chat, Wertfuzzy77#0274, oh ya..... we had a slight rollback xD
+25 Apr 2017 22:42:39 : Pulse, game-chat, Wertfuzzy77#0274, shhhh
+25 Apr 2017 22:42:56 : Pulse, game-chat, JustinOPGamer#9138, o-o i was level 46 thats a big rollback
+25 Apr 2017 22:43:04 : Pulse, game-chat, Wertfuzzy77#0274, you are the only one who noticed xD
+25 Apr 2017 22:43:17 : Pulse, game-chat, JustinOPGamer#9138, now that u wanna fix for me ?
+25 Apr 2017 22:43:26 : Pulse, game-chat, Wertfuzzy77#0274, hmmmmmmmmmmmmmmm
+25 Apr 2017 22:43:34 : Pulse, game-chat, JustinOPGamer#9138, this time its not my fault xD
+25 Apr 2017 22:43:42 : Pulse, game-chat, Wertfuzzy77#0274, is true xD but everyone rolledback
+25 Apr 2017 22:43:49 : LimitlessMc, mainchat, DicloniusPony#6564, i like them all, because it would be so amazing to have different typings for different areas like Alolan forms
+25 Apr 2017 22:43:59 : Pulse, game-chat, JustinOPGamer#9138, yea but no one else is on enough to notice le
+25 Apr 2017 22:44:08 : Pulse, game-chat, Wertfuzzy77#0274, ;recent
+25 Apr 2017 22:44:08 : Pulse, game-chat, Botfuzzy77#2209, **JustinOPGamer**: *1* minutes ago
+**Lastshadow**: *4* minutes ago
+**Wertfuzzy77**: *13* minutes ago
+**TherminatorX**: *43* minutes ago
+**theOnlyJuan**: *44* minutes ago
+**That-Guy-Gilly**: *49* minutes ago
+**Third_Worm**: *53* minutes ago
+**darth kota**: *83* minutes ago
+**jjtwilefc**: *84* minutes ago
+**KidKraft**: *100* minutes ago
+**Bakafish**: *104* minutes ago
+There have been *15* players active in the last 24 hours
+25 Apr 2017 22:44:09 : Pulse, game-chat, JustinOPGamer#9138, plus i prob lost most amount of levels xD
+25 Apr 2017 22:44:20 : Pulse, game-chat, Wertfuzzy77#0274, I mean, lots of people have played
+25 Apr 2017 22:44:23 : Pulse, game-chat, JustinOPGamer#9138, i lost 6
+25 Apr 2017 22:44:30 : Pulse, game-chat, Wertfuzzy77#0274, you are just the first to point it out 😛
+25 Apr 2017 22:44:42 : Pulse, game-chat, Wertfuzzy77#0274, sux, no easy way to give XP
+25 Apr 2017 22:44:46 : Pulse, game-chat, JustinOPGamer#9138, Ye bc others prob didnt even notice they lost XP
+25 Apr 2017 22:44:52 : Pulse, game-chat, JustinOPGamer#9138, and wert u know there is
+25 Apr 2017 22:44:55 : Pulse, game-chat, JustinOPGamer#9138, .;train
+25 Apr 2017 22:45:07 : Pulse, game-chat, JustinOPGamer#9138, *cough* reset bot alot
+25 Apr 2017 22:45:08 : Pulse, game-chat, Wertfuzzy77#0274, I'm not gonna restart the bot over and over again for you xD
+25 Apr 2017 22:45:11 : Pulse, game-chat, JustinOPGamer#9138, le
+25 Apr 2017 22:45:12 : Pulse, game-chat, Wertfuzzy77#0274, thats dumb
+25 Apr 2017 22:45:14 : Pulse, game-chat, JustinOPGamer#9138, ik
+25 Apr 2017 22:45:26 : Pulse, game-chat, JustinOPGamer#9138, well u doing something rn ?
+25 Apr 2017 22:45:28 : Pulse, game-chat, Wertfuzzy77#0274, I might be ableeeeeeee
+25 Apr 2017 22:45:38 : Pulse, game-chat, Wertfuzzy77#0274, to force run the cmds to give XP
+25 Apr 2017 22:45:43 : Pulse, game-chat, JustinOPGamer#9138, ooo
+25 Apr 2017 22:45:45 : Pulse, game-chat, JustinOPGamer#9138, fancy
+25 Apr 2017 22:45:55 : Pulse, game-chat, JustinOPGamer#9138, How does that work ?
+25 Apr 2017 22:46:03 : LimitlessMc, mainchat, DicloniusPony#6564, https://images.discordapp.net/.eJwNyEEOhCAMAMC_8AAgYEvjbwgSNKstgZo9bPz7Osf5mXucZjW7ap-rc9sxi4zNTpWRW7VNpJ0192PaIpfLqrnsV2WdLnrwFFMiJAgeIdBbCBCXBcMLMSZyN39Yvmw7N_P8AQfEIuE.4LcvbWGm9HAA9LFukTmST2SmtEM?width=796&height=416
+25 Apr 2017 22:46:06 : LimitlessMc, mainchat, DicloniusPony#6564, im such a failure at art XD
+25 Apr 2017 22:46:24 : Pulse, game-chat, JustinOPGamer#9138, Or u can make wait time 1 second for me for like a min if u want
+25 Apr 2017 22:46:27 : Pulse, game-chat, JustinOPGamer#9138, then reset
+25 Apr 2017 22:46:41 : Pulse, game-chat, JustinOPGamer#9138, so i have the xp and then poof all is normal
+25 Apr 2017 22:47:35 : Pulse, game-chat, JustinOPGamer#9138, also can u help me with the background again i liked the one u did yesturday with me
+25 Apr 2017 22:47:41 : Pulse, game-chat, Wertfuzzy77#0274, ;gamesdebug self.giveXP(ctx.message.server.get_member("170363815844773889"), 160000, ctx.message.channel)
+25 Apr 2017 22:47:41 : Pulse, game-chat, Botfuzzy77#2209, 
+25 Apr 2017 22:47:41 : Pulse, game-chat, Botfuzzy77#2209, 
+25 Apr 2017 22:47:41 : Pulse, game-chat, Botfuzzy77#2209, ```py
+None
+```
+25 Apr 2017 22:47:45 : Pulse, game-chat, Wertfuzzy77#0274, we did a thing
+25 Apr 2017 22:47:50 : Pulse, game-chat, JustinOPGamer#9138, Noice
+25 Apr 2017 22:47:55 : Pulse, game-chat, JustinOPGamer#9138, still only 2 levels le
+25 Apr 2017 22:48:20 : Pulse, game-chat, JustinOPGamer#9138, Oh wait dont do it
+25 Apr 2017 22:48:24 : Pulse, game-chat, JustinOPGamer#9138, i looked up in chat
+25 Apr 2017 22:48:28 : Pulse, game-chat, JustinOPGamer#9138, i was level 42
+25 Apr 2017 22:48:34 : Pulse, game-chat, Wertfuzzy77#0274, ya, I gave you extra 😛 you were 41
+25 Apr 2017 22:48:40 : Pulse, game-chat, Wertfuzzy77#0274, ;lookup JustinOPGamer
+25 Apr 2017 22:48:40 : Pulse, game-chat, Botfuzzy77#2209, 
+25 Apr 2017 22:48:50 : Pulse, game-chat, JustinOPGamer#9138, yea thats what i was trying to say rn xD
+25 Apr 2017 22:49:02 : Pulse, game-chat, Wertfuzzy77#0274, ;gamesdebug self.takeXP(ctx.message.server.get_member("170363815844773889"), 27416, ctx.message.channel)
+25 Apr 2017 22:49:02 : Pulse, game-chat, Botfuzzy77#2209, 
+25 Apr 2017 22:49:02 : Pulse, game-chat, Botfuzzy77#2209, ```py
+None
+```
+25 Apr 2017 22:49:03 : Pulse, game-chat, JustinOPGamer#9138, i may have confused myself with sam
+25 Apr 2017 22:49:06 : Pulse, game-chat, JustinOPGamer#9138, le
+25 Apr 2017 22:49:14 : Pulse, game-chat, JustinOPGamer#9138, ;train
+25 Apr 2017 22:49:14 : Pulse, game-chat, Botfuzzy77#2209, Please wait 1,344 seconds before you can train again.
+25 Apr 2017 22:49:18 : Pulse, game-chat, Wertfuzzy77#0274, there, close enough xD
+25 Apr 2017 22:49:20 : Pulse, game-chat, JustinOPGamer#9138, Ye
+25 Apr 2017 22:49:30 : Pulse, game-chat, JustinOPGamer#9138, also can u help with background again?
+25 Apr 2017 22:49:38 : Pulse, game-chat, JustinOPGamer#9138, and thank you wert ur a god guy 😄
+25 Apr 2017 22:51:09 : Pulse, game-chat, JustinOPGamer#9138, @Wertfuzzy77  also make sure i dont have perm to do those cmds for giving xp just as a check since remember i was able to mute people
+25 Apr 2017 22:51:21 : Pulse, game-chat, Wertfuzzy77#0274, I mean, you don't have ;debug perms
+25 Apr 2017 22:51:26 : Pulse, game-chat, Wertfuzzy77#0274, thats hard coded to be me
+25 Apr 2017 22:51:37 : Pulse, game-chat, JustinOPGamer#9138, ;mute Wertfuzzy77
+25 Apr 2017 22:51:41 : Pulse, game-chat, JustinOPGamer#9138, ok cool le
+25 Apr 2017 22:51:50 : Pulse, game-chat, JustinOPGamer#9138, i just wanted to make sure
+25 Apr 2017 22:51:54 : Pulse, game-chat, JustinOPGamer#9138, since it rolled back
+25 Apr 2017 22:52:06 : Pulse, game-chat, JustinOPGamer#9138, @Wertfuzzy77  what caused it to rolback
+25 Apr 2017 22:52:09 : Pulse, game-chat, Wertfuzzy77#0274, me
+25 Apr 2017 22:52:13 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, @Lewdie apparently there is gonna be a lot of ruby and sapphire in season 5 of SU
+25 Apr 2017 22:52:16 : Pulse, game-chat, JustinOPGamer#9138, Y u do it ?
+25 Apr 2017 22:52:18 : Pulse, game-chat, Wertfuzzy77#0274, I broke things xD
+25 Apr 2017 22:52:23 : Pulse, game-chat, JustinOPGamer#9138, corrupt code?
+25 Apr 2017 22:52:26 : Pulse, game-chat, Wertfuzzy77#0274, sorta
+25 Apr 2017 22:52:40 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, garnet gets poofed again
+25 Apr 2017 22:52:40 : RooberBoobers, kinkyrubiestalk, navy#8336, **oh yes blease im Gay i**
+25 Apr 2017 22:52:42 : Pulse, game-chat, JustinOPGamer#9138, or did u mess up a line of code and not know where lol
+25 Apr 2017 22:52:48 : Pulse, game-chat, Wertfuzzy77#0274, I rearranged parts of my code, and parts of it were mis versioned
+25 Apr 2017 22:52:49 : Pulse, game-chat, Wertfuzzy77#0274, nah
+25 Apr 2017 22:52:49 : RooberBoobers, kinkyrubiestalk, navy#8336, no i c e
+25 Apr 2017 22:52:54 : Pulse, game-chat, JustinOPGamer#9138, Gotcha
+25 Apr 2017 22:52:57 : Pulse, game-chat, Wertfuzzy77#0274, so it had to roll the whole system back
+25 Apr 2017 22:53:15 : Pulse, game-chat, Wertfuzzy77#0274, or rather, the Players.json file which stores all the player data, was set to an older version
+25 Apr 2017 22:53:37 : Pulse, game-chat, Wertfuzzy77#0274, you want the same bg?
+25 Apr 2017 22:53:43 : Pulse, game-chat, Wertfuzzy77#0274, or diff?
+25 Apr 2017 22:53:59 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, ARE YOU FUCKING KIDDING ME
+25 Apr 2017 22:53:59 : Pulse, game-chat, JustinOPGamer#9138, ye same
+25 Apr 2017 22:54:00 : Pulse, game-chat, Wertfuzzy77#0274, try this one http://www.guoguiyan.com/data/out/79/70108471-free-lizard-wallpapers.jpeg
+25 Apr 2017 22:54:02 : Pulse, game-chat, JustinOPGamer#9138, i liked it
+25 Apr 2017 22:54:05 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, WE'VE SEEN THESE GEMS BEFORE
+25 Apr 2017 22:54:07 : Pulse, game-chat, Third_Worm#4804, How did you confuse yourself with me?
+25 Apr 2017 22:54:10 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, the topaz
+25 Apr 2017 22:54:12 : RooberBoobers, kinkyrubiestalk, navy#8336, hwat
+25 Apr 2017 22:54:13 : Pulse, game-chat, JustinOPGamer#9138, @Wertfuzzy77  dat gross one xD
+25 Apr 2017 22:54:13 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+25 Apr 2017 22:54:22 : Pulse, game-chat, JustinOPGamer#9138, @TthiRD_W&Orm  no just the level
+25 Apr 2017 22:54:27 : Pulse, game-chat, Third_Worm#4804, ah
+25 Apr 2017 22:54:33 : Pulse, game-chat, Third_Worm#4804, let me find you a bg
+25 Apr 2017 22:54:35 : Pulse, game-chat, Wertfuzzy77#0274, 
+25 Apr 2017 22:54:39 : Pulse, game-chat, Wertfuzzy77#0274, https://cdn.discordapp.com/attachments/277851617594703872/306563672111710208/70273832-reptile-wallpapers.png
+25 Apr 2017 22:54:41 : Pulse, game-chat, Wertfuzzy77#0274, try that
+25 Apr 2017 22:54:44 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, its a fucking topaz, boi Sugar is fucking smart af
+25 Apr 2017 22:54:44 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, 
+25 Apr 2017 22:54:50 : Pulse, game-chat, JustinOPGamer#9138, ;bg https://cdn.discordapp.com/attachments/277851617594703872/306563672111710208/70273832-reptile-wallpapers.png
+25 Apr 2017 22:54:50 : Pulse, game-chat, Botfuzzy77#2209, Changed Background sucessfully
+25 Apr 2017 22:54:54 : Pulse, game-chat, JustinOPGamer#9138, ;level
+25 Apr 2017 22:54:57 : Pulse, game-chat, Botfuzzy77#2209, 
+25 Apr 2017 22:55:00 : Pulse, game-chat, Wertfuzzy77#0274, ew
+25 Apr 2017 22:55:07 : Pulse, game-chat, JustinOPGamer#9138, halp xD
+25 Apr 2017 22:55:27 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+25 Apr 2017 22:55:29 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, smh, SU is too smart for us to even watch anymore
+25 Apr 2017 22:55:30 : RooberBoobers, kinkyrubiestalk, navy#8336, there are also aquamarines on the size scale thing
+25 Apr 2017 22:55:53 : Pulse, game-chat, JustinOPGamer#9138, ;color palette
+25 Apr 2017 22:55:53 : Pulse, game-chat, Botfuzzy77#2209, text_color : [174, 129, 76]
+box_color : [220, 184, 170]
+title_color : [57, 52, 96]
+bar_color : [35, 35, 43]
+25 Apr 2017 22:56:01 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, there was?
+25 Apr 2017 22:56:11 : RooberBoobers, kinkyrubiestalk, navy#8336, yeah
+25 Apr 2017 22:56:14 : RooberBoobers, kinkyrubiestalk, navy#8336, the
+25 Apr 2017 22:56:15 : RooberBoobers, kinkyrubiestalk, navy#8336, really really tiny gems
+25 Apr 2017 22:56:17 : Pulse, game-chat, Third_Worm#4804, 
+25 Apr 2017 22:56:20 : RooberBoobers, kinkyrubiestalk, navy#8336, smoler than rubes
+25 Apr 2017 22:56:21 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, o fek
+25 Apr 2017 22:56:24 : Pulse, game-chat, Wertfuzzy77#0274, http://shximai.com/data/out/163/66897055-reptile-wallpapers.jpg
+25 Apr 2017 22:56:26 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, OH SHIT THERE WAS
+25 Apr 2017 22:56:32 : Pulse, game-chat, Wertfuzzy77#0274, nvm
+25 Apr 2017 22:56:32 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, good fucking lord
+25 Apr 2017 22:56:35 : Pulse, game-chat, Wertfuzzy77#0274, not that one
+25 Apr 2017 22:56:44 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, its offical, we're too stupid for SU anymore
+25 Apr 2017 22:56:50 : Pulse, game-chat, Third_Worm#4804, that took forever to upload and no one notices it le
+25 Apr 2017 22:56:52 : RooberBoobers, kinkyrubiestalk, navy#8336, lmao
+25 Apr 2017 22:57:08 : Pulse, game-chat, JustinOPGamer#9138, @TthiRD_W&Orm  it says words tho
+25 Apr 2017 22:57:14 : Pulse, game-chat, Wertfuzzy77#0274, 
+25 Apr 2017 22:57:17 : Pulse, game-chat, Third_Worm#4804, i can crop it out tho
+25 Apr 2017 22:57:22 : Pulse, game-chat, Wertfuzzy77#0274, https://cdn.discordapp.com/attachments/277851617594703872/306564341862367232/66897055-reptile-wallpapers.jpg
+25 Apr 2017 22:57:23 : Pulse, game-chat, Wertfuzzy77#0274, there
+25 Apr 2017 22:57:25 : Pulse, game-chat, Wertfuzzy77#0274, that willwork
+25 Apr 2017 22:57:26 : LimitlessMc, mainchat, Lastshadow#5809, No you're not
+25 Apr 2017 22:57:30 : Pulse, game-chat, JustinOPGamer#9138, ;bg https://cdn.discordapp.com/attachments/277851617594703872/306564341862367232/66897055-reptile-wallpapers.jpg
+25 Apr 2017 22:57:30 : Pulse, game-chat, Botfuzzy77#2209, Changed Background sucessfully
+25 Apr 2017 22:57:32 : Pulse, game-chat, JustinOPGamer#9138, ;level
+25 Apr 2017 22:57:34 : Pulse, game-chat, Botfuzzy77#2209, 
+25 Apr 2017 22:57:39 : Pulse, game-chat, Wertfuzzy77#0274, .;color reset
+25 Apr 2017 22:57:41 : Shadow's Subnautica, botchat, Lastshadow#5809, ;train
+25 Apr 2017 22:57:41 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Please wait 674 seconds before you can train again.
+25 Apr 2017 22:57:45 : Pulse, game-chat, JustinOPGamer#9138, ;color reset
+25 Apr 2017 22:57:45 : Pulse, game-chat, Botfuzzy77#2209, Custom colors reset!
+25 Apr 2017 22:57:59 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, they even took a photo of themselves with the voice actors of ruby and sapphire o boi
+25 Apr 2017 22:58:00 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, https://www.youtube.com/watch?v=aUpSJDewyKw
+25 Apr 2017 22:58:02 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, here ye go
+25 Apr 2017 22:58:12 : RooberBoobers, kinkyrubiestalk, navy#8336, 
+25 Apr 2017 22:58:13 : RooberBoobers, kinkyrubiestalk, navy#8336, i cant believe ruby is dead
+25 Apr 2017 22:58:24 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, wtf XD
+25 Apr 2017 22:58:30 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, rip ruby, it always seems to be rubys ge
+25 Apr 2017 22:58:32 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, gem*
+25 Apr 2017 22:58:38 : Pulse, game-chat, JustinOPGamer#9138, ;level
+25 Apr 2017 22:58:40 : Pulse, game-chat, Botfuzzy77#2209, 
+25 Apr 2017 22:58:51 : Pulse, game-chat, JustinOPGamer#9138, Looks cool
+25 Apr 2017 22:58:55 : Pulse, game-chat, JustinOPGamer#9138, thanks werty
+25 Apr 2017 23:01:31 : RooberBoobers, kinkyrubiestalk, navy#8336, oh my god
+25 Apr 2017 23:01:33 : RooberBoobers, kinkyrubiestalk, navy#8336, what if
+25 Apr 2017 23:01:41 : RooberBoobers, kinkyrubiestalk, navy#8336, blue diamond shattered rube
+25 Apr 2017 23:04:29 : OblivionEvolved, bots, Wtsoner#4231, ;ark
+25 Apr 2017 23:04:30 : OblivionEvolved, bots, Botfuzzy77#2209, 
+25 Apr 2017 23:04:30 : OblivionEvolved, bots, Botfuzzy77#2209, **Online Members**:
+Wtsoner, Sunstrikeh, kRispy
+25 Apr 2017 23:11:57 : OblivionEvolved, general, Wtsoner#4231, Since when did Steam think durring the day is the best time to go offline ffs...
+25 Apr 2017 23:22:06 : RooberBoobers, kinkyrubiestalk, Collin#5120, h e y g u y s
+25 Apr 2017 23:23:01 : RooberBoobers, kinkyrubiestalk, navy#8336, hi dad
+25 Apr 2017 23:25:20 : RooberBoobers, kinkyrubiestalk, navy#8336, https://youtu.be/tnHvt3WD9CY?t=11m5s
+25 Apr 2017 23:25:32 : RooberBoobers, kinkyrubiestalk, navy#8336, boobies
+25 Apr 2017 23:26:19 : LimitlessMc, botchat, Wertfuzzy77#0274, LOL
+25 Apr 2017 23:26:23 : LimitlessMc, botchat, Wertfuzzy77#0274, 
+25 Apr 2017 23:26:35 : LimitlessMc, botchat, Wertfuzzy77#0274, I'll give you guys 1 Guess as to when Talha started playing my Game
+25 Apr 2017 23:30:32 : LimitlessMc, botchat, TherminatorX#6644, March 28th\
+25 Apr 2017 23:30:37 : LimitlessMc, botchat, TherminatorX#6644, ;afk
+25 Apr 2017 23:30:37 : LimitlessMc, botchat, Botfuzzy77#2209, TherminatorX is no Longer AFK
+25 Apr 2017 23:39:13 : LimitlessMc, botchat, (Not Really)Head Mod AlphaBit#3869, @Wertfuzzy77 do ;srbr uses
+25 Apr 2017 23:39:24 : LimitlessMc, botchat, (Not Really)Head Mod AlphaBit#3869, ;srbr
+25 Apr 2017 23:39:24 : LimitlessMc, botchat, Botfuzzy77#2209, Dont Be Lazy, Type ;server
+25 Apr 2017 23:40:14 : LimitlessMc, mainchat, DicloniusPony#6564, ye i am
+25 Apr 2017 23:49:19 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, i feel like a fucking failure rn
+25 Apr 2017 23:49:44 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, i laughed so fucking hard i peed myself and i shot milk through my nose. wHY
+25 Apr 2017 23:49:47 : RooberBoobers, kinkyrubiestalk, navy#8336, wh y
+25 Apr 2017 23:49:51 : RooberBoobers, kinkyrubiestalk, navy#8336, oh gosh lmao rip
+25 Apr 2017 23:50:02 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, THESE PANTIES WERE EXPENSIVE DAMNIT XD
+25 Apr 2017 23:50:40 : RooberBoobers, kinkyrubiestalk, navy#8336, i dont buy expensive panties
+25 Apr 2017 23:50:40 : RooberBoobers, kinkyrubiestalk, navy#8336, bc
+25 Apr 2017 23:50:51 : RooberBoobers, kinkyrubiestalk, navy#8336, who,s gonna see these period stains anyway
+25 Apr 2017 23:51:05 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, i bought a new pair to show off ;;;
+25 Apr 2017 23:51:21 : RooberBoobers, kinkyrubiestalk, navy#8336, to who
+25 Apr 2017 23:51:21 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, bOi you wash out the period stains tf XD
+25 Apr 2017 23:51:47 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, like, if you get any period stain use a good bleach detergent
+25 Apr 2017 23:51:57 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, lewdie dO you really have to ask whO XD
+25 Apr 2017 23:52:00 : RooberBoobers, kinkyrubiestalk, navy#8336, **t o wh o**
+25 Apr 2017 23:52:08 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, wHO is my Wife
+25 Apr 2017 23:52:11 : RooberBoobers, kinkyrubiestalk, navy#8336, who,s gonna see that
+25 Apr 2017 23:52:13 : RooberBoobers, kinkyrubiestalk, navy#8336, o h
+25 Apr 2017 23:52:20 : RooberBoobers, kinkyrubiestalk, navy#8336, wh y is she in cali
+25 Apr 2017 23:52:27 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, no XD
+25 Apr 2017 23:52:41 : RooberBoobers, kinkyrubiestalk, navy#8336, what
+25 Apr 2017 23:53:00 : RooberBoobers, kinkyrubiestalk, navy#8336, are you sending child pornography over the interweb
+25 Apr 2017 23:53:06 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, wtf no
+25 Apr 2017 23:53:16 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, anyway, wash yo fucking period stains out child
+25 Apr 2017 23:53:26 : RooberBoobers, kinkyrubiestalk, navy#8336, i d o
+25 Apr 2017 23:53:28 : RooberBoobers, kinkyrubiestalk, navy#8336, lmao
+25 Apr 2017 23:53:36 : RooberBoobers, kinkyrubiestalk, navy#8336, how is your gf seeing the panties
+25 Apr 2017 23:53:37 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, **d o  y o u  r e a l l y ?**
+25 Apr 2017 23:53:43 : RooberBoobers, kinkyrubiestalk, navy#8336, **y e s **
+25 Apr 2017 23:53:49 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, good
+25 Apr 2017 23:53:51 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, XD
+25 Apr 2017 23:54:05 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, art improvement
+25 Apr 2017 23:54:25 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+25 Apr 2017 23:55:20 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, smh i havent even been working on Ikaros Magica
+25 Apr 2017 23:57:23 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, made in january
+25 Apr 2017 23:57:32 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, made today
+25 Apr 2017 23:58:40 : Pulse, game-chat, JustinOPGamer#9138, ;train
+25 Apr 2017 23:58:40 : Pulse, game-chat, Botfuzzy77#2209, 
+25 Apr 2017 23:58:40 : Pulse, game-chat, Botfuzzy77#2209, 
+25 Apr 2017 23:58:59 : RooberBoobers, kinkyrubiestalk, navy#8336, improved
+25 Apr 2017 23:59:07 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, ikr 0-0;;;
+25 Apr 2017 23:59:16 : RooberBoobers, kinkyrubiestalk, navy#8336, yay
+26 Apr 2017 00:09:33 : LimitlessMc, botchat, Crystal4209#4698, ;train
+26 Apr 2017 00:09:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 00:09:37 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 00:10:02 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, 
+26 Apr 2017 00:10:39 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, this improvement o boi
+26 Apr 2017 00:11:54 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, internet please
+26 Apr 2017 00:13:09 : RooberBoobers, kinkyrubiestalk, navy#8336, h o t
+26 Apr 2017 00:13:16 : LimitlessMc, botchat, theOnlyJuan#9357, ;cd
+26 Apr 2017 00:13:16 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You can Train right now!
+**Gamble**
+You can Gamble right now!
+26 Apr 2017 00:13:19 : LimitlessMc, botchat, theOnlyJuan#9357, ;train
+26 Apr 2017 00:13:21 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 00:13:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 00:13:27 : LimitlessMc, botchat, theOnlyJuan#9357, ;pbs
+26 Apr 2017 00:13:27 : LimitlessMc, botchat, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> hard to fight and reveal the boss.
+26 Apr 2017 00:13:33 : LimitlessMc, botchat, theOnlyJuan#9357, ;pbt iiiiiiiiii
+26 Apr 2017 00:13:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 00:13:37 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 00:14:22 : Shadow's Subnautica, botchat, Lastshadow#5809, ;train
+26 Apr 2017 00:14:22 : Shadow's Subnautica, botchat, Botfuzzy77#2209, 
+26 Apr 2017 00:14:22 : Shadow's Subnautica, botchat, Botfuzzy77#2209, 
+26 Apr 2017 00:14:45 : Shadow's Subnautica, botchat, Lastshadow#5809, ;level
+26 Apr 2017 00:14:47 : Shadow's Subnautica, botchat, Botfuzzy77#2209, 
+26 Apr 2017 00:14:58 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, 
+26 Apr 2017 00:15:00 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, i have too many horses irl
+26 Apr 2017 00:15:05 : RooberBoobers, kinkyrubiestalk, navy#8336, im gay irl
+26 Apr 2017 00:15:16 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, fucking same
+26 Apr 2017 00:24:47 : Shadow's Subnautica, botchat, Lastshadow#5809, ;train
+26 Apr 2017 00:24:48 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Please wait 1,175 seconds before you can train again.
+26 Apr 2017 00:28:20 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=GGJiWiT28RU
+26 Apr 2017 00:28:25 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;loop
+26 Apr 2017 00:28:26 : LimitlessMc, voice-junk, Botfuzzy77#2209, Added '*1 Hour of Epic Halo Music*' **1** more times
+26 Apr 2017 00:28:28 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;cycle
+26 Apr 2017 00:28:28 : LimitlessMc, voice-junk, Botfuzzy77#2209, Cycle Mode: False
+26 Apr 2017 00:28:30 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;cycle
+26 Apr 2017 00:28:31 : LimitlessMc, voice-junk, Botfuzzy77#2209, Cycle Mode: True
+26 Apr 2017 00:28:32 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;songs
+26 Apr 2017 00:28:34 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+26 Apr 2017 00:28:38 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;remove 2
+26 Apr 2017 00:28:38 : LimitlessMc, voice-junk, Botfuzzy77#2209, Removed 0 that 2 requested
+26 Apr 2017 00:28:44 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;remove Wertfuzzy77
+26 Apr 2017 00:28:44 : LimitlessMc, voice-junk, Botfuzzy77#2209, Removed 4 that Wertfuzzy77 requested
+26 Apr 2017 00:28:48 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;loop
+26 Apr 2017 00:28:49 : LimitlessMc, voice-junk, Botfuzzy77#2209, Added '*1 Hour of Epic Halo Music*' **1** more times
+26 Apr 2017 00:29:20 : LimitlessMc, mainchat, Bakafish#8693, is pretty nice
+26 Apr 2017 00:29:26 : LimitlessMc, botchat, Bakafish#8693, ;train
+26 Apr 2017 00:29:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 00:29:30 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 00:35:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+26 Apr 2017 00:35:05 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 00:35:07 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 00:35:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;server
+26 Apr 2017 00:35:11 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+26 Apr 2017 00:35:11 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 10 players out of 150
+ *Ping*: 115.856 ms
+ *MC Version*: 1.10.2
+26 Apr 2017 00:35:11 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.3
+26 Apr 2017 00:35:11 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *razar_sly12, CakeyCandy, MalMemelord, JustinOPGamer, Striker43731, Yellow_fr3ak, EnderGirl126, FearlessFalconX, MattRuc, HalloweenGodess...*
+26 Apr 2017 00:36:40 : Shadow's Subnautica, botchat, Lastshadow#5809, ;train
+26 Apr 2017 00:36:40 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Please wait 463 seconds before you can train again.
+26 Apr 2017 00:39:08 : Shadow's Subnautica, botchat, Lastshadow#5809, ;train
+26 Apr 2017 00:39:08 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Please wait 314 seconds before you can train again.
+26 Apr 2017 00:39:43 : Shadow's Subnautica, botchat, Lastshadow#5809, ;train
+26 Apr 2017 00:39:44 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Please wait 279 seconds before you can train again.
+26 Apr 2017 00:40:31 : LimitlessMc, mainchat, Lastshadow#5809, @MattRuc walking my dogs
+26 Apr 2017 00:40:37 : LimitlessMc, mainchat, Lastshadow#5809, I'll be on soon
+26 Apr 2017 00:42:07 : LimitlessMc, mainchat, DicloniusPony#6564, https://images.discordapp.net/.eJwNyFEOgyAMANC7cABopAXmbQgSNColtGYfy-6-vc_3Mc-8zGp21SGrc9shhedmRXnmVm1jblfN4xBb-HZZNZf9rl3FeUAghOQjRiBPEf4VKCWkENMS6EUJ3dPPzu9uR2_m-wMHGCLo.BP1xjbDmIad6fKHeOtO0Jji3GUM
+26 Apr 2017 00:42:25 : LimitlessMc, mainchat, DicloniusPony#6564, dead inside^
+26 Apr 2017 00:47:26 : LimitlessMc, botchat, TherminatorX#6644, ;train
+26 Apr 2017 00:47:28 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 00:47:30 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 00:47:54 : LimitlessMc, botchat, TherminatorX#6644, ;pbs
+26 Apr 2017 00:47:56 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 00:48:00 : LimitlessMc, botchat, TherminatorX#6644, ;pbt bbbbbbbbbb
+26 Apr 2017 00:48:02 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 00:48:04 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 00:48:08 : LimitlessMc, botchat, TherminatorX#6644, ;settype bug
+26 Apr 2017 00:48:08 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Bug type
+26 Apr 2017 00:58:34 : LimitlessMc, botchat, TherminatorX#6644, ;pbt dddddbddbd
+26 Apr 2017 00:58:37 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 00:58:39 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 00:59:21 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, https://www.youtube.com/watch?v=t9Le57GzYA8
+26 Apr 2017 00:59:22 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, OMG
+26 Apr 2017 00:59:26 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, AFTER 2 YEARS
+26 Apr 2017 00:59:30 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, I FOUND THIS FUCKING SONG AGAIN
+26 Apr 2017 00:59:32 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, YAA'S
+26 Apr 2017 01:10:46 : LimitlessMc, botchat, Crystal4209#4698, ;image pupper
+26 Apr 2017 01:11:10 : LimitlessMc, botchat, Crystal4209#4698, @Wertfuzzy77 gimme puppers!
+26 Apr 2017 01:12:43 : LimitlessMc, botchat, Wertfuzzy77#0274, you guys used image too much lol, there is a data cap on it
+26 Apr 2017 01:12:52 : LimitlessMc, botchat, Wertfuzzy77#0274, also, I crashed
+26 Apr 2017 01:12:59 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;leave
+26 Apr 2017 01:13:18 : LimitlessMc, botchat, Crystal4209#4698, xD
+26 Apr 2017 01:14:01 : Shadow's Subnautica, botchat, Lastshadow#5809, ;train
+26 Apr 2017 01:14:01 : Shadow's Subnautica, botchat, Botfuzzy77#2209, 
+26 Apr 2017 01:14:01 : Shadow's Subnautica, botchat, Botfuzzy77#2209, 
+26 Apr 2017 01:14:01 : Shadow's Subnautica, botchat, Botfuzzy77#2209, 
+26 Apr 2017 01:14:10 : Shadow's Subnautica, botchat, Lastshadow#5809, ;level
+26 Apr 2017 01:14:11 : Shadow's Subnautica, botchat, Botfuzzy77#2209, 
+26 Apr 2017 01:14:54 : LimitlessMc, botchat, TherminatorX#6644, there's a cap?
+26 Apr 2017 01:15:04 : LimitlessMc, botchat, TherminatorX#6644, lol
+26 Apr 2017 01:15:06 : LimitlessMc, botchat, TherminatorX#6644, ;train
+26 Apr 2017 01:15:06 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 144 seconds before you can train again.
+26 Apr 2017 01:16:06 : LimitlessMc, botchat, Crystal4209#4698, ;cd
+26 Apr 2017 01:16:06 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You can Train right now!
+**Gamble**
+You can Gamble right now!
+26 Apr 2017 01:16:09 : LimitlessMc, botchat, Crystal4209#4698, ;train
+26 Apr 2017 01:16:12 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 01:16:13 : LimitlessMc, botchat, Crystal4209#4698, ;pbs
+26 Apr 2017 01:16:13 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 01:16:16 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 01:16:27 : LimitlessMc, botchat, Crystal4209#4698, ;pbt iiiiibiibi
+26 Apr 2017 01:16:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 01:16:31 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 01:18:07 : LimitlessMc, botchat, Crystal4209#4698, ;cd
+26 Apr 2017 01:18:07 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You need to wait 1,686 seconds
+**Gamble**
+You can Gamble right now!
+26 Apr 2017 01:18:20 : LimitlessMc, botchat, Crystal4209#4698, ;pbt pppppbppbp
+26 Apr 2017 01:18:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 01:18:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 01:22:13 : LimitlessMc, voice-junk, Lastshadow#5809, Hey
+26 Apr 2017 01:22:20 : LimitlessMc, voice-junk, Lastshadow#5809, My photoshop skills improved
+26 Apr 2017 01:22:23 : LimitlessMc, voice-junk, Lastshadow#5809, a little bit
+26 Apr 2017 01:23:05 : LimitlessMc, voice-junk, Lastshadow#5809, 😄
+26 Apr 2017 01:23:12 : LimitlessMc, voice-junk, Lastshadow#5809, So here are the images I used
+26 Apr 2017 01:23:26 : LimitlessMc, voice-junk, Lastshadow#5809, https://cdn.discordapp.com/attachments/175409835557257216/306601017632358400/Paper.jpg
+26 Apr 2017 01:23:41 : LimitlessMc, voice-junk, Lastshadow#5809, https://cdn.discordapp.com/attachments/175409835557257216/306600999269695488/Ink_Splatter.jpg
+26 Apr 2017 01:23:58 : LimitlessMc, voice-junk, Lastshadow#5809, https://cdn.discordapp.com/attachments/175409835557257216/306600987194425354/Dust.jpg
+26 Apr 2017 01:24:12 : LimitlessMc, voice-junk, Lastshadow#5809, https://cdn.discordapp.com/attachments/175409835557257216/306601028097409024/Bendy.png
+26 Apr 2017 01:24:19 : LimitlessMc, voice-junk, Lastshadow#5809, This is what I did
+26 Apr 2017 01:24:36 : LimitlessMc, voice-junk, Lastshadow#5809, https://cdn.discordapp.com/attachments/175409835557257216/306601028097409024/Bendy.png
+26 Apr 2017 01:24:40 : LimitlessMc, voice-junk, Lastshadow#5809, ;-;
+26 Apr 2017 01:24:45 : LimitlessMc, voice-junk, Lastshadow#5809, it didn't add the textures
+26 Apr 2017 01:24:49 : LimitlessMc, voice-junk, Lastshadow#5809, Fu
+26 Apr 2017 01:24:50 : LimitlessMc, voice-junk, darth kota#9446, ;server
+26 Apr 2017 01:24:50 : LimitlessMc, voice-junk, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+26 Apr 2017 01:24:50 : LimitlessMc, voice-junk, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 7 players out of 150
+ *Ping*: 111.88 ms
+ *MC Version*: 1.10.2
+26 Apr 2017 01:24:50 : LimitlessMc, voice-junk, Botfuzzy77#2209, **Pixelmon Version**: 5.0.3
+26 Apr 2017 01:24:51 : LimitlessMc, voice-junk, Botfuzzy77#2209, **Players Online**:
+ *Yellow_fr3ak, Striker43731, razar_sly12, JustinOPGamer, Fiodor, crystal4209, MattRuc...*
+26 Apr 2017 01:24:54 : LimitlessMc, voice-junk, Lastshadow#5809, TIme for deviantart
+26 Apr 2017 01:26:34 : LimitlessMc, mainchat, darth kota#9446, Fuzzy bots better then carl
+26 Apr 2017 01:28:19 : LimitlessMc, voice-junk, Lastshadow#5809, http://orig08.deviantart.net/df93/f/2017/115/2/5/bendy_by_shadowfire1217-db74z3d.jpg
+26 Apr 2017 01:28:28 : LimitlessMc, mainchat, Lastshadow#5809, I made this http://orig08.deviantart.net/df93/f/2017/115/2/5/bendy_by_shadowfire1217-db74z3d.jpg
+26 Apr 2017 01:28:38 : LimitlessMc, mainchat, Lastshadow#5809, I combined images
+26 Apr 2017 01:37:38 : LimitlessMc, botchat, Lastshadow#5809, ;bg https://cdn.discordapp.com/attachments/175409835557257216/306604660272267265/Bendy.jpg
+26 Apr 2017 01:37:38 : LimitlessMc, botchat, Botfuzzy77#2209, Changed Background sucessfully
+26 Apr 2017 01:37:46 : LimitlessMc, botchat, Lastshadow#5809, ;level
+26 Apr 2017 01:37:48 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 01:37:53 : LimitlessMc, botchat, Lastshadow#5809, Yes!!!!
+26 Apr 2017 01:37:56 : LimitlessMc, botchat, Lastshadow#5809, 😄
+26 Apr 2017 01:38:03 : LimitlessMc, botchat, Lastshadow#5809, lol
+26 Apr 2017 01:38:08 : LimitlessMc, botchat, Lastshadow#5809, I need to move the logo
+26 Apr 2017 01:38:48 : Shadow's Subnautica, botchat, Lastshadow#5809, =music q Subnautic Abandon ship
+26 Apr 2017 01:38:49 : Shadow's Subnautica, botchat, Ayana#8911, ```css
+[Search Results]
+
+Pick an option below to enqueue it.
+1 : "Subnautica Soundtrack - Abandon Ship"
+2 : "Subnautica - Abandon ship [Extended mix]"
+3 : "Subnautica - Abandoned Ship (1 hour Extended Version)"
+c : Cancel
+```
+26 Apr 2017 01:38:51 : Shadow's Subnautica, botchat, Lastshadow#5809, 2
+26 Apr 2017 01:38:52 : Shadow's Subnautica, botchat, Ayana#8911, ​Enqueued: `Subnautica - Abandon ship [Extended mix]` to position **1**. Run `music play` to play the queue.
+26 Apr 2017 01:38:56 : Shadow's Subnautica, botchat, Lastshadow#5809, =music p
+26 Apr 2017 01:38:57 : Shadow's Subnautica, botchat, Ayana#8911, ​:white_check_mark: Joined and bound to :speaker: `Subnautica Music` and :newspaper: `botchat`.
+26 Apr 2017 01:38:58 : Shadow's Subnautica, botchat, Ayana#8911, ​:notes: Now playing: `Subnautica - Abandon ship [Extended mix]` requested by `Lastshadow#5809`.
+26 Apr 2017 01:41:45 : LimitlessMc, botchat, Crystal4209#4698, ;join
+26 Apr 2017 01:41:45 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+26 Apr 2017 01:42:34 : LimitlessMc, botchat, Wertfuzzy77#0274, @Lastshadow do `;color reset`
+26 Apr 2017 01:42:52 : LimitlessMc, botchat, Crystal4209#4698, ;youtube https://www.youtube.com/watch?v=JZkJCUYIaH4
+26 Apr 2017 01:42:53 : LimitlessMc, botchat, Botfuzzy77#2209, Added 【Nightcore】→ The Doctor Said || Lyrics to the queue
+26 Apr 2017 01:43:19 : LimitlessMc, botchat, Crystal4209#4698, ;loop 5
+26 Apr 2017 01:43:19 : LimitlessMc, botchat, Botfuzzy77#2209, Can not loop that many times!
+26 Apr 2017 01:43:30 : LimitlessMc, botchat, Crystal4209#4698, ;loop 3
+26 Apr 2017 01:43:30 : LimitlessMc, botchat, Botfuzzy77#2209, Can not loop that many times!
+26 Apr 2017 01:43:35 : LimitlessMc, botchat, Crystal4209#4698, ..
+26 Apr 2017 01:43:51 : LimitlessMc, botchat, Crystal4209#4698, Wert ;-;
+26 Apr 2017 01:44:20 : LimitlessMc, botchat, Crystal4209#4698, ;loop
+26 Apr 2017 01:44:21 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*【Nightcore】→ The Doctor Said || Lyrics*' **1** more times
+26 Apr 2017 01:44:52 : LimitlessMc, botchat, Crystal4209#4698, ;help
+26 Apr 2017 01:44:52 : None, Direct Message with Crystal4209, Botfuzzy77#2209, ```
+A Bot whose sole Purpose is to serve Wertfuzzy77! Version 0.15.1.3
+(Created by Wertfuzzy77)
+
+FlavorTexts:
+  kill             Adds Emotion
+  gif              Returns the First Found Image on Google Images for this Input
+  choose           Chooses from a set of things
+  fml              Returns a Random Post from fmylife.com
+  kiss             Adds Emotion
+  rate             Rates the Player
+  image            Returns the First Found Image on Google Images for this Input
+  lmgtfy           Returns a Link to a "Let me Google That For You" Page
+  wyr              
+  hug              Adds Emotion
+  hates            Adds Emotion
+  kys              
+  loves            Adds Emotion
+  conch            Ask the Magic Conch a Question
+  ev               
+  likes            Adds Emotion
+  funify           Funifies a given text input
+  rps              Allows the player to play Rock, Paper, Scissors with the B...
+  slap             Adds Emotion
+  pokemon          Returns Links to Pokemon pages
+  luck             Returns the Player's Luck
+  server           Returns Information on the Limitless MC server!
+Games:
+  cooldown         Shows your Cooldowns
+  settype          
+  train            Fights Pokemon for XP
+  pokeboss         Displays Boss Info
+  types            
+  pokebattle       Fights a Pokemon Boss
+  ranking          
+  recent           
+  lookup           Displays your Current Information
+  color            
+  gamble           
+  pokedex          
+  changeBackground 
+  pokehelp         Pokemon Battle Sim Help (Basically useless)
+  prestige         Allows you to prestige at the cost of levels
+  level            Displays your Current Information
+MusicPlayer:
+  extendplaylist   Extends a custom playlist
+  desc             Decription of the Current playing song
+  skip             Skips the Current song
+  makeplaylist     Makes a custom playlist for the bot to save
+  loop             Plays the current song again
+  youtube          Adds a Song for the Bot to Play
+```
+26 Apr 2017 01:44:52 : None, Direct Message with Crystal4209, Botfuzzy77#2209, ```
+  playlist         Adds songs from a predefined playlist to the songs list
+  search           Searches for a song
+  playlists        Shows all the current playlists
+  remove           removes a song from a queue by index
+  leave            Leaves the Join chat
+  shuffle          Shuffles the songs the queue
+  join             Joins the Voice channel you are currently in
+  Radio            Enables Radio Mode
+  viewplaylist     Views the songs of a playlists
+  recommend        Allow the bot to add up to 5 songs to the queue to have in...
+  music            Returns the current status of the Music Bot
+  clear            Clears the Queue
+  cycle            Tells the bot to cycle the current songs in the queue
+  song             Returns information about the current playing song
+  songs            Prints the songs in the queue
+  yplaylist        
+StaffCmds:
+  mute             
+  unmuteall        Unmutes ALL muted players
+  tempmute         
+  mutelist         
+  unmute           
+​No Category:
+  source           Returns a link to the source code for this bot
+  afk              Sets you as AFK, and the Bot will auto Reply for you with ...
+  status           Returns the Status of the Bot, along with Additional Infor...
+  joined           Says when a member joined.
+  help             Shows this message.
+  changeIcon       
+  cleverbot        
+  ark              Returns Info on Stubby's ARK server
+  invite           Returns a Link to the Invite URL for this bot
+  feedback         Returns a link to a Google Forums, where you can leave fee...
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+26 Apr 2017 01:45:21 : Shadow's Subnautica, botchat, Ayana#8911, ​:no_entry_sign: Left channel due to inactivity. If you enjoyed using Ayana please consider helping us keep the lights on <https://ayana.io/donate>!
+26 Apr 2017 01:45:36 : LimitlessMc, botchat, Crystal4209#4698, ;recommend
+26 Apr 2017 01:45:37 : LimitlessMc, botchat, Botfuzzy77#2209, Recommend Songs to play: True
+26 Apr 2017 01:46:09 : LimitlessMc, botchat, Crystal4209#4698, Ye I'm smart!
+26 Apr 2017 01:46:25 : LimitlessMc, botchat, Crystal4209#4698, ;train
+26 Apr 2017 01:46:27 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 01:46:30 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 01:48:45 : LimitlessMc, botchat, Crystal4209#4698, @Wertfuzzy77 I kinda crashed my computer ;-;
+26 Apr 2017 01:49:26 : LimitlessMc, botchat, Crystal4209#4698, ;song
+26 Apr 2017 01:49:28 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 01:49:51 : LimitlessMc, botchat, Crystal4209#4698, Wew
+26 Apr 2017 01:50:13 : LimitlessMc, botchat, Crystal4209#4698, ;song
+26 Apr 2017 01:50:15 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 01:50:23 : LimitlessMc, botchat, Crystal4209#4698, And bot broke
+26 Apr 2017 01:50:28 : LimitlessMc, botchat, Crystal4209#4698, ;leave
+26 Apr 2017 01:50:38 : LimitlessMc, botchat, Crystal4209#4698, ;level
+26 Apr 2017 01:50:40 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 01:52:53 : LimitlessMc, botchat, Crystal4209#4698, @Wertfuzzy77 btw do you like my pupper xD
+26 Apr 2017 02:07:14 : LimitlessMc, botchat, Lastshadow#5809, ;train
+26 Apr 2017 02:07:17 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 02:07:20 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 02:07:22 : LimitlessMc, botchat, Lastshadow#5809, ;level
+26 Apr 2017 02:07:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 02:09:31 : LimitlessMc, botchat, Lastshadow#5809, ;bg https://i.gyazo.com/27aa0f920574498fd6392e8a74da4e3c.jpg
+26 Apr 2017 02:09:31 : LimitlessMc, botchat, Botfuzzy77#2209, Changed Background sucessfully
+26 Apr 2017 02:12:15 : LimitlessMc, botchat, Lastshadow#5809, ;level
+26 Apr 2017 02:12:17 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 02:28:23 : LimitlessMc, botchat, Wertfuzzy77#0274, Do
+26 Apr 2017 02:28:29 : LimitlessMc, botchat, Wertfuzzy77#0274, `;color reset`
+26 Apr 2017 02:28:31 : LimitlessMc, botchat, Wertfuzzy77#0274, the
+26 Apr 2017 02:28:31 : LimitlessMc, botchat, Wertfuzzy77#0274, color
+26 Apr 2017 02:28:32 : LimitlessMc, botchat, Wertfuzzy77#0274, are
+26 Apr 2017 02:28:34 : LimitlessMc, botchat, Wertfuzzy77#0274, killing
+26 Apr 2017 02:28:35 : LimitlessMc, botchat, Wertfuzzy77#0274, me
+26 Apr 2017 02:28:38 : LimitlessMc, botchat, Wertfuzzy77#0274, @Lastshadow
+26 Apr 2017 02:30:53 : LimitlessMc, botchat, Wertfuzzy77#0274, do ittttttttt
+26 Apr 2017 02:31:45 : The Raw Man Cult, mainchat, Botfuzzy77#2209, Welcome @Gnocchi Fettuccine to The Raw Man Cult!
+26 Apr 2017 02:32:14 : The Raw Man Cult, mainchat, Linguine Fettuccine#9116, !meme gurgle this chode
+26 Apr 2017 02:32:24 : The Raw Man Cult, mainchat, Tortellini Fettuccine#5457, lol
+26 Apr 2017 02:32:52 : The Raw Man Cult, mainchat, Gnocchi Fettuccine#6434, !meme fuq u
+26 Apr 2017 02:33:17 : The Raw Man Cult, mainchat, Tortellini Fettuccine#5457, !meme join the call
+26 Apr 2017 02:38:48 : Pulse, game-chat, Wertfuzzy77#0274, ;train
+26 Apr 2017 02:38:48 : Pulse, game-chat, Botfuzzy77#2209, 
+26 Apr 2017 02:38:48 : Pulse, game-chat, Botfuzzy77#2209, 
+26 Apr 2017 02:42:25 : LimitlessMc, botchat, Wertfuzzy77#0274, killing meeeeeeeeeeeeeeeeeee
+26 Apr 2017 02:42:38 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;server
+26 Apr 2017 02:42:38 : LimitlessMc, voice-junk, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+26 Apr 2017 02:42:38 : LimitlessMc, voice-junk, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 6 players out of 150
+ *Ping*: 116.45 ms
+ *MC Version*: 1.10.2
+26 Apr 2017 02:42:38 : LimitlessMc, voice-junk, Botfuzzy77#2209, **Pixelmon Version**: 5.0.3
+26 Apr 2017 02:42:39 : LimitlessMc, voice-junk, Botfuzzy77#2209, **Players Online**:
+ *razar_sly12, Leafeon_, Shadowfire1217, Yellow_fr3ak, Billdongerific, GetRekdM8...*
+26 Apr 2017 03:08:20 : LimitlessMc, botchat, Lastshadow#5809, ?
+26 Apr 2017 03:08:59 : LimitlessMc, botchat, Wertfuzzy77#0274, `;color reset`
+26 Apr 2017 03:09:01 : LimitlessMc, botchat, Wertfuzzy77#0274, do ittttttttttttttt
+26 Apr 2017 03:10:11 : LimitlessMc, voice-junk, Lastshadow#5809, ;level
+26 Apr 2017 03:10:13 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+26 Apr 2017 03:10:18 : LimitlessMc, voice-junk, Lastshadow#5809, ;train
+26 Apr 2017 03:10:20 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+26 Apr 2017 03:10:22 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+26 Apr 2017 03:10:34 : LimitlessMc, voice-junk, Lastshadow#5809, ;color reset
+26 Apr 2017 03:10:34 : LimitlessMc, voice-junk, Botfuzzy77#2209, Custom colors reset!
+26 Apr 2017 03:10:39 : LimitlessMc, voice-junk, Lastshadow#5809, ;levels
+26 Apr 2017 03:10:47 : LimitlessMc, voice-junk, Lastshadow#5809, ;level
+26 Apr 2017 03:10:51 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+26 Apr 2017 03:11:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lookup Lastshadow
+26 Apr 2017 03:11:14 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 03:11:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ya 😄 better
+26 Apr 2017 03:11:34 : LimitlessMc, botchat, Wertfuzzy77#0274, see how it all matches 😛
+26 Apr 2017 03:11:43 : LimitlessMc, botchat, Wertfuzzy77#0274, the color scheme that is
+26 Apr 2017 03:11:56 : LimitlessMc, botchat, Wertfuzzy77#0274, it pulls colors from the background image, and changes the colors of the other stuff
+26 Apr 2017 03:18:11 : LimitlessMc, mainchat, darth kota#9446, ;server
+26 Apr 2017 03:18:27 : LimitlessMc, botchat, TherminatorX#6644, ;train
+26 Apr 2017 03:18:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 03:18:30 : LimitlessMc, mainchat, darth kota#9446, Can't edit on mobile lol
+26 Apr 2017 03:18:30 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 03:18:34 : LimitlessMc, botchat, TherminatorX#6644, ;pbs
+26 Apr 2017 03:18:36 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 03:18:45 : LimitlessMc, botchat, darth kota#9446, ;server
+26 Apr 2017 03:18:46 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+26 Apr 2017 03:18:46 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 4 players out of 150
+ *Ping*: 117.28 ms
+ *MC Version*: 1.10.2
+26 Apr 2017 03:18:46 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.3
+26 Apr 2017 03:18:46 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *GetRekdM8, Yellow_fr3ak, Shadowfire1217, Billdongerific...*
+26 Apr 2017 03:19:08 : LimitlessMc, botchat, TherminatorX#6644, ;pbt peeeebeebe
+26 Apr 2017 03:19:08 : LimitlessMc, botchat, darth kota#9446, ;train
+26 Apr 2017 03:19:10 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 03:19:13 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 03:19:15 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 03:19:18 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 03:19:20 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 03:19:27 : LimitlessMc, botchat, darth kota#9446, ;lever
+26 Apr 2017 03:19:33 : LimitlessMc, botchat, darth kota#9446, ;level
+26 Apr 2017 03:19:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 03:19:54 : LimitlessMc, botchat, darth kota#9446, Did I win?
+26 Apr 2017 03:29:00 : LimitlessMc, botchat, TherminatorX#6644, ;pbt pfffebfebf
+26 Apr 2017 03:29:02 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 03:29:05 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 03:31:01 : RooberBoobers, kinkyrubiestalk, Mr. Meeseeks#2757, https://youtu.be/ghMpr80vqKA
+26 Apr 2017 03:31:09 : RooberBoobers, kinkyrubiestalk, Mr. Meeseeks#2757, The struggle is real
+26 Apr 2017 03:32:26 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, http://www.hentairider.com/media/images/2/anal-hentai-gallery/anal-hentai-gallery-153068.gif
+26 Apr 2017 03:32:30 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, my friend just sent me this
+26 Apr 2017 03:32:31 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, im crying XD
+26 Apr 2017 03:32:41 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, the new loading screen for Anabea
+26 Apr 2017 03:32:55 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, @Octopussy this is what its like when shes trying to put all the analbeads back XD
+26 Apr 2017 03:33:05 : RooberBoobers, kinkyrubiestalk, Mr. Meeseeks#2757, Lmao
+26 Apr 2017 03:34:04 : None, Direct Message with Wertfuzzy77, Wertfuzzy77#0274, 
+26 Apr 2017 03:43:58 : LimitlessMc, voice-junk, Lastshadow#5809, ;train
+26 Apr 2017 03:44:00 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+26 Apr 2017 03:44:01 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+26 Apr 2017 03:44:03 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+26 Apr 2017 03:45:20 : LimitlessMc, voice-junk, Lastshadow#5809, http://paper-backgrounds.com/textureimages/2012/08/cracked-concrete-wall-texture-hd.jpg
+26 Apr 2017 03:47:31 : None, Direct Message with Wertfuzzy77, Wertfuzzy77#0274, 
+26 Apr 2017 03:48:36 : LimitlessMc, mainchat, LightBot#4090, Welcome @yellowfr3ak to LimitlessMc!
+26 Apr 2017 03:48:49 : LimitlessMc, voice-junk, Lastshadow#5809, http://orig11.deviantart.net/f70b/f/2017/115/d/d/bendy_by_shadowfire1217-db74z3d.jpg
+26 Apr 2017 03:49:07 : LimitlessMc, mainchat, Lastshadow#5809, @yellowfr3ak Join general 2
+26 Apr 2017 03:50:07 : LimitlessMc, voice-junk, Lastshadow#5809, @yellowfr3ak http://orig11.deviantart.net/f70b/f/2017/115/d/d/bendy_by_shadowfire1217-db74z3d.jpg
+26 Apr 2017 03:51:24 : LimitlessMc, voice-junk, Lastshadow#5809, @yellowfr3ak https://www.youtube.com/watch?v=hbs8E6xZAWQ
+26 Apr 2017 03:52:23 : LimitlessMc, voice-junk, yellowfr3ak#1038, sorry 😛 one sec
+26 Apr 2017 03:54:22 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, 
+26 Apr 2017 03:54:33 : LimitlessMc, voice-junk, Lastshadow#5809, http://shadowfire1217.deviantart.com/art/Bendy-677117353
+26 Apr 2017 03:54:36 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, i love this fandom
+26 Apr 2017 04:01:56 : OblivionEvolved, bots, TheChad🐵#1660, ;ark
+26 Apr 2017 04:01:57 : OblivionEvolved, bots, Botfuzzy77#2209, 
+26 Apr 2017 04:01:57 : OblivionEvolved, bots, Botfuzzy77#2209, **Online Members**:
+Sunstrikeh, StubbyMuffins
+26 Apr 2017 04:14:28 : LimitlessMc, botchat, TherminatorX#6644, ;pbt pgggebfebg
+26 Apr 2017 04:14:30 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 04:14:32 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 04:17:45 : LimitlessMc, botchat, (Not Really)Head Mod AlphaBit#3869, ;server
+26 Apr 2017 04:17:45 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+26 Apr 2017 04:17:45 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 3 players out of 150
+ *Ping*: 113.014 ms
+ *MC Version*: 1.10.2
+26 Apr 2017 04:17:45 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.3
+26 Apr 2017 04:17:45 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *Shadowfire1217, darthkota98, FearlessFalconX...*
+26 Apr 2017 04:17:48 : LimitlessMc, botchat, (Not Really)Head Mod AlphaBit#3869, ;srbr
+26 Apr 2017 04:17:48 : LimitlessMc, botchat, Botfuzzy77#2209, Dont Be Lazy, Type ;server
+26 Apr 2017 04:19:33 : LimitlessMc, botchat, Crystal4209#4698, ;train
+26 Apr 2017 04:19:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 04:19:38 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 04:19:40 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 04:19:57 : LimitlessMc, botchat, (Not Really)Head Mod AlphaBit#3869, ;train
+26 Apr 2017 04:20:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 04:20:03 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 04:32:27 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+26 Apr 2017 04:32:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 04:32:31 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 04:32:54 : LimitlessMc, mainchat, (Not Really)Head Mod AlphaBit#3869, new meme
+26 Apr 2017 04:34:01 : LimitlessMc, mainchat, (Not Really)Head Mod AlphaBit#3869, 🐸
+26 Apr 2017 04:36:20 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;traikn
+26 Apr 2017 04:36:23 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;train
+26 Apr 2017 04:36:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 04:36:28 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 04:38:01 : LimitlessMc, botchat, (Not Really)Head Mod AlphaBit#3869, ;lookup @That-Guy-Gilly
+26 Apr 2017 04:38:01 : LimitlessMc, botchat, Botfuzzy77#2209, Could Not find that player!
+26 Apr 2017 04:38:04 : LimitlessMc, botchat, (Not Really)Head Mod AlphaBit#3869, wa
+26 Apr 2017 04:38:11 : LimitlessMc, botchat, (Not Really)Head Mod AlphaBit#3869, ;lookup
+26 Apr 2017 04:38:13 : LimitlessMc, botchat, (Not Really)Head Mod AlphaBit#3869, ;level
+26 Apr 2017 04:38:16 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 04:38:24 : LimitlessMc, botchat, (Not Really)Head Mod AlphaBit#3869, ;cd
+26 Apr 2017 04:38:24 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You need to wait 699 seconds
+**Gamble**
+You can Gamble right now!
+26 Apr 2017 05:12:21 : LimitlessMc, botchat, Crystal4209#4698, ;train
+26 Apr 2017 05:12:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 05:12:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 05:12:36 : LimitlessMc, botchat, Crystal4209#4698, ;level
+26 Apr 2017 05:12:40 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 05:21:48 : LimitlessMc, voice-junk, Lastshadow#5809, deirdre
+26 Apr 2017 05:23:28 : LimitlessMc, voice-junk, yellowfr3ak#1038, Taea
+26 Apr 2017 05:23:53 : LimitlessMc, voice-junk, yellowfr3ak#1038, Talatla
+26 Apr 2017 05:23:57 : LimitlessMc, voice-junk, yellowfr3ak#1038, talarla
+26 Apr 2017 05:34:35 : LimitlessMc, voice-junk, Lastshadow#5809, https://cdn.discordapp.com/attachments/305551889083138048/306664285440966676/2017-04-25_22.34.02.png
+26 Apr 2017 05:34:39 : LimitlessMc, voice-junk, Lastshadow#5809, ;train
+26 Apr 2017 05:34:42 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+26 Apr 2017 05:34:44 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+26 Apr 2017 05:34:48 : LimitlessMc, voice-junk, Lastshadow#5809, ;level
+26 Apr 2017 05:34:52 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+26 Apr 2017 05:34:57 : LimitlessMc, voice-junk, Lastshadow#5809, https://cdn.discordapp.com/attachments/305551889083138048/306664285440966676/2017-04-25_22.34.02.png
+26 Apr 2017 05:38:26 : LimitlessMc, botchat, Bakafish#8693, ;train
+26 Apr 2017 05:38:27 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 05:38:31 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 05:54:57 : LimitlessMc, voice-junk, Lastshadow#5809, https://cdn.discordapp.com/attachments/305551889083138048/306669408338837506/Bendy2.jpg
+26 Apr 2017 05:55:00 : LimitlessMc, voice-junk, Lastshadow#5809, @aliekatt
+26 Apr 2017 06:00:49 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, @Mmphie its jsut me and you rn XD
+26 Apr 2017 06:00:56 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, everyone else died
+26 Apr 2017 06:05:38 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;train
+26 Apr 2017 06:05:39 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:05:41 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:07:22 : LimitlessMc, mainchat, DicloniusPony#6564, https://images.discordapp.net/.eJwFwVsOhCAMAMC7cAAqr7J4G4IEzSoltGY_Nt7dmb-656lWtYsMXgG2gwvNTbPQzK3qRtTOmsfButAFWSSX_apdGGxwiB9MLmIyyXjrwS2I0QafMAa_GGsD3P3b6df16E09LwnaIuk.bbIYC1NT0tJb9ek3MkFWsTBD5ao
+26 Apr 2017 06:07:26 : LimitlessMc, mainchat, DicloniusPony#6564, who wants to kill me first
+26 Apr 2017 06:07:33 : LimitlessMc, mainchat, DicloniusPony#6564, pls, i cant face nor art
+26 Apr 2017 06:09:02 : LimitlessMc, voice-junk, Lastshadow#5809, https://cdn.discordapp.com/attachments/285509347440590849/306672950864642050/Bendy-3.jpg
+26 Apr 2017 06:23:58 : LimitlessMc, botchat, shuck#1142, ;train
+26 Apr 2017 06:24:00 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:24:03 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:24:09 : LimitlessMc, botchat, shuck#1142, ;level
+26 Apr 2017 06:24:11 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:27:05 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;train
+26 Apr 2017 06:27:08 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:27:11 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:27:15 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:27:21 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb
+26 Apr 2017 06:27:21 : LimitlessMc, botchat, Botfuzzy77#2209, Please use a Combination of **8** Types. `;types`
+26 Apr 2017 06:27:26 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb nnnnnnnn
+26 Apr 2017 06:27:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:27:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:28:25 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb nwwwwwww
+26 Apr 2017 06:28:25 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 8 seconds before you can fight the boss again.
+26 Apr 2017 06:28:39 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb nwwwwwww
+26 Apr 2017 06:28:42 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:28:45 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:29:47 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb nwffffff
+26 Apr 2017 06:29:49 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:29:54 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:32:28 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb nwgggggg
+26 Apr 2017 06:32:30 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:32:36 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:32:37 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;types
+26 Apr 2017 06:32:37 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Possible Types ** =-
+:regional_indicator_n: ormal
+:regional_indicator_f: ire
+:regional_indicator_w: ater
+:regional_indicator_g: rass
+:regional_indicator_p: oison
+:regional_indicator_d: ragon
+:regional_indicator_s: teel
+:regional_indicator_e: lectric
+:regional_indicator_b: ug
+:regional_indicator_i: ce
+26 Apr 2017 06:33:38 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb nwgppppp
+26 Apr 2017 06:33:40 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:33:43 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:34:09 : LimitlessMc, mainchat, Lastshadow#5809, I do photoshop
+26 Apr 2017 06:34:14 : LimitlessMc, mainchat, Lastshadow#5809, @DicloniusPony https://cdn.discordapp.com/attachments/305551889083138048/306669408338837506/Bendy2.jpg
+26 Apr 2017 06:34:28 : LimitlessMc, mainchat, Lastshadow#5809, https://cdn.discordapp.com/attachments/285509347440590849/306672950864642050/Bendy-3.jpg
+26 Apr 2017 06:34:44 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb nwgdpddd
+26 Apr 2017 06:34:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:34:50 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:34:54 : LimitlessMc, mainchat, Lastshadow#5809, https://cdn.discordapp.com/attachments/285509347440590849/306671549950328832/Bendy.jpg
+26 Apr 2017 06:36:32 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb nwgspsss
+26 Apr 2017 06:36:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:36:37 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:38:03 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb nwgepsee
+26 Apr 2017 06:38:07 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:38:09 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:38:20 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;settype bug
+26 Apr 2017 06:38:20 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Bug type
+26 Apr 2017 06:39:24 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb nwgepsbb
+26 Apr 2017 06:39:27 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:39:32 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:40:19 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb nwgepsbb
+26 Apr 2017 06:40:19 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 13 seconds before you can fight the boss again.
+26 Apr 2017 06:40:25 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;cd
+26 Apr 2017 06:40:25 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 7 seconds
+**Train**
+You need to wait 1,010 seconds
+**Gamble**
+You can Gamble right now!
+26 Apr 2017 06:40:35 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb nwgepsbb
+26 Apr 2017 06:40:39 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:40:42 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:40:54 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;settype normal
+26 Apr 2017 06:40:54 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Normal type
+26 Apr 2017 06:41:59 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb nwgnnsbn
+26 Apr 2017 06:42:02 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:42:05 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:43:10 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb nwgwnsbw
+26 Apr 2017 06:43:12 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:43:14 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:44:11 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb nwgfnsbf
+26 Apr 2017 06:44:11 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 3 seconds before you can fight the boss again.
+26 Apr 2017 06:44:23 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb nwgfnsbf
+26 Apr 2017 06:44:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:44:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:45:39 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb nwgfnsbf
+26 Apr 2017 06:45:43 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:45:49 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:47:06 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb wngsnsbn
+26 Apr 2017 06:47:10 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:47:11 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:48:10 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb ffgfnsbw
+26 Apr 2017 06:48:10 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 2 seconds before you can fight the boss again.
+26 Apr 2017 06:48:14 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb ffgfnsbw
+26 Apr 2017 06:48:18 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:48:22 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:48:28 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;settype fire
+26 Apr 2017 06:48:28 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Fire type
+26 Apr 2017 06:48:54 : LimitlessMc, botchat, jjtwilefc#7374, ;train
+26 Apr 2017 06:48:55 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:48:58 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:49:16 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb fggfnsbg
+26 Apr 2017 06:49:16 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 6 seconds before you can fight the boss again.
+26 Apr 2017 06:49:26 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb fggfnsbg
+26 Apr 2017 06:49:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:49:31 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:50:44 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb fpgfnsbp
+26 Apr 2017 06:50:48 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:50:50 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:51:34 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb fpgfnsbp
+26 Apr 2017 06:51:34 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 16 seconds before you can fight the boss again.
+26 Apr 2017 06:52:10 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb fpgfnsbp
+26 Apr 2017 06:52:12 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:52:16 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:53:18 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb fgpfnsbg
+26 Apr 2017 06:53:23 : LimitlessMc, botchat, jjtwilefc#7374, ;pb fddfnsbp
+26 Apr 2017 06:53:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:53:23 : LimitlessMc, botchat, Botfuzzy77#2209, Please use a Combination of **10** Types. `;types`
+26 Apr 2017 06:53:26 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:54:34 : LimitlessMc, mainchat, DicloniusPony#6564, @Lastshadow photoshop is so much easier than actually drawing a piece from your imagination XD
+26 Apr 2017 06:54:39 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb fnnfnsbn
+26 Apr 2017 06:54:44 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:54:45 : LimitlessMc, mainchat, Lastshadow#5809, Yeah, no
+26 Apr 2017 06:54:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:54:54 : LimitlessMc, mainchat, Lastshadow#5809, Drawing is easier
+26 Apr 2017 06:55:02 : LimitlessMc, mainchat, Lastshadow#5809, don't try that on me
+26 Apr 2017 06:55:08 : LimitlessMc, mainchat, DicloniusPony#6564, draw me a detailed af horse then
+26 Apr 2017 06:55:10 : LimitlessMc, mainchat, Lastshadow#5809, I can draw things extremely easy
+26 Apr 2017 06:55:15 : LimitlessMc, mainchat, Lastshadow#5809, Cartoon
+26 Apr 2017 06:55:21 : LimitlessMc, mainchat, Lastshadow#5809, But photoshop
+26 Apr 2017 06:55:26 : LimitlessMc, mainchat, Lastshadow#5809, try drawing something good
+26 Apr 2017 06:55:29 : LimitlessMc, mainchat, Lastshadow#5809, I DARE YOU
+26 Apr 2017 06:55:31 : LimitlessMc, mainchat, Lastshadow#5809, go on
+26 Apr 2017 06:55:36 : LimitlessMc, mainchat, Lastshadow#5809, start up photoshop
+26 Apr 2017 06:55:38 : LimitlessMc, mainchat, Lastshadow#5809, make a pokemon
+26 Apr 2017 06:55:58 : LimitlessMc, mainchat, Lastshadow#5809, Because guess what I drew a ho-oh in 30 mins
+26 Apr 2017 06:55:58 : LimitlessMc, mainchat, DicloniusPony#6564, @Lastshadow things that actually take TIME, photoshop is easy, if you actually try to make a detailed drawing, its harder than photoshop
+26 Apr 2017 06:56:03 : LimitlessMc, mainchat, Lastshadow#5809, photoshop takes hours
+26 Apr 2017 06:56:14 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb fwwfnsbw
+26 Apr 2017 06:56:17 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:56:20 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:56:20 : LimitlessMc, mainchat, DicloniusPony#6564, **and you think art doesn't?**
+26 Apr 2017 06:56:22 : LimitlessMc, mainchat, Lastshadow#5809, You have never used it I see
+26 Apr 2017 06:56:31 : LimitlessMc, mainchat, Lastshadow#5809, there is two kinds
+26 Apr 2017 06:56:34 : LimitlessMc, mainchat, DicloniusPony#6564, smh, noob
+26 Apr 2017 06:56:36 : LimitlessMc, mainchat, Lastshadow#5809, digital and drawing
+26 Apr 2017 06:56:41 : LimitlessMc, mainchat, Lastshadow#5809, I respect both
+26 Apr 2017 06:57:07 : LimitlessMc, mainchat, Lastshadow#5809, But, honestly, don't call my work easy
+26 Apr 2017 06:57:10 : LimitlessMc, mainchat, DicloniusPony#6564, photoshop is just making something from something already existing, while drawing/art you could create whatever you want
+26 Apr 2017 06:57:27 : LimitlessMc, mainchat, Lastshadow#5809, Have you used the brush tool?
+26 Apr 2017 06:57:27 : LimitlessMc, mainchat, DicloniusPony#6564, some weird looking wolf rabbit hybrid or so
+26 Apr 2017 06:57:31 : LimitlessMc, mainchat, Lastshadow#5809, I guess not
+26 Apr 2017 06:57:36 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb fwffnsbf
+26 Apr 2017 06:57:38 : LimitlessMc, mainchat, Lastshadow#5809, or the pen tool
+26 Apr 2017 06:57:40 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:57:41 : LimitlessMc, mainchat, DicloniusPony#6564, brush tool for drawing or for photoshop?
+26 Apr 2017 06:57:42 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:57:49 : LimitlessMc, mainchat, Lastshadow#5809, Photoshop
+26 Apr 2017 06:57:53 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;types
+26 Apr 2017 06:57:53 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Possible Types ** =-
+:regional_indicator_n: ormal
+:regional_indicator_f: ire
+:regional_indicator_w: ater
+:regional_indicator_g: rass
+:regional_indicator_p: oison
+:regional_indicator_d: ragon
+:regional_indicator_s: teel
+:regional_indicator_e: lectric
+:regional_indicator_b: ug
+:regional_indicator_i: ce
+26 Apr 2017 06:57:55 : LimitlessMc, mainchat, Lastshadow#5809, You CAN draw by hand
+26 Apr 2017 06:58:04 : LimitlessMc, mainchat, DicloniusPony#6564, show me what you draw by photoshop
+26 Apr 2017 06:58:32 : LimitlessMc, mainchat, DicloniusPony#6564, most of my art i cant show because its NSFW
+26 Apr 2017 06:58:35 : LimitlessMc, mainchat, Lastshadow#5809, Yeah, I am better at drawing by hand
+26 Apr 2017 06:58:36 : LimitlessMc, mainchat, Lastshadow#5809, XD
+26 Apr 2017 06:58:42 : LimitlessMc, mainchat, DicloniusPony#6564, i draw with a mouse on SaiPaint ;/
+26 Apr 2017 06:58:43 : LimitlessMc, mainchat, Lastshadow#5809, I edit shit on photoshop
+26 Apr 2017 06:58:46 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb fwdfnsbd
+26 Apr 2017 06:58:50 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:58:51 : LimitlessMc, mainchat, Lastshadow#5809, I am horrible with mouse
+26 Apr 2017 06:58:52 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 06:58:56 : LimitlessMc, mainchat, Lastshadow#5809, unless you have a drawing pad
+26 Apr 2017 06:58:57 : LimitlessMc, mainchat, Lastshadow#5809, no
+26 Apr 2017 06:59:13 : LimitlessMc, mainchat, DicloniusPony#6564, all art i do is made by mouse, because i wish i was rich enough to have a drawing pad smh
+26 Apr 2017 06:59:24 : LimitlessMc, mainchat, Lastshadow#5809, Why don't I show  you my photoshop's class project
+26 Apr 2017 06:59:26 : LimitlessMc, mainchat, DicloniusPony#6564, because, i hate drawing by hand XD im here for mouse
+26 Apr 2017 06:59:36 : LimitlessMc, mainchat, Lastshadow#5809, it's surrealistic structure
+26 Apr 2017 06:59:48 : LimitlessMc, mainchat, DicloniusPony#6564, i dont even know if you're old enough to even look at NSFW
+26 Apr 2017 07:00:23 : LimitlessMc, mainchat, Lastshadow#5809, ;-; I can't find the TED talk
+26 Apr 2017 07:00:27 : LimitlessMc, mainchat, Lastshadow#5809, MS CARMEN WHYYYYY
+26 Apr 2017 07:00:34 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb fwsfnsbs
+26 Apr 2017 07:00:36 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 07:00:39 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 07:02:49 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb fwefnsbe
+26 Apr 2017 07:02:52 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 07:02:55 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 07:04:04 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb fwefnsbe
+26 Apr 2017 07:04:08 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 07:04:10 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 07:04:43 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;settype electric
+26 Apr 2017 07:04:43 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Electric type
+26 Apr 2017 07:06:25 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb fwefnsbe
+26 Apr 2017 07:06:27 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 07:06:30 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 07:07:35 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb fwefnsbe
+26 Apr 2017 07:07:37 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 07:07:40 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 07:07:44 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 07:07:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 07:07:50 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 07:08:05 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;cd
+26 Apr 2017 07:08:05 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You can Train right now!
+**Gamble**
+You can Gamble right now!
+26 Apr 2017 07:08:07 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;train
+26 Apr 2017 07:08:10 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 07:08:14 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 07:08:22 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;level
+26 Apr 2017 07:08:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 07:35:45 : LimitlessMc, mainchat, Crystal4209#4698, Reee
+26 Apr 2017 07:39:30 : LimitlessMc, mainchat, Lastshadow#5809, https://www.ted.com/talks/erik_johansson_impossible_photography
+26 Apr 2017 07:39:31 : LimitlessMc, mainchat, Lastshadow#5809, found it
+26 Apr 2017 07:39:34 : LimitlessMc, mainchat, Lastshadow#5809, Thank you google
+26 Apr 2017 07:39:47 : LimitlessMc, mainchat, Lastshadow#5809, Watch it
+26 Apr 2017 07:39:51 : LimitlessMc, mainchat, Lastshadow#5809, it's amazing
+26 Apr 2017 07:39:55 : LimitlessMc, mainchat, Lastshadow#5809, I love this guy
+26 Apr 2017 07:42:31 : LimitlessMc, mainchat, That-Guy-Gilly#6803, weeeeb fight!
+26 Apr 2017 07:42:33 : LimitlessMc, mainchat, Lastshadow#5809, Surrealism at it's finest https://static1.squarespace.com/static/554b5e7ce4b0149371f10a93/554b69b1e4b091ff9c40832c/554b69cee4b061744f06419d/1431033698574/?format=1500w
+26 Apr 2017 07:42:53 : LimitlessMc, voice-junk, Lastshadow#5809, ;train
+26 Apr 2017 07:42:55 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+26 Apr 2017 07:42:57 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+26 Apr 2017 07:42:59 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+26 Apr 2017 07:43:03 : LimitlessMc, voice-junk, Lastshadow#5809, ;level
+26 Apr 2017 07:43:05 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+26 Apr 2017 07:43:17 : LimitlessMc, voice-junk, Lastshadow#5809, ;level
+26 Apr 2017 07:43:20 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+26 Apr 2017 07:43:22 : LimitlessMc, voice-junk, Lastshadow#5809, ;types
+26 Apr 2017 07:43:22 : LimitlessMc, voice-junk, Botfuzzy77#2209, -= **Possible Types ** =-
+:regional_indicator_n: ormal
+:regional_indicator_f: ire
+:regional_indicator_w: ater
+:regional_indicator_g: rass
+:regional_indicator_p: oison
+:regional_indicator_d: ragon
+:regional_indicator_s: teel
+:regional_indicator_e: lectric
+:regional_indicator_b: ug
+:regional_indicator_i: ce
+26 Apr 2017 07:43:35 : LimitlessMc, voice-junk, Lastshadow#5809, ;settype steel
+26 Apr 2017 07:43:35 : LimitlessMc, voice-junk, Botfuzzy77#2209, You are now a Steel type
+26 Apr 2017 07:43:39 : LimitlessMc, voice-junk, Lastshadow#5809, ;colorrest
+26 Apr 2017 07:43:46 : LimitlessMc, voice-junk, Lastshadow#5809, ;colorreset
+26 Apr 2017 07:44:08 : LimitlessMc, voice-junk, Lastshadow#5809, ;color reset
+26 Apr 2017 07:44:09 : LimitlessMc, voice-junk, Botfuzzy77#2209, Custom colors reset!
+26 Apr 2017 07:44:13 : LimitlessMc, voice-junk, Lastshadow#5809, ;level
+26 Apr 2017 07:44:16 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+26 Apr 2017 07:56:02 : LimitlessMc, botchat, TherminatorX#6644, ;pbs
+26 Apr 2017 07:56:05 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 07:56:06 : LimitlessMc, botchat, TherminatorX#6644, ;train
+26 Apr 2017 07:56:09 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 07:56:12 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 07:56:15 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 07:56:26 : LimitlessMc, botchat, TherminatorX#6644, ;pbt pnnnebfebn
+26 Apr 2017 07:56:28 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 07:56:30 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 08:08:54 : LimitlessMc, botchat, TherminatorX#6644, ;pbt pnppebEFbn
+26 Apr 2017 08:08:56 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 08:08:58 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 08:11:05 : LimitlessMc, mainchat, TherminatorX#6644, Still not something *you've* made in Photoshop
+26 Apr 2017 08:11:52 : LimitlessMc, botchat, TherminatorX#6644, ;pbt pnssebEFbn
+26 Apr 2017 08:11:55 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 08:11:58 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 08:24:49 : LimitlessMc, voice-junk, darth kota#9446, ;level
+26 Apr 2017 08:24:52 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+26 Apr 2017 08:24:53 : LimitlessMc, voice-junk, darth kota#9446, lel
+26 Apr 2017 08:25:06 : LimitlessMc, botchat, TherminatorX#6644, ;pbt pnswebEFbn
+26 Apr 2017 08:25:08 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 08:25:11 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 08:40:59 : LimitlessMc, botchat, TherminatorX#6644, ;pbt pnswebfebn
+26 Apr 2017 08:41:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 08:41:03 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 08:45:14 : LimitlessMc, mainchat, Lastshadow#5809, Ik
+26 Apr 2017 08:45:22 : LimitlessMc, mainchat, Lastshadow#5809, But it's nice artwork
+26 Apr 2017 08:46:16 : LimitlessMc, botchat, TherminatorX#6644, ;pbs
+26 Apr 2017 08:46:19 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 08:46:28 : LimitlessMc, botchat, TherminatorX#6644, ;pbt pnswebfebn
+26 Apr 2017 08:46:30 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 08:46:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 08:52:21 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;train
+26 Apr 2017 08:52:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 08:52:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 08:52:30 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;level
+26 Apr 2017 08:52:37 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 08:53:04 : LimitlessMc, botchat, TherminatorX#6644, pokebattle bnsbbbbn
+26 Apr 2017 08:53:26 : LimitlessMc, botchat, TherminatorX#6644, ;pokebattle bnsbbbbn
+26 Apr 2017 08:53:26 : LimitlessMc, botchat, Botfuzzy77#2209, Please use a Combination of **10** Types. `;types`
+26 Apr 2017 08:53:51 : LimitlessMc, botchat, TherminatorX#6644, ;pokebattle bnsbbbbbn
+26 Apr 2017 08:53:51 : LimitlessMc, botchat, Botfuzzy77#2209, Please use a Combination of **10** Types. `;types`
+26 Apr 2017 08:53:56 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;pokeboss
+26 Apr 2017 08:53:56 : LimitlessMc, botchat, Botfuzzy77#2209, Level 32 Boss **Mr-mime** has been defeated!
+26 Apr 2017 08:53:56 : LimitlessMc, botchat, Botfuzzy77#2209, Please use ;pokebattle <moves> medium to fight and reveal a new boss.
+26 Apr 2017 08:53:59 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 08:54:11 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;pokebattle wwwwwwww
+26 Apr 2017 08:54:14 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 08:54:17 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 08:54:23 : LimitlessMc, botchat, TherminatorX#6644, ;pokebattle bnsbbbbbbn
+26 Apr 2017 08:54:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 08:54:27 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 09:16:41 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;cd
+26 Apr 2017 09:16:41 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You need to wait 344 seconds
+**Gamble**
+You can Gamble right now!
+26 Apr 2017 09:17:00 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;pokebattle wiwiiiiii
+26 Apr 2017 09:17:00 : LimitlessMc, botchat, Botfuzzy77#2209, Please use a Combination of **8** Types. `;types`
+26 Apr 2017 09:17:11 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;pokebattle wiwiiiii
+26 Apr 2017 09:17:13 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 09:17:16 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 10:05:10 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;train
+26 Apr 2017 10:05:12 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 10:05:14 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 10:09:04 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;settype water
+26 Apr 2017 10:09:04 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Water type
+26 Apr 2017 10:09:18 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb wnwnnnin
+26 Apr 2017 10:09:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 10:09:27 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;train
+26 Apr 2017 10:09:28 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 10:09:30 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 10:09:32 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 10:09:37 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 10:18:08 : LimitlessMc, mainchat, (Not Really)Head Mod AlphaBit#3869, Ree
+26 Apr 2017 10:28:33 : LimitlessMc, botchat, SuMiT#4051, ;server
+26 Apr 2017 10:28:34 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+26 Apr 2017 10:28:34 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 1 players out of 150
+ *Ping*: 116.774 ms
+ *MC Version*: 1.10.2
+26 Apr 2017 10:28:34 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.3
+26 Apr 2017 10:28:34 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *PatanX...*
+26 Apr 2017 11:09:48 : LimitlessMc, botchat, SuMiT#4051, ;server
+26 Apr 2017 11:09:49 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+26 Apr 2017 11:09:49 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 3 players out of 150
+ *Ping*: 116.103 ms
+ *MC Version*: 1.10.2
+26 Apr 2017 11:09:49 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.3
+26 Apr 2017 11:09:49 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *lampros9, GentlyGaming, PatanX...*
+26 Apr 2017 11:09:55 : LimitlessMc, botchat, SuMiT#4051, ;train
+26 Apr 2017 11:09:57 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 11:10:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 11:10:10 : LimitlessMc, botchat, SuMiT#4051, ;level
+26 Apr 2017 11:10:12 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 11:10:23 : LimitlessMc, botchat, SuMiT#4051, ;pbt ppppppp
+26 Apr 2017 11:10:23 : LimitlessMc, botchat, Botfuzzy77#2209, Please use a Combination of **5** Types. `;types`
+26 Apr 2017 11:10:30 : LimitlessMc, botchat, SuMiT#4051, ;pbt GGGGG
+26 Apr 2017 11:10:32 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 11:10:34 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 11:17:13 : LimitlessMc, botchat, SuMiT#4051, ;pbt WWWWW
+26 Apr 2017 11:17:15 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 11:17:20 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 11:21:17 : LimitlessMc, mainchat, Crystal4209#4698, @Adam bork bork
+26 Apr 2017 11:21:33 : LimitlessMc, mainchat, Adam#7575, i just said the exact same thin ingame chat xD
+26 Apr 2017 11:21:39 : LimitlessMc, mainchat, Crystal4209#4698, XD
+26 Apr 2017 11:22:41 : LimitlessMc, botchat, Crystal4209#4698, ;train
+26 Apr 2017 11:22:43 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 11:22:44 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 12:13:30 : LimitlessMc, botchat, TherminatorX#6644, ;train
+26 Apr 2017 12:13:32 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 12:13:34 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 13:05:29 : LimitlessMc, botchat, Crystal4209#4698, @Botfuzzy77 bork bork
+26 Apr 2017 13:05:31 : LimitlessMc, botchat, Botfuzzy77#2209, A dog?
+26 Apr 2017 13:05:43 : LimitlessMc, botchat, Crystal4209#4698, @Botfuzzy77 bork
+26 Apr 2017 13:05:44 : LimitlessMc, botchat, Botfuzzy77#2209, Bork bork bork!
+26 Apr 2017 13:05:56 : LimitlessMc, botchat, Crystal4209#4698, 😄
+26 Apr 2017 13:18:26 : LimitlessMc, botchat, SuMiT#4051, ;server
+26 Apr 2017 13:18:26 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+26 Apr 2017 13:18:26 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 5 players out of 150
+ *Ping*: 118.573 ms
+ *MC Version*: 1.10.2
+26 Apr 2017 13:18:26 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.3
+26 Apr 2017 13:18:26 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *Skirmus, GentlyGaming, MalMemelord, PatanX, Leancraft1...*
+26 Apr 2017 13:18:38 : LimitlessMc, botchat, SuMiT#4051, ;pbt wnnnn
+26 Apr 2017 13:18:40 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 13:18:42 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 13:18:47 : LimitlessMc, botchat, SuMiT#4051, ;types
+26 Apr 2017 13:18:47 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Possible Types ** =-
+:regional_indicator_n: ormal
+:regional_indicator_f: ire
+:regional_indicator_w: ater
+:regional_indicator_g: rass
+:regional_indicator_p: oison
+:regional_indicator_d: ragon
+:regional_indicator_s: teel
+:regional_indicator_e: lectric
+:regional_indicator_b: ug
+:regional_indicator_i: ce
+26 Apr 2017 13:42:41 : LimitlessMc, botchat, TherminatorX#6644, ;train
+26 Apr 2017 13:42:43 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 13:42:45 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 13:42:58 : LimitlessMc, botchat, TherminatorX#6644, ;level
+26 Apr 2017 13:43:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 13:44:41 : LimitlessMc, botchat, TherminatorX#6644, ;pbs
+26 Apr 2017 13:44:43 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 13:45:01 : LimitlessMc, botchat, TherminatorX#6644, ;pbt dnsddbddbn
+26 Apr 2017 13:45:03 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 13:45:05 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 13:50:22 : LimitlessMc, botchat, TherminatorX#6644, ;pbt enseebeebn
+26 Apr 2017 13:50:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 13:50:27 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 13:54:13 : LimitlessMc, botchat, TherminatorX#6644, ;pb fnsffbffbn
+26 Apr 2017 13:54:15 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 13:54:16 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 13:56:55 : LimitlessMc, botchat, TherminatorX#6644, ;pb gnsggbggbn
+26 Apr 2017 13:56:58 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 13:57:00 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 13:57:38 : LimitlessMc, botchat, TherminatorX#6644, Third crit in a row...
+26 Apr 2017 13:59:46 : LimitlessMc, botchat, TherminatorX#6644, ;pb NGsiibigbn
+26 Apr 2017 13:59:48 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 13:59:51 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 14:08:22 : LimitlessMc, botchat, TherminatorX#6644, ;pbt NGsnnbngbn
+26 Apr 2017 14:08:24 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 14:08:28 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 14:08:41 : LimitlessMc, botchat, TherminatorX#6644, ;settype normal
+26 Apr 2017 14:08:41 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Normal type
+26 Apr 2017 14:09:20 : LimitlessMc, botchat, TherminatorX#6644, ;pbt ngsnpbnBGn
+26 Apr 2017 14:09:20 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 8 seconds before you can fight the boss again.
+26 Apr 2017 14:09:48 : LimitlessMc, botchat, TherminatorX#6644, ;pbt ngsnpbnBGn
+26 Apr 2017 14:09:50 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 14:09:52 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 14:10:24 : LimitlessMc, botchat, TherminatorX#6644, ;pbt gnsnsbnBGn
+26 Apr 2017 14:10:25 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 28 seconds before you can fight the boss again.
+26 Apr 2017 14:10:47 : LimitlessMc, botchat, TherminatorX#6644, ;cd
+26 Apr 2017 14:10:47 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 6 seconds
+**Train**
+You need to wait 118 seconds
+**Gamble**
+You can Gamble right now!
+26 Apr 2017 14:10:59 : LimitlessMc, botchat, TherminatorX#6644, ;pbt gnsnsbnBGn
+26 Apr 2017 14:11:02 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 14:11:04 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 14:12:24 : LimitlessMc, botchat, TherminatorX#6644, ;pbt gnsnwbnBGn
+26 Apr 2017 14:12:26 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 14:12:28 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 14:14:04 : LimitlessMc, botchat, TherminatorX#6644, ;pbt gnsnwbngbn
+26 Apr 2017 14:14:05 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 14:14:07 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 14:14:19 : LimitlessMc, botchat, TherminatorX#6644, Noice
+26 Apr 2017 14:14:41 : RooberBoobers, kinkyrubiestalk, navy#8336, im gay
+26 Apr 2017 14:15:21 : LimitlessMc, botchat, TherminatorX#6644, ;pbt gnsnwbngbn
+26 Apr 2017 14:15:24 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 14:15:26 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 14:15:40 : LimitlessMc, botchat, TherminatorX#6644, ;settype bug
+26 Apr 2017 14:15:40 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Bug type
+26 Apr 2017 14:17:07 : LimitlessMc, botchat, TherminatorX#6644, ;pbt wwwwwbngbw
+26 Apr 2017 14:17:10 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 14:17:12 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 14:19:18 : LimitlessMc, botchat, TherminatorX#6644, ;pb bbbbwbngbb
+26 Apr 2017 14:19:20 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 14:19:21 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 14:25:14 : LimitlessMc, botchat, TherminatorX#6644, ;pb dddbwbngbd
+26 Apr 2017 14:25:17 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 14:25:19 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 14:31:36 : LimitlessMc, botchat, TherminatorX#6644, ;pbt edebwbngbe
+26 Apr 2017 14:31:39 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 14:31:40 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 14:33:51 : LimitlessMc, botchat, TherminatorX#6644, ;pbt edfbwbngbf
+26 Apr 2017 14:33:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 14:33:55 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 14:34:11 : LimitlessMc, botchat, TherminatorX#6644, 😣
+26 Apr 2017 14:34:41 : LimitlessMc, botchat, TherminatorX#6644, ;pbs
+26 Apr 2017 14:34:43 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 14:38:18 : LimitlessMc, botchat, TherminatorX#6644, ;pbt edfbwbngbf
+26 Apr 2017 14:38:20 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 14:38:21 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 14:38:24 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 14:38:26 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 14:38:27 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 14:38:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 14:38:31 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 14:38:46 : LimitlessMc, botchat, TherminatorX#6644, ;pbs
+26 Apr 2017 14:38:46 : LimitlessMc, botchat, Botfuzzy77#2209, Level 69 Boss **Nidoqueen** has been defeated!
+26 Apr 2017 14:38:46 : LimitlessMc, botchat, Botfuzzy77#2209, Please use ;pokebattle <moves> hard to fight and reveal a new boss.
+26 Apr 2017 14:38:49 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 14:38:59 : LimitlessMc, botchat, TherminatorX#6644, ;pbt bbbbbbbbbb
+26 Apr 2017 14:39:03 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 14:39:04 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 14:45:08 : None, Direct Message with TherminatorX, TherminatorX#6644, Boop
+26 Apr 2017 14:46:23 : RooberBoobers, kinkyrubiestalk, Mr. Meeseeks#2757, We know.
+26 Apr 2017 15:00:54 : LimitlessMc, botchat, TherminatorX#6644, ;pbt dddddddbdd
+26 Apr 2017 15:00:56 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 15:00:58 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 15:01:13 : LimitlessMc, botchat, TherminatorX#6644, ;settype dragon
+26 Apr 2017 15:01:13 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Dragon type
+26 Apr 2017 15:16:58 : LimitlessMc, botchat, TherminatorX#6644, ;pb eeeeeedbed
+26 Apr 2017 15:17:00 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 15:17:03 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 15:22:57 : LimitlessMc, botchat, TherminatorX#6644, ;pbt ffffffdbfd
+26 Apr 2017 15:22:59 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 15:23:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 15:33:30 : LimitlessMc, botchat, TherminatorX#6644, ;pb ggfgfgdbgd
+26 Apr 2017 15:33:36 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 15:33:38 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 15:35:40 : LimitlessMc, botchat, theOnlyJuan#9357, ;trqin
+26 Apr 2017 15:35:46 : LimitlessMc, botchat, theOnlyJuan#9357, ;train
+26 Apr 2017 15:35:48 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 15:35:50 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 15:36:08 : LimitlessMc, botchat, theOnlyJuan#9357, ;pbs
+26 Apr 2017 15:36:10 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 15:36:49 : LimitlessMc, botchat, theOnlyJuan#9357, ;pbt eefefedbed
+26 Apr 2017 15:36:52 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 15:36:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 15:39:18 : LimitlessMc, botchat, theOnlyJuan#9357, ;pbt iififidbid
+26 Apr 2017 15:39:20 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 15:39:22 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 16:18:43 : None, Direct Message with TherminatorX, TherminatorX#6644, http://vignette1.wikia.nocookie.net/le-miiverse-resource/images/b/b0/Go_away.gif
+26 Apr 2017 16:18:53 : None, Direct Message with TherminatorX, TherminatorX#6644, http://vignette1.wikia.nocookie.net/le-miiverse-resource/images/b/b0/Go_away.gif/revision/latest?cb=20150806001622
+26 Apr 2017 16:20:16 : LimitlessMc, botchat, theOnlyJuan#9357, ;pbt nnfnfndbid
+26 Apr 2017 16:20:19 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 16:20:20 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 16:20:45 : LimitlessMc, botchat, theOnlyJuan#9357, ;types
+26 Apr 2017 16:20:45 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Possible Types ** =-
+:regional_indicator_n: ormal
+:regional_indicator_f: ire
+:regional_indicator_w: ater
+:regional_indicator_g: rass
+:regional_indicator_p: oison
+:regional_indicator_d: ragon
+:regional_indicator_s: teel
+:regional_indicator_e: lectric
+:regional_indicator_b: ug
+:regional_indicator_i: ce
+26 Apr 2017 16:21:04 : LimitlessMc, botchat, theOnlyJuan#9357, ;cd
+26 Apr 2017 16:21:04 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 16 seconds
+**Train**
+You can Train right now!
+**Gamble**
+You can Gamble right now!
+26 Apr 2017 16:21:11 : LimitlessMc, botchat, theOnlyJuan#9357, ;train
+26 Apr 2017 16:21:13 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 16:21:14 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 16:21:17 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 16:21:32 : LimitlessMc, botchat, theOnlyJuan#9357, ;pbt snfnfsdbid
+26 Apr 2017 16:21:32 : LimitlessMc, botchat, Bakafish#8693, ;train
+26 Apr 2017 16:21:34 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 16:21:36 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 16:21:38 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 16:21:39 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 16:21:52 : LimitlessMc, botchat, theOnlyJuan#9357, ;cd
+26 Apr 2017 16:21:52 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 46 seconds
+**Train**
+You need to wait 1,765 seconds
+**Gamble**
+You can Gamble right now!
+26 Apr 2017 16:22:00 : LimitlessMc, botchat, theOnlyJuan#9357, ;gamble
+26 Apr 2017 16:22:00 : LimitlessMc, botchat, Botfuzzy77#2209, You need to gamble atleast 9,842 XP
+26 Apr 2017 16:22:12 : LimitlessMc, botchat, theOnlyJuan#9357, ;gamble 9900
+26 Apr 2017 16:22:12 : LimitlessMc, botchat, Botfuzzy77#2209, You have lost your offering...
+26 Apr 2017 16:22:14 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 16:22:14 : LimitlessMc, botchat, Botfuzzy77#2209, You are exhausted from Gambling...
+26 Apr 2017 16:22:22 : LimitlessMc, botchat, theOnlyJuan#9357, Rip I always lose
+26 Apr 2017 16:22:36 : LimitlessMc, botchat, theOnlyJuan#9357, ;pbt pnfnfpdbid
+26 Apr 2017 16:22:36 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 2 seconds before you can fight the boss again.
+26 Apr 2017 16:22:44 : LimitlessMc, botchat, theOnlyJuan#9357, ;pbt pnfnfpdbid
+26 Apr 2017 16:22:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 16:22:48 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 16:24:12 : LimitlessMc, botchat, theOnlyJuan#9357, ;cd
+26 Apr 2017 16:24:12 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You need to wait 1,625 seconds
+**Gamble**
+You need to wait 2 seconds
+26 Apr 2017 16:24:17 : LimitlessMc, botchat, theOnlyJuan#9357, ;pbt wnfnfpdbid
+26 Apr 2017 16:24:20 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 16:24:22 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 16:33:20 : LimitlessMc, botchat, TherminatorX#6644, ;train
+26 Apr 2017 16:33:22 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 16:33:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 16:33:56 : LimitlessMc, botchat, TherminatorX#6644, ;settype fire
+26 Apr 2017 16:33:56 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Fire type
+26 Apr 2017 16:34:16 : LimitlessMc, botchat, TherminatorX#6644, ;pbt wdfnfpdbin
+26 Apr 2017 16:34:19 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 16:34:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 16:35:48 : LimitlessMc, botchat, TherminatorX#6644, ;pbt wbfnfpdbib
+26 Apr 2017 16:35:50 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 16:35:52 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 16:37:06 : LimitlessMc, botchat, TherminatorX#6644, ;pbt wdfnfpdbid
+26 Apr 2017 16:37:11 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 16:37:14 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 16:37:46 : LimitlessMc, botchat, TherminatorX#6644, ;pbt wefnfpdbie
+26 Apr 2017 16:37:46 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 28 seconds before you can fight the boss again.
+26 Apr 2017 16:38:25 : LimitlessMc, botchat, TherminatorX#6644, ;pbt wefnfpdbie
+26 Apr 2017 16:38:28 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 16:38:30 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 16:38:59 : LimitlessMc, botchat, TherminatorX#6644, ;cd
+26 Apr 2017 16:38:59 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 30 seconds
+**Train**
+You need to wait 1,466 seconds
+**Gamble**
+You can Gamble right now!
+26 Apr 2017 16:39:24 : LimitlessMc, botchat, TherminatorX#6644, ;pbt wffnfpdbif
+26 Apr 2017 16:39:24 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 5 seconds before you can fight the boss again.
+26 Apr 2017 16:39:31 : LimitlessMc, botchat, TherminatorX#6644, ;pbt wffnfpdbif
+26 Apr 2017 16:39:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 16:39:34 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 16:43:22 : None, Direct Message with TherminatorX, TherminatorX#6644, Boo
+26 Apr 2017 16:43:39 : LimitlessMc, botchat, TherminatorX#6644, ;pbt wgfnfpdbig
+26 Apr 2017 16:43:41 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 16:43:43 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 16:43:53 : LimitlessMc, botchat, TherminatorX#6644, Nice
+26 Apr 2017 16:44:21 : LimitlessMc, botchat, TherminatorX#6644, ;pbs
+26 Apr 2017 16:44:22 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 17:00:57 : LimitlessMc, botchat, theOnlyJuan#9357, ;pbt wgfnfpdbig
+26 Apr 2017 17:00:59 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 17:01:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 17:13:03 : LimitlessMc, mainchat, Lastshadow#5809, I may be pissed at a server owner
+26 Apr 2017 17:13:09 : LimitlessMc, mainchat, Lastshadow#5809, Not limitless
+26 Apr 2017 17:13:17 : LimitlessMc, mainchat, Lastshadow#5809, Before yall take offense
+26 Apr 2017 17:13:26 : LimitlessMc, mainchat, Lastshadow#5809, Not a limitless owner
+26 Apr 2017 17:13:39 : LimitlessMc, mainchat, Lastshadow#5809, K?
+26 Apr 2017 17:13:54 : LimitlessMc, mainchat, Lastshadow#5809, So, said server owner wants me to make them a logo
+26 Apr 2017 17:14:18 : LimitlessMc, mainchat, Lastshadow#5809, But, they will not tell me what they want!!!!!
+26 Apr 2017 17:14:36 : LimitlessMc, mainchat, Jay113355#4999, Thats called being dumb
+26 Apr 2017 17:16:56 : LimitlessMc, mainchat, Lastshadow#5809, :-;
+26 Apr 2017 17:17:14 : LimitlessMc, mainchat, Lastshadow#5809, It's been a month, and still nothing
+26 Apr 2017 17:17:22 : LimitlessMc, mainchat, Lastshadow#5809, Trying my best to be patient
+26 Apr 2017 17:17:39 : LimitlessMc, mainchat, Lastshadow#5809, I don't even have a theme
+26 Apr 2017 17:19:28 : LimitlessMc, mainchat, Lastshadow#5809, They're being a little whiney cause I kinda shoved the facts in their face
+26 Apr 2017 17:25:17 : LimitlessMc, mainchat, Lastshadow#5809, They also are planning to combine with small servers
+26 Apr 2017 17:25:26 : LimitlessMc, mainchat, Lastshadow#5809, So I need their contact information
+26 Apr 2017 17:25:32 : LimitlessMc, mainchat, Lastshadow#5809, And guess what
+26 Apr 2017 17:25:34 : LimitlessMc, mainchat, DicloniusPony#6564, i think they want you to surprise them
+26 Apr 2017 17:25:37 : LimitlessMc, mainchat, Lastshadow#5809, HE DON'T HAVE IT
+26 Apr 2017 17:25:53 : LimitlessMc, mainchat, Lastshadow#5809, Yeah, no, they want a theme
+26 Apr 2017 17:26:00 : LimitlessMc, mainchat, Lastshadow#5809, They just won't tell me what
+26 Apr 2017 17:26:37 : LimitlessMc, mainchat, Lightning#6734, for the record. i'm still alive
+26 Apr 2017 17:26:37 : LimitlessMc, mainchat, Lastshadow#5809, They're killing me
+26 Apr 2017 17:27:14 : LimitlessMc, mainchat, DicloniusPony#6564, is it a pixelmon server?
+26 Apr 2017 17:27:19 : LimitlessMc, mainchat, DicloniusPony#6564, describe to me what this server is
+26 Apr 2017 17:27:42 : LimitlessMc, mainchat, Lightning#6734, #inb4 hiro
+26 Apr 2017 17:27:45 : LimitlessMc, mainchat, Lightning#6734, kekek
+26 Apr 2017 17:28:30 : LimitlessMc, mainchat, Lastshadow#5809, It's spigot
+26 Apr 2017 17:28:42 : LimitlessMc, mainchat, Lastshadow#5809, Not pixelmon
+26 Apr 2017 17:28:58 : LimitlessMc, mainchat, Lastshadow#5809, They were going to have a side pixelmon server
+26 Apr 2017 17:29:10 : LimitlessMc, mainchat, Lastshadow#5809, But none of the staff were working on it
+26 Apr 2017 17:29:19 : LimitlessMc, mainchat, Lastshadow#5809, Btw I was the only staff who did
+26 Apr 2017 17:29:27 : LimitlessMc, mainchat, Lastshadow#5809, Yeah I was staff on there
+26 Apr 2017 17:29:34 : LimitlessMc, mainchat, Lastshadow#5809, But I resigned
+26 Apr 2017 17:30:25 : LimitlessMc, mainchat, Lastshadow#5809, I ran out of my meds and well
+26 Apr 2017 17:30:35 : LimitlessMc, mainchat, Lastshadow#5809, My ADHD became horrible
+26 Apr 2017 17:30:49 : LimitlessMc, mainchat, Lastshadow#5809, Aka my impulsive became uncontrollable
+26 Apr 2017 17:31:05 : RooberBoobers, kinkyrubiestalk, navy#8336, imgay
+26 Apr 2017 17:31:30 : LimitlessMc, mainchat, Lastshadow#5809, I ended up resigning because I couldn't function properly irl, how would I be a staff if I can't function normally?
+26 Apr 2017 17:31:49 : LimitlessMc, botchat, Lastshadow#5809, ;train
+26 Apr 2017 17:31:52 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 17:31:55 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 17:32:01 : LimitlessMc, botchat, Lastshadow#5809, ,level
+26 Apr 2017 17:32:10 : LimitlessMc, botchat, Lastshadow#5809, ;level
+26 Apr 2017 17:32:13 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 17:32:42 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, you dont need to keep repeating it
+26 Apr 2017 17:32:49 : LimitlessMc, mainchat, Lastshadow#5809, @Light can u go in the lightbot music channel and suggested music
+26 Apr 2017 17:32:53 : LimitlessMc, mainchat, Lastshadow#5809, Since I can't
+26 Apr 2017 17:34:07 : LimitlessMc, mainchat, Lastshadow#5809, :-;
+26 Apr 2017 17:34:10 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+26 Apr 2017 17:35:18 : LimitlessMc, mainchat, DicloniusPony#6564, ?
+26 Apr 2017 17:35:44 : LimitlessMc, mainchat, Lastshadow#5809, Lightbot doesn't work for mobile
+26 Apr 2017 17:35:48 : LimitlessMc, mainchat, Lastshadow#5809, :(
+26 Apr 2017 17:36:50 : LimitlessMc, mainchat, DicloniusPony#6564, rippp
+26 Apr 2017 17:36:51 : LimitlessMc, mainchat, DicloniusPony#6564, https://images.discordapp.net/.eJwNyEEOhCAMAMC_8ACKwhbwNwQJGpUSWuNhs39f5zhfdY9TLWoT6bwArDtnGqtmoZFq0ZWoniX1nXWmC5JIyttVmjBYY-ePd9b4GDxOMbi3MDg0zr8dzYQR4W5Ho6fp3qr6_QEI1iLt.gTU1ziQrkt3tUoYSIkym-X7IZ2I
+26 Apr 2017 17:36:56 : LimitlessMc, mainchat, DicloniusPony#6564, please kill me 😃
+26 Apr 2017 17:37:05 : LimitlessMc, mainchat, DicloniusPony#6564, horse anatomy is killing me
+26 Apr 2017 17:38:03 : LimitlessMc, mainchat, Lastshadow#5809, Your wings have the nice shape
+26 Apr 2017 17:38:12 : LimitlessMc, mainchat, DicloniusPony#6564, its from my game
+26 Apr 2017 17:38:19 : LimitlessMc, mainchat, Lastshadow#5809, Oh!
+26 Apr 2017 17:38:27 : LimitlessMc, mainchat, DicloniusPony#6564, its my favorite items
+26 Apr 2017 17:38:32 : LimitlessMc, mainchat, Lastshadow#5809, My bff
+26 Apr 2017 17:38:41 : LimitlessMc, mainchat, Lastshadow#5809, Would die for your drawings
+26 Apr 2017 17:38:42 : LimitlessMc, mainchat, Lastshadow#5809, Btw
+26 Apr 2017 17:38:47 : LimitlessMc, mainchat, DicloniusPony#6564, they call them Mech Angel Helmets and Mech Angel Wings
+26 Apr 2017 17:38:59 : LimitlessMc, mainchat, DicloniusPony#6564, eheh, my art isn't anything special
+26 Apr 2017 17:39:14 : LimitlessMc, mainchat, Lastshadow#5809, You don't even know....
+26 Apr 2017 17:39:25 : LimitlessMc, mainchat, DicloniusPony#6564, tbh, i know so many who are much better than me
+26 Apr 2017 17:42:52 : LimitlessMc, mainchat, Lightning#6734, Yea gimme a sec
+26 Apr 2017 17:43:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+26 Apr 2017 17:43:24 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 17:43:26 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 17:46:05 : LimitlessMc, mainchat, Wertfuzzy77#0274, @DicloniusPony If I've learned anything about playing piano, its that there is a small asian child who plays better than me. But that doesnt mean I don't play well, or my playing isnt special. No one else can play how I play, and no one else can draw how you draw 😛
+26 Apr 2017 17:46:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+26 Apr 2017 17:46:16 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 17:46:37 : LimitlessMc, mainchat, Lastshadow#5809, True wert
+26 Apr 2017 17:47:08 : LimitlessMc, mainchat, DicloniusPony#6564, **there are people who can draw like me, they are called Tracers and Art Thieves, unlike music, art can be stolen**
+26 Apr 2017 17:47:45 : LimitlessMc, mainchat, Lightning#6734, music can be stolen
+26 Apr 2017 17:47:49 : LimitlessMc, mainchat, Wertfuzzy77#0274, I mean, in that regard, music can be stolen even easier
+26 Apr 2017 17:47:52 : LimitlessMc, mainchat, Lightning#6734, and more oftenly is
+26 Apr 2017 17:47:57 : LimitlessMc, mainchat, Wertfuzzy77#0274, ^
+26 Apr 2017 17:48:12 : LimitlessMc, mainchat, Lightning#6734, also am alive
+26 Apr 2017 17:48:18 : LimitlessMc, mainchat, Wertfuzzy77#0274, Mine are just a set amount of notes on a keyboard, there can only be so many combinations
+26 Apr 2017 17:48:21 : LimitlessMc, mainchat, Lightning#6734, just going thru hard times which is why i've been away
+26 Apr 2017 17:48:25 : LimitlessMc, mainchat, DicloniusPony#6564, i dont know how someone can easily claim that motzarts music is theres XD
+26 Apr 2017 17:48:52 : LimitlessMc, botchat, Lightning#6734, ;train
+26 Apr 2017 17:48:55 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 17:48:58 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 17:49:01 : LimitlessMc, botchat, Lightning#6734, o-o
+26 Apr 2017 17:49:15 : LimitlessMc, botchat, Lightning#6734, wert since when is confetti!?
+26 Apr 2017 17:49:31 : LimitlessMc, botchat, Lightning#6734, ;level
+26 Apr 2017 17:49:34 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 17:49:45 : LimitlessMc, botchat, Lightning#6734, ;gamble 15842
+26 Apr 2017 17:49:45 : LimitlessMc, botchat, Botfuzzy77#2209, You have lost your offering...
+26 Apr 2017 17:49:48 : LimitlessMc, botchat, Lightning#6734, :C damn
+26 Apr 2017 17:49:48 : LimitlessMc, botchat, Wertfuzzy77#0274, since yesterday?
+26 Apr 2017 17:49:50 : LimitlessMc, botchat, Wertfuzzy77#0274, also
+26 Apr 2017 17:49:51 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 17:49:52 : LimitlessMc, botchat, Wertfuzzy77#0274, GET
+26 Apr 2017 17:49:53 : LimitlessMc, botchat, Wertfuzzy77#0274, A
+26 Apr 2017 17:49:55 : LimitlessMc, botchat, Wertfuzzy77#0274, BACKGROUND
+26 Apr 2017 17:49:56 : LimitlessMc, botchat, Wertfuzzy77#0274, YOU
+26 Apr 2017 17:49:58 : LimitlessMc, botchat, Wertfuzzy77#0274, UNPLUGGGED
+26 Apr 2017 17:50:00 : LimitlessMc, botchat, Wertfuzzy77#0274, TOASTER
+26 Apr 2017 17:50:00 : RooberBoobers, kinkyrubiestalk, navy#8336, i love my gf
+26 Apr 2017 17:50:02 : LimitlessMc, botchat, Lightning#6734, I HAVE
+26 Apr 2017 17:50:03 : LimitlessMc, botchat, Lightning#6734, ONE
+26 Apr 2017 17:50:04 : LimitlessMc, botchat, Lightning#6734, YOU
+26 Apr 2017 17:50:06 : LimitlessMc, botchat, Lightning#6734, FETUS
+26 Apr 2017 17:50:08 : LimitlessMc, botchat, Wertfuzzy77#0274, GET A GOOD ONE
+26 Apr 2017 17:50:11 : LimitlessMc, botchat, Lightning#6734, ;-;
+26 Apr 2017 17:50:14 : LimitlessMc, botchat, Wertfuzzy77#0274, YOURS IS 3/10
+26 Apr 2017 17:50:20 : LimitlessMc, botchat, Lightning#6734, MY HEART
+26 Apr 2017 17:50:21 : LimitlessMc, botchat, Lightning#6734, 💔
+26 Apr 2017 17:50:32 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, chat is slowly dying
+26 Apr 2017 17:50:43 : LimitlessMc, botchat, Wertfuzzy77#0274, you can do better than that 😛
+26 Apr 2017 17:50:43 : LimitlessMc, botchat, Lightning#6734, FINE i'll find better one
+26 Apr 2017 17:50:45 : LimitlessMc, botchat, Wertfuzzy77#0274, I believe in you
+26 Apr 2017 17:50:54 : LimitlessMc, botchat, Wertfuzzy77#0274, find one where your Waifu is from
+26 Apr 2017 17:50:59 : LimitlessMc, botchat, Lightning#6734, all the ones i wanted are way to big
+26 Apr 2017 17:51:10 : LimitlessMc, botchat, Lightning#6734, w8 california? o.O
+26 Apr 2017 17:51:21 : LimitlessMc, botchat, Wertfuzzy77#0274, no you walnut
+26 Apr 2017 17:51:25 : LimitlessMc, botchat, Lightning#6734, ik xD
+26 Apr 2017 17:51:26 : LimitlessMc, botchat, Wertfuzzy77#0274, your fake waifu
+26 Apr 2017 17:51:29 : LimitlessMc, botchat, Lightning#6734, o
+26 Apr 2017 17:51:37 : LimitlessMc, botchat, Wertfuzzy77#0274, where ever your icon is from
+26 Apr 2017 17:51:37 : LimitlessMc, botchat, Lightning#6734, iknewthat
+26 Apr 2017 17:51:39 : RooberBoobers, kinkyrubiestalk, navy#8336, rip
+26 Apr 2017 17:51:40 : LimitlessMc, botchat, Wertfuzzy77#0274, sureeee
+26 Apr 2017 17:51:41 : LimitlessMc, botchat, Lightning#6734, FF
+26 Apr 2017 17:51:43 : LimitlessMc, botchat, Lightning#6734, nub
+26 Apr 2017 17:51:48 : LimitlessMc, botchat, Lightning#6734, how u notknow ff?
+26 Apr 2017 17:52:25 : LimitlessMc, botchat, Wertfuzzy77#0274, well, cause I've never played em
+26 Apr 2017 17:52:41 : LimitlessMc, botchat, Wertfuzzy77#0274, seems like a cool series tho, just never had any of the games
+26 Apr 2017 17:52:58 : LimitlessMc, botchat, Lightning#6734, buy them
+26 Apr 2017 17:53:00 : LimitlessMc, botchat, Lightning#6734, play them
+26 Apr 2017 17:53:02 : LimitlessMc, botchat, Wertfuzzy77#0274, I cheap tho
+26 Apr 2017 17:53:03 : LimitlessMc, botchat, Lightning#6734, LOVE THEM
+26 Apr 2017 17:53:04 : LimitlessMc, botchat, Wertfuzzy77#0274, buy them for me
+26 Apr 2017 17:53:08 : LimitlessMc, botchat, Lightning#6734, bet
+26 Apr 2017 17:53:10 : LimitlessMc, botchat, Wertfuzzy77#0274, bet
+26 Apr 2017 17:53:17 : LimitlessMc, botchat, Lightning#6734, deviantart link works right?
+26 Apr 2017 17:53:41 : LimitlessMc, botchat, Wertfuzzy77#0274, as long as its a direct link
+26 Apr 2017 17:53:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ending with like .jpg
+26 Apr 2017 17:54:05 : LimitlessMc, botchat, Lightning#6734, will .png work
+26 Apr 2017 17:54:10 : LimitlessMc, botchat, Wertfuzzy77#0274, prob
+26 Apr 2017 17:54:16 : LimitlessMc, botchat, Wertfuzzy77#0274, sometimes pngs mess with the transparency
+26 Apr 2017 17:54:19 : LimitlessMc, botchat, Wertfuzzy77#0274, but you can try
+26 Apr 2017 17:54:21 : LimitlessMc, botchat, Lightning#6734, ;changeBackground http://pre10.deviantart.net/4f76/th/pre/f/2015/089/1/4/wallpaper___lightning__final_fantasy_xiii__by_z4riel-d8npfdc.png
+26 Apr 2017 17:54:21 : LimitlessMc, botchat, Botfuzzy77#2209, Changed Background sucessfully
+26 Apr 2017 17:54:35 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lookup Lightning
+26 Apr 2017 17:54:38 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 17:54:45 : LimitlessMc, botchat, Wertfuzzy77#0274, cool
+26 Apr 2017 17:54:47 : LimitlessMc, botchat, Wertfuzzy77#0274, .;color reset
+26 Apr 2017 17:54:57 : LimitlessMc, botchat, Lightning#6734, ;color reset
+26 Apr 2017 17:54:57 : LimitlessMc, botchat, Botfuzzy77#2209, Custom colors reset!
+26 Apr 2017 17:55:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lookup Lightning
+26 Apr 2017 17:55:04 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 17:55:23 : LimitlessMc, botchat, Lightning#6734, wew
+26 Apr 2017 17:55:24 : LimitlessMc, botchat, Wertfuzzy77#0274, get some XP lol, I can't tell what the XP bar's color is
+26 Apr 2017 17:55:40 : LimitlessMc, botchat, Lightning#6734, 0/46656
+26 Apr 2017 17:55:46 : LimitlessMc, botchat, Lightning#6734, ee
+26 Apr 2017 17:55:49 : LimitlessMc, botchat, Lightning#6734, ;pbs
+26 Apr 2017 17:55:55 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 17:56:01 : LimitlessMc, botchat, Wertfuzzy77#0274, #PBSforKids
+26 Apr 2017 17:56:06 : LimitlessMc, botchat, Lightning#6734, le
+26 Apr 2017 17:56:15 : LimitlessMc, botchat, Lightning#6734, ;pb wdwsnsis
+26 Apr 2017 17:56:19 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 17:56:22 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 17:56:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lookup Lightning
+26 Apr 2017 17:56:31 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 17:56:39 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+26 Apr 2017 17:56:42 : LimitlessMc, botchat, Wertfuzzy77#0274, still cant see xD
+26 Apr 2017 17:56:46 : LimitlessMc, botchat, Lightning#6734, xD
+26 Apr 2017 17:56:47 : LimitlessMc, botchat, Lightning#6734, ;cd
+26 Apr 2017 17:56:47 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 35 seconds
+**Train**
+You need to wait 1,330 seconds
+**Gamble**
+You can Gamble right now!
+26 Apr 2017 17:56:54 : LimitlessMc, botchat, Wertfuzzy77#0274, do ;color palette
+26 Apr 2017 17:56:55 : LimitlessMc, botchat, Lightning#6734, have to wait and train again ig
+26 Apr 2017 17:57:03 : LimitlessMc, botchat, Lightning#6734, ;color palette
+26 Apr 2017 17:57:03 : LimitlessMc, botchat, Botfuzzy77#2209, text_color : [199, 212, 218]
+box_color : [56, 43, 37]
+title_color : [132, 102, 75]
+bar_color : [107, 73, 64]
+26 Apr 2017 17:57:37 : LimitlessMc, botchat, Wertfuzzy77#0274, its like a brown
+26 Apr 2017 17:57:52 : LimitlessMc, botchat, Wertfuzzy77#0274, 
+26 Apr 2017 17:58:11 : LimitlessMc, botchat, Lightning#6734, uuu brown
+26 Apr 2017 18:01:36 : LimitlessMc, botchat, Wertfuzzy77#0274, ;server
+26 Apr 2017 18:01:37 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+26 Apr 2017 18:01:37 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 9 players out of 150
+ *Ping*: 115.368 ms
+ *MC Version*: 1.10.2
+26 Apr 2017 18:01:37 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.3
+26 Apr 2017 18:01:37 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *MalMemelord, TheLaughinHat, FearlessFalconX, GentlyGaming, Michaelscool15, talhachoudhry, HUGUETA, JOBarc, Bakafish...*
+26 Apr 2017 18:02:17 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=ZwzPd9UbitE
+26 Apr 2017 18:02:35 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;join
+26 Apr 2017 18:02:36 : LimitlessMc, voice-junk, Botfuzzy77#2209, Connected channel!
+26 Apr 2017 18:02:39 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=ZwzPd9UbitE
+26 Apr 2017 18:02:40 : LimitlessMc, voice-junk, Botfuzzy77#2209, Added 週刊少年ジャンプ RADWIMPS MV to the queue
+26 Apr 2017 18:02:55 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;loop
+26 Apr 2017 18:02:55 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;cycle
+26 Apr 2017 18:02:55 : LimitlessMc, voice-junk, Botfuzzy77#2209, Cycle Mode: True
+26 Apr 2017 18:02:56 : LimitlessMc, voice-junk, Botfuzzy77#2209, Added '*週刊少年ジャンプ RADWIMPS MV*' **1** more times
+26 Apr 2017 18:06:25 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;son
+26 Apr 2017 18:06:27 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;song
+26 Apr 2017 18:06:29 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+26 Apr 2017 18:06:54 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=ZwzPd9UbitE
+26 Apr 2017 18:07:00 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;leave
+26 Apr 2017 18:07:01 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;join
+26 Apr 2017 18:07:02 : LimitlessMc, voice-junk, Botfuzzy77#2209, Connected channel!
+26 Apr 2017 18:07:08 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=ZwzPd9UbitE
+26 Apr 2017 18:07:09 : LimitlessMc, voice-junk, Botfuzzy77#2209, Added 週刊少年ジャンプ RADWIMPS MV to the queue
+26 Apr 2017 18:07:12 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;loop 1
+26 Apr 2017 18:07:13 : LimitlessMc, voice-junk, Botfuzzy77#2209, Added '*週刊少年ジャンプ RADWIMPS MV*' **1** more times
+26 Apr 2017 18:07:13 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;cycle
+26 Apr 2017 18:07:14 : LimitlessMc, voice-junk, Botfuzzy77#2209, Cycle Mode: True
+26 Apr 2017 18:21:41 : LimitlessMc, mainchat, That-Guy-Gilly#6803, "It's been a month, and still nothing" take the hint
+26 Apr 2017 18:22:19 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;train
+26 Apr 2017 18:22:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 18:22:27 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 18:22:38 : LimitlessMc, mainchat, Lastshadow#5809, He's begged me to still do it. . .
+26 Apr 2017 18:22:46 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb wwwsnwiw
+26 Apr 2017 18:22:49 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 18:22:52 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 18:22:55 : LimitlessMc, mainchat, Lastshadow#5809, I'm too bloody nice
+26 Apr 2017 18:25:11 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb wfwsnfif
+26 Apr 2017 18:25:13 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 18:25:15 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 18:26:13 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb wgwsngif
+26 Apr 2017 18:26:13 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 2 seconds before you can fight the boss again.
+26 Apr 2017 18:26:19 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb wgwsngif
+26 Apr 2017 18:26:21 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 18:26:24 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 18:26:29 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;types
+26 Apr 2017 18:26:29 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Possible Types ** =-
+:regional_indicator_n: ormal
+:regional_indicator_f: ire
+:regional_indicator_w: ater
+:regional_indicator_g: rass
+:regional_indicator_p: oison
+:regional_indicator_d: ragon
+:regional_indicator_s: teel
+:regional_indicator_e: lectric
+:regional_indicator_b: ug
+:regional_indicator_i: ce
+26 Apr 2017 18:27:30 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb wpwsnpif
+26 Apr 2017 18:27:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 18:27:36 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 18:28:45 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb wswsndif
+26 Apr 2017 18:28:48 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 18:28:50 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 18:29:58 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb wewsneif
+26 Apr 2017 18:30:02 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 18:30:05 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 18:31:33 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;changeBackground http://cdn2.expertreviews.co.uk/sites/expertreviews/files/6/29//destiny1.jpg
+26 Apr 2017 18:31:33 : LimitlessMc, botchat, Botfuzzy77#2209, Changed Background sucessfully
+26 Apr 2017 18:31:39 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;level
+26 Apr 2017 18:31:43 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 18:31:49 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb wewsneif
+26 Apr 2017 18:31:52 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 18:31:54 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 18:32:56 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb wnnsnenf
+26 Apr 2017 18:33:00 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 18:33:03 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 18:33:09 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;settype normal
+26 Apr 2017 18:33:09 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Normal type
+26 Apr 2017 18:34:19 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb wwwsnenf
+26 Apr 2017 18:34:21 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 18:34:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 18:35:43 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb wffsnenf
+26 Apr 2017 18:35:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 18:35:50 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 18:36:05 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;server]
+26 Apr 2017 18:36:10 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;server
+26 Apr 2017 18:36:11 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+26 Apr 2017 18:36:11 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 5 players out of 150
+ *Ping*: 114.258 ms
+ *MC Version*: 1.10.2
+26 Apr 2017 18:36:11 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.3
+26 Apr 2017 18:36:11 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *Wertfuzzy77, Emito, talhachoudhry, MalMemelord, XxRex9999xX...*
+26 Apr 2017 18:37:08 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb wggsnenf
+26 Apr 2017 18:37:11 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 18:37:13 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 18:38:14 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb wggsnenf
+26 Apr 2017 18:38:15 : LimitlessMc, botchat, TherminatorX#6644, ;train
+26 Apr 2017 18:38:16 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 18:38:18 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 18:38:20 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 18:38:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 18:39:25 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb wngnnenf
+26 Apr 2017 18:39:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 18:39:31 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 18:49:14 : LimitlessMc, mainchat, 10_bit_sloth_YT#8480, ...
+26 Apr 2017 18:50:10 : LimitlessMc, adminchat, StubbyMuffins#1053, wtf is with this lightshadow tho O.O
+26 Apr 2017 18:50:23 : LimitlessMc, adminchat, StubbyMuffins#1053, or lastshadow i mean
+26 Apr 2017 18:55:56 : LimitlessMc, botchat, Wertfuzzy77#0274, gillyyyyyyyyyyy
+26 Apr 2017 18:55:58 : LimitlessMc, botchat, Wertfuzzy77#0274, do ;color reset when you change your bg
+26 Apr 2017 18:56:04 : LimitlessMc, botchat, theOnlyJuan#9357, ;cd
+26 Apr 2017 18:56:04 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You can Train right now!
+**Gamble**
+You can Gamble right now!
+26 Apr 2017 18:56:09 : LimitlessMc, botchat, theOnlyJuan#9357, ;train
+26 Apr 2017 18:56:11 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 18:56:12 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 18:56:52 : LimitlessMc, botchat, theOnlyJuan#9357, ;level
+26 Apr 2017 18:56:57 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 18:57:42 : LimitlessMc, botchat, theOnlyJuan#9357, ;hep
+26 Apr 2017 18:57:42 : LimitlessMc, botchat, Botfuzzy77#2209, Dont Be Lazy, Type ;help
+26 Apr 2017 18:57:47 : LimitlessMc, botchat, theOnlyJuan#9357, ;help
+26 Apr 2017 18:57:47 : None, Direct Message with theOnlyJuan, Botfuzzy77#2209, ```
+A Bot whose sole Purpose is to serve Wertfuzzy77! Version 0.15.1.3
+(Created by Wertfuzzy77)
+
+FlavorTexts:
+  kill             Adds Emotion
+  gif              Returns the First Found Image on Google Images for this Input
+  choose           Chooses from a set of things
+  fml              Returns a Random Post from fmylife.com
+  kiss             Adds Emotion
+  rate             Rates the Player
+  image            Returns the First Found Image on Google Images for this Input
+  lmgtfy           Returns a Link to a "Let me Google That For You" Page
+  wyr              
+  hug              Adds Emotion
+  hates            Adds Emotion
+  kys              
+  loves            Adds Emotion
+  conch            Ask the Magic Conch a Question
+  ev               
+  likes            Adds Emotion
+  funify           Funifies a given text input
+  rps              Allows the player to play Rock, Paper, Scissors with the B...
+  slap             Adds Emotion
+  pokemon          Returns Links to Pokemon pages
+  luck             Returns the Player's Luck
+  server           Returns Information on the Limitless MC server!
+Games:
+  cooldown         Shows your Cooldowns
+  settype          
+  train            Fights Pokemon for XP
+  pokeboss         Displays Boss Info
+  types            
+  pokebattle       Fights a Pokemon Boss
+  ranking          
+  recent           
+  lookup           Displays your Current Information
+  color            
+  gamble           
+  pokedex          
+  changeBackground 
+  pokehelp         Pokemon Battle Sim Help (Basically useless)
+  prestige         Allows you to prestige at the cost of levels
+  level            Displays your Current Information
+MusicPlayer:
+  extendplaylist   Extends a custom playlist
+  desc             Decription of the Current playing song
+  skip             Skips the Current song
+  makeplaylist     Makes a custom playlist for the bot to save
+  loop             Plays the current song again
+  youtube          Adds a Song for the Bot to Play
+```
+26 Apr 2017 18:57:47 : None, Direct Message with theOnlyJuan, Botfuzzy77#2209, ```
+  playlist         Adds songs from a predefined playlist to the songs list
+  search           Searches for a song
+  playlists        Shows all the current playlists
+  remove           removes a song from a queue by index
+  leave            Leaves the Join chat
+  shuffle          Shuffles the songs the queue
+  join             Joins the Voice channel you are currently in
+  Radio            Enables Radio Mode
+  viewplaylist     Views the songs of a playlists
+  recommend        Allow the bot to add up to 5 songs to the queue to have in...
+  music            Returns the current status of the Music Bot
+  clear            Clears the Queue
+  cycle            Tells the bot to cycle the current songs in the queue
+  song             Returns information about the current playing song
+  songs            Prints the songs in the queue
+  yplaylist        
+StaffCmds:
+  mute             
+  unmuteall        Unmutes ALL muted players
+  tempmute         
+  mutelist         
+  unmute           
+​No Category:
+  source           Returns a link to the source code for this bot
+  afk              Sets you as AFK, and the Bot will auto Reply for you with ...
+  status           Returns the Status of the Bot, along with Additional Infor...
+  joined           Says when a member joined.
+  help             Shows this message.
+  changeIcon       
+  cleverbot        
+  ark              Returns Info on Stubby's ARK server
+  invite           Returns a Link to the Invite URL for this bot
+  feedback         Returns a link to a Google Forums, where you can leave fee...
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+26 Apr 2017 19:00:25 : LimitlessMc, botchat, theOnlyJuan#9357, ;srbr
+26 Apr 2017 19:00:25 : LimitlessMc, botchat, Botfuzzy77#2209, Dont Be Lazy, Type ;server
+26 Apr 2017 19:01:33 : LimitlessMc, mainchat, theOnlyJuan#9357, Procrastinating on 3 projects that are due today , send help 💀
+26 Apr 2017 19:13:00 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+26 Apr 2017 19:13:02 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 19:13:04 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 19:13:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;recent
+26 Apr 2017 19:13:06 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 19:13:06 : LimitlessMc, botchat, Botfuzzy77#2209, **Wertfuzzy77**: *0* minutes ago
+**theOnlyJuan**: *16* minutes ago
+**That-Guy-Gilly**: *33* minutes ago
+**TherminatorX**: *34* minutes ago
+**Lightning**: *76* minutes ago
+**Lastshadow**: *100* minutes ago
+There have been *17* players active in the last 24 hours
+26 Apr 2017 19:18:52 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;train
+26 Apr 2017 19:18:54 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 19:18:57 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 19:27:04 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+26 Apr 2017 19:27:07 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 19:27:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lookup That-Guy-Gilly
+26 Apr 2017 19:27:22 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 19:28:47 : OblivionEvolved, server_news, StubbyMuffins#1053, @​everyone Server will be down for several hours i will be doing a rework of resources and removing monster hunting evolved mod i may also consider removing platforms pluss but that is still to be decided
+26 Apr 2017 19:55:49 : LimitlessMc, adminchat, That-Guy-Gilly#6803, weeb fgt
+26 Apr 2017 19:56:07 : LimitlessMc, adminchat, That-Guy-Gilly#6803, the autism is strong in that one
+26 Apr 2017 20:04:48 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+26 Apr 2017 20:04:50 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 20:06:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cd
+26 Apr 2017 20:06:02 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You can Train right now!
+**Gamble**
+You can Gamble right now!
+26 Apr 2017 20:06:04 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+26 Apr 2017 20:06:06 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 20:06:08 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 20:36:07 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, https://www.youtube.com/watch?v=VREZRv_SWYU
+26 Apr 2017 20:54:46 : LimitlessMc, botchat, TherminatorX#6644, ;train
+26 Apr 2017 20:54:48 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 20:54:51 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 20:55:47 : LimitlessMc, adminchat, StubbyMuffins#1053, for sure
+26 Apr 2017 21:06:45 : RooberBoobers, kinkyrubiestalk, Mr. Meeseeks#2757, 
+26 Apr 2017 21:07:36 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, 
+26 Apr 2017 21:11:36 : LimitlessMc, botchat, Lastshadow#5809, https://cdn.discordapp.com/attachments/204003501259358208/306899046709067776/Screenshot_2017-04-26-11-33-37-1.png
+26 Apr 2017 21:12:33 : RooberBoobers, kinkyrubiestalk, Mr. Meeseeks#2757, 
+26 Apr 2017 21:14:24 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, 
+26 Apr 2017 21:23:24 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, https://www.youtube.com/watch?v=Rldo32Zv42k
+26 Apr 2017 21:23:44 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;TRAIN
+26 Apr 2017 21:23:53 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;train
+26 Apr 2017 21:23:56 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 21:24:00 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 21:37:47 : RooberBoobers, kinkyrubiestalk, navy#8336, 
+26 Apr 2017 21:38:20 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, thats proper gf material there 👌
+26 Apr 2017 21:44:08 : RooberBoobers, kinkyrubiestalk, navy#8336, in the middle it says "lamb sauce detected" but i also love my gf
+26 Apr 2017 21:44:32 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, i know i can see it lmao
+26 Apr 2017 21:44:35 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, gAsp
+26 Apr 2017 21:45:10 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, im going out for awhile, lets hope im hit by a car and die 😃
+26 Apr 2017 21:45:21 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, fingers crossed bois
+26 Apr 2017 21:45:26 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, *jesus*
+26 Apr 2017 21:45:44 : RooberBoobers, kinkyrubiestalk, ComradeBismuth#5997, Where's that pic from?
+26 Apr 2017 21:45:56 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, that picture idk, its just a meme '
+26 Apr 2017 21:46:02 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, 
+26 Apr 2017 21:46:12 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, actually sam edited it
+26 Apr 2017 21:46:23 : RooberBoobers, kinkyrubiestalk, navy#8336, i made it
+26 Apr 2017 21:46:23 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, its on her deviantart lmao
+26 Apr 2017 21:46:26 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, i've seen it on google before XD
+26 Apr 2017 21:46:45 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, its spreading like a disease
+26 Apr 2017 21:46:55 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, my wif is famous w o w
+26 Apr 2017 21:46:58 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+26 Apr 2017 21:47:10 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, *pats*
+26 Apr 2017 21:49:10 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, jeSUS CHRIST I JUST FOUND THIS AND I'M FUCKING GAGGING
+26 Apr 2017 21:56:57 : RooberBoobers, kinkyrubiestalk, navy#8336, hot
+26 Apr 2017 22:10:06 : RooberBoobers, kinkyrubiestalk, navy#8336, 
+26 Apr 2017 22:17:47 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;train
+26 Apr 2017 22:17:51 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:17:54 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:18:20 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb wngnnenf
+26 Apr 2017 22:18:24 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:18:26 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:19:33 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb wwgnnewf
+26 Apr 2017 22:19:40 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:19:42 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:20:47 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb wfgnneff
+26 Apr 2017 22:20:50 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:20:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:22:02 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb wggnnegf
+26 Apr 2017 22:22:07 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:22:10 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:22:12 : LimitlessMc, voice-junk, Third_Worm#4804, @Mal name of song?
+26 Apr 2017 22:22:12 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;types
+26 Apr 2017 22:22:12 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Possible Types ** =-
+:regional_indicator_n: ormal
+:regional_indicator_f: ire
+:regional_indicator_w: ater
+:regional_indicator_g: rass
+:regional_indicator_p: oison
+:regional_indicator_d: ragon
+:regional_indicator_s: teel
+:regional_indicator_e: lectric
+:regional_indicator_b: ug
+:regional_indicator_i: ce
+26 Apr 2017 22:22:18 : LimitlessMc, voice-junk, Third_Worm#4804, *cough* parody i mean
+26 Apr 2017 22:23:09 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb wpgnnepf
+26 Apr 2017 22:23:09 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 1 seconds before you can fight the boss again.
+26 Apr 2017 22:23:16 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb wpgnnepf
+26 Apr 2017 22:23:19 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:23:21 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:24:24 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb wdgnnedf
+26 Apr 2017 22:24:28 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:24:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:26:06 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb wsgnnesf
+26 Apr 2017 22:26:08 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:26:12 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:27:32 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb wegnneef
+26 Apr 2017 22:27:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:27:37 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:28:54 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb wegnneef
+26 Apr 2017 22:28:56 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:28:59 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:29:05 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:30:03 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb wngenenf
+26 Apr 2017 22:30:03 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 2 seconds before you can fight the boss again.
+26 Apr 2017 22:30:09 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb wngenenf
+26 Apr 2017 22:30:11 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:30:14 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:30:29 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;settype water
+26 Apr 2017 22:30:29 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Water type
+26 Apr 2017 22:31:16 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb wwgwnewf
+26 Apr 2017 22:31:19 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:31:21 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:32:19 : LimitlessMc, mainchat, Bakafish#8693, hep
+26 Apr 2017 22:32:24 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb wwgwnewf
+26 Apr 2017 22:32:27 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:32:30 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:32:47 : LimitlessMc, botchat, Bakafish#8693, ;train
+26 Apr 2017 22:32:49 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:32:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:33:30 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb nngwnewf
+26 Apr 2017 22:33:32 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:33:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:34:27 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb ffgwnewf
+26 Apr 2017 22:34:27 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 8 seconds before you can fight the boss again.
+26 Apr 2017 22:35:04 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb ffgwnewf
+26 Apr 2017 22:35:09 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:35:13 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:35:15 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:35:17 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:35:21 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:35:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:35:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:40:42 : RooberBoobers, kinkyrubiestalk, ComradeBismuth#5997, Again, where;s that Sapphire pic from???
+26 Apr 2017 22:43:27 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;server
+26 Apr 2017 22:43:27 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+26 Apr 2017 22:43:27 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 8 players out of 150
+ *Ping*: 110.457 ms
+ *MC Version*: 1.10.2
+26 Apr 2017 22:43:27 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.3
+26 Apr 2017 22:43:27 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *Third_Worm, Fiodor, JustinOPGamer, SALIRED, razar_sly12, darthkota98, MalMemelord, trist246...*
+26 Apr 2017 22:46:47 : LimitlessMc, botchat, Crystal4209#4698, ;train
+26 Apr 2017 22:46:48 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:46:51 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:46:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:46:59 : LimitlessMc, botchat, Crystal4209#4698, Reeee
+26 Apr 2017 22:47:09 : LimitlessMc, botchat, Lastshadow#5809, :train
+26 Apr 2017 22:47:20 : LimitlessMc, botchat, Lastshadow#5809, ;train
+26 Apr 2017 22:47:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:47:26 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:47:34 : LimitlessMc, botchat, Lastshadow#5809, ;level
+26 Apr 2017 22:47:39 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:48:41 : LimitlessMc, mainchat, Wertfuzzy77#0274, *sends non-helpful hep*
+26 Apr 2017 22:49:28 : LimitlessMc, mainchat, Crystal4209#4698, Reeee
+26 Apr 2017 22:49:35 : LimitlessMc, mainchat, Lastshadow#5809, XD
+26 Apr 2017 22:50:18 : LimitlessMc, voice-junk, Lastshadow#5809, @Crystal4209 I am in a library
+26 Apr 2017 22:50:21 : LimitlessMc, voice-junk, Lastshadow#5809, I can't talk lel
+26 Apr 2017 22:50:26 : LimitlessMc, voice-junk, Lastshadow#5809, But I have headphones
+26 Apr 2017 22:50:34 : LimitlessMc, voice-junk, Lastshadow#5809, OH
+26 Apr 2017 22:50:46 : LimitlessMc, voice-junk, Lastshadow#5809, Crystal imma pm you something I made
+26 Apr 2017 22:50:52 : LimitlessMc, voice-junk, Third_Worm#4804, *chews intense gum*
+26 Apr 2017 22:51:10 : Pulse, game-chat, JustinOPGamer#9138, ;train
+26 Apr 2017 22:51:10 : Pulse, game-chat, Botfuzzy77#2209, 
+26 Apr 2017 22:51:10 : Pulse, game-chat, Botfuzzy77#2209, 
+26 Apr 2017 22:55:33 : LimitlessMc, botchat, Crystal4209#4698, ;level
+26 Apr 2017 22:55:40 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:56:30 : RooberBoobers, kinkyrubiestalk, navy#8336, it's drawn by an artist on pixiv
+26 Apr 2017 22:56:36 : RooberBoobers, kinkyrubiestalk, navy#8336, i made the meme edit
+26 Apr 2017 22:57:56 : RooberBoobers, kinkyrubiestalk, navy#8336, 
+26 Apr 2017 22:58:00 : RooberBoobers, kinkyrubiestalk, navy#8336, here
+26 Apr 2017 22:58:18 : RooberBoobers, kinkyrubiestalk, navy#8336, @Anabea it,s you
+26 Apr 2017 22:58:29 : LimitlessMc, botchat, TherminatorX#6644, ;level
+26 Apr 2017 22:58:34 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:58:39 : LimitlessMc, botchat, TherminatorX#6644, ;train
+26 Apr 2017 22:58:41 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:58:44 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 22:58:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 23:00:01 : LimitlessMc, voice-junk, Lastshadow#5809, I want town of salem!#!!!!!!!
+26 Apr 2017 23:00:11 : LimitlessMc, voice-junk, Lastshadow#5809, But I'm at school
+26 Apr 2017 23:00:13 : LimitlessMc, voice-junk, Lastshadow#5809, Lel
+26 Apr 2017 23:03:31 : LimitlessMc, voice-junk, Lastshadow#5809, (>○□○)>
+26 Apr 2017 23:03:53 : LimitlessMc, botchat, TherminatorX#6644, ;pbs
+26 Apr 2017 23:03:56 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 23:04:25 : LimitlessMc, voice-junk, Lastshadow#5809, I had to hand make that ;~~;
+26 Apr 2017 23:04:54 : LimitlessMc, botchat, TherminatorX#6644, ;pbt bgbbbpdbig
+26 Apr 2017 23:04:56 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 23:04:58 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 23:05:06 : LimitlessMc, botchat, TherminatorX#6644, ;settype grass
+26 Apr 2017 23:05:06 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Grass type
+26 Apr 2017 23:05:41 : LimitlessMc, mainchat, Third_Worm#4804, @Lastshadow nu come back
+26 Apr 2017 23:06:18 : LimitlessMc, mainchat, Third_Worm#4804, @That-Guy-Gilly Crystal wants you in here
+26 Apr 2017 23:06:38 : LimitlessMc, mainchat, Third_Worm#4804, obviously the wrong way
+26 Apr 2017 23:06:54 : LimitlessMc, mainchat, That-Guy-Gilly#6803, Third_Worm - Today at 12:06 AM
+@That-Guy-Gilly Crystal wants you in her
+26 Apr 2017 23:07:17 : LimitlessMc, mainchat, Third_Worm#4804, gilly i didn't say her
+26 Apr 2017 23:07:23 : LimitlessMc, mainchat, That-Guy-Gilly#6803, 😉
+26 Apr 2017 23:07:32 : LimitlessMc, mainchat, Third_Worm#4804, /qoute 306929011659898880
+26 Apr 2017 23:07:43 : LimitlessMc, mainchat, Third_Worm#4804, /quote /qoute 306929011659898880
+26 Apr 2017 23:07:45 : LimitlessMc, mainchat, Third_Worm#4804, fuck
+26 Apr 2017 23:07:49 : LimitlessMc, mainchat, That-Guy-Gilly#6803, no thanks
+26 Apr 2017 23:07:52 : LimitlessMc, mainchat, Third_Worm#4804, /quote 306929011659898880
+26 Apr 2017 23:08:02 : LimitlessMc, mainchat, Third_Worm#4804, carl
+26 Apr 2017 23:08:27 : LimitlessMc, mainchat, Third_Worm#4804, g8 i broke carl
+26 Apr 2017 23:11:05 : LimitlessMc, mainchat, Lastshadow#5809, My mom called me @Third_Worm
+26 Apr 2017 23:11:09 : LimitlessMc, mainchat, Lastshadow#5809, ._.
+26 Apr 2017 23:11:21 : LimitlessMc, mainchat, Lastshadow#5809, Wtf is wrong with carl?
+26 Apr 2017 23:11:33 : LimitlessMc, mainchat, Lastshadow#5809, -__-
+26 Apr 2017 23:11:40 : LimitlessMc, mainchat, That-Guy-Gilly#6803, hate when my mum calls me third worm
+26 Apr 2017 23:11:47 : LimitlessMc, mainchat, Lastshadow#5809, I don't
+26 Apr 2017 23:11:51 : LimitlessMc, mainchat, Lastshadow#5809, Lol
+26 Apr 2017 23:12:01 : LimitlessMc, mainchat, Lastshadow#5809, But she called me in the library
+26 Apr 2017 23:12:16 : LimitlessMc, mainchat, Lastshadow#5809, X
+26 Apr 2017 23:12:22 : LimitlessMc, mainchat, Lastshadow#5809, Oh I get it niw
+26 Apr 2017 23:12:26 : LimitlessMc, mainchat, Lastshadow#5809, Now
+26 Apr 2017 23:12:34 : LimitlessMc, mainchat, Lastshadow#5809, Carl, good boy
+26 Apr 2017 23:12:42 : LimitlessMc, mainchat, Lastshadow#5809, You're not broken anymore
+26 Apr 2017 23:12:53 : LimitlessMc, mainchat, Lastshadow#5809, Nvm
+26 Apr 2017 23:13:09 : LimitlessMc, mainchat, Lastshadow#5809, @Third_Worm Fix carl!!!!!
+26 Apr 2017 23:13:12 : LimitlessMc, mainchat, Crystal4209#4698, @(Not Really)Head Mod AlphaBit join voice
+26 Apr 2017 23:13:24 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, ugh
+26 Apr 2017 23:13:30 : LimitlessMc, mainchat, Lastshadow#5809, @Jay113355 Third broke @Carl
+26 Apr 2017 23:13:32 : LimitlessMc, mainchat, (Not Really)Head Mod AlphaBit#3869, No weeb
+26 Apr 2017 23:13:44 : LimitlessMc, mainchat, Crystal4209#4698, @(Not Really)Head Mod AlphaBit go to school then
+26 Apr 2017 23:13:45 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, i have to take medicine for my tonsillitis
+26 Apr 2017 23:13:49 : LimitlessMc, mainchat, Lastshadow#5809, Fix him plz
+26 Apr 2017 23:13:52 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, and it tastes like motor oil
+26 Apr 2017 23:13:53 : LimitlessMc, mainchat, (Not Really)Head Mod AlphaBit#3869, No weeb
+26 Apr 2017 23:14:10 : LimitlessMc, mainchat, Third_Worm#4804, /quote 306930903471489024
+26 Apr 2017 23:14:25 : LimitlessMc, mainchat, Lastshadow#5809, Third stawwwp
+26 Apr 2017 23:14:25 : LimitlessMc, mainchat, (Not Really)Head Mod AlphaBit#3869, 💪🏻🐸👌🏻
+26 Apr 2017 23:14:37 : LimitlessMc, mainchat, Lastshadow#5809, @Jay113355 Carl's dead
+26 Apr 2017 23:14:45 : LimitlessMc, mainchat, Lastshadow#5809, Or dying
+26 Apr 2017 23:14:52 : LimitlessMc, mainchat, Lastshadow#5809, Probs dying
+26 Apr 2017 23:15:00 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, like if you want to make me feel better
+26 Apr 2017 23:15:14 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, will you please not make me sick in the process thank you
+26 Apr 2017 23:15:36 : RooberBoobers, kinkyrubiestalk, navy#8336, r i p
+26 Apr 2017 23:15:39 : LimitlessMc, mainchat, That-Guy-Gilly#6803, (Not Really)Head Mod AlphaBit - Today at 12:13 AM
+No weeb
+26 Apr 2017 23:15:41 : LimitlessMc, mainchat, That-Guy-Gilly#6803, agree
+26 Apr 2017 23:15:48 : LimitlessMc, mainchat, Lastshadow#5809, Caaarrrrrlllll
+26 Apr 2017 23:15:48 : LimitlessMc, mainchat, (Not Really)Head Mod AlphaBit#3869, Le
+26 Apr 2017 23:15:55 : RooberBoobers, kinkyrubiestalk, navy#8336, get well so o n
+26 Apr 2017 23:16:05 : LimitlessMc, mainchat, Crystal4209#4698, @Wertfuzzy77 can you quote something to fix carl?
+26 Apr 2017 23:16:11 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, how does one even make a cure that tastes like death its beyond me
+26 Apr 2017 23:16:13 : LimitlessMc, mainchat, Crystal4209#4698, Oi I ain't a weeb
+26 Apr 2017 23:16:14 : LimitlessMc, mainchat, Wertfuzzy77#0274, hmm?
+26 Apr 2017 23:16:23 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, **smOrch**
+26 Apr 2017 23:16:25 : LimitlessMc, mainchat, Crystal4209#4698, Carl is broken
+26 Apr 2017 23:16:26 : LimitlessMc, mainchat, Wertfuzzy77#0274, /quote 306931401209413643
+26 Apr 2017 23:16:30 : LimitlessMc, mainchat, Third_Worm#4804, i tried to /quote
+26 Apr 2017 23:16:33 : LimitlessMc, mainchat, Third_Worm#4804, ah
+26 Apr 2017 23:16:48 : LimitlessMc, mainchat, Third_Worm#4804, he tried le @Crystal4209
+26 Apr 2017 23:16:53 : RooberBoobers, kinkyrubiestalk, navy#8336, **smorc h**
+26 Apr 2017 23:16:55 : LimitlessMc, mainchat, Third_Worm#4804, you hear mine if i was unmuted
+26 Apr 2017 23:17:15 : LimitlessMc, mainchat, Third_Worm#4804, fair enough
+26 Apr 2017 23:17:17 : LimitlessMc, mainchat, Lastshadow#5809, Carl :-;
+26 Apr 2017 23:17:27 : LimitlessMc, mainchat, Lastshadow#5809, (>○□○)> why you broken!
+26 Apr 2017 23:17:56 : LimitlessMc, mainchat, Lastshadow#5809, @Light fix carl
+26 Apr 2017 23:17:56 : LimitlessMc, mainchat, Lastshadow#5809, Lz
+26 Apr 2017 23:18:06 : LimitlessMc, mainchat, Wertfuzzy77#0274, we don't have source code or console access to carl
+26 Apr 2017 23:18:12 : LimitlessMc, mainchat, Lastshadow#5809, Fix em
+26 Apr 2017 23:18:16 : LimitlessMc, mainchat, Lastshadow#5809, Someone
+26 Apr 2017 23:18:18 : LimitlessMc, mainchat, Lastshadow#5809, Plz
+26 Apr 2017 23:18:22 : LimitlessMc, mainchat, Wertfuzzy77#0274, only jay can
+26 Apr 2017 23:18:29 : LimitlessMc, mainchat, Lastshadow#5809, He's suffering
+26 Apr 2017 23:18:32 : LimitlessMc, mainchat, Wertfuzzy77#0274, prob
+26 Apr 2017 23:19:04 : LimitlessMc, mainchat, Lastshadow#5809, (: ~ ;)
+26 Apr 2017 23:19:32 : LimitlessMc, mainchat, Lastshadow#5809, Killing my phone
+26 Apr 2017 23:19:36 : LimitlessMc, mainchat, Lastshadow#5809, 20%
+26 Apr 2017 23:19:39 : LimitlessMc, mainchat, Crystal4209#4698, @Wertfuzzy77 gimme puppers k thanks 😄
+26 Apr 2017 23:19:48 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, i lvoe my wif
+26 Apr 2017 23:19:51 : LimitlessMc, mainchat, Wertfuzzy77#0274, wut
+26 Apr 2017 23:20:59 : LimitlessMc, botchat, Crystal4209#4698, ;image pupper
+26 Apr 2017 23:21:01 : LimitlessMc, mainchat, Wertfuzzy77#0274, heh
+26 Apr 2017 23:21:01 : LimitlessMc, botchat, Botfuzzy77#2209, http://i3.kym-cdn.com/entries/icons/original/000/018/729/L6ZwR4K.jpg
+26 Apr 2017 23:21:06 : LimitlessMc, mainchat, Wertfuzzy77#0274, blocked carl to stop seeing him typing
+26 Apr 2017 23:21:25 : LimitlessMc, botchat, TherminatorX#6644, ;pbt dgdddpddig
+26 Apr 2017 23:21:28 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 23:21:30 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 23:21:32 : LimitlessMc, botchat, Wertfuzzy77#0274, ;server
+26 Apr 2017 23:21:33 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+26 Apr 2017 23:21:33 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 8 players out of 150
+ *Ping*: 114.487 ms
+ *MC Version*: 1.10.2
+26 Apr 2017 23:21:33 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.3
+26 Apr 2017 23:21:33 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *darthkota98, trist246, Fiodor, SALIRED, Bakafish, FearlessFalconX, JustinOPGamer, Third_Worm...*
+26 Apr 2017 23:21:36 : LimitlessMc, botchat, Crystal4209#4698, Sleep tight pupper
+26 Apr 2017 23:21:52 : LimitlessMc, botchat, TherminatorX#6644, ^very superstitious
+26 Apr 2017 23:21:57 : LimitlessMc, botchat, Crystal4209#4698, ;image pupper
+26 Apr 2017 23:21:58 : LimitlessMc, botchat, Botfuzzy77#2209, http://i3.kym-cdn.com/entries/icons/original/000/018/729/L6ZwR4K.jpg
+26 Apr 2017 23:22:04 : LimitlessMc, botchat, Crystal4209#4698, ;-;
+26 Apr 2017 23:22:08 : LimitlessMc, botchat, TherminatorX#6644, ^writing on the walls
+26 Apr 2017 23:22:14 : LimitlessMc, botchat, Crystal4209#4698, ;image puppy
+26 Apr 2017 23:22:16 : LimitlessMc, botchat, Botfuzzy77#2209, http://cdn3-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-21.jpg
+26 Apr 2017 23:22:32 : LimitlessMc, botchat, Wertfuzzy77#0274, I mean, its gonna be the same image everytime for the same search
+26 Apr 2017 23:22:35 : LimitlessMc, botchat, Crystal4209#4698, ;image cute pupper
+26 Apr 2017 23:22:38 : LimitlessMc, botchat, Botfuzzy77#2209, http://i.imgur.com/YT00vai.jpg
+26 Apr 2017 23:22:41 : LimitlessMc, botchat, Wertfuzzy77#0274, you have to do ;gif to get random things
+26 Apr 2017 23:22:43 : LimitlessMc, botchat, TherminatorX#6644, ;gif pupper
+26 Apr 2017 23:22:44 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/puppy-fuzzy-pupper-7pY7FRdqpWM48/giphy.gif
+26 Apr 2017 23:22:49 : LimitlessMc, botchat, Wertfuzzy77#0274, but for some reason
+26 Apr 2017 23:22:53 : LimitlessMc, botchat, Wertfuzzy77#0274, gifs dont load
+26 Apr 2017 23:23:20 : LimitlessMc, botchat, TherminatorX#6644, ;pbt egdeepdeig
+26 Apr 2017 23:23:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 23:23:23 : LimitlessMc, mainchat, Third_Worm#4804, i got 20 @Crystal4209
+26 Apr 2017 23:23:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Apr 2017 23:23:35 : LimitlessMc, mainchat, Third_Worm#4804, ye le
+26 Apr 2017 23:23:45 : LimitlessMc, mainchat, Third_Worm#4804, lol
+26 Apr 2017 23:24:01 : LimitlessMc, mainchat, Third_Worm#4804, not as bad as the kids at my school crystal
+26 Apr 2017 23:25:29 : LimitlessMc, botchat, TherminatorX#6644, ;gif load
+26 Apr 2017 23:25:30 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/bntfIoLO9AyY0/giphy.gif
+26 Apr 2017 23:25:39 : LimitlessMc, botchat, TherminatorX#6644, http://giphy.com/gifs/bntfIoLO9AyY0/giphy.gif
+26 Apr 2017 23:25:43 : LimitlessMc, botchat, TherminatorX#6644, hmm
+26 Apr 2017 23:25:45 : LimitlessMc, botchat, Wertfuzzy77#0274, ya
+26 Apr 2017 23:25:47 : LimitlessMc, botchat, Wertfuzzy77#0274, is weird
+26 Apr 2017 23:25:56 : LimitlessMc, botchat, TherminatorX#6644, https://giphy.com/gifs/bntfIoLO9AyY0
+26 Apr 2017 23:26:04 : LimitlessMc, botchat, Wertfuzzy77#0274, hmmmmmmmmmmmmmmm
+26 Apr 2017 23:26:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;relog

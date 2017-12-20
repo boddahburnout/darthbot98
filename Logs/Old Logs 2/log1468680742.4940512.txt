@@ -1,0 +1,16 @@
+16 Jul 2016 14:52:29 : LimitlessMc , Wertfuzzy77#0274 , ;join
+16 Jul 2016 14:52:33 : LimitlessMc , Wertfuzzy77#0274 , ;playlist Adele
+16 Jul 2016 14:52:37 : LimitlessMc , Botfuzzy77#2209 , Finished Adding songs from playlist(s)
+16 Jul 2016 14:52:40 : LimitlessMc , Wertfuzzy77#0274 , ;song
+16 Jul 2016 14:52:40 : LimitlessMc , Botfuzzy77#2209 , No Song Playing, [name 'datetime' is not defined]
+16 Jul 2016 14:52:40 : LimitlessMc , Botfuzzy77#2209 , No Song Playing, ['NoneType' object has no attribute 'title']
+16 Jul 2016 14:52:46 : LimitlessMc , Wertfuzzy77#0274 , ;song
+16 Jul 2016 14:52:47 : LimitlessMc , Botfuzzy77#2209 , No Song Playing, ['NoneType' object has no attribute 'title']
+16 Jul 2016 14:52:47 : LimitlessMc , Botfuzzy77#2209 , No Song Playing, [name 'datetime' is not defined]
+16 Jul 2016 14:53:25 : LimitlessMc , Wertfuzzy77#0274 , ;reload
+16 Jul 2016 14:53:25 : LimitlessMc , Botfuzzy77#2209 , Reloaded all Modules
+16 Jul 2016 14:53:25 : LimitlessMc , Botfuzzy77#2209 , Reloaded all Modules
+16 Jul 2016 14:53:32 : LimitlessMc , Wertfuzzy77#0274 , ;shutdown
+16 Jul 2016 14:53:32 : LimitlessMc , Botfuzzy77#2209 , Ok :(
+16 Jul 2016 14:53:32 : LimitlessMc , Botfuzzy77#2209 , Ok :(
+16 Jul 2016 14:53:32 : LimitlessMc , Botfuzzy77#2209 , Gooodbye cruel world

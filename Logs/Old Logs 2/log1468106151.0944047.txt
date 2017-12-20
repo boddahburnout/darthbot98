@@ -1,0 +1,143 @@
+09 Jul 2016 23:16:05 : LimitlessMc , Wertfuzzy77#0274 , ;rate
+09 Jul 2016 23:16:05 : The Pleb Privateers , enragednuke#2565 , lol prob leveling up new killer
+09 Jul 2016 23:16:05 : LimitlessMc , Botfuzzy77#2209 , Wertfuzzy77 is Basically Garbage
+09 Jul 2016 23:16:07 : LimitlessMc , Wertfuzzy77#0274 , xD
+09 Jul 2016 23:16:10 : LimitlessMc , Wertfuzzy77#0274 , thx <@187609093001838602>
+09 Jul 2016 23:16:10 : LimitlessMc , Botfuzzy77#2209 , Wut
+09 Jul 2016 23:16:17 : The Pleb Privateers , Wertfuzzy77#0274 , ;rate
+09 Jul 2016 23:16:17 : The Pleb Privateers , Botfuzzy77#2209 , Wertfuzzy77 is Basically Garbage
+09 Jul 2016 23:16:21 : The Pleb Privateers , Wertfuzzy77#0274 , D:
+09 Jul 2016 23:16:27 : The Pleb Privateers , enragednuke#2565 , LOL
+09 Jul 2016 23:16:35 : The Pleb Privateers , enragednuke#2565 , get yo bot outta my DBD channel foo
+09 Jul 2016 23:16:47 : The Pleb Privateers , Wertfuzzy77#0274 , ;kys <@187609093001838602>
+09 Jul 2016 23:16:47 : The Pleb Privateers , Botfuzzy77#2209 , Wut
+09 Jul 2016 23:16:52 : The Pleb Privateers , Wertfuzzy77#0274 , ;kys
+09 Jul 2016 23:16:52 : The Pleb Privateers , Botfuzzy77#2209 , Sure, just gimme some bleach
+09 Jul 2016 23:17:23 : LimitlessMc , Genesect#6492 , ;rate
+09 Jul 2016 23:17:23 : LimitlessMc , Botfuzzy77#2209 , Genesect is Basically Garbage
+09 Jul 2016 23:17:25 : LimitlessMc , Genesect#6492 , FUK
+09 Jul 2016 23:17:26 : LimitlessMc , Genesect#6492 , U
+09 Jul 2016 23:17:28 : LimitlessMc , Wertfuzzy77#0274 , xD
+09 Jul 2016 23:17:41 : LimitlessMc , Wertfuzzy77#0274 , literally same method
+09 Jul 2016 23:17:42 : LimitlessMc , Genesect#6492 , ;rate Botfuzzy77'screator
+09 Jul 2016 23:17:42 : LimitlessMc , Botfuzzy77#2209 , Genesect is Basically Garbage
+09 Jul 2016 23:17:45 : LimitlessMc , Genesect#6492 , xD
+09 Jul 2016 23:17:48 : LimitlessMc , Genesect#6492 , F&U*qfj[owgf
+09 Jul 2016 23:17:52 : LimitlessMc , Wertfuzzy77#0274 , but now just takes name
+09 Jul 2016 23:17:55 : LimitlessMc , Wertfuzzy77#0274 , ```    @commands.command(pass_context = True)
+    async def rate(self, ctx):
+        await self.bot.say("{} is Basically Garbage".format(ctx.message.author.name))```
+09 Jul 2016 23:18:01 : LimitlessMc , Wertfuzzy77#0274 , ez
+09 Jul 2016 23:18:12 : Cipher , Wertfuzzy77#0274 , ;rate
+09 Jul 2016 23:18:12 : Cipher , Botfuzzy77#2209 , Wertfuzzy77 is Basically Garbage
+09 Jul 2016 23:18:56 : LimitlessMc , Genesect#6492 , ;luck
+09 Jul 2016 23:18:57 : LimitlessMc , Botfuzzy77#2209 , Genesect's luck is 32.21 out of 100, which is **Pretty Bad**
+09 Jul 2016 23:19:00 : LimitlessMc , Genesect#6492 , ;luck
+09 Jul 2016 23:19:00 : LimitlessMc , Botfuzzy77#2209 , Genesect's luck is 58.24 out of 100, which is **Not Bad**
+09 Jul 2016 23:19:03 : LimitlessMc , Genesect#6492 , ;luck
+09 Jul 2016 23:19:03 : LimitlessMc , Botfuzzy77#2209 , Genesect's luck is 94.71 out of 100, which is **AMAZING**
+09 Jul 2016 23:19:03 : LimitlessMc , Wertfuzzy77#0274 , ;luck
+09 Jul 2016 23:19:03 : LimitlessMc , Botfuzzy77#2209 , Wertfuzzy77's luck is 45.42 out of 100, which is **Not Bad**
+09 Jul 2016 23:19:06 : LimitlessMc , Wertfuzzy77#0274 , ;luck
+09 Jul 2016 23:19:06 : LimitlessMc , Botfuzzy77#2209 , Wertfuzzy77's luck is 72.31 out of 100, which is **Pretty Good**
+09 Jul 2016 23:19:06 : LimitlessMc , Genesect#6492 , i win
+09 Jul 2016 23:19:08 : LimitlessMc , Wertfuzzy77#0274 , ;luck
+09 Jul 2016 23:19:09 : LimitlessMc , Botfuzzy77#2209 , Wertfuzzy77's luck is 27.8 out of 100, which is **Pretty Bad**
+09 Jul 2016 23:19:11 : LimitlessMc , Wertfuzzy77#0274 , ;luck
+09 Jul 2016 23:19:12 : LimitlessMc , Botfuzzy77#2209 , Wertfuzzy77's luck is 78.86 out of 100, which is **Pretty Good**
+09 Jul 2016 23:19:13 : LimitlessMc , Wertfuzzy77#0274 , ;luck
+09 Jul 2016 23:19:13 : LimitlessMc , Botfuzzy77#2209 , Wertfuzzy77's luck is 96.19 out of 100, which is **AMAZING**
+09 Jul 2016 23:19:14 : LimitlessMc , Genesect#6492 , i won
+09 Jul 2016 23:19:15 : LimitlessMc , Wertfuzzy77#0274 , gg
+09 Jul 2016 23:19:21 : LimitlessMc , Genesect#6492 , i get 2 mmore
+09 Jul 2016 23:19:23 : LimitlessMc , Genesect#6492 , ;luck
+09 Jul 2016 23:19:23 : LimitlessMc , Botfuzzy77#2209 , Genesect's luck is 87.11 out of 100, which is **AMAZING**
+09 Jul 2016 23:19:26 : LimitlessMc , Genesect#6492 , ;luck
+09 Jul 2016 23:19:26 : LimitlessMc , Botfuzzy77#2209 , Genesect's luck is 82.21 out of 100, which is **AMAZING**
+09 Jul 2016 23:19:28 : LimitlessMc , Genesect#6492 , FUK
+09 Jul 2016 23:19:31 : LimitlessMc , Wertfuzzy77#0274 , 2 amazings tho
+09 Jul 2016 23:19:33 : LimitlessMc , Wertfuzzy77#0274 , gj
+09 Jul 2016 23:19:39 : LimitlessMc , Genesect#6492 , 3
+09 Jul 2016 23:19:40 : LimitlessMc , Genesect#6492 , not 2
+09 Jul 2016 23:19:43 : LimitlessMc , Genesect#6492 , scroll up
+09 Jul 2016 23:19:43 : LimitlessMc , Wertfuzzy77#0274 , 2 in a row
+09 Jul 2016 23:19:47 : LimitlessMc , Genesect#6492 , ;luck
+09 Jul 2016 23:19:47 : LimitlessMc , Botfuzzy77#2209 , Genesect's luck is 63.12 out of 100, which is **Pretty Good**
+09 Jul 2016 23:19:49 : LimitlessMc , Genesect#6492 , ;Gwrg'gf
+09 Jul 2016 23:19:54 : LimitlessMc , Genesect#6492 , i wanted to be a badass
+09 Jul 2016 23:19:56 : LimitlessMc , Genesect#6492 , and be like
+09 Jul 2016 23:19:57 : LimitlessMc , Genesect#6492 , no
+09 Jul 2016 23:19:57 : LimitlessMc , Genesect#6492 , 3
+09 Jul 2016 23:20:00 : LimitlessMc , Wertfuzzy77#0274 , ;funify gfsa'lfasoh
+09 Jul 2016 23:20:00 : LimitlessMc , Botfuzzy77#2209 , gg{FfSa''lLFaSOh+ 
+09 Jul 2016 23:20:18 : LimitlessMc , Genesect#6492 , ;funify Porkchop slap wert's face
+09 Jul 2016 23:20:18 : LimitlessMc , Botfuzzy77#2209 , PPOor4RkkCcHhOP SsLlaP WWeErrt'sS ffAce: 
+09 Jul 2016 23:20:28 : LimitlessMc , Wertfuzzy77#0274 , ;funify Genesect is Weird
+09 Jul 2016 23:20:28 : LimitlessMc , Botfuzzy77#2209 , gEeNeseCCTT iis WwEI(RRdD 
+09 Jul 2016 23:20:43 : LimitlessMc , Genesect#6492 , ;funify ur mum iz weird m9001
+09 Jul 2016 23:20:43 : LimitlessMc , Botfuzzy77#2209 , ur mm'uumM iZ WEeIRd;D/ m900001 
+09 Jul 2016 23:20:45 : LimitlessMc , Wertfuzzy77#0274 , ;funify helllooooo
+09 Jul 2016 23:20:45 : LimitlessMc , Botfuzzy77#2209 , hhe4ElLlLLOoOOOoO+ 
+09 Jul 2016 23:20:49 : LimitlessMc , Genesect#6492 , ayy
+09 Jul 2016 23:20:49 : LimitlessMc , Botfuzzy77#2209 , Lmao
+09 Jul 2016 23:20:53 : LimitlessMc , Wertfuzzy77#0274 , ;funify helllooooo from the other side
+09 Jul 2016 23:20:53 : LimitlessMc , Botfuzzy77#2209 , hH#eLLllOO@OoOoOoo FFROMm tthHe OOtHEErr. sidE 
+09 Jul 2016 23:20:58 : LimitlessMc , Genesect#6492 , Hello
+09 Jul 2016 23:20:58 : LimitlessMc , Botfuzzy77#2209 , *From The Other Side*
+09 Jul 2016 23:21:08 : LimitlessMc , Wertfuzzy77#0274 , ;funify bet
+09 Jul 2016 23:21:08 : LimitlessMc , Botfuzzy77#2209 , bEEtT 
+09 Jul 2016 23:21:16 : LimitlessMc , Genesect#6492 , BET
+09 Jul 2016 23:21:17 : LimitlessMc , Wertfuzzy77#0274 , ;funify fite me
+09 Jul 2016 23:21:17 : LimitlessMc , Botfuzzy77#2209 , fIt te MEE 
+09 Jul 2016 23:21:25 : LimitlessMc , Genesect#6492 , fltte oyu?
+09 Jul 2016 23:21:27 : LimitlessMc , Genesect#6492 , 'vadsef
+09 Jul 2016 23:21:31 : LimitlessMc , Wertfuzzy77#0274 , ;funify fite me
+09 Jul 2016 23:21:31 : LimitlessMc , Botfuzzy77#2209 , fITTee mMEe 
+09 Jul 2016 23:21:31 : LimitlessMc , Genesect#6492 , how 2 type
+09 Jul 2016 23:21:38 : LimitlessMc , Wertfuzzy77#0274 , ;lmgtfy how 2 type
+09 Jul 2016 23:21:38 : LimitlessMc , Botfuzzy77#2209 , http://lmgtfy.com/?q=how+2+type
+09 Jul 2016 23:21:51 : Cipher , Akinci#5072 , Gg bot lol
+09 Jul 2016 23:22:05 : Cipher , Akinci#5072 , ;rate
+09 Jul 2016 23:22:06 : Cipher , Botfuzzy77#2209 , Akinci is Basically Garbage
+09 Jul 2016 23:22:10 : Cipher , Wertfuzzy77#0274 , ;tempmute Akinci 20
+09 Jul 2016 23:22:10 : Cipher , Botfuzzy77#2209 , Muted Akinci
+09 Jul 2016 23:22:23 : Cipher , Wertfuzzy77#0274 , literally takes away your permission to type xD
+09 Jul 2016 23:22:30 : Cipher , Wertfuzzy77#0274 , instead of deleting the messages
+09 Jul 2016 23:22:30 : Cipher , Botfuzzy77#2209 , Unmuted Akinci
+09 Jul 2016 23:22:33 : Cipher , Wertfuzzy77#0274 , wb
+09 Jul 2016 23:22:39 : LimitlessMc , Genesect#6492 , <@134441036905840640>
+09 Jul 2016 23:22:40 : LimitlessMc , Genesect#6492 , http://imgur.com/T2oB22T
+09 Jul 2016 23:22:41 : Cipher , Akinci#5072 , Bad bot...
+09 Jul 2016 23:22:50 : Cipher , Akinci#5072 , ;rate
+09 Jul 2016 23:22:50 : Cipher , Botfuzzy77#2209 , Akinci is Basically Garbage
+09 Jul 2016 23:22:54 : Cipher , Akinci#5072 , ;rate
+09 Jul 2016 23:22:54 : Cipher , Botfuzzy77#2209 , Akinci is Basically Garbage
+09 Jul 2016 23:23:02 : LimitlessMc , Wertfuzzy77#0274 , ;afk Coding / Dinner soon
+09 Jul 2016 23:23:02 : Cipher , Akinci#5072 , Just garbage
+09 Jul 2016 23:23:02 : LimitlessMc , Botfuzzy77#2209 , Wertfuzzy77 is now AFK for reason:
+**Coding / Dinner soon**
+09 Jul 2016 23:23:07 : Cipher , Akinci#5072 , ;-;
+09 Jul 2016 23:23:20 : Cipher , Akinci#5072 , ;rate
+09 Jul 2016 23:23:20 : Cipher , Botfuzzy77#2209 , Akinci is Basically Garbage
+09 Jul 2016 23:23:22 : Cipher , Wertfuzzy77#0274 , ```    @commands.command(pass_context = True)
+    async def rate(self, ctx):
+        await self.bot.say("{} is Basically Garbage".format(ctx.message.author.name))```
+09 Jul 2016 23:23:35 : Cipher , Wertfuzzy77#0274 , literally the cmd only does that
+09 Jul 2016 23:23:41 : Cipher , Wertfuzzy77#0274 , can only say that xD
+09 Jul 2016 23:24:23 : Cipher , Akinci#5072 , ;funify basically garbage
+09 Jul 2016 23:24:23 : Cipher , Botfuzzy77#2209 , ba^ASSiCCAalLllYy gaRR&bbAg.Ge 
+09 Jul 2016 23:24:33 : Cipher , Wertfuzzy77#0274 , ;funify same
+09 Jul 2016 23:24:33 : Cipher , Botfuzzy77#2209 , sAamMee 
+09 Jul 2016 23:24:38 : LimitlessMc , LightShadow#5809 , XD WERT
+09 Jul 2016 23:24:47 : Cipher , Akinci#5072 , ;funify ^
+09 Jul 2016 23:24:47 : Cipher , Botfuzzy77#2209 , ^^ 
+09 Jul 2016 23:24:50 : LimitlessMc , Genesect#6492 , ;afk killing self and sucking mad dick
+09 Jul 2016 23:24:50 : LimitlessMc , Botfuzzy77#2209 , Genesect is now AFK for reason:
+**killing self and sucking mad dick**
+09 Jul 2016 23:24:56 : LimitlessMc , Wertfuzzy77#0274 , ;funify what i do now
+09 Jul 2016 23:24:56 : LimitlessMc , Botfuzzy77#2209 , WW/hAt;T ii Ddo-o nooW 
+09 Jul 2016 23:25:15 : LimitlessMc , Wertfuzzy77#0274 , ;funify FITE ME NUB
+09 Jul 2016 23:25:15 : LimitlessMc , Botfuzzy77#2209 , f!itee mME Nnu$uB 
+09 Jul 2016 23:25:48 : Cipher , Akinci#5072 , Wow...
+09 Jul 2016 23:26:38 : Cipher , Wertfuzzy77#0274 , ;relog
+09 Jul 2016 23:26:38 : Cipher , Botfuzzy77#2209 , Relogging...

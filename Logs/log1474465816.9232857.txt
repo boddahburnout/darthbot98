@@ -1,0 +1,387 @@
+21 Sep 2016 13:50:40 : Cipher, bot_land, Wertfuzzy77#0274, ;join
+21 Sep 2016 13:50:57 : Cipher, bot_land, Wertfuzzy77#0274, ;search I'm blue
+21 Sep 2016 13:51:03 : Cipher, bot_land, Botfuzzy77#2209, Added Eiffel 65 - Blue (Da Ba Dee) (Original Video with subtitles) to the queue
+21 Sep 2016 13:51:03 : Cipher, bot_land, Botfuzzy77#2209, https://www.youtube.com/watch?v=68ugkg9RePc
+21 Sep 2016 13:56:03 : Cipher, bot_land, Wertfuzzy77#0274, ;search Beatles All you need is love
+21 Sep 2016 13:56:05 : Cipher, bot_land, Botfuzzy77#2209, Added The Beatles - All You Need Is Love [Slideshow] HD to the queue
+21 Sep 2016 13:56:05 : Cipher, bot_land, Botfuzzy77#2209, https://www.youtube.com/watch?v=sWEEaH3QZoI
+21 Sep 2016 13:57:29 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Harrys**(SchutzStaffel) is now Online!
+21 Sep 2016 13:57:39 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Harrys**(SchutzStaffel) is now Online!
+21 Sep 2016 13:59:19 : Cipher, bot_land, Wertfuzzy77#0274, ;search I'm blue
+21 Sep 2016 13:59:21 : Cipher, bot_land, Botfuzzy77#2209, Added Eiffel 65 - Blue (Da Ba Dee) (Original Video with subtitles) to the queue
+21 Sep 2016 13:59:21 : Cipher, bot_land, Botfuzzy77#2209, https://www.youtube.com/watch?v=68ugkg9RePc
+21 Sep 2016 13:59:28 : Cipher, bot_land, Wertfuzzy77#0274, ;skip
+21 Sep 2016 13:59:28 : Cipher, bot_land, Botfuzzy77#2209, Skipping The Beatles - All You Need Is Love [Slideshow] HD
+21 Sep 2016 14:09:16 : Cipher, bot_land, Wertfuzzy77#0274, ;search no game no life intro
+21 Sep 2016 14:09:18 : Cipher, bot_land, Botfuzzy77#2209, Added No Game No Life Opening Full to the queue
+21 Sep 2016 14:09:18 : Cipher, bot_land, Botfuzzy77#2209, https://www.youtube.com/watch?v=CaksNlNniis
+21 Sep 2016 14:09:24 : The Wild Weeaboos, general, enragednuke#2565, ;debug bot.voice_channels
+21 Sep 2016 14:09:24 : The Wild Weeaboos, general, Botfuzzy77#2209, ```py
+AttributeError: '<class 'discord.ext.commands.bot.Bot'>' object has no attribute 'voice_channels'
+```
+21 Sep 2016 14:11:35 : Cipher, bot_land, Wertfuzzy77#0274, ;search Kimi no Na was soundtrack
+21 Sep 2016 14:11:36 : Cipher, bot_land, Botfuzzy77#2209, Added Kimi no Na wa. (Your Name.) RADWIMPS – Sparkle (ENG SUB) to the queue
+21 Sep 2016 14:11:37 : Cipher, bot_land, Botfuzzy77#2209, https://www.youtube.com/watch?v=Cga8-Mrjf-E
+21 Sep 2016 14:19:53 : Cipher, general, Botfuzzy77#2209, **Jabulla**(Grunt) is now Online!
+21 Sep 2016 14:21:24 : Penguins, general, Botfuzzy77#2209, **chaliema**(Rayquaza) is now Online!
+21 Sep 2016 14:24:37 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+21 Sep 2016 14:24:37 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+21 Sep 2016 14:30:42 : Cipher, bot_land, Wertfuzzy77#0274, ;search Kimi no Na way full playlist
+21 Sep 2016 14:30:44 : Cipher, bot_land, Botfuzzy77#2209, https://www.youtube.com/watch?v=X2kGaP7N2VA
+21 Sep 2016 14:35:21 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Online!
+21 Sep 2016 14:36:41 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Default**(SchutzStaffel) is now Online!
+21 Sep 2016 14:38:02 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Offline!
+21 Sep 2016 14:41:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Offline!
+21 Sep 2016 14:42:11 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Online!
+21 Sep 2016 14:42:59 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Offline!
+21 Sep 2016 14:43:19 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Online!
+21 Sep 2016 14:47:52 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Online!
+21 Sep 2016 14:49:43 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+21 Sep 2016 14:49:44 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+21 Sep 2016 14:49:51 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Offline!
+21 Sep 2016 14:55:22 : LimitlessMc, botchat, Niller_Z#5503, Hey Harambe plz dont die again xD
+21 Sep 2016 14:56:14 : Cipher, general, Botfuzzy77#2209, **Akinci**(Grunt) is now Online!
+21 Sep 2016 14:57:01 : LimitlessMc, botchat, Akinci#5072, Its too late
+21 Sep 2016 14:59:00 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Offline!
+21 Sep 2016 14:59:00 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+21 Sep 2016 14:59:37 : Cipher, general, Botfuzzy77#2209, **Akinci**(Grunt) is now Offline!
+21 Sep 2016 15:07:25 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **jolo**(No Role) is now Online!
+21 Sep 2016 15:17:27 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **warnier**(No Role) is now Online!
+21 Sep 2016 15:25:24 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **I-Like-Pizzja**(Nazi) is now Online!
+21 Sep 2016 15:25:30 : The Wild Weeaboos, coding, Wertfuzzy77#0274, @Nubs (CS311)
+21 Sep 2016 15:25:32 : The Wild Weeaboos, coding, Wertfuzzy77#0274, hi
+21 Sep 2016 15:25:50 : The Wild Weeaboos, coding, enragednuke#2565, fuck u
+21 Sep 2016 15:26:04 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Gilles**(Nazi) is now Online!
+21 Sep 2016 15:28:02 : Temp Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Online!
+21 Sep 2016 15:28:02 : My Personal Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Online!
+21 Sep 2016 15:30:17 : Penguins, general, Botfuzzy77#2209, **Olivia**(Xerneas) is now Online!
+21 Sep 2016 15:30:28 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Online!
+21 Sep 2016 15:30:43 : Temp Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Offline!
+21 Sep 2016 15:30:43 : My Personal Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Offline!
+21 Sep 2016 15:32:17 : Penguins, general, Botfuzzy77#2209, **Olivia**(Xerneas) is now Offline!
+21 Sep 2016 15:32:28 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Offline!
+21 Sep 2016 15:33:50 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **druif**(Nazi) is now Online!
+21 Sep 2016 15:36:57 : Penguins, general, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Online!
+21 Sep 2016 15:38:57 : Penguins, general, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Offline!
+21 Sep 2016 15:40:12 : Penguins, general, Botfuzzy77#2209, **Google**(Genesect) is now Offline!
+21 Sep 2016 15:40:22 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **jolo**(No Role) is now Offline!
+21 Sep 2016 15:41:54 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **jolo**(No Role) is now Online!
+21 Sep 2016 15:42:23 : GreenHillGang, general, Botfuzzy77#2209, **Wertfuzzy77**(No Role) is now Online!
+21 Sep 2016 15:42:23 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+21 Sep 2016 15:44:26 : The Wild Weeaboos, coding, enragednuke#2565, weeb'
+21 Sep 2016 15:47:40 : Cipher, general, Botfuzzy77#2209, **Hiraeth**(Grunt) is now Online!
+21 Sep 2016 15:47:40 : Penguins, general, Botfuzzy77#2209, **Hiraeth**(Ass) is now Online!
+21 Sep 2016 15:48:39 : Penguins, general, Hiraeth#1962, In the next episode of Survivra in Hell
+21 Sep 2016 15:49:54 : Penguins, general, Botfuzzy77#2209, **chaliema**(Rayquaza) is now Online!
+21 Sep 2016 15:50:45 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **druif**(Nazi) is now Online!
+21 Sep 2016 15:54:58 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **warnier**(No Role) is now Online!
+21 Sep 2016 15:55:23 : Penguins, general, Hiraeth#1962, @usrv
+21 Sep 2016 15:55:34 : GreenHillGang, general, Botfuzzy77#2209, **Wertfuzzy77**(No Role) is now Online!
+21 Sep 2016 15:55:34 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+21 Sep 2016 15:55:38 : The Wild Weeaboos, coding, Wertfuzzy77#0274, si
+21 Sep 2016 15:55:38 : Penguins, general, Hiraeth#1962, @SurvivraInHellAKASchool omg an asshole claimed my mesa I have been flattenin...
+21 Sep 2016 15:55:48 : Penguins, general, Hiraeth#1962, I give up on this fucking serber like -_-
+21 Sep 2016 15:56:10 : Cipher, bot_land, Wertfuzzy77#0274, ;search Beatles All you need is love
+21 Sep 2016 15:56:11 : Cipher, bot_land, Botfuzzy77#2209, Added The Beatles - All You Need Is Love [Slideshow] HD to the queue
+21 Sep 2016 15:56:12 : Cipher, bot_land, Botfuzzy77#2209, https://www.youtube.com/watch?v=sWEEaH3QZoI
+21 Sep 2016 15:56:42 : Cipher, bot_land, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=sWEEaH3QZoI
+21 Sep 2016 15:57:15 : Cipher, bot_land, Wertfuzzy77#0274, ;search Beatles Greatest Hits
+21 Sep 2016 15:57:24 : Cipher, bot_land, Botfuzzy77#2209, Added The Beatles   Greatest Hits Enganchado CD Completo Full Album to the queue
+21 Sep 2016 15:57:24 : Cipher, bot_land, Botfuzzy77#2209, https://www.youtube.com/watch?v=Y0oGJshIVZw
+21 Sep 2016 15:58:44 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+21 Sep 2016 15:58:44 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+21 Sep 2016 15:59:25 : Team Harmony, botchat, D3NSH1N#8702, ;server 74.124.12.245
+21 Sep 2016 15:59:26 : Team Harmony, botchat, Botfuzzy77#2209, **Server IP**: 74.124.12.245
+21 Sep 2016 15:59:26 : Team Harmony, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 0 players out of 80
+ *Ping*: 95.574 ms
+ *MC Version*: 1.10.2
+21 Sep 2016 15:59:26 : Team Harmony, botchat, Botfuzzy77#2209, *Server is Down :(*
+21 Sep 2016 16:00:10 : Penguins, general, Hiraeth is Salty af#1962, I'm going to kill some sims now..
+21 Sep 2016 16:06:41 : Cipher, bot_land, Wertfuzzy77#0274, ;search Beatles golden slumber
+21 Sep 2016 16:06:43 : Cipher, bot_land, Botfuzzy77#2209, Added Paul McCartney "Golden Slumbers/Carry That Weight/The End" Live-1989/90 to the queue
+21 Sep 2016 16:06:43 : Cipher, bot_land, Botfuzzy77#2209, https://www.youtube.com/watch?v=L7BegrjW9bs
+21 Sep 2016 16:06:48 : Cipher, bot_land, Wertfuzzy77#0274, ;skip
+21 Sep 2016 16:06:49 : Cipher, bot_land, Botfuzzy77#2209, Skipping The Beatles   Greatest Hits Enganchado CD Completo Full Album
+21 Sep 2016 16:07:03 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Offline!
+21 Sep 2016 16:07:22 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Online!
+21 Sep 2016 16:07:49 : Penguins, general, Botfuzzy77#2209, **Resolate**(Suicune) is now Online!
+21 Sep 2016 16:08:05 : Penguins, general, Botfuzzy77#2209, **chaliema**(Rayquaza) is now Online!
+21 Sep 2016 16:10:37 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Fearleas**(No Role) is now Online!
+21 Sep 2016 16:10:50 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Default**(SchutzStaffel) is now Online!
+21 Sep 2016 16:13:13 : LimitlessMc, botchat, Resolate#7058, !luck
+21 Sep 2016 16:13:14 : LimitlessMc, botchat, Gerald#7099, My calculations say that undefined will have 66.3309000320721140% luck today
+21 Sep 2016 16:13:16 : LimitlessMc, botchat, Resolate#7058, !rate
+21 Sep 2016 16:13:17 : LimitlessMc, botchat, Gerald#7099, Hmmm, I'd say I like undefined to 11.1915920225719910%
+21 Sep 2016 16:13:19 : LimitlessMc, botchat, Resolate#7058, ;luck
+21 Sep 2016 16:13:20 : LimitlessMc, botchat, Botfuzzy77#2209, Resolate's luck is 37.34 out of 100, which is **Pretty Bad**
+21 Sep 2016 16:13:30 : LimitlessMc, botchat, Resolate#7058, !words
+21 Sep 2016 16:14:02 : LimitlessMc, botchat, Resolate#7058, ;server
+21 Sep 2016 16:14:02 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: 23.111.129.82
+21 Sep 2016 16:14:02 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 49 players out of 2000
+ *Ping*: 135.829 ms
+ *MC Version*: 1.10.2
+21 Sep 2016 16:14:02 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *TurboX3dan, Daeleyy, benj6172, money_maker_7, KeshTreees, Sp0Oderman, Ghost3701, MarianKnight, KPPG_LMAA, Tristan241001, Aras18, talhachoudhry...*
+21 Sep 2016 16:14:52 : Cipher, bot_land, Wertfuzzy77#0274, ;search I'm blue
+21 Sep 2016 16:14:53 : Cipher, bot_land, Botfuzzy77#2209, Added Eiffel 65 - Blue (Da Ba Dee) (Original Video with subtitles) to the queue
+21 Sep 2016 16:14:54 : Cipher, bot_land, Botfuzzy77#2209, https://www.youtube.com/watch?v=68ugkg9RePc
+21 Sep 2016 16:16:29 : Penguins, general, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Online!
+21 Sep 2016 16:16:50 : Penguins, general, SurvivraInHellAKASchool#7191, Haha @Hiraeth is Salty af
+21 Sep 2016 16:16:59 : Penguins, general, SurvivraInHellAKASchool#7191, Creatw me top thanks
+21 Sep 2016 16:17:07 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+21 Sep 2016 16:17:07 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Offline!
+21 Sep 2016 16:17:11 : Penguins, general, SurvivraInHellAKASchool#7191, Do me as a kid
+21 Sep 2016 16:17:14 : Penguins, general, SurvivraInHellAKASchool#7191, And u be mama
+21 Sep 2016 16:17:24 : Penguins, general, Hiraeth is Salty af#1962, You're going to be an ugly ass kid
+21 Sep 2016 16:17:53 : Penguins, general, Hiraeth is Salty af#1962, Omg I'm so up for doing this brb
+21 Sep 2016 16:19:00 : Cipher, bot_land, Wertfuzzy77#0274, ;search school live opening song
+21 Sep 2016 16:19:02 : Cipher, bot_land, Botfuzzy77#2209, https://www.youtube.com/watch?v=37myNGQTHEw
+21 Sep 2016 16:19:10 : Penguins, general, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Offline!
+21 Sep 2016 16:19:15 : Penguins, general, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Online!
+21 Sep 2016 16:19:27 : Penguins, general, SurvivraInHellAKASchool#7191, And le shemale
+21 Sep 2016 16:19:37 : Penguins, general, Hiraeth is Salty af#1962, What a happy family we'll be
+21 Sep 2016 16:19:40 : Penguins, general, Hiraeth is Salty af#1962, lele
+21 Sep 2016 16:19:50 : Penguins, general, SurvivraInHellAKASchool#7191, And brian as le shemales husband
+21 Sep 2016 16:19:58 : Penguins, general, Hiraeth is Salty af#1962, Then I'm going to kill everyone in their own unique gruesome way :D
+21 Sep 2016 16:19:58 : Penguins, general, SurvivraInHellAKASchool#7191, Lelelel
+21 Sep 2016 16:19:58 : Penguins, general, Hiraeth is Salty af#1962, ^
+21 Sep 2016 16:19:58 : Penguins, general, Botfuzzy77#2209, ^
+21 Sep 2016 16:19:58 : Penguins, general, Hiraeth is Salty af#1962, omg
+21 Sep 2016 16:20:00 : Penguins, general, Hiraeth is Salty af#1962, so good
+21 Sep 2016 16:20:19 : Penguins, general, SurvivraInHellAKASchool#7191, And add a horse into the house
+21 Sep 2016 16:20:28 : Penguins, general, Hiraeth is Salty af#1962, ya
+21 Sep 2016 16:20:34 : Penguins, general, Hiraeth is Salty af#1962, that'll be xdialga
+21 Sep 2016 16:20:37 : Penguins, general, SurvivraInHellAKASchool#7191, Which city we live
+21 Sep 2016 16:20:37 : My Personal Server, general, Botfuzzy77#2209, **Techni**(Member) is now Online!
+21 Sep 2016 16:20:37 : Team Harmony, general, Botfuzzy77#2209, **Techni**(Team Harmony) is now Online!
+21 Sep 2016 16:20:38 : Penguins, general, SurvivraInHellAKASchool#7191, Lol
+21 Sep 2016 16:20:49 : Penguins, general, SurvivraInHellAKASchool#7191, Beidgeport?
+21 Sep 2016 16:20:52 : Penguins, general, SurvivraInHellAKASchool#7191, Bridge*
+21 Sep 2016 16:20:53 : Penguins, general, Hiraeth is Salty af#1962, hmm
+21 Sep 2016 16:20:59 : Penguins, general, SurvivraInHellAKASchool#7191, cuz we go to barz
+21 Sep 2016 16:21:00 : Penguins, general, SurvivraInHellAKASchool#7191, Lele
+21 Sep 2016 16:21:07 : Penguins, general, Hiraeth is Salty af#1962, I downloaded a city with a huge ass castle on a hill
+21 Sep 2016 16:21:08 : Penguins, general, Hiraeth is Salty af#1962, hue
+21 Sep 2016 16:21:10 : Penguins, general, SurvivraInHellAKASchool#7191, As a fanily
+21 Sep 2016 16:21:14 : Penguins, general, Hiraeth is Salty af#1962, BDSM dungeon and all
+21 Sep 2016 16:21:24 : Penguins, general, SurvivraInHellAKASchool#7191, Lelele
+21 Sep 2016 16:21:26 : Penguins, general, SurvivraInHellAKASchool#7191, WAIR
+21 Sep 2016 16:21:30 : Penguins, general, SurvivraInHellAKASchool#7191, COPY THE CASTLE
+21 Sep 2016 16:21:41 : Penguins, general, SurvivraInHellAKASchool#7191, ANS PASTE IT ON BRISGEPORT
+21 Sep 2016 16:21:44 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+21 Sep 2016 16:21:46 : Penguins, general, Hiraeth is Salty af#1962, ooooooooo
+21 Sep 2016 16:21:49 : Penguins, general, Hiraeth is Salty af#1962, oooooooooooooooooooooooooooooooooo
+21 Sep 2016 16:21:49 : Penguins, general, SurvivraInHellAKASchool#7191, AND THEN MOTHERLODE
+21 Sep 2016 16:21:53 : Penguins, general, Hiraeth is Salty af#1962, OOOOOOOOOOOOOOOOOOOOOOOOOO
+21 Sep 2016 16:21:57 : Penguins, general, Hiraeth is Salty af#1962, OOOOOO
+21 Sep 2016 16:21:58 : Penguins, general, Hiraeth is Salty af#1962, OOOO
+21 Sep 2016 16:22:05 : Penguins, general, Hiraeth is Salty af#1962, Yessir!!!!
+21 Sep 2016 16:22:09 : Penguins, general, SurvivraInHellAKASchool#7191, lale i miss sims :^<
+21 Sep 2016 16:22:14 : Penguins, general, Hiraeth is Salty af#1962, Ya XD
+21 Sep 2016 16:22:20 : Penguins, general, SurvivraInHellAKASchool#7191, i had my happiest mems
+21 Sep 2016 16:22:21 : Penguins, general, Hiraeth is Salty af#1962, I must admit I miss the cheats
+21 Sep 2016 16:22:25 : Penguins, general, Hiraeth is Salty af#1962, lelel
+21 Sep 2016 16:22:25 : Penguins, general, SurvivraInHellAKASchool#7191, Lelel
+21 Sep 2016 16:22:32 : Penguins, general, SurvivraInHellAKASchool#7191, Sims 4 sucla
+21 Sep 2016 16:22:37 : Penguins, general, SurvivraInHellAKASchool#7191, Sucks
+21 Sep 2016 16:22:37 : Penguins, general, Hiraeth is Salty af#1962, lol ya
+21 Sep 2016 16:22:46 : Penguins, general, Hiraeth is Salty af#1962, sims 4 is the worst that have happened to the series XD
+21 Sep 2016 16:22:49 : Penguins, general, SurvivraInHellAKASchool#7191, Cartoon characters
+21 Sep 2016 16:22:50 : Penguins, general, SurvivraInHellAKASchool#7191, IKR
+21 Sep 2016 16:23:04 : Penguins, general, Hiraeth is Salty af#1962, Like Sims makin' magic were my glory days as a child
+21 Sep 2016 16:23:07 : Penguins, general, Hiraeth is Salty af#1962, XD
+21 Sep 2016 16:23:10 : Penguins, general, SurvivraInHellAKASchool#7191, Sims free play shit is better than sims 4 llele
+21 Sep 2016 16:23:14 : Penguins, general, Hiraeth is Salty af#1962, lol
+21 Sep 2016 16:23:15 : Penguins, general, Hiraeth is Salty af#1962, ikrrr
+21 Sep 2016 16:23:21 : Penguins, general, Hiraeth is Salty af#1962, Well brb
+21 Sep 2016 16:23:28 : Penguins, general, SurvivraInHellAKASchool#7191, Okei
+21 Sep 2016 16:23:34 : Penguins, general, Hiraeth is Salty af#1962, I gonna create dis family called McDick
+21 Sep 2016 16:23:34 : Penguins, general, SurvivraInHellAKASchool#7191, Send  screenies
+21 Sep 2016 16:23:37 : Penguins, general, Hiraeth is Salty af#1962, ya
+21 Sep 2016 16:23:38 : Penguins, general, SurvivraInHellAKASchool#7191, LOL
+21 Sep 2016 16:23:47 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+21 Sep 2016 16:23:51 : LimitlessMc, mainchat, Sp0Oderman#5350, bringer you should resign from mods because youre honestly aweful
+21 Sep 2016 16:23:56 : Penguins, general, SurvivraInHellAKASchool#7191, AND SET LE SHEMALES CAREER TO SPA THINGY
+21 Sep 2016 16:23:58 : Penguins, general, SurvivraInHellAKASchool#7191, LSLEL
+21 Sep 2016 16:24:00 : Penguins, general, Hiraeth is Salty af#1962, XD
+21 Sep 2016 16:24:05 : Penguins, general, Hiraeth is Salty af#1962, OMG
+21 Sep 2016 16:24:08 : Penguins, general, Hiraeth is Salty af#1962, HAHAH PLS XD
+21 Sep 2016 16:24:12 : Penguins, general, SurvivraInHellAKASchool#7191, lelle
+21 Sep 2016 16:24:20 : Penguins, general, SurvivraInHellAKASchool#7191, Granny Milf
+21 Sep 2016 16:24:24 : Penguins, general, Hiraeth is Salty af#1962, hueheu
+21 Sep 2016 16:24:29 : LimitlessMc, mainchat, Sp0Oderman#5350, first off there is no rule in /rules or in the website about homes
+21 Sep 2016 16:24:34 : Penguins, general, SurvivraInHellAKASchool#7191, Okei gl
+21 Sep 2016 16:24:42 : Penguins, general, Hiraeth is Salty af#1962, yeye
+21 Sep 2016 16:24:49 : Penguins, general, Hiraeth is Salty af#1962, This gonna be glorious
+21 Sep 2016 16:24:56 : LimitlessMc, mainchat, Sp0Oderman#5350, second you cant use proper english
+21 Sep 2016 16:25:01 : Penguins, general, Hiraeth is Salty af#1962, since I've modded it to shit so when I randomize the sikm in create a sim
+21 Sep 2016 16:25:03 : Penguins, general, Hiraeth is Salty af#1962, shit
+21 Sep 2016 16:25:04 : Penguins, general, Hiraeth is Salty af#1962, fucking
+21 Sep 2016 16:25:05 : Penguins, general, Hiraeth is Salty af#1962, happens
+21 Sep 2016 16:25:16 : Penguins, general, Hiraeth is Salty af#1962, sim*
+21 Sep 2016 16:26:04 : Penguins, general, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Offline!
+21 Sep 2016 16:28:15 : LimitlessMc, mainchat, Hiraeth is Salty af#1962, lel
+21 Sep 2016 16:28:42 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Fearleas**(No Role) is now Offline!
+21 Sep 2016 16:28:55 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, je moede
+21 Sep 2016 16:28:56 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, r
+21 Sep 2016 16:29:02 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, kom dota pls pls pls pls pls
+21 Sep 2016 16:29:27 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Default**(SchutzStaffel) is now Online!
+21 Sep 2016 16:33:18 : My Personal Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Online!
+21 Sep 2016 16:33:18 : Temp Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Online!
+21 Sep 2016 16:33:36 : My Personal Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Offline!
+21 Sep 2016 16:33:36 : Temp Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Offline!
+21 Sep 2016 16:33:38 : My Personal Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Online!
+21 Sep 2016 16:33:38 : Temp Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Online!
+21 Sep 2016 16:33:41 : My Personal Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Offline!
+21 Sep 2016 16:33:41 : Temp Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Offline!
+21 Sep 2016 16:33:49 : Temp Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Online!
+21 Sep 2016 16:33:49 : My Personal Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Online!
+21 Sep 2016 16:36:33 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **druif**(Nazi) is now Online!
+21 Sep 2016 16:38:29 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Online!
+21 Sep 2016 16:38:38 : LimitlessMc, mainchat, Sp0Oderman#5350, and now third: youre inactive on discord
+21 Sep 2016 16:39:36 : Penguins, general, Hiraeth is Salty af#1962, le shemale is goin' well
+21 Sep 2016 16:39:36 : Penguins, general, Hiraeth is Salty af#1962, 
+21 Sep 2016 16:40:24 : LimitlessMc, mainchat, Sp0Oderman#5350, plus fourth you use creative flight while also playing- using admin powers to impact gameplay (idk and idc if theres an item that allows flight, but your base seems to be based on that)
+21 Sep 2016 16:41:01 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Default**(SchutzStaffel) is now Online!
+21 Sep 2016 16:41:14 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **druif**(Nazi) is now Online!
+21 Sep 2016 16:41:24 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Offline!
+21 Sep 2016 16:44:28 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Harrys**(SchutzStaffel) is now Offline!
+21 Sep 2016 16:46:19 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Gilles**(Nazi) is now Online!
+21 Sep 2016 16:48:31 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **jolo**(No Role) is now Online!
+21 Sep 2016 16:54:09 : Penguins, general, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Online!
+21 Sep 2016 16:54:32 : Penguins, general, SurvivraInHellAKASchool#7191, JEKEKWKSNSKAJNSNDKSJSHDJJSJDKSLKSJWHAHAHHSDHHSHSJDKDKDKDKDLS
+21 Sep 2016 16:54:36 : Penguins, general, SurvivraInHellAKASchool#7191, SINSNSISNDJDMSMD
+21 Sep 2016 16:54:39 : Penguins, general, SurvivraInHellAKASchool#7191, SKKDFJEKSLKD
+21 Sep 2016 16:54:41 : Penguins, general, SurvivraInHellAKASchool#7191, SOSKS
+21 Sep 2016 16:54:42 : Penguins, general, SurvivraInHellAKASchool#7191, KDMEJE
+21 Sep 2016 16:54:44 : Penguins, general, SurvivraInHellAKASchool#7191, KEKSJAJNDEK
+21 Sep 2016 16:54:46 : Penguins, general, SurvivraInHellAKASchool#7191, KSKSKKW
+21 Sep 2016 16:54:48 : Penguins, general, SurvivraInHellAKASchool#7191, MSKDJDJS
+21 Sep 2016 16:54:55 : Penguins, general, Hiraeth is Salty af#1962, @SurvivraInHellAKASchool  who would not want to suck these succulant tits
+21 Sep 2016 16:55:05 : Penguins, general, SurvivraInHellAKASchool#7191, OMFG
+21 Sep 2016 16:55:08 : Penguins, general, Hiraeth is Salty af#1962, HAHAHAHIHE
+21 Sep 2016 16:55:11 : Penguins, general, Hiraeth is Salty af#1962, XD
+21 Sep 2016 16:55:12 : Penguins, general, SurvivraInHellAKASchool#7191, SHAHD
+21 Sep 2016 16:55:16 : Penguins, general, Hiraeth is Salty af#1962, I LOVE SIMS
+21 Sep 2016 16:55:16 : Penguins, general, SurvivraInHellAKASchool#7191, SHOW M LELE
+21 Sep 2016 16:55:18 : Penguins, general, Hiraeth is Salty af#1962, HAHAHAHAAH
+21 Sep 2016 16:55:20 : Penguins, general, SurvivraInHellAKASchool#7191, SAME
+21 Sep 2016 16:55:35 : Penguins, general, Hiraeth is Salty af#1962, You I couldn't do much with since you were a kid XDD
+21 Sep 2016 16:55:38 : Penguins, general, Hiraeth is Salty af#1962, wait a min
+21 Sep 2016 16:55:53 : Penguins, general, SurvivraInHellAKASchool#7191, Wait shemale werewolf or just too hairy
+21 Sep 2016 16:56:03 : Penguins, general, Hiraeth is Salty af#1962, too hairy
+21 Sep 2016 16:56:05 : Penguins, general, Hiraeth is Salty af#1962, duh
+21 Sep 2016 16:56:06 : Penguins, general, Hiraeth is Salty af#1962, 
+21 Sep 2016 16:56:06 : Penguins, general, SurvivraInHellAKASchool#7191, Oh
+21 Sep 2016 16:56:11 : Penguins, general, SurvivraInHellAKASchool#7191, Örkejsjsjsq
+21 Sep 2016 16:56:15 : Penguins, general, Hiraeth is Salty af#1962, XD
+21 Sep 2016 16:56:16 : Penguins, general, SurvivraInHellAKASchool#7191, hahahhshsHAHSH
+21 Sep 2016 16:56:26 : Penguins, general, Hiraeth is Salty af#1962, Wait you haven't seen shemales final form XD
+21 Sep 2016 16:56:27 : Penguins, general, SurvivraInHellAKASchool#7191, LMAO SIMS 3 SEASONS
+21 Sep 2016 16:56:30 : Penguins, general, Hiraeth is Salty af#1962, HAHA
+21 Sep 2016 16:56:31 : Penguins, general, SurvivraInHellAKASchool#7191, LELELEL
+21 Sep 2016 16:56:44 : Penguins, general, SurvivraInHellAKASchool#7191, That hair LOL
+21 Sep 2016 16:56:54 : Penguins, general, Hiraeth is Salty af#1962, XD
+21 Sep 2016 16:57:00 : Penguins, general, Hiraeth is Salty af#1962, 
+21 Sep 2016 16:57:00 : Team Harmony, general, Botfuzzy77#2209, **Techni**(Team Harmony) is now Offline!
+21 Sep 2016 16:57:00 : My Personal Server, general, Botfuzzy77#2209, **Techni**(Member) is now Offline!
+21 Sep 2016 16:57:06 : Penguins, general, SurvivraInHellAKASchool#7191, AKdjdjshsh
+21 Sep 2016 16:57:09 : Penguins, general, SurvivraInHellAKASchool#7191, IM SUIF
+21 Sep 2016 16:57:11 : Penguins, general, SurvivraInHellAKASchool#7191, WKSKSKLE
+21 Sep 2016 16:57:12 : Penguins, general, Hiraeth is Salty af#1962, I fucking can't XD
+21 Sep 2016 16:57:15 : Penguins, general, SurvivraInHellAKASchool#7191, IM DYINF
+21 Sep 2016 16:57:17 : Penguins, general, SurvivraInHellAKASchool#7191, SISHSJJAI
+21 Sep 2016 16:57:18 : Penguins, general, Hiraeth is Salty af#1962, HAHAH XD
+21 Sep 2016 16:57:31 : Penguins, general, Hiraeth is Salty af#1962, IT'S BEAUTIFUL!
+21 Sep 2016 16:57:34 : Penguins, general, SurvivraInHellAKASchool#7191, @xFuckYou
+21 Sep 2016 16:57:37 : Penguins, general, SurvivraInHellAKASchool#7191, Lelelle
+21 Sep 2016 16:57:40 : Penguins, general, Hiraeth is Salty af#1962, XD
+21 Sep 2016 16:57:49 : Penguins, general, Hiraeth is Salty af#1962, He left a while ago since he don't like us
+21 Sep 2016 16:58:09 : Penguins, general, Hiraeth is Salty af#1962, My favv is still milj and leshemale
+21 Sep 2016 16:58:25 : Penguins, general, Hiraeth is Salty af#1962, I feel like milf tits really resemble mine, you know gravity?
+21 Sep 2016 16:58:27 : Penguins, general, SurvivraInHellAKASchool#7191, https://cdn.discordapp.com/attachments/216650661318623232/224978414812135426/normal_PalkiaDialgaColour.png
+21 Sep 2016 16:58:31 : Penguins, general, Hiraeth is Salty af#1962, XD
+21 Sep 2016 16:58:32 : Penguins, general, Hiraeth is Salty af#1962, PLS
+21 Sep 2016 16:58:33 : Penguins, general, Hiraeth is Salty af#1962, ASJd
+21 Sep 2016 16:58:34 : Penguins, general, Hiraeth is Salty af#1962, NO
+21 Sep 2016 16:58:36 : Penguins, general, Hiraeth is Salty af#1962, XDDD
+21 Sep 2016 16:58:46 : Penguins, general, SurvivraInHellAKASchool#7191, https://cdn.discordapp.com/attachments/216650661318623232/224978414812135426/normal_PalkiaDialgaColour.png
+21 Sep 2016 16:58:48 : Penguins, general, SurvivraInHellAKASchool#7191, LELEL
+21 Sep 2016 16:58:52 : Penguins, general, Hiraeth is Salty af#1962, Wait what was the other one XD We found another good one XD
+21 Sep 2016 16:58:54 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Fearleas**(No Role) is now Online!
+21 Sep 2016 16:59:14 : Penguins, general, SurvivraInHellAKASchool#7191, And brian for le shemales husband
+21 Sep 2016 16:59:21 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Online!
+21 Sep 2016 16:59:22 : Penguins, general, Hiraeth is Salty af#1962, ;image Palkia x Dialga
+21 Sep 2016 16:59:23 : Penguins, general, Botfuzzy77#2209, http://orig07.deviantart.net/f56e/f/2014/358/4/c/dialga_x_palkia_by_metaknighta-d8b2nns.png
+21 Sep 2016 16:59:37 : Penguins, general, Hiraeth is Salty af#1962, @xFuckYou  https://cdn.discordapp.com/attachments/216650661318623232/228197911412867072/unknown.png
+21 Sep 2016 16:59:45 : Penguins, general, Hiraeth is Salty af#1962, I made you in le sims
+21 Sep 2016 17:00:08 : Penguins, general, SurvivraInHellAKASchool#7191, LOO
+21 Sep 2016 17:00:08 : Penguins, general, Hiraeth is Salty af#1962, Don't ignore me my love
+21 Sep 2016 17:00:09 : Penguins, general, xPalkia(lugia)#8149, Drinl bleach ok
+21 Sep 2016 17:00:12 : Penguins, general, Hiraeth is Salty af#1962, XD
+21 Sep 2016 17:00:12 : Penguins, general, Hiraeth is Salty af#1962, <3
+21 Sep 2016 17:00:15 : Penguins, general, Hiraeth is Salty af#1962, Love you too
+21 Sep 2016 17:00:20 : Penguins, general, xPalkia(lugia)#8149, I go now
+21 Sep 2016 17:00:23 : Penguins, general, xPalkia(lugia)#8149, School hell
+21 Sep 2016 17:00:24 : Penguins, general, xPalkia(lugia)#8149, Bye
+21 Sep 2016 17:00:27 : Penguins, general, SurvivraInHellAKASchool#7191, DO U HAVE GNERATIONS
+21 Sep 2016 17:00:29 : Penguins, general, Hiraeth is Salty af#1962, nuuh
+21 Sep 2016 17:00:34 : Penguins, general, Hiraeth is Salty af#1962, I don't ;-;
+21 Sep 2016 17:00:39 : Penguins, general, SurvivraInHellAKASchool#7191, How
+21 Sep 2016 17:00:43 : Penguins, general, SurvivraInHellAKASchool#7191, U MUSY BUY THAT
+21 Sep 2016 17:00:47 : Penguins, general, SurvivraInHellAKASchool#7191, XD
+21 Sep 2016 17:00:51 : Penguins, general, Hiraeth is Salty af#1962, university life and generations i want ;_;
+21 Sep 2016 17:00:57 : Penguins, general, SurvivraInHellAKASchool#7191, THE IMPORTANR SIMS ARE
+21 Sep 2016 17:01:06 : Penguins, general, Hiraeth is Salty af#1962, gey?
+21 Sep 2016 17:01:24 : Penguins, general, Hiraeth is Salty af#1962, https://cdn.discordapp.com/attachments/216650661318623232/228197386109976577/unknown.png
+21 Sep 2016 17:01:29 : Penguins, general, Hiraeth is Salty af#1962, Looks important
+21 Sep 2016 17:01:33 : Penguins, general, Hiraeth is Salty af#1962, like this?
+21 Sep 2016 17:01:33 : Penguins, general, SurvivraInHellAKASchool#7191, SEASONS PETS GENERATIONS UNIVERSITYLIFE AND NIGHTLIFE
+21 Sep 2016 17:01:36 : Penguins, general, Hiraeth is Salty af#1962, ^
+21 Sep 2016 17:01:36 : Penguins, general, Botfuzzy77#2209, ^
+21 Sep 2016 17:01:36 : Penguins, general, SurvivraInHellAKASchool#7191, LOL
+21 Sep 2016 17:01:46 : Penguins, general, SurvivraInHellAKASchool#7191, I has all
+21 Sep 2016 17:01:48 : Penguins, general, SurvivraInHellAKASchool#7191, Lemme send
+21 Sep 2016 17:01:53 : Penguins, general, Hiraeth is Salty af#1962, I have night life but likeeee......the cd is kinda aaaa gone
+21 Sep 2016 17:02:00 : Penguins, general, SurvivraInHellAKASchool#7191, Le
+21 Sep 2016 17:02:02 : Penguins, general, Hiraeth is Salty af#1962, XD
+21 Sep 2016 17:02:25 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Schauda**(Priests of The Raw Man) is now Online!
+21 Sep 2016 17:02:26 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Schauda**(Priests of The Raw Man) is now Offline!
+21 Sep 2016 17:03:46 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Offline!
+21 Sep 2016 17:03:48 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Offline!
+21 Sep 2016 17:04:08 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Online!
+21 Sep 2016 17:04:13 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Default**(SchutzStaffel) is now Online!
+21 Sep 2016 17:05:37 : Penguins, general, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Offline!
+21 Sep 2016 17:07:15 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **druif**(Nazi) is now Online!
+21 Sep 2016 17:07:51 : Penguins, general, Hiraeth is Salty af#1962, #neverforgetti
+21 Sep 2016 17:08:07 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Online!
+21 Sep 2016 17:10:36 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Offline!
+21 Sep 2016 17:13:04 : Penguins, general, Botfuzzy77#2209, **Resolate**(Suicune) is now Offline!
+21 Sep 2016 17:15:48 : Team Harmony, general, Botfuzzy77#2209, **Techni**(Team Harmony) is now Online!
+21 Sep 2016 17:15:48 : My Personal Server, general, Botfuzzy77#2209, **Techni**(Member) is now Online!
+21 Sep 2016 17:16:04 : Penguins, general, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Online!
+21 Sep 2016 17:16:10 : Penguins, general, SurvivraInHellAKASchool#7191, Omfg
+21 Sep 2016 17:16:13 : GreenHillGang, general, Botfuzzy77#2209, **Wertfuzzy77**(No Role) is now Online!
+21 Sep 2016 17:16:13 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+21 Sep 2016 17:16:24 : Penguins, general, Hiraeth is Salty af#1962, Tis' Brian ^
+21 Sep 2016 17:16:25 : Cipher, bot_land, Wertfuzzy77#0274, ;search new game anime opening
+21 Sep 2016 17:16:27 : Cipher, bot_land, Botfuzzy77#2209, Added New Game  Opening to the queue
+21 Sep 2016 17:16:27 : Cipher, bot_land, Botfuzzy77#2209, https://www.youtube.com/watch?v=XvWD1Cqx4X8
+21 Sep 2016 17:16:36 : Penguins, general, SurvivraInHellAKASchool#7191, Lol
+21 Sep 2016 17:16:54 : Penguins, general, SurvivraInHellAKASchool#7191, 
+21 Sep 2016 17:16:55 : Penguins, general, SurvivraInHellAKASchool#7191, Thats my sims
+21 Sep 2016 17:16:59 : Penguins, general, SurvivraInHellAKASchool#7191, And my feer
+21 Sep 2016 17:17:01 : Penguins, general, Hiraeth is Salty af#1962, omg
+21 Sep 2016 17:17:06 : Penguins, general, Hiraeth is Salty af#1962, those feet
+21 Sep 2016 17:17:07 : Penguins, general, Hiraeth is Salty af#1962, damn
+21 Sep 2016 17:17:10 : Penguins, general, SurvivraInHellAKASchool#7191, Lele
+21 Sep 2016 17:17:12 : Penguins, general, Hiraeth is Salty af#1962, XD
+21 Sep 2016 17:17:19 : Penguins, general, Hiraeth is Salty af#1962, That's sims paradise
+21 Sep 2016 17:17:20 : Penguins, general, Hiraeth is Salty af#1962, D:
+21 Sep 2016 17:17:23 : Penguins, general, Hiraeth is Salty af#1962, I'm jelly
+21 Sep 2016 17:17:24 : Penguins, general, SurvivraInHellAKASchool#7191, Le
+21 Sep 2016 17:17:30 : Penguins, general, Hiraeth is Salty af#1962, Oke
+21 Sep 2016 17:17:37 : Penguins, general, Hiraeth is Salty af#1962, 1 min lemme get all of mine
+21 Sep 2016 17:17:40 : Cipher, bot_land, Wertfuzzy77#0274, ;relog

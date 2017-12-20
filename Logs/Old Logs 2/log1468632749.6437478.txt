@@ -1,0 +1,375 @@
+16 Jul 2016 01:32:37 : LimitlessMc , Wertfuzzy77#0274 , ;youtube https://www.youtube.com/watch?v=52sY1VYyEJg
+16 Jul 2016 01:32:37 : LimitlessMc , Botfuzzy77#2209 , You Need to Connect to a Voice Chat first!
+16 Jul 2016 01:32:39 : LimitlessMc , Wertfuzzy77#0274 , ;join
+16 Jul 2016 01:32:40 : LimitlessMc , Botfuzzy77#2209 , Sorry, I'm already connected to a channel
+16 Jul 2016 01:32:41 : LimitlessMc , Wertfuzzy77#0274 , ;youtube https://www.youtube.com/watch?v=52sY1VYyEJg
+16 Jul 2016 01:32:43 : LimitlessMc , Botfuzzy77#2209 , Sorry, that video has too little views to be Trustworthy. Needs [20,000] but has [15,081]
+16 Jul 2016 01:32:52 : LimitlessMc , Botfuzzy77#2209 , Sorry, that video has too little views to be Trustworthy. Needs [20,000] but has [15,081]
+16 Jul 2016 01:35:40 : LimitlessMc , Wertfuzzy77#0274 , ;playlist Adele
+16 Jul 2016 01:35:45 : LimitlessMc , Botfuzzy77#2209 , Finished Adding songs from playlist(s)
+16 Jul 2016 01:36:09 : LimitlessMc , Wertfuzzy77#0274 , ;song
+16 Jul 2016 01:36:10 : LimitlessMc , Botfuzzy77#2209 , ```Name: Adele - Hello
+URL: <https://www.youtube.com/watch?v=YQHsXMglC9A>
+Time: 367
+Views: 1,633,564,134
+Likes: 10,274,759, 95.21%
+Dislikes: 516,387, 4.79%
+```
+16 Jul 2016 01:36:18 : LimitlessMc , Wertfuzzy77#0274 , ;skip
+16 Jul 2016 01:36:18 : LimitlessMc , Botfuzzy77#2209 , Skipping Adele - Hello
+16 Jul 2016 01:36:23 : LimitlessMc , Wertfuzzy77#0274 , ;song
+16 Jul 2016 01:36:23 : LimitlessMc , Botfuzzy77#2209 , ```Name: Adele - Hello
+URL: <https://www.youtube.com/watch?v=YQHsXMglC9A>
+Time: 367
+Views: 1,633,564,134
+Likes: 10,274,759, 95.21%
+Dislikes: 516,387, 4.79%
+```
+16 Jul 2016 01:36:26 : LimitlessMc , Wertfuzzy77#0274 , ...
+16 Jul 2016 01:36:30 : LimitlessMc , Wertfuzzy77#0274 , there we go
+16 Jul 2016 01:36:34 : LimitlessMc , Wertfuzzy77#0274 , thought it crashed xD
+16 Jul 2016 01:38:39 : LimitlessMc , Wertfuzzy77#0274 , i wonder if it still goes crazy after it fully completes a song
+16 Jul 2016 01:38:46 : LimitlessMc , Wertfuzzy77#0274 , ;songs
+16 Jul 2016 01:38:46 : LimitlessMc , Botfuzzy77#2209 , The Following songs are in the Queue
+16 Jul 2016 01:38:46 : LimitlessMc , Botfuzzy77#2209 , Adele - Someone Like You (https://www.youtube.com/watch?v=hLQl3WQQoQ0)
+Adele - Rolling in the Deep (https://www.youtube.com/watch?v=rYEDA3JcQqw)
+Adele - Turning Tables (With Lyrics) (https://www.youtube.com/watch?v=dx7sLNyIeQk)
+Music Box & Modulin - 2 new music instruments ("All Was Well" by Wintergatan) (https://www.youtube.com/watch?v=mFfe4ZRQOH8)
+
+16 Jul 2016 01:38:50 : LimitlessMc , Wertfuzzy77#0274 , ;shuffle
+16 Jul 2016 01:38:50 : LimitlessMc , Botfuzzy77#2209 , Shuffling songs...
+16 Jul 2016 01:38:52 : LimitlessMc , Wertfuzzy77#0274 , ;songs
+16 Jul 2016 01:38:52 : LimitlessMc , Botfuzzy77#2209 , The Following songs are in the Queue
+16 Jul 2016 01:38:52 : LimitlessMc , Botfuzzy77#2209 , Adele - Turning Tables (With Lyrics) (https://www.youtube.com/watch?v=dx7sLNyIeQk)
+Music Box & Modulin - 2 new music instruments ("All Was Well" by Wintergatan) (https://www.youtube.com/watch?v=mFfe4ZRQOH8)
+Adele - Rolling in the Deep (https://www.youtube.com/watch?v=rYEDA3JcQqw)
+Adele - Someone Like You (https://www.youtube.com/watch?v=hLQl3WQQoQ0)
+
+16 Jul 2016 01:40:13 : LimitlessMc , Wertfuzzy77#0274 , also, if you give me a list of songs you want, i can make a playlist for you, so you dont have to do ;youtube for each one
+16 Jul 2016 01:40:25 : LimitlessMc , Wertfuzzy77#0274 , oh also, you can do multiple links per ;youtube
+16 Jul 2016 01:41:04 : LimitlessMc , Wertfuzzy77#0274 , y?
+16 Jul 2016 01:41:09 : LimitlessMc , Wertfuzzy77#0274 , i have a playlist with 1 song lol
+16 Jul 2016 01:41:36 : LimitlessMc , Wertfuzzy77#0274 , ;playlist WEEB
+16 Jul 2016 01:41:37 : LimitlessMc , Botfuzzy77#2209 , Finished Adding songs from playlist(s)
+16 Jul 2016 01:41:41 : LimitlessMc , Botfuzzy77#2209 , ```Name: Adele - Turning Tables (With Lyrics)
+URL: <https://www.youtube.com/watch?v=dx7sLNyIeQk>
+Time: 247
+Views: 66,728,951
+Likes: 207,661, 97.78%
+Dislikes: 4,719, 2.22%
+```
+16 Jul 2016 01:41:43 : LimitlessMc , Wertfuzzy77#0274 , ;songs
+16 Jul 2016 01:41:43 : LimitlessMc , Botfuzzy77#2209 , The Following songs are in the Queue
+16 Jul 2016 01:41:49 : LimitlessMc , Wertfuzzy77#0274 , there it is lol
+16 Jul 2016 01:42:19 : LimitlessMc , Wertfuzzy77#0274 , ;remove 4
+16 Jul 2016 01:42:47 : LimitlessMc , Wertfuzzy77#0274 , lol, didnt think you wanted to listen to it
+16 Jul 2016 01:42:59 : LimitlessMc , Wertfuzzy77#0274 , most people find it v annoying
+16 Jul 2016 01:43:07 : LimitlessMc , Wertfuzzy77#0274 , ;playlist WEEB
+16 Jul 2016 01:43:08 : LimitlessMc , Botfuzzy77#2209 , Finished Adding songs from playlist(s)
+16 Jul 2016 01:43:11 : LimitlessMc , Wertfuzzy77#0274 , alright then
+16 Jul 2016 01:43:15 : LimitlessMc , Wertfuzzy77#0274 , ;shuffle
+16 Jul 2016 01:43:15 : LimitlessMc , Botfuzzy77#2209 , Shuffling songs...
+16 Jul 2016 01:43:18 : LimitlessMc , Wertfuzzy77#0274 , ;songs
+16 Jul 2016 01:43:18 : LimitlessMc , Botfuzzy77#2209 , The Following songs are in the Queue
+16 Jul 2016 01:43:37 : LimitlessMc , Wertfuzzy77#0274 , so yeah, if you give me a list, i can put em in for you
+16 Jul 2016 01:43:48 : LimitlessMc , Wertfuzzy77#0274 , ill make it like ;playlist nero or something
+16 Jul 2016 01:45:04 : LimitlessMc , Wertfuzzy77#0274 , ugh gret
+16 Jul 2016 01:45:17 : LimitlessMc , Wertfuzzy77#0274 , why did it skip some???
+16 Jul 2016 01:45:29 : LimitlessMc , Wertfuzzy77#0274 , told you it freaks out sometimes xD
+16 Jul 2016 01:45:49 : LimitlessMc , Wertfuzzy77#0274 , ;youtube https://www.youtube.com/watch?v=mFfe4ZRQOH8 https://www.youtube.com/watch?v=hLQl3WQQoQ0
+16 Jul 2016 01:45:51 : LimitlessMc , Wertfuzzy77#0274 , yeah
+16 Jul 2016 01:46:06 : LimitlessMc , Wertfuzzy77#0274 , nah
+16 Jul 2016 01:46:16 : LimitlessMc , Wertfuzzy77#0274 , it sometimes freaks out and skips songs
+16 Jul 2016 01:46:52 : LimitlessMc , Botfuzzy77#2209 , Welcome <@203688891247493120> to LimitlessMc!
+16 Jul 2016 01:46:55 : LimitlessMc , Botfuzzy77#2209 , Welcome <@203688903826341888> to LimitlessMc!
+16 Jul 2016 01:46:58 : LimitlessMc , Wertfuzzy77#0274 , oi <@187609093001838602>
+16 Jul 2016 01:46:58 : LimitlessMc , Botfuzzy77#2209 , Wut
+16 Jul 2016 01:47:01 : LimitlessMc , Wertfuzzy77#0274 , what are you doing
+16 Jul 2016 01:47:03 : LimitlessMc , Wertfuzzy77#0274 , stop being bad
+16 Jul 2016 01:47:21 : LimitlessMc , Wertfuzzy77#0274 , ;youtube https://www.youtube.com/watch?v=rYEDA3JcQqw
+16 Jul 2016 01:47:32 : LimitlessMc , Wertfuzzy77#0274 , ;youtube  https://www.youtube.com/watch?v=mFfe4ZRQOH8
+16 Jul 2016 01:47:36 : LimitlessMc , Wertfuzzy77#0274 , ;shuffle
+16 Jul 2016 01:47:36 : LimitlessMc , Botfuzzy77#2209 , Shuffling songs...
+16 Jul 2016 01:47:38 : LimitlessMc , Wertfuzzy77#0274 , ;songs
+16 Jul 2016 01:47:38 : LimitlessMc , Botfuzzy77#2209 , The Following songs are in the Queue
+16 Jul 2016 01:47:38 : LimitlessMc , Botfuzzy77#2209 , Adele - Rolling in the Deep (https://www.youtube.com/watch?v=rYEDA3JcQqw)
+Music Box & Modulin - 2 new music instruments ("All Was Well" by Wintergatan) (https://www.youtube.com/watch?v=mFfe4ZRQOH8)
+
+16 Jul 2016 01:47:54 : Cipher , RoyGasm ;)#7098 , back from shark movie
+16 Jul 2016 01:47:58 : LimitlessMc , Botfuzzy77#2209 , Shuffling songs...
+16 Jul 2016 01:48:01 : LimitlessMc , Botfuzzy77#2209 , The Following songs are in the Queue
+16 Jul 2016 01:48:01 : LimitlessMc , Botfuzzy77#2209 , Adele - Rolling in the Deep (https://www.youtube.com/watch?v=rYEDA3JcQqw)
+Music Box & Modulin - 2 new music instruments ("All Was Well" by Wintergatan) (https://www.youtube.com/watch?v=mFfe4ZRQOH8)
+
+16 Jul 2016 01:48:02 : LimitlessMc , Wertfuzzy77#0274 , only 2 songs lol
+16 Jul 2016 01:48:02 : LimitlessMc , Botfuzzy77#2209 , Welcome <@193876248143986690> to LimitlessMc!
+16 Jul 2016 01:48:05 : LimitlessMc , Wertfuzzy77#0274 , ;shuffle
+16 Jul 2016 01:48:05 : LimitlessMc , Botfuzzy77#2209 , Shuffling songs...
+16 Jul 2016 01:48:06 : LimitlessMc , Wertfuzzy77#0274 , ;songs
+16 Jul 2016 01:48:07 : LimitlessMc , Botfuzzy77#2209 , The Following songs are in the Queue
+16 Jul 2016 01:48:07 : LimitlessMc , Botfuzzy77#2209 , Music Box & Modulin - 2 new music instruments ("All Was Well" by Wintergatan) (https://www.youtube.com/watch?v=mFfe4ZRQOH8)
+Adele - Rolling in the Deep (https://www.youtube.com/watch?v=rYEDA3JcQqw)
+
+16 Jul 2016 01:49:01 : LimitlessMc , Wertfuzzy77#0274 , <@202020660439023617> whats the point of joining the music channel, and deafening yourself lol
+16 Jul 2016 01:49:29 : LimitlessMc , RoyGasm ;)#7098 , wtf is a  <@203688903826341888> lmfao
+16 Jul 2016 01:49:42 : LimitlessMc , Wertfuzzy77#0274 , ";lmgtfy"
+16 Jul 2016 01:50:01 : Cipher , Calamariela#4119 , Good movie
+16 Jul 2016 01:50:10 : LimitlessMc , RoyGasm ;)#7098 , bet
+16 Jul 2016 01:50:16 : Cipher , RoyGasm ;)#7098 , ye
+16 Jul 2016 01:50:21 : Cipher , Wertfuzzy77#0274 , def was garbage
+16 Jul 2016 01:50:27 : Cipher , RoyGasm ;)#7098 , <@!134441036905840640> kys
+16 Jul 2016 01:50:33 : Cipher , RoyGasm ;)#7098 , it was good movie
+16 Jul 2016 01:51:03 : Cipher , Wertfuzzy77#0274 , bet
+16 Jul 2016 01:52:06 : LimitlessMc , Wertfuzzy77#0274 , ;playlist Maroon Sheeran
+16 Jul 2016 01:52:14 : LimitlessMc , Botfuzzy77#2209 , Finished Adding songs from playlist(s)
+16 Jul 2016 01:54:14 : LimitlessMc , RoyGasm ;)#7098 , no
+16 Jul 2016 01:54:33 : LimitlessMc , RoyGasm ;)#7098 , why do people like this song?
+16 Jul 2016 01:54:36 : LimitlessMc , RoyGasm ;)#7098 , horribad
+16 Jul 2016 01:55:07 : LimitlessMc , RoyGasm ;)#7098 , no?
+16 Jul 2016 01:58:44 : LimitlessMc , Botfuzzy77#2209 , The Following songs are in the Queue
+16 Jul 2016 01:58:44 : LimitlessMc , Botfuzzy77#2209 , Maroon 5 - Moves Like Jagger ft. Christina Aguilera (https://www.youtube.com/watch?v=iEPTlhBmwRg)
+Maroon 5 - Animals (https://www.youtube.com/watch?v=qpgTC9MDx1o)
+Maroon 5 - Maps (Explicit) (https://www.youtube.com/watch?v=NmugSMBh_iI)
+Ed Sheeran - The A Team [Official Video] (https://www.youtube.com/watch?v=UAWcs5H-qgQ)
+Ed Sheeran - Photograph (Official Music Video) (https://www.youtube.com/watch?v=nSDgHBxUbVQ)
+Ed Sheeran - Thinking Out Loud [Official Video] (https://www.youtube.com/watch?v=lp-EO5I60KA)
+Ed Sheeran - Give Me Love [Official Video] (https://www.youtube.com/watch?v=FOjdXSrtUxA)
+Ed Sheeran - Lego House [Official Video] (https://www.youtube.com/watch?v=c4BLVznuWnU)
+Ed Sheeran - I See Fire (Music Video) (https://www.youtube.com/watch?v=2fngvQS_PmQ)
+Wintergatan - Sommarfågel (https://www.youtube.com/watch?v=SBK2AF-NdVA)
+
+16 Jul 2016 01:58:59 : LimitlessMc , Botfuzzy77#2209 , Wut
+16 Jul 2016 01:59:21 : LimitlessMc , Botfuzzy77#2209 , The Following songs are in the Queue
+16 Jul 2016 01:59:21 : LimitlessMc , Botfuzzy77#2209 , Ed Sheeran - Photograph (Official Music Video) (https://www.youtube.com/watch?v=nSDgHBxUbVQ)
+Ed Sheeran - Thinking Out Loud [Official Video] (https://www.youtube.com/watch?v=lp-EO5I60KA)
+Ed Sheeran - Give Me Love [Official Video] (https://www.youtube.com/watch?v=FOjdXSrtUxA)
+Ed Sheeran - Lego House [Official Video] (https://www.youtube.com/watch?v=c4BLVznuWnU)
+Ed Sheeran - I See Fire (Music Video) (https://www.youtube.com/watch?v=2fngvQS_PmQ)
+Wintergatan - Sommarfågel (https://www.youtube.com/watch?v=SBK2AF-NdVA)
+
+16 Jul 2016 01:59:32 : LimitlessMc , Wertfuzzy77#0274 , oi <@187609093001838602>  behave
+16 Jul 2016 01:59:32 : LimitlessMc , Botfuzzy77#2209 , Wut
+16 Jul 2016 01:59:42 : LimitlessMc , Wertfuzzy77#0274 , yeah
+16 Jul 2016 01:59:45 : LimitlessMc , Wertfuzzy77#0274 , he gets annoying
+16 Jul 2016 01:59:53 : LimitlessMc , Wertfuzzy77#0274 , no idea why he does this
+16 Jul 2016 01:59:55 : LimitlessMc , Wertfuzzy77#0274 , ;skip
+16 Jul 2016 01:59:55 : LimitlessMc , Botfuzzy77#2209 , Skipping Ed Sheeran - Thinking Out Loud [Official Video]
+16 Jul 2016 02:00:10 : LimitlessMc , Wertfuzzy77#0274 , ...
+16 Jul 2016 02:00:33 : LimitlessMc , Wertfuzzy77#0274 , lol
+16 Jul 2016 02:00:38 : LimitlessMc , Wertfuzzy77#0274 , it likes your song tho
+16 Jul 2016 02:01:15 : LimitlessMc , Wertfuzzy77#0274 , possibly
+16 Jul 2016 02:01:23 : LimitlessMc , Mank#0033 , Le
+16 Jul 2016 02:01:28 : LimitlessMc , Wertfuzzy77#0274 , I would have to find what it causing it tho
+16 Jul 2016 02:01:52 : LimitlessMc , Wertfuzzy77#0274 , Ive googled the error and it seems to be caused by flaky network
+16 Jul 2016 02:02:13 : LimitlessMc , Wertfuzzy77#0274 , and people say putting it on a server tends to fix it
+16 Jul 2016 02:02:53 : LimitlessMc , Wertfuzzy77#0274 , so, eventually, once i get him to version 1.0 ill see if jay can throw him onto the same server the MC server runs on
+16 Jul 2016 02:02:59 : LimitlessMc , Wertfuzzy77#0274 , and should fix it
+16 Jul 2016 02:04:23 : LimitlessMc , Botfuzzy77#2209 , Skipping Wintergatan - Sommarfågel
+16 Jul 2016 02:05:05 : LimitlessMc , Wertfuzzy77#0274 , ;playlist Adele Maroon Sheeran
+16 Jul 2016 02:05:18 : LimitlessMc , Botfuzzy77#2209 , Finished Adding songs from playlist(s)
+16 Jul 2016 02:05:21 : LimitlessMc , Wertfuzzy77#0274 , ;shuffle
+16 Jul 2016 02:05:22 : LimitlessMc , Botfuzzy77#2209 , Shuffling songs...
+16 Jul 2016 02:05:24 : LimitlessMc , Wertfuzzy77#0274 , ;songs
+16 Jul 2016 02:05:24 : LimitlessMc , Botfuzzy77#2209 , The Following songs are in the Queue, plus [5] more
+16 Jul 2016 02:05:24 : LimitlessMc , Botfuzzy77#2209 , Maroon 5 - Payphone (Explicit) ft. Wiz Khalifa (https://www.youtube.com/watch?v=KRaWnd3LJfs)
+Maroon 5 - Moves Like Jagger ft. Christina Aguilera (https://www.youtube.com/watch?v=iEPTlhBmwRg)
+Ed Sheeran - Give Me Love [Official Video] (https://www.youtube.com/watch?v=FOjdXSrtUxA)
+Adele - Someone Like You (https://www.youtube.com/watch?v=hLQl3WQQoQ0)
+Adele - Hello (https://www.youtube.com/watch?v=YQHsXMglC9A)
+Ed Sheeran - Photograph (Official Music Video) (https://www.youtube.com/watch?v=nSDgHBxUbVQ)
+Adele - Set Fire To The Rain (Live at The Royal Albert Hall) (https://www.youtube.com/watch?v=Ri7-vnrJD3k)
+Maroon 5 - Animals (https://www.youtube.com/watch?v=qpgTC9MDx1o)
+Maroon 5 - Maps (Explicit) (https://www.youtube.com/watch?v=NmugSMBh_iI)
+Ed Sheeran - Lego House [Official Video] (https://www.youtube.com/watch?v=c4BLVznuWnU)
+
+16 Jul 2016 02:08:38 : LimitlessMc , X3IONE#0865 , <@203688903826341888>  wtf
+16 Jul 2016 02:08:43 : LimitlessMc , Mank#0033 , 
+16 Jul 2016 02:10:12 : LimitlessMc , Wertfuzzy77#0274 , ;image Mankaran
+16 Jul 2016 02:10:13 : LimitlessMc , Botfuzzy77#2209 , https://www.thefono.org/media/12261/dr-mankaran-jimmy-sandhu.png
+16 Jul 2016 02:10:21 : LimitlessMc , Wertfuzzy77#0274 , LOL
+16 Jul 2016 02:10:23 : LimitlessMc , Wertfuzzy77#0274 , <@151438890107011072>
+16 Jul 2016 02:10:26 : LimitlessMc , Wertfuzzy77#0274 , we found you
+16 Jul 2016 02:10:37 : LimitlessMc , Mank#0033 , Thank
+16 Jul 2016 02:14:35 : LimitlessMc , Wertfuzzy77#0274 , ik
+16 Jul 2016 02:14:40 : LimitlessMc , Wertfuzzy77#0274 , i see it on the console ;/
+16 Jul 2016 02:14:42 : LimitlessMc , Wertfuzzy77#0274 , ;shuffle
+16 Jul 2016 02:14:43 : LimitlessMc , Botfuzzy77#2209 , Shuffling songs...
+16 Jul 2016 02:14:48 : LimitlessMc , Wertfuzzy77#0274 , i wonder what that would do?
+16 Jul 2016 02:14:54 : LimitlessMc , Wertfuzzy77#0274 , aw
+16 Jul 2016 02:15:02 : LimitlessMc , Wertfuzzy77#0274 , it gave me hope for a second
+16 Jul 2016 02:15:07 : LimitlessMc , Botfuzzy77#2209 , The Following songs are in the Queue
+16 Jul 2016 02:15:07 : LimitlessMc , Botfuzzy77#2209 , Maroon 5 - Maps (Explicit) (https://www.youtube.com/watch?v=NmugSMBh_iI)
+Maroon 5 - Animals (https://www.youtube.com/watch?v=qpgTC9MDx1o)
+Adele - Turning Tables (With Lyrics) (https://www.youtube.com/watch?v=dx7sLNyIeQk)
+Maroon 5 - Sugar (https://www.youtube.com/watch?v=09R8_2nJtjg)
+Ed Sheeran - I See Fire (Music Video) (https://www.youtube.com/watch?v=2fngvQS_PmQ)
+Adele - Set Fire To The Rain (Live at The Royal Albert Hall) (https://www.youtube.com/watch?v=Ri7-vnrJD3k)
+
+16 Jul 2016 02:15:18 : LimitlessMc , Wertfuzzy77#0274 , hate you <@187609093001838602>
+16 Jul 2016 02:15:18 : LimitlessMc , Botfuzzy77#2209 , Wut
+16 Jul 2016 02:15:23 : LimitlessMc , Wertfuzzy77#0274 , you know what you did
+16 Jul 2016 02:15:49 : LimitlessMc , Wertfuzzy77#0274 , ugh
+16 Jul 2016 02:15:56 : LimitlessMc , Wertfuzzy77#0274 , i really need to fix this
+16 Jul 2016 02:17:55 : LimitlessMc , Botfuzzy77#2209 , Skipping Shy Boy - District 78 - Thanks for the Falcon
+16 Jul 2016 02:18:22 : LimitlessMc , Botfuzzy77#2209 , ```Name: Shy Boy - District 78 - Thanks for the Falcon
+URL: <https://www.youtube.com/watch?v=4XKBMzTLTXU>
+Time: 219
+Views: 186,669
+Likes: 2,002, 98.04%
+Dislikes: 40, 1.96%
+```
+16 Jul 2016 02:18:34 : LimitlessMc , Botfuzzy77#2209 , ```Name: Flume - Insane feat. Moon Holiday
+URL: <https://www.youtube.com/watch?v=peRS3KGNxoY>
+Time: 214
+Views: 13,994,178
+Likes: 73,708, 98.54%
+Dislikes: 1,090, 1.46%
+```
+16 Jul 2016 02:20:26 : LimitlessMc , X3IONE#0865 , ;image MankHD
+16 Jul 2016 02:20:27 : LimitlessMc , Botfuzzy77#2209 , http://mcskinsearch.com/img/cache/raw/MankHD.png?1456119340
+16 Jul 2016 02:20:44 : LimitlessMc , X3IONE#0865 , ;image Wert
+16 Jul 2016 02:20:45 : LimitlessMc , Botfuzzy77#2209 , https://hiddenriverarts.files.wordpress.com/2013/06/basch-rachel-photo-wm-van-wert-2011-winner.png
+16 Jul 2016 02:20:53 : LimitlessMc , X3IONE#0865 , omg...
+16 Jul 2016 02:21:05 : LimitlessMc , X3IONE#0865 , wert is amilf
+16 Jul 2016 02:21:20 : LimitlessMc , X3IONE#0865 , ;image jay11355
+16 Jul 2016 02:21:21 : LimitlessMc , Botfuzzy77#2209 , ERROR
+16 Jul 2016 02:25:48 : LimitlessMc , Botfuzzy77#2209 , ERROR
+16 Jul 2016 02:26:06 : LimitlessMc , Botfuzzy77#2209 , http://orig04.deviantart.net/d756/f/2012/178/c/5/neros__nerokin__main_office_in_film_studio_by_neros1990-d551axu.png
+16 Jul 2016 02:26:30 : LimitlessMc , Botfuzzy77#2209 , http://globalgamejam.org/sites/default/files/styles/game_sidebar__normal/public/game/featured_image/promo_5.png?itok=9dymM8JD
+16 Jul 2016 02:26:33 : LimitlessMc , Wertfuzzy77#0274 , lol
+16 Jul 2016 02:26:46 : LimitlessMc , Wertfuzzy77#0274 , thats pretty random
+16 Jul 2016 02:26:58 : LimitlessMc , Wertfuzzy77#0274 , ;image really random
+16 Jul 2016 02:26:58 : LimitlessMc , Botfuzzy77#2209 , http://img.photobucket.com/albums/v311/eklutna/imaneffingshark.png
+16 Jul 2016 02:27:06 : LimitlessMc , Wertfuzzy77#0274 , 2x sharks tho
+16 Jul 2016 02:27:21 : LimitlessMc , Botfuzzy77#2209 , Sorry, that video has too little views to be Trustworthy. Needs [20,000] but has [15,090]
+16 Jul 2016 02:27:32 : LimitlessMc , X3IONE#0865 , ;image hentai
+16 Jul 2016 02:27:32 : LimitlessMc , Botfuzzy77#2209 , https://www.google.com/chromecast/static/images/apps/apps-discover-chromecast-app-screen-04-search.png
+16 Jul 2016 02:27:40 : LimitlessMc , X3IONE#0865 , ;image boku no pico
+16 Jul 2016 02:27:40 : LimitlessMc , Botfuzzy77#2209 , https://66.media.tumblr.com/57a214c19f05a6c18b0a1c4a94d6b308/tumblr_mz18khCMZx1sp3900o1_500.png
+16 Jul 2016 02:27:56 : LimitlessMc , X3IONE#0865 , ;image weebos
+16 Jul 2016 02:27:57 : LimitlessMc , Botfuzzy77#2209 , http://img02.deviantart.net/3d79/i/2012/095/b/5/weebos_by_akuma_nushi-d4v38j0.png
+16 Jul 2016 02:28:43 : LimitlessMc , X3IONE#0865 , ;image resort boin
+16 Jul 2016 02:28:44 : LimitlessMc , Botfuzzy77#2209 , https://static4.fjcdn.com/comments/She+is+from+resort+boin+hope+it+helps+fellow+_8b8a75086c1a7c51ea782849b0cd827e.png
+16 Jul 2016 02:28:44 : The Pleb Privateers , Ryan#3332 , 
+16 Jul 2016 02:28:56 : The Pleb Privateers , Alex#8560 , 
+16 Jul 2016 02:28:58 : LimitlessMc , X3IONE#0865 , ;image high school dxd
+16 Jul 2016 02:28:58 : LimitlessMc , Botfuzzy77#2209 , http://www.comicbastards.com/wp-content/uploads/high-school-DXD-born-banner-2.png
+16 Jul 2016 02:31:53 : LimitlessMc , Botfuzzy77#2209 , http://4.bp.blogspot.com/-BhJ7lFTIAls/T7rYsCvmtxI/AAAAAAAAJ6U/XGARiGW7UA0/s1600/IMG_0444.PNG
+16 Jul 2016 02:32:45 : LimitlessMc , Botfuzzy77#2209 , Sorry, that video has too little views to be Trustworthy. Needs [20,000] but has [5,112]
+16 Jul 2016 02:37:58 : LimitlessMc , Stormzzzy#3051 , ;image hot sexy donkey kong anal
+16 Jul 2016 02:37:59 : LimitlessMc , Botfuzzy77#2209 , http://img12.deviantart.net/aaa4/i/2014/205/2/3/teenage_tiny_kong_eats_diddy_and_donkey_kong_by_footballlover-d7s1kee.png
+16 Jul 2016 02:38:47 : LimitlessMc , Botfuzzy77#2209 , Queue is Empty
+16 Jul 2016 02:38:48 : LimitlessMc , Botfuzzy77#2209 , ```Name: Flume - Insane feat. Moon Holiday
+URL: <https://www.youtube.com/watch?v=peRS3KGNxoY>
+Time: 214
+Views: 13,994,178
+Likes: 73,708, 98.54%
+Dislikes: 1,090, 1.46%
+```
+16 Jul 2016 02:38:53 : LimitlessMc , Botfuzzy77#2209 , Skipping Flume - Insane feat. Moon Holiday
+16 Jul 2016 02:38:58 : LimitlessMc , Botfuzzy77#2209 , Not a Valid Link, Please only use URLs from youtube.com
+16 Jul 2016 02:39:13 : LimitlessMc , Botfuzzy77#2209 , ```Name: Flume - Insane feat. Moon Holiday
+URL: <https://www.youtube.com/watch?v=peRS3KGNxoY>
+Time: 214
+Views: 13,994,178
+Likes: 73,708, 98.54%
+Dislikes: 1,090, 1.46%
+```
+16 Jul 2016 02:39:16 : LimitlessMc , Botfuzzy77#2209 , Queue is Empty
+16 Jul 2016 02:39:20 : LimitlessMc , Botfuzzy77#2209 , Skipping Flume - Insane feat. Moon Holiday
+16 Jul 2016 02:39:23 : LimitlessMc , Botfuzzy77#2209 , ```Name: Flume - Insane feat. Moon Holiday
+URL: <https://www.youtube.com/watch?v=peRS3KGNxoY>
+Time: 214
+Views: 13,994,178
+Likes: 73,708, 98.54%
+Dislikes: 1,090, 1.46%
+```
+16 Jul 2016 02:51:18 : Cipher , Skyd#9935 , Me too guys...
+16 Jul 2016 02:51:38 : Cipher , Skyd#9935 , Cala when you gonna play again ? D: 
+16 Jul 2016 02:52:25 : Cipher , Calamariela#4119 , Good question :3
+16 Jul 2016 02:52:28 : Cipher , Calamariela#4119 , Idk
+16 Jul 2016 02:52:56 : Cipher , RoyGasm ;)#7098 , <@183307266475294721> i miss you babe
+16 Jul 2016 02:52:56 : Cipher , Skyd#9935 , I have that growlithe I gotta give back 
+16 Jul 2016 02:53:17 : Cipher , Calamariela#4119 , Oooo...omg!!! The venusaur!!
+16 Jul 2016 02:53:22 : Cipher , Calamariela#4119 , Sorry xD
+16 Jul 2016 02:54:09 : Cipher , RoyGasm ;)#7098 , glee is good for your health, everyone here watch it
+16 Jul 2016 02:54:50 : Cipher , Calamariela#4119 , Well good and kys roy
+16 Jul 2016 02:55:17 : Cipher , RoyGasm ;)#7098 , no pls ;-;
+16 Jul 2016 02:56:08 : Cipher , Skyd#9935 , But yes Venusaur need to come back to daddy 
+16 Jul 2016 02:56:09 : Cipher , Calamariela#4119 , Nah I won't kill ya
+16 Jul 2016 02:56:19 : Cipher , Calamariela#4119 , You will kill yourself
+16 Jul 2016 02:56:19 : Cipher , Skyd#9935 , Roy dead inside 
+16 Jul 2016 02:56:24 : Cipher , RoyGasm ;)#7098 , ^
+16 Jul 2016 02:56:24 : Cipher , Botfuzzy77#2209 , ^
+16 Jul 2016 02:56:30 : Cipher , Calamariela#4119 , Yes skyd
+16 Jul 2016 02:56:52 : Cipher , Calamariela#4119 , I will give him backkkk now? Tomorrow?
+16 Jul 2016 02:57:09 : Cipher , Skyd#9935 , Either or its your choice 
+16 Jul 2016 02:57:20 : Cipher , Skyd#9935 , I'm on right now won't be tomorrow 
+16 Jul 2016 02:57:24 : Cipher , Skyd#9935 , Soccer is life 
+16 Jul 2016 02:58:30 : Cipher , Calamariela#4119 , Oooo okay hold on I will get on
+16 Jul 2016 03:00:16 : Cipher , Wertfuzzy77#0274 , Oi, you stole Sky's Venusaur
+16 Jul 2016 03:00:19 : Cipher , Wertfuzzy77#0274 , Meanie
+16 Jul 2016 03:00:25 : LimitlessMc , Mank#0033 , ;image Wetfucc77
+16 Jul 2016 03:00:25 : LimitlessMc , Botfuzzy77#2209 , ERROR
+16 Jul 2016 03:00:37 : LimitlessMc , Mank#0033 , ;image Nikolai
+16 Jul 2016 03:00:37 : LimitlessMc , Botfuzzy77#2209 , http://static.giantbomb.com/uploads/square_small/11/112064/2067220-nikolai.png
+16 Jul 2016 03:00:39 : Cipher , Calamariela#4119 , bitch pls it likes me
+16 Jul 2016 03:00:50 : Cipher , Wertfuzzy77#0274 , Bet
+16 Jul 2016 03:00:55 : Cipher , Calamariela#4119 , bettttt
+16 Jul 2016 03:01:00 : Cipher , Wertfuzzy77#0274 , ;conch is what she says true?
+16 Jul 2016 03:01:00 : Cipher , Botfuzzy77#2209 , *It is decidedly so*
+16 Jul 2016 03:01:00 : Cipher , Botfuzzy77#2209 , The Conch has Spoken!
+16 Jul 2016 03:01:01 : LimitlessMc , Mank#0033 , ;image Guilherme.mierzwa
+16 Jul 2016 03:01:02 : LimitlessMc , Botfuzzy77#2209 , https://www.researchgate.net/profile/Guilherme_Scheffler/publication/270105731/viewer/AS:179501124300800@1419807811624/background/8.png
+16 Jul 2016 03:01:04 : Cipher , Wertfuzzy77#0274 , gg
+16 Jul 2016 03:01:08 : Cipher , Calamariela#4119 , xD
+16 Jul 2016 03:01:13 : LimitlessMc , Mank#0033 , ;image Guilherme
+16 Jul 2016 03:01:14 : LimitlessMc , Botfuzzy77#2209 , https://pbs.twimg.com/profile_images/529745348768452608/mtlBynJV_400x400.png
+16 Jul 2016 03:01:15 : Cipher , Wertfuzzy77#0274 , Can't argue with the magic  conch
+16 Jul 2016 03:01:20 : LimitlessMc , Mank#0033 , That's sep
+16 Jul 2016 03:01:30 : Cipher , Skyd#9935 , Woah that's a thing now?
+16 Jul 2016 03:01:31 : Cipher , Calamariela#4119 , 81!!!!
+16 Jul 2016 03:01:33 : Cipher , Calamariela#4119 , people on
+16 Jul 2016 03:01:35 : Cipher , Calamariela#4119 , whattttt
+16 Jul 2016 03:01:36 : LimitlessMc , Wertfuzzy77#0274 , Bet
+16 Jul 2016 03:01:43 : Cipher , Skyd#9935 , Yeah it's packed 
+16 Jul 2016 03:01:53 : LimitlessMc , Mank#0033 , ;image filo
+16 Jul 2016 03:01:54 : LimitlessMc , Botfuzzy77#2209 , http://www.filotrack.com/wp-content/uploads/2015/08/xLOGO-FILO,402x1.png.pagespeed.ic.Q7uDo2VKBb.png
+16 Jul 2016 03:01:59 : Cipher , RoyGasm ;)#7098 , <@183307266475294721> we hit 100 people on the other day
+16 Jul 2016 03:02:05 : Cipher , Wertfuzzy77#0274 , <@183411857225285632> there is alot of new stuff ll
+16 Jul 2016 03:02:07 : Cipher , RoyGasm ;)#7098 , 100 people online at THE SAME TIME
+16 Jul 2016 03:02:12 : Cipher , Wertfuzzy77#0274 , Wait really
+16 Jul 2016 03:02:20 : Cipher , Wertfuzzy77#0274 , WE DID IT REDDIT
+16 Jul 2016 03:02:27 : Cipher , Wertfuzzy77#0274 , that's been my goal lol
+16 Jul 2016 03:02:35 : Cipher , RoyGasm ;)#7098 , ... <@!134441036905840640>
+16 Jul 2016 03:02:35 : Cipher , Wertfuzzy77#0274 , To get the server back to its golden days
+16 Jul 2016 03:02:40 : Cipher , RoyGasm ;)#7098 , you didn't even know?
+16 Jul 2016 03:02:42 : Cipher , Wertfuzzy77#0274 , Nah
+16 Jul 2016 03:02:43 : Cipher , Calamariela#4119 , really??
+16 Jul 2016 03:02:45 : Cipher , Calamariela#4119 , wow
+16 Jul 2016 03:02:45 : Cipher , RoyGasm ;)#7098 , yeah
+16 Jul 2016 03:02:58 : Cipher , Calamariela#4119 , okei skyd come to me xD
+16 Jul 2016 03:02:58 : Cipher , Wertfuzzy77#0274 , Been busy with work
+16 Jul 2016 03:03:06 : Cipher , Skyd#9935 , Explains why my gym gets fucked up so much 
+16 Jul 2016 03:03:09 : Cipher , Wertfuzzy77#0274 , Havnt got a chance to play much
+16 Jul 2016 03:03:10 : Cipher , RoyGasm ;)#7098 , <@!134441036905840640> jay said he wasn't gonna do any events because of it, that he would leave it to you
+16 Jul 2016 03:03:17 : Cipher , Wertfuzzy77#0274 , xD
+16 Jul 2016 03:03:29 : Cipher , Wertfuzzy77#0274 , I'll do some fun things this weekend
+16 Jul 2016 03:03:31 : Cipher , RoyGasm ;)#7098 , i thought he would told you already
+16 Jul 2016 03:03:34 : Cipher , RoyGasm ;)#7098 , okei
+16 Jul 2016 03:03:48 : Cipher , Wertfuzzy77#0274 , I also haven't opened staff chat for like a week
+16 Jul 2016 03:03:50 : Cipher , Wertfuzzy77#0274 , Woops
+16 Jul 2016 03:04:00 : Cipher , Wertfuzzy77#0274 , Too many messages
+16 Jul 2016 03:04:03 : Cipher , Wertfuzzy77#0274 , Not worth
+16 Jul 2016 03:04:12 : Cipher , RoyGasm ;)#7098 , <@!134441036905840640> if you wanna do any event i can donate a kyo
+16 Jul 2016 03:04:15 : Cipher , RoyGasm ;)#7098 , i no want
+16 Jul 2016 03:04:29 : Cipher , Wertfuzzy77#0274 , #pokespawn #admin
+16 Jul 2016 03:04:34 : The Pleb Privateers , enragednuke#2565 , ?hatch aw ws
+16 Jul 2016 03:04:36 : The Pleb Privateers , enragedrobo#6009 , 
+16 Jul 2016 03:04:36 : The Pleb Privateers , enragedrobo#6009 , It's located on the back side of the wretched shop itself, inbetween some barrels and a tree. As you can see from the picture you can find it relatively easily by just circling the shop.
+16 Jul 2016 03:04:46 : Cipher , RoyGasm ;)#7098 , -.-
+16 Jul 2016 03:05:16 : The Pleb Privateers , enragednuke#2565 , ?hatch aw wy
+16 Jul 2016 03:05:17 : The Pleb Privateers , enragedrobo#6009 , Multi-spawn map. Very hard to predict. Spawns almost anywhere.
+16 Jul 2016 03:06:02 : LimitlessMc , Wertfuzzy77#0274 , ;shutdown
+16 Jul 2016 03:06:02 : LimitlessMc , Botfuzzy77#2209 , Ok :(
+16 Jul 2016 03:06:02 : LimitlessMc , Botfuzzy77#2209 , Gooodbye cruel world

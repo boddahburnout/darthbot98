@@ -1,0 +1,9 @@
+Wertfuzzy77#0274, hello
+Botfuzzy77#2926, *From The Otherside*
+Wertfuzzy77#0274, ya
+Roy210#7098, !debug ctx.message.author.server.channels
+Botfuzzy77#2926, ```py
+dict_values([<discord.channel.Channel object at 0x000002CBD5EB1908>, <discord.channel.Channel object at 0x000002CBD5EB1898>, <discord.channel.Channel object at 0x000002CBD5EB19E8>, <discord.channel.Channel object at 0x000002CBD5EB1860>, <discord.channel.Channel object at 0x000002CBD5EB18D0>])
+```
+Wertfuzzy77#0274, @everyone  I want to try to get atleast 20 active members
+Wertfuzzy77#0274, so if you see a good member, just <@134441036905840640>  me or tell me IG

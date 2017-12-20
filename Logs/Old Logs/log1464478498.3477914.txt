@@ -1,0 +1,71 @@
+Wertfuzzy77#0274, I fix
+Wertfuzzy77#0274, hello
+Botfuzzy77#2926, *From The Other Side*
+Wertfuzzy77#0274, I think my Breeding Sim is Just about done
+Wertfuzzy77#0274, I still need to add Power items and Special Breeding items, but works for everything else
+Wertfuzzy77#0274, ```Run(1000, Pokemon(Name = "Boring 5 IV", IVs = IV(5), Gender = "Male"), Pokemon(Name = "0 IVs", Gender = "Female", Ability = "Hidden Ability", Nature = "Adamant"), DestinyKnot = 1, Everstone = 2)
+Breeding:
+Name: Boring 5 IV
+IVs = [31, 31, 0, 31, 31, 31]
+Ability = Regular
+Nature = Docile
+Gender = Male
+------------------------
+Name: 0 IVs
+IVs = [0, 0, 0, 0, 0, 0]
+Ability = Hidden Ability
+Nature = Adamant
+Gender = Female
+------------------------
+Special Things:
+Everstone: 2
+DestinyKnot : 1
+
+IV Spread
+0 IVs, 4.4%     Avg Breeds: 22
+1 IVs, 20.6%    Avg Breeds: 4
+2 IVs, 35.6%    Avg Breeds: 2
+3 IVs, 29.1%    Avg Breeds: 3
+4 IVs, 9.4%     Avg Breeds: 10
+5 IVs, 0.8%     Avg Breeds: 125
+6 IVs, 0.1%     Avg Breeds: 1000
+
+Ability Spread
+Regular Ability, 20%
+Hidden Ability, 80%
+
+Nature Spread
+Adamant 100 %```
+Nerokin#3586, That spammed in game
+Wertfuzzy77#0274, cmds are getting really, really, really, really, really long now tho lol
+Wertfuzzy77#0274, rip
+Wertfuzzy77#0274, I wish i could have a Section that Would not go IG :/
+Wertfuzzy77#0274, but cant really
+Nerokin#3586, Hey <@151437497191235585> You around?
+Nerokin#3586, I'd like the discord mod now
+Wertfuzzy77#0274, cause, i also get spammed by other Discord Servers :/ even tho they are muted
+Nerokin#3586, https://imgur.com/a/VRrem
+Nerokin#3586, https://imgur.com/a/VRrem
+Nerokin#3586, Too many characters at once
+Topheralan#1202, Maybe I don't want discord2mc.... Lol
+Nerokin#3586, It's the way the person made the mod
+Wertfuzzy77#0274, I hope they Improve it, cause its a Really cool idea
+Nerokin#3586, No way to assign aliases at all
+Wertfuzzy77#0274, I might even take a look at the source code, to see how it works
+Wertfuzzy77#0274, and tinker with it
+Nerokin#3586, Like for this server, it has a pretty long name
+Nerokin#3586, LimitlessMC Cipher
+Wertfuzzy77#0274, Fixed
+Wertfuzzy77#0274, only 'Cipher' Now
+Nerokin#3586, That's actually alot better in game
+Nerokin#3586, I don't really think it needs to say "[Discord]" in game though
+Nerokin#3586, Or just send chat to a new GUI that happens to be on screen
+Wertfuzzy77#0274, that would be cool
+Wertfuzzy77#0274, like a 2nd chat window
+Wertfuzzy77#0274, wish me luck
+Nerokin#3586, Can anyone access 5zig.eu?
+Nerokin#3586, @Wert Good luck
+Wertfuzzy77#0274, I am no longer Wertfuzzy77
+Nerokin#3586, Alright, I got it open in the wayback time machine
+Wertfuzzy77#0274, ?
+Wertfuzzy77#0274, wtb Time Machine

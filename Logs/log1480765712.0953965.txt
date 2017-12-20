@@ -1,0 +1,96 @@
+03 Dec 2016 11:48:43 : LimitlessMc, botchat, Lightning#6734, local host is causing it to drag
+03 Dec 2016 11:48:52 : LimitlessMc, botchat, Lightning#6734, ;reload
+03 Dec 2016 11:48:52 : LimitlessMc, botchat, Botfuzzy77#2209, Reloaded all Modules
+03 Dec 2016 11:57:53 : LimitlessMc, botchat, crystal4209#4698, ;join
+03 Dec 2016 11:58:05 : LimitlessMc, botchat, crystal4209#4698, what to put on
+03 Dec 2016 11:59:25 : LimitlessMc, botchat, crystal4209#4698, you got anything you want reso?
+03 Dec 2016 12:00:29 : LimitlessMc, botchat, crystal4209#4698, ;playlist AnimeOpenings
+03 Dec 2016 12:00:48 : LimitlessMc, botchat, crystal4209#4698, ;song
+03 Dec 2016 12:00:48 : LimitlessMc, botchat, Botfuzzy77#2209, ```Name: Clannad opening theme full
+URL: <https://www.youtube.com/watch?v=k8eokj5MlEE>
+Time: 0:04:46
+Views: 1,436,480
+Likes: 9,133, 98.54%
+Dislikes: 135, 1.46%
+```
+03 Dec 2016 12:00:55 : LimitlessMc, botchat, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+03 Dec 2016 12:00:56 : LimitlessMc, botchat, Botfuzzy77#2209, Queue is Empty
+03 Dec 2016 12:01:03 : LimitlessMc, botchat, Botfuzzy77#2209, Queue is Empty
+03 Dec 2016 12:01:05 : LimitlessMc, botchat, crystal4209#4698, whats happening
+03 Dec 2016 12:01:33 : LimitlessMc, botchat, Botfuzzy77#2209, ```Name: Parasyte op full  Kiseijuu Sei no Kakuritsu
+URL: <https://www.youtube.com/watch?v=5QvnYt7H-L4>
+Time: 0:03:48
+Views: 324,325
+Likes: 2,671, 96.88%
+Dislikes: 86, 3.12%
+```
+03 Dec 2016 12:01:47 : LimitlessMc, botchat, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+03 Dec 2016 12:02:01 : LimitlessMc, botchat, crystal4209#4698, ;song
+03 Dec 2016 12:02:01 : LimitlessMc, botchat, Botfuzzy77#2209, ```Name: New Game! - Opening Full [HD]
+URL: <https://www.youtube.com/watch?v=Eewtawmdl78>
+Time: 0:03:53
+Views: 1,086
+Likes: 11, 100.0%
+Dislikes: 0, 0.0%
+```
+03 Dec 2016 12:02:05 : LimitlessMc, botchat, Botfuzzy77#2209, Queue is Empty
+03 Dec 2016 12:03:11 : LimitlessMc, botchat, crystal4209#4698, true
+03 Dec 2016 12:14:32 : Pulse, mainchat, crystal4209#4698, 
+03 Dec 2016 12:14:47 : Pulse, mainchat, Lightning#6734, lol xD
+03 Dec 2016 12:18:20 : Pulse, mainchat, crystal4209#4698, when you got nothing else to do
+03 Dec 2016 12:23:31 : Pulse, mainchat, Lightning#6734, ik the feels
+03 Dec 2016 12:27:52 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, /help
+03 Dec 2016 12:27:54 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, .
+03 Dec 2016 12:28:11 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, |search
+03 Dec 2016 12:28:29 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, ;song
+03 Dec 2016 12:28:29 : LimitlessMc, botchat, Botfuzzy77#2209, ```Name: New Game! - Opening Full [HD]
+URL: <https://www.youtube.com/watch?v=Eewtawmdl78>
+Time: 0:03:53
+Views: 1,086
+Likes: 11, 100.0%
+Dislikes: 0, 0.0%
+```
+03 Dec 2016 12:29:07 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, ;songs
+03 Dec 2016 12:29:07 : LimitlessMc, botchat, Botfuzzy77#2209, Queue is Empty
+03 Dec 2016 12:29:18 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, ;help
+03 Dec 2016 12:29:18 : LimitlessMc, botchat, Botfuzzy77#2209, ```
+  feedback       Returns a link to a Google Forums, where you can leave feedb...
+  server         Returns Information on the Limitless MC server!
+  help           Shows this message.
+  config         Allows you to change settings for the server
+  source         Returns a link to the source code for this bot
+  ev             
+  invite         Returns a Link to the Invite URL for this bot
+  joined         Says when a member joined.
+  pokemon        Returns Links to Pokemon pages
+  afk            Sets you as AFK, and the Bot will auto Reply for you with th...
+  fml            Returns a Random Post from fmylife.com
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+03 Dec 2016 12:29:45 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, ;youtube
+03 Dec 2016 12:30:09 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, ; musicplayer
+03 Dec 2016 12:30:15 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, ;musicplayer
+03 Dec 2016 12:30:24 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, ;afk
+03 Dec 2016 12:30:26 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, ....
+03 Dec 2016 12:30:27 : LimitlessMc, botchat, Lightning#6734, it's ;search or ;youtube link
+03 Dec 2016 12:30:36 : LimitlessMc, botchat, Lightning#6734, and ;afk (reason)
+03 Dec 2016 12:30:47 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, ;youtube link
+03 Dec 2016 12:30:47 : LimitlessMc, botchat, Botfuzzy77#2209, Not a Valid Link, Please only use URLs from youtube.com
+03 Dec 2016 12:30:49 : LimitlessMc, botchat, Lightning#6734, ;youtube https://www.youtube.com/watch?v=RGqJ0pp92h0
+03 Dec 2016 12:30:50 : LimitlessMc, botchat, Botfuzzy77#2209, Added Steel Panther - Stripper Girl to the queue
+03 Dec 2016 12:30:58 : LimitlessMc, botchat, Lightning#6734, you need the actual link btw
+03 Dec 2016 12:30:58 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, Oh
+03 Dec 2016 12:31:01 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, Ohhh
+03 Dec 2016 12:31:10 : LimitlessMc, botchat, Lightning#6734, ;song
+03 Dec 2016 12:31:10 : LimitlessMc, botchat, Botfuzzy77#2209, ```Name: New Game! - Opening Full [HD]
+URL: <https://www.youtube.com/watch?v=Eewtawmdl78>
+Time: 0:03:53
+Views: 1,086
+Likes: 11, 100.0%
+Dislikes: 0, 0.0%
+```
+03 Dec 2016 12:31:14 : LimitlessMc, botchat, Lightning#6734, ;leave
+03 Dec 2016 12:31:17 : LimitlessMc, botchat, Lightning#6734, ;relog
+03 Dec 2016 12:31:17 : LimitlessMc, botchat, Botfuzzy77#2209, Relogging...

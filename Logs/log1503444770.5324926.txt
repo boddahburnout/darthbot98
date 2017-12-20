@@ -1,0 +1,693 @@
+22 Aug 2017 23:38:50 : PokeIslands, general, KiritoSanPlays#2208, LMaO
+22 Aug 2017 23:38:51 : PokeIslands, general, KiritoSanPlays#2208, Hello Steven,
+
+We are aware of this issue and this will be fixed as soon as possible. We apologize for this error and any inconvenience this presents.
+
+Thank you for choosing GGServers.
+22 Aug 2017 23:48:43 : LimitlessMc, mainchat, Skyd#9935, anyone still playing sun and moon?
+23 Aug 2017 00:00:07 : PokeIslands, bot, Wertfuzzy77#0274, ;status
+23 Aug 2017 00:00:08 : PokeIslands, bot, Botfuzzy77#2209, ```UpTime: 0:27:17.100000s
+Total Messages: 4
+Servers Joined: 35
+CPU usage: 0.0%
+Memory usage: 32.7%
+```
+23 Aug 2017 00:00:12 : PokeIslands, bot, Wertfuzzy77#0274, watttt
+23 Aug 2017 00:00:14 : PokeIslands, bot, Wertfuzzy77#0274, she restarted?
+23 Aug 2017 00:00:15 : PokeIslands, bot, Wertfuzzy77#0274, why
+23 Aug 2017 00:00:56 : PokeIslands, bot, Wertfuzzy77#0274, o
+23 Aug 2017 00:00:57 : PokeIslands, bot, Wertfuzzy77#0274, 35 servers tho
+23 Aug 2017 00:00:59 : PokeIslands, bot, Wertfuzzy77#0274, thats new
+23 Aug 2017 00:01:17 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, ;debug "\n".join(['{}\n  {:20s}{:%m/%d/%Y}'.format(y[0], y[1], y[2]) for y in sorted([(x.name, x.owner.name, x.me.joined_at) for x in bot.servers], key = lambda x: x[2])])
+23 Aug 2017 00:01:17 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, ```py
+Cipher
+  Wertfuzzy77         06/25/2016
+LimitlessMc
+  Jay113355           06/25/2016
+The Raw Man Cult
+  Stormzzzy           07/20/2016
+GetPlebd
+  Owen                07/25/2016
+Team Harmony
+  Sacramentum         09/12/2016
+Pulse
+  Light               12/11/2016
+Unity Of Nirvana
+  Crystal4209         01/18/2017
+Alone Server
+  Crystal4209         04/02/2017
+Shadow's Subnautica
+  Mafia~Reshiram~Zen  04/14/2017
+RooberBoobers
+  DicloniusPony       04/15/2017
+The Choudhry
+  Talha....Nothing more04/15/2017
+GreenHillGang
+  Wertfuzzy77         04/30/2017
+Ultralight Memes
+  MoMolion            05/17/2017
+Team Frigid
+  Skyd                05/30/2017
+GalaxyLionPlushies
+  DicloniusPony       06/04/2017
+OblivionEvolved
+  TheChad🐵            06/18/2017
+soviet union
+  shuck               06/20/2017
+Mareep Pasture
+  DicloniusPony       06/26/2017
+The Silvermoon Hounds
+  AzraelTheGreat      06/28/2017
+Personal Server
+  Mafia~Reshiram~Zen  06/30/2017
+Mythical Trinity
+  AzraelTheGreat      07/01/2017
+Shadow's AVP ModPack
+  Mafia~Reshiram~Zen  07/09/2017
+Legacy Craft
+  DJ_Phatzo           07/15/2017
+Shiny Edits
+  Mafia~Reshiram~Zen  07/16/2017
+Proton Gaming Network
+  Ozicarus            07/20/2017
+Kernal Official
+  Kernal Cannon       07/25/2017
+Srbr
+  AlphaBit            07/27/2017
+Achievement Heaven
+  maddog780ca         07/28/2017
+The Pack
+  tigertiger02        07/29/2017
+jew hate club
+  shuck               08/08/2017
+PokeIslands
+  KiritoSanPlays      08/11/2017
+porn paradise
+  SheepGod            08/13/2017
+pikaworld
+  10_bit_sloth_YT     08/14/2017
+Botfuzzy77 Living Quarters
+  Wertfuzzy77         08/15/2017
+Unturned Fam
+  tigertiger02        08/22/2017
+```
+23 Aug 2017 00:01:53 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, ;debug bot.create_invite([x for x in bot.servers if x.name == 'Unturned Fam'][0])
+23 Aug 2017 00:02:17 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, ;debug bot.create_invite([x for x in bot.servers() if x.name == 'Unturned Fam'][0])
+23 Aug 2017 00:02:17 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, ```py
+TypeError: 'dict_values' object is not callable
+```
+23 Aug 2017 00:02:29 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, ;debug ;debug bot.create_invite([x for x in bot.servers if x.name == 'Unturned Fam'][0])
+23 Aug 2017 00:02:30 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+23 Aug 2017 00:02:36 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, ;debug [x for x in bot.servers if x.name == 'Unturned Fam'][0]
+23 Aug 2017 00:02:36 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, ```py
+Unturned Fam
+```
+23 Aug 2017 00:04:17 : Unturned Fam, general, GamerKatland#1817, 
+23 Aug 2017 00:04:23 : Unturned Fam, general, GamerKatland#1817, princess leia
+23 Aug 2017 00:05:26 : Legacy Craft, general, DJ_Phatzo#8045, Playing games from previous humble bundles!
+
+http://www.twitch.tv/dj_phatzo
+23 Aug 2017 00:11:20 : PokeIslands, general, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, lel
+23 Aug 2017 00:13:51 : PokeIslands, general, KiritoSanPlays#2208, oh well wanted to deranks but i rank instead >_<
+23 Aug 2017 00:14:31 : PokeIslands, bot, KiritoSanPlays#2208, lol
+23 Aug 2017 00:14:38 : PokeIslands, bot, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, ;train
+23 Aug 2017 00:14:38 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 00:14:38 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 00:14:42 : PokeIslands, bot, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, riperoni
+23 Aug 2017 00:14:44 : PokeIslands, bot, KiritoSanPlays#2208, aint you got a pages where you can see how many servers are using ur bot? xD
+23 Aug 2017 00:14:48 : PokeIslands, bot, KiritoSanPlays#2208, ;train
+23 Aug 2017 00:14:48 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 00:14:48 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 00:14:58 : PokeIslands, bot, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, ;level
+23 Aug 2017 00:14:59 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 00:15:03 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, ;join
+23 Aug 2017 00:15:04 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, Connected channel!
+23 Aug 2017 00:15:07 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, ;radio purely pop
+23 Aug 2017 00:15:07 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, Now listening to **Purely Pop** radio channel
+23 Aug 2017 00:15:40 : Legacy Craft, general, Mee6#4876, @​everyone Doc Is live on twitch/Stream.me!
+23 Aug 2017 00:25:24 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, ;skip
+23 Aug 2017 00:25:24 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, Skipping Ariana Grande - Everyday (Lyric Video) ft. Future by request (Radio Song)
+23 Aug 2017 00:35:58 : PokeIslands, bot, Wertfuzzy77#0274, nah, dont have direct access to control and view the bot like a player @KiritoSanPlays
+23 Aug 2017 00:35:58 : PokeIslands, bot, Botfuzzy77#2209, KiritoSanPlays is afk for reason:
+**WoT**
+23 Aug 2017 00:36:03 : PokeIslands, bot, Wertfuzzy77#0274, he doesnt even have a login
+23 Aug 2017 00:36:48 : PokeIslands, bot, Wertfuzzy77#0274, ;train
+23 Aug 2017 00:36:49 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 00:36:49 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 00:36:49 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 00:36:50 : PokeIslands, bot, Wertfuzzy77#0274, 😄
+23 Aug 2017 00:36:51 : PokeIslands, bot, Wertfuzzy77#0274, ;mine
+23 Aug 2017 00:36:51 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 00:36:56 : PokeIslands, bot, Wertfuzzy77#0274, rip
+23 Aug 2017 00:39:40 : PokeIslands, bot, Wertfuzzy77#0274, ;pbs
+23 Aug 2017 00:39:40 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 00:39:55 : PokeIslands, bot, Wertfuzzy77#0274, I really need to make crash report
+23 Aug 2017 00:51:23 : LimitlessMc, botchat, Crystal4209#4698, ;train
+23 Aug 2017 00:51:24 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 00:51:24 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:03:04 : PokeIslands, bot, KiritoSanPlays#2208, oh :/
+23 Aug 2017 01:03:26 : PokeIslands, bot, KiritoSanPlays#2208, ;pokebattle FFFFF medium
+23 Aug 2017 01:03:26 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 01:03:26 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 01:03:30 : PokeIslands, bot, KiritoSanPlays#2208, t>_<
+23 Aug 2017 01:03:36 : PokeIslands, bot, KiritoSanPlays#2208, ;pokebattle FFFFF
+23 Aug 2017 01:03:36 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 01:03:36 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 01:04:05 : PokeIslands, bot, KiritoSanPlays#2208, level 14 and has 6.5K HP seems leginy 🤔
+23 Aug 2017 01:04:44 : PokeIslands, bot, KiritoSanPlays#2208, ;train
+23 Aug 2017 01:04:44 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 01:04:44 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 01:04:50 : PokeIslands, bot, KiritoSanPlays#2208, RIP
+23 Aug 2017 01:04:52 : PokeIslands, bot, KiritoSanPlays#2208, ;mine
+23 Aug 2017 01:04:52 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 01:04:52 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 01:08:29 : PokeIslands, bot, Wertfuzzy77#0274, ;train
+23 Aug 2017 01:08:30 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 01:08:30 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 01:08:30 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 01:08:32 : PokeIslands, bot, Wertfuzzy77#0274, 😄
+23 Aug 2017 01:08:35 : PokeIslands, bot, Wertfuzzy77#0274, rare candy OP
+23 Aug 2017 01:08:36 : PokeIslands, bot, Wertfuzzy77#0274, ;lv
+23 Aug 2017 01:08:38 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 01:08:40 : PokeIslands, bot, Wertfuzzy77#0274, ;mine
+23 Aug 2017 01:08:41 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 01:08:41 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 01:08:41 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 01:08:43 : PokeIslands, bot, Wertfuzzy77#0274, wow
+23 Aug 2017 01:08:44 : PokeIslands, bot, Wertfuzzy77#0274, gg
+23 Aug 2017 01:08:47 : PokeIslands, bot, Wertfuzzy77#0274, Im a legend
+23 Aug 2017 01:08:54 : PokeIslands, bot, Wertfuzzy77#0274, ;lv
+23 Aug 2017 01:08:57 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 01:08:58 : PokeIslands, bot, Wertfuzzy77#0274, ;ranking
+23 Aug 2017 01:08:58 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 01:09:01 : PokeIslands, bot, Wertfuzzy77#0274, ;lv
+23 Aug 2017 01:09:03 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 01:09:08 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+23 Aug 2017 01:09:10 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:09:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+23 Aug 2017 01:09:15 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:09:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pbs
+23 Aug 2017 01:09:17 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:09:21 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pb eeeeeeee
+23 Aug 2017 01:09:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:09:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:10:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cd
+23 Aug 2017 01:10:15 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:10:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pb ffffffff
+23 Aug 2017 01:10:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:10:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:10:32 : LimitlessMc, botchat, Wertfuzzy77#0274, ;settype fire
+23 Aug 2017 01:10:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:10:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+23 Aug 2017 01:10:40 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:11:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cd
+23 Aug 2017 01:11:14 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:12:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pb gggfgfgg
+23 Aug 2017 01:12:04 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:12:04 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:12:49 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cd
+23 Aug 2017 01:12:49 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:12:52 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+23 Aug 2017 01:12:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:12:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:12:55 : LimitlessMc, botchat, Wertfuzzy77#0274, 😄
+23 Aug 2017 01:12:57 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lv
+23 Aug 2017 01:13:00 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:13:04 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+23 Aug 2017 01:13:04 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:14:04 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pb sssfsfgs
+23 Aug 2017 01:14:05 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:14:05 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:14:49 : PokeIslands, bot, KiritoSanPlays#2208, you a cheater >_<
+23 Aug 2017 01:14:58 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, ;skip
+23 Aug 2017 01:14:58 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, Skipping Pharrell Williams - Come Get It Bae by request (Radio Song)
+23 Aug 2017 01:15:05 : PokeIslands, bot, Wertfuzzy77#0274, bet
+23 Aug 2017 01:15:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pb wwwfwfgw
+23 Aug 2017 01:15:15 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:15:16 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:25:46 : PokeIslands, bot, KiritoSanPlays#2208, lol
+23 Aug 2017 01:26:08 : PokeIslands, bot, KiritoSanPlays#2208, anyways i go take a nap 😃
+23 Aug 2017 01:29:57 : PokeIslands, bot, Kirito#1860, Back lol
+23 Aug 2017 01:30:02 : PokeIslands, bot, Kirito#1860, ;train
+23 Aug 2017 01:30:02 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 01:30:02 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 01:30:11 : PokeIslands, bot, Kirito#1860, ;mine
+23 Aug 2017 01:30:11 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 01:30:11 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 01:30:19 : PokeIslands, bot, Kirito#1860, ;mine
+23 Aug 2017 01:30:19 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 01:30:26 : PokeIslands, bot, Kirito#1860, ;mine
+23 Aug 2017 01:30:27 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 01:30:34 : PokeIslands, bot, Kirito#1860, ;mine
+23 Aug 2017 01:30:34 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 01:31:04 : PokeIslands, bot, Kirito#1860, ;pokebattle ddddd
+23 Aug 2017 01:31:04 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 01:31:04 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 01:36:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pb nnwfnfgn
+23 Aug 2017 01:36:51 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:36:51 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:37:02 : LimitlessMc, botchat, Crystal4209#4698, ;train
+23 Aug 2017 01:37:03 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:37:03 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:38:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+23 Aug 2017 01:38:06 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:38:08 : LimitlessMc, botchat, Wertfuzzy77#0274, lol
+23 Aug 2017 01:38:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pb ppwfpfgp
+23 Aug 2017 01:38:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:38:26 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:38:34 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+23 Aug 2017 01:38:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:38:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:38:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+23 Aug 2017 01:38:39 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:38:41 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+23 Aug 2017 01:38:44 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+23 Aug 2017 01:38:44 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:40:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;types
+23 Aug 2017 01:40:19 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Possible Types ** =-
+:regional_indicator_n: ormal
+:regional_indicator_f: ire
+:regional_indicator_w: ater
+:regional_indicator_g: rass
+:regional_indicator_p: oison
+:regional_indicator_d: ragon
+:regional_indicator_s: teel
+:regional_indicator_e: lectric
+:regional_indicator_b: ug
+:regional_indicator_i: ce
+23 Aug 2017 01:40:32 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pb ddwfdfgd
+23 Aug 2017 01:40:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:40:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:41:56 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pb idwfifDG
+23 Aug 2017 01:41:57 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:41:57 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:43:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pb bdwfbfgd
+23 Aug 2017 01:43:26 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:43:26 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:43:28 : LimitlessMc, botchat, Wertfuzzy77#0274, 😄
+23 Aug 2017 01:47:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+23 Aug 2017 01:47:37 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:47:40 : LimitlessMc, botchat, Wertfuzzy77#0274, we did it
+23 Aug 2017 01:47:44 : LimitlessMc, botchat, Wertfuzzy77#0274, #6
+23 Aug 2017 01:47:45 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lv
+23 Aug 2017 01:47:48 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:47:53 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+23 Aug 2017 01:47:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 01:49:07 : GreenHillGang, general, Wertfuzzy77#0274, ;pb bdwfbfgd
+23 Aug 2017 01:49:07 : GreenHillGang, general, Botfuzzy77#2209, 
+23 Aug 2017 01:49:07 : GreenHillGang, general, Botfuzzy77#2209, 
+23 Aug 2017 01:54:31 : LimitlessMc, botchat, ruleroftri#6648, ;server
+23 Aug 2017 01:54:32 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+23 Aug 2017 01:54:32 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 5 players out of 50
+ *Ping*: 92.34 ms
+ *MC Version*: 1.10.2
+23 Aug 2017 01:54:32 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *Bakafish, StarwinnerCraft, Mining_Zoroark, aadie11, plantsletsgo...*
+23 Aug 2017 02:20:02 : GreenHillGang, general, FunkyMonkey#0890, ;TRAIN
+23 Aug 2017 02:20:06 : GreenHillGang, general, FunkyMonkey#0890, ;train
+23 Aug 2017 02:20:06 : GreenHillGang, general, Botfuzzy77#2209, 
+23 Aug 2017 02:20:06 : GreenHillGang, general, Botfuzzy77#2209, 
+23 Aug 2017 02:20:08 : GreenHillGang, general, FunkyMonkey#0890, ;lv
+23 Aug 2017 02:20:09 : GreenHillGang, general, Botfuzzy77#2209, 
+23 Aug 2017 02:20:10 : GreenHillGang, general, FunkyMonkey#0890, ;mine
+23 Aug 2017 02:20:11 : GreenHillGang, general, Botfuzzy77#2209, 
+23 Aug 2017 02:20:11 : GreenHillGang, general, FunkyMonkey#0890, ;mine
+23 Aug 2017 02:20:12 : GreenHillGang, general, Botfuzzy77#2209, 
+23 Aug 2017 02:20:13 : GreenHillGang, general, FunkyMonkey#0890, ;mine
+23 Aug 2017 02:20:13 : GreenHillGang, general, Botfuzzy77#2209, 
+23 Aug 2017 02:25:38 : PokeIslands, bot, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, ;train
+23 Aug 2017 02:25:38 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 02:25:38 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 02:25:38 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 02:25:39 : PokeIslands, bot, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, ;mine
+23 Aug 2017 02:25:39 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 02:25:39 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 02:25:45 : PokeIslands, bot, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, o fun
+23 Aug 2017 02:25:52 : PokeIslands, bot, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, ;mine
+23 Aug 2017 02:25:52 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 02:25:53 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 02:25:56 : PokeIslands, bot, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, ;train
+23 Aug 2017 02:25:56 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 02:25:56 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 02:25:56 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 02:26:00 : PokeIslands, bot, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, ;mine
+23 Aug 2017 02:26:00 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 02:26:00 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 02:26:03 : PokeIslands, bot, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, ;mine
+23 Aug 2017 02:26:03 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 02:26:04 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 02:26:05 : PokeIslands, bot, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, ;mine
+23 Aug 2017 02:26:05 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 02:26:07 : PokeIslands, bot, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, ;train
+23 Aug 2017 02:26:07 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 02:30:16 : PokeIslands, bot, Wertfuzzy77#0274, ;recent
+23 Aug 2017 02:30:16 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 02:33:22 : LimitlessMc, botchat, Star#0288, ;train
+23 Aug 2017 02:33:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 02:33:24 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 02:33:25 : LimitlessMc, botchat, Star#0288, ;mine
+23 Aug 2017 02:33:26 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 02:33:27 : LimitlessMc, botchat, Star#0288, ;luck
+23 Aug 2017 02:33:27 : LimitlessMc, botchat, Botfuzzy77#2209, Star's luck is 86.18 out of 100, which is **AMAZING**
+23 Aug 2017 02:33:32 : LimitlessMc, botchat, Star#0288, 😄
+23 Aug 2017 02:33:36 : LimitlessMc, botchat, Star#0288, Best ever!!!!!
+23 Aug 2017 02:41:57 : GreenHillGang, general, davinci2020#1851, ;train
+23 Aug 2017 02:41:57 : GreenHillGang, general, Botfuzzy77#2209, 
+23 Aug 2017 02:41:57 : GreenHillGang, general, Botfuzzy77#2209, 
+23 Aug 2017 02:42:01 : GreenHillGang, general, davinci2020#1851, ;pbs
+23 Aug 2017 02:42:01 : GreenHillGang, general, Botfuzzy77#2209, 
+23 Aug 2017 02:42:10 : GreenHillGang, general, davinci2020#1851, ;pb bswsssgd
+23 Aug 2017 02:42:10 : GreenHillGang, general, Botfuzzy77#2209, 
+23 Aug 2017 02:42:10 : GreenHillGang, general, Botfuzzy77#2209, 
+23 Aug 2017 02:55:04 : Legacy Craft, admin, Bellosong#1258, ...
+23 Aug 2017 02:55:07 : Legacy Craft, admin, Bellosong#1258, that would have been me
+23 Aug 2017 02:55:34 : Legacy Craft, admin, Bellosong#1258, I put a few spawn eggs in the shulker boxes /.\ 4 parrots, 4 skellie horses and 4 zombie horses
+23 Aug 2017 02:55:40 : Legacy Craft, admin, Bellosong#1258, but they were meant to be treasures
+23 Aug 2017 02:55:52 : Legacy Craft, admin, DJ_Phatzo#8045, ah
+23 Aug 2017 02:56:10 : Legacy Craft, admin, DJ_Phatzo#8045, okie
+23 Aug 2017 02:56:10 : Legacy Craft, admin, Bellosong#1258, along with a few other goodies such as diamonds, emeralds, picture frames, steak, pork, watermelon seeds
+23 Aug 2017 02:56:23 : Legacy Craft, admin, Bellosong#1258, one compass and 2 clocks or the other way around...
+23 Aug 2017 02:56:28 : Legacy Craft, admin, Bellosong#1258, pumpkin seeds
+23 Aug 2017 02:56:31 : Legacy Craft, admin, Bellosong#1258, n yea :p
+23 Aug 2017 02:56:45 : Legacy Craft, admin, Bellosong#1258, I'm sorry though /.\ it was meant to be a hide and seek treasure hunt game
+23 Aug 2017 02:57:24 : Legacy Craft, admin, DJ_Phatzo#8045, its ok
+23 Aug 2017 02:57:31 : Legacy Craft, admin, DJ_Phatzo#8045, thank you for telling me
+23 Aug 2017 02:57:52 : Legacy Craft, admin, Bellosong#1258, of course
+23 Aug 2017 02:58:41 : Legacy Craft, admin, Bellosong#1258, It was supposed to be a game and I put in general chat too
+23 Aug 2017 02:58:47 : Legacy Craft, admin, DJ_Phatzo#8045, ook
+23 Aug 2017 02:58:52 : Legacy Craft, admin, Bellosong#1258, but silver n dorm were the only ones one /.\
+23 Aug 2017 02:59:00 : Legacy Craft, admin, Bellosong#1258, no one else wanted to play the game so.. /.\
+23 Aug 2017 02:59:19 : Legacy Craft, admin, Bellosong#1258, wanted it to be a fun legacy little event thingy
+23 Aug 2017 02:59:26 : Legacy Craft, admin, DJ_Phatzo#8045, _hugs_ its okay bell
+23 Aug 2017 02:59:28 : Legacy Craft, admin, DJ_Phatzo#8045, relax
+23 Aug 2017 02:59:31 : Legacy Craft, admin, Bellosong#1258, okayz /.\
+23 Aug 2017 03:00:06 : Legacy Craft, admin, DJ_Phatzo#8045, we good?
+23 Aug 2017 03:00:12 : Legacy Craft, admin, Bellosong#1258, yea
+23 Aug 2017 03:00:14 : Legacy Craft, admin, Bellosong#1258, we good
+23 Aug 2017 03:00:15 : Legacy Craft, admin, DJ_Phatzo#8045, guud
+23 Aug 2017 03:00:20 : Legacy Craft, admin, Bellosong#1258, hugs?
+23 Aug 2017 03:00:26 : Legacy Craft, admin, DJ_Phatzo#8045, hugs
+23 Aug 2017 03:03:55 : Cipher, general, Skyd#9935, any body hereee?
+23 Aug 2017 03:09:06 : Legacy Craft, admin, DJ_Phatzo#8045, debating if I should stream again tonight
+23 Aug 2017 03:22:44 : LimitlessMc, botchat, Bakafish#8693, ;train
+23 Aug 2017 03:22:45 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 03:22:45 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 03:22:46 : LimitlessMc, botchat, Bakafish#8693, https://gyazo.com/f3c09d97d4b7c5c5fa94354dad50e263
+23 Aug 2017 03:22:51 : LimitlessMc, botchat, Bakafish#8693, @Star
+23 Aug 2017 03:22:58 : LimitlessMc, botchat, Bakafish#8693, got this one a few days ago
+23 Aug 2017 03:23:53 : LimitlessMc, botchat, Bakafish#8693, just search "99.99" for actual proof
+23 Aug 2017 03:24:04 : LimitlessMc, botchat, Bakafish#8693, on this discord chat
+23 Aug 2017 03:24:28 : LimitlessMc, mainchat, 7up#2378, @darkHugoPT agreed, although enderio and immersive go hand in hand. So its either botania or watered down tech
+23 Aug 2017 03:27:35 : LimitlessMc, mainchat, 7up#2378, Why not go ftb? Would attract more people as well since ftb packs have a large following already
+23 Aug 2017 03:29:21 : Achievement Heaven, memes, 🇮🇪The Irish Rebel🇮🇪#3467, Cuz he actually did say that
+23 Aug 2017 03:29:28 : Achievement Heaven, memes, 🇮🇪The Irish Rebel🇮🇪#3467, It's a quote
+23 Aug 2017 03:30:09 : Achievement Heaven, bot-channel, 🇮🇪The Irish Rebel🇮🇪#3467, Yui help
+23 Aug 2017 03:30:14 : Achievement Heaven, bot-channel, Yui (ユイ)#2222, @🇮🇪The Irish Rebel🇮🇪, Sending you a dm with information...
+23 Aug 2017 03:31:36 : Achievement Heaven, bot-channel, 🇮🇪The Irish Rebel🇮🇪#3467, Yui catgirl
+23 Aug 2017 03:31:37 : Achievement Heaven, bot-channel, Yui (ユイ)#2222, 🐱 **| Here's a kitty cat for you:**
+23 Aug 2017 03:31:45 : Achievement Heaven, bot-channel, 🇮🇪The Irish Rebel🇮🇪#3467, Awwwwww
+23 Aug 2017 03:31:53 : Achievement Heaven, bot-channel, 🇮🇪The Irish Rebel🇮🇪#3467, So cuuuuute!!!!!
+23 Aug 2017 03:32:12 : Achievement Heaven, bot-channel, 🇮🇪The Irish Rebel🇮🇪#3467, Yui catgirl
+23 Aug 2017 03:32:12 : Achievement Heaven, bot-channel, Yui (ユイ)#2222, 🐱 **| Here's a kitty cat for you:**
+23 Aug 2017 03:32:31 : Achievement Heaven, bot-channel, 🇮🇪The Irish Rebel🇮🇪#3467, Yui catgirl
+23 Aug 2017 03:32:31 : Achievement Heaven, bot-channel, Yui (ユイ)#2222, 🐱 **| Here's a kitty cat for you:**
+23 Aug 2017 03:32:52 : Achievement Heaven, bot-channel, 🇮🇪The Irish Rebel🇮🇪#3467, Yui catgirl
+23 Aug 2017 03:32:52 : Achievement Heaven, bot-channel, Yui (ユイ)#2222, 🐱 **| Here's a kitty cat for you:**
+23 Aug 2017 03:32:58 : Achievement Heaven, bot-channel, 🇮🇪The Irish Rebel🇮🇪#3467, Yui catgirl
+23 Aug 2017 03:32:58 : Achievement Heaven, bot-channel, Yui (ユイ)#2222, 🐱 **| Here's a kitty cat for you:**
+23 Aug 2017 03:33:19 : Achievement Heaven, bot-channel, 🇮🇪The Irish Rebel🇮🇪#3467, Aww
+23 Aug 2017 03:33:21 : Achievement Heaven, bot-channel, 🇮🇪The Irish Rebel🇮🇪#3467, Yui catgirl
+23 Aug 2017 03:33:21 : Achievement Heaven, bot-channel, Yui (ユイ)#2222, 🐱 **| Here's a kitty cat for you:**
+23 Aug 2017 03:33:29 : Achievement Heaven, bot-channel, 🇮🇪The Irish Rebel🇮🇪#3467, Awwwwww
+23 Aug 2017 03:43:46 : OblivionEvolved, server_news, StubbyMuffins#1053, @​everyone Sorry for the lateness server is updating
+23 Aug 2017 03:44:47 : LimitlessMc, botchat, JustinOPGamer#9138, ;train
+23 Aug 2017 03:44:48 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 03:44:49 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 03:44:51 : LimitlessMc, botchat, JustinOPGamer#9138, ;luck
+23 Aug 2017 03:44:51 : LimitlessMc, botchat, Botfuzzy77#2209, JustinOPGamer's luck is 15.17 out of 100, which is **Completly Horrible**
+23 Aug 2017 03:44:54 : LimitlessMc, botchat, JustinOPGamer#9138, YAY
+23 Aug 2017 03:44:56 : LimitlessMc, botchat, JustinOPGamer#9138, oh wait
+23 Aug 2017 03:44:58 : LimitlessMc, botchat, JustinOPGamer#9138, thats bad
+23 Aug 2017 03:59:41 : PokeIslands, general, Cln2005#2934, anyone there
+23 Aug 2017 04:02:34 : LimitlessMc, mainchat, ηєяσкιη#3586, As explained by Jay (a long time ago), FTB has modpacks that would require 4+ GB ram that some, if not most, people cannot utilize as their computer needs some of that or they don't have that much at all
+23 Aug 2017 04:13:36 : LimitlessMc, botchat, Star#0288, ;luck
+23 Aug 2017 04:13:37 : LimitlessMc, botchat, Botfuzzy77#2209, Star's luck is 91.09 out of 100, which is **AMAZING**
+23 Aug 2017 04:13:42 : LimitlessMc, botchat, Star#0288, OMFG BEST EVER
+23 Aug 2017 04:13:48 : LimitlessMc, botchat, Star#0288, ;train
+23 Aug 2017 04:13:49 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 04:13:49 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 04:13:57 : LimitlessMc, botchat, Star#0288, ;mine
+23 Aug 2017 04:13:57 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 04:13:58 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 04:25:48 : LimitlessMc, mainchat, idek#2049, @Jay113355 is tordo still owner of limitless?
+23 Aug 2017 04:26:03 : LimitlessMc, mainchat, Jay113355#4999, Not really
+23 Aug 2017 04:26:16 : LimitlessMc, mainchat, idek#2049, Rip
+23 Aug 2017 04:26:23 : LimitlessMc, mainchat, idek#2049, Does he come on still or not?
+23 Aug 2017 04:30:25 : LimitlessMc, mainchat, Jay113355#4999, Nope
+23 Aug 2017 04:37:50 : LimitlessMc, mainchat, idek#2049, Okay
+23 Aug 2017 04:38:44 : Legacy Craft, screenshots, silverstrom#2671, @DormantSolice
+23 Aug 2017 04:49:23 : LimitlessMc, mainchat, JustinOPGamer#9138, @Jay113355  the spawners in the server rnt breaking to become broken spawners
+23 Aug 2017 04:49:28 : LimitlessMc, mainchat, JustinOPGamer#9138, may be a bug
+23 Aug 2017 05:00:19 : Botfuzzy77 Living Quarters, general, JustinOPGamer#9138, ;train
+23 Aug 2017 05:00:19 : Botfuzzy77 Living Quarters, general, Botfuzzy77#2209, 
+23 Aug 2017 05:00:19 : Botfuzzy77 Living Quarters, general, Botfuzzy77#2209, 
+23 Aug 2017 05:00:20 : Botfuzzy77 Living Quarters, general, JustinOPGamer#9138, ;mine
+23 Aug 2017 05:00:20 : Botfuzzy77 Living Quarters, general, Botfuzzy77#2209, 
+23 Aug 2017 05:00:20 : Botfuzzy77 Living Quarters, general, Botfuzzy77#2209, 
+23 Aug 2017 05:00:24 : Botfuzzy77 Living Quarters, general, JustinOPGamer#9138, get rekt
+23 Aug 2017 05:00:28 : Botfuzzy77 Living Quarters, general, JustinOPGamer#9138, ;lck
+23 Aug 2017 05:00:30 : Botfuzzy77 Living Quarters, general, JustinOPGamer#9138, ;luck
+23 Aug 2017 05:00:30 : Botfuzzy77 Living Quarters, general, Botfuzzy77#2209, JustinOPGamer's luck is 27.2 out of 100, which is **Pretty Bad**
+23 Aug 2017 05:26:58 : LimitlessMc, botchat, Star#0288, ;luck
+23 Aug 2017 05:26:58 : LimitlessMc, botchat, Botfuzzy77#2209, Star's luck is 40.49 out of 100, which is **Not Bad**
+23 Aug 2017 05:33:52 : Legacy Craft, screenshots, silverstrom#2671, http://i.imgur.com/F41wwJi.png
+23 Aug 2017 05:36:00 : Legacy Craft, admin, DJ_Phatzo#8045, @​here Next week I would like to hold a celebration to commemorate Two years of LegacyCraft
+
+I am combining all of our spawns into one map. and holding a scavenger hunt. I would like for all of you to come up with some items.  Items related to the server. Be creative 😃
+23 Aug 2017 05:47:45 : LimitlessMc, mainchat, Bakafish#8693, given accounts of what may have led to the server being corrupted
+23 Aug 2017 05:47:52 : LimitlessMc, mainchat, Bakafish#8693, jay disabled the dropping of broken spawners
+23 Aug 2017 05:47:57 : LimitlessMc, mainchat, Bakafish#8693, it seems
+23 Aug 2017 05:48:10 : LimitlessMc, mainchat, Bakafish#8693, to prevent some scenario like someone using spawners to overload and crash the server
+23 Aug 2017 05:51:01 : LimitlessMc, mainchat, venzi#0986, IMO the modpack is basically unplayable at it's state right now. Not enough core mods to keep everyone busy and not a lot of automation meaning the hours you have to put to do anything are huge now. Just an opinion though.
+23 Aug 2017 05:51:19 : LimitlessMc, mainchat, venzi#0986, You can either do EnderIO or Botania
+23 Aug 2017 05:51:24 : LimitlessMc, mainchat, venzi#0986, and thats really it
+23 Aug 2017 05:51:47 : LimitlessMc, mainchat, venzi#0986, Maybe some Immersive to help out EnderIO
+23 Aug 2017 05:51:51 : LimitlessMc, mainchat, venzi#0986, but thats really it
+23 Aug 2017 06:03:27 : LimitlessMc, mainchat, Bakafish#8693, implementing the entity limit used in 1.10.2 pixelmon while allowing spawner use could help players not strain the server while using farms
+23 Aug 2017 06:03:44 : LimitlessMc, mainchat, Bakafish#8693, such that having too many mobs in a chunk would instantly remove all the mobs
+23 Aug 2017 06:04:07 : LimitlessMc, mainchat, Bakafish#8693, only issue would be preventing a large amount of mobs scattered throughout different chunks from straining the server
+23 Aug 2017 06:14:08 : LimitlessMc, botchat, Crystal4209#4698, ;luck
+23 Aug 2017 06:14:08 : LimitlessMc, botchat, Botfuzzy77#2209, Crystal4209's luck is 81.81 out of 100, which is **AMAZING**
+23 Aug 2017 06:18:34 : LimitlessMc, botchat, Bakafish#8693, ;train
+23 Aug 2017 06:18:34 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 06:18:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 06:21:31 : PokeIslands, general, striker7912#3617, Just to let you now Zane is getting profesional help with his depression.
+23 Aug 2017 06:29:06 : PokeIslands, general, striker7912#3617, also make shure to update Twitch they were having problems.
+23 Aug 2017 06:32:32 : Unturned Fam, general, EmMiERoSe#7854, 
+23 Aug 2017 06:45:06 : Achievement Heaven, bot-channel, Kangaroo1212#7324, Yui daily
+23 Aug 2017 06:45:06 : Achievement Heaven, bot-channel, Yui (ユイ)#2222, 💰 | You collected **111 silver** from your daily reward!
+23 Aug 2017 06:45:15 : Achievement Heaven, bot-channel, Kangaroo1212#7324, Yui bal
+23 Aug 2017 06:45:15 : Achievement Heaven, bot-channel, Yui (ユイ)#2222, 💰 | Here is your balance: **0** Gold, **1,111** Silver, **7,502** Bronze!
+23 Aug 2017 06:45:27 : Achievement Heaven, bot-channel, Kangaroo1212#7324, Yui exchange
+23 Aug 2017 06:45:27 : Achievement Heaven, bot-channel, Yui (ユイ)#2222, 💰 | You exchanged **7,000 bronze** for **7 silver**.
+23 Aug 2017 06:45:36 : Achievement Heaven, bot-channel, Kangaroo1212#7324, Yui slot 18
+23 Aug 2017 06:45:36 : Achievement Heaven, bot-channel, Yui (ユイ)#2222, ╔════[SLOTS]════╗
+║  🍒   ║  💰  ║  ❤   ║
+**>**   💰   ║  🔅  ║  🎲   **<**
+║  ⭐   ║  🎉  ║  💎   ║
+╚════[SLOTS]════╝
+23 Aug 2017 06:45:49 : Achievement Heaven, bot-channel, Kangaroo1212#7324, Yui bal
+23 Aug 2017 06:45:49 : Achievement Heaven, bot-channel, Yui (ユイ)#2222, 💰 | Here is your balance: **0** Gold, **1,145** Silver, **1,628** Bronze!
+23 Aug 2017 06:49:37 : The Pack, bot-chat, Kangaroo1212#7324, Yui bal
+23 Aug 2017 06:49:37 : The Pack, bot-chat, Yui (ユイ)#2222, 💰 | Here is your balance: **0** Gold, **1,145** Silver, **3,135** Bronze!
+23 Aug 2017 06:49:55 : The Pack, bot-chat, Kangaroo1212#7324, Yui exchange
+23 Aug 2017 06:49:55 : The Pack, bot-chat, Yui (ユイ)#2222, 💰 | You exchanged **3,000 bronze** for **3 silver**.
+23 Aug 2017 06:50:02 : The Pack, bot-chat, Kangaroo1212#7324, Yui slot 3
+23 Aug 2017 06:50:02 : The Pack, bot-chat, Yui (ユイ)#2222, ╔════[SLOTS]════╗
+║  💰   ║  🎲  ║  🔅   ║
+**>**   ⭐   ║  ⭐  ║  🎉   **<**
+║  🎲   ║  💰  ║  ❤   ║
+╚════[SLOTS]════╝
+23 Aug 2017 07:08:42 : Unturned Fam, general, tigertiger02#4338, Just about to leave for school now cya all in a couple hours
+23 Aug 2017 08:05:09 : Proton Gaming Network, infinityevolved, tunis91#4970, @Mike  have you found out of what we can  do:)
+23 Aug 2017 08:14:36 : LimitlessMc, botchat, TherminatorX#6644, ;lv
+23 Aug 2017 08:14:39 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 08:14:44 : LimitlessMc, botchat, TherminatorX#6644, ;train
+23 Aug 2017 08:14:45 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 08:14:46 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 08:19:42 : LimitlessMc, botchat, Bakafish#8693, ;train
+23 Aug 2017 08:19:43 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 08:19:43 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 08:19:43 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 08:38:26 : Proton Gaming Network, bot_commands, MisterChamp#8562, ;server
+23 Aug 2017 08:38:26 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, **Server IP**: infinity.protongaming.co.uk
+23 Aug 2017 08:38:26 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 2 players out of 50
+ *Ping*: 377.436 ms
+ *MC Version*: 1.7.10
+23 Aug 2017 08:38:26 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, **Players Online**:
+ *MaxiSpartacus, Skidlezz...*
+23 Aug 2017 08:38:47 : LimitlessMc, botchat, Crystal4209#4698, ;train
+23 Aug 2017 08:38:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 08:38:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 08:43:45 : Proton Gaming Network, bot_commands, MisterChamp#8562, ;skip
+23 Aug 2017 08:43:45 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, Skipping Single ladies - Beyonce (Lyrics on screen) by request (Radio Song)
+23 Aug 2017 08:46:01 : Proton Gaming Network, bot_commands, MisterChamp#8562, ;skip
+23 Aug 2017 08:46:01 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, Skipping Avicii -Wake Me Up (Audio) by request (Radio Song)
+23 Aug 2017 08:46:24 : Proton Gaming Network, bot_commands, MisterChamp#8562, ;skip
+23 Aug 2017 08:46:24 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, Skipping Ariana Grande - Dangerous Woman by request (Radio Song)
+23 Aug 2017 09:28:16 : LimitlessMc, botchat, Bakafish#8693, ;train
+23 Aug 2017 09:28:16 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 09:28:16 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 09:32:39 : Proton Gaming Network, bot_commands, jjtwilefc#7374, ;server
+23 Aug 2017 09:32:39 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, **Server IP**: infinity.protongaming.co.uk
+23 Aug 2017 09:32:39 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 2 players out of 50
+ *Ping*: 374.581 ms
+ *MC Version*: 1.7.10
+23 Aug 2017 09:32:40 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, **Players Online**:
+ *MaxiSpartacus, StubaroCombo_35...*
+23 Aug 2017 09:51:43 : LimitlessMc, botchat, Crystal4209#4698, ;train
+23 Aug 2017 09:51:43 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 09:51:44 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 09:59:20 : PokeIslands, bot, AuroranLily#3763, ;train
+23 Aug 2017 09:59:21 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 09:59:21 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 09:59:21 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 09:59:25 : PokeIslands, bot, AuroranLily#3763, 'mine
+23 Aug 2017 09:59:28 : PokeIslands, bot, AuroranLily#3763, ;mine
+23 Aug 2017 09:59:29 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 09:59:29 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 10:04:38 : LimitlessMc, botchat, Bakafish#8693, ;train
+23 Aug 2017 10:04:38 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 10:04:38 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 10:04:52 : LimitlessMc, botchat, Bakafish#8693, ;ranking
+23 Aug 2017 10:04:52 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 10:30:00 : LimitlessMc, mainchat, 7up#2378, @ηєяσкιη OK, thanks for the explanation
+23 Aug 2017 10:41:23 : Proton Gaming Network, infinityevolved, Ozicarus#8421, @tunis91 Has anyone been to your base?
+23 Aug 2017 10:42:16 : Proton Gaming Network, infinityevolved, tunis91#4970, Only my Brother iongjohnsilver
+23 Aug 2017 10:42:55 : Proton Gaming Network, infinityevolved, Ozicarus#8421, So they're not crashing when they go there?
+23 Aug 2017 10:43:51 : Proton Gaming Network, infinityevolved, Ozicarus#8421, Try and connect for me, i'd like to see if it spits an error message
+23 Aug 2017 10:45:51 : Proton Gaming Network, infinityevolved, Ozicarus#8421, ( @tunis91 )
+23 Aug 2017 10:47:17 : Proton Gaming Network, infinityevolved, tunis91#4970, Im not Home at the  moment But i Will be in 10 minuts then i can try
+23 Aug 2017 10:48:48 : Proton Gaming Network, infinityevolved, Ozicarus#8421, kk
+23 Aug 2017 10:55:22 : Proton Gaming Network, infinityevolved, tunis91#4970, im opening the game now it should be up in 2 minutes
+23 Aug 2017 10:59:45 : Proton Gaming Network, infinityevolved, tunis91#4970, my game is up now @Ozicarus
+23 Aug 2017 10:59:55 : Proton Gaming Network, infinityevolved, Ozicarus#8421, Did you try to join?
+23 Aug 2017 11:00:06 : Proton Gaming Network, infinityevolved, tunis91#4970, i do it now
+23 Aug 2017 11:00:25 : PokeIslands, general, AuroranLily#3763, Just scheduled a daily restart to reduce lag on my server. 😄
+23 Aug 2017 11:00:26 : PokeIslands, general, Tatsumaki#8792, 🆙  |  **AuroranLily leveled up!**
+23 Aug 2017 11:00:34 : PokeIslands, general, AuroranLily#3763, I'm a good owner. XD
+23 Aug 2017 11:01:47 : Proton Gaming Network, infinityevolved, tunis91#4970, im on the server now but all from scratsch
+23 Aug 2017 11:02:15 : Proton Gaming Network, infinityevolved, Ozicarus#8421, Well that's what you get as a prize for corrupting your inventory
+23 Aug 2017 11:02:33 : Proton Gaming Network, infinityevolved, Ozicarus#8421, There was no other backup we could've gone to
+23 Aug 2017 11:03:01 : Proton Gaming Network, infinityevolved, tunis91#4970, could you tp me to my home or do i have to find it 😃
+23 Aug 2017 11:03:12 : Proton Gaming Network, infinityevolved, Ozicarus#8421, I can find out for you
+23 Aug 2017 11:03:19 : Proton Gaming Network, infinityevolved, tunis91#4970, thanks
+23 Aug 2017 11:06:56 : Proton Gaming Network, staff_general, Ozicarus#8421, @​everyone Can you guys connect?
+23 Aug 2017 11:07:28 : Proton Gaming Network, staff_general, royalsfan10#7753, To what?
+23 Aug 2017 11:07:30 : Proton Gaming Network, staff_general, Ozicarus#8421, NVM
+23 Aug 2017 11:07:33 : Proton Gaming Network, staff_general, Ozicarus#8421, My stupid fault
+23 Aug 2017 11:07:38 : Proton Gaming Network, staff_general, royalsfan10#7753, Oh okay hah
+23 Aug 2017 11:10:04 : Achievement Heaven, bot-channel, DormantSolice#5007, yui bal
+23 Aug 2017 11:10:04 : Achievement Heaven, bot-channel, Yui (ユイ)#2222, 💰 | Here is your balance: **0** Gold, **350** Silver, **2,098** Bronze!
+23 Aug 2017 11:10:05 : Achievement Heaven, bot-channel, DormantSolice#5007, yui daily
+23 Aug 2017 11:10:05 : Achievement Heaven, bot-channel, Yui (ユイ)#2222, 💰 | You collected **100 silver** from your daily reward!
+23 Aug 2017 11:10:09 : Achievement Heaven, bot-channel, DormantSolice#5007, yui exchange
+23 Aug 2017 11:10:09 : Achievement Heaven, bot-channel, Yui (ユイ)#2222, 💰 | You exchanged **2,000 bronze** for **2 silver**.
+23 Aug 2017 11:10:11 : Achievement Heaven, bot-channel, DormantSolice#5007, yui slot 2
+23 Aug 2017 11:10:11 : Achievement Heaven, bot-channel, Yui (ユイ)#2222, ╔════[SLOTS]════╗
+║  ⚜   ║  ⭐  ║  💰   ║
+**>**   🔅   ║  💰  ║  🎉   **<**
+║  🎉   ║  🔅  ║  🔅   ║
+╚════[SLOTS]════╝
+23 Aug 2017 11:14:52 : LimitlessMc, botchat, KidKraft#7732, ;train
+23 Aug 2017 11:14:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 11:14:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 11:15:06 : LimitlessMc, botchat, KidKraft#7732, ;luck
+23 Aug 2017 11:15:06 : LimitlessMc, botchat, Botfuzzy77#2209, KidKraft's luck is 91.8 out of 100, which is **AMAZING**
+23 Aug 2017 11:15:17 : LimitlessMc, botchat, KidKraft#7732, ;mine
+23 Aug 2017 11:15:17 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 11:15:17 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 11:16:15 : LimitlessMc, mainchat, Black Heart#9006, GOOD MORRNING
+23 Aug 2017 11:37:49 : LimitlessMc, mainchat, KidKraft#7732, HELLO
+23 Aug 2017 11:39:34 : LimitlessMc, botchat, ThundererZ#4598, ;train
+23 Aug 2017 11:39:34 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 11:39:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 11:39:40 : LimitlessMc, botchat, ThundererZ#4598, ;mine
+23 Aug 2017 11:39:40 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 11:54:57 : LimitlessMc, botchat, Bakafish#8693, ;train
+23 Aug 2017 11:54:57 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 11:54:58 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 11:56:05 : PokeIslands, bot, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, ;train
+23 Aug 2017 11:56:05 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 11:56:05 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 11:56:08 : PokeIslands, bot, ༺༒༻꧁꧁╲⎝⧹⎛⦗ Brady⦘⎞⧸⎠╱꧂꧂༺༒༻#8237, ;mine
+23 Aug 2017 11:56:08 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 11:56:08 : PokeIslands, bot, Botfuzzy77#2209, 
+23 Aug 2017 12:05:54 : Proton Gaming Network, infinityevolved, Gyrkkus#9461, Just for future reference, things that corrupt inventory: Putting full ME drives in a bag of holding, putting full ME drives in anything that takes up only one space in moveable chests (idk what it's called) and apparently filling your inventory with full ME drives
+23 Aug 2017 12:37:20 : LimitlessMc, botchat, KidKraft#7732, ;cd
+23 Aug 2017 12:37:20 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 12:37:32 : LimitlessMc, botchat, KidKraft#7732, ;train
+23 Aug 2017 12:37:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 12:37:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 12:37:48 : LimitlessMc, botchat, KidKraft#7732, ;luck
+23 Aug 2017 12:37:48 : LimitlessMc, botchat, Botfuzzy77#2209, KidKraft's luck is 88.31 out of 100, which is **AMAZING**
+23 Aug 2017 12:38:00 : LimitlessMc, botchat, KidKraft#7732, ;mine
+23 Aug 2017 12:38:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 12:38:14 : LimitlessMc, botchat, KidKraft#7732, It lies
+23 Aug 2017 12:51:44 : Proton Gaming Network, infinityevolved, shuck#1142, JJ would know
+23 Aug 2017 12:54:51 : PokeIslands, general, striker7912#3617, 👍
+23 Aug 2017 13:06:12 : PokeIslands, general, striker7912#3617, I have noticed meny servers have eather updated to pixelmon dark or changed to it.some have over 200 players online.
+23 Aug 2017 13:07:06 : LimitlessMc, mainchat, 7up#2378, can we have a survey to see who cant run ftb mods?
+23 Aug 2017 13:07:39 : PokeIslands, general, striker7912#3617, Have a screen shot if you want me to send in pm.
+23 Aug 2017 13:47:28 : LimitlessMc, botchat, t0mm1x#9209, ;train
+23 Aug 2017 13:47:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 13:47:30 : LimitlessMc, botchat, t0mm1x#9209, ;mine
+23 Aug 2017 13:47:31 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 13:47:31 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 13:47:32 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 13:47:32 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 13:47:39 : LimitlessMc, botchat, t0mm1x#9209, ;pb nnnnnnnn
+23 Aug 2017 13:47:40 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 13:47:40 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 14:04:27 : Unturned Fam, general, 🇮🇪The Irish Rebel🇮🇪#3467, Alright
+23 Aug 2017 14:05:07 : PokeIslands, general, KiritoSanPlays#2208, they have switched to dark since reborn is still in the update process
+23 Aug 2017 14:05:22 : PokeIslands, general, KiritoSanPlays#2208, the problem is i don't want to use a mod which steals pokemons from the original game
+23 Aug 2017 14:07:14 : PokeIslands, general, KiritoSanPlays#2208, day 2 of the server being down, Host is solving an error with multicraft
+23 Aug 2017 14:11:20 : PokeIslands, general, KiritoSanPlays#2208, Rip lying to my host xD Any ETA on when the servers are up again? my players are quiet annoying right now since we are down :/
+23 Aug 2017 14:14:35 : Proton Gaming Network, bot_commands, MisterChamp#8562, ;server
+23 Aug 2017 14:14:36 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, **Server IP**: infinity.protongaming.co.uk
+23 Aug 2017 14:14:36 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 0 players out of 50
+ *Ping*: 376.46 ms
+ *MC Version*: 1.7.10
+23 Aug 2017 14:14:36 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, **Players Online**:
+ *...*
+23 Aug 2017 14:15:29 : Proton Gaming Network, bot_commands, MisterChamp#8562, @Mike  wats with the second players online thing?
+23 Aug 2017 14:18:01 : LimitlessMc, mainchat, KidKraft#7732, I can run it but I know some people can't I don't think it's gonna happen dude
+23 Aug 2017 14:18:19 : LimitlessMc, botchat, KidKraft#7732, ;cd
+23 Aug 2017 14:18:19 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 14:18:33 : LimitlessMc, botchat, KidKraft#7732, ;train
+23 Aug 2017 14:18:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 14:18:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 14:18:48 : LimitlessMc, botchat, KidKraft#7732, ;pb gggggggg
+23 Aug 2017 14:18:49 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 14:18:50 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Aug 2017 14:22:12 : Proton Gaming Network, bot_commands, MisterChamp#8562, ;skip
+23 Aug 2017 14:22:12 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, Skipping Ed Sheeran - I See Fire (Audio) by request (Radio Song)
+23 Aug 2017 14:22:43 : Proton Gaming Network, bot_commands, MisterChamp#8562, ;skip
+23 Aug 2017 14:22:43 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, Skipping David Guetta - Turn Me On ft. Nicki Minaj (Lyric Video) by request (Radio Song)
+23 Aug 2017 14:29:31 : Proton Gaming Network, infinityevolved, jjtwilefc#7374, Yep
+23 Aug 2017 14:30:43 : Proton Gaming Network, bot_commands, MisterChamp#8562, ;skip
+23 Aug 2017 14:30:43 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, Skipping Twenty One Pilots   Ride Audio by request (Radio Song)
+23 Aug 2017 14:42:22 : Proton Gaming Network, bot_commands, MisterChamp#8562, ;skip
+23 Aug 2017 14:42:22 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, Skipping Maroon 5 - Sugar (lyrics) by request (Radio Song)
+23 Aug 2017 14:44:28 : Proton Gaming Network, bot_commands, MisterChamp#8562, ;skip
+23 Aug 2017 14:44:28 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, Skipping James Blunt - Bonfire Heart [Official Video] by request (Radio Song)
+23 Aug 2017 14:44:38 : PokeIslands, general, striker7912#3617, ok i understand so we will have diffrent cool pokemons good.
+23 Aug 2017 14:47:02 : Proton Gaming Network, bot_commands, MisterChamp#8562, ;skip
+23 Aug 2017 14:47:02 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, Skipping Justin Timberlake - Señorita (Official Video) by request (Radio Song)

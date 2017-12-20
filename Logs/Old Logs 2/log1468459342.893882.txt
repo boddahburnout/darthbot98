@@ -1,0 +1,679 @@
+14 Jul 2016 01:22:42 : Cipher , Wertfuzzy77#0274 , ;announce totally important announcement
+14 Jul 2016 01:22:42 : Cipher , Botfuzzy77#2209 , totally important announcement
+14 Jul 2016 01:22:42 : Cipher , Botfuzzy77#2209 , totally important announcement
+14 Jul 2016 01:22:43 : Cipher , Botfuzzy77#2209 , totally important announcement
+14 Jul 2016 01:22:43 : Cipher , Botfuzzy77#2209 , totally important announcement
+14 Jul 2016 01:22:43 : Cipher , Botfuzzy77#2209 , totally important announcement
+14 Jul 2016 01:23:37 : Cipher , Wertfuzzy77#0274 , ;reload
+14 Jul 2016 01:23:37 : Cipher , Botfuzzy77#2209 , Reloaded all Modules
+14 Jul 2016 01:23:42 : Cipher , Wertfuzzy77#0274 , ;announce test
+14 Jul 2016 01:23:42 : Cipher , Botfuzzy77#2209 , test
+14 Jul 2016 01:23:47 : Cipher , Botfuzzy77#2209 , test
+14 Jul 2016 01:23:52 : Cipher , Botfuzzy77#2209 , test
+14 Jul 2016 01:23:57 : Cipher , Botfuzzy77#2209 , test
+14 Jul 2016 01:24:03 : Cipher , Botfuzzy77#2209 , test
+14 Jul 2016 01:25:24 : Cipher , Wertfuzzy77#0274 , ;reload
+14 Jul 2016 01:25:24 : Cipher , Botfuzzy77#2209 , Reloaded all Modules
+14 Jul 2016 01:25:30 : LimitlessMc , The_OP_Frog#2296 , hey
+14 Jul 2016 01:25:31 : Cipher , Wertfuzzy77#0274 , ;announce everywhere
+14 Jul 2016 01:26:12 : Cipher , Wertfuzzy77#0274 , ;reload
+14 Jul 2016 01:26:12 : Cipher , Botfuzzy77#2209 , Reloaded all Modules
+14 Jul 2016 01:26:26 : Cipher , Wertfuzzy77#0274 , ;announce ?
+14 Jul 2016 01:26:26 : Cipher , Botfuzzy77#2209 , ?
+14 Jul 2016 01:26:27 : Cipher , Botfuzzy77#2209 , ?
+14 Jul 2016 01:26:29 : Cipher , Botfuzzy77#2209 , ?
+14 Jul 2016 01:26:30 : Cipher , Botfuzzy77#2209 , ?
+14 Jul 2016 01:26:31 : Cipher , Botfuzzy77#2209 , ?
+14 Jul 2016 01:26:43 : Cipher , Wertfuzzy77#0274 , ;reload
+14 Jul 2016 01:26:43 : Cipher , Botfuzzy77#2209 , Reloaded all Modules
+14 Jul 2016 01:26:48 : Cipher , Wertfuzzy77#0274 , ;announce !
+14 Jul 2016 01:26:48 : Cipher , Botfuzzy77#2209 , !
+14 Jul 2016 01:26:49 : Cipher , Botfuzzy77#2209 , !
+14 Jul 2016 01:26:50 : Cipher , Botfuzzy77#2209 , !
+14 Jul 2016 01:26:51 : Cipher , Botfuzzy77#2209 , !
+14 Jul 2016 01:26:52 : Cipher , Botfuzzy77#2209 , !
+14 Jul 2016 01:29:33 : Cipher , RoyGasm ;)#7098 , nerd spam
+14 Jul 2016 01:29:42 : Cipher , RoyGasm ;)#7098 , ;announce test
+14 Jul 2016 01:29:42 : Cipher , Botfuzzy77#2209 , test
+14 Jul 2016 01:29:43 : Cipher , Botfuzzy77#2209 , test
+14 Jul 2016 01:29:44 : Cipher , RoyGasm ;)#7098 , ;-;
+14 Jul 2016 01:29:45 : Cipher , Botfuzzy77#2209 , test
+14 Jul 2016 01:29:46 : Cipher , Botfuzzy77#2209 , test
+14 Jul 2016 01:29:46 : Cipher , RoyGasm ;)#7098 , oh
+14 Jul 2016 01:29:47 : Cipher , Botfuzzy77#2209 , test
+14 Jul 2016 01:30:35 : Cipher , RoyGasm ;)#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], "Hello People of this World")
+14 Jul 2016 01:30:36 : Cipher , Botfuzzy77#2209 , Hello People of this World
+14 Jul 2016 01:30:36 : Cipher , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000002801E127368>
+```
+14 Jul 2016 01:32:38 : League Of Legends , RoyGasm ;)#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("The Pleb Privateers")], ".")
+14 Jul 2016 01:32:39 : The Pleb Privateers , Botfuzzy77#2209 , .
+14 Jul 2016 01:32:39 : League Of Legends , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000002801E127750>
+```
+14 Jul 2016 01:33:19 : Cipher , RoyGasm ;)#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Leage of Legends")], "Ya'll gay except Roy")
+14 Jul 2016 01:33:19 : Cipher , Botfuzzy77#2209 , ```py
+ValueError: 'Leage of Legends' is not in list
+```
+14 Jul 2016 01:33:57 : Cipher , RoyGasm ;)#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("League of Legends")], "Ya'll gay Except Roy")
+14 Jul 2016 01:33:57 : Cipher , Botfuzzy77#2209 , ```py
+ValueError: 'League of Legends' is not in list
+```
+14 Jul 2016 01:34:05 : Cipher , RoyGasm ;)#7098 , hep? <@!134441036905840640>
+14 Jul 2016 01:34:31 : Cipher , RoyGasm ;)#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("League Of Legends")], "Ya'll gay Except Roy")
+14 Jul 2016 01:34:31 : League Of Legends , Botfuzzy77#2209 , Ya'll gay Except Roy
+14 Jul 2016 01:34:31 : Cipher , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000002801E127C00>
+```
+14 Jul 2016 01:34:53 : Cipher , RoyGasm ;)#7098 , der
+14 Jul 2016 01:35:15 : Cipher , RoyGasm ;)#7098 , <@!180158716895690752>
+14 Jul 2016 01:35:19 : Cipher , RoyGasm ;)#7098 , the purge?
+14 Jul 2016 01:35:29 : Cipher , RoyGasm ;)#7098 , is the movie out yet, for you?
+14 Jul 2016 01:40:01 : Cipher , RoyGasm ;)#7098 , or i'm dumb
+14 Jul 2016 01:40:05 : Cipher , RoyGasm ;)#7098 , idk
+14 Jul 2016 01:40:07 : Cipher , RoyGasm ;)#7098 , <@!180158716895690752>
+14 Jul 2016 01:40:10 : Cipher , RoyGasm ;)#7098 , <@!180158716895690752>
+14 Jul 2016 01:40:11 : Cipher , RoyGasm ;)#7098 , <@!180158716895690752>
+14 Jul 2016 01:41:14 : Cipher , Wertfuzzy77#0274 , xD you spelled league wrong
+14 Jul 2016 01:41:15 : Cipher , Wertfuzzy77#0274 , Gj
+14 Jul 2016 01:50:01 : Cipher , Topheralan#1202 , Yes it's out here. We have things in 'murica. Sorry <@!151163520120127488> 
+14 Jul 2016 01:53:31 : LimitlessMc , Botfuzzy77#2209 , *From The Other Side*
+14 Jul 2016 01:56:44 : League Of Legends , Schuyler Deal#4317 , -help
+14 Jul 2016 01:56:44 : League Of Legends , Aethex#0394 , <@186626980500733964> A list of commands has been sent to your Direct Messages.
+14 Jul 2016 01:57:28 : League Of Legends , Schuyler Deal#4317 , hai lol
+14 Jul 2016 01:57:32 : League Of Legends , Schuyler Deal#4317 , kappa
+14 Jul 2016 02:00:51 : LimitlessMc , xPalkia(lugia)#8149 , <@151438890107011072> did server crash? or did I just lag out?
+14 Jul 2016 02:01:19 : LimitlessMc , ZackLikesToRamble#9629 , It seems that it crashed
+14 Jul 2016 02:01:39 : LimitlessMc , xPalkia(lugia)#8149 , ._.
+14 Jul 2016 02:02:11 : Cipher , RoyGasm ;)#7098 , ;-;
+14 Jul 2016 02:02:22 : Cipher , RoyGasm ;)#7098 , it comes out here till agust
+14 Jul 2016 02:02:54 : Cipher , RoyGasm ;)#7098 , like kms
+14 Jul 2016 02:03:16 : LimitlessMc , Mank#0033 , cresh
+14 Jul 2016 02:03:39 : LimitlessMc , Lemon#0401 , Lol the last thing i saw was Jay fell out of the world and then i timed out
+14 Jul 2016 02:03:42 : LimitlessMc , Lemon#0401 , was funny as hell
+14 Jul 2016 02:03:43 : LimitlessMc , xPalkia(lugia)#8149 , <@151438890107011072> why does it crash like every day or every other day
+14 Jul 2016 02:03:55 : LimitlessMc , Mank#0033 , pixelmon bugs
+14 Jul 2016 02:04:01 : LimitlessMc , Mank#0033 , or someone like wert crashes it
+14 Jul 2016 02:04:09 : LimitlessMc , Lemon#0401 , wert likes to crash it
+14 Jul 2016 02:04:16 : LimitlessMc , Lemon#0401 , 90 people at spawn rolf
+14 Jul 2016 02:04:45 : LimitlessMc , xPalkia(lugia)#8149 , Maybe drop parties should not ever be at spawn? Its a bit too laggy there ;-;
+14 Jul 2016 02:06:29 : Cipher , RoyGasm ;)#7098 , I'll get a chance to watch it illegaly before it even comes out here
+14 Jul 2016 02:12:36 : The Pleb Privateers , enragednuke#2565 , uh
+14 Jul 2016 02:12:37 : The Pleb Privateers , enragednuke#2565 , lol
+14 Jul 2016 02:12:48 : The Pleb Privateers , enragednuke#2565 , <@!134441036905840640> ur bot may be retarded
+14 Jul 2016 02:12:49 : The Pleb Privateers , enragednuke#2565 , hue
+14 Jul 2016 02:52:21 : The Pleb Privateers , enragednuke#2565 , <@!126123522497052672> http://kissanime.to/Anime/Mouryou-no-Hako lol
+14 Jul 2016 02:52:51 : The Pleb Privateers , Ryan#3332 , what is this
+14 Jul 2016 02:52:59 : The Pleb Privateers , enragednuke#2565 , a wtf anime
+14 Jul 2016 02:53:01 : The Pleb Privateers , enragednuke#2565 , look at the synopsis
+14 Jul 2016 02:53:38 : The Pleb Privateers , Ryan#3332 , same
+14 Jul 2016 02:53:40 : The Pleb Privateers , Ryan#3332 , thats what i do
+14 Jul 2016 02:55:23 : The Pleb Privateers , enragednuke#2565 , LUL
+14 Jul 2016 03:00:15 : LimitlessMc , Genesect#6492 , <@151438890107011072> kys
+14 Jul 2016 03:12:21 : LimitlessMc , xPalkia(lugia)#8149 , hello
+14 Jul 2016 03:12:21 : LimitlessMc , Botfuzzy77#2209 , *From The Other Side*
+14 Jul 2016 03:32:41 : The Pleb Privateers , enragednuke#2565 , <@!126123522497052672> so apparently one of the peeps I played with in the skeleton ke ygame yesterrday
+14 Jul 2016 03:32:46 : The Pleb Privateers , enragednuke#2565 , was a popular streamer lol
+14 Jul 2016 03:32:55 : The Pleb Privateers , Ryan#3332 , lel
+14 Jul 2016 03:32:58 : The Pleb Privateers , enragednuke#2565 , https://www.twitch.tv/angrypug_
+14 Jul 2016 03:33:06 : The Pleb Privateers , enragednuke#2565 , i remember the name angrypug well lol
+14 Jul 2016 03:37:05 : LimitlessMc , Mank#0033 , <@135660968804876289> thank
+14 Jul 2016 03:39:53 : The Pleb Privateers , enragednuke#2565 , FOUND IT
+14 Jul 2016 03:40:23 : The Pleb Privateers , enragednuke#2565 , https://secure.twitch.tv/angrypug_/v/77736476?t=05h43m24s
+14 Jul 2016 03:43:32 : League Of Legends , Legit_0reo#9709 , anyone here
+14 Jul 2016 03:56:17 : Cipher , RoyGasm ;)#7098 , i know lele
+14 Jul 2016 03:56:40 : Cipher , RoyGasm ;)#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("League of Legends")], "I'm intelligent unlike Alphabet")
+14 Jul 2016 03:56:40 : Cipher , Botfuzzy77#2209 , ```py
+ValueError: 'League of Legends' is not in list
+```
+14 Jul 2016 03:56:59 : Cipher , RoyGasm ;)#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("League Of Legends")], "I'm intelligent unlike Alphabet")
+14 Jul 2016 03:56:59 : League Of Legends , Botfuzzy77#2209 , I'm intelligent unlike Alphabet
+14 Jul 2016 03:56:59 : Cipher , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000002801E138F20>
+```
+14 Jul 2016 03:57:17 : Cipher , RoyGasm ;)#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("League Of Legends")], "I love Lukas")
+14 Jul 2016 03:57:17 : League Of Legends , Botfuzzy77#2209 , I love Lukas
+14 Jul 2016 03:57:17 : Cipher , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000002801E13B2A0>
+```
+14 Jul 2016 03:58:46 : Cipher , RoyGasm ;)#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("League Of Legends")], "@Legit_0reo#9709 ")
+14 Jul 2016 03:58:46 : League Of Legends , Botfuzzy77#2209 , @Legit_0reo#9709 
+14 Jul 2016 03:58:46 : Cipher , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000002801E13B688>
+```
+14 Jul 2016 03:59:25 : Cipher , RoyGasm ;)#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("League Of Legends")], " @Legit_0reo#9709 ")
+14 Jul 2016 03:59:25 : League Of Legends , Botfuzzy77#2209 ,  @Legit_0reo#9709 
+14 Jul 2016 03:59:25 : Cipher , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000002801E13B8E0>
+```
+14 Jul 2016 04:04:14 : The Pleb Privateers , enragednuke#2565 , <@!133762895765831681> #xpwaste
+14 Jul 2016 04:04:36 : The Pleb Privateers , enragednuke#2565 , <@!133762895765831681> dont you log out to escape your sins faggot
+14 Jul 2016 04:05:12 : The Pleb Privateers , enragednuke#2565 , ?cmd add joe <@133762895765831681> #xpwaste
+14 Jul 2016 04:05:15 : The Pleb Privateers , enragedrobo#6009 , Your command, `joe`, has been added!
+14 Jul 2016 04:05:18 : The Pleb Privateers , enragednuke#2565 , ?joe
+14 Jul 2016 04:05:25 : The Pleb Privateers , enragednuke#2565 , ?tag joe
+14 Jul 2016 04:05:25 : The Pleb Privateers , enragedrobo#6009 , <@133762895765831681> #xpwaste
+14 Jul 2016 04:05:28 : The Pleb Privateers , enragednuke#2565 , EleGiggle
+14 Jul 2016 04:19:23 : Cipher , Topheralan#1202 , Isn't everything you do illegal <@!151163520120127488> 
+14 Jul 2016 04:26:34 : LimitlessMc , Wertfuzzy77#0274 , Oi
+14 Jul 2016 04:26:41 : LimitlessMc , Wertfuzzy77#0274 , I don't always crash the server
+14 Jul 2016 04:47:53 : LimitlessMc , Stormzzzy#3051 , ;conch is mayonayse an instrument?
+14 Jul 2016 04:47:54 : LimitlessMc , Botfuzzy77#2209 , *Better not tell you now*
+14 Jul 2016 04:47:54 : LimitlessMc , Botfuzzy77#2209 , The Conch has Spoken!
+14 Jul 2016 05:14:29 : The Pleb Privateers , enragednuke#2565 , ?evalc ctx.message.server.memberrs
+14 Jul 2016 05:14:30 : The Pleb Privateers , enragedrobo#6009 , ```py
+AttributeError: 'Server' object has no attribute 'memberrs'
+```
+14 Jul 2016 05:14:34 : The Pleb Privateers , enragednuke#2565 , ?evalc ctx.message.server.members
+14 Jul 2016 05:14:34 : The Pleb Privateers , enragedrobo#6009 , ```py
+dict_values([<discord.member.Member object at 0x04F26510>, <discord.member.Member object at 0x04F26390>, <discord.member.Member object at 0x04F265D0>, <discord.member.Member object at 0x04F261B0>, <discord.member.Member object at 0x04F26090>, <discord.member.Member object at 0x04701B10>, <discord.member.Member object at 0x04F262D0>, <discord.member.Member object at 0x04F26570>, <discord.member.Member object at 0x04F264B0>, <discord.member.Member object at 0x04F26690>, <discord.member.Member object at 0x04F266F0>, <discord.member.Member object at 0x04F263F0>, <discord.member.Member object at 0x04F26630>, <discord.member.Member object at 0x04F26750>, <discord.member.Member object at 0x04F26330>, <discord.member.Member object at 0x04F26030>, <discord.member.Member object at 0x04F26150>, <discord.member.Member object at 0x04701B70>, <discord.member.Member object at 0x04F260F0>, <discord.member.Member object at 0x04F26450>, <discord.member.Member object at 0x04F26270>, <discord.member.Member object at 0x04F26210>, <discord.member.Member object at 0x04701F90>])
+```
+14 Jul 2016 05:15:41 : The Pleb Privateers , enragednuke#2565 , ?evalc "{0}:{0[0:2]}".format("abcde")
+14 Jul 2016 05:15:41 : The Pleb Privateers , enragedrobo#6009 , ```py
+TypeError: string indices must be integers
+```
+14 Jul 2016 05:15:51 : The Pleb Privateers , enragednuke#2565 , ?evalc "{0}:{0}".format("abcde")
+14 Jul 2016 05:15:51 : The Pleb Privateers , enragedrobo#6009 , ```py
+abcde:abcde
+```
+14 Jul 2016 05:16:08 : The Pleb Privateers , enragednuke#2565 , ?evalc "{a}:{a}".format("abcde")
+14 Jul 2016 05:16:08 : The Pleb Privateers , enragedrobo#6009 , ```py
+KeyError: 'a'
+```
+14 Jul 2016 05:16:20 : The Pleb Privateers , enragednuke#2565 , ?evalc "{a}:{a}".format({a: "abcde"})
+14 Jul 2016 05:16:20 : The Pleb Privateers , enragedrobo#6009 , ```py
+NameError: name 'a' is not defined
+```
+14 Jul 2016 05:16:26 : The Pleb Privateers , enragednuke#2565 , ?evalc "{a}:{a}".format({'a': "abcde"})
+14 Jul 2016 05:16:27 : The Pleb Privateers , enragedrobo#6009 , ```py
+KeyError: 'a'
+```
+14 Jul 2016 05:16:36 : The Pleb Privateers , enragednuke#2565 , ?evalc "{a}:{a}".format(a="abcde")
+14 Jul 2016 05:16:36 : The Pleb Privateers , enragedrobo#6009 , ```py
+abcde:abcde
+```
+14 Jul 2016 05:16:43 : The Pleb Privateers , enragednuke#2565 , ?evalc "{a}:{a[0:2]}".format(a="abcde")
+14 Jul 2016 05:16:43 : The Pleb Privateers , enragedrobo#6009 , ```py
+TypeError: string indices must be integers
+```
+14 Jul 2016 05:16:49 : The Pleb Privateers , enragednuke#2565 , ?evalc "{a}:{a[0,2]}".format(a="abcde")
+14 Jul 2016 05:16:49 : The Pleb Privateers , enragedrobo#6009 , ```py
+TypeError: string indices must be integers
+```
+14 Jul 2016 05:16:54 : The Pleb Privateers , enragednuke#2565 , ?evalc "{a}:{a[:1]}".format(a="abcde")
+14 Jul 2016 05:16:54 : The Pleb Privateers , enragedrobo#6009 , ```py
+TypeError: string indices must be integers
+```
+14 Jul 2016 05:18:08 : The Pleb Privateers , enragednuke#2565 , ?evalc "{a}:{a[:1]}".format(a="abcde", 1=2)
+14 Jul 2016 05:18:08 : The Pleb Privateers , enragedrobo#6009 , ```py
+SyntaxError: keyword can't be an expression (<string>, line 1)
+```
+14 Jul 2016 05:18:14 : The Pleb Privateers , enragednuke#2565 , ?evalc "{a}:{a[:1]}".format(a="abcde")
+14 Jul 2016 05:18:14 : The Pleb Privateers , enragedrobo#6009 , ```py
+TypeError: string indices must be integers
+```
+14 Jul 2016 05:19:36 : The Pleb Privateers , enragednuke#2565 , ?evalc "{a}:{a:2}".format(a="abcde")
+14 Jul 2016 05:19:36 : The Pleb Privateers , enragedrobo#6009 , ```py
+abcde:abcde
+```
+14 Jul 2016 05:19:43 : The Pleb Privateers , enragednuke#2565 , ?evalc "{a}:{a:<2}".format(a="abcde")
+14 Jul 2016 05:19:43 : The Pleb Privateers , enragedrobo#6009 , ```py
+abcde:abcde
+```
+14 Jul 2016 05:19:54 : The Pleb Privateers , enragednuke#2565 , ?evalc "{a}:{a:.2}".format(a="abcde")
+14 Jul 2016 05:19:54 : The Pleb Privateers , enragedrobo#6009 , ```py
+abcde:ab
+```
+14 Jul 2016 05:20:39 : The Pleb Privateers , enragednuke#2565 , ?evalc "abc".format(1)
+14 Jul 2016 05:20:40 : The Pleb Privateers , enragedrobo#6009 , ```py
+abc
+```
+14 Jul 2016 05:20:51 : The Pleb Privateers , enragednuke#2565 , ?evalc "{}{}".format(1)
+14 Jul 2016 05:20:51 : The Pleb Privateers , enragedrobo#6009 , ```py
+IndexError: tuple index out of range
+```
+14 Jul 2016 05:21:51 : The Pleb Privateers , enragednuke#2565 , ?reload misc
+14 Jul 2016 05:21:51 : The Pleb Privateers , enragedrobo#6009 , Now attempting to reload `modules.misc`...
+14 Jul 2016 05:21:51 : The Pleb Privateers , enragedrobo#6009 , Reloaded `modules.misc` successfully
+14 Jul 2016 05:22:07 : The Pleb Privateers , enragednuke#2565 , ?massnickname "{0} by {0:.2}light"
+14 Jul 2016 05:22:30 : The Pleb Privateers , enragednuke#2565 , ?reload misc
+14 Jul 2016 05:22:30 : The Pleb Privateers , enragedrobo#6009 , Now attempting to reload `modules.misc`...
+14 Jul 2016 05:22:30 : The Pleb Privateers , enragedrobo#6009 , Reloaded `modules.misc` successfully
+14 Jul 2016 05:22:33 : The Pleb Privateers , enragednuke#2565 , ?massnickname "{0} by {0:.2}light"
+14 Jul 2016 05:23:22 : The Pleb Privateers , enragednuke#2565 , ?evalc ctx.message.author.permissions
+14 Jul 2016 05:23:22 : The Pleb Privateers , enragedrobo#6009 , ```py
+AttributeError: 'Member' object has no attribute 'permissions'
+```
+14 Jul 2016 05:23:36 : The Pleb Privateers , enragednuke#2565 , ?evalc bot.permissions
+14 Jul 2016 05:23:37 : The Pleb Privateers , enragedrobo#6009 , ```py
+AttributeError: '<class 'discord.ext.commands.bot.Bot'>' object has no attribute 'permissions'
+```
+14 Jul 2016 05:29:01 : The Pleb Privateers , enragednuke#2565 , ?evalc bot.user
+14 Jul 2016 05:29:01 : The Pleb Privateers , enragedrobo#6009 , ```py
+enragedrobo#6009
+```
+14 Jul 2016 05:29:13 : The Pleb Privateers , enragednuke#2565 , ?evalc type(bot.user).__name__
+14 Jul 2016 05:29:13 : The Pleb Privateers , enragedrobo#6009 , ```py
+User
+```
+14 Jul 2016 05:33:02 : The Pleb Privateers , enragednuke#2565 , ?evalc
+14 Jul 2016 05:33:07 : The Pleb Privateers , enragednuke#2565 , ?reload misc
+14 Jul 2016 05:33:07 : The Pleb Privateers , enragedrobo#6009 , Now attempting to reload `modules.misc`...
+14 Jul 2016 05:33:07 : The Pleb Privateers , enragedrobo#6009 , Reloaded `modules.misc` successfully
+14 Jul 2016 05:33:25 : The Pleb Privateers , enragednuke#2565 , ?massnickname "{0} by {0:.2}light"
+14 Jul 2016 05:33:37 : The Pleb Privateers , enragednuke#2565 , ?reload misc
+14 Jul 2016 05:33:37 : The Pleb Privateers , enragedrobo#6009 , Now attempting to reload `modules.misc`...
+14 Jul 2016 05:33:37 : The Pleb Privateers , enragedrobo#6009 , Reloaded `modules.misc` successfully
+14 Jul 2016 05:33:39 : The Pleb Privateers , enragednuke#2565 , ?massnickname "{0} by {0:.2}light"
+14 Jul 2016 05:34:34 : The Pleb Privateers , enragednuke#2565 , ?evalc bot.member
+14 Jul 2016 05:34:34 : The Pleb Privateers , enragedrobo#6009 , ```py
+AttributeError: '<class 'discord.ext.commands.bot.Bot'>' object has no attribute 'member'
+```
+14 Jul 2016 05:34:40 : The Pleb Privateers , enragednuke#2565 , ?evalc bot.user.member
+14 Jul 2016 05:34:40 : The Pleb Privateers , enragedrobo#6009 , ```py
+AttributeError: 'User' object has no attribute 'member'
+```
+14 Jul 2016 05:35:08 : The Pleb Privateers , enragednuke#2565 , ?reload misc
+14 Jul 2016 05:35:08 : The Pleb Privateers , enragedrobo#6009 , Now attempting to reload `modules.misc`...
+14 Jul 2016 05:35:08 : The Pleb Privateers , enragedrobo#6009 , Reloaded `modules.misc` successfully
+14 Jul 2016 05:35:10 : The Pleb Privateers , enragednuke#2565 , ?massnickname "{0} by {0:.2}light"
+14 Jul 2016 05:38:33 : The Pleb Privateers , enragednuke#2565 , ?reload misc
+14 Jul 2016 05:38:33 : The Pleb Privateers , enragedrobo#6009 , Now attempting to reload `modules.misc`...
+14 Jul 2016 05:38:34 : The Pleb Privateers , enragedrobo#6009 , Reloaded `modules.misc` successfully
+14 Jul 2016 05:38:35 : The Pleb Privateers , enragednuke#2565 , ?massnickname "{0} by {0:.2}light"
+14 Jul 2016 05:39:50 : The Pleb Privateers , enragednuke#2565 , ?reload misc
+14 Jul 2016 05:39:50 : The Pleb Privateers , enragedrobo#6009 , Now attempting to reload `modules.misc`...
+14 Jul 2016 05:39:50 : The Pleb Privateers , enragedrobo#6009 , Reloaded `modules.misc` successfully
+14 Jul 2016 05:39:51 : The Pleb Privateers , enragednuke#2565 , ?massnickname "{0} by {0:.2}light"
+14 Jul 2016 05:42:47 : The Pleb Privateers , enragednuke#2565 , ?reload
+14 Jul 2016 05:42:47 : The Pleb Privateers , enragedrobo#6009 , Please note `reload` is now a command to reload all library code (non-main). To restart the bot entirely or to reload the **botconfig** module, you should now use `relog`
+14 Jul 2016 05:42:49 : The Pleb Privateers , enragedrobo#6009 , **6** modules reloaded. **0** errors in loading.
+14 Jul 2016 05:42:51 : The Pleb Privateers , enragednuke#2565 , ?massnickname "{0} by {0:.2}light"
+14 Jul 2016 05:44:24 : The Pleb Privateers , enragednuke#2565 , ?reload misc
+14 Jul 2016 05:44:24 : The Pleb Privateers , enragedrobo#6009 , Now attempting to reload `modules.misc`...
+14 Jul 2016 05:44:24 : The Pleb Privateers , enragedrobo#6009 , Reloaded `modules.misc` successfully
+14 Jul 2016 05:44:27 : The Pleb Privateers , enragednuke#2565 , ?massnickname "{0} by {0:.2}light"
+14 Jul 2016 05:44:29 : The Pleb Privateers , enragedrobo#6009 , Done. There were **13** errors in changing usernames.
+14 Jul 2016 05:48:54 : The Pleb Privateers , enragednuke#2565 , ?reload misc
+14 Jul 2016 05:48:54 : The Pleb Privateers , enragedrobo#6009 , Now attempting to reload `modules.misc`...
+14 Jul 2016 05:48:55 : The Pleb Privateers , enragedrobo#6009 , Reloaded `modules.misc` successfully
+14 Jul 2016 05:49:00 : The Pleb Privateers , enragednuke#2565 , ?massnickname "{0} by {0:.2}light"
+14 Jul 2016 05:49:00 : The Pleb Privateers , enragedrobo#6009 , Note: Due to rate limiting, this may take up to 25 seconds to complete
+14 Jul 2016 05:49:00 : The Pleb Privateers , enragedrobo#6009 , I don't have enough permission! (Change and manage usernames)
+14 Jul 2016 05:49:20 : The Pleb Privateers , enragednuke#2565 , ?massnickname "{0} by {0:.2}light"
+14 Jul 2016 05:49:20 : The Pleb Privateers , enragedrobo#6009 , Note: Due to rate limiting, this may take up to 25 seconds to complete
+14 Jul 2016 05:49:21 : The Pleb Privateers , enragedrobo#6009 , I don't have enough permission! (Change and manage usernames)
+14 Jul 2016 05:49:41 : The Pleb Privateers , enragednuke#2565 , ?reload misc
+14 Jul 2016 05:49:41 : The Pleb Privateers , enragedrobo#6009 , Now attempting to reload `modules.misc`...
+14 Jul 2016 05:49:41 : The Pleb Privateers , enragedrobo#6009 , Reloaded `modules.misc` successfully
+14 Jul 2016 05:49:49 : The Pleb Privateers , enragednuke#2565 , ?massnickname "{0} by {0:.2}light"
+14 Jul 2016 05:49:49 : The Pleb Privateers , enragedrobo#6009 , Note: Due to rate limiting, this may take up to 25 seconds to complete
+14 Jul 2016 05:49:50 : The Pleb Privateers , enragedrobo#6009 , I don't have enough permission! (Change and manage usernames)
+14 Jul 2016 05:50:24 : The Pleb Privateers , enragednuke#2565 , ?massnickname "{0} by {0:.2}light"
+14 Jul 2016 05:50:24 : The Pleb Privateers , enragedrobo#6009 , Note: Due to rate limiting, this may take up to 25 seconds to complete
+14 Jul 2016 05:50:25 : The Pleb Privateers , enragedrobo#6009 , I don't have enough permission! (Change and manage usernames)
+14 Jul 2016 05:50:44 : The Pleb Privateers , enragednuke#2565 , ?massnickname "{0} by {0:.2}light"
+14 Jul 2016 05:50:45 : The Pleb Privateers , enragedrobo#6009 , Note: Due to rate limiting, this may take up to 25 seconds to complete
+14 Jul 2016 05:50:45 : The Pleb Privateers , enragedrobo#6009 , I don't have enough permission! (Change and manage usernames)
+14 Jul 2016 05:51:14 : The Pleb Privateers , enragednuke#2565 , ?massnickname "{0} by {0:.2}light"
+14 Jul 2016 05:51:14 : The Pleb Privateers , enragedrobo#6009 , Note: Due to rate limiting, this may take up to 25 seconds to complete
+14 Jul 2016 05:51:14 : The Pleb Privateers , enragedrobo#6009 , I don't have enough permission! (Change and manage usernames)
+14 Jul 2016 05:51:33 : The Pleb Privateers , enragednuke#2565 , ?reload misc
+14 Jul 2016 05:51:33 : The Pleb Privateers , enragedrobo#6009 , Now attempting to reload `modules.misc`...
+14 Jul 2016 05:51:33 : The Pleb Privateers , enragedrobo#6009 , Reloaded `modules.misc` successfully
+14 Jul 2016 05:51:34 : The Pleb Privateers , enragednuke#2565 , ?massnickname "{0} by {0:.2}light"
+14 Jul 2016 05:51:34 : The Pleb Privateers , enragedrobo#6009 , Note: Due to rate limiting, this may take up to 25 seconds to complete
+14 Jul 2016 05:54:39 : The Pleb Privateers , enragednuke#2565 , ?reload misc
+14 Jul 2016 05:54:39 : The Pleb Privateers , enragedrobo#6009 , Now attempting to reload `modules.misc`...
+14 Jul 2016 05:54:39 : The Pleb Privateers , enragedrobo#6009 , Reloaded `modules.misc` successfully
+14 Jul 2016 05:54:41 : The Pleb Privateers , enragednuke#2565 , ?purgenicks
+14 Jul 2016 05:54:41 : The Pleb Privateers , enragedrobo#6009 , Note: Due to rate limiting, this may take up to 25 seconds to complete
+14 Jul 2016 05:55:48 : The Pleb Privateers , enragednuke#2565 , ?reload misc
+14 Jul 2016 05:55:49 : The Pleb Privateers , enragedrobo#6009 , Now attempting to reload `modules.misc`...
+14 Jul 2016 05:55:49 : The Pleb Privateers , enragedrobo#6009 , Reloaded `modules.misc` successfully
+14 Jul 2016 05:55:54 : The Pleb Privateers , enragednuke#2565 , ?purgenicks
+14 Jul 2016 05:55:54 : The Pleb Privateers , enragedrobo#6009 , Note: Due to rate limiting, this may take up to 25 seconds to complete
+14 Jul 2016 05:56:25 : The Pleb Privateers , enragednuke#2565 , ?reload misc
+14 Jul 2016 05:56:25 : The Pleb Privateers , enragedrobo#6009 , Now attempting to reload `modules.misc`...
+14 Jul 2016 05:56:25 : The Pleb Privateers , enragedrobo#6009 , Reloaded `modules.misc` successfully
+14 Jul 2016 05:56:29 : The Pleb Privateers , enragednuke#2565 , ?purgenicks
+14 Jul 2016 05:56:29 : The Pleb Privateers , enragedrobo#6009 , Note: Due to rate limiting, this may take up to 25 seconds to complete
+14 Jul 2016 05:57:11 : The Pleb Privateers , enragednuke#2565 , ?reload misc
+14 Jul 2016 05:57:12 : The Pleb Privateers , enragedrobo#6009 , Now attempting to reload `modules.misc`...
+14 Jul 2016 05:57:12 : The Pleb Privateers , enragedrobo#6009 , Failed to reload extension `modules.misc` (see console for details)
+14 Jul 2016 05:57:28 : The Pleb Privateers , enragednuke#2565 , ?reload misc
+14 Jul 2016 05:57:28 : The Pleb Privateers , enragedrobo#6009 , Now attempting to reload `modules.misc`...
+14 Jul 2016 05:57:28 : The Pleb Privateers , enragedrobo#6009 , Reloaded `modules.misc` successfully
+14 Jul 2016 05:57:31 : The Pleb Privateers , enragednuke#2565 , ?purgenicks
+14 Jul 2016 05:57:32 : The Pleb Privateers , enragedrobo#6009 , Note: Due to rate limiting, this may take up to 25 seconds to complete
+14 Jul 2016 05:57:42 : The Pleb Privateers , enragednuke#2565 , ?reload misc
+14 Jul 2016 05:57:42 : The Pleb Privateers , enragedrobo#6009 , Now attempting to reload `modules.misc`...
+14 Jul 2016 05:57:42 : The Pleb Privateers , enragedrobo#6009 , Reloaded `modules.misc` successfully
+14 Jul 2016 05:57:44 : The Pleb Privateers , enragednuke#2565 , ?purgenicks
+14 Jul 2016 05:57:44 : The Pleb Privateers , enragedrobo#6009 , Note: Due to rate limiting, this may take up to 25 seconds to complete
+14 Jul 2016 05:57:57 : The Pleb Privateers , enragednuke#2565 , ?reload misc
+14 Jul 2016 05:57:57 : The Pleb Privateers , enragedrobo#6009 , Now attempting to reload `modules.misc`...
+14 Jul 2016 05:57:57 : The Pleb Privateers , enragedrobo#6009 , Reloaded `modules.misc` successfully
+14 Jul 2016 05:58:00 : The Pleb Privateers , enragednuke#2565 , ?purgenicks
+14 Jul 2016 05:58:00 : The Pleb Privateers , enragedrobo#6009 , Note: Due to rate limiting, this may take up to 48 seconds to complete
+14 Jul 2016 05:58:26 : The Pleb Privateers , enragednuke#2565 , ?reload misc
+14 Jul 2016 05:58:26 : The Pleb Privateers , enragedrobo#6009 , Now attempting to reload `modules.misc`...
+14 Jul 2016 05:58:26 : The Pleb Privateers , enragedrobo#6009 , Reloaded `modules.misc` successfully
+14 Jul 2016 05:58:28 : The Pleb Privateers , enragednuke#2565 , ?purgenicks
+14 Jul 2016 05:58:28 : The Pleb Privateers , enragedrobo#6009 , Note: Due to rate limiting, this may take up to 48 seconds to complete
+14 Jul 2016 05:58:51 : The Pleb Privateers , enragednuke#2565 , ?reload misc
+14 Jul 2016 05:58:51 : The Pleb Privateers , enragedrobo#6009 , Now attempting to reload `modules.misc`...
+14 Jul 2016 05:58:51 : The Pleb Privateers , enragedrobo#6009 , Reloaded `modules.misc` successfully
+14 Jul 2016 05:58:54 : The Pleb Privateers , enragednuke#2565 , ?purgenicks
+14 Jul 2016 05:58:54 : The Pleb Privateers , enragedrobo#6009 , Note: Due to rate limiting, this may take up to 48 seconds to complete
+14 Jul 2016 06:00:25 : The Pleb Privateers , enragednuke#2565 , ?reload misc
+14 Jul 2016 06:00:25 : The Pleb Privateers , enragedrobo#6009 , Now attempting to reload `modules.misc`...
+14 Jul 2016 06:00:25 : The Pleb Privateers , enragedrobo#6009 , Reloaded `modules.misc` successfully
+14 Jul 2016 06:00:28 : The Pleb Privateers , enragednuke#2565 , ?purgenicks
+14 Jul 2016 06:00:28 : The Pleb Privateers , enragedrobo#6009 , Note: Due to rate limiting, this may take up to 48 seconds to complete
+14 Jul 2016 06:00:43 : The Pleb Privateers , enragednuke#2565 , ?reload misc
+14 Jul 2016 06:01:07 : The Pleb Privateers , enragednuke#2565 , ?purgenicks
+14 Jul 2016 06:01:07 : The Pleb Privateers , enragedrobo#6009 , Note: Due to rate limiting, this may take up to 48 seconds to complete
+14 Jul 2016 06:01:22 : The Pleb Privateers , enragednuke#2565 , ?reload misc
+14 Jul 2016 06:01:22 : The Pleb Privateers , enragedrobo#6009 , Now attempting to reload `modules.misc`...
+14 Jul 2016 06:01:22 : The Pleb Privateers , enragedrobo#6009 , Reloaded `modules.misc` successfully
+14 Jul 2016 06:01:24 : The Pleb Privateers , enragednuke#2565 , ?purgenicks
+14 Jul 2016 06:01:24 : The Pleb Privateers , enragedrobo#6009 , Note: Due to rate limiting, this may take up to 48 seconds to complete
+14 Jul 2016 06:04:37 : LimitlessMc , Akuraizu#8280 , -youtube Soulja Halation
+14 Jul 2016 06:04:46 : LimitlessMc , Akuraizu#8280 , !youtube Soulja Halation
+14 Jul 2016 06:05:39 : LimitlessMc , Akuraizu#8280 , !queue
+14 Jul 2016 06:05:40 : LimitlessMc , Gerald#7099 , The queue is empty
+14 Jul 2016 06:05:45 : LimitlessMc , Akuraizu#8280 , !youtube Soulja Halation
+14 Jul 2016 06:05:49 : LimitlessMc , Akuraizu#8280 , !queue
+14 Jul 2016 06:06:23 : The Pleb Privateers , enragednuke#2565 , ?reload misc
+14 Jul 2016 06:06:23 : The Pleb Privateers , enragedrobo#6009 , Now attempting to reload `modules.misc`...
+14 Jul 2016 06:06:23 : The Pleb Privateers , enragedrobo#6009 , Reloaded `modules.misc` successfully
+14 Jul 2016 06:06:32 : The Pleb Privateers , enragednuke#2565 , ?massnickname "test"
+14 Jul 2016 06:06:32 : The Pleb Privateers , enragedrobo#6009 , Note: Due to rate limiting, this may take up to 25 seconds to complete
+14 Jul 2016 06:06:33 : LimitlessMc , Akuraizu#8280 , !queue
+14 Jul 2016 06:06:37 : The Pleb Privateers , enragednuke#2565 , tableflip
+14 Jul 2016 06:06:38 : LimitlessMc , Akuraizu#8280 , ;heolp
+14 Jul 2016 06:06:39 : LimitlessMc , Gerald#7099 , The queue is empty
+14 Jul 2016 06:06:41 : LimitlessMc , Akuraizu#8280 , ;help
+14 Jul 2016 06:06:42 : LimitlessMc , Botfuzzy77#2209 , ```
+  joined      Says when a member joined.
+  conch       
+  fml         Returns a Random Post from fmylife.com
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+14 Jul 2016 06:06:48 : The Pleb Privateers , enragednuke#2565 , ?reload misc
+14 Jul 2016 06:06:48 : The Pleb Privateers , enragedrobo#6009 , Now attempting to reload `modules.misc`...
+14 Jul 2016 06:06:48 : The Pleb Privateers , enragedrobo#6009 , Reloaded `modules.misc` successfully
+14 Jul 2016 06:06:52 : The Pleb Privateers , enragednuke#2565 , ?massnickname "test"
+14 Jul 2016 06:06:52 : The Pleb Privateers , enragedrobo#6009 , Note: Due to rate limiting, this may take up to 25 seconds to complete
+14 Jul 2016 06:06:59 : The Pleb Privateers , enragednuke#2565 , ?evalc test
+14 Jul 2016 06:06:59 : LimitlessMc , Akuraizu#8280 , ;youtube Soulja Halation
+14 Jul 2016 06:06:59 : LimitlessMc , Botfuzzy77#2209 , Not a Valid Link, Please only use URLs from youtube.com
+14 Jul 2016 06:07:00 : The Pleb Privateers , enragedrobo#6009 , ```py
+NameError: name 'test' is not defined
+```
+14 Jul 2016 06:07:02 : The Pleb Privateers , enragednuke#2565 , ?evalc "a"
+14 Jul 2016 06:07:02 : The Pleb Privateers , enragedrobo#6009 , ```py
+a
+```
+14 Jul 2016 06:07:08 : LimitlessMc , Akuraizu#8280 , ;youtube https://www.youtube.com/watch?v=hh5bG1IWN6Q
+14 Jul 2016 06:07:08 : LimitlessMc , Botfuzzy77#2209 , You Need to Connect to a Voice Chat first!
+14 Jul 2016 06:07:10 : The Pleb Privateers , enragednuke#2565 , ?evalc "a"
+14 Jul 2016 06:07:11 : The Pleb Privateers , enragedrobo#6009 , ```py
+a
+```
+14 Jul 2016 06:07:11 : The Pleb Privateers , enragednuke#2565 , ?evalc "a"
+14 Jul 2016 06:07:13 : The Pleb Privateers , enragedrobo#6009 , ```py
+a
+```
+14 Jul 2016 06:07:13 : The Pleb Privateers , enragednuke#2565 , ?evalc "a"
+14 Jul 2016 06:07:15 : The Pleb Privateers , enragedrobo#6009 , ```py
+a
+```
+14 Jul 2016 06:07:20 : LimitlessMc , Akuraizu#8280 , ;youtube https://www.youtube.com/watch?v=hh5bG1IWN6Q
+14 Jul 2016 06:07:20 : LimitlessMc , Botfuzzy77#2209 , You Need to Connect to a Voice Chat first!
+14 Jul 2016 06:07:31 : LimitlessMc , Akuraizu#8280 , ;youtube https://www.youtube.com/watch?v=hh5bG1IWN6Q
+14 Jul 2016 06:07:31 : LimitlessMc , Botfuzzy77#2209 , You Need to Connect to a Voice Chat first!
+14 Jul 2016 06:07:38 : The Pleb Privateers , enragedrobo#6009 , Done. There were **0** errors in changing usernames.
+14 Jul 2016 06:07:46 : The Pleb Privateers , enragednuke#2565 , ?reload misc
+14 Jul 2016 06:07:46 : The Pleb Privateers , enragedrobo#6009 , Now attempting to reload `modules.misc`...
+14 Jul 2016 06:07:46 : The Pleb Privateers , enragedrobo#6009 , Reloaded `modules.misc` successfully
+14 Jul 2016 06:07:53 : The Pleb Privateers , enragednuke#2565 , ?reload misc
+14 Jul 2016 06:07:53 : The Pleb Privateers , enragedrobo#6009 , Now attempting to reload `modules.misc`...
+14 Jul 2016 06:07:53 : The Pleb Privateers , enragedrobo#6009 , Reloaded `modules.misc` successfully
+14 Jul 2016 06:08:01 : The Pleb Privateers , enragednuke#2565 , ?massnickname None
+14 Jul 2016 06:08:01 : The Pleb Privateers , enragedrobo#6009 , Note: Due to rate limiting, this may take up to 25 seconds to complete
+14 Jul 2016 06:08:37 : The Pleb Privateers , enragednuke#2565 , ?massnickname ayy
+14 Jul 2016 06:08:37 : The Pleb Privateers , enragedrobo#6009 , Note: Due to rate limiting, this may take up to 25 seconds to complete
+14 Jul 2016 06:08:52 : The Pleb Privateers , enragednuke#2565 , ?evalc print('a')
+14 Jul 2016 06:08:52 : The Pleb Privateers , enragedrobo#6009 , ```py
+None
+```
+14 Jul 2016 06:09:15 : The Pleb Privateers , enragednuke#2565 , ?massnickname ayylmao
+14 Jul 2016 06:09:15 : The Pleb Privateers , enragedrobo#6009 , Note: Due to rate limiting, this may take up to 25 seconds to complete
+14 Jul 2016 06:09:33 : The Pleb Privateers , enragednuke#2565 , ?massnickname "fuck you ryan"
+14 Jul 2016 06:09:33 : The Pleb Privateers , enragedrobo#6009 , Note: Due to rate limiting, this may take up to 25 seconds to complete
+14 Jul 2016 06:09:41 : The Pleb Privateers , enragednuke#2565 , ?evalc print('a')
+14 Jul 2016 06:09:41 : The Pleb Privateers , enragedrobo#6009 , ```py
+None
+```
+14 Jul 2016 06:10:03 : The Pleb Privateers , enragednuke#2565 , ?reload misc
+14 Jul 2016 06:10:03 : The Pleb Privateers , enragedrobo#6009 , Now attempting to reload `modules.misc`...
+14 Jul 2016 06:10:03 : The Pleb Privateers , enragedrobo#6009 , Reloaded `modules.misc` successfully
+14 Jul 2016 06:10:12 : The Pleb Privateers , enragednuke#2565 , ?massnickname "fu ryanu"
+14 Jul 2016 06:10:13 : The Pleb Privateers , enragedrobo#6009 , Note: Due to rate limiting, this may take up to 25 seconds to complete
+14 Jul 2016 06:10:36 : The Pleb Privateers , enragednuke#2565 , ?evalc ctx.message.author.name
+14 Jul 2016 06:10:36 : The Pleb Privateers , enragedrobo#6009 , ```py
+enragednuke
+```
+14 Jul 2016 06:10:37 : The Pleb Privateers , enragedrobo#6009 , Done. There were **0** errors in changing usernames.
+14 Jul 2016 06:10:59 : The Pleb Privateers , enragednuke#2565 , ?massnickname "{0} by {0:.2}light"
+14 Jul 2016 06:10:59 : The Pleb Privateers , enragedrobo#6009 , Note: Due to rate limiting, this may take up to 25 seconds to complete
+14 Jul 2016 06:11:24 : The Pleb Privateers , enragedrobo#6009 , Done. There were **0** errors in changing usernames.
+14 Jul 2016 06:12:16 : The Pleb Privateers , enragednuke#2565 , ?reload misc
+14 Jul 2016 06:12:16 : The Pleb Privateers , enragedrobo#6009 , Now attempting to reload `modules.misc`...
+14 Jul 2016 06:12:16 : The Pleb Privateers , enragedrobo#6009 , Reloaded `modules.misc` successfully
+14 Jul 2016 06:12:20 : The Pleb Privateers , enragednuke#2565 , ?massnickname None
+14 Jul 2016 06:12:20 : The Pleb Privateers , enragedrobo#6009 , Note: Due to rate limiting, this may take up to 25 seconds to complete
+14 Jul 2016 06:13:03 : The Pleb Privateers , enragednuke#2565 , ?reload misc
+14 Jul 2016 06:13:03 : The Pleb Privateers , enragedrobo#6009 , Now attempting to reload `modules.misc`...
+14 Jul 2016 06:13:03 : The Pleb Privateers , enragedrobo#6009 , Reloaded `modules.misc` successfully
+14 Jul 2016 06:13:07 : The Pleb Privateers , enragednuke#2565 , ?massnickname None
+14 Jul 2016 06:13:07 : The Pleb Privateers , enragedrobo#6009 , Note: Due to rate limiting, this may take up to 25 seconds to complete
+14 Jul 2016 06:13:31 : The Pleb Privateers , enragedrobo#6009 , Done. There were **0** errors in changing usernames.
+14 Jul 2016 06:14:02 : The Pleb Privateers , enragednuke#2565 , ?massnickname "{0:.8} by {0:.2}light"
+14 Jul 2016 06:14:02 : The Pleb Privateers , enragedrobo#6009 , Note: Due to rate limiting, this may take up to 25 seconds to complete
+14 Jul 2016 06:14:26 : The Pleb Privateers , enragedrobo#6009 , Done. There were **0** errors in changing usernames.
+14 Jul 2016 06:14:34 : The Pleb Privateers , enragednuke#2565 , ?massnickname "{0} by {0:.2}light"
+14 Jul 2016 06:14:34 : The Pleb Privateers , enragedrobo#6009 , Note: Due to rate limiting, this may take up to 25 seconds to complete
+14 Jul 2016 06:14:58 : The Pleb Privateers , enragedrobo#6009 , Done. There were **0** errors in changing usernames.
+14 Jul 2016 06:15:06 : The Pleb Privateers , enragednuke#2565 , `"{0} by {0:.2}light"`
+14 Jul 2016 07:28:28 : The Pleb Privateers , enragednuke#2565 , <@!126123522497052672> i got the wraith bug where you can't move after rpicking someone up lol
+14 Jul 2016 07:34:19 : The Pleb Privateers , enragednuke#2565 , wow
+14 Jul 2016 07:34:27 : The Pleb Privateers , enragednuke#2565 , changing yyour graphics to high and back to low ACTUALLY fixes it
+14 Jul 2016 07:34:29 : The Pleb Privateers , enragednuke#2565 , WTF why
+14 Jul 2016 07:49:00 : The Pleb Privateers , enragednuke#2565 , now I get an entirely different bug where myy entire game freezes but I can still hear the sounds of shit going on around me
+14 Jul 2016 07:49:04 : The Pleb Privateers , enragednuke#2565 , YAHOOOOOOOOOOOOOOOOOOOOOO
+14 Jul 2016 07:56:52 : The Pleb Privateers , enragednuke#2565 , ?reload misc
+14 Jul 2016 07:56:52 : The Pleb Privateers , enragedrobo#6009 , Now attempting to reload `modules.misc`...
+14 Jul 2016 07:56:52 : The Pleb Privateers , enragedrobo#6009 , Failed to reload extension `modules.misc` (see console for details)
+14 Jul 2016 07:57:03 : The Pleb Privateers , enragednuke#2565 , ?reload misc
+14 Jul 2016 07:57:04 : The Pleb Privateers , enragedrobo#6009 , Now attempting to reload `modules.misc`...
+14 Jul 2016 07:57:04 : The Pleb Privateers , enragedrobo#6009 , Reloaded `modules.misc` successfully
+14 Jul 2016 07:57:10 : The Pleb Privateers , enragednuke#2565 , ?massnickname testerino
+14 Jul 2016 07:57:10 : The Pleb Privateers , enragedrobo#6009 , Note: Due to rate limiting, this may take up to 25 seconds to complete
+14 Jul 2016 07:57:35 : The Pleb Privateers , enragedrobo#6009 , Done. There were **1** people who were unable to be changed.
+*(note: There is almost always 1 person; the server owner. If this is most/all of the server, the bot likely does not have permission to change others' username)*
+14 Jul 2016 07:57:56 : The Pleb Privateers , enragednuke#2565 , ?reload misc
+14 Jul 2016 07:57:57 : The Pleb Privateers , enragedrobo#6009 , Now attempting to reload `modules.misc`...
+14 Jul 2016 07:57:57 : The Pleb Privateers , enragedrobo#6009 , Reloaded `modules.misc` successfully
+14 Jul 2016 07:58:08 : The Pleb Privateers , enragednuke#2565 , ?massnickname "{0} by {0:.2}light"
+14 Jul 2016 07:58:08 : The Pleb Privateers , enragedrobo#6009 , Note: Due to rate limiting, this may take up to 25 seconds to complete
+14 Jul 2016 07:58:33 : The Pleb Privateers , enragedrobo#6009 , Done. There were **1** people who were unable to be changed.
+
+*(note: There is almost always 1 person; the server owner. If this is most/all of the server, the bot likely does not have permission to change others' username)*
+14 Jul 2016 07:59:08 : The Pleb Privateers , enragednuke#2565 , ?reload misc
+14 Jul 2016 07:59:08 : The Pleb Privateers , enragedrobo#6009 , Now attempting to reload `modules.misc`...
+14 Jul 2016 07:59:08 : The Pleb Privateers , enragedrobo#6009 , Reloaded `modules.misc` successfully
+14 Jul 2016 08:57:45 : Cipher , RoyGasm ;)#7098 , Probably
+14 Jul 2016 09:18:35 : League Of Legends , TheLast1Alive#7757 , Lol
+14 Jul 2016 09:19:42 : League Of Legends , Botfuzzy77#2209 , *Ask again later*
+14 Jul 2016 09:19:42 : League Of Legends , Botfuzzy77#2209 , The Conch has Spoken!
+14 Jul 2016 09:19:50 : League Of Legends , Botfuzzy77#2209 , *Signs point to yes*
+14 Jul 2016 09:19:50 : League Of Legends , Botfuzzy77#2209 , The Conch has Spoken!
+14 Jul 2016 11:13:53 : Cipher , Akinci#5072 , ;afk working
+14 Jul 2016 11:13:53 : Cipher , Botfuzzy77#2209 , Akinci is now AFK for reason:
+**working**
+14 Jul 2016 11:14:11 : Cipher , Akinci#5072 , <@187658828739903489> 
+14 Jul 2016 11:14:11 : Cipher , Botfuzzy77#2209 , Akinci is afk for reason:
+**working**
+14 Jul 2016 12:32:59 : Cipher , Skyd#9935 , <@183307266475294721>  could I get that Venusaur back soon? 
+14 Jul 2016 12:34:10 : Cipher , Allianths#4161 , no
+14 Jul 2016 12:34:12 : Cipher , Allianths#4161 , :p
+14 Jul 2016 12:54:01 : LimitlessMc , Brahooodley#7837 , Need help asap please
+14 Jul 2016 12:54:08 : LimitlessMc , Brahooodley#7837 , @everyone
+14 Jul 2016 14:27:37 : LimitlessMc , X3IONE#0865 , hi bb
+14 Jul 2016 14:27:43 : LimitlessMc , X3IONE#0865 , luv u bb
+14 Jul 2016 15:02:47 : League Of Legends , Legit_0reo#9709 , <@!186626980500733964>
+14 Jul 2016 15:02:49 : League Of Legends , Legit_0reo#9709 , get on
+14 Jul 2016 15:03:21 : League Of Legends , Legit_0reo#9709 , -play meglovania undertale
+14 Jul 2016 15:03:23 : League Of Legends , Aethex#0394 , Now playing **Undertale OST: 100 - Megalovania** in `General` (2:36, requested by **Legit_0reo**).
+14 Jul 2016 15:04:07 : League Of Legends , Legit_0reo#9709 , ;help
+14 Jul 2016 15:04:07 : League Of Legends , Botfuzzy77#2209 , ```
+  joined      Says when a member joined.
+  conch       
+  fml         Returns a Random Post from fmylife.com
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+14 Jul 2016 15:04:36 : League Of Legends , Schuyler Deal#4317 , -pause
+14 Jul 2016 15:04:37 : League Of Legends , Aethex#0394 , <@186626980500733964> Successfully **paused** audio playback.
+14 Jul 2016 15:04:49 : League Of Legends , Legit_0reo#9709 , -play meglovania undertale
+14 Jul 2016 15:04:50 : League Of Legends , Aethex#0394 , Added **Undertale OST: 100 - Megalovania** (2:36) to the queue (position **#1**)
+14 Jul 2016 15:04:55 : League Of Legends , Legit_0reo#9709 , -skip
+14 Jul 2016 15:04:57 : League Of Legends , Schuyler Deal#4317 , -play
+14 Jul 2016 15:05:34 : League Of Legends , Legit_0reo#9709 , -play meglovania undertale
+14 Jul 2016 15:05:39 : League Of Legends , Legit_0reo#9709 , -play
+14 Jul 2016 15:05:42 : League Of Legends , Legit_0reo#9709 , -resume
+14 Jul 2016 15:05:43 : League Of Legends , Aethex#0394 , <@156188661044477953> Successfully **resumed** audio playback.
+14 Jul 2016 15:05:43 : League Of Legends , Aethex#0394 , <@156188661044477953> Skipped current song.
+14 Jul 2016 15:05:43 : League Of Legends , Aethex#0394 , Now playing **Undertale OST: 100 - Megalovania** in `General` (2:36, requested by **Legit_0reo**).
+14 Jul 2016 15:06:34 : League Of Legends , Legit_0reo#9709 , -stop
+14 Jul 2016 15:06:34 : League Of Legends , Aethex#0394 , <@156188661044477953> Successfully cleared the queue and stopped the current song.
+14 Jul 2016 15:06:34 : League Of Legends , Aethex#0394 , <@156188661044477953> Skipped current song.
+14 Jul 2016 15:06:50 : League Of Legends , Legit_0reo#9709 , ;conch am i pretty
+14 Jul 2016 15:06:51 : League Of Legends , Botfuzzy77#2209 , *Very doubtful*
+14 Jul 2016 15:06:51 : League Of Legends , Botfuzzy77#2209 , The Conch has Spoken!
+14 Jul 2016 15:07:25 : League Of Legends , Legit_0reo#9709 , ;conch will sky win his game
+14 Jul 2016 15:07:25 : League Of Legends , Botfuzzy77#2209 , *Reply hazy, try again*
+14 Jul 2016 15:07:25 : League Of Legends , Botfuzzy77#2209 , The Conch has Spoken!
+14 Jul 2016 15:07:58 : League Of Legends , Legit_0reo#9709 , ;conch will sky win his game
+14 Jul 2016 15:08:00 : League Of Legends , Botfuzzy77#2209 , *Better not tell you now*
+14 Jul 2016 15:08:00 : League Of Legends , Botfuzzy77#2209 , The Conch has Spoken!
+14 Jul 2016 15:08:47 : League Of Legends , Legit_0reo#9709 , ;conch will sky win his game
+14 Jul 2016 15:08:47 : League Of Legends , Botfuzzy77#2209 , *Signs point to yes*
+14 Jul 2016 15:08:47 : League Of Legends , Botfuzzy77#2209 , The Conch has Spoken!
+14 Jul 2016 15:42:10 : LimitlessMc , Diablade Zat#1062 , Yo
+14 Jul 2016 15:42:31 : LimitlessMc , Diablade Zat#1062 , Can someone help me design a farmhouse with  a watermill?
+14 Jul 2016 16:08:57 : Cipher , Akinci#5072 , Lol
+14 Jul 2016 16:10:41 : LimitlessMc , X3IONE#0865 , nooo
+14 Jul 2016 16:10:47 : LimitlessMc , X3IONE#0865 , my stuff
+14 Jul 2016 16:11:00 : LimitlessMc , X3IONE#0865 , i die! die! die! there
+14 Jul 2016 16:46:33 : LimitlessMc , Wertfuzzy77#0274 , <@157715777057718272> you didn't do ;join
+14 Jul 2016 16:46:41 : LimitlessMc , Wertfuzzy77#0274 , To join the voice channel you are in
+14 Jul 2016 16:56:29 : LimitlessMc , xPalkia(lugia)#8149 , <@190928285532815361>
+14 Jul 2016 17:20:23 : LimitlessMc , Wertfuzzy77#0274 , ;afk at work
+14 Jul 2016 17:20:23 : LimitlessMc , Botfuzzy77#2209 , Wertfuzzy77 is now AFK for reason:
+**at work**
+14 Jul 2016 17:38:39 : LimitlessMc , Resolate#7058 , ;youtube https://www.youtube.com/watch?v=juAGpYws_gY
+14 Jul 2016 17:38:39 : LimitlessMc , Botfuzzy77#2209 , You Need to Connect to a Voice Chat first!
+14 Jul 2016 17:38:47 : LimitlessMc , Resolate#7058 , ;join
+14 Jul 2016 17:38:55 : LimitlessMc , Resolate#7058 , ;youtube https://www.youtube.com/watch?v=juAGpYws_gY
+14 Jul 2016 17:54:51 : The Pleb Privateers , Ryan#3332 , thanks devs!
+14 Jul 2016 18:39:47 : League Of Legends , Legit_0reo#9709 , -play taking over favright
+14 Jul 2016 18:39:50 : League Of Legends , Aethex#0394 , Now playing **[Electro] - Favright - Taking Over (feat. Cassandra Kay) [Monstercat Release]** in `General` (5:15, requested by **Legit_0reo**).
+14 Jul 2016 18:42:42 : League Of Legends , Legit_0reo#9709 , -pause
+14 Jul 2016 18:42:42 : League Of Legends , Aethex#0394 , <@156188661044477953> Successfully **paused** audio playback.
+14 Jul 2016 18:42:54 : League Of Legends , Legit_0reo#9709 , ;conch will sky get a penta kill
+14 Jul 2016 18:43:01 : League Of Legends , Botfuzzy77#2209 , *Outlook not so good*
+14 Jul 2016 18:43:01 : League Of Legends , Botfuzzy77#2209 , The Conch has Spoken!
+14 Jul 2016 19:00:01 : LimitlessMc , Resolate#7058 , ;afk FOOOOOOOOOOODDDDDDD
+14 Jul 2016 19:00:01 : LimitlessMc , Botfuzzy77#2209 , Resolate is now AFK for reason:
+**FOOOOOOOOOOODDDDDDD**
+14 Jul 2016 19:18:13 : League Of Legends , Legit_0reo#9709 , ;conch will i get a penta kill this game
+14 Jul 2016 19:18:14 : League Of Legends , Botfuzzy77#2209 , *Outlook good*
+14 Jul 2016 19:18:14 : League Of Legends , Botfuzzy77#2209 , The Conch has Spoken!
+14 Jul 2016 19:19:46 : League Of Legends , Schuyler Deal#4317 , -play see you again
+14 Jul 2016 19:19:47 : League Of Legends , Aethex#0394 , Now playing **Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack** in `General` (3:57, requested by **Schuyler Deal**).
+14 Jul 2016 19:19:58 : League Of Legends , Legit_0reo#9709 , -stop and never play again
+14 Jul 2016 19:19:59 : League Of Legends , Aethex#0394 , <@156188661044477953> Successfully cleared the queue and stopped the current song.
+14 Jul 2016 19:19:59 : League Of Legends , Aethex#0394 , <@156188661044477953> Skipped current song.
+14 Jul 2016 19:20:10 : League Of Legends , Schuyler Deal#4317 , -play cunt bastard
+14 Jul 2016 19:20:12 : League Of Legends , Aethex#0394 , Now playing **Up Yaws - "Fucking Cunt / Awkward Bastard"** in `General` (4:45, requested by **Schuyler Deal**).
+14 Jul 2016 19:20:32 : League Of Legends , Schuyler Deal#4317 , -stop
+14 Jul 2016 19:20:32 : League Of Legends , Aethex#0394 , <@186626980500733964> Successfully cleared the queue and stopped the current song.
+14 Jul 2016 19:20:33 : League Of Legends , Aethex#0394 , <@186626980500733964> Skipped current song.
+14 Jul 2016 19:20:40 : League Of Legends , Schuyler Deal#4317 , -play get it on
+14 Jul 2016 19:20:41 : League Of Legends , Aethex#0394 , Now playing **Charlie Puth - Marvin Gaye ft. Meghan Trainor [Official Video]** in `General` (3:29, requested by **Schuyler Deal**).
+14 Jul 2016 19:21:29 : League Of Legends , Legit_0reo#9709 , -play meglovania undertale
+14 Jul 2016 19:21:30 : League Of Legends , Aethex#0394 , Added **Undertale OST: 100 - Megalovania** (2:36) to the queue (position **#1**)
+14 Jul 2016 19:21:38 : League Of Legends , Legit_0reo#9709 , -play taking over favright
+14 Jul 2016 19:21:42 : League Of Legends , Aethex#0394 , Added **[Electro] - Favright - Taking Over (feat. Cassandra Kay) [Monstercat Release]** (5:15) to the queue (position **#2**)
+14 Jul 2016 19:21:49 : League Of Legends , Legit_0reo#9709 , -play hunted johnny rose
+14 Jul 2016 19:21:49 : League Of Legends , Aethex#0394 , Added **[DnB] - Priority One & TwoThirds - Hunted (feat. Jonny Rose) [Monstercat Release]** (4:25) to the queue (position **#3**)
+14 Jul 2016 19:21:56 : League Of Legends , Schuyler Deal#4317 , -play jonny be gode
+14 Jul 2016 19:21:58 : League Of Legends , Aethex#0394 , Added **Chuck Berry - Johnny B. Goode** (2:42) to the queue (position **#4**)
+14 Jul 2016 19:23:09 : League Of Legends , Schuyler Deal#4317 , -pause
+14 Jul 2016 19:23:10 : League Of Legends , Aethex#0394 , <@186626980500733964> Successfully **paused** audio playback.
+14 Jul 2016 19:23:20 : League Of Legends , Legit_0reo#9709 , -resume
+14 Jul 2016 19:23:20 : League Of Legends , Aethex#0394 , <@156188661044477953> Successfully **resumed** audio playback.
+14 Jul 2016 19:24:21 : League Of Legends , Aethex#0394 , Now playing **Undertale OST: 100 - Megalovania** in `General` (2:36, requested by **Legit_0reo**).
+14 Jul 2016 19:26:58 : League Of Legends , Aethex#0394 , Now playing **[Electro] - Favright - Taking Over (feat. Cassandra Kay) [Monstercat Release]** in `General` (5:15, requested by **Legit_0reo**).
+14 Jul 2016 19:28:09 : League Of Legends , Legit_0reo#9709 , -play sweet lyffe
+14 Jul 2016 19:28:10 : League Of Legends , Aethex#0394 , Added **[Electro] - I.Y.F.F.E, Au5 & Auratic - Sweet [Monstercat Release]** (5:38) to the queue (position **#3**)
+14 Jul 2016 19:28:25 : League Of Legends , Legit_0reo#9709 , -play night after night rouge
+14 Jul 2016 19:28:25 : League Of Legends , Aethex#0394 , Added **[Glitch Hop or 110BPM] - Rogue - Night After Night [Monstercat Release]** (3:57) to the queue (position **#4**)
+14 Jul 2016 19:29:32 : League Of Legends , Schuyler Deal#4317 , play- tear in my heart
+14 Jul 2016 19:30:00 : LimitlessMc , Resolate#7058 , ;help
+14 Jul 2016 19:30:01 : LimitlessMc , Botfuzzy77#2209 , ```
+  joined      Says when a member joined.
+  conch       
+  fml         Returns a Random Post from fmylife.com
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+14 Jul 2016 19:30:21 : League Of Legends , Schuyler Deal#4317 , play- tear in my heart twenty one pilots
+14 Jul 2016 19:30:58 : League Of Legends , Legit_0reo#9709 , ;conch will i get a s+ this game with thresh
+14 Jul 2016 19:30:58 : League Of Legends , Botfuzzy77#2209 , *Without a doubt*
+14 Jul 2016 19:30:58 : League Of Legends , Botfuzzy77#2209 , The Conch has Spoken!
+14 Jul 2016 19:31:12 : League Of Legends , Schuyler Deal#4317 , ;help
+14 Jul 2016 19:31:13 : League Of Legends , Botfuzzy77#2209 , ```
+  joined      Says when a member joined.
+  conch       
+  fml         Returns a Random Post from fmylife.com
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+14 Jul 2016 19:31:37 : League Of Legends , Schuyler Deal#4317 , ;kiss
+14 Jul 2016 19:31:50 : League Of Legends , Schuyler Deal#4317 , kill lukas
+14 Jul 2016 19:31:54 : League Of Legends , Schuyler Deal#4317 , right now
+14 Jul 2016 19:32:13 : League Of Legends , Aethex#0394 , Now playing **[DnB] - Priority One & TwoThirds - Hunted (feat. Jonny Rose) [Monstercat Release]** in `General` (4:25, requested by **Legit_0reo**).
+14 Jul 2016 19:34:39 : League Of Legends , Schuyler Deal#4317 , -skip
+14 Jul 2016 19:34:44 : League Of Legends , Legit_0reo#9709 , -resume
+14 Jul 2016 19:34:45 : League Of Legends , Aethex#0394 , <@156188661044477953> Successfully **resumed** audio playback.
+14 Jul 2016 19:34:49 : League Of Legends , Schuyler Deal#4317 , -skip
+14 Jul 2016 19:34:55 : League Of Legends , Legit_0reo#9709 , -stop
+14 Jul 2016 19:34:56 : League Of Legends , Aethex#0394 , <@156188661044477953> Successfully cleared the queue and stopped the current song.
+14 Jul 2016 19:35:11 : League Of Legends , Schuyler Deal#4317 , -play jonny be goode
+14 Jul 2016 19:35:28 : League Of Legends , Schuyler Deal#4317 , -play Tear in my heart
+14 Jul 2016 19:35:34 : League Of Legends , Schuyler Deal#4317 , -play nigger
+14 Jul 2016 19:40:56 : League Of Legends , Schuyler Deal#4317 , -stop
+14 Jul 2016 19:41:10 : League Of Legends , Aethex#0394 , <@186626980500733964> Successfully cleared the queue and stopped the current song.
+14 Jul 2016 19:45:46 : LimitlessMc , Genesect#6492 , here comes dat boi
+14 Jul 2016 19:45:48 : LimitlessMc , Genesect#6492 , o shit waddup
+14 Jul 2016 19:46:23 : LimitlessMc , Resolate#7058 , ;leave

@@ -1,0 +1,577 @@
+17 Jan 2017 20:19:08 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, @Batman (Lunala)  boi stahp or kick
+17 Jan 2017 20:19:16 : LimitlessMc, botchat, Dankdra#0051, fffff
+17 Jan 2017 20:19:16 : LimitlessMc, botchat, MoonWolf#8885, yeah but i dont want achiev.
+17 Jan 2017 20:19:16 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;-;
+17 Jan 2017 20:19:18 : LimitlessMc, botchat, MoonWolf#8885, I was to gather materials
+17 Jan 2017 20:19:20 : LimitlessMc, botchat, MoonWolf#8885, to craft shit.
+17 Jan 2017 20:19:29 : LimitlessMc, botchat, MoonWolf#8885, i want*
+17 Jan 2017 20:19:30 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;debug bot.icon
+17 Jan 2017 20:19:30 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, ```py
+AttributeError: '<class 'discord.ext.commands.bot.Bot'>' object has no attribute 'icon'
+```
+17 Jan 2017 20:19:32 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, rip
+17 Jan 2017 20:19:54 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;debug ctx.message.server.get_member_named("Giovanni")
+17 Jan 2017 20:19:54 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, ```py
+Botfuzzy77#2209
+```
+17 Jan 2017 20:20:00 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;debug ctx.message.server.get_member_named("Giovanni").avatar_url
+17 Jan 2017 20:20:00 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, ```py
+https://discordapp.com/api/users/187609093001838602/avatars/78a29675eb939d0d48c1e8330f2e22a2.jpg
+```
+17 Jan 2017 20:20:07 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, https://discordapp.com/api/users/187609093001838602/avatars/78a29675eb939d0d48c1e8330f2e22a2.jpg
+17 Jan 2017 20:20:12 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, wut
+17 Jan 2017 20:20:17 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, thats not your icon
+17 Jan 2017 20:20:18 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, you walnut
+17 Jan 2017 20:20:27 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+17 Jan 2017 20:20:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=pVLmZMjxfjw
+17 Jan 2017 20:20:40 : LimitlessMc, botchat, Botfuzzy77#2209, Added Eiffel 65 - Blue (KNY Factory Remix) to the queue
+17 Jan 2017 20:21:08 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle nnnnn
+17 Jan 2017 20:21:08 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 0 Boss **Fennekin** has appeared!
+It has 0 Health.
+17 Jan 2017 20:21:09 : LimitlessMc, botchat, Botfuzzy77#2209, 
+17 Jan 2017 20:21:09 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :white_check_mark: :x: :x:
+17 Jan 2017 20:21:09 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **34** damage
+17 Jan 2017 20:21:09 : LimitlessMc, botchat, Botfuzzy77#2209, Level 0 Boss **Fennekin** has been defeated!
+17 Jan 2017 20:21:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;summon
+17 Jan 2017 20:21:13 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **Wertfuzzy77** with **34** damage
+17 Jan 2017 20:21:13 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait for the current boss to be defeated before you summon a new one!
+17 Jan 2017 20:21:14 : LimitlessMc, botchat, MoonWolf#8885, ;search S3rl Pika girl.
+17 Jan 2017 20:21:16 : LimitlessMc, botchat, Botfuzzy77#2209, Added Pika Girl - S3RL to the queue
+17 Jan 2017 20:21:16 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=lxcze86uRzU
+17 Jan 2017 20:21:18 : LimitlessMc, botchat, Wertfuzzy77#0274, ;summon
+17 Jan 2017 20:21:18 : LimitlessMc, botchat, Botfuzzy77#2209, Please summon a boss from level 19 to 38 (Ex. `;summon 38`)
+17 Jan 2017 20:21:21 : LimitlessMc, botchat, Wertfuzzy77#0274, ;summon 35
+17 Jan 2017 20:21:30 : LimitlessMc, botchat, MoonWolf#8885, ;pokebattle NNNNNNNNNN
+17 Jan 2017 20:21:31 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 35 boss has been summoned
+17 Jan 2017 20:21:31 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 35 Boss **Snorunt** has appeared!
+It has 28105 Health.
+17 Jan 2017 20:21:31 : LimitlessMc, botchat, Botfuzzy77#2209, 
+17 Jan 2017 20:21:31 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :x: :x: :x: :x: :x: :x: :x:
+17 Jan 2017 20:21:31 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **0** damage
+17 Jan 2017 20:21:34 : Pokemon Mystery Dungeon, bot_chat, Third_Worm#4804, le
+17 Jan 2017 20:21:36 : LimitlessMc, botchat, Botfuzzy77#2209, Level 35 Boss **Snorunt** has 28105 health left.
+17 Jan 2017 20:21:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle ffffffffff
+17 Jan 2017 20:21:41 : LimitlessMc, botchat, Botfuzzy77#2209, Level 35 Boss **Snorunt** has 28105 health left.
+17 Jan 2017 20:21:41 : LimitlessMc, botchat, Botfuzzy77#2209, 
+17 Jan 2017 20:21:41 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f:
+:white_check_mark: :x: :x: :x: :x: :x: :x: :x: :white_check_mark: :x:
+17 Jan 2017 20:21:41 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+17 Jan 2017 20:21:41 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **100** damage
+17 Jan 2017 20:21:41 : LimitlessMc, botchat, Botfuzzy77#2209, Level 35 Boss **Snorunt** has 28005 health left.
+17 Jan 2017 20:21:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=Y4QGPWLY-EM
+17 Jan 2017 20:22:02 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;debug ctx.message.server.get_member_named("Giovanni").avatar_url
+17 Jan 2017 20:22:02 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, ```py
+https://discordapp.com/api/users/187609093001838602/avatars/78a29675eb939d0d48c1e8330f2e22a2.jpg
+```
+17 Jan 2017 20:22:10 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;debug ctx.message.server.get_member_named("Giovanni").avatar
+17 Jan 2017 20:22:10 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, ```py
+78a29675eb939d0d48c1e8330f2e22a2
+```
+17 Jan 2017 20:22:15 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ...
+17 Jan 2017 20:22:34 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;debug bot.say(ctx.message.server.get_member_named("Giovanni").avatar_url)
+17 Jan 2017 20:22:34 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, https://discordapp.com/api/users/187609093001838602/avatars/78a29675eb939d0d48c1e8330f2e22a2.jpg
+17 Jan 2017 20:22:34 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7f6168e63870>
+```
+17 Jan 2017 20:22:40 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, THATS NOT YOUR ICON
+17 Jan 2017 20:22:43 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, YOU POTATO
+17 Jan 2017 20:22:48 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, oh well
+17 Jan 2017 20:22:56 : Pokemon Mystery Dungeon, bot_chat, Third_Worm#4804, what a sour melon
+17 Jan 2017 20:23:35 : LimitlessMc, botchat, MoonWolf#8885, ;pokebattle FgggggggFg
+17 Jan 2017 20:23:35 : LimitlessMc, botchat, Botfuzzy77#2209, Level 35 Boss **Snorunt** has 28005 health left.
+17 Jan 2017 20:23:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+17 Jan 2017 20:23:35 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_f: :regional_indicator_g:
+:white_check_mark: :x: :x: :x: :x: :x: :x: :white_check_mark: :white_check_mark: :x:
+17 Jan 2017 20:23:35 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **96** damage
+17 Jan 2017 20:23:35 : LimitlessMc, botchat, Botfuzzy77#2209, Level 35 Boss **Snorunt** has 27909 health left.
+17 Jan 2017 20:23:44 : Pulse, botchat, Wertfuzzy77#0274, Its v messy tho
+17 Jan 2017 20:23:45 : Pulse, botchat, Wertfuzzy77#0274, so gl
+17 Jan 2017 20:24:06 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle FddddddGFd
+17 Jan 2017 20:24:06 : LimitlessMc, botchat, Botfuzzy77#2209, Level 35 Boss **Snorunt** has 27909 health left.
+17 Jan 2017 20:24:07 : LimitlessMc, botchat, Botfuzzy77#2209, 
+17 Jan 2017 20:24:07 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_g: :regional_indicator_f: :regional_indicator_d:
+:white_check_mark: :x: :x: :x: :x: :x: :x: :white_check_mark: :white_check_mark: :x:
+17 Jan 2017 20:24:07 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+17 Jan 2017 20:24:07 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **157** damage
+17 Jan 2017 20:24:11 : LimitlessMc, botchat, Botfuzzy77#2209, Level 35 Boss **Snorunt** has 27752 health left.
+17 Jan 2017 20:24:13 : LimitlessMc, botchat, Wertfuzzy77#0274, rival bonus OP
+17 Jan 2017 20:24:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+17 Jan 2017 20:24:15 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 38
+**XP**: 38215/59319
+**Boss Takedowns**: 19
+**Most Dmg in an Attack**: 7181
+17 Jan 2017 20:24:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+17 Jan 2017 20:24:19 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 18 **Rotom** for 190 XP (90% to beat)
+You **Lost** to a Level 74 **Gastrodon** (25% to beat)
+You **Lost** to a Level 74 **Rampardos** (25% to beat)
+You **Lost** to a Level 74 **Lairon** (25% to beat)
+You **Lost** to a Level 39 **Ditto** (48% to beat)
+You **Lost** to a Level 35 **Cleffa** (54% to beat)
+You **Lost** to a Level 58 **Reuniclus** (32% to beat)
+You **Beat** a Level 7 **Nidoking** for 190 XP (90% to beat)
+You **Beat** a Level 9 **Sandshrew** for 190 XP (90% to beat)
+You **Beat** a Level 52 **Audino** for 1205 XP (36% to beat)
+You **Beat** a Level 17 **Empoleon** for 190 XP (90% to beat)
+17 Jan 2017 20:24:19 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 1965 XP!
+17 Jan 2017 20:24:28 : LimitlessMc, botchat, MoonWolf#8885, ;train
+17 Jan 2017 20:24:28 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 61 **Arceus** (26% to beat)
+You **Lost** to a Level 45 **Samurott** (35% to beat)
+You **Beat** a Level 62 **Machoke** for 1187 XP (25% to beat)
+You **Lost** to a Level 41 **Malamar** (39% to beat)
+You **Beat** a Level 45 **Marshtomp** for 1031 XP (35% to beat)
+You **Beat** a Level 34 **Murkrow** for 847 XP (47% to beat)
+You **Lost** to a Level 11 **Vanilluxe** (90% to beat)
+You **Beat** a Level 8 **Hitmonchan** for 160 XP (90% to beat)
+You **Lost** to a Level 33 **Articuno** (48% to beat)
+You use a **Lucky Egg** to gain more XP!
+17 Jan 2017 20:24:28 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 4837 XP!
+17 Jan 2017 20:24:39 : LimitlessMc, botchat, MoonWolf#8885, Arceus / articuno
+17 Jan 2017 20:24:40 : LimitlessMc, botchat, MoonWolf#8885, kek
+17 Jan 2017 20:24:45 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;debug ctx.message.server.get_member_named("Gallade").avatar_url
+17 Jan 2017 20:24:53 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, (aww)
+17 Jan 2017 20:24:54 : LimitlessMc, botchat, Wertfuzzy77#0274, I'm working on making a pokedex of all the pokemon you have beat
+17 Jan 2017 20:25:09 : LimitlessMc, botchat, MoonWolf#8885, Did you feel that bot lag?
+17 Jan 2017 20:25:15 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;debug bot.say(ctx.message.server.get_member_named("Gallade").avatar_url)
+17 Jan 2017 20:25:15 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, https://discordapp.com/api/users/139767180920094720/avatars/44cf9fe70bb4658215a5d4633fef9508.jpg
+17 Jan 2017 20:25:15 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7f6168e55b28>
+```
+17 Jan 2017 20:25:25 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, (I knew it wouldn't work, but still)
+17 Jan 2017 20:25:26 : LimitlessMc, botchat, MoonWolf#8885, *gerald flashbacks*
+17 Jan 2017 20:25:43 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+17 Jan 2017 20:25:43 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Pika Girl - S3RL
+**Requester**: MoonWolf
+**URL**: <https://www.youtube.com/watch?v=lxcze86uRzU>
+```py
+Time: 0:03:42
+Views: 3,457,930
+Likes: 32,545, 97.31%
+Dislikes: 899, 2.69%
+Skips: 0/1```
+17 Jan 2017 20:25:45 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+17 Jan 2017 20:25:45 : LimitlessMc, botchat, Botfuzzy77#2209, Queue is Empty
+17 Jan 2017 20:26:09 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=6JCLY0Rlx6Q
+17 Jan 2017 20:26:10 : LimitlessMc, botchat, Botfuzzy77#2209, Added WALK THE MOON - Shut Up and Dance to the queue
+17 Jan 2017 20:27:36 : LimitlessMc, botchat, TherminatorX#6644, ;train
+17 Jan 2017 20:27:36 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 4 **Ambipom** for 200 XP (90% to beat)
+You **Lost** to a Level 55 **Exploud** (36% to beat)
+You **Beat** a Level 8 **Shedinja** for 200 XP (90% to beat)
+You **Beat** a Level 5 **Ledyba** for 200 XP (90% to beat)
+You **Lost** to a Level 70 **Tangela** (28% to beat)
+You **Lost** to a Level 32 **Tangela** (62% to beat)
+You **Lost** to a Level 30 **Noivern** (66% to beat)
+You **Beat** a Level 21 **Bastiodon** for 200 XP (90% to beat)
+You **Beat** a Level 6 **Eelektrik** for 200 XP (90% to beat)
+You **Lost** to a Level 55 **Deoxys** (36% to beat)
+You **Beat** a Level 25 **Mothim** for 400 XP (80% to beat)
+You use a **Lucky Egg** to gain more XP!
+17 Jan 2017 20:27:36 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 2100 XP!
+17 Jan 2017 20:28:09 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=gxEPV4kolz0
+17 Jan 2017 20:28:09 : LimitlessMc, botchat, Botfuzzy77#2209, Added Billy Joel - Piano Man to the queue
+17 Jan 2017 20:28:30 : LimitlessMc, botchat, TherminatorX#6644, ;pokebattle fbbbbbbgfb
+17 Jan 2017 20:28:31 : LimitlessMc, botchat, Botfuzzy77#2209, Level 35 Boss **Snorunt** has 27752 health left.
+17 Jan 2017 20:28:31 : LimitlessMc, botchat, Botfuzzy77#2209, 
+17 Jan 2017 20:28:31 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_g: :regional_indicator_f: :regional_indicator_b:
+:white_check_mark: :x: :x: :x: :white_check_mark: :x: :x: :white_check_mark: :white_check_mark: :x:
+17 Jan 2017 20:28:31 : LimitlessMc, botchat, Botfuzzy77#2209, Its a Critical Strike
+17 Jan 2017 20:28:31 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **265** damage
+17 Jan 2017 20:28:36 : LimitlessMc, botchat, Botfuzzy77#2209, Level 35 Boss **Snorunt** has 27487 health left.
+17 Jan 2017 20:29:03 : LimitlessMc, botchat, MoonWolf#8885, ;pokebattle fiiibiigfi
+17 Jan 2017 20:29:03 : LimitlessMc, botchat, Botfuzzy77#2209, Level 35 Boss **Snorunt** has 27487 health left.
+17 Jan 2017 20:29:04 : LimitlessMc, botchat, Botfuzzy77#2209, 
+17 Jan 2017 20:29:04 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_b: :regional_indicator_i: :regional_indicator_i: :regional_indicator_g: :regional_indicator_f: :regional_indicator_i:
+:white_check_mark: :x: :x: :x: :white_check_mark: :x: :x: :white_check_mark: :white_check_mark: :x:
+17 Jan 2017 20:29:04 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **175** damage
+17 Jan 2017 20:29:04 : LimitlessMc, botchat, Botfuzzy77#2209, Level 35 Boss **Snorunt** has 27312 health left.
+17 Jan 2017 20:29:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=Mo_DMGc2v5o
+17 Jan 2017 20:29:25 : LimitlessMc, botchat, Botfuzzy77#2209, Added The Beatles - Blackbird (Rehearsal Take) to the queue
+17 Jan 2017 20:29:50 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokeboss
+17 Jan 2017 20:29:50 : None, Direct Message with TherminatorX, Botfuzzy77#2209, -= **Boss Pokemon** =-
+*Name*: Snorunt
+*Health*: 27312/28105 (97.18%)
+*Level*: 35
+Last Combo:
+:regional_indicator_f: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_b: :regional_indicator_i: :regional_indicator_i: :regional_indicator_g: :regional_indicator_f: :regional_indicator_i:
+:white_check_mark: :x: :x: :x: :white_check_mark: :x: :x: :white_check_mark: :white_check_mark: :x:
+17 Jan 2017 20:29:50 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+17 Jan 2017 20:29:51 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Most Damage by **MoonWolf** with **271** damage
+17 Jan 2017 20:29:51 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 2nd most Damage by *TherminatorX* with *265* damage
+17 Jan 2017 20:29:51 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 3rd most Damage by *Wertfuzzy77* with *257* damage
+17 Jan 2017 20:30:13 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle feeebeegfe
+17 Jan 2017 20:30:13 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 35 Boss **Snorunt** has 27312 health left.
+17 Jan 2017 20:30:13 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+17 Jan 2017 20:30:13 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_b: :regional_indicator_e: :regional_indicator_e: :regional_indicator_g: :regional_indicator_f: :regional_indicator_e:
+:white_check_mark: :x: :x: :x: :white_check_mark: :x: :x: :white_check_mark: :white_check_mark: :white_check_mark:
+17 Jan 2017 20:30:13 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **177** damage
+17 Jan 2017 20:30:13 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 35 Boss **Snorunt** has 27135 health left.
+17 Jan 2017 20:30:38 : None, Direct Message with TherminatorX, TherminatorX#6644, ;cd
+17 Jan 2017 20:30:38 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **Battle**
+You need to wait 65 seconds
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 1618 seconds
+17 Jan 2017 20:33:17 : LimitlessMc, botchat, MoonWolf#8885, Only thing about tera i dont like
+17 Jan 2017 20:33:27 : LimitlessMc, botchat, MoonWolf#8885, are ability descriptions
+17 Jan 2017 20:33:49 : LimitlessMc, botchat, MoonWolf#8885, http://prntscr.com/dwx8uj
+17 Jan 2017 20:33:54 : LimitlessMc, botchat, MoonWolf#8885, How long does this shit last.
+17 Jan 2017 20:33:56 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle fiiibiigfe
+17 Jan 2017 20:33:56 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 35 Boss **Snorunt** has 27135 health left.
+17 Jan 2017 20:33:56 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+17 Jan 2017 20:33:56 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_b: :regional_indicator_i: :regional_indicator_i: :regional_indicator_g: :regional_indicator_f: :regional_indicator_e:
+:white_check_mark: :x: :x: :x: :white_check_mark: :x: :x: :white_check_mark: :white_check_mark: :white_check_mark:
+17 Jan 2017 20:33:56 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **199** damage
+17 Jan 2017 20:33:57 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 35 Boss **Snorunt** has 26936 health left.
+17 Jan 2017 20:34:28 : LimitlessMc, botchat, DanTurboX#4833, ;train
+17 Jan 2017 20:34:29 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 52 **Grumpig** (43% to beat)
+You **Lost** to a Level 16 **Chikorita** (90% to beat)
+You **Lost** to a Level 83 **Lillipup** (27% to beat)
+You **Lost** to a Level 61 **Metang** (36% to beat)
+You **Lost** to a Level 64 **Klinklang** (35% to beat)
+You **Lost** to a Level 49 **Emolga** (45% to beat)
+You **Beat** a Level 3 **Snorlax** for 225 XP (90% to beat)
+You **Lost** to a Level 49 **Ursaring** (45% to beat)
+You **Beat** a Level 26 **Remoraid** for 302 XP (86% to beat)
+You **Lost** to a Level 72 **Poliwrath** (31% to beat)
+You **Lost** to a Level 73 **Rampardos** (30% to beat)
+You **Beat** a Level 33 **Butterfree** for 715 XP (68% to beat)
+17 Jan 2017 20:34:29 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 1242 XP!
+17 Jan 2017 20:34:52 : LimitlessMc, botchat, MoonWolf#8885, Its a toggle.. why dont just make it a passive?
+17 Jan 2017 20:34:56 : LimitlessMc, botchat, MoonWolf#8885, ;image Facepalmerino
+17 Jan 2017 20:34:57 : LimitlessMc, botchat, Botfuzzy77#2209, https://i.ytimg.com/vi/uzvcBOXZgUc/maxresdefault.jpg
+17 Jan 2017 20:35:02 : LimitlessMc, botchat, MoonWolf#8885, wt
+17 Jan 2017 20:36:08 : Pulse, botchat, Lightning#6734, messy like jays code wert?
+17 Jan 2017 20:36:10 : Pulse, botchat, Lightning#6734, lololol
+17 Jan 2017 20:38:57 : LimitlessMc, botchat, Dankdra#0051, ;train
+17 Jan 2017 20:38:58 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 85 **Wooper** (25% to beat)
+You **Lost** to a Level 52 **Silcoon** (42% to beat)
+You **Beat** a Level 21 **Misdreavus** for 220 XP (90% to beat)
+You **Beat** a Level 30 **Greninja** for 586 XP (73% to beat)
+You **Beat** a Level 19 **Magmortar** for 220 XP (90% to beat)
+You **Lost** to a Level 56 **Houndoom** (39% to beat)
+You **Lost** to a Level 39 **Ursaring** (56% to beat)
+You **Lost** to a Level 53 **Slowking** (41% to beat)
+You **Lost** to a Level 45 **Skorupi** (48% to beat)
+You **Beat** a Level 13 **Koffing** for 220 XP (90% to beat)
+You **Lost** to a Level 64 **Eevee** (34% to beat)
+You **Beat** a Level 45 **Mudkip** for 1124 XP (48% to beat)
+You Find a **Pokeloot** worth 18226 XP
+17 Jan 2017 20:38:58 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 20596 XP!
+17 Jan 2017 20:39:04 : LimitlessMc, botchat, Dankdra#0051, Much work
+17 Jan 2017 20:46:42 : LimitlessMc, botchat, TherminatorX#6644, ;train
+17 Jan 2017 20:46:42 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 654 seconds before you can train again.
+17 Jan 2017 20:47:18 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle fpppbppgfe
+17 Jan 2017 20:47:18 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 35 Boss **Snorunt** has 26936 health left.
+17 Jan 2017 20:47:18 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+17 Jan 2017 20:47:18 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_p: :regional_indicator_p: :regional_indicator_p: :regional_indicator_b: :regional_indicator_p: :regional_indicator_p: :regional_indicator_g: :regional_indicator_f: :regional_indicator_e:
+:white_check_mark: :white_check_mark: :x: :x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark:
+17 Jan 2017 20:47:18 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+17 Jan 2017 20:47:18 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **709** damage
+17 Jan 2017 20:47:23 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 35 Boss **Snorunt** has 26227 health left.
+17 Jan 2017 20:47:30 : LimitlessMc, botchat, Dankdra#0051, ;train
+17 Jan 2017 20:47:30 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 1288 seconds before you can train again.
+17 Jan 2017 20:48:36 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle fpssbpsgef
+17 Jan 2017 20:48:37 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Please wait 16 seconds before you can fight the boss again.
+17 Jan 2017 20:49:10 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle fpssbpsgef
+17 Jan 2017 20:49:10 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 35 Boss **Snorunt** has 26227 health left.
+17 Jan 2017 20:49:10 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+17 Jan 2017 20:49:11 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_p: :regional_indicator_s: :regional_indicator_s: :regional_indicator_b: :regional_indicator_p: :regional_indicator_s: :regional_indicator_g: :regional_indicator_e: :regional_indicator_f:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :x:
+17 Jan 2017 20:49:11 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+17 Jan 2017 20:49:11 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **775** damage
+17 Jan 2017 20:49:15 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 35 Boss **Snorunt** has 25452 health left.
+17 Jan 2017 20:49:24 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle fpssbpsgfe
+17 Jan 2017 20:49:24 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Please wait 81 seconds before you can fight the boss again.
+17 Jan 2017 20:49:59 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;cd
+17 Jan 2017 20:49:59 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Battle**
+You need to wait 46 seconds
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 457 seconds
+17 Jan 2017 20:50:29 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;cd
+17 Jan 2017 20:50:29 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Battle**
+You need to wait 16 seconds
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 427 seconds
+17 Jan 2017 20:50:59 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;pokebattle fpssbpsgfe
+17 Jan 2017 20:50:59 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 35 Boss **Snorunt** has 25452 health left.
+17 Jan 2017 20:50:59 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+17 Jan 2017 20:50:59 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_p: :regional_indicator_s: :regional_indicator_s: :regional_indicator_b: :regional_indicator_p: :regional_indicator_s: :regional_indicator_g: :regional_indicator_f: :regional_indicator_e:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+17 Jan 2017 20:51:00 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its a Perfect Combo. The Boss has switched 1/2 of the Super Effective Moves!
+17 Jan 2017 20:51:00 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **15841** damage
+17 Jan 2017 20:51:04 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 35 Boss **Snorunt** has 9611 health left.
+17 Jan 2017 20:51:37 : LimitlessMc, botchat, TherminatorX#6644, ;cd
+17 Jan 2017 20:51:38 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 57 seconds
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 359 seconds
+17 Jan 2017 20:52:41 : LimitlessMc, botchat, TherminatorX#6644, ;cd
+17 Jan 2017 20:52:41 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 295 seconds
+17 Jan 2017 20:52:48 : LimitlessMc, botchat, TherminatorX#6644, ;pokebattle fpssbpsgfe
+17 Jan 2017 20:52:48 : LimitlessMc, botchat, Botfuzzy77#2209, Level 35 Boss **Snorunt** has 9611 health left.
+17 Jan 2017 20:52:48 : LimitlessMc, botchat, Botfuzzy77#2209, 
+17 Jan 2017 20:52:48 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_p: :regional_indicator_s: :regional_indicator_s: :regional_indicator_b: :regional_indicator_p: :regional_indicator_s: :regional_indicator_g: :regional_indicator_f: :regional_indicator_e:
+:white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark:
+17 Jan 2017 20:52:48 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+17 Jan 2017 20:52:49 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **810** damage
+17 Jan 2017 20:52:53 : LimitlessMc, botchat, Botfuzzy77#2209, Level 35 Boss **Snorunt** has 8801 health left.
+17 Jan 2017 20:53:13 : LimitlessMc, botchat, Dankdra#0051, ;pokebattle FISSBPSGIE
+17 Jan 2017 20:53:14 : LimitlessMc, botchat, Botfuzzy77#2209, Level 35 Boss **Snorunt** has 8801 health left.
+17 Jan 2017 20:53:14 : LimitlessMc, botchat, Botfuzzy77#2209, 
+17 Jan 2017 20:53:14 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_i: :regional_indicator_s: :regional_indicator_s: :regional_indicator_b: :regional_indicator_p: :regional_indicator_s: :regional_indicator_g: :regional_indicator_i: :regional_indicator_e:
+:white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+17 Jan 2017 20:53:14 : LimitlessMc, botchat, Botfuzzy77#2209, Its a Critical Strike
+17 Jan 2017 20:53:14 : LimitlessMc, botchat, Botfuzzy77#2209, Its Super Effective! The Boss has switched 1/4 of the Super Effective Moves!
+17 Jan 2017 20:53:19 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **13722** damage
+17 Jan 2017 20:53:19 : LimitlessMc, botchat, Botfuzzy77#2209, Level 35 Boss **Snorunt** has been defeated!
+17 Jan 2017 20:53:19 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **TherminatorX** with **18776** damage
+17 Jan 2017 20:53:19 : LimitlessMc, botchat, Botfuzzy77#2209, 2nd most Damage by *Dankdra* with *13722* damage
+17 Jan 2017 20:53:19 : LimitlessMc, botchat, Botfuzzy77#2209, 3rd most Damage by *MoonWolf* with *271* damage
+17 Jan 2017 20:53:24 : LimitlessMc, botchat, Botfuzzy77#2209, Assisted by Wertfuzzy77
+17 Jan 2017 20:53:27 : LimitlessMc, botchat, Dankdra#0051, ;summon 43
+17 Jan 2017 20:53:28 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 43 boss has been summoned
+17 Jan 2017 20:53:37 : LimitlessMc, botchat, TherminatorX#6644, ;level
+17 Jan 2017 20:53:37 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *TherminatorX*
+**Level**: 41
+**XP**: 7869/74088
+**Boss Takedowns**: 43
+**Most Dmg in an Attack**: 20767
+17 Jan 2017 20:53:41 : LimitlessMc, botchat, Dankdra#0051, ;pokebattle NNNNNNNNNNNN
+17 Jan 2017 20:53:41 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 43 Boss **Skiddo** has appeared!
+It has 40721 Health.
+17 Jan 2017 20:53:41 : LimitlessMc, botchat, Botfuzzy77#2209, 
+17 Jan 2017 20:53:41 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :x: :x: :white_check_mark: :x: :x: :x: :x: :x: :white_check_mark:
+17 Jan 2017 20:53:41 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **88** damage
+17 Jan 2017 20:53:42 : LimitlessMc, botchat, Botfuzzy77#2209, Level 43 Boss **Skiddo** has 40633 health left.
+17 Jan 2017 20:53:57 : LimitlessMc, botchat, TherminatorX#6644, ;pokebattle pppppnpppppn
+17 Jan 2017 20:53:57 : LimitlessMc, botchat, Botfuzzy77#2209, Level 43 Boss **Skiddo** has 40633 health left.
+17 Jan 2017 20:53:58 : LimitlessMc, botchat, Botfuzzy77#2209, 
+17 Jan 2017 20:53:58 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_p: :regional_indicator_p: :regional_indicator_p: :regional_indicator_p: :regional_indicator_p: :regional_indicator_n: :regional_indicator_p: :regional_indicator_p: :regional_indicator_p: :regional_indicator_p: :regional_indicator_p: :regional_indicator_n:
+:x: :x: :x: :x: :x: :white_check_mark: :x: :x: :x: :white_check_mark: :white_check_mark: :white_check_mark:
+17 Jan 2017 20:53:58 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **154** damage
+17 Jan 2017 20:53:58 : LimitlessMc, botchat, Botfuzzy77#2209, Level 43 Boss **Skiddo** has 40479 health left.
+17 Jan 2017 20:56:01 : LimitlessMc, botchat, TherminatorX#6644, ;pokebattle sssssnsssppn
+17 Jan 2017 20:56:01 : LimitlessMc, botchat, Botfuzzy77#2209, Level 43 Boss **Skiddo** has 40479 health left.
+17 Jan 2017 20:56:02 : LimitlessMc, botchat, Botfuzzy77#2209, 
+17 Jan 2017 20:56:02 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_s: :regional_indicator_s: :regional_indicator_s: :regional_indicator_s: :regional_indicator_s: :regional_indicator_n: :regional_indicator_s: :regional_indicator_s: :regional_indicator_s: :regional_indicator_p: :regional_indicator_p: :regional_indicator_n:
+:x: :white_check_mark: :x: :x: :x: :white_check_mark: :x: :x: :x: :white_check_mark: :white_check_mark: :white_check_mark:
+17 Jan 2017 20:56:02 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **192** damage
+17 Jan 2017 20:56:02 : LimitlessMc, botchat, Botfuzzy77#2209, Level 43 Boss **Skiddo** has 40287 health left.
+17 Jan 2017 20:57:51 : LimitlessMc, botchat, TherminatorX#6644, ;pokebattle wswwwnwwwppn
+17 Jan 2017 20:57:51 : LimitlessMc, botchat, Botfuzzy77#2209, Level 43 Boss **Skiddo** has 40287 health left.
+17 Jan 2017 20:57:51 : LimitlessMc, botchat, Botfuzzy77#2209, 
+17 Jan 2017 20:57:51 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_s: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_n: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_p: :regional_indicator_p: :regional_indicator_n:
+:x: :white_check_mark: :x: :x: :x: :white_check_mark: :x: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark:
+17 Jan 2017 20:57:51 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **217** damage
+17 Jan 2017 20:57:51 : LimitlessMc, botchat, Botfuzzy77#2209, Level 43 Boss **Skiddo** has 40070 health left.
+17 Jan 2017 21:01:34 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;train
+17 Jan 2017 21:01:34 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 1 **Blastoise** for 140 XP (90% to beat)
+You **Lost** to a Level 19 **Hippowdon** (73% to beat)
+You **Beat** a Level 34 **Bergmite** for 823 XP (41% to beat)
+You **Beat** a Level 18 **Sableye** for 311 XP (77% to beat)
+You **Lost** to a Level 43 **Rotom** (32% to beat)
+You **Beat** a Level 12 **Ditto** for 140 XP (90% to beat)
+You **Beat** a Level 30 **Shiftry** for 746 XP (46% to beat)
+You **Beat** a Level 12 **Aerodactyl** for 140 XP (90% to beat)
+17 Jan 2017 21:01:34 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 2300 XP!
+17 Jan 2017 21:05:21 : LimitlessMc, botchat, TherminatorX#6644, ;pokebattle bsbbbnbwbppn
+17 Jan 2017 21:05:22 : LimitlessMc, botchat, Botfuzzy77#2209, Level 43 Boss **Skiddo** has 40070 health left.
+17 Jan 2017 21:05:22 : LimitlessMc, botchat, Botfuzzy77#2209, 
+17 Jan 2017 21:05:22 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_b: :regional_indicator_s: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_n: :regional_indicator_b: :regional_indicator_w: :regional_indicator_b: :regional_indicator_p: :regional_indicator_p: :regional_indicator_n:
+:x: :white_check_mark: :x: :x: :x: :white_check_mark: :x: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark:
+17 Jan 2017 21:05:22 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **244** damage
+17 Jan 2017 21:05:22 : LimitlessMc, botchat, Botfuzzy77#2209, Level 43 Boss **Skiddo** has 39826 health left.
+17 Jan 2017 21:05:45 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, hax
+17 Jan 2017 21:06:55 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;pokebattle gsgggngwgppn
+17 Jan 2017 21:06:55 : LimitlessMc, botchat, Botfuzzy77#2209, Level 43 Boss **Skiddo** has 39826 health left.
+17 Jan 2017 21:06:55 : LimitlessMc, botchat, Botfuzzy77#2209, 
+17 Jan 2017 21:06:55 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_g: :regional_indicator_s: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_n: :regional_indicator_g: :regional_indicator_w: :regional_indicator_g: :regional_indicator_p: :regional_indicator_p: :regional_indicator_n:
+:x: :white_check_mark: :x: :x: :x: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+17 Jan 2017 21:06:55 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+17 Jan 2017 21:06:55 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **367** damage
+17 Jan 2017 21:07:00 : LimitlessMc, botchat, Botfuzzy77#2209, Level 43 Boss **Skiddo** has 39459 health left.
+17 Jan 2017 21:07:16 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokeboss
+17 Jan 2017 21:07:16 : None, Direct Message with TherminatorX, Botfuzzy77#2209, -= **Boss Pokemon** =-
+*Name*: Skiddo
+*Health*: 39459/40721 (96.9%)
+*Level*: 43
+Last Combo:
+:regional_indicator_g: :regional_indicator_s: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_n: :regional_indicator_g: :regional_indicator_w: :regional_indicator_g: :regional_indicator_p: :regional_indicator_p: :regional_indicator_n:
+:x: :white_check_mark: :x: :x: :x: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+17 Jan 2017 21:07:16 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+17 Jan 2017 21:07:16 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Most Damage by **TherminatorX** with **807** damage
+17 Jan 2017 21:07:16 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 2nd most Damage by *MrMudkipKipperten* with *367* damage
+17 Jan 2017 21:07:17 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 3rd most Damage by *Dankdra* with *88* damage
+17 Jan 2017 21:08:47 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle isiiiniwgppn
+17 Jan 2017 21:08:47 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 43 Boss **Skiddo** has 39459 health left.
+17 Jan 2017 21:08:47 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+17 Jan 2017 21:08:47 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_s: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_n: :regional_indicator_i: :regional_indicator_w: :regional_indicator_g: :regional_indicator_p: :regional_indicator_p: :regional_indicator_n:
+:x: :white_check_mark: :x: :x: :x: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+17 Jan 2017 21:08:47 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+17 Jan 2017 21:08:47 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **474** damage
+17 Jan 2017 21:08:52 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 43 Boss **Skiddo** has 38985 health left.
+17 Jan 2017 21:09:57 : LimitlessMc, botchat, MoonWolf#8885, ;train
+17 Jan 2017 21:09:57 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 32 **Bisharp** for 799 XP (51% to beat)
+You **Lost** to a Level 65 **Skarmory** (25% to beat)
+You **Beat** a Level 4 **Klink** for 165 XP (90% to beat)
+You **Lost** to a Level 45 **Slugma** (36% to beat)
+You **Beat** a Level 23 **Jigglypuff** for 466 XP (71% to beat)
+You **Beat** a Level 49 **Hypno** for 1094 XP (33% to beat)
+You **Beat** a Level 3 **Panpour** for 165 XP (90% to beat)
+You **Lost** to a Level 63 **Sylveon** (26% to beat)
+You **Lost** to a Level 19 **Swinub** (86% to beat)
+You use a **Lucky Egg** to gain more XP!
+17 Jan 2017 21:09:57 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 4033 XP!
+17 Jan 2017 21:10:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+17 Jan 2017 21:10:02 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 46 **Exeggutor** (41% to beat)
+You **Beat** a Level 20 **Cleffa** for 190 XP (90% to beat)
+You **Lost** to a Level 36 **Illumise** (52% to beat)
+You **Lost** to a Level 47 **Breloom** (40% to beat)
+You **Lost** to a Level 45 **Cherrim** (42% to beat)
+You **Lost** to a Level 75 **Weavile** (25% to beat)
+You **Beat** a Level 59 **Amaura** for 1288 XP (32% to beat)
+You **Beat** a Level 11 **Budew** for 190 XP (90% to beat)
+You **Beat** a Level 42 **Slurpuff** for 1040 XP (45% to beat)
+You **Beat** a Level 68 **Cranidos** for 1369 XP (27% to beat)
+You **Beat** a Level 3 **Dragalge** for 190 XP (90% to beat)
+You use a **Lucky Egg** to gain more XP!
+17 Jan 2017 21:10:03 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 6400 XP!
+17 Jan 2017 21:10:14 : LimitlessMc, botchat, TherminatorX#6644, ;train
+17 Jan 2017 21:10:14 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 74 **Sableye** for 1482 XP (27% to beat)
+You **Beat** a Level 24 **Persian** for 298 XP (85% to beat)
+You **Beat** a Level 46 **Typhlosion** for 1136 XP (44% to beat)
+You **Beat** a Level 77 **Oddish** for 1504 XP (26% to beat)
+You **Lost** to a Level 49 **Karrablast** (41% to beat)
+You **Beat** a Level 67 **Skiddo** for 1422 XP (30% to beat)
+You **Lost** to a Level 19 **Xerneas** (90% to beat)
+You **Beat** a Level 34 **Clamperl** for 813 XP (60% to beat)
+You **Lost** to a Level 79 **Timburr** (25% to beat)
+You **Lost** to a Level 19 **Furret** (90% to beat)
+You **Lost** to a Level 60 **Wooper** (34% to beat)
+You use a **Lucky Egg** to gain more XP!
+17 Jan 2017 21:10:14 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 9982 XP!
+17 Jan 2017 21:10:21 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle isiiiniwgppn
+17 Jan 2017 21:10:21 : LimitlessMc, botchat, Botfuzzy77#2209, Level 43 Boss **Skiddo** has 38985 health left.
+17 Jan 2017 21:10:22 : LimitlessMc, botchat, Botfuzzy77#2209, 
+17 Jan 2017 21:10:22 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_s: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_n: :regional_indicator_i: :regional_indicator_w: :regional_indicator_g: :regional_indicator_p: :regional_indicator_p: :regional_indicator_n:
+:x: :white_check_mark: :x: :x: :x: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+17 Jan 2017 21:10:22 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+17 Jan 2017 21:10:22 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **644** damage
+17 Jan 2017 21:10:27 : LimitlessMc, botchat, Botfuzzy77#2209, Level 43 Boss **Skiddo** has 38341 health left.
+17 Jan 2017 21:10:48 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle dsdddndwgppn
+17 Jan 2017 21:10:48 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 43 Boss **Skiddo** has 38341 health left.
+17 Jan 2017 21:10:48 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+17 Jan 2017 21:10:49 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_d: :regional_indicator_s: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_n: :regional_indicator_d: :regional_indicator_w: :regional_indicator_g: :regional_indicator_p: :regional_indicator_p: :regional_indicator_n:
+:x: :white_check_mark: :white_check_mark: :x: :x: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+17 Jan 2017 21:10:49 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+17 Jan 2017 21:10:49 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **866** damage
+17 Jan 2017 21:10:53 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 43 Boss **Skiddo** has 37475 health left.
+17 Jan 2017 21:11:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=Mo_DMGc2v5o
+17 Jan 2017 21:11:06 : LimitlessMc, botchat, Botfuzzy77#2209, Added The Beatles - Blackbird (Rehearsal Take) to the queue
+17 Jan 2017 21:11:07 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio
+17 Jan 2017 21:11:07 : LimitlessMc, botchat, Botfuzzy77#2209, Radio Mode: True
+17 Jan 2017 21:12:03 : None, Direct Message with TherminatorX, TherminatorX#6644, ;cd
+17 Jan 2017 21:12:03 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **Battle**
+You need to wait 20 seconds
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 1691 seconds
+17 Jan 2017 21:13:21 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle esdeenewgppn
+17 Jan 2017 21:13:22 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 43 Boss **Skiddo** has 37475 health left.
+17 Jan 2017 21:13:22 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+17 Jan 2017 21:13:22 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_e: :regional_indicator_s: :regional_indicator_d: :regional_indicator_e: :regional_indicator_e: :regional_indicator_n: :regional_indicator_e: :regional_indicator_w: :regional_indicator_g: :regional_indicator_p: :regional_indicator_p: :regional_indicator_n:
+:x: :white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+17 Jan 2017 21:13:22 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+17 Jan 2017 21:13:22 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **903** damage
+17 Jan 2017 21:13:26 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 43 Boss **Skiddo** has 36572 health left.
+17 Jan 2017 21:14:14 : None, Direct Message with TherminatorX, TherminatorX#6644, ;cd
+17 Jan 2017 21:14:14 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **Battle**
+You need to wait 43 seconds
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 1560 seconds
+17 Jan 2017 21:15:56 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle fsdefnewgpnp
+17 Jan 2017 21:15:57 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 43 Boss **Skiddo** has 36572 health left.
+17 Jan 2017 21:15:57 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+17 Jan 2017 21:15:57 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_s: :regional_indicator_d: :regional_indicator_e: :regional_indicator_f: :regional_indicator_n: :regional_indicator_e: :regional_indicator_w: :regional_indicator_g: :regional_indicator_p: :regional_indicator_n: :regional_indicator_p:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :x:
+17 Jan 2017 21:15:57 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+17 Jan 2017 21:15:57 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **767** damage
+17 Jan 2017 21:16:02 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 43 Boss **Skiddo** has 35805 health left.
+17 Jan 2017 21:16:08 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle fsdefnewgppn
+17 Jan 2017 21:16:09 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Please wait 83 seconds before you can fight the boss again.
+17 Jan 2017 21:16:56 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;cd
+17 Jan 2017 21:16:56 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Battle**
+You need to wait 36 seconds
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 1398 seconds
+17 Jan 2017 21:17:11 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;cd
+17 Jan 2017 21:17:11 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Battle**
+You need to wait 20 seconds
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 1383 seconds
+17 Jan 2017 21:17:38 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;cd
+17 Jan 2017 21:17:38 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 1356 seconds
+17 Jan 2017 21:17:45 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;pokebattle fsdefnewgppn
+17 Jan 2017 21:17:45 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 43 Boss **Skiddo** has 35805 health left.
+17 Jan 2017 21:17:45 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+17 Jan 2017 21:17:45 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_s: :regional_indicator_d: :regional_indicator_e: :regional_indicator_f: :regional_indicator_n: :regional_indicator_e: :regional_indicator_w: :regional_indicator_g: :regional_indicator_p: :regional_indicator_p: :regional_indicator_n:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+17 Jan 2017 21:17:45 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its a Perfect Combo. The Boss has switched 1/2 of the Super Effective Moves!
+17 Jan 2017 21:17:45 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **19484** damage
+17 Jan 2017 21:17:50 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 43 Boss **Skiddo** has 16321 health left.
+17 Jan 2017 21:18:56 : LimitlessMc, botchat, TherminatorX#6644, ;cd
+17 Jan 2017 21:18:56 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 24 seconds
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 1278 seconds
+17 Jan 2017 21:19:24 : LimitlessMc, botchat, TherminatorX#6644, ;cd
+17 Jan 2017 21:19:24 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 1250 seconds
+17 Jan 2017 21:19:29 : LimitlessMc, botchat, TherminatorX#6644, ;pokebattle fsdefnewgppn
+17 Jan 2017 21:19:29 : LimitlessMc, botchat, Botfuzzy77#2209, Level 43 Boss **Skiddo** has 16321 health left.
+17 Jan 2017 21:19:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+17 Jan 2017 21:19:29 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_s: :regional_indicator_d: :regional_indicator_e: :regional_indicator_f: :regional_indicator_n: :regional_indicator_e: :regional_indicator_w: :regional_indicator_g: :regional_indicator_p: :regional_indicator_p: :regional_indicator_n:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :x: :white_check_mark: :x: :x: :white_check_mark: :white_check_mark:
+17 Jan 2017 21:19:29 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+17 Jan 2017 21:19:29 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **686** damage
+17 Jan 2017 21:19:29 : LimitlessMc, botchat, Botfuzzy77#2209, Level 43 Boss **Skiddo** has 15635 health left.
+17 Jan 2017 21:21:53 : LimitlessMc, botchat, TherminatorX#6644, ;pokebattle fsdefbbwbbpn
+17 Jan 2017 21:21:53 : LimitlessMc, botchat, Botfuzzy77#2209, Level 43 Boss **Skiddo** has 15635 health left.
+17 Jan 2017 21:21:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+17 Jan 2017 21:21:53 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_s: :regional_indicator_d: :regional_indicator_e: :regional_indicator_f: :regional_indicator_b: :regional_indicator_b: :regional_indicator_w: :regional_indicator_b: :regional_indicator_b: :regional_indicator_p: :regional_indicator_n:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :x: :x: :white_check_mark: :white_check_mark:
+17 Jan 2017 21:21:53 : LimitlessMc, botchat, Botfuzzy77#2209, Its a Critical Strike
+17 Jan 2017 21:21:53 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+17 Jan 2017 21:21:58 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **1381** damage
+17 Jan 2017 21:21:58 : LimitlessMc, botchat, Botfuzzy77#2209, Level 43 Boss **Skiddo** has 14254 health left.
+17 Jan 2017 21:24:21 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokeboss
+17 Jan 2017 21:24:22 : None, Direct Message with TherminatorX, Botfuzzy77#2209, -= **Boss Pokemon** =-
+*Name*: Skiddo
+*Health*: 14254/40721 (35.0%)
+*Level*: 43
+Last Combo:
+:regional_indicator_f: :regional_indicator_s: :regional_indicator_d: :regional_indicator_e: :regional_indicator_f: :regional_indicator_b: :regional_indicator_b: :regional_indicator_w: :regional_indicator_b: :regional_indicator_b: :regional_indicator_p: :regional_indicator_n:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :x: :x: :white_check_mark: :white_check_mark:
+17 Jan 2017 21:24:22 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+17 Jan 2017 21:24:22 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Most Damage by **TherminatorX** with **25368** damage
+17 Jan 2017 21:24:22 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 2nd most Damage by *Wertfuzzy77* with *644* damage
+17 Jan 2017 21:24:22 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 3rd most Damage by *MrMudkipKipperten* with *367* damage
+17 Jan 2017 21:24:27 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Assisted by Dankdra
+17 Jan 2017 21:24:47 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle fsdefbdwddpn
+17 Jan 2017 21:24:47 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 43 Boss **Skiddo** has 14254 health left.
+17 Jan 2017 21:24:48 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+17 Jan 2017 21:24:48 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_s: :regional_indicator_d: :regional_indicator_e: :regional_indicator_f: :regional_indicator_b: :regional_indicator_d: :regional_indicator_w: :regional_indicator_d: :regional_indicator_d: :regional_indicator_p: :regional_indicator_n:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark:
+17 Jan 2017 21:24:48 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+17 Jan 2017 21:24:48 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **948** damage
+17 Jan 2017 21:24:52 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 43 Boss **Skiddo** has 13306 health left.
+17 Jan 2017 21:25:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;relog

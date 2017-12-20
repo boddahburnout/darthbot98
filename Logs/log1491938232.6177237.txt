@@ -1,0 +1,35 @@
+11 Apr 2017 19:17:14 : LimitlessMc, botchat, Wertfuzzy77#0274, 😄
+11 Apr 2017 19:17:36 : LimitlessMc, botchat, Wertfuzzy77#0274, and it starts back up
+11 Apr 2017 19:17:36 : LimitlessMc, botchat, Wertfuzzy77#0274, ❤
+11 Apr 2017 19:17:36 : LimitlessMc, botchat, TherminatorX#6644, ;train
+11 Apr 2017 19:17:36 : LimitlessMc, botchat, TherminatorX#6644, Oh right
+11 Apr 2017 19:17:37 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 19:17:37 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 19:17:45 : LimitlessMc, botchat, TherminatorX#6644, Relogging
+11 Apr 2017 19:17:48 : LimitlessMc, botchat, theOnlyJuan#9357, Do we have to do the debug thing or it does it itself?
+11 Apr 2017 19:17:59 : LimitlessMc, botchat, theOnlyJuan#9357, ;level
+11 Apr 2017 19:18:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 19:18:01 : LimitlessMc, botchat, Wertfuzzy77#0274, nope, the bot will auto-restart when it crashes
+11 Apr 2017 19:18:11 : LimitlessMc, botchat, Wertfuzzy77#0274, will be up 24/7 now
+11 Apr 2017 19:18:17 : LimitlessMc, botchat, theOnlyJuan#9357, ;gamble 5000
+11 Apr 2017 19:18:17 : LimitlessMc, botchat, Botfuzzy77#2209, You have lost your offering...
+11 Apr 2017 19:18:17 : LimitlessMc, botchat, Botfuzzy77#2209, You are exhausted from Gambling...
+11 Apr 2017 19:18:20 : LimitlessMc, botchat, theOnlyJuan#9357, Rip
+11 Apr 2017 19:18:26 : LimitlessMc, botchat, theOnlyJuan#9357, ;gamble 6000
+11 Apr 2017 19:18:26 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 111 seconds before you can gamble again.
+11 Apr 2017 19:18:27 : LimitlessMc, botchat, Wertfuzzy77#0274, and when I do have to manually restart and patch it, it will be quicker
+11 Apr 2017 19:18:35 : LimitlessMc, botchat, Wertfuzzy77#0274, cause I wrote a small script to automate that
+11 Apr 2017 19:18:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ;relog
+11 Apr 2017 19:18:39 : LimitlessMc, botchat, Wertfuzzy77#0274, ;-;
+11 Apr 2017 19:19:17 : LimitlessMc, botchat, theOnlyJuan#9357, U want to automate it to do my hw? Lel
+11 Apr 2017 19:19:37 : LimitlessMc, botchat, theOnlyJuan#9357, ;fml
+11 Apr 2017 19:19:39 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, the girl who I was in love with for almost seven years listed me on facebook as her "Brother." FML*
+11 Apr 2017 19:19:47 : LimitlessMc, botchat, theOnlyJuan#9357, Lmao
+11 Apr 2017 19:19:53 : LimitlessMc, botchat, theOnlyJuan#9357, ;rps R
+11 Apr 2017 19:19:53 : LimitlessMc, botchat, Botfuzzy77#2209, You throw :right_facing_fist:
+I throw :v:
+11 Apr 2017 19:19:53 : LimitlessMc, botchat, Botfuzzy77#2209, **You Win!**
+11 Apr 2017 19:20:00 : LimitlessMc, botchat, theOnlyJuan#9357, ;luck
+11 Apr 2017 19:20:00 : LimitlessMc, botchat, Botfuzzy77#2209, theOnlyJuan's luck is 11.89 out of 100, which is **Completly Horrible**
+11 Apr 2017 19:20:05 : LimitlessMc, botchat, theOnlyJuan#9357, Rip
+11 Apr 2017 19:20:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug bot.logout()

@@ -1,0 +1,884 @@
+02 Apr 2017 00:55:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lookup Wertfuzzy77
+02 Apr 2017 00:55:30 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 00:55:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lookup Jay113355
+02 Apr 2017 00:55:38 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 00:55:42 : LimitlessMc, botchat, Wertfuzzy77#0274, 😄
+02 Apr 2017 00:55:44 : LimitlessMc, botchat, Wertfuzzy77#0274, it works
+02 Apr 2017 00:55:54 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lookup StubbyMuffins
+02 Apr 2017 00:55:55 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 00:56:07 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lookup Bakafish
+02 Apr 2017 00:56:08 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 00:56:19 : LimitlessMc, botchat, Wertfuzzy77#0274, @Bakafish come change your ;level stuff
+02 Apr 2017 01:47:11 : LimitlessMc, mainchat, DrunkBit#3869, im gonna be an evil dude and leave this thing here
+02 Apr 2017 01:48:05 : LimitlessMc, mainchat, DrunkBit#3869, @ruleroftri season 3 ep 1 streaming on adult swim
+02 Apr 2017 01:48:56 : LimitlessMc, mainchat, ruleroftri#6648, Oh shot is R+M season 3 out?
+02 Apr 2017 01:49:02 : LimitlessMc, mainchat, ruleroftri#6648, Shit*
+02 Apr 2017 01:49:15 : LimitlessMc, mainchat, Third_Worm#4804, *Screechs*
+02 Apr 2017 01:49:16 : LimitlessMc, mainchat, DrunkBit#3869, yeh
+02 Apr 2017 01:49:38 : LimitlessMc, mainchat, ruleroftri#6648, Sounds like a great April fools joke
+02 Apr 2017 01:49:47 : LimitlessMc, mainchat, DrunkBit#3869, that's the april fools joke
+02 Apr 2017 01:49:48 : LimitlessMc, mainchat, DrunkBit#3869, it isnt
+02 Apr 2017 01:49:55 : LimitlessMc, mainchat, Third_Worm#4804, *SCREECHS*
+02 Apr 2017 01:50:09 : LimitlessMc, mainchat, DrunkBit#3869, streaming till midnight us time i believe
+02 Apr 2017 01:50:42 : LimitlessMc, mainchat, DrunkBit#3869, dont have access to the AS stream so i watched on twitch xd
+02 Apr 2017 01:54:19 : OblivionEvolved, offtopic, TheChad🐵#1660, @StubbyMuffins
+02 Apr 2017 01:56:00 : LimitlessMc, mainchat, DrunkBit#3869, https://www.youtube.com/watch?v=mGRDCRuPklc&feature=share
+02 Apr 2017 01:56:05 : LimitlessMc, mainchat, DrunkBit#3869, (y)
+02 Apr 2017 02:03:12 : LimitlessMc, botchat, TherminatorX#6644, ;level
+02 Apr 2017 02:03:13 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:03:25 : LimitlessMc, botchat, TherminatorX#6644, Err
+02 Apr 2017 02:04:11 : LimitlessMc, botchat, TherminatorX#6644, @Wertfuzzy77 where's that second prestige shown?
+02 Apr 2017 02:04:23 : LimitlessMc, botchat, Wertfuzzy77#0274, working on it
+02 Apr 2017 02:04:34 : LimitlessMc, botchat, TherminatorX#6644, 👍
+02 Apr 2017 02:04:35 : LimitlessMc, botchat, Wertfuzzy77#0274, its gonna be that symbol in the top right
+02 Apr 2017 02:04:51 : LimitlessMc, botchat, Wertfuzzy77#0274, but you can change the background, text color, and box color if you want
+02 Apr 2017 02:04:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 02:04:56 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:05:03 : LimitlessMc, botchat, DrunkBit#3869, ;level
+02 Apr 2017 02:05:05 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:06:11 : LimitlessMc, botchat, TherminatorX#6644, So, what are the rules on the backgounds?
+02 Apr 2017 02:06:20 : LimitlessMc, botchat, TherminatorX#6644, Size limit or anything?
+02 Apr 2017 02:06:34 : LimitlessMc, botchat, Wertfuzzy77#0274, nah, rn it just scales the image to the size it needs
+02 Apr 2017 02:06:40 : LimitlessMc, botchat, TherminatorX#6644, Hmm
+02 Apr 2017 02:06:49 : LimitlessMc, botchat, Wertfuzzy77#0274, its 600x300
+02 Apr 2017 02:06:54 : LimitlessMc, botchat, Wertfuzzy77#0274, is the background size it scales too
+02 Apr 2017 02:06:56 : LimitlessMc, botchat, Wertfuzzy77#0274, to*
+02 Apr 2017 02:09:01 : LimitlessMc, botchat, Wertfuzzy77#0274, and use ;changeBox R B G to change box color
+02 Apr 2017 02:09:08 : LimitlessMc, botchat, Wertfuzzy77#0274, and ;changeText R B G for text color
+02 Apr 2017 02:09:15 : None, Direct Message with TherminatorX, TherminatorX#6644, 
+02 Apr 2017 02:09:50 : LimitlessMc, botchat, TherminatorX#6644, Let's see here...
+02 Apr 2017 02:10:07 : LimitlessMc, botchat, TherminatorX#6644, ;changeBackground
+02 Apr 2017 02:10:16 : LimitlessMc, botchat, Wertfuzzy77#0274, and a link to the background
+02 Apr 2017 02:10:38 : LimitlessMc, botchat, TherminatorX#6644, Ik, was just seeing if there was feedback
+02 Apr 2017 02:10:53 : LimitlessMc, botchat, TherminatorX#6644, ;changeBackground https://cdn.discordapp.com/attachments/265999447631200266/297915352334204929/tumblr_static_tumblr_static_dyg5e60aktsswgc0g44088kg4_640-1.jpg
+02 Apr 2017 02:10:58 : LimitlessMc, botchat, Crystal4209#4698, ;level
+02 Apr 2017 02:10:58 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:11:04 : LimitlessMc, botchat, Crystal4209#4698, eww
+02 Apr 2017 02:11:05 : LimitlessMc, botchat, Wertfuzzy77#0274, no feedback xD its still in beta
+02 Apr 2017 02:11:14 : LimitlessMc, botchat, TherminatorX#6644, ;level
+02 Apr 2017 02:11:15 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:11:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 02:11:16 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:11:19 : LimitlessMc, botchat, Crystal4209#4698, where is my transparent
+02 Apr 2017 02:11:25 : LimitlessMc, botchat, Wertfuzzy77#0274, no idea
+02 Apr 2017 02:11:27 : LimitlessMc, botchat, Wertfuzzy77#0274, try it again
+02 Apr 2017 02:11:30 : LimitlessMc, botchat, Crystal4209#4698, ;level
+02 Apr 2017 02:11:31 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:11:33 : LimitlessMc, botchat, Wertfuzzy77#0274, weird
+02 Apr 2017 02:11:33 : LimitlessMc, botchat, TherminatorX#6644, Wew, shiny Furret
+02 Apr 2017 02:11:44 : LimitlessMc, botchat, Crystal4209#4698, i will get a different photo
+02 Apr 2017 02:11:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ;changeBackground https://s-media-cache-ak0.pinimg.com/originals/7c/43/6d/7c436db6400b75577f7c9ab7a6968eee.jpg
+02 Apr 2017 02:11:49 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 02:11:50 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:12:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+02 Apr 2017 02:12:03 : LimitlessMc, botchat, Botfuzzy77#2209, :first_place: **TherminatorX** Level **44** Prestige **2**
+:second_place: **Wertfuzzy77** Level **31** Prestige **1**
+:third_place: **Crystal4209** Level **29** Prestige **1**
+:medal: theOnlyJuan Level 25 Prestige 1
+:medal: MrMudkipKipperten Level 22 Prestige 1
+:medal: MoonWolf Level 14 Prestige 1
+:medal: DanTurboX Level 14 Prestige 1
+:medal: jjtwilefc Level 53 Prestige 0
+:medal: Bakafish Level 40 Prestige 0
+:medal: Mr. AlphaMeeseeks Level 34 Prestige 0
+:medal: 🌟💖Resolate💖🌟 Level 34 Prestige 0
+:medal: Third_Worm Level 33 Prestige 0
+:medal: PostalOffice Level 26 Prestige 0
+:medal: StubbyMuffins Level 24 Prestige 0
+:medal: Dzepps Level 23 Prestige 0
+:medal: Saba Level 17 Prestige 0
+:medal: Niionkai Level 16 Prestige 0
+:medal: Lightning Level 12 Prestige 0
+:medal: StarwinnerCraft Level 11 Prestige 0
+:medal: Dasher Level 10 Prestige 0
+02 Apr 2017 02:12:13 : LimitlessMc, botchat, Wertfuzzy77#0274, Next image I'm gonna make is ;ranking
+02 Apr 2017 02:12:15 : LimitlessMc, botchat, TherminatorX#6644, ;danking
+02 Apr 2017 02:12:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lv
+02 Apr 2017 02:12:35 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lookup TherminatorX
+02 Apr 2017 02:12:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:12:55 : LimitlessMc, botchat, Wertfuzzy77#0274, try changing the box color to make it more visible
+02 Apr 2017 02:13:04 : LimitlessMc, botchat, Wertfuzzy77#0274, do like `;changeBox 75 75 75`
+02 Apr 2017 02:13:11 : LimitlessMc, botchat, TherminatorX#6644, Which box does it change?
+02 Apr 2017 02:13:20 : LimitlessMc, botchat, Wertfuzzy77#0274, the large main one
+02 Apr 2017 02:13:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 02:13:22 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:13:37 : LimitlessMc, botchat, DrunkBit#3869, ;changeBox 0 49 83
+02 Apr 2017 02:13:43 : LimitlessMc, botchat, DrunkBit#3869, ;level
+02 Apr 2017 02:13:44 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:13:54 : LimitlessMc, botchat, TherminatorX#6644, ;changeBox 75 0 0
+02 Apr 2017 02:14:02 : LimitlessMc, botchat, TherminatorX#6644, ;level
+02 Apr 2017 02:14:03 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:14:15 : LimitlessMc, botchat, Crystal4209#4698, ;changeBackground http://www.noupe.com/wp-content/uploads/2010/04/first.jpg
+02 Apr 2017 02:14:20 : LimitlessMc, botchat, Crystal4209#4698, ;level
+02 Apr 2017 02:14:20 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:14:27 : LimitlessMc, botchat, Wertfuzzy77#0274, it didnt like it
+02 Apr 2017 02:14:30 : LimitlessMc, botchat, Crystal4209#4698, ..
+02 Apr 2017 02:14:32 : LimitlessMc, botchat, Crystal4209#4698, bruh
+02 Apr 2017 02:14:52 : LimitlessMc, botchat, TherminatorX#6644, Tri agan
+02 Apr 2017 02:14:53 : LimitlessMc, botchat, Wertfuzzy77#0274, thats weird tho, the image looks fine
+02 Apr 2017 02:15:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ^
+02 Apr 2017 02:15:01 : LimitlessMc, botchat, Botfuzzy77#2209, ^
+02 Apr 2017 02:15:13 : LimitlessMc, botchat, Crystal4209#4698, ;changeBackground http://www.noupe.com/wp-content/uploads/2010/04/first.jpg
+02 Apr 2017 02:15:16 : LimitlessMc, botchat, Crystal4209#4698, ;level
+02 Apr 2017 02:15:17 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:15:22 : LimitlessMc, botchat, Wertfuzzy77#0274, v weird
+02 Apr 2017 02:15:24 : LimitlessMc, botchat, Crystal4209#4698, bruh
+02 Apr 2017 02:15:35 : LimitlessMc, botchat, TherminatorX#6644, It's just you :P
+02 Apr 2017 02:15:45 : LimitlessMc, botchat, TherminatorX#6644, ;changeBackground http://www.noupe.com/wp-content/uploads/2010/04/first.jpg
+02 Apr 2017 02:15:55 : LimitlessMc, botchat, TherminatorX#6644, ;level
+02 Apr 2017 02:15:56 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:16:01 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+02 Apr 2017 02:16:02 : LimitlessMc, botchat, TherminatorX#6644, Wut
+02 Apr 2017 02:16:14 : LimitlessMc, botchat, Wertfuzzy77#0274, it defaults to default if something goes wrong
+02 Apr 2017 02:16:28 : LimitlessMc, botchat, TherminatorX#6644, That's default?
+02 Apr 2017 02:16:30 : LimitlessMc, botchat, Wertfuzzy77#0274, si
+02 Apr 2017 02:16:43 : LimitlessMc, botchat, Wertfuzzy77#0274, I havent decided what to actually made default
+02 Apr 2017 02:16:52 : LimitlessMc, botchat, Wertfuzzy77#0274, that was just the first one I chose for my background
+02 Apr 2017 02:16:55 : LimitlessMc, botchat, Wertfuzzy77#0274, so I made it default
+02 Apr 2017 02:17:18 : LimitlessMc, botchat, Crystal4209#4698, ;changeBackground http://scromy.com/wp-content/uploads/2017/01/night-anime-scenery-wallpaper-high-quality-resolution.jpg
+02 Apr 2017 02:17:22 : LimitlessMc, botchat, Crystal4209#4698, ;level
+02 Apr 2017 02:17:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:17:28 : LimitlessMc, botchat, Crystal4209#4698, woo
+02 Apr 2017 02:17:34 : LimitlessMc, botchat, Wertfuzzy77#0274, you should def ;changeBox
+02 Apr 2017 02:17:50 : LimitlessMc, botchat, Crystal4209#4698, ;changeBox
+02 Apr 2017 02:17:59 : LimitlessMc, botchat, Wertfuzzy77#0274, `;changeBox 0 75 0`
+02 Apr 2017 02:18:01 : LimitlessMc, botchat, Wertfuzzy77#0274, try that
+02 Apr 2017 02:18:11 : LimitlessMc, botchat, Crystal4209#4698, ;changeBox 0 75 0
+02 Apr 2017 02:18:15 : LimitlessMc, botchat, Crystal4209#4698, ;level
+02 Apr 2017 02:18:15 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:18:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ew
+02 Apr 2017 02:18:23 : LimitlessMc, botchat, Wertfuzzy77#0274, wrong color lol
+02 Apr 2017 02:18:29 : LimitlessMc, botchat, Wertfuzzy77#0274, `;changebox 0 0 75`
+02 Apr 2017 02:18:41 : LimitlessMc, botchat, Crystal4209#4698, ;changeBox 0 0 75
+02 Apr 2017 02:18:43 : LimitlessMc, botchat, Crystal4209#4698, ;level
+02 Apr 2017 02:18:44 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:18:59 : LimitlessMc, botchat, Wertfuzzy77#0274, `;changebox 30 30 100`
+02 Apr 2017 02:19:08 : LimitlessMc, botchat, Crystal4209#4698, ;changebox 30 30 100
+02 Apr 2017 02:19:11 : LimitlessMc, botchat, Crystal4209#4698, ;level
+02 Apr 2017 02:19:12 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:19:22 : LimitlessMc, botchat, Wertfuzzy77#0274, did do capital xD I wrote it wrong the first time
+02 Apr 2017 02:19:26 : LimitlessMc, botchat, Wertfuzzy77#0274, didnt *
+02 Apr 2017 02:19:38 : LimitlessMc, botchat, Crystal4209#4698, ;changeBox 30 30 100
+02 Apr 2017 02:19:41 : LimitlessMc, botchat, Crystal4209#4698, ;level
+02 Apr 2017 02:19:41 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:20:01 : LimitlessMc, botchat, Wertfuzzy77#0274, you can change it to what ever you want, but the code is in R G B
+02 Apr 2017 02:20:04 : LimitlessMc, botchat, Wertfuzzy77#0274, red green blue
+02 Apr 2017 02:20:13 : LimitlessMc, botchat, Wertfuzzy77#0274, you can google any color and gets its RGB
+02 Apr 2017 02:20:27 : LimitlessMc, botchat, Crystal4209#4698, ok i like the way this is at the moment so eh
+02 Apr 2017 02:20:39 : LimitlessMc, botchat, Wertfuzzy77#0274, also, try `;changeText 255 255 255`
+02 Apr 2017 02:20:50 : LimitlessMc, botchat, Crystal4209#4698, ;changeText 255 255 255
+02 Apr 2017 02:20:53 : LimitlessMc, botchat, Crystal4209#4698, ;level
+02 Apr 2017 02:20:54 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:21:01 : LimitlessMc, botchat, Wertfuzzy77#0274, changes the text color
+02 Apr 2017 02:21:05 : LimitlessMc, botchat, Wertfuzzy77#0274, same R G B format
+02 Apr 2017 02:21:13 : LimitlessMc, botchat, Crystal4209#4698, ah ok
+02 Apr 2017 02:21:19 : LimitlessMc, botchat, Wertfuzzy77#0274, find the best set of colors you like 😛
+02 Apr 2017 02:21:21 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 02:21:22 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:21:42 : LimitlessMc, botchat, Wertfuzzy77#0274, I'm gonna make the bar change to your type as well
+02 Apr 2017 02:21:48 : LimitlessMc, botchat, Crystal4209#4698, ooo
+02 Apr 2017 02:21:51 : LimitlessMc, botchat, Wertfuzzy77#0274, so its not always blue purple ish
+02 Apr 2017 02:22:13 : LimitlessMc, botchat, Crystal4209#4698, ah ok
+02 Apr 2017 02:22:15 : LimitlessMc, botchat, Crystal4209#4698, ;train
+02 Apr 2017 02:22:15 : LimitlessMc, botchat, Botfuzzy77#2209, You *Lost* to a Level 33 **Snubbull** (43% to beat)
+You **Beat** a Level 19 **Sandile** for 121 XP (76% to beat)
+You **Beat** a Level 29 **Dunsparce** for 281 XP (50% to beat)
+You **Beat** a Level 16 **Carvanha** for 86 XP (90% to beat)
+You *Lost* to a Level 45 **Totodile** (32% to beat)
+You **Beat** a Level 32 **Octillery** for 342 XP (45% to beat)
+You *Lost* to a Level 50 **Mr. mime** (28% to beat)
+You *Lost* to a Level 50 **Lugia** (28% to beat)
+02 Apr 2017 02:22:15 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 830 (+ 83) XP
+02 Apr 2017 02:22:22 : LimitlessMc, botchat, Wertfuzzy77#0274, but ill do that later
+02 Apr 2017 02:22:28 : LimitlessMc, botchat, Crystal4209#4698, ok
+02 Apr 2017 02:22:30 : LimitlessMc, botchat, Crystal4209#4698, ;level
+02 Apr 2017 02:22:30 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:22:53 : LimitlessMc, botchat, Wertfuzzy77#0274, but this is soooooo much better than the old ;level already xD
+02 Apr 2017 02:23:01 : LimitlessMc, botchat, Crystal4209#4698, yeah lel
+02 Apr 2017 02:23:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+02 Apr 2017 02:23:05 : LimitlessMc, botchat, Botfuzzy77#2209, You *Lost* to a Level 23 **Carbink** (67% to beat)
+You *Lost* to a Level 26 **Frillish** (59% to beat)
+You *Lost* to a Level 31 **Spoink** (50% to beat)
+You **Beat** a Level 43 **Cleffa** for 617 XP (36% to beat)
+You *Lost* to a Level 40 **Sunkern** (38% to beat)
+You *Lost* to a Level 33 **Mew** (46% to beat)
+You **Beat** a Level 20 **Mankey** for 134 XP (77% to beat)
+You **Beat** a Level 17 **Kecleon** for 97 XP (90% to beat)
+You **Beat** a Level 18 **Chimecho** for 109 XP (86% to beat)
+02 Apr 2017 02:23:05 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 957 (+ 95) XP
+02 Apr 2017 02:23:06 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 02:23:07 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:23:23 : LimitlessMc, botchat, Wertfuzzy77#0274, need to add bar color change, ranks, and level up images
+02 Apr 2017 02:23:36 : LimitlessMc, botchat, Crystal4209#4698, so there is no way to see what type you are as of this moment?
+02 Apr 2017 02:23:44 : LimitlessMc, botchat, Wertfuzzy77#0274, ya, you can't atm
+02 Apr 2017 02:23:51 : LimitlessMc, botchat, Crystal4209#4698, ok
+02 Apr 2017 02:23:54 : LimitlessMc, botchat, Wertfuzzy77#0274, ;changetype fire
+02 Apr 2017 02:24:00 : LimitlessMc, botchat, Wertfuzzy77#0274, ;changeType fire
+02 Apr 2017 02:24:05 : LimitlessMc, botchat, Wertfuzzy77#0274, hmmmm
+02 Apr 2017 02:24:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ;settype fire
+02 Apr 2017 02:24:22 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Fire type
+02 Apr 2017 02:24:30 : LimitlessMc, botchat, Wertfuzzy77#0274, could just do that to confirm what you are tho
+02 Apr 2017 02:24:37 : LimitlessMc, botchat, Wertfuzzy77#0274, but no visual thing for it yet
+02 Apr 2017 02:24:37 : LimitlessMc, botchat, Crystal4209#4698, ;settype ice
+02 Apr 2017 02:24:38 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Ice type
+02 Apr 2017 02:24:41 : LimitlessMc, botchat, Crystal4209#4698, ok
+02 Apr 2017 02:24:58 : LimitlessMc, botchat, Crystal4209#4698, ;pokeboss ggggg
+02 Apr 2017 02:24:58 : LimitlessMc, botchat, Botfuzzy77#2209, wut
+02 Apr 2017 02:25:01 : LimitlessMc, botchat, Crystal4209#4698, xD
+02 Apr 2017 02:25:06 : LimitlessMc, botchat, Crystal4209#4698, wait
+02 Apr 2017 02:25:22 : LimitlessMc, botchat, Crystal4209#4698, ;pokeboss
+02 Apr 2017 02:25:22 : LimitlessMc, botchat, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> medium to fight and reveal the boss.
+02 Apr 2017 02:25:37 : LimitlessMc, botchat, DrunkBit#3869, ;changeText 255 255 255
+02 Apr 2017 02:25:37 : LimitlessMc, botchat, Crystal4209#4698, ;pokebattle ggggggg
+02 Apr 2017 02:25:37 : LimitlessMc, botchat, Botfuzzy77#2209, Please use a Combination of **8** Types. `;types`
+02 Apr 2017 02:25:39 : LimitlessMc, botchat, DrunkBit#3869, ;level
+02 Apr 2017 02:25:40 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:25:46 : LimitlessMc, botchat, Crystal4209#4698, ;pokebattle gggggggg
+02 Apr 2017 02:25:46 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 13 Boss **Corphish** has appeared in the Medium zone!
+It has 15,990 Health.
+02 Apr 2017 02:25:46 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:25:46 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g:
+:x: :x: :x: :x: :x: :x: :x: :x:
+02 Apr 2017 02:25:46 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+Your moves did **1** damage
+02 Apr 2017 02:25:46 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 1 (+ 0) XP
+02 Apr 2017 02:25:52 : LimitlessMc, botchat, Botfuzzy77#2209, Level 13 Boss **Corphish** has 15,989 health left.
+02 Apr 2017 02:25:52 : LimitlessMc, botchat, Crystal4209#4698, bruh
+02 Apr 2017 02:26:05 : LimitlessMc, botchat, DrunkBit#3869, ;pokeboss
+02 Apr 2017 02:26:05 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Medium Boss Pokemon** =-
+*Name*: Corphish
+*Health*: 15,989/15,990 (99.99%)
+*Level*: 13
+Last Combo:
+:regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g:
+:x: :x: :x: :x: :x: :x: :x: :x:
+02 Apr 2017 02:26:06 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:26:06 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **Crystal4209** with **1** damage
+02 Apr 2017 02:26:11 : LimitlessMc, botchat, DrunkBit#3869, ;pokebattle FFFFFFFF
+02 Apr 2017 02:26:11 : LimitlessMc, botchat, Botfuzzy77#2209, Level 13 Boss **Corphish** in Medium has 15,989 health left.
+02 Apr 2017 02:26:11 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:26:12 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f:
+:x: :x: :x: :x: :white_check_mark: :x: :x: :x:
+02 Apr 2017 02:26:12 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **47** damage
+02 Apr 2017 02:26:12 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 7 (+ 0) XP
+02 Apr 2017 02:26:17 : LimitlessMc, botchat, Botfuzzy77#2209, Level 13 Boss **Corphish** has 15,942 health left.
+02 Apr 2017 02:26:17 : LimitlessMc, botchat, Crystal4209#4698, boo
+02 Apr 2017 02:26:19 : LimitlessMc, botchat, Crystal4209#4698, ;cd
+02 Apr 2017 02:26:20 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 63 seconds
+**Train**
+You need to wait 3,356 seconds
+**Gamble**
+You can Gamble right now!
+02 Apr 2017 02:26:25 : LimitlessMc, botchat, DrunkBit#3869, ;train
+02 Apr 2017 02:26:25 : LimitlessMc, botchat, Botfuzzy77#2209, You *Lost* to a Level 31 **Doublade** (54% to beat)
+You **Beat** a Level 57 **Ducklett** for 1,084 XP (29% to beat)
+You **Beat** a Level 32 **Gligar** for 342 XP (53% to beat)
+You *Lost* to a Level 44 **Florges** (38% to beat)
+You **Beat** a Level 19 **Zebstrika** for 121 XP (89% to beat)
+You *Lost* to a Level 42 **Gardevoir** (40% to beat)
+You *Lost* to a Level 29 **Goomy** (58% to beat)
+You **Beat** a Level 18 **Delibird** for 109 XP (90% to beat)
+You **Beat** a Level 60 **Grotle** for 1,201 XP (28% to beat)
+You *Lost* to a Level 65 **Sandslash** (26% to beat)
+You Find a **Ultra Pokeloot** worth 5,146 XP
+02 Apr 2017 02:26:25 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 7145 (+ 0) XP
+02 Apr 2017 02:26:28 : LimitlessMc, botchat, Crystal4209#4698, ;gamble 9000
+02 Apr 2017 02:26:28 : LimitlessMc, botchat, Botfuzzy77#2209, You have lost your offering...
+02 Apr 2017 02:26:29 : LimitlessMc, botchat, DrunkBit#3869, ;gamble
+02 Apr 2017 02:26:30 : LimitlessMc, botchat, Botfuzzy77#2209, You need to gamble atleast 2,680 XP
+02 Apr 2017 02:26:33 : LimitlessMc, botchat, Crystal4209#4698, ;gamble 9000
+02 Apr 2017 02:26:33 : LimitlessMc, botchat, DrunkBit#3869, ;gamble 3000
+02 Apr 2017 02:26:33 : LimitlessMc, botchat, Botfuzzy77#2209, You don't have that much XP
+02 Apr 2017 02:26:33 : LimitlessMc, botchat, Botfuzzy77#2209, You have lost your offering...
+02 Apr 2017 02:26:37 : LimitlessMc, botchat, Crystal4209#4698, bro
+02 Apr 2017 02:26:39 : LimitlessMc, botchat, DrunkBit#3869, ;gamble 3000
+02 Apr 2017 02:26:39 : LimitlessMc, botchat, Botfuzzy77#2209, You have lost your offering...
+02 Apr 2017 02:26:42 : LimitlessMc, botchat, DrunkBit#3869, ;gamble 3000
+02 Apr 2017 02:26:42 : LimitlessMc, botchat, Botfuzzy77#2209, You have lost your offering...
+02 Apr 2017 02:26:42 : LimitlessMc, botchat, Crystal4209#4698, ;gamble 600
+02 Apr 2017 02:26:42 : LimitlessMc, botchat, Botfuzzy77#2209, You need to gamble atleast 1,688 XP
+02 Apr 2017 02:26:46 : LimitlessMc, botchat, DrunkBit#3869, ;gamble 3000
+02 Apr 2017 02:26:46 : LimitlessMc, botchat, Botfuzzy77#2209, You don't have that much XP
+02 Apr 2017 02:26:49 : LimitlessMc, botchat, DrunkBit#3869, ;level
+02 Apr 2017 02:26:50 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:26:51 : LimitlessMc, botchat, DrunkBit#3869, le
+02 Apr 2017 02:26:51 : LimitlessMc, botchat, Crystal4209#4698, ;gamble 6000
+02 Apr 2017 02:26:51 : LimitlessMc, botchat, Botfuzzy77#2209, You don't have that much XP
+02 Apr 2017 02:26:55 : LimitlessMc, botchat, Crystal4209#4698, ;level
+02 Apr 2017 02:26:56 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:27:05 : LimitlessMc, mainchat, OneClickGamer#8558, yummy
+02 Apr 2017 02:27:05 : LimitlessMc, botchat, Crystal4209#4698, ;gamble 5700
+02 Apr 2017 02:27:05 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained back your offering and more!
+02 Apr 2017 02:27:05 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 7410 (+ 741) XP
+02 Apr 2017 02:27:08 : LimitlessMc, botchat, Crystal4209#4698, yay
+02 Apr 2017 02:27:18 : LimitlessMc, botchat, Crystal4209#4698, ;gamble 5700
+02 Apr 2017 02:27:18 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained back your offering and more!
+02 Apr 2017 02:27:18 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 7410 (+ 741) XP
+02 Apr 2017 02:27:21 : LimitlessMc, botchat, Crystal4209#4698, wee
+02 Apr 2017 02:27:23 : LimitlessMc, botchat, Crystal4209#4698, ;level
+02 Apr 2017 02:27:24 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:27:40 : LimitlessMc, botchat, Crystal4209#4698, ;gamble 5700
+02 Apr 2017 02:27:40 : LimitlessMc, botchat, Botfuzzy77#2209, You have lost your offering...
+02 Apr 2017 02:27:52 : LimitlessMc, botchat, Crystal4209#4698, ;gamble 5700
+02 Apr 2017 02:27:52 : LimitlessMc, botchat, Botfuzzy77#2209, You have lost your offering...
+02 Apr 2017 02:27:52 : LimitlessMc, botchat, Botfuzzy77#2209, You are exhausted from Gambling...
+02 Apr 2017 02:27:55 : LimitlessMc, botchat, Crystal4209#4698, nooo
+02 Apr 2017 02:28:03 : LimitlessMc, botchat, Crystal4209#4698, ;pokeboss
+02 Apr 2017 02:28:03 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Medium Boss Pokemon** =-
+*Name*: Corphish
+*Health*: 15,942/15,990 (99.7%)
+*Level*: 13
+Last Combo:
+:regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f:
+:x: :x: :x: :x: :white_check_mark: :x: :x: :x:
+02 Apr 2017 02:28:04 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:28:04 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **DrunkBit** with **47** damage
+02 Apr 2017 02:28:04 : LimitlessMc, botchat, Botfuzzy77#2209, 2nd most Damage by *Crystal4209* with *1* damage
+02 Apr 2017 02:28:21 : LimitlessMc, botchat, Crystal4209#4698, ;pokebattle iiiifiii
+02 Apr 2017 02:28:21 : LimitlessMc, botchat, Botfuzzy77#2209, Level 13 Boss **Corphish** in Medium has 15,942 health left.
+02 Apr 2017 02:28:21 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:28:21 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_f: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i:
+:x: :x: :x: :x: :white_check_mark: :x: :x: :x:
+02 Apr 2017 02:28:21 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+Your moves did **37** damage
+02 Apr 2017 02:28:21 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 5 (+ 0) XP
+02 Apr 2017 02:28:25 : LimitlessMc, botchat, Crystal4209#4698, :L
+02 Apr 2017 02:28:25 : LimitlessMc, botchat, DrunkBit#3869, what change bg cmd again @Wertfuzzy77
+02 Apr 2017 02:28:27 : LimitlessMc, botchat, Botfuzzy77#2209, Level 13 Boss **Corphish** has 15,905 health left.
+02 Apr 2017 02:28:39 : LimitlessMc, botchat, Wertfuzzy77#0274, .;changeBackground <link>
+02 Apr 2017 02:28:43 : LimitlessMc, botchat, Botfuzzy77#2209, **Soul Link Picture Drama**
+Link: https://myanimelist.net/anime/10373
+**Episodes**: 3
+**Status**: Finished Airing
+**Rating**: 5.83 (by 164 users)
+02 Apr 2017 02:28:44 : LimitlessMc, botchat, DrunkBit#3869, ;pokebattle WWWWFWWW
+02 Apr 2017 02:28:44 : LimitlessMc, botchat, Botfuzzy77#2209, Level 13 Boss **Corphish** in Medium has 15,905 health left.
+02 Apr 2017 02:28:44 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:28:44 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_f: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w:
+:x: :x: :x: :x: :white_check_mark: :x: :x: :x:
+02 Apr 2017 02:28:44 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **41** damage
+02 Apr 2017 02:28:50 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 7 (+ 0) XP
+02 Apr 2017 02:28:50 : LimitlessMc, botchat, Botfuzzy77#2209, Level 13 Boss **Corphish** has 15,864 health left.
+02 Apr 2017 02:28:55 : LimitlessMc, botchat, DrunkBit#3869, ;changeBackground https://apod.nasa.gov/apod/image/1510/M16HubbleV4-X3walker.jpg
+02 Apr 2017 02:29:03 : LimitlessMc, botchat, DrunkBit#3869, ;level
+02 Apr 2017 02:29:04 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:29:08 : LimitlessMc, botchat, Wertfuzzy77#0274, ooooo
+02 Apr 2017 02:29:09 : LimitlessMc, botchat, Wertfuzzy77#0274, fancy
+02 Apr 2017 02:29:13 : LimitlessMc, botchat, DrunkBit#3869, gotem
+02 Apr 2017 02:29:29 : LimitlessMc, botchat, Wertfuzzy77#0274, change your color scheme tho xD
+02 Apr 2017 02:29:38 : LimitlessMc, botchat, Wertfuzzy77#0274, idk about the blue box and white text 😛
+02 Apr 2017 02:30:01 : LimitlessMc, botchat, Crystal4209#4698, ;pokeboss
+02 Apr 2017 02:30:02 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Medium Boss Pokemon** =-
+*Name*: Corphish
+*Health*: 15,864/15,990 (99.21%)
+*Level*: 13
+Last Combo:
+:regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_f: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w:
+:x: :x: :x: :x: :white_check_mark: :x: :x: :x:
+02 Apr 2017 02:30:02 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:30:02 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **DrunkBit** with **88** damage
+02 Apr 2017 02:30:02 : LimitlessMc, botchat, Botfuzzy77#2209, 2nd most Damage by *Crystal4209* with *38* damage
+02 Apr 2017 02:30:04 : LimitlessMc, botchat, Crystal4209#4698, ;types
+02 Apr 2017 02:30:05 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Possible Types ** =-
+:regional_indicator_n: ormal
+:regional_indicator_f: ire
+:regional_indicator_w: ater
+:regional_indicator_g: rass
+:regional_indicator_p: oison
+:regional_indicator_d: ragon
+:regional_indicator_s: teel
+:regional_indicator_e: lectric
+:regional_indicator_b: ug
+:regional_indicator_i: ce
+02 Apr 2017 02:30:17 : LimitlessMc, botchat, Crystal4209#4698, ;pokebattle ppppfppp
+02 Apr 2017 02:30:17 : LimitlessMc, botchat, Botfuzzy77#2209, Level 13 Boss **Corphish** in Medium has 15,864 health left.
+02 Apr 2017 02:30:17 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:30:17 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_p: :regional_indicator_p: :regional_indicator_p: :regional_indicator_p: :regional_indicator_f: :regional_indicator_p: :regional_indicator_p: :regional_indicator_p:
+:white_check_mark: :x: :white_check_mark: :x: :white_check_mark: :x: :x: :x:
+02 Apr 2017 02:30:17 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+Your moves did **130** damage
+02 Apr 2017 02:30:17 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 21 (+ 2) XP
+02 Apr 2017 02:30:19 : LimitlessMc, botchat, Crystal4209#4698, wee
+02 Apr 2017 02:30:23 : LimitlessMc, botchat, DrunkBit#3869, ;pokebattle PBPBFBBB
+02 Apr 2017 02:30:23 : LimitlessMc, botchat, Botfuzzy77#2209, Level 13 Boss **Corphish** has 15,734 health left.
+02 Apr 2017 02:30:23 : LimitlessMc, botchat, Botfuzzy77#2209, Level 13 Boss **Corphish** in Medium has 15,734 health left.
+02 Apr 2017 02:30:24 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:30:24 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_p: :regional_indicator_b: :regional_indicator_p: :regional_indicator_b: :regional_indicator_f: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b:
+:white_check_mark: :x: :white_check_mark: :x: :white_check_mark: :x: :x: :x:
+02 Apr 2017 02:30:24 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **128** damage
+02 Apr 2017 02:30:29 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 18 (+ 0) XP
+02 Apr 2017 02:30:29 : LimitlessMc, botchat, Botfuzzy77#2209, Level 13 Boss **Corphish** has 15,606 health left.
+02 Apr 2017 02:30:39 : LimitlessMc, botchat, Crystal4209#4698, i choose enext
+02 Apr 2017 02:30:55 : LimitlessMc, botchat, TherminatorX#6644, ;changeBackground https://cdn.discordapp.com/attachments/265999447631200266/297915352334204929/tumblr_static_tumblr_static_dyg5e60aktsswgc0g44088kg4_640-1.jpg
+02 Apr 2017 02:31:03 : LimitlessMc, botchat, TherminatorX#6644, ;level
+02 Apr 2017 02:31:04 : LimitlessMc, botchat, Wertfuzzy77#0274, try `;changeBox 147, 101, 22` @DrunkBit
+02 Apr 2017 02:31:04 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:31:11 : LimitlessMc, botchat, Wertfuzzy77#0274, no commas
+02 Apr 2017 02:31:27 : LimitlessMc, botchat, Wertfuzzy77#0274, `;changeBox 147 101 22`
+02 Apr 2017 02:31:37 : LimitlessMc, botchat, DrunkBit#3869, ;changeBox 147 101 22
+02 Apr 2017 02:31:41 : LimitlessMc, botchat, DrunkBit#3869, ;level
+02 Apr 2017 02:31:42 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:31:48 : LimitlessMc, botchat, DrunkBit#3869, fancy
+02 Apr 2017 02:32:01 : LimitlessMc, botchat, DrunkBit#3869, was actually looking for a shade of orange
+02 Apr 2017 02:32:21 : LimitlessMc, botchat, Crystal4209#4698, ;pokebattle pepefeee
+02 Apr 2017 02:32:21 : LimitlessMc, botchat, Botfuzzy77#2209, Level 13 Boss **Corphish** in Medium has 15,606 health left.
+02 Apr 2017 02:32:22 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:32:22 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_p: :regional_indicator_e: :regional_indicator_p: :regional_indicator_e: :regional_indicator_f: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e:
+:white_check_mark: :x: :white_check_mark: :x: :white_check_mark: :x: :white_check_mark: :x:
+02 Apr 2017 02:32:22 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+Your moves did **146** damage
+02 Apr 2017 02:32:22 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 29 (+ 2) XP
+02 Apr 2017 02:32:24 : LimitlessMc, botchat, Wertfuzzy77#0274, `;changeText 5 0 53`
+02 Apr 2017 02:32:24 : LimitlessMc, botchat, Crystal4209#4698, reee
+02 Apr 2017 02:32:27 : LimitlessMc, botchat, Botfuzzy77#2209, Level 13 Boss **Corphish** has 15,460 health left.
+02 Apr 2017 02:32:29 : LimitlessMc, botchat, Wertfuzzy77#0274, try that
+02 Apr 2017 02:32:38 : LimitlessMc, botchat, DrunkBit#3869, ;pokebattle PDPDFDED
+02 Apr 2017 02:32:38 : LimitlessMc, botchat, Botfuzzy77#2209, Level 13 Boss **Corphish** in Medium has 15,460 health left.
+02 Apr 2017 02:32:38 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:32:38 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_p: :regional_indicator_d: :regional_indicator_p: :regional_indicator_d: :regional_indicator_f: :regional_indicator_d: :regional_indicator_e: :regional_indicator_d:
+:white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :x: :white_check_mark: :x:
+02 Apr 2017 02:32:38 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+STAB bonus damage for Dragon type (1x)
+Your moves did **440** damage
+02 Apr 2017 02:32:38 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 88 (+ 0) XP
+02 Apr 2017 02:32:45 : LimitlessMc, botchat, Botfuzzy77#2209, Level 13 Boss **Corphish** has 15,020 health left.
+02 Apr 2017 02:32:57 : LimitlessMc, botchat, DrunkBit#3869, ;changeText 5 0 53
+02 Apr 2017 02:32:58 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokeboss
+02 Apr 2017 02:32:59 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Medium Boss Pokemon** =-
+*Name*: Corphish
+*Health*: 15,020/15,990 (93.93%)
+*Level*: 13
+Last Combo:
+:regional_indicator_p: :regional_indicator_d: :regional_indicator_p: :regional_indicator_d: :regional_indicator_f: :regional_indicator_d: :regional_indicator_e: :regional_indicator_d:
+:white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :x: :white_check_mark: :x:
+02 Apr 2017 02:32:59 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:32:59 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **DrunkBit** with **656** damage
+02 Apr 2017 02:32:59 : LimitlessMc, botchat, Botfuzzy77#2209, 2nd most Damage by *Crystal4209* with *314* damage
+02 Apr 2017 02:32:59 : LimitlessMc, botchat, DrunkBit#3869, ;level
+02 Apr 2017 02:33:00 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:33:08 : LimitlessMc, botchat, DrunkBit#3869, 3dark5me
+02 Apr 2017 02:33:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle PDPgFgEg
+02 Apr 2017 02:33:11 : LimitlessMc, botchat, Botfuzzy77#2209, Level 13 Boss **Corphish** in Medium has 15,020 health left.
+02 Apr 2017 02:33:11 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:33:11 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_p: :regional_indicator_d: :regional_indicator_p: :regional_indicator_g: :regional_indicator_f: :regional_indicator_g: :regional_indicator_e: :regional_indicator_g:
+:white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :x: :white_check_mark: :x:
+02 Apr 2017 02:33:11 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+STAB bonus damage for Fire type (1x)
+Your moves did **306** damage
+02 Apr 2017 02:33:11 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 38 (+ 3) XP
+02 Apr 2017 02:33:16 : LimitlessMc, botchat, Wertfuzzy77#0274, ya, looks weird
+02 Apr 2017 02:33:18 : LimitlessMc, botchat, Botfuzzy77#2209, Level 13 Boss **Corphish** has 14,714 health left.
+02 Apr 2017 02:33:59 : LimitlessMc, botchat, Crystal4209#4698, ;pokebattle pdpwfwew
+02 Apr 2017 02:33:59 : LimitlessMc, botchat, Botfuzzy77#2209, Level 13 Boss **Corphish** in Medium has 14,714 health left.
+02 Apr 2017 02:33:59 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:33:59 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_p: :regional_indicator_d: :regional_indicator_p: :regional_indicator_w: :regional_indicator_f: :regional_indicator_w: :regional_indicator_e: :regional_indicator_w:
+:white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :x: :white_check_mark: :x:
+02 Apr 2017 02:33:59 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+Rival Bonus!
+Your moves did **468** damage
+02 Apr 2017 02:33:59 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 70 (+ 7) XP
+02 Apr 2017 02:34:03 : LimitlessMc, botchat, Crystal4209#4698, bruh
+02 Apr 2017 02:34:05 : LimitlessMc, botchat, Botfuzzy77#2209, Level 13 Boss **Corphish** has 14,246 health left.
+02 Apr 2017 02:34:06 : LimitlessMc, botchat, Wertfuzzy77#0274, 118 192 224
+02 Apr 2017 02:34:12 : LimitlessMc, botchat, Wertfuzzy77#0274, try those for text
+02 Apr 2017 02:34:43 : LimitlessMc, botchat, DrunkBit#3869, ;changeText 118 192 224
+02 Apr 2017 02:34:44 : LimitlessMc, botchat, DrunkBit#3869, ;level
+02 Apr 2017 02:34:45 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:34:51 : LimitlessMc, botchat, Wertfuzzy77#0274, lol
+02 Apr 2017 02:34:54 : LimitlessMc, botchat, Wertfuzzy77#0274, looks like toothpaste
+02 Apr 2017 02:35:05 : LimitlessMc, botchat, Wertfuzzy77#0274, is gross xD
+02 Apr 2017 02:35:18 : LimitlessMc, botchat, Wertfuzzy77#0274, (244, 198, 124)
+02 Apr 2017 02:35:43 : LimitlessMc, botchat, Wertfuzzy77#0274, that might be better
+02 Apr 2017 02:35:49 : LimitlessMc, botchat, DrunkBit#3869, ;changeText 244 198 124
+02 Apr 2017 02:35:53 : LimitlessMc, botchat, DrunkBit#3869, ;level
+02 Apr 2017 02:35:54 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:36:09 : LimitlessMc, botchat, Crystal4209#4698, ;pokebattle pdpnfnen
+02 Apr 2017 02:36:09 : LimitlessMc, botchat, Botfuzzy77#2209, Level 13 Boss **Corphish** in Medium has 14,246 health left.
+02 Apr 2017 02:36:09 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:36:09 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_p: :regional_indicator_d: :regional_indicator_p: :regional_indicator_n: :regional_indicator_f: :regional_indicator_n: :regional_indicator_e: :regional_indicator_n:
+:white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :x: :white_check_mark: :white_check_mark:
+02 Apr 2017 02:36:09 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+Rival Bonus!
+Your moves did **714** damage
+02 Apr 2017 02:36:09 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 142 (+ 14) XP
+02 Apr 2017 02:36:10 : LimitlessMc, botchat, Wertfuzzy77#0274, eh, is ok... not great
+02 Apr 2017 02:36:15 : LimitlessMc, botchat, Crystal4209#4698, bruh
+02 Apr 2017 02:36:15 : LimitlessMc, botchat, Botfuzzy77#2209, Level 13 Boss **Corphish** has 13,532 health left.
+02 Apr 2017 02:36:18 : LimitlessMc, botchat, DrunkBit#3869, ;types
+02 Apr 2017 02:36:18 : LimitlessMc, botchat, Wertfuzzy77#0274, you'll have to find a good color you like xD
+02 Apr 2017 02:36:18 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Possible Types ** =-
+:regional_indicator_n: ormal
+:regional_indicator_f: ire
+:regional_indicator_w: ater
+:regional_indicator_g: rass
+:regional_indicator_p: oison
+:regional_indicator_d: ragon
+:regional_indicator_s: teel
+:regional_indicator_e: lectric
+:regional_indicator_b: ug
+:regional_indicator_i: ce
+02 Apr 2017 02:36:29 : LimitlessMc, botchat, DrunkBit#3869, ;pokebatle PDPSFSEN
+02 Apr 2017 02:36:35 : LimitlessMc, botchat, DrunkBit#3869, ;pokebattle PDPSFSEN
+02 Apr 2017 02:36:35 : LimitlessMc, botchat, Botfuzzy77#2209, Level 13 Boss **Corphish** in Medium has 13,532 health left.
+02 Apr 2017 02:36:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:36:35 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_p: :regional_indicator_d: :regional_indicator_p: :regional_indicator_s: :regional_indicator_f: :regional_indicator_s: :regional_indicator_e: :regional_indicator_n:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+02 Apr 2017 02:36:36 : LimitlessMc, botchat, Botfuzzy77#2209, Its a Perfect Combo. The Boss has switched 1/2 of the Super Effective Moves!
+STAB bonus damage for Dragon type (1x)
+Your moves did **8,926** damage
+02 Apr 2017 02:36:36 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 1264 (+ 0) XP
+02 Apr 2017 02:36:39 : LimitlessMc, botchat, DrunkBit#3869, ez
+02 Apr 2017 02:36:40 : LimitlessMc, botchat, Crystal4209#4698, booooooooooooo
+02 Apr 2017 02:36:41 : LimitlessMc, botchat, Botfuzzy77#2209, Level 13 Boss **Corphish** has 4,606 health left.
+02 Apr 2017 02:36:42 : LimitlessMc, botchat, Wertfuzzy77#0274, gj
+02 Apr 2017 02:36:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle PDPSFSEN
+02 Apr 2017 02:36:47 : LimitlessMc, botchat, Botfuzzy77#2209, Level 13 Boss **Corphish** in Medium has 4,606 health left.
+02 Apr 2017 02:36:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:36:47 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_p: :regional_indicator_d: :regional_indicator_p: :regional_indicator_s: :regional_indicator_f: :regional_indicator_s: :regional_indicator_e: :regional_indicator_n:
+:white_check_mark: :x: :x: :x: :x: :white_check_mark: :white_check_mark: :white_check_mark:
+02 Apr 2017 02:36:47 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **125** damage
+02 Apr 2017 02:36:47 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 22 (+ 2) XP
+02 Apr 2017 02:36:49 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+02 Apr 2017 02:36:53 : LimitlessMc, botchat, Botfuzzy77#2209, Level 13 Boss **Corphish** has 4,481 health left.
+02 Apr 2017 02:36:57 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokeboss
+02 Apr 2017 02:36:57 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Medium Boss Pokemon** =-
+*Name*: Corphish
+*Health*: 4,481/15,990 (28.02%)
+*Level*: 13
+Last Combo:
+:regional_indicator_p: :regional_indicator_d: :regional_indicator_p: :regional_indicator_s: :regional_indicator_f: :regional_indicator_s: :regional_indicator_e: :regional_indicator_n:
+:white_check_mark: :x: :x: :x: :x: :white_check_mark: :white_check_mark: :white_check_mark:
+02 Apr 2017 02:36:57 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:36:57 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **DrunkBit** with **9,582** damage
+02 Apr 2017 02:36:57 : LimitlessMc, botchat, Botfuzzy77#2209, 2nd most Damage by *Crystal4209* with *1,496* damage
+02 Apr 2017 02:36:59 : LimitlessMc, botchat, Botfuzzy77#2209, 3rd most Damage by *Wertfuzzy77* with *431* damage
+02 Apr 2017 02:37:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 02:37:02 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:37:33 : LimitlessMc, botchat, Wertfuzzy77#0274, ;changeBox 160 96 229
+02 Apr 2017 02:37:36 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 02:37:37 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:37:48 : LimitlessMc, botchat, Wertfuzzy77#0274, lol, barely changed
+02 Apr 2017 02:38:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;changeBox 126 76 181
+02 Apr 2017 02:38:16 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 02:38:16 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:38:23 : LimitlessMc, botchat, DrunkBit#3869, ;changeText 180 235 255
+02 Apr 2017 02:38:24 : LimitlessMc, botchat, DrunkBit#3869, ;level
+02 Apr 2017 02:38:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:38:25 : LimitlessMc, botchat, DrunkBit#3869, le
+02 Apr 2017 02:38:35 : LimitlessMc, botchat, Wertfuzzy77#0274, more toothpaste 😄
+02 Apr 2017 02:39:26 : LimitlessMc, botchat, DrunkBit#3869, ;changeText 255 166 49
+02 Apr 2017 02:39:28 : LimitlessMc, botchat, DrunkBit#3869, ;level
+02 Apr 2017 02:39:28 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:40:04 : LimitlessMc, botchat, Wertfuzzy77#0274, ;changeBox 20 7 66
+02 Apr 2017 02:40:06 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 02:40:07 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:40:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;changeText 254 251 170
+02 Apr 2017 02:40:31 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 02:40:32 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:40:33 : LimitlessMc, botchat, DrunkBit#3869, ;changeText 168 124 160
+02 Apr 2017 02:40:35 : LimitlessMc, botchat, DrunkBit#3869, ;level
+02 Apr 2017 02:40:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:40:45 : LimitlessMc, botchat, Wertfuzzy77#0274, http://www.ginifab.com/feeds/pms/pms_color_in_image.php
+02 Apr 2017 02:40:49 : LimitlessMc, botchat, Wertfuzzy77#0274, try this site
+02 Apr 2017 02:40:55 : LimitlessMc, botchat, Wertfuzzy77#0274, you can pull colors from the image
+02 Apr 2017 02:41:22 : LimitlessMc, botchat, DrunkBit#3869, ;changetext 72 146 155
+02 Apr 2017 02:41:24 : LimitlessMc, botchat, DrunkBit#3869, ;level
+02 Apr 2017 02:41:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:41:43 : LimitlessMc, botchat, DrunkBit#3869, ;changeText 72 146 155
+02 Apr 2017 02:41:45 : LimitlessMc, botchat, DrunkBit#3869, ;level
+02 Apr 2017 02:41:46 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:42:33 : LimitlessMc, botchat, DrunkBit#3869, ;changeText 134 171 165
+02 Apr 2017 02:42:35 : LimitlessMc, botchat, DrunkBit#3869, ;level
+02 Apr 2017 02:42:36 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:42:46 : OblivionEvolved, general, TheChad🐵#1660, http://ark.gamepedia.com/Fishing_Rod
+02 Apr 2017 02:42:59 : LimitlessMc, botchat, DrunkBit#3869, ;changeText 106 127 122
+02 Apr 2017 02:43:01 : LimitlessMc, botchat, DrunkBit#3869, ;level
+02 Apr 2017 02:43:02 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:43:15 : OblivionEvolved, general, Shy#1903, https://steamuserimages-a.akamaihd.net/ugc/581323629937683963/6FE2A966929C07337E204AE0417DE2EC5DDB98DE/
+02 Apr 2017 02:44:06 : LimitlessMc, botchat, DrunkBit#3869, ;pokebattle PGGGGSEN
+02 Apr 2017 02:44:06 : LimitlessMc, botchat, Botfuzzy77#2209, Level 13 Boss **Corphish** in Medium has 4,481 health left.
+02 Apr 2017 02:44:06 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:44:06 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_p: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_s: :regional_indicator_e: :regional_indicator_n:
+:white_check_mark: :white_check_mark: :x: :x: :x: :white_check_mark: :white_check_mark: :white_check_mark:
+02 Apr 2017 02:44:06 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+Your moves did **459** damage
+02 Apr 2017 02:44:06 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 57 (+ 0) XP
+02 Apr 2017 02:44:12 : LimitlessMc, botchat, Botfuzzy77#2209, Level 13 Boss **Corphish** has 4,022 health left.
+02 Apr 2017 02:45:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;changeText 87 73 143
+02 Apr 2017 02:45:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 02:45:04 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:45:29 : LimitlessMc, botchat, DrunkBit#3869, ;changeText 251 129 54
+02 Apr 2017 02:45:31 : LimitlessMc, botchat, DrunkBit#3869, ;level
+02 Apr 2017 02:45:32 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:45:44 : LimitlessMc, botchat, Wertfuzzy77#0274, ;changeText 100 78 144
+02 Apr 2017 02:45:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 02:45:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:46:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;changeText 227 148 130
+02 Apr 2017 02:46:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 02:46:03 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:46:11 : LimitlessMc, botchat, DrunkBit#3869, ;changeText     255 121 82
+02 Apr 2017 02:46:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ooooo, this works 😄
+02 Apr 2017 02:46:15 : LimitlessMc, botchat, DrunkBit#3869, ;level
+02 Apr 2017 02:46:16 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:46:22 : LimitlessMc, botchat, Wertfuzzy77#0274, I can pull a color palete from an image
+02 Apr 2017 02:46:30 : LimitlessMc, botchat, Wertfuzzy77#0274, palette *
+02 Apr 2017 02:46:59 : LimitlessMc, botchat, Wertfuzzy77#0274, any image 😄
+02 Apr 2017 02:47:09 : LimitlessMc, botchat, Wertfuzzy77#0274, `[(100, 78, 144), (227, 148, 130), (34, 11, 62), (150, 165, 198)]` these are teh 4 colors it pulled from my image
+02 Apr 2017 02:47:20 : LimitlessMc, botchat, Wertfuzzy77#0274, maybe I can make the default colors intelligent
+02 Apr 2017 02:47:26 : LimitlessMc, botchat, Wertfuzzy77#0274, and not just standard
+02 Apr 2017 02:47:31 : LimitlessMc, botchat, Wertfuzzy77#0274, but dynamic to the image 😄
+02 Apr 2017 02:49:49 : LimitlessMc, botchat, DrunkBit#3869, ;changeText 104 91 199
+02 Apr 2017 02:49:51 : LimitlessMc, botchat, DrunkBit#3869, ;level
+02 Apr 2017 02:49:52 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:50:47 : LimitlessMc, botchat, DrunkBit#3869, ;changeText 41 143 194
+02 Apr 2017 02:50:49 : LimitlessMc, botchat, DrunkBit#3869, ;level
+02 Apr 2017 02:50:50 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:51:25 : LimitlessMc, botchat, DrunkBit#3869, ;changeText 98 181 229
+02 Apr 2017 02:51:26 : LimitlessMc, botchat, DrunkBit#3869, ;level
+02 Apr 2017 02:51:27 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:53:11 : LimitlessMc, botchat, DrunkBit#3869, pull some colors for me ❤
+02 Apr 2017 02:53:37 : LimitlessMc, botchat, DrunkBit#3869, ;pokebattle PGIIISEN
+02 Apr 2017 02:53:37 : LimitlessMc, botchat, Botfuzzy77#2209, Level 13 Boss **Corphish** in Medium has 4,022 health left.
+02 Apr 2017 02:53:37 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:53:37 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_p: :regional_indicator_g: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_s: :regional_indicator_e: :regional_indicator_n:
+:white_check_mark: :white_check_mark: :x: :x: :x: :white_check_mark: :white_check_mark: :white_check_mark:
+02 Apr 2017 02:53:37 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+Your moves did **299** damage
+02 Apr 2017 02:53:37 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 54 (+ 0) XP
+02 Apr 2017 02:53:43 : LimitlessMc, botchat, Botfuzzy77#2209, Level 13 Boss **Corphish** has 3,723 health left.
+02 Apr 2017 02:54:01 : LimitlessMc, botchat, DrunkBit#3869, ;changeText 0 188 227
+02 Apr 2017 02:54:03 : LimitlessMc, botchat, DrunkBit#3869, ;level
+02 Apr 2017 02:54:04 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 02:55:55 : LimitlessMc, botchat, DrunkBit#3869, https://webpagefx.com/web-design/random-color-picker/
+02 Apr 2017 02:55:57 : LimitlessMc, botchat, DrunkBit#3869, le
+02 Apr 2017 03:18:04 : LimitlessMc, mainchat, Third_Worm#4804, ;-; I would join ya Jay but I'm in bed
+02 Apr 2017 03:20:19 : LimitlessMc, mainchat, OneClickGamer#8558, join wut
+02 Apr 2017 03:25:14 : LimitlessMc, voice-junk, Third_Worm#4804, Evening Jay
+02 Apr 2017 03:25:19 : LimitlessMc, voice-junk, Third_Worm#4804, How are you?
+02 Apr 2017 03:26:06 : LimitlessMc, voice-junk, Third_Worm#4804, Ah a fine day it is indeed
+02 Apr 2017 03:27:30 : Unity Of Nirvana, general, Third_Worm#4804, 
+02 Apr 2017 03:27:37 : Unity Of Nirvana, general, Third_Worm#4804, @DicloniusPony
+02 Apr 2017 03:27:45 : Unity Of Nirvana, general, Third_Worm#4804, ;-; rip so bad
+02 Apr 2017 03:27:51 : Unity Of Nirvana, general, DicloniusPony#6564, coolio
+02 Apr 2017 03:27:55 : Unity Of Nirvana, general, DicloniusPony#6564, it looks good!
+02 Apr 2017 03:28:12 : Unity Of Nirvana, general, Third_Worm#4804, Its so much messier tho, but ty
+02 Apr 2017 03:28:47 : Unity Of Nirvana, general, Third_Worm#4804, Since other discords stress me
+02 Apr 2017 03:28:53 : Unity Of Nirvana, general, Third_Worm#4804, I'll post my art here
+02 Apr 2017 03:29:41 : Unity Of Nirvana, general, DicloniusPony#6564, okei~
+02 Apr 2017 03:30:36 : LimitlessMc, botchat, Crystal4209#4698, ;join
+02 Apr 2017 03:30:37 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+02 Apr 2017 03:31:11 : LimitlessMc, voice-junk, Crystal4209#4698, oh hai botfuzzy how you doin
+02 Apr 2017 03:31:43 : LimitlessMc, voice-junk, Third_Worm#4804, I would request
+02 Apr 2017 03:31:52 : LimitlessMc, voice-junk, Third_Worm#4804, But I won't hear the music lol
+02 Apr 2017 03:44:37 : LimitlessMc, botchat, Bakafish#8693, ;train
+02 Apr 2017 03:44:37 : LimitlessMc, botchat, Botfuzzy77#2209, You *Lost* to a Level 33 **Combusken** (60% to beat)
+You *Lost* to a Level 70 **Sudowoodo** (28% to beat)
+You *Lost* to a Level 43 **Pansage** (46% to beat)
+You *Lost* to a Level 42 **Dragonair** (47% to beat)
+You *Lost* to a Level 74 **Probopass** (27% to beat)
+You *Lost* to a Level 46 **Pinsir** (43% to beat)
+You **Beat** a Level 55 **Zekrom** for 1,009 XP (36% to beat)
+You *Lost* to a Level 46 **Vanillish** (43% to beat)
+You *Lost* to a Level 66 **Woobat** (30% to beat)
+You *Lost* to a Level 72 **Roselia** (27% to beat)
+You **Beat** a Level 21 **Cloyster** for 148 XP (90% to beat)
+You Find a **Pokeloot** worth 1,724 XP
+02 Apr 2017 03:44:37 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 2881 (+ 0) XP
+02 Apr 2017 03:44:39 : LimitlessMc, botchat, Bakafish#8693, ;level
+02 Apr 2017 03:44:40 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 03:48:16 : Unity Of Nirvana, general, Third_Worm#4804, Is like
+02 Apr 2017 03:48:18 : OblivionEvolved, offtopic, Nerokin#3586, @​here
+02 Apr 2017 03:48:25 : Unity Of Nirvana, general, Third_Worm#4804, A sad cat too much to post here
+02 Apr 2017 03:49:04 : OblivionEvolved, offtopic, TheChad🐵#1660, @​here
+02 Apr 2017 03:49:10 : Unity Of Nirvana, general, Third_Worm#4804, 
+02 Apr 2017 03:49:11 : Unity Of Nirvana, general, Third_Worm#4804, @DicloniusPony not too sad right?
+02 Apr 2017 03:49:23 : OblivionEvolved, offtopic, Nerokin#3586, @​here
+02 Apr 2017 03:49:27 : Unity Of Nirvana, general, Third_Worm#4804, Cause I did 1 tear lol
+02 Apr 2017 03:49:36 : Unity Of Nirvana, general, DicloniusPony#6564, o boi, it looks good! ❤
+02 Apr 2017 03:49:50 : Unity Of Nirvana, general, Third_Worm#4804, *emits joy*
+02 Apr 2017 03:50:09 : Unity Of Nirvana, general, DicloniusPony#6564, *catgirl overload*
+02 Apr 2017 03:50:12 : Unity Of Nirvana, general, Third_Worm#4804, Did I ever...
+02 Apr 2017 03:50:14 : Unity Of Nirvana, general, DicloniusPony#6564, 
+02 Apr 2017 03:50:20 : Unity Of Nirvana, general, Third_Worm#4804, Catss
+02 Apr 2017 03:50:27 : Unity Of Nirvana, general, DicloniusPony#6564, 
+02 Apr 2017 03:50:36 : Unity Of Nirvana, general, Third_Worm#4804, My bby
+02 Apr 2017 03:50:38 : Unity Of Nirvana, general, Third_Worm#4804, 
+02 Apr 2017 03:50:43 : Unity Of Nirvana, general, DicloniusPony#6564, omg ❤ ❤
+02 Apr 2017 03:50:46 : Unity Of Nirvana, general, DicloniusPony#6564, ruby chiLD
+02 Apr 2017 03:50:50 : Unity Of Nirvana, general, Third_Worm#4804, I did it
+02 Apr 2017 03:50:55 : Unity Of Nirvana, general, Third_Worm#4804, I made a bby
+02 Apr 2017 03:51:02 : OblivionEvolved, bots, StubbyMuffins#1053, This channel is for bot commands only.
+02 Apr 2017 03:51:03 : Unity Of Nirvana, general, DicloniusPony#6564, i need to see chiLd
+02 Apr 2017 03:51:07 : OblivionEvolved, bots, StubbyMuffins#1053, 
+02 Apr 2017 03:51:18 : OblivionEvolved, offtopic, Nerokin#3586, @​here
+02 Apr 2017 03:51:33 : Unity Of Nirvana, general, Third_Worm#4804, okEi
+02 Apr 2017 03:51:37 : OblivionEvolved, bots, Nerokin#3586, ;help
+02 Apr 2017 03:51:37 : None, Direct Message with Nerokin, Botfuzzy77#2209, ```
+A Bot whose sole Purpose is to serve Wertfuzzy77! Version 0.15.1.3
+(Created by Wertfuzzy77)
+
+FlavorTexts:
+  rate             Rates the Player
+  luck             Returns the Player's Luck
+  kys              
+  fml              Returns a Random Post from fmylife.com
+  slap             Adds Emotion
+  rps              Allows the player to play Rock, Paper, Scissors with the B...
+  kiss             Adds Emotion
+  hates            Adds Emotion
+  wyr              
+  hug              Adds Emotion
+  choose           Chooses from a set of things
+  kill             Adds Emotion
+  funify           Funifies a given text input
+  loves            Adds Emotion
+  likes            Adds Emotion
+  gif              Returns the First Found Image on Google Images for this Input
+  lmgtfy           Returns a Link to a "Let me Google That For You" Page
+  image            Returns the First Found Image on Google Images for this Input
+  conch            Ask the Magic Conch a Question
+Games:
+  gamble           
+  changeText       
+  prestige         
+  changeBackground 
+  cooldown         Shows your Cooldowns
+  train            Fights Pokemon for XP
+  pokedex          
+  types            
+  level            Displays your Current Information
+  pokeboss         Displays Boss Info
+  lookup           Displays your Current Information
+  settype          
+  ranking          
+  pokehelp         Pokemon Battle Sim Help
+  changeBox        
+  pokebattle       Fights a Pokemon Boss
+MusicPlayer:
+  remove           removes a song from a queue by index
+  shuffle          Shuffles the songs the queue
+  viewplaylist     Views the songs of a playlists
+  playlists        Shows all the current playlists
+  leave            Leaves the Join chat
+  makeplaylist     Makes a custom playlist for the bot to save
+  desc             Decription of the Current playing song
+  song             Returns information about the current playing song
+```
+02 Apr 2017 03:51:37 : None, Direct Message with Nerokin, Botfuzzy77#2209, ```
+  recommend        Allow the bot to add up to 5 songs to the queue to have in...
+  playlist         Adds songs from a predefined playlist to the songs list
+  songs            Prints the songs in the queue
+  skip             Skips the Current song
+  clear            Clears the Queue
+  youtube          Adds a Song for the Bot to Play
+  search           Searches for a song
+  Radio            Enables Radio Mode
+  extendplaylist   Extends a custom playlist
+  music            Returns the current status of the Music Bot
+  join             Joins the Voice channel you are currently in
+  loop             Plays the current song again
+StaffCmds:
+  unmute           
+  tempmute         
+  unmuteall        Unmutes ALL muted players
+  mute             
+  mutelist         
+​No Category:
+  pokemon          Returns Links to Pokemon pages
+  joined           Says when a member joined.
+  server           Returns Information on the Limitless MC server!
+  invite           Returns a Link to the Invite URL for this bot
+  source           Returns a link to the source code for this bot
+  ev               
+  cleverbot        
+  status           Returns the Status of the Bot, along with Additional Infor...
+  afk              Sets you as AFK, and the Bot will auto Reply for you with ...
+  changeIcon       
+  feedback         Returns a link to a Google Forums, where you can leave fee...
+  help             Shows this message.
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+02 Apr 2017 03:51:49 : Unity Of Nirvana, general, Third_Worm#4804, I hate drawing human like organisms
+02 Apr 2017 03:51:50 : Unity Of Nirvana, general, DicloniusPony#6564, i just realized my rank is Gay Space Rock
+02 Apr 2017 03:52:10 : Unity Of Nirvana, general, Third_Worm#4804, *glances away* I wonder who made that
+02 Apr 2017 03:52:15 : Unity Of Nirvana, general, Third_Worm#4804, *whistles*
+02 Apr 2017 03:52:25 : OblivionEvolved, offtopic, Nerokin#3586, @​here
+02 Apr 2017 03:53:12 : LimitlessMc, botchat, Wertfuzzy77#0274, new level cmd 😄
+02 Apr 2017 03:53:16 : LimitlessMc, botchat, Wertfuzzy77#0274, fancy right
+02 Apr 2017 03:53:21 : Unity Of Nirvana, general, Third_Worm#4804, I used lineart for this one
+02 Apr 2017 03:53:22 : Unity Of Nirvana, general, Third_Worm#4804, 
+02 Apr 2017 03:53:30 : Unity Of Nirvana, general, Third_Worm#4804, @DicloniusPony lineart
+02 Apr 2017 03:53:31 : Unity Of Nirvana, general, DicloniusPony#6564, https://www.paigeeworld.com/u/husbando
+02 Apr 2017 03:53:37 : Unity Of Nirvana, general, DicloniusPony#6564, sam, just, just look at this
+02 Apr 2017 03:53:44 : Unity Of Nirvana, general, Third_Worm#4804, *squeaks*
+02 Apr 2017 03:53:49 : LimitlessMc, botchat, Nerokin#3586, ;level
+02 Apr 2017 03:53:50 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 03:53:50 : Unity Of Nirvana, general, Third_Worm#4804, Ooooooooo
+02 Apr 2017 03:53:57 : LimitlessMc, botchat, Wertfuzzy77#0274, everything is customizable
+02 Apr 2017 03:54:03 : LimitlessMc, botchat, Wertfuzzy77#0274, from background to color scheme
+02 Apr 2017 03:54:08 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 03:54:08 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 03:54:15 : LimitlessMc, botchat, Nerokin#3586, I have a -0.14% pokedex?
+02 Apr 2017 03:54:19 : LimitlessMc, botchat, Wertfuzzy77#0274, do ;train
+02 Apr 2017 03:54:23 : LimitlessMc, botchat, Nerokin#3586, ;train
+02 Apr 2017 03:54:23 : LimitlessMc, botchat, Botfuzzy77#2209, You must be Level 5 to use ;train
+02 Apr 2017 03:54:28 : LimitlessMc, botchat, Wertfuzzy77#0274, hmmmmm
+02 Apr 2017 03:54:34 : Unity Of Nirvana, general, Crystal4209#4698, #Fab
+02 Apr 2017 03:54:40 : Unity Of Nirvana, general, DicloniusPony#6564, good lordd the eyebrows
+02 Apr 2017 03:54:50 : LimitlessMc, botchat, Nerokin#3586, How does one level up?
+02 Apr 2017 03:54:51 : LimitlessMc, botchat, Wertfuzzy77#0274, try `;pokebattle IIIII`
+02 Apr 2017 03:54:59 : LimitlessMc, botchat, Wertfuzzy77#0274, it should autolevel you to 5
+02 Apr 2017 03:55:03 : LimitlessMc, botchat, Nerokin#3586, ;pokebattle IIIII
+02 Apr 2017 03:55:04 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 7 Boss **Reuniclus** has appeared in the Easy zone!
+It has 3,762 Health.
+02 Apr 2017 03:55:04 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 03:55:04 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i:
+:x: :x: :x: :x: :x:
+02 Apr 2017 03:55:04 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+Your moves did **1** damage
+02 Apr 2017 03:55:04 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 1 (+ 0) XP
+02 Apr 2017 03:55:10 : LimitlessMc, botchat, Botfuzzy77#2209, Level 7 Boss **Reuniclus** has 3,761 health left.
+02 Apr 2017 03:55:15 : LimitlessMc, botchat, Wertfuzzy77#0274, try level now?
+02 Apr 2017 03:55:16 : LimitlessMc, botchat, Nerokin#3586, ;level
+02 Apr 2017 03:55:16 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 03:55:20 : LimitlessMc, botchat, Wertfuzzy77#0274, there we go
+02 Apr 2017 03:55:22 : LimitlessMc, botchat, Nerokin#3586, Ah, okay
+02 Apr 2017 03:55:22 : LimitlessMc, botchat, Wertfuzzy77#0274, now ;train
+02 Apr 2017 03:55:25 : LimitlessMc, botchat, Nerokin#3586, ;train
+02 Apr 2017 03:55:25 : LimitlessMc, botchat, Botfuzzy77#2209, You *Lost* to a Level 6 **Nidoking** (41% to beat)
+You *Lost* to a Level 5 **Wailmer** (50% to beat)
+02 Apr 2017 03:55:25 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 0 (+ 0) XP
+02 Apr 2017 03:55:33 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+02 Apr 2017 03:55:34 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+02 Apr 2017 03:55:40 : LimitlessMc, botchat, Wertfuzzy77#0274, that should fix it? maybe
+02 Apr 2017 03:55:42 : LimitlessMc, botchat, Nerokin#3586, ;pokebattle IFIFIFI
+02 Apr 2017 03:55:42 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 58 seconds before you can fight the boss again.
+02 Apr 2017 03:55:53 : LimitlessMc, botchat, Nerokin#3586, Yeah
+02 Apr 2017 03:56:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lookup Nerokin
+02 Apr 2017 03:56:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 03:56:15 : LimitlessMc, botchat, Wertfuzzy77#0274, well.... no idea why it still says negative
+02 Apr 2017 03:56:34 : LimitlessMc, botchat, Nerokin#3586, ;train
+02 Apr 2017 03:56:34 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 3,531 seconds before you can train again.
+02 Apr 2017 03:56:56 : LimitlessMc, botchat, Nerokin#3586, An hour before training, okay
+02 Apr 2017 03:56:59 : LimitlessMc, botchat, Wertfuzzy77#0274, I just patched it on my end
+02 Apr 2017 03:57:04 : LimitlessMc, botchat, Wertfuzzy77#0274, so next update shoudl be fixed
+02 Apr 2017 03:57:09 : LimitlessMc, botchat, Wertfuzzy77#0274, had a -1 in the wrong place
+02 Apr 2017 03:57:21 : LimitlessMc, botchat, Wertfuzzy77#0274, but updating the color scheme cmd
+02 Apr 2017 03:57:24 : LimitlessMc, botchat, Wertfuzzy77#0274, to make it easier to use
+02 Apr 2017 03:57:41 : LimitlessMc, botchat, Wertfuzzy77#0274, try ;changeBackground [Link to image] tho
+02 Apr 2017 03:57:48 : LimitlessMc, botchat, Wertfuzzy77#0274, get your own background instead of default
+02 Apr 2017 03:58:30 : LimitlessMc, botchat, Nerokin#3586, What is the largest photo it can have?
+02 Apr 2017 03:58:36 : LimitlessMc, botchat, Wertfuzzy77#0274, doesnt matter
+02 Apr 2017 03:58:41 : LimitlessMc, botchat, Wertfuzzy77#0274, it resizes auto for you
+02 Apr 2017 03:58:50 : LimitlessMc, botchat, Wertfuzzy77#0274, the image is 600x300 tho
+02 Apr 2017 03:59:02 : LimitlessMc, botchat, Wertfuzzy77#0274, so try to get something in that ratio, to not make it distorted
+02 Apr 2017 04:01:17 : LimitlessMc, botchat, Nerokin#3586, ;changeBackground https://www.dropbox.com/s/fn5rg9illcpgdvx/misc.jpg?dl=1
+02 Apr 2017 04:01:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lookup Nerokin
+02 Apr 2017 04:01:27 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 04:01:46 : LimitlessMc, botchat, Wertfuzzy77#0274, this next patch will auto change your color palette to best match the background
+02 Apr 2017 04:02:03 : LimitlessMc, botchat, Wertfuzzy77#0274, you can change them to custom colors ofc
+02 Apr 2017 04:02:14 : LimitlessMc, botchat, Wertfuzzy77#0274, but atleast teh default will look nicer than all grey for every image

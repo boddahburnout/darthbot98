@@ -1,0 +1,47 @@
+02 Dec 2017 09:08:01 : darth, general, darth kota#9446, ;join
+02 Dec 2017 09:08:07 : darth, general, darthbot98#5182, Connected channel!
+02 Dec 2017 09:08:18 : darth, general, darth kota#9446, ;search she is love
+02 Dec 2017 09:08:22 : darth, general, darthbot98#5182, Added Parachute - She Is Love to the queue
+02 Dec 2017 09:08:22 : darth, general, darthbot98#5182, https://www.youtube.com/watch?v=xr3qfy78iG4
+02 Dec 2017 09:08:28 : darth, general, darth kota#9446, ;search you and tequila
+02 Dec 2017 09:08:30 : darth, general, darthbot98#5182, Added Kenny Chesney - You And Tequila ft. Grace Potter to the queue
+02 Dec 2017 09:08:30 : darth, general, darthbot98#5182, https://www.youtube.com/watch?v=Q8XkLrErSHw
+02 Dec 2017 09:09:28 : darth, general, darth kota#9446, ;search staind it’s been awhile
+02 Dec 2017 09:09:30 : darth, general, darthbot98#5182, Added Staind - It's Been Awhile (Video) to the queue
+02 Dec 2017 09:09:30 : darth, general, darthbot98#5182, https://www.youtube.com/watch?v=araU0fZj6oQ
+02 Dec 2017 09:10:03 : darth, general, darth kota#9446, ;search simple man
+02 Dec 2017 09:10:05 : darth, general, darthbot98#5182, Added Simple Man - Lynyrd Skynyrd - Lyrics HD to the queue
+02 Dec 2017 09:10:05 : darth, general, darthbot98#5182, https://www.youtube.com/watch?v=sMmTkKz60W8
+02 Dec 2017 09:19:07 : darth, general, darth kota#9446, ;skip
+02 Dec 2017 09:20:56 : darth, general, darth kota#9446, ;debug radio
+02 Dec 2017 09:24:44 : darth, general, darth kota#9446, ;search you and tequila
+02 Dec 2017 09:24:47 : darth, general, darthbot98#5182, Added Kenny Chesney - You And Tequila ft. Grace Potter to the queue
+02 Dec 2017 09:24:47 : darth, general, darthbot98#5182, https://www.youtube.com/watch?v=Q8XkLrErSHw
+02 Dec 2017 09:27:31 : darth, general, darth kota#9446, ;loop 4
+02 Dec 2017 09:27:32 : darth, general, darthbot98#5182, Added '*Kenny Chesney - You And Tequila ft. Grace Potter*' **4** more times
+02 Dec 2017 09:43:13 : darth, general, darth kota#9446, ;recommend
+02 Dec 2017 09:43:13 : darth, general, darthbot98#5182, Recommend Songs to play: True
+02 Dec 2017 09:44:15 : darth, general, darth kota#9446, ;songs
+02 Dec 2017 09:44:15 : darth, general, darthbot98#5182, 
+02 Dec 2017 09:44:35 : darth, general, darth kota#9446, ;clear
+02 Dec 2017 09:44:35 : darth, general, darthbot98#5182, Cleared Queue!
+02 Dec 2017 09:44:41 : darth, general, darth kota#9446, ;skip
+02 Dec 2017 09:45:07 : darth, general, darth kota#9446, ;songs
+02 Dec 2017 09:45:08 : darth, general, darthbot98#5182, 
+02 Dec 2017 09:46:04 : FAM, off-topic, darth kota#9446, ;radio
+02 Dec 2017 09:46:05 : FAM, off-topic, darthbot98#5182, The Radio feature is currently down :(
+02 Dec 2017 09:46:13 : FAM, off-topic, darth kota#9446, ;radio purely pop
+02 Dec 2017 09:46:13 : FAM, off-topic, darthbot98#5182, The Radio feature is currently down :(
+02 Dec 2017 09:49:03 : FAM, off-topic, darth kota#9446, ;search free bird
+02 Dec 2017 09:49:04 : FAM, off-topic, darthbot98#5182, The Bot isnt connected in this server!
+02 Dec 2017 09:49:09 : FAM, off-topic, darth kota#9446, ;join
+02 Dec 2017 09:49:10 : FAM, off-topic, darthbot98#5182, Connected channel!
+02 Dec 2017 09:49:19 : FAM, off-topic, darth kota#9446, ;search free bird
+02 Dec 2017 09:49:22 : FAM, off-topic, darthbot98#5182, Added Lynyrd Skynyrd-Free bird to the queue
+02 Dec 2017 09:49:22 : FAM, off-topic, darthbot98#5182, https://www.youtube.com/watch?v=np0solnL1XY
+02 Dec 2017 09:49:27 : FAM, off-topic, darth kota#9446, ;recommend
+02 Dec 2017 09:49:28 : FAM, off-topic, darthbot98#5182, Recommend Songs to play: True
+02 Dec 2017 09:49:33 : FAM, off-topic, darth kota#9446, ;songs
+02 Dec 2017 09:49:33 : FAM, off-topic, darthbot98#5182, 
+02 Dec 2017 09:49:51 : FAM, off-topic, darth kota#9446, ;songs
+02 Dec 2017 09:49:51 : FAM, off-topic, darthbot98#5182, 

@@ -1,0 +1,32 @@
+15 Feb 2017 01:04:54 : LimitlessMc, mainchat, Third_Worm#4804, get some pepper
+15 Feb 2017 01:05:00 : LimitlessMc, botchat, Wertfuzzy77#0274, making * lol
+15 Feb 2017 01:05:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+15 Feb 2017 01:05:03 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+15 Feb 2017 01:05:05 : LimitlessMc, mainchat, Third_Worm#4804, pepper = life
+15 Feb 2017 01:05:07 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio Japanese
+15 Feb 2017 01:05:07 : LimitlessMc, botchat, Botfuzzy77#2209, Please choose one of these options: 
+Electro Hub
+Chill Corner
+Korean Madness
+Japanese Lounge
+Classical
+Retro Renegade
+Metal Mix
+Hip-hop
+Electro Swing
+Purely Pop
+Rock-n-Roll
+Coffee-house Jazz
+Example: `;Radio Purely Pop`
+15 Feb 2017 01:05:09 : LimitlessMc, mainchat, Third_Worm#4804, >_>
+15 Feb 2017 01:05:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio Rock-n-Roll
+15 Feb 2017 01:05:20 : LimitlessMc, botchat, Botfuzzy77#2209, Radio Mode: True
+15 Feb 2017 01:05:23 : LimitlessMc, botchat, MoonWolf#8885, Korean madness...
+15 Feb 2017 01:05:25 : LimitlessMc, botchat, MoonWolf#8885, oh god
+15 Feb 2017 01:05:28 : LimitlessMc, botchat, MoonWolf#8885, ;song
+15 Feb 2017 01:05:28 : LimitlessMc, botchat, Botfuzzy77#2209, ERROR, ['NoneType' object has no attribute 'title']
+15 Feb 2017 01:05:51 : LimitlessMc, botchat, MoonWolf#8885, ;search Test
+15 Feb 2017 01:05:54 : LimitlessMc, botchat, Botfuzzy77#2209, Added Idiot Test - 90% fail to the queue
+15 Feb 2017 01:05:54 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=2a4Uxdy9TQY
+15 Feb 2017 01:05:57 : LimitlessMc, botchat, MoonWolf#8885, ;skip
+15 Feb 2017 01:05:57 : LimitlessMc, botchat, Botfuzzy77#2209, 1/1 votes to skip

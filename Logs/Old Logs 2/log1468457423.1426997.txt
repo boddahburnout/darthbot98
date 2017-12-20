@@ -1,0 +1,99 @@
+14 Jul 2016 00:50:48 : Cipher , RoyGasm ;)#7098 , wert pls babe
+14 Jul 2016 00:50:58 : Cipher , Wertfuzzy77#0274 , ;debug list(bot.server).find("Limitless")
+14 Jul 2016 00:50:58 : Cipher , Botfuzzy77#2209 , ```py
+AttributeError: '<class 'discord.ext.commands.bot.Bot'>' object has no attribute 'server'
+```
+14 Jul 2016 00:51:05 : Cipher , Wertfuzzy77#0274 , ;debug list(bot.servers).find("Limitless")
+14 Jul 2016 00:51:06 : Cipher , Botfuzzy77#2209 , ```py
+AttributeError: 'list' object has no attribute 'find'
+```
+14 Jul 2016 00:51:39 : Cipher , RoyGasm ;)#7098 , its limitlessmc
+14 Jul 2016 00:51:46 : Cipher , Wertfuzzy77#0274 , ;debug list(bot.servers).index("Limitless")
+14 Jul 2016 00:51:46 : Cipher , Botfuzzy77#2209 , ```py
+ValueError: 'Limitless' is not in list
+```
+14 Jul 2016 00:51:52 : Cipher , Wertfuzzy77#0274 , ;debug list(bot.servers).index("Limitlessmc")
+14 Jul 2016 00:51:52 : Cipher , Botfuzzy77#2209 , ```py
+ValueError: 'Limitlessmc' is not in list
+```
+14 Jul 2016 00:51:57 : Cipher , RoyGasm ;)#7098 , oh
+14 Jul 2016 00:51:57 : Cipher , Wertfuzzy77#0274 , ;debug list(bot.servers).index("LimitlessMc")
+14 Jul 2016 00:51:57 : Cipher , Botfuzzy77#2209 , ```py
+ValueError: 'LimitlessMc' is not in list
+```
+14 Jul 2016 00:52:00 : Cipher , RoyGasm ;)#7098 , idk den
+14 Jul 2016 00:52:07 : Cipher , Wertfuzzy77#0274 , ;debug list(bot.servers)
+14 Jul 2016 00:52:07 : Cipher , Botfuzzy77#2209 , ```py
+[<discord.server.Server object at 0x000002B16D3E9888>, <discord.server.Server object at 0x000002B16D3E99E8>, <discord.server.Server object at 0x000002B16D3E9A98>, <discord.server.Server object at 0x000002B16D3E9938>]
+```
+14 Jul 2016 00:52:34 : Cipher , Wertfuzzy77#0274 , ;debug list(bot.servers).index("Cipher")
+14 Jul 2016 00:52:35 : Cipher , Botfuzzy77#2209 , ```py
+ValueError: 'Cipher' is not in list
+```
+14 Jul 2016 00:52:47 : Cipher , Wertfuzzy77#0274 , ;debug list(bot.servers.map(x => x.name).index("Cipher")
+14 Jul 2016 00:52:47 : Cipher , Botfuzzy77#2209 , ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+14 Jul 2016 00:56:39 : Cipher , RoyGasm ;)#7098 , '
+14 Jul 2016 00:58:28 : Cipher , Wertfuzzy77#0274 , ;debug map(lambda x: x.name, list(bot.servers)
+14 Jul 2016 00:58:28 : Cipher , Botfuzzy77#2209 , ```py
+SyntaxError: unexpected EOF while parsing (<string>, line 1)
+```
+14 Jul 2016 00:58:33 : Cipher , Wertfuzzy77#0274 , ;debug map(lambda x: x.name, list(bot.servers))
+14 Jul 2016 00:58:33 : Cipher , Botfuzzy77#2209 , ```py
+<map object at 0x000002B16D72AEF0>
+```
+14 Jul 2016 00:58:48 : Cipher , Wertfuzzy77#0274 , ;debug list(map(lambda x: x.name, list(bot.servers)).index("Cipher")
+14 Jul 2016 00:58:49 : Cipher , Botfuzzy77#2209 , ```py
+SyntaxError: unexpected EOF while parsing (<string>, line 1)
+```
+14 Jul 2016 00:58:54 : Cipher , Wertfuzzy77#0274 , ;debug list(map(lambda x: x.name, list(bot.servers))).index("Cipher")
+14 Jul 2016 00:58:54 : Cipher , Botfuzzy77#2209 , ```py
+1
+```
+14 Jul 2016 00:58:59 : Cipher , RoyGasm ;)#7098 , just do ;debug [x.name for x in list(bot.servers)]
+14 Jul 2016 00:59:01 : Cipher , RoyGasm ;)#7098 , ;debug [x.name for x in list(bot.servers)]
+14 Jul 2016 00:59:01 : Cipher , Botfuzzy77#2209 , ```py
+['LimitlessMc', 'Cipher', 'League Of Legends', 'The Pleb Privateers']
+```
+14 Jul 2016 00:59:25 : Cipher , Wertfuzzy77#0274 , ;debug list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")]
+14 Jul 2016 00:59:25 : Cipher , Botfuzzy77#2209 , ```py
+Cipher
+```
+14 Jul 2016 00:59:28 : Cipher , Wertfuzzy77#0274 , perfect
+14 Jul 2016 00:59:38 : Cipher , Wertfuzzy77#0274 , yeah, but that just prints em all
+14 Jul 2016 00:59:48 : Cipher , Wertfuzzy77#0274 , i want to be able to search for one specifically
+14 Jul 2016 00:59:58 : League Of Legends , RoyGasm ;)#7098 , ;debug bot.send_message(list(list(bot.servers)[1].channels)[1], "test")
+14 Jul 2016 01:00:16 : Cipher , RoyGasm ;)#7098 , okei?
+14 Jul 2016 01:00:41 : Cipher , Wertfuzzy77#0274 , ;debug def server(x): return list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index(x)]
+14 Jul 2016 01:00:41 : Cipher , Botfuzzy77#2209 , ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+14 Jul 2016 01:01:03 : Cipher , Wertfuzzy77#0274 , ;debug list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("LimitlessMc")]
+14 Jul 2016 01:01:03 : Cipher , Botfuzzy77#2209 , ```py
+LimitlessMc
+```
+14 Jul 2016 01:01:35 : Cipher , Wertfuzzy77#0274 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("LimitlessMc")], "Hello People of this World")
+14 Jul 2016 01:01:35 : LimitlessMc , Botfuzzy77#2209 , Hello People of this World
+14 Jul 2016 01:01:35 : Cipher , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000002B16D801750>
+```
+14 Jul 2016 01:01:45 : Cipher , Wertfuzzy77#0274 , cool
+14 Jul 2016 01:02:01 : Cipher , Wertfuzzy77#0274 , i wonder if i could make an announcement function?
+14 Jul 2016 01:02:29 : Cipher , Wertfuzzy77#0274 , ;debug list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")].channels
+14 Jul 2016 01:02:29 : Cipher , Botfuzzy77#2209 , ```py
+dict_values([<discord.channel.Channel object at 0x000002B16D4F8148>, <discord.channel.Channel object at 0x000002B16D469F48>, <discord.channel.Channel object at 0x000002B16D469EC8>, <discord.channel.Channel object at 0x000002B16D4F8348>, <discord.channel.Channel object at 0x000002B16D4F8048>, <discord.channel.Channel object at 0x000002B16D4F8248>, <discord.channel.Channel object at 0x000002B16D4F80C8>, <discord.channel.Channel object at 0x000002B16D4F83C8>, <discord.channel.Channel object at 0x000002B16D4F81C8>, <discord.channel.Channel object at 0x000002B16D4F82C8>])
+```
+14 Jul 2016 01:03:44 : Cipher , Wertfuzzy77#0274 , ;debug [bot.send_message(x, "Announce") for x in list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")].channels]
+14 Jul 2016 01:03:45 : Cipher , Botfuzzy77#2209 , ```py
+[<generator object Client.send_message at 0x000002B16D7E4678>, <generator object Client.send_message at 0x000002B16D7E43B8>, <generator object Client.send_message at 0x000002B16D7E4CA8>, <generator object Client.send_message at 0x000002B16D7E47D8>, <generator object Client.send_message at 0x000002B16D7E4C50>, <generator object Client.send_message at 0x000002B16D7E4728>, <generator object Client.send_message at 0x000002B16D7E4990>, <generator object Client.send_message at 0x000002B16D7E4468>, <generator object Client.send_message at 0x000002B16D7E4F68>, <generator object Client.send_message at 0x000002B16D7E41A8>]
+```
+14 Jul 2016 01:04:23 : Cipher , Wertfuzzy77#0274 , ;debug [bot.send_message(x, "Announce") for x in list(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")].channels)]
+14 Jul 2016 01:04:23 : Cipher , Botfuzzy77#2209 , ```py
+[<generator object Client.send_message at 0x000002B16D7E4E60>, <generator object Client.send_message at 0x000002B16D80C6D0>, <generator object Client.send_message at 0x000002B16D80C570>, <generator object Client.send_message at 0x000002B16D80C258>, <generator object Client.send_message at 0x000002B16D80C410>, <generator object Client.send_message at 0x000002B16D80C468>, <generator object Client.send_message at 0x000002B16D80C2B0>, <generator object Client.send_message at 0x000002B16D80C308>, <generator object Client.send_message at 0x000002B16D80C620>, <generator object Client.send_message at 0x000002B16D80C3B8>]
+```
+14 Jul 2016 01:04:27 : Cipher , Wertfuzzy77#0274 , mean
+14 Jul 2016 01:04:59 : Cipher , Wertfuzzy77#0274 , ;debug list(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")].channels)
+14 Jul 2016 01:04:59 : Cipher , Botfuzzy77#2209 , ```py
+[<discord.channel.Channel object at 0x000002B16D4F8148>, <discord.channel.Channel object at 0x000002B16D469F48>, <discord.channel.Channel object at 0x000002B16D469EC8>, <discord.channel.Channel object at 0x000002B16D4F8348>, <discord.channel.Channel object at 0x000002B16D4F8048>, <discord.channel.Channel object at 0x000002B16D4F8248>, <discord.channel.Channel object at 0x000002B16D4F80C8>, <discord.channel.Channel object at 0x000002B16D4F83C8>, <discord.channel.Channel object at 0x000002B16D4F81C8>, <discord.channel.Channel object at 0x000002B16D4F82C8>]
+```

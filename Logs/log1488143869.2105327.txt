@@ -1,0 +1,1113 @@
+26 Feb 2017 21:18:00 : Cipher, music, Wertfuzzy77#0274, ;join
+26 Feb 2017 21:18:01 : Cipher, music, Botfuzzy77#2209, Connected channel!
+26 Feb 2017 21:18:05 : Cipher, music, Wertfuzzy77#0274, ;search charlie brown coldplay
+26 Feb 2017 21:18:08 : Cipher, music, Botfuzzy77#2209, Added Coldplay - Charlie Brown to the queue
+26 Feb 2017 21:18:08 : Cipher, music, Botfuzzy77#2209, https://www.youtube.com/watch?v=zTFBJgnNgU4
+26 Feb 2017 21:18:21 : Cipher, music, Wertfuzzy77#0274, ;recommend
+26 Feb 2017 21:18:52 : Cipher, music, Wertfuzzy77#0274, ;songs
+26 Feb 2017 21:18:52 : Cipher, music, Botfuzzy77#2209, **The Following songs are in the Queue**
+26 Feb 2017 21:18:52 : Cipher, music, Botfuzzy77#2209, 1. Coldplay - Fix You **Radio: Coldplay - Charlie Brown**
+	<https://www.youtube.com/watch?v=k4V3Mo61fJM>
+2. Coldplay - Clocks **Radio: Coldplay - Charlie Brown**
+	<https://www.youtube.com/watch?v=d020hcWA_Wg>
+3. Coldplay - Fix You **Radio: Coldplay - Charlie Brown**
+	<https://www.youtube.com/watch?v=k4V3Mo61fJM>
+4. Coldplay - The Scientist **Radio: Coldplay - Charlie Brown**
+	<https://www.youtube.com/watch?v=RB-RcX5DS5A>
+5. Coldplay - In My Place **Radio: Coldplay - Charlie Brown**
+	<https://www.youtube.com/watch?v=gnIZ7RMuLpU>
+Total Time is 0:22:25
+26 Feb 2017 21:18:56 : Cipher, music, Wertfuzzy77#0274, 😄
+26 Feb 2017 21:18:58 : Cipher, music, Wertfuzzy77#0274, awesome
+26 Feb 2017 21:19:01 : Cipher, music, Wertfuzzy77#0274, ;remove 3
+26 Feb 2017 21:19:01 : Cipher, music, Botfuzzy77#2209, Removed: Coldplay - Fix You
+26 Feb 2017 21:19:03 : Cipher, music, Wertfuzzy77#0274, ;songs
+26 Feb 2017 21:19:03 : Cipher, music, Botfuzzy77#2209, **The Following songs are in the Queue**
+26 Feb 2017 21:19:03 : Cipher, music, Botfuzzy77#2209, 1. Coldplay - Fix You **Radio: Coldplay - Charlie Brown**
+	<https://www.youtube.com/watch?v=k4V3Mo61fJM>
+2. Coldplay - Clocks **Radio: Coldplay - Charlie Brown**
+	<https://www.youtube.com/watch?v=d020hcWA_Wg>
+3. Coldplay - The Scientist **Radio: Coldplay - Charlie Brown**
+	<https://www.youtube.com/watch?v=RB-RcX5DS5A>
+4. Coldplay - In My Place **Radio: Coldplay - Charlie Brown**
+	<https://www.youtube.com/watch?v=gnIZ7RMuLpU>
+Total Time is 0:17:29
+26 Feb 2017 21:19:05 : Cipher, music, Wertfuzzy77#0274, ;sogns
+26 Feb 2017 21:19:08 : Cipher, music, Wertfuzzy77#0274, ;songs
+26 Feb 2017 21:19:08 : Cipher, music, Botfuzzy77#2209, **The Following songs are in the Queue**
+26 Feb 2017 21:19:08 : Cipher, music, Botfuzzy77#2209, 1. Coldplay - Fix You **Radio: Coldplay - Charlie Brown**
+	<https://www.youtube.com/watch?v=k4V3Mo61fJM>
+2. Coldplay - Clocks **Radio: Coldplay - Charlie Brown**
+	<https://www.youtube.com/watch?v=d020hcWA_Wg>
+3. Coldplay - The Scientist **Radio: Coldplay - Charlie Brown**
+	<https://www.youtube.com/watch?v=RB-RcX5DS5A>
+4. Coldplay - In My Place **Radio: Coldplay - Charlie Brown**
+	<https://www.youtube.com/watch?v=gnIZ7RMuLpU>
+5. Coldplay - Speed Of Sound **Radio: Coldplay - Charlie Brown**
+	<https://www.youtube.com/watch?v=0k_1kvDh2UA>
+Total Time is 0:21:58
+26 Feb 2017 21:19:31 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+26 Feb 2017 21:19:31 : LimitlessMc, botchat, Botfuzzy77#2209, You *Lost* to a Level 28 **Audino** (46% to beat)
+You *Lost* to a Level 51 **Floette** (25% to beat)
+You **Beat** a Level 13 **Solosis** for 57 XP (90% to beat)
+You **Beat** a Level 17 **Heliolisk** for 97 XP (76% to beat)
+You **Beat** a Level 34 **Simisage** for 386 XP (38% to beat)
+You *Lost* to a Level 48 **Linoone** (27% to beat)
+You **Beat** a Level 47 **Whismur** for 737 XP (27% to beat)
+You **Beat** a Level 16 **Leafeon** for 86 XP (81% to beat)
+You Find a **Pokeloot** worth 493 XP
+26 Feb 2017 21:19:31 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 1856 (+ 185) XP
+26 Feb 2017 21:19:33 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+26 Feb 2017 21:19:33 : LimitlessMc, botchat, Botfuzzy77#2209, :first_place: **TherminatorX** Level **18** Prestige **2**
+:second_place: **Wertfuzzy77** Level **26** Prestige **1**
+:third_place: **Crystal4209** Level **20** Prestige **1**
+:medal: MoonWolf Level 14 Prestige 1
+:medal: theOnlyJuan Level 13 Prestige 1
+:medal: MrMudkipKipperten Level 8 Prestige 1
+:medal: DanTurboX Level 56 Prestige 0
+:medal: jjtwilefc Level 53 Prestige 0
+:medal: Bakafish Level 39 Prestige 0
+:medal: 🌟💖Resolate💖🌟 Level 34 Prestige 0
+26 Feb 2017 21:21:39 : nein, general, shuck#1142, @Fat Dankdra how come every vip got elyctra on server
+26 Feb 2017 21:21:52 : nein, general, shuck#1142, but me :'((((((((((((((((((((((((((((((((((((((((((
+26 Feb 2017 21:33:44 : LimitlessMc, botchat, _EntityCat_#6947, @Staff can i post a link to a giveaway that im doing?
+26 Feb 2017 21:34:06 : LimitlessMc, botchat, _EntityCat_#6947, for a MC account
+26 Feb 2017 21:35:03 : LimitlessMc, mainchat, _EntityCat_#6947, Hey anyone from the Staff that sees this? Can i post a link to a giveaway that im doing?
+for a MC account
+26 Feb 2017 21:36:06 : LimitlessMc, mainchat, Mystz#8072, @KingSTARwolf
+26 Feb 2017 21:36:10 : LimitlessMc, mainchat, Mystz#8072, @Staff
+26 Feb 2017 21:36:33 : LimitlessMc, mainchat, Third_Worm#4804, Givaway on the server?
+26 Feb 2017 21:39:54 : LimitlessMc, mainchat, Third_Worm#4804, @_EntityCat_ hello?
+26 Feb 2017 21:48:39 : LimitlessMc, mainchat, _EntityCat_#6947, no off server
+26 Feb 2017 21:49:12 : LimitlessMc, mainchat, _EntityCat_#6947, but i can make it on the server 😄 ?
+26 Feb 2017 21:50:26 : LimitlessMc, mainchat, Third_Worm#4804, Well
+26 Feb 2017 21:50:28 : LimitlessMc, mainchat, MattRuc#5481, im not sur ehow i sure edit this video to put on youtube?
+26 Feb 2017 21:50:44 : LimitlessMc, mainchat, MattRuc#5481, should I just leave it unedited? but maybe add background music? cause i have almost 2 hours of video
+26 Feb 2017 21:50:54 : LimitlessMc, mainchat, Third_Worm#4804, Its a livestream
+26 Feb 2017 21:50:59 : LimitlessMc, mainchat, Third_Worm#4804, you can do highlights
+26 Feb 2017 21:51:03 : LimitlessMc, mainchat, Third_Worm#4804, or the whole thing
+26 Feb 2017 21:51:21 : LimitlessMc, mainchat, Third_Worm#4804, like cut out a good amount of video, but leave good parts for highlights
+26 Feb 2017 21:51:24 : LimitlessMc, mainchat, Third_Worm#4804, or leave it be
+26 Feb 2017 21:51:26 : LimitlessMc, mainchat, MattRuc#5481, ohk
+26 Feb 2017 21:51:31 : LimitlessMc, mainchat, Third_Worm#4804, No wait!
+26 Feb 2017 21:51:38 : LimitlessMc, mainchat, MattRuc#5481, ill cut some of it because I feel like im boring most of the time hjahah
+26 Feb 2017 21:51:39 : LimitlessMc, mainchat, Third_Worm#4804, If you make it the full thing
+26 Feb 2017 21:51:49 : LimitlessMc, mainchat, Third_Worm#4804, Some people might not watch it all
+26 Feb 2017 21:51:51 : LimitlessMc, mainchat, Third_Worm#4804, or not at all
+26 Feb 2017 21:51:54 : LimitlessMc, mainchat, MattRuc#5481, I can't quite here you guys as well as i'd like in the vid so ill have to turn up volume in discord next time
+26 Feb 2017 21:52:02 : LimitlessMc, mainchat, Third_Worm#4804, Ah okay
+26 Feb 2017 21:52:04 : LimitlessMc, mainchat, MattRuc#5481, yea
+26 Feb 2017 21:52:05 : LimitlessMc, mainchat, MattRuc#5481, thats true
+26 Feb 2017 21:55:29 : LimitlessMc, botchat, TherminatorX#6644, ;train
+26 Feb 2017 21:55:29 : LimitlessMc, botchat, Botfuzzy77#2209, You *Lost* to a Level 27 **Ivysaur** (33% to beat)
+You *Lost* to a Level 35 **Pinsir** (25% to beat)
+You *Lost* to a Level 29 **Trevenant** (31% to beat)
+You *Lost* to a Level 20 **Magmortar** (45% to beat)
+You **Beat** a Level 24 **Sudowoodo** for 193 XP (37% to beat)
+You **Beat** a Level 17 **Goldeen** for 97 XP (52% to beat)
+You use an **EXP share** to gain more XP! (+ 145)
+You Find a **Pokeloot** worth 172 XP
+26 Feb 2017 21:55:29 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 607 (+ 127) XP
+26 Feb 2017 21:55:48 : LimitlessMc, botchat, TherminatorX#6644, ;pokedex
+26 Feb 2017 21:55:48 : LimitlessMc, botchat, Botfuzzy77#2209, Your Pokedex is 89.01% complete!
+26 Feb 2017 21:55:53 : LimitlessMc, mainchat, Red_Dragon_333#4168, Matt
+26 Feb 2017 21:55:56 : LimitlessMc, mainchat, Red_Dragon_333#4168, Come back
+26 Feb 2017 21:56:14 : LimitlessMc, mainchat, MattRuc#5481, lol can't man i gotta work on this video and do adult stuff the rest of day...possibly later tonight though!
+26 Feb 2017 21:56:23 : LimitlessMc, mainchat, Red_Dragon_333#4168, Okay
+26 Feb 2017 22:07:40 : Unity Of Nirvana, bot_chat, Third_Worm#4804, =music j
+26 Feb 2017 22:07:43 : Unity Of Nirvana, bot_chat, Ayana#8911, ​:white_check_mark: Joined and bound to :speaker: `music channel` and :newspaper: `bot_chat`.
+26 Feb 2017 22:08:35 : Unity Of Nirvana, bot_chat, Third_Worm#4804, =music l
+26 Feb 2017 22:08:36 : Unity Of Nirvana, bot_chat, Ayana#8911, ​:no_entry: Left and unbound channels.
+26 Feb 2017 22:09:00 : Unity Of Nirvana, bot_chat, Third_Worm#4804, =music j
+26 Feb 2017 22:09:04 : Unity Of Nirvana, bot_chat, Third_Worm#4804, fuuuck
+26 Feb 2017 22:09:04 : Unity Of Nirvana, bot_chat, Ayana#8911, ​:white_check_mark: Joined and bound to :speaker: `music channel` and :newspaper: `bot_chat`.
+26 Feb 2017 22:10:53 : Unity Of Nirvana, bot_chat, Third_Worm#4804, =music q
+26 Feb 2017 22:10:54 : Unity Of Nirvana, bot_chat, Ayana#8911, ​Use `sq`|`showqueue` to see the queue.
+26 Feb 2017 22:10:58 : Unity Of Nirvana, bot_chat, Third_Worm#4804, =music sq
+26 Feb 2017 22:10:58 : Unity Of Nirvana, bot_chat, Ayana#8911, ```css
+[Music Queue]
+
+ 1 : 【AMV】Trafalgar Law - "This is War"
+ 2 : Fairy Tail |AMV| - War of Change
+ 3 : 【★Booty Swing - Complete OC MAP★】
+ 4 : Caravan Palace - Lone Digger
+```
+26 Feb 2017 22:11:06 : Unity Of Nirvana, bot_chat, Third_Worm#4804, =music play
+26 Feb 2017 22:11:08 : Unity Of Nirvana, bot_chat, Ayana#8911, ​:notes: Now playing: `【AMV】Trafalgar Law - "This is War"` requested by `Third_Worm#4804`
+26 Feb 2017 22:11:11 : Unity Of Nirvana, bot_chat, Third_Worm#4804, =music r all
+26 Feb 2017 22:11:11 : Unity Of Nirvana, bot_chat, Ayana#8911, ​:repeat: Repeating queue.
+26 Feb 2017 22:16:11 : Unity Of Nirvana, bot_chat, Ayana#8911, ​:notes: Now playing: `Fairy Tail |AMV| - War of Change` requested by `Third_Worm#4804`
+26 Feb 2017 22:18:36 : LimitlessMc, mainchat, MattRuc#5481, red do you still have your sax song thing?
+26 Feb 2017 22:18:42 : LimitlessMc, mainchat, MattRuc#5481, i accidently deleted the file
+26 Feb 2017 22:19:34 : LimitlessMc, mainchat, Red_Dragon_333#4168, yes
+26 Feb 2017 22:20:04 : Unity Of Nirvana, bot_chat, Ayana#8911, ​:notes: Now playing: `【★Booty Swing - Complete OC MAP★】` requested by `Third_Worm#4804`
+26 Feb 2017 22:20:09 : LimitlessMc, mainchat, Third_Worm#4804, saaaaaaxxx
+26 Feb 2017 22:20:15 : LimitlessMc, mainchat, Third_Worm#4804, ephone
+26 Feb 2017 22:20:49 : LimitlessMc, mainchat, Red_Dragon_333#4168, third
+26 Feb 2017 22:20:55 : LimitlessMc, mainchat, Red_Dragon_333#4168, y uu not in voice
+26 Feb 2017 22:22:42 : LimitlessMc, mainchat, Third_Worm#4804, i'm listening to music
+26 Feb 2017 22:23:57 : Unity Of Nirvana, bot_chat, Ayana#8911, ​:notes: Now playing: `Caravan Palace - Lone Digger` requested by `Third_Worm#4804`
+26 Feb 2017 22:24:01 : LimitlessMc, mainchat, Red_Dragon_333#4168, k
+26 Feb 2017 22:24:06 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+26 Feb 2017 22:24:06 : LimitlessMc, botchat, Botfuzzy77#2209, You *Lost* to a Level 42 **Dustox** (30% to beat)
+You **Beat** a Level 15 **Archen** for 76 XP (86% to beat)
+You *Lost* to a Level 13 **Carbink** (90% to beat)
+You *Lost* to a Level 18 **Crustle** (72% to beat)
+You **Beat** a Level 45 **Litwick** for 676 XP (28% to beat)
+You *Lost* to a Level 50 **Swalot** (26% to beat)
+You *Lost* to a Level 41 **Carracosta** (31% to beat)
+You **Beat** a Level 38 **Klang** for 482 XP (34% to beat)
+You Find a **Pokeloot** worth 493 XP
+26 Feb 2017 22:24:06 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 1727 (+ 172) XP
+26 Feb 2017 22:24:06 : LimitlessMc, botchat, Botfuzzy77#2209, You Have Leveled up from **26** to **27**!
+26 Feb 2017 22:24:08 : LimitlessMc, botchat, Wertfuzzy77#0274, 😄
+26 Feb 2017 22:26:50 : Unity Of Nirvana, bot_chat, Ayana#8911, ​:notes: Now playing: `【AMV】Trafalgar Law - "This is War"` requested by `Third_Worm#4804`
+26 Feb 2017 22:27:41 : LimitlessMc, mainchat, Third_Worm#4804, @Red_Dragon_333 Get on mc
+26 Feb 2017 22:27:42 : LimitlessMc, mainchat, Third_Worm#4804, Now
+26 Feb 2017 22:31:32 : Unity Of Nirvana, bot_chat, Third_Worm#4804, =music q https://youtu.be/esifJid0nvk
+26 Feb 2017 22:31:33 : Unity Of Nirvana, bot_chat, Ayana#8911, ​Enqueued: `Choutokkyuu (Bullet Train, 超特急) Ebiday Ebinai sub español- romanizado` to position **5**. Run `music play` to play the queue.
+26 Feb 2017 22:31:53 : Unity Of Nirvana, bot_chat, Ayana#8911, ​:notes: Now playing: `Fairy Tail |AMV| - War of Change` requested by `Third_Worm#4804`
+26 Feb 2017 22:34:35 : Unity Of Nirvana, bot_chat, Third_Worm#4804, =music q https://www.youtube.com/watch?v=Pjicghn3_2M
+26 Feb 2017 22:34:36 : Unity Of Nirvana, bot_chat, Ayana#8911, ​Enqueued: `Steven Universe - What's the Use of Feeling Blue (Remix feat. Jenny)` to position **6**. Run `music play` to play the queue.
+26 Feb 2017 22:34:43 : LimitlessMc, mainchat, Third_Worm#4804, @Crystal4209 Moring
+26 Feb 2017 22:34:45 : LimitlessMc, mainchat, Third_Worm#4804, Morning
+26 Feb 2017 22:35:47 : Unity Of Nirvana, bot_chat, Ayana#8911, ​:notes: Now playing: `【★Booty Swing - Complete OC MAP★】` requested by `Third_Worm#4804`
+26 Feb 2017 22:36:25 : LimitlessMc, mainchat, Dasher#6390, @Staff So, whenever I try to battle a pokemon, this pops up (https://gyazo.com/602cd976ee8f54820bd2ae39f7ab7653), and then I have to end up relogging
+26 Feb 2017 22:36:27 : Cipher, music, Wertfuzzy77#0274, ;loop 2
+26 Feb 2017 22:36:28 : Cipher, music, Botfuzzy77#2209, Added '*Coldplay - Fix You*' **2** more times
+26 Feb 2017 22:36:51 : LimitlessMc, mainchat, Dasher#6390, Im not sure what I did ;-;
+26 Feb 2017 22:37:36 : LimitlessMc, mainchat, That-Guy-Gilly#6803, everytime?
+26 Feb 2017 22:38:52 : LimitlessMc, mainchat, Crystal4209#4698, Tf is with all the pinging
+26 Feb 2017 22:38:56 : LimitlessMc, mainchat, Dasher#6390, yea
+26 Feb 2017 22:39:15 : LimitlessMc, mainchat, Dasher#6390, Used different pokemon too, so its not a specific one
+26 Feb 2017 22:39:38 : Unity Of Nirvana, bot_chat, Ayana#8911, ​:notes: Now playing: `Caravan Palace - Lone Digger` requested by `Third_Worm#4804`
+26 Feb 2017 22:39:49 : LimitlessMc, mainchat, Jay113355#4999, Any side mods installed?
+26 Feb 2017 22:40:04 : LimitlessMc, mainchat, Jay113355#4999, What launcher?
+26 Feb 2017 22:40:09 : LimitlessMc, mainchat, Dasher#6390, Schematica and Lunatris core
+26 Feb 2017 22:40:13 : LimitlessMc, mainchat, Dasher#6390, Pixelmon Launcher
+26 Feb 2017 22:41:02 : Unity Of Nirvana, bot_chat, Third_Worm#4804, =music q https://www.youtube.com/watch?v=f-0UCPOy4Fo
+26 Feb 2017 22:41:04 : Unity Of Nirvana, bot_chat, Ayana#8911, ​Enqueued: `Steven Universe - Something Entirely New (Remix feat. Adriana Figueroa & Miku-Tan)` to position **7**. Run `music play` to play the queue.
+26 Feb 2017 22:41:45 : LimitlessMc, mainchat, Dasher#6390, Gonna restart the client, see if that works
+26 Feb 2017 22:41:49 : Unity Of Nirvana, bot_chat, DicloniusPony#6564, hai @#FuzzyRuthlessJayFazingRainbow XD
+26 Feb 2017 22:41:54 : Unity Of Nirvana, bot_chat, Third_Worm#4804, Hello!
+26 Feb 2017 22:41:59 : Unity Of Nirvana, bot_chat, Third_Worm#4804, Welcome to the fun house
+26 Feb 2017 22:42:00 : Unity Of Nirvana, bot_chat, DicloniusPony#6564, shhh i've come to enjoy moosic
+26 Feb 2017 22:42:16 : Unity Of Nirvana, bot_chat, Third_Worm#4804, kk
+26 Feb 2017 22:42:31 : Unity Of Nirvana, bot_chat, Ayana#8911, ​:notes: Now playing: `Choutokkyuu (Bullet Train, 超特急) Ebiday Ebinai sub español- romanizado` requested by `Third_Worm#4804`
+26 Feb 2017 22:42:39 : Unity Of Nirvana, bot_chat, Third_Worm#4804, *waits*
+26 Feb 2017 22:42:41 : Unity Of Nirvana, bot_chat, Third_Worm#4804, okay
+26 Feb 2017 22:42:54 : Unity Of Nirvana, bot_chat, DicloniusPony#6564, o lordy
+26 Feb 2017 22:43:01 : Unity Of Nirvana, bot_chat, Third_Worm#4804, snoolers song
+26 Feb 2017 22:43:06 : Unity Of Nirvana, bot_chat, Third_Worm#4804, bullet train
+26 Feb 2017 22:43:09 : LimitlessMc, mainchat, Dasher#6390, mk
+26 Feb 2017 22:43:15 : LimitlessMc, mainchat, Dasher#6390, that fixed it
+26 Feb 2017 22:46:04 : Unity Of Nirvana, bot_chat, DicloniusPony#6564, rip my cat got out hold on
+26 Feb 2017 22:46:17 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ah okay
+26 Feb 2017 22:46:22 : Unity Of Nirvana, bot_chat, Third_Worm#4804, i gotta go afk for a bit
+26 Feb 2017 22:46:27 : Unity Of Nirvana, bot_chat, Third_Worm#4804, have fun with music 😄
+26 Feb 2017 22:47:48 : Unity Of Nirvana, bot_chat, Ayana#8911, ​:notes: Now playing: `【AMV】Trafalgar Law - "This is War"` requested by `Third_Worm#4804`
+26 Feb 2017 22:52:41 : LimitlessMc, botchat, Crystal4209#4698, ;server
+26 Feb 2017 22:52:42 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+26 Feb 2017 22:52:42 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 19 players out of 100
+ *Ping*: 147.612 ms
+ *MC Version*: 1.10.2
+26 Feb 2017 22:52:42 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.1
+26 Feb 2017 22:52:42 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *Dasherstrike, Red_Dragon_333, Cryotrees, MattPhilC, THEnavie, Mojokojo, killjill87, Leafeon_, Dwheels03, Boyface03, Mining_Zoroark, Beyond...*
+26 Feb 2017 22:52:50 : Unity Of Nirvana, bot_chat, Ayana#8911, ​:notes: Now playing: `Steven Universe - What's the Use of Feeling Blue (Remix feat. Jenny)` requested by `Third_Worm#4804`
+26 Feb 2017 22:52:53 : LimitlessMc, botchat, Crystal4209#4698, ;train
+26 Feb 2017 22:52:53 : LimitlessMc, botchat, Botfuzzy77#2209, You *Lost* to a Level 34 **Anorith** (29% to beat)
+You *Lost* to a Level 23 **Masquerain** (43% to beat)
+You **Beat** a Level 18 **Gorebyss** for 109 XP (55% to beat)
+You **Beat** a Level 30 **Abra** for 301 XP (33% to beat)
+You **Beat** a Level 12 **Unown** for 49 XP (83% to beat)
+You *Lost* to a Level 18 **Palkia** (55% to beat)
+You Find a **Pokeloot** worth 232 XP
+You Find a **Ultra Pokeloot** worth 1,112 XP
+26 Feb 2017 22:52:53 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 1618 (+ 161) XP
+26 Feb 2017 22:52:53 : LimitlessMc, botchat, Botfuzzy77#2209, You Have Leveled up from **20** to **21**!
+26 Feb 2017 22:52:54 : Unity Of Nirvana, bot_chat, DicloniusPony#6564, woop
+26 Feb 2017 22:53:00 : Unity Of Nirvana, bot_chat, DicloniusPony#6564, my sonnggg
+26 Feb 2017 22:53:15 : Unity Of Nirvana, bot_chat, DicloniusPony#6564, @ruleroftri get in the music chat
+26 Feb 2017 22:53:19 : Unity Of Nirvana, bot_chat, DicloniusPony#6564, voice music
+26 Feb 2017 22:55:25 : nein, general, jjtwilefc#0051, Third gave hers to Justin
+26 Feb 2017 22:55:32 : Unity Of Nirvana, bot_chat, Ayana#8911, ​:notes: Now playing: `Fairy Tail |AMV| - War of Change` requested by `Third_Worm#4804`
+26 Feb 2017 22:56:05 : LimitlessMc, botchat, TherminatorX#6644, ;cd
+26 Feb 2017 22:56:05 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You can Train right now!
+**Gamble**
+You can Gamble right now!
+26 Feb 2017 22:56:09 : LimitlessMc, botchat, TherminatorX#6644, ;train
+26 Feb 2017 22:56:09 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 25 **Pyroar** for 209 XP (36% to beat)
+You **Beat** a Level 19 **Salamence** for 121 XP (47% to beat)
+You *Lost* to a Level 11 **Metagross** (81% to beat)
+You **Beat** a Level 31 **Lickilicky** for 321 XP (29% to beat)
+You *Lost* to a Level 28 **Basculin** (32% to beat)
+You *Lost* to a Level 33 **Clauncher** (27% to beat)
+You Find a **Pokeloot** worth 172 XP
+26 Feb 2017 22:56:09 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 823 (+ 172) XP
+26 Feb 2017 22:56:26 : Unity Of Nirvana, bot_chat, ruleroftri#6648, I'm still at work
+26 Feb 2017 22:57:56 : Unity Of Nirvana, bot_chat, Third_Worm#4804, Good stay in work
+26 Feb 2017 22:58:00 : Unity Of Nirvana, bot_chat, Third_Worm#4804, for 1 more hour
+26 Feb 2017 22:58:03 : Unity Of Nirvana, bot_chat, Third_Worm#4804, then come home
+26 Feb 2017 22:58:18 : LimitlessMc, mainchat, Third_Worm#4804, i'm back
+26 Feb 2017 22:58:21 : LimitlessMc, mainchat, Third_Worm#4804, from the dead
+26 Feb 2017 22:59:23 : Unity Of Nirvana, bot_chat, ruleroftri#6648, Lol, I still got 2.5 hours
+26 Feb 2017 22:59:25 : Unity Of Nirvana, bot_chat, Ayana#8911, ​:notes: Now playing: `【★Booty Swing - Complete OC MAP★】` requested by `Third_Worm#4804`
+26 Feb 2017 22:59:32 : Unity Of Nirvana, bot_chat, Third_Worm#4804, 1 more hour 😄
+26 Feb 2017 22:59:39 : Unity Of Nirvana, bot_chat, Third_Worm#4804, then come home early
+26 Feb 2017 22:59:46 : Unity Of Nirvana, bot_chat, Third_Worm#4804, i'm a impatient fuck
+26 Feb 2017 22:59:50 : Unity Of Nirvana, bot_chat, Third_Worm#4804, who can't keep a promise
+26 Feb 2017 23:00:29 : Unity Of Nirvana, bot_chat, ruleroftri#6648, Lel, I wish
+26 Feb 2017 23:01:36 : Cipher, cala, Wertfuzzy77#0274, @Calamariela
+26 Feb 2017 23:01:39 : Cipher, cala, Wertfuzzy77#0274, http://timeanddate.com/s/374z
+26 Feb 2017 23:02:22 : LimitlessMc, mainchat, Crystal4209#4698, Ok
+26 Feb 2017 23:02:32 : LimitlessMc, mainchat, Third_Worm#4804, - .-
+26 Feb 2017 23:02:33 : LimitlessMc, mainchat, Crystal4209#4698, Now join voice
+26 Feb 2017 23:02:42 : LimitlessMc, mainchat, Third_Worm#4804, i'm listening to gud music tho?
+26 Feb 2017 23:02:54 : LimitlessMc, mainchat, Crystal4209#4698, Boo
+26 Feb 2017 23:03:17 : Unity Of Nirvana, bot_chat, Ayana#8911, ​:notes: Now playing: `Steven Universe - Something Entirely New (Remix feat. Adriana Figueroa & Miku-Tan)` requested by `Third_Worm#4804`
+26 Feb 2017 23:03:31 : Unity Of Nirvana, bot_chat, DicloniusPony#6564, rip @#FuzzyRuthlessJayFazingRainbow you left me
+26 Feb 2017 23:03:45 : Unity Of Nirvana, bot_chat, Third_Worm#4804, fucking @#SHIP_CrystalBit is a whiny ass
+26 Feb 2017 23:03:56 : Unity Of Nirvana, bot_chat, ruleroftri#6648, You didn't hear it did you @DicloniusPony
+26 Feb 2017 23:04:25 : Unity Of Nirvana, bot_chat, DicloniusPony#6564, yes i heard the bullet train
+26 Feb 2017 23:04:40 : LimitlessMc, mainchat, Third_Worm#4804, @Adam Crystal whines for you to get in here, now does she?>
+26 Feb 2017 23:05:13 : LimitlessMc, mainchat, Crystal4209#4698, @Wertfuzzy77 get chat boi, I want to hear your voice haven't heard it in so long
+26 Feb 2017 23:05:18 : LimitlessMc, mainchat, Third_Worm#4804, @Wertfuzzy77 and you
+26 Feb 2017 23:05:19 : LimitlessMc, mainchat, Third_Worm#4804, LOL
+26 Feb 2017 23:05:49 : LimitlessMc, mainchat, AlphaBit has Internet Problems#3869, I ship Mysty_Worm
+26 Feb 2017 23:06:00 : LimitlessMc, mainchat, Crystal4209#4698, ^
+26 Feb 2017 23:06:02 : LimitlessMc, mainchat, Third_Worm#4804, what
+26 Feb 2017 23:06:10 : LimitlessMc, mainchat, Third_Worm#4804, no no
+26 Feb 2017 23:06:15 : LimitlessMc, mainchat, Third_Worm#4804, Crystal_Worm
+26 Feb 2017 23:06:19 : LimitlessMc, mainchat, Third_Worm#4804, #isbest
+26 Feb 2017 23:06:34 : LimitlessMc, mainchat, Third_Worm#4804, wait @AlphaBit has Internet Problems Mystz?
+26 Feb 2017 23:06:36 : LimitlessMc, mainchat, Crystal4209#4698, GentlyWorming #IsBest
+26 Feb 2017 23:06:39 : LimitlessMc, mainchat, Third_Worm#4804, ^
+26 Feb 2017 23:06:40 : LimitlessMc, mainchat, Third_Worm#4804, le
+26 Feb 2017 23:06:48 : LimitlessMc, mainchat, DicloniusPony#6564, ReiPony tho
+26 Feb 2017 23:06:55 : LimitlessMc, mainchat, AlphaBit has Internet Problems#3869, MystyWorm
+26 Feb 2017 23:07:00 : LimitlessMc, mainchat, DicloniusPony#6564, *no one knows who rei is*
+26 Feb 2017 23:07:14 : LimitlessMc, mainchat, Third_Worm#4804, Old ex
+26 Feb 2017 23:07:17 : LimitlessMc, mainchat, DicloniusPony#6564, ye XD
+26 Feb 2017 23:07:18 : LimitlessMc, mainchat, Third_Worm#4804, new gf?
+26 Feb 2017 23:07:20 : LimitlessMc, mainchat, Third_Worm#4804, 😄
+26 Feb 2017 23:07:38 : LimitlessMc, mainchat, AlphaBit has Internet Problems#3869, Best ship of 2017
+26 Feb 2017 23:07:42 : LimitlessMc, mainchat, DicloniusPony#6564, im not dating her yet. Though i might reconsider, since shes changed and realized how much i cared for her *which i still do*
+26 Feb 2017 23:07:53 : Unity Of Nirvana, bot_chat, ruleroftri#6648, Riiiiip
+26 Feb 2017 23:07:55 : LimitlessMc, mainchat, Third_Worm#4804, @AlphaBit has Internet Problems AlphaWorm - 3-
+26 Feb 2017 23:08:03 : Unity Of Nirvana, bot_chat, ruleroftri#6648, Now I go kms
+26 Feb 2017 23:08:03 : Unity Of Nirvana, bot_chat, Ayana#8911, ​:no_entry_sign: Left channel due to inactivity.
+26 Feb 2017 23:08:10 : LimitlessMc, mainchat, AlphaBit has Internet Problems#3869, 😘
+26 Feb 2017 23:08:16 : LimitlessMc, mainchat, AlphaBit has Internet Problems#3869, Le
+26 Feb 2017 23:08:17 : LimitlessMc, mainchat, Crystal4209#4698, #FuzzyRuthlessJayFazingRainbow #IsBest
+26 Feb 2017 23:08:44 : LimitlessMc, mainchat, Third_Worm#4804, ^
+26 Feb 2017 23:08:47 : LimitlessMc, mainchat, Crystal4209#4698, #RobotWorm
+26 Feb 2017 23:08:50 : LimitlessMc, mainchat, Third_Worm#4804, le
+26 Feb 2017 23:08:55 : LimitlessMc, mainchat, Third_Worm#4804, #IronWorm
+26 Feb 2017 23:08:59 : LimitlessMc, mainchat, Third_Worm#4804, do it right
+26 Feb 2017 23:09:01 : LimitlessMc, mainchat, DicloniusPony#6564, #ReiPony
+26 Feb 2017 23:09:03 : LimitlessMc, mainchat, AlphaBit has Internet Problems#3869, Fixed health advisory at school clinic
+26 Feb 2017 23:09:09 : LimitlessMc, mainchat, AlphaBit has Internet Problems#3869, Boo
+26 Feb 2017 23:09:15 : LimitlessMc, mainchat, AlphaBit has Internet Problems#3869, Wont upload
+26 Feb 2017 23:09:24 : LimitlessMc, mainchat, Third_Worm#4804, aw
+26 Feb 2017 23:09:45 : LimitlessMc, mainchat, AlphaBit has Internet Problems#3869, 
+26 Feb 2017 23:10:01 : LimitlessMc, mainchat, Crystal4209#4698, @AlphaBit has Internet Problems send pics
+26 Feb 2017 23:12:26 : LimitlessMc, mainchat, TROLL#4110, Haha
+26 Feb 2017 23:12:41 : LimitlessMc, mainchat, TROLL#4110, HmMmm!
+26 Feb 2017 23:13:46 : LimitlessMc, mainchat, Crystal4209#4698, @That-Guy-Gilly get in voice boiiii
+26 Feb 2017 23:14:56 : LimitlessMc, botchat, Crystal4209#4698, ;server
+26 Feb 2017 23:14:58 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+26 Feb 2017 23:14:58 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 18 players out of 100
+ *Ping*: 149.697 ms
+ *MC Version*: 1.10.2
+26 Feb 2017 23:14:58 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.1
+26 Feb 2017 23:14:58 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *Tribush, Acosus, Mojokojo, TROLL, Leafeon_, Red_Dragon_333, Perceon, Cryotrees, pakamccormick, DAVEMAN123, killjill87, Dwheels03...*
+26 Feb 2017 23:15:25 : LimitlessMc, botchat, Crystal4209#4698, ;server
+26 Feb 2017 23:15:26 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+26 Feb 2017 23:15:26 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 18 players out of 100
+ *Ping*: 147.707 ms
+ *MC Version*: 1.10.2
+26 Feb 2017 23:15:26 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.1
+26 Feb 2017 23:15:26 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *Mojokojo, Dwheels03, pakamccormick, DAVEMAN123, TROLL, Perceon, killjill87, Tribush, Anexom, Leafeon_, DeadApe, Cryotrees...*
+26 Feb 2017 23:16:07 : LimitlessMc, botchat, Crystal4209#4698, ;server
+26 Feb 2017 23:16:08 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+26 Feb 2017 23:16:08 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 19 players out of 100
+ *Ping*: 166.189 ms
+ *MC Version*: 1.10.2
+26 Feb 2017 23:16:08 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.1
+26 Feb 2017 23:16:08 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *Acosus, Third_Worm, AussieAge, Cryotrees, Perceon, Dwheels03, TROLL, DAVEMAN123, Red_Dragon_333, killjill87, pakamccormick, Mojokojo...*
+26 Feb 2017 23:19:35 : Cipher, cala, Wertfuzzy77#0274, 
+26 Feb 2017 23:19:47 : Cipher, music, Wertfuzzy77#0274, ;songs
+26 Feb 2017 23:19:47 : Cipher, music, Botfuzzy77#2209, **The Following songs are in the Queue**
+26 Feb 2017 23:19:47 : Cipher, music, Botfuzzy77#2209, 1. Coldplay - Every Teardrop Is a Waterfall **Radio: Coldplay - Charlie Brown**
+	<https://www.youtube.com/watch?v=fyMhvkC3A84>
+2. Coldplay - Speed Of Sound **Radio: Coldplay - The Scientist**
+	<https://www.youtube.com/watch?v=0k_1kvDh2UA>
+3. Alan Walker - Faded **Radio: Coldplay - Hymn For The Weekend (Official Video)**
+	<https://www.youtube.com/watch?v=60ItHLz5WEA>
+4. Coldplay - Clocks **Radio: Coldplay - Paradise (Official Video)**
+	<https://www.youtube.com/watch?v=d020hcWA_Wg>
+5. Ed Sheeran - Shape of You [Official Video] **Radio: Rihanna - Diamonds**
+	<https://www.youtube.com/watch?v=JGwWNGJdvx8>
+Total Time is 0:20:54
+26 Feb 2017 23:21:13 : LimitlessMc, mainchat, LightBot#4090, Welcome @Pain to LimitlessMc!
+26 Feb 2017 23:21:21 : LimitlessMc, mainchat, Third_Worm#4804, Welcome
+26 Feb 2017 23:21:24 : LimitlessMc, mainchat, Crystal4209#4698, Welcome
+26 Feb 2017 23:21:25 : LimitlessMc, mainchat, Third_Worm#4804, i bet
+26 Feb 2017 23:21:34 : LimitlessMc, mainchat, Crystal4209#4698, Bet
+26 Feb 2017 23:22:52 : Cipher, cala, Wertfuzzy77#0274, heh, I lied, that might not be the right time now xD
+26 Feb 2017 23:23:12 : Cipher, cala, Wertfuzzy77#0274, still figuring out which flight to take 😛 But mom is alright with this
+26 Feb 2017 23:25:46 : LimitlessMc, mainchat, Crystal4209#4698, @Third_Worm bet you can't get Aussie in voice
+26 Feb 2017 23:27:01 : LimitlessMc, botchat, Crystal4209#4698, ;server
+26 Feb 2017 23:27:02 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+26 Feb 2017 23:27:02 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 23 players out of 100
+ *Ping*: 148.251 ms
+ *MC Version*: 1.10.2
+26 Feb 2017 23:27:02 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.1
+26 Feb 2017 23:27:02 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *killjill87, Yudok, Mojokojo, Perceon, Cryotrees, Leafeon_, AnimatedAlex, Tribush, Red_Dragon_333, Dwheels03, TROLL, pakamccormick...*
+26 Feb 2017 23:27:13 : LimitlessMc, botchat, Crystal4209#4698, ;server
+26 Feb 2017 23:27:14 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+26 Feb 2017 23:27:14 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 23 players out of 100
+ *Ping*: 147.974 ms
+ *MC Version*: 1.10.2
+26 Feb 2017 23:27:14 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.1
+26 Feb 2017 23:27:14 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *Red_Dragon_333, Mojokojo, AussieAge, Third_Worm, Leafeon_, Dwheels03, pakamccormick, Cryotrees, Perceon, killjill87, Acosus, TROLL...*
+26 Feb 2017 23:27:23 : LimitlessMc, botchat, Crystal4209#4698, ;server
+26 Feb 2017 23:27:24 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+26 Feb 2017 23:27:24 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 23 players out of 100
+ *Ping*: 149.845 ms
+ *MC Version*: 1.10.2
+26 Feb 2017 23:27:24 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.1
+26 Feb 2017 23:27:24 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *Shadowfire1217, HUGUETA, Skythian, Leafeon_, Tribush, Mojokojo, Yudok, Dwheels03, Yofro098, HawkEye75, AnimatedAlex, TROLL...*
+26 Feb 2017 23:27:57 : LimitlessMc, botchat, Crystal4209#4698, ;server
+26 Feb 2017 23:27:58 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+26 Feb 2017 23:27:58 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 23 players out of 100
+ *Ping*: 148.298 ms
+ *MC Version*: 1.10.2
+26 Feb 2017 23:27:58 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.1
+26 Feb 2017 23:27:58 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *AnimatedAlex, Yudok, Leafeon_, Skythian, HUGUETA, TROLL, Yofro098, Shadowfire1217, DeadApe, Dwheels03, Tribush, HawkEye75...*
+26 Feb 2017 23:29:04 : LimitlessMc, mainchat, Third_Worm#4804, @AussieAge
+26 Feb 2017 23:29:06 : LimitlessMc, mainchat, Third_Worm#4804, Hi
+26 Feb 2017 23:29:07 : LimitlessMc, mainchat, Third_Worm#4804, 😄
+26 Feb 2017 23:29:10 : LimitlessMc, mainchat, Third_Worm#4804, You should
+26 Feb 2017 23:29:11 : LimitlessMc, mainchat, Third_Worm#4804, um
+26 Feb 2017 23:29:13 : LimitlessMc, mainchat, Third_Worm#4804, join us
+26 Feb 2017 23:29:17 : LimitlessMc, mainchat, Third_Worm#4804, *must win bet*
+26 Feb 2017 23:29:39 : LimitlessMc, mainchat, Crystal4209#4698, Nah she's not gonna win the bet 😜
+26 Feb 2017 23:30:16 : LimitlessMc, mainchat, Third_Worm#4804, please
+26 Feb 2017 23:30:17 : LimitlessMc, mainchat, AussieAge#6629, I'm not joining voice so bet lost
+26 Feb 2017 23:30:19 : LimitlessMc, mainchat, Third_Worm#4804, ;-;
+26 Feb 2017 23:30:55 : Cipher, music, Wertfuzzy77#0274, ;songs
+26 Feb 2017 23:30:55 : Cipher, music, Botfuzzy77#2209, **The Following songs are in the Queue**
+26 Feb 2017 23:30:55 : Cipher, music, Botfuzzy77#2209, 1. Alan Walker - Faded **Radio: Coldplay - Hymn For The Weekend (Official Video)**
+	<https://www.youtube.com/watch?v=60ItHLz5WEA>
+2. Coldplay - Clocks **Radio: Coldplay - Paradise (Official Video)**
+	<https://www.youtube.com/watch?v=d020hcWA_Wg>
+3. Ed Sheeran - Shape of You [Official Video] **Radio: Rihanna - Diamonds**
+	<https://www.youtube.com/watch?v=JGwWNGJdvx8>
+4. Coldplay - The Scientist **Radio: Coldplay - Every Teardrop Is a Waterfall**
+	<https://www.youtube.com/watch?v=RB-RcX5DS5A>
+5. Coldplay - Clocks **Radio: Coldplay - Speed Of Sound**
+	<https://www.youtube.com/watch?v=d020hcWA_Wg>
+Total Time is 0:20:59
+26 Feb 2017 23:31:03 : Cipher, music, Wertfuzzy77#0274, ;skip
+26 Feb 2017 23:31:03 : Cipher, music, Botfuzzy77#2209, Skipping Coldplay - Speed Of Sound by request (Radio Song)
+26 Feb 2017 23:31:51 : LimitlessMc, mainchat, Crystal4209#4698, Ha
+26 Feb 2017 23:32:09 : LimitlessMc, mainchat, AussieAge#6629, there
+26 Feb 2017 23:32:15 : LimitlessMc, mainchat, Third_Worm#4804, i'll fuck that
+26 Feb 2017 23:32:21 : LimitlessMc, mainchat, Mystz#8072, same
+26 Feb 2017 23:32:31 : LimitlessMc, mainchat, AussieAge#6629, I do lol
+26 Feb 2017 23:32:33 : LimitlessMc, mainchat, Pain#3735, i would but im ape
+26 Feb 2017 23:32:40 : LimitlessMc, mainchat, Third_Worm#4804, lucky
+26 Feb 2017 23:33:12 : LimitlessMc, mainchat, Crystal4209#4698, @MattRuc i summon the!
+26 Feb 2017 23:33:38 : LimitlessMc, mainchat, AussieAge#6629, another 1
+26 Feb 2017 23:34:01 : LimitlessMc, mainchat, Third_Worm#4804, your really lucky ;-;
+26 Feb 2017 23:34:11 : LimitlessMc, mainchat, AlphaBit has Internet Problems#3869, Dafuq
+26 Feb 2017 23:34:22 : LimitlessMc, mainchat, AussieAge#6629, Now I'm getting off discord lol just had to prove the pics
+26 Feb 2017 23:34:34 : LimitlessMc, mainchat, Crystal4209#4698, Nuu
+26 Feb 2017 23:34:42 : LimitlessMc, mainchat, Crystal4209#4698, Gotta get in voice
+26 Feb 2017 23:34:51 : LimitlessMc, mainchat, AussieAge#6629, What for?
+26 Feb 2017 23:34:56 : LimitlessMc, mainchat, Third_Worm#4804, shes gorgeous ;-;
+26 Feb 2017 23:34:59 : LimitlessMc, mainchat, Third_Worm#4804, i have no idea
+26 Feb 2017 23:35:01 : LimitlessMc, mainchat, Crystal4209#4698, Uh duh stuff
+26 Feb 2017 23:35:08 : LimitlessMc, mainchat, Third_Worm#4804, she wants people in here, before she goes to school
+26 Feb 2017 23:35:12 : LimitlessMc, mainchat, AussieAge#6629, I know she is lol
+26 Feb 2017 23:35:25 : LimitlessMc, mainchat, Crystal4209#4698, That s very true
+26 Feb 2017 23:36:41 : LimitlessMc, mainchat, Jay113355#4999, The first one was a barbie doll
+26 Feb 2017 23:36:46 : LimitlessMc, mainchat, Crystal4209#4698, Lol
+26 Feb 2017 23:36:52 : LimitlessMc, mainchat, Red_Dragon_333#4168, jay i summon u in voice
+26 Feb 2017 23:37:04 : LimitlessMc, mainchat, Crystal4209#4698, Jay i summon the!
+26 Feb 2017 23:37:09 : LimitlessMc, mainchat, Jay113355#4999, na fam
+26 Feb 2017 23:37:12 : LimitlessMc, mainchat, StubbyMuffins#1053, lol
+26 Feb 2017 23:37:19 : LimitlessMc, mainchat, Jay113355#4999, hw is more important then you
+26 Feb 2017 23:37:23 : LimitlessMc, mainchat, Red_Dragon_333#4168, stubby got summoned too
+26 Feb 2017 23:37:25 : LimitlessMc, mainchat, Crystal4209#4698, ;-;
+26 Feb 2017 23:37:30 : LimitlessMc, mainchat, StubbyMuffins#1053, nigga you still doing homework
+26 Feb 2017 23:37:34 : LimitlessMc, mainchat, StubbyMuffins#1053, damn
+26 Feb 2017 23:37:34 : LimitlessMc, mainchat, Red_Dragon_333#4168, le
+26 Feb 2017 23:37:44 : LimitlessMc, mainchat, Red_Dragon_333#4168, u come voice stubby
+26 Feb 2017 23:37:52 : LimitlessMc, mainchat, Crystal4209#4698, Stubby i summon the!
+26 Feb 2017 23:37:53 : LimitlessMc, mainchat, StubbyMuffins#1053, i just woke up im cranky rn
+26 Feb 2017 23:37:59 : LimitlessMc, mainchat, Red_Dragon_333#4168, so?
+26 Feb 2017 23:38:04 : LimitlessMc, mainchat, StubbyMuffins#1053, i need a bit
+26 Feb 2017 23:38:08 : LimitlessMc, mainchat, Red_Dragon_333#4168, okay
+26 Feb 2017 23:38:10 : LimitlessMc, mainchat, Pain#3735, Don't use the n word
+26 Feb 2017 23:38:15 : LimitlessMc, mainchat, Pain#3735, it hurts me feelings
+26 Feb 2017 23:38:22 : LimitlessMc, mainchat, StubbyMuffins#1053, cry more k
+26 Feb 2017 23:38:26 : LimitlessMc, mainchat, Pain#3735, kk
+26 Feb 2017 23:38:27 : LimitlessMc, mainchat, Red_Dragon_333#4168, lel
+26 Feb 2017 23:38:28 : LimitlessMc, mainchat, Jay113355#4999, lol
+26 Feb 2017 23:38:30 : LimitlessMc, mainchat, AussieAge#6629, Lol jay a barbie doll to funny
+26 Feb 2017 23:38:34 : LimitlessMc, mainchat, Pain#3735, *cries more*
+26 Feb 2017 23:38:43 : LimitlessMc, mainchat, AussieAge#6629, She's a model lol
+26 Feb 2017 23:38:50 : LimitlessMc, mainchat, Red_Dragon_333#4168, *laughs more*
+26 Feb 2017 23:39:00 : LimitlessMc, mainchat, Pain#3735, stubby daddy still 🍆
+26 Feb 2017 23:39:04 : LimitlessMc, mainchat, Third_Worm#4804, coma back to hw is more importent to you
+26 Feb 2017 23:39:06 : LimitlessMc, mainchat, Third_Worm#4804, and a barbie
+26 Feb 2017 23:39:09 : LimitlessMc, mainchat, Third_Worm#4804, fuckin great
+26 Feb 2017 23:39:29 : LimitlessMc, mainchat, Pain#3735, *wondering if he still eats ass*
+26 Feb 2017 23:39:35 : LimitlessMc, mainchat, Crystal4209#4698, @Third_Worm bet you cant get jay to send a pic
+26 Feb 2017 23:39:40 : LimitlessMc, mainchat, StubbyMuffins#1053, oh yeah @Jay113355 i found online game like risk one time i kick ur ass okei
+26 Feb 2017 23:39:42 : LimitlessMc, mainchat, Third_Worm#4804, *facepalms*
+26 Feb 2017 23:39:59 : LimitlessMc, mainchat, Third_Worm#4804, @StubbyMuffins I'll rekt your ass in that game
+26 Feb 2017 23:40:02 : LimitlessMc, mainchat, Third_Worm#4804, i'm great at it
+26 Feb 2017 23:40:07 : LimitlessMc, mainchat, Crystal4209#4698, Bwet
+26 Feb 2017 23:40:10 : LimitlessMc, mainchat, Crystal4209#4698, Bet*
+26 Feb 2017 23:40:12 : LimitlessMc, mainchat, StubbyMuffins#1053, do you know what one im talking about
+26 Feb 2017 23:40:19 : LimitlessMc, mainchat, Third_Worm#4804, Risk
+26 Feb 2017 23:40:33 : LimitlessMc, mainchat, StubbyMuffins#1053, its called warlight
+26 Feb 2017 23:40:33 : LimitlessMc, mainchat, Third_Worm#4804, That game, Bet i can pull the link up to your using
+26 Feb 2017 23:40:38 : LimitlessMc, mainchat, Third_Worm#4804, Close enough
+26 Feb 2017 23:41:09 : LimitlessMc, mainchat, Jay113355#4999, @AussieAge Her teeth and eyes are printed on her face
+26 Feb 2017 23:41:19 : LimitlessMc, mainchat, Red_Dragon_333#4168, lol
+26 Feb 2017 23:41:20 : LimitlessMc, mainchat, Crystal4209#4698, Ohhh jay with the shots
+26 Feb 2017 23:41:24 : LimitlessMc, mainchat, Third_Worm#4804, Rip
+26 Feb 2017 23:41:25 : LimitlessMc, mainchat, StubbyMuffins#1053, i use my many brains abd beat jay cuz he pwn me in rocket league(
+26 Feb 2017 23:41:32 : LimitlessMc, mainchat, Third_Worm#4804, le
+26 Feb 2017 23:41:36 : LimitlessMc, mainchat, Crystal4209#4698, Lel
+26 Feb 2017 23:41:46 : LimitlessMc, mainchat, AussieAge#6629, Lol it's called make up lmmfao
+26 Feb 2017 23:41:47 : LimitlessMc, mainchat, Red_Dragon_333#4168, ill buy the game when i can @StubbyMuffins
+26 Feb 2017 23:41:53 : LimitlessMc, mainchat, StubbyMuffins#1053, its free
+26 Feb 2017 23:42:00 : LimitlessMc, mainchat, AussieAge#6629, All females wear it lol
+26 Feb 2017 23:42:02 : LimitlessMc, mainchat, Red_Dragon_333#4168, rocket league
+26 Feb 2017 23:42:04 : LimitlessMc, mainchat, StubbyMuffins#1053, its just a browser game
+26 Feb 2017 23:42:05 : LimitlessMc, mainchat, StubbyMuffins#1053, ohhh
+26 Feb 2017 23:42:07 : LimitlessMc, mainchat, Crystal4209#4698, Lol wrong
+26 Feb 2017 23:42:09 : LimitlessMc, mainchat, Third_Worm#4804, I hate make up
+26 Feb 2017 23:42:09 : LimitlessMc, mainchat, Crystal4209#4698, I dont
+26 Feb 2017 23:42:11 : LimitlessMc, mainchat, Third_Worm#4804, .-.
+26 Feb 2017 23:42:16 : LimitlessMc, mainchat, Crystal4209#4698, And never will
+26 Feb 2017 23:42:22 : LimitlessMc, mainchat, StubbyMuffins#1053, i wear eye liner sometimes when i feel spunky
+26 Feb 2017 23:42:35 : LimitlessMc, mainchat, AussieAge#6629, Stubby u got rocket league?
+26 Feb 2017 23:42:42 : LimitlessMc, mainchat, Third_Worm#4804, he been have it .-.
+26 Feb 2017 23:42:46 : LimitlessMc, mainchat, Third_Worm#4804, on pc i think
+26 Feb 2017 23:42:50 : LimitlessMc, mainchat, AussieAge#6629, To bad I can't kick your ass for ya
+26 Feb 2017 23:43:09 : LimitlessMc, mainchat, AussieAge#6629, I have it on PC n ps4
+26 Feb 2017 23:43:11 : LimitlessMc, mainchat, Crystal4209#4698, Gillys been kicking his ass on it...
+26 Feb 2017 23:43:42 : LimitlessMc, mainchat, StubbyMuffins#1053, gilly no life jay just lucky
+26 Feb 2017 23:43:51 : LimitlessMc, mainchat, StubbyMuffins#1053, we had such a fucking puck battle going eariler
+26 Feb 2017 23:43:59 : LimitlessMc, mainchat, AussieAge#6629, Would be hard Stubbs only good at eating ass not kicking it lol
+26 Feb 2017 23:44:02 : LimitlessMc, mainchat, StubbyMuffins#1053, 1v1 very hard
+26 Feb 2017 23:44:06 : LimitlessMc, mainchat, Crystal4209#4698, @Third_Worm i bet you cant get a picture of jay and you have to do this bet 😛
+26 Feb 2017 23:44:07 : LimitlessMc, mainchat, Third_Worm#4804, y'all needed to strim that shit
+26 Feb 2017 23:44:09 : LimitlessMc, mainchat, Third_Worm#4804, omfg
+26 Feb 2017 23:44:10 : LimitlessMc, mainchat, StubbyMuffins#1053, true story
+26 Feb 2017 23:44:12 : LimitlessMc, mainchat, AussieAge#6629, Wouldn't*
+26 Feb 2017 23:44:13 : LimitlessMc, mainchat, Third_Worm#4804, Woman
+26 Feb 2017 23:44:19 : LimitlessMc, mainchat, Third_Worm#4804, i can;t get a pic of jay ._.
+26 Feb 2017 23:44:24 : LimitlessMc, mainchat, Third_Worm#4804, well i mean
+26 Feb 2017 23:44:28 : LimitlessMc, mainchat, Third_Worm#4804, Yeah i can 😄
+26 Feb 2017 23:44:30 : LimitlessMc, mainchat, Crystal4209#4698, Atleast try woman
+26 Feb 2017 23:44:44 : LimitlessMc, mainchat, StubbyMuffins#1053, jay used to have his pic on skype
+26 Feb 2017 23:44:49 : LimitlessMc, mainchat, Third_Worm#4804, https://cdn.discordapp.com/attachments/148202028244402176/274073399926587402/06b0a44e-fbb2-43b8-908e-092ae3b295df677471845.jpg
+26 Feb 2017 23:44:49 : LimitlessMc, mainchat, Crystal4209#4698, Oh
+26 Feb 2017 23:44:50 : LimitlessMc, mainchat, AussieAge#6629, Nah Stubbs it's the server lag we would get lol
+26 Feb 2017 23:44:52 : LimitlessMc, mainchat, Third_Worm#4804, Boom
+26 Feb 2017 23:44:52 : LimitlessMc, mainchat, Mystz#8072, 😉
+26 Feb 2017 23:44:55 : LimitlessMc, mainchat, Third_Worm#4804, Pic of Jay
+26 Feb 2017 23:45:00 : LimitlessMc, mainchat, Third_Worm#4804, I win
+26 Feb 2017 23:45:06 : LimitlessMc, mainchat, Crystal4209#4698, Lol a clear picnof jay and not a triangle
+26 Feb 2017 23:45:15 : LimitlessMc, mainchat, Crystal4209#4698, Worm
+26 Feb 2017 23:45:18 : LimitlessMc, mainchat, Third_Worm#4804, (╯°□°）╯︵ ┻━┻
+26 Feb 2017 23:45:24 : LimitlessMc, mainchat, Crystal4209#4698, Thays a freaken red triangle
+26 Feb 2017 23:45:26 : LimitlessMc, mainchat, Third_Worm#4804, wait i can enhance that
+26 Feb 2017 23:45:26 : LimitlessMc, mainchat, AussieAge#6629, I'll lag like a bitch on your servers n u will lay on mine
+26 Feb 2017 23:45:28 : LimitlessMc, mainchat, Third_Worm#4804, No hush
+26 Feb 2017 23:45:29 : LimitlessMc, mainchat, Crystal4209#4698, Thats*
+26 Feb 2017 23:45:56 : LimitlessMc, mainchat, StubbyMuffins#1053, Look a jay
+26 Feb 2017 23:45:56 : LimitlessMc, mainchat, AussieAge#6629, Jays pic is still on Skype? Lol
+26 Feb 2017 23:46:12 : LimitlessMc, mainchat, Crystal4209#4698, Aussie im always lagging against them yet i somehow end up shooting it in the goal
+26 Feb 2017 23:46:22 : LimitlessMc, mainchat, Crystal4209#4698, Lol wtf stubby
+26 Feb 2017 23:46:25 : LimitlessMc, mainchat, StubbyMuffins#1053, 😄
+26 Feb 2017 23:46:41 : LimitlessMc, mainchat, StubbyMuffins#1053, its a pic of a j get it
+26 Feb 2017 23:46:42 : LimitlessMc, mainchat, StubbyMuffins#1053, lelelelelel
+26 Feb 2017 23:46:54 : LimitlessMc, mainchat, Crystal4209#4698, No when i mean by a pic2of jay i mean oh him and his actual face
+26 Feb 2017 23:47:14 : LimitlessMc, mainchat, AussieAge#6629, Look at Skype lol
+26 Feb 2017 23:47:19 : LimitlessMc, mainchat, Crystal4209#4698, Nkt even gonna correct the spelling
+26 Feb 2017 23:47:25 : LimitlessMc, mainchat, Crystal4209#4698, ..
+26 Feb 2017 23:47:36 : LimitlessMc, mainchat, AussieAge#6629, Jay has his pic on Skype lol
+26 Feb 2017 23:47:42 : LimitlessMc, mainchat, Crystal4209#4698, Oh send
+26 Feb 2017 23:47:43 : LimitlessMc, mainchat, Third_Worm#4804, 
+26 Feb 2017 23:47:45 : LimitlessMc, mainchat, Third_Worm#4804, boom
+26 Feb 2017 23:47:46 : LimitlessMc, mainchat, Third_Worm#4804, jay
+26 Feb 2017 23:47:52 : LimitlessMc, mainchat, Crystal4209#4698, Tf worm
+26 Feb 2017 23:47:56 : LimitlessMc, mainchat, Third_Worm#4804, i brighten it 😄
+26 Feb 2017 23:47:57 : LimitlessMc, mainchat, StubbyMuffins#1053, Jay with a face
+26 Feb 2017 23:48:00 : LimitlessMc, mainchat, Third_Worm#4804, ^
+26 Feb 2017 23:48:03 : LimitlessMc, mainchat, Third_Worm#4804, Best Jay
+26 Feb 2017 23:48:04 : LimitlessMc, mainchat, Crystal4209#4698, XD
+26 Feb 2017 23:48:28 : LimitlessMc, mainchat, Third_Worm#4804, like me and crystal
+26 Feb 2017 23:48:28 : LimitlessMc, mainchat, Crystal4209#4698, With actual skin , hair and suck and suck like a human duh
+26 Feb 2017 23:48:35 : LimitlessMc, mainchat, AussieAge#6629, Lol he just changed it!!
+26 Feb 2017 23:48:42 : LimitlessMc, mainchat, StubbyMuffins#1053, rekt
+26 Feb 2017 23:48:42 : LimitlessMc, mainchat, Third_Worm#4804, did you....
+26 Feb 2017 23:48:44 : LimitlessMc, mainchat, Third_Worm#4804, save it?
+26 Feb 2017 23:48:47 : LimitlessMc, mainchat, Jay113355#4999, suck and suck
+26 Feb 2017 23:48:48 : LimitlessMc, mainchat, Jay113355#4999, ?
+26 Feb 2017 23:48:50 : LimitlessMc, mainchat, Jay113355#4999, tf
+26 Feb 2017 23:48:57 : LimitlessMc, mainchat, Jay113355#4999, YEAH I VHANGED IT
+26 Feb 2017 23:48:57 : LimitlessMc, mainchat, AussieAge#6629, Lol jay
+26 Feb 2017 23:49:00 : LimitlessMc, mainchat, StubbyMuffins#1053, idk man idk these kids are strange
+26 Feb 2017 23:49:01 : LimitlessMc, mainchat, Jay113355#4999, YOUR TOO LATE
+26 Feb 2017 23:49:04 : LimitlessMc, mainchat, Third_Worm#4804, Lol
+26 Feb 2017 23:49:08 : LimitlessMc, mainchat, Crystal4209#4698, Spelling error
+26 Feb 2017 23:49:11 : LimitlessMc, mainchat, Crystal4209#4698, Shhh
+26 Feb 2017 23:49:12 : LimitlessMc, mainchat, AussieAge#6629, Lol I seen it
+26 Feb 2017 23:49:20 : LimitlessMc, mainchat, Jay113355#4999, also i saw your friend request
+26 Feb 2017 23:49:31 : LimitlessMc, mainchat, Jay113355#4999, from like weeks ago
+26 Feb 2017 23:49:32 : LimitlessMc, mainchat, Crystal4209#4698, Who?
+26 Feb 2017 23:49:39 : LimitlessMc, mainchat, AussieAge#6629, Lol yesh
+26 Feb 2017 23:49:43 : LimitlessMc, mainchat, AussieAge#6629, Yeah
+26 Feb 2017 23:49:48 : LimitlessMc, mainchat, Third_Worm#4804, Me and Crystal, searched for Jay's face for millions of years
+26 Feb 2017 23:49:51 : LimitlessMc, mainchat, Third_Worm#4804, we still
+26 Feb 2017 23:49:54 : LimitlessMc, mainchat, StubbyMuffins#1053, finish ur hw jay we need to puck battle
+26 Feb 2017 23:49:57 : LimitlessMc, mainchat, StubbyMuffins#1053, must regain honor
+26 Feb 2017 23:49:58 : LimitlessMc, mainchat, Third_Worm#4804, have not yet found a pic
+26 Feb 2017 23:50:02 : LimitlessMc, mainchat, Crystal4209#4698, Lel
+26 Feb 2017 23:50:06 : LimitlessMc, mainchat, Jay113355#4999, Gonna fail history..
+26 Feb 2017 23:50:12 : LimitlessMc, mainchat, AussieAge#6629, Seriously it's been on his Skype for weeks lol
+26 Feb 2017 23:50:13 : LimitlessMc, mainchat, Jay113355#4999, Tell me when your reeady
+26 Feb 2017 23:50:14 : LimitlessMc, mainchat, Jay113355#4999, wait
+26 Feb 2017 23:50:17 : LimitlessMc, mainchat, StubbyMuffins#1053, then just give up its okei i luv u bb
+26 Feb 2017 23:50:21 : LimitlessMc, mainchat, Jay113355#4999, let me update my driver first
+26 Feb 2017 23:50:24 : LimitlessMc, mainchat, StubbyMuffins#1053, okei
+26 Feb 2017 23:50:28 : LimitlessMc, mainchat, Crystal4209#4698, I mean i found you on snapchat jay..
+26 Feb 2017 23:50:35 : LimitlessMc, mainchat, Third_Worm#4804, North carolina was last to secede from the union
+26 Feb 2017 23:50:37 : LimitlessMc, mainchat, StubbyMuffins#1053, jay has snapchat o.O
+26 Feb 2017 23:50:41 : LimitlessMc, mainchat, Jay113355#4999, Well its easy to find me on snap chat
+26 Feb 2017 23:50:45 : LimitlessMc, mainchat, Jay113355#4999, Im jay113355
+26 Feb 2017 23:50:46 : LimitlessMc, mainchat, Crystal4209#4698, It is
+26 Feb 2017 23:50:48 : LimitlessMc, mainchat, AussieAge#6629, What u playing?
+26 Feb 2017 23:50:50 : LimitlessMc, mainchat, Jay113355#4999, Same for twitter
+26 Feb 2017 23:50:56 : LimitlessMc, mainchat, StubbyMuffins#1053, ewww u twitter to
+26 Feb 2017 23:51:01 : LimitlessMc, mainchat, Jay113355#4999, No XD
+26 Feb 2017 23:51:11 : LimitlessMc, mainchat, StubbyMuffins#1053, ok ok i was about to say que bag pipes
+26 Feb 2017 23:51:12 : LimitlessMc, mainchat, Jay113355#4999, but i save my name on every platform
+26 Feb 2017 23:51:17 : LimitlessMc, mainchat, DicloniusPony#6564, https://images.discordapp.net/.eJwNxEEOhCAMAMC_8AAKaLH4G4IEjUoJ1HjY7N935zAf9fRLrWoXaWMF2I6RuG96CPdYsi7M5cqxHUMnviGKxLTfucoAtwRj6b8LiNZ7cuAIEYMxM3pDNC12hqeeld-qWy3q-wMJwyLt.cBEbuU2hOPStDCRnTbIB4ZCWNmQ?width=400&height=430
+26 Feb 2017 23:51:20 : LimitlessMc, mainchat, DicloniusPony#6564, o XD
+26 Feb 2017 23:51:20 : LimitlessMc, mainchat, StubbyMuffins#1053, just to have it there? lel
+26 Feb 2017 23:51:22 : LimitlessMc, mainchat, Crystal4209#4698, Even facebook?
+26 Feb 2017 23:51:31 : LimitlessMc, mainchat, Third_Worm#4804, *claps* pony
+26 Feb 2017 23:51:40 : LimitlessMc, mainchat, Red_Dragon_333#4168, @StubbyMuffins  i might get it today 😉
+26 Feb 2017 23:51:42 : LimitlessMc, mainchat, Jay113355#4999, Na i hate facebook
+26 Feb 2017 23:51:46 : LimitlessMc, mainchat, StubbyMuffins#1053, noice
+26 Feb 2017 23:51:46 : LimitlessMc, mainchat, Third_Worm#4804, we would of found him on fb crystal
+26 Feb 2017 23:51:48 : LimitlessMc, mainchat, Third_Worm#4804, duh
+26 Feb 2017 23:51:54 : LimitlessMc, mainchat, DicloniusPony#6564, i have a facebook
+26 Feb 2017 23:51:54 : LimitlessMc, mainchat, Jay113355#4999, i deleted my account when they made the users the advertisers
+26 Feb 2017 23:51:59 : LimitlessMc, mainchat, DicloniusPony#6564, no one knows my account tho XD
+26 Feb 2017 23:52:06 : LimitlessMc, mainchat, DicloniusPony#6564, besides tri
+26 Feb 2017 23:52:06 : LimitlessMc, mainchat, Red_Dragon_333#4168, i hope my pc can run it tho @StubbyMuffins
+26 Feb 2017 23:52:22 : LimitlessMc, mainchat, Jay113355#4999, Whats your pc specs
+26 Feb 2017 23:52:22 : LimitlessMc, mainchat, Crystal4209#4698, Hm what other social media
+26 Feb 2017 23:52:23 : LimitlessMc, mainchat, StubbyMuffins#1053, its optimized pretty well except for jays pc for some reason it dont like it
+26 Feb 2017 23:52:26 : LimitlessMc, mainchat, Third_Worm#4804, bet me and crystal can find it pony
+26 Feb 2017 23:52:28 : LimitlessMc, mainchat, Jay113355#4999, ig
+26 Feb 2017 23:52:35 : LimitlessMc, mainchat, Red_Dragon_333#4168, my pc is a laptop le
+26 Feb 2017 23:52:43 : LimitlessMc, mainchat, Third_Worm#4804, mine is a laptop as well
+26 Feb 2017 23:52:44 : LimitlessMc, mainchat, Red_Dragon_333#4168, 8 gig ram
+26 Feb 2017 23:52:46 : Cipher, music, Wertfuzzy77#0274, ;song
+26 Feb 2017 23:52:46 : Cipher, music, Botfuzzy77#2209, **Name**: The Chainsmokers - Closer (Lyric) ft. Halsey
+**Requester**: Radio: Alan Walker - Faded
+**URL**: <https://www.youtube.com/watch?v=PT2_F-1esPk>
+```py
+Time: 0:04:22
+Views: 1,220,126,008
+Likes: 5,046,625, 95.52%
+Dislikes: 236,495, 4.48%
+Skips: 0/0```
+26 Feb 2017 23:52:49 : LimitlessMc, mainchat, Crystal4209#4698, Ah red
+26 Feb 2017 23:52:50 : LimitlessMc, mainchat, Red_Dragon_333#4168, 2 gig ded vid ram
+26 Feb 2017 23:52:51 : Cipher, music, Wertfuzzy77#0274, ;songs
+26 Feb 2017 23:52:51 : Cipher, music, Botfuzzy77#2209, **The Following songs are in the Queue**
+26 Feb 2017 23:52:51 : Cipher, music, Botfuzzy77#2209, 1. Coldplay - Yellow **Radio: Coldplay - Clocks**
+	<https://www.youtube.com/watch?v=yKNxeF4KMsY>
+2. Ed Sheeran - How Would You Feel (Paean) [Live] **Radio: Ed Sheeran - Shape of You [Official Video]**
+	<https://www.youtube.com/watch?v=wY473jAptyw>
+3. Coldplay - Adventure Of A Lifetime (Official Video) **Radio: Coldplay - The Scientist**
+	<https://www.youtube.com/watch?v=QtXby3twMmI>
+4. Coldplay - Paradise (Official Video) **Radio: Coldplay - Clocks**
+	<https://www.youtube.com/watch?v=1G4isv_Fylg>
+5. Ed Sheeran - Shape of You [Official Video] **Radio: The Chainsmokers - Closer (Lyric) ft. Halsey**
+	<https://www.youtube.com/watch?v=JGwWNGJdvx8>
+Total Time is 0:23:17
+26 Feb 2017 23:52:52 : LimitlessMc, mainchat, Third_Worm#4804, no idea what mine is le
+26 Feb 2017 23:52:55 : LimitlessMc, mainchat, StubbyMuffins#1053, whats processor
+26 Feb 2017 23:52:56 : LimitlessMc, mainchat, Jay113355#4999, Stubby i deleted my graphics driver
+26 Feb 2017 23:52:57 : LimitlessMc, mainchat, Jay113355#4999, XD
+26 Feb 2017 23:52:59 : LimitlessMc, mainchat, Crystal4209#4698, If my pc can run it yours can
+26 Feb 2017 23:53:00 : LimitlessMc, mainchat, Jay113355#4999, Its not installed
+26 Feb 2017 23:53:01 : LimitlessMc, mainchat, StubbyMuffins#1053, 😮
+26 Feb 2017 23:53:02 : LimitlessMc, mainchat, Red_Dragon_333#4168, idk lemme check
+26 Feb 2017 23:53:03 : LimitlessMc, mainchat, Jay113355#4999, Thats why
+26 Feb 2017 23:53:06 : LimitlessMc, mainchat, Third_Worm#4804, owow
+26 Feb 2017 23:53:07 : LimitlessMc, mainchat, Red_Dragon_333#4168, not intel ik
+26 Feb 2017 23:53:09 : LimitlessMc, mainchat, Jay113355#4999, its using the cpu
+26 Feb 2017 23:53:09 : LimitlessMc, mainchat, StubbyMuffins#1053, you on basic graphics atm?
+26 Feb 2017 23:53:11 : LimitlessMc, mainchat, Red_Dragon_333#4168, i think its amd
+26 Feb 2017 23:53:15 : LimitlessMc, mainchat, Red_Dragon_333#4168, yes
+26 Feb 2017 23:53:23 : LimitlessMc, mainchat, Red_Dragon_333#4168, i can play csgo on basics
+26 Feb 2017 23:53:25 : LimitlessMc, mainchat, StubbyMuffins#1053, i ment jay
+26 Feb 2017 23:53:40 : LimitlessMc, mainchat, Jay113355#4999, lowest that game could go
+26 Feb 2017 23:53:54 : LimitlessMc, mainchat, StubbyMuffins#1053, damn dude yeah somethign is fucked you should run it like buter
+26 Feb 2017 23:54:00 : LimitlessMc, mainchat, StubbyMuffins#1053, butter*
+26 Feb 2017 23:54:27 : LimitlessMc, mainchat, Jay113355#4999, its using the cpu
+26 Feb 2017 23:54:32 : LimitlessMc, mainchat, Jay113355#4999, the graphics driver was uninstalled
+26 Feb 2017 23:54:38 : LimitlessMc, mainchat, StubbyMuffins#1053, oooooooooooo
+26 Feb 2017 23:54:46 : LimitlessMc, mainchat, Crystal4209#4698, @Third_Worm are we missing any other social media's?
+26 Feb 2017 23:54:53 : LimitlessMc, mainchat, StubbyMuffins#1053, that would explain it you reinstal yes?
+26 Feb 2017 23:54:55 : LimitlessMc, mainchat, Jay113355#4999, instagram
+26 Feb 2017 23:54:56 : LimitlessMc, mainchat, Third_Worm#4804, I mean
+26 Feb 2017 23:54:59 : LimitlessMc, mainchat, Red_Dragon_333#4168, my processor is amd a8 5550M
+26 Feb 2017 23:55:03 : LimitlessMc, mainchat, Third_Worm#4804, yeah that
+26 Feb 2017 23:55:54 : LimitlessMc, mainchat, Crystal4209#4698, Lel
+26 Feb 2017 23:56:32 : LimitlessMc, mainchat, Third_Worm#4804, Our secrets crystal
+26 Feb 2017 23:56:42 : LimitlessMc, mainchat, Third_Worm#4804, i thought we were keeping that a secret
+26 Feb 2017 23:56:49 : LimitlessMc, mainchat, AussieAge#6629, Stalkers alert
+26 Feb 2017 23:56:55 : LimitlessMc, mainchat, Crystal4209#4698, @Third_Worm i bst you cant get a pic of wert
+26 Feb 2017 23:56:59 : LimitlessMc, mainchat, Third_Worm#4804, BET
+26 Feb 2017 23:57:00 : LimitlessMc, mainchat, Crystal4209#4698, Bet*
+26 Feb 2017 23:57:03 : LimitlessMc, mainchat, StubbyMuffins#1053, she has video
+26 Feb 2017 23:57:10 : LimitlessMc, mainchat, Crystal4209#4698, That is true
+26 Feb 2017 23:57:16 : LimitlessMc, mainchat, Crystal4209#4698, I have video to..
+26 Feb 2017 23:57:18 : LimitlessMc, mainchat, StubbyMuffins#1053, he really good on piano
+26 Feb 2017 23:57:23 : LimitlessMc, mainchat, StubbyMuffins#1053, fire even
+26 Feb 2017 23:57:32 : LimitlessMc, mainchat, StubbyMuffins#1053, @Wertfuzzy77
+26 Feb 2017 23:57:59 : LimitlessMc, mainchat, Third_Worm#4804, https://drive.google.com/file/d/0B-EJizTb_gDIYmdRQVVaRkFXcWs/view?usp=drivesdk
+26 Feb 2017 23:58:01 : LimitlessMc, mainchat, StubbyMuffins#1053, also jay you use nividia or amd
+26 Feb 2017 23:58:06 : LimitlessMc, mainchat, Third_Worm#4804, https://cdn.discordapp.com/attachments/254590070885974017/261026632792276992/Thingy.mp4
+26 Feb 2017 23:58:12 : LimitlessMc, mainchat, Third_Worm#4804, I win
+26 Feb 2017 23:58:25 : LimitlessMc, mainchat, Crystal4209#4698, @Third_Worm bet you cant find a picture of justin
+26 Feb 2017 23:58:48 : LimitlessMc, mainchat, Third_Worm#4804, BET
+26 Feb 2017 23:58:51 : LimitlessMc, mainchat, StubbyMuffins#1053, low key hunting nudes
+26 Feb 2017 23:58:56 : LimitlessMc, mainchat, JustinOPGamer#9138, lol
+26 Feb 2017 23:58:57 : LimitlessMc, mainchat, StubbyMuffins#1053, i know what you womens doin
+26 Feb 2017 23:58:59 : LimitlessMc, mainchat, Third_Worm#4804, Night
+26 Feb 2017 23:59:04 : LimitlessMc, mainchat, TROLL#4110, cya
+26 Feb 2017 23:59:11 : LimitlessMc, mainchat, Red_Dragon_333#4168, cya
+26 Feb 2017 23:59:12 : LimitlessMc, mainchat, StubbyMuffins#1053, night man
+26 Feb 2017 23:59:17 : LimitlessMc, mainchat, JustinOPGamer#9138, stubby Rocket league?
+26 Feb 2017 23:59:18 : LimitlessMc, mainchat, Crystal4209#4698, Night
+26 Feb 2017 23:59:20 : LimitlessMc, mainchat, DicloniusPony#6564, anyone good with math graphing?
+26 Feb 2017 23:59:20 : LimitlessMc, mainchat, StubbyMuffins#1053, idk whos going to sleep but gn love u bb
+26 Feb 2017 23:59:23 : LimitlessMc, mainchat, DicloniusPony#6564, i need help ;-;
+26 Feb 2017 23:59:31 : LimitlessMc, mainchat, StubbyMuffins#1053, i need like 10 more mins to wake up i need a bowl and a cig
+26 Feb 2017 23:59:37 : Cipher, cala, Wertfuzzy77#0274, http://timeanddate.com/s/3750
+26 Feb 2017 23:59:37 : LimitlessMc, mainchat, JustinOPGamer#9138, ok lol
+26 Feb 2017 23:59:38 : LimitlessMc, mainchat, StubbyMuffins#1053, its like coffee for stubbys
+26 Feb 2017 23:59:40 : Cipher, cala, Wertfuzzy77#0274, there
+26 Feb 2017 23:59:40 : LimitlessMc, mainchat, Third_Worm#4804, https://cdn.discordapp.com/attachments/257216431928770570/278655357168123904/image.png
+26 Feb 2017 23:59:42 : LimitlessMc, mainchat, Third_Worm#4804, BET
+26 Feb 2017 23:59:42 : Cipher, cala, Wertfuzzy77#0274, that one better
+26 Feb 2017 23:59:49 : LimitlessMc, mainchat, JustinOPGamer#9138, ayyy
+26 Feb 2017 23:59:49 : LimitlessMc, mainchat, Crystal4209#4698, XD
+26 Feb 2017 23:59:52 : LimitlessMc, mainchat, JustinOPGamer#9138, dat me
+26 Feb 2017 23:59:53 : LimitlessMc, mainchat, StubbyMuffins#1053, 10/10 would bang
+26 Feb 2017 23:59:54 : LimitlessMc, mainchat, DicloniusPony#6564, @StubbyMuffins are you good with math?
+26 Feb 2017 23:59:57 : LimitlessMc, mainchat, StubbyMuffins#1053, i am not
+26 Feb 2017 23:59:59 : LimitlessMc, mainchat, DicloniusPony#6564, rip
+27 Feb 2017 00:00:05 : LimitlessMc, mainchat, JustinOPGamer#9138, stubby thank xD, but no sorry
+27 Feb 2017 00:00:11 : LimitlessMc, mainchat, DicloniusPony#6564, *pony needs help with her math homework*
+27 Feb 2017 00:00:12 : LimitlessMc, mainchat, DicloniusPony#6564, XD
+27 Feb 2017 00:00:13 : LimitlessMc, mainchat, NarcoticMile#6198, im going to shoot my self
+27 Feb 2017 00:00:14 : LimitlessMc, mainchat, StubbyMuffins#1053, its ok no choice anyway 😄
+27 Feb 2017 00:00:15 : Cipher, cala, Wertfuzzy77#0274, 
+27 Feb 2017 00:00:17 : LimitlessMc, mainchat, JustinOPGamer#9138, lol
+27 Feb 2017 00:00:23 : LimitlessMc, mainchat, Chelsea#6637, I am decent depending on the math. What is it? *creepin*
+27 Feb 2017 00:00:27 : LimitlessMc, mainchat, NarcoticMile#6198, fucking hate life about to go gay
+27 Feb 2017 00:00:34 : LimitlessMc, mainchat, JustinOPGamer#9138, Hi @Chelsea
+27 Feb 2017 00:00:47 : LimitlessMc, mainchat, Chelsea#6637, Hi Justin o:
+27 Feb 2017 00:00:49 : LimitlessMc, mainchat, DicloniusPony#6564, its y= 2x - 5 graphing
+27 Feb 2017 00:01:07 : LimitlessMc, mainchat, StubbyMuffins#1053, lel that looks like chinnese
+27 Feb 2017 00:01:09 : LimitlessMc, mainchat, Crystal4209#4698, @Third_Worm bet you cant call stubby daddy everytime you talk to him for the whole day , gotta say it in voice to
+27 Feb 2017 00:01:11 : LimitlessMc, mainchat, StubbyMuffins#1053, im dumb
+27 Feb 2017 00:01:13 : LimitlessMc, mainchat, StubbyMuffins#1053, 😦
+27 Feb 2017 00:01:18 : LimitlessMc, mainchat, StubbyMuffins#1053, but im pretty so its okei
+27 Feb 2017 00:01:35 : LimitlessMc, mainchat, Chelsea#6637, So you just have to graph the equation?
+27 Feb 2017 00:01:48 : LimitlessMc, mainchat, Wertfuzzy77#0274, https://www.wolframalpha.com/
+27 Feb 2017 00:01:53 : LimitlessMc, mainchat, DicloniusPony#6564, https://images.discordapp.net/.eJwVxmEKhCAQQOG7eADHBpO124iJxdaMOBP9iO6-Lo8P3mOufpjFbKpNFoB1l8x9taLcUy22MtejpLaLzXxCUk15OwupAAaHwQcf4zCN9YCfeQ7o4r84TAgXfYlvso2qeX8JSCLt.0aBx4lSz0qFQCnTu4RC6-gDscAY
+27 Feb 2017 00:01:56 : LimitlessMc, mainchat, DicloniusPony#6564, basically this
+27 Feb 2017 00:01:58 : LimitlessMc, mainchat, JustinOPGamer#9138, Chelsea give stubby a good smack right across the face to wake him up then get him his cig
+27 Feb 2017 00:02:04 : LimitlessMc, mainchat, StubbyMuffins#1053, third one
+27 Feb 2017 00:02:05 : LimitlessMc, mainchat, Wertfuzzy77#0274, this will get you through everything up until like junior year College
+27 Feb 2017 00:02:32 : LimitlessMc, mainchat, Third_Worm#4804, @StubbyMuffins Hey daddy, @Chelsea Hey mommy
+27 Feb 2017 00:02:37 : LimitlessMc, mainchat, JustinOPGamer#9138, ^
+27 Feb 2017 00:02:39 : LimitlessMc, mainchat, JustinOPGamer#9138, same
+27 Feb 2017 00:02:45 : LimitlessMc, mainchat, Chelsea#6637, I already provided the cig and gimme a minute to refresh on graphing and I got you Pony
+27 Feb 2017 00:02:48 : LimitlessMc, mainchat, Wertfuzzy77#0274, is the 3rd one tho
+27 Feb 2017 00:02:50 : LimitlessMc, mainchat, Chelsea#6637, Hello Daughter XD
+27 Feb 2017 00:02:52 : LimitlessMc, mainchat, Mystz#8072, go down 5
+27 Feb 2017 00:02:58 : LimitlessMc, mainchat, Mystz#8072, up 2 right 1
+27 Feb 2017 00:02:59 : LimitlessMc, mainchat, Third_Worm#4804, 😄
+27 Feb 2017 00:03:01 : LimitlessMc, mainchat, StubbyMuffins#1053, i know it is
+27 Feb 2017 00:03:05 : LimitlessMc, mainchat, StubbyMuffins#1053, thats why i said it
+27 Feb 2017 00:03:07 : LimitlessMc, mainchat, StubbyMuffins#1053, herp
+27 Feb 2017 00:03:10 : LimitlessMc, mainchat, Wertfuzzy77#0274, ik 😛 i just said it again
+27 Feb 2017 00:03:13 : LimitlessMc, mainchat, JustinOPGamer#9138, Third does that mean we brother and sister??
+27 Feb 2017 00:03:38 : LimitlessMc, mainchat, DicloniusPony#6564, incest
+27 Feb 2017 00:03:38 : LimitlessMc, mainchat, Crystal4209#4698, Hm..
+27 Feb 2017 00:03:40 : LimitlessMc, mainchat, Third_Worm#4804, Doesn't Justin look like he's from twlight, yeah bro
+27 Feb 2017 00:03:52 : LimitlessMc, mainchat, JustinOPGamer#9138, third thats a ad pic tho
+27 Feb 2017 00:03:57 : LimitlessMc, mainchat, JustinOPGamer#9138, thats after school on the bus
+27 Feb 2017 00:04:03 : LimitlessMc, mainchat, StubbyMuffins#1053, yeah your real cute man
+27 Feb 2017 00:04:05 : LimitlessMc, mainchat, StubbyMuffins#1053, mmmm
+27 Feb 2017 00:04:17 : LimitlessMc, mainchat, Third_Worm#4804, Daddy please no
+27 Feb 2017 00:04:22 : LimitlessMc, mainchat, JustinOPGamer#9138, stubby well u r my dad
+27 Feb 2017 00:04:31 : LimitlessMc, mainchat, JustinOPGamer#9138, must get it from u and chelsea
+27 Feb 2017 00:04:41 : LimitlessMc, mainchat, StubbyMuffins#1053, we r pretty
+27 Feb 2017 00:04:46 : LimitlessMc, mainchat, Mystz#8072, ur gay
+27 Feb 2017 00:05:01 : LimitlessMc, mainchat, JustinOPGamer#9138, third got the bad genetics (She is very short)
+27 Feb 2017 00:05:03 : LimitlessMc, mainchat, StubbyMuffins#1053, tobad i cant beat @Jay113355  at rocket league to save my damn life i kms
+27 Feb 2017 00:05:09 : LimitlessMc, mainchat, Third_Worm#4804, Daddy is gorgeous
+27 Feb 2017 00:05:13 : LimitlessMc, mainchat, StubbyMuffins#1053, was so close eariler
+27 Feb 2017 00:05:16 : LimitlessMc, mainchat, JustinOPGamer#9138, ^
+27 Feb 2017 00:05:27 : LimitlessMc, mainchat, JustinOPGamer#9138, stubby tell jay 1v1 me puck
+27 Feb 2017 00:05:31 : LimitlessMc, mainchat, Third_Worm#4804, ;-; I'm so smol
+27 Feb 2017 00:05:37 : LimitlessMc, mainchat, Crystal4209#4698, Very beautiful
+27 Feb 2017 00:05:51 : LimitlessMc, mainchat, JustinOPGamer#9138, Stubby i got the tall genetics and third got the small genetics
+27 Feb 2017 00:05:57 : LimitlessMc, mainchat, JustinOPGamer#9138, then soner is uncle
+27 Feb 2017 00:06:07 : LimitlessMc, mainchat, Red_Dragon_333#4168, come voice @StubbyMuffins
+27 Feb 2017 00:06:27 : LimitlessMc, mainchat, Crystal4209#4698, Come voice daddy @stub
+27 Feb 2017 00:06:31 : LimitlessMc, mainchat, Crystal4209#4698, Nuu
+27 Feb 2017 00:06:31 : LimitlessMc, mainchat, JustinOPGamer#9138, ^
+27 Feb 2017 00:06:37 : LimitlessMc, mainchat, Third_Worm#4804, I called Soner uncle this morning
+27 Feb 2017 00:06:38 : LimitlessMc, mainchat, StubbyMuffins#1053, you broke my name
+27 Feb 2017 00:06:40 : LimitlessMc, mainchat, StubbyMuffins#1053, i sad
+27 Feb 2017 00:06:42 : LimitlessMc, mainchat, Red_Dragon_333#4168, le
+27 Feb 2017 00:06:47 : LimitlessMc, mainchat, Red_Dragon_333#4168, i did it right
+27 Feb 2017 00:06:48 : LimitlessMc, mainchat, Crystal4209#4698, @StubbyMuffins
+27 Feb 2017 00:06:51 : LimitlessMc, mainchat, Crystal4209#4698, There
+27 Feb 2017 00:06:54 : LimitlessMc, mainchat, Crystal4209#4698, Fixed
+27 Feb 2017 00:06:54 : LimitlessMc, mainchat, StubbyMuffins#1053, okei i join
+27 Feb 2017 00:06:57 : LimitlessMc, mainchat, Red_Dragon_333#4168, yay
+27 Feb 2017 00:07:01 : LimitlessMc, mainchat, JustinOPGamer#9138, @StubbyMuffins i would never mess up ur name
+27 Feb 2017 00:07:33 : LimitlessMc, mainchat, DicloniusPony#6564, https://www.youtube.com/watch?v=f-0UCPOy4Fo
+27 Feb 2017 00:07:35 : LimitlessMc, mainchat, DicloniusPony#6564, o
+27 Feb 2017 00:07:36 : LimitlessMc, mainchat, DicloniusPony#6564, rip
+27 Feb 2017 00:07:40 : LimitlessMc, mainchat, DicloniusPony#6564, didnt mean to send that XD
+27 Feb 2017 00:07:49 : LimitlessMc, mainchat, Chelsea#6637, I am glad you did though
+27 Feb 2017 00:07:51 : LimitlessMc, mainchat, Third_Worm#4804, @StubbyMuffins Same Daddy
+27 Feb 2017 00:07:51 : LimitlessMc, mainchat, Chelsea#6637, XD
+27 Feb 2017 00:07:56 : LimitlessMc, mainchat, Jay113355#4999, @JustinOPGamer 1v1 me bro
+27 Feb 2017 00:07:57 : LimitlessMc, mainchat, DicloniusPony#6564, why tho @Chelsea
+27 Feb 2017 00:08:09 : LimitlessMc, mainchat, Third_Worm#4804, @Jay113355 Stream it
+27 Feb 2017 00:08:10 : LimitlessMc, mainchat, StubbyMuffins#1053, no no NO jay you fite me for honor!
+27 Feb 2017 00:08:18 : LimitlessMc, mainchat, Crystal4209#4698, @Third_Worm bet you cant get a ugly pic of me 😛
+27 Feb 2017 00:08:19 : LimitlessMc, mainchat, JustinOPGamer#9138, @Jay113355  lets go man
+27 Feb 2017 00:08:22 : LimitlessMc, mainchat, StubbyMuffins#1053, must win one damn match or neck myself
+27 Feb 2017 00:08:24 : LimitlessMc, mainchat, StubbyMuffins#1053, lel
+27 Feb 2017 00:08:49 : LimitlessMc, mainchat, Third_Worm#4804, I forfeit, crystal is too good looking
+27 Feb 2017 00:08:54 : LimitlessMc, mainchat, Jay113355#4999, Stream how?
+27 Feb 2017 00:08:57 : LimitlessMc, mainchat, Crystal4209#4698, Im at school stubby
+27 Feb 2017 00:09:06 : LimitlessMc, mainchat, StubbyMuffins#1053, wut about stream
+27 Feb 2017 00:09:11 : LimitlessMc, mainchat, Jay113355#4999, youtube or is there a built in system?
+27 Feb 2017 00:09:20 : LimitlessMc, mainchat, StubbyMuffins#1053, oh i use steams streaming
+27 Feb 2017 00:09:31 : LimitlessMc, mainchat, Third_Worm#4804, Twitch, YouTube,^ that
+27 Feb 2017 00:09:35 : LimitlessMc, mainchat, StubbyMuffins#1053, friends can watch your broadcast
+27 Feb 2017 00:09:39 : LimitlessMc, mainchat, Third_Worm#4804, I just want to watch ;-;
+27 Feb 2017 00:09:39 : LimitlessMc, mainchat, Jay113355#4999, worm said stream
+27 Feb 2017 00:09:48 : LimitlessMc, mainchat, StubbyMuffins#1053, i can spectate
+27 Feb 2017 00:09:51 : LimitlessMc, mainchat, Jay113355#4999, k installing obs
+27 Feb 2017 00:09:53 : LimitlessMc, mainchat, Red_Dragon_333#4168, jay accept me on steam plez
+27 Feb 2017 00:09:55 : LimitlessMc, mainchat, StubbyMuffins#1053, and they can watch my broadcast
+27 Feb 2017 00:09:58 : LimitlessMc, mainchat, Crystal4209#4698, @Third_Worm i bet youcant find a really good looking  pic of me
+27 Feb 2017 00:10:17 : LimitlessMc, mainchat, Nick"Ace"Wilde#3503, mmm
+27 Feb 2017 00:10:42 : LimitlessMc, mainchat, DicloniusPony#6564, https://www.youtube.com/watch?v=Pjicghn3_2M
+27 Feb 2017 00:10:57 : LimitlessMc, mainchat, Third_Worm#4804, 
+27 Feb 2017 00:11:01 : LimitlessMc, mainchat, Third_Worm#4804, BET
+27 Feb 2017 00:11:07 : LimitlessMc, mainchat, StubbyMuffins#1053, my childrens
+27 Feb 2017 00:11:14 : LimitlessMc, mainchat, Crystal4209#4698, Bet thats a ugly pic of me
+27 Feb 2017 00:11:17 : LimitlessMc, mainchat, Chelsea#6637, Because I eat up anything and everything SU related XD sorry for delayed reply was listening to video o.o
+27 Feb 2017 00:11:17 : LimitlessMc, mainchat, Third_Worm#4804, Yes Daddy?
+27 Feb 2017 00:11:23 : LimitlessMc, mainchat, JustinOPGamer#9138, Chelsea u ready to watch me 1v1 jay?
+27 Feb 2017 00:11:25 : LimitlessMc, mainchat, StubbyMuffins#1053, am proud of my childrens
+27 Feb 2017 00:11:28 : LimitlessMc, mainchat, DicloniusPony#6564, @Chelsea its okei, SU is baeeee
+27 Feb 2017 00:11:28 : LimitlessMc, mainchat, Third_Worm#4804, Ah its fine Mom
+27 Feb 2017 00:11:41 : LimitlessMc, mainchat, Third_Worm#4804, *is happy, Daddy is proud*
+27 Feb 2017 00:11:49 : LimitlessMc, mainchat, DicloniusPony#6564, @Chelsea i ship ruby x sapphire sooooo hard
+27 Feb 2017 00:11:57 : LimitlessMc, mainchat, StubbyMuffins#1053, kek my rocketleague just crashed
+27 Feb 2017 00:11:58 : LimitlessMc, mainchat, Chelsea#6637, Omg yaaaaas.
+27 Feb 2017 00:12:09 : LimitlessMc, mainchat, Jay113355#4999, Wit
+27 Feb 2017 00:12:13 : LimitlessMc, mainchat, JustinOPGamer#9138, lol
+27 Feb 2017 00:12:18 : LimitlessMc, mainchat, Crystal4209#4698, @Third_Worm bet you cant get jay in voice
+27 Feb 2017 00:12:26 : LimitlessMc, mainchat, DicloniusPony#6564, *i dont think chelsea realized my profile picture is my ruby gemsona*
+27 Feb 2017 00:12:35 : LimitlessMc, mainchat, Crystal4209#4698, Ah shit poof i go
+27 Feb 2017 00:12:40 : LimitlessMc, mainchat, Crystal4209#4698, 😛
+27 Feb 2017 00:12:42 : LimitlessMc, mainchat, StubbyMuffins#1053, am i making room for you two?
+27 Feb 2017 00:12:47 : LimitlessMc, mainchat, Crystal4209#4698, Gotta head to class
+27 Feb 2017 00:12:55 : LimitlessMc, mainchat, Chelsea#6637, In fact I did notice dearie and I loves it :3
+27 Feb 2017 00:13:01 : LimitlessMc, mainchat, DicloniusPony#6564, ❤
+27 Feb 2017 00:13:02 : LimitlessMc, mainchat, DicloniusPony#6564, XD
+27 Feb 2017 00:13:32 : LimitlessMc, mainchat, Chelsea#6637, I can't keep up with y'all. I feel like a snail replying on mah phone
+27 Feb 2017 00:13:43 : LimitlessMc, mainchat, JustinOPGamer#9138, Chelsea if i win will u make me mac & cheese?
+27 Feb 2017 00:13:59 : LimitlessMc, mainchat, Third_Worm#4804, Bruh
+27 Feb 2017 00:14:00 : LimitlessMc, mainchat, DicloniusPony#6564, https://images.discordapp.net/.eJwFwVsOhCAMAMC7cACKPBrwNgQJGpUSWuOH2bvvzKeeealV7SKDV4Dt4EJz0yw0c6u6EbWr5nGwLnRDFsllv2sXBuvdgtEadCaFgNYGsDEE5zGhwbQ4dNHD089Ob9ejN_X7AwcRIuE.fOtG8kLxhVyj9wAjs6b_xmwqk6k?width=385&height=430
+27 Feb 2017 00:14:07 : LimitlessMc, mainchat, Third_Worm#4804, I'm not even in voice
+27 Feb 2017 00:14:07 : LimitlessMc, mainchat, DicloniusPony#6564, i still need more feedback on this piece of shit
+27 Feb 2017 00:14:09 : LimitlessMc, mainchat, Chelsea#6637, I am supposed to say I only make foods for Stubby
+27 Feb 2017 00:14:21 : LimitlessMc, mainchat, DicloniusPony#6564, @Chelsea wait you're stubby's wife?
+27 Feb 2017 00:14:30 : LimitlessMc, mainchat, Chelsea#6637, Yas I am.
+27 Feb 2017 00:14:31 : LimitlessMc, mainchat, Third_Worm#4804, @Jay113355 Join Dad and bro in voice
+27 Feb 2017 00:14:33 : LimitlessMc, mainchat, DicloniusPony#6564, o shit
+27 Feb 2017 00:14:40 : LimitlessMc, mainchat, JustinOPGamer#9138, Chelsea Stubby can have some too
+27 Feb 2017 00:14:43 : LimitlessMc, mainchat, Third_Worm#4804, Yeah she's mom
+27 Feb 2017 00:14:50 : LimitlessMc, mainchat, DicloniusPony#6564, shes more like new daddy XD
+27 Feb 2017 00:15:03 : LimitlessMc, mainchat, DicloniusPony#6564, *im going to comicon as the ruby squad*
+27 Feb 2017 00:15:11 : LimitlessMc, mainchat, Chelsea#6637, Okay I got some bomb ass 3 cheese mac I can make xD
+27 Feb 2017 00:15:22 : LimitlessMc, mainchat, Chelsea#6637, And omg that's amazing!!!!
+27 Feb 2017 00:15:39 : LimitlessMc, mainchat, DicloniusPony#6564, @Chelsea heard you're going as amethyst! send pictures to me when you have the outfit > w <
+27 Feb 2017 00:15:44 : LimitlessMc, mainchat, Chelsea#6637, I wanna so Sapphire after I do Amethyst o.o
+27 Feb 2017 00:15:49 : LimitlessMc, mainchat, Chelsea#6637, And I will!!!!
+27 Feb 2017 00:15:52 : LimitlessMc, mainchat, DicloniusPony#6564, wooo
+27 Feb 2017 00:15:57 : LimitlessMc, mainchat, Chelsea#6637, All of the pictures will be taken
+27 Feb 2017 00:16:10 : LimitlessMc, mainchat, StubbyMuffins#1053, @Jay113355 room name is butt pass is butt
+27 Feb 2017 00:16:11 : LimitlessMc, mainchat, Chelsea#6637, Stubby will be very exhausted by the end of it all
+27 Feb 2017 00:16:12 : LimitlessMc, mainchat, DicloniusPony#6564, stubby = ruby confirmed or nah?
+27 Feb 2017 00:16:13 : LimitlessMc, mainchat, DicloniusPony#6564, XD
+27 Feb 2017 00:16:20 : LimitlessMc, mainchat, StubbyMuffins#1053, older steven
+27 Feb 2017 00:16:23 : LimitlessMc, mainchat, DicloniusPony#6564, rip
+27 Feb 2017 00:16:24 : LimitlessMc, mainchat, StubbyMuffins#1053, with beard
+27 Feb 2017 00:16:29 : LimitlessMc, mainchat, DicloniusPony#6564, *i'll go as a smol ruby*
+27 Feb 2017 00:16:38 : LimitlessMc, mainchat, Third_Worm#4804, If I can go
+27 Feb 2017 00:16:43 : LimitlessMc, mainchat, Third_Worm#4804, I'll be perdot!
+27 Feb 2017 00:16:47 : LimitlessMc, mainchat, Third_Worm#4804, Peridot
+27 Feb 2017 00:16:54 : LimitlessMc, mainchat, DicloniusPony#6564, @Third_Worm you still need to be apart of the ruby squad
+27 Feb 2017 00:17:10 : LimitlessMc, mainchat, DicloniusPony#6564, Navy is a gr8 ruby XD
+27 Feb 2017 00:17:11 : LimitlessMc, mainchat, Third_Worm#4804, Okei
+27 Feb 2017 00:17:16 : LimitlessMc, mainchat, Third_Worm#4804, I'm Navy
+27 Feb 2017 00:17:25 : LimitlessMc, mainchat, Third_Worm#4804, >->
+27 Feb 2017 00:17:34 : LimitlessMc, mainchat, DicloniusPony#6564, http://vignette3.wikia.nocookie.net/steven-universe/images/4/41/Stomach_Ruby_by_Lenhi.png/revision/latest?cb=20160606131209
+27 Feb 2017 00:17:37 : LimitlessMc, mainchat, Jay113355#4999, trying to setup stream
+27 Feb 2017 00:17:39 : LimitlessMc, mainchat, DicloniusPony#6564, S A S S
+27 Feb 2017 00:17:53 : LimitlessMc, mainchat, Third_Worm#4804, S T R E A M
+27 Feb 2017 00:17:55 : LimitlessMc, mainchat, DicloniusPony#6564, *square head = minecraft*
+27 Feb 2017 00:18:03 : LimitlessMc, mainchat, Red_Dragon_333#4168, i am just watching stubby
+27 Feb 2017 00:18:06 : LimitlessMc, mainchat, Red_Dragon_333#4168, hes streaming
+27 Feb 2017 00:18:08 : LimitlessMc, mainchat, Red_Dragon_333#4168, on steam
+27 Feb 2017 00:18:09 : LimitlessMc, mainchat, Third_Worm#4804, That booty
+27 Feb 2017 00:18:18 : LimitlessMc, mainchat, DicloniusPony#6564, http://vignette4.wikia.nocookie.net/steven-universe/images/c/c4/Baby_Eyeball_Ruby.png/revision/latest?cb=20160826192326
+27 Feb 2017 00:18:19 : LimitlessMc, mainchat, Third_Worm#4804, I'm on phone
+27 Feb 2017 00:18:19 : LimitlessMc, mainchat, DicloniusPony#6564, same XD
+27 Feb 2017 00:18:23 : LimitlessMc, mainchat, Third_Worm#4804, How tf
+27 Feb 2017 00:18:24 : LimitlessMc, mainchat, Red_Dragon_333#4168, oh
+27 Feb 2017 00:18:30 : LimitlessMc, mainchat, Third_Worm#4804, Am I gonna watch?
+27 Feb 2017 00:19:23 : LimitlessMc, mainchat, Jay113355#4999, youtube
+27 Feb 2017 00:20:10 : LimitlessMc, mainchat, DicloniusPony#6564, https://68.media.tumblr.com/57c432c0017823ddd00e29e5b51bc446/tumblr_o85kaaLa1t1ttdkseo1_500.png
+27 Feb 2017 00:20:15 : LimitlessMc, mainchat, DicloniusPony#6564, i need more friends for the ruby squad
+27 Feb 2017 00:20:21 : LimitlessMc, mainchat, Third_Worm#4804, ....YouTube..
+27 Feb 2017 00:20:37 : LimitlessMc, mainchat, Third_Worm#4804, *searches for jay*
+27 Feb 2017 00:20:40 : LimitlessMc, mainchat, DicloniusPony#6564, *how is someone gonna go as doc tho*
+27 Feb 2017 00:22:04 : LimitlessMc, mainchat, Third_Worm#4804, ;-;
+27 Feb 2017 00:22:12 : LimitlessMc, mainchat, Third_Worm#4804, I can't find jay
+27 Feb 2017 00:22:44 : LimitlessMc, mainchat, Third_Worm#4804, His name should be the same
+27 Feb 2017 00:22:53 : LimitlessMc, mainchat, Third_Worm#4804, But I literally can't find him
+27 Feb 2017 00:24:49 : LimitlessMc, mainchat, StubbyMuffins#1053, you have steam
+27 Feb 2017 00:24:49 : LimitlessMc, mainchat, Third_Worm#4804, @MattRuc Help me
+27 Feb 2017 00:24:50 : LimitlessMc, mainchat, Jay113355#4999, jay11335
+27 Feb 2017 00:24:53 : LimitlessMc, mainchat, Third_Worm#4804, O
+27 Feb 2017 00:25:24 : LimitlessMc, mainchat, Third_Worm#4804, It won't show me you
+27 Feb 2017 00:25:41 : LimitlessMc, mainchat, Third_Worm#4804, When you stream, just give me the name of the stream
+27 Feb 2017 00:25:49 : LimitlessMc, mainchat, StubbyMuffins#1053, just get steam and add me
+27 Feb 2017 00:25:53 : LimitlessMc, mainchat, StubbyMuffins#1053, i am broadcasting
+27 Feb 2017 00:26:12 : LimitlessMc, mainchat, Third_Worm#4804, On
+27 Feb 2017 00:26:15 : LimitlessMc, mainchat, Third_Worm#4804, Phone?
+27 Feb 2017 00:26:19 : LimitlessMc, mainchat, StubbyMuffins#1053, wut
+27 Feb 2017 00:26:21 : LimitlessMc, mainchat, LightBot#4090, Hek
+27 Feb 2017 00:26:29 : LimitlessMc, mainchat, Third_Worm#4804, I'm on my phone ;-;
+27 Feb 2017 00:29:00 : LimitlessMc, mainchat, Jay113355#4999, https://gaming.youtube.com/user/jay11335/live
+27 Feb 2017 00:32:15 : LimitlessMc, mainchat, Third_Worm#4804, 
+27 Feb 2017 00:32:21 : LimitlessMc, mainchat, Third_Worm#4804, This is great
+27 Feb 2017 00:33:06 : LimitlessMc, mainchat, Jay113355#4999, working
+27 Feb 2017 00:34:50 : LimitlessMc, mainchat, Third_Worm#4804, 
+27 Feb 2017 00:34:58 : LimitlessMc, mainchat, Third_Worm#4804, Well
+27 Feb 2017 00:35:20 : LimitlessMc, mainchat, Third_Worm#4804, I can't watch ;-;
+27 Feb 2017 00:35:31 : LimitlessMc, mainchat, Jay113355#4999, not working?
+27 Feb 2017 00:35:36 : LimitlessMc, mainchat, Jay113355#4999, LET ME RESTART IT
+27 Feb 2017 00:35:38 : LimitlessMc, mainchat, Jay113355#4999, ca lock
+27 Feb 2017 00:35:43 : LimitlessMc, mainchat, Wertfuzzy77#0274, KILL IT WITH FIRE
+27 Feb 2017 00:37:51 : Cipher, general, Fuze#0498, how are things with you all
+27 Feb 2017 00:39:41 : LimitlessMc, mainchat, Third_Worm#4804, @Red_Dragon_333 did it work for you?
+27 Feb 2017 00:39:50 : LimitlessMc, mainchat, Red_Dragon_333#4168, no
+27 Feb 2017 00:39:55 : LimitlessMc, mainchat, Fuze#0498, jay play with Gilman so he can carry u
+27 Feb 2017 00:40:10 : LimitlessMc, mainchat, Third_Worm#4804, Woah
+27 Feb 2017 00:40:34 : LimitlessMc, mainchat, Third_Worm#4804, Jay is good ._.
+27 Feb 2017 00:40:43 : LimitlessMc, mainchat, Mystz#8072, lies
+27 Feb 2017 00:40:49 : LimitlessMc, mainchat, Fuze#0498, but gil is a god k
+27 Feb 2017 00:43:10 : LimitlessMc, mainchat, JustinOPGamer#9138, @Jay113355  where u at ?
+27 Feb 2017 00:43:52 : LimitlessMc, mainchat, Jay113355#4999, trying to learn how to stream
+27 Feb 2017 00:45:44 : LimitlessMc, mainchat, Third_Worm#4804, Trying to learn how to add my account
+27 Feb 2017 00:45:48 : LimitlessMc, mainchat, Jay113355#4999, There we go
+27 Feb 2017 00:45:54 : LimitlessMc, mainchat, Jay113355#4999, shoud be working now
+27 Feb 2017 00:46:00 : LimitlessMc, mainchat, Jay113355#4999, https://gaming.youtube.com/user/jay11335/live
+27 Feb 2017 00:46:05 : LimitlessMc, mainchat, Red_Dragon_333#4168, should i make ho-oh shiny or groudon?
+27 Feb 2017 00:46:35 : LimitlessMc, mainchat, Third_Worm#4804, Hooh
+27 Feb 2017 00:46:40 : LimitlessMc, mainchat, Red_Dragon_333#4168, okay
+27 Feb 2017 00:46:42 : LimitlessMc, mainchat, Third_Worm#4804, Don't be Justin
+27 Feb 2017 00:46:48 : LimitlessMc, mainchat, Red_Dragon_333#4168, le
+27 Feb 2017 00:47:02 : LimitlessMc, mainchat, Red_Dragon_333#4168, want to sell me ur big one or not?
+27 Feb 2017 00:47:53 : LimitlessMc, mainchat, Red_Dragon_333#4168, @Third_Worm
+27 Feb 2017 00:48:22 : LimitlessMc, mainchat, Third_Worm#4804, No
+27 Feb 2017 00:48:27 : LimitlessMc, mainchat, MattRuc#5481, @Third_Worm  wish i could but im working on editing this video...the captions are taking 4 EVA!
+27 Feb 2017 00:48:33 : LimitlessMc, mainchat, Jay113355#4999, working
+27 Feb 2017 00:48:34 : LimitlessMc, mainchat, Third_Worm#4804, Is the stream working red?
+27 Feb 2017 00:48:39 : LimitlessMc, mainchat, Third_Worm#4804, For you
+27 Feb 2017 00:48:44 : LimitlessMc, mainchat, Red_Dragon_333#4168, le @MattRuc
+27 Feb 2017 00:48:47 : LimitlessMc, mainchat, Red_Dragon_333#4168, lemme see
+27 Feb 2017 00:50:35 : LimitlessMc, mainchat, Third_Worm#4804, 
+27 Feb 2017 00:50:56 : LimitlessMc, mainchat, Third_Worm#4804, Gonna try again
+27 Feb 2017 00:52:20 : LimitlessMc, mainchat, Third_Worm#4804, Nope @Red_Dragon_333 you can watch him
+27 Feb 2017 00:53:27 : LimitlessMc, mainchat, Third_Worm#4804, Damn robos
+27 Feb 2017 00:53:32 : LimitlessMc, mainchat, Third_Worm#4804, Its my side
+27 Feb 2017 00:55:23 : LimitlessMc, mainchat, Third_Worm#4804, 
+27 Feb 2017 00:55:31 : LimitlessMc, mainchat, Third_Worm#4804, Thought it was 4g
+27 Feb 2017 00:55:35 : LimitlessMc, mainchat, Third_Worm#4804, I was wrong
+27 Feb 2017 00:59:17 : LimitlessMc, mainchat, Third_Worm#4804, @Red_Dragon_333 it working?
+27 Feb 2017 00:59:35 : LimitlessMc, mainchat, Third_Worm#4804, @JustinOPGamer What game y'all playing?
+27 Feb 2017 00:59:41 : LimitlessMc, mainchat, Third_Worm#4804, Puck?
+27 Feb 2017 00:59:54 : LimitlessMc, mainchat, Third_Worm#4804, The kind of game @Red_Dragon_333
+27 Feb 2017 00:59:58 : LimitlessMc, mainchat, Third_Worm#4804, ;-;
+27 Feb 2017 01:00:05 : LimitlessMc, mainchat, Third_Worm#4804, O
+27 Feb 2017 01:00:15 : LimitlessMc, mainchat, Third_Worm#4804, Yeah its messed up for u too
+27 Feb 2017 01:00:25 : LimitlessMc, mainchat, Third_Worm#4804, Unless he made it offline
+27 Feb 2017 01:03:44 : LimitlessMc, mainchat, StubbyMuffins#1053, where u go i spectate
+27 Feb 2017 01:03:49 : LimitlessMc, mainchat, JustinOPGamer#9138, ^
+27 Feb 2017 01:04:28 : LimitlessMc, mainchat, JustinOPGamer#9138, @Jay113355  where u go fam?
+27 Feb 2017 01:04:44 : LimitlessMc, mainchat, Third_Worm#4804, @JustinOPGamer what kind of game were y'all playing?
+27 Feb 2017 01:04:49 : LimitlessMc, mainchat, Third_Worm#4804, Puck?
+27 Feb 2017 01:04:51 : LimitlessMc, mainchat, JustinOPGamer#9138, Rumble Puck
+27 Feb 2017 01:04:57 : LimitlessMc, mainchat, Third_Worm#4804, O
+27 Feb 2017 01:05:20 : LimitlessMc, mainchat, Third_Worm#4804, Damn nice
+27 Feb 2017 01:05:27 : LimitlessMc, mainchat, JustinOPGamer#9138, lol it was unfair anyway
+27 Feb 2017 01:05:32 : LimitlessMc, mainchat, JustinOPGamer#9138, it was always 2v1
+27 Feb 2017 01:05:42 : LimitlessMc, mainchat, JustinOPGamer#9138, we needed another person
+27 Feb 2017 01:05:59 : LimitlessMc, mainchat, Third_Worm#4804, Who was winning tho?
+27 Feb 2017 01:06:07 : LimitlessMc, mainchat, JustinOPGamer#9138, Stubby and i
+27 Feb 2017 01:06:17 : LimitlessMc, mainchat, JustinOPGamer#9138, end score 10 to 2
+27 Feb 2017 01:06:31 : LimitlessMc, mainchat, StubbyMuffins#1053, was unfair tho
+27 Feb 2017 01:06:35 : LimitlessMc, mainchat, JustinOPGamer#9138, ^
+27 Feb 2017 01:06:41 : LimitlessMc, mainchat, StubbyMuffins#1053, i was haning back till puck was by goal
+27 Feb 2017 01:06:54 : LimitlessMc, mainchat, Mystz#8072, lol
+27 Feb 2017 01:06:56 : LimitlessMc, mainchat, StubbyMuffins#1053, jay better overall i still havnt beat him
+27 Feb 2017 01:07:02 : LimitlessMc, mainchat, Third_Worm#4804, My pappa and jay would of kicj your asses
+27 Feb 2017 01:07:13 : LimitlessMc, mainchat, JustinOPGamer#9138, 2v2 us brah
+27 Feb 2017 01:07:23 : LimitlessMc, mainchat, JustinOPGamer#9138, stubby and i vs jay and him
+27 Feb 2017 01:07:42 : LimitlessMc, mainchat, Third_Worm#4804, Gotta ask him
+27 Feb 2017 01:07:45 : LimitlessMc, mainchat, Third_Worm#4804, Yourself
+27 Feb 2017 01:07:48 : LimitlessMc, mainchat, Third_Worm#4804, 😄
+27 Feb 2017 01:07:57 : LimitlessMc, mainchat, JustinOPGamer#9138, u ask
+27 Feb 2017 01:08:00 : LimitlessMc, mainchat, JustinOPGamer#9138, ur there
+27 Feb 2017 01:08:48 : LimitlessMc, mainchat, Third_Worm#4804, @JustinOPGamer I'm on data for a reason
+27 Feb 2017 01:09:13 : Cipher, music, Wertfuzzy77#0274, ;song
+27 Feb 2017 01:09:13 : Cipher, music, Botfuzzy77#2209, **Name**: Coldplay - Hymn For The Weekend (Official Video)
+**Requester**: Radio: Coldplay - Paradise (Official Video)
+**URL**: <https://www.youtube.com/watch?v=YykjpeuMNEk>
+```py
+Time: 0:04:21
+Views: 680,847,932
+Likes: 3,486,186, 96.71%
+Dislikes: 118,741, 3.29%
+Skips: 0/0```
+27 Feb 2017 01:09:14 : Cipher, music, Wertfuzzy77#0274, ;songs
+27 Feb 2017 01:09:14 : Cipher, music, Botfuzzy77#2209, **The Following songs are in the Queue**
+27 Feb 2017 01:09:14 : Cipher, music, Botfuzzy77#2209, 1. Coldplay - Paradise (Official Video) **Radio: Coldplay - Clocks**
+	<https://www.youtube.com/watch?v=1G4isv_Fylg>
+2. Charlie Puth - We Don't Talk Anymore (feat. Selena Gomez) [Official Video] **Radio: James Arthur - Say You Won't Let Go**
+	<https://www.youtube.com/watch?v=3AtDnEC4zak>
+3. Coldplay - In My Place **Radio: Coldplay - Yellow**
+	<https://www.youtube.com/watch?v=gnIZ7RMuLpU>
+4. Kygo, Selena Gomez - It Ain't Me (with Selena Gomez) (Audio) **Radio: Katy Perry - Chained To The Rhythm (Lyric Video) ft. Skip Marley**
+	<https://www.youtube.com/watch?v=D5drYkLiLI8>
+5. Coldplay - Paradise (Official Video) **Radio: Coldplay - Hymn For The Weekend (Official Video)**
+	<https://www.youtube.com/watch?v=1G4isv_Fylg>
+Total Time is 0:20:02
+27 Feb 2017 01:09:17 : Cipher, music, Wertfuzzy77#0274, ;clear
+27 Feb 2017 01:09:31 : LimitlessMc, mainchat, Third_Worm#4804, Brb
+27 Feb 2017 01:10:13 : The Wild Weebs, general, Wertfuzzy77#0274, ;kms
+27 Feb 2017 01:10:13 : The Wild Weebs, general, Botfuzzy77#2209, Nu, I be sad then ;-;
+27 Feb 2017 01:10:15 : The Wild Weebs, general, Wertfuzzy77#0274, ;kms
+27 Feb 2017 01:10:15 : The Wild Weebs, general, Botfuzzy77#2209, Bet
+27 Feb 2017 01:10:16 : The Wild Weebs, general, Wertfuzzy77#0274, ;kms
+27 Feb 2017 01:10:17 : The Wild Weebs, general, Botfuzzy77#2209, Do it, you wont
+27 Feb 2017 01:10:17 : The Wild Weebs, general, Wertfuzzy77#0274, ;kms
+27 Feb 2017 01:10:17 : The Wild Weebs, general, Botfuzzy77#2209, Bet
+27 Feb 2017 01:10:18 : The Wild Weebs, general, Wertfuzzy77#0274, ;kms
+27 Feb 2017 01:10:18 : The Wild Weebs, general, Botfuzzy77#2209, Good :)
+27 Feb 2017 01:10:18 : The Wild Weebs, general, Wertfuzzy77#0274, ;kms
+27 Feb 2017 01:10:18 : The Wild Weebs, general, Wertfuzzy77#0274, ;kms
+27 Feb 2017 01:10:19 : The Wild Weebs, general, Botfuzzy77#2209, Nu, I be sad then ;-;
+27 Feb 2017 01:10:19 : The Wild Weebs, general, Botfuzzy77#2209, Don't Die
+27 Feb 2017 01:10:21 : The Wild Weebs, general, Wertfuzzy77#0274, ;kms
+27 Feb 2017 01:10:21 : The Wild Weebs, general, Botfuzzy77#2209, Good :)
+27 Feb 2017 01:10:21 : The Wild Weebs, general, Wertfuzzy77#0274, ;kms
+27 Feb 2017 01:10:21 : The Wild Weebs, general, Botfuzzy77#2209, Do it, you wont
+27 Feb 2017 01:10:21 : The Wild Weebs, general, Wertfuzzy77#0274, ;kms
+27 Feb 2017 01:10:21 : The Wild Weebs, general, Botfuzzy77#2209, Don't Die
+27 Feb 2017 01:10:23 : The Wild Weebs, general, Wertfuzzy77#0274, ;kms
+27 Feb 2017 01:10:23 : The Wild Weebs, general, Wertfuzzy77#0274, ;kms
+27 Feb 2017 01:10:23 : The Wild Weebs, general, Wertfuzzy77#0274, ;kms
+27 Feb 2017 01:10:23 : The Wild Weebs, general, Wertfuzzy77#0274, ;kms
+27 Feb 2017 01:10:23 : The Wild Weebs, general, Wertfuzzy77#0274, ;kms
+27 Feb 2017 01:10:24 : The Wild Weebs, general, Wertfuzzy77#0274, ;kms
+27 Feb 2017 01:10:24 : The Wild Weebs, general, Wertfuzzy77#0274, ;kms
+27 Feb 2017 01:10:24 : The Wild Weebs, general, Wertfuzzy77#0274, ;kms
+27 Feb 2017 01:10:24 : The Wild Weebs, general, Wertfuzzy77#0274, ;kms
+27 Feb 2017 01:10:25 : The Wild Weebs, general, Botfuzzy77#2209, Bet
+27 Feb 2017 01:10:25 : The Wild Weebs, general, Botfuzzy77#2209, Bet
+27 Feb 2017 01:10:25 : The Wild Weebs, general, Botfuzzy77#2209, Do it, you wont
+27 Feb 2017 01:10:25 : The Wild Weebs, general, Botfuzzy77#2209, Do it, you wont
+27 Feb 2017 01:10:25 : The Wild Weebs, general, Botfuzzy77#2209, Bet
+27 Feb 2017 01:10:32 : The Wild Weebs, general, Botfuzzy77#2209, Do it, you wont
+27 Feb 2017 01:10:32 : The Wild Weebs, general, Botfuzzy77#2209, Do it, you wont
+27 Feb 2017 01:10:32 : The Wild Weebs, general, Botfuzzy77#2209, Do it, you wont
+27 Feb 2017 01:10:32 : The Wild Weebs, general, Botfuzzy77#2209, Do it, you wont
+27 Feb 2017 01:20:59 : Cipher, music, Wertfuzzy77#0274, ;songs
+27 Feb 2017 01:20:59 : Cipher, music, Botfuzzy77#2209, **The Following songs are in the Queue**
+27 Feb 2017 01:20:59 : Cipher, music, Botfuzzy77#2209, 1. Coldplay - In My Place **Radio: Coldplay - Yellow**
+	<https://www.youtube.com/watch?v=gnIZ7RMuLpU>
+2. Kygo, Selena Gomez - It Ain't Me (with Selena Gomez) (Audio) **Radio: Katy Perry - Chained To The Rhythm (Lyric Video) ft. Skip Marley**
+	<https://www.youtube.com/watch?v=D5drYkLiLI8>
+3. Coldplay - Paradise (Official Video) **Radio: Coldplay - Hymn For The Weekend (Official Video)**
+	<https://www.youtube.com/watch?v=1G4isv_Fylg>
+4. Coldplay - Viva La Vida **Radio: Coldplay - Paradise (Official Video)**
+	<https://www.youtube.com/watch?v=dvgZkm1xWPE>
+5. Maroon 5 - Don't Wanna Know **Radio: Charlie Puth - We Don't Talk Anymore (feat. Selena Gomez) [Official Video]**
+	<https://www.youtube.com/watch?v=ANS9sSJA9Yc>
+Total Time is 0:22:12

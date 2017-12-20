@@ -1,0 +1,29 @@
+14 Dec 2016 01:26:39 : LimitlessMc, botchat, Lightning#6734, wut
+14 Dec 2016 01:26:39 : LimitlessMc, botchat, LightBot#4090, Hek
+14 Dec 2016 01:26:40 : LimitlessMc, botchat, Wertfuzzy77#0274, nah
+14 Dec 2016 01:26:43 : LimitlessMc, botchat, Wertfuzzy77#0274, changed the if too
+14 Dec 2016 01:27:04 : LimitlessMc, botchat, Wertfuzzy77#0274, yours wouldnt work if they typed 'No'
+14 Dec 2016 01:27:10 : LimitlessMc, botchat, ChesireKat#7022, oh!
+14 Dec 2016 01:27:23 : LimitlessMc, botchat, ChesireKat#7022, no it works 😛
+14 Dec 2016 01:27:26 : LimitlessMc, botchat, ChesireKat#7022, i tested it
+14 Dec 2016 01:27:31 : LimitlessMc, botchat, ChesireKat#7022, beforehand 😛
+14 Dec 2016 01:27:44 : LimitlessMc, botchat, Wertfuzzy77#0274, it works for both 'no' and 'No'?
+14 Dec 2016 01:27:49 : LimitlessMc, botchat, ChesireKat#7022, ye
+14 Dec 2016 01:27:49 : LimitlessMc, botchat, Lightning#6734, @LightBot  ReeeeeeeEEEEE
+14 Dec 2016 01:27:50 : LimitlessMc, botchat, LightBot#4090, No it wasn't.
+14 Dec 2016 01:28:00 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug 'No' in 'no'
+14 Dec 2016 01:28:00 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+False
+```
+14 Dec 2016 01:28:06 : LimitlessMc, botchat, ChesireKat#7022, ?
+14 Dec 2016 01:28:07 : LimitlessMc, botchat, Wertfuzzy77#0274, ¯\_(ツ)_/¯
+14 Dec 2016 01:28:12 : LimitlessMc, botchat, ChesireKat#7022, whats that
+14 Dec 2016 01:28:19 : LimitlessMc, botchat, Wertfuzzy77#0274, a python cmd line
+14 Dec 2016 01:28:56 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug [random.random() for x in range(1,11,1)]
+14 Dec 2016 01:28:56 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+[0.3758669548775134, 0.14846651303623504, 0.8250995951201879, 0.30268926396404294, 0.017992228644934105, 0.7081761860155926, 0.9282147583859361, 0.8586675520249756, 0.4460702568335355, 0.14627458705820495]
+```
+14 Dec 2016 01:29:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug [int(random.random() * 100) for x in range(1,11,1)]
+14 Dec 2016 01:29:12 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+[36, 34, 46, 10, 46, 51, 45, 94, 43, 1]
+```

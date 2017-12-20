@@ -1,0 +1,121 @@
+07 May 2017 06:46:22 : LimitlessMc, botchat, Wertfuzzy77#0274, things are about to get weird
+07 May 2017 06:46:22 : LimitlessMc, botchat, darth kota#9446, y = 1
+x = 1
+if x == 1:
+    print ("string 1")
+else:
+    print ("string 2")
+if y == 1:
+    x = 1 + x
+if y == 2:
+    x = 1 - x
+if y == 1:
+    y = 1 + 1
+if y == 2:
+    y = 1 - y
+07 May 2017 06:46:28 : LimitlessMc, botchat, darth kota#9446, thats what she said
+07 May 2017 06:46:38 : LimitlessMc, botchat, Wertfuzzy77#0274, why is your code so ugly looking
+07 May 2017 06:46:41 : LimitlessMc, botchat, Wertfuzzy77#0274, why you make ugly code
+07 May 2017 06:46:54 : LimitlessMc, botchat, darth kota#9446, logic programing habits
+07 May 2017 06:46:58 : LimitlessMc, botchat, Wertfuzzy77#0274, is ugly xD
+07 May 2017 06:47:03 : LimitlessMc, botchat, darth kota#9446, same
+07 May 2017 06:47:15 : LimitlessMc, botchat, Wertfuzzy77#0274, step 1, write what you want your code to do in english
+07 May 2017 06:47:23 : LimitlessMc, botchat, darth kota#9446, i did
+07 May 2017 06:47:25 : LimitlessMc, botchat, darth kota#9446, XD
+07 May 2017 06:47:29 : LimitlessMc, botchat, Wertfuzzy77#0274, and what is that?
+07 May 2017 06:47:32 : LimitlessMc, botchat, Wertfuzzy77#0274, in ENGLISH
+07 May 2017 06:47:52 : LimitlessMc, botchat, darth kota#9446, i want it to loop y = 1
+x = 1
+if x == 1:
+    print ("string 1")
+else:
+    print ("string 2")
+if y == 1:
+    x = 1 + x
+if y == 2:
+    x = 1 - x
+if y == 1:
+    y = 1 + 1
+if y == 2:
+    y = 1 - y
+07 May 2017 06:48:03 : LimitlessMc, botchat, Wertfuzzy77#0274, what do you mean loop y = 1?
+07 May 2017 06:48:07 : LimitlessMc, botchat, Wertfuzzy77#0274, that makes no sense xD
+07 May 2017 06:48:21 : LimitlessMc, botchat, darth kota#9446, mistake i forget i cant use enter
+07 May 2017 06:48:25 : LimitlessMc, botchat, Wertfuzzy77#0274, o
+07 May 2017 06:48:41 : LimitlessMc, botchat, Wertfuzzy77#0274, well... if you want it to loop you should try using a loop xD
+07 May 2017 06:48:58 : LimitlessMc, botchat, darth kota#9446, i want  a loop from line 3 to then end
+07 May 2017 06:49:51 : LimitlessMc, botchat, darth kota#9446, while adding up to 2 and back down to one spaming both conditional if statments
+07 May 2017 06:50:07 : LimitlessMc, botchat, darth kota#9446, but idk loops
+07 May 2017 06:50:17 : LimitlessMc, botchat, darth kota#9446, ik fruit loops
+07 May 2017 06:50:17 : LimitlessMc, botchat, Wertfuzzy77#0274, well, first of all, there are no loops currently in your code
+07 May 2017 06:50:21 : LimitlessMc, botchat, Wertfuzzy77#0274, just a bunch of ifs xD
+07 May 2017 06:50:25 : LimitlessMc, botchat, Wertfuzzy77#0274, that make no sense
+07 May 2017 06:50:42 : LimitlessMc, botchat, darth kota#9446, shhhhh it would work in my language
+07 May 2017 06:50:50 : LimitlessMc, botchat, Wertfuzzy77#0274, which is cavemany
+07 May 2017 06:50:56 : LimitlessMc, botchat, darth kota#9446, XD shhhhh
+07 May 2017 06:51:01 : LimitlessMc, botchat, darth kota#9446, lele
+07 May 2017 06:51:31 : LimitlessMc, botchat, darth kota#9446, mine evolved to make fire lel
+07 May 2017 06:52:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+import time
+x = 1
+for y in range(10)
+    if x == 1:
+        print("String 1")
+        x = 2
+    else:
+        print("String 2")
+        x = 1```
+07 May 2017 06:52:31 : LimitlessMc, botchat, Wertfuzzy77#0274, you don't need that import time
+07 May 2017 06:52:35 : LimitlessMc, botchat, Wertfuzzy77#0274, ;loop
+07 May 2017 06:52:35 : LimitlessMc, botchat, Botfuzzy77#2209, The Bot isnt connected in this server!
+07 May 2017 06:52:36 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*RUN-DMC - Walk This Way*' **1** more times
+07 May 2017 06:52:52 : LimitlessMc, botchat, darth kota#9446, okay
+07 May 2017 06:53:14 : LimitlessMc, botchat, Wertfuzzy77#0274, that code will alternate between printing `String 1` and `String 2`
+07 May 2017 06:53:17 : LimitlessMc, botchat, Wertfuzzy77#0274, 10 times
+07 May 2017 06:53:36 : LimitlessMc, botchat, Wertfuzzy77#0274, could be even shorter tbh xD
+07 May 2017 06:53:43 : memes, general, Crown#7932, same
+07 May 2017 06:54:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+x = True
+for y in range(10)
+    if x:
+        print("String 1")
+    else:
+        print("String 2")
+    x = not x```
+07 May 2017 06:54:11 : LimitlessMc, botchat, Wertfuzzy77#0274, there
+07 May 2017 06:54:13 : LimitlessMc, botchat, Wertfuzzy77#0274, even shorter
+07 May 2017 06:54:37 : LimitlessMc, botchat, darth kota#9446, invalid syntax
+07 May 2017 06:54:52 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+x = True
+for y in range(10)
+    thing = "String 1" if x else "String 2":
+    print(thing)
+    x = not x```
+07 May 2017 06:54:57 : LimitlessMc, botchat, Wertfuzzy77#0274, o
+07 May 2017 06:54:58 : LimitlessMc, botchat, Wertfuzzy77#0274, forgot the :
+07 May 2017 06:55:01 : LimitlessMc, botchat, Wertfuzzy77#0274, in the for loop
+07 May 2017 06:55:04 : LimitlessMc, botchat, darth kota#9446, wrecked
+07 May 2017 06:55:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+x = True
+for y in range(10):
+    thing = "String 1" if x else "String 2"
+    print(thing)
+    x = not x```
+07 May 2017 06:55:13 : LimitlessMc, botchat, Wertfuzzy77#0274, there
+07 May 2017 06:55:31 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+x = True
+for y in range(10):
+    print("String 1" if x else "String 2")
+    x = not x```
+07 May 2017 06:55:35 : LimitlessMc, botchat, Wertfuzzy77#0274, shorter xD
+07 May 2017 06:55:44 : LimitlessMc, botchat, darth kota#9446, damn it worked and now i feel like i still dont know anything
+07 May 2017 06:55:53 : LimitlessMc, botchat, Wertfuzzy77#0274, cause you thinking about it wrong xD
+07 May 2017 06:56:13 : LimitlessMc, botchat, Wertfuzzy77#0274, stop thinking about line numbers and variables and think about english
+07 May 2017 06:56:17 : LimitlessMc, botchat, darth kota#9446, ;gif help senpi
+07 May 2017 06:56:17 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/hand-help-111DAsrV1Hs5XO
+07 May 2017 06:56:17 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/help-cDegcqSUrsdag
+07 May 2017 06:56:26 : LimitlessMc, botchat, darth kota#9446, no
+07 May 2017 06:56:29 : LimitlessMc, botchat, darth kota#9446, no
+07 May 2017 06:56:30 : LimitlessMc, botchat, darth kota#9446, no
+07 May 2017 06:56:32 : LimitlessMc, botchat, Wertfuzzy77#0274, like I said, gonna get weird xD cause I have 2 bots running
+07 May 2017 06:57:03 : LimitlessMc, botchat, darth kota#9446, XD

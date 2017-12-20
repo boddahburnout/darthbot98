@@ -1,0 +1,4 @@
+08 Feb 2017 04:38:04 : LimitlessMc, botchat, Wertfuzzy77#0274, <your name>
+08 Feb 2017 04:38:04 : LimitlessMc, botchat, Botfuzzy77#2209, There was an issue searching **your name**. It's likely that the title contains characters not supported by Discord/Python's basic text engine
+08 Feb 2017 04:38:08 : LimitlessMc, botchat, TherminatorX#6644, <for a glimpse of hope>
+08 Feb 2017 04:38:08 : LimitlessMc, botchat, Botfuzzy77#2209, There was an issue searching **for a glimpse of hope**. It's likely that the title contains characters not supported by Discord/Python's basic text engine

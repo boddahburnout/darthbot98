@@ -1,0 +1,27 @@
+29 Nov 2016 07:31:31 : LimitlessMc, mainchat, Wertfuzzy77#0274, ...
+29 Nov 2016 07:31:39 : LimitlessMc, mainchat, Wertfuzzy77#0274, @Wertfuzzy77 why havnt you fixed ;image yet
+29 Nov 2016 07:31:41 : LimitlessMc, mainchat, Wertfuzzy77#0274, ya bum
+29 Nov 2016 07:31:58 : LimitlessMc, mainchat, crystal4209#4698, ....
+29 Nov 2016 07:33:16 : LimitlessMc, mainchat, Jay113355#4999, !meme When Wertfuzzy starts talking to him self.
+29 Nov 2016 07:33:18 : LimitlessMc, mainchat, Gerald#7099, ​http://i.imgflip.com/1f06o3.jpg
+29 Nov 2016 07:33:22 : LimitlessMc, mainchat, Wertfuzzy77#0274, lol
+29 Nov 2016 07:33:27 : LimitlessMc, mainchat, crystal4209#4698, lol
+29 Nov 2016 07:33:42 : LimitlessMc, mainchat, Wertfuzzy77#0274, I think its better what i talk to bot
+29 Nov 2016 07:33:51 : LimitlessMc, mainchat, Wertfuzzy77#0274, @Botfuzzy77 dont you think>
+29 Nov 2016 07:33:51 : LimitlessMc, mainchat, Botfuzzy77#2209, I don't know.
+29 Nov 2016 07:33:57 : LimitlessMc, mainchat, Wertfuzzy77#0274, @Botfuzzy77 useless
+29 Nov 2016 07:33:57 : LimitlessMc, mainchat, Botfuzzy77#2209, No you aren't.
+29 Nov 2016 07:34:07 : LimitlessMc, mainchat, Wertfuzzy77#0274, @Botfuzzy77 I mean thanks, but i was calling you useless
+29 Nov 2016 07:34:08 : LimitlessMc, mainchat, Botfuzzy77#2209, Why?
+29 Nov 2016 07:41:50 : LimitlessMc, mainchat, crystal4209#4698, lol
+29 Nov 2016 07:42:48 : LimitlessMc, mainchat, shuck#1142, Wait so is bot and wert same person ? 😛
+29 Nov 2016 07:43:32 : LimitlessMc, mainchat, Wertfuzzy77#0274, ;debug ctx.message.server.get_member_named("Botfuzzy77") == ctx.message.server.get_member_named("Wertfuzzy77")
+29 Nov 2016 07:43:32 : LimitlessMc, mainchat, Botfuzzy77#2209, ```py
+False
+```
+29 Nov 2016 07:43:34 : LimitlessMc, mainchat, Wertfuzzy77#0274, nope
+29 Nov 2016 07:43:36 : LimitlessMc, mainchat, Wertfuzzy77#0274, 😄
+29 Nov 2016 07:43:45 : LimitlessMc, mainchat, crystal4209#4698, lol
+29 Nov 2016 07:43:52 : LimitlessMc, mainchat, shuck#1142, Mmmmm
+29 Nov 2016 07:44:16 : LimitlessMc, mainchat, Wertfuzzy77#0274, ;relog
+29 Nov 2016 07:44:16 : LimitlessMc, mainchat, Botfuzzy77#2209, Relogging...

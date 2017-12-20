@@ -1,0 +1,39 @@
+24 Jun 2016 02:17:02 : LimitlessMc , Wertfuzzy77#0274 , !ev 001 002 003
+24 Jun 2016 02:17:02 : LimitlessMc , Botfuzzy77#2926 , **`` 001	Bulbasaur HP:0 ATT:0 DEF:0 SP.ATT:1 SP.DEF:0 SPD:0
+ 002	Ivysaur HP:0 ATT:0 DEF:0 SP.ATT:1 SP.DEF:0 SPD:1
+ 003	Venusaur HP:0 ATT:0 DEF:0 SP.ATT:2 SP.DEF:0 SPD:1
+``**
+24 Jun 2016 02:17:04 : LimitlessMc , Wertfuzzy77#0274 , ugh
+24 Jun 2016 02:17:11 : LimitlessMc , Wertfuzzy77#0274 , look on left side
+24 Jun 2016 02:17:18 : LimitlessMc , Wertfuzzy77#0274 , see how 001 starts correctly
+24 Jun 2016 02:17:20 : LimitlessMc , Wertfuzzy77#0274 , but 002 isnt
+24 Jun 2016 02:17:49 : LimitlessMc , Nerokin#3586 , It looks fine to me
+24 Jun 2016 02:18:00 : LimitlessMc , Nerokin#3586 , !ev none 001
+24 Jun 2016 02:18:01 : LimitlessMc , Botfuzzy77#2926 , **``Pokemon Not Found
+ 001	Bulbasaur HP:0 ATT:0 DEF:0 SP.ATT:1 SP.DEF:0 SPD:0
+``**
+24 Jun 2016 02:18:07 : LimitlessMc , Wertfuzzy77#0274 , see
+24 Jun 2016 02:18:09 : LimitlessMc , Wertfuzzy77#0274 , space
+24 Jun 2016 02:18:16 : LimitlessMc , Wertfuzzy77#0274 , !ev test test1 test2
+24 Jun 2016 02:18:16 : LimitlessMc , Botfuzzy77#2926 , **`` 000	TEST HP:0 ATT:1 DEF:0 SP.ATT:1 SP.DEF:0 SPD:1
+Pokemon Not Found
+Pokemon Not Found
+``**
+24 Jun 2016 02:18:18 : LimitlessMc , Nerokin#3586 , Always on the second line
+24 Jun 2016 02:18:21 : LimitlessMc , Wertfuzzy77#0274 , wait, only for numbers tho
+24 Jun 2016 02:18:24 : LimitlessMc , Wertfuzzy77#0274 , not for bad ones
+24 Jun 2016 02:18:31 : LimitlessMc , Nerokin#3586 , !ev Mank Mank
+24 Jun 2016 02:18:32 : LimitlessMc , Botfuzzy77#2926 , **`` 056	Mankey HP:0 ATT:1 DEF:0 SP.ATT:0 SP.DEF:0 SPD:0
+ 056	Mankey HP:0 ATT:1 DEF:0 SP.ATT:0 SP.DEF:0 SPD:0
+``**
+24 Jun 2016 02:18:36 : LimitlessMc , Wertfuzzy77#0274 , see
+24 Jun 2016 02:18:47 : LimitlessMc , Wertfuzzy77#0274 , anyline besides 1st
+24 Jun 2016 02:18:51 : LimitlessMc , Nerokin#3586 , !ev Test Test
+24 Jun 2016 02:18:51 : LimitlessMc , Botfuzzy77#2926 , **`` 000	TEST HP:0 ATT:1 DEF:0 SP.ATT:1 SP.DEF:0 SPD:1
+ 000	TEST HP:0 ATT:1 DEF:0 SP.ATT:1 SP.DEF:0 SPD:1
+``**
+24 Jun 2016 02:19:16 : LimitlessMc , Wertfuzzy77#0274 , wait, thats not right
+24 Jun 2016 02:19:23 : LimitlessMc , Wertfuzzy77#0274 , should be all 1's
+24 Jun 2016 02:19:31 : LimitlessMc , Wertfuzzy77#0274 , " 000    TEST            1        1       1       1       1       1"
+24 Jun 2016 02:20:21 : LimitlessMc , Wertfuzzy77#0274 , !relog
+24 Jun 2016 02:20:21 : LimitlessMc , Botfuzzy77#2926 , Relogging...

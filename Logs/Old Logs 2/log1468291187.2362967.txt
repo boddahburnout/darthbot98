@@ -1,0 +1,24 @@
+12 Jul 2016 02:39:50 : Cipher , Wertfuzzy77#0274 , manual restart
+12 Jul 2016 02:39:53 : Cipher , Wertfuzzy77#0274 , ;join
+12 Jul 2016 02:40:01 : Cipher , Wertfuzzy77#0274 , ;youtube https://www.youtube.com/watch?v=P4Weq5rsiJw
+12 Jul 2016 02:40:12 : Cipher , Wertfuzzy77#0274 , ;song
+12 Jul 2016 02:40:13 : Cipher , Botfuzzy77#2209 , ```Name: Extra Magic Hour - Amagi Brilliant Park OP [piano]
+URL: <https://www.youtube.com/watch?v=P4Weq5rsiJw>
+Views: 1,073,913
+Likes: 14,339, 99.67%
+Dislikes: 47, 0.33%
+```
+12 Jul 2016 02:40:26 : Cipher , RoyGasm ;)#7098 , ;youtube https://www.youtube.com/watch?v=2juA5xNObGk
+12 Jul 2016 02:40:29 : Cipher , RoyGasm ;)#7098 , !songs
+12 Jul 2016 02:40:58 : Cipher , Wertfuzzy77#0274 , ;songs
+12 Jul 2016 02:40:58 : Cipher , Botfuzzy77#2209 , The Following songs are in the Queue
+12 Jul 2016 02:40:58 : Cipher , Botfuzzy77#2209 , The Chainsmokers - Don't Let Me Down (Acapella Remix) ft. Daya (https://www.youtube.com/watch?v=2juA5xNObGk)
+
+12 Jul 2016 02:41:04 : Cipher , Wertfuzzy77#0274 , wow you are really bad at this
+12 Jul 2016 02:41:14 : Cipher , RoyGasm ;)#7098 , ;-; piss off
+12 Jul 2016 02:41:17 : Cipher , RoyGasm ;)#7098 , brb
+12 Jul 2016 02:41:24 : Cipher , Wertfuzzy77#0274 , ```Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "-;" is not found```
+12 Jul 2016 02:41:25 : Cipher , Wertfuzzy77#0274 , gg
+12 Jul 2016 02:44:52 : Cipher , Wertfuzzy77#0274 , ;relog
+12 Jul 2016 02:44:52 : Cipher , Botfuzzy77#2209 , Relogging...

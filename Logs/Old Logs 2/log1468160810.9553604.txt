@@ -1,0 +1,64 @@
+10 Jul 2016 14:26:56 : Cipher , Wertfuzzy77#0274 , ;join
+10 Jul 2016 14:26:59 : Cipher , Wertfuzzy77#0274 , cool
+10 Jul 2016 14:27:04 : Cipher , Wertfuzzy77#0274 , ;youtube https://www.youtube.com/watch?v=pAgnJDJN4VA
+10 Jul 2016 14:27:10 : Cipher , Wertfuzzy77#0274 , ;join
+10 Jul 2016 14:27:10 : Cipher , Botfuzzy77#2209 , Sorry, I'm already connected to a channel
+10 Jul 2016 14:27:16 : Cipher , Wertfuzzy77#0274 , ;join
+10 Jul 2016 14:27:16 : Cipher , Botfuzzy77#2209 , Sorry, I'm already connected to a channel
+10 Jul 2016 14:27:21 : Cipher , Wertfuzzy77#0274 , ;join
+10 Jul 2016 14:27:21 : Cipher , Botfuzzy77#2209 , Sorry, I'm already connected to a channel
+10 Jul 2016 14:32:51 : Cipher , Wertfuzzy77#0274 , ;youtube https://www.youtube.com/watch?v=4gDch1p4c_M
+10 Jul 2016 14:32:52 : Cipher , Allianths#4161 , i forgive u <@!187609093001838602>
+10 Jul 2016 14:33:00 : Cipher , Wertfuzzy77#0274 , ;funify bet
+10 Jul 2016 14:33:00 : Cipher , Botfuzzy77#2209 , B beETt 
+10 Jul 2016 14:33:08 : Cipher , Wertfuzzy77#0274 , join the Music channel
+10 Jul 2016 14:33:15 : Cipher , Wertfuzzy77#0274 , testing his Music cmds
+10 Jul 2016 14:33:23 : Cipher , Wertfuzzy77#0274 , ;song
+10 Jul 2016 14:33:23 : Cipher , Botfuzzy77#2209 , ```Name: AC/DC - Shoot To Thrill (HQ)
+URL: <https://www.youtube.com/watch?v=4gDch1p4c_M>
+Views: 8,938,840
+Likes: 31,976, 96.25%
+Dislikes: 1,245, 3.75%
+```
+10 Jul 2016 14:34:05 : Cipher , Wertfuzzy77#0274 , feel free to play what you want after song has finished
+10 Jul 2016 14:34:08 : Cipher , Wertfuzzy77#0274 , there isnt a queue yet
+10 Jul 2016 14:34:11 : Cipher , Wertfuzzy77#0274 , but im coding it rn
+10 Jul 2016 14:34:13 : Cipher , Wertfuzzy77#0274 , ;afk Coding
+10 Jul 2016 14:34:13 : Cipher , Botfuzzy77#2209 , Wertfuzzy77 is now AFK for reason:
+**Coding**
+10 Jul 2016 14:34:23 : Cipher , Wertfuzzy77#0274 , ;help Music
+10 Jul 2016 14:34:23 : Cipher , Botfuzzy77#2209 , No command called "Music" found.
+10 Jul 2016 14:34:28 : Cipher , Wertfuzzy77#0274 , ;help MusicPlayer
+10 Jul 2016 14:34:28 : Cipher , Botfuzzy77#2209 , ```
+Commands:
+  song        
+  skip        
+  youtube     
+  join        
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+10 Jul 2016 14:34:43 : Cipher , Allianths#4161 , ;song
+10 Jul 2016 14:34:43 : Cipher , Botfuzzy77#2209 , ```Name: AC/DC - Shoot To Thrill (HQ)
+URL: <https://www.youtube.com/watch?v=4gDch1p4c_M>
+Views: 8,938,840
+Likes: 31,976, 96.25%
+Dislikes: 1,245, 3.75%
+```
+10 Jul 2016 14:34:59 : Cipher , Allianths#4161 , ;join
+10 Jul 2016 14:34:59 : Cipher , Botfuzzy77#2209 , Sorry, I'm already connected to a channel
+10 Jul 2016 14:35:07 : Cipher , Allianths#4161 , ;youtube
+10 Jul 2016 14:35:17 : Cipher , Wertfuzzy77#0274 , that cmd has him join what voice channel you are in
+10 Jul 2016 14:35:20 : Cipher , Wertfuzzy77#0274 , ;help youtube
+10 Jul 2016 14:35:20 : Cipher , Botfuzzy77#2209 , ```
+;youtube <link>
+
+```
+10 Jul 2016 14:35:22 : Cipher , Wertfuzzy77#0274 , ^
+10 Jul 2016 14:35:22 : Cipher , Botfuzzy77#2209 , ^
+10 Jul 2016 14:35:45 : Cipher , Wertfuzzy77#0274 , ;youtube https://www.youtube.com/watch?v=pAgnJDJN4VA
+10 Jul 2016 14:35:45 : Cipher , Botfuzzy77#2209 , Already playing a song
+10 Jul 2016 14:35:55 : Cipher , Wertfuzzy77#0274 , ;skip
+10 Jul 2016 14:36:11 : Cipher , Wertfuzzy77#0274 , ;relog
+10 Jul 2016 14:36:11 : Cipher , Botfuzzy77#2209 , Relogging...

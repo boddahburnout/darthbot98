@@ -1,0 +1,13 @@
+05 Feb 2017 19:35:57 : Cipher, music, Wertfuzzy77#0274, ;join
+05 Feb 2017 19:35:57 : Cipher, music, Botfuzzy77#2209, Connected channel!
+05 Feb 2017 19:36:17 : Cipher, music, Wertfuzzy77#0274, ;playlist Adele Coldplay Dragons Maroon Sheeran
+05 Feb 2017 19:36:36 : Cipher, music, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+05 Feb 2017 19:40:08 : Cipher, music, Wertfuzzy77#0274, ;join
+05 Feb 2017 19:40:08 : Cipher, music, Botfuzzy77#2209, Reconnected channel!
+05 Feb 2017 19:40:13 : Cipher, music, Wertfuzzy77#0274, ;music
+05 Feb 2017 19:40:14 : Cipher, music, Botfuzzy77#2209, Connected to voice channels in [Cipher] servers!
+05 Feb 2017 19:40:17 : Cipher, music, Wertfuzzy77#0274, ;songs
+05 Feb 2017 19:40:17 : Cipher, music, Botfuzzy77#2209, Queue is Empty
+05 Feb 2017 19:40:18 : Cipher, music, Wertfuzzy77#0274, ;song
+05 Feb 2017 19:40:18 : Cipher, music, Botfuzzy77#2209, ERROR, ['NoneType' object has no attribute 'title']
+05 Feb 2017 19:40:20 : Cipher, music, Wertfuzzy77#0274, ;leave

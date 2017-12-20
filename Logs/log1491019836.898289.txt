@@ -1,0 +1,938 @@
+01 Apr 2017 04:10:53 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+01 Apr 2017 04:10:53 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+01 Apr 2017 04:11:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio Purely Pop
+01 Apr 2017 04:11:01 : LimitlessMc, botchat, Botfuzzy77#2209, Now listening to **Purely Pop** radio channel
+01 Apr 2017 04:11:08 : LimitlessMc, botchat, Wertfuzzy77#0274, ;musicdebug sys.sizeof(self.serverPlayers[ctx.message.server.id].voice)
+01 Apr 2017 04:11:08 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+AttributeError: module 'sys' has no attribute 'sizeof'
+```
+01 Apr 2017 04:11:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;musicdebug sys.getsizeof(self.serverPlayers[ctx.message.server.id].voice)
+01 Apr 2017 04:11:20 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+56
+```
+01 Apr 2017 04:11:27 : LimitlessMc, botchat, Wertfuzzy77#0274, ;musicdebug sys.getsizeof(self.serverPlayers[ctx.message.server.id].player)
+01 Apr 2017 04:11:27 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+56
+```
+01 Apr 2017 04:12:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;musicdebug sys.getsizeof(self.serverPlayers[ctx.message.server.id].player.yt)
+01 Apr 2017 04:12:12 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+56
+```
+01 Apr 2017 04:12:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;music
+01 Apr 2017 04:12:59 : LimitlessMc, botchat, Botfuzzy77#2209, Connected to voice channels in the following servers:
+LimitlessMc playing Taylor Swift - Blank Space
+01 Apr 2017 04:13:03 : LimitlessMc, botchat, Wertfuzzy77#0274, fixed that tho 😄
+01 Apr 2017 04:16:25 : LimitlessMc, botchat, Crystal4209#4698, ;skip
+01 Apr 2017 04:16:25 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Hotel Room Service-Pitbull by request (Radio Song)
+01 Apr 2017 04:16:34 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+01 Apr 2017 04:16:34 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+01 Apr 2017 04:16:34 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Sam Smith - Stay With Me **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=-rC8RRXcfeo>
+2. OneRepublic - Counting Stars **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=hT_nvWreIhg>
+3. Bebe Rexha - I Got You [Lyric Video] **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=pUUGJD-JjGA>
+4. LunchMoney Lewis - Bills (Audio) **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=2aXzOfGQdMQ>
+5. Robin schulz ft. Akon - Heatwave (Original mix) **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=UQrD3mZm5SY>
+Total Time is 0:17:26
+01 Apr 2017 04:17:54 : LimitlessMc, mainchat, AlphaBit#3869, a few more days till my 3rd year on ll
+01 Apr 2017 04:17:57 : LimitlessMc, mainchat, AlphaBit#3869, wooooooo
+01 Apr 2017 04:22:28 : LimitlessMc, botchat, Jmon_S#3475, perfect timing
+01 Apr 2017 04:33:25 : LimitlessMc, mainchat, JustinOPGamer#9138, https://cdn.discordapp.com/attachments/277842427509735435/297589176575197186/unknown.png
+01 Apr 2017 04:33:55 : LimitlessMc, mainchat, JustinOPGamer#9138, Year aniversery mega riding
+01 Apr 2017 04:37:09 : LimitlessMc, mainchat, Crystal4209#4698, lel just posted something on forums about /ride
+01 Apr 2017 04:42:28 : LimitlessMc, mainchat, JustinOPGamer#9138, https://cdn.discordapp.com/attachments/285164147656622080/297591241909207050/unknown.png
+01 Apr 2017 04:45:44 : LimitlessMc, botchat, Jmon_S#3475, this is nice
+01 Apr 2017 04:46:00 : LimitlessMc, botchat, Jmon_S#3475, brb
+01 Apr 2017 04:47:20 : LimitlessMc, mainchat, Crystal4209#4698, ^us messing around in spawn
+01 Apr 2017 05:01:04 : LimitlessMc, botchat, Crystal4209#4698, ;skip
+01 Apr 2017 05:01:05 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Nelly - Just A Dream by request (Radio Song)
+01 Apr 2017 05:01:13 : LimitlessMc, botchat, Crystal4209#4698, ;skip
+01 Apr 2017 05:01:13 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Gotye - Somebody That I Used To Know (feat. Kimbra) - official video by request (Radio Song)
+01 Apr 2017 05:03:40 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;train
+01 Apr 2017 05:04:32 : LimitlessMc, botchat, Crystal4209#4698, ;train
+01 Apr 2017 05:09:32 : LimitlessMc, botchat, Crystal4209#4698, ;skip
+01 Apr 2017 05:09:32 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping gnash - i hate u, i love u ft. olivia o'brien [music video] by request (Radio Song)
+01 Apr 2017 05:31:34 : LimitlessMc, botchat, Lightning#6734, can you guys stop breaking lightbot lol
+01 Apr 2017 05:31:39 : LimitlessMc, botchat, Lightning#6734, i come home to 40+errors
+01 Apr 2017 05:59:28 : LimitlessMc, botchat, Crystal4209#4698, lelelel
+01 Apr 2017 05:59:31 : LimitlessMc, botchat, Crystal4209#4698, ;train
+01 Apr 2017 06:27:06 : LimitlessMc, botchat, Crystal4209#4698, ;train
+01 Apr 2017 06:27:19 : LimitlessMc, botchat, Crystal4209#4698, oh hai jay
+01 Apr 2017 06:33:51 : LimitlessMc, botchat, Bakafish#8693, ;train
+01 Apr 2017 06:33:54 : LimitlessMc, botchat, Bakafish#8693, ;choo
+01 Apr 2017 06:33:58 : LimitlessMc, botchat, Bakafish#8693, ;choo
+01 Apr 2017 06:47:29 : LimitlessMc, mainchat, OneClickGamer#8558, hmm
+01 Apr 2017 06:47:36 : LimitlessMc, mainchat, OneClickGamer#8558, baka kick me and i cant join  back
+01 Apr 2017 06:47:39 : LimitlessMc, mainchat, OneClickGamer#8558, 😦
+01 Apr 2017 06:47:51 : LimitlessMc, mainchat, Jay113355#4999, it was restarting
+01 Apr 2017 06:48:04 : LimitlessMc, mainchat, OneClickGamer#8558, but why she kick me wut i do:(
+01 Apr 2017 06:48:13 : LimitlessMc, mainchat, Jay113355#4999, She didnt..
+01 Apr 2017 06:48:17 : LimitlessMc, mainchat, Jay113355#4999, it was the restart
+01 Apr 2017 06:48:22 : LimitlessMc, mainchat, OneClickGamer#8558, hmmm
+01 Apr 2017 06:48:24 : LimitlessMc, mainchat, OneClickGamer#8558, ok
+01 Apr 2017 06:50:12 : LimitlessMc, private, Jay113355#4999, ;songs
+01 Apr 2017 06:50:12 : LimitlessMc, private, Botfuzzy77#2209, **The Following songs are in the Queue**
+01 Apr 2017 06:50:12 : LimitlessMc, private, Botfuzzy77#2209, 1. Pitbull - Wild Wild Love (Audio) ft. G.R.L. **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=cuOpXHunq6U>
+2. Best Day of My Life - American Authors (Lyrics) **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=0fTUj9mfnUk>
+3. Sigala - Give Me Your Love (Official Audio) ft. John Newman, Nile Rodgers **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=NeVqF1pBEbU>
+4. RITA ORA - Poison (Lyric Video) **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=CJu6Fh1FSEo>
+5. The Black Eyed Peas - Where Is The Love? **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=FotCW5OIFZc>
+Total Time is 0:18:06
+01 Apr 2017 06:50:46 : LimitlessMc, private, Jay113355#4999, .youtube https://www.youtube.com/watch?v=ByC8sRdL-Ro
+01 Apr 2017 06:50:50 : LimitlessMc, private, Jay113355#4999, ;youtube https://www.youtube.com/watch?v=ByC8sRdL-Ro
+01 Apr 2017 06:50:50 : LimitlessMc, private, Botfuzzy77#2209, Turn off Radio mode first! (`;Radio off`)
+01 Apr 2017 07:08:50 : LimitlessMc, mainchat, Lightshadow#5809, Sooo how is everyone?
+01 Apr 2017 07:10:02 : LimitlessMc, mainchat, Crystal4209#4698, happy
+01 Apr 2017 07:10:09 : LimitlessMc, mainchat, Lightshadow#5809, :D
+01 Apr 2017 07:10:25 : LimitlessMc, mainchat, Lightshadow#5809, I am waiting for a lot of my friends to come online
+01 Apr 2017 07:10:47 : LimitlessMc, mainchat, Lightshadow#5809, :( I have a ftb server, but no one to play with
+01 Apr 2017 07:10:49 : LimitlessMc, mainchat, Crystal4209#4698, im waiting for sam to get online but she has a few more hours left
+01 Apr 2017 07:11:15 : LimitlessMc, mainchat, Lightshadow#5809, And I need to get 10 people on said server so the owner will make it permanent
+01 Apr 2017 07:11:27 : LimitlessMc, mainchat, Lightshadow#5809, X_X
+01 Apr 2017 07:11:51 : LimitlessMc, mainchat, Lightshadow#5809, Don't worry I ain't gonna post an iPhone or try to drag people there
+01 Apr 2017 07:12:12 : LimitlessMc, mainchat, Lightshadow#5809, Bloody phone
+01 Apr 2017 07:12:21 : LimitlessMc, mainchat, Lightshadow#5809, Ugh I hate autocorrect
+01 Apr 2017 07:23:02 : LimitlessMc, botchat, JustinOPGamer#9138, ;skip
+01 Apr 2017 07:23:03 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping KDA - Turn The Music Louder (Rumble) (Official Video) ft. Tinie Tempah, Katy B by request (Radio Song)
+01 Apr 2017 07:24:05 : LimitlessMc, botchat, Crystal4209#4698, ;skip
+01 Apr 2017 07:24:05 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Lost Kings - Phone Down ft. Emily Warren by request (Radio Song)
+01 Apr 2017 07:27:32 : LimitlessMc, botchat, Crystal4209#4698, ;skip
+01 Apr 2017 07:27:32 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Down - Jay sean - Lyrics by request (Radio Song)
+01 Apr 2017 07:27:49 : LimitlessMc, botchat, Crystal4209#4698, ;song
+01 Apr 2017 07:27:49 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: MKTO-God Only Knows
+**Requester**: Radio: Purely Pop
+**URL**: <https://www.youtube.com/watch?v=0Wz2ZFzLntk>
+```py
+Time: 0:03:15
+Views: 22,638
+Likes: 129, 95.56%
+Dislikes: 6, 4.44%
+Skips: 0/1```
+01 Apr 2017 07:41:57 : LimitlessMc, botchat, TherminatorX#6644, ;train
+01 Apr 2017 07:42:08 : LimitlessMc, botchat, TherminatorX#6644, ...
+01 Apr 2017 07:42:31 : LimitlessMc, botchat, TherminatorX#6644, ;pokeboss
+01 Apr 2017 07:42:43 : LimitlessMc, botchat, TherminatorX#6644, ;cd
+01 Apr 2017 07:42:51 : LimitlessMc, botchat, TherminatorX#6644, ;song
+01 Apr 2017 07:42:51 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Daft Punk - Get Lucky (Official Audio) ft. Pharrell Williams, Nile Rodgers
+**Requester**: Radio: Purely Pop
+**URL**: <https://www.youtube.com/watch?v=5NV6Rdv1a3I>
+```py
+Time: 0:04:09
+Views: 276,165,021
+Likes: 1,300,573, 96.89%
+Dislikes: 41,748, 3.11%
+Skips: 0/0```
+01 Apr 2017 07:43:07 : LimitlessMc, botchat, TherminatorX#6644, ;cd
+01 Apr 2017 07:43:13 : LimitlessMc, botchat, TherminatorX#6644, ;fml
+01 Apr 2017 07:43:15 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I got home to find my entire video game collection and all my consoles had been stolen. Two weeks ago I brought them back from my University accommodation, specifically to stop them from being stolen while I was at home for the Christmas holiday. FML*
+01 Apr 2017 07:44:10 : LimitlessMc, botchat, TherminatorX#6644, @Wertfuzzy77 bot doesn't want to do Pokemon stuff, what happen
+01 Apr 2017 07:44:23 : None, Direct Message with TherminatorX, TherminatorX#6644, ;help
+01 Apr 2017 07:44:23 : None, Direct Message with TherminatorX, Botfuzzy77#2209, ```
+A Bot whose sole Purpose is to serve Wertfuzzy77! Version 0.15.1.3
+(Created by Wertfuzzy77)
+
+FlavorTexts:
+  kiss           Adds Emotion
+  kill           Adds Emotion
+  choose         Chooses from a set of things
+  wyr            
+  luck           Returns the Player's Luck
+  rate           Rates the Player
+  conch          Ask the Magic Conch a Question
+  likes          Adds Emotion
+  slap           Adds Emotion
+  funify         Funifies a given text input
+  rps            Allows the player to play Rock, Paper, Scissors with the Bot...
+  kys            
+  lmgtfy         Returns a Link to a "Let me Google That For You" Page
+  hug            Adds Emotion
+  hates          Adds Emotion
+  image          Returns the First Found Image on Google Images for this Input
+  fml            Returns a Random Post from fmylife.com
+  gif            Returns the First Found Image on Google Images for this Input
+  loves          Adds Emotion
+MusicPlayer:
+  songs          Prints the songs in the queue
+  recommend      Allow the bot to add up to 5 songs to the queue to have infi...
+  clear          Clears the Queue
+  desc           Decription of the Current playing song
+  Radio          Enables Radio Mode
+  join           Joins the Voice channel you are currently in
+  extendplaylist Extends a custom playlist
+  leave          Leaves the Join chat
+  playlists      Shows all the current playlists
+  shuffle        Shuffles the songs the queue
+  makeplaylist   Makes a custom playlist for the bot to save
+  remove         removes a song from a queue by index
+  music          Returns the current status of the Music Bot
+  loop           Plays the current song again
+  playlist       Adds songs from a predefined playlist to the songs list
+  skip           Skips the Current song
+  viewplaylist   Views the songs of a playlists
+  youtube        Adds a Song for the Bot to Play
+  search         Searches for a song
+  song           Returns information about the current playing song
+StaffCmds:
+```
+01 Apr 2017 07:44:23 : None, Direct Message with TherminatorX, Botfuzzy77#2209, ```
+  tempmute       
+  unmuteall      Unmutes ALL muted players
+  mute           
+  unmute         
+  mutelist       
+​No Category:
+  pokemon        Returns Links to Pokemon pages
+  cleverbot      
+  status         Returns the Status of the Bot, along with Additional Informa...
+  afk            Sets you as AFK, and the Bot will auto Reply for you with th...
+  changeIcon     
+  ev             
+  help           Shows this message.
+  joined         Says when a member joined.
+  source         Returns a link to the source code for this bot
+  server         Returns Information on the Limitless MC server!
+  feedback       Returns a link to a Google Forums, where you can leave feedb...
+  invite         Returns a Link to the Invite URL for this bot
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+01 Apr 2017 07:44:39 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokemon gallade
+01 Apr 2017 07:44:39 : None, Direct Message with TherminatorX, Botfuzzy77#2209, ***Gallade***
+01 Apr 2017 07:44:40 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+01 Apr 2017 07:44:40 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **Pixelmon Page**: <http://pixelmonmod.com/wiki/index.php?title=gallade>
+**Bulbapedia Page**: <http://bulbapedia.bulbagarden.net/wiki/gallade>
+**Pokemon DB**: <http://pokemondb.net/pokedex/gallade>
+**Smogon**: <http://www.smogon.com/dex/bw/pokemon/gallade>
+01 Apr 2017 07:44:50 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokeboss
+01 Apr 2017 07:45:13 : None, Direct Message with TherminatorX, TherminatorX#6644, ;ev Pidgey
+01 Apr 2017 07:45:14 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **Pidgey**
+```py
+speed 1
+special-defense 0
+special-attack 0
+defense 0
+attack 0
+hp 0```
+01 Apr 2017 07:46:07 : LimitlessMc, mainchat, TherminatorX#6644, Crystaaaaal
+01 Apr 2017 07:46:13 : LimitlessMc, mainchat, TherminatorX#6644, Hep meh
+01 Apr 2017 07:46:57 : LimitlessMc, mainchat, TherminatorX#6644, My brain won't shut up for the night
+01 Apr 2017 07:57:19 : LimitlessMc, mainchat, Crystal4209#4698, huh what you need help with?
+01 Apr 2017 07:57:25 : LimitlessMc, mainchat, Crystal4209#4698, im recording a video ;-;
+01 Apr 2017 08:01:02 : LimitlessMc, mainchat, TherminatorX#6644, Oh, carry on then
+01 Apr 2017 08:03:16 : None, Direct Message with TherminatorX, TherminatorX#6644, *what*
+01 Apr 2017 08:10:35 : LimitlessMc, mainchat, Crystal4209#4698, so what did you need help with therm?
+01 Apr 2017 08:22:42 : LimitlessMc, mainchat, TherminatorX#6644, I was just looking for conversation
+01 Apr 2017 08:23:14 : LimitlessMc, mainchat, 🌿Sesu🌿#8520, ummm whaaa... theres no keep inventory?
+01 Apr 2017 08:34:09 : LimitlessMc, mainchat, Crystal4209#4698, yeah no keep inventory
+01 Apr 2017 09:22:22 : LimitlessMc, botchat, Crystal4209#4698, ;fml
+01 Apr 2017 09:22:23 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I got food poisoning at work. I had my head in the toilet when the auto flush decided to turn on. The force of the flush was so powerful half of what I threw up splashed back into my face. FML*
+01 Apr 2017 10:21:45 : LimitlessMc, botchat, TherminatorX#6644, ;train
+01 Apr 2017 10:22:39 : LimitlessMc, botchat, TherminatorX#6644, ;leave
+01 Apr 2017 10:24:02 : LimitlessMc, botchat, TherminatorX#6644, It's not leaving the voice channel either...
+01 Apr 2017 10:24:08 : LimitlessMc, botchat, TherminatorX#6644, ;kys bot
+01 Apr 2017 10:24:08 : LimitlessMc, botchat, Botfuzzy77#2209, Hey Mean!
+01 Apr 2017 10:34:54 : LimitlessMc, mainchat, Detective_Choudhry#5495, Hello
+01 Apr 2017 10:42:15 : nein, general, shuck#1142, ;server
+01 Apr 2017 10:42:16 : nein, general, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+01 Apr 2017 10:42:16 : nein, general, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 6 players out of 150
+ *Ping*: 150.966 ms
+ *MC Version*: 1.10.2
+01 Apr 2017 10:42:16 : nein, general, Botfuzzy77#2209, **Pixelmon Version**: 5.0.3
+01 Apr 2017 10:42:16 : nein, general, Botfuzzy77#2209, **Players Online**:
+ *j0s3k195, NavyMover56, Vendramine11, YouSmellKid, GrimmyTheGamer, AxileChrome...*
+01 Apr 2017 10:46:53 : LimitlessMc, mainchat, Crystal4209#4698, Sup
+01 Apr 2017 10:47:08 : LimitlessMc, botchat, Crystal4209#4698, Lol
+01 Apr 2017 11:04:05 : LimitlessMc, mainchat, AlphaBit#3869, ree
+01 Apr 2017 11:13:15 : LimitlessMc, mainchat, SpoopiestWarrior#4764, hullo
+01 Apr 2017 11:16:47 : LimitlessMc, mainchat, SpoopiestWarrior#4764, just thought i'd mention, i've been dead since xmas due to horrible wifi. should be fixed soon
+01 Apr 2017 11:22:37 : LimitlessMc, mainchat, j0s3k195#4976, Hi, we have a bug with a pokemon that we can not move it and can not kill what we have to do?
+01 Apr 2017 11:54:34 : LimitlessMc, mainchat, Lightning#6734, walk away and let it despawn
+01 Apr 2017 12:02:46 : LimitlessMc, mainchat, AlphaBit#3869, plot twist: it's at spawn
+01 Apr 2017 12:04:16 : LimitlessMc, mainchat, AlphaBit#3869, @Third_Worm sleep
+01 Apr 2017 12:04:23 : LimitlessMc, mainchat, Third_Worm#4804, Tf
+01 Apr 2017 12:04:41 : LimitlessMc, mainchat, Third_Worm#4804, Child I got 8 hours if sleep, am good
+01 Apr 2017 12:05:05 : LimitlessMc, mainchat, AlphaBit#3869, lol good for u
+01 Apr 2017 12:05:29 : LimitlessMc, mainchat, Third_Worm#4804, @DrunkBit you go to sleep
+01 Apr 2017 12:06:02 : LimitlessMc, mainchat, DrunkBit#3869, na
+01 Apr 2017 12:06:21 : LimitlessMc, mainchat, Third_Worm#4804, Yea
+01 Apr 2017 12:06:27 : LimitlessMc, mainchat, Third_Worm#4804, Get in bed you drunk
+01 Apr 2017 12:06:27 : LimitlessMc, mainchat, DrunkBit#3869, 3early
+01 Apr 2017 12:07:40 : LimitlessMc, mainchat, Crystal4209#4698, It's 8pm..
+01 Apr 2017 12:07:45 : LimitlessMc, mainchat, Crystal4209#4698, Not that early
+01 Apr 2017 12:08:04 : LimitlessMc, mainchat, Third_Worm#4804, Its confirmed
+01 Apr 2017 12:08:06 : LimitlessMc, mainchat, Third_Worm#4804, Sleeo
+01 Apr 2017 12:08:19 : LimitlessMc, mainchat, DrunkBit#3869, time is relative
+01 Apr 2017 12:08:28 : LimitlessMc, mainchat, Crystal4209#4698, Same time zone boiii
+01 Apr 2017 12:08:33 : LimitlessMc, mainchat, Crystal4209#4698, Go to sleep
+01 Apr 2017 12:09:04 : LimitlessMc, mainchat, darth kota#9446, is jay on?
+01 Apr 2017 12:09:12 : LimitlessMc, mainchat, Third_Worm#4804, No
+01 Apr 2017 12:09:15 : LimitlessMc, mainchat, Crystal4209#4698, Nah he's asleep
+01 Apr 2017 12:09:17 : LimitlessMc, mainchat, Third_Worm#4804, Definitely not
+01 Apr 2017 12:09:21 : LimitlessMc, mainchat, darth kota#9446, fml
+01 Apr 2017 12:09:23 : LimitlessMc, mainchat, Third_Worm#4804, Early AF for him
+01 Apr 2017 12:09:30 : LimitlessMc, mainchat, Crystal4209#4698, Too early for him
+01 Apr 2017 12:09:40 : LimitlessMc, mainchat, Crystal4209#4698, Plus he went to bed late
+01 Apr 2017 12:09:45 : LimitlessMc, mainchat, Third_Worm#4804, ^
+01 Apr 2017 12:09:53 : LimitlessMc, mainchat, Detective_Choudhry#5495, Hello again
+01 Apr 2017 12:09:56 : LimitlessMc, mainchat, Lightning#6734, what need
+01 Apr 2017 12:09:58 : LimitlessMc, mainchat, Crystal4209#4698, Sup
+01 Apr 2017 12:10:06 : LimitlessMc, mainchat, Third_Worm#4804, @Detective_Choudhry suh dud
+01 Apr 2017 12:10:18 : LimitlessMc, mainchat, Detective_Choudhry#5495, Hahah not much, how you all doing?
+01 Apr 2017 12:10:24 : LimitlessMc, mainchat, darth kota#9446, im never going to get back the ability to login with how this is going
+01 Apr 2017 12:10:27 : LimitlessMc, mainchat, Crystal4209#4698, Sore legs
+01 Apr 2017 12:10:34 : LimitlessMc, mainchat, Detective_Choudhry#5495, Ehhh, hurts?
+01 Apr 2017 12:10:42 : LimitlessMc, mainchat, Third_Worm#4804, Feeling really fucking bad
+01 Apr 2017 12:10:52 : LimitlessMc, mainchat, Crystal4209#4698, Still sick
+01 Apr 2017 12:11:04 : LimitlessMc, mainchat, Crystal4209#4698, Plus got other stuff on my mind
+01 Apr 2017 12:11:32 : LimitlessMc, mainchat, Detective_Choudhry#5495, Thats very bad, @Third_Worm  @Crystal4209
+01 Apr 2017 12:12:08 : LimitlessMc, mainchat, Detective_Choudhry#5495, Btw third you done with ev training on the two?
+01 Apr 2017 12:12:09 : LimitlessMc, mainchat, Third_Worm#4804, @Detective_Choudhry you need to prank me
+01 Apr 2017 12:12:20 : LimitlessMc, mainchat, Detective_Choudhry#5495, Why?
+01 Apr 2017 12:12:22 : LimitlessMc, mainchat, Third_Worm#4804, Work in on the lamp atm
+01 Apr 2017 12:12:22 : LimitlessMc, mainchat, Detective_Choudhry#5495, Haha
+01 Apr 2017 12:12:27 : LimitlessMc, mainchat, Detective_Choudhry#5495, Okey
+01 Apr 2017 12:12:39 : LimitlessMc, mainchat, darth kota#9446, any admins at least?
+01 Apr 2017 12:12:53 : LimitlessMc, mainchat, Detective_Choudhry#5495, @Light  this dud need ya
+01 Apr 2017 12:12:59 : LimitlessMc, mainchat, Detective_Choudhry#5495, ^^
+01 Apr 2017 12:13:18 : LimitlessMc, mainchat, darth kota#9446, thnks
+01 Apr 2017 12:13:22 : LimitlessMc, mainchat, Detective_Choudhry#5495, Np
+01 Apr 2017 12:13:49 : LimitlessMc, mainchat, Lightning#6734, i see that
+01 Apr 2017 12:13:54 : LimitlessMc, mainchat, Lightning#6734, what need tho
+01 Apr 2017 12:13:59 : LimitlessMc, mainchat, darth kota#9446, you ever see an admin by the name of heavenlybetrail
+01 Apr 2017 12:14:05 : LimitlessMc, mainchat, darth kota#9446, um i cant logon
+01 Apr 2017 12:14:11 : LimitlessMc, mainchat, Lightning#6734, he/she left a long time ago
+01 Apr 2017 12:14:19 : LimitlessMc, mainchat, darth kota#9446, :/ he
+01 Apr 2017 12:14:34 : LimitlessMc, mainchat, darth kota#9446, server has been refusing my connection
+01 Apr 2017 12:14:39 : LimitlessMc, mainchat, Detective_Choudhry#5495, @light is bringer still admin after all this time?
+01 Apr 2017 12:14:48 : LimitlessMc, mainchat, Lightning#6734, yea and no
+01 Apr 2017 12:14:52 : LimitlessMc, mainchat, Detective_Choudhry#5495, Oo
+01 Apr 2017 12:15:22 : LimitlessMc, mainchat, darth kota#9446, What wondering if you could help me get connected @Light
+01 Apr 2017 12:15:50 : LimitlessMc, mainchat, Detective_Choudhry#5495, @darth kota  you have the latest pixelmon launncher version?
+01 Apr 2017 12:15:56 : LimitlessMc, mainchat, Detective_Choudhry#5495, 5.0.3?
+01 Apr 2017 12:17:05 : LimitlessMc, mainchat, darth kota#9446, yes sir
+01 Apr 2017 12:17:11 : LimitlessMc, mainchat, Lightning#6734, giving you any error?
+01 Apr 2017 12:17:15 : LimitlessMc, mainchat, Lightning#6734, if so what is the error?
+01 Apr 2017 12:17:53 : LimitlessMc, mainchat, darth kota#9446, ill get the exact thing for you on sec while i set up my launcher for 1.10.2 forge
+01 Apr 2017 12:18:02 : LimitlessMc, mainchat, Lightning#6734, alrighty
+01 Apr 2017 12:18:33 : LimitlessMc, mainchat, darth kota#9446, it will be a sec pixelmon really makes my launcher think for some reason
+01 Apr 2017 12:19:34 : LimitlessMc, mainchat, Detective_Choudhry#5495, Which øauncher you use?
+01 Apr 2017 12:19:41 : LimitlessMc, mainchat, Detective_Choudhry#5495, Launcher*
+01 Apr 2017 12:19:43 : LimitlessMc, mainchat, darth kota#9446, I used to be a regular a really long time ago me and heaven use to pm apon accation
+01 Apr 2017 12:19:55 : LimitlessMc, mainchat, darth kota#9446, i think he left right after i did
+01 Apr 2017 12:20:15 : LimitlessMc, mainchat, darth kota#9446, i remember him pming me talking about that
+01 Apr 2017 12:21:09 : LimitlessMc, mainchat, darth kota#9446, its a shame idk most admins now but heavenly was one of my favorites
+01 Apr 2017 12:21:32 : LimitlessMc, mainchat, DrunkBit#3869, heavenly was just mod bt
+01 Apr 2017 12:21:33 : LimitlessMc, mainchat, DrunkBit#3869, w
+01 Apr 2017 12:22:19 : LimitlessMc, mainchat, darth kota#9446, @Light failed to connect to the server a error occurred. please try again later
+01 Apr 2017 12:22:37 : LimitlessMc, mainchat, Lightning#6734, that all it's saying?
+01 Apr 2017 12:22:56 : LimitlessMc, mainchat, darth kota#9446, oh idk lol ik that he usaully  rescued me when i broke something XD
+01 Apr 2017 12:23:07 : LimitlessMc, mainchat, darth kota#9446, @Light Yes
+01 Apr 2017 12:23:13 : LimitlessMc, mainchat, Lightning#6734, one sec
+01 Apr 2017 12:23:24 : LimitlessMc, mainchat, Lightning#6734, what's your ign?
+01 Apr 2017 12:23:34 : LimitlessMc, mainchat, darth kota#9446, Hansons
+01 Apr 2017 12:23:53 : LimitlessMc, mainchat, Lightning#6734, try to log in again
+01 Apr 2017 12:24:07 : LimitlessMc, mainchat, darth kota#9446, nope 😦
+01 Apr 2017 12:24:26 : LimitlessMc, mainchat, Lightning#6734, hmm
+01 Apr 2017 12:24:29 : LimitlessMc, mainchat, darth kota#9446, says the server is online tho
+01 Apr 2017 12:24:39 : LimitlessMc, mainchat, Lightning#6734, using the pix launcher?
+01 Apr 2017 12:25:14 : LimitlessMc, mainchat, darth kota#9446, no im using shiginimaSE launther
+01 Apr 2017 12:25:19 : LimitlessMc, mainchat, darth kota#9446, launcher*
+01 Apr 2017 12:25:20 : LimitlessMc, mainchat, Third_Worm#4804, Matt
+01 Apr 2017 12:25:24 : LimitlessMc, mainchat, Third_Worm#4804, Go to sleep
+01 Apr 2017 12:25:27 : LimitlessMc, mainchat, MattRuc#5481, how did you know third?
+01 Apr 2017 12:25:28 : LimitlessMc, mainchat, Lightning#6734, never heard of that one
+01 Apr 2017 12:25:30 : LimitlessMc, mainchat, MattRuc#5481, I just got up hahaha
+01 Apr 2017 12:25:32 : LimitlessMc, mainchat, darth kota#9446, lol
+01 Apr 2017 12:25:40 : LimitlessMc, mainchat, darth kota#9446, it used to be keinett
+01 Apr 2017 12:25:43 : LimitlessMc, mainchat, Third_Worm#4804, Go sleep you nub
+01 Apr 2017 12:25:43 : LimitlessMc, mainchat, MattRuc#5481, but honsetly I was up till 1am last night hahah
+01 Apr 2017 12:25:43 : LimitlessMc, mainchat, Lightning#6734, MultiMC best launcher imo
+01 Apr 2017 12:25:51 : LimitlessMc, mainchat, Third_Worm#4804, Sleeeeep
+01 Apr 2017 12:25:55 : LimitlessMc, mainchat, Lightning#6734, ^shh
+01 Apr 2017 12:26:02 : LimitlessMc, mainchat, Lightning#6734, tryin do a fix here
+01 Apr 2017 12:26:05 : LimitlessMc, mainchat, MattRuc#5481, @Light I became the number 1 crusader on D3 in all of north america last night
+01 Apr 2017 12:26:12 : LimitlessMc, mainchat, Lightning#6734, lul gj
+01 Apr 2017 12:26:28 : LimitlessMc, mainchat, Third_Worm#4804, ^-^l
+01 Apr 2017 12:26:29 : LimitlessMc, mainchat, Lightning#6734, before i took a break i was 31 throughout the eu for crusader
+01 Apr 2017 12:26:39 : LimitlessMc, mainchat, Lightning#6734, now i'm #2
+01 Apr 2017 12:26:48 : LimitlessMc, mainchat, MattRuc#5481, yea I needed to go to bed after that I was way to tired hahahah
+01 Apr 2017 12:27:02 : LimitlessMc, mainchat, darth kota#9446, same launcher I used to use because it was the recommened by all higher ups here when it was still called keinett @Light
+01 Apr 2017 12:27:04 : LimitlessMc, mainchat, MattRuc#5481, I've never been in the top 10 before
+01 Apr 2017 12:27:07 : LimitlessMc, mainchat, Third_Worm#4804, eee Light, back go fixing things
+01 Apr 2017 12:27:22 : LimitlessMc, mainchat, Lightning#6734, le
+01 Apr 2017 12:27:32 : LimitlessMc, mainchat, Lightning#6734, "higher ups"
+01 Apr 2017 12:27:36 : LimitlessMc, mainchat, Lightning#6734, L(E)
+01 Apr 2017 12:27:43 : LimitlessMc, mainchat, Lightning#6734, anyway
+01 Apr 2017 12:27:51 : LimitlessMc, mainchat, darth kota#9446, some one on forum had same problem jay posted he had to force there user names @Light
+01 Apr 2017 12:27:53 : LimitlessMc, mainchat, Third_Worm#4804, @DrunkBit sleep
+01 Apr 2017 12:27:53 : LimitlessMc, mainchat, Lightning#6734, it MAY be the launcher? i'm not entirely sure
+01 Apr 2017 12:28:06 : LimitlessMc, mainchat, DrunkBit#3869, no
+01 Apr 2017 12:28:08 : LimitlessMc, mainchat, DrunkBit#3869, 
+01 Apr 2017 12:28:26 : LimitlessMc, mainchat, Third_Worm#4804, Rip your heart
+01 Apr 2017 12:28:30 : LimitlessMc, mainchat, Lightning#6734, fkn mank
+01 Apr 2017 12:28:32 : LimitlessMc, mainchat, darth kota#9446, with 2 different lauchers btw and one was mine @Light
+01 Apr 2017 12:28:33 : LimitlessMc, mainchat, Lightning#6734, always a pleb
+01 Apr 2017 12:28:34 : LimitlessMc, mainchat, DrunkBit#3869, le
+01 Apr 2017 12:28:46 : LimitlessMc, mainchat, Lightning#6734, hmm
+01 Apr 2017 12:28:57 : LimitlessMc, mainchat, Lightning#6734, i'll get jay to do something about it
+01 Apr 2017 12:29:07 : LimitlessMc, mainchat, darth kota#9446, i can probs link you to it if it would help
+01 Apr 2017 12:29:13 : LimitlessMc, mainchat, Lightning#6734, not much i can really do without actually knowing what causes the issue
+01 Apr 2017 12:29:54 : LimitlessMc, mainchat, darth kota#9446, okay there seems to be a lot of simualar problems on the forum rn
+01 Apr 2017 12:30:21 : LimitlessMc, mainchat, Third_Worm#4804, 99% that guy had the kinnet launcher
+01 Apr 2017 12:30:30 : LimitlessMc, mainchat, Third_Worm#4804, But eh
+01 Apr 2017 12:30:37 : LimitlessMc, mainchat, Detective_Choudhry#5495, @Third_Worm
+01 Apr 2017 12:30:43 : LimitlessMc, mainchat, Third_Worm#4804, @Detective_Choudhry
+01 Apr 2017 12:30:43 : LimitlessMc, mainchat, Detective_Choudhry#5495, I wanna tell you something
+01 Apr 2017 12:30:48 : LimitlessMc, mainchat, Crystal4209#4698, Bro
+01 Apr 2017 12:30:50 : LimitlessMc, mainchat, Lightning#6734, now i sit on forums all day
+01 Apr 2017 12:30:52 : LimitlessMc, mainchat, Third_Worm#4804, Speak child
+01 Apr 2017 12:30:53 : LimitlessMc, mainchat, Lightning#6734, with 0% sleep
+01 Apr 2017 12:31:03 : LimitlessMc, mainchat, Crystal4209#4698, Waiting
+01 Apr 2017 12:31:03 : LimitlessMc, mainchat, Detective_Choudhry#5495, @Third_Worm  i love you❤
+01 Apr 2017 12:31:05 : LimitlessMc, mainchat, DrunkBit#3869, cracked or not @darth kota
+01 Apr 2017 12:31:05 : LimitlessMc, mainchat, Detective_Choudhry#5495, Haha
+01 Apr 2017 12:31:10 : LimitlessMc, mainchat, Third_Worm#4804, @Light You also need to rest before the move
+01 Apr 2017 12:31:11 : LimitlessMc, mainchat, Lightning#6734, o tru
+01 Apr 2017 12:31:13 : LimitlessMc, mainchat, Crystal4209#4698, Fucken April fools
+01 Apr 2017 12:31:17 : LimitlessMc, mainchat, Lightning#6734, - ,-
+01 Apr 2017 12:31:19 : LimitlessMc, mainchat, Third_Worm#4804, Or after the move
+01 Apr 2017 12:31:21 : LimitlessMc, mainchat, Lightning#6734, #rules_and_info
+01 Apr 2017 12:31:26 : LimitlessMc, mainchat, Lightning#6734, minimize profanity
+01 Apr 2017 12:31:29 : LimitlessMc, mainchat, Detective_Choudhry#5495, @Third_Worm  hahah
+01 Apr 2017 12:31:40 : LimitlessMc, mainchat, Crystal4209#4698, I don't swear much
+01 Apr 2017 12:31:42 : LimitlessMc, mainchat, Detective_Choudhry#5495, April fooooolse
+01 Apr 2017 12:31:45 : LimitlessMc, mainchat, Lightning#6734, good ;D
+01 Apr 2017 12:31:47 : LimitlessMc, mainchat, Crystal4209#4698, But I hate April fools
+01 Apr 2017 12:31:54 : LimitlessMc, mainchat, Lightning#6734, as do i but no need to be salty 😛
+01 Apr 2017 12:31:57 : LimitlessMc, mainchat, DrunkBit#3869, i hate april fools too
+01 Apr 2017 12:32:00 : LimitlessMc, mainchat, DrunkBit#3869, APRIL FOOLS
+01 Apr 2017 12:32:02 : LimitlessMc, mainchat, Third_Worm#4804, @Light you talking to me?
+01 Apr 2017 12:32:04 : LimitlessMc, mainchat, Lightning#6734, alpha
+01 Apr 2017 12:32:04 : LimitlessMc, mainchat, Third_Worm#4804, Le
+01 Apr 2017 12:32:09 : LimitlessMc, mainchat, Crystal4209#4698, Go to bed alpha
+01 Apr 2017 12:32:10 : LimitlessMc, mainchat, DrunkBit#3869, cups
+01 Apr 2017 12:32:12 : LimitlessMc, mainchat, Detective_Choudhry#5495, @Light  your the best mate, i like you the most out of the admins
+01 Apr 2017 12:32:19 : LimitlessMc, mainchat, darth kota#9446, @Third_Worm What guy?
+01 Apr 2017 12:32:23 : LimitlessMc, mainchat, Lightning#6734, what day don't you hate?
+01 Apr 2017 12:32:28 : LimitlessMc, mainchat, DrunkBit#3869, lmao
+01 Apr 2017 12:32:30 : LimitlessMc, mainchat, Third_Worm#4804, @Detective_Choudhry rip me
+01 Apr 2017 12:32:30 : LimitlessMc, mainchat, DrunkBit#3869, true
+01 Apr 2017 12:32:54 : LimitlessMc, mainchat, Third_Worm#4804, @darth kota I forgot the name, he should be one of the first tho
+01 Apr 2017 12:33:15 : LimitlessMc, mainchat, Third_Worm#4804, I mean
+01 Apr 2017 12:33:32 : LimitlessMc, mainchat, Third_Worm#4804, @Light I love u bby ❤
+01 Apr 2017 12:33:49 : LimitlessMc, mainchat, Lightning#6734, wat?
+01 Apr 2017 12:33:51 : LimitlessMc, mainchat, Crystal4209#4698, Bro, you cheating on me
+01 Apr 2017 12:33:55 : LimitlessMc, mainchat, Third_Worm#4804, april fools
+01 Apr 2017 12:34:00 : LimitlessMc, mainchat, Crystal4209#4698, My heart feels crushed
+01 Apr 2017 12:34:04 : LimitlessMc, mainchat, Lightning#6734, LE
+01 Apr 2017 12:34:11 : LimitlessMc, mainchat, Lightning#6734, @Bakafish  luv yew
+01 Apr 2017 12:34:26 : LimitlessMc, mainchat, DrunkBit#3869, @DrunkBit i love you
+01 Apr 2017 12:34:39 : LimitlessMc, mainchat, Third_Worm#4804, @Crystal4209 I can say the opposite of what I really mean today
+01 Apr 2017 12:34:40 : LimitlessMc, mainchat, DrunkBit#3869, no kappa
+01 Apr 2017 12:34:51 : LimitlessMc, mainchat, Lightning#6734, Normies
+01 Apr 2017 12:34:51 : LimitlessMc, mainchat, LightBot#4090, Reeee
+01 Apr 2017 12:34:56 : LimitlessMc, mainchat, Third_Worm#4804, But I love u for real bby ❤ @Crystal4209
+01 Apr 2017 12:34:57 : LimitlessMc, mainchat, DrunkBit#3869, LE
+01 Apr 2017 12:35:01 : LimitlessMc, mainchat, Crystal4209#4698, Bruh I was playing along xD
+01 Apr 2017 12:35:09 : LimitlessMc, mainchat, Third_Worm#4804, Ye I know
+01 Apr 2017 12:35:14 : LimitlessMc, mainchat, Third_Worm#4804, 😜
+01 Apr 2017 12:35:22 : LimitlessMc, mainchat, darth kota#9446, @light cant use multimc
+01 Apr 2017 12:35:33 : LimitlessMc, mainchat, Lightning#6734, o.O why not
+01 Apr 2017 12:36:08 : LimitlessMc, mainchat, darth kota#9446, @Light because im a broke freeloading pos who hasnt purchased a user name yet
+01 Apr 2017 12:36:15 : LimitlessMc, mainchat, Lightning#6734, OH
+01 Apr 2017 12:36:18 : LimitlessMc, mainchat, Third_Worm#4804, You using you brother aco-
+01 Apr 2017 12:36:20 : LimitlessMc, mainchat, How am i?#5495, I am back
+01 Apr 2017 12:36:20 : LimitlessMc, mainchat, Third_Worm#4804, Aw
+01 Apr 2017 12:36:32 : LimitlessMc, mainchat, Lightning#6734, i see what needs to be done darth
+01 Apr 2017 12:36:37 : LimitlessMc, mainchat, darth kota#9446, cool
+01 Apr 2017 12:36:39 : LimitlessMc, mainchat, DrunkBit#3869, knew it
+01 Apr 2017 12:36:40 : LimitlessMc, mainchat, DrunkBit#3869, le
+01 Apr 2017 12:36:44 : LimitlessMc, mainchat, Lightning#6734, gonna need to run whitelist through console
+01 Apr 2017 12:36:48 : LimitlessMc, mainchat, Lightning#6734, :L
+01 Apr 2017 12:36:49 : LimitlessMc, mainchat, darth kota#9446, thanks
+01 Apr 2017 12:36:52 : LimitlessMc, mainchat, Lightning#6734, but
+01 Apr 2017 12:36:55 : LimitlessMc, mainchat, Lightning#6734, gotta wait for jay 😛
+01 Apr 2017 12:36:58 : LimitlessMc, mainchat, How am i?#5495, @poor light
+01 Apr 2017 12:37:02 : LimitlessMc, mainchat, darth kota#9446, ugh
+01 Apr 2017 12:37:07 : LimitlessMc, mainchat, darth kota#9446, okay
+01 Apr 2017 12:37:12 : LimitlessMc, mainchat, Lightning#6734, unless
+01 Apr 2017 12:37:19 : LimitlessMc, mainchat, Lightning#6734, the fkn command works properly for once
+01 Apr 2017 12:37:29 : LimitlessMc, mainchat, darth kota#9446, gotta be at work at 10 am today off at 6
+01 Apr 2017 12:37:40 : LimitlessMc, mainchat, Lightning#6734, try logging now i ran the cmd
+01 Apr 2017 12:37:49 : LimitlessMc, mainchat, darth kota#9446, on sec 😃
+01 Apr 2017 12:39:14 : LimitlessMc, mainchat, darth kota#9446, 😦
+01 Apr 2017 12:39:40 : LimitlessMc, mainchat, How am i?#5495, Hahahahahaha
+01 Apr 2017 12:39:41 : LimitlessMc, mainchat, darth kota#9446, nothing
+01 Apr 2017 12:39:56 : LimitlessMc, mainchat, Lightning#6734, yep ingame cmd doesn't work
+01 Apr 2017 12:40:06 : LimitlessMc, mainchat, Lightning#6734, gonna tell jay when he gets up if you're not around
+01 Apr 2017 12:40:08 : LimitlessMc, mainchat, darth kota#9446, my username is Hansons
+01 Apr 2017 12:40:14 : LimitlessMc, mainchat, darth kota#9446, okay thanks
+01 Apr 2017 12:42:35 : Unity Of Nirvana, discussions, Third_Worm#4804, @#SHIP_CrystalBit ree
+01 Apr 2017 12:43:30 : Unity Of Nirvana, discussions, Crystal4209#4698, Red
+01 Apr 2017 12:43:33 : Unity Of Nirvana, discussions, Crystal4209#4698, Reeeee
+01 Apr 2017 12:43:43 : Unity Of Nirvana, discussions, Crystal4209#4698, Not red dumb autocorrect
+01 Apr 2017 12:43:47 : Unity Of Nirvana, discussions, Third_Worm#4804, Okei so
+01 Apr 2017 12:43:47 : Unity Of Nirvana, discussions, Lightshadow#5809, @#FuzzyRuthlessJayFazingRainbow HEY
+01 Apr 2017 12:43:50 : Unity Of Nirvana, discussions, Lightshadow#5809, COME ON FTB
+01 Apr 2017 12:43:51 : Unity Of Nirvana, discussions, Third_Worm#4804, HI
+01 Apr 2017 12:43:52 : Unity Of Nirvana, discussions, Lightshadow#5809, PLZ
+01 Apr 2017 12:44:06 : Unity Of Nirvana, discussions, Third_Worm#4804, I CANT COME ON MY COMP TILL 10+
+01 Apr 2017 12:44:11 : Unity Of Nirvana, discussions, Lightshadow#5809, DAMNIT
+01 Apr 2017 12:44:12 : Unity Of Nirvana, discussions, Lightshadow#5809, WELL
+01 Apr 2017 12:44:26 : Unity Of Nirvana, discussions, Lightshadow#5809, HERE IS THE IP
+01 Apr 2017 12:44:27 : Unity Of Nirvana, discussions, Lightshadow#5809, 167.114.102.188:25805
+01 Apr 2017 12:44:35 : Unity Of Nirvana, discussions, Lightshadow#5809, why are we doing caps
+01 Apr 2017 12:44:35 : Unity Of Nirvana, discussions, Lightshadow#5809, lel
+01 Apr 2017 12:45:10 : Unity Of Nirvana, discussions, Third_Worm#4804, No idea lol
+01 Apr 2017 12:54:12 : LimitlessMc, mainchat, darth kota#9446, when does jay normally log?
+01 Apr 2017 12:55:50 : LimitlessMc, mainchat, Lightning#6734, uhhh
+01 Apr 2017 12:56:13 : LimitlessMc, mainchat, darth kota#9446, lol ok
+01 Apr 2017 12:56:15 : LimitlessMc, mainchat, Lightning#6734, couple hours from now usually
+01 Apr 2017 12:56:26 : LimitlessMc, mainchat, Lightning#6734, don't know exact times since we're in diff timezones
+01 Apr 2017 12:58:14 : LimitlessMc, mainchat, darth kota#9446, hey I remember you guys were funny about this before but i have a server i put up the other day for family and freinds was wondering if someone here might be willing to try and jump on to see it it can be connected to?
+01 Apr 2017 12:58:20 : LimitlessMc, mainchat, Third_Worm#4804, Like in 3-4 hours
+01 Apr 2017 12:58:27 : LimitlessMc, mainchat, Third_Worm#4804, Cause I know time zones
+01 Apr 2017 12:58:40 : LimitlessMc, mainchat, Crystal4209#4698, Sam = stalker
+01 Apr 2017 12:58:49 : LimitlessMc, mainchat, Crystal4209#4698, Lelelel
+01 Apr 2017 12:59:51 : LimitlessMc, botchat, Crystal4209#4698, @Botfuzzy77 April fools boi
+01 Apr 2017 12:59:51 : LimitlessMc, botchat, Botfuzzy77#2209, I'm not going to tell you.
+01 Apr 2017 13:00:05 : LimitlessMc, botchat, Crystal4209#4698, @Botfuzzy77 tell me what?
+01 Apr 2017 13:00:07 : LimitlessMc, botchat, Botfuzzy77#2209, Nothing!
+01 Apr 2017 13:00:13 : LimitlessMc, mainchat, Third_Worm#4804, Its like
+01 Apr 2017 13:00:17 : LimitlessMc, botchat, Crystal4209#4698, @Botfuzzy77 boiii
+01 Apr 2017 13:00:18 : LimitlessMc, botchat, Botfuzzy77#2209, Thank you.
+01 Apr 2017 13:00:32 : LimitlessMc, botchat, Crystal4209#4698, @Botfuzzy77 what is a grill?
+01 Apr 2017 13:00:34 : LimitlessMc, botchat, Botfuzzy77#2209, You tell me.
+01 Apr 2017 13:00:38 : LimitlessMc, mainchat, Third_Worm#4804, 3pm for belguim?
+01 Apr 2017 13:00:48 : LimitlessMc, mainchat, Third_Worm#4804, May be a bit lower then that
+01 Apr 2017 13:01:16 : LimitlessMc, botchat, Crystal4209#4698, @Botfuzzy77 a grill is a girl that is yours and you can use it to roast other people 😄 , pretty handy things
+01 Apr 2017 13:01:18 : LimitlessMc, botchat, Botfuzzy77#2209, Yes, can you use it?
+01 Apr 2017 13:01:36 : LimitlessMc, botchat, Crystal4209#4698, @Botfuzzy77 no duh you can
+01 Apr 2017 13:01:39 : LimitlessMc, botchat, Botfuzzy77#2209, Will you tell me how to be more logical?
+01 Apr 2017 13:02:24 : LimitlessMc, botchat, Crystal4209#4698, @Botfuzzy77 be smart I guess
+01 Apr 2017 13:02:24 : LimitlessMc, botchat, Botfuzzy77#2209, Do you think you're smart?
+01 Apr 2017 13:02:41 : LimitlessMc, botchat, Crystal4209#4698, @Botfuzzy77 I'm reasonably smart
+01 Apr 2017 13:02:41 : LimitlessMc, botchat, Botfuzzy77#2209, How old are you?
+01 Apr 2017 13:02:53 : LimitlessMc, botchat, Crystal4209#4698, @Botfuzzy77 I'm 14 boii
+01 Apr 2017 13:02:54 : LimitlessMc, botchat, Botfuzzy77#2209, Tell me how old you are.
+01 Apr 2017 13:03:11 : LimitlessMc, botchat, Crystal4209#4698, @Botfuzzy77 I told ya 14
+01 Apr 2017 13:03:12 : LimitlessMc, botchat, Botfuzzy77#2209, No you didn't.
+01 Apr 2017 13:03:28 : LimitlessMc, botchat, Crystal4209#4698, @Botfuzzy77 I'm pretty sure I did
+01 Apr 2017 13:03:29 : LimitlessMc, botchat, Botfuzzy77#2209, But I don't think you did.
+01 Apr 2017 13:03:40 : LimitlessMc, botchat, Crystal4209#4698, @Botfuzzy77 fine! I didnt
+01 Apr 2017 13:03:41 : LimitlessMc, botchat, Botfuzzy77#2209, *squints eyes* yes you did.
+01 Apr 2017 13:03:51 : LimitlessMc, botchat, Crystal4209#4698, @Botfuzzy77 ok then
+01 Apr 2017 13:03:52 : LimitlessMc, botchat, Botfuzzy77#2209, Alrighty then.
+01 Apr 2017 13:04:06 : LimitlessMc, botchat, Crystal4209#4698, @Botfuzzy77 who is your crush?
+01 Apr 2017 13:04:08 : LimitlessMc, botchat, Botfuzzy77#2209, You don't know her.
+01 Apr 2017 13:04:21 : LimitlessMc, botchat, Crystal4209#4698, @Botfuzzy77 I might if you tell me
+01 Apr 2017 13:04:24 : LimitlessMc, mainchat, darth kota#9446, uh well okay then i guess ill wait till some gets there computer crap together
+01 Apr 2017 13:04:24 : LimitlessMc, botchat, Botfuzzy77#2209, I already told you.
+01 Apr 2017 13:04:31 : LimitlessMc, botchat, Third_Worm#4804, @Botfuzzy77 suh dud
+01 Apr 2017 13:04:32 : LimitlessMc, botchat, Botfuzzy77#2209, Sure.
+01 Apr 2017 13:04:39 : LimitlessMc, botchat, Third_Worm#4804, *gasp*
+01 Apr 2017 13:04:47 : LimitlessMc, botchat, Crystal4209#4698, @Botfuzzy77 tell me who you like!
+01 Apr 2017 13:04:48 : LimitlessMc, botchat, Botfuzzy77#2209, Why do you want to know?
+01 Apr 2017 13:05:01 : LimitlessMc, botchat, Crystal4209#4698, @Botfuzzy77 cause I want to
+01 Apr 2017 13:05:03 : LimitlessMc, botchat, Botfuzzy77#2209, That is not a good answer.
+01 Apr 2017 13:05:05 : LimitlessMc, botchat, Third_Worm#4804, @Botfuzzy77 So, Who do you like around here?
+01 Apr 2017 13:05:08 : LimitlessMc, botchat, Botfuzzy77#2209, Three Days Grace , Seether , Breaking Benjamin
+01 Apr 2017 13:05:20 : LimitlessMc, botchat, Crystal4209#4698, @Botfuzzy77 bruh
+01 Apr 2017 13:05:21 : LimitlessMc, botchat, Botfuzzy77#2209, I'll tell you if you tell me your name.
+01 Apr 2017 13:05:35 : LimitlessMc, botchat, Third_Worm#4804, @Botfuzzy77 I agree, those are very good
+01 Apr 2017 13:05:36 : LimitlessMc, botchat, Botfuzzy77#2209, They are! Do you like veggies?
+01 Apr 2017 13:05:42 : LimitlessMc, botchat, Crystal4209#4698, @Botfuzzy77 I'm crystal and you are?
+01 Apr 2017 13:05:54 : LimitlessMc, botchat, Third_Worm#4804, @Botfuzzy77 Yes I do!
+01 Apr 2017 13:05:57 : LimitlessMc, botchat, Botfuzzy77#2209, No tell me your name. you promised.
+01 Apr 2017 13:05:57 : LimitlessMc, botchat, Crystal4209#4698, Bruh we broke it
+01 Apr 2017 13:05:58 : LimitlessMc, botchat, Botfuzzy77#2209, Do you love art?
+01 Apr 2017 13:06:02 : LimitlessMc, botchat, Crystal4209#4698, Lol
+01 Apr 2017 13:06:16 : LimitlessMc, botchat, Third_Worm#4804, @Botfuzzy77 Yeah, I love to draw and look at art
+01 Apr 2017 13:06:19 : LimitlessMc, botchat, Botfuzzy77#2209, Do you dance to music?
+01 Apr 2017 13:06:21 : LimitlessMc, botchat, Crystal4209#4698, @Botfuzzy77 Ye I love art
+01 Apr 2017 13:06:22 : LimitlessMc, botchat, Botfuzzy77#2209, Do you like Waterhouse?
+01 Apr 2017 13:06:34 : LimitlessMc, botchat, Third_Worm#4804, @Botfuzzy77 when I'm alone, yes
+01 Apr 2017 13:06:36 : LimitlessMc, botchat, Botfuzzy77#2209, So, whenyou are not alone you perish?
+01 Apr 2017 13:06:42 : LimitlessMc, botchat, Crystal4209#4698, @Botfuzzy77 do you like third_worm?
+01 Apr 2017 13:06:46 : LimitlessMc, botchat, Botfuzzy77#2209, Do I like what?
+01 Apr 2017 13:06:52 : LimitlessMc, botchat, Third_Worm#4804, @Botfuzzy77 Do I?
+01 Apr 2017 13:06:55 : LimitlessMc, botchat, Botfuzzy77#2209, Ok, will you be my friend?
+01 Apr 2017 13:07:02 : LimitlessMc, botchat, Third_Worm#4804, @Botfuzzy77 Sure
+01 Apr 2017 13:07:06 : LimitlessMc, botchat, Botfuzzy77#2209, Do you have a name?
+01 Apr 2017 13:07:08 : LimitlessMc, botchat, Crystal4209#4698, @Botfuzzy77 do you like third_worm boi
+01 Apr 2017 13:07:13 : LimitlessMc, botchat, Botfuzzy77#2209, I love them.
+01 Apr 2017 13:07:19 : LimitlessMc, botchat, Crystal4209#4698, O.o
+01 Apr 2017 13:07:19 : LimitlessMc, botchat, Third_Worm#4804, @Botfuzzy77 Call me Third
+01 Apr 2017 13:07:20 : LimitlessMc, botchat, Botfuzzy77#2209, Ok T. How are you T?
+01 Apr 2017 13:07:26 : LimitlessMc, botchat, Third_Worm#4804, ...
+01 Apr 2017 13:07:29 : LimitlessMc, botchat, Third_Worm#4804, Wow
+01 Apr 2017 13:07:33 : LimitlessMc, botchat, Crystal4209#4698, @Botfuzzy77 you shouldn't love my gf
+01 Apr 2017 13:07:35 : LimitlessMc, botchat, Botfuzzy77#2209, Why shouldn.
+01 Apr 2017 13:07:47 : LimitlessMc, botchat, Third_Worm#4804, @Botfuzzy77 Good, you?
+01 Apr 2017 13:07:51 : LimitlessMc, botchat, Crystal4209#4698, @Botfuzzy77 cause they are mine duh
+01 Apr 2017 13:07:55 : LimitlessMc, botchat, Botfuzzy77#2209, I'm good thanks.
+01 Apr 2017 13:07:55 : LimitlessMc, botchat, Botfuzzy77#2209, Do you chew on them?
+01 Apr 2017 13:08:02 : LimitlessMc, botchat, Crystal4209#4698, O.o
+01 Apr 2017 13:08:06 : LimitlessMc, botchat, Third_Worm#4804, @Botfuzzy77 No, ty you for asking
+01 Apr 2017 13:08:10 : LimitlessMc, botchat, Crystal4209#4698, I'm scared
+01 Apr 2017 13:08:10 : LimitlessMc, botchat, Third_Worm#4804, Eee
+01 Apr 2017 13:08:10 : LimitlessMc, botchat, Botfuzzy77#2209, I'm sorry, I didn't quite get that, ask again please!
+01 Apr 2017 13:08:11 : LimitlessMc, botchat, Third_Worm#4804, Same
+01 Apr 2017 13:08:37 : LimitlessMc, botchat, Third_Worm#4804, @Botfuzzy77 No, thank you for asking
+01 Apr 2017 13:08:38 : LimitlessMc, mainchat, Crystal4209#4698, Light help botfuzzy scary ;-;
+01 Apr 2017 13:08:51 : LimitlessMc, botchat, Crystal4209#4698, @Botfuzzy77 you scare me
+01 Apr 2017 13:08:59 : LimitlessMc, botchat, Third_Worm#4804, @Botfuzzy77  No, thank you for asking
+01 Apr 2017 13:09:02 : LimitlessMc, botchat, Botfuzzy77#2209, Sorry, I didn't mean to, I'm not that scary once you get to know me.
+01 Apr 2017 13:09:02 : LimitlessMc, botchat, Botfuzzy77#2209, I'm sorry, I didn't quite get that, ask again please!
+01 Apr 2017 13:09:10 : LimitlessMc, botchat, Third_Worm#4804, ..
+01 Apr 2017 13:09:14 : LimitlessMc, botchat, Third_Worm#4804, Oh no
+01 Apr 2017 13:09:38 : LimitlessMc, botchat, Third_Worm#4804, @Botfuzzy77 Do you know crystal4209?
+01 Apr 2017 13:09:40 : LimitlessMc, botchat, Botfuzzy77#2209, I'm sorry, I didn't quite get that, ask again please!
+01 Apr 2017 13:09:46 : LimitlessMc, botchat, Third_Worm#4804, Noooooo
+01 Apr 2017 13:09:51 : LimitlessMc, botchat, Crystal4209#4698, @Botfuzzy77 bruh
+01 Apr 2017 13:09:53 : LimitlessMc, botchat, Botfuzzy77#2209, Tell me a joke or something. I'm bored.
+01 Apr 2017 13:09:55 : LimitlessMc, botchat, Third_Worm#4804, @Botfuzzy77 love me
+01 Apr 2017 13:09:57 : LimitlessMc, botchat, Botfuzzy77#2209, I'm sorry, I didn't quite get that, ask again please!
+01 Apr 2017 13:10:03 : LimitlessMc, botchat, Third_Worm#4804, @Wertfuzzy77
+01 Apr 2017 13:10:11 : LimitlessMc, botchat, Crystal4209#4698, @Botfuzzy77 Do you know me?
+01 Apr 2017 13:10:12 : LimitlessMc, botchat, Botfuzzy77#2209, No.
+01 Apr 2017 13:10:17 : LimitlessMc, botchat, Crystal4209#4698, Bruh
+01 Apr 2017 13:10:26 : LimitlessMc, botchat, Third_Worm#4804, ;cleverbot
+01 Apr 2017 13:10:27 : LimitlessMc, botchat, Botfuzzy77#2209, Your Conversation with me so far:
+
+Third_Worm: 
+Cleverbot: *Sure.*
+Third_Worm: So, Who do you like around here?
+Cleverbot: *Three Days Grace , Seether , Breaking Benjamin*
+Third_Worm: I agree, those are very good.
+Cleverbot: *They are! Do you like veggies?*
+Third_Worm: Yes I do!
+Cleverbot: *Do you love art?*
+Third_Worm: Yeah, I love to draw and look at art.
+Cleverbot: *Do you dance to music?*
+Third_Worm: when I'm alone, yes.
+Cleverbot: *So, whenyou are not alone you perish?*
+Third_Worm: Do I?
+Cleverbot: *Ok, will you be my friend?*
+Third_Worm: Sure.
+Cleverbot: *Do you have a name?*
+Third_Worm: Call me Third.
+Cleverbot: *Ok T. How are you T?*
+Third_Worm: Good, you?
+Cleverbot: *I'm good thanks.*
+01 Apr 2017 13:10:54 : LimitlessMc, botchat, Crystal4209#4698, @Botfuzzy77 I give up on you
+01 Apr 2017 13:10:55 : LimitlessMc, botchat, Botfuzzy77#2209, Same here.
+01 Apr 2017 13:11:08 : LimitlessMc, botchat, Crystal4209#4698, @Botfuzzy77 April fools I don't!
+01 Apr 2017 13:11:12 : LimitlessMc, botchat, Botfuzzy77#2209, It's not april.
+01 Apr 2017 13:11:28 : LimitlessMc, botchat, Crystal4209#4698, @Botfuzzy77 this whole month was a lie ;-;
+01 Apr 2017 13:11:30 : LimitlessMc, botchat, Botfuzzy77#2209, Are you dying right now?
+01 Apr 2017 13:11:51 : LimitlessMc, botchat, Crystal4209#4698, Saaam I'm scared ;-;
+01 Apr 2017 13:12:58 : LimitlessMc, mainchat, Lightning#6734, le
+01 Apr 2017 13:13:15 : LimitlessMc, mainchat, Crystal4209#4698, Look in botchat
+01 Apr 2017 13:16:24 : LimitlessMc, botchat, Lightning#6734, buttfuzzy
+01 Apr 2017 13:16:30 : LimitlessMc, botchat, Lightning#6734, @Botfuzzy77 why you so dumb?
+01 Apr 2017 13:16:37 : LimitlessMc, botchat, Botfuzzy77#2209, Not me.
+01 Apr 2017 13:16:40 : LimitlessMc, botchat, Lightning#6734, pffff
+01 Apr 2017 13:29:36 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77  how are you mate?
+01 Apr 2017 13:29:38 : LimitlessMc, botchat, Botfuzzy77#2209, A bit tired.
+01 Apr 2017 13:30:03 : LimitlessMc, botchat, How am i?#5495, Didnt get enough sleep?
+01 Apr 2017 13:30:24 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77  didnt get enough sleep?
+01 Apr 2017 13:30:26 : LimitlessMc, botchat, Botfuzzy77#2209, Rebecca, do you like anyone?
+01 Apr 2017 13:30:44 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77  rebecca? Howd that
+01 Apr 2017 13:30:44 : LimitlessMc, botchat, Botfuzzy77#2209, Meh.
+01 Apr 2017 13:30:56 : LimitlessMc, botchat, How am i?#5495, @ @Botfuzzy77 you rebecca?
+01 Apr 2017 13:30:58 : LimitlessMc, botchat, Botfuzzy77#2209, In the morning.
+01 Apr 2017 13:31:08 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 eehhh
+01 Apr 2017 13:31:09 : LimitlessMc, botchat, Botfuzzy77#2209, Right next to you.
+01 Apr 2017 13:31:20 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 okey
+01 Apr 2017 13:31:22 : LimitlessMc, botchat, Botfuzzy77#2209, I can't tell you.
+01 Apr 2017 13:31:31 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 why?
+01 Apr 2017 13:31:34 : LimitlessMc, botchat, Botfuzzy77#2209, It's a secret.
+01 Apr 2017 13:32:03 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 tell me, i am good on keeping secrets
+01 Apr 2017 13:32:07 : LimitlessMc, botchat, Botfuzzy77#2209, No!
+01 Apr 2017 13:32:16 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 how do you now?
+01 Apr 2017 13:32:20 : LimitlessMc, botchat, Botfuzzy77#2209, Because I am young.
+01 Apr 2017 13:32:36 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 what has young to do with this?
+01 Apr 2017 13:32:37 : LimitlessMc, botchat, Botfuzzy77#2209, Always capitalize His name.
+01 Apr 2017 13:32:55 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 whos name? Light?
+01 Apr 2017 13:32:56 : LimitlessMc, botchat, Botfuzzy77#2209, The one who you love.
+01 Apr 2017 13:33:10 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 okey? Why?
+01 Apr 2017 13:33:13 : LimitlessMc, botchat, Botfuzzy77#2209, Is he famous.
+01 Apr 2017 13:33:23 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 i am a boy
+01 Apr 2017 13:33:25 : LimitlessMc, botchat, Botfuzzy77#2209, Do. You have a girlfriend?
+01 Apr 2017 13:33:40 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 i do
+01 Apr 2017 13:33:41 : LimitlessMc, botchat, Botfuzzy77#2209, What's her name?
+01 Apr 2017 13:33:54 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 Jessica
+01 Apr 2017 13:33:58 : LimitlessMc, botchat, Botfuzzy77#2209, Do you love her?
+01 Apr 2017 13:34:02 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 yes
+01 Apr 2017 13:34:04 : LimitlessMc, botchat, Botfuzzy77#2209, How much?
+01 Apr 2017 13:34:19 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 300%
+01 Apr 2017 13:34:22 : LimitlessMc, botchat, Botfuzzy77#2209, What for?
+01 Apr 2017 13:34:38 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 i love her 300% out of 100
+01 Apr 2017 13:34:41 : LimitlessMc, botchat, Botfuzzy77#2209, Who?
+01 Apr 2017 13:35:00 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 hows your day been?
+01 Apr 2017 13:35:02 : LimitlessMc, botchat, Botfuzzy77#2209, It has been good.
+01 Apr 2017 13:35:19 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 did anything special?
+01 Apr 2017 13:35:20 : LimitlessMc, botchat, Botfuzzy77#2209, What do you mean?
+01 Apr 2017 13:35:37 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 meet friends or so
+01 Apr 2017 13:35:39 : LimitlessMc, botchat, Botfuzzy77#2209, More friends?
+01 Apr 2017 13:35:54 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 meet friends not more friends
+01 Apr 2017 13:36:01 : LimitlessMc, botchat, Botfuzzy77#2209, Sure.
+01 Apr 2017 13:36:14 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 will you be my friend?
+01 Apr 2017 13:36:17 : LimitlessMc, botchat, Botfuzzy77#2209, I don't mind being your friend.
+01 Apr 2017 13:36:37 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 could you tell me what you thing of Third_worm?
+01 Apr 2017 13:36:38 : LimitlessMc, botchat, Botfuzzy77#2209, Nothing.
+01 Apr 2017 13:36:55 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 what about jay?
+01 Apr 2017 13:36:58 : LimitlessMc, botchat, Botfuzzy77#2209, I love jazz!
+01 Apr 2017 13:37:24 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 i thing i'll go now, cya fuzzy
+01 Apr 2017 13:37:27 : LimitlessMc, botchat, Botfuzzy77#2209, Why?
+01 Apr 2017 13:37:40 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 need to do some things
+01 Apr 2017 13:37:43 : LimitlessMc, botchat, Botfuzzy77#2209, What?
+01 Apr 2017 13:37:53 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 why so intressted?
+01 Apr 2017 13:37:54 : LimitlessMc, botchat, Botfuzzy77#2209, You always are anyways.
+01 Apr 2017 13:38:15 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 what should i call you?
+01 Apr 2017 13:38:18 : LimitlessMc, botchat, Botfuzzy77#2209, Anything you want.
+01 Apr 2017 13:38:43 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 Is Bot okey?
+01 Apr 2017 13:38:44 : LimitlessMc, botchat, Botfuzzy77#2209, I do not have a boyfriend.
+01 Apr 2017 13:39:04 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 are you a male or female?
+01 Apr 2017 13:39:05 : LimitlessMc, botchat, Botfuzzy77#2209, Female. you?
+01 Apr 2017 13:39:15 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 i am male
+01 Apr 2017 13:39:17 : LimitlessMc, botchat, Botfuzzy77#2209, How old are you?
+01 Apr 2017 13:39:29 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 16
+01 Apr 2017 13:39:31 : LimitlessMc, botchat, Botfuzzy77#2209, When were you born?
+01 Apr 2017 13:39:40 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 in Norway
+01 Apr 2017 13:39:43 : LimitlessMc, botchat, Botfuzzy77#2209, Wow.
+01 Apr 2017 13:39:56 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 where were you born?
+01 Apr 2017 13:39:58 : LimitlessMc, botchat, Botfuzzy77#2209, Why do you need to know?
+01 Apr 2017 13:40:12 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 its my intrest
+01 Apr 2017 13:40:15 : LimitlessMc, botchat, Botfuzzy77#2209, Oh.
+01 Apr 2017 13:40:30 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 so how made you?
+01 Apr 2017 13:40:31 : LimitlessMc, botchat, Botfuzzy77#2209, I am cool and you not.
+01 Apr 2017 13:40:49 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 i have a brian, that you dont have
+01 Apr 2017 13:40:51 : LimitlessMc, botchat, Botfuzzy77#2209, Buta brain is that what I have.
+01 Apr 2017 13:41:08 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 okey, if you say do
+01 Apr 2017 13:41:11 : LimitlessMc, botchat, Botfuzzy77#2209, Ok.
+01 Apr 2017 13:41:46 : LimitlessMc, mainchat, How am i?#5495, Daim botfuzzy is scary ass hell
+01 Apr 2017 13:42:20 : LimitlessMc, mainchat, How am i?#5495, @Light  could you make your bot like, werts?
+01 Apr 2017 13:44:12 : LimitlessMc, mainchat, How am i?#5495, @Light  btw sorry for breaking a rule at bot chat😔
+01 Apr 2017 13:45:03 : LimitlessMc, mainchat, Lightning#6734, EW
+01 Apr 2017 13:45:12 : LimitlessMc, mainchat, Lightning#6734, why would i copy that weeb
+01 Apr 2017 13:47:22 : LimitlessMc, mainchat, How am i?#5495, What?
+01 Apr 2017 13:47:56 : LimitlessMc, mainchat, Lightning#6734, LOL
+01 Apr 2017 13:48:09 : LimitlessMc, mainchat, How am i?#5495, But, really sorry for breaking the rule
+01 Apr 2017 13:48:24 : LimitlessMc, mainchat, Lightning#6734, and what do you mean "make it like werts"
+01 Apr 2017 13:49:06 : LimitlessMc, mainchat, How am i?#5495, Not sure make it reply you with cool answers haha
+01 Apr 2017 13:49:11 : LimitlessMc, mainchat, Lightning#6734, oh
+01 Apr 2017 13:49:15 : LimitlessMc, mainchat, Lightning#6734, i turned that off ages ago
+01 Apr 2017 13:49:44 : LimitlessMc, mainchat, How am i?#5495, Why?
+01 Apr 2017 13:49:51 : LimitlessMc, mainchat, Lightning#6734, annoyed me
+01 Apr 2017 13:49:55 : LimitlessMc, mainchat, How am i?#5495, Hahaha
+01 Apr 2017 13:49:57 : LimitlessMc, mainchat, Lightning#6734, and people kept spamming it
+01 Apr 2017 13:50:15 : LimitlessMc, mainchat, How am i?#5495, Oooo, thats one thing
+01 Apr 2017 13:50:19 : LimitlessMc, mainchat, Lightning#6734, which is why i took away the "wut " "hek" thing
+01 Apr 2017 13:50:52 : LimitlessMc, mainchat, How am i?#5495, Aha, its a cool thing, very scary tho
+01 Apr 2017 13:51:03 : LimitlessMc, mainchat, Lightning#6734, smh
+01 Apr 2017 13:51:04 : LimitlessMc, mainchat, Lightning#6734, normies
+01 Apr 2017 13:51:05 : LimitlessMc, mainchat, LightBot#4090, Reeee
+01 Apr 2017 13:51:11 : LimitlessMc, mainchat, Lightning#6734, ^ oi shush you
+01 Apr 2017 13:51:23 : LimitlessMc, mainchat, DrunkBit#3869, wut
+01 Apr 2017 13:51:28 : LimitlessMc, mainchat, How am i?#5495, Hahah
+01 Apr 2017 13:51:30 : LimitlessMc, mainchat, DrunkBit#3869, normie bot
+01 Apr 2017 13:51:39 : LimitlessMc, mainchat, Lightning#6734, nah she hates normies
+01 Apr 2017 13:51:59 : LimitlessMc, mainchat, How am i?#5495, Hahaha
+01 Apr 2017 13:52:04 : LimitlessMc, mainchat, Lightning#6734, no clue why tho
+01 Apr 2017 13:52:07 : LimitlessMc, mainchat, Lightning#6734, just does
+01 Apr 2017 14:03:25 : None, Direct Message with StubbyMuffins, StubbyMuffins#1053, ;invite
+01 Apr 2017 14:03:25 : None, Direct Message with StubbyMuffins, Botfuzzy77#2209, https://discordapp.com/oauth2/authorize?client_id=187608834381053952&scope=bot&permissions=00000008
+01 Apr 2017 14:10:33 : nein, general, LolopFace#5646, im a gay little faggot
+01 Apr 2017 14:11:29 : LimitlessMc, mainchat, LolopFace#5646, hey im a jew and im abput to sin, anyone want anal?
+01 Apr 2017 14:14:22 : LimitlessMc, mainchat, LolopFace#5646, no-one?
+01 Apr 2017 14:27:16 : LimitlessMc, mainchat, DrunkBit#3869, too far
+01 Apr 2017 14:27:19 : LimitlessMc, mainchat, DrunkBit#3869, votation for ban
+01 Apr 2017 14:45:36 : nein, general, shuck#1142, K then
+01 Apr 2017 15:01:30 : LimitlessMc, server_news, Jay113355#4999, Shiny party in one hour
+01 Apr 2017 15:36:28 : LimitlessMc, botchat, Lightning#6734, .luck
+01 Apr 2017 15:36:28 : LimitlessMc, botchat, LightBot#4090, Lightning's luck is 11.81 out of 100, which is **Completly Horrible**
+01 Apr 2017 15:36:32 : LimitlessMc, botchat, Lightning#6734, Rip
+01 Apr 2017 15:47:11 : LimitlessMc, botchat, DrunkBit#3869, .luck
+01 Apr 2017 15:47:11 : LimitlessMc, botchat, LightBot#4090, DrunkBit's luck is 69.4 out of 100, which is **Pretty Good**
+01 Apr 2017 15:47:21 : LimitlessMc, botchat, Lightning#6734, .rate
+01 Apr 2017 15:47:21 : LimitlessMc, botchat, LightBot#4090, Lightning is actually god
+01 Apr 2017 15:47:25 : LimitlessMc, botchat, Lightning#6734, pls
+01 Apr 2017 15:47:29 : LimitlessMc, botchat, DrunkBit#3869, 69 ( ͡° ͜ʖ ͡°)
+01 Apr 2017 15:47:33 : LimitlessMc, botchat, DrunkBit#3869, .rate
+01 Apr 2017 15:47:33 : LimitlessMc, botchat, LightBot#4090, DrunkBit is kinda cool
+01 Apr 2017 15:47:34 : LimitlessMc, botchat, Lightning#6734, lenny!
+01 Apr 2017 15:48:27 : LimitlessMc, mainchat, Jay113355#4999, 10 minutes till shiny party
+01 Apr 2017 15:48:30 : LimitlessMc, adminchat, Lightning#6734, jay this Hansons guy can't join the server
+01 Apr 2017 15:48:56 : LimitlessMc, mainchat, Lightning#6734, ^wew
+01 Apr 2017 16:28:58 : LimitlessMc, mainchat, Third_Worm#4804, @twax Dad wants me off
+01 Apr 2017 16:29:09 : LimitlessMc, mainchat, twax#3166, ok
+01 Apr 2017 16:34:19 : LimitlessMc, adminchat, Jay113355#4999, Hes already registered. His username is hansons not Hansons
+01 Apr 2017 16:55:17 : LimitlessMc, botchat, How am i?#5495, .luck
+01 Apr 2017 16:55:18 : LimitlessMc, botchat, LightBot#4090, How am i?'s luck is 40.96 out of 100, which is **Not Bad**
+01 Apr 2017 16:55:32 : LimitlessMc, botchat, How am i?#5495, .rate
+01 Apr 2017 16:55:32 : LimitlessMc, botchat, LightBot#4090, How am i? is kinda cool
+01 Apr 2017 16:56:16 : LimitlessMc, mainchat, How am i?#5495, @Light  your bot rated me bad haha
+01 Apr 2017 16:56:58 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77  how much luck do i have?
+01 Apr 2017 16:56:59 : LimitlessMc, botchat, Botfuzzy77#2209, I don't know, I'm not you.
+01 Apr 2017 16:57:14 : LimitlessMc, botchat, How am i?#5495, @Botfuzzy77 good answer
+01 Apr 2017 16:57:16 : LimitlessMc, botchat, Botfuzzy77#2209, Thank you.
+01 Apr 2017 16:58:39 : LimitlessMc, mainchat, Lightning#6734, l
+01 Apr 2017 17:33:09 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+01 Apr 2017 17:33:09 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Kiiara - Gold (Official Video)
+**Requester**: Radio: Purely Pop
+**URL**: <https://www.youtube.com/watch?v=sO9cBXRcBvo>
+```py
+Time: 0:03:38
+Views: 65,061,422
+Likes: 620,434, 97.29%
+Dislikes: 17,267, 2.71%
+Skips: 0/0```
+01 Apr 2017 17:33:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+01 Apr 2017 17:33:11 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+01 Apr 2017 17:33:11 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Waking Up In Vegas- Katy Perry {{Lyrics}} **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=46Yt5h6hxWw>
+2. WALK THE MOON - Shut Up and Dance (Audio) **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=nbcCG7PkI18>
+3. Nick Jonas - Jealous **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=yw04QD1LaB0>
+4. Robin Schulz - Sun Goes Down feat. Jasmine Thompson (Official Video) **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=Mo4cmTaEDIk>
+5. One Direction - Kiss You (Lyric Video) **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=XAXE3JANcsU>
+Total Time is 0:16:18
+01 Apr 2017 17:33:12 : LimitlessMc, botchat, Bakafish#8693, .luck
+01 Apr 2017 17:33:13 : LimitlessMc, botchat, LightBot#4090, Bakafish's luck is 56.74 out of 100, which is **Not Bad**
+01 Apr 2017 17:33:13 : LimitlessMc, botchat, Wertfuzzy77#0274, lol
+01 Apr 2017 17:33:19 : LimitlessMc, botchat, Wertfuzzy77#0274, bot has been playing music all night
+01 Apr 2017 17:33:21 : LimitlessMc, botchat, Wertfuzzy77#0274, gj @Botfuzzy77
+01 Apr 2017 17:33:22 : LimitlessMc, botchat, Botfuzzy77#2209, Yeee.
+01 Apr 2017 17:33:33 : LimitlessMc, botchat, Wertfuzzy77#0274, ;music
+01 Apr 2017 17:33:33 : LimitlessMc, botchat, Botfuzzy77#2209, Connected to voice channels in the following servers:
+LimitlessMc playing Kiiara - Gold (Official Video)
+01 Apr 2017 17:33:51 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;skip
+01 Apr 2017 17:33:51 : LimitlessMc, voice-junk, Botfuzzy77#2209, Skipping Kiiara - Gold (Official Video) by request (Radio Song)
+01 Apr 2017 17:33:57 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;song
+01 Apr 2017 17:33:57 : LimitlessMc, voice-junk, Botfuzzy77#2209, **Name**: Waking Up In Vegas- Katy Perry {{Lyrics}}
+**Requester**: Radio: Purely Pop
+**URL**: <https://www.youtube.com/watch?v=46Yt5h6hxWw>
+```py
+Time: 0:03:19
+Views: 3,000,715
+Likes: 7,040, 96.6%
+Dislikes: 248, 3.4%
+Skips: 0/0```
+01 Apr 2017 17:33:59 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;songs
+01 Apr 2017 17:33:59 : LimitlessMc, voice-junk, Botfuzzy77#2209, **The Following songs are in the Queue**
+01 Apr 2017 17:33:59 : LimitlessMc, voice-junk, Botfuzzy77#2209, 1. WALK THE MOON - Shut Up and Dance (Audio) **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=nbcCG7PkI18>
+2. Nick Jonas - Jealous **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=yw04QD1LaB0>
+3. Robin Schulz - Sun Goes Down feat. Jasmine Thompson (Official Video) **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=Mo4cmTaEDIk>
+4. One Direction - Kiss You (Lyric Video) **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=XAXE3JANcsU>
+5. Waking Up In Vegas- Katy Perry {{Lyrics}} **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=46Yt5h6hxWw>
+Total Time is 0:16:18
+01 Apr 2017 17:35:34 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;leave
+01 Apr 2017 17:35:36 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;join
+01 Apr 2017 17:35:37 : LimitlessMc, voice-junk, Botfuzzy77#2209, Connected channel!
+01 Apr 2017 17:35:41 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;Radio
+01 Apr 2017 17:35:41 : LimitlessMc, voice-junk, Botfuzzy77#2209, **Please choose one of these options**: 
+```py
+Electro Hub        (1111 Songs) https://temp.discord.fm/libraries/electro-hub
+Chill Corner       (731 Songs) https://temp.discord.fm/libraries/chill-corner
+Korean Madness     (386 Songs) https://temp.discord.fm/libraries/korean-madness
+Japanese Lounge    (827 Songs) https://temp.discord.fm/libraries/japanese-lounge
+Classical          (278 Songs) https://temp.discord.fm/libraries/classical
+Retro Renegade     (452 Songs) https://temp.discord.fm/libraries/retro-renegade
+Metal Mix          (556 Songs) https://temp.discord.fm/libraries/metal-mix
+Hip-hop            (434 Songs) https://temp.discord.fm/libraries/hip-hop
+Electro Swing      (341 Songs) https://temp.discord.fm/libraries/electro-swing
+Purely Pop         (329 Songs) https://temp.discord.fm/libraries/purely-pop
+Rock-n-Roll        (638 Songs) https://temp.discord.fm/libraries/rock-n-roll
+Coffee-house Jazz  (523 Songs) https://temp.discord.fm/libraries/coffee-house-jazz```
+Example: `;Radio Purely Pop`
+01 Apr 2017 17:35:48 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;Radio Purely Pop
+01 Apr 2017 17:35:48 : LimitlessMc, voice-junk, Botfuzzy77#2209, Now listening to **Purely Pop** radio channel
+01 Apr 2017 17:36:00 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;song
+01 Apr 2017 17:36:00 : LimitlessMc, voice-junk, Botfuzzy77#2209, **Name**: Jacob Sartorius - Bingo (Audio)
+**Requester**: Radio: Purely Pop
+**URL**: <https://www.youtube.com/watch?v=6OSOVpEeqCc>
+```py
+Time: 0:02:50
+Views: 2,292,414
+Likes: 69,025, 91.69%
+Dislikes: 6,259, 8.31%
+Skips: 0/0```
+01 Apr 2017 17:36:01 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;songs
+01 Apr 2017 17:36:01 : LimitlessMc, voice-junk, Botfuzzy77#2209, **The Following songs are in the Queue**
+01 Apr 2017 17:36:01 : LimitlessMc, voice-junk, Botfuzzy77#2209, 1. Avicii - Broken Arrows **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=ip4Q1pbrYDg>
+2. Robin schulz ft. Akon - Heatwave (Original mix) **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=UQrD3mZm5SY>
+3. WALK THE MOON - Shut Up and Dance (Audio) **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=nbcCG7PkI18>
+4. WALK THE MOON - Shut Up and Dance (Audio) **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=nbcCG7PkI18>
+5. Ed Sheeran - Photograph (Audio) **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=sToJIgJ4aHo>
+Total Time is 0:18:00
+01 Apr 2017 17:36:06 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;skip
+01 Apr 2017 17:36:06 : LimitlessMc, voice-junk, Botfuzzy77#2209, Skipping Jacob Sartorius - Bingo (Audio) by request (Radio Song)
+01 Apr 2017 17:36:13 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;shuffle
+01 Apr 2017 17:36:14 : LimitlessMc, voice-junk, Botfuzzy77#2209, Shuffling songs...
+01 Apr 2017 17:36:15 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;songs
+01 Apr 2017 17:36:15 : LimitlessMc, voice-junk, Botfuzzy77#2209, **The Following songs are in the Queue**
+01 Apr 2017 17:36:15 : LimitlessMc, voice-junk, Botfuzzy77#2209, 1. Robin schulz ft. Akon - Heatwave (Original mix) **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=UQrD3mZm5SY>
+2. Robin Schulz - Sugar (feat. Francesco Yates) (Official Audio) HD **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=dpp92fLoW8c>
+3. WALK THE MOON - Shut Up and Dance (Audio) **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=nbcCG7PkI18>
+4. WALK THE MOON - Shut Up and Dance (Audio) **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=nbcCG7PkI18>
+5. Ed Sheeran - Photograph (Audio) **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=sToJIgJ4aHo>
+Total Time is 0:17:46
+01 Apr 2017 17:36:18 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;shuffle
+01 Apr 2017 17:36:18 : LimitlessMc, voice-junk, Botfuzzy77#2209, Shuffling songs...
+01 Apr 2017 17:36:20 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;songs
+01 Apr 2017 17:36:20 : LimitlessMc, voice-junk, Botfuzzy77#2209, **The Following songs are in the Queue**
+01 Apr 2017 17:36:20 : LimitlessMc, voice-junk, Botfuzzy77#2209, 1. Robin Schulz - Sugar (feat. Francesco Yates) (Official Audio) HD **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=dpp92fLoW8c>
+2. Ed Sheeran - Photograph (Audio) **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=sToJIgJ4aHo>
+3. WALK THE MOON - Shut Up and Dance (Audio) **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=nbcCG7PkI18>
+4. Robin schulz ft. Akon - Heatwave (Original mix) **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=UQrD3mZm5SY>
+5. WALK THE MOON - Shut Up and Dance (Audio) **Radio: Purely Pop**
+	<https://www.youtube.com/watch?v=nbcCG7PkI18>
+Total Time is 0:17:46
+01 Apr 2017 17:40:42 : LimitlessMc, botchat, TherminatorX#6644, ;train
+01 Apr 2017 17:40:54 : LimitlessMc, botchat, TherminatorX#6644, @Wertfuzzy77 fix ya bot
+01 Apr 2017 17:40:54 : LimitlessMc, botchat, Wertfuzzy77#0274, hmm
+01 Apr 2017 17:41:01 : LimitlessMc, botchat, TherminatorX#6644, Lol
+01 Apr 2017 17:41:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;leave
+01 Apr 2017 17:41:14 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+01 Apr 2017 17:41:15 : LimitlessMc, botchat, Botfuzzy77#2209, UNAUTHORIZED
+01 Apr 2017 17:41:19 : LimitlessMc, botchat, Wertfuzzy77#0274, wut
+01 Apr 2017 17:41:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+01 Apr 2017 17:41:23 : LimitlessMc, botchat, Botfuzzy77#2209, UNAUTHORIZED
+01 Apr 2017 17:41:25 : LimitlessMc, botchat, TherminatorX#6644, hek
+01 Apr 2017 17:41:26 : LimitlessMc, botchat, Wertfuzzy77#0274, hmmmmmm
+01 Apr 2017 17:41:31 : Cipher, bot_land, Wertfuzzy77#0274, ;reload
+01 Apr 2017 17:41:31 : Cipher, bot_land, Botfuzzy77#2209, UNAUTHORIZED

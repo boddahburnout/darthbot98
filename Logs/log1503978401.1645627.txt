@@ -1,0 +1,40 @@
+29 Aug 2017 03:46:52 : music for pixelkindom, modded-chat, Zen#5809, Well I can just show you
+29 Aug 2017 03:47:11 : music for pixelkindom, modded-chat, Pixelkindom#9075, done
+29 Aug 2017 03:47:14 : music for pixelkindom, modded-chat, Wertfuzzy77#0274, need to restart so I can update the core code
+29 Aug 2017 03:47:20 : music for pixelkindom, modded-chat, Wertfuzzy77#0274, ;status
+29 Aug 2017 03:47:21 : music for pixelkindom, modded-chat, Botfuzzy77#2209, ```UpTime: 0:00:39.500000s
+Total Messages: 4
+Servers Joined: 35
+CPU usage: 0.0%
+Memory usage: 31.9%
+```
+29 Aug 2017 03:47:29 : music for pixelkindom, modded-chat, Wertfuzzy77#0274, ;ctoggle anime
+29 Aug 2017 03:47:29 : music for pixelkindom, modded-chat, Botfuzzy77#2209, `anime` is now Enabled CHANNEL-WIDE
+29 Aug 2017 03:47:33 : music for pixelkindom, modded-chat, Wertfuzzy77#0274, ;ctoggle anime
+29 Aug 2017 03:47:33 : music for pixelkindom, modded-chat, Botfuzzy77#2209, `anime` is now Disabled CHANNEL-WIDE
+29 Aug 2017 03:47:37 : music for pixelkindom, modded-chat, Wertfuzzy77#0274, <test>
+29 Aug 2017 03:47:40 : music for pixelkindom, modded-chat, Botfuzzy77#2209, **Baka to Test to Shoukanjuu**
+Link: https://myanimelist.net/anime/6347
+**Episodes**: 13
+**Status**: Finished Airing
+**Rating**: 7.80 (by 198,019 users)
+29 Aug 2017 03:47:42 : music for pixelkindom, modded-chat, Wertfuzzy77#0274, .....
+29 Aug 2017 03:47:44 : music for pixelkindom, modded-chat, Wertfuzzy77#0274, useless bot
+29 Aug 2017 03:48:01 : music for pixelkindom, modded-chat, Pixelkindom#9075, lol
+29 Aug 2017 03:48:07 : music for pixelkindom, modded-chat, Zen#5809, 
+29 Aug 2017 03:48:14 : music for pixelkindom, modded-chat, Zen#5809, Channel supposed to be where the channel id is
+29 Aug 2017 03:48:18 : music for pixelkindom, modded-chat, Zen#5809, but THERE'S TWO
+29 Aug 2017 03:48:22 : music for pixelkindom, modded-chat, Zen#5809, we tried both
+29 Aug 2017 03:48:23 : music for pixelkindom, modded-chat, Zen#5809, nothin
+29 Aug 2017 03:48:24 : music for pixelkindom, modded-chat, Zen#5809, ;-;
+29 Aug 2017 03:48:40 : music for pixelkindom, modded-chat, Zen#5809, this is our help guide
+29 Aug 2017 03:48:41 : music for pixelkindom, modded-chat, Wertfuzzy77#0274, did you try them as strings or ints?
+29 Aug 2017 03:48:41 : music for pixelkindom, modded-chat, Zen#5809, https://github.com/Chikachi/DiscordIntegration/wiki/Config-Explanation-v3
+29 Aug 2017 03:48:55 : music for pixelkindom, modded-chat, Zen#5809, 
+29 Aug 2017 03:49:14 : music for pixelkindom, modded-chat, Pixelkindom#9075, 1.10.2 is a pain int he ass for this
+29 Aug 2017 03:49:21 : music for pixelkindom, modded-chat, AVP Server Bot#6877, __Shadowfire1217__ has joined the server!
+29 Aug 2017 03:49:56 : music for pixelkindom, modded-chat, Wertfuzzy77#0274, `"channels": {345062846255857675}` Make this into ...
+29 Aug 2017 03:50:26 : music for pixelkindom, modded-chat, Wertfuzzy77#0274, `"channels": {"345062846255857675" : {}}`
+29 Aug 2017 03:50:27 : PokeIslands, staff, KiritoSanPlays#2208, https://gyazo.com/f57646f1a9406eb45cbcc2d2c7817aa8 for deku
+29 Aug 2017 03:50:27 : music for pixelkindom, modded-chat, AVP Server Bot#6877, __Shadowfire1217__ left the server!
+29 Aug 2017 03:50:31 : PokeIslands, staff, KiritoSanPlays#2208, 

@@ -1,0 +1,64 @@
+05 Jan 2017 18:54:20 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;join
+05 Jan 2017 18:54:24 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;playlist Shelter
+05 Jan 2017 18:54:28 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;level
+05 Jan 2017 18:54:28 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 16
+**XP**: 843.5914529914517/4913
+05 Jan 2017 18:54:30 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, there we go
+05 Jan 2017 18:54:32 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+05 Jan 2017 18:54:32 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;cd
+05 Jan 2017 18:54:32 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Battle**
+05 Jan 2017 18:54:32 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You can battle right now!
+05 Jan 2017 18:54:32 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Train**
+05 Jan 2017 18:54:33 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You can Train right now!
+05 Jan 2017 18:54:36 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;train
+05 Jan 2017 18:54:36 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You must be Level 5 to use ;train
+05 Jan 2017 18:54:41 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, how misleading
+05 Jan 2017 18:54:50 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, prob should say something about how you need to be level 5 in ;cd
+05 Jan 2017 18:54:52 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;summon
+05 Jan 2017 18:54:52 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ill fix that 😛
+05 Jan 2017 18:54:52 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait for the current boss to be defeated before you summon a new one!
+05 Jan 2017 18:54:58 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle NNNNN
+05 Jan 2017 18:54:58 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, A Level 0 Boss **Swampert** has appeared!
+It has 0 Health.
+05 Jan 2017 18:54:58 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 18:54:58 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :x: :x:
+05 Jan 2017 18:54:58 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 0 damage
+05 Jan 2017 18:54:58 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 0 Boss **Swampert** has been defeated!
+05 Jan 2017 18:55:03 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Most Damage by **Bakafish** with **0** damage
+05 Jan 2017 18:55:05 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;summon
+05 Jan 2017 18:55:33 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ...
+05 Jan 2017 18:55:34 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, A Level 1 boss has been summoned
+05 Jan 2017 18:55:39 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, Ya, API calls are taking a long time
+05 Jan 2017 18:55:42 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, no idea why
+05 Jan 2017 18:55:45 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, (der it is)
+05 Jan 2017 18:55:54 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle nnnnn
+05 Jan 2017 18:55:54 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, A Level 1 Boss **Klink** has appeared!
+It has 916 Health.
+05 Jan 2017 18:55:54 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 18:55:54 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :x: :white_check_mark:
+05 Jan 2017 18:55:54 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 16 damage
+05 Jan 2017 18:55:54 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 1 Boss **Klink** has 900 health left.
+05 Jan 2017 18:55:59 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;ping
+05 Jan 2017 18:56:08 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle BEGIN
+05 Jan 2017 18:56:08 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 1 Boss **Klink** has 900 health left.
+05 Jan 2017 18:56:08 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 18:56:08 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_b: :regional_indicator_e: :regional_indicator_g: :regional_indicator_i: :regional_indicator_n:
+:x: :x: :white_check_mark: :x: :white_check_mark:
+05 Jan 2017 18:56:08 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 1 damage
+05 Jan 2017 18:56:08 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 1 Boss **Klink** has 899 health left.
+05 Jan 2017 18:56:15 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, (no ping command)
+05 Jan 2017 18:56:17 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, nope
+05 Jan 2017 18:56:18 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, smh
+05 Jan 2017 18:56:27 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, lol `Begin`
+05 Jan 2017 18:57:06 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;cd
+05 Jan 2017 18:57:07 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Battle**
+05 Jan 2017 18:57:07 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You need to wait 18 seconds
+05 Jan 2017 18:57:07 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Train**
+05 Jan 2017 18:57:07 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You can Train right now!
+05 Jan 2017 18:57:09 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;train
+05 Jan 2017 18:57:56 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;cd
+05 Jan 2017 18:57:56 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, (I think we should stay away from ;train until you optimize it)
+05 Jan 2017 18:57:56 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ^

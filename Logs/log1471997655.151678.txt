@@ -1,0 +1,27 @@
+24 Aug 2016 00:14:27 : PassionMC, botchat, Wertfuzzy77#0274, ;config Set Welcome False
+24 Aug 2016 00:14:30 : PassionMC, botchat, Wertfuzzy77#0274, ;debug CONFIG
+24 Aug 2016 00:14:31 : PassionMC, botchat, Botfuzzy77#2209, ```py
+{}
+```
+24 Aug 2016 00:14:32 : PassionMC, botchat, Wertfuzzy77#0274, ...
+24 Aug 2016 00:14:42 : Cipher, general, Botfuzzy77#2209, **Dudubidu**(Grunt) is now Online!
+24 Aug 2016 00:14:42 : PassionMC, general, Botfuzzy77#2209, **Dudubidu**(No Role) is now Online!
+24 Aug 2016 00:14:59 : PassionMC, botchat, Wertfuzzy77#0274, ;debug CONFIG[ctx.message.server.name]
+24 Aug 2016 00:15:00 : PassionMC, botchat, Botfuzzy77#2209, ```py
+KeyError: 'PassionMC'
+```
+24 Aug 2016 00:16:35 : PassionMC, botchat, Wertfuzzy77#0274, ;debug CONFIG[ctx.message.server.name]
+24 Aug 2016 00:16:35 : PassionMC, botchat, Botfuzzy77#2209, ```py
+KeyError: 'PassionMC'
+```
+24 Aug 2016 00:16:40 : PassionMC, botchat, Wertfuzzy77#0274, ;config Set Welcome False
+24 Aug 2016 00:16:43 : PassionMC, botchat, Wertfuzzy77#0274, ;debug CONFIG[ctx.message.server.name]
+24 Aug 2016 00:16:44 : PassionMC, botchat, Botfuzzy77#2209, ```py
+KeyError: 'PassionMC'
+```
+24 Aug 2016 00:16:46 : PassionMC, botchat, Wertfuzzy77#0274, ...
+24 Aug 2016 00:17:24 : Cipher, general, Botfuzzy77#2209, **Dudubidu**(Grunt) is now Offline!
+24 Aug 2016 00:17:24 : PassionMC, general, Botfuzzy77#2209, **Dudubidu**(No Role) is now Offline!
+24 Aug 2016 00:17:24 : PassionMC, general, Botfuzzy77#2209, **TheLast1Alive**(No Role) is now Offline!
+24 Aug 2016 00:17:24 : League Of Legends, general, Botfuzzy77#2209, **TheLast1Alive**(Security) is now Offline!
+24 Aug 2016 00:17:26 : PassionMC, botchat, Wertfuzzy77#0274, ;relog

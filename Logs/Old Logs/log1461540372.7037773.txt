@@ -1,0 +1,135 @@
+Botfuzzy77#2926, Starting up...
+Botfuzzy77#2926, Loaded with Version 0.5.1
+Wertfuzzy77#0274, http://limitlessmc.net/f/viewtopic.php?f=11&t=1478
+Wertfuzzy77#0274, !hep
+Botfuzzy77#2926, Sorry <@134441036905840640>, I cant talk right here, it isnt safe, but visit me in #Botchat
+Wertfuzzy77#0274, !hep em
+Botfuzzy77#2926, Sorry <@134441036905840640>, I cant talk right here, it isnt safe, but visit me in #Botchat
+Wertfuzzy77#0274, !hep
+Botfuzzy77#2926, Dont Be Lazy, Type !help
+Wertfuzzy77#0274, !help
+Wertfuzzy77#0274, hello
+Botfuzzy77#2926, *From The Otherside*
+Wertfuzzy77#0274, <@167123959031005186>
+Botfuzzy77#2926, Wut
+Wertfuzzy77#0274, Hello
+Botfuzzy77#2926, *From The Otherside*
+Wertfuzzy77#0274, hello
+Botfuzzy77#2926, *From The Otherside*
+Wertfuzzy77#0274, !trivia
+Botfuzzy77#2926, Sorry <@134441036905840640>, I cant talk right here, it isnt safe, but visit me in #Botchat
+YoshiDudeRox#3676, hello
+Botfuzzy77#2926, *From The Otherside*
+Wertfuzzy77#0274, it now parses Limitless URLs
+YoshiDudeRox#3676, Nice
+Wertfuzzy77#0274, so like
+Wertfuzzy77#0274, http://limitlessmc.net/f/viewtopic.php?f=9&t=3071
+Botfuzzy77#2926, **
+Pixelmon 4.2.3
+**
+
+#9256 by Jay113355
+ Fri Mar 11, 2016 4:49 pm 
+		
+We're updating pixelmon again! Here are some of the notable changes: Pixelmon 4.2.3: Battle camera now changes position periodically instead of spinning.  Added inventories to boxes and end tables Gym signs are dyeable and can display items inside of them.  Trade machine display now shows what is being traded.  Trade machine GUI now displays Pokémon level. Fixed memory leak with boxes, end tables, and Fossil displays  Updated Trapinch & Vibrava models  Animated Flygon, Beldum, Metang and Metagross models. You can view the full change log for the update here: Version_historyYou can find the download files here: http://limitlessmc.net/install (bottom of the page)That's all. Enjoy.LimitlessMc Staff
+Wertfuzzy77#0274, fancy right
+YoshiDudeRox#3676, Thats pretty cool
+Wertfuzzy77#0274, should work for any lmc url
+Wertfuzzy77#0274, i think
+Wertfuzzy77#0274, idk
+Wertfuzzy77#0274, prob
+YoshiDudeRox#3676, How'd you come up with the name wertfuzzy?
+Wertfuzzy77#0274, idk
+Wertfuzzy77#0274, made it MANY years ago
+Wertfuzzy77#0274, and just stuck with it
+YoshiDudeRox#3676, Same with me
+YoshiDudeRox#3676, Except for mine is childish xD
+Wertfuzzy77#0274, !ranking
+Botfuzzy77#2926, Name: Bakafish, Rank: 1, Index: 195.4
+Name: Zeathrus, Rank: 2, Index: 132.1
+Name: EHHockey35, Rank: 3, Index: 128.8
+Name: ruleroftri, Rank: 4, Index: 126.1
+Name: TheLast1Alive, Rank: 5, Index: 124.8
+
+Wertfuzzy77#0274, !help ranking
+Botfuzzy77#2926, ```
+!ranking [To=5] [From=1]
+
+Returns the Current Server Rankings
+
+```
+Wertfuzzy77#0274, !ranking 30
+Botfuzzy77#2926, Name: Bakafish, Rank: 1, Index: 195.4
+Name: Zeathrus, Rank: 2, Index: 132.1
+Name: EHHockey35, Rank: 3, Index: 128.8
+Name: ruleroftri, Rank: 4, Index: 126.1
+Name: TheLast1Alive, Rank: 5, Index: 124.8
+Name: TheSolvdow, Rank: 6, Index: 124.4
+Name: PrincePixel, Rank: 7, Index: 117.3
+Name: BigJoseB, Rank: 8, Index: 115.5
+Name: Sephirium, Rank: 9, Index: 115.2
+Name: kingbrenner, Rank: 10, Index: 112.5
+Name: Wertfuzzy77, Rank: 11, Index: 110.2
+Name: sc0tty14, Rank: 12, Index: 108.1
+Name: HeroNeos, Rank: 13, Index: 105.8
+Name: Lizard_PlayzMC, Rank: 14, Index: 103.4
+Name: PoroTheSquirrel, Rank: 15, Index: 101.1
+Name: Latichris, Rank: 16, Index: 100.4
+Name: MetroProductions, Rank: 17, Index: 93.3
+Name: jetster34, Rank: 18, Index: 93.0
+Name: redhunter732, Rank: 19, Index: 93.0
+Name: sammyke, Rank: 20, Index: 90.3
+Name: WolfBreath, Rank: 21, Index: 90.2
+Name: Ziandermoon, Rank: 22, Index: 89.3
+Name: D_Bones98, Rank: 23, Index: 84.8
+Name: Rex9999, Rank: 24, Index: 83.8
+Name: Jackwolf2003, Rank: 25, Index: 83.6
+Name: HecTiiCPanda, Rank: 26, Index: 82.6
+Name: XzsAce, Rank: 27, Index: 82.6
+Name: sk8gaming, Rank: 28, Index: 82.0
+Name: bloops121, Rank: 29, Index: 82.0
+Name: Bringer0fDeath, Rank: 30, Index: 81.9
+
+Wertfuzzy77#0274, !tournaments
+Botfuzzy77#2926, Limitless Mayors Tournement
+Date: Completed			Participants: 24
+
+Level 100 Battle
+Date: Completed			Participants: 8
+
+Battle of the Noobs Month 1
+Date: Completed			Participants: 15
+
+Level 100 Battle
+Date: Completed			Participants: 13
+
+Battle of the Noobs Month 2 - April 30th
+Date: April 30,2016		Participants: 15
+Type: double elimination	ID: 2367167
+URL: https://limitlessmc.challonge.com/k4ssiskw
+
+April Showers - April 23rd
+Date: Completed			Participants: 13
+
+6v6 Tournament - April 16th
+Date: Completed			Participants: 10
+
+6 v 6 Tournament - May 1st 
+Date: May 1,2016		Participants: 8
+Type: double elimination	ID: 2437422
+URL: https://limitlessmc.challonge.com/4h5lg5li
+
+May Flowers - May 28th
+Date: May 28,2016		Participants: 1
+Type: double elimination	ID: 2461202
+URL: https://limitlessmc.challonge.com/vm2cjefi
+
+
+Jay113355#4999, I made a bot chat so the main chat wasn't spammed
+Wertfuzzy77#0274, was testing
+Jay113355#4999, So that people could mute the botchat
+Wertfuzzy77#0274, they still can, all cmds are done bot chat
+Wertfuzzy77#0274, you cant do anything here
+Wertfuzzy77#0274, so... what do you feel is spamming, and i should fix?
+Wertfuzzy77#0274, !relog
+Botfuzzy77#2926, Relogging...

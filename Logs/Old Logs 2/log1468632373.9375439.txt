@@ -1,0 +1,39 @@
+16 Jul 2016 01:26:18 : LimitlessMc , Wertfuzzy77#0274 , see auto restarts
+16 Jul 2016 01:26:22 : LimitlessMc , Wertfuzzy77#0274 , even when i shutdown
+16 Jul 2016 01:26:27 : LimitlessMc , Wertfuzzy77#0274 , ;join
+16 Jul 2016 01:26:30 : LimitlessMc , Wertfuzzy77#0274 , ;youtube https://www.youtube.com/watch?v=1KbauuM9EhY
+16 Jul 2016 01:26:36 : LimitlessMc , Wertfuzzy77#0274 , ;song
+16 Jul 2016 01:26:36 : LimitlessMc , Botfuzzy77#2209 , ```Name: River Flows In You (Yiruma‘s Piano) | 1 Hr Relaxation Music | Sleep,Work,Study
+URL: <https://www.youtube.com/watch?v=1KbauuM9EhY>
+Time: 3705
+Views: 721,984
+Likes: 5,996, 97.56%
+Dislikes: 150, 2.44%
+```
+16 Jul 2016 01:26:38 : LimitlessMc , Wertfuzzy77#0274 , ew
+16 Jul 2016 01:26:41 : LimitlessMc , Wertfuzzy77#0274 , ugly time
+16 Jul 2016 01:27:17 : LimitlessMc , Wertfuzzy77#0274 , seconds
+16 Jul 2016 01:27:27 : LimitlessMc , Wertfuzzy77#0274 , ;debug 3705/60
+16 Jul 2016 01:27:27 : LimitlessMc , Botfuzzy77#2209 , ```py
+61.75
+```
+16 Jul 2016 01:27:42 : LimitlessMc , Wertfuzzy77#0274 , ya, 60 minutes is about right
+16 Jul 2016 01:27:58 : LimitlessMc , Botfuzzy77#2209 , ```py
+1.0291666666666666
+```
+16 Jul 2016 01:28:04 : LimitlessMc , Wertfuzzy77#0274 , or about an hour
+16 Jul 2016 01:30:00 : LimitlessMc , Botfuzzy77#2209 , Sorry, that video has too little views to be Trustworthy.
+16 Jul 2016 01:30:14 : LimitlessMc , Wertfuzzy77#0274 , lol
+16 Jul 2016 01:31:16 : LimitlessMc , Wertfuzzy77#0274 , ;skip
+16 Jul 2016 01:31:16 : LimitlessMc , Botfuzzy77#2209 , Skipping River Flows In You (Yiruma‘s Piano) | 1 Hr Relaxation Music | Sleep,Work,Study
+16 Jul 2016 01:31:19 : LimitlessMc , Wertfuzzy77#0274 , ;reload
+16 Jul 2016 01:31:19 : LimitlessMc , Botfuzzy77#2209 , Reloaded all Modules
+16 Jul 2016 01:31:25 : LimitlessMc , Wertfuzzy77#0274 , ;youtube https://www.youtube.com/watch?v=52sY1VYyEJg
+16 Jul 2016 01:31:25 : LimitlessMc , Botfuzzy77#2209 , You Need to Connect to a Voice Chat first!
+16 Jul 2016 01:31:30 : LimitlessMc , Wertfuzzy77#0274 , ;join
+16 Jul 2016 01:31:34 : LimitlessMc , Wertfuzzy77#0274 , ;youtube https://www.youtube.com/watch?v=52sY1VYyEJg
+16 Jul 2016 01:31:34 : LimitlessMc , Botfuzzy77#2209 , You Need to Connect to a Voice Chat first!
+16 Jul 2016 01:31:37 : LimitlessMc , Wertfuzzy77#0274 , ugh
+16 Jul 2016 01:31:42 : LimitlessMc , Wertfuzzy77#0274 , ;shutdown
+16 Jul 2016 01:31:42 : LimitlessMc , Botfuzzy77#2209 , Ok :(
+16 Jul 2016 01:31:42 : LimitlessMc , Botfuzzy77#2209 , Gooodbye cruel world

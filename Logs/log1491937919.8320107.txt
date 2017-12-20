@@ -1,0 +1,16 @@
+11 Apr 2017 19:12:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+11 Apr 2017 19:12:10 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 19:12:13 : LimitlessMc, botchat, Wertfuzzy77#0274, 😄
+11 Apr 2017 19:12:14 : LimitlessMc, botchat, Wertfuzzy77#0274, there we go
+11 Apr 2017 19:12:25 : LimitlessMc, botchat, Wertfuzzy77#0274, xD I forgot to add the player score in there
+11 Apr 2017 19:12:26 : LimitlessMc, botchat, Wertfuzzy77#0274, woops
+11 Apr 2017 19:14:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug ctx.message.author.id
+11 Apr 2017 19:14:46 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+134441036905840640
+```
+11 Apr 2017 19:14:53 : LimitlessMc, botchat, theOnlyJuan#9357, ;train
+11 Apr 2017 19:14:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 19:14:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 19:15:23 : LimitlessMc, botchat, Wertfuzzy77#0274, alright, I think I just automated my system 😄
+11 Apr 2017 19:15:31 : LimitlessMc, botchat, Wertfuzzy77#0274, so I don't really ever have to open console ever again
+11 Apr 2017 19:15:42 : LimitlessMc, botchat, Wertfuzzy77#0274, it will auto pull from git hub, and auto-start if it crashes

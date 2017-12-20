@@ -1,0 +1,92 @@
+07 Jul 2016 22:38:24 : LimitlessMc , Genesect#6492 , bro
+07 Jul 2016 22:38:29 : LimitlessMc , Wertfuzzy77#0274 , ;lmgtfy Hep, How Do I Google Something
+07 Jul 2016 22:38:29 : LimitlessMc , Botfuzzy77#2209 , http://lmgtfy.com/?q=Hep,+How+Do+I+Google+Something
+07 Jul 2016 22:38:31 : LimitlessMc , Genesect#6492 , that fat guy walked by my house
+07 Jul 2016 22:38:34 : LimitlessMc , Wertfuzzy77#0274 , lol
+07 Jul 2016 22:38:38 : LimitlessMc , Genesect#6492 , am getting raped
+\
+07 Jul 2016 22:38:40 : LimitlessMc , Genesect#6492 , send hep
+07 Jul 2016 22:38:53 : LimitlessMc , Genesect#6492 , ;hep
+07 Jul 2016 22:38:53 : LimitlessMc , Botfuzzy77#2209 , Dont Be Lazy, Type !help
+07 Jul 2016 22:38:57 : LimitlessMc , Wertfuzzy77#0274 , ;lmgtfy How to Not Get Raped
+07 Jul 2016 22:38:57 : LimitlessMc , Botfuzzy77#2209 , http://lmgtfy.com/?q=How+to+Not+Get+Raped
+07 Jul 2016 22:38:59 : LimitlessMc , Wertfuzzy77#0274 , ^
+07 Jul 2016 22:39:00 : LimitlessMc , Genesect#6492 , fix that comand
+07 Jul 2016 22:39:00 : LimitlessMc , Wertfuzzy77#0274 , yw
+07 Jul 2016 22:39:03 : LimitlessMc , Wertfuzzy77#0274 , no
+07 Jul 2016 22:39:04 : LimitlessMc , Genesect#6492 , <@134441036905840640>
+07 Jul 2016 22:39:06 : LimitlessMc , Genesect#6492 , ;hep
+07 Jul 2016 22:39:06 : LimitlessMc , Botfuzzy77#2209 , Dont Be Lazy, Type !help
+07 Jul 2016 22:39:06 : LimitlessMc , Wertfuzzy77#0274 , i like it that way
+07 Jul 2016 22:39:10 : LimitlessMc , Genesect#6492 , it says !help
+07 Jul 2016 22:39:14 : LimitlessMc , Wertfuzzy77#0274 , oh
+07 Jul 2016 22:39:17 : LimitlessMc , Wertfuzzy77#0274 , lol
+07 Jul 2016 22:39:23 : LimitlessMc , Genesect#6492 , !hep
+07 Jul 2016 22:39:25 : LimitlessMc , Genesect#6492 , !help
+07 Jul 2016 22:39:27 : LimitlessMc , Gerald#7099 , 
+Hello, I am Gerald, the channel Bot. I can do many things, I can even be extended by plugins (weehee).
+
+Current commands: (note that arguments in <> are required, those in [] not)
+  - !clean  : lets me purge messages, options below
+    - !clean lets me purge the last 50 messages
+    - !clean <number> does the same for n messages (no maximum :P)
+    - !clean infinite removes messages until !kill, even the end of the channel doesn't seem like the limit
+    - !clean images deletes any message containing either a link to a jpg, !meme or an attachment
+    - !clean <string> removes every message containing the string
+    - !clean @someone cleans @someones messages in the last 100
+  - <@158641216311787520> (<@!158641216311787520>)  : Talk with me :)
+  - !help (!info) : Prints the help
+  - !kill : Kills me and lets me (hopefully) respawn instantly
+  - !ping (!pong) : Ping Pong
+  - (DM) !nobroadcast : Disables update broadcasts from me if you have a server
+  - (DM) !dobroadcast : Enables update broadcasts from me again
+  - !bugreport <message> : File a bug so it will reach my master even if you can't contact him directly (If it's abused, I will block certain ~~ab~~users)
+  - !invite : Add me to your server
+  - !status : Prints some overall status
+  - !plugins : Prints informations about all plugins
+  - (DM) !dropbox <secret> : Register Dropbox. Go to https://ultramc.org:8087/dropbox/authorize
+  - !id <beginning of name> : Outputs their internal id
+  - !serverid : Prints this server's id
+  - !channelid : Let me output the id of thid channel
+  - !roleids : Lists all roles with their ids
+  - !mention <role name> : Mentions everyone in that role
+  - !permissions <username> : Lists all permissions the spefific user has in this channel
+  - !meme <text you wanna write> : Generate a funny image
+  - !play <name> : Plays a specific song from soundcloud
+  - !youtube <name> : Plays a specific song from youtube. Can also be a url
+07 Jul 2016 22:39:28 : LimitlessMc , Gerald#7099 , 
+  - !twitch <name> : Streams from twitch.tv
+  - !pause : Pauses playback
+  - !stop : Stops playback and empties the queue
+  - !queue : Prints the current queue
+  - !shufflequeue : Shuffles the queue
+  - !flushqueue : Empties the queue
+  - !skip : Skips the current song
+  - !replay : Adds the current playing song to the queue
+  - !webplayer : Outputs your personal webplayer url
+  - !resetsecret : Resets your webplayer secret in case you lost it
+  - !stats  : Outputs which users wrote the most in this channel
+  - !words  : Outputs which users wrote the most words in this channel
+  - !topwords  : Sends the most common words in this channel
+  - !suspicious  : NSA-like who should be tracked a bit more :)
+  - !weblog  : The channel's weblog for easy search in the browser
+  - !punchcard  : The channel's punchcard - when are people active in here
+  - (DM) !steam Authenticates a steam user linking his steam id to the discord id (visit https://ultramc.org:8087/steam
+  - (DM) !nosteam Deauthenticates a steam user and disables notifications
+  - (DM) !arkserver <name> : Creates an api token for use of the ARK webalarms
+  - (DM) !deleteark <key> : Delete an ARK server from the config. Provide the key as argument
+  - !rate [@mention] : outputs my rating for a user
+  - !luck [@mention] : outputs the luck of a user today
+  - !nowelcome  : Disables the welcome message for this server
+  - !dowelcome  : Enables the welcome message again
+
+(DM) means that you have to issue this command via a direct message to me.
+07 Jul 2016 22:39:30 : LimitlessMc , Genesect#6492 , thanks gerald
+07 Jul 2016 22:39:32 : LimitlessMc , Roy210#7098 , thx for spam
+07 Jul 2016 22:39:32 : LimitlessMc , Genesect#6492 , ty for spam
+07 Jul 2016 22:39:38 : LimitlessMc , Wertfuzzy77#0274 , ....
+07 Jul 2016 22:39:39 : LimitlessMc , Genesect#6492 , LOLOL
+07 Jul 2016 22:39:42 : LimitlessMc , Wertfuzzy77#0274 , geralds help is annoying
+07 Jul 2016 22:39:47 : LimitlessMc , Roy210#7098 , my discord is in minecraft
+07 Jul 2016 22:39:48 : LimitlessMc , Wertfuzzy77#0274 , ;relog
+07 Jul 2016 22:39:49 : LimitlessMc , Botfuzzy77#2209 , Relogging...

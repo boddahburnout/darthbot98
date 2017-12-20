@@ -1,0 +1,52 @@
+24 Aug 2016 00:11:16 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+24 Aug 2016 00:11:16 : PassionMC, general, Botfuzzy77#2209, **Topheralan**(No Role) is now Online!
+24 Aug 2016 00:11:30 : PassionMC, botchat, Wertfuzzy77#0274, ;debug config
+24 Aug 2016 00:11:30 : PassionMC, botchat, Botfuzzy77#2209, ```py
+config
+```
+24 Aug 2016 00:11:34 : PassionMC, botchat, Wertfuzzy77#0274, ;debug CONFIG
+24 Aug 2016 00:11:34 : PassionMC, botchat, Botfuzzy77#2209, ```py
+[]
+```
+24 Aug 2016 00:11:39 : PassionMC, botchat, Wertfuzzy77#0274, ;config Set Welcome False
+24 Aug 2016 00:11:42 : PassionMC, botchat, Wertfuzzy77#0274, ;debug CONFIG
+24 Aug 2016 00:11:42 : PassionMC, botchat, Botfuzzy77#2209, ```py
+[]
+```
+24 Aug 2016 00:12:01 : PassionMC, botchat, Wertfuzzy77#0274, ;debug     global CONFIG
+    with open('CONFIG.json', 'r') as f:
+        CONFIG = json.load(f)
+    CONFIG[ctx.message.server][dataTag] = value
+24 Aug 2016 00:12:01 : PassionMC, botchat, Botfuzzy77#2209, ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+24 Aug 2016 00:12:10 : PassionMC, botchat, Wertfuzzy77#0274, ;debug "    global CONFIG
+    with open('CONFIG.json', 'r') as f:
+        CONFIG = json.load(f)
+    CONFIG[ctx.message.server][dataTag] = value"
+24 Aug 2016 00:12:11 : PassionMC, botchat, Botfuzzy77#2209, ```py
+SyntaxError: EOL while scanning string literal (<string>, line 1)
+```
+24 Aug 2016 00:12:14 : LimitlessMc, mainchat, D3NSH1N#8702, eh
+24 Aug 2016 00:12:19 : PassionMC, botchat, Wertfuzzy77#0274, ;debug global CONFIG
+24 Aug 2016 00:12:19 : PassionMC, botchat, Botfuzzy77#2209, ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+24 Aug 2016 00:12:29 : LimitlessMc, mainchat, D3NSH1N#8702, Reasons
+24 Aug 2016 00:12:30 : PassionMC, botchat, Wertfuzzy77#0274, ;debug CONFIG[ctx.message.server][dataTag] = value
+24 Aug 2016 00:12:30 : PassionMC, botchat, Botfuzzy77#2209, ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+24 Aug 2016 00:12:44 : PassionMC, botchat, Wertfuzzy77#0274, ;debug CONFIG[ctx.message.server][Welcome] = False
+24 Aug 2016 00:12:44 : PassionMC, botchat, Botfuzzy77#2209, ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+24 Aug 2016 00:12:53 : PassionMC, botchat, Wertfuzzy77#0274, ;debug CONFIG[ctx.message.server]["Welcome"] = False
+24 Aug 2016 00:12:53 : PassionMC, botchat, Botfuzzy77#2209, ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+24 Aug 2016 00:12:56 : PassionMC, botchat, Wertfuzzy77#0274, rip
+24 Aug 2016 00:13:16 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+24 Aug 2016 00:13:16 : PassionMC, general, Botfuzzy77#2209, **Topheralan**(No Role) is now Offline!
+24 Aug 2016 00:13:23 : PassionMC, botchat, Wertfuzzy77#0274, ;relog
+24 Aug 2016 00:13:23 : PassionMC, botchat, Botfuzzy77#2209, Relogging...

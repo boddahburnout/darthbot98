@@ -1,0 +1,54 @@
+24 Nov 2017 08:56:22 : FAM, off-topic, darth kota#9446, ;help
+24 Nov 2017 08:56:22 : FAM, off-topic, darthbot98#5182, I've pm'ed you a list of my commands
+24 Nov 2017 08:56:22 : None, Direct Message with darth kota, darthbot98#5182, ```
+Darth bot, a bot for the fam, Version 0.15.1.3
+(Created by Wertfuzzy77)
+
+FlavorTexts:
+  afk              Sets you as AFK, and the Bot will auto Reply for you with ...
+  choose           Chooses from a set of things
+  conch            Ask the Magic Conch a Question
+  ev               
+  fml              Returns a Random Post from fmylife.com
+  funify           Funifies a given text input
+  gif              Returns the First Found Image on Google Images for this Input
+  hates            Adds Emotion
+  hug              Adds Emotion
+  kill             Adds Emotion
+  kiss             Adds Emotion
+  kys              
+  likes            Adds Emotion
+  lmgtfy           Returns a Link to a "Let me Google That For You" Page
+  loves            Adds Emotion
+  luck             Returns the Player's Luck
+  pokemon          Returns Links to Pokemon pages
+  rate             Rates the Player
+  rps              Allows the player to play Rock, Paper, Scissors with the B...
+  server           Returns Information on the Limitless MC server!
+  slap             Adds Emotion
+  wyr              
+Games:
+  changeBackground 
+  color            
+  cooldown         Shows your Cooldowns
+  level            Displays your Current Information
+  mine             Allows you to mine for a risk to your XP
+  pokebattle       Fights a Pokemon Boss
+  pokeboss         Displays Boss Info
+  pokedex          
+  pokehelp         Pokemon Battle Sim Help (Basically useless)
+  prestige         Allows you to prestige at the cost of levels
+  ranking          Shows the Ranking of the top players
+  recent           
+  settype          
+  train            Fights Pokemon for XP
+  types            
+MusicPlayer:
+  radio            Enables Radio Mode
+  clear            Clears the Queue
+  cycle            Tells the bot to cycle the current songs in the queue
+  extendplaylist   Extends a custom playlist
+  join             Joins the Voice channel you are currently in
+  leave            Leaves the Join chat
+```
+24 Nov 2017 08:57:18 : FAM, off-topic, darth kota#9446, ;relog

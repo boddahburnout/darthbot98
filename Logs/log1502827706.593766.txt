@@ -1,0 +1,256 @@
+15 Aug 2017 20:08:45 : Achievement Heaven, ah-general, tigertiger02#4338, michael with all of my strengh i will defeat all of urs
+15 Aug 2017 20:09:10 : Botfuzzy77 Living Quarters, general, Wertfuzzy77#0274, fixed that @⚓Ƹ>⸨Brady⸩<Ʒ⚓ it should now auto-restart cleverbot if it does that to you
+15 Aug 2017 20:09:15 : Achievement Heaven, ah-general, Kangaroo1212#7324, ???
+15 Aug 2017 20:09:19 : Achievement Heaven, ah-general, tigertiger02#4338, lol
+15 Aug 2017 20:09:31 : Achievement Heaven, ah-general, Kangaroo1212#7324, lol what?
+15 Aug 2017 20:09:43 : Achievement Heaven, ah-general, tigertiger02#4338, its part of the anime the line before he usually beats the other perso
+15 Aug 2017 20:09:44 : Achievement Heaven, ah-general, tigertiger02#4338, n
+15 Aug 2017 20:09:59 : Achievement Heaven, ah-general, Kangaroo1212#7324, lol
+15 Aug 2017 20:10:01 : Achievement Heaven, ah-general, tigertiger02#4338, if u want i can get u a link to the anime
+15 Aug 2017 20:10:12 : Achievement Heaven, ah-general, tigertiger02#4338, ?
+15 Aug 2017 20:10:16 : Achievement Heaven, ah-general, Kangaroo1212#7324, ...
+15 Aug 2017 20:10:22 : Achievement Heaven, ah-general, Kangaroo1212#7324, ....
+15 Aug 2017 20:10:25 : Achievement Heaven, ah-general, tigertiger02#4338, lol
+15 Aug 2017 20:10:28 : Achievement Heaven, ah-general, Kangaroo1212#7324, .....
+15 Aug 2017 20:10:33 : Achievement Heaven, ah-general, tigertiger02#4338, spam
+15 Aug 2017 20:10:36 : Achievement Heaven, ah-general, tigertiger02#4338, lol
+15 Aug 2017 20:11:00 : Achievement Heaven, ah-general, Kangaroo1212#7324, nah
+15 Aug 2017 20:11:22 : Botfuzzy77 Living Quarters, general, ⚓Ƹ>⸨Brady⸩<Ʒ⚓#8237, ;D
+15 Aug 2017 20:11:24 : Botfuzzy77 Living Quarters, general, ⚓Ƹ>⸨Brady⸩<Ʒ⚓#8237, thnx bb ❤
+15 Aug 2017 20:11:31 : Botfuzzy77 Living Quarters, general, ⚓Ƹ>⸨Brady⸩<Ʒ⚓#8237, @Botfuzzy77 Besties?
+15 Aug 2017 20:11:32 : Achievement Heaven, ah-general, tigertiger02#4338, so how did u feel passing out lol
+15 Aug 2017 20:11:33 : Botfuzzy77 Living Quarters, general, Botfuzzy77#2209, Un pregunta.
+15 Aug 2017 20:11:38 : Botfuzzy77 Living Quarters, general, ⚓Ƹ>⸨Brady⸩<Ʒ⚓#8237, 🤔
+15 Aug 2017 20:11:41 : Botfuzzy77 Living Quarters, general, ⚓Ƹ>⸨Brady⸩<Ʒ⚓#8237, doesnt pregunta mean like
+15 Aug 2017 20:11:42 : Botfuzzy77 Living Quarters, general, ⚓Ƹ>⸨Brady⸩<Ʒ⚓#8237, pencil?
+15 Aug 2017 20:11:46 : Botfuzzy77 Living Quarters, general, ⚓Ƹ>⸨Brady⸩<Ʒ⚓#8237, or is the prune
+15 Aug 2017 20:11:47 : Achievement Heaven, ah-general, tigertiger02#4338, it scared me because u landed infront of me
+15 Aug 2017 20:11:50 : Botfuzzy77 Living Quarters, general, ⚓Ƹ>⸨Brady⸩<Ʒ⚓#8237, or pluma
+15 Aug 2017 20:11:52 : Botfuzzy77 Living Quarters, general, ⚓Ƹ>⸨Brady⸩<Ʒ⚓#8237, 🤔
+15 Aug 2017 20:12:02 : Achievement Heaven, ah-general, Kangaroo1212#7324, i had a think and....
+15 Aug 2017 20:12:17 : Botfuzzy77 Living Quarters, general, Wertfuzzy77#0274, means question
+15 Aug 2017 20:12:22 : Achievement Heaven, ah-general, Kangaroo1212#7324, im very bad at first impresstions
+15 Aug 2017 20:12:27 : Achievement Heaven, ah-general, tigertiger02#4338, lol
+15 Aug 2017 20:12:31 : Botfuzzy77 Living Quarters, general, Shadow~Reshiram~Zen#5809, Hi
+15 Aug 2017 20:12:33 : Botfuzzy77 Living Quarters, general, Wertfuzzy77#0274, pluma means pen
+15 Aug 2017 20:12:35 : Botfuzzy77 Living Quarters, general, Wertfuzzy77#0274, hola
+15 Aug 2017 20:12:39 : Botfuzzy77 Living Quarters, general, Shadow~Reshiram~Zen#5809, I had to join
+15 Aug 2017 20:12:41 : Achievement Heaven, ah-general, Kangaroo1212#7324, still cant spell                     ^
+15 Aug 2017 20:12:44 : Botfuzzy77 Living Quarters, bot-testing_grounds, Wertfuzzy77#0274, ;debug [(x.name, x, x.is_default) for x in ctx.message.server.channels]
+15 Aug 2017 20:12:44 : Botfuzzy77 Living Quarters, bot-testing_grounds, Botfuzzy77#2209, ```py
+[('bot-testing_grounds', <discord.channel.Channel object at 0x7f47b454a6c8>, False), ('general', <discord.channel.Channel object at 0x7f47b454a5c8>, False), ('info', <discord.channel.Channel object at 0x7f47b454a748>, False), ('General', <discord.channel.Channel object at 0x7f47b454a648>, False), ('Music', <discord.channel.Channel object at 0x7f47b454a7c8>, False), ('Music-2', <discord.channel.Channel object at 0x7f47b454a848>, False)]
+```
+15 Aug 2017 20:12:51 : Botfuzzy77 Living Quarters, general, Shadow~Reshiram~Zen#5809, Botfuzzy Is amazing
+15 Aug 2017 20:12:53 : Botfuzzy77 Living Quarters, general, Wertfuzzy77#0274, 😄
+15 Aug 2017 20:12:56 : Achievement Heaven, ah-general, tigertiger02#4338, im the one going asking for a pass and in the lesson just holding on it like i am holding on to it like life
+15 Aug 2017 20:13:14 : PokeIslands, staff, Sleepy#3807, Lol
+15 Aug 2017 20:13:16 : PokeIslands, staff, Sleepy#3807, Nah
+15 Aug 2017 20:13:17 : Achievement Heaven, ah-general, Kangaroo1212#7324, lol
+15 Aug 2017 20:13:22 : Botfuzzy77 Living Quarters, general, Wertfuzzy77#0274, I still have to connect the dev bot to here, but once it is, I'll be able to work on it easier, and have people activaly give feedback on changes
+15 Aug 2017 20:13:24 : Achievement Heaven, ah-general, tigertiger02#4338, i was ready to flip the table and bolt for the door or the window
+15 Aug 2017 20:13:31 : Botfuzzy77 Living Quarters, general, Shadow~Reshiram~Zen#5809, Is there a joke command
+15 Aug 2017 20:13:35 : Botfuzzy77 Living Quarters, general, Wertfuzzy77#0274, ;fml
+15 Aug 2017 20:13:37 : Botfuzzy77 Living Quarters, general, Botfuzzy77#2209, *Today, my hormones are so screwed, I popped a boner at the sight of two grasshoppers mating and had to retire to my room for a wank. FML*
+15 Aug 2017 20:13:37 : Botfuzzy77 Living Quarters, general, Wertfuzzy77#0274, not joke
+15 Aug 2017 20:13:42 : Botfuzzy77 Living Quarters, general, Wertfuzzy77#0274, but still hilarious
+15 Aug 2017 20:13:46 : Botfuzzy77 Living Quarters, general, Shadow~Reshiram~Zen#5809, XD
+15 Aug 2017 20:13:52 : Botfuzzy77 Living Quarters, general, Shadow~Reshiram~Zen#5809, ;fml
+15 Aug 2017 20:13:54 : Botfuzzy77 Living Quarters, general, Botfuzzy77#2209, *Today, my husband and I took my mother-in-law out for dinner as a treat. She spent the whole time moaning about her problems and then left without a word of thanks as soon as she finished eating. We hadn't even asked for the bill yet. FML*
+15 Aug 2017 20:15:17 : Achievement Heaven, ah-general, Kangaroo1212#7324, lol
+15 Aug 2017 20:15:47 : Achievement Heaven, ah-general, tigertiger02#4338, i would be ready to grab anything and throw it in the teachers face
+15 Aug 2017 20:16:10 : Achievement Heaven, ah-general, Kangaroo1212#7324, im going to remmember that just ask for a pass and say im fellin warm
+15 Aug 2017 20:16:18 : Achievement Heaven, ah-general, Kangaroo1212#7324, lol
+15 Aug 2017 20:18:33 : Botfuzzy77 Living Quarters, general, ⚓Ƹ>⸨Brady⸩<Ʒ⚓#8237, ;fml
+15 Aug 2017 20:18:35 : Botfuzzy77 Living Quarters, general, Botfuzzy77#2209, *Today, my boyfriend told me there was a tick on my shoulder and that he would remove it so I shouldn't worry. After about a half hour, lots of blood, and a ton of pain, he told me it was just a mole. FML*
+15 Aug 2017 20:18:42 : Botfuzzy77 Living Quarters, general, ⚓Ƹ>⸨Brady⸩<Ʒ⚓#8237, @Botfuzzy77 Im pregnant with your baby
+15 Aug 2017 20:18:47 : Botfuzzy77 Living Quarters, general, Botfuzzy77#2209, I am a girl!
+15 Aug 2017 20:18:59 : Botfuzzy77 Living Quarters, general, ⚓Ƹ>⸨Brady⸩<Ʒ⚓#8237, @Botfuzzy77 and you're pregnant with mine
+15 Aug 2017 20:19:03 : Botfuzzy77 Living Quarters, general, Botfuzzy77#2209, Better! :).
+15 Aug 2017 20:19:09 : Botfuzzy77 Living Quarters, general, ⚓Ƹ>⸨Brady⸩<Ʒ⚓#8237, xD
+15 Aug 2017 20:20:21 : Legacy Craft, general, DJ Small#8652, I would, but I'm a nerd in other areas
+15 Aug 2017 20:20:28 : Legacy Craft, general, DJ Small#8652, 20-sided die are not my thing.
+15 Aug 2017 20:20:46 : LimitlessMc, botchat, Bakafish#8693, ;train
+15 Aug 2017 20:20:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+15 Aug 2017 20:20:48 : LimitlessMc, botchat, Botfuzzy77#2209, 
+15 Aug 2017 20:20:51 : Legacy Craft, general, Sleeping Quill#1038, _drags @Tiger away_
+15 Aug 2017 20:21:05 : Legacy Craft, general, DJ Small#8652, @Sleeping Quill what's with you and dragging people away?
+15 Aug 2017 20:21:16 : Legacy Craft, general, tigertiger02#4338, wait what why drag me
+15 Aug 2017 20:21:48 : Legacy Craft, general, Sleeping Quill#1038, See above message
+15 Aug 2017 20:22:28 : Legacy Craft, general, tigertiger02#4338, what?
+15 Aug 2017 20:22:47 : Legacy Craft, general, tigertiger02#4338, ???
+15 Aug 2017 20:23:18 : Legacy Craft, general, DJ Small#8652, it's kind of annoying how you @mention everyone you're dragging places
+15 Aug 2017 20:23:25 : Legacy Craft, general, DJ_Phatzo#8045, ._.
+15 Aug 2017 20:24:19 : Legacy Craft, general, tigertiger02#4338, idk why is he dragging me around
+15 Aug 2017 20:24:32 : Legacy Craft, general, DJ Small#8652, I am certain this has happened before.
+15 Aug 2017 20:24:51 : PokeIslands, staff, KiritoSanPlays#2208, me can multitask :p
+15 Aug 2017 20:24:57 : PokeIslands, staff, KiritoSanPlays#2208, eat and watch tv xd
+15 Aug 2017 20:24:58 : Legacy Craft, general, DJ Small#8652, @Sleeping Quill Are you a *drag* queen? Geddit? Geddit?
+15 Aug 2017 20:24:59 : PokeIslands, staff, ShadowZekrom ~Zane~#2042, kiri
+15 Aug 2017 20:25:06 : PokeIslands, staff, KiritoSanPlays#2208, what
+15 Aug 2017 20:25:09 : Legacy Craft, general, DJ_Phatzo#8045, boooo
+15 Aug 2017 20:25:13 : Legacy Craft, general, DJ Small#8652, :<
+15 Aug 2017 20:25:14 : Legacy Craft, general, tigertiger02#4338, lol
+15 Aug 2017 20:25:18 : PokeIslands, staff, dragonbro0803#0985, we on bbpro's server
+15 Aug 2017 20:25:20 : PokeIslands, staff, dragonbro0803#0985, they opped zane
+15 Aug 2017 20:25:24 : PokeIslands, staff, ShadowZekrom ~Zane~#2042, Yah
+15 Aug 2017 20:25:26 : Legacy Craft, general, Sleeping Quill#1038, _walks away_
+15 Aug 2017 20:25:39 : Legacy Craft, general, DJ_Phatzo#8045, @Sleeping Quill  As you walk away, a Bear comes out of nowhere
+15 Aug 2017 20:25:40 : Legacy Craft, general, DJ_Phatzo#8045, What do
+15 Aug 2017 20:25:42 : PokeIslands, staff, KiritoSanPlays#2208, http://steamcommunity.com/sharedfiles/filedetails/?id=1111744752
+15 Aug 2017 20:25:44 : Legacy Craft, general, DJ Small#8652, lol
+15 Aug 2017 20:25:47 : Botfuzzy77 Living Quarters, general, StubbyMuffins#1053, noob bot
+15 Aug 2017 20:25:58 : Legacy Craft, general, tigertiger02#4338, i would have some dinner
+15 Aug 2017 20:26:00 : Botfuzzy77 Living Quarters, general, StubbyMuffins#1053, @Wertfuzzy77 u feg
+15 Aug 2017 20:26:02 : Botfuzzy77 Living Quarters, general, StubbyMuffins#1053, okei
+15 Aug 2017 20:26:05 : Botfuzzy77 Living Quarters, general, Wertfuzzy77#0274, ;-;
+15 Aug 2017 20:26:11 : PokeIslands, staff, KiritoSanPlays#2208, playing against noobs is boring
+15 Aug 2017 20:26:23 : Botfuzzy77 Living Quarters, general, StubbyMuffins#1053, u buy ark
+15 Aug 2017 20:26:23 : Legacy Craft, general, Sleeping Quill#1038, I shoot the bear_rolled a 14_
+15 Aug 2017 20:26:29 : Proton Gaming Network, infinityevolved, Mr Grrr#1532, No one else had that issue before
+15 Aug 2017 20:26:31 : Legacy Craft, general, DJ_Phatzo#8045, You hit
+15 Aug 2017 20:26:34 : Botfuzzy77 Living Quarters, general, Wertfuzzy77#0274, bet
+15 Aug 2017 20:26:35 : Botfuzzy77 Living Quarters, general, Wertfuzzy77#0274, I cheap
+15 Aug 2017 20:26:39 : Proton Gaming Network, infinityevolved, Mr Grrr#1532, Maybe try binding a different hotkey?
+15 Aug 2017 20:26:43 : Legacy Craft, general, DJ_Phatzo#8045, The bear is enraged
+15 Aug 2017 20:26:45 : PokeIslands, staff, dragonbro0803#0985, hmmm
+15 Aug 2017 20:26:47 : Proton Gaming Network, infinityevolved, Mr Grrr#1532, I know im late xD
+15 Aug 2017 20:26:51 : PokeIslands, staff, dragonbro0803#0985, seems like dark is updating today also
+15 Aug 2017 20:26:57 : Legacy Craft, general, DJ_Phatzo#8045, The Bear attacks, _and rolls a 1_
+15 Aug 2017 20:27:01 : PokeIslands, staff, KiritoSanPlays#2208, anyways i gonna watch op and enjoy my curry noodles 😃
+15 Aug 2017 20:27:04 : Legacy Craft, general, DJ Small#8652, 
+15 Aug 2017 20:27:09 : Legacy Craft, general, DJ Small#8652, read it.
+15 Aug 2017 20:27:10 : PokeIslands, staff, dragonbro0803#0985, 9 hours
+15 Aug 2017 20:27:18 : PokeIslands, staff, KiritoSanPlays#2208, well no news about reborn
+15 Aug 2017 20:27:19 : Legacy Craft, general, DJ Small#8652, just read it, it applies to what we're talking about
+15 Aug 2017 20:27:21 : Legacy Craft, general, DJ_Phatzo#8045, The bear trips over itself, and crashed into the fridge, and knocks itself out
+15 Aug 2017 20:27:30 : Legacy Craft, general, Sleeping Quill#1038, I grab @DJ Smalls and uses him as a shield _rolls a 20_
+15 Aug 2017 20:27:39 : Legacy Craft, general, tigertiger02#4338, lol
+15 Aug 2017 20:27:39 : Legacy Craft, general, DJ_Phatzo#8045, it's knocked out
+15 Aug 2017 20:27:42 : Legacy Craft, general, DJ Small#8652, ¯\_(ツ)_/¯
+15 Aug 2017 20:27:43 : PokeIslands, staff, KiritoSanPlays#2208, ;afk enkoying curry noodles and watching one piece
+15 Aug 2017 20:27:43 : PokeIslands, staff, Botfuzzy77#2209, KiritoSanPlays is now AFK for reason:
+**enkoying curry noodles and watching one piece**
+15 Aug 2017 20:27:46 : Botfuzzy77 Living Quarters, general, StubbyMuffins#1053, buy okei
+15 Aug 2017 20:27:51 : Botfuzzy77 Living Quarters, general, ⚓Ƹ>⸨Brady⸩<Ʒ⚓#8237, @Botfuzzy77 Don't cheat on me baby
+15 Aug 2017 20:27:52 : Botfuzzy77 Living Quarters, general, Botfuzzy77#2209, I... What?!
+15 Aug 2017 20:27:55 : Legacy Craft, general, tigertiger02#4338, kar its a bad shield its a bit _small_
+15 Aug 2017 20:27:59 : Legacy Craft, general, DJ Small#8652, lol
+15 Aug 2017 20:28:01 : Legacy Craft, general, DJ_Phatzo#8045, -.-
+15 Aug 2017 20:28:01 : Botfuzzy77 Living Quarters, general, ⚓Ƹ>⸨Brady⸩<Ʒ⚓#8237, @Botfuzzy77 you heard me
+15 Aug 2017 20:28:02 : Botfuzzy77 Living Quarters, general, Botfuzzy77#2209, But I don't understand.
+15 Aug 2017 20:28:06 : Legacy Craft, general, DJ Small#8652, booooo, get off de staaage
+15 Aug 2017 20:28:07 : Botfuzzy77 Living Quarters, bot-testing_grounds, Wertfuzzy77#0274, ;debug [(x.name, x, x.is_default) for x in ctx.message.server.channels]
+15 Aug 2017 20:28:08 : Botfuzzy77 Living Quarters, bot-testing_grounds, Botfuzzy77#2209, ```py
+[('bot-testing_grounds', <discord.channel.Channel object at 0x7f47b454a6c8>, False), ('help-me', <discord.channel.Channel object at 0x7f47ac501548>, False), ('general', <discord.channel.Channel object at 0x7f47b454a5c8>, False), ('bot-commands', <discord.channel.Channel object at 0x7f47ac5012c8>, False), ('info', <discord.channel.Channel object at 0x7f47b454a748>, False), ('General', <discord.channel.Channel object at 0x7f47b454a648>, False), ('Music', <discord.channel.Channel object at 0x7f47b454a7c8>, False), ('Music-2', <discord.channel.Channel object at 0x7f47b454a848>, False)]
+```
+15 Aug 2017 20:28:08 : Botfuzzy77 Living Quarters, general, ⚓Ƹ>⸨Brady⸩<Ʒ⚓#8237, @Botfuzzy77 stay faithful
+15 Aug 2017 20:28:09 : Botfuzzy77 Living Quarters, general, Botfuzzy77#2209, I am.
+15 Aug 2017 20:28:11 : Botfuzzy77 Living Quarters, general, StubbyMuffins#1053, @Botfuzzy77 suck my toes okei
+15 Aug 2017 20:28:12 : Botfuzzy77 Living Quarters, general, Botfuzzy77#2209, I'm sorry, I didn't quite get that, ask again please!
+15 Aug 2017 20:28:17 : Botfuzzy77 Living Quarters, general, StubbyMuffins#1053, failure
+15 Aug 2017 20:28:18 : Botfuzzy77 Living Quarters, general, ⚓Ƹ>⸨Brady⸩<Ʒ⚓#8237, @Botfuzzy77 good answer
+15 Aug 2017 20:28:18 : Botfuzzy77 Living Quarters, general, Botfuzzy77#2209, Thank you.
+15 Aug 2017 20:28:22 : Botfuzzy77 Living Quarters, bot-testing_grounds, Wertfuzzy77#0274, ;debug ctx.message.server.default_channel
+15 Aug 2017 20:28:22 : Botfuzzy77 Living Quarters, bot-testing_grounds, Botfuzzy77#2209, ```py
+None
+```
+15 Aug 2017 20:28:23 : Legacy Craft, general, tigertiger02#4338, lol
+15 Aug 2017 20:28:29 : PokeIslands, staff, dragonbro0803#0985, ima play some ur
+15 Aug 2017 20:28:30 : PokeIslands, staff, dragonbro0803#0985, f
+15 Aug 2017 20:28:34 : Botfuzzy77 Living Quarters, bot-testing_grounds, Wertfuzzy77#0274, ;debug bot.send_message(ctx.message.server, "hello")
+15 Aug 2017 20:29:04 : Legacy Craft, general, DJ_Phatzo#8045, Kar, the bear is knocked out, what do you do
+15 Aug 2017 20:29:15 : Legacy Craft, general, DJ Small#8652, *roundhouse kicks karuko, rolls 20*
+15 Aug 2017 20:29:22 : Botfuzzy77 Living Quarters, general, dragonbro0803#0985, @Botfuzzy77 Do you wanna build a snowman?
+15 Aug 2017 20:29:22 : Botfuzzy77 Living Quarters, general, Botfuzzy77#2209, Un pregunta.
+15 Aug 2017 20:29:32 : Legacy Craft, general, DJ Small#8652, *takes out computer and whaps him over head, rolls 12*
+15 Aug 2017 20:29:35 : Botfuzzy77 Living Quarters, general, dragonbro0803#0985, @Botfuzzy77 The snow glows white on the mountain tonight
+15 Aug 2017 20:29:37 : Botfuzzy77 Living Quarters, general, Botfuzzy77#2209, Not a footprint to be seen.
+15 Aug 2017 20:29:44 : Botfuzzy77 Living Quarters, general, dragonbro0803#0985, @Botfuzzy77 A kingdom of isolation
+15 Aug 2017 20:29:45 : Botfuzzy77 Living Quarters, general, Botfuzzy77#2209, And it looks like I'm the queen.
+15 Aug 2017 20:29:48 : The Pack, bot-chat, Kangaroo1212#7324, gtg cya
+15 Aug 2017 20:29:56 : Botfuzzy77 Living Quarters, general, dragonbro0803#0985, @Botfuzzy77 The wind is howling like the swirling storm inside
+15 Aug 2017 20:29:57 : Achievement Heaven, ah-general, Kangaroo1212#7324, gtg cya
+15 Aug 2017 20:29:57 : Botfuzzy77 Living Quarters, general, Botfuzzy77#2209, Couldn't keep it in, heaven knows I tried.
+15 Aug 2017 20:30:05 : Botfuzzy77 Living Quarters, general, dragonbro0803#0985, @Botfuzzy77 Dont let them in, dont let them see
+15 Aug 2017 20:30:30 : Legacy Craft, general, DJ Small#8652, @Sleeping Quill you're knocked out and the bear's knocked out, what do you do?
+15 Aug 2017 20:30:30 : Legacy Craft, general, DJ_Phatzo#8045, As you two are fighting
+15 Aug 2017 20:30:31 : Botfuzzy77 Living Quarters, general, dragonbro0803#0985, @Botfuzzy77 Do you wanna play URF with me?
+15 Aug 2017 20:30:32 : Botfuzzy77 Living Quarters, general, Botfuzzy77#2209, Be the good girl, you always have to be.
+15 Aug 2017 20:30:32 : Botfuzzy77 Living Quarters, general, Botfuzzy77#2209, Conceal, don't feel, don't let them know...
+15 Aug 2017 20:30:34 : Legacy Craft, general, DJ_Phatzo#8045, A Wizard walks out of the bathroom
+15 Aug 2017 20:30:40 : Botfuzzy77 Living Quarters, general, dragonbro0803#0985, @Botfuzzy77 Well now they knowww
+15 Aug 2017 20:30:41 : Botfuzzy77 Living Quarters, general, Botfuzzy77#2209, Let it go, let it go Can't hold it back anymore.
+15 Aug 2017 20:30:42 : Botfuzzy77 Living Quarters, general, Wertfuzzy77#0274, Let it Go
+15 Aug 2017 20:30:43 : Legacy Craft, general, tigertiger02#4338, erm
+15 Aug 2017 20:30:45 : Legacy Craft, general, DJ Small#8652, lol
+15 Aug 2017 20:30:46 : Legacy Craft, general, DJ_Phatzo#8045, The fuck are you people doing in my house
+15 Aug 2017 20:30:47 : Botfuzzy77 Living Quarters, general, dragonbro0803#0985, .-.
+15 Aug 2017 20:30:51 : Legacy Craft, general, DJ Small#8652, /shrougs
+15 Aug 2017 20:31:01 : Legacy Craft, general, DJ_Phatzo#8045, The bear disappears
+15 Aug 2017 20:31:03 : Botfuzzy77 Living Quarters, general, dragonbro0803#0985, @Botfuzzy77 You don't know what it's like to live in shadow
+15 Aug 2017 20:31:03 : Botfuzzy77 Living Quarters, general, Botfuzzy77#2209, Do I look like a man with a plan?
+15 Aug 2017 20:31:08 : Botfuzzy77 Living Quarters, general, dragonbro0803#0985, :I
+15 Aug 2017 20:31:13 : Legacy Craft, general, tigertiger02#4338, wizard just becareful i like wizards so i would rather not attack ya
+15 Aug 2017 20:31:32 : Legacy Craft, general, DJ_Phatzo#8045, he pulls out his wand and points it at the group of you
+_I'll ask you again, what are you doing, in my house_
+15 Aug 2017 20:31:47 : Legacy Craft, general, DJ Small#8652, *slowly steps backwards out to door*
+15 Aug 2017 20:31:53 : Botfuzzy77 Living Quarters, general, dragonbro0803#0985, @Wertfuzzy77 Duo or nah
+15 Aug 2017 20:32:03 : Legacy Craft, general, tigertiger02#4338, im just gonna grab myself and leave wait my sword can u pass me it?
+15 Aug 2017 20:32:04 : Botfuzzy77 Living Quarters, general, dragonbro0803#0985, just some urf
+15 Aug 2017 20:32:06 : Botfuzzy77 Living Quarters, general, Wertfuzzy77#0274, nah, not rn, but maybe later
+15 Aug 2017 20:32:14 : Botfuzzy77 Living Quarters, general, dragonbro0803#0985, kk
+15 Aug 2017 20:32:18 : Achievement Heaven, ah-general, tigertiger02#4338, bye
+15 Aug 2017 20:32:37 : Legacy Craft, general, tigertiger02#4338, no one gonna pass me my sword ?
+15 Aug 2017 20:32:43 : Legacy Craft, general, DJ_Phatzo#8045, A sword is given to you
+15 Aug 2017 20:32:45 : Legacy Craft, general, DJ_Phatzo#8045, magically
+15 Aug 2017 20:33:01 : Legacy Craft, general, Sleeping Quill#1038, ...
+15 Aug 2017 20:33:23 : Legacy Craft, general, tigertiger02#4338, _staps the wizard with the sword then beheads him then breaks his wand into 10000 pieces and burns them _
+15 Aug 2017 20:33:37 : Legacy Craft, general, tigertiger02#4338, i did warn him
+15 Aug 2017 20:33:37 : Legacy Craft, general, DJ_Phatzo#8045, The wizard casts teleportation _rolls a 19_
+15 Aug 2017 20:33:52 : Legacy Craft, general, tigertiger02#4338, u think u can out run me
+15 Aug 2017 20:33:57 : Legacy Craft, general, tigertiger02#4338, come back u coward
+15 Aug 2017 20:33:59 : Legacy Craft, general, DJ_Phatzo#8045, The wizard attacks _Rolls nat 20_ and turns tiger
+15 Aug 2017 20:34:01 : Legacy Craft, general, DJ_Phatzo#8045, into Chocolate
+15 Aug 2017 20:34:01 : Legacy Craft, general, tigertiger02#4338, fight me
+15 Aug 2017 20:34:05 : Legacy Craft, general, Sleeping Quill#1038, I think I'm the only one here who is actually rolling a 1d 20
+15 Aug 2017 20:34:29 : Legacy Craft, general, tigertiger02#4338, doc yay ik the girls love chocolate
+15 Aug 2017 20:34:39 : Legacy Craft, general, tigertiger02#4338, lol
+15 Aug 2017 20:34:48 : Legacy Craft, memes, DJ Small#8652, 
+15 Aug 2017 20:35:12 : Legacy Craft, general, tigertiger02#4338, _remembers the way of thumbcraft and ars magica _ turns back into a tiger
+15 Aug 2017 20:35:17 : Legacy Craft, general, DJ_Phatzo#8045, @Sleeping Quill  You wake up, and you first see, a wizard, Small, and Tiger, who has just been turned into chocolate
+15 Aug 2017 20:35:35 : Legacy Craft, general, tigertiger02#4338, i turned  myself back
+15 Aug 2017 20:35:39 : Legacy Craft, general, DJ_Phatzo#8045, how?
+15 Aug 2017 20:35:43 : Legacy Craft, general, Sleeping Quill#1038, _walks away_
+15 Aug 2017 20:35:58 : Legacy Craft, general, DJ_Phatzo#8045, The wizard stops you
+
+_What are you doing in my house_
+15 Aug 2017 20:36:08 : Legacy Craft, general, tigertiger02#4338, i did thumbcraft and ars magica which is magic stuff so don;t fuck with me or ur already dead
+15 Aug 2017 20:36:34 : Legacy Craft, general, DJ_Phatzo#8045, Tiger, Will save Vs the wanting to eat yourself
+15 Aug 2017 20:36:40 : Botfuzzy77 Living Quarters, bot-testing_grounds, Wertfuzzy77#0274, ;debug ctx.message.server.default_channel
+15 Aug 2017 20:36:40 : Botfuzzy77 Living Quarters, bot-testing_grounds, Botfuzzy77#2209, ```py
+None
+```
+15 Aug 2017 20:36:43 : Botfuzzy77 Living Quarters, bot-testing_grounds, Wertfuzzy77#0274, ?????????????????
+15 Aug 2017 20:36:53 : Legacy Craft, general, tigertiger02#4338, what
+15 Aug 2017 20:37:16 : Botfuzzy77 Living Quarters, general, Wertfuzzy77#0274, ill play duo now if you want? @dragonbro0803
+15 Aug 2017 20:37:17 : Legacy Craft, general, Sleeping Quill#1038, I just blocked a family member on messenger and I don't feel bad
+15 Aug 2017 20:37:31 : Legacy Craft, general, tigertiger02#4338, i wouldn't either
+15 Aug 2017 20:37:33 : Legacy Craft, general, tigertiger02#4338, lol
+15 Aug 2017 20:37:44 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, ;join
+15 Aug 2017 20:37:45 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, Connected channel!
+15 Aug 2017 20:37:48 : Legacy Craft, general, DJ_Phatzo#8045, @Tiger  before you can turn yourself back, you must roll a will save, to see if you can resist eating yourself
+15 Aug 2017 20:37:50 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, ;search Highway to Hell Original
+15 Aug 2017 20:37:54 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, Added AC/DC - Highway to Hell (Official Video) to the queue
+15 Aug 2017 20:37:54 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, https://www.youtube.com/watch?v=l482T0yNkeo
+15 Aug 2017 20:37:56 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, ;recommend
+15 Aug 2017 20:37:56 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, Recommend Songs to play: True
+15 Aug 2017 20:38:00 : Legacy Craft, general, tigertiger02#4338, erm ok
+15 Aug 2017 20:38:08 : Legacy Craft, general, tigertiger02#4338, _rolls_ like a roller
+15 Aug 2017 20:38:13 : Legacy Craft, general, tigertiger02#4338, lol
+15 Aug 2017 20:38:21 : Legacy Craft, general, DJ_Phatzo#8045, what number did you get
+15 Aug 2017 20:38:29 : Legacy Craft, general, tigertiger02#4338, erm whats the best
+15 Aug 2017 20:38:32 : Legacy Craft, general, tigertiger02#4338, lol
+15 Aug 2017 20:38:37 : Legacy Craft, general, DJ_Phatzo#8045, i'll roll for you
+15 Aug 2017 20:38:39 : Legacy Craft, general, tigertiger02#4338, k
+15 Aug 2017 20:38:43 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, ;relog
+15 Aug 2017 20:38:43 : Botfuzzy77 Living Quarters, bot-commands, Botfuzzy77#2209, Relogging...

@@ -1,0 +1,10 @@
+24 Aug 2016 00:27:02 : PassionMC, botchat, Wertfuzzy77#0274, ;config Set Welcome False
+24 Aug 2016 00:27:28 : LimitlessMc, mainchat, Lucario#0401, ikr who tf cares about mank
+24 Aug 2016 00:27:35 : PassionMC, botchat, Wertfuzzy77#0274, ;debug CONFIG[ctx.message.server.name]
+24 Aug 2016 00:27:36 : PassionMC, botchat, Botfuzzy77#2209, ```py
+KeyError: 'PassionMC'
+```
+24 Aug 2016 00:28:11 : PassionMC, general, Botfuzzy77#2209, **TheLast1Alive**(No Role) is now Online!
+24 Aug 2016 00:28:11 : League Of Legends, general, Botfuzzy77#2209, **TheLast1Alive**(Security) is now Online!
+24 Aug 2016 00:28:24 : PassionMC, botchat, Wertfuzzy77#0274, ;relog
+24 Aug 2016 00:28:24 : PassionMC, botchat, Botfuzzy77#2209, Relogging...

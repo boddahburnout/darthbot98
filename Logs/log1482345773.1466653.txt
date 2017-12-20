@@ -1,0 +1,410 @@
+21 Dec 2016 18:43:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;leave
+21 Dec 2016 18:43:14 : LimitlessMc, botchat, Wertfuzzy77#0274, ;jon
+21 Dec 2016 18:43:16 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+21 Dec 2016 18:43:17 : LimitlessMc, botchat, Botfuzzy77#2209, You are not connected to a voice channel!
+21 Dec 2016 18:43:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+21 Dec 2016 18:43:23 : LimitlessMc, mainchat, Botfuzzy77#2209, Welcome @ButteryButts1 to LimitlessMc!
+21 Dec 2016 18:43:27 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search I am the Doctor
+21 Dec 2016 18:43:49 : LimitlessMc, mainchat, Wertfuzzy77#0274, Hola
+21 Dec 2016 18:43:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search I am the Doctor
+21 Dec 2016 18:43:57 : LimitlessMc, botchat, Botfuzzy77#2209, Added Doctor Who - 11th Doctor Theme "I am the Doctor!" to the queue
+21 Dec 2016 18:43:57 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=9kSf8w28Fs4
+21 Dec 2016 18:43:58 : LimitlessMc, botchat, Botfuzzy77#2209, Added Doctor Who - 11th Doctor Theme "I am the Doctor!" to the queue
+21 Dec 2016 18:43:58 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=9kSf8w28Fs4
+21 Dec 2016 18:44:01 : LimitlessMc, mainchat, JenGrl#2637, hi hi
+21 Dec 2016 18:44:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+21 Dec 2016 18:44:13 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+21 Dec 2016 18:44:13 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Doctor Who - 11th Doctor Theme "I am the Doctor!" **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=9kSf8w28Fs4>
+Total Time is 0:05:54
+21 Dec 2016 18:44:23 : LimitlessMc, mainchat, ButteryButts1#3972, yoooo yooo
+21 Dec 2016 18:44:31 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio
+21 Dec 2016 18:44:31 : LimitlessMc, botchat, Botfuzzy77#2209, Radio Mode: True
+21 Dec 2016 18:45:42 : LimitlessMc, botchat, AlphaBit#3869, ;server
+21 Dec 2016 18:45:43 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+21 Dec 2016 18:45:43 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 28 players out of 100
+ *Ping*: 137.095 ms
+ *MC Version*: 1.10.2
+21 Dec 2016 18:45:43 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.0-beta12
+21 Dec 2016 18:45:43 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *Bakafish, ruleroftri, iamtrenton5151, ShuckDuckmc, SillyDillyPickle, jjtwilefc, LolopFace, EnderHippy, ls_sparkle, Sir_Blazer, JOBarc, Aidan_R_McK...*
+21 Dec 2016 18:45:44 : LimitlessMc, botchat, AlphaBit#3869, o
+21 Dec 2016 18:45:46 : LimitlessMc, botchat, AlphaBit#3869, nvm
+21 Dec 2016 18:45:47 : LimitlessMc, botchat, AlphaBit#3869, fixed
+21 Dec 2016 18:45:48 : LimitlessMc, botchat, AlphaBit#3869, le
+21 Dec 2016 18:45:49 : LimitlessMc, botchat, Wertfuzzy77#0274, @ButteryButts1 you are welcome to add songs if you want
+21 Dec 2016 18:46:02 : LimitlessMc, botchat, ButteryButts1#3972, ty ty
+21 Dec 2016 18:46:12 : LimitlessMc, botchat, ButteryButts1#3972, how do i do thta xD
+21 Dec 2016 18:48:08 : LimitlessMc, botchat, Wertfuzzy77#0274, ;help MusicPlayer
+21 Dec 2016 18:48:08 : LimitlessMc, botchat, Botfuzzy77#2209, ```
+Commands:
+  leave          Leaves the Join chat
+  desc           Decription of the Current playing song
+  music          Returns the current status of the Music Bot
+  remove         removes a song from a queue by index
+  loop           Plays the current song again
+  extendplaylist Extends a custom playlist
+  clear          Clears the Queue
+  songs          Prints the songs in the queue
+  viewplaylist   Views the songs of a playlists
+  shuffle        Shuffles the songs in the Queue
+  skip           Skips the Current song
+  makeplaylist   Makes a custom playlist for the bot to save
+  playlists      Shows all the current playlists
+  search         Searches for a song
+  youtube        Adds a Song for the Bot to Play
+  join           Joins the Voice channel you are currently in
+  Radio          Toggles Radio Mode
+  song           Returns information about the current playing song
+  playlist       Adds songs from a predefined playlist to the songs list
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+21 Dec 2016 18:48:14 : LimitlessMc, botchat, Wertfuzzy77#0274, ;help youtube
+21 Dec 2016 18:48:14 : LimitlessMc, botchat, Botfuzzy77#2209, ```
+;youtube [links...]
+
+Adds a Song for the Bot to Play
+
+```
+21 Dec 2016 18:48:18 : LimitlessMc, botchat, Wertfuzzy77#0274, ;help search
+21 Dec 2016 18:48:18 : LimitlessMc, botchat, Botfuzzy77#2209, ```
+;search [Pinput...]
+
+Searches for a song
+
+```
+21 Dec 2016 19:21:36 : LimitlessMc, botchat, Wertfuzzy77#0274, ;playlist Shelter
+21 Dec 2016 19:21:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+21 Dec 2016 19:21:38 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: This Is Gallifrey / Vale Decem / Infinite Potential
+**Requester**: Radio
+**URL**: <https://www.youtube.com/watch?v=R51-bzjfqn8>
+```py
+Time: 0:08:32
+Views: 457,029
+Likes: 3,575, 99.14%
+Dislikes: 31, 0.86%```
+21 Dec 2016 19:21:41 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+21 Dec 2016 19:21:41 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+21 Dec 2016 19:21:42 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Doctor Who | The Lonely God **Radio**
+	<https://www.youtube.com/watch?v=wXrqtC81ztA>
+Total Time is 0:04:13
+21 Dec 2016 19:21:44 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 1
+21 Dec 2016 19:21:44 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: Doctor Who | The Lonely God
+21 Dec 2016 19:22:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=HQnC1UHBvWA https://www.youtube.com/watch?v=5dsJdlCB4j8 https://www.youtube.com/watch?v=uNze7yakEfE https://www.youtube.com/watch?v=s6yOFbMFyoM https://www.youtube.com/watch?v=hsALwczlNRk https://www.youtube.com/watch?v=vK5RWzXxG0E https://www.youtube.com/watch?v=Ts8YP6hhELU
+21 Dec 2016 19:22:24 : LimitlessMc, botchat, Botfuzzy77#2209, Added Porter Robinson & Madeon - Shelter (Official Audio) to the queue
+21 Dec 2016 19:22:25 : LimitlessMc, botchat, Botfuzzy77#2209, Added Porter Robinson & Madeon - Shelter (Feels orchestral version) to the queue
+21 Dec 2016 19:22:26 : LimitlessMc, botchat, Botfuzzy77#2209, Added Shelter - Porter Robinson and Madeon (piano) to the queue
+21 Dec 2016 19:22:27 : LimitlessMc, botchat, Botfuzzy77#2209, Added Porter Robinson & Madeon - Shelter (Pure 100% Remix) to the queue
+21 Dec 2016 19:22:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 1
+21 Dec 2016 19:22:28 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: Doctor Who - Doomsday Theme
+21 Dec 2016 19:22:31 : LimitlessMc, botchat, Botfuzzy77#2209, Added Porter Robinson & Madeon - Shelter to the queue
+21 Dec 2016 19:23:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=NtOJw5DUrKw
+21 Dec 2016 19:23:11 : LimitlessMc, botchat, Botfuzzy77#2209, Added Shelter - Porter Robinson & Madeon [Fingerstyle Guitar Cover by Eddie van der Meer] to the queue
+21 Dec 2016 19:23:14 : LimitlessMc, botchat, Wertfuzzy77#0274, ;shuffle
+21 Dec 2016 19:23:14 : LimitlessMc, botchat, Botfuzzy77#2209, Shuffling songs...
+21 Dec 2016 19:24:33 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+21 Dec 2016 19:24:34 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+21 Dec 2016 19:24:46 : LimitlessMc, botchat, ChesireKat#7022, sounds good
+21 Dec 2016 19:25:39 : LimitlessMc, botchat, NarcoticMile#6198, lol
+21 Dec 2016 19:25:46 : LimitlessMc, botchat, NarcoticMile#6198, here we go agian XD oh well
+21 Dec 2016 19:26:06 : LimitlessMc, botchat, Wertfuzzy77#0274, shhh
+21 Dec 2016 19:26:25 : LimitlessMc, botchat, NarcoticMile#6198, SHHHHHHHHHHHHHHHHHHHHHHHHHHHh
+21 Dec 2016 19:26:42 : LimitlessMc, botchat, Third_Worm#4804, pft
+21 Dec 2016 19:27:58 : LimitlessMc, botchat, Wertfuzzy77#0274, ^
+21 Dec 2016 19:27:58 : LimitlessMc, botchat, Botfuzzy77#2209, ^
+21 Dec 2016 19:28:15 : LimitlessMc, botchat, NarcoticMile#6198, 6
+21 Dec 2016 19:28:17 : LimitlessMc, botchat, NarcoticMile#6198, ^
+21 Dec 2016 19:28:17 : LimitlessMc, botchat, Botfuzzy77#2209, ^
+21 Dec 2016 19:28:19 : LimitlessMc, botchat, NarcoticMile#6198, ^
+21 Dec 2016 19:28:19 : LimitlessMc, botchat, Botfuzzy77#2209, ^
+21 Dec 2016 19:28:20 : LimitlessMc, botchat, NarcoticMile#6198, ^
+21 Dec 2016 19:28:20 : LimitlessMc, botchat, Botfuzzy77#2209, ^
+21 Dec 2016 19:28:20 : LimitlessMc, botchat, NarcoticMile#6198, ^
+21 Dec 2016 19:28:20 : LimitlessMc, botchat, Botfuzzy77#2209, ^
+21 Dec 2016 19:30:15 : LimitlessMc, botchat, ChesireKat#7022, ^
+21 Dec 2016 19:30:15 : LimitlessMc, botchat, Botfuzzy77#2209, ^
+21 Dec 2016 19:30:27 : LimitlessMc, botchat, ChesireKat#7022, :3
+21 Dec 2016 19:31:10 : LimitlessMc, botchat, Third_Worm#4804, guys pls
+21 Dec 2016 19:34:17 : LimitlessMc, botchat, NarcoticMile#6198, lel
+21 Dec 2016 19:34:40 : LimitlessMc, botchat, Wertfuzzy77#0274, sounds like a dubbed anime <.<
+21 Dec 2016 19:34:42 : LimitlessMc, botchat, Wertfuzzy77#0274, no me gusta
+21 Dec 2016 19:34:43 : LimitlessMc, botchat, NarcoticMile#6198, yeah
+21 Dec 2016 19:34:43 : LimitlessMc, botchat, ChesireKat#7022, >.< i hate cap lock
+21 Dec 2016 19:34:46 : LimitlessMc, botchat, ChesireKat#7022, so much
+21 Dec 2016 19:34:49 : LimitlessMc, botchat, NarcoticMile#6198, CAPSLOC?
+21 Dec 2016 19:34:56 : LimitlessMc, botchat, ChesireKat#7022, didnt know it was on
+21 Dec 2016 19:35:01 : LimitlessMc, botchat, ChesireKat#7022, did the most caps
+21 Dec 2016 19:35:02 : LimitlessMc, botchat, Wertfuzzy77#0274, WUT IS CAPS LOCK
+21 Dec 2016 19:35:04 : LimitlessMc, botchat, ChesireKat#7022, ;-;
+21 Dec 2016 19:35:06 : LimitlessMc, botchat, ChesireKat#7022, lol
+21 Dec 2016 19:35:11 : LimitlessMc, botchat, Wertfuzzy77#0274, SOMEONE EXPLAIN THIS TO ME
+21 Dec 2016 19:35:13 : LimitlessMc, botchat, AlphaBit#3869, KAPPAS
+21 Dec 2016 19:35:21 : LimitlessMc, botchat, NarcoticMile#6198, oh god ts a girl singing the song
+21 Dec 2016 19:35:25 : LimitlessMc, botchat, Wertfuzzy77#0274, HEP, LOL XD RAWR
+21 Dec 2016 19:35:26 : LimitlessMc, botchat, NarcoticMile#6198, make sit wierd
+21 Dec 2016 19:35:32 : LimitlessMc, botchat, ChesireKat#7022, O.o
+21 Dec 2016 19:35:37 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+21 Dec 2016 19:35:42 : LimitlessMc, botchat, AlphaBit#3869, <:trumpW:218422127387213824> CAPSING INTENSIFIES <:trumpW:218422127387213824>
+21 Dec 2016 19:35:46 : LimitlessMc, botchat, NarcoticMile#6198, lol
+21 Dec 2016 19:35:47 : LimitlessMc, botchat, ChesireKat#7022, lol
+21 Dec 2016 19:35:47 : Pulse, mainchat, Lightning#6734, LEGO'S
+21 Dec 2016 19:36:16 : LimitlessMc, botchat, AlphaBit#3869, <:FeelsRageMan:218422131992559616> reeeeEEEEEEEEEEE
+21 Dec 2016 19:37:07 : LimitlessMc, botchat, NarcoticMile#6198, ReeEEEEREEEEEE
+21 Dec 2016 19:39:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ev Celebi
+21 Dec 2016 19:39:44 : LimitlessMc, botchat, Botfuzzy77#2209, **Celebi**
+```py
+speed 0
+special-defense 0
+special-attack 0
+defense 0
+attack 0
+hp 3```
+21 Dec 2016 19:40:21 : The Wild Weebs, general, enragednuke#2565, @Tally 95 on the final, Krey fucking gasm
+21 Dec 2016 19:40:34 : The Wild Weebs, general, Tally#2764, bio?
+21 Dec 2016 19:40:38 : The Wild Weebs, general, Tally#2764, specify man
+21 Dec 2016 19:41:27 : Pulse, mainchat, Third_Worm#4804, pft
+21 Dec 2016 19:42:52 : Pulse, mainchat, ChesireKat#7022, O.o
+21 Dec 2016 19:43:33 : Pulse, mainchat, Third_Worm#4804, pft
+21 Dec 2016 19:43:56 : Pulse, mainchat, ChesireKat#7022, ?
+21 Dec 2016 19:44:09 : Pulse, mainchat, NarcoticMile#6198, idk either
+21 Dec 2016 19:44:14 : Pulse, mainchat, ChesireKat#7022, lol
+21 Dec 2016 19:44:15 : The Wild Weebs, general, enragednuke#2565, yes
+21 Dec 2016 19:44:23 : The Wild Weebs, general, enragednuke#2565, the only one with grades out now
+21 Dec 2016 19:44:48 : Pulse, mainchat, NarcoticMile#6198, reeeeeee
+21 Dec 2016 19:44:59 : Pulse, mainchat, ChesireKat#7022, -.-
+21 Dec 2016 19:45:31 : Pulse, mainchat, NarcoticMile#6198, lol ok ok
+21 Dec 2016 19:45:40 : Pulse, mainchat, Lightning#6734, REEEEEEeeeee
+21 Dec 2016 19:45:43 : Pulse, mainchat, ChesireKat#7022, -.-
+21 Dec 2016 19:46:32 : Pulse, mainchat, Lightning#6734, playin some of that league of leeeroys
+21 Dec 2016 19:46:41 : Pulse, mainchat, ChesireKat#7022, o.O
+21 Dec 2016 19:46:46 : Pulse, mainchat, NarcoticMile#6198, noice
+21 Dec 2016 19:47:05 : Pulse, mainchat, Lightning#6734, #LEEEeerrooyyy #Jeennnkinnnns
+21 Dec 2016 19:47:37 : Pulse, mainchat, Lightning#6734, <:goValor:222644214918283264>
+21 Dec 2016 19:47:37 : Pulse, mainchat, ChesireKat#7022, Oh i broke a server rule today O.o feels 2spooky
+21 Dec 2016 19:47:38 : Pulse, mainchat, NarcoticMile#6198, #REEEEEEEEloyyyyyy
+21 Dec 2016 19:47:47 : Pulse, mainchat, Lightning#6734, what'd u do kat?
+21 Dec 2016 19:48:13 : Pulse, mainchat, ChesireKat#7022, DIDNT KNOW CAP LOCK WAS BEING SPOOKY AND KINDA YELLED AT WERT
+21 Dec 2016 19:48:17 : Pulse, mainchat, Lightning#6734, o-o
+21 Dec 2016 19:48:36 : Pulse, mainchat, ChesireKat#7022, then like right after was like O.o feels bad
+21 Dec 2016 19:48:38 : Pulse, mainchat, ChesireKat#7022, rip
+21 Dec 2016 19:48:41 : Pulse, mainchat, NarcoticMile#6198, lol
+21 Dec 2016 19:48:50 : Pulse, mainchat, ChesireKat#7022, then got kicked for reason rip
+21 Dec 2016 19:49:41 : Pulse, mainchat, Third_Worm#4804, caps lock is pain
+21 Dec 2016 19:49:55 : Pulse, mainchat, ChesireKat#7022, caps lock is hell spawn for sure
+21 Dec 2016 19:50:08 : Pulse, mainchat, Lightning#6734, lol
+21 Dec 2016 19:50:15 : Pulse, mainchat, Third_Worm#4804, hey legend
+21 Dec 2016 19:50:18 : Pulse, mainchat, Lightning#6734, hey sam
+21 Dec 2016 19:50:28 : Pulse, mainchat, ChesireKat#7022, i mean we haz a  shift key
+21 Dec 2016 19:50:40 : Pulse, mainchat, ChesireKat#7022, maybe we dont need caps lock?
+21 Dec 2016 19:50:44 : Pulse, mainchat, Lightning#6734, lul
+21 Dec 2016 19:50:51 : Pulse, mainchat, Third_Worm#4804, oh god delete that please
+21 Dec 2016 19:50:56 : Pulse, mainchat, Lightning#6734, i need to find some weeb to be an heir with me
+21 Dec 2016 19:51:00 : Pulse, mainchat, ChesireKat#7022, i gotvhu
+21 Dec 2016 19:51:02 : Pulse, mainchat, Lightning#6734, for* not with
+21 Dec 2016 19:51:17 : Pulse, mainchat, Lightning#6734, someone who understands the power of steel
+21 Dec 2016 19:51:19 : Pulse, mainchat, NarcoticMile#6198, hier?
+21 Dec 2016 19:51:33 : Pulse, mainchat, Lightning#6734, no
+21 Dec 2016 19:51:42 : Pulse, mainchat, Lightning#6734, Heir as in heir to my throne foool
+21 Dec 2016 19:52:01 : Pulse, mainchat, NarcoticMile#6198, oh
+21 Dec 2016 19:52:16 : Pulse, mainchat, Wertfuzzy77#0274, https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/614.png
+21 Dec 2016 19:52:18 : Pulse, mainchat, Wertfuzzy77#0274, ayy
+21 Dec 2016 19:52:18 : Pulse, mainchat, Botfuzzy77#2209, Lmao
+21 Dec 2016 19:52:19 : Pulse, mainchat, Wertfuzzy77#0274, it worked
+21 Dec 2016 19:52:21 : Pulse, mainchat, Wertfuzzy77#0274, fancy
+21 Dec 2016 19:52:27 : Pulse, mainchat, Lightning#6734, so wert
+21 Dec 2016 19:52:33 : Pulse, mainchat, Wertfuzzy77#0274, ya?
+21 Dec 2016 19:52:41 : Pulse, mainchat, Lightning#6734, think the pixelmon team would go for my idea?
+21 Dec 2016 19:52:46 : Pulse, mainchat, Wertfuzzy77#0274, what idea?
+21 Dec 2016 19:52:58 : Pulse, mainchat, Lightning#6734, i've got a few shadow pokemon coded and animated
+21 Dec 2016 19:53:07 : Pulse, mainchat, Wertfuzzy77#0274, yes please
+21 Dec 2016 19:53:08 : Pulse, mainchat, Lightning#6734, MAYBE
+21 Dec 2016 19:53:09 : Pulse, mainchat, Third_Worm#4804, *yes*
+21 Dec 2016 19:53:17 : Pulse, mainchat, NarcoticMile#6198, let us see
+21 Dec 2016 19:53:20 : Pulse, mainchat, Lightning#6734, we can have it set up like shinies?
+21 Dec 2016 19:53:25 : Pulse, mainchat, ChesireKat#7022, plz
+21 Dec 2016 19:53:27 : Pulse, mainchat, ChesireKat#7022, ^
+21 Dec 2016 19:53:27 : Pulse, mainchat, Botfuzzy77#2209, ^
+21 Dec 2016 19:53:32 : Pulse, mainchat, Wertfuzzy77#0274, There should be a Shadowify Process
+21 Dec 2016 19:53:33 : Pulse, mainchat, Third_Worm#4804, *crahduaght already posted*
+21 Dec 2016 19:53:40 : Pulse, mainchat, Third_Worm#4804, looks good
+21 Dec 2016 19:53:42 : Pulse, mainchat, Lightning#6734, oh?
+21 Dec 2016 19:53:53 : Pulse, mainchat, Lightning#6734, like /makeshadow toggle?
+21 Dec 2016 19:53:55 : Pulse, mainchat, Third_Worm#4804, nice idea wert
+21 Dec 2016 19:53:58 : Pulse, mainchat, ChesireKat#7022, lol
+21 Dec 2016 19:54:21 : Pulse, mainchat, Wertfuzzy77#0274, Well, in the original games, they were regular pokemon that were essentialy experimented on
+21 Dec 2016 19:54:26 : Pulse, mainchat, Lightning#6734, yea
+21 Dec 2016 19:54:31 : Pulse, mainchat, Wertfuzzy77#0274, Hearts locked away and all that
+21 Dec 2016 19:54:41 : Pulse, mainchat, Lightning#6734, yeah maybe i can fiddle with that
+21 Dec 2016 19:54:43 : Pulse, mainchat, Wertfuzzy77#0274, So maybe if Happiness == 0
+21 Dec 2016 19:54:54 : Pulse, mainchat, Wertfuzzy77#0274, you can give em an item to make em shadow
+21 Dec 2016 19:54:54 : Pulse, mainchat, Lightning#6734, or have a way to reduce happiness
+21 Dec 2016 19:55:07 : Pulse, mainchat, Lightning#6734, then have an item that turns them shadow
+21 Dec 2016 19:55:11 : Pulse, mainchat, Wertfuzzy77#0274, ^
+21 Dec 2016 19:55:11 : Pulse, mainchat, Botfuzzy77#2209, ^
+21 Dec 2016 19:55:12 : Pulse, mainchat, Lightning#6734, hmm :L
+21 Dec 2016 19:55:33 : Pulse, mainchat, Lightning#6734, only other dev that knows about this idea is jay
+21 Dec 2016 19:55:38 : Pulse, mainchat, NarcoticMile#6198, hmmm
+21 Dec 2016 19:55:39 : Pulse, mainchat, Wertfuzzy77#0274, I've never messed with MC mods, so i have no idea how do-able that is
+21 Dec 2016 19:55:48 : Pulse, mainchat, Lightning#6734, very doable
+21 Dec 2016 19:56:02 : Pulse, mainchat, Lightning#6734, will take extreme patience and time though
+21 Dec 2016 19:56:05 : Pulse, mainchat, Wertfuzzy77#0274, xD
+21 Dec 2016 19:56:10 : Pulse, mainchat, Wertfuzzy77#0274, I believe
+21 Dec 2016 19:56:13 : Pulse, mainchat, Lightning#6734, uk how to work java?
+21 Dec 2016 19:56:32 : Pulse, mainchat, Lightning#6734, everything mc is coded in java xD
+21 Dec 2016 19:56:47 : Pulse, mainchat, Third_Worm#4804, i know how
+21 Dec 2016 19:56:54 : Pulse, mainchat, Third_Worm#4804, like a little lol
+21 Dec 2016 19:57:02 : Pulse, mainchat, Lightning#6734, deleting msgs's serves no purpose
+21 Dec 2016 19:57:03 : Pulse, mainchat, Wertfuzzy77#0274, I know quiet alot of java
+21 Dec 2016 19:57:06 : Pulse, mainchat, Wertfuzzy77#0274, ^
+21 Dec 2016 19:57:06 : Pulse, mainchat, Botfuzzy77#2209, ^
+21 Dec 2016 19:57:12 : Pulse, mainchat, Lightning#6734, we have them all lul
+21 Dec 2016 19:57:14 : Pulse, mainchat, Wertfuzzy77#0274, ^
+21 Dec 2016 19:57:15 : Pulse, mainchat, Botfuzzy77#2209, ^
+21 Dec 2016 19:57:20 : Pulse, mainchat, Third_Worm#4804, i know legend, but my dad will never know
+21 Dec 2016 19:57:21 : Pulse, mainchat, Wertfuzzy77#0274, Well, i do, your bot is down
+21 Dec 2016 19:57:31 : Pulse, mainchat, Lightning#6734, yeah using a diff pc since at dads
+21 Dec 2016 19:57:56 : Pulse, mainchat, Wertfuzzy77#0274, Also, we may or may not have mentioned your dad after a few interesting messages @Only_Worm
+21 Dec 2016 19:57:59 : Pulse, mainchat, Third_Worm#4804, how so?
+21 Dec 2016 19:58:00 : Pulse, mainchat, Wertfuzzy77#0274, like
+21 Dec 2016 19:58:06 : Pulse, mainchat, Wertfuzzy77#0274, ;image Doodlebob
+21 Dec 2016 19:58:08 : Pulse, mainchat, Botfuzzy77#2209, https://i.ytimg.com/vi/QX1Ysh-aK8A/maxresdefault.jpg
+21 Dec 2016 19:58:11 : Pulse, mainchat, Third_Worm#4804, i cri
+21 Dec 2016 19:58:15 : Pulse, mainchat, Wertfuzzy77#0274, xD
+21 Dec 2016 19:58:16 : Pulse, mainchat, Third_Worm#4804, like literally
+21 Dec 2016 19:58:17 : Pulse, mainchat, Lightning#6734, ;image i cri
+21 Dec 2016 19:58:19 : Pulse, mainchat, Botfuzzy77#2209, https://pbs.twimg.com/media/BEievoFCIAE7ajF.jpg
+21 Dec 2016 19:58:43 : Pulse, mainchat, Lightning#6734, ;image Malthael
+21 Dec 2016 19:58:45 : Pulse, mainchat, Botfuzzy77#2209, http://img05.deviantart.net/0ee9/i/2013/256/2/9/malthael___reaper_of_souls___crop_by_norsechowder-d6m5giy.jpg
+21 Dec 2016 19:58:57 : Pulse, mainchat, Lightning#6734, mmmm dat diablo 3
+21 Dec 2016 19:58:59 : Pulse, mainchat, Wertfuzzy77#0274, ;image Big scary angel dude
+21 Dec 2016 19:59:00 : Pulse, mainchat, Botfuzzy77#2209, https://s-media-cache-ak0.pinimg.com/564x/2e/39/8a/2e398a0dc84fe483c6d1ba9d4813f758.jpg
+21 Dec 2016 19:59:04 : Pulse, mainchat, Lightning#6734, Wut
+21 Dec 2016 19:59:05 : Pulse, mainchat, ChesireKat#7022, ;image doodlebob
+21 Dec 2016 19:59:06 : Pulse, mainchat, Wertfuzzy77#0274, wut
+21 Dec 2016 19:59:06 : Pulse, mainchat, Botfuzzy77#2209, https://i.ytimg.com/vi/QX1Ysh-aK8A/maxresdefault.jpg
+21 Dec 2016 19:59:09 : Pulse, mainchat, ChesireKat#7022, :3
+21 Dec 2016 19:59:17 : Pulse, mainchat, Wertfuzzy77#0274, ;gif Doctor Who What
+21 Dec 2016 19:59:17 : Pulse, mainchat, Botfuzzy77#2209, https://sistergeeks.files.wordpress.com/2015/08/clara_what.gif
+21 Dec 2016 19:59:25 : Pulse, mainchat, ChesireKat#7022, look at that sexy bod doodlebob has
+21 Dec 2016 19:59:34 : Pulse, mainchat, ChesireKat#7022, i mean pretty nice huh?
+21 Dec 2016 19:59:36 : Pulse, mainchat, Lightning#6734, ;image oerba dia vanile
+21 Dec 2016 19:59:38 : Pulse, mainchat, Botfuzzy77#2209, http://orig12.deviantart.net/ad69/f/2015/104/5/8/vanile_by_leviashiva-d8pp2w0.jpg
+21 Dec 2016 19:59:59 : Pulse, mainchat, ChesireKat#7022, wtf is wrong with here proportions
+21 Dec 2016 20:00:09 : Pulse, mainchat, Lightning#6734, is deviant art
+21 Dec 2016 20:00:11 : Pulse, mainchat, Lightning#6734, lul
+21 Dec 2016 20:00:12 : Pulse, mainchat, ChesireKat#7022, i think her hair and head are differnt creatures
+21 Dec 2016 20:00:15 : Pulse, mainchat, ChesireKat#7022, O.o
+21 Dec 2016 20:00:21 : Pulse, mainchat, Lightning#6734, ;image Vanille FF13
+21 Dec 2016 20:00:22 : Pulse, mainchat, Botfuzzy77#2209, http://collegiateattire.com/wp-content/uploads/2016/06/ff13-vanille-vanille.jpg
+21 Dec 2016 20:00:26 : Pulse, mainchat, Wertfuzzy77#0274, rip
+21 Dec 2016 20:00:28 : Pulse, mainchat, Lightning#6734, -.-
+21 Dec 2016 20:00:29 : Pulse, mainchat, ChesireKat#7022, lol
+21 Dec 2016 20:00:46 : Pulse, mainchat, Lightning#6734, why does claire work but vanille doesn't?
+21 Dec 2016 20:00:50 : Pulse, mainchat, ChesireKat#7022, anyone else spooked by tuxs profile pic?
+21 Dec 2016 20:01:00 : Pulse, mainchat, Lightning#6734, w8
+21 Dec 2016 20:01:05 : Pulse, mainchat, Lightning#6734, ;image Fang FF13
+21 Dec 2016 20:01:07 : Pulse, mainchat, Botfuzzy77#2209, http://collegiateattire.com/wp-content/uploads/2016/06/ff13-fang-fang-01-by-candycanecroft-d4pl479.jpg
+21 Dec 2016 20:01:15 : Pulse, mainchat, Lightning#6734, BOT can you not?
+21 Dec 2016 20:01:15 : Pulse, mainchat, ChesireKat#7022, i cri
+21 Dec 2016 20:01:28 : Pulse, mainchat, Lightning#6734, ;image one winged angel
+21 Dec 2016 20:01:30 : Pulse, mainchat, Botfuzzy77#2209, http://orig13.deviantart.net/bebc/f/2013/191/f/3/one_winged_angel_by_naketomy-d6ctg3w.jpg
+21 Dec 2016 20:01:42 : Pulse, mainchat, Lightning#6734, ma boi right ther
+21 Dec 2016 20:01:45 : Pulse, mainchat, Lightning#6734, on the left
+21 Dec 2016 20:01:57 : Pulse, mainchat, ChesireKat#7022, lol
+21 Dec 2016 20:01:59 : Pulse, mainchat, Lightning#6734, ooo
+21 Dec 2016 20:02:06 : Pulse, mainchat, Lightning#6734, ;image byakuya kuchiki
+21 Dec 2016 20:02:07 : Pulse, mainchat, Botfuzzy77#2209, http://wallpapercave.com/wp/bENLNey.jpg
+21 Dec 2016 20:02:15 : Pulse, mainchat, Lightning#6734, ^ went as him for cosplay con
+21 Dec 2016 20:02:54 : Pulse, mainchat, Lightning#6734, ;gif leeroy jenkins
+21 Dec 2016 20:02:55 : Pulse, mainchat, Botfuzzy77#2209, http://pa1.narvii.com/6039/364fe45663d52229a1bbbfd93dff4b7f9ca17f43_hq.gif
+21 Dec 2016 20:03:26 : Pulse, mainchat, NarcoticMile#6198, https://www.youtube.com/watch?v=l8wMVmY7Zpw
+21 Dec 2016 20:03:28 : Pulse, mainchat, ChesireKat#7022, lol
+21 Dec 2016 20:03:47 : Pulse, mainchat, Lightning#6734, it gave me a hearthstone gif lol wut hek
+21 Dec 2016 20:04:12 : Pulse, mainchat, ChesireKat#7022, @Sebastian  this is the best lol
+21 Dec 2016 20:04:22 : Pulse, mainchat, Wertfuzzy77#0274, ;gif Leeroy Jenkins WoW
+21 Dec 2016 20:04:23 : Pulse, mainchat, Botfuzzy77#2209, http://stream1.gifsoup.com/view2/1617167/leeroy-jenkins-o.gif
+21 Dec 2016 20:04:29 : Pulse, mainchat, NarcoticMile#6198, https://www.youtube.com/watch?v=l8wMVmY7Zpw
+21 Dec 2016 20:05:29 : Pulse, mainchat, NarcoticMile#6198, https://www.youtube.com/watch?v=Y-dMSstLDqM+
+21 Dec 2016 20:05:38 : Pulse, mainchat, AlphaBit#3869, o ya @Lightning i claimed ur market le
+21 Dec 2016 20:05:43 : Pulse, mainchat, Lightning#6734, okei
+21 Dec 2016 20:06:16 : Pulse, mainchat, Lightning#6734, i made the most profit i think with like 22k
+21 Dec 2016 20:06:16 : Pulse, mainchat, AlphaBit#3869, df
+21 Dec 2016 20:06:16 : Pulse, mainchat, AlphaBit#3869, what u sell
+21 Dec 2016 20:06:19 : Pulse, mainchat, Lightning#6734, the beacons i had dawnstone armour tstone armour few mballs and legends
+21 Dec 2016 20:06:46 : Pulse, botchat, AlphaBit#3869, ;afk slep
+21 Dec 2016 20:06:46 : Pulse, mainchat, NarcoticMile#6198, https://www.youtube.com/watch?v=b8HO6hba9ZE
+21 Dec 2016 20:06:46 : Pulse, botchat, Botfuzzy77#2209, AlphaBit is now AFK for reason:
+**slep**
+21 Dec 2016 20:06:56 : Pulse, mainchat, Wertfuzzy77#0274, ;song
+21 Dec 2016 20:06:56 : Pulse, mainchat, Botfuzzy77#2209, **Name**: 2016 Medley - Eddie van der Meer [Fingerstyle Guitar]
+**Requester**: Radio
+**URL**: <https://www.youtube.com/watch?v=G_F4iG5_l0s>
+```py
+Time: 0:09:27
+Views: 74,341
+Likes: 5,272, 99.79%
+Dislikes: 11, 0.21%```
+21 Dec 2016 20:06:57 : Pulse, mainchat, Lightning#6734, ya boi got darius back
+21 Dec 2016 20:07:06 : Pulse, mainchat, ChesireKat#7022, why is mai shop still a thing?
+21 Dec 2016 20:07:13 : Pulse, mainchat, AlphaBit#3869, yasuo getting reworked
+21 Dec 2016 20:07:14 : Pulse, mainchat, AlphaBit#3869, ass
+21 Dec 2016 20:07:23 : Pulse, mainchat, Lightning#6734, i don't like yas to much
+21 Dec 2016 20:07:26 : Pulse, mainchat, AlphaBit#3869, fun
+21 Dec 2016 20:07:28 : Pulse, mainchat, AlphaBit#3869, if you play
+21 Dec 2016 20:07:30 : Pulse, mainchat, Wertfuzzy77#0274, no one likes yas
+21 Dec 2016 20:07:31 : Pulse, mainchat, AlphaBit#3869, not fun
+21 Dec 2016 20:07:31 : Pulse, mainchat, Lightning#6734, they ruined ashe
+21 Dec 2016 20:07:37 : Pulse, mainchat, AlphaBit#3869, if you play against
+21 Dec 2016 20:07:58 : Pulse, mainchat, Lightning#6734, not fun if you play against blitzcrank
+21 Dec 2016 20:08:05 : Pulse, mainchat, AlphaBit#3869, just chain cc and focus. thats my anti-yasuo strat :I
+21 Dec 2016 20:08:11 : Pulse, mainchat, Lightning#6734, grapple usin shithead D:
+21 Dec 2016 20:08:28 : Pulse, mainchat, Lightning#6734, stopped my legendary killstreak twice...
+21 Dec 2016 20:08:39 : Pulse, mainchat, AlphaBit#3869, off 2 slep
+21 Dec 2016 20:08:42 : Pulse, mainchat, AlphaBit#3869, @im ded inside
+21 Dec 2016 20:08:42 : Pulse, mainchat, Botfuzzy77#2209, AlphaBit is afk for reason:
+**slep**
+21 Dec 2016 20:08:49 : Pulse, mainchat, Lightning#6734, okei night
+21 Dec 2016 20:08:54 : Pulse, mainchat, Third_Worm#4804, night
+21 Dec 2016 20:08:55 : Pulse, mainchat, Lightning#6734, or afternoon idk
+21 Dec 2016 20:09:07 : Pulse, mainchat, AlphaBit#3869, morning
+21 Dec 2016 20:09:08 : Pulse, mainchat, AlphaBit#3869, le
+21 Dec 2016 20:09:25 : Pulse, mainchat, Lightning#6734, les go murdr sum skrubs ;D
+21 Dec 2016 20:09:42 : Pulse, mainchat, Third_Worm#4804, have fun
+21 Dec 2016 20:09:45 : Pulse, mainchat, Lightning#6734, o i will
+21 Dec 2016 20:09:49 : Pulse, mainchat, Lightning#6734, i always will
+21 Dec 2016 20:09:55 : Pulse, mainchat, Third_Worm#4804, le
+21 Dec 2016 20:10:45 : Pulse, botchat, ChesireKat#7022, ;afk food is needed :3
+21 Dec 2016 20:10:45 : Pulse, botchat, Botfuzzy77#2209, ChesireKat is now AFK for reason:
+**food is needed :3**
+21 Dec 2016 20:10:53 : Pulse, mainchat, ChesireKat#7022, @Kat
+21 Dec 2016 20:10:53 : Pulse, mainchat, Botfuzzy77#2209, ChesireKat is afk for reason:
+**food is needed :3**
+21 Dec 2016 20:11:12 : Pulse, mainchat, Lightning#6734, ;afk killing noobs on league
+21 Dec 2016 20:11:12 : Pulse, mainchat, Botfuzzy77#2209, Lightning is now AFK for reason:
+**killing noobs on league**
+21 Dec 2016 20:11:23 : Pulse, mainchat, Lightning#6734, ping if need me
+21 Dec 2016 20:20:23 : Pulse, mainchat, ChesireKat#7022, ;afk
+21 Dec 2016 20:20:23 : Pulse, mainchat, Botfuzzy77#2209, ChesireKat is no Longer AFK
+21 Dec 2016 20:31:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+21 Dec 2016 20:31:20 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+21 Dec 2016 20:31:20 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Pirates of the Caribbean Theme [Fingerstyle Guitar Cover by Eddie van der Meer] **Radio**
+	<https://www.youtube.com/watch?v=e_k-yLShHC8>
+Total Time is 0:01:30
+21 Dec 2016 20:31:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+21 Dec 2016 20:31:24 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping My Heart Will Go On - Titanic Theme [Fingerstyle Guitar Cover by Eddie van der Meer] by request (Radio Song)
+21 Dec 2016 20:31:31 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+21 Dec 2016 20:31:31 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+21 Dec 2016 20:31:31 : LimitlessMc, botchat, Botfuzzy77#2209, 1. My Heart Will Go On - Titanic Theme [Fingerstyle Guitar Cover by Eddie van der Meer] **Radio**
+	<https://www.youtube.com/watch?v=hhxM3RJxJK0>
+Total Time is 0:03:03
+21 Dec 2016 20:31:34 : LimitlessMc, botchat, Wertfuzzy77#0274, well
+21 Dec 2016 20:31:41 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Sky full of stas remix
+21 Dec 2016 20:31:43 : LimitlessMc, botchat, Botfuzzy77#2209, Added Coldplay - Sky Full Of Stars (Instant Party! Trap Remix) to the queue
+21 Dec 2016 20:31:43 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=9G2M0B_dsww
+21 Dec 2016 20:31:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 1
+21 Dec 2016 20:31:47 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: My Heart Will Go On - Titanic Theme [Fingerstyle Guitar Cover by Eddie van der Meer]
+21 Dec 2016 20:36:34 : LimitlessMc, botchat, Wertfuzzy77#0274, ;relog
+21 Dec 2016 20:36:35 : LimitlessMc, botchat, Botfuzzy77#2209, Relogging...

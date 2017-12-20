@@ -1,0 +1,110 @@
+06 Jul 2016 23:53:13 : LimitlessMc , Genesect#6492 , !luck
+06 Jul 2016 23:53:15 : LimitlessMc , Wertfuzzy77#0274 , !luck
+06 Jul 2016 23:53:16 : LimitlessMc , Botfuzzy77#2209 , Wertfuzzy77's luck is 88.76
+06 Jul 2016 23:53:16 : LimitlessMc , Genesect#6492 , he dead
+06 Jul 2016 23:53:22 : LimitlessMc , Genesect#6492 , !luck
+06 Jul 2016 23:53:22 : LimitlessMc , Botfuzzy77#2209 , Genesect's luck is 91.46
+06 Jul 2016 23:53:24 : LimitlessMc , Genesect#6492 , ayy
+06 Jul 2016 23:53:25 : LimitlessMc , Botfuzzy77#2209 , Lmao
+06 Jul 2016 23:53:37 : LimitlessMc , Teemo#8516 , 12345 once i caught a fish alive 678910 then i let it go again. why did you let it go? because it bit my finger so. Which finger did it bite? this little pinky on the right
+06 Jul 2016 23:53:37 : LimitlessMc , Genesect#6492 , what happened to
+06 Jul 2016 23:53:44 : LimitlessMc , Genesect#6492 , bet
+06 Jul 2016 23:53:47 : LimitlessMc , Genesect#6492 , rip
+06 Jul 2016 23:53:50 : LimitlessMc , Wertfuzzy77#0274 , was annoying
+06 Jul 2016 23:53:52 : LimitlessMc , Genesect#6492 , bot wpnt bet
+06 Jul 2016 23:53:53 : LimitlessMc , Wertfuzzy77#0274 , so i killed it
+06 Jul 2016 23:53:55 : LimitlessMc , Genesect#6492 , rip
+06 Jul 2016 23:53:59 : LimitlessMc , Genesect#6492 , had to be put down
+06 Jul 2016 23:54:00 : LimitlessMc , Teemo#8516 , !murder
+06 Jul 2016 23:54:03 : LimitlessMc , Genesect#6492 , went rabid
+06 Jul 2016 23:54:08 : LimitlessMc , Wertfuzzy77#0274 , !kill Everyone
+06 Jul 2016 23:54:08 : LimitlessMc , Botfuzzy77#2209 , :skull: *Wertfuzzy77 Killed Everyone* :skull:
+06 Jul 2016 23:54:09 : LimitlessMc , Gerald#7099 , Sorry, you are not permitted to use this feature
+06 Jul 2016 23:54:13 : LimitlessMc , Genesect#6492 , !kill
+06 Jul 2016 23:54:19 : LimitlessMc , Teemo#8516 , !kill Draven
+06 Jul 2016 23:54:19 : LimitlessMc , Gerald#7099 , Sorry, you are not permitted to use this feature
+06 Jul 2016 23:54:19 : LimitlessMc , Botfuzzy77#2209 , :skull: *Teemo Killed Draven* :skull:
+06 Jul 2016 23:54:20 : LimitlessMc , Gerald#7099 , Sorry, you are not permitted to use this feature
+06 Jul 2016 23:54:20 : LimitlessMc , Wertfuzzy77#0274 , !slap Your_Face
+06 Jul 2016 23:54:20 : LimitlessMc , Botfuzzy77#2209 , :raised_hand: *Wertfuzzy77 slapped Your_Face* :raised_hand:
+06 Jul 2016 23:54:31 : LimitlessMc , Teemo#8516 , !fap
+06 Jul 2016 23:54:38 : LimitlessMc , Wertfuzzy77#0274 , !help FlavorTexts
+06 Jul 2016 23:54:38 : LimitlessMc , Botfuzzy77#2209 , ```
+Commands:
+  slap        Adds Emotion
+  kiss        Adds Emotion
+  hug         Adds Emotion
+  kill        Adds Emotion
+  luck        Returns the Player's Luck
+
+Type !help command for more info on a command.
+You can also type !help category for more info on a category.
+```
+06 Jul 2016 23:54:39 : LimitlessMc , Gerald#7099 , 
+Hello, I am Gerald, the channel Bot. I can do many things, I can even be extended by plugins (weehee).
+
+Current commands: (note that arguments in <> are required, those in [] not)
+  - !clean  : lets me purge messages, options below
+    - !clean lets me purge the last 50 messages
+    - !clean <number> does the same for n messages (no maximum :P)
+    - !clean infinite removes messages until !kill, even the end of the channel doesn't seem like the limit
+    - !clean images deletes any message containing either a link to a jpg, !meme or an attachment
+    - !clean <string> removes every message containing the string
+    - !clean @someone cleans @someones messages in the last 100
+  - <@158641216311787520> (<@!158641216311787520>)  : Talk with me :)
+  - !help (!info) : Prints the help
+  - !kill : Kills me and lets me (hopefully) respawn instantly
+  - !ping (!pong) : Ping Pong
+  - (DM) !nobroadcast : Disables update broadcasts from me if you have a server
+  - (DM) !dobroadcast : Enables update broadcasts from me again
+  - !bugreport <message> : File a bug so it will reach my master even if you can't contact him directly (If it's abused, I will block certain ~~ab~~users)
+  - !invite : Add me to your server
+  - !status : Prints some overall status
+  - !plugins : Prints informations about all plugins
+  - (DM) !dropbox <secret> : Register Dropbox. Go to https://ultramc.org:8087/dropbox/authorize
+  - !id <beginning of name> : Outputs their internal id
+  - !serverid : Prints this server's id
+  - !channelid : Let me output the id of thid channel
+  - !roleids : Lists all roles with their ids
+  - !mention <role name> : Mentions everyone in that role
+  - !permissions <username> : Lists all permissions the spefific user has in this channel
+  - !meme <text you wanna write> : Generate a funny image
+  - !play <name> : Plays a specific song from soundcloud
+  - !youtube <name> : Plays a specific song from youtube. Can also be a url
+06 Jul 2016 23:54:40 : LimitlessMc , Gerald#7099 , 
+  - !twitch <name> : Streams from twitch.tv
+  - !pause : Pauses playback
+  - !stop : Stops playback and empties the queue
+  - !queue : Prints the current queue
+  - !shufflequeue : Shuffles the queue
+  - !flushqueue : Empties the queue
+  - !skip : Skips the current song
+  - !replay : Adds the current playing song to the queue
+  - !webplayer : Outputs your personal webplayer url
+  - !resetsecret : Resets your webplayer secret in case you lost it
+  - !stats  : Outputs which users wrote the most in this channel
+  - !words  : Outputs which users wrote the most words in this channel
+  - !topwords  : Sends the most common words in this channel
+  - !suspicious  : NSA-like who should be tracked a bit more :)
+  - !weblog  : The channel's weblog for easy search in the browser
+  - !punchcard  : The channel's punchcard - when are people active in here
+  - (DM) !steam Authenticates a steam user linking his steam id to the discord id (visit https://ultramc.org:8087/steam
+  - (DM) !nosteam Deauthenticates a steam user and disables notifications
+  - (DM) !arkserver <name> : Creates an api token for use of the ARK webalarms
+  - (DM) !deleteark <key> : Delete an ARK server from the config. Provide the key as argument
+  - !rate [@mention] : outputs my rating for a user
+  - !luck [@mention] : outputs the luck of a user today
+  - !nowelcome  : Disables the welcome message for this server
+  - !dowelcome  : Enables the welcome message again
+
+(DM) means that you have to issue this command via a direct message to me.
+06 Jul 2016 23:54:44 : LimitlessMc , Wertfuzzy77#0274 , GO HOME GERALD
+06 Jul 2016 23:54:46 : LimitlessMc , Genesect#6492 , !slap my_penis_onto_the_table
+06 Jul 2016 23:54:46 : LimitlessMc , Botfuzzy77#2209 , :raised_hand: *Genesect slapped my_penis_onto_the_table* :raised_hand:
+06 Jul 2016 23:54:47 : LimitlessMc , Wertfuzzy77#0274 , I WILL KICK YOU
+06 Jul 2016 23:54:54 : LimitlessMc , Genesect#6492 , savage
+06 Jul 2016 23:55:02 : LimitlessMc , Wertfuzzy77#0274 , his !help is annoying
+06 Jul 2016 23:55:09 : LimitlessMc , Teemo#8516 , <@!158641216311787520>  i will ban you using my almighty BAN HAMMER
+06 Jul 2016 23:55:11 : LimitlessMc , Gerald#7099 , Why would that be the meaning of life?
+06 Jul 2016 23:55:21 : LimitlessMc , Wertfuzzy77#0274 , !relog
+06 Jul 2016 23:55:21 : LimitlessMc , Botfuzzy77#2209 , Relogging...

@@ -1,0 +1,28 @@
+10 Jul 2016 15:44:46 : Cipher , Wertfuzzy77#0274 , ;join
+10 Jul 2016 15:45:10 : Cipher , Wertfuzzy77#0274 , ;youtube https://www.youtube.com/watch?v=nCkpzqqog4k
+10 Jul 2016 15:45:22 : Cipher , Wertfuzzy77#0274 , ;youtube https://www.youtube.com/watch?v=pB-5XG-DbAA
+10 Jul 2016 15:45:24 : Cipher , Wertfuzzy77#0274 , ;queue
+10 Jul 2016 15:45:29 : Cipher , Wertfuzzy77#0274 , oi
+10 Jul 2016 15:46:17 : Cipher , Wertfuzzy77#0274 , ```    @commands.command()
+    async def queue(self):
+        await self.bot.say(self.queue)```
+10 Jul 2016 15:46:21 : Cipher , Wertfuzzy77#0274 , like i made it
+10 Jul 2016 15:46:24 : Cipher , Wertfuzzy77#0274 , dont tell me its not a cmd
+10 Jul 2016 15:46:25 : Cipher , Wertfuzzy77#0274 , you bum
+10 Jul 2016 15:47:22 : Cipher , Wertfuzzy77#0274 , ya, ill get to that
+10 Jul 2016 15:47:27 : Cipher , Wertfuzzy77#0274 , well
+10 Jul 2016 15:47:29 : Cipher , Wertfuzzy77#0274 , it might?
+10 Jul 2016 15:47:31 : Cipher , Wertfuzzy77#0274 , ;skip
+10 Jul 2016 15:47:32 : Cipher , Botfuzzy77#2209 , Skipping Sam Smith - I'm Not The Only One
+10 Jul 2016 15:47:34 : Cipher , Wertfuzzy77#0274 , ;song
+10 Jul 2016 15:47:34 : Cipher , Botfuzzy77#2209 , ```Name: Sam Smith - I'm Not The Only One
+URL: <https://www.youtube.com/watch?v=nCkpzqqog4k>
+Views: 679,094,549
+Likes: 2,107,977, 96.67%
+Dislikes: 72,556, 3.33%
+```
+10 Jul 2016 15:47:39 : Cipher , Wertfuzzy77#0274 , rip
+10 Jul 2016 15:47:40 : Cipher , Wertfuzzy77#0274 , ;queue
+10 Jul 2016 15:47:42 : Cipher , Wertfuzzy77#0274 , WORK
+10 Jul 2016 15:47:44 : Cipher , Wertfuzzy77#0274 , ;relog
+10 Jul 2016 15:47:44 : Cipher , Botfuzzy77#2209 , Relogging...

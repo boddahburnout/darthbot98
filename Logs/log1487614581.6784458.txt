@@ -1,0 +1,41 @@
+20 Feb 2017 18:17:01 : Cipher, music, Wertfuzzy77#0274, ;join
+20 Feb 2017 18:17:01 : Cipher, music, Botfuzzy77#2209, Connected channel!
+20 Feb 2017 18:17:04 : Cipher, music, Wertfuzzy77#0274, ;Radio
+20 Feb 2017 18:17:06 : Cipher, music, Botfuzzy77#2209, **Please choose one of these options**: 
+```py
+Electro Hub        (1031 Songs) https://temp.discord.fm/libraries/electro-hub
+Chill Corner       (718 Songs) https://temp.discord.fm/libraries/chill-corner
+Korean Madness     (386 Songs) https://temp.discord.fm/libraries/korean-madness
+Japanese Lounge    (819 Songs) https://temp.discord.fm/libraries/japanese-lounge
+Classical          (278 Songs) https://temp.discord.fm/libraries/classical
+Retro Renegade     (447 Songs) https://temp.discord.fm/libraries/retro-renegade
+Metal Mix          (510 Songs) https://temp.discord.fm/libraries/metal-mix
+Hip-hop            (436 Songs) https://temp.discord.fm/libraries/hip-hop
+Electro Swing      (327 Songs) https://temp.discord.fm/libraries/electro-swing
+Purely Pop         (316 Songs) https://temp.discord.fm/libraries/purely-pop
+Rock-n-Roll        (634 Songs) https://temp.discord.fm/libraries/rock-n-roll
+Coffee-house Jazz  (515 Songs) https://temp.discord.fm/libraries/coffee-house-jazz```
+Example: `;Radio Purely Pop`
+20 Feb 2017 18:17:32 : Cipher, music, Wertfuzzy77#0274, ;Radio Electro Hub
+20 Feb 2017 18:17:32 : Cipher, music, Botfuzzy77#2209, Now listening to **Electro Hub** radio channel
+20 Feb 2017 18:17:47 : Cipher, music, Wertfuzzy77#0274, ;songs
+20 Feb 2017 18:17:47 : Cipher, music, Botfuzzy77#2209, **The Following songs are in the Queue**
+20 Feb 2017 18:17:47 : Cipher, music, Botfuzzy77#2209, 1. Unlike Pluto ft. Michelle Buzz - Found You **Radio: Electro Hub**
+	<https://www.youtube.com/watch?v=PKBbtr6bKMI>
+2. John Dahlbäck - Bapalapa **Radio: Electro Hub**
+	<https://www.youtube.com/watch?v=wb0xiNmUkNI>
+Total Time is 0:06:34
+20 Feb 2017 18:17:55 : Cipher, music, Wertfuzzy77#0274, ;songs
+20 Feb 2017 18:17:55 : Cipher, music, Botfuzzy77#2209, **The Following songs are in the Queue**
+20 Feb 2017 18:17:55 : Cipher, music, Botfuzzy77#2209, 1. Unlike Pluto ft. Michelle Buzz - Found You **Radio: Electro Hub**
+	<https://www.youtube.com/watch?v=PKBbtr6bKMI>
+2. John Dahlbäck - Bapalapa **Radio: Electro Hub**
+	<https://www.youtube.com/watch?v=wb0xiNmUkNI>
+Total Time is 0:06:34
+20 Feb 2017 18:18:16 : Cipher, music, Wertfuzzy77#0274, ;Radio Electro Hub
+20 Feb 2017 18:18:16 : Cipher, music, Botfuzzy77#2209, Now listening to **Electro Hub** radio channel
+20 Feb 2017 18:18:22 : Cipher, music, Wertfuzzy77#0274, ;songs
+20 Feb 2017 18:18:22 : Cipher, music, Botfuzzy77#2209, Queue is Empty
+20 Feb 2017 18:18:24 : Cipher, music, Wertfuzzy77#0274, ;songs
+20 Feb 2017 18:18:24 : Cipher, music, Botfuzzy77#2209, Queue is Empty
+20 Feb 2017 18:18:30 : Cipher, music, Wertfuzzy77#0274, ;leave

@@ -1,0 +1,13 @@
+25 Apr 2017 16:59:37 : LimitlessMc, voice-junk, Lastshadow#5809, Aka knife song
+25 Apr 2017 16:59:39 : LimitlessMc, voice-junk, Lastshadow#5809, Lol
+25 Apr 2017 17:06:40 : LimitlessMc, voice-junk, Wertfuzzy77#0274, Modules
+25 Apr 2017 17:06:40 : LimitlessMc, voice-junk, Lastshadow#5809, About cutting you hand
+25 Apr 2017 17:06:40 : LimitlessMc, voice-junk, Lastshadow#5809, With knifes
+25 Apr 2017 17:06:40 : LimitlessMc, voice-junk, Lastshadow#5809, Music is a miracle worker
+25 Apr 2017 17:06:40 : LimitlessMc, voice-junk, Lightning#6734, ```
+
+        for link in links:
+            if("www.youtube.com/watch?v" not in link and "https://youtu.be/" not in link):
+                await self.bot.say("Not a Valid Link, Please only use URLs from youtube.com")
+                break
+```

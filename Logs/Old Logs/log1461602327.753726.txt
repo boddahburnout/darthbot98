@@ -1,0 +1,105 @@
+Botfuzzy77#2926, Starting up...
+Botfuzzy77#2926, Loaded with Version 0.8.7
+Wertfuzzy77#0274, !unmute Jay113355
+Botfuzzy77#2926, Unmuted Jay113355
+Wertfuzzy77#0274, !debug ctx.message.server.roles
+Botfuzzy77#2926, ```py
+[<discord.role.Role object at 0x0000024EA504C828>, <discord.role.Role object at 0x0000024EA504C898>, <discord.role.Role object at 0x0000024EA504C908>]
+```
+Wertfuzzy77#0274, !debug ctx.message.server.roles[0]
+Botfuzzy77#2926, ```py
+@everyone
+```
+Wertfuzzy77#0274, !debug ctx.message.server.roles[1]
+Botfuzzy77#2926, ```py
+Staff
+```
+Wertfuzzy77#0274, !debug ctx.message.server.roles[1].name
+Botfuzzy77#2926, ```py
+Staff
+```
+Wertfuzzy77#0274, !debug ctx.message.server.roles[2].name
+Botfuzzy77#2926, ```py
+Owner
+```
+Wertfuzzy77#0274, !debug ctx.message.server.roles[2].id
+Botfuzzy77#2926, ```py
+148203909658181632
+```
+Wertfuzzy77#0274, !debug ctx.message.server.roles[1].id
+Botfuzzy77#2926, ```py
+148203743362547712
+```
+Wertfuzzy77#0274, !debug ctx.author
+Botfuzzy77#2926, ```py
+AttributeError: 'Context' object has no attribute 'author'
+```
+Wertfuzzy77#0274, !debug ctx.message.author
+Botfuzzy77#2926, ```py
+Wertfuzzy77#0274
+```
+Wertfuzzy77#0274, !debug ctx.message.author.role
+Botfuzzy77#2926, ```py
+AttributeError: 'Member' object has no attribute 'role'
+```
+Wertfuzzy77#0274, !debug ctx.message.author.roles
+Botfuzzy77#2926, ```py
+[<discord.role.Role object at 0x0000024EA504C828>, <discord.role.Role object at 0x0000024EA504C898>]
+```
+Wertfuzzy77#0274, !debug ctx.message.author.roles.id
+Botfuzzy77#2926, ```py
+AttributeError: 'list' object has no attribute 'id'
+```
+JustinOPGamer#9138, lol hey wert
+Wertfuzzy77#0274, hi
+JustinOPGamer#9138, u still working on cmds ?
+Wertfuzzy77#0274, ya
+Wertfuzzy77#0274, working giving all staff access my private cmds
+Wertfuzzy77#0274, nah
+JustinOPGamer#9138, lel
+JustinOPGamer#9138, wert I justr caught two more dittos on the server and both r the worst iv's nature and ability
+Wertfuzzy77#0274, gj
+JustinOPGamer#9138, !redeem TEST
+Botfuzzy77#2926, JustinOPGamer won a Items prize from a TESTING book...
+Botfuzzy77#2926, Its a **Choice Scarf**
+Wertfuzzy77#0274, gj
+JustinOPGamer#9138, thx lel
+JustinOPGamer#9138, Jay u online???
+JustinOPGamer#9138, Jay u online?
+JustinOPGamer#9138, oh well
+JustinOPGamer#9138, wert so what u makin the bot do now?
+Wertfuzzy77#0274, "working giving all staff access my private cmds"
+Wertfuzzy77#0274, also
+Wertfuzzy77#0274, !mute JustinOPGamer
+Botfuzzy77#2926, Muted JustinOPGamer
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, v
+JustinOPGamer#9138, !redeem TEST!redeem TEST!redeem TEST!redeem TEST
+JustinOPGamer#9138, !redeem TEST!redeem TEST!redeem TEST
+JustinOPGamer#9138, !redeem TEST
+Wertfuzzy77#0274, !unmute JustinOPGamer
+Botfuzzy77#2926, Unmuted JustinOPGamer
+JustinOPGamer#9138, !redeem TEST
+Botfuzzy77#2926, JustinOPGamer won a Money prize from a TESTING book...
+Botfuzzy77#2926, Its **$4500**
+JustinOPGamer#9138, !redeem TEST
+Botfuzzy77#2926, JustinOPGamer won a Items prize from a TESTING book...
+JustinOPGamer#9138, v
+Botfuzzy77#2926, Its a **Wise Glasses**
+JustinOPGamer#9138, !redeem TEST!redeem TEST!redeem TEST!redeem TEST!redeem TEST!redeem TEST!redeem TEST!redeem TEST!redeem TEST!redeem TEST
+Botfuzzy77#2926, That is an INVALID Code
+JustinOPGamer#9138, v
+JustinOPGamer#9138, v
+JustinOPGamer#9138, lel
+JustinOPGamer#9138, wert quick mute mank before he knows
+Wertfuzzy77#0274, !mute MankHD
+Botfuzzy77#2926, Muted MankHD
+Wertfuzzy77#0274, !relog
+Botfuzzy77#2926, Relogging...

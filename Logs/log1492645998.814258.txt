@@ -1,0 +1,10 @@
+19 Apr 2017 23:53:41 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+19 Apr 2017 23:53:41 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+19 Apr 2017 23:53:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;yplaylist https://www.youtube.com/playlist?list=PLL77IVn4yixXNjnBZGgFavieuLHyaaw-q
+19 Apr 2017 23:54:31 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug "Memory usage: {}%\n".format(str(psutil.virtual_memory().percent))
+19 Apr 2017 23:54:31 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+Memory usage: 52.1%
+
+```
+19 Apr 2017 23:54:41 : LimitlessMc, botchat, Wertfuzzy77#0274, ;relog
+19 Apr 2017 23:54:41 : LimitlessMc, botchat, Botfuzzy77#2209, Relogging...

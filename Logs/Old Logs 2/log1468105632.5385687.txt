@@ -1,0 +1,67 @@
+09 Jul 2016 23:07:16 : LimitlessMc , Genesect#6492 , get a doctor
+09 Jul 2016 23:07:18 : LimitlessMc , Genesect#6492 , or a coder
+09 Jul 2016 23:07:22 : LimitlessMc , Genesect#6492 , ;hep
+09 Jul 2016 23:07:22 : Cipher , Akinci#5072 , Hmm
+09 Jul 2016 23:07:22 : LimitlessMc , Botfuzzy77#2209 , Dont Be Lazy, Type ;help
+09 Jul 2016 23:07:32 : Cipher , Wertfuzzy77#0274 , was relogging
+09 Jul 2016 23:07:34 : Cipher , Wertfuzzy77#0274 , try again
+09 Jul 2016 23:07:46 : Cipher , Akinci#5072 , ;funify ;debug ctx.message.server.get_member("187658828739903489").permissions_in(ctx.message.channel).mention_everyone
+09 Jul 2016 23:07:49 : LimitlessMc , Wertfuzzy77#0274 , ;rate
+09 Jul 2016 23:07:49 : LimitlessMc , Botfuzzy77#2209 , Basically Garbage
+09 Jul 2016 23:07:55 : Cipher , Akinci#5072 , Bot ded
+09 Jul 2016 23:08:06 : Cipher , Wertfuzzy77#0274 , ;funify ;debug ctx.message.server.get_member("187658828739903489").permissions_in(ctx.message.channel).mention_everyone
+09 Jul 2016 23:08:10 : Cipher , Wertfuzzy77#0274 , ;funify ;debug tx.message.server.get_member("187658828739903489").permissions_in(ctx.message.channel).mention_everyone
+09 Jul 2016 23:08:18 : Cipher , Wertfuzzy77#0274 , oh
+09 Jul 2016 23:08:22 : Cipher , Wertfuzzy77#0274 , it doesnt like the "s
+09 Jul 2016 23:08:30 : Cipher , Wertfuzzy77#0274 , ;funify ;debug ctx.message.server.get_member(187658828739903489).permissions_in(ctx.message.channel).mention_everyone
+09 Jul 2016 23:08:30 : Cipher , Botfuzzy77#2209 , ;ddEBuU=G Cttx..meSsSsAge.4seerrvV'Er..gGET__MmeMBBeR(11876766558882228877339999033=4489)).3pErrMIisS$IioNSs__Iin((}c-TtXX..MeSSSAGgEe;..CC/hAaNNNeel).meeNnTtIOnN__Ee:vErryyoNNEE 
+09 Jul 2016 23:08:33 : Cipher , Wertfuzzy77#0274 , there we go
+09 Jul 2016 23:08:37 : Cipher , Wertfuzzy77#0274 , LOL
+09 Jul 2016 23:08:39 : Cipher , Wertfuzzy77#0274 , that underline tho
+09 Jul 2016 23:08:48 : Cipher , Wertfuzzy77#0274 , _test_
+09 Jul 2016 23:08:51 : Cipher , Wertfuzzy77#0274 , __test__
+09 Jul 2016 23:08:51 : Cipher , Akinci#5072 , ;funify debug ctx.message.server.get_member("187658828739903489").permissions_in(ctx.message.channel).mention_everyone
+09 Jul 2016 23:09:11 : Cipher , Akinci#5072 , Why you not like "? <@!187609093001838602> 
+09 Jul 2016 23:09:21 : Cipher , Akinci#5072 , *test*
+09 Jul 2016 23:09:28 : Cipher , Akinci#5072 , **test**
+09 Jul 2016 23:09:35 : Cipher , Wertfuzzy77#0274 , ___test___
+09 Jul 2016 23:09:47 : Cipher , Wertfuzzy77#0274 , **___Test___**
+09 Jul 2016 23:09:48 : Cipher , Wertfuzzy77#0274 , gg
+09 Jul 2016 23:10:05 : Cipher , Wertfuzzy77#0274 , ;funify **___Test___**
+09 Jul 2016 23:10:06 : Cipher , Botfuzzy77#2209 , ***____@tTes,TT____*** 
+09 Jul 2016 23:10:18 : Cipher , Wertfuzzy77#0274 , ;funify Test
+09 Jul 2016 23:10:18 : Cipher , Botfuzzy77#2209 , TE.est 
+09 Jul 2016 23:10:20 : Cipher , Wertfuzzy77#0274 , ;funify Test
+09 Jul 2016 23:10:20 : Cipher , Botfuzzy77#2209 , teSTt 
+09 Jul 2016 23:10:29 : Cipher , Akinci#5072 , `kek`
+
+09 Jul 2016 23:10:39 : LimitlessMc , Genesect#6492 , ;rate
+09 Jul 2016 23:10:39 : LimitlessMc , Botfuzzy77#2209 , Basically Garbage
+09 Jul 2016 23:10:39 : Cipher , Wertfuzzy77#0274 , ;funify **___Test___**
+09 Jul 2016 23:10:40 : Cipher , Botfuzzy77#2209 , ***__4__teessT_2____*** 
+09 Jul 2016 23:10:41 : LimitlessMc , Genesect#6492 , ;rate
+09 Jul 2016 23:10:41 : LimitlessMc , Botfuzzy77#2209 , Basically Garbage
+09 Jul 2016 23:10:43 : Cipher , Wertfuzzy77#0274 , ;funify **___Test___**
+09 Jul 2016 23:10:43 : Cipher , Botfuzzy77#2209 , **____TeEstt______*0* 
+09 Jul 2016 23:10:43 : LimitlessMc , Genesect#6492 , wow
+09 Jul 2016 23:10:45 : LimitlessMc , Genesect#6492 , its rigged
+09 Jul 2016 23:10:47 : LimitlessMc , Genesect#6492 , you fuck
+09 Jul 2016 23:10:50 : LimitlessMc , Genesect#6492 , ;luck
+09 Jul 2016 23:10:50 : LimitlessMc , Botfuzzy77#2209 , Genesect's luck is 50.18 out of 100, which is **Not Bad**
+09 Jul 2016 23:10:53 : Cipher , Akinci#5072 , ;funify `lelelleelellelelelelelel`
+
+09 Jul 2016 23:10:53 : LimitlessMc , Genesect#6492 , ;kms
+09 Jul 2016 23:10:53 : Cipher , Botfuzzy77#2209 , `LleL5eelLEeELleLllLeELEELLEEll,EeleEleeL` 
+09 Jul 2016 23:10:53 : LimitlessMc , Botfuzzy77#2209 , Do it, you wont
+09 Jul 2016 23:10:55 : LimitlessMc , Wertfuzzy77#0274 , ```    @commands.command(hidden = True)
+    async def rate(self):
+        await self.bot.say("Basically Garbage")```
+09 Jul 2016 23:10:55 : LimitlessMc , Genesect#6492 , XD
+09 Jul 2016 23:10:59 : LimitlessMc , Wertfuzzy77#0274 , literally the only message xD
+09 Jul 2016 23:11:10 : LimitlessMc , Genesect#6492 , i will get it to say something hood
+09 Jul 2016 23:11:12 : LimitlessMc , Genesect#6492 , hoodf
+09 Jul 2016 23:11:14 : LimitlessMc , Genesect#6492 , good
+09 Jul 2016 23:11:16 : LimitlessMc , Genesect#6492 , fuck me
+09 Jul 2016 23:11:19 : LimitlessMc , Genesect#6492 , brb bleach
+09 Jul 2016 23:11:33 : LimitlessMc , Wertfuzzy77#0274 , ;relog
+09 Jul 2016 23:11:33 : LimitlessMc , Botfuzzy77#2209 , Relogging...

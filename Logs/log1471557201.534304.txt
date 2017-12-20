@@ -1,0 +1,121 @@
+18 Aug 2016 21:53:28 : Cipher, bot_land, Wertfuzzy77#0274, ;debug discord.Emoji
+18 Aug 2016 21:53:29 : Cipher, bot_land, Botfuzzy77#2209, ```py
+<class 'discord.emoji.Emoji'>
+```
+18 Aug 2016 21:53:31 : Cipher, bot_land, Wertfuzzy77#0274, yaaaaa
+18 Aug 2016 21:53:34 : Cipher, bot_land, Wertfuzzy77#0274, we did it reddit
+18 Aug 2016 21:54:02 : Cipher, bot_land, Wertfuzzy77#0274, ;debug Emoji = new discord.Emoji()
+18 Aug 2016 21:54:02 : Cipher, bot_land, Botfuzzy77#2209, ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+18 Aug 2016 21:54:07 : Cipher, bot_land, Wertfuzzy77#0274, ;debug Emoji = discord.Emoji()
+18 Aug 2016 21:54:07 : Cipher, bot_land, Botfuzzy77#2209, ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+18 Aug 2016 21:54:19 : Cipher, bot_land, Wertfuzzy77#0274, ;debug Emoji = discord.Object()
+18 Aug 2016 21:54:20 : Cipher, bot_land, Botfuzzy77#2209, ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+18 Aug 2016 21:54:45 : Gang ;), general, Botfuzzy77#2209, **xPalkia(lugia)**(ABSOL CUNT) is now Offline!
+18 Aug 2016 21:55:23 : Cipher, bot_land, Wertfuzzy77#0274, ;debug Emoji = Emoji()
+18 Aug 2016 21:55:23 : Cipher, bot_land, Botfuzzy77#2209, ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+18 Aug 2016 21:55:27 : Cipher, bot_land, Wertfuzzy77#0274, ;debug Emoji = Emoji
+18 Aug 2016 21:55:27 : Cipher, bot_land, Botfuzzy77#2209, ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+18 Aug 2016 21:55:33 : Cipher, bot_land, Wertfuzzy77#0274, ;debug Emoji
+18 Aug 2016 21:55:33 : Cipher, bot_land, Botfuzzy77#2209, ```py
+NameError: name 'Emoji' is not defined
+```
+18 Aug 2016 21:55:38 : Cipher, bot_land, Wertfuzzy77#0274, ;debug discord.Emoji
+18 Aug 2016 21:55:38 : Cipher, bot_land, Botfuzzy77#2209, ```py
+<class 'discord.emoji.Emoji'>
+```
+18 Aug 2016 21:55:44 : Cipher, bot_land, Wertfuzzy77#0274, ;debug new discord.Emoji
+18 Aug 2016 21:55:44 : Cipher, bot_land, Botfuzzy77#2209, ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+18 Aug 2016 21:55:47 : Cipher, bot_land, Wertfuzzy77#0274, bet
+18 Aug 2016 21:55:51 : Cipher, bot_land, Wertfuzzy77#0274, ;debug new discord.Emoji()
+18 Aug 2016 21:55:51 : Cipher, bot_land, Botfuzzy77#2209, ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+18 Aug 2016 21:56:24 : Gang ;), general, Botfuzzy77#2209, **TheGoose25**(Staff/Guild Leaders) is now Online!
+18 Aug 2016 21:57:25 : Cipher, bot_land, Wertfuzzy77#0274, ;debug discord.Emoji(name = "Testing", server = ctx.message.server)
+18 Aug 2016 21:57:26 : Cipher, bot_land, Botfuzzy77#2209, ```py
+<:Testing:None>
+```
+18 Aug 2016 21:58:16 : Gang ;), general, Botfuzzy77#2209, **Olivia**(Staff/Guild Leaders) is now Online!
+18 Aug 2016 21:59:05 : Gang ;), general, Botfuzzy77#2209, **TheGoose25**(Staff/Guild Leaders) is now Offline!
+18 Aug 2016 21:59:45 : Cipher, bot_land, Wertfuzzy77#0274, ;debug discord.Emoji(name = "Cipher_Logo", server = ctx.message.server, managed = False )
+18 Aug 2016 21:59:46 : Cipher, bot_land, Botfuzzy77#2209, ```py
+<:Cipher_Logo:None>
+```
+18 Aug 2016 21:59:58 : Cipher, bot_land, Wertfuzzy77#0274, ;debug discord.Emoji(name = "Cipher_Logo", server = ctx.message.server, managed = False, id = "175927490220395")
+18 Aug 2016 21:59:58 : Cipher, bot_land, Botfuzzy77#2209, ```py
+:Cipher_Logo:
+```
+18 Aug 2016 22:00:16 : Gang ;), general, Botfuzzy77#2209, **Olivia**(Staff/Guild Leaders) is now Offline!
+18 Aug 2016 22:00:44 : Cipher, bot_land, Wertfuzzy77#0274, ;debug bot.send_message(ctx.message.server, discord.Emoji(name = "Cipher_Logo", server = ctx.message.server, managed = False, id = "175927490220395"))
+18 Aug 2016 22:00:44 : Cipher, general, Botfuzzy77#2209, :Cipher_Logo:
+18 Aug 2016 22:00:44 : Cipher, bot_land, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x000001C782DE8E48>
+```
+18 Aug 2016 22:00:50 : Cipher, general, Wertfuzzy77#0274, interesting
+18 Aug 2016 22:01:37 : Cipher, bot_land, Wertfuzzy77#0274, ;debug bot.send_message(ctx.message.server, discord.Emoji(name = "Cipher_Logo", server = ctx.message.server, managed = False, id = "175927490220395").url)
+18 Aug 2016 22:01:37 : Cipher, general, Botfuzzy77#2209, https://discordapp.com/api/emojis/175927490220395.png
+18 Aug 2016 22:01:37 : Cipher, bot_land, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x000001C782DFC128>
+```
+18 Aug 2016 22:02:28 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Stormzzzy**(Popes of The Raw Man) is now Online!
+18 Aug 2016 22:03:15 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Offline!
+18 Aug 2016 22:07:38 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **The Fat Walrus**(Priests of The Raw Man) is now Online!
+18 Aug 2016 22:08:12 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **The Fat Walrus**(Priests of The Raw Man) is now Online!
+18 Aug 2016 22:09:25 : LimitlessMc, mainchat, depthy#3405, @ParchedEntree my internet died
+18 Aug 2016 22:09:40 : LimitlessMc, mainchat, depthy#3405, Sorry, I'll be back a few minutes :(
+18 Aug 2016 22:09:42 : LimitlessMc, mainchat, ParchedEntree#2086, its np
+18 Aug 2016 22:10:01 : LimitlessMc, mainchat, ParchedEntree#2086, take  your time, no rush.\
+18 Aug 2016 22:10:04 : Cipher, bot_land, Wertfuzzy77#0274, ;debug bot.send_message(ctx.message.server, discord.Emoji(name = "Cipher_Logo", server = ctx.message.server, managed = False, id = "215930880286261248").url)
+18 Aug 2016 22:10:04 : Cipher, general, Botfuzzy77#2209, https://discordapp.com/api/emojis/215930880286261248.png
+18 Aug 2016 22:10:04 : Cipher, bot_land, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x000001C782DFC2E8>
+```
+18 Aug 2016 22:11:06 : Cipher, bot_land, Wertfuzzy77#0274, ;debug bot.send_message(ctx.message.server, discord.Emoji(name = "Cipher_Logo", server = ctx.message.server, managed = False, id = "215952338014175232").url)
+18 Aug 2016 22:11:07 : Cipher, general, Botfuzzy77#2209, https://discordapp.com/api/emojis/215952338014175232.png
+18 Aug 2016 22:11:07 : Cipher, bot_land, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x000001C782DFCBA8>
+```
+18 Aug 2016 22:12:27 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **BrickInJail**(No Role) is now Offline!
+18 Aug 2016 22:14:39 : Cipher, bot_land, Wertfuzzy77#0274, ;debug bot.send_message(ctx.message.server, discord.Emoji(name = "Cipher_Logo", server = ctx.message.server, managed = False, id = "213459977665380354").url)
+18 Aug 2016 22:14:39 : Cipher, general, Botfuzzy77#2209, https://discordapp.com/api/emojis/213459977665380354.png
+18 Aug 2016 22:14:39 : Cipher, bot_land, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x000001C782DFCC88>
+```
+18 Aug 2016 22:15:20 : Cipher, bot_land, Wertfuzzy77#0274, ;debug bot.send_message(ctx.message.server, discord.Emoji(name = "Cipher_Logo", server = ctx.message.server, managed = False, id = "210471976999845890").url)
+18 Aug 2016 22:15:20 : Cipher, general, Botfuzzy77#2209, https://discordapp.com/api/emojis/210471976999845890.png
+18 Aug 2016 22:15:21 : Cipher, bot_land, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x000001C782E07208>
+```
+18 Aug 2016 22:15:27 : Cipher, general, Wertfuzzy77#0274, ayy
+18 Aug 2016 22:15:27 : Cipher, general, Botfuzzy77#2209, Lmao
+18 Aug 2016 22:15:32 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Offline!
+18 Aug 2016 22:15:46 : Cipher, bot_land, Wertfuzzy77#0274, ;debug bot.send_message(ctx.message.server, discord.Emoji(name = "Cipher_Logo", server = ctx.message.server, managed = False, id = "210471976999845890"))
+18 Aug 2016 22:15:46 : Cipher, general, Botfuzzy77#2209, :Cipher_Logo:
+18 Aug 2016 22:15:46 : Cipher, bot_land, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x000001C782E07748>
+```
+18 Aug 2016 22:15:50 : Cipher, general, Wertfuzzy77#0274, rip
+18 Aug 2016 22:16:16 : Cipher, bot_land, Wertfuzzy77#0274, ;debug ctx.message.server, discord.Emoji(name = "Cipher_Logo", server = ctx.message.server, managed = False, id = "210471976999845890")
+18 Aug 2016 22:16:16 : Cipher, bot_land, Botfuzzy77#2209, ```py
+(<discord.server.Server object at 0x000001C78297D948>, <discord.emoji.Emoji object at 0x000001C782DEBBA0>)
+```
+18 Aug 2016 22:16:23 : Cipher, bot_land, Wertfuzzy77#0274, ;debug discord.Emoji(name = "Cipher_Logo", server = ctx.message.server, managed = False, id = "210471976999845890")
+18 Aug 2016 22:16:24 : Cipher, bot_land, Botfuzzy77#2209, ```py
+:Cipher_Logo:
+```
+18 Aug 2016 22:16:26 : Cipher, general, Botfuzzy77#2209, **Sir_Blazer**(Grunt) is now Online!
+18 Aug 2016 22:17:12 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Online!
+18 Aug 2016 22:17:30 : Cipher, bot_land, Wertfuzzy77#0274, ;relog
+18 Aug 2016 22:17:31 : Cipher, bot_land, Botfuzzy77#2209, Relogging...

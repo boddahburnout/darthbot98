@@ -1,0 +1,161 @@
+23 Jul 2017 01:26:45 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+23 Jul 2017 01:26:45 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+23 Jul 2017 01:26:57 : LimitlessMc, botchat, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=3F-a7NttLzQ
+23 Jul 2017 01:27:04 : OblivionEvolved, bots, Wertfuzzy77#0274, ;mine
+23 Jul 2017 01:27:04 : OblivionEvolved, bots, Botfuzzy77#2209, 
+23 Jul 2017 01:27:04 : OblivionEvolved, bots, Botfuzzy77#2209, 
+23 Jul 2017 01:27:06 : OblivionEvolved, bots, Wertfuzzy77#0274, ;mine
+23 Jul 2017 01:27:06 : OblivionEvolved, bots, Botfuzzy77#2209, 
+23 Jul 2017 01:27:07 : OblivionEvolved, bots, Botfuzzy77#2209, 
+23 Jul 2017 01:27:09 : OblivionEvolved, bots, Wertfuzzy77#0274, ;mine
+23 Jul 2017 01:27:09 : OblivionEvolved, bots, Botfuzzy77#2209, 
+23 Jul 2017 01:27:10 : OblivionEvolved, bots, Botfuzzy77#2209, 
+23 Jul 2017 01:27:13 : OblivionEvolved, bots, Wertfuzzy77#0274, wat
+23 Jul 2017 01:27:22 : Personal Server, general, Lastshadow#5809, ;afk Very Sad
+23 Jul 2017 01:27:22 : Personal Server, general, Botfuzzy77#2209, Lastshadow is now AFK for reason:
+**Very Sad**
+23 Jul 2017 01:27:56 : Proton Gaming Network, bot_commands, DDriggs00#0005, ;help
+23 Jul 2017 01:27:56 : None, Direct Message with DDriggs00, Botfuzzy77#2209, ```
+A Bot whose sole Purpose is to serve Wertfuzzy77! Version 0.15.1.3
+(Created by Wertfuzzy77)
+
+FlavorTexts:
+  funify           Funifies a given text input
+  kill             Adds Emotion
+  likes            Adds Emotion
+  ev               
+  gif              Returns the First Found Image on Google Images for this Input
+  kiss             Adds Emotion
+  rps              Allows the player to play Rock, Paper, Scissors with the B...
+  hug              Adds Emotion
+  server           Returns Information on the Limitless MC server!
+  conch            Ask the Magic Conch a Question
+  lmgtfy           Returns a Link to a "Let me Google That For You" Page
+  kys              
+  hates            Adds Emotion
+  loves            Adds Emotion
+  image            Returns the First Found Image on Google Images for this Input
+  choose           Chooses from a set of things
+  luck             Returns the Player's Luck
+  rate             Rates the Player
+  pokemon          Returns Links to Pokemon pages
+  slap             Adds Emotion
+  wyr              
+  fml              Returns a Random Post from fmylife.com
+Games:
+  pokedex          
+  settype          
+  recent           
+  prestige         Allows you to prestige at the cost of levels
+  lookup           Displays your Current Information
+  color            
+  level            Displays your Current Information
+  types            
+  pokehelp         Pokemon Battle Sim Help (Basically useless)
+  ranking          Shows the Ranking of the top players
+  changeBackground 
+  pokeboss         Displays Boss Info
+  train            Fights Pokemon for XP
+  cooldown         Shows your Cooldowns
+  mine             Allows you to mine for a risk to your XP
+  pokebattle       Fights a Pokemon Boss
+MusicPlayer:
+  youtube          Adds a Song for the Bot to Play
+  music            Returns the current status of the Music Bot
+  playlists        Shows all the current playlists
+  viewplaylist     Views the songs of a playlists
+```
+23 Jul 2017 01:27:56 : None, Direct Message with DDriggs00, Botfuzzy77#2209, ```
+  leave            Leaves the Join chat
+  yplaylist        
+  reconnect        
+  radio            Enables Radio Mode
+  cycle            Tells the bot to cycle the current songs in the queue
+  remove           removes a song from a queue by index
+  skip             Skips the Current song
+  makeplaylist     Makes a custom playlist for the bot to save
+  join             Joins the Voice channel you are currently in
+  search           Searches for a song
+  playlist         Adds songs from a predefined playlist to the songs list
+  shuffle          Shuffles the songs the queue
+  songs            Prints the songs in the queue
+  loop             Plays the current song again
+  extendplaylist   Extends a custom playlist
+  song             Returns information about the current playing song
+  recommend        Allow the bot to add up to 5 songs to the queue to have in...
+  clear            Clears the Queue
+StaffCmds:
+  mutelist         
+  tempmute         
+  unmuteall        Unmutes ALL muted players
+  unmute           
+  mute             
+​No Category:
+  source           Returns a link to the source code for this bot
+  afk              Sets you as AFK, and the Bot will auto Reply for you with ...
+  Icon             
+  ark              Returns Info on Stubby's ARK server
+  help             Shows this message.
+  feedback         Returns a link to a Google Forums, where you can leave fee...
+  cleverbot        
+  joined           Says when a member joined.
+  status           Returns the Status of the Bot, along with Additional Infor...
+  invite           Returns a Link to the Invite URL for this bot
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+23 Jul 2017 01:27:58 : Alone Server, bot_chat, Crystal4209#4698, ;jpin
+23 Jul 2017 01:28:00 : Alone Server, bot_chat, Crystal4209#4698, ;jpin
+23 Jul 2017 01:28:00 : OblivionEvolved, bots, Wertfuzzy77#0274, ;mine
+23 Jul 2017 01:28:01 : OblivionEvolved, bots, Botfuzzy77#2209, 
+23 Jul 2017 01:28:01 : OblivionEvolved, bots, Botfuzzy77#2209, 
+23 Jul 2017 01:28:04 : OblivionEvolved, bots, Wertfuzzy77#0274, ;cd
+23 Jul 2017 01:28:04 : OblivionEvolved, bots, Botfuzzy77#2209, 
+23 Jul 2017 01:28:05 : Alone Server, bot_chat, Crystal4209#4698, ;join
+23 Jul 2017 01:28:06 : OblivionEvolved, bots, Wertfuzzy77#0274, ;mine
+23 Jul 2017 01:28:06 : OblivionEvolved, bots, Botfuzzy77#2209, 
+23 Jul 2017 01:28:06 : OblivionEvolved, bots, Botfuzzy77#2209, 
+23 Jul 2017 01:28:07 : OblivionEvolved, bots, Wertfuzzy77#0274, ...
+23 Jul 2017 01:28:07 : Alone Server, bot_chat, Botfuzzy77#2209, Connected channel!
+23 Jul 2017 01:28:14 : Alone Server, bot_chat, Crystal4209#4698, ;search all time low
+23 Jul 2017 01:28:16 : Alone Server, bot_chat, Botfuzzy77#2209, Added Jon Bellion - All Time Low (Video) to the queue
+23 Jul 2017 01:28:16 : Alone Server, bot_chat, Botfuzzy77#2209, https://www.youtube.com/watch?v=AXnqkVTFUqY
+23 Jul 2017 01:28:23 : Alone Server, bot_chat, Crystal4209#4698, ;search hard times
+23 Jul 2017 01:28:25 : Alone Server, bot_chat, Botfuzzy77#2209, Added Paramore: Hard Times [OFFICIAL VIDEO] to the queue
+23 Jul 2017 01:28:25 : Alone Server, bot_chat, Botfuzzy77#2209, https://www.youtube.com/watch?v=AEB6ibtdPZc
+23 Jul 2017 01:28:46 : Alone Server, bot_chat, Crystal4209#4698, ;search fairy tail dragon force
+23 Jul 2017 01:28:47 : Alone Server, bot_chat, Botfuzzy77#2209, Added Fairy Tail - Dragon Force Ost to the queue
+23 Jul 2017 01:28:47 : Alone Server, bot_chat, Botfuzzy77#2209, https://www.youtube.com/watch?v=KQwxKpu-HfA
+23 Jul 2017 01:28:54 : Alone Server, bot_chat, Crystal4209#4698, ;pb iiiiiiiiiiiiiii
+23 Jul 2017 01:28:54 : Alone Server, bot_chat, Botfuzzy77#2209, 
+23 Jul 2017 01:28:54 : Alone Server, bot_chat, Botfuzzy77#2209, 
+23 Jul 2017 01:29:09 : OblivionEvolved, bots, Wertfuzzy77#0274, ;lv
+23 Jul 2017 01:29:12 : OblivionEvolved, bots, Botfuzzy77#2209, 
+23 Jul 2017 01:29:15 : OblivionEvolved, bots, Wertfuzzy77#0274, ;mine
+23 Jul 2017 01:29:15 : OblivionEvolved, bots, Botfuzzy77#2209, 
+23 Jul 2017 01:29:15 : OblivionEvolved, bots, Botfuzzy77#2209, 
+23 Jul 2017 01:29:18 : OblivionEvolved, bots, Wertfuzzy77#0274, ;mine
+23 Jul 2017 01:29:18 : OblivionEvolved, bots, Botfuzzy77#2209, 
+23 Jul 2017 01:29:18 : OblivionEvolved, bots, Botfuzzy77#2209, 
+23 Jul 2017 01:29:21 : OblivionEvolved, bots, Wertfuzzy77#0274, ;mine
+23 Jul 2017 01:29:21 : OblivionEvolved, bots, Botfuzzy77#2209, 
+23 Jul 2017 01:29:21 : OblivionEvolved, bots, Botfuzzy77#2209, 
+23 Jul 2017 01:29:22 : OblivionEvolved, bots, Wertfuzzy77#0274, ;mine
+23 Jul 2017 01:29:23 : OblivionEvolved, bots, Botfuzzy77#2209, 
+23 Jul 2017 01:29:24 : OblivionEvolved, bots, Botfuzzy77#2209, 
+23 Jul 2017 01:29:25 : OblivionEvolved, bots, Wertfuzzy77#0274, ;lv
+23 Jul 2017 01:29:27 : OblivionEvolved, bots, Botfuzzy77#2209, 
+23 Jul 2017 01:30:42 : Alone Server, bot_chat, Crystal4209#4698, ;pb nnnnnnnnnnnnnnn
+23 Jul 2017 01:30:43 : Alone Server, bot_chat, Botfuzzy77#2209, 
+23 Jul 2017 01:30:43 : Alone Server, bot_chat, Botfuzzy77#2209, 
+23 Jul 2017 01:31:18 : Alone Server, bot_chat, Crystal4209#4698, ;pb bbbbbbbbbbbbbbb
+23 Jul 2017 01:31:18 : Alone Server, bot_chat, Botfuzzy77#2209, 
+23 Jul 2017 01:31:18 : LimitlessMc, botchat, Wertfuzzy77#0274, ;leave
+23 Jul 2017 01:31:30 : Alone Server, bot_chat, Crystal4209#4698, ;pb bbbbbbbbbbbbbbb
+23 Jul 2017 01:31:30 : Alone Server, bot_chat, Botfuzzy77#2209, 
+23 Jul 2017 01:31:36 : Alone Server, bot_chat, Crystal4209#4698, ;pb bbbbbbbbbbbbbbb
+23 Jul 2017 01:31:36 : Alone Server, bot_chat, Botfuzzy77#2209, 
+23 Jul 2017 01:31:53 : Alone Server, bot_chat, Crystal4209#4698, ;pb bbbbbbbbbbbbbbb
+23 Jul 2017 01:31:54 : Alone Server, bot_chat, Botfuzzy77#2209, 
+23 Jul 2017 01:31:54 : Alone Server, bot_chat, Botfuzzy77#2209, 

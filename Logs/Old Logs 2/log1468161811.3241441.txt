@@ -1,0 +1,25 @@
+10 Jul 2016 14:43:38 : Cipher , Wertfuzzy77#0274 , ;join
+10 Jul 2016 14:43:42 : Cipher , Wertfuzzy77#0274 , ;help MusicPlayer
+10 Jul 2016 14:43:42 : Cipher , Botfuzzy77#2209 , ```
+Commands:
+  skip        Skips the Current song
+  leave       Leaves the Join chat
+  song        Returns information about the current playing song
+  youtube     Adds a Song for the Bot to Play
+  desc        Decription of the Current playing song
+  join        Joins the Voice channel you are currently in
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+10 Jul 2016 14:43:51 : Cipher , Wertfuzzy77#0274 , ;youtube https://www.youtube.com/watch?v=fJ9rUzIMcZQ
+10 Jul 2016 14:44:01 : Cipher , Wertfuzzy77#0274 , ;song
+10 Jul 2016 14:44:01 : Cipher , Botfuzzy77#2209 , ```Name: Queen - Bohemian Rhapsody (Official Video)
+URL: <https://www.youtube.com/watch?v=fJ9rUzIMcZQ>
+Views: 253,474,452
+Likes: 1,177,863, 97.2%
+Dislikes: 33,942, 2.8%
+```
+10 Jul 2016 14:44:03 : Cipher , Wertfuzzy77#0274 , ;desc
+10 Jul 2016 14:44:52 : Cipher , Wertfuzzy77#0274 , ;relog
+10 Jul 2016 14:44:52 : Cipher , Botfuzzy77#2209 , Relogging...

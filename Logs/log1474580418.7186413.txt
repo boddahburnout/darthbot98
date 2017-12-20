@@ -1,0 +1,80 @@
+22 Sep 2016 21:41:05 : The Wild Weeaboos, general, Wertfuzzy77#0274, ;join
+22 Sep 2016 21:41:10 : The Wild Weeaboos, general, Wertfuzzy77#0274, ;playlist Kimi Kimi Kimi Kimi
+22 Sep 2016 21:41:23 : The Wild Weeaboos, general, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+22 Sep 2016 21:41:29 : The Wild Weeaboos, general, Wertfuzzy77#0274, ;songs
+22 Sep 2016 21:41:29 : The Wild Weeaboos, general, Botfuzzy77#2209, **The Following songs are in the Queue, plus [5] more**
+22 Sep 2016 21:42:06 : Penguins, general, Botfuzzy77#2209, **Resolate**(Suicune) is now Offline!
+22 Sep 2016 21:42:09 : The Wild Weeaboos, general, enragednuke#2565, B[i,j] = B[i-1,j] + A[i]
+22 Sep 2016 21:42:14 : The Wild Weeaboos, general, enragednuke#2565, 1v1 rust
+22 Sep 2016 21:42:42 : The Wild Weeaboos, general, enragednuke#2565, with a `if i==j: B[i,j] = A[i]`
+22 Sep 2016 21:43:31 : The Wild Weeaboos, general, enragednuke#2565, ?
+22 Sep 2016 21:43:54 : The Wild Weeaboos, general, enragednuke#2565, ok so `if i==j+1`
+22 Sep 2016 21:43:56 : The Wild Weeaboos, general, enragednuke#2565, lol
+22 Sep 2016 21:44:04 : The Wild Weeaboos, general, enragednuke#2565, right
+22 Sep 2016 21:44:10 : The Wild Weeaboos, general, enragednuke#2565, but it's the same as what the code before does
+22 Sep 2016 21:44:10 : The Wild Weeaboos, general, enragednuke#2565, lol
+22 Sep 2016 21:44:23 : Penguins, general, Botfuzzy77#2209, **Resolate**(Suicune) is now Online!
+22 Sep 2016 21:44:23 : The Wild Weeaboos, general, enragednuke#2565, buh
+22 Sep 2016 21:44:24 : The Wild Weeaboos, general, enragednuke#2565, buh
+22 Sep 2016 21:44:25 : The Wild Weeaboos, general, enragednuke#2565, U
+22 Sep 2016 21:44:26 : The Wild Weeaboos, general, enragednuke#2565, FOK
+22 Sep 2016 21:44:27 : The Wild Weeaboos, general, enragednuke#2565, N
+22 Sep 2016 21:44:27 : The Wild Weeaboos, general, enragednuke#2565, WUT
+22 Sep 2016 21:44:41 : The Wild Weeaboos, general, enragednuke#2565, gtfo dirty weeb
+22 Sep 2016 21:44:48 : The Wild Weeaboos, general, enragednuke#2565, lol
+22 Sep 2016 21:44:58 : The Wild Weeaboos, general, \//\#7946, sike im back faget
+22 Sep 2016 21:44:59 : The Wild Weeaboos, general, enragednuke#2565, i know
+22 Sep 2016 21:45:08 : The Wild Weeaboos, general, \//\#7946, kys
+22 Sep 2016 21:45:10 : The Wild Weeaboos, general, enragednuke#2565, im saying the B[i,j] is the same as the solution
+22 Sep 2016 21:45:11 : The Wild Weeaboos, general, enragednuke#2565, lol
+22 Sep 2016 21:45:12 : The Wild Weeaboos, general, enragednuke#2565, the
+22 Sep 2016 21:45:18 : The Wild Weeaboos, general, enragednuke#2565, B[i,j] = B[i-1,j] + A[i]
+22 Sep 2016 21:45:26 : The Wild Weeaboos, general, enragednuke#2565, as to not copy the answer from that thing
+22 Sep 2016 21:45:34 : The Wild Weeaboos, general, \//\#7946, is this what aids looks like
+22 Sep 2016 21:45:55 : The Wild Weeaboos, general, enragednuke#2565, u do realize it says u can collaborate right
+22 Sep 2016 21:45:57 : The Wild Weeaboos, general, enragednuke#2565, lol
+22 Sep 2016 21:46:12 : The Wild Weeaboos, general, enragednuke#2565, its the same as 250
+22 Sep 2016 21:46:13 : The Wild Weeaboos, general, enragednuke#2565, and 240
+22 Sep 2016 21:46:15 : The Wild Weeaboos, general, FinaldF#5864, ^
+22 Sep 2016 21:46:15 : The Wild Weeaboos, general, Botfuzzy77#2209, ^
+22 Sep 2016 21:46:23 : The Wild Weeaboos, general, FinaldF#5864, Just right each others name on papers and make your own write ups
+22 Sep 2016 21:46:26 : The Wild Weeaboos, general, enragednuke#2565, joe the oblivious potato as usual
+22 Sep 2016 21:46:28 : The Wild Weeaboos, general, \//\#7946, you could collaborate in 250/
+22 Sep 2016 21:46:33 : The Wild Weeaboos, general, \//\#7946, are you serious
+22 Sep 2016 21:46:35 : The Wild Weeaboos, general, enragednuke#2565, LOL
+22 Sep 2016 21:46:37 : The Wild Weeaboos, general, enragednuke#2565, yes
+22 Sep 2016 21:46:41 : The Wild Weeaboos, general, \//\#7946, not like it mattered
+22 Sep 2016 21:46:54 : The Wild Weeaboos, general, enragednuke#2565, if both people didnt know wtf was going on it didnt matter anyway lol
+22 Sep 2016 21:47:42 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Offline!
+22 Sep 2016 21:47:45 : The Wild Weeaboos, general, enragednuke#2565, ```
+for x = 1 to i:
+  B[i,i+1] = A[i]
+  for y = i+2 to j:
+    B[i,j] = B[i-1,j]
+```
+22 Sep 2016 21:47:53 : The Wild Weeaboos, general, enragednuke#2565, right?
+22 Sep 2016 21:47:57 : The Wild Weeaboos, general, enragednuke#2565, seems right to me
+22 Sep 2016 21:48:02 : The Wild Weeaboos, general, enragednuke#2565, wait
+22 Sep 2016 21:48:09 : The Wild Weeaboos, general, FinaldF#5864, end for
+22 Sep 2016 21:48:11 : The Wild Weeaboos, general, FinaldF#5864, 3rd line
+22 Sep 2016 21:48:18 : The Wild Weeaboos, general, enragednuke#2565, that doesnt make it faster lmao
+22 Sep 2016 21:48:20 : The Wild Weeaboos, general, enragednuke#2565, i used
+22 Sep 2016 21:48:21 : The Wild Weeaboos, general, enragednuke#2565, indentation
+22 Sep 2016 21:48:23 : The Wild Weeaboos, general, enragednuke#2565, to denote level
+22 Sep 2016 21:48:43 : The Wild Weeaboos, general, enragednuke#2565, that'd be the translation
+22 Sep 2016 21:48:44 : The Wild Weeaboos, general, enragednuke#2565, in the edit
+22 Sep 2016 21:48:50 : The Wild Weeaboos, general, enragednuke#2565, that's what im writing
+22 Sep 2016 21:48:54 : The Wild Weeaboos, general, enragednuke#2565, or in pseudocode form
+22 Sep 2016 21:49:00 : The Wild Weeaboos, general, enragednuke#2565, fuck it writing in python
+22 Sep 2016 21:49:00 : The Wild Weeaboos, general, enragednuke#2565, got cucked prof
+22 Sep 2016 21:49:03 : The Wild Weeaboos, general, enragednuke#2565, get*
+22 Sep 2016 21:49:08 : The Wild Weeaboos, general, enragednuke#2565, die nik
+22 Sep 2016 21:49:10 : The Wild Weeaboos, general, enragednuke#2565, ;die
+22 Sep 2016 21:49:13 : The Wild Weeaboos, general, enragednuke#2565, ;kys
+22 Sep 2016 21:49:14 : The Wild Weeaboos, general, Botfuzzy77#2209, Im Sorry, That goes against my programming
+22 Sep 2016 21:49:22 : The Wild Weeaboos, general, enragednuke#2565, ;kill @Wertfuzzy77
+22 Sep 2016 21:49:22 : The Wild Weeaboos, general, Botfuzzy77#2209, :skull: *enragednuke Killed @Wertfuzzy77* :skull:
+22 Sep 2016 21:49:27 : The Wild Weeaboos, general, enragednuke#2565, ;kill @Wertfuzzy77 @Wertfuzzy77 @Wertfuzzy77
+22 Sep 2016 21:49:27 : The Wild Weeaboos, general, Botfuzzy77#2209, :skull: *enragednuke Killed @Wertfuzzy77* :skull:
+22 Sep 2016 21:49:30 : The Wild Weeaboos, general, enragednuke#2565, dam
+22 Sep 2016 21:49:34 : The Wild Weeaboos, general, enragednuke#2565, ;debug bot.logout()

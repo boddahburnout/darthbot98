@@ -1,0 +1,37 @@
+19 Jan 2017 20:38:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokedex list
+19 Jan 2017 20:39:00 : None, Direct Message with Wertfuzzy77, Botfuzzy77#2209, Your Pokedex contains the following pokemon: Pupitar, Misdreavus, Woobat, Espurr, Crawdaunt, Persian, Tauros, Unfezant, Abra, Hitmontop, Armaldo, Vanilluxe, Nidoqueen, Cranidos, Skitty, Baltoy, Sigilyph, Glaceon, Haunter, Meditite, Glameow, Mantine, Kecleon, Bastiodon, Castform, Beartic, Kabutops, Murkrow, Cresselia, Cacnea, Ludicolo, Numel, Metang, Wingull, Stantler, Remoraid, Serperior, Palpitoad, Grotle, Magnezone, Alakazam, Medicham, Torterra, Slaking, Scizor, Spinda, Spritzee, Azelf, Charmeleon, Wailmer, Donphan, Smoochum, Beautifly, Golduck, Pansage, Flabébé, Mandibuzz, Granbull, Garbodor, Zigzagoon, Mesprit, Regirock, Gothita, Inkay, Maractus, Manectric, Electrode, Ferrothorn, Jolteon, Carnivine, Entei, Amaura, Vibrava, Cryogonal, Azumarill, Regice, Goodra, Totodile, Machamp, Snorlax, Throh, Chinchou, Dragonite, Herdier, Seadra, Monferno, Phantump, Shuppet, Zekrom, Mightyena, Bayleef, Kyurem, Tranquill, Igglybuff, Poliwrath, Tyrunt, Slugma, Frogadier, Pineco, Steelix, Carracosta, Weavile, Swinub
+19 Jan 2017 20:39:22 : LimitlessMc, botchat, Wertfuzzy77#0274, done @TherminatorX
+19 Jan 2017 20:40:27 : LimitlessMc, botchat, Wertfuzzy77#0274, ;help pokedex
+19 Jan 2017 20:40:27 : None, Direct Message with Wertfuzzy77, Botfuzzy77#2209, ```
+;pokedex [search]
+
+```
+19 Jan 2017 20:42:34 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokeboss
+19 Jan 2017 20:42:34 : LimitlessMc, botchat, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> hard to fight and reveal the boss.
+19 Jan 2017 20:42:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+19 Jan 2017 20:42:37 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 44
+**Pokemon**: Regice
+**XP**: 51106/91125
+**Boss Takedowns**: 20
+**Most Dmg in an Attack**: 7794
+19 Jan 2017 20:42:52 : LimitlessMc, botchat, Wertfuzzy77#0274, ;setpokemon Regice
+19 Jan 2017 20:42:52 : LimitlessMc, botchat, Botfuzzy77#2209, You can only set your Pokemon once.
+19 Jan 2017 20:42:58 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+19 Jan 2017 20:42:58 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 84 **Dunsparce** (26% to beat)
+You **Beat** a Level 23 **Gorebyss** for 440 XP (90% to beat)
+You **Lost** to a Level 4 **Beartic** (90% to beat)
+You **Beat** a Level 66 **Archen** for 2933 XP (33% to beat)
+You **Lost** to a Level 75 **Aerodactyl** (29% to beat)
+You **Lost** to a Level 40 **Gothitelle** (55% to beat)
+You **Lost** to a Level 66 **Sneasel** (33% to beat)
+You **Lost** to a Level 84 **Panpour** (26% to beat)
+You **Beat** a Level 22 **Minccino** for 440 XP (90% to beat)
+You **Beat** a Level 15 **Raikou** for 440 XP (90% to beat)
+You **Beat** a Level 6 **Keldeo** for 440 XP (90% to beat)
+You **Beat** a Level 40 **Lileep** for 1979 XP (55% to beat)
+19 Jan 2017 20:42:59 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 6672 XP!
+19 Jan 2017 20:43:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokedex
+19 Jan 2017 20:43:02 : LimitlessMc, botchat, Botfuzzy77#2209, Your Pokedex is 13.61% complete!
+19 Jan 2017 20:43:02 : LimitlessMc, botchat, Botfuzzy77#2209, You have not beat a

@@ -1,0 +1,1957 @@
+10 Jan 2017 02:24:55 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, back
+10 Jan 2017 02:25:00 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;train
+10 Jan 2017 02:25:00 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You **Lost** to a Level 38 **Hippowdon** (31% to beat)
+You **Beat** a Level 6 **Tornadus** for 120 XP (90% to beat)
+You **Beat** a Level 45 **Geodude** for 880 XP (26% to beat)
+You **Lost** to a Level 35 **Baltoy** (34% to beat)
+You **Lost** to a Level 33 **Dialga** (36% to beat)
+You **Beat** a Level 12 **Sewaddle** for 120 XP (90% to beat)
+You **Beat** a Level 14 **Diancie** for 171 XP (85% to beat)
+10 Jan 2017 02:25:00 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You trained for 1291 XP!
+10 Jan 2017 02:25:07 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;level
+10 Jan 2017 02:25:07 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 24
+**XP**: 9354/15625
+**Boss Takedowns**: 12
+**Most Dmg in an Attack**: 3481
+10 Jan 2017 02:25:12 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;pokeboss
+10 Jan 2017 02:25:12 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle to fight and reveal the boss.
+10 Jan 2017 02:25:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+10 Jan 2017 02:25:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ;playlist SteinsGate Animenz Shelter Kimi
+10 Jan 2017 02:25:23 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, (dangit)
+10 Jan 2017 02:25:31 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, (my boss is gone)
+10 Jan 2017 02:25:42 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;pokebattle
+10 Jan 2017 02:25:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please use a Combination of **5** Types to Fight the Boss: (**N**)ormal, (**F**)ire, (**W**)ater, (**G**)rass, (**P**)oison, (**D**)ragon, (**S**)teel, (**E**)lectric, (**B**)ug, or (**I**)ce.
+ Ex 'GSEBI' or 'DPGDB'
+10 Jan 2017 02:25:46 : LimitlessMc, botchat, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+10 Jan 2017 02:25:52 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;pokebattle winds
+10 Jan 2017 02:25:53 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, A Level 0 Boss **Hypno** has appeared!
+It has 0 Health.
+10 Jan 2017 02:25:53 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 02:25:53 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_i: :regional_indicator_n: :regional_indicator_d: :regional_indicator_s:
+:x: :x: :white_check_mark: :x: :x:
+10 Jan 2017 02:25:53 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its a Critical Strike
+10 Jan 2017 02:25:53 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **49** damage
+10 Jan 2017 02:25:58 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 0 Boss **Hypno** has been defeated!
+10 Jan 2017 02:25:58 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Most Damage by **TherminatorX** with **49** damage
+10 Jan 2017 02:26:05 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;summon 10
+10 Jan 2017 02:26:07 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, A Level 10 boss has been summoned
+10 Jan 2017 02:26:08 : LimitlessMc, botchat, Wertfuzzy77#0274, ;shuffle
+10 Jan 2017 02:26:08 : LimitlessMc, botchat, Botfuzzy77#2209, Shuffling songs...
+10 Jan 2017 02:26:13 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;cd
+10 Jan 2017 02:26:13 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You can Train right now!
+10 Jan 2017 02:26:24 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;pokebattle winds
+10 Jan 2017 02:26:24 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, A Level 10 Boss **Litleo** has appeared!
+It has 4270 Health.
+10 Jan 2017 02:26:24 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 02:26:24 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_i: :regional_indicator_n: :regional_indicator_d: :regional_indicator_s:
+:x: :x: :x: :x: :x:
+10 Jan 2017 02:26:24 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 02:26:24 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **1** damage
+10 Jan 2017 02:26:29 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 10 Boss **Litleo** has 4269 health left.
+10 Jan 2017 02:26:37 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, (awww)
+10 Jan 2017 02:27:06 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;train
+10 Jan 2017 02:27:06 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You **Beat** a Level 19 **Larvesta** for 473 XP (52% to beat)
+You **Beat** a Level 5 **Pikachu** for 100 XP (90% to beat)
+You **Lost** to a Level 22 **Slowking** (45% to beat)
+You **Beat** a Level 2 **Marshtomp** for 100 XP (90% to beat)
+You **Lost** to a Level 4 **Doduo** (90% to beat)
+You **Beat** a Level 20 **Makuhita** for 500 XP (50% to beat)
+You Find a **Pokeloot** worth 1853 XP
+You Find a **Great Pokeloot** worth 6021 XP
+10 Jan 2017 02:27:06 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You trained for 7194 XP!
+10 Jan 2017 02:27:14 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;level
+10 Jan 2017 02:27:15 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Name**: *TherminatorX*
+**Level**: 21
+**XP**: 162/10648
+**Boss Takedowns**: 6
+**Most Dmg in an Attack**: 3718
+10 Jan 2017 02:28:12 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;cd
+10 Jan 2017 02:28:12 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 1734 seconds
+10 Jan 2017 02:28:27 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;pokebattle bbbbb
+10 Jan 2017 02:28:27 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 10 Boss **Litleo** has 4269 health left.
+10 Jan 2017 02:28:27 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 02:28:27 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b:
+:x: :x: :white_check_mark: :x: :x:
+10 Jan 2017 02:28:27 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, *Low level boss penalty...*
+10 Jan 2017 02:28:27 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 02:28:32 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **14** damage
+10 Jan 2017 02:28:32 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 10 Boss **Litleo** has 4255 health left.
+10 Jan 2017 02:29:59 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, thats adorable
+10 Jan 2017 02:30:10 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, `Low level boss penalty...`
+10 Jan 2017 02:30:11 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, heh
+10 Jan 2017 02:30:18 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, why summon so low?
+10 Jan 2017 02:30:59 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, (it wasn't low when I summoned it)
+10 Jan 2017 02:32:14 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;pokebattle ddbed
+10 Jan 2017 02:32:14 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 10 Boss **Litleo** has 4255 health left.
+10 Jan 2017 02:32:14 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 02:32:14 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_d: :regional_indicator_d: :regional_indicator_b: :regional_indicator_e: :regional_indicator_d:
+:x: :x: :white_check_mark: :x: :x:
+10 Jan 2017 02:32:14 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, *Low level boss penalty...*
+10 Jan 2017 02:32:14 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 02:32:19 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **13** damage
+10 Jan 2017 02:32:19 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 10 Boss **Litleo** has 4242 health left.
+10 Jan 2017 02:39:27 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle ffbff
+10 Jan 2017 02:39:27 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 10 Boss **Litleo** has 4242 health left.
+10 Jan 2017 02:39:27 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 02:39:27 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_f: :regional_indicator_b: :regional_indicator_f: :regional_indicator_f:
+:x: :x: :white_check_mark: :x: :x:
+10 Jan 2017 02:39:27 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, *Low level boss penalty...*
+10 Jan 2017 02:39:27 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **13** damage
+10 Jan 2017 02:39:32 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 10 Boss **Litleo** has 4229 health left.
+10 Jan 2017 02:49:54 : LimitlessMc, botchat, Bakafish#8693, ;image when will wert be on
+10 Jan 2017 02:49:56 : LimitlessMc, botchat, Botfuzzy77#2209, https://bossip.files.wordpress.com/2016/01/ethan-willwert.jpg
+10 Jan 2017 02:50:02 : LimitlessMc, botchat, Bakafish#8693, .
+10 Jan 2017 02:50:14 : LimitlessMc, botchat, Bakafish#8693, weirdly fitting?
+10 Jan 2017 02:54:51 : LimitlessMc, botchat, xShizui_#0865, ;image wert
+10 Jan 2017 02:54:52 : LimitlessMc, botchat, Botfuzzy77#2209, http://www.metro.us/local/d-a-delco-doctor-lenwood-wert-ran-narcotic-pill-mill/tmWmeo---8dRus6Hb4JxDQ/LenwoodWert.jpg
+10 Jan 2017 02:55:56 : LimitlessMc, botchat, xShizui_#0865, omg baka
+10 Jan 2017 02:56:09 : LimitlessMc, mainchat, Saba#2249, lel too tricky for Baka
+10 Jan 2017 02:56:17 : LimitlessMc, botchat, xShizui_#0865, ;image kasim
+10 Jan 2017 02:56:18 : LimitlessMc, botchat, Botfuzzy77#2209, http://kasimreed.com/wp-content/uploads/2011/04/kasim_reed.jpg
+10 Jan 2017 02:56:23 : LimitlessMc, mainchat, Crystal4209#4698, lol
+10 Jan 2017 02:57:05 : LimitlessMc, botchat, xShizui_#0865, ;image Uvuvwevwevwe Onyetenyevwe Ugwemuhwem Osas
+10 Jan 2017 02:57:07 : LimitlessMc, botchat, Botfuzzy77#2209, https://i.ytimg.com/vi/fla-QobHzwg/hqdefault.jpg
+10 Jan 2017 03:04:48 : LimitlessMc, mainchat, Gerald#7099, ​A meowth welcome to @Rodge
+10 Jan 2017 03:06:05 : LimitlessMc, mainchat, D3NSH1N#8702, @Jay113355  You here?
+10 Jan 2017 03:06:24 : LimitlessMc, mainchat, Jay113355#4999, Yes
+10 Jan 2017 03:07:02 : LimitlessMc, mainchat, D3NSH1N#8702, VIP doesn't register extra homes
+10 Jan 2017 03:07:05 : LimitlessMc, mainchat, D3NSH1N#8702, At least for me
+10 Jan 2017 03:08:26 : LimitlessMc, mainchat, Crystal4209#4698, @Jay113355 you should join us in voice chat
+10 Jan 2017 03:08:47 : LimitlessMc, mainchat, Jay113355#4999, Opps
+10 Jan 2017 03:08:50 : LimitlessMc, mainchat, Jay113355#4999, its not auto
+10 Jan 2017 03:10:25 : LimitlessMc, mainchat, D3NSH1N#8702, @Jay113355  No rush, just letting you know in case rank itself was bugged. If you need me online to fix ping here
+10 Jan 2017 03:10:38 : LimitlessMc, mainchat, Jay113355#4999, Na it can be done offline
+10 Jan 2017 03:10:47 : LimitlessMc, mainchat, Jay113355#4999, ill try to remember next time im on
+10 Jan 2017 03:10:51 : LimitlessMc, mainchat, D3NSH1N#8702, Cool
+10 Jan 2017 03:12:39 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;pokebattle eebee
+10 Jan 2017 03:12:39 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 10 Boss **Litleo** has 4229 health left.
+10 Jan 2017 03:12:39 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 03:12:39 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_e: :regional_indicator_e: :regional_indicator_b: :regional_indicator_e: :regional_indicator_e:
+:x: :x: :white_check_mark: :x: :x:
+10 Jan 2017 03:12:39 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, *Low level boss penalty...*
+10 Jan 2017 03:12:39 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 03:12:44 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **12** damage
+10 Jan 2017 03:12:44 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 10 Boss **Litleo** has 4217 health left.
+10 Jan 2017 03:12:59 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;train
+10 Jan 2017 03:12:59 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You **Beat** a Level 2 **Honedge** for 105 XP (90% to beat)
+You **Beat** a Level 9 **Articuno** for 105 XP (90% to beat)
+You **Beat** a Level 41 **Spiritomb** for 781 XP (25% to beat)
+You **Beat** a Level 2 **Tranquill** for 105 XP (90% to beat)
+You **Lost** to a Level 37 **Gastly** (28% to beat)
+You **Lost** to a Level 40 **Litwick** (26% to beat)
+10 Jan 2017 03:12:59 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You trained for 1096 XP!
+10 Jan 2017 03:13:43 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;cd
+10 Jan 2017 03:13:43 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You can Train right now!
+10 Jan 2017 03:13:45 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;train
+10 Jan 2017 03:13:45 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You **Beat** a Level 12 **Omastar** for 120 XP (90% to beat)
+You **Beat** a Level 1 **Pignite** for 120 XP (90% to beat)
+You **Lost** to a Level 30 **Pumpkaboo** (40% to beat)
+You **Beat** a Level 12 **Grumpig** for 120 XP (90% to beat)
+You **Lost** to a Level 38 **Ferroseed** (31% to beat)
+You **Beat** a Level 21 **Probopass** for 514 XP (57% to beat)
+You **Beat** a Level 22 **Chandelure** for 545 XP (54% to beat)
+You use a **Lucky Egg** to gain more XP!
+10 Jan 2017 03:13:45 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You trained for 2128 XP!
+10 Jan 2017 03:13:52 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;level
+10 Jan 2017 03:13:52 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 24
+**XP**: 11482/15625
+**Boss Takedowns**: 12
+**Most Dmg in an Attack**: 3481
+10 Jan 2017 03:14:02 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle wwbww
+10 Jan 2017 03:14:02 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 10 Boss **Litleo** has 4217 health left.
+10 Jan 2017 03:14:02 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 03:14:02 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_w: :regional_indicator_b: :regional_indicator_w: :regional_indicator_w:
+:x: :white_check_mark: :white_check_mark: :x: :white_check_mark:
+10 Jan 2017 03:14:02 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its a Critical Strike
+10 Jan 2017 03:14:02 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+10 Jan 2017 03:14:07 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, *Low level boss penalty...*
+10 Jan 2017 03:14:07 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **113** damage
+10 Jan 2017 03:14:07 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 10 Boss **Litleo** has 4104 health left.
+10 Jan 2017 03:16:42 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;pokebattle gwbgw
+10 Jan 2017 03:16:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 10 Boss **Litleo** has 4104 health left.
+10 Jan 2017 03:16:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 03:16:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_g: :regional_indicator_w: :regional_indicator_b: :regional_indicator_g: :regional_indicator_w:
+:white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark:
+10 Jan 2017 03:16:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Super Effective! The Boss has switched 1/4 of the Super Effective Moves!
+10 Jan 2017 03:16:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, *Low level boss penalty...*
+10 Jan 2017 03:16:47 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 03:16:47 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **496** damage
+10 Jan 2017 03:16:47 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 10 Boss **Litleo** has 3608 health left.
+10 Jan 2017 03:17:08 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;pokeboss
+10 Jan 2017 03:17:09 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, -= **Boss Pokemon** =-
+*Name*: Litleo
+*Health*: 3608/4270 (84.5%)
+*Level*: 10
+Last Combo:
+:regional_indicator_g: :regional_indicator_w: :regional_indicator_b: :regional_indicator_g: :regional_indicator_w:
+:white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark:
+10 Jan 2017 03:17:09 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 03:17:09 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Most Damage by **TherminatorX** with **536** damage
+10 Jan 2017 03:17:09 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 2nd most Damage by *Wertfuzzy77* with *126* damage
+10 Jan 2017 03:40:17 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;pokebattle gwbgw
+10 Jan 2017 03:40:17 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 10 Boss **Litleo** has 3608 health left.
+10 Jan 2017 03:40:17 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 03:40:17 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_g: :regional_indicator_w: :regional_indicator_b: :regional_indicator_g: :regional_indicator_w:
+:x: :white_check_mark: :white_check_mark: :x: :white_check_mark:
+10 Jan 2017 03:40:17 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+10 Jan 2017 03:40:17 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, *Low level boss penalty...*
+10 Jan 2017 03:40:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 03:40:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **71** damage
+10 Jan 2017 03:40:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 10 Boss **Litleo** has 3537 health left.
+10 Jan 2017 03:44:15 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;pokebattle bwbiw
+10 Jan 2017 03:44:16 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 10 Boss **Litleo** has 3537 health left.
+10 Jan 2017 03:44:16 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 03:44:16 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_b: :regional_indicator_w: :regional_indicator_b: :regional_indicator_i: :regional_indicator_w:
+:x: :white_check_mark: :white_check_mark: :x: :white_check_mark:
+10 Jan 2017 03:44:16 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+10 Jan 2017 03:44:16 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, *Low level boss penalty...*
+10 Jan 2017 03:44:21 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 03:44:21 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **75** damage
+10 Jan 2017 03:44:21 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 10 Boss **Litleo** has 3462 health left.
+10 Jan 2017 03:47:57 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokeboss
+10 Jan 2017 03:47:57 : None, Direct Message with TherminatorX, Botfuzzy77#2209, -= **Boss Pokemon** =-
+*Name*: Litleo
+*Health*: 3462/4270 (81.08%)
+*Level*: 10
+Last Combo:
+:regional_indicator_b: :regional_indicator_w: :regional_indicator_b: :regional_indicator_i: :regional_indicator_w:
+:x: :white_check_mark: :white_check_mark: :x: :white_check_mark:
+10 Jan 2017 03:47:57 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+10 Jan 2017 03:47:57 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Most Damage by **TherminatorX** with **682** damage
+10 Jan 2017 03:47:57 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 2nd most Damage by *Wertfuzzy77* with *126* damage
+10 Jan 2017 03:48:29 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle dSDnw
+10 Jan 2017 03:48:29 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 10 Boss **Litleo** has 3462 health left.
+10 Jan 2017 03:48:30 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+10 Jan 2017 03:48:30 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_d: :regional_indicator_s: :regional_indicator_d: :regional_indicator_n: :regional_indicator_w:
+:x: :x: :x: :white_check_mark: :white_check_mark:
+10 Jan 2017 03:48:30 : None, Direct Message with TherminatorX, Botfuzzy77#2209, *Low level boss penalty...*
+10 Jan 2017 03:48:30 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 03:48:34 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **32** damage
+10 Jan 2017 03:48:34 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 10 Boss **Litleo** has 3430 health left.
+10 Jan 2017 03:49:03 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;train
+10 Jan 2017 03:49:03 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You **Lost** to a Level 31 **Victini** (33% to beat)
+You **Beat** a Level 33 **Darkrai** for 715 XP (31% to beat)
+You **Beat** a Level 3 **Regice** for 105 XP (90% to beat)
+You **Lost** to a Level 37 **Kangaskhan** (28% to beat)
+You **Beat** a Level 2 **Braviary** for 105 XP (90% to beat)
+You **Lost** to a Level 41 **Aipom** (25% to beat)
+10 Jan 2017 03:49:03 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You trained for 925 XP!
+10 Jan 2017 03:49:21 : LimitlessMc, mainchat, Crystal4209#4698, @Wertfuzzy77 fite me
+10 Jan 2017 03:49:30 : LimitlessMc, mainchat, Wertfuzzy77#0274, sure
+10 Jan 2017 03:50:08 : LimitlessMc, mainchat, Wertfuzzy77#0274, ;pokebattle Crystal4209
+10 Jan 2017 03:50:14 : LimitlessMc, mainchat, Wertfuzzy77#0274, wtb Trainer Battles
+10 Jan 2017 03:50:42 : LimitlessMc, mainchat, Crystal4209#4698, nah on pixelmon 1 vs 1 pvp
+10 Jan 2017 03:51:18 : LimitlessMc, mainchat, Wertfuzzy77#0274, I have to log on then xD and I was gonna go to bed shortly
+10 Jan 2017 03:51:29 : LimitlessMc, mainchat, Crystal4209#4698, lel
+10 Jan 2017 03:53:46 : LimitlessMc, botchat, Saba#2249, ;train
+10 Jan 2017 03:53:46 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 11 **Octillery** for 265 XP (59% to beat)
+You **Lost** to a Level 15 **Swinub** (43% to beat)
+You **Beat** a Level 4 **Blaziken** for 65 XP (90% to beat)
+You **Beat** a Level 13 **Noctowl** for 325 XP (50% to beat)
+You Find a **Pokeloot** worth 549 XP
+You Find a **Great Pokeloot** worth 1785 XP
+10 Jan 2017 03:53:46 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 2440 XP!
+10 Jan 2017 03:53:51 : LimitlessMc, botchat, Saba#2249, ;level
+10 Jan 2017 03:53:51 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Saba*
+**Level**: 13
+**XP**: 2523/2744
+**Boss Takedowns**: 1
+**Most Dmg in an Attack**: 896
+10 Jan 2017 04:05:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+10 Jan 2017 04:05:55 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 24 **Weepinbell** (50% to beat)
+You **Lost** to a Level 36 **Starmie** (33% to beat)
+You **Beat** a Level 2 **Steelix** for 120 XP (90% to beat)
+You **Beat** a Level 20 **Palkia** for 480 XP (60% to beat)
+You **Beat** a Level 9 **Sharpedo** for 120 XP (90% to beat)
+You **Beat** a Level 15 **Sawsbuck** for 240 XP (80% to beat)
+You **Beat** a Level 27 **Goldeen** for 666 XP (44% to beat)
+10 Jan 2017 04:05:56 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 1626 XP!
+10 Jan 2017 04:06:06 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+10 Jan 2017 04:06:06 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 24
+**XP**: 13115/15625
+**Boss Takedowns**: 12
+**Most Dmg in an Attack**: 3481
+10 Jan 2017 04:06:09 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokeboss
+10 Jan 2017 04:06:09 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Boss Pokemon** =-
+*Name*: Litleo
+*Health*: 3430/4270 (80.33%)
+*Level*: 10
+Last Combo:
+:regional_indicator_d: :regional_indicator_s: :regional_indicator_d: :regional_indicator_n: :regional_indicator_w:
+:x: :x: :x: :white_check_mark: :white_check_mark:
+10 Jan 2017 04:06:09 : LimitlessMc, botchat, Botfuzzy77#2209, 
+10 Jan 2017 04:06:09 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **TherminatorX** with **714** damage
+10 Jan 2017 04:06:09 : LimitlessMc, botchat, Botfuzzy77#2209, 2nd most Damage by *Wertfuzzy77* with *126* damage
+10 Jan 2017 04:06:16 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle GGGNW
+10 Jan 2017 04:06:16 : LimitlessMc, botchat, Botfuzzy77#2209, Level 10 Boss **Litleo** has 3430 health left.
+10 Jan 2017 04:06:16 : LimitlessMc, botchat, Botfuzzy77#2209, 
+10 Jan 2017 04:06:16 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_n: :regional_indicator_w:
+:x: :x: :x: :white_check_mark: :white_check_mark:
+10 Jan 2017 04:06:16 : LimitlessMc, botchat, Botfuzzy77#2209, *Low level boss penalty...*
+10 Jan 2017 04:06:16 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **19** damage
+10 Jan 2017 04:06:21 : LimitlessMc, botchat, Botfuzzy77#2209, Level 10 Boss **Litleo** has 3411 health left.
+10 Jan 2017 04:10:11 : Pokemon Mystery Dungeon, general, AnishaLunarAngel#5926, I've seen that video before xD
+10 Jan 2017 04:16:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ;music
+10 Jan 2017 04:16:42 : LimitlessMc, botchat, Botfuzzy77#2209, Version: 0.4.3
+Queue Length: 3
+Radio Mode: False
+Connected Channel: 🎧 Fuzzy Music
+Song Playing: Extra Magic Hour - Amagi Brilliant Park OP [piano]
+10 Jan 2017 04:16:54 : LimitlessMc, botchat, xShizui_#0865, ;songs
+10 Jan 2017 04:16:54 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+10 Jan 2017 04:16:54 : LimitlessMc, botchat, Botfuzzy77#2209, 1. 【君の名は。】 夢灯籠 / RADWIMPS (cover)by Eve **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=JuyYiIZT7Js>
+2. Anata No Eranda Kono Toki Wo-Itao Kanako **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=q0hdTbqMICw>
+3. Shelter - Porter Robinson & Madeon [Fingerstyle Guitar Cover by Eddie van der Meer] **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=NtOJw5DUrKw>
+Total Time is 0:11:15
+10 Jan 2017 04:17:09 : LimitlessMc, botchat, xShizui_#0865, ;skip
+10 Jan 2017 04:17:09 : LimitlessMc, botchat, Botfuzzy77#2209, 1/0 votes to skip
+10 Jan 2017 04:17:09 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Extra Magic Hour - Amagi Brilliant Park OP [piano] by popular vote.
+10 Jan 2017 04:17:10 : LimitlessMc, botchat, xShizui_#0865, ;skip
+10 Jan 2017 04:17:10 : LimitlessMc, botchat, Botfuzzy77#2209, 1/0 votes to skip
+10 Jan 2017 04:17:10 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping 【君の名は。】 夢灯籠 / RADWIMPS (cover)by Eve by popular vote.
+10 Jan 2017 04:17:15 : LimitlessMc, botchat, xShizui_#0865, ;skip
+10 Jan 2017 04:17:15 : LimitlessMc, botchat, Botfuzzy77#2209, 1/0 votes to skip
+10 Jan 2017 04:17:15 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Anata No Eranda Kono Toki Wo-Itao Kanako by popular vote.
+10 Jan 2017 04:17:17 : LimitlessMc, botchat, xShizui_#0865, ;skip
+10 Jan 2017 04:17:17 : LimitlessMc, botchat, Botfuzzy77#2209, 1/0 votes to skip
+10 Jan 2017 04:17:17 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Shelter - Porter Robinson & Madeon [Fingerstyle Guitar Cover by Eddie van der Meer] by popular vote.
+10 Jan 2017 04:17:18 : LimitlessMc, botchat, xShizui_#0865, ;skip
+10 Jan 2017 04:17:18 : LimitlessMc, botchat, Botfuzzy77#2209, 1/0 votes to skip
+10 Jan 2017 04:17:20 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Shelter - Porter Robinson & Madeon [Fingerstyle Guitar Cover by Eddie van der Meer] by popular vote.
+10 Jan 2017 04:17:22 : LimitlessMc, botchat, xShizui_#0865, ;skip
+10 Jan 2017 04:17:22 : LimitlessMc, botchat, Botfuzzy77#2209, 1/0 votes to skip
+10 Jan 2017 04:17:22 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Shelter - Porter Robinson & Madeon [Fingerstyle Guitar Cover by Eddie van der Meer] by popular vote.
+10 Jan 2017 04:17:24 : LimitlessMc, botchat, xShizui_#0865, ;songs
+10 Jan 2017 04:17:24 : LimitlessMc, botchat, Botfuzzy77#2209, Queue is Empty
+10 Jan 2017 04:17:37 : LimitlessMc, botchat, xShizui_#0865, ;search i dont wanna know
+10 Jan 2017 04:17:38 : LimitlessMc, botchat, Botfuzzy77#2209, Added Maroon 5 - Don't Wanna Know (Audio) ft. Kendrick Lamar to the queue
+10 Jan 2017 04:17:39 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=OxPv8mSTv9U
+10 Jan 2017 04:23:18 : LimitlessMc, botchat, MoonWolf#8885, ;train
+10 Jan 2017 04:23:18 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 12 **Pangoro** for 166 XP (83% to beat)
+You **Lost** to a Level 38 **Wobbuffet** (26% to beat)
+You **Lost** to a Level 29 **Snorlax** (34% to beat)
+You **Beat** a Level 15 **Gothita** for 333 XP (66% to beat)
+You **Beat** a Level 14 **Zorua** for 285 XP (71% to beat)
+You **Beat** a Level 1 **Corphish** for 100 XP (90% to beat)
+10 Jan 2017 04:23:18 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 884 XP!
+10 Jan 2017 04:44:47 : LimitlessMc, mainchat, Bakafish#8693, #wertsavoidance
+10 Jan 2017 04:56:32 : LimitlessMc, mainchat, Crystal4209#4698, fite me wert lel
+10 Jan 2017 04:58:59 : LimitlessMc, mainchat, Wertfuzzy77#0274, Shhh, I can avoid it for as long as I want
+10 Jan 2017 04:59:28 : LimitlessMc, mainchat, Wertfuzzy77#0274, ;afk anime
+10 Jan 2017 04:59:34 : LimitlessMc, mainchat, Crystal4209#4698, noo get on
+10 Jan 2017 04:59:39 : LimitlessMc, mainchat, Crystal4209#4698, fite me
+10 Jan 2017 05:00:00 : LimitlessMc, mainchat, Crystal4209#4698, dont aboid me
+10 Jan 2017 05:03:20 : LimitlessMc, mainchat, Crystal4209#4698, damn people are getting triggered since i got super lucky XD
+10 Jan 2017 05:10:13 : LimitlessMc, mainchat, xShizui_#0865, Triggered
+10 Jan 2017 05:10:15 : LimitlessMc, mainchat, xShizui_#0865, Hax
+10 Jan 2017 05:10:24 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;train
+10 Jan 2017 05:10:24 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You **Beat** a Level 13 **Fletchling** for 201 XP (80% to beat)
+You **Beat** a Level 35 **Drilbur** for 735 XP (30% to beat)
+You **Lost** to a Level 31 **Mantine** (33% to beat)
+You **Beat** a Level 2 **Electabuzz** for 105 XP (90% to beat)
+You **Lost** to a Level 36 **Shuppet** (29% to beat)
+You **Lost** to a Level 31 **Magnemite** (33% to beat)
+10 Jan 2017 05:10:24 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You trained for 1041 XP!
+10 Jan 2017 05:10:38 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;pokeboss
+10 Jan 2017 05:10:38 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, -= **Boss Pokemon** =-
+*Name*: Litleo
+*Health*: 3411/4270 (79.88%)
+*Level*: 10
+Last Combo:
+:regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_n: :regional_indicator_w:
+:x: :x: :x: :white_check_mark: :white_check_mark:
+10 Jan 2017 05:10:38 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 05:10:38 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Most Damage by **TherminatorX** with **714** damage
+10 Jan 2017 05:10:38 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 2nd most Damage by *Wertfuzzy77* with *145* damage
+10 Jan 2017 05:11:08 : LimitlessMc, mainchat, Crystal4209#4698, fite me then
+10 Jan 2017 05:11:21 : LimitlessMc, mainchat, xShizui_#0865, Im going to work
+10 Jan 2017 05:11:47 : LimitlessMc, mainchat, Crystal4209#4698, then dont get triggered when i get super lucky XD
+10 Jan 2017 05:11:56 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle eSDnw
+10 Jan 2017 05:11:56 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 10 Boss **Litleo** has 3411 health left.
+10 Jan 2017 05:11:56 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+10 Jan 2017 05:11:56 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_e: :regional_indicator_s: :regional_indicator_d: :regional_indicator_n: :regional_indicator_w:
+:x: :x: :x: :white_check_mark: :white_check_mark:
+10 Jan 2017 05:11:56 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its a Critical Strike
+10 Jan 2017 05:11:56 : None, Direct Message with TherminatorX, Botfuzzy77#2209, *Low level boss penalty...*
+10 Jan 2017 05:12:01 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 05:12:01 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **47** damage
+10 Jan 2017 05:12:01 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 10 Boss **Litleo** has 3364 health left.
+10 Jan 2017 05:12:02 : LimitlessMc, mainchat, xShizui_#0865, ;-;
+10 Jan 2017 05:12:13 : LimitlessMc, mainchat, xShizui_#0865, Gimme 1 mball mate
+10 Jan 2017 05:12:48 : LimitlessMc, mainchat, Crystal4209#4698, nah mate ya dont need it
+10 Jan 2017 05:13:03 : LimitlessMc, mainchat, xShizui_#0865, I nid it mate
+10 Jan 2017 05:13:28 : LimitlessMc, mainchat, xShizui_#0865, For moltrea
+10 Jan 2017 05:13:36 : LimitlessMc, mainchat, xShizui_#0865, Moltres
+10 Jan 2017 05:14:00 : LimitlessMc, mainchat, Crystal4209#4698, catch em with ultras like i do
+10 Jan 2017 05:16:47 : LimitlessMc, mainchat, xShizui_#0865, U help me mate
+10 Jan 2017 05:16:51 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle iSDnw
+10 Jan 2017 05:16:51 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 10 Boss **Litleo** has 3364 health left.
+10 Jan 2017 05:16:52 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+10 Jan 2017 05:16:52 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_s: :regional_indicator_d: :regional_indicator_n: :regional_indicator_w:
+:x: :x: :x: :white_check_mark: :white_check_mark:
+10 Jan 2017 05:16:52 : None, Direct Message with TherminatorX, Botfuzzy77#2209, *Low level boss penalty...*
+10 Jan 2017 05:16:52 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 05:16:56 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **23** damage
+10 Jan 2017 05:16:56 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 10 Boss **Litleo** has 3341 health left.
+10 Jan 2017 05:17:03 : LimitlessMc, mainchat, xShizui_#0865, I give u ultras
+10 Jan 2017 05:17:13 : LimitlessMc, mainchat, Crystal4209#4698, nah im busy with other stuff 😛
+10 Jan 2017 05:17:20 : LimitlessMc, mainchat, xShizui_#0865, ;-;
+10 Jan 2017 05:17:58 : LimitlessMc, mainchat, xShizui_#0865, Zyro coming back yey
+10 Jan 2017 05:18:01 : None, Direct Message with TherminatorX, TherminatorX#6644, ;cd
+10 Jan 2017 05:18:01 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **Battle**
+You need to wait 25 seconds
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 1342 seconds
+10 Jan 2017 05:20:23 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle fSDnw
+10 Jan 2017 05:20:23 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 10 Boss **Litleo** has 3341 health left.
+10 Jan 2017 05:20:23 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+10 Jan 2017 05:20:23 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_s: :regional_indicator_d: :regional_indicator_n: :regional_indicator_w:
+:x: :x: :x: :white_check_mark: :white_check_mark:
+10 Jan 2017 05:20:23 : None, Direct Message with TherminatorX, Botfuzzy77#2209, *Low level boss penalty...*
+10 Jan 2017 05:20:23 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 05:20:28 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **27** damage
+10 Jan 2017 05:20:28 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 10 Boss **Litleo** has 3314 health left.
+10 Jan 2017 05:30:33 : LimitlessMc, mainchat, xShizui_#0865, https://9gag.com/gag/aG0QZ36?ref=ios.s.cp
+10 Jan 2017 05:31:17 : LimitlessMc, mainchat, xShizui_#0865, https://9gag.com/gag/aLM55nx?ref=ios.s.cp
+10 Jan 2017 05:33:25 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;train
+10 Jan 2017 05:33:25 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 419 seconds before you can train again.
+10 Jan 2017 05:33:58 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle nSDnw
+10 Jan 2017 05:33:58 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 10 Boss **Litleo** has 3314 health left.
+10 Jan 2017 05:33:59 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+10 Jan 2017 05:33:59 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_s: :regional_indicator_d: :regional_indicator_n: :regional_indicator_w:
+:white_check_mark: :x: :x: :white_check_mark: :white_check_mark:
+10 Jan 2017 05:33:59 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+10 Jan 2017 05:33:59 : None, Direct Message with TherminatorX, Botfuzzy77#2209, *Low level boss penalty...*
+10 Jan 2017 05:34:03 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 05:34:04 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **87** damage
+10 Jan 2017 05:34:04 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 10 Boss **Litleo** has 3227 health left.
+10 Jan 2017 05:34:21 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle nwbnw
+10 Jan 2017 05:34:21 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Please wait 73 seconds before you can fight the boss again.
+10 Jan 2017 05:35:02 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;cd
+10 Jan 2017 05:35:02 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Battle**
+You need to wait 31 seconds
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 321 seconds
+10 Jan 2017 05:36:15 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;cd
+10 Jan 2017 05:36:15 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 249 seconds
+10 Jan 2017 05:36:19 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;pokebattle nwbnw
+10 Jan 2017 05:36:19 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 10 Boss **Litleo** has 3227 health left.
+10 Jan 2017 05:36:19 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 05:36:20 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_w: :regional_indicator_b: :regional_indicator_n: :regional_indicator_w:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+10 Jan 2017 05:36:20 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its a Perfect Combo. The Boss has switched 1/2 of the Super Effective Moves!
+10 Jan 2017 05:36:20 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, *Low level boss penalty...*
+10 Jan 2017 05:36:20 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 05:36:20 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **1238** damage
+10 Jan 2017 05:36:20 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 10 Boss **Litleo** has 1989 health left.
+10 Jan 2017 05:37:18 : None, Direct Message with TherminatorX, TherminatorX#6644, ;cd
+10 Jan 2017 05:37:18 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **Battle**
+You need to wait 32 seconds
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 185 seconds
+10 Jan 2017 05:38:21 : None, Direct Message with TherminatorX, TherminatorX#6644, ;cd
+10 Jan 2017 05:38:21 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 123 seconds
+10 Jan 2017 05:38:24 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle nwbnw
+10 Jan 2017 05:38:24 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 10 Boss **Litleo** has 1989 health left.
+10 Jan 2017 05:38:24 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+10 Jan 2017 05:38:25 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_w: :regional_indicator_b: :regional_indicator_n: :regional_indicator_w:
+:x: :white_check_mark: :x: :white_check_mark: :white_check_mark:
+10 Jan 2017 05:38:25 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+10 Jan 2017 05:38:26 : None, Direct Message with TherminatorX, Botfuzzy77#2209, *Low level boss penalty...*
+10 Jan 2017 05:38:26 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 05:38:26 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **83** damage
+10 Jan 2017 05:38:26 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 10 Boss **Litleo** has 1906 health left.
+10 Jan 2017 05:40:09 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle pwdPS
+10 Jan 2017 05:40:09 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 10 Boss **Litleo** has 1906 health left.
+10 Jan 2017 05:40:09 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+10 Jan 2017 05:40:09 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_p: :regional_indicator_w: :regional_indicator_d: :regional_indicator_p: :regional_indicator_s:
+:x: :white_check_mark: :x: :x: :x:
+10 Jan 2017 05:40:09 : None, Direct Message with TherminatorX, Botfuzzy77#2209, *Low level boss penalty...*
+10 Jan 2017 05:40:09 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 05:40:14 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **13** damage
+10 Jan 2017 05:40:14 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 10 Boss **Litleo** has 1893 health left.
+10 Jan 2017 05:40:31 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokeboss
+10 Jan 2017 05:40:31 : None, Direct Message with TherminatorX, Botfuzzy77#2209, -= **Boss Pokemon** =-
+*Name*: Litleo
+*Health*: 1893/4270 (44.33%)
+*Level*: 10
+Last Combo:
+:regional_indicator_p: :regional_indicator_w: :regional_indicator_d: :regional_indicator_p: :regional_indicator_s:
+:x: :white_check_mark: :x: :x: :x:
+10 Jan 2017 05:40:31 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+10 Jan 2017 05:40:31 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Most Damage by **TherminatorX** with **2232** damage
+10 Jan 2017 05:40:31 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 2nd most Damage by *Wertfuzzy77* with *145* damage
+10 Jan 2017 05:41:36 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle sSDnw
+10 Jan 2017 05:41:36 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Please wait 8 seconds before you can fight the boss again.
+10 Jan 2017 05:41:52 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle sSDnw
+10 Jan 2017 05:41:52 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 10 Boss **Litleo** has 1893 health left.
+10 Jan 2017 05:41:52 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+10 Jan 2017 05:41:52 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_s: :regional_indicator_s: :regional_indicator_d: :regional_indicator_n: :regional_indicator_w:
+:x: :x: :x: :white_check_mark: :white_check_mark:
+10 Jan 2017 05:41:52 : None, Direct Message with TherminatorX, Botfuzzy77#2209, *Low level boss penalty...*
+10 Jan 2017 05:41:52 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 05:41:57 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **31** damage
+10 Jan 2017 05:41:57 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 10 Boss **Litleo** has 1862 health left.
+10 Jan 2017 05:43:17 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle swePS
+10 Jan 2017 05:43:18 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Please wait 10 seconds before you can fight the boss again.
+10 Jan 2017 05:43:33 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, Hax
+10 Jan 2017 05:43:37 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle swePS
+10 Jan 2017 05:43:37 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 10 Boss **Litleo** has 1862 health left.
+10 Jan 2017 05:43:37 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+10 Jan 2017 05:43:37 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_s: :regional_indicator_w: :regional_indicator_e: :regional_indicator_p: :regional_indicator_s:
+:x: :white_check_mark: :x: :x: :x:
+10 Jan 2017 05:43:37 : None, Direct Message with TherminatorX, Botfuzzy77#2209, *Low level boss penalty...*
+10 Jan 2017 05:43:37 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 05:43:42 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **14** damage
+10 Jan 2017 05:43:42 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 10 Boss **Litleo** has 1848 health left.
+10 Jan 2017 05:44:36 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, fite me
+10 Jan 2017 05:45:34 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, lel
+10 Jan 2017 05:46:16 : Pokemon Mystery Dungeon, general, Crystal4209#4698, why did shuckle leave?
+10 Jan 2017 05:49:14 : LimitlessMc, mainchat, Crystal4209#4698, @Wertfuzzy77 fite me
+10 Jan 2017 06:05:29 : LimitlessMc, mainchat, Wertfuzzy77#0274, But I'm in beddddd
+10 Jan 2017 06:06:15 : LimitlessMc, mainchat, Wertfuzzy77#0274, @Crystal4209 fite you tomorrow
+10 Jan 2017 06:09:08 : LimitlessMc, mainchat, Crystal4209#4698, your avoiding me
+10 Jan 2017 06:09:15 : LimitlessMc, mainchat, xShizui_#0865, https://9gag.com/gag/aZBYxGX?ref=ios.s.cp
+10 Jan 2017 06:09:32 : LimitlessMc, mainchat, Wertfuzzy77#0274, I am not xD
+10 Jan 2017 06:09:51 : LimitlessMc, mainchat, Wertfuzzy77#0274, If I was avoiding you, I wouldn't even respond :P
+10 Jan 2017 06:10:31 : LimitlessMc, mainchat, Crystal4209#4698, sure..
+10 Jan 2017 06:10:48 : LimitlessMc, mainchat, Crystal4209#4698, your trying to avoid the fite thats why your not on XD
+10 Jan 2017 06:11:17 : LimitlessMc, mainchat, Crystal4209#4698, then again i cant fite right now since my brother is lagging out the internet XD
+10 Jan 2017 06:12:07 : LimitlessMc, mainchat, xShizui_#0865, https://9gag.com/gag/ao2on33?ref=ios.s.cp
+10 Jan 2017 06:12:19 : LimitlessMc, mainchat, xShizui_#0865, I found some thing good on internet
+10 Jan 2017 06:16:04 : LimitlessMc, mainchat, xShizui_#0865, https://9gag.com/gag/aVDrqmO?ref=ios.s.cp
+10 Jan 2017 06:19:58 : LimitlessMc, mainchat, Wertfuzzy77#0274, A. Fine @Crystal4209 I'll make a deal, we no fite and I get a Mic for tomorrow.
+B. That is in fact a zombie
+10 Jan 2017 06:20:33 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle wwePS
+10 Jan 2017 06:20:33 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 10 Boss **Litleo** has 1848 health left.
+10 Jan 2017 06:20:33 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+10 Jan 2017 06:20:33 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_w: :regional_indicator_e: :regional_indicator_p: :regional_indicator_s:
+:x: :white_check_mark: :x: :x: :x:
+10 Jan 2017 06:20:33 : None, Direct Message with TherminatorX, Botfuzzy77#2209, *Low level boss penalty...*
+10 Jan 2017 06:20:33 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 06:20:38 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **15** damage
+10 Jan 2017 06:20:38 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 10 Boss **Litleo** has 1833 health left.
+10 Jan 2017 06:21:13 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;train
+10 Jan 2017 06:21:13 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You **Lost** to a Level 29 **Meganium** (36% to beat)
+You **Beat** a Level 27 **Prinplup** for 641 XP (38% to beat)
+You **Beat** a Level 2 **Arbok** for 105 XP (90% to beat)
+You **Lost** to a Level 19 **Beldum** (55% to beat)
+You **Beat** a Level 15 **Armaldo** for 315 XP (70% to beat)
+You **Lost** to a Level 27 **Lairon** (38% to beat)
+You Find a **Pokeloot** worth 2130 XP
+10 Jan 2017 06:21:13 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You trained for 3191 XP!
+10 Jan 2017 06:21:55 : LimitlessMc, mainchat, Crystal4209#4698, deal
+10 Jan 2017 06:22:23 : Pokemon Mystery Dungeon, general, TherminatorX#6644, (an excellent question)
+10 Jan 2017 06:22:40 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, 'pokebattle DDDDD
+10 Jan 2017 06:22:50 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, ;pokebattle DDDDD
+10 Jan 2017 06:22:50 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 10 Boss **Litleo** has 1833 health left.
+10 Jan 2017 06:22:50 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 06:22:50 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d:
+:x: :x: :x: :x: :x:
+10 Jan 2017 06:22:50 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **0** damage
+10 Jan 2017 06:22:50 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 10 Boss **Litleo** has 1833 health left.
+10 Jan 2017 06:23:23 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, ;pokebattle FIIFG
+10 Jan 2017 06:23:23 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 57 seconds before you can fight the boss again.
+10 Jan 2017 06:23:26 : LimitlessMc, mainchat, Wertfuzzy77#0274, Adding a clause to the deal, you admit you have a British accent
+10 Jan 2017 06:23:46 : LimitlessMc, mainchat, Crystal4209#4698, you cant do that tho...
+10 Jan 2017 06:24:25 : Pokemon Mystery Dungeon, general, TherminatorX#6644, (doesn't seem to appear on the Limitless Discord either)
+10 Jan 2017 06:24:45 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle bwfPS
+10 Jan 2017 06:24:45 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 10 Boss **Litleo** has 1833 health left.
+10 Jan 2017 06:24:46 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+10 Jan 2017 06:24:46 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_b: :regional_indicator_w: :regional_indicator_f: :regional_indicator_p: :regional_indicator_s:
+:x: :white_check_mark: :white_check_mark: :x: :x:
+10 Jan 2017 06:24:46 : None, Direct Message with TherminatorX, Botfuzzy77#2209, *Low level boss penalty...*
+10 Jan 2017 06:24:46 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 06:24:51 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **23** damage
+10 Jan 2017 06:24:51 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 10 Boss **Litleo** has 1810 health left.
+10 Jan 2017 06:25:14 : LimitlessMc, mainchat, Wertfuzzy77#0274, Says who
+10 Jan 2017 06:25:25 : LimitlessMc, mainchat, Crystal4209#4698, says me
+10 Jan 2017 06:25:52 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;lookup  Crystal4209
+10 Jan 2017 06:25:52 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Name**: *Crystal4209*
+**Level**: 8
+**XP**: 230/729
+**Boss Takedowns**: 1
+**Most Dmg in an Attack**: 184
+10 Jan 2017 06:26:21 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, ;pokebattle FIIFG
+10 Jan 2017 06:26:21 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 10 Boss **Litleo** has 1810 health left.
+10 Jan 2017 06:26:21 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 06:26:21 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_i: :regional_indicator_i: :regional_indicator_f: :regional_indicator_g:
+:white_check_mark: :x: :x: :x: :x:
+10 Jan 2017 06:26:21 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **8** damage
+10 Jan 2017 06:26:21 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 10 Boss **Litleo** has 1802 health left.
+10 Jan 2017 06:26:35 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle dwfPS
+10 Jan 2017 06:26:35 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 10 Boss **Litleo** has 1802 health left.
+10 Jan 2017 06:26:36 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+10 Jan 2017 06:26:36 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_d: :regional_indicator_w: :regional_indicator_f: :regional_indicator_p: :regional_indicator_s:
+:x: :white_check_mark: :white_check_mark: :x: :x:
+10 Jan 2017 06:26:36 : None, Direct Message with TherminatorX, Botfuzzy77#2209, *Low level boss penalty...*
+10 Jan 2017 06:26:36 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 06:26:36 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, ;train
+10 Jan 2017 06:26:36 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You must be Level 10 to use ;train
+10 Jan 2017 06:26:40 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **29** damage
+10 Jan 2017 06:26:40 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 10 Boss **Litleo** has 1773 health left.
+10 Jan 2017 06:26:44 : None, Direct Message with TherminatorX, TherminatorX#6644, ;types
+10 Jan 2017 06:26:44 : None, Direct Message with TherminatorX, Botfuzzy77#2209, -= **Possible Types ** =-
+:regional_indicator_n: ormal
+:regional_indicator_f: ire
+:regional_indicator_w: ater
+:regional_indicator_g: rass
+:regional_indicator_p: oison
+:regional_indicator_d: ragon
+:regional_indicator_s: teel
+:regional_indicator_e: lectric
+:regional_indicator_b: ug
+:regional_indicator_i: ce
+10 Jan 2017 06:26:50 : LimitlessMc, mainchat, ChesireKat#7022, i fell asleep in front of my computer
+10 Jan 2017 06:26:56 : LimitlessMc, mainchat, Crystal4209#4698, lol
+10 Jan 2017 06:27:07 : LimitlessMc, mainchat, Wertfuzzy77#0274, Gj
+10 Jan 2017 06:27:11 : LimitlessMc, mainchat, ChesireKat#7022, this is why is dont use a desk
+10 Jan 2017 06:27:26 : LimitlessMc, mainchat, ChesireKat#7022, i just havea huge bunch of blankets and the floor
+10 Jan 2017 06:27:32 : LimitlessMc, mainchat, ChesireKat#7022, pretty much a bed
+10 Jan 2017 06:27:41 : LimitlessMc, mainchat, Wertfuzzy77#0274, As a computer scientist, my desk is my home
+10 Jan 2017 06:27:51 : LimitlessMc, mainchat, Wertfuzzy77#0274, Well, my piano is more my home
+10 Jan 2017 06:27:55 : LimitlessMc, mainchat, Wertfuzzy77#0274, Eh
+10 Jan 2017 06:28:01 : LimitlessMc, mainchat, Lightning#6734, as a tech genius/nutt my desk is also my home/bed
+10 Jan 2017 06:28:05 : LimitlessMc, mainchat, ChesireKat#7022, as the local resident kat i aproove of floor blanket nests
+10 Jan 2017 06:28:08 : LimitlessMc, mainchat, ChesireKat#7022, 😛
+10 Jan 2017 06:28:17 : LimitlessMc, mainchat, ChesireKat#7022, and bad spelling
+10 Jan 2017 06:28:26 : LimitlessMc, mainchat, ChesireKat#7022, both are crutial to life as kat
+10 Jan 2017 06:28:28 : LimitlessMc, mainchat, ChesireKat#7022, 😛
+10 Jan 2017 06:28:31 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle fwfPS
+10 Jan 2017 06:28:31 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 10 Boss **Litleo** has 1773 health left.
+10 Jan 2017 06:28:31 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+10 Jan 2017 06:28:31 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_w: :regional_indicator_f: :regional_indicator_p: :regional_indicator_s:
+:white_check_mark: :white_check_mark: :white_check_mark: :x: :x:
+10 Jan 2017 06:28:31 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+10 Jan 2017 06:28:31 : None, Direct Message with TherminatorX, Botfuzzy77#2209, *Low level boss penalty...*
+10 Jan 2017 06:28:36 : LimitlessMc, mainchat, Wertfuzzy77#0274, xD I prefer to have like 12 pillows on a bed
+10 Jan 2017 06:28:36 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 06:28:36 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **71** damage
+10 Jan 2017 06:28:36 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 10 Boss **Litleo** has 1702 health left.
+10 Jan 2017 06:28:44 : LimitlessMc, mainchat, ChesireKat#7022, ohmylord
+10 Jan 2017 06:28:50 : LimitlessMc, mainchat, Bakafish#8693, oh hey wert
+10 Jan 2017 06:28:56 : LimitlessMc, mainchat, Wertfuzzy77#0274, Hola
+10 Jan 2017 06:28:57 : LimitlessMc, mainchat, ChesireKat#7022, funny as it sounds i dont even have a bed
+10 Jan 2017 06:29:03 : LimitlessMc, mainchat, ChesireKat#7022, i like the floor too much
+10 Jan 2017 06:29:05 : LimitlessMc, mainchat, ChesireKat#7022, :3
+10 Jan 2017 06:29:08 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;cd
+10 Jan 2017 06:29:08 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Battle**
+You need to wait 58 seconds
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 1326 seconds
+10 Jan 2017 06:29:09 : LimitlessMc, mainchat, Wertfuzzy77#0274, Poor bedless Kat
+10 Jan 2017 06:29:24 : LimitlessMc, mainchat, Bakafish#8693, kats knead on beds
+10 Jan 2017 06:29:35 : LimitlessMc, mainchat, ChesireKat#7022, i sleep anywhere
+10 Jan 2017 06:29:42 : LimitlessMc, mainchat, ChesireKat#7022, like anywhere lel
+10 Jan 2017 06:29:48 : LimitlessMc, mainchat, Wertfuzzy77#0274, Also, I'll still get a Mic for tomorrow xD the clause isn't necessary @Crystal4209
+10 Jan 2017 06:29:50 : LimitlessMc, mainchat, ChesireKat#7022, bed seem kinda a waste of space
+10 Jan 2017 06:29:57 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;level
+10 Jan 2017 06:29:57 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Name**: *TherminatorX*
+**Level**: 21
+**XP**: 6565/10648
+**Boss Takedowns**: 6
+**Most Dmg in an Attack**: 3718
+10 Jan 2017 06:29:58 : LimitlessMc, mainchat, Crystal4209#4698, yay
+10 Jan 2017 06:30:02 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;cd
+10 Jan 2017 06:30:02 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Battle**
+You need to wait 4 seconds
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 1271 seconds
+10 Jan 2017 06:30:05 : LimitlessMc, mainchat, Crystal4209#4698, kat i did it
+10 Jan 2017 06:30:10 : LimitlessMc, mainchat, ChesireKat#7022, nice!
+10 Jan 2017 06:30:24 : LimitlessMc, mainchat, ChesireKat#7022, ohmylord the whole server will probably join
+10 Jan 2017 06:30:25 : LimitlessMc, mainchat, Crystal4209#4698, now send us a pic @Wertfuzzy77
+10 Jan 2017 06:30:28 : LimitlessMc, mainchat, ChesireKat#7022, to hear wert
+10 Jan 2017 06:30:40 : LimitlessMc, mainchat, Wertfuzzy77#0274, Nu
+10 Jan 2017 06:30:41 : LimitlessMc, mainchat, Lightning#6734, lul
+10 Jan 2017 06:30:44 : LimitlessMc, mainchat, Bakafish#8693, still more mob arena ideas to explore le
+10 Jan 2017 06:30:46 : LimitlessMc, mainchat, Wertfuzzy77#0274, Wert shy
+10 Jan 2017 06:30:48 : LimitlessMc, mainchat, Bakafish#8693, so many classes
+10 Jan 2017 06:30:57 : LimitlessMc, mainchat, Crystal4209#4698, dont be shy wert
+10 Jan 2017 06:31:01 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, @Batman (Lunala) (why doesn't the command let you train until 10 is tge cooldowns says 5?)
+10 Jan 2017 06:31:01 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Wertfuzzy77 is afk for reason:
+**anime**
+10 Jan 2017 06:31:15 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, Cause I didn't change it
+10 Jan 2017 06:31:22 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;pokebattle fwfnw
+10 Jan 2017 06:31:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 10 Boss **Litleo** has 1702 health left.
+10 Jan 2017 06:31:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 06:31:23 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_w: :regional_indicator_f: :regional_indicator_n: :regional_indicator_w:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+10 Jan 2017 06:31:23 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its a Perfect Combo. The Boss has switched 1/2 of the Super Effective Moves!
+10 Jan 2017 06:31:23 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, *Low level boss penalty...*
+10 Jan 2017 06:31:27 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 06:31:27 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **877** damage
+10 Jan 2017 06:31:27 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 10 Boss **Litleo** has 825 health left.
+10 Jan 2017 06:31:33 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, I'll try to get to it tomorrow :D
+10 Jan 2017 06:31:35 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, Gg
+10 Jan 2017 06:31:39 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, (k)
+10 Jan 2017 06:31:39 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, ;pokebattle FWFNW
+10 Jan 2017 06:31:39 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 10 Boss **Litleo** has 825 health left.
+10 Jan 2017 06:31:39 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 06:31:40 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_w: :regional_indicator_f: :regional_indicator_n: :regional_indicator_w:
+:x: :x: :white_check_mark: :white_check_mark: :white_check_mark:
+10 Jan 2017 06:31:40 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+10 Jan 2017 06:31:40 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **43** damage
+10 Jan 2017 06:31:44 : LimitlessMc, mainchat, Wertfuzzy77#0274, Bet
+10 Jan 2017 06:31:44 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 10 Boss **Litleo** has 782 health left.
+10 Jan 2017 06:31:49 : LimitlessMc, mainchat, ChesireKat#7022, i was asleep for 4 hours ohmylord
+10 Jan 2017 06:31:53 : LimitlessMc, mainchat, Lightning#6734, yey recoding pixeltracker
+10 Jan 2017 06:31:54 : LimitlessMc, mainchat, ChesireKat#7022, thats amazing
+10 Jan 2017 06:31:59 : LimitlessMc, mainchat, ChesireKat#7022, thats extra sleep!
+10 Jan 2017 06:32:05 : LimitlessMc, mainchat, ChesireKat#7022, 4 hours of it
+10 Jan 2017 06:32:17 : LimitlessMc, mainchat, Crystal4209#4698, hey kat you know what we gotta do now
+10 Jan 2017 06:32:26 : LimitlessMc, mainchat, ChesireKat#7022, i do
+10 Jan 2017 06:32:38 : LimitlessMc, mainchat, ChesireKat#7022, prepare for the next great sleep the 12 hour one this time
+10 Jan 2017 06:32:39 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;cd
+10 Jan 2017 06:32:39 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Battle**
+You need to wait 19 seconds
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 1115 seconds
+10 Jan 2017 06:32:40 : LimitlessMc, mainchat, ChesireKat#7022, 😄
+10 Jan 2017 06:32:48 : LimitlessMc, mainchat, Crystal4209#4698, lol
+10 Jan 2017 06:32:57 : LimitlessMc, mainchat, ChesireKat#7022, 😛
+10 Jan 2017 06:32:59 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;cd
+10 Jan 2017 06:32:59 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 1094 seconds
+10 Jan 2017 06:33:10 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;pokebattle wwfnw
+10 Jan 2017 06:33:11 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 10 Boss **Litleo** has 782 health left.
+10 Jan 2017 06:33:11 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 06:33:11 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_w: :regional_indicator_f: :regional_indicator_n: :regional_indicator_w:
+:x: :x: :white_check_mark: :white_check_mark: :white_check_mark:
+10 Jan 2017 06:33:11 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+10 Jan 2017 06:33:11 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, *Low level boss penalty...*
+10 Jan 2017 06:33:16 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 06:33:16 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **71** damage
+10 Jan 2017 06:33:16 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 10 Boss **Litleo** has 711 health left.
+10 Jan 2017 06:33:16 : LimitlessMc, mainchat, ChesireKat#7022, you will probably never get a pic from wert.... if so we should wait a bit
+10 Jan 2017 06:33:16 : LimitlessMc, mainchat, Lightning#6734, what else can i fix
+10 Jan 2017 06:33:17 : LimitlessMc, mainchat, Crystal4209#4698, nah we need a pic of wert after we hear his voice 😛
+10 Jan 2017 06:33:24 : LimitlessMc, mainchat, ChesireKat#7022, the mic is revolutionary
+10 Jan 2017 06:33:32 : LimitlessMc, mainchat, Lightning#6734, you also need a mic
+10 Jan 2017 06:33:35 : LimitlessMc, mainchat, Lightning#6734, fgt
+10 Jan 2017 06:33:36 : LimitlessMc, mainchat, Lightning#6734, ❤
+10 Jan 2017 06:33:40 : LimitlessMc, mainchat, Crystal4209#4698, lol
+10 Jan 2017 06:33:42 : LimitlessMc, mainchat, ChesireKat#7022, @Lightning  fix your name bud its not green
+10 Jan 2017 06:33:46 : LimitlessMc, mainchat, ChesireKat#7022, 😛
+10 Jan 2017 06:33:48 : LimitlessMc, mainchat, Lightning#6734, jay plis
+10 Jan 2017 06:33:52 : LimitlessMc, mainchat, Crystal4209#4698, oh god chads singing ;-;
+10 Jan 2017 06:33:56 : LimitlessMc, mainchat, Lightning#6734, im sorry
+10 Jan 2017 06:33:57 : LimitlessMc, mainchat, Lightning#6734, xD
+10 Jan 2017 06:34:06 : LimitlessMc, mainchat, Lightning#6734, not as good as my singing?
+10 Jan 2017 06:34:08 : LimitlessMc, mainchat, Lightning#6734, lelelele
+10 Jan 2017 06:34:14 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, ;pokebattle PPFNW
+10 Jan 2017 06:34:14 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 10 Boss **Litleo** has 711 health left.
+10 Jan 2017 06:34:14 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 06:34:14 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_p: :regional_indicator_p: :regional_indicator_f: :regional_indicator_n: :regional_indicator_w:
+:x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+10 Jan 2017 06:34:14 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its a Critical Strike
+10 Jan 2017 06:34:14 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Super Effective! The Boss has switched 1/4 of the Super Effective Moves!
+10 Jan 2017 06:34:16 : LimitlessMc, mainchat, ChesireKat#7022, @Lightning fix my name? is not blue
+10 Jan 2017 06:34:18 : LimitlessMc, mainchat, Lightning#6734, even tho i suck at ti ;-;
+10 Jan 2017 06:34:19 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **529** damage
+10 Jan 2017 06:34:19 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 10 Boss **Litleo** has 182 health left.
+10 Jan 2017 06:34:21 : LimitlessMc, mainchat, ChesireKat#7022, :3
+10 Jan 2017 06:34:24 : LimitlessMc, mainchat, Lightning#6734, blue?
+10 Jan 2017 06:34:27 : LimitlessMc, mainchat, Bakafish#8693, https://i.gyazo.com/37267e36e0880fc0a02f2389a7dc515f.png
+10 Jan 2017 06:34:29 : LimitlessMc, mainchat, Lightning#6734, i'd have to make you a bot
+10 Jan 2017 06:34:29 : LimitlessMc, mainchat, ChesireKat#7022, yes blue
+10 Jan 2017 06:34:31 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, ;level
+10 Jan 2017 06:34:31 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Name**: *Crystal4209*
+**Level**: 8
+**XP**: 267/729
+**Boss Takedowns**: 1
+**Most Dmg in an Attack**: 529
+10 Jan 2017 06:34:34 : LimitlessMc, mainchat, Bakafish#8693, pvp arena thing
+10 Jan 2017 06:34:37 : LimitlessMc, mainchat, Bakafish#8693, smol one
+10 Jan 2017 06:34:39 : LimitlessMc, mainchat, ChesireKat#7022, blue for hep-er
+10 Jan 2017 06:34:47 : LimitlessMc, mainchat, Lightning#6734, hep-er is teal
+10 Jan 2017 06:34:49 : LimitlessMc, mainchat, Lightning#6734, not blue
+10 Jan 2017 06:34:56 : LimitlessMc, mainchat, Lightning#6734, bot iz blu
+10 Jan 2017 06:34:57 : LimitlessMc, mainchat, ChesireKat#7022, same thing to me :3
+10 Jan 2017 06:35:03 : LimitlessMc, mainchat, Lightning#6734, jay plis
+10 Jan 2017 06:35:07 : LimitlessMc, mainchat, Lightning#6734, make meh gren
+10 Jan 2017 06:35:11 : LimitlessMc, mainchat, ChesireKat#7022, do a ping
+10 Jan 2017 06:35:17 : LimitlessMc, mainchat, Lightning#6734, nah he's probably asleep
+10 Jan 2017 06:35:19 : LimitlessMc, mainchat, Crystal4209#4698, make me red 😛
+10 Jan 2017 06:35:23 : LimitlessMc, mainchat, Lightning#6734, nah
+10 Jan 2017 06:35:26 : LimitlessMc, mainchat, Lightning#6734, just gt mod
+10 Jan 2017 06:35:36 : LimitlessMc, mainchat, Lightning#6734, we wait
+10 Jan 2017 06:35:36 : Pokemon Mystery Dungeon, general, Wertfuzzy77#0274, Soo... I'll only use the Mic in here, cause I don't like people
+10 Jan 2017 06:35:37 : LimitlessMc, mainchat, ChesireKat#7022, make me yellow
+10 Jan 2017 06:35:38 : LimitlessMc, mainchat, ChesireKat#7022, :3
+10 Jan 2017 06:35:40 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;pokebattle PPFNW
+10 Jan 2017 06:35:40 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 10 Boss **Litleo** has 182 health left.
+10 Jan 2017 06:35:40 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 06:35:40 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_p: :regional_indicator_p: :regional_indicator_f: :regional_indicator_n: :regional_indicator_w:
+:x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+10 Jan 2017 06:35:40 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its a Critical Strike
+10 Jan 2017 06:35:40 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Super Effective! The Boss has switched 1/4 of the Super Effective Moves!
+10 Jan 2017 06:35:40 : LimitlessMc, mainchat, Lightning#6734, loooong time
+10 Jan 2017 06:35:45 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, *Low level boss penalty...*
+10 Jan 2017 06:35:45 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 06:35:45 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **991** damage
+10 Jan 2017 06:35:45 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 10 Boss **Litleo** has been defeated!
+10 Jan 2017 06:35:45 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Most Damage by **TherminatorX** with **4354** damage
+10 Jan 2017 06:35:46 : LimitlessMc, mainchat, ChesireKat#7022, O>O
+10 Jan 2017 06:35:49 : LimitlessMc, mainchat, ChesireKat#7022, guys!
+10 Jan 2017 06:35:49 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, (boop)
+10 Jan 2017 06:35:50 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 2nd most Damage by *Crystal4209* with *580* damage
+10 Jan 2017 06:35:50 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 3rd most Damage by *Wertfuzzy77* with *145* damage
+10 Jan 2017 06:35:52 : LimitlessMc, mainchat, ChesireKat#7022, best idea!
+10 Jan 2017 06:35:59 : LimitlessMc, mainchat, ChesireKat#7022, #kat4green!
+10 Jan 2017 06:36:03 : LimitlessMc, mainchat, ChesireKat#7022, :3
+10 Jan 2017 06:36:04 : LimitlessMc, mainchat, Lightning#6734, i will
+10 Jan 2017 06:36:06 : LimitlessMc, mainchat, Lightning#6734, neck self
+10 Jan 2017 06:36:10 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;level
+10 Jan 2017 06:36:10 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Name**: *TherminatorX*
+**Level**: 21
+**XP**: 9298/10648
+**Boss Takedowns**: 7
+**Most Dmg in an Attack**: 3718
+10 Jan 2017 06:36:10 : LimitlessMc, mainchat, Lightning#6734, if i see green kat
+10 Jan 2017 06:36:12 : LimitlessMc, mainchat, Crystal4209#4698, mate plz i made it up to mod in less then 60 days
+10 Jan 2017 06:36:22 : LimitlessMc, mainchat, Lightning#6734, lol
+10 Jan 2017 06:36:23 : LimitlessMc, mainchat, ChesireKat#7022, Lightning - Today at 10:36 PM
+i will
+NEW MESSAGES
+Lightning - Today at 10:36 PM
+neck self
+if i see green kat
+10 Jan 2017 06:36:29 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, ;pokebattle GPFNW
+10 Jan 2017 06:36:29 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, The Boss has been Defeated! Please check ;pokeboss for stats.
+10 Jan 2017 06:36:40 : LimitlessMc, mainchat, Crystal4209#4698, lel
+10 Jan 2017 06:36:52 : Pokemon Mystery Dungeon, general, Crystal4209#4698, ok
+10 Jan 2017 06:37:02 : Pokemon Mystery Dungeon, general, Crystal4209#4698, but you gotta speak when me and worm are on
+10 Jan 2017 06:37:10 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, ;pokeboss
+10 Jan 2017 06:37:11 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 10 Boss **Litleo** has been defeated!
+10 Jan 2017 06:37:11 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Use ;summon to fight a boss of your Level!
+10 Jan 2017 06:37:11 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Most Damage by **TherminatorX** with **4354** damage
+10 Jan 2017 06:37:11 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 2nd most Damage by *Crystal4209* with *580* damage
+10 Jan 2017 06:37:11 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 3rd most Damage by *Wertfuzzy77* with *145* damage
+10 Jan 2017 06:37:18 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, ;summon
+10 Jan 2017 06:37:18 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please summon a boss from level 4.0 to 8 (Ex. `;summon 8`)
+10 Jan 2017 06:37:18 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;lookup  Crystal4209
+10 Jan 2017 06:37:18 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Name**: *Crystal4209*
+**Level**: 8
+**XP**: 674/729
+**Boss Takedowns**: 1
+**Most Dmg in an Attack**: 529
+10 Jan 2017 06:37:31 : LimitlessMc, mainchat, ChesireKat#7022, https://cdn.discordapp.com/attachments/260876737599111168/268267013971902465/unknown.png
+10 Jan 2017 06:37:36 : LimitlessMc, mainchat, ChesireKat#7022, :3
+10 Jan 2017 06:37:48 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;summon
+10 Jan 2017 06:37:48 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please summon a boss from level 10.5 to 21 (Ex. `;summon 21`)
+10 Jan 2017 06:38:00 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;summon 10.5
+10 Jan 2017 06:38:11 : Pokemon Mystery Dungeon, general, ChesireKat#7022, lmao
+10 Jan 2017 06:38:13 : Pokemon Mystery Dungeon, general, ChesireKat#7022, XD
+10 Jan 2017 06:38:15 : Pokemon Mystery Dungeon, general, ChesireKat#7022, best
+10 Jan 2017 06:38:16 : Pokemon Mystery Dungeon, general, Wertfuzzy77#0274, So like midnight my time
+10 Jan 2017 06:38:27 : Pokemon Mystery Dungeon, general, Wertfuzzy77#0274, I can do that :D
+10 Jan 2017 06:38:33 : Pokemon Mystery Dungeon, general, ChesireKat#7022, @Batman (Lunala)  that made me so happy you dont even know
+10 Jan 2017 06:38:45 : Pokemon Mystery Dungeon, general, ChesireKat#7022, Batman (Lunala) - Today at 10:35 PM
+Soo... I'll only use the Mic in here, cause I don't like people
+Quagsire - Today at 10:36 PM
+ok
+10 Jan 2017 06:38:47 : Pokemon Mystery Dungeon, general, ChesireKat#7022, 😛
+10 Jan 2017 06:38:53 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, @Batman (Lunala) (it says from 10.5 to 21)
+😜
+10 Jan 2017 06:38:53 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Wertfuzzy77 is afk for reason:
+**anime**
+10 Jan 2017 06:39:37 : LimitlessMc, mainchat, Bakafish#8693, crystal dumped her dawn stone pick in nether on accident
+10 Jan 2017 06:39:40 : LimitlessMc, mainchat, Bakafish#8693, and it despawned
+10 Jan 2017 06:39:41 : LimitlessMc, mainchat, Bakafish#8693, rip
+10 Jan 2017 06:39:43 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, Yaa.... I've been meaning to fix that
+10 Jan 2017 06:40:02 : Pokemon Mystery Dungeon, general, Wertfuzzy77#0274, xD why tho
+10 Jan 2017 06:40:05 : Pokemon Mystery Dungeon, general, TherminatorX#6644, (agreed, people are strange)
+10 Jan 2017 06:40:17 : Pokemon Mystery Dungeon, general, TherminatorX#6644, (best to stay away)
+10 Jan 2017 06:40:18 : LimitlessMc, mainchat, Crystal4209#4698, rip
+10 Jan 2017 06:40:30 : Pokemon Mystery Dungeon, general, ChesireKat#7022, ^
+10 Jan 2017 06:40:43 : Pokemon Mystery Dungeon, general, ChesireKat#7022, it is safe away from other people
+10 Jan 2017 06:40:57 : LimitlessMc, mainchat, ChesireKat#7022, https://cdn.discordapp.com/attachments/245068350802100225/268265281862893569/2b2c647d728d6fcb48657d93643abc41388a2310e2f6724cfea53db579cb9ad1_1.jpg
+10 Jan 2017 06:40:59 : LimitlessMc, mainchat, ChesireKat#7022, XD
+10 Jan 2017 06:41:06 : LimitlessMc, mainchat, Wertfuzzy77#0274, Lol
+10 Jan 2017 06:41:23 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;help
+10 Jan 2017 06:41:23 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, ```
+A Bot for the Limitless MC Server Discord! Version 0.14.2.6
+(Created by Wertfuzzy77)
+
+FlavorTexts:
+  kill           Adds Emotion
+  hug            Adds Emotion
+  choose         Chooses from a set of things
+  image          Returns the First Found Image on Google Images for this Input
+  funify         Funifies a given text input
+  gif            Returns the First Found Image on Google Images for this Input
+  slap           Adds Emotion
+  lmgtfy         Returns a Link to a "Let me Google That For You" Page
+  wyr            
+  kiss           Adds Emotion
+  fml            Returns a Random Post from fmylife.com
+  luck           Returns the Player's Luck
+  kys            
+  conch          Ask the Magic Conch a Question
+  rate           Rates the Player
+  rps            Allows the player to play Rock, Paper, Scissors with the Bot...
+Games:
+  ranking        
+  lookup         Displays your Current Information
+  summon         Summons a Boss of your Level or a Level below yours
+  cd             Shows your Cooldowns
+  pokehelp       Pokemon Battle Sim Help
+  pokeboss       Displays Boss Info
+  pokebattle     Fights a Pokemon Boss using a combination of 10 total moves ...
+  trivia         
+  types          
+  train          Fights Pokemon for XP
+  level          Displays your Current Information
+MusicPlayer:
+  makeplaylist   Makes a custom playlist for the bot to save
+  shuffle        Shuffles the songs in the Queue
+  desc           Decription of the Current playing song
+  clear          Clears the Queue
+  skip           Skips the Current song
+  remove         removes a song from a queue by index
+  playlists      Shows all the current playlists
+  search         Searches for a song
+  youtube        Adds a Song for the Bot to Play
+  loop           Plays the current song again
+  Radio          Toggles Radio Mode
+  song           Returns information about the current playing song
+  leave          Leaves the Join chat
+  songs          Prints the songs in the queue
+```
+10 Jan 2017 06:41:23 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, ```
+  viewplaylist   Views the songs of a playlists
+  music          Returns the current status of the Music Bot
+  extendplaylist Extends a custom playlist
+  playlist       Adds songs from a predefined playlist to the songs list
+  join           Joins the Voice channel you are currently in
+StaffCmds:
+  unmuteall      Unmutes ALL muted players
+  mutelist       
+  mute           
+  unmute         
+  tempmute       
+​No Category:
+  server         Returns Information on the Limitless MC server!
+  source         Returns a link to the source code for this bot
+  feedback       Returns a link to a Google Forums, where you can leave feedb...
+  pokemon        Returns Links to Pokemon pages
+  ev             
+  invite         Returns a Link to the Invite URL for this bot
+  status         Returns the Status of the Bot, along with Additional Informa...
+  joined         Says when a member joined.
+  help           Shows this message.
+  afk            Sets you as AFK, and the Bot will auto Reply for you with th...
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+10 Jan 2017 06:41:45 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, Ew
+10 Jan 2017 06:41:51 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, The help cmd
+10 Jan 2017 06:41:59 : LimitlessMc, mainchat, ChesireKat#7022, okei is night time pic gunna be posted XD
+10 Jan 2017 06:42:03 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;join
+10 Jan 2017 06:42:03 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Sorry, I'm already connected to a channel in server LimitlessMc
+10 Jan 2017 06:42:10 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, (boooo)
+10 Jan 2017 06:42:13 : LimitlessMc, mainchat, ChesireKat#7022, so anyone know what the ol switcharo is?
+10 Jan 2017 06:42:25 : LimitlessMc, mainchat, Crystal4209#4698, @Lightning  fite me
+10 Jan 2017 06:42:29 : LimitlessMc, mainchat, Lightning#6734, hm?
+10 Jan 2017 06:42:39 : LimitlessMc, mainchat, ChesireKat#7022, @Crystal4209  whats the old switcharoo?
+10 Jan 2017 06:42:49 : LimitlessMc, mainchat, Crystal4209#4698, switcharoo?
+10 Jan 2017 06:42:53 : LimitlessMc, mainchat, ChesireKat#7022, yes
+10 Jan 2017 06:42:58 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;leave
+10 Jan 2017 06:42:59 : LimitlessMc, mainchat, ChesireKat#7022, do you know about it?
+10 Jan 2017 06:42:59 : LimitlessMc, mainchat, Crystal4209#4698, dunno
+10 Jan 2017 06:43:05 : LimitlessMc, mainchat, ChesireKat#7022, okei let me sho you
+10 Jan 2017 06:43:06 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;join
+10 Jan 2017 06:43:07 : LimitlessMc, mainchat, ChesireKat#7022, https://cdn.discordapp.com/attachments/245068350802100225/268265219027894273/922cdf4ee529eb1ca6f1972898f9035ef8cd88ccab55a2bc9bf612ff9a4371fc_1.jpg
+10 Jan 2017 06:43:15 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;youtube https://youtu.be/Bv0NDgCzl6U
+10 Jan 2017 06:43:15 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added Avicii - Wake Me Up - Amazing Ragtime Piano Cover by Jonny May to the queue
+10 Jan 2017 06:43:17 : LimitlessMc, mainchat, ChesireKat#7022, that is the old switcharoo
+10 Jan 2017 06:43:19 : LimitlessMc, mainchat, ChesireKat#7022, O.o
+10 Jan 2017 06:43:23 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;Radio
+10 Jan 2017 06:43:23 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Radio Mode: True
+10 Jan 2017 06:43:25 : LimitlessMc, mainchat, ChesireKat#7022, idk they managed that
+10 Jan 2017 06:43:26 : LimitlessMc, mainchat, ChesireKat#7022, but
+10 Jan 2017 06:43:48 : LimitlessMc, mainchat, Lightning#6734, LOL
+10 Jan 2017 06:43:53 : LimitlessMc, mainchat, Crystal4209#4698, oh god lol
+10 Jan 2017 06:44:01 : LimitlessMc, mainchat, ChesireKat#7022, https://cdn.discordapp.com/attachments/245068350802100225/267953438703222784/BsuRzwk.png
+10 Jan 2017 06:44:09 : LimitlessMc, mainchat, ChesireKat#7022, :3
+10 Jan 2017 06:44:21 : LimitlessMc, mainchat, ChesireKat#7022, now someone will dis the anime
+10 Jan 2017 06:44:28 : LimitlessMc, mainchat, Wertfuzzy77#0274, Ayy, it's @Crystal4209 's body pillow, that's where she hid it
+10 Jan 2017 06:44:28 : LimitlessMc, mainchat, ChesireKat#7022, or claim thats their waifu
+10 Jan 2017 06:44:34 : LimitlessMc, mainchat, ChesireKat#7022, lmao
+10 Jan 2017 06:44:36 : LimitlessMc, mainchat, Wertfuzzy77#0274, My waifuuuuuu
+10 Jan 2017 06:44:40 : LimitlessMc, mainchat, Crystal4209#4698, oh no
+10 Jan 2017 06:44:43 : LimitlessMc, mainchat, ChesireKat#7022, in spongebob!
+10 Jan 2017 06:44:46 : LimitlessMc, mainchat, Wertfuzzy77#0274, Don't even know who that is
+10 Jan 2017 06:44:55 : LimitlessMc, mainchat, ChesireKat#7022, she put it in spongbob  ohmylord
+10 Jan 2017 06:45:25 : LimitlessMc, mainchat, Crystal4209#4698, thats not my bodypillow
+10 Jan 2017 06:45:36 : LimitlessMc, mainchat, ChesireKat#7022, http://i.imgur.com/xiwcgsL.gif
+10 Jan 2017 06:45:36 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;help radio
+10 Jan 2017 06:45:36 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, No command called "radio" found.
+10 Jan 2017 06:45:46 : LimitlessMc, mainchat, ChesireKat#7022, gary the snail tho
+10 Jan 2017 06:45:46 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;help Radio
+10 Jan 2017 06:45:46 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, ```
+;Radio
+
+Toggles Radio Mode
+
+```
+10 Jan 2017 06:45:56 : LimitlessMc, mainchat, Crystal4209#4698, lol
+10 Jan 2017 06:46:11 : LimitlessMc, mainchat, Lightning#6734, dat snail tho
+10 Jan 2017 06:46:19 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;play battle of lil slugger
+10 Jan 2017 06:46:47 : LimitlessMc, mainchat, Wertfuzzy77#0274, What has this chat become
+10 Jan 2017 06:46:53 : LimitlessMc, mainchat, Crystal4209#4698, http://vignette2.wikia.nocookie.net/fairytailcouples/images/a/a8/Juvia_Presents_Her_Body_Pillow_to_Gray.png/revision/20150228041854
+@Wertfuzzy77 that was in the actual anime XD
+10 Jan 2017 06:46:57 : LimitlessMc, mainchat, Lightning#6734, no clue
+10 Jan 2017 06:47:01 : LimitlessMc, mainchat, ChesireKat#7022, lmao
+10 Jan 2017 06:47:04 : LimitlessMc, mainchat, Wertfuzzy77#0274, I feel like the least weird person here, and I'm a proper weeb
+10 Jan 2017 06:47:04 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;search battle of lil slugger
+10 Jan 2017 06:47:05 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added Super Meat Boy: The Battle of Lil' Slugger (Indie Game Music HD) to the queue
+10 Jan 2017 06:47:05 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, https://www.youtube.com/watch?v=WL-8rU8ltA4
+10 Jan 2017 06:47:12 : LimitlessMc, mainchat, ChesireKat#7022, late night weird with your host kat
+10 Jan 2017 06:47:21 : LimitlessMc, mainchat, Crystal4209#4698, oh god it was XD
+10 Jan 2017 06:47:27 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;song
+10 Jan 2017 06:47:27 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, **Name**: Incredible "Let It Go" Piano Cover by Jonny May Surprises Audience!
+**Requester**: Radio
+**URL**: <https://www.youtube.com/watch?v=lgdCr24iaTg>
+```py
+Time: 0:03:47
+Views: 1,272,715
+Likes: 10,050, 96.44%
+Dislikes: 371, 3.56%```
+10 Jan 2017 06:47:31 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;skip
+10 Jan 2017 06:47:31 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Skipping Incredible "Let It Go" Piano Cover by Jonny May Surprises Audience! by request (Radio Song)
+10 Jan 2017 06:47:58 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;Radio
+10 Jan 2017 06:47:58 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Radio Mode: False
+10 Jan 2017 06:47:59 : LimitlessMc, mainchat, Crystal4209#4698, oh has lightning heard you sing kat?
+10 Jan 2017 06:48:14 : LimitlessMc, mainchat, Wertfuzzy77#0274, #WhenThereIsAWeebInAShowForWeebs
+10 Jan 2017 06:48:17 : LimitlessMc, mainchat, ChesireKat#7022, i want to post more but they are kinda offensive if anyone is "mentaly disabled"
+10 Jan 2017 06:48:46 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;youtube https://youtube.com/watch?v=LnS9LaaAC7Y
+10 Jan 2017 06:48:46 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Not a Valid Link, Please only use URLs from youtube.com
+10 Jan 2017 06:48:49 : LimitlessMc, mainchat, Crystal4209#4698, kat show lightning your singing skills XD
+10 Jan 2017 06:48:53 : LimitlessMc, mainchat, ChesireKat#7022, okei
+10 Jan 2017 06:48:55 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ...
+10 Jan 2017 06:49:00 : LimitlessMc, mainchat, ChesireKat#7022, light get in chat
+10 Jan 2017 06:49:02 : LimitlessMc, mainchat, ChesireKat#7022, 😄
+10 Jan 2017 06:49:16 : LimitlessMc, mainchat, Lightning#6734, am on ps4 D:
+10 Jan 2017 06:49:32 : LimitlessMc, mainchat, ChesireKat#7022, boi on discord ?
+10 Jan 2017 06:49:37 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;help youtube
+10 Jan 2017 06:49:37 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, ```
+;youtube [links...]
+
+Adds a Song for the Bot to Play
+
+```
+10 Jan 2017 06:49:49 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;youtube http://youtube.com/watch?v=LnS9LaaAC7Y
+10 Jan 2017 06:49:49 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Not a Valid Link, Please only use URLs from youtube.com
+10 Jan 2017 06:49:57 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;song
+10 Jan 2017 06:49:57 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, **Name**: Super Meat Boy: C.H.A.D.'s Lullaby (Indie Game Music HD)
+**Requester**: Radio
+**URL**: <https://www.youtube.com/watch?v=hDLkrQvmvd0>
+```py
+Time: 0:02:25
+Views: 230,934
+Likes: 992, 98.71%
+Dislikes: 13, 1.29%```
+10 Jan 2017 06:50:09 : LimitlessMc, mainchat, ChesireKat#7022, ^letsgo
+10 Jan 2017 06:50:14 : LimitlessMc, mainchat, ChesireKat#7022, ^enough
+10 Jan 2017 06:50:27 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;youtube <https://youtube.com/watch?v=LnS9LaaAC7Y>
+10 Jan 2017 06:50:27 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Not a Valid Link, Please only use URLs from youtube.com
+10 Jan 2017 06:50:34 : LimitlessMc, mainchat, Crystal4209#4698, @Lightning join us you nub
+10 Jan 2017 06:50:40 : LimitlessMc, mainchat, ChesireKat#7022, okei light buddy ol pal hope on in here with us and prepare to hear the voice of god
+10 Jan 2017 06:51:16 : LimitlessMc, mainchat, Lightning#6734, listen
+10 Jan 2017 06:51:16 : LimitlessMc, mainchat, ChesireKat#7022, wtb hax to move lightning into dis chat to hear me sing
+10 Jan 2017 06:51:20 : LimitlessMc, mainchat, Lightning#6734, am the only god here
+10 Jan 2017 06:51:23 : LimitlessMc, mainchat, Lightning#6734, okei?
+10 Jan 2017 06:51:25 : LimitlessMc, mainchat, Lightning#6734, good talk
+10 Jan 2017 06:51:27 : LimitlessMc, mainchat, Lightning#6734, 😛
+10 Jan 2017 06:51:27 : LimitlessMc, mainchat, ChesireKat#7022, if you
+10 Jan 2017 06:51:30 : LimitlessMc, mainchat, ChesireKat#7022, join
+10 Jan 2017 06:51:30 : LimitlessMc, mainchat, ChesireKat#7022, and
+10 Jan 2017 06:51:32 : LimitlessMc, mainchat, ChesireKat#7022, hear
+10 Jan 2017 06:51:33 : LimitlessMc, mainchat, ChesireKat#7022, mai
+10 Jan 2017 06:51:35 : LimitlessMc, mainchat, ChesireKat#7022, beutiful
+10 Jan 2017 06:51:36 : LimitlessMc, mainchat, ChesireKat#7022, voice
+10 Jan 2017 06:51:38 : LimitlessMc, mainchat, ChesireKat#7022, then
+10 Jan 2017 06:51:39 : LimitlessMc, mainchat, Lightning#6734, if
+10 Jan 2017 06:51:40 : LimitlessMc, mainchat, ChesireKat#7022, maybe
+10 Jan 2017 06:51:40 : LimitlessMc, mainchat, Lightning#6734, you
+10 Jan 2017 06:51:41 : LimitlessMc, mainchat, Lightning#6734, learn
+10 Jan 2017 06:51:42 : LimitlessMc, mainchat, Lightning#6734, to
+10 Jan 2017 06:51:43 : LimitlessMc, mainchat, Lightning#6734, spell
+10 Jan 2017 06:51:44 : LimitlessMc, mainchat, ChesireKat#7022, you will agree
+10 Jan 2017 06:51:45 : LimitlessMc, mainchat, Lightning#6734, correctly
+10 Jan 2017 06:51:58 : LimitlessMc, mainchat, DicloniusPony#6564, rip my mic isnt working
+10 Jan 2017 06:52:03 : LimitlessMc, mainchat, ChesireKat#7022, nah then i would be royaly fucked like you guys
+10 Jan 2017 06:52:09 : LimitlessMc, mainchat, ChesireKat#7022, and your v fancy spelling
+10 Jan 2017 06:52:12 : LimitlessMc, mainchat, ChesireKat#7022, >:
+10 Jan 2017 06:52:16 : LimitlessMc, mainchat, ChesireKat#7022, 2spooky
+10 Jan 2017 06:52:29 : LimitlessMc, mainchat, ChesireKat#7022, @Lightning  so wanna come have a sing off?
+10 Jan 2017 06:52:37 : LimitlessMc, mainchat, Lightning#6734, kek
+10 Jan 2017 06:52:38 : LimitlessMc, mainchat, Lightning#6734, la
+10 Jan 2017 06:52:38 : LimitlessMc, mainchat, Crystal4209#4698, come on lightning you never heard of speak before
+10 Jan 2017 06:52:38 : LimitlessMc, mainchat, Lightning#6734, mao
+10 Jan 2017 06:52:43 : LimitlessMc, mainchat, ChesireKat#7022, is 2 scurred
+10 Jan 2017 06:52:45 : LimitlessMc, mainchat, DicloniusPony#6564, @ChesireKat am waiting for your singing self XD
+10 Jan 2017 06:52:50 : LimitlessMc, mainchat, Lightning#6734, iz 3spooked
+10 Jan 2017 06:53:00 : LimitlessMc, mainchat, ChesireKat#7022, you will love it i swear
+10 Jan 2017 06:53:05 : LimitlessMc, botchat, ChesireKat#7022, ^r https://www.youtube.com/watch?v=TsBLGzTMFIM
+10 Jan 2017 06:53:07 : LimitlessMc, botchat, kat#5385, Enqueued **Doodlebob - Bring Me to Life** to be played. Position in queue: 1 - estimated time until playing: 0:03:28
+10 Jan 2017 06:53:07 : LimitlessMc, mainchat, Lightning#6734, we shall see
+10 Jan 2017 06:53:09 : LimitlessMc, botchat, ChesireKat#7022, ^NOPE
+10 Jan 2017 06:53:09 : LimitlessMc, botchat, kat#5385, Now playing in 👤General: **Doodlebob - Bring Me to Life**
+10 Jan 2017 06:53:13 : LimitlessMc, mainchat, Lightning#6734, omg
+10 Jan 2017 06:53:14 : LimitlessMc, mainchat, DicloniusPony#6564, no XD
+10 Jan 2017 06:53:15 : LimitlessMc, botchat, ChesireKat#7022, ^volume 100
+10 Jan 2017 06:53:16 : LimitlessMc, botchat, kat#5385, @ChesireKat, updated volume from 50 to 100
+10 Jan 2017 06:53:18 : LimitlessMc, mainchat, Lightning#6734, doodlbahb
+10 Jan 2017 06:53:18 : LimitlessMc, mainchat, Crystal4209#4698, XD
+10 Jan 2017 06:53:19 : LimitlessMc, mainchat, DicloniusPony#6564, spooped
+10 Jan 2017 06:53:21 : LimitlessMc, mainchat, ChesireKat#7022, get ready guys
+10 Jan 2017 06:53:23 : LimitlessMc, mainchat, ChesireKat#7022, 😄
+10 Jan 2017 06:53:27 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;search OneRepublic the last goodbye
+10 Jan 2017 06:53:28 : LimitlessMc, mainchat, DicloniusPony#6564, OHmilord stpahhhhh
+10 Jan 2017 06:53:29 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added Jeff Buckley - Last Goodbye (Edit) to the queue
+10 Jan 2017 06:53:29 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, https://www.youtube.com/watch?v=3MMXjunSx80
+10 Jan 2017 06:53:30 : LimitlessMc, mainchat, Lightning#6734, 3spooked
+10 Jan 2017 06:53:35 : LimitlessMc, mainchat, ChesireKat#7022, it may sound like im in pain but is okei
+10 Jan 2017 06:53:36 : LimitlessMc, mainchat, Crystal4209#4698, XD love it
+10 Jan 2017 06:53:57 : LimitlessMc, mainchat, ChesireKat#7022, i promise i no die during the singing of this
+10 Jan 2017 06:54:06 : LimitlessMc, mainchat, ChesireKat#7022, only a bit
+10 Jan 2017 06:54:10 : LimitlessMc, mainchat, Crystal4209#4698, XD
+10 Jan 2017 06:54:15 : LimitlessMc, mainchat, Lightning#6734, i'm not sure
+10 Jan 2017 06:54:20 : LimitlessMc, mainchat, ChesireKat#7022, nah is okei
+10 Jan 2017 06:54:22 : LimitlessMc, mainchat, Lightning#6734, if i'm hearing a youtube video
+10 Jan 2017 06:54:22 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;search OneRepublic last goodbye Stripped
+10 Jan 2017 06:54:35 : Pulse, mainchat, Ankorzz#4034, tomorrow
+10 Jan 2017 06:54:35 : LimitlessMc, mainchat, Lightning#6734, 10/10 yt
+10 Jan 2017 06:54:35 : LimitlessMc, mainchat, ChesireKat#7022, just let my soft gental voice guide you to salvation
+10 Jan 2017 06:54:36 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added Jeff Buckley - Last Goodbye (Edit) to the queue
+10 Jan 2017 06:54:36 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, https://www.youtube.com/watch?v=3MMXjunSx80
+10 Jan 2017 06:54:41 : LimitlessMc, mainchat, ChesireKat#7022, :3
+10 Jan 2017 06:54:52 : LimitlessMc, mainchat, DicloniusPony#6564, kat is dying
+10 Jan 2017 06:54:56 : LimitlessMc, mainchat, Lightning#6734, i've actually sang for everyone though
+10 Jan 2017 06:55:02 : LimitlessMc, mainchat, Crystal4209#4698, he has
+10 Jan 2017 06:55:02 : LimitlessMc, mainchat, Ankorzz#4034, claptrap
+10 Jan 2017 06:55:02 : LimitlessMc, mainchat, ChesireKat#7022, XD
+10 Jan 2017 06:55:10 : LimitlessMc, mainchat, ChesireKat#7022, boi
+10 Jan 2017 06:55:14 : LimitlessMc, mainchat, ChesireKat#7022, who are you
+10 Jan 2017 06:55:14 : LimitlessMc, mainchat, Crystal4209#4698, he sung for me and worm :3
+10 Jan 2017 06:55:15 : LimitlessMc, mainchat, Lightning#6734, you dare
+10 Jan 2017 06:55:20 : LimitlessMc, mainchat, Lightning#6734, sully my god title
+10 Jan 2017 06:55:23 : LimitlessMc, mainchat, Lightning#6734, with this nonsense!
+10 Jan 2017 06:55:29 : LimitlessMc, mainchat, ChesireKat#7022, thats it!
+10 Jan 2017 06:55:44 : LimitlessMc, mainchat, Lightning#6734, *hit with pillow*
+10 Jan 2017 06:55:49 : LimitlessMc, mainchat, Lightning#6734, i challenge thee to a duel
+10 Jan 2017 06:56:00 : LimitlessMc, mainchat, Ankorzz#4034, i decline
+10 Jan 2017 06:56:07 : LimitlessMc, mainchat, ChesireKat#7022, *takes pillow and does the GREAT SLEEP*
+10 Jan 2017 06:56:13 : LimitlessMc, mainchat, ChesireKat#7022, is super effective
+10 Jan 2017 06:56:13 : LimitlessMc, mainchat, Lightning#6734, Gurl
+10 Jan 2017 06:56:14 : LimitlessMc, mainchat, Lightning#6734, no
+10 Jan 2017 06:56:17 : LimitlessMc, mainchat, ChesireKat#7022, lightning is ded
+10 Jan 2017 06:56:18 : LimitlessMc, mainchat, TherminatorX#6644, Bah, Wert's bot won't let me put on my jam
+10 Jan 2017 06:56:20 : LimitlessMc, mainchat, Lightning#6734, *sits on kat*
+10 Jan 2017 06:56:29 : LimitlessMc, mainchat, Lightning#6734, no doin the sleep
+10 Jan 2017 06:56:30 : LimitlessMc, mainchat, Lightning#6734, in hurr
+10 Jan 2017 06:56:35 : LimitlessMc, mainchat, Ankorzz#4034, facesitting kinky
+10 Jan 2017 06:56:39 : LimitlessMc, mainchat, ChesireKat#7022, O.o
+10 Jan 2017 06:56:39 : LimitlessMc, mainchat, TherminatorX#6644, In hurr what?
+10 Jan 2017 06:56:46 : LimitlessMc, botchat, ChesireKat#7022, ^r https://www.youtube.com/watch?v=dH7iOGNBiJ8
+10 Jan 2017 06:56:48 : LimitlessMc, botchat, kat#5385, Enqueued **Goblins from Mars - UberDanger's Dream** to be played. Position in queue: 1 - estimated time until playing: 0:00:19
+10 Jan 2017 06:56:49 : LimitlessMc, botchat, ChesireKat#7022, ^nope
+10 Jan 2017 06:56:50 : LimitlessMc, botchat, kat#5385, Now playing in 👤General: **Goblins from Mars - UberDanger's Dream**
+10 Jan 2017 06:56:53 : LimitlessMc, mainchat, TherminatorX#6644, 😏
+10 Jan 2017 06:56:58 : LimitlessMc, mainchat, ChesireKat#7022, my dream
+10 Jan 2017 06:56:59 : LimitlessMc, mainchat, DicloniusPony#6564, XD
+10 Jan 2017 06:57:04 : LimitlessMc, mainchat, ChesireKat#7022, disclaimer
+10 Jan 2017 06:57:05 : LimitlessMc, mainchat, ChesireKat#7022, if
+10 Jan 2017 06:57:06 : LimitlessMc, mainchat, ChesireKat#7022, i
+10 Jan 2017 06:57:06 : LimitlessMc, mainchat, DicloniusPony#6564, i got my bone team
+10 Jan 2017 06:57:06 : LimitlessMc, mainchat, ChesireKat#7022, die
+10 Jan 2017 06:57:17 : LimitlessMc, mainchat, DicloniusPony#6564, fiht meh! i'll bone you to death
+10 Jan 2017 06:57:25 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;train
+10 Jan 2017 06:57:25 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You **Beat** a Level 12 **Regigigas** for 130 XP (90% to beat)
+You **Lost** to a Level 29 **Bulbasaur** (44% to beat)
+You **Beat** a Level 42 **Rhyperior** for 897 XP (30% to beat)
+You **Beat** a Level 35 **Trubbish** for 817 XP (37% to beat)
+You **Beat** a Level 18 **Turtwig** for 361 XP (72% to beat)
+You **Beat** a Level 8 **Swoobat** for 130 XP (90% to beat)
+You **Beat** a Level 18 **Abra** for 361 XP (72% to beat)
+You **Lost** to a Level 40 **Lumineon** (32% to beat)
+10 Jan 2017 06:57:25 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You trained for 2696 XP!
+10 Jan 2017 06:57:26 : LimitlessMc, mainchat, Ankorzz#4034, oh my
+10 Jan 2017 06:57:34 : LimitlessMc, mainchat, ChesireKat#7022, i want to be put into orbit around orbit around earth i a flying kick position this...............is my dream
+10 Jan 2017 06:57:37 : LimitlessMc, mainchat, ChesireKat#7022, my dream
+10 Jan 2017 06:57:38 : LimitlessMc, mainchat, ChesireKat#7022, :3
+10 Jan 2017 06:57:40 : LimitlessMc, mainchat, DicloniusPony#6564, im sorry, i just seemed to tickle... my funny bone
+10 Jan 2017 06:57:42 : LimitlessMc, mainchat, TherminatorX#6644, *Bonetrousle intensifies*
+10 Jan 2017 06:57:56 : LimitlessMc, mainchat, DicloniusPony#6564, i am in Team Skull rn and im so boney for guzma XD
+10 Jan 2017 06:58:10 : LimitlessMc, mainchat, Ankorzz#4034, bonehead
+10 Jan 2017 06:58:11 : LimitlessMc, mainchat, ChesireKat#7022, https://cdn.discordapp.com/attachments/245068350802100225/268271435070439426/24dab24053ed88fb948302c607a6f219169a689d782d3835a80856c8a6ffd20f_1.jpg
+10 Jan 2017 06:58:11 : LimitlessMc, mainchat, Crystal4209#4698, what other videos did you show me yesterday kat XD
+10 Jan 2017 06:58:18 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;search bonetrousel
+10 Jan 2017 06:58:19 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added Undertale - Bonetrousle to the queue
+10 Jan 2017 06:58:19 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, https://www.youtube.com/watch?v=mqzBv3FYpr0
+10 Jan 2017 06:58:20 : LimitlessMc, mainchat, ChesireKat#7022, XD wanna listen to them?
+10 Jan 2017 06:58:21 : LimitlessMc, mainchat, DicloniusPony#6564, XD
+10 Jan 2017 06:58:27 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;skip
+10 Jan 2017 06:58:27 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Skipping Jeff Buckley - Last Goodbye (Edit) by request of the requester
+10 Jan 2017 06:58:38 : LimitlessMc, mainchat, DicloniusPony#6564, @ChesireKat likes to tickle my bony bone if you know what i mean 😉
+10 Jan 2017 06:58:46 : LimitlessMc, mainchat, ChesireKat#7022, ^
+10 Jan 2017 06:58:48 : LimitlessMc, mainchat, Lightning#6734, okei get that out of here
+10 Jan 2017 06:58:49 : LimitlessMc, mainchat, Lightning#6734, rn
+10 Jan 2017 06:58:52 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, ;level
+10 Jan 2017 06:58:52 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Name**: *Crystal4209*
+**Level**: 8
+**XP**: 674/729
+**Boss Takedowns**: 1
+**Most Dmg in an Attack**: 529
+10 Jan 2017 06:58:52 : LimitlessMc, botchat, ChesireKat#7022, ^r https://www.youtube.com/watch?v=4pXfHLUlZf4
+10 Jan 2017 06:58:54 : LimitlessMc, botchat, kat#5385, Enqueued **Jizz In My Pants** to be played. Position in queue: 1 - estimated time until playing: 0:00:10
+10 Jan 2017 06:58:57 : LimitlessMc, botchat, ChesireKat#7022, ^nope
+10 Jan 2017 06:58:57 : LimitlessMc, botchat, kat#5385, Now playing in 👤General: **Jizz In My Pants**
+10 Jan 2017 06:58:59 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, ;summon 10
+10 Jan 2017 06:59:00 : LimitlessMc, mainchat, DicloniusPony#6564, what name should i name my houndour?
+10 Jan 2017 06:59:01 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, That is too **high** of a level for you!
+10 Jan 2017 06:59:04 : LimitlessMc, mainchat, ChesireKat#7022, :3
+10 Jan 2017 06:59:10 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, ;summon 8
+10 Jan 2017 06:59:11 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, A Level 8 boss has been summoned
+10 Jan 2017 06:59:11 : LimitlessMc, mainchat, ChesireKat#7022, @Crystal4209  dis one
+10 Jan 2017 06:59:12 : LimitlessMc, mainchat, TherminatorX#6644, M/F?
+10 Jan 2017 06:59:12 : LimitlessMc, mainchat, DicloniusPony#6564, and i jizzed in my pants
+10 Jan 2017 06:59:17 : LimitlessMc, mainchat, Lightning#6734, 10/10
+10 Jan 2017 06:59:22 : LimitlessMc, mainchat, Lightning#6734, elohel
+10 Jan 2017 06:59:22 : LimitlessMc, mainchat, ChesireKat#7022, lmao
+10 Jan 2017 06:59:23 : LimitlessMc, mainchat, Crystal4209#4698, lol
+10 Jan 2017 06:59:23 : LimitlessMc, mainchat, DicloniusPony#6564, female @TherminatorX
+10 Jan 2017 06:59:29 : LimitlessMc, mainchat, TherminatorX#6644, Penny
+10 Jan 2017 06:59:31 : LimitlessMc, mainchat, Crystal4209#4698, XD
+10 Jan 2017 06:59:35 : LimitlessMc, mainchat, DicloniusPony#6564, jizzed in my pants
+10 Jan 2017 06:59:37 : LimitlessMc, mainchat, DicloniusPony#6564, XD
+10 Jan 2017 06:59:41 : LimitlessMc, mainchat, TherminatorX#6644, Or Penelope
+10 Jan 2017 06:59:47 : LimitlessMc, mainchat, DicloniusPony#6564, okei
+10 Jan 2017 06:59:53 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, ;pokebattle DDDDD
+10 Jan 2017 06:59:53 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, A Level 8 Boss **Lillipup** has appeared!
+It has 1432 Health.
+10 Jan 2017 06:59:53 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 06:59:53 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d:
+:x: :x: :x: :x: :x:
+10 Jan 2017 06:59:53 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 06:59:54 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **1** damage
+10 Jan 2017 06:59:58 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 8 Boss **Lillipup** has 1431 health left.
+10 Jan 2017 07:00:04 : LimitlessMc, mainchat, ChesireKat#7022, "and i jizz in my pants"
+10 Jan 2017 07:00:06 : LimitlessMc, mainchat, ChesireKat#7022, 😛
+10 Jan 2017 07:00:14 : LimitlessMc, mainchat, DicloniusPony#6564, all my bone pokemon are in kanji XD
+10 Jan 2017 07:00:28 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, ;pokebattle IIFFP
+10 Jan 2017 07:00:28 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 60 seconds before you can fight the boss again.
+10 Jan 2017 07:00:50 : LimitlessMc, mainchat, ChesireKat#7022, https://cdn.discordapp.com/attachments/245068350802100225/268271389042147329/9f5f335fe4a25f9cfcba8e491e6891d6243d640d18f28b04e43135883b5e5003_1.jpg
+10 Jan 2017 07:00:56 : LimitlessMc, mainchat, TherminatorX#6644, *NYEH HEH HEH*
+10 Jan 2017 07:01:00 : LimitlessMc, mainchat, DicloniusPony#6564, jizz everywhere
+10 Jan 2017 07:01:15 : LimitlessMc, mainchat, DicloniusPony#6564, its like a hentai dream
+10 Jan 2017 07:01:20 : LimitlessMc, mainchat, ChesireKat#7022, pants ded
+10 Jan 2017 07:01:22 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, ;pokebattle IIFFP
+10 Jan 2017 07:01:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 6 seconds before you can fight the boss again.
+10 Jan 2017 07:01:26 : LimitlessMc, mainchat, ChesireKat#7022, 2full4dem
+10 Jan 2017 07:01:36 : LimitlessMc, mainchat, Crystal4209#4698, next one
+10 Jan 2017 07:01:54 : LimitlessMc, mainchat, ChesireKat#7022, ^enough
+10 Jan 2017 07:01:56 : LimitlessMc, mainchat, ChesireKat#7022, :3
+10 Jan 2017 07:01:59 : LimitlessMc, mainchat, ChesireKat#7022, lemme find it
+10 Jan 2017 07:02:07 : LimitlessMc, mainchat, Crystal4209#4698, :3
+10 Jan 2017 07:02:16 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, ;pokebattle IIFFP
+10 Jan 2017 07:02:16 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 8 Boss **Lillipup** has 1431 health left.
+10 Jan 2017 07:02:16 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 07:02:16 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_i: :regional_indicator_f: :regional_indicator_f: :regional_indicator_p:
+:x: :x: :white_check_mark: :white_check_mark: :white_check_mark:
+10 Jan 2017 07:02:16 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+10 Jan 2017 07:02:16 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 07:02:21 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **80** damage
+10 Jan 2017 07:02:21 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 8 Boss **Lillipup** has 1351 health left.
+10 Jan 2017 07:02:32 : LimitlessMc, botchat, ChesireKat#7022, 6r https://www.youtube.com/watch?v=mxzgwJ8tSE0
+10 Jan 2017 07:02:35 : LimitlessMc, botchat, ChesireKat#7022, ^r https://www.youtube.com/watch?v=mxzgwJ8tSE0
+10 Jan 2017 07:02:37 : LimitlessMc, botchat, kat#5385, Enqueued **Wang Rong Rollin - Chick Chick (王蓉 - 小雞小雞) MV** to be played. Position in queue: 1 - estimated time until playing: 0:04:28
+10 Jan 2017 07:02:38 : LimitlessMc, botchat, ChesireKat#7022, ^nope
+10 Jan 2017 07:02:39 : LimitlessMc, botchat, kat#5385, Now playing in 👤General: **Wang Rong Rollin - Chick Chick (王蓉 - 小雞小雞) MV**
+10 Jan 2017 07:02:41 : LimitlessMc, botchat, DicloniusPony#6564, ^r where is my goat
+10 Jan 2017 07:02:45 : LimitlessMc, botchat, kat#5385, Enqueued **Where Is My Goat? - Official Music Video** to be played. Position in queue: 2 - estimated time until playing: 0:07:36
+10 Jan 2017 07:02:46 : LimitlessMc, mainchat, ChesireKat#7022, 😄
+10 Jan 2017 07:02:50 : LimitlessMc, mainchat, ChesireKat#7022, here ya go
+10 Jan 2017 07:02:50 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, xD it doesn't like you
+10 Jan 2017 07:02:51 : LimitlessMc, mainchat, DicloniusPony#6564, XD
+10 Jan 2017 07:02:56 : LimitlessMc, mainchat, DicloniusPony#6564, i love this video wtf
+10 Jan 2017 07:02:57 : LimitlessMc, botchat, Crystal4209#4698, oh god lol
+10 Jan 2017 07:03:03 : LimitlessMc, mainchat, Crystal4209#4698, XD
+10 Jan 2017 07:03:05 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, (it doesn't lik my jam)
+10 Jan 2017 07:03:10 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;train
+10 Jan 2017 07:03:10 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You **Beat** a Level 6 **Cloyster** for 120 XP (90% to beat)
+You **Beat** a Level 20 **Tentacool** for 480 XP (60% to beat)
+You **Beat** a Level 25 **Deino** for 624 XP (48% to beat)
+You **Beat** a Level 35 **Cleffa** for 788 XP (34% to beat)
+You **Beat** a Level 13 **Chimchar** for 120 XP (90% to beat)
+You **Beat** a Level 9 **Slugma** for 120 XP (90% to beat)
+You **Beat** a Level 11 **Roselia** for 120 XP (90% to beat)
+You use a **Lucky Egg** to gain more XP!
+10 Jan 2017 07:03:11 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You trained for 3558 XP!
+10 Jan 2017 07:03:11 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, (y tho)
+10 Jan 2017 07:03:38 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;youtube https://youtube.com/watch?v=LnS9LaaAC7Y
+10 Jan 2017 07:03:38 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Not a Valid Link, Please only use URLs from youtube.com
+10 Jan 2017 07:03:45 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, ;pokebattle GGFFP
+10 Jan 2017 07:03:45 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 6 seconds before you can fight the boss again.
+10 Jan 2017 07:03:45 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;youtube https://youtu.be/LnS9LaaAC7Y
+10 Jan 2017 07:03:46 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added OneRepublic - Last Goodbye -Jeff Buckley LIVE! @ Stripped to the queue
+10 Jan 2017 07:03:50 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ...
+10 Jan 2017 07:03:53 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;youtube https://www.youtube.com/watch?v=mxzgwJ8tSE0
+10 Jan 2017 07:03:54 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Sorry, too many people dislike that video. Needs to be below [25.0%] but was [27.22%]
+10 Jan 2017 07:03:56 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, ;pokebattle GGFFP
+10 Jan 2017 07:03:56 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 8 Boss **Lillipup** has 1351 health left.
+10 Jan 2017 07:03:57 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 07:03:57 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_g: :regional_indicator_g: :regional_indicator_f: :regional_indicator_f: :regional_indicator_p:
+:x: :x: :white_check_mark: :white_check_mark: :white_check_mark:
+10 Jan 2017 07:03:57 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+10 Jan 2017 07:03:57 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 07:03:57 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;-;
+10 Jan 2017 07:03:58 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, xD
+10 Jan 2017 07:04:00 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;kys
+10 Jan 2017 07:04:01 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **50** damage
+10 Jan 2017 07:04:02 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Hey Mean!
+10 Jan 2017 07:04:02 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 8 Boss **Lillipup** has 1301 health left.
+10 Jan 2017 07:04:11 : LimitlessMc, mainchat, DicloniusPony#6564, https://images.discordapp.net/.eJwNyFEOgyAMgOG7cACqDCl6G4IEzbQltGYPy-4-_qc_39c8_TKbOVSbbAD7KZn7bkW5p1psZa5XSe0Um_mGpJrycRdSARemiAFfuKzrPApxUHQDvMfZjw_o4KE38Ydso2p-fwoCIvE.yBMEk5oyXvCJbAfmD_nW2EYC280?width=400&height=195
+10 Jan 2017 07:04:13 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, Thanks filter
+10 Jan 2017 07:04:15 : LimitlessMc, mainchat, DicloniusPony#6564, this is beauty
+10 Jan 2017 07:04:31 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, what if you want to hear dis song?
+10 Jan 2017 07:04:31 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;search weed la weed
+10 Jan 2017 07:04:33 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added Weed La Weed Comparison to the queue
+10 Jan 2017 07:04:33 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, https://www.youtube.com/watch?v=cykYmx9sh78
+10 Jan 2017 07:04:36 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, hmmm then wat
+10 Jan 2017 07:04:36 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, ;pokebattle
+10 Jan 2017 07:04:36 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 56 seconds before you can fight the boss again.
+10 Jan 2017 07:04:38 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ur fucked
+10 Jan 2017 07:04:45 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, (Hey!)
+10 Jan 2017 07:04:52 : LimitlessMc, mainchat, DicloniusPony#6564, houndour is Penny, Cubone is Lonely, and Duskull is Skull
+10 Jan 2017 07:04:54 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, (hai)
+10 Jan 2017 07:05:01 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, (Why doesn't it play the original??)
+10 Jan 2017 07:05:02 : LimitlessMc, mainchat, Wertfuzzy77#0274, Why are those Pokemon names' in japanese
+10 Jan 2017 07:05:11 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;songs
+10 Jan 2017 07:05:11 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, **The Following songs are in the Queue**
+10 Jan 2017 07:05:11 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, 1. Weed La Weed Comparison **TherminatorX**
+	<https://www.youtube.com/watch?v=cykYmx9sh78>
+Total Time is 0:01:40
+10 Jan 2017 07:05:12 : LimitlessMc, mainchat, Crystal4209#4698, cause why not
+10 Jan 2017 07:05:12 : LimitlessMc, mainchat, ChesireKat#7022, spooky
+10 Jan 2017 07:05:20 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;skip 1
+10 Jan 2017 07:05:20 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, 1/0 votes to skip
+10 Jan 2017 07:05:20 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Skipping OneRepublic - Last Goodbye -Jeff Buckley LIVE! @ Stripped by popular vote.
+10 Jan 2017 07:05:27 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;skip
+10 Jan 2017 07:05:27 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Skipping Weed La Weed Comparison by request of the requester
+10 Jan 2017 07:05:37 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, ;pokebattle WWFFP
+10 Jan 2017 07:05:37 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 8 Boss **Lillipup** has 1301 health left.
+10 Jan 2017 07:05:37 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 07:05:37 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_w: :regional_indicator_f: :regional_indicator_f: :regional_indicator_p:
+:x: :x: :white_check_mark: :white_check_mark: :white_check_mark:
+10 Jan 2017 07:05:37 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+10 Jan 2017 07:05:37 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 07:05:38 : LimitlessMc, mainchat, DicloniusPony#6564, cause they want to be
+10 Jan 2017 07:05:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **60** damage
+10 Jan 2017 07:05:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 8 Boss **Lillipup** has 1241 health left.
+10 Jan 2017 07:05:44 : Pokemon Mystery Dungeon, general, AnishaLunarAngel#5926, o-o
+10 Jan 2017 07:06:11 : LimitlessMc, mainchat, Crystal4209#4698, ooo next one
+10 Jan 2017 07:06:14 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;search weed la weed mowtendoo
+10 Jan 2017 07:06:16 : LimitlessMc, botchat, DicloniusPony#6564, XD
+10 Jan 2017 07:06:17 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added Weed La Weed Comparison to the queue
+10 Jan 2017 07:06:17 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, https://www.youtube.com/watch?v=cykYmx9sh78
+10 Jan 2017 07:06:32 : LimitlessMc, mainchat, ChesireKat#7022, ^enough
+10 Jan 2017 07:06:34 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, @Giovanni (screw you)
+10 Jan 2017 07:06:35 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, I have had problems with my eyes before.
+10 Jan 2017 07:06:41 : LimitlessMc, mainchat, DicloniusPony#6564, where where, where is my goat i cant find him, everywhere i find him everywhere i remind him
+10 Jan 2017 07:06:46 : LimitlessMc, botchat, DicloniusPony#6564, ^wtf
+10 Jan 2017 07:06:46 : LimitlessMc, botchat, kat#5385, Now Playing: **P!nk - Please Don't Leave Me** `[00:04/03:53]`
+10 Jan 2017 07:06:50 : LimitlessMc, botchat, DicloniusPony#6564, rip
+10 Jan 2017 07:06:53 : LimitlessMc, botchat, ChesireKat#7022, ^r https://www.youtube.com/watch?v=Gn52p1i0QQc
+10 Jan 2017 07:06:55 : LimitlessMc, botchat, kat#5385, Enqueued **StrachAttack - Look at Me! (ft. Mr. Meeseeks)** to be played. Position in queue: 2 - estimated time until playing: 0:08:12
+10 Jan 2017 07:06:56 : LimitlessMc, botchat, ChesireKat#7022, 😛
+10 Jan 2017 07:06:57 : LimitlessMc, botchat, DicloniusPony#6564, ^r where is my goat
+10 Jan 2017 07:06:58 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, ;pokebattle NNFFP
+10 Jan 2017 07:06:58 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 14 seconds before you can fight the boss again.
+10 Jan 2017 07:07:01 : LimitlessMc, botchat, kat#5385, Enqueued **Where Is My Goat? - Official Music Video** to be played. Position in queue: 3 - estimated time until playing: 0:11:59
+10 Jan 2017 07:07:01 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;train
+10 Jan 2017 07:07:01 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You **Beat** a Level 24 **Goodra** for 590 XP (43% to beat)
+You **Lost** to a Level 31 **Chimchar** (33% to beat)
+You **Lost** to a Level 36 **Arceus** (29% to beat)
+You **Beat** a Level 15 **Tangela** for 315 XP (70% to beat)
+You **Beat** a Level 21 **Roggenrola** for 525 XP (50% to beat)
+You **Beat** a Level 2 **Totodile** for 105 XP (90% to beat)
+10 Jan 2017 07:07:01 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You trained for 1535 XP!
+10 Jan 2017 07:07:01 : LimitlessMc, botchat, ChesireKat#7022, ^nope
+10 Jan 2017 07:07:02 : LimitlessMc, botchat, kat#5385, Now playing in 👤General: **Where Is My Goat? - Official Music Video**
+10 Jan 2017 07:07:05 : LimitlessMc, botchat, DicloniusPony#6564, XD
+10 Jan 2017 07:07:13 : LimitlessMc, botchat, ChesireKat#7022, ^nope
+10 Jan 2017 07:07:13 : LimitlessMc, botchat, kat#5385, Now playing in 👤General: **StrachAttack - Look at Me! (ft. Mr. Meeseeks)**
+10 Jan 2017 07:07:18 : LimitlessMc, botchat, DicloniusPony#6564, kat why
+10 Jan 2017 07:07:19 : LimitlessMc, botchat, ChesireKat#7022, ^nope
+10 Jan 2017 07:07:19 : LimitlessMc, botchat, kat#5385, Now playing in 👤General: **Where Is My Goat? - Official Music Video**
+10 Jan 2017 07:07:23 : LimitlessMc, botchat, ChesireKat#7022, got
+10 Jan 2017 07:07:24 : LimitlessMc, botchat, DicloniusPony#6564, let the goat play
+10 Jan 2017 07:07:25 : LimitlessMc, botchat, ChesireKat#7022, goat
+10 Jan 2017 07:07:29 : LimitlessMc, botchat, DicloniusPony#6564, its gr8
+10 Jan 2017 07:07:35 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, ;pokebattle NNFFP
+10 Jan 2017 07:07:35 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 8 Boss **Lillipup** has 1241 health left.
+10 Jan 2017 07:07:35 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 07:07:35 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_f: :regional_indicator_f: :regional_indicator_p:
+:x: :x: :white_check_mark: :white_check_mark: :white_check_mark:
+10 Jan 2017 07:07:35 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+10 Jan 2017 07:07:35 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 07:07:40 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **60** damage
+10 Jan 2017 07:07:40 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 8 Boss **Lillipup** has 1181 health left.
+10 Jan 2017 07:07:49 : LimitlessMc, mainchat, DicloniusPony#6564, rip XD
+10 Jan 2017 07:07:59 : LimitlessMc, mainchat, TherminatorX#6644, Your goat is on the roof
+10 Jan 2017 07:08:10 : LimitlessMc, mainchat, DicloniusPony#6564, @ChesireKat goats everywhere XD
+10 Jan 2017 07:08:40 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;search pertabour humans are such easy prey
+10 Jan 2017 07:08:42 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added Perturbator - "Humans Are Such Easy Prey" ["Dangerous Days" Official] to the queue
+10 Jan 2017 07:08:42 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, https://www.youtube.com/watch?v=Y8DekFFCE5c
+10 Jan 2017 07:09:06 : LimitlessMc, mainchat, ChesireKat#7022, ^r https://www.youtube.com/watch?v=3Q12xOukVAI
+10 Jan 2017 07:09:08 : LimitlessMc, mainchat, kat#5385, Enqueued **Ravioli Remix: Black and Yellow by Wiz Krablifa** to be played. Position in queue: 1 - estimated time until playing: 0:02:35
+10 Jan 2017 07:09:19 : LimitlessMc, botchat, Crystal4209#4698, oh kat next one has to be the tight pants on :3
+10 Jan 2017 07:09:20 : LimitlessMc, mainchat, ChesireKat#7022, shit
+10 Jan 2017 07:09:24 : LimitlessMc, mainchat, ChesireKat#7022, wrong chat XD
+10 Jan 2017 07:09:25 : LimitlessMc, botchat, DicloniusPony#6564, XD
+10 Jan 2017 07:09:32 : LimitlessMc, mainchat, ChesireKat#7022, also dis song is 2spooky
+10 Jan 2017 07:09:39 : LimitlessMc, botchat, ChesireKat#7022, okei
+10 Jan 2017 07:09:42 : LimitlessMc, botchat, ChesireKat#7022, ^nope
+10 Jan 2017 07:09:45 : LimitlessMc, botchat, DicloniusPony#6564, this girl sings Fuck Me In The Ass Cause I Love Jesus
+10 Jan 2017 07:09:49 : LimitlessMc, mainchat, TherminatorX#6644, In the meantime, I'm listening to dark electro
+10 Jan 2017 07:09:56 : LimitlessMc, botchat, DicloniusPony#6564, so many spongebob memes XD
+10 Jan 2017 07:10:04 : LimitlessMc, botchat, ChesireKat#7022, ^r https://www.youtube.com/watch?v=J1c2KzJbcGA
+10 Jan 2017 07:10:07 : LimitlessMc, botchat, kat#5385, Enqueued **Tight Pants / Body Rolls** to be played. Position in queue: 1 - estimated time until playing: 0:03:20
+10 Jan 2017 07:10:08 : LimitlessMc, botchat, ChesireKat#7022, ^nope
+10 Jan 2017 07:10:08 : LimitlessMc, botchat, kat#5385, Now playing in 👤General: **Tight Pants / Body Rolls**
+10 Jan 2017 07:10:13 : LimitlessMc, botchat, Crystal4209#4698, lel
+10 Jan 2017 07:10:17 : LimitlessMc, mainchat, ChesireKat#7022, @Crystal4209  here you go :3
+10 Jan 2017 07:10:21 : LimitlessMc, mainchat, DicloniusPony#6564, XD
+10 Jan 2017 07:10:33 : LimitlessMc, mainchat, Crystal4209#4698, XD
+10 Jan 2017 07:10:42 : LimitlessMc, mainchat, ChesireKat#7022, "but can you even dance in those pants"
+10 Jan 2017 07:11:09 : LimitlessMc, mainchat, DicloniusPony#6564, XD
+10 Jan 2017 07:11:14 : LimitlessMc, mainchat, ChesireKat#7022, also i sleep soon 😛
+10 Jan 2017 07:11:26 : LimitlessMc, mainchat, Crystal4209#4698, :#
+10 Jan 2017 07:11:29 : LimitlessMc, botchat, ChesireKat#7022, https://cdn.discordapp.com/attachments/228347599113945089/267923433361244160/images.png
+10 Jan 2017 07:11:34 : LimitlessMc, mainchat, DicloniusPony#6564, rip
+10 Jan 2017 07:11:36 : LimitlessMc, mainchat, ChesireKat#7022, https://cdn.discordapp.com/attachments/228347599113945089/267923433361244160/images.png
+10 Jan 2017 07:11:41 : LimitlessMc, mainchat, DicloniusPony#6564, we shall take over Kat bot
+10 Jan 2017 07:11:50 : LimitlessMc, mainchat, Crystal4209#4698, lel
+10 Jan 2017 07:11:50 : LimitlessMc, mainchat, ChesireKat#7022, https://cdn.discordapp.com/attachments/228347599113945089/267911228184199168/maxresdefault.png
+10 Jan 2017 07:11:57 : LimitlessMc, mainchat, DicloniusPony#6564, theres me ^^^
+10 Jan 2017 07:12:00 : LimitlessMc, mainchat, ChesireKat#7022, lmao
+10 Jan 2017 07:12:00 : LimitlessMc, mainchat, DicloniusPony#6564, XD jk
+10 Jan 2017 07:12:09 : LimitlessMc, mainchat, TherminatorX#6644, Dat me
+10 Jan 2017 07:12:11 : LimitlessMc, mainchat, Crystal4209#4698, thats my dog XD
+10 Jan 2017 07:12:11 : LimitlessMc, mainchat, DicloniusPony#6564, when someone lies to me
+10 Jan 2017 07:12:22 : LimitlessMc, mainchat, Crystal4209#4698, its litterly my dog
+10 Jan 2017 07:12:29 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, ;pokebattle
+10 Jan 2017 07:12:29 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please use a Combination of **5** Types to Fight the Boss: (**N**)ormal, (**F**)ire, (**W**)ater, (**G**)rass, (**P**)oison, (**D**)ragon, (**S**)teel, (**E**)lectric, (**B**)ug, or (**I**)ce.
+ Ex 'GSEBI' or 'DPGDB'
+10 Jan 2017 07:12:47 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, ;pokebattle SSFFP
+10 Jan 2017 07:12:47 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 8 Boss **Lillipup** has 1181 health left.
+10 Jan 2017 07:12:48 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 07:12:48 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_s: :regional_indicator_s: :regional_indicator_f: :regional_indicator_f: :regional_indicator_p:
+:white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark:
+10 Jan 2017 07:12:48 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Super Effective! The Boss has switched 1/4 of the Super Effective Moves!
+10 Jan 2017 07:12:48 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 07:12:50 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;search iayd galaxy smasher
+10 Jan 2017 07:12:53 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **298** damage
+10 Jan 2017 07:12:53 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 8 Boss **Lillipup** has 883 health left.
+10 Jan 2017 07:12:57 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added GALAXY SMASHER to the queue
+10 Jan 2017 07:12:57 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, https://www.youtube.com/watch?v=-3vupNus-Zg
+10 Jan 2017 07:13:14 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;skip
+10 Jan 2017 07:13:14 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Skipping GALAXY SMASHER by request of the requester
+10 Jan 2017 07:13:16 : LimitlessMc, botchat, DicloniusPony#6564, ^wtf
+10 Jan 2017 07:13:16 : LimitlessMc, botchat, kat#5385, Now Playing: **Stylez Major - For The Family {Official Audio + Lyrics}** `[00:04/03:48]`
+10 Jan 2017 07:13:17 : LimitlessMc, mainchat, ChesireKat#7022, 6wtf
+10 Jan 2017 07:13:20 : LimitlessMc, mainchat, ChesireKat#7022, ^wtf
+10 Jan 2017 07:13:20 : LimitlessMc, mainchat, kat#5385, Now Playing: **Stylez Major - For The Family {Official Audio + Lyrics}** `[00:08/03:48]`
+10 Jan 2017 07:13:26 : LimitlessMc, mainchat, ChesireKat#7022, O.o
+10 Jan 2017 07:13:30 : LimitlessMc, mainchat, ChesireKat#7022, ^nope
+10 Jan 2017 07:13:37 : LimitlessMc, mainchat, ChesireKat#7022, this one isnt happening
+10 Jan 2017 07:13:41 : LimitlessMc, mainchat, ChesireKat#7022, ^wtf
+10 Jan 2017 07:13:41 : LimitlessMc, mainchat, kat#5385, Now Playing: **Stromae - Tous Les Mêmes** `[00:07/03:37]`
+10 Jan 2017 07:13:44 : LimitlessMc, mainchat, ChesireKat#7022, okei
+10 Jan 2017 07:13:47 : LimitlessMc, mainchat, ChesireKat#7022, i allow
+10 Jan 2017 07:14:04 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, ;pokebattle SEFFP
+10 Jan 2017 07:14:05 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 18 seconds before you can fight the boss again.
+10 Jan 2017 07:14:08 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;youtube https://youtube.com/watch?v=q1Ev8l2Sr8E
+10 Jan 2017 07:14:08 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Not a Valid Link, Please only use URLs from youtube.com
+10 Jan 2017 07:14:35 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, @Batman (Lunala) (aww c'mon man)
+10 Jan 2017 07:14:35 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Wertfuzzy77 is afk for reason:
+**anime**
+10 Jan 2017 07:15:05 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, ;pokebattle SEFFP
+10 Jan 2017 07:15:05 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 8 Boss **Lillipup** has 883 health left.
+10 Jan 2017 07:15:06 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 07:15:06 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_s: :regional_indicator_e: :regional_indicator_f: :regional_indicator_f: :regional_indicator_p:
+:white_check_mark: :x: :white_check_mark: :white_check_mark: :x:
+10 Jan 2017 07:15:06 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+10 Jan 2017 07:15:06 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 07:15:10 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **70** damage
+10 Jan 2017 07:15:10 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 8 Boss **Lillipup** has 813 health left.
+10 Jan 2017 07:15:11 : LimitlessMc, botchat, TherminatorX#6644, ^r I'm Batman
+10 Jan 2017 07:15:11 : LimitlessMc, botchat, kat#5385, ```
+You don't have permission to use that command.
+Reason: you cannot use this command when not in the voice channel (👤General)
+```
+10 Jan 2017 07:15:55 : LimitlessMc, mainchat, ChesireKat#7022, @DicloniusPony  check pms :3
+10 Jan 2017 07:16:26 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, ;pokebattle SPFFE
+10 Jan 2017 07:16:26 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 15 seconds before you can fight the boss again.
+10 Jan 2017 07:16:31 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;search perturbator she is young she is beautiful
+10 Jan 2017 07:16:33 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added Perturbator - "She Is Young, She Is Beautiful, She Is Next" [Dangerous Days Premiere - 2014] to the queue
+10 Jan 2017 07:16:33 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, https://www.youtube.com/watch?v=u_uEt2aoFaI
+10 Jan 2017 07:17:06 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, ;pokebattle SPFFE
+10 Jan 2017 07:17:06 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 8 Boss **Lillipup** has 813 health left.
+10 Jan 2017 07:17:07 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 07:17:07 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_s: :regional_indicator_p: :regional_indicator_f: :regional_indicator_f: :regional_indicator_e:
+:white_check_mark: :x: :white_check_mark: :white_check_mark: :x:
+10 Jan 2017 07:17:07 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+10 Jan 2017 07:17:07 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 07:17:12 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **80** damage
+10 Jan 2017 07:17:12 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 8 Boss **Lillipup** has 733 health left.
+10 Jan 2017 07:17:37 : LimitlessMc, botchat, DicloniusPony#6564, ^r idfc nightcore
+10 Jan 2017 07:17:40 : LimitlessMc, botchat, kat#5385, Enqueued **「Nightcore」→ Idfc** to be played. Position in queue: 1 - estimated time until playing: 0:05:06
+10 Jan 2017 07:17:45 : LimitlessMc, botchat, DicloniusPony#6564, ^wtf
+10 Jan 2017 07:17:45 : LimitlessMc, botchat, kat#5385, Now Playing: **Mako - Our Story [Exclusive Premiere]** `[00:30/05:31]`
+10 Jan 2017 07:18:01 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, Try adding www. In the link
+10 Jan 2017 07:18:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;afk sleep
+10 Jan 2017 07:18:20 : LimitlessMc, botchat, Botfuzzy77#2209, Wertfuzzy77 is now AFK for reason:
+**sleep**
+10 Jan 2017 07:18:31 : LimitlessMc, mainchat, DicloniusPony#6564, i like how no one is caring about the song playing rn XD
+10 Jan 2017 07:19:43 : LimitlessMc, botchat, ChesireKat#7022, ^r  Fuck Me In The Ass Cause I Love Jesus
+10 Jan 2017 07:19:45 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;youtube https://www.youtube.com/watch?v=q1Ev8l2Sr8E
+10 Jan 2017 07:19:46 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Sorry, that video has too little views to be Trustworthy. Needs [10,000] but has [299]
+10 Jan 2017 07:19:47 : LimitlessMc, botchat, kat#5385, Enqueued **Fuck Me In The Ass Cause I Love Jesus** to be played. Position in queue: 2 - estimated time until playing: 0:06:25
+10 Jan 2017 07:19:48 : LimitlessMc, botchat, ChesireKat#7022, ^nope
+10 Jan 2017 07:19:49 : LimitlessMc, botchat, kat#5385, Now playing in 👤General: **「Nightcore」→ Idfc**
+10 Jan 2017 07:19:53 : LimitlessMc, botchat, ChesireKat#7022, ^nope
+10 Jan 2017 07:19:53 : LimitlessMc, botchat, kat#5385, Now playing in 👤General: **Fuck Me In The Ass Cause I Love Jesus**
+10 Jan 2017 07:19:56 : LimitlessMc, botchat, DicloniusPony#6564, rip why
+10 Jan 2017 07:19:58 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, (boo)
+10 Jan 2017 07:20:02 : LimitlessMc, botchat, DicloniusPony#6564, ^r idfc nightcore
+10 Jan 2017 07:20:03 : LimitlessMc, botchat, ChesireKat#7022, idk
+10 Jan 2017 07:20:06 : LimitlessMc, botchat, kat#5385, Enqueued **「Nightcore」→ Idfc** to be played. Position in queue: 1 - estimated time until playing: 0:04:28
+10 Jan 2017 07:20:13 : LimitlessMc, botchat, DicloniusPony#6564, o god this song is scary
+10 Jan 2017 07:20:18 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, (thing is lit)
+10 Jan 2017 07:20:23 : LimitlessMc, mainchat, Wertfuzzy77#0274, So I found this on Reddit
+10 Jan 2017 07:20:27 : LimitlessMc, mainchat, Wertfuzzy77#0274, https://i.imgur.com/DbaamCm.jpg
+10 Jan 2017 07:20:35 : LimitlessMc, mainchat, DicloniusPony#6564, run away
+10 Jan 2017 07:20:43 : LimitlessMc, mainchat, Wertfuzzy77#0274, And in the comments...
+10 Jan 2017 07:20:46 : LimitlessMc, mainchat, Wertfuzzy77#0274, https://www.youtube.com/watch?v=J5q-ZaW9f-k
+10 Jan 2017 07:20:48 : LimitlessMc, mainchat, DicloniusPony#6564, run away
+10 Jan 2017 07:20:51 : LimitlessMc, mainchat, Wertfuzzy77#0274, It's a thing
+10 Jan 2017 07:20:56 : LimitlessMc, mainchat, DicloniusPony#6564, XD
+10 Jan 2017 07:21:05 : LimitlessMc, mainchat, TherminatorX#6644, My music is over in the other server with Fuzz's bot
+10 Jan 2017 07:21:08 : LimitlessMc, mainchat, DicloniusPony#6564, get ready for the fuck in the ass
+10 Jan 2017 07:21:14 : LimitlessMc, mainchat, DicloniusPony#6564, guys get into the voice chat
+10 Jan 2017 07:21:34 : LimitlessMc, mainchat, TherminatorX#6644, Nuu
+10 Jan 2017 07:21:36 : LimitlessMc, mainchat, Lightning#6734, what
+10 Jan 2017 07:21:36 : LimitlessMc, mainchat, Lightning#6734, the
+10 Jan 2017 07:21:37 : LimitlessMc, mainchat, Lightning#6734, fuck
+10 Jan 2017 07:21:39 : LimitlessMc, mainchat, DicloniusPony#6564, XD
+10 Jan 2017 07:21:48 : LimitlessMc, mainchat, ChesireKat#7022, ^r https://www.youtube.com/watch?v=J5q-ZaW9f-k
+10 Jan 2017 07:21:53 : LimitlessMc, mainchat, ChesireKat#7022, :3
+10 Jan 2017 07:21:53 : LimitlessMc, mainchat, kat#5385, Enqueued **10 Hours of Soft Loli Breathing** to be played. Position in queue: 2 - estimated time until playing: 0:06:08
+10 Jan 2017 07:21:54 : LimitlessMc, mainchat, DicloniusPony#6564, and he gone
+10 Jan 2017 07:22:04 : LimitlessMc, mainchat, ChesireKat#7022, ^shakeit
+10 Jan 2017 07:22:04 : LimitlessMc, mainchat, kat#5385, :blush: :stuck_out_tongue: :yum: :kissing_heart:
+10 Jan 2017 07:22:08 : LimitlessMc, mainchat, kat#5385, :ok_hand: :yum:
+10 Jan 2017 07:22:08 : LimitlessMc, mainchat, ChesireKat#7022, ^queue
+10 Jan 2017 07:22:09 : LimitlessMc, mainchat, kat#5385, Now Playing: **Fuck Me In The Ass Cause I Love Jesus** added by **ChesireKat** `[02:16/04:41]`
+
+`1.` **「Nightcore」→ Idfc** added by **DicloniusPony**
+`2.` **10 Hours of Soft Loli Breathing** added by **ChesireKat**
+10 Jan 2017 07:22:12 : LimitlessMc, mainchat, ChesireKat#7022, ^shakeit
+10 Jan 2017 07:22:13 : LimitlessMc, mainchat, kat#5385, :blush: :stuck_out_tongue: :yum: :kissing_heart:
+10 Jan 2017 07:22:16 : LimitlessMc, mainchat, kat#5385, :ok_hand: :yum:
+10 Jan 2017 07:22:17 : LimitlessMc, mainchat, ChesireKat#7022, ^queue
+10 Jan 2017 07:22:17 : LimitlessMc, mainchat, kat#5385, Now Playing: **Fuck Me In The Ass Cause I Love Jesus** added by **ChesireKat** `[02:25/04:41]`
+
+`1.` **「Nightcore」→ Idfc** added by **DicloniusPony**
+`2.` **10 Hours of Soft Loli Breathing** added by **ChesireKat**
+10 Jan 2017 07:22:26 : LimitlessMc, botchat, TherminatorX#6644, Kat, does your music bot have the same limitations as Wert's?
+10 Jan 2017 07:22:27 : LimitlessMc, botchat, ChesireKat#7022, ^shakeit
+10 Jan 2017 07:22:27 : LimitlessMc, botchat, kat#5385, :blush: :stuck_out_tongue: :yum: :kissing_heart:
+10 Jan 2017 07:22:27 : LimitlessMc, mainchat, DicloniusPony#6564, @ChesireKat this is mainchat damnit
+10 Jan 2017 07:22:28 : LimitlessMc, botchat, ChesireKat#7022, ^shakeit
+10 Jan 2017 07:22:28 : LimitlessMc, botchat, kat#5385, :blush: :stuck_out_tongue: :yum: :kissing_heart:
+10 Jan 2017 07:22:29 : LimitlessMc, botchat, ChesireKat#7022, ^shakeit
+10 Jan 2017 07:22:29 : LimitlessMc, botchat, kat#5385, :blush: :stuck_out_tongue: :yum: :kissing_heart:
+10 Jan 2017 07:22:34 : LimitlessMc, botchat, ChesireKat#7022, nah
+10 Jan 2017 07:22:37 : LimitlessMc, botchat, ChesireKat#7022, mine is free
+10 Jan 2017 07:22:37 : LimitlessMc, botchat, kat#5385, :ok_hand: :yum:
+10 Jan 2017 07:22:39 : LimitlessMc, botchat, kat#5385, :ok_hand: :yum:
+10 Jan 2017 07:22:39 : LimitlessMc, botchat, kat#5385, :ok_hand: :yum:
+10 Jan 2017 07:22:40 : LimitlessMc, botchat, ChesireKat#7022, ^queue
+10 Jan 2017 07:22:40 : LimitlessMc, botchat, kat#5385, Now Playing: **Fuck Me In The Ass Cause I Love Jesus** added by **ChesireKat** `[02:47/04:41]`
+
+`1.` **10 Hours of Soft Loli Breathing** added by **ChesireKat**
+`2.` **「Nightcore」→ Idfc** added by **DicloniusPony**
+10 Jan 2017 07:22:47 : LimitlessMc, mainchat, ChesireKat#7022, lel ik
+10 Jan 2017 07:22:48 : LimitlessMc, mainchat, ChesireKat#7022, 😛
+10 Jan 2017 07:22:52 : LimitlessMc, mainchat, ChesireKat#7022, ^nope
+10 Jan 2017 07:23:17 : LimitlessMc, botchat, ChesireKat#7022, ^nope
+10 Jan 2017 07:23:18 : LimitlessMc, mainchat, DicloniusPony#6564, guys wt
+10 Jan 2017 07:23:21 : LimitlessMc, mainchat, DicloniusPony#6564, wtf
+10 Jan 2017 07:23:32 : LimitlessMc, botchat, TherminatorX#6644, ^hep
+10 Jan 2017 07:23:34 : LimitlessMc, mainchat, ChesireKat#7022, lmao is dowloading
+10 Jan 2017 07:23:35 : LimitlessMc, mainchat, DicloniusPony#6564, https://images.discordapp.net/.eJwNyFEOgyAMANC7cADKcFD0NgQJmmlLaI0fy-4-3-f7mmscZjGbapcFYN2l8FitKI_cqm3M7ai572ILn5BVc9nOSirgo0sYccIwz69HTE8ljyn6gOiDm9zbwUUf4ptsp2Z-fwlrIuU.L37PoTgVYDsaxZq-0ozsZCB1Sc0?width=400&height=273
+10 Jan 2017 07:23:37 : LimitlessMc, mainchat, Crystal4209#4698, oh hello @Jay113355
+10 Jan 2017 07:23:40 : LimitlessMc, mainchat, DicloniusPony#6564, wtffff
+10 Jan 2017 07:23:42 : LimitlessMc, mainchat, ChesireKat#7022, this 10 hour thing
+10 Jan 2017 07:23:45 : LimitlessMc, mainchat, Crystal4209#4698, lel
+10 Jan 2017 07:23:45 : LimitlessMc, mainchat, DicloniusPony#6564, what is happening
+10 Jan 2017 07:23:49 : LimitlessMc, mainchat, ChesireKat#7022, abort!
+10 Jan 2017 07:23:54 : LimitlessMc, mainchat, ChesireKat#7022, i dont want that
+10 Jan 2017 07:23:56 : LimitlessMc, mainchat, DicloniusPony#6564, https://images.discordapp.net/.eJwNyFEOgyAMANC7cADKcFD0NgQJmmlLaI0fy-4-3-f7mmscZjGbapcFYN2l8FitKI_cqm3M7ai572ILn5BVc9nOSirgo0sYccIwz69HTE8ljyn6gOiDm9zbwUUf4ptsp2Z-fwlrIuU.L37PoTgVYDsaxZq-0ozsZCB1Sc0?width=400&height=273
+10 Jan 2017 07:23:57 : LimitlessMc, mainchat, ChesireKat#7022, on my computer
+10 Jan 2017 07:23:59 : LimitlessMc, mainchat, DicloniusPony#6564, ripp
+10 Jan 2017 07:24:07 : LimitlessMc, mainchat, DicloniusPony#6564, poor duskull
+10 Jan 2017 07:24:10 : LimitlessMc, mainchat, DicloniusPony#6564, and cubone
+10 Jan 2017 07:24:20 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;search mika lollipop
+10 Jan 2017 07:24:21 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added Mika- Lollipop lyrics to the queue
+10 Jan 2017 07:24:21 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, https://www.youtube.com/watch?v=zwoQfFqvMW8
+10 Jan 2017 07:24:31 : LimitlessMc, botchat, DicloniusPony#6564, ^wtf
+10 Jan 2017 07:24:36 : LimitlessMc, botchat, DicloniusPony#6564, did kat die?
+10 Jan 2017 07:24:45 : LimitlessMc, mainchat, DicloniusPony#6564, did bot die?
+10 Jan 2017 07:24:48 : LimitlessMc, mainchat, DicloniusPony#6564, i cant hear anything
+10 Jan 2017 07:24:54 : LimitlessMc, botchat, TherminatorX#6644, Nah
+10 Jan 2017 07:24:55 : LimitlessMc, mainchat, ChesireKat#7022, yes i had to kill it
+10 Jan 2017 07:24:59 : LimitlessMc, mainchat, DicloniusPony#6564, rip
+10 Jan 2017 07:25:01 : LimitlessMc, botchat, Wertfuzzy77#0274, Lolis too strong
+10 Jan 2017 07:25:04 : LimitlessMc, mainchat, ChesireKat#7022, it was downloading the loli breathing
+10 Jan 2017 07:25:08 : LimitlessMc, mainchat, ChesireKat#7022, 10 hours of it
+10 Jan 2017 07:25:12 : LimitlessMc, mainchat, DicloniusPony#6564, XD
+10 Jan 2017 07:25:13 : LimitlessMc, botchat, TherminatorX#6644, Incidentally
+10 Jan 2017 07:25:18 : LimitlessMc, mainchat, ChesireKat#7022, was the only thing to do
+10 Jan 2017 07:25:19 : LimitlessMc, mainchat, Wertfuzzy77#0274, xD why it take so long
+10 Jan 2017 07:25:19 : LimitlessMc, botchat, DicloniusPony#6564, ^r idfc nightcore
+10 Jan 2017 07:25:22 : LimitlessMc, mainchat, ChesireKat#7022, ?
+10 Jan 2017 07:25:24 : LimitlessMc, botchat, DicloniusPony#6564, rip
+10 Jan 2017 07:25:25 : LimitlessMc, mainchat, Crystal4209#4698, ?
+10 Jan 2017 07:25:31 : LimitlessMc, mainchat, DicloniusPony#6564, kat died
+10 Jan 2017 07:25:34 : LimitlessMc, botchat, TherminatorX#6644, I'm listening to a song called Lollipop
+10 Jan 2017 07:25:34 : LimitlessMc, mainchat, ChesireKat#7022, lel
+10 Jan 2017 07:25:37 : LimitlessMc, mainchat, ChesireKat#7022, yes
+10 Jan 2017 07:25:56 : LimitlessMc, botchat, DicloniusPony#6564, lick me like a lollipop or lollipop lollipop oh lollipop?
+10 Jan 2017 07:25:56 : LimitlessMc, mainchat, Wertfuzzy77#0274, Yup, the Lolis are too strong
+10 Jan 2017 07:26:00 : LimitlessMc, mainchat, DicloniusPony#6564, XD
+10 Jan 2017 07:26:03 : LimitlessMc, mainchat, Wertfuzzy77#0274, I got distracted @Crystal4209
+10 Jan 2017 07:26:15 : LimitlessMc, botchat, TherminatorX#6644, It's by MIKA
+10 Jan 2017 07:26:16 : LimitlessMc, mainchat, Wertfuzzy77#0274, Lolis apparently
+10 Jan 2017 07:26:30 : LimitlessMc, botchat, TherminatorX#6644, Very bubblegum pop
+10 Jan 2017 07:26:30 : LimitlessMc, mainchat, ChesireKat#7022, XD
+10 Jan 2017 07:26:32 : LimitlessMc, mainchat, Wertfuzzy77#0274, Well, I watched anime for like 2 hours
+10 Jan 2017 07:26:51 : LimitlessMc, mainchat, Wertfuzzy77#0274, Then started watching some assorted ragtime songs on youtube cause I wanna try to play some
+10 Jan 2017 07:26:59 : LimitlessMc, mainchat, Wertfuzzy77#0274, Then I went to Reddit
+10 Jan 2017 07:27:03 : LimitlessMc, mainchat, Wertfuzzy77#0274, Saw lolis
+10 Jan 2017 07:27:07 : LimitlessMc, mainchat, Wertfuzzy77#0274, And here I am
+10 Jan 2017 07:27:10 : LimitlessMc, mainchat, ChesireKat#7022, lmao
+10 Jan 2017 07:27:15 : LimitlessMc, mainchat, TherminatorX#6644, Lolis are everywhere
+10 Jan 2017 07:27:16 : LimitlessMc, mainchat, ChesireKat#7022, :
+10 Jan 2017 07:27:18 : LimitlessMc, mainchat, TherminatorX#6644, Beware
+10 Jan 2017 07:27:19 : LimitlessMc, mainchat, ChesireKat#7022, :3
+10 Jan 2017 07:27:21 : LimitlessMc, mainchat, ChesireKat#7022, >:3
+10 Jan 2017 07:27:24 : LimitlessMc, mainchat, Wertfuzzy77#0274, Doodlebob?
+10 Jan 2017 07:27:27 : LimitlessMc, mainchat, ChesireKat#7022, ;-;
+10 Jan 2017 07:27:37 : LimitlessMc, mainchat, Wertfuzzy77#0274, If so, at least 6 times
+10 Jan 2017 07:27:37 : LimitlessMc, mainchat, ChesireKat#7022, nonoononono
+10 Jan 2017 07:27:41 : LimitlessMc, mainchat, ChesireKat#7022, for sure not
+10 Jan 2017 07:27:42 : LimitlessMc, mainchat, ChesireKat#7022, :3
+10 Jan 2017 07:27:45 : LimitlessMc, mainchat, ChesireKat#7022, tis me
+10 Jan 2017 07:27:49 : LimitlessMc, mainchat, ChesireKat#7022, everyday
+10 Jan 2017 07:27:52 : LimitlessMc, botchat, TherminatorX#6644, ^queue
+10 Jan 2017 07:27:57 : LimitlessMc, mainchat, ChesireKat#7022, i sing this while in my local walmart
+10 Jan 2017 07:28:02 : LimitlessMc, mainchat, ChesireKat#7022, and get kicked out
+10 Jan 2017 07:28:04 : LimitlessMc, mainchat, ChesireKat#7022, ;-;
+10 Jan 2017 07:28:10 : LimitlessMc, mainchat, ChesireKat#7022, and banned
+10 Jan 2017 07:28:24 : LimitlessMc, mainchat, TherminatorX#6644, Rip Pony
+10 Jan 2017 07:28:32 : LimitlessMc, mainchat, ChesireKat#7022, but i sneak in again i will never deprive the people of walmart of mai voice
+10 Jan 2017 07:28:33 : LimitlessMc, botchat, Wertfuzzy77#0274, We try something
+10 Jan 2017 07:28:37 : LimitlessMc, mainchat, TherminatorX#6644, U will b misseded
+10 Jan 2017 07:28:56 : LimitlessMc, botchat, Wertfuzzy77#0274, @TherminatorX , I'm gonna detach the bot that's playing your music
+10 Jan 2017 07:29:06 : LimitlessMc, botchat, TherminatorX#6644, Wahh
+10 Jan 2017 07:29:06 : LimitlessMc, mainchat, ChesireKat#7022, gone but not forgoten
+10 Jan 2017 07:29:09 : LimitlessMc, botchat, TherminatorX#6644, Alright
+10 Jan 2017 07:29:12 : LimitlessMc, botchat, Wertfuzzy77#0274, It's gonna keep playing what you have, but you won't be able to add more
+10 Jan 2017 07:29:21 : LimitlessMc, botchat, TherminatorX#6644, I got nothing
+10 Jan 2017 07:29:39 : LimitlessMc, botchat, Wertfuzzy77#0274, Well, add a few things before I disconnect it then :P
+10 Jan 2017 07:29:44 : LimitlessMc, botchat, TherminatorX#6644, Lol
+10 Jan 2017 07:30:02 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;search mika lollipop
+10 Jan 2017 07:30:07 : LimitlessMc, mainchat, ChesireKat#7022, @Crystal4209  when you take le doge for a walk do you
+10 Jan 2017 07:30:08 : LimitlessMc, mainchat, ChesireKat#7022, Will: Chaka lets role!
+10 Jan 2017 07:30:12 : LimitlessMc, mainchat, ChesireKat#7022, say dis?
+10 Jan 2017 07:30:16 : LimitlessMc, mainchat, ChesireKat#7022, is quote
+10 Jan 2017 07:30:20 : LimitlessMc, mainchat, ChesireKat#7022, from the movie
+10 Jan 2017 07:30:25 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;join
+10 Jan 2017 07:30:25 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Sorry, I'm already connected to a channel in server Pokemon Mystery Dungeon
+10 Jan 2017 07:30:31 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;search perturbator she is young she is beautiful
+10 Jan 2017 07:30:32 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added Perturbator - "She Is Young, She Is Beautiful, She Is Next" [Dangerous Days Premiere - 2014] to the queue
+10 Jan 2017 07:30:32 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, https://www.youtube.com/watch?v=u_uEt2aoFaI
+10 Jan 2017 07:30:41 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;search mika lollipop
+10 Jan 2017 07:30:43 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added MIKA - Lollipop to the queue
+10 Jan 2017 07:30:43 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, https://www.youtube.com/watch?v=6md5RSnVUuo
+10 Jan 2017 07:30:44 : LimitlessMc, mainchat, Crystal4209#4698, kat sing
+10 Jan 2017 07:30:55 : LimitlessMc, mainchat, ChesireKat#7022, lmao isnt that the only reason people buy dogs?
+10 Jan 2017 07:30:59 : LimitlessMc, mainchat, ChesireKat#7022, because they walk
+10 Jan 2017 07:31:01 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;search weed la weed mowtendoo
+10 Jan 2017 07:31:03 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added Weed La Weed Comparison to the queue
+10 Jan 2017 07:31:03 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, https://www.youtube.com/watch?v=cykYmx9sh78
+10 Jan 2017 07:31:13 : LimitlessMc, mainchat, ChesireKat#7022, otherwise cats have them beat in almost evry way
+10 Jan 2017 07:31:18 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;search bonetrousle
+10 Jan 2017 07:31:22 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added Undertale - Bonetrousle to the queue
+10 Jan 2017 07:31:22 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, https://www.youtube.com/watch?v=mqzBv3FYpr0
+10 Jan 2017 07:31:32 : LimitlessMc, botchat, TherminatorX#6644, Alright  @Wertfuzzy77
+10 Jan 2017 07:31:32 : LimitlessMc, botchat, Botfuzzy77#2209, Wertfuzzy77 is afk for reason:
+**sleep**
+10 Jan 2017 07:31:37 : LimitlessMc, botchat, TherminatorX#6644, Do the deed
+10 Jan 2017 07:31:39 : LimitlessMc, mainchat, DicloniusPony#6564, i died
+10 Jan 2017 07:31:45 : LimitlessMc, mainchat, Wertfuzzy77#0274, Only a crazy cat lady would say that :P @ChesireKat
+10 Jan 2017 07:31:57 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+10 Jan 2017 07:32:06 : LimitlessMc, botchat, Botfuzzy77#2209, Reloaded all Modules
+10 Jan 2017 07:32:21 : LimitlessMc, botchat, TherminatorX#6644, ...it didn't disconnect
+10 Jan 2017 07:32:42 : LimitlessMc, botchat, Wertfuzzy77#0274, Ya, it disconnected it on my end, it's gone rogue
+10 Jan 2017 07:32:44 : LimitlessMc, botchat, Crystal4209#4698, kat put on doodlebob
+10 Jan 2017 07:32:48 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+10 Jan 2017 07:32:48 : LimitlessMc, botchat, TherminatorX#6644, Ll
+10 Jan 2017 07:32:56 : LimitlessMc, botchat, TherminatorX#6644, Lol
+10 Jan 2017 07:33:03 : LimitlessMc, botchat, TherminatorX#6644, It's still over here
+10 Jan 2017 07:33:05 : LimitlessMc, botchat, Wertfuzzy77#0274, @Botfuzzy77
+10 Jan 2017 07:33:07 : LimitlessMc, botchat, Botfuzzy77#2209, Congratulations, do you want a medal?
+10 Jan 2017 07:33:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ...
+10 Jan 2017 07:33:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+10 Jan 2017 07:33:21 : LimitlessMc, botchat, Wertfuzzy77#0274, ;music
+10 Jan 2017 07:33:27 : LimitlessMc, botchat, Crystal4209#4698, lol
+10 Jan 2017 07:33:31 : LimitlessMc, botchat, TherminatorX#6644, ;songs
+10 Jan 2017 07:33:31 : LimitlessMc, botchat, Botfuzzy77#2209, Queue is Empty
+10 Jan 2017 07:33:40 : LimitlessMc, mainchat, ChesireKat#7022, You little monkey bastards!
+
+  
+Prepare to bow down
+and worship me!
+
+  
+For behold, ye troglodytes,
+I command the power of fire.
+10 Jan 2017 07:33:42 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;songs
+10 Jan 2017 07:33:42 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Queue is Empty
+10 Jan 2017 07:33:46 : LimitlessMc, mainchat, ChesireKat#7022, :3
+10 Jan 2017 07:33:49 : LimitlessMc, botchat, Wertfuzzy77#0274, ;musicdebug self.voice
+10 Jan 2017 07:33:49 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+None
+```
+10 Jan 2017 07:33:51 : LimitlessMc, botchat, TherminatorX#6644, Welp
+10 Jan 2017 07:33:55 : LimitlessMc, botchat, Wertfuzzy77#0274, Interesting
+10 Jan 2017 07:33:58 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+10 Jan 2017 07:34:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+10 Jan 2017 07:34:12 : LimitlessMc, mainchat, ChesireKat#7022, Keep in mind,
+Chaka, although I'm a doctor,
+I'm not a licensed physician.
+10 Jan 2017 07:34:13 : LimitlessMc, botchat, Wertfuzzy77#0274, Oh
+10 Jan 2017 07:34:15 : LimitlessMc, botchat, TherminatorX#6644, Rouge bot
+10 Jan 2017 07:34:15 : LimitlessMc, botchat, Wertfuzzy77#0274, Weird
+10 Jan 2017 07:34:29 : LimitlessMc, botchat, Wertfuzzy77#0274, @Crystal4209 drag my bot into general please
+10 Jan 2017 07:34:37 : LimitlessMc, botchat, TherminatorX#6644, Vs rogue bot
+10 Jan 2017 07:34:47 : LimitlessMc, mainchat, ChesireKat#7022, Well, that's more like it.
+Holly, what did you tell him?
+
+  
+I think I told him
+that you're a great chief,
+and you're very powerful,
+
+  
+and I think he's pledging
+his lifelong loyalty to you.
+
+  
+That's hardly necessary,
+my little friend,
+
+  
+but I will
+honor your customs.
+
+  
+And you may serve me.
+
+  
+(LAUGHING)
+
+  
+In return, I will be a fair
+but very strict master.
+10 Jan 2017 07:34:56 : LimitlessMc, botchat, TherminatorX#6644, Is it playing my stuff?
+10 Jan 2017 07:35:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://youtu.be/J5q-ZaW9f-k
+10 Jan 2017 07:35:16 : LimitlessMc, botchat, Botfuzzy77#2209, Sorry, that video is too long, it must be under [12.0] minutes!
+10 Jan 2017 07:35:17 : LimitlessMc, mainchat, ChesireKat#7022, Everybody move out!
+Chaka, your master
+commands you to...
+
+  
+Bad Chaka! Your loyalty
+is now in question!
+10 Jan 2017 07:35:18 : LimitlessMc, mainchat, Crystal4209#4698, lol i remember that
+10 Jan 2017 07:35:19 : LimitlessMc, botchat, Wertfuzzy77#0274, Kys
+10 Jan 2017 07:35:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ;forceplay https://youtu.be/J5q-ZaW9f-k
+10 Jan 2017 07:35:31 : LimitlessMc, mainchat, ChesireKat#7022, Why are you
+wearing high heels?
+
+  
+RICK: They're not
+high heels. They're my
+Florsheim zipper boots.
+10 Jan 2017 07:35:33 : LimitlessMc, mainchat, ChesireKat#7022, 😛
+10 Jan 2017 07:35:36 : LimitlessMc, mainchat, Wertfuzzy77#0274, We did it
+10 Jan 2017 07:35:43 : LimitlessMc, mainchat, DicloniusPony#6564, wtf
+10 Jan 2017 07:35:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+10 Jan 2017 07:35:47 : LimitlessMc, botchat, Wertfuzzy77#0274, Ha
+10 Jan 2017 07:35:48 : LimitlessMc, botchat, Botfuzzy77#2209, Reloaded all Modules
+10 Jan 2017 07:35:51 : LimitlessMc, botchat, Wertfuzzy77#0274, Disconnected
+10 Jan 2017 07:35:56 : LimitlessMc, mainchat, Crystal4209#4698, lol
+10 Jan 2017 07:35:57 : LimitlessMc, botchat, TherminatorX#6644, Nope
+10 Jan 2017 07:35:58 : LimitlessMc, botchat, DicloniusPony#6564, ohmilord stpahhh
+10 Jan 2017 07:35:58 : LimitlessMc, botchat, Wertfuzzy77#0274, Can't skip it now
+10 Jan 2017 07:36:02 : LimitlessMc, mainchat, DicloniusPony#6564, noooo
+10 Jan 2017 07:36:08 : LimitlessMc, botchat, TherminatorX#6644, Uh
+10 Jan 2017 07:36:17 : LimitlessMc, botchat, TherminatorX#6644, What are you guys hearing?
+10 Jan 2017 07:36:24 : LimitlessMc, mainchat, ChesireKat#7022, No, no.
+Bless your heart.
+
+  
+Classic tenderfoot mistake.
+10 Jan 2017 07:36:36 : LimitlessMc, mainchat, Wertfuzzy77#0274, Well, I'll see you guys in 10 hours
+10 Jan 2017 07:36:41 : LimitlessMc, mainchat, DicloniusPony#6564, skip it ohmilorddd
+10 Jan 2017 07:36:48 : LimitlessMc, mainchat, DicloniusPony#6564, it sounds like moaning'
+10 Jan 2017 07:36:51 : LimitlessMc, mainchat, Wertfuzzy77#0274, Not possible
+10 Jan 2017 07:36:52 : LimitlessMc, botchat, Crystal4209#4698, ;skip
+10 Jan 2017 07:36:55 : LimitlessMc, mainchat, TherminatorX#6644, What is it playing for you guys?
+10 Jan 2017 07:36:57 : LimitlessMc, botchat, Crystal4209#4698, ;-;
+10 Jan 2017 07:36:58 : LimitlessMc, mainchat, Wertfuzzy77#0274, It's the sounds of lolis sleeping
+10 Jan 2017 07:37:04 : LimitlessMc, mainchat, DicloniusPony#6564, someones getting ass fucked
+10 Jan 2017 07:37:06 : LimitlessMc, mainchat, ChesireKat#7022, FROM THIS POINT ONWARD! i shall only speak in quotes from land of the lost!
+10 Jan 2017 07:37:08 : LimitlessMc, mainchat, TherminatorX#6644, Because it's still my stuff for me
+10 Jan 2017 07:37:18 : LimitlessMc, mainchat, ChesireKat#7022, No, no.
+Bless your heart.
+
+  
+Classic tenderfoot mistake.
+10 Jan 2017 07:37:21 : LimitlessMc, mainchat, DicloniusPony#6564, imma leave this chat and play my music XD
+10 Jan 2017 07:37:25 : LimitlessMc, mainchat, ChesireKat#7022, No, no.
+Bless your heart.
+
+  
+Classic tenderfoot mistake.
+10 Jan 2017 07:37:27 : LimitlessMc, mainchat, Wertfuzzy77#0274, Ya, I can create pseudo-sub bots
+10 Jan 2017 07:37:35 : LimitlessMc, mainchat, TherminatorX#6644, @DicloniusPony come to my music
+10 Jan 2017 07:37:53 : LimitlessMc, mainchat, TherminatorX#6644, Nice job Fuz
+10 Jan 2017 07:38:17 : LimitlessMc, mainchat, ChesireKat#7022, okei is time to sleep
+10 Jan 2017 07:38:24 : The Wild Weebs, weeb, Wertfuzzy77#0274, So... I put this playing in my bots main voice chat
+10 Jan 2017 07:38:27 : The Wild Weebs, weeb, Wertfuzzy77#0274, https://youtu.be/J5q-ZaW9f-k
+10 Jan 2017 07:38:33 : The Wild Weebs, weeb, Wertfuzzy77#0274, And made it unskippable
+10 Jan 2017 07:38:33 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;songs
+10 Jan 2017 07:38:33 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Queue is Empty
+10 Jan 2017 07:38:34 : LimitlessMc, mainchat, ChesireKat#7022, wert i really hope you dont listen to this often
+10 Jan 2017 07:38:54 : LimitlessMc, mainchat, Wertfuzzy77#0274, I mean, I found it like less than an hour ago
+10 Jan 2017 07:39:09 : LimitlessMc, mainchat, TherminatorX#6644, My music is better over in PMD, just sayin
+10 Jan 2017 07:39:16 : LimitlessMc, mainchat, ChesireKat#7022, lmao
+10 Jan 2017 07:39:18 : LimitlessMc, mainchat, TherminatorX#6644, For now
+10 Jan 2017 07:39:19 : LimitlessMc, mainchat, Wertfuzzy77#0274, Debatable
+10 Jan 2017 07:39:23 : LimitlessMc, mainchat, ChesireKat#7022, the sleep is better at my house
+10 Jan 2017 07:39:30 : LimitlessMc, mainchat, ChesireKat#7022, but ur not invited :3
+10 Jan 2017 07:39:31 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;train
+10 Jan 2017 07:39:31 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You **Beat** a Level 15 **Diancie** for 173 XP (86% to beat)
+You **Lost** to a Level 36 **Lampent** (36% to beat)
+You **Beat** a Level 14 **Bastiodon** for 130 XP (90% to beat)
+You **Lost** to a Level 28 **Ferroseed** (46% to beat)
+You **Lost** to a Level 2 **Ferrothorn** (90% to beat)
+You **Lost** to a Level 45 **Manectric** (28% to beat)
+You **Lost** to a Level 19 **Gothitelle** (68% to beat)
+You **Lost** to a Level 35 **Absol** (37% to beat)
+You use a **Lucky Egg** to gain more XP!
+10 Jan 2017 07:39:31 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You trained for 454 XP!
+10 Jan 2017 07:39:37 : LimitlessMc, mainchat, ChesireKat#7022, ill keep it all to my self
+10 Jan 2017 07:39:43 : LimitlessMc, mainchat, TherminatorX#6644, I can live with that
+10 Jan 2017 07:39:45 : LimitlessMc, mainchat, Wertfuzzy77#0274, But I wanna sleep ;-;
+10 Jan 2017 07:40:00 : LimitlessMc, mainchat, ChesireKat#7022, lel
+10 Jan 2017 07:40:06 : LimitlessMc, mainchat, Wertfuzzy77#0274, xD everyone left general chat
+10 Jan 2017 07:40:08 : LimitlessMc, mainchat, Wertfuzzy77#0274, Rip
+10 Jan 2017 07:40:22 : LimitlessMc, mainchat, ChesireKat#7022, your creepy child sounds scurred them off
+10 Jan 2017 07:40:26 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, ;pokebattle SIFFG
+10 Jan 2017 07:40:26 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, A Level 0 Boss **Armaldo** has appeared!
+It has 0 Health.
+10 Jan 2017 07:40:26 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 07:40:26 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_s: :regional_indicator_i: :regional_indicator_f: :regional_indicator_f: :regional_indicator_g:
+:x: :x: :x: :x: :x:
+10 Jan 2017 07:40:26 : LimitlessMc, mainchat, ChesireKat#7022, 😛
+10 Jan 2017 07:40:26 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its a Critical Strike
+10 Jan 2017 07:40:26 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **0** damage
+10 Jan 2017 07:40:31 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 0 Boss **Armaldo** has been defeated!
+10 Jan 2017 07:40:31 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Most Damage by **Crystal4209** with **0** damage
+10 Jan 2017 07:40:34 : LimitlessMc, mainchat, TherminatorX#6644, Lol
+10 Jan 2017 07:40:37 : LimitlessMc, mainchat, Wertfuzzy77#0274, Apparently
+10 Jan 2017 07:40:40 : LimitlessMc, mainchat, TherminatorX#6644, is
+10 Jan 2017 07:40:47 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, ;level
+10 Jan 2017 07:40:47 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Name**: *Crystal4209*
+**Level**: 8
+**XP**: 719/729
+**Boss Takedowns**: 2
+**Most Dmg in an Attack**: 529
+10 Jan 2017 07:40:55 : LimitlessMc, mainchat, Wertfuzzy77#0274, Well, I'll just leave it here 😂
+10 Jan 2017 07:40:55 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, ;summon 8
+10 Jan 2017 07:40:56 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, A Level 8 boss has been summoned
+10 Jan 2017 07:40:57 : LimitlessMc, mainchat, Wertfuzzy77#0274, Gn
+10 Jan 2017 07:41:05 : Pokemon Mystery Dungeon, poke_battles, Crystal4209#4698, ;pokebattle GGGGG
+10 Jan 2017 07:41:05 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, A Level 8 Boss **Swellow** has appeared!
+It has 3984 Health.
+10 Jan 2017 07:41:05 : LimitlessMc, mainchat, TherminatorX#6644, And in my channel, BONETROUSLE!
+10 Jan 2017 07:41:05 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 07:41:05 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g:
+:x: :x: :x: :x: :x:
+10 Jan 2017 07:41:05 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 07:41:05 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **1** damage
+10 Jan 2017 07:41:10 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 8 Boss **Swellow** has 3983 health left.
+10 Jan 2017 07:41:22 : LimitlessMc, mainchat, Crystal4209#4698, wert if this a fetish for you XD
+10 Jan 2017 07:41:32 : LimitlessMc, mainchat, ChesireKat#7022, O.o
+10 Jan 2017 07:41:33 : LimitlessMc, mainchat, ChesireKat#7022, wow
+10 Jan 2017 07:41:40 : LimitlessMc, mainchat, Wertfuzzy77#0274, xD that's just weird
+10 Jan 2017 07:41:48 : LimitlessMc, mainchat, TherminatorX#6644, Not really
+10 Jan 2017 07:42:02 : LimitlessMc, mainchat, TherminatorX#6644, He'd be sharing it with half the weebs
+10 Jan 2017 07:42:13 : LimitlessMc, mainchat, Crystal4209#4698, ...
+10 Jan 2017 07:42:16 : LimitlessMc, mainchat, Wertfuzzy77#0274, True, weebs to love Lolis
+10 Jan 2017 07:42:26 : LimitlessMc, mainchat, Wertfuzzy77#0274, But I'm not that kind of weeb
+10 Jan 2017 07:42:39 : LimitlessMc, mainchat, Wertfuzzy77#0274, At least I don't think so 0.o
+10 Jan 2017 07:42:44 : LimitlessMc, mainchat, TherminatorX#6644, 😏
+10 Jan 2017 07:42:48 : LimitlessMc, mainchat, Crystal4209#4698, o-o
+10 Jan 2017 07:43:00 : LimitlessMc, mainchat, Wertfuzzy77#0274, But yeah, I sleep now
+10 Jan 2017 07:43:04 : LimitlessMc, mainchat, ChesireKat#7022, XD
+10 Jan 2017 07:43:06 : LimitlessMc, mainchat, Crystal4209#4698, go to sleep
+10 Jan 2017 07:43:07 : LimitlessMc, mainchat, Wertfuzzy77#0274, Also, this is getting kind of creepy
+10 Jan 2017 07:43:12 : LimitlessMc, mainchat, Crystal4209#4698, lol
+10 Jan 2017 07:43:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;relog
+10 Jan 2017 07:43:13 : LimitlessMc, botchat, Botfuzzy77#2209, Relogging...

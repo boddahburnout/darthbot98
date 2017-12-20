@@ -1,0 +1,194 @@
+18 Jan 2017 03:49:02 : LimitlessMc, botchat, Wertfuzzy77#0274, and I just doubled the XP gain for defeating things in ;train
+18 Jan 2017 03:49:04 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+18 Jan 2017 03:49:05 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 13 **Diancie** for 370 XP (90% to beat)
+You **Beat** a Level 26 **Serperior** for 1067 XP (71% to beat)
+You **Beat** a Level 19 **Purugly** for 370 XP (90% to beat)
+You **Beat** a Level 3 **Talonflame** for 370 XP (90% to beat)
+You **Beat** a Level 1 **Illumise** for 370 XP (90% to beat)
+You **Beat** a Level 60 **Lilligant** for 2559 XP (30% to beat)
+You **Lost** to a Level 35 **Mightyena** (52% to beat)
+You **Beat** a Level 20 **Manaphy** for 370 XP (90% to beat)
+You **Beat** a Level 18 **Electrode** for 370 XP (90% to beat)
+You **Beat** a Level 25 **Shaymin** for 962 XP (74% to beat)
+You Find a **Pokeloot** worth 5488 XP
+18 Jan 2017 03:49:05 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 12296 XP!
+18 Jan 2017 03:49:08 : LimitlessMc, botchat, theOnlyJuan#9357, ;pokebattle medium dddddddd
+18 Jan 2017 03:49:08 : LimitlessMc, botchat, Botfuzzy77#2209, The Available Locations are easy, medium, hard, insane
+18 Jan 2017 03:49:13 : LimitlessMc, botchat, Wertfuzzy77#0274, its now
+18 Jan 2017 03:49:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ;help pokebatte
+18 Jan 2017 03:49:15 : LimitlessMc, botchat, Botfuzzy77#2209, No command called "pokebatte" found.
+18 Jan 2017 03:49:18 : LimitlessMc, botchat, Wertfuzzy77#0274, ;help pokebattle
+18 Jan 2017 03:49:18 : LimitlessMc, botchat, Botfuzzy77#2209, ```
+;pokebattle [moves] [area]
+
+Fights a Pokemon Boss
+
+```
+18 Jan 2017 03:49:44 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle nnnnnnnn
+18 Jan 2017 03:49:44 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 23 Boss **Dewott** has appeared in the medium zone!
+It has 8694 Health.
+18 Jan 2017 03:49:44 : LimitlessMc, botchat, Botfuzzy77#2209, 
+18 Jan 2017 03:49:44 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :x: :x: :white_check_mark: :white_check_mark: :x:
+18 Jan 2017 03:49:44 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **63** damage
+18 Jan 2017 03:49:45 : LimitlessMc, botchat, Botfuzzy77#2209, Level 23 Boss **Dewott** has 8631 health left.
+18 Jan 2017 03:49:48 : LimitlessMc, botchat, Wertfuzzy77#0274, ayy got 2
+18 Jan 2017 03:49:49 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cd
+18 Jan 2017 03:49:50 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 86 seconds
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 3556 seconds
+18 Jan 2017 03:50:21 : LimitlessMc, botchat, theOnlyJuan#9357, Dont have to do area?
+18 Jan 2017 03:50:31 : LimitlessMc, botchat, theOnlyJuan#9357, ;pokebattle dddddddd
+18 Jan 2017 03:50:31 : LimitlessMc, botchat, Botfuzzy77#2209, Level 23 Boss **Dewott** in medium has 8631 health left.
+18 Jan 2017 03:50:31 : LimitlessMc, botchat, Botfuzzy77#2209, 
+18 Jan 2017 03:50:31 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d:
+:x: :x: :x: :x: :x: :x: :x: :white_check_mark:
+18 Jan 2017 03:50:32 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **26** damage
+18 Jan 2017 03:50:32 : LimitlessMc, botchat, Botfuzzy77#2209, Level 23 Boss **Dewott** has 8605 health left.
+18 Jan 2017 03:50:35 : LimitlessMc, botchat, Wertfuzzy77#0274, nope
+18 Jan 2017 03:50:46 : LimitlessMc, botchat, Wertfuzzy77#0274, its clever, and will have you fight the boss you are supposed to
+18 Jan 2017 03:50:51 : LimitlessMc, botchat, Wertfuzzy77#0274, but you can battle any if you choose to
+18 Jan 2017 03:50:52 : LimitlessMc, botchat, theOnlyJuan#9357, It changed boss?
+18 Jan 2017 03:50:58 : LimitlessMc, botchat, Wertfuzzy77#0274, I reloaded it
+18 Jan 2017 03:51:01 : LimitlessMc, botchat, Wertfuzzy77#0274, still fixing things
+18 Jan 2017 03:51:17 : LimitlessMc, botchat, Wertfuzzy77#0274, Its on the local bot, not the real one
+18 Jan 2017 03:51:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+18 Jan 2017 03:51:20 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 3465 seconds before you can train again.
+18 Jan 2017 03:51:22 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+18 Jan 2017 03:51:31 : LimitlessMc, botchat, theOnlyJuan#9357, ;cd
+18 Jan 2017 03:51:31 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 31 seconds
+**Train** (*Note: Must be Level 10 to use ;train*)
+You can Train right now!
+18 Jan 2017 03:51:38 : LimitlessMc, botchat, theOnlyJuan#9357, ;train
+18 Jan 2017 03:51:38 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 23 **Loudred** for 1150 XP (50% to beat)
+You **Lost** to a Level 25 **Servine** (46% to beat)
+You **Beat** a Level 29 **Furret** for 1387 XP (39% to beat)
+You **Beat** a Level 11 **Haxorus** for 230 XP (90% to beat)
+You **Beat** a Level 15 **Yveltal** for 536 XP (76% to beat)
+You **Lost** to a Level 45 **Ho-oh** (25% to beat)
+You **Beat** a Level 1 **Regigigas** for 230 XP (90% to beat)
+You use a **Lucky Egg** to gain more XP!
+18 Jan 2017 03:51:38 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 5299 XP!
+18 Jan 2017 03:51:48 : LimitlessMc, botchat, theOnlyJuan#9357, Nice I usually get poop xp
+18 Jan 2017 03:52:08 : LimitlessMc, botchat, Wertfuzzy77#0274, lol, level 1 Regigias
+18 Jan 2017 03:52:08 : LimitlessMc, botchat, theOnlyJuan#9357, That last 3 were legends
+18 Jan 2017 03:52:12 : LimitlessMc, botchat, Wertfuzzy77#0274, hax
+18 Jan 2017 03:52:18 : LimitlessMc, botchat, theOnlyJuan#9357, Yas
+18 Jan 2017 03:52:26 : LimitlessMc, botchat, theOnlyJuan#9357, ;cd
+18 Jan 2017 03:52:26 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 3552 seconds
+18 Jan 2017 03:52:40 : LimitlessMc, botchat, Wertfuzzy77#0274, Also, it will be saving all the pokemon you beat, so maybe Ill have like a weekly competition for beating a specific number of pokemon
+18 Jan 2017 03:52:45 : LimitlessMc, botchat, Wertfuzzy77#0274, or certain ones
+18 Jan 2017 03:52:51 : LimitlessMc, botchat, theOnlyJuan#9357, ;pokebattle gggggnnd
+18 Jan 2017 03:52:51 : LimitlessMc, botchat, Botfuzzy77#2209, Level 23 Boss **Dewott** in medium has 8605 health left.
+18 Jan 2017 03:52:51 : LimitlessMc, botchat, Botfuzzy77#2209, 
+18 Jan 2017 03:52:51 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_n: :regional_indicator_n: :regional_indicator_d:
+:x: :white_check_mark: :x: :x: :x: :white_check_mark: :white_check_mark: :white_check_mark:
+18 Jan 2017 03:52:51 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **80** damage
+18 Jan 2017 03:52:51 : LimitlessMc, botchat, Botfuzzy77#2209, Level 23 Boss **Dewott** has 8525 health left.
+18 Jan 2017 03:53:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle igiiinnd
+18 Jan 2017 03:53:02 : LimitlessMc, botchat, Botfuzzy77#2209, Level 23 Boss **Dewott** in medium has 8525 health left.
+18 Jan 2017 03:53:02 : LimitlessMc, botchat, Botfuzzy77#2209, 
+18 Jan 2017 03:53:02 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_g: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_n: :regional_indicator_n: :regional_indicator_d:
+:x: :white_check_mark: :x: :x: :x: :white_check_mark: :white_check_mark: :white_check_mark:
+18 Jan 2017 03:53:02 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **151** damage
+18 Jan 2017 03:53:02 : LimitlessMc, botchat, Botfuzzy77#2209, Level 23 Boss **Dewott** has 8374 health left.
+18 Jan 2017 03:53:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+18 Jan 2017 03:53:08 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 38
+**XP**: 2118/59319
+**Boss Takedowns**: 18
+**Most Dmg in an Attack**: 7181
+18 Jan 2017 03:53:18 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lookup theOnlyJuan
+18 Jan 2017 03:53:18 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *theOnlyJuan*
+**Level**: 24
+**XP**: 2699/15625
+**Boss Takedowns**: 5
+**Most Dmg in an Attack**: 3449
+18 Jan 2017 03:53:32 : LimitlessMc, botchat, theOnlyJuan#9357, Like takedowns only or helping take down
+18 Jan 2017 03:53:43 : LimitlessMc, botchat, Wertfuzzy77#0274, just the ones in ;train
+18 Jan 2017 03:53:53 : LimitlessMc, botchat, Wertfuzzy77#0274, not ;pokeboss
+18 Jan 2017 03:53:54 : LimitlessMc, botchat, theOnlyJuan#9357, Oh nice
+18 Jan 2017 03:54:14 : LimitlessMc, botchat, theOnlyJuan#9357, Better since only one person gets the takedown per boss
+18 Jan 2017 03:54:26 : LimitlessMc, botchat, theOnlyJuan#9357, ;cf
+18 Jan 2017 03:54:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ya
+18 Jan 2017 03:54:29 : LimitlessMc, botchat, theOnlyJuan#9357, ;cd
+18 Jan 2017 03:54:29 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 3429 seconds
+18 Jan 2017 03:54:55 : LimitlessMc, botchat, theOnlyJuan#9357, ;pokebattle bgbbbnnd
+18 Jan 2017 03:54:56 : LimitlessMc, botchat, Botfuzzy77#2209, Level 23 Boss **Dewott** in medium has 8374 health left.
+18 Jan 2017 03:54:56 : LimitlessMc, botchat, Botfuzzy77#2209, 
+18 Jan 2017 03:54:56 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_b: :regional_indicator_g: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_n: :regional_indicator_n: :regional_indicator_d:
+:white_check_mark: :white_check_mark: :x: :x: :x: :white_check_mark: :white_check_mark: :white_check_mark:
+18 Jan 2017 03:54:56 : LimitlessMc, botchat, Botfuzzy77#2209, Its a Critical Strike
+18 Jan 2017 03:54:56 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+18 Jan 2017 03:55:01 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **555** damage
+18 Jan 2017 03:55:01 : LimitlessMc, botchat, Botfuzzy77#2209, Level 23 Boss **Dewott** has 7819 health left.
+18 Jan 2017 03:57:21 : LimitlessMc, botchat, theOnlyJuan#9357, ;lookup Crystal4209
+18 Jan 2017 03:57:22 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Crystal4209*
+**Level**: 25
+**XP**: 2690/17576
+**Boss Takedowns**: 5
+**Most Dmg in an Attack**: 4390
+18 Jan 2017 03:57:43 : LimitlessMc, botchat, theOnlyJuan#9357, ;level
+18 Jan 2017 03:57:43 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *theOnlyJuan*
+**Level**: 24
+**XP**: 2745/15625
+**Boss Takedowns**: 5
+**Most Dmg in an Attack**: 3449
+18 Jan 2017 03:57:54 : LimitlessMc, botchat, theOnlyJuan#9357, Slowly catching up
+18 Jan 2017 03:58:02 : LimitlessMc, botchat, theOnlyJuan#9357, ;cd
+18 Jan 2017 03:58:02 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 3216 seconds
+18 Jan 2017 03:58:30 : LimitlessMc, botchat, theOnlyJuan#9357, ;pokebattle bgpppnnd
+18 Jan 2017 03:58:30 : LimitlessMc, botchat, Botfuzzy77#2209, Level 23 Boss **Dewott** in medium has 7819 health left.
+18 Jan 2017 03:58:30 : LimitlessMc, botchat, Botfuzzy77#2209, 
+18 Jan 2017 03:58:30 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_b: :regional_indicator_g: :regional_indicator_p: :regional_indicator_p: :regional_indicator_p: :regional_indicator_n: :regional_indicator_n: :regional_indicator_d:
+:white_check_mark: :white_check_mark: :white_check_mark: :x: :x: :white_check_mark: :white_check_mark: :white_check_mark:
+18 Jan 2017 03:58:30 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+18 Jan 2017 03:58:30 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **317** damage
+18 Jan 2017 03:58:35 : LimitlessMc, botchat, Botfuzzy77#2209, Level 23 Boss **Dewott** has 7502 health left.
+18 Jan 2017 03:58:40 : LimitlessMc, botchat, theOnlyJuan#9357, ;types
+18 Jan 2017 03:58:40 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Possible Types ** =-
+:regional_indicator_n: ormal
+:regional_indicator_f: ire
+:regional_indicator_w: ater
+:regional_indicator_g: rass
+:regional_indicator_p: oison
+:regional_indicator_d: ragon
+:regional_indicator_s: teel
+:regional_indicator_e: lectric
+:regional_indicator_b: ug
+:regional_indicator_i: ce
+18 Jan 2017 03:59:18 : LimitlessMc, mainchat, Crystal4209#4698, I'm back guys
+18 Jan 2017 04:01:03 : LimitlessMc, mainchat, theOnlyJuan#9357, Yea I saw a video of the Pokemon ark mod
+18 Jan 2017 04:01:13 : LimitlessMc, mainchat, theOnlyJuan#9357, Also welcome back crystal
+18 Jan 2017 04:01:20 : LimitlessMc, botchat, theOnlyJuan#9357, ;cd
+18 Jan 2017 04:01:20 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 3019 seconds
+18 Jan 2017 04:01:32 : LimitlessMc, botchat, theOnlyJuan#9357, ;pokebattle bgpeennd
+18 Jan 2017 04:01:32 : LimitlessMc, botchat, Botfuzzy77#2209, Level 23 Boss **Dewott** in medium has 7502 health left.
+18 Jan 2017 04:01:32 : LimitlessMc, botchat, Botfuzzy77#2209, 
+18 Jan 2017 04:01:32 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_b: :regional_indicator_g: :regional_indicator_p: :regional_indicator_e: :regional_indicator_e: :regional_indicator_n: :regional_indicator_n: :regional_indicator_d:
+:white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+18 Jan 2017 04:01:32 : LimitlessMc, botchat, Botfuzzy77#2209, Its Super Effective! The Boss has switched 1/4 of the Super Effective Moves!
+18 Jan 2017 04:01:32 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **2440** damage
+18 Jan 2017 04:01:38 : LimitlessMc, botchat, Botfuzzy77#2209, Level 23 Boss **Dewott** has 5062 health left.
+18 Jan 2017 04:01:53 : LimitlessMc, botchat, theOnlyJuan#9357, ;cd
+18 Jan 2017 04:01:53 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 76 seconds
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 2986 seconds
+18 Jan 2017 04:02:05 : LimitlessMc, mainchat, Wertfuzzy77#0274, wb
+18 Jan 2017 04:02:19 : LimitlessMc, mainchat, Crystal4209#4698, thanks been out today plus i woke up late since i wanted to sleep in
+18 Jan 2017 04:02:43 : LimitlessMc, mainchat, Crystal4209#4698, yeah i know

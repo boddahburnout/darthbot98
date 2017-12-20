@@ -1,0 +1,758 @@
+10 Jan 2017 21:16:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+10 Jan 2017 21:16:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=yxzsL1bA7xw
+10 Jan 2017 21:16:07 : LimitlessMc, botchat, Botfuzzy77#2209, Added "Rather Be - Clean Bandit (HD Piano Cover) - Costantino Carrara to the queue
+10 Jan 2017 21:16:09 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio
+10 Jan 2017 21:16:10 : LimitlessMc, botchat, Botfuzzy77#2209, Radio Mode: True
+10 Jan 2017 21:16:32 : Pokemon Mystery Dungeon, general, TherminatorX#6644, (I swear I have a giant backlog of fossils sent to the museum in AC)
+10 Jan 2017 21:17:19 : None, Direct Message with TherminatorX, TherminatorX#6644, ;help
+10 Jan 2017 21:17:19 : None, Direct Message with TherminatorX, Botfuzzy77#2209, ```
+A Bot for the Limitless MC Server Discord! Version 0.14.2.6
+(Created by Wertfuzzy77)
+
+FlavorTexts:
+  rate           Rates the Player
+  choose         Chooses from a set of things
+  slap           Adds Emotion
+  fml            Returns a Random Post from fmylife.com
+  wyr            
+  image          Returns the First Found Image on Google Images for this Input
+  lmgtfy         Returns a Link to a "Let me Google That For You" Page
+  funify         Funifies a given text input
+  gif            Returns the First Found Image on Google Images for this Input
+  kys            
+  luck           Returns the Player's Luck
+  conch          Ask the Magic Conch a Question
+  kiss           Adds Emotion
+  rps            Allows the player to play Rock, Paper, Scissors with the Bot...
+  kill           Adds Emotion
+  hug            Adds Emotion
+Games:
+  pokeboss       Displays Boss Info
+  train          Fights Pokemon for XP
+  trivia         
+  level          Displays your Current Information
+  pokehelp       Pokemon Battle Sim Help
+  lookup         Displays your Current Information
+  ranking        
+  cd             Shows your Cooldowns
+  summon         Summons a Boss of your Level or a Level below yours
+  types          
+  pokebattle     Fights a Pokemon Boss using a combination of 10 total moves ...
+MusicPlayer:
+  skip           Skips the Current song
+  leave          Leaves the Join chat
+  viewplaylist   Views the songs of a playlists
+  songs          Prints the songs in the queue
+  desc           Decription of the Current playing song
+  playlists      Shows all the current playlists
+  join           Joins the Voice channel you are currently in
+  music          Returns the current status of the Music Bot
+  makeplaylist   Makes a custom playlist for the bot to save
+  loop           Plays the current song again
+  song           Returns information about the current playing song
+  youtube        Adds a Song for the Bot to Play
+  clear          Clears the Queue
+```
+10 Jan 2017 21:17:19 : None, Direct Message with TherminatorX, Botfuzzy77#2209, ```
+  remove         removes a song from a queue by index
+  shuffle        Shuffles the songs in the Queue
+  Radio          Toggles Radio Mode
+  playlist       Adds songs from a predefined playlist to the songs list
+  search         Searches for a song
+  extendplaylist Extends a custom playlist
+StaffCmds:
+  tempmute       
+  unmute         
+  mute           
+  unmuteall      Unmutes ALL muted players
+  mutelist       
+​No Category:
+  help           Shows this message.
+  pokemon        Returns Links to Pokemon pages
+  source         Returns a link to the source code for this bot
+  status         Returns the Status of the Bot, along with Additional Informa...
+  ev             
+  feedback       Returns a link to a Google Forums, where you can leave feedb...
+  invite         Returns a Link to the Invite URL for this bot
+  afk            Sets you as AFK, and the Bot will auto Reply for you with th...
+  joined         Says when a member joined.
+  server         Returns Information on the Limitless MC server!
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+10 Jan 2017 21:17:56 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;rps
+10 Jan 2017 21:17:56 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, You need to put in either (R)ock, (P)aper, or (S)cissors
+10 Jan 2017 21:18:06 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;rps p
+10 Jan 2017 21:18:06 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, You need to put in either (R)ock, (P)aper, or (S)cissors
+10 Jan 2017 21:18:15 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;rps P
+10 Jan 2017 21:18:15 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, You throw :raised_back_of_hand:
+I throw :right_facing_fist:
+10 Jan 2017 21:18:15 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, **You Win!**
+10 Jan 2017 21:18:19 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;train
+10 Jan 2017 21:18:19 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, You **Beat** a Level 34 **Nidorina** for 790 XP (36% to beat)
+You **Lost** to a Level 35 **Foongus** (35% to beat)
+You **Beat** a Level 7 **Charmander** for 125 XP (90% to beat)
+You **Beat** a Level 25 **Noivern** for 625 XP (50% to beat)
+You **Lost** to a Level 22 **Meditite** (56% to beat)
+You **Beat** a Level 28 **Venipede** for 691 XP (44% to beat)
+You **Lost** to a Level 48 **Aromatisse** (26% to beat)
+You use a **Lucky Egg** to gain more XP!
+10 Jan 2017 21:18:20 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, You trained for 3346 XP!
+10 Jan 2017 21:18:22 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, fixed
+10 Jan 2017 21:18:28 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;train
+10 Jan 2017 21:18:28 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, You **Beat** a Level 43 **Aerodactyl** for 818 XP (25% to beat)
+You **Beat** a Level 6 **Scatterbug** for 110 XP (90% to beat)
+You **Lost** to a Level 19 **Chimecho** (57% to beat)
+You **Beat** a Level 13 **Lileep** for 169 XP (84% to beat)
+You **Beat** a Level 17 **Dusknoir** for 388 XP (64% to beat)
+You **Lost** to a Level 9 **Phantump** (90% to beat)
+You **Lost** to a Level 38 **Bonsly** (28% to beat)
+10 Jan 2017 21:18:28 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, You trained for 1485 XP!
+10 Jan 2017 21:18:39 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, `You Beat a Level 43 Aerodactyl for 818 XP (25% to beat)` gj
+10 Jan 2017 21:18:59 : None, Direct Message with TherminatorX, TherminatorX#6644, ;cd
+10 Jan 2017 21:18:59 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 1769 seconds
+10 Jan 2017 21:19:01 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;level
+10 Jan 2017 21:19:01 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 25
+**XP**: 11757/17576
+**Boss Takedowns**: 12
+**Most Dmg in an Attack**: 3481
+10 Jan 2017 21:19:11 : LimitlessMc, botchat, Bakafish#8693, ;image nice
+10 Jan 2017 21:19:16 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;level
+10 Jan 2017 21:19:16 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, **Name**: *TherminatorX*
+**Level**: 22
+**XP**: 3592/12167
+**Boss Takedowns**: 8
+**Most Dmg in an Attack**: 3718
+10 Jan 2017 21:19:21 : LimitlessMc, botchat, Bakafish#8693, aw
+10 Jan 2017 21:20:10 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;pokebattle
+10 Jan 2017 21:20:10 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please use a Combination of **5** Types to Fight the Boss: (**N**)ormal, (**F**)ire, (**W**)ater, (**G**)rass, (**P**)oison, (**D**)ragon, (**S**)teel, (**E**)lectric, (**B**)ug, or (**I**)ce.
+ Ex 'GSEBI' or 'DPGDB'
+10 Jan 2017 21:20:23 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;pokebattle speed
+10 Jan 2017 21:20:23 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, A Level 0 Boss **Baltoy** has appeared!
+It has 0 Health.
+10 Jan 2017 21:20:23 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 21:20:23 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_s: :regional_indicator_p: :regional_indicator_e: :regional_indicator_e: :regional_indicator_d:
+:x: :x: :x: :x: :x:
+10 Jan 2017 21:20:23 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **0** damage
+10 Jan 2017 21:20:23 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 0 Boss **Baltoy** has been defeated!
+10 Jan 2017 21:20:28 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Most Damage by **TherminatorX** with **0** damage
+10 Jan 2017 21:20:35 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;summon 15
+10 Jan 2017 21:20:36 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, A Level 15 boss has been summoned
+10 Jan 2017 21:20:53 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;pokebattle windseed
+10 Jan 2017 21:20:53 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, A Level 15 Boss **Noctowl** has appeared!
+It has 9225 Health.
+10 Jan 2017 21:20:53 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 21:20:53 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_i: :regional_indicator_n: :regional_indicator_d: :regional_indicator_s: :regional_indicator_e: :regional_indicator_e: :regional_indicator_d:
+:x: :x: :x: :x: :x: :x: :x: :white_check_mark:
+10 Jan 2017 21:20:53 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 21:20:53 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **29** damage
+10 Jan 2017 21:20:58 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 9196 health left.
+10 Jan 2017 21:22:16 : LimitlessMc, botchat, Wertfuzzy77#0274, ;goif nice
+10 Jan 2017 21:22:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gif nice
+10 Jan 2017 21:22:19 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/lisa-vertudaches-cute-hug-empathy-3oEdv4hwWTzBhWvaU0
+10 Jan 2017 21:22:32 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gif Nice!
+10 Jan 2017 21:22:32 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/filmeditor-will-ferrell-elf-3otPoOJJsB2a1C9sNW
+10 Jan 2017 21:22:41 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;pokebattle bbbbbbbd
+10 Jan 2017 21:22:41 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 9196 health left.
+10 Jan 2017 21:22:41 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 21:22:41 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_d:
+:x: :x: :x: :x: :x: :x: :x: :white_check_mark:
+10 Jan 2017 21:22:41 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 21:22:41 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **32** damage
+10 Jan 2017 21:22:41 : LimitlessMc, botchat, Wertfuzzy77#0274, garbage gifs
+10 Jan 2017 21:22:46 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 9164 health left.
+10 Jan 2017 21:22:52 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gif terrible gifs
+10 Jan 2017 21:22:53 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/terrible-iGYBY2loMuExi
+10 Jan 2017 21:23:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gif terrible
+10 Jan 2017 21:23:04 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/mtv-show-daria-eH0dkPPs1Yl32
+10 Jan 2017 21:23:09 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gif terrible
+10 Jan 2017 21:23:09 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/mtv-show-daria-eH0dkPPs1Yl32
+10 Jan 2017 21:23:12 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+10 Jan 2017 21:23:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ;image nice
+10 Jan 2017 21:23:26 : LimitlessMc, botchat, Botfuzzy77#2209, http://www.telegraph.co.uk/content/dam/Travel/Destinations/Europe/France/Nice/nice-overview-coastline-xlarge.jpg
+10 Jan 2017 21:23:31 : LimitlessMc, botchat, Bakafish#8693, ;gif terribad
+10 Jan 2017 21:23:32 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/e3-ockjHuLLwcUDK
+10 Jan 2017 21:23:39 : LimitlessMc, botchat, Wertfuzzy77#0274, LOL
+10 Jan 2017 21:23:51 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gif my body is ready
+10 Jan 2017 21:23:52 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/unf-my-body-is-ready-hnng-BhVee9LLd4C5y
+10 Jan 2017 21:24:07 : LimitlessMc, botchat, Wertfuzzy77#0274, super spooky guy in the background
+10 Jan 2017 21:24:23 : LimitlessMc, botchat, Bakafish#8693, nice
+10 Jan 2017 21:24:28 : LimitlessMc, botchat, Bakafish#8693, when you get on tho
+10 Jan 2017 21:25:58 : The Wild Weebs, general, Wertfuzzy77#0274, @Tally What's that math course you are taking
+10 Jan 2017 21:26:48 : LimitlessMc, botchat, Wertfuzzy77#0274, soon, I finished the rainmeter stuff, just finishing something for school
+10 Jan 2017 21:26:53 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+10 Jan 2017 21:26:53 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping "All Of Me" - John Legend (Theatre Grand Piano Cover) - Costantino Carrara by request (Radio Song)
+10 Jan 2017 21:27:18 : LimitlessMc, botchat, Bakafish#8693, ;song
+10 Jan 2017 21:27:18 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: "Hello" - Adele (Piano Cover) - Costantino Carrara
+**Requester**: Radio
+**URL**: <https://www.youtube.com/watch?v=BM7Jkwqzdts>
+```py
+Time: 0:03:41
+Views: 2,812,666
+Likes: 33,281, 99.09%
+Dislikes: 304, 0.91%```
+10 Jan 2017 21:27:20 : LimitlessMc, botchat, Bakafish#8693, ;loop 5
+10 Jan 2017 21:27:21 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*"Hello" - Adele (Piano Cover) - Costantino Carrara*' **5** more times
+10 Jan 2017 21:27:24 : LimitlessMc, botchat, Wertfuzzy77#0274, thank
+10 Jan 2017 21:27:42 : LimitlessMc, botchat, Bakafish#8693, hello
+10 Jan 2017 21:27:42 : LimitlessMc, botchat, Botfuzzy77#2209, *From The Other Side*
+10 Jan 2017 21:27:47 : LimitlessMc, botchat, Wertfuzzy77#0274, atleast join the music channel if ya gonna loop it
+10 Jan 2017 21:28:25 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;train
+10 Jan 2017 21:28:25 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You **Beat** a Level 8 **Mantine** for 130 XP (90% to beat)
+You **Beat** a Level 3 **Growlithe** for 130 XP (90% to beat)
+You **Lost** to a Level 50 **Delphox** (26% to beat)
+You **Beat** a Level 19 **Weepinbell** for 410 XP (68% to beat)
+You **Beat** a Level 11 **Registeel** for 130 XP (90% to beat)
+You **Lost** to a Level 46 **Taillow** (28% to beat)
+You **Lost** to a Level 46 **Doduo** (28% to beat)
+You **Beat** a Level 7 **Skiploom** for 130 XP (90% to beat)
+10 Jan 2017 21:28:25 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You trained for 930 XP!
+10 Jan 2017 21:30:34 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;pokebattle dddddddd
+10 Jan 2017 21:30:34 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 9164 health left.
+10 Jan 2017 21:30:34 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 21:30:35 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d:
+:x: :x: :x: :x: :white_check_mark: :x: :x: :white_check_mark:
+10 Jan 2017 21:30:35 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 21:30:35 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **73** damage
+10 Jan 2017 21:30:39 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 9091 health left.
+10 Jan 2017 21:32:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube  https://www.youtube.com/watch?v=yxzsL1bA7xw https://www.youtube.com/watch?v=xTg5k7V7WVc https://www.youtube.com/watch?v=JYzZ8aD3FBU https://www.youtube.com/watch?v=juaWZluqC6I https://www.youtube.com/watch?v=FUckpKH510k https://www.youtube.com/watch?v=BM7Jkwqzdts https://www.youtube.com/watch?v=oTVnQlsA1_8 https://www.youtube.com/watch?v=cXCzPatcev4 https://www.youtube.com/watch?v=-GTz0edlA2c https://www.youtube.com/watch?v=qvloRL_RB9w https://www.youtube.com/watch?v=-py1iGkAeT0 https://www.youtube.com/watch?v=hpFlWPjkomg https://www.youtube.com/watch?v=e2hWj7iMz4w
+10 Jan 2017 21:32:20 : LimitlessMc, botchat, Botfuzzy77#2209, Added "Rather Be - Clean Bandit (HD Piano Cover) - Costantino Carrara to the queue
+10 Jan 2017 21:32:21 : LimitlessMc, botchat, Botfuzzy77#2209, Added "Up&Up" - Coldplay (Piano Cover) - Costantino Carrara to the queue
+10 Jan 2017 21:32:22 : LimitlessMc, botchat, Botfuzzy77#2209, Added "When We Were Young" - Adele (Piano Cover) - Costantino Carrara to the queue
+10 Jan 2017 21:32:22 : LimitlessMc, botchat, Botfuzzy77#2209, Added "Hymn For The Weekend" - Coldplay (Piano Cover) - Costantino Carrara to the queue
+10 Jan 2017 21:32:23 : LimitlessMc, botchat, Botfuzzy77#2209, Added "Adventure of a Lifetime" - Coldplay (Piano Cover) - Costantino Carrara to the queue
+10 Jan 2017 21:32:26 : LimitlessMc, botchat, Botfuzzy77#2209, Added "Hello" - Adele (Piano Cover) - Costantino Carrara to the queue
+10 Jan 2017 21:32:26 : LimitlessMc, botchat, Botfuzzy77#2209, Added "See You Again" - Wiz Khalifa ft. Charlie Puth - Woodland Piano Cover - Costantino Carrara to the queue
+10 Jan 2017 21:32:27 : LimitlessMc, botchat, Botfuzzy77#2209, Added Sam Smith - Stay With Me (ft. Nicolas Selvo) (Grand Piano Cover) - Costantino Carrara to the queue
+10 Jan 2017 21:32:27 : LimitlessMc, botchat, Botfuzzy77#2209, Added "A Sky Full Of Stars" - Coldplay (Grand Piano Cover) - Costantino Carrara to the queue
+10 Jan 2017 21:32:28 : LimitlessMc, botchat, Botfuzzy77#2209, Added "Magic" - Coldplay (Ghost Stories HD Piano Cover) - Costantino Carrara to the queue
+10 Jan 2017 21:32:30 : LimitlessMc, botchat, Botfuzzy77#2209, Added "How To Save A Life" - The Fray (Music Cover Video) - Costantino Carrara to the queue
+10 Jan 2017 21:32:31 : LimitlessMc, botchat, Botfuzzy77#2209, Added Just Give Me A Reason (ft. Nate Ruess) - Pink (HD Piano Cover) - Costantino Carrara to the queue
+10 Jan 2017 21:32:32 : LimitlessMc, botchat, Botfuzzy77#2209, Added ♧ She Wolf (Falling To Pieces) - David Guetta ft. Sia (HD Piano Cover) ♧ - Costantino Carrara to the queue
+10 Jan 2017 21:32:35 : LimitlessMc, botchat, Wertfuzzy77#0274, songs everywhere
+10 Jan 2017 21:32:52 : LimitlessMc, botchat, Wertfuzzy77#0274, ;makeplaylist Costantino  https://www.youtube.com/watch?v=yxzsL1bA7xw https://www.youtube.com/watch?v=xTg5k7V7WVc https://www.youtube.com/watch?v=JYzZ8aD3FBU https://www.youtube.com/watch?v=juaWZluqC6I https://www.youtube.com/watch?v=FUckpKH510k https://www.youtube.com/watch?v=BM7Jkwqzdts https://www.youtube.com/watch?v=oTVnQlsA1_8 https://www.youtube.com/watch?v=cXCzPatcev4 https://www.youtube.com/watch?v=-GTz0edlA2c https://www.youtube.com/watch?v=qvloRL_RB9w https://www.youtube.com/watch?v=-py1iGkAeT0 https://www.youtube.com/watch?v=hpFlWPjkomg https://www.youtube.com/watch?v=e2hWj7iMz4w
+10 Jan 2017 21:32:52 : LimitlessMc, botchat, Botfuzzy77#2209, Created Playlist Costantino with 13 songs
+10 Jan 2017 21:33:07 : LimitlessMc, botchat, Wertfuzzy77#0274, ;shuffle
+10 Jan 2017 21:33:07 : LimitlessMc, botchat, Botfuzzy77#2209, Shuffling songs...
+10 Jan 2017 21:33:09 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+10 Jan 2017 21:33:09 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue, plus [8] more**
+10 Jan 2017 21:33:10 : LimitlessMc, botchat, Botfuzzy77#2209, 1. "See You Again" - Wiz Khalifa ft. Charlie Puth - Woodland Piano Cover - Costantino Carrara **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=oTVnQlsA1_8>
+2. ♧ She Wolf (Falling To Pieces) - David Guetta ft. Sia (HD Piano Cover) ♧ - Costantino Carrara **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=e2hWj7iMz4w>
+3. Just Give Me A Reason (ft. Nate Ruess) - Pink (HD Piano Cover) - Costantino Carrara **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=hpFlWPjkomg>
+4. "A Sky Full Of Stars" - Coldplay (Grand Piano Cover) - Costantino Carrara **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=-GTz0edlA2c>
+5. "Hello" - Adele (Piano Cover) - Costantino Carrara **Bakafish**
+	<https://www.youtube.com/watch?v=BM7Jkwqzdts>
+6. "Hello" - Adele (Piano Cover) - Costantino Carrara **Bakafish**
+	<https://www.youtube.com/watch?v=BM7Jkwqzdts>
+7. "When We Were Young" - Adele (Piano Cover) - Costantino Carrara **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=JYzZ8aD3FBU>
+8. "See You Again" - Wiz Khalifa ft. Charlie Puth - Woodland Piano Cover - Costantino Carrara **Radio**
+	<https://www.youtube.com/watch?v=oTVnQlsA1_8>
+9. "Up&Up" - Coldplay (Piano Cover) - Costantino Carrara **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=xTg5k7V7WVc>
+10. "Rather Be - Clean Bandit (HD Piano Cover) - Costantino Carrara **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=yxzsL1bA7xw>
+Total Time is 1:11:35
+10 Jan 2017 21:33:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 5
+10 Jan 2017 21:33:12 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: "Hello" - Adele (Piano Cover) - Costantino Carrara
+10 Jan 2017 21:33:14 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 5
+10 Jan 2017 21:33:14 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: "Hello" - Adele (Piano Cover) - Costantino Carrara
+10 Jan 2017 21:33:16 : LimitlessMc, botchat, Wertfuzzy77#0274, ;shuffle
+10 Jan 2017 21:33:16 : LimitlessMc, botchat, Botfuzzy77#2209, Shuffling songs...
+10 Jan 2017 21:33:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+10 Jan 2017 21:33:17 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue, plus [6] more**
+10 Jan 2017 21:33:17 : LimitlessMc, botchat, Botfuzzy77#2209, 1. "Hello" - Adele (Piano Cover) - Costantino Carrara **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=BM7Jkwqzdts>
+2. "See You Again" - Wiz Khalifa ft. Charlie Puth - Woodland Piano Cover - Costantino Carrara **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=oTVnQlsA1_8>
+3. "How To Save A Life" - The Fray (Music Cover Video) - Costantino Carrara **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=-py1iGkAeT0>
+4. "See You Again" - Wiz Khalifa ft. Charlie Puth - Woodland Piano Cover - Costantino Carrara **Radio**
+	<https://www.youtube.com/watch?v=oTVnQlsA1_8>
+5. "A Sky Full Of Stars" - Coldplay (Grand Piano Cover) - Costantino Carrara **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=-GTz0edlA2c>
+6. "When We Were Young" - Adele (Piano Cover) - Costantino Carrara **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=JYzZ8aD3FBU>
+7. "Hello" - Adele (Piano Cover) - Costantino Carrara **Bakafish**
+	<https://www.youtube.com/watch?v=BM7Jkwqzdts>
+8. "Magic" - Coldplay (Ghost Stories HD Piano Cover) - Costantino Carrara **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=qvloRL_RB9w>
+9. ♧ She Wolf (Falling To Pieces) - David Guetta ft. Sia (HD Piano Cover) ♧ - Costantino Carrara **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=e2hWj7iMz4w>
+10. "Up&Up" - Coldplay (Piano Cover) - Costantino Carrara **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=xTg5k7V7WVc>
+Total Time is 1:04:13
+10 Jan 2017 21:33:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 1
+10 Jan 2017 21:33:26 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: "Hello" - Adele (Piano Cover) - Costantino Carrara
+10 Jan 2017 21:33:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ;shuffle
+10 Jan 2017 21:33:28 : LimitlessMc, botchat, Botfuzzy77#2209, Shuffling songs...
+10 Jan 2017 21:33:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+10 Jan 2017 21:33:29 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue, plus [5] more**
+10 Jan 2017 21:33:29 : LimitlessMc, botchat, Botfuzzy77#2209, 1. ♧ She Wolf (Falling To Pieces) - David Guetta ft. Sia (HD Piano Cover) ♧ - Costantino Carrara **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=e2hWj7iMz4w>
+2. Sam Smith - Stay With Me (ft. Nicolas Selvo) (Grand Piano Cover) - Costantino Carrara **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=cXCzPatcev4>
+3. "See You Again" - Wiz Khalifa ft. Charlie Puth - Woodland Piano Cover - Costantino Carrara **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=oTVnQlsA1_8>
+4. "Hello" - Adele (Piano Cover) - Costantino Carrara **Bakafish**
+	<https://www.youtube.com/watch?v=BM7Jkwqzdts>
+5. "Rather Be - Clean Bandit (HD Piano Cover) - Costantino Carrara **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=yxzsL1bA7xw>
+6. "See You Again" - Wiz Khalifa ft. Charlie Puth - Woodland Piano Cover - Costantino Carrara **Radio**
+	<https://www.youtube.com/watch?v=oTVnQlsA1_8>
+7. "Adventure of a Lifetime" - Coldplay (Piano Cover) - Costantino Carrara **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=FUckpKH510k>
+8. "When We Were Young" - Adele (Piano Cover) - Costantino Carrara **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=JYzZ8aD3FBU>
+9. "Up&Up" - Coldplay (Piano Cover) - Costantino Carrara **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=xTg5k7V7WVc>
+10. Just Give Me A Reason (ft. Nate Ruess) - Pink (HD Piano Cover) - Costantino Carrara **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=hpFlWPjkomg>
+Total Time is 1:00:32
+10 Jan 2017 21:33:34 : LimitlessMc, botchat, Wertfuzzy77#0274, there
+10 Jan 2017 21:33:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+10 Jan 2017 21:33:38 : LimitlessMc, botchat, Botfuzzy77#2209, 1/0 votes to skip
+10 Jan 2017 21:33:38 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping "Hello" - Adele (Piano Cover) - Costantino Carrara by popular vote.
+10 Jan 2017 21:35:04 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;train
+10 Jan 2017 21:35:05 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 18 **Tauros** for 427 XP (38% to beat)
+You **Lost** to a Level 15 **Glalie** (46% to beat)
+You **Lost** to a Level 16 **Celebi** (43% to beat)
+You **Beat** a Level 12 **Magnemite** for 291 XP (58% to beat)
+You **Beat** a Level 14 **Purrloin** for 350 XP (50% to beat)
+10 Jan 2017 21:35:05 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 1068 XP!
+10 Jan 2017 21:35:08 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;level
+10 Jan 2017 21:35:08 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *🌟💖Resolate💖🌟*
+**Level**: 14
+**XP**: 3103/3375
+**Boss Takedowns**: 2
+**Most Dmg in an Attack**: 2662
+10 Jan 2017 21:37:42 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;pokebattle eeeedeed
+10 Jan 2017 21:37:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 9091 health left.
+10 Jan 2017 21:37:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 21:37:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_d: :regional_indicator_e: :regional_indicator_e: :regional_indicator_d:
+:x: :x: :x: :x: :white_check_mark: :x: :x: :white_check_mark:
+10 Jan 2017 21:37:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its a Critical Strike
+10 Jan 2017 21:37:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 21:37:47 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **140** damage
+10 Jan 2017 21:37:47 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 8951 health left.
+10 Jan 2017 21:37:49 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;ranking
+10 Jan 2017 21:37:49 : LimitlessMc, botchat, Botfuzzy77#2209, :first_place: **jjtwilefc** Level **29**
+:second_place: Bakafish Level 25
+:third_place: Wertfuzzy77 Level 25
+:medal: TherminatorX Level 22
+:medal: MoonWolf Level 20
+10 Jan 2017 21:40:31 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;pokeboss
+10 Jan 2017 21:40:31 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Boss Pokemon** =-
+*Name*: Noctowl
+*Health*: 8951/9225 (97.03%)
+*Level*: 15
+Last Combo:
+:regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_d: :regional_indicator_e: :regional_indicator_e: :regional_indicator_d:
+:x: :x: :x: :x: :white_check_mark: :x: :x: :white_check_mark:
+10 Jan 2017 21:40:31 : LimitlessMc, botchat, Botfuzzy77#2209, 
+10 Jan 2017 21:40:31 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **TherminatorX** with **274** damage
+10 Jan 2017 21:40:42 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;cd
+10 Jan 2017 21:40:42 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 1463 seconds
+10 Jan 2017 21:40:55 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;pokebattle FFFFDFFD
+10 Jan 2017 21:40:55 : LimitlessMc, botchat, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 8951 health left.
+10 Jan 2017 21:40:55 : LimitlessMc, botchat, Botfuzzy77#2209, 
+10 Jan 2017 21:40:55 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_d: :regional_indicator_f: :regional_indicator_f: :regional_indicator_d:
+:x: :x: :white_check_mark: :x: :white_check_mark: :x: :x: :white_check_mark:
+10 Jan 2017 21:40:56 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **35** damage
+10 Jan 2017 21:40:56 : LimitlessMc, botchat, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 8916 health left.
+10 Jan 2017 21:42:16 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;pokebattle ffffdffd
+10 Jan 2017 21:42:16 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 8916 health left.
+10 Jan 2017 21:42:16 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 21:42:16 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_d: :regional_indicator_f: :regional_indicator_f: :regional_indicator_d:
+:x: :x: :white_check_mark: :x: :white_check_mark: :x: :x: :white_check_mark:
+10 Jan 2017 21:42:16 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 21:42:16 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **91** damage
+10 Jan 2017 21:42:21 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 8825 health left.
+10 Jan 2017 21:42:38 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;cd
+10 Jan 2017 21:42:39 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 1346 seconds
+10 Jan 2017 21:42:58 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;pokebattle IIFIDIID
+10 Jan 2017 21:42:58 : LimitlessMc, botchat, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 8825 health left.
+10 Jan 2017 21:42:58 : LimitlessMc, botchat, Botfuzzy77#2209, 
+10 Jan 2017 21:42:58 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_i: :regional_indicator_f: :regional_indicator_i: :regional_indicator_d: :regional_indicator_i: :regional_indicator_i: :regional_indicator_d:
+:x: :x: :white_check_mark: :x: :white_check_mark: :x: :x: :white_check_mark:
+10 Jan 2017 21:42:58 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **56** damage
+10 Jan 2017 21:42:58 : LimitlessMc, botchat, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 8769 health left.
+10 Jan 2017 21:43:25 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;cd
+10 Jan 2017 21:43:25 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 63 seconds
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 1299 seconds
+10 Jan 2017 21:45:35 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;cd
+10 Jan 2017 21:45:35 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 1170 seconds
+10 Jan 2017 21:45:46 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;pokebattle SSFSDSSD
+10 Jan 2017 21:45:47 : LimitlessMc, botchat, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 8769 health left.
+10 Jan 2017 21:45:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+10 Jan 2017 21:45:47 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_s: :regional_indicator_s: :regional_indicator_f: :regional_indicator_s: :regional_indicator_d: :regional_indicator_s: :regional_indicator_s: :regional_indicator_d:
+:x: :x: :white_check_mark: :x: :white_check_mark: :x: :white_check_mark: :white_check_mark:
+10 Jan 2017 21:45:47 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **53** damage
+10 Jan 2017 21:45:47 : LimitlessMc, botchat, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 8716 health left.
+10 Jan 2017 21:46:54 : The Wild Weebs, general, enragednuke#2565, math 101 - addition for dumbos
+10 Jan 2017 21:48:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;loop 2
+10 Jan 2017 21:48:31 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*"Rather Be - Clean Bandit (HD Piano Cover) - Costantino Carrara*' **2** more times
+10 Jan 2017 21:48:36 : The Wild Weebs, general, Wertfuzzy77#0274, xD
+10 Jan 2017 21:49:28 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;pokebattle ggfgdggd
+10 Jan 2017 21:49:28 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 8716 health left.
+10 Jan 2017 21:49:29 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 21:49:29 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_g: :regional_indicator_g: :regional_indicator_f: :regional_indicator_g: :regional_indicator_d: :regional_indicator_g: :regional_indicator_g: :regional_indicator_d:
+:x: :x: :white_check_mark: :white_check_mark: :white_check_mark: :x: :x: :white_check_mark:
+10 Jan 2017 21:49:29 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 21:49:29 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **109** damage
+10 Jan 2017 21:49:33 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 8607 health left.
+10 Jan 2017 21:50:58 : LimitlessMc, botchat, theOnlyJuan#9357, ;level
+10 Jan 2017 21:50:58 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *theOnlyJuan*
+**Level**: 0
+**XP**: 0/1
+**Boss Takedowns**: 0
+**Most Dmg in an Attack**: 0
+10 Jan 2017 21:51:15 : LimitlessMc, botchat, theOnlyJuan#9357, What is this, looks interesting
+10 Jan 2017 21:51:41 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;pokebattle iifgdiid
+10 Jan 2017 21:51:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 8607 health left.
+10 Jan 2017 21:51:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 21:51:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_i: :regional_indicator_f: :regional_indicator_g: :regional_indicator_d: :regional_indicator_i: :regional_indicator_i: :regional_indicator_d:
+:x: :x: :white_check_mark: :white_check_mark: :white_check_mark: :x: :x: :white_check_mark:
+10 Jan 2017 21:51:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 21:51:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **91** damage
+10 Jan 2017 21:51:47 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 8516 health left.
+10 Jan 2017 21:51:53 : LimitlessMc, botchat, theOnlyJuan#9357, ;train
+10 Jan 2017 21:51:53 : LimitlessMc, botchat, Botfuzzy77#2209, You must be Level 10 to use ;train
+10 Jan 2017 21:52:11 : LimitlessMc, botchat, Wertfuzzy77#0274, its my newest addition to the bot
+10 Jan 2017 21:52:18 : LimitlessMc, botchat, theOnlyJuan#9357, How to use
+10 Jan 2017 21:52:21 : LimitlessMc, botchat, Wertfuzzy77#0274, do ;pokebattle
+10 Jan 2017 21:52:22 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;types
+10 Jan 2017 21:52:22 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Possible Types ** =-
+:regional_indicator_n: ormal
+:regional_indicator_f: ire
+:regional_indicator_w: ater
+:regional_indicator_g: rass
+:regional_indicator_p: oison
+:regional_indicator_d: ragon
+:regional_indicator_s: teel
+:regional_indicator_e: lectric
+:regional_indicator_b: ug
+:regional_indicator_i: ce
+10 Jan 2017 21:52:39 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;pokebattle EEFEDEED
+10 Jan 2017 21:52:39 : LimitlessMc, botchat, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 8516 health left.
+10 Jan 2017 21:52:39 : LimitlessMc, botchat, Botfuzzy77#2209, 
+10 Jan 2017 21:52:39 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_e: :regional_indicator_e: :regional_indicator_f: :regional_indicator_e: :regional_indicator_d: :regional_indicator_e: :regional_indicator_e: :regional_indicator_d:
+:x: :x: :white_check_mark: :x: :white_check_mark: :x: :x: :white_check_mark:
+10 Jan 2017 21:52:39 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **49** damage
+10 Jan 2017 21:52:39 : LimitlessMc, botchat, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 8467 health left.
+10 Jan 2017 21:52:49 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;cd
+10 Jan 2017 21:52:49 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Battle**
+You need to wait 27 seconds
+**Train** (*Note: Must be Level 5 to use ;train*)
+You can Train right now!
+10 Jan 2017 21:52:58 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;train
+10 Jan 2017 21:52:58 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You **Beat** a Level 9 **Turtwig** for 110 XP (90% to beat)
+You **Lost** to a Level 39 **Gothorita** (28% to beat)
+You **Beat** a Level 11 **Carbink** for 110 XP (90% to beat)
+You **Beat** a Level 35 **Shelgon** for 754 XP (31% to beat)
+You **Lost** to a Level 39 **Walrein** (28% to beat)
+You **Lost** to a Level 29 **Frogadier** (37% to beat)
+You **Lost** to a Level 15 **Rhyhorn** (73% to beat)
+10 Jan 2017 21:52:58 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You trained for 974 XP!
+10 Jan 2017 21:52:58 : LimitlessMc, botchat, Wertfuzzy77#0274, the point of the game is to find the right combo of moves to defeat the boss
+10 Jan 2017 21:53:02 : LimitlessMc, botchat, theOnlyJuan#9357, ;pokebattle
+10 Jan 2017 21:53:03 : LimitlessMc, botchat, Botfuzzy77#2209, Please use a Combination of **8** Types to Fight the Boss: (**N**)ormal, (**F**)ire, (**W**)ater, (**G**)rass, (**P**)oison, (**D**)ragon, (**S**)teel, (**E**)lectric, (**B**)ug, or (**I**)ce.
+ Ex 'GSEBI' or 'DPGDB'
+10 Jan 2017 21:53:04 : LimitlessMc, botchat, Wertfuzzy77#0274, the more you get right, the more damage you do
+10 Jan 2017 21:53:11 : LimitlessMc, botchat, Wertfuzzy77#0274, for example, this boss takes 8 moves
+10 Jan 2017 21:53:28 : LimitlessMc, mainchat, ChesireKat#7022, https://cdn.discordapp.com/attachments/260876737599111168/268497367114842112/good_to_share.png
+10 Jan 2017 21:53:29 : LimitlessMc, botchat, Wertfuzzy77#0274, as you can see @🌟💖Resolate💖🌟 tried to fight it, but only got 3 moves right
+10 Jan 2017 21:53:34 : LimitlessMc, botchat, Wertfuzzy77#0274, but we can learn from him
+10 Jan 2017 21:53:36 : LimitlessMc, mainchat, ChesireKat#7022, i did a team skull thing to 😄
+10 Jan 2017 21:53:37 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;pokebattle wwfgdwwd
+10 Jan 2017 21:53:38 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 8467 health left.
+10 Jan 2017 21:53:38 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 21:53:38 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_w: :regional_indicator_f: :regional_indicator_g: :regional_indicator_d: :regional_indicator_w: :regional_indicator_w: :regional_indicator_d:
+:x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :x: :white_check_mark:
+10 Jan 2017 21:53:38 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+10 Jan 2017 21:53:38 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 21:53:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle iifidiid
+10 Jan 2017 21:53:42 : LimitlessMc, botchat, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 8467 health left.
+10 Jan 2017 21:53:42 : LimitlessMc, botchat, Botfuzzy77#2209, 
+10 Jan 2017 21:53:42 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_i: :regional_indicator_f: :regional_indicator_i: :regional_indicator_d: :regional_indicator_i: :regional_indicator_i: :regional_indicator_d:
+:x: :x: :white_check_mark: :x: :white_check_mark: :x: :x: :white_check_mark:
+10 Jan 2017 21:53:42 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **75** damage
+10 Jan 2017 21:53:42 : LimitlessMc, botchat, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 8392 health left.
+10 Jan 2017 21:53:43 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **258** damage
+10 Jan 2017 21:53:43 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 8134 health left.
+10 Jan 2017 21:53:52 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;cd
+10 Jan 2017 21:53:52 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 18 seconds
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 673 seconds
+10 Jan 2017 21:54:03 : LimitlessMc, botchat, Wertfuzzy77#0274, I replaced all of what he got wrong with a different move, but kept the same moves he got right
+10 Jan 2017 21:54:13 : LimitlessMc, botchat, Wertfuzzy77#0274, also, i did more damage, but thats just because im a higher level xD
+10 Jan 2017 21:54:14 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+10 Jan 2017 21:54:14 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 25
+**XP**: 11762/17576
+**Boss Takedowns**: 12
+**Most Dmg in an Attack**: 3481
+10 Jan 2017 21:54:26 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;pokebattle PPFPDPPD
+10 Jan 2017 21:54:26 : LimitlessMc, botchat, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 8134 health left.
+10 Jan 2017 21:54:27 : LimitlessMc, botchat, Botfuzzy77#2209, 
+10 Jan 2017 21:54:27 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_p: :regional_indicator_p: :regional_indicator_f: :regional_indicator_p: :regional_indicator_d: :regional_indicator_p: :regional_indicator_p: :regional_indicator_d:
+:white_check_mark: :x: :white_check_mark: :x: :white_check_mark: :x: :x: :white_check_mark:
+10 Jan 2017 21:54:27 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **62** damage
+10 Jan 2017 21:54:27 : LimitlessMc, botchat, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 8072 health left.
+10 Jan 2017 21:54:30 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;level
+10 Jan 2017 21:54:30 : LimitlessMc, mainchat, Wertfuzzy77#0274, spooky
+10 Jan 2017 21:54:32 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *🌟💖Resolate💖🌟*
+**Level**: 14
+**XP**: 3118/3375
+**Boss Takedowns**: 2
+**Most Dmg in an Attack**: 2662
+10 Jan 2017 21:54:43 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, 😢
+10 Jan 2017 21:54:44 : LimitlessMc, mainchat, ChesireKat#7022, pony did one so i did one aswell :3
+10 Jan 2017 21:54:49 : LimitlessMc, botchat, theOnlyJuan#9357, ;pokebattle pnfndffd
+10 Jan 2017 21:54:49 : LimitlessMc, botchat, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 8072 health left.
+10 Jan 2017 21:54:49 : LimitlessMc, botchat, Botfuzzy77#2209, 
+10 Jan 2017 21:54:49 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_p: :regional_indicator_n: :regional_indicator_f: :regional_indicator_n: :regional_indicator_d: :regional_indicator_f: :regional_indicator_f: :regional_indicator_d:
+:white_check_mark: :x: :white_check_mark: :x: :white_check_mark: :x: :x: :white_check_mark:
+10 Jan 2017 21:54:49 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **5** damage
+10 Jan 2017 21:54:49 : LimitlessMc, botchat, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 8067 health left.
+10 Jan 2017 21:55:00 : LimitlessMc, botchat, Wertfuzzy77#0274, you level 0 😛
+10 Jan 2017 21:55:05 : LimitlessMc, botchat, Wertfuzzy77#0274, so you dont do alot of damage
+10 Jan 2017 21:55:08 : LimitlessMc, botchat, theOnlyJuan#9357, How to level up
+10 Jan 2017 21:55:11 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;types
+10 Jan 2017 21:55:11 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Possible Types ** =-
+:regional_indicator_n: ormal
+:regional_indicator_f: ire
+:regional_indicator_w: ater
+:regional_indicator_g: rass
+:regional_indicator_p: oison
+:regional_indicator_d: ragon
+:regional_indicator_s: teel
+:regional_indicator_e: lectric
+:regional_indicator_b: ug
+:regional_indicator_i: ce
+10 Jan 2017 21:55:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lookup theOnlyJuan
+10 Jan 2017 21:55:12 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *theOnlyJuan*
+**Level**: 0
+**XP**: 0/1
+**Boss Takedowns**: 0
+**Most Dmg in an Attack**: 5
+10 Jan 2017 21:55:20 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;cd
+10 Jan 2017 21:55:20 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 37 seconds
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 585 seconds
+10 Jan 2017 21:55:55 : LimitlessMc, botchat, Wertfuzzy77#0274, for every 15 points of damage you do in an attack, you gain 1 XP point, and once the boss is dead, you the people who did the most amount of damage get a large percent of the bosses max HP has XP
+10 Jan 2017 21:56:08 : LimitlessMc, botchat, Wertfuzzy77#0274, also, if you did 5% of the Bosses max HP, you also get an XP bonus
+10 Jan 2017 21:57:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle pwfgdssd
+10 Jan 2017 21:57:02 : LimitlessMc, botchat, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 8067 health left.
+10 Jan 2017 21:57:02 : LimitlessMc, botchat, Botfuzzy77#2209, 
+10 Jan 2017 21:57:02 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_p: :regional_indicator_w: :regional_indicator_f: :regional_indicator_g: :regional_indicator_d: :regional_indicator_s: :regional_indicator_s: :regional_indicator_d:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark:
+10 Jan 2017 21:57:02 : LimitlessMc, botchat, Botfuzzy77#2209, Its Super Effective! The Boss has switched 1/4 of the Super Effective Moves!
+10 Jan 2017 21:57:02 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **2311** damage
+10 Jan 2017 21:57:04 : LimitlessMc, botchat, Wertfuzzy77#0274, ayy
+10 Jan 2017 21:57:07 : LimitlessMc, botchat, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 5756 health left.
+10 Jan 2017 21:57:07 : LimitlessMc, botchat, Botfuzzy77#2209, Lmao
+10 Jan 2017 21:57:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokeboss
+10 Jan 2017 21:57:13 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Boss Pokemon** =-
+*Name*: Noctowl
+*Health*: 5756/9225 (62.4%)
+*Level*: 15
+Last Combo:
+:regional_indicator_p: :regional_indicator_w: :regional_indicator_f: :regional_indicator_g: :regional_indicator_d: :regional_indicator_s: :regional_indicator_s: :regional_indicator_d:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark:
+10 Jan 2017 21:57:13 : LimitlessMc, botchat, Botfuzzy77#2209, 
+10 Jan 2017 21:57:13 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **Wertfuzzy77** with **2386** damage
+10 Jan 2017 21:57:13 : LimitlessMc, botchat, Botfuzzy77#2209, 2nd most Damage by *TherminatorX* with *823* damage
+10 Jan 2017 21:57:13 : LimitlessMc, botchat, Botfuzzy77#2209, 3rd most Damage by *🌟💖Resolate💖🌟* with *255* damage
+10 Jan 2017 21:57:15 : LimitlessMc, botchat, Wertfuzzy77#0274, #1
+10 Jan 2017 21:57:16 : LimitlessMc, botchat, Wertfuzzy77#0274, go me
+10 Jan 2017 21:57:18 : LimitlessMc, botchat, Botfuzzy77#2209, Assisted by theOnlyJuan
+10 Jan 2017 21:57:32 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+10 Jan 2017 21:57:32 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 25
+**XP**: 11916/17576
+**Boss Takedowns**: 12
+**Most Dmg in an Attack**: 3481
+10 Jan 2017 21:57:42 : LimitlessMc, botchat, Wertfuzzy77#0274, almost level 26
+10 Jan 2017 21:57:51 : LimitlessMc, botchat, Wertfuzzy77#0274, once I hit 26, hopefully ill take back my #2 rank
+10 Jan 2017 21:57:53 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+10 Jan 2017 21:57:54 : LimitlessMc, botchat, Botfuzzy77#2209, :first_place: **jjtwilefc** Level **29**
+:second_place: Bakafish Level 25
+:third_place: Wertfuzzy77 Level 25
+:medal: TherminatorX Level 22
+:medal: MoonWolf Level 20
+10 Jan 2017 21:58:42 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;cd
+10 Jan 2017 21:58:43 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 382 seconds
+10 Jan 2017 21:59:01 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;pokebattle PWFGDNSD
+10 Jan 2017 21:59:01 : LimitlessMc, botchat, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 5756 health left.
+10 Jan 2017 21:59:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+10 Jan 2017 21:59:02 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_p: :regional_indicator_w: :regional_indicator_f: :regional_indicator_g: :regional_indicator_d: :regional_indicator_n: :regional_indicator_s: :regional_indicator_d:
+:x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+10 Jan 2017 21:59:02 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+10 Jan 2017 21:59:02 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **204** damage
+10 Jan 2017 21:59:06 : LimitlessMc, botchat, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 5552 health left.
+10 Jan 2017 21:59:19 : LimitlessMc, botchat, theOnlyJuan#9357, ;pokebattle pwfgdisd
+10 Jan 2017 21:59:19 : LimitlessMc, botchat, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 5552 health left.
+10 Jan 2017 21:59:19 : LimitlessMc, botchat, Botfuzzy77#2209, 
+10 Jan 2017 21:59:19 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_p: :regional_indicator_w: :regional_indicator_f: :regional_indicator_g: :regional_indicator_d: :regional_indicator_i: :regional_indicator_s: :regional_indicator_d:
+:x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :x: :white_check_mark: :white_check_mark:
+10 Jan 2017 21:59:19 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+10 Jan 2017 21:59:20 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **11** damage
+10 Jan 2017 21:59:24 : LimitlessMc, botchat, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 5541 health left.
+10 Jan 2017 21:59:36 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;cd
+10 Jan 2017 21:59:37 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 60 seconds
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 328 seconds
+10 Jan 2017 22:00:04 : LimitlessMc, botchat, theOnlyJuan#9357, ;level
+10 Jan 2017 22:00:04 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *theOnlyJuan*
+**Level**: 0
+**XP**: 0/1
+**Boss Takedowns**: 0
+**Most Dmg in an Attack**: 11
+10 Jan 2017 22:00:09 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;pokebattle nwfgdnnd
+10 Jan 2017 22:00:09 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 5541 health left.
+10 Jan 2017 22:00:09 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+10 Jan 2017 22:00:09 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_w: :regional_indicator_f: :regional_indicator_g: :regional_indicator_d: :regional_indicator_n: :regional_indicator_n: :regional_indicator_d:
+:white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :x: :white_check_mark:
+10 Jan 2017 22:00:10 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+10 Jan 2017 22:00:10 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 22:00:14 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did **436** damage
+10 Jan 2017 22:00:14 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 5105 health left.
+10 Jan 2017 22:00:41 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, Gotta beat a boss before leveling
+10 Jan 2017 22:01:16 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, Normally there would be a lower level boss 🙃
+10 Jan 2017 22:01:58 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;cd
+10 Jan 2017 22:01:58 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 187 seconds
+10 Jan 2017 22:02:05 : LimitlessMc, botchat, TherminatorX#6644, ;pokebattle nwfidnsd
+10 Jan 2017 22:02:05 : LimitlessMc, botchat, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 5105 health left.
+10 Jan 2017 22:02:05 : LimitlessMc, botchat, Botfuzzy77#2209, 
+10 Jan 2017 22:02:06 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_w: :regional_indicator_f: :regional_indicator_i: :regional_indicator_d: :regional_indicator_n: :regional_indicator_s: :regional_indicator_d:
+:white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+10 Jan 2017 22:02:06 : LimitlessMc, botchat, Botfuzzy77#2209, Its a Critical Strike
+10 Jan 2017 22:02:06 : LimitlessMc, botchat, Botfuzzy77#2209, Its Super Effective! The Boss has switched 1/4 of the Super Effective Moves!
+10 Jan 2017 22:02:10 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 22:02:10 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **4066** damage
+10 Jan 2017 22:02:10 : LimitlessMc, botchat, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 1039 health left.
+10 Jan 2017 22:02:16 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;pokebattle NWFDDNSD
+10 Jan 2017 22:02:16 : LimitlessMc, botchat, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 1039 health left.
+10 Jan 2017 22:02:17 : LimitlessMc, botchat, Botfuzzy77#2209, 
+10 Jan 2017 22:02:17 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_w: :regional_indicator_f: :regional_indicator_d: :regional_indicator_d: :regional_indicator_n: :regional_indicator_s: :regional_indicator_d:
+:white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+10 Jan 2017 22:02:17 : LimitlessMc, botchat, Botfuzzy77#2209, Its Super Effective! The Boss has switched 1/4 of the Super Effective Moves!
+10 Jan 2017 22:02:17 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **1035** damage
+10 Jan 2017 22:02:21 : LimitlessMc, botchat, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 4 health left.
+10 Jan 2017 22:02:29 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, xD
+10 Jan 2017 22:02:33 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;cd
+10 Jan 2017 22:02:33 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 78 seconds
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 151 seconds
+10 Jan 2017 22:02:34 : LimitlessMc, botchat, TherminatorX#6644, 4 health
+10 Jan 2017 22:02:39 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;cd
+10 Jan 2017 22:02:39 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 72 seconds
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 146 seconds
+10 Jan 2017 22:03:03 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;cd
+10 Jan 2017 22:03:03 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 48 seconds
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 122 seconds
+10 Jan 2017 22:03:12 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;cd
+10 Jan 2017 22:03:12 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 40 seconds
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 113 seconds
+10 Jan 2017 22:03:14 : LimitlessMc, botchat, TherminatorX#6644, ;cd
+10 Jan 2017 22:03:15 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 26 seconds
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 1183 seconds
+10 Jan 2017 22:03:20 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, 😭
+10 Jan 2017 22:03:23 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;cd
+10 Jan 2017 22:03:23 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 29 seconds
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 102 seconds
+10 Jan 2017 22:03:30 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;cd
+10 Jan 2017 22:03:30 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 21 seconds
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 95 seconds
+10 Jan 2017 22:03:35 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;cd
+10 Jan 2017 22:03:35 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 17 seconds
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 90 seconds
+10 Jan 2017 22:03:37 : LimitlessMc, botchat, TherminatorX#6644, ;cd
+10 Jan 2017 22:03:38 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 3 seconds
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 1160 seconds
+10 Jan 2017 22:03:40 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;cd
+10 Jan 2017 22:03:41 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 11 seconds
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 84 seconds
+10 Jan 2017 22:03:42 : LimitlessMc, botchat, TherminatorX#6644, ;pokebattle nwfidnsd
+10 Jan 2017 22:03:42 : LimitlessMc, botchat, Botfuzzy77#2209, Level 15 Boss **Noctowl** has 4 health left.
+10 Jan 2017 22:03:43 : LimitlessMc, botchat, Botfuzzy77#2209, 
+10 Jan 2017 22:03:43 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_w: :regional_indicator_f: :regional_indicator_i: :regional_indicator_d: :regional_indicator_n: :regional_indicator_s: :regional_indicator_d:
+:x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+10 Jan 2017 22:03:43 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+10 Jan 2017 22:03:43 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+10 Jan 2017 22:03:43 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **291** damage
+10 Jan 2017 22:03:48 : LimitlessMc, botchat, Botfuzzy77#2209, Level 15 Boss **Noctowl** has been defeated!
+10 Jan 2017 22:03:48 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **TherminatorX** with **5616** damage
+10 Jan 2017 22:03:48 : LimitlessMc, botchat, Botfuzzy77#2209, 2nd most Damage by *Wertfuzzy77* with *2386* damage
+10 Jan 2017 22:03:48 : LimitlessMc, botchat, Botfuzzy77#2209, 3rd most Damage by *🌟💖Resolate💖🌟* with *1494* damage
+10 Jan 2017 22:03:48 : LimitlessMc, botchat, Botfuzzy77#2209, Assisted by theOnlyJuan
+10 Jan 2017 22:03:48 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, 😢
+10 Jan 2017 22:03:55 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;level
+10 Jan 2017 22:03:55 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *🌟💖Resolate💖🌟*
+**Level**: 15
+**XP**: 400/4096
+**Boss Takedowns**: 2
+**Most Dmg in an Attack**: 2662
+10 Jan 2017 22:04:09 : LimitlessMc, botchat, TherminatorX#6644, ;level
+10 Jan 2017 22:04:09 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *TherminatorX*
+**Level**: 22
+**XP**: 8669/12167
+**Boss Takedowns**: 10
+**Most Dmg in an Attack**: 4066
+10 Jan 2017 22:04:13 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;summon
+10 Jan 2017 22:04:13 : LimitlessMc, botchat, Botfuzzy77#2209, Please summon a boss from level 7.5 to 15 (Ex. `;summon 15`)
+10 Jan 2017 22:04:43 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;summon 15
+10 Jan 2017 22:05:40 : LimitlessMc, botchat, Bakafish#8693, ;train
+10 Jan 2017 22:05:40 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;pokebattle NNNNNNNN
+10 Jan 2017 22:05:40 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, Dead?
+10 Jan 2017 22:05:40 : LimitlessMc, botchat, Bakafish#8693, ded
+10 Jan 2017 22:05:40 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, xD

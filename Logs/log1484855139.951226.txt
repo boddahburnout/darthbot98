@@ -1,0 +1,45 @@
+19 Jan 2017 19:45:44 : None, Direct Message with TherminatorX, TherminatorX#6644, ;cd
+19 Jan 2017 19:45:57 : LimitlessMc, botchat, TherminatorX#6644, ;cd
+19 Jan 2017 19:45:57 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You can Train right now!
+19 Jan 2017 19:46:04 : LimitlessMc, botchat, Wertfuzzy77#0274, also, level 5 to train again
+19 Jan 2017 19:46:06 : LimitlessMc, botchat, TherminatorX#6644, ;train
+19 Jan 2017 19:46:06 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 45 **Dusknoir** for 2245 XP (52% to beat)
+You **Lost** to a Level 56 **Vivillon** (41% to beat)
+You **Lost** to a Level 55 **Metang** (42% to beat)
+You **Lost** to a Level 63 **Vespiquen** (37% to beat)
+You **Lost** to a Level 36 **Spearow** (65% to beat)
+You **Lost** to a Level 76 **Zorua** (30% to beat)
+You **Lost** to a Level 86 **Mienshao** (27% to beat)
+You **Lost** to a Level 76 **Luvdisc** (30% to beat)
+You **Lost** to a Level 89 **Chimecho** (26% to beat)
+You **Beat** a Level 17 **Dunsparce** for 470 XP (90% to beat)
+You **Beat** a Level 69 **Weavile** for 3099 XP (34% to beat)
+You **Lost** to a Level 51 **Geodude** (46% to beat)
+You **Beat** a Level 87 **Registeel** for 3430 XP (27% to beat)
+You Find a **Pokeloot** worth 5530 XP
+You Find a **Great Pokeloot** worth 16589 XP
+You Find an **Ultra Pokeloot** worth 44237 XP
+19 Jan 2017 19:46:06 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 75602 XP!
+19 Jan 2017 19:46:09 : LimitlessMc, botchat, TherminatorX#6644, Wew
+19 Jan 2017 19:46:20 : LimitlessMc, botchat, TherminatorX#6644, Triple pokeloot
+19 Jan 2017 19:46:26 : LimitlessMc, botchat, TherminatorX#6644, Hax
+19 Jan 2017 19:46:28 : LimitlessMc, botchat, Wertfuzzy77#0274, `You Beat a Level 87 Registeel for 3430 XP (27% to beat)`
+19 Jan 2017 19:46:28 : LimitlessMc, botchat, Wertfuzzy77#0274, hax
+19 Jan 2017 19:47:02 : LimitlessMc, botchat, TherminatorX#6644, I only beat 4 of them XD
+19 Jan 2017 19:47:35 : LimitlessMc, botchat, TherminatorX#6644, ;pokedex Gallade
+19 Jan 2017 19:47:35 : LimitlessMc, botchat, Botfuzzy77#2209, You have not beat a Gallade
+19 Jan 2017 19:47:40 : LimitlessMc, botchat, TherminatorX#6644, Poo
+19 Jan 2017 19:47:43 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+19 Jan 2017 19:47:58 : LimitlessMc, botchat, TherminatorX#6644, I've beaten two in the p
+19 Jan 2017 19:48:14 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+19 Jan 2017 19:48:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug json.load(open('Players.json', 'r'))[ctx.message.author.id]
+19 Jan 2017 19:48:26 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+{'Pokemon': [' ', 'Pupitar', 'Misdreavus', 'Woobat', 'Espurr', 'Crawdaunt', 'Persian', 'Tauros', 'Unfezant', 'Abra', 'Hitmontop', 'Armaldo', 'Vanilluxe', 'Nidoqueen', 'Cranidos', 'Skitty', 'Baltoy', 'Sigilyph', 'Glaceon', 'Haunter', 'Meditite', 'Glameow', 'Mantine', 'Kecleon', 'Bastiodon', 'Castform', 'Beartic', 'Kabutops', 'Murkrow', 'Cresselia', 'Cacnea', 'Ludicolo', 'Numel', 'Metang', 'Wingull', 'Stantler', 'Remoraid', 'Serperior', 'Palpitoad', 'Grotle', 'Magnezone', 'Alakazam', 'Medicham', 'Torterra', 'Slaking', 'Scizor', 'Spinda', 'Spritzee', 'Azelf', 'Charmeleon', 'Wailmer', 'Donphan', 'Smoochum', 'Beautifly', 'Golduck', 'Pansage', 'Flabébé', 'Mandibuzz', 'Granbull', 'Garbodor', 'Zigzagoon', 'Mesprit', 'Regirock', 'Gothita', 'Inkay', 'Maractus', 'Manectric', 'Electrode', 'Ferrothorn', 'Jolteon', 'Carnivine', 'Entei', 'Amaura', 'Vibrava', 'Cryogonal', 'Azumarill', 'Regice', 'Goodra', 'Totodile', 'Machamp', 'Snorlax', 'Throh', 'Chinchou', 'Dragonite', 'Herdier', 'Seadra', 'Monferno', 'Phantump', 'Shuppet', 'Zekrom', 'Mightyena', 'Bayleef', 'Kyurem', 'Tranquill', 'Igglybuff', 'Poliwrath', 'Tyrunt', 'Slugma', 'Frogadier'], 'XP': 124605, 'Takedowns': 20, 'Name': 'Wertfuzzy77', 'Large_Damage': 7794, 'Level': 43}
+```
+19 Jan 2017 19:48:31 : LimitlessMc, botchat, TherminatorX#6644, But ofc the pokedex feature doesn't look at logs
+19 Jan 2017 19:48:36 : LimitlessMc, botchat, Wertfuzzy77#0274, ya
+19 Jan 2017 19:48:40 : LimitlessMc, botchat, Wertfuzzy77#0274, just most recent train
+19 Jan 2017 19:48:42 : LimitlessMc, botchat, Wertfuzzy77#0274, trains *

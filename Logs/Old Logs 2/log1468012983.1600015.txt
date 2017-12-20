@@ -1,0 +1,20 @@
+08 Jul 2016 21:23:27 : LimitlessMc , Wertfuzzy77#0274 , ;mute Roy210
+08 Jul 2016 21:23:28 : LimitlessMc , Botfuzzy77#2209 , Something went Wrong
+08 Jul 2016 21:24:09 : LimitlessMc , Wertfuzzy77#0274 , ;debug Exception
+08 Jul 2016 21:24:09 : LimitlessMc , Botfuzzy77#2209 , ```py
+<class 'Exception'>
+```
+08 Jul 2016 21:24:14 : LimitlessMc , Wertfuzzy77#0274 , ;debug Exception.name
+08 Jul 2016 21:24:14 : LimitlessMc , Botfuzzy77#2209 , ```py
+AttributeError: type object 'Exception' has no attribute 'name'
+```
+08 Jul 2016 21:24:20 : LimitlessMc , Wertfuzzy77#0274 , ;debug Exception.message
+08 Jul 2016 21:24:20 : LimitlessMc , Botfuzzy77#2209 , ```py
+AttributeError: type object 'Exception' has no attribute 'message'
+```
+08 Jul 2016 21:24:29 : LimitlessMc , Wertfuzzy77#0274 , ;debug  new Exception
+08 Jul 2016 21:24:29 : LimitlessMc , Botfuzzy77#2209 , ```py
+SyntaxError: unexpected EOF while parsing (<string>, line 1)
+```
+08 Jul 2016 21:26:12 : LimitlessMc , Wertfuzzy77#0274 , ;relog
+08 Jul 2016 21:26:12 : LimitlessMc , Botfuzzy77#2209 , Relogging...

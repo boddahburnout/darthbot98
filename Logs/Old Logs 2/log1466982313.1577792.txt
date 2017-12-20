@@ -1,0 +1,69 @@
+26 Jun 2016 23:05:20 : Cipher , Wertfuzzy77#0274 , !mutsliet
+26 Jun 2016 23:05:23 : Cipher , Wertfuzzy77#0274 , !mutelist
+26 Jun 2016 23:05:24 : Cipher , Botfuzzy77#2209 , Mute List:
+Everyone
+
+26 Jun 2016 23:05:30 : Cipher , Wertfuzzy77#0274 , !unmuteall
+26 Jun 2016 23:05:30 : Cipher , Botfuzzy77#2209 , Unmuted All Players
+26 Jun 2016 23:05:36 : Cipher , Wertfuzzy77#0274 , !kill someone
+26 Jun 2016 23:05:36 : Cipher , Botfuzzy77#2209 , :skull: *Wertfuzzy77 Killed someone* :skull:
+26 Jun 2016 23:05:40 : Cipher , Wertfuzzy77#0274 , !mutelist
+26 Jun 2016 23:05:40 : Cipher , Botfuzzy77#2209 , No One is Muted
+26 Jun 2016 23:05:43 : Cipher , Wertfuzzy77#0274 , rip
+26 Jun 2016 23:05:57 : Cipher , Calamariela#4119 , damn
+26 Jun 2016 23:06:04 : Cipher , Nerokin#3586 , ```// I feel sad now :(
+
+Time: 6/26/16 4:05 PM
+Description: Initializing game
+
+java.lang.OutOfMemoryError: Java heap space: failed reallocation of scalar replaced objects
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+    at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:334)
+
+-- Initialization --
+Details:
+Stacktrace:
+    at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:334)
+    at net.minecraft.client.main.Main.main(SourceFile:124)
+    at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+    at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+    at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+    at java.lang.reflect.Method.invoke(Unknown Source)
+    at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+    at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+    at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+    at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+    at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+    at java.lang.reflect.Method.invoke(Unknown Source)
+    at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:310)
+    at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:395)
+    at org.multimc.EntryPoint.listen(EntryPoint.java:170)
+    at org.multimc.EntryPoint.main(EntryPoint.java:54)```
+26 Jun 2016 23:06:05 : Cipher , Calamariela#4119 , prob hard to do
+26 Jun 2016 23:06:06 : Cipher , Roy210#7098 , !kiss Marifuzzy
+26 Jun 2016 23:06:06 : Cipher , Botfuzzy77#2209 , :heart: *Roy210 Kissed Marifuzzy* :heart:
+26 Jun 2016 23:06:19 : Cipher , Calamariela#4119 , oh hello roy
+26 Jun 2016 23:06:24 : Cipher , Roy210#7098 , !kys
+26 Jun 2016 23:06:25 : Cipher , Botfuzzy77#2209 , Hey Mean!
+26 Jun 2016 23:06:28 : Cipher , Roy210#7098 , bet
+26 Jun 2016 23:06:28 : Cipher , Botfuzzy77#2209 , bet
+26 Jun 2016 23:06:34 : Cipher , Calamariela#4119 , prob will
+26 Jun 2016 23:06:37 : Cipher , Wertfuzzy77#0274 , i cheat
+26 Jun 2016 23:06:45 : Cipher , Roy210#7098 , !slap toph
+26 Jun 2016 23:06:46 : Cipher , Botfuzzy77#2209 , :raised_hand: *Roy210 slapped toph* :raised_hand:
+26 Jun 2016 23:06:51 : LimitlessMc , MoonWolf (Fornor)#8885 , !youtube all of me
+26 Jun 2016 23:06:58 : Cipher , Calamariela#4119 , BIG mistake roy
+26 Jun 2016 23:07:16 : Cipher , Roy210#7098 , !kiss babe_Cal
+26 Jun 2016 23:07:17 : Cipher , Botfuzzy77#2209 , :heart: *Roy210 Kissed babe_Cal* :heart:
+26 Jun 2016 23:07:30 : Cipher , Calamariela#4119 , toph slaps hard af
+26 Jun 2016 23:07:38 : Cipher , Roy210#7098 , !kiss nero
+26 Jun 2016 23:07:39 : Cipher , Botfuzzy77#2209 , :heart: *Roy210 Kissed nero* :heart:
+26 Jun 2016 23:07:41 : Cipher , Nerokin#3586 , Going to get some new JVMs
+26 Jun 2016 23:07:43 : Cipher , Wertfuzzy77#0274 , !relog
+26 Jun 2016 23:07:43 : Cipher , Botfuzzy77#2209 , Relogging...

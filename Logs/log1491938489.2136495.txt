@@ -1,0 +1,19 @@
+11 Apr 2017 19:21:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ;relog
+11 Apr 2017 19:21:50 : LimitlessMc, botchat, Wertfuzzy77#0274, hmmmmmmmmmm
+11 Apr 2017 19:21:56 : LimitlessMc, botchat, Lightning#6734, idk when it broke
+11 Apr 2017 19:22:04 : LimitlessMc, botchat, Lightning#6734, but it broke
+11 Apr 2017 19:22:06 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+    '''Relogs The Bot'''
+    if ctx.message.author.id not in ["134441036905840640"]:
+        await bot.say("INVALID")
+        return
+    else:
+        await bot.say("Relogging...")
+        LOG.close()
+        await bot.logout()
+        #Popen("Start_Botfuzzy77.bat")```
+11 Apr 2017 19:22:13 : LimitlessMc, botchat, Wertfuzzy77#0274, it should say something tho
+11 Apr 2017 19:22:18 : LimitlessMc, botchat, Lightning#6734, ye
+11 Apr 2017 19:22:22 : LimitlessMc, botchat, Wertfuzzy77#0274, either invalid of restarting
+11 Apr 2017 19:22:25 : LimitlessMc, botchat, Wertfuzzy77#0274, but it said nothing
+11 Apr 2017 19:23:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug bot.logout()

@@ -1,0 +1,53 @@
+18 Jan 2017 03:36:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+18 Jan 2017 03:36:10 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 70 **Delphox** (26% to beat)
+You **Beat** a Level 23 **Skiploom** for 361 XP (80% to beat)
+You **Beat** a Level 18 **Emolga** for 185 XP (90% to beat)
+You **Lost** to a Level 58 **Drapion** (31% to beat)
+You **Beat** a Level 24 **Floatzel** for 423 XP (77% to beat)
+You **Beat** a Level 8 **Foongus** for 185 XP (90% to beat)
+You **Lost** to a Level 73 **Hoppip** (25% to beat)
+You **Beat** a Level 23 **Tentacool** for 361 XP (80% to beat)
+You **Beat** a Level 11 **Seel** for 185 XP (90% to beat)
+You **Lost** to a Level 39 **Cacturne** (47% to beat)
+You use a **Lucky Egg** to gain more XP!
+You Find a **Great Pokeloot** worth 13719 XP
+18 Jan 2017 03:36:10 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 16269 XP!
+18 Jan 2017 03:37:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cd
+18 Jan 2017 03:37:42 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 3508 seconds
+18 Jan 2017 03:37:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle medium bbbbbbbb
+18 Jan 2017 03:37:50 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 22 Boss **Volcarona** has appeared in the medium zone!
+It has 6204 Health.
+18 Jan 2017 03:37:50 : LimitlessMc, botchat, Botfuzzy77#2209, 
+18 Jan 2017 03:37:50 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b:
+:x: :x: :x: :x: :x: :x: :x: :x:
+18 Jan 2017 03:37:50 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **0** damage
+18 Jan 2017 03:37:50 : LimitlessMc, botchat, Botfuzzy77#2209, Level 22 Boss **Volcarona** has 6204 health left.
+18 Jan 2017 03:37:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokeboss
+18 Jan 2017 03:37:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokeboss easy
+18 Jan 2017 03:37:59 : LimitlessMc, botchat, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle easy to fight and reveal the boss.
+18 Jan 2017 03:38:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokeboss medium
+18 Jan 2017 03:38:03 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Boss Pokemon** =-
+*Name*: Volcarona
+*Health*: 6204/6204 (100.0%)
+*Level*: 22
+Last Combo:
+:regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b:
+:x: :x: :x: :x: :x: :x: :x: :x:
+18 Jan 2017 03:38:04 : LimitlessMc, botchat, Botfuzzy77#2209, 
+18 Jan 2017 03:38:04 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **Wertfuzzy77** with **0** damage
+18 Jan 2017 03:38:07 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cd
+18 Jan 2017 03:38:07 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 74 seconds
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 3483 seconds
+18 Jan 2017 03:40:24 : LimitlessMc, staff, Jay113355#4999, Like you can run the entire gitlabs on your own server
+18 Jan 2017 03:40:27 : LimitlessMc, staff, Jay113355#4999, the website
+18 Jan 2017 03:40:30 : LimitlessMc, staff, Jay113355#4999, the code
+18 Jan 2017 03:40:31 : LimitlessMc, staff, Jay113355#4999, the CI
+18 Jan 2017 03:40:38 : LimitlessMc, staff, Jay113355#4999, it can all be on your own servers
+18 Jan 2017 03:41:24 : LimitlessMc, staff, Wertfuzzy77#0274, o
+18 Jan 2017 03:41:25 : LimitlessMc, staff, Wertfuzzy77#0274, thats cool

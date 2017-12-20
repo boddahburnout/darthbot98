@@ -1,0 +1,40 @@
+03 Nov 2016 22:00:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug 1
+03 Nov 2016 22:00:13 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+1
+```
+03 Nov 2016 22:00:13 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+1
+```
+03 Nov 2016 22:00:16 : LimitlessMc, botchat, Wertfuzzy77#0274, alright
+03 Nov 2016 22:00:27 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug getEVs("Celebi")
+03 Nov 2016 22:00:29 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+NameError: name 'getEVs' is not defined
+```
+03 Nov 2016 22:00:29 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+speed 0
+special-defense 0
+special-attack 0
+defense 0
+attack 0
+hp 3
+```
+03 Nov 2016 22:00:33 : LimitlessMc, botchat, Wertfuzzy77#0274, ayyyyyyy
+03 Nov 2016 22:00:35 : LimitlessMc, botchat, Wertfuzzy77#0274, we did it boys
+03 Nov 2016 22:02:56 : LimitlessMc, botchat, crystal4209#4698, ;server
+03 Nov 2016 22:02:57 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: 23.111.129.82
+03 Nov 2016 22:02:57 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 16 players out of 200
+ *Ping*: 174.276 ms
+ *MC Version*: 1.10.2
+03 Nov 2016 22:02:57 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *tiltrys, slikytaz15, anders003, DeadApe, Wertfuzzy77, XtDiomedes, FallopianTube, GentlyGaming, Wormneff, SillyDillyPickle, KBwonder, FAmayham...*
+03 Nov 2016 22:02:57 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+03 Nov 2016 22:02:57 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 16 players out of 200
+ *Ping*: 147.105 ms
+ *MC Version*: 1.10.2
+03 Nov 2016 22:03:02 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *tiltrys, slikytaz15, anders003, DeadApe, Wertfuzzy77, XtDiomedes, FallopianTube, GentlyGaming, Wormneff, SillyDillyPickle, KBwonder, FAmayham...*
+03 Nov 2016 22:03:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+03 Nov 2016 22:03:38 : LimitlessMc, botchat, Botfuzzy77#2209, Reloaded all Modules
+03 Nov 2016 22:03:38 : LimitlessMc, botchat, Botfuzzy77#2209, Reloaded all Modules

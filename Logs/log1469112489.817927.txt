@@ -1,0 +1,110 @@
+21 Jul 2016 14:48:16 : Cipher, general, Wertfuzzy77#0274, Just did
+21 Jul 2016 14:48:18 : Cipher, music, Akincifenwa#5072, ;join
+21 Jul 2016 14:48:20 : Cipher, general, Wertfuzzy77#0274, Give it a sec
+21 Jul 2016 14:48:31 : Cipher, music, Akincifenwa#5072, ;playlist Trending
+21 Jul 2016 14:48:42 : LimitlessMc, mainchat, Wertfuzzy77#0274, I turned it off
+21 Jul 2016 14:48:46 : LimitlessMc, mainchat, Wertfuzzy77#0274, Wasn't meant to do that
+21 Jul 2016 14:49:00 : Cipher, music, Akincifenwa#5072, ...
+21 Jul 2016 14:49:05 : Cipher, music, Wertfuzzy77#0274, ;songs
+21 Jul 2016 14:49:05 : Cipher, music, Botfuzzy77#2209, Queue is Empty
+21 Jul 2016 14:49:14 : Cipher, music, Wertfuzzy77#0274, ;playlists
+21 Jul 2016 14:49:14 : Cipher, music, Botfuzzy77#2209, Katy[3], Perri[2], ACDC[5], nicky[3], Coldplay[5], Amagi[1], Adele[5], 2Cellos[5], Old[9], SteinsGate[13], Blunt[3], randomsongs[8], Trending[17], GAGA[3], WEEB[1], Maroon[5], Sheeran[6]
+21 Jul 2016 14:49:30 : Cipher, music, Akincifenwa#5072, is 17 songs too much?
+21 Jul 2016 14:49:33 : Cipher, music, Wertfuzzy77#0274, Nah
+21 Jul 2016 14:49:39 : Cipher, music, Wertfuzzy77#0274, Should work fine
+21 Jul 2016 14:49:42 : Cipher, music, Wertfuzzy77#0274, ;songs
+21 Jul 2016 14:49:43 : Cipher, music, Botfuzzy77#2209, Queue is Empty
+21 Jul 2016 14:49:53 : Cipher, music, Wertfuzzy77#0274, ;playlist WEEB
+21 Jul 2016 14:49:53 : Cipher, music, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+21 Jul 2016 14:49:57 : Cipher, music, Wertfuzzy77#0274, Hmm
+21 Jul 2016 14:50:05 : Cipher, music, Akincifenwa#5072, ;playlist Trending
+21 Jul 2016 14:50:08 : Cipher, music, Wertfuzzy77#0274, Maybe you made playlist wrong
+21 Jul 2016 14:50:13 : Cipher, music, Akincifenwa#5072, how
+21 Jul 2016 14:50:34 : Cipher, music, Wertfuzzy77#0274, Idk
+21 Jul 2016 14:50:42 : Cipher, music, Akincifenwa#5072, .;makeplaylist Trending https://www.youtube.com/watch?v=F9kXstb9FF4 https://www.youtube.com/watch?v=GQ0X7_rv38s https://www.youtube.com/watch?v=NYhxaZXXwsg https://www.youtube.com/watch?v=kOkQ4T5WO9E https://www.youtube.com/watch?v=J1b22l1kFKY https://www.youtube.com/watch?v=qMH0Xglh7GA https://www.youtube.com/watch?v=M0VhIWfW99o https://www.youtube.com/watch?v=rZIspmU939o https://www.youtube.com/watch?v=5z13KMOCBB0 https://www.youtube.com/watch?v=bmQteGYBQQc https://www.youtube.com/watch?v=pXRviuL6vMY https://www.youtube.com/watch?v=KZHByNJlgsw https://www.youtube.com/watch?v=vSk_xOy6Bwc https://www.youtube.com/watch?v=qaZ0oAh4evU https://www.youtube.com/watch?v=wTK5DVIxkNw https://www.youtube.com/watch?v=8SeRU_ZPDkE https://www.youtube.com/watch?v=GjnadPBMJGs
+21 Jul 2016 14:50:42 : Cipher, music, Wertfuzzy77#0274, Try making it again
+21 Jul 2016 14:50:51 : Cipher, music, Akincifenwa#5072, ;makeplaylist Trending https://www.youtube.com/watch?v=F9kXstb9FF4 https://www.youtube.com/watch?v=GQ0X7_rv38s https://www.youtube.com/watch?v=NYhxaZXXwsg https://www.youtube.com/watch?v=kOkQ4T5WO9E https://www.youtube.com/watch?v=J1b22l1kFKY https://www.youtube.com/watch?v=qMH0Xglh7GA https://www.youtube.com/watch?v=M0VhIWfW99o https://www.youtube.com/watch?v=rZIspmU939o https://www.youtube.com/watch?v=5z13KMOCBB0 https://www.youtube.com/watch?v=bmQteGYBQQc https://www.youtube.com/watch?v=pXRviuL6vMY https://www.youtube.com/watch?v=KZHByNJlgsw https://www.youtube.com/watch?v=vSk_xOy6Bwc https://www.youtube.com/watch?v=qaZ0oAh4evU https://www.youtube.com/watch?v=wTK5DVIxkNw https://www.youtube.com/watch?v=8SeRU_ZPDkE https://www.youtube.com/watch?v=GjnadPBMJGs
+21 Jul 2016 14:51:15 : Cipher, music, Akincifenwa#5072, ;playlist Trending
+21 Jul 2016 14:51:44 : Cipher, music, Akincifenwa#5072, ;songs
+21 Jul 2016 14:51:44 : Cipher, music, Botfuzzy77#2209, **The Following songs are in the Queue**
+21 Jul 2016 14:51:44 : Cipher, music, Botfuzzy77#2209, Twenty One Pilots - Ride Lyrics (https://www.youtube.com/watch?v=KZHByNJlgsw)
+The Chainsmokers - Don't Let Me Down (Audio) ft. Daya (https://www.youtube.com/watch?v=qMH0Xglh7GA)
+Sia - Cheap Thrills (Audio) (https://www.youtube.com/watch?v=J1b22l1kFKY)
+Calvin Harris - This Is What You Came For (Official Video) ft. Rihanna (https://www.youtube.com/watch?v=kOkQ4T5WO9E)
+twenty one pilots: Stressed Out [OFFICIAL VIDEO] (https://www.youtube.com/watch?v=pXRviuL6vMY)
+Total Time is 0:18:31
+21 Jul 2016 14:51:53 : Cipher, music, Akincifenwa#5072, it just a couple
+21 Jul 2016 14:52:04 : Cipher, music, Wertfuzzy77#0274, Weird
+21 Jul 2016 14:52:27 : Cipher, music, Wertfuzzy77#0274, Sometimes it doesn't like when you try to run it immediately after making it
+21 Jul 2016 14:52:44 : Cipher, music, Akincifenwa#5072, well he should like it
+21 Jul 2016 14:52:47 : Cipher, music, Akincifenwa#5072, le
+21 Jul 2016 14:53:03 : Cipher, music, Akincifenwa#5072, ;playlists
+21 Jul 2016 14:53:03 : Cipher, music, Botfuzzy77#2209, Katy[3], GAGA[3], Perri[2], Old[9], nicky[3], Amagi[1], Adele[5], 2Cellos[5], ACDC[5], SteinsGate[13], Blunt[3], randomsongs[8], Trending[17], Coldplay[5], WEEB[1], Maroon[5], Sheeran[6]
+21 Jul 2016 14:53:06 : Cipher, music, Wertfuzzy77#0274, I'm planning on making like ;viewplaylist or something
+21 Jul 2016 14:53:13 : Cipher, music, Wertfuzzy77#0274, So you can see what songs are there
+21 Jul 2016 14:53:27 : Cipher, music, Akincifenwa#5072, ;removeplaylist randomsongs
+21 Jul 2016 14:53:27 : Cipher, music, Botfuzzy77#2209, Removed randomsongs
+21 Jul 2016 14:54:06 : Cipher, music, Wertfuzzy77#0274, Also should prob find a way to have only certain people remove playlists
+21 Jul 2016 14:54:18 : Cipher, music, Wertfuzzy77#0274, Like either the person who made or a staff
+21 Jul 2016 14:54:31 : Cipher, music, Akincifenwa#5072, welp i made that playlst
+21 Jul 2016 14:54:34 : Cipher, music, Wertfuzzy77#0274, I'll take a look at that when I get home
+21 Jul 2016 14:54:35 : Cipher, music, Wertfuzzy77#0274, Ik
+21 Jul 2016 14:54:41 : Cipher, music, Wertfuzzy77#0274, But was just thinking about it
+21 Jul 2016 14:55:02 : Cipher, music, Wertfuzzy77#0274, ;afk working
+21 Jul 2016 14:55:02 : Cipher, music, Botfuzzy77#2209, Wertfuzzy77 is now AFK for reason:
+**working**
+21 Jul 2016 14:55:10 : Cipher, music, Akincifenwa#5072, ;song
+21 Jul 2016 14:55:10 : Cipher, music, Botfuzzy77#2209, ```Name: Twenty One Pilots - Ride Lyrics
+URL: <https://www.youtube.com/watch?v=KZHByNJlgsw>
+Time: 0:03:44
+Views: 1,222,514
+Likes: 12,751, 98.09%
+Dislikes: 248, 1.91%
+```
+21 Jul 2016 14:55:17 : Cipher, music, Akincifenwa#5072, ;afk playing mc
+21 Jul 2016 14:55:17 : Cipher, music, Botfuzzy77#2209, Akincifenwa is now AFK for reason:
+**playing mc**
+21 Jul 2016 14:56:33 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Ashchram**(Children of The Raw Man) is now Offline!
+21 Jul 2016 15:03:58 : Cipher, general, Botfuzzy77#2209, **Jabulla**(Grunt) is now Online!
+21 Jul 2016 15:04:46 : Cipher, general, Botfuzzy77#2209, **Kburn1999**(Grunt) is now Online!
+21 Jul 2016 15:06:14 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+21 Jul 2016 15:07:23 : Cipher, general, Botfuzzy77#2209, **Allianths**(Officer) is now Online!
+21 Jul 2016 15:07:38 : Cipher, general, Wertfuzzy77#0274, Hai allianths
+21 Jul 2016 15:07:56 : Cipher, general, Wertfuzzy77#0274, Wow, 4 staff members are online
+21 Jul 2016 15:07:57 : Cipher, general, Calamariela#4119, im playing mc
+21 Jul 2016 15:07:58 : Cipher, general, Wertfuzzy77#0274, Fancy
+21 Jul 2016 15:07:59 : Cipher, general, Calamariela#4119, rn
+21 Jul 2016 15:08:01 : Cipher, general, Calamariela#4119, xD
+21 Jul 2016 15:08:04 : Cipher, general, Wertfuzzy77#0274, Gj
+21 Jul 2016 15:08:23 : Cipher, general, Wertfuzzy77#0274, Mrs. I'm not gonna play MC anymore
+21 Jul 2016 15:08:50 : Cipher, general, Wertfuzzy77#0274, Wish I could play MC rn tho
+21 Jul 2016 15:09:26 : Cipher, general, Wertfuzzy77#0274, Was building a cool beach area b4 I went to bed last night
+21 Jul 2016 15:14:50 : Cipher, music, Akincifenwa#5072, ;playlist Trending
+21 Jul 2016 15:15:27 : Cipher, general, Kburn1999#5526, ;song
+21 Jul 2016 15:15:27 : Cipher, general, Botfuzzy77#2209, ```Name: Coldplay feat beyoncé - hymn for the weekend  ( lyrics )
+URL: <https://www.youtube.com/watch?v=wTK5DVIxkNw>
+Time: 0:04:00
+Views: 1,861,354
+Likes: 7,635, 97.27%
+Dislikes: 214, 2.73%
+```
+21 Jul 2016 15:18:12 : 02Gaming, general, Botfuzzy77#2209, **Wu Tang**(Member) is now Online!
+21 Jul 2016 15:19:37 : Cipher, music, Akincifenwa#5072, ;song
+21 Jul 2016 15:19:37 : Cipher, music, Botfuzzy77#2209, ```Name: Coldplay feat beyoncé - hymn for the weekend  ( lyrics )
+URL: <https://www.youtube.com/watch?v=wTK5DVIxkNw>
+Time: 0:04:00
+Views: 1,861,354
+Likes: 7,635, 97.27%
+Dislikes: 214, 2.73%
+```
+21 Jul 2016 15:19:41 : Cipher, music, Akincifenwa#5072, ;songs
+21 Jul 2016 15:19:41 : Cipher, music, Botfuzzy77#2209, Queue is Empty
+21 Jul 2016 15:19:47 : Cipher, music, Akincifenwa#5072, ;playlist Trending
+21 Jul 2016 15:20:23 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+21 Jul 2016 15:20:36 : Cipher, music, Akincifenwa#5072, why u no work bot ;-;
+21 Jul 2016 15:21:13 : Cipher, music, Wertfuzzy77#0274, Need a restart?
+21 Jul 2016 15:21:33 : Cipher, music, Akincifenwa#5072, idk if it would hep
+21 Jul 2016 15:21:37 : Cipher, music, Wertfuzzy77#0274, ;restart
+21 Jul 2016 15:21:39 : Cipher, music, Wertfuzzy77#0274, Oh well
+21 Jul 2016 15:21:43 : Cipher, music, Wertfuzzy77#0274, ;relog
+21 Jul 2016 15:21:43 : Cipher, music, Botfuzzy77#2209, Relogging...

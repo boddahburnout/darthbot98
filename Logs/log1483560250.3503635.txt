@@ -1,0 +1,661 @@
+04 Jan 2017 20:04:57 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+04 Jan 2017 20:04:57 : LimitlessMc, botchat, Wertfuzzy77#0274, Hello
+04 Jan 2017 20:04:57 : LimitlessMc, botchat, Wertfuzzy77#0274, ...?
+04 Jan 2017 20:04:57 : LimitlessMc, botchat, Botfuzzy77#2209, *From The Other Side*
+04 Jan 2017 20:05:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ;playlists
+04 Jan 2017 20:05:15 : LimitlessMc, botchat, Botfuzzy77#2209, ACDC[5], MJackson[5], WEEB[4], Train[3], positivity[17], 2Cellos[5], Old[9], GnR[5], Bringer[1], Katy[3], FUN[3], Adele[5], Kimi[4], Blunt[3], Maroon[5], Cala[21], 2015OP&EN[25], nicky[2], GAGA[3], Akinci[12], Sheeran[6], Amagi[1], Shelter[11], Animenz[3], WEEB2[3], Dragons[4], Coldplay[5], TnDbRn[0], SteinsGate[13], AnimeOpenings[14], Perri[2], Eddie[18]
+04 Jan 2017 20:05:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;playlist SteinsGate
+04 Jan 2017 20:05:35 : LimitlessMc, botchat, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+04 Jan 2017 20:05:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio
+04 Jan 2017 20:05:59 : LimitlessMc, botchat, Botfuzzy77#2209, Radio Mode: True
+04 Jan 2017 20:17:10 : LimitlessMc, botchat, MoonWolf#8885, ;pokebattle NNNNNNNN
+04 Jan 2017 20:17:10 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 0 Boss **Mothim** has appeared!
+It has 0 Health.
+04 Jan 2017 20:17:10 : LimitlessMc, botchat, Botfuzzy77#2209, 
+04 Jan 2017 20:17:10 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :x: :x: :white_check_mark: :white_check_mark: :white_check_mark:
+04 Jan 2017 20:17:10 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did 40 damage
+04 Jan 2017 20:17:10 : LimitlessMc, botchat, Botfuzzy77#2209, Level 0 Boss **Mothim** has been defeated!
+04 Jan 2017 20:17:15 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **MoonWolf** with **40** damage
+04 Jan 2017 20:17:20 : LimitlessMc, botchat, MoonWolf#8885, ;train
+04 Jan 2017 20:17:20 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 173 XP!
+04 Jan 2017 20:22:18 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokeboss
+04 Jan 2017 20:22:18 : LimitlessMc, botchat, Botfuzzy77#2209, Level 0 Boss **Mothim** has been defeated!
+04 Jan 2017 20:22:18 : LimitlessMc, botchat, Botfuzzy77#2209, 
+04 Jan 2017 20:22:19 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **MoonWolf** with **40** damage
+04 Jan 2017 20:22:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+04 Jan 2017 20:22:24 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 147 XP!
+04 Jan 2017 20:26:44 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;luck
+04 Jan 2017 20:26:44 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, TherminatorX's luck is 77.78 out of 100, which is **Pretty Good**
+04 Jan 2017 20:26:59 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;afk because work
+04 Jan 2017 20:26:59 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, TherminatorX is now AFK for reason:
+**because work**
+04 Jan 2017 20:30:30 : LimitlessMc, botchat, MoonWolf#8885, y u always cheaaatin
+04 Jan 2017 20:36:10 : Pokemon Mystery Dungeon, bot_chat, Third_Worm#4804, ;whoami
+04 Jan 2017 20:36:15 : Pokemon Mystery Dungeon, bot_chat, Third_Worm#4804, ff
+04 Jan 2017 20:36:18 : Pokemon Mystery Dungeon, bot_chat, Third_Worm#4804, ;whoamI
+04 Jan 2017 20:36:18 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Name: Third_Worm
+Level: 0
+XP: 0/1
+04 Jan 2017 20:36:23 : Pokemon Mystery Dungeon, bot_chat, Third_Worm#4804, wooooooo
+04 Jan 2017 20:36:25 : Pokemon Mystery Dungeon, bot_chat, Third_Worm#4804, lvl 0!
+04 Jan 2017 20:36:30 : Pokemon Mystery Dungeon, bot_chat, Third_Worm#4804, Beat that bois!
+04 Jan 2017 20:36:47 : Pokemon Mystery Dungeon, bot_chat, Third_Worm#4804, ;pokebattle
+04 Jan 2017 20:36:47 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Please use a Combination of **8** Types to Fight the Boss: (**N**)ormal, (**F**)ire, (**W**)ater, (**G**)rass, (**P**)oison, (**D**)ragon, (**S**)teel, (**E**)lectric, (**B**)ug, or (**I**)ce.
+ Ex 'GSEBI' or 'DPGDB'
+04 Jan 2017 20:36:59 : Pokemon Mystery Dungeon, bot_chat, Third_Worm#4804, ;pokebattle DSGWE
+04 Jan 2017 20:37:00 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Please use a Combination of **8** Types to Fight the Boss: (**N**)ormal, (**F**)ire, (**W**)ater, (**G**)rass, (**P**)oison, (**D**)ragon, (**S**)teel, (**E**)lectric, (**B**)ug, or (**I**)ce.
+ Ex 'GSEBI' or 'DPGDB'
+04 Jan 2017 20:37:03 : Pokemon Mystery Dungeon, bot_chat, Third_Worm#4804, oh 8
+04 Jan 2017 20:37:24 : Pokemon Mystery Dungeon, bot_chat, Third_Worm#4804, one sec
+04 Jan 2017 20:50:15 : LimitlessMc, botchat, MoonWolf#8885, Great
+04 Jan 2017 20:50:27 : LimitlessMc, botchat, MoonWolf#8885, Game crashed
+04 Jan 2017 20:50:30 : LimitlessMc, botchat, MoonWolf#8885, with me in the middle of everything.
+04 Jan 2017 20:50:30 : LimitlessMc, botchat, MoonWolf#8885, xD
+04 Jan 2017 20:53:26 : Pokemon Mystery Dungeon, general, ruleroftri#6648, If team hope were in it just to be super op, we'd jump on recruiting absol, since that dark typing is op, and absol can mega, but we are in it to recruit nice people, I leave it up to the rest of the team who we recruit
+04 Jan 2017 20:58:12 : Pokemon Mystery Dungeon, general, DicloniusPony#6564, @Team Hope are you gonna choose
+04 Jan 2017 20:58:24 : Pokemon Mystery Dungeon, general, DicloniusPony#6564, Absol and Gallade or just absol or just gallade?
+04 Jan 2017 20:59:53 : Pokemon Mystery Dungeon, general, ruleroftri#6648, Well divine says she's up for taking both, and I side with whatever decision she's making
+04 Jan 2017 21:03:48 : Pulse, botchat, Lightning#6734, ;server
+04 Jan 2017 21:03:49 : Pulse, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+04 Jan 2017 21:03:49 : Pulse, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 23 players out of 100
+ *Ping*: 150.025 ms
+ *MC Version*: 1.10.2
+04 Jan 2017 21:03:49 : Pulse, botchat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.0
+04 Jan 2017 21:03:49 : Pulse, botchat, Botfuzzy77#2209, **Players Online**:
+ *STUART_tgd, LolopFace, t0mm1x, Tristan, Wertfuzzy77, talhachoudhry, EnderHippy, queen828, LiBugPony, att3x, LifeMaster500, NavyMover56...*
+04 Jan 2017 21:08:13 : Pokemon Mystery Dungeon, general, DicloniusPony#6564, okay, than say welcome to your new two members @Gallade and @Absol
+04 Jan 2017 21:08:13 : Pokemon Mystery Dungeon, general, Botfuzzy77#2209, TherminatorX is afk for reason:
+**because work**
+04 Jan 2017 21:24:10 : Pokemon Mystery Dungeon, general, ruleroftri#6648, So, since we have 6, we get a legend right?
+04 Jan 2017 21:26:34 : Pokemon Mystery Dungeon, general, ruleroftri#6648, Also, are we allowed a mega?
+04 Jan 2017 21:27:02 : Pokemon Mystery Dungeon, general, xPalkia(lugia)#8149, Hi
+04 Jan 2017 21:28:31 : LimitlessMc, mainchat, xPalkia(lugia)#8149, They wont.
+04 Jan 2017 21:28:33 : LimitlessMc, mainchat, xPalkia(lugia)#8149, Ever
+04 Jan 2017 21:29:52 : Pokemon Mystery Dungeon, general, ruleroftri#6648, Hey @Absol welcome to the team
+04 Jan 2017 21:30:06 : Pokemon Mystery Dungeon, general, xPalkia(lugia)#8149, Thanks :D
+04 Jan 2017 21:34:11 : LimitlessMc, botchat, xPalkia(lugia)#8149, ;train
+04 Jan 2017 21:34:11 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 1 XP!
+04 Jan 2017 21:34:15 : LimitlessMc, botchat, xPalkia(lugia)#8149, ;train
+04 Jan 2017 21:34:15 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 1196 seconds before you can train again.
+04 Jan 2017 21:40:56 : Pokemon Mystery Dungeon, general, ruleroftri#6648, Why is there 3 of my messages?
+04 Jan 2017 21:43:47 : Pokemon Mystery Dungeon, general, xPalkia(lugia)#8149, Dunno
+04 Jan 2017 21:44:34 : Pokemon Mystery Dungeon, general, xPalkia(lugia)#8149, I think i need to make a new pokemon showdown account.
+04 Jan 2017 21:45:01 : LimitlessMc, mainchat, MoonWolf#8885, Great.
+04 Jan 2017 21:45:15 : LimitlessMc, mainchat, MoonWolf#8885, I get a 2hour ban for explaining why im "rude"
+04 Jan 2017 21:45:22 : LimitlessMc, mainchat, xPalkia(lugia)#8149, Where?
+04 Jan 2017 21:45:41 : LimitlessMc, mainchat, MoonWolf#8885, and the girl that literally says im garbage and i live in trash neightborhood
+04 Jan 2017 21:45:46 : LimitlessMc, mainchat, MoonWolf#8885, gets no penalty at all
+04 Jan 2017 21:45:55 : LimitlessMc, mainchat, xPalkia(lugia)#8149, Who what when
+04 Jan 2017 21:46:00 : LimitlessMc, mainchat, MoonWolf#8885, cuz she's friend with mod.
+04 Jan 2017 21:46:00 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, ;pokebattle
+04 Jan 2017 21:46:00 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please use a Combination of **8** Types to Fight the Boss: (**N**)ormal, (**F**)ire, (**W**)ater, (**G**)rass, (**P**)oison, (**D**)ragon, (**S**)teel, (**E**)lectric, (**B**)ug, or (**I**)ce.
+ Ex 'GSEBI' or 'DPGDB'
+04 Jan 2017 21:46:10 : LimitlessMc, mainchat, MoonWolf#8885, Baka banned me for being "rude"
+04 Jan 2017 21:46:13 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, ;pokebattle SSSSWWWW
+04 Jan 2017 21:46:13 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, The Boss has been Defeated! Please check ;pokeboss for stats.
+04 Jan 2017 21:46:15 : LimitlessMc, mainchat, MoonWolf#8885, and pony insults me
+04 Jan 2017 21:46:19 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, oh
+04 Jan 2017 21:46:19 : LimitlessMc, mainchat, MoonWolf#8885, and gets no punishment at all
+04 Jan 2017 21:46:23 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, ;pokeboss
+04 Jan 2017 21:46:23 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 0 Boss **Mothim** has been defeated!
+04 Jan 2017 21:46:23 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 21:46:26 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, le
+04 Jan 2017 21:46:31 : LimitlessMc, mainchat, xPalkia(lugia)#8149, So u banned from limitless? Gg
+04 Jan 2017 21:46:35 : LimitlessMc, mainchat, MoonWolf#8885, 2 hours
+04 Jan 2017 21:46:38 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, ;pokebattle SSSSWWWW
+04 Jan 2017 21:46:38 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, The Boss has been Defeated! Please check ;pokeboss for stats.
+04 Jan 2017 21:46:43 : LimitlessMc, mainchat, xPalkia(lugia)#8149, Well rip
+04 Jan 2017 21:46:45 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, ;pokeboss
+04 Jan 2017 21:46:45 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 0 Boss **Mothim** has been defeated!
+04 Jan 2017 21:46:45 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 21:46:53 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, okei how do i restart?
+04 Jan 2017 21:47:02 : LimitlessMc, mainchat, MoonWolf#8885, Why does she get special treatment?
+04 Jan 2017 21:47:12 : LimitlessMc, mainchat, MoonWolf#8885, She gets banned and instantly unbanned by jay
+04 Jan 2017 21:47:15 : LimitlessMc, mainchat, xPalkia(lugia)#8149, Who
+04 Jan 2017 21:47:16 : LimitlessMc, mainchat, MoonWolf#8885, she can insult me
+04 Jan 2017 21:47:22 : LimitlessMc, mainchat, MoonWolf#8885, and get away with it
+04 Jan 2017 21:47:29 : LimitlessMc, mainchat, MoonWolf#8885, She can claim 32109321-3-210 blocks of land
+04 Jan 2017 21:47:32 : LimitlessMc, mainchat, MoonWolf#8885, and get away with it
+04 Jan 2017 21:47:33 : LimitlessMc, mainchat, xPalkia(lugia)#8149, WHAT WHO IM CONFUSED
+04 Jan 2017 21:47:37 : LimitlessMc, mainchat, MoonWolf#8885, FUCKING PONY
+04 Jan 2017 21:47:49 : LimitlessMc, mainchat, xPalkia(lugia)#8149, She got u banned?
+04 Jan 2017 21:47:56 : LimitlessMc, mainchat, MoonWolf#8885, Nah.
+04 Jan 2017 21:48:00 : LimitlessMc, mainchat, xPalkia(lugia)#8149, Who did then
+04 Jan 2017 21:48:00 : LimitlessMc, mainchat, MoonWolf#8885, But she does everything i do
+04 Jan 2017 21:48:04 : LimitlessMc, mainchat, MoonWolf#8885, and even worse
+04 Jan 2017 21:48:07 : LimitlessMc, mainchat, MoonWolf#8885, and gets away with it.
+04 Jan 2017 21:48:15 : LimitlessMc, mainchat, MoonWolf#8885, I was explaining with i was being "rude"
+04 Jan 2017 21:48:22 : LimitlessMc, mainchat, MoonWolf#8885, In venezuela we greet eachother saying
+04 Jan 2017 21:48:22 : LimitlessMc, mainchat, xPalkia(lugia)#8149, Who got you banned?
+04 Jan 2017 21:48:30 : LimitlessMc, mainchat, MoonWolf#8885, "Que paso marico, todo bien?"
+04 Jan 2017 21:48:41 : LimitlessMc, mainchat, MoonWolf#8885, Which translates to "What's up fgt, all good?"
+04 Jan 2017 21:48:50 : LimitlessMc, mainchat, MoonWolf#8885, Then i got banned by baka.
+04 Jan 2017 21:49:55 : Pokemon Mystery Dungeon, general, ruleroftri#6648, I'm making our team for us,  I'm gonna start on gallade and absol when I learn if I get a legend and mega
+04 Jan 2017 21:50:16 : LimitlessMc, mainchat, Third_Worm#4804, ...fornor
+04 Jan 2017 21:50:34 : LimitlessMc, mainchat, MoonWolf#8885, naw dude.
+04 Jan 2017 21:51:01 : LimitlessMc, mainchat, MoonWolf#8885, getting banned cuz i explain why im """""rude"""""
+04 Jan 2017 21:51:04 : LimitlessMc, mainchat, MoonWolf#8885, its bs.
+04 Jan 2017 21:51:08 : LimitlessMc, mainchat, MoonWolf#8885, and when someone insults me directly
+04 Jan 2017 21:51:13 : LimitlessMc, mainchat, MoonWolf#8885, she gets no punishment.
+04 Jan 2017 21:51:18 : LimitlessMc, mainchat, Third_Worm#4804, ah
+04 Jan 2017 21:51:23 : LimitlessMc, mainchat, Third_Worm#4804, your banned for 2 hours?
+04 Jan 2017 21:51:33 : LimitlessMc, mainchat, MoonWolf#8885, yes.
+04 Jan 2017 21:51:34 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, .;summon
+04 Jan 2017 21:51:36 : LimitlessMc, mainchat, Third_Worm#4804, then cool it, at least it ain't perma
+04 Jan 2017 21:51:42 : LimitlessMc, mainchat, MoonWolf#8885, No i wont cool it.
+04 Jan 2017 21:51:50 : LimitlessMc, mainchat, Third_Worm#4804, *shrugs*
+04 Jan 2017 21:51:54 : LimitlessMc, mainchat, Third_Worm#4804, its up to baka
+04 Jan 2017 21:51:56 : LimitlessMc, mainchat, Third_Worm#4804, and pony
+04 Jan 2017 21:52:01 : LimitlessMc, mainchat, MoonWolf#8885, Why pony?
+04 Jan 2017 21:52:03 : LimitlessMc, mainchat, MoonWolf#8885, WHY PONY?
+04 Jan 2017 21:52:10 : LimitlessMc, mainchat, Third_Worm#4804, no not that
+04 Jan 2017 21:52:10 : LimitlessMc, mainchat, MoonWolf#8885, SHE INSULTED ME TWICE ALREADY
+04 Jan 2017 21:52:18 : LimitlessMc, mainchat, Third_Worm#4804, i mean report her on forums ._.
+04 Jan 2017 21:52:18 : LimitlessMc, mainchat, MoonWolf#8885, And not even a warning
+04 Jan 2017 21:52:26 : LimitlessMc, mainchat, MoonWolf#8885, and when she got banned from insulting destiny
+04 Jan 2017 21:52:26 : LimitlessMc, mainchat, Third_Worm#4804, i didn't say it was up to her
+04 Jan 2017 21:52:27 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokeboss
+04 Jan 2017 21:52:27 : LimitlessMc, botchat, Botfuzzy77#2209, Level 0 Boss **Mothim** has been defeated!
+04 Jan 2017 21:52:27 : LimitlessMc, botchat, Botfuzzy77#2209, 
+04 Jan 2017 21:52:27 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **MoonWolf** with **40** damage
+04 Jan 2017 21:52:28 : LimitlessMc, mainchat, Lightning#6734, you were told to drop it!
+04 Jan 2017 21:52:31 : LimitlessMc, mainchat, MoonWolf#8885, she gets instant unbanned.
+04 Jan 2017 21:52:40 : LimitlessMc, mainchat, MoonWolf#8885, and i did stop being rung
+04 Jan 2017 21:52:46 : LimitlessMc, mainchat, MoonWolf#8885, after the kick
+04 Jan 2017 21:52:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ;summon
+04 Jan 2017 21:52:50 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 11 boss has been summoned
+04 Jan 2017 21:52:52 : LimitlessMc, mainchat, MoonWolf#8885, i was explaining why im """"rude"
+04 Jan 2017 21:52:54 : LimitlessMc, mainchat, Jay113355#4999, thats not what you we're told to drop
+04 Jan 2017 21:52:54 : LimitlessMc, botchat, Wertfuzzy77#0274, ew, level 11
+04 Jan 2017 21:52:56 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokeboss
+04 Jan 2017 21:52:56 : LimitlessMc, botchat, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle to fight and reveal the boss.
+04 Jan 2017 21:53:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle NNNNNNNN
+04 Jan 2017 21:53:04 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 11 Boss **Hypno** has appeared!
+It has 7370 Health.
+04 Jan 2017 21:53:04 : LimitlessMc, botchat, Botfuzzy77#2209, 
+04 Jan 2017 21:53:04 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:white_check_mark: :x: :x: :x: :x: :x: :x: :x:
+04 Jan 2017 21:53:04 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did 14 damage
+04 Jan 2017 21:53:04 : LimitlessMc, botchat, Botfuzzy77#2209, Level 11 Boss **Hypno** has 7356 health left.
+04 Jan 2017 21:53:12 : LimitlessMc, mainchat, Adam#7575, https://img.ifcdn.com/images/0174bb71f69f4c6a03d79f38f26ab4037579f4b483e9b03363aa42df05b712ab_1.jpg
+04 Jan 2017 21:53:12 : LimitlessMc, mainchat, DicloniusPony#6564, i didnt do anything ;/
+04 Jan 2017 21:53:12 : LimitlessMc, mainchat, Jay113355#4999, pony was only unbanned once by me
+04 Jan 2017 21:53:14 : LimitlessMc, botchat, Wertfuzzy77#0274, 7.3k hp
+04 Jan 2017 21:53:14 : LimitlessMc, botchat, Wertfuzzy77#0274, ;kms
+04 Jan 2017 21:53:14 : LimitlessMc, botchat, Botfuzzy77#2209, Good :)
+04 Jan 2017 21:53:18 : LimitlessMc, mainchat, MoonWolf#8885, "Stop being so throny and condecendent" or something like that
+04 Jan 2017 21:53:34 : LimitlessMc, mainchat, DicloniusPony#6564, and just because im friends with a mod+ doesnt mean they wont ban/kick me too so'
+04 Jan 2017 21:53:44 : LimitlessMc, mainchat, MoonWolf#8885, You already insulted me twice.
+04 Jan 2017 21:53:45 : LimitlessMc, mainchat, MoonWolf#8885, No warning
+04 Jan 2017 21:53:50 : LimitlessMc, mainchat, DicloniusPony#6564, also, that ban lasted for like 3 hours
+04 Jan 2017 21:53:58 : LimitlessMc, mainchat, Third_Worm#4804, Calm down
+04 Jan 2017 21:54:09 : LimitlessMc, mainchat, DicloniusPony#6564, so i dont see what your problem is with me ;/
+04 Jan 2017 21:54:17 : LimitlessMc, mainchat, DicloniusPony#6564, you shouldn'y blame others for your own problem
+04 Jan 2017 21:54:22 : LimitlessMc, mainchat, MoonWolf#8885, Cuz you're a fucking diva.
+04 Jan 2017 21:54:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+04 Jan 2017 21:54:25 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Steins;Gate Ending - Toki Tsukasadoru Juuni no Meiyaku (HQ)
+**Requester**: Radio
+**URL**: <https://www.youtube.com/watch?v=HFMWJx5Smdc>
+```py
+Time: 0:05:04
+Views: 190,292
+Likes: 1,349, 99.05%
+Dislikes: 13, 0.95%```
+04 Jan 2017 21:54:27 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+04 Jan 2017 21:54:27 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+04 Jan 2017 21:54:27 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Amadeus - Steins;Gate 0 OP Single - 02.Amadeus (Eng Sub/CC) **Radio**
+	<https://www.youtube.com/watch?v=jn5X2PCxVBU>
+Total Time is 0:03:58
+04 Jan 2017 21:54:29 : LimitlessMc, mainchat, MoonWolf#8885, You can do whatever you want
+04 Jan 2017 21:54:31 : LimitlessMc, mainchat, Jay113355#4999, Last chance to drop it
+04 Jan 2017 21:54:31 : LimitlessMc, mainchat, Bakafish#8693, pony's already been warned to hell right now
+04 Jan 2017 21:54:35 : LimitlessMc, mainchat, MoonWolf#8885, you wont get punished for anything.
+04 Jan 2017 21:54:40 : LimitlessMc, mainchat, Wertfuzzy77#0274, ;tempmute MoonWolf 120
+04 Jan 2017 21:54:40 : LimitlessMc, mainchat, Botfuzzy77#2209, Muted MoonWolf
+04 Jan 2017 21:54:41 : LimitlessMc, mainchat, DicloniusPony#6564, actually i get punished a lot
+04 Jan 2017 21:54:42 : LimitlessMc, mainchat, Wertfuzzy77#0274, chill
+04 Jan 2017 21:54:48 : LimitlessMc, mainchat, Lightning#6734, thanks wert
+04 Jan 2017 21:54:51 : LimitlessMc, mainchat, DicloniusPony#6564, ^
+04 Jan 2017 21:54:51 : LimitlessMc, mainchat, Botfuzzy77#2209, ^
+04 Jan 2017 21:54:53 : LimitlessMc, botchat, MoonWolf#8885, ;pokebattle NNNNNNNN
+04 Jan 2017 21:54:53 : LimitlessMc, botchat, Botfuzzy77#2209, Level 11 Boss **Hypno** has 7356 health left.
+04 Jan 2017 21:54:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+04 Jan 2017 21:54:53 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:white_check_mark: :x: :x: :x: :x: :x: :x: :x:
+04 Jan 2017 21:54:53 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did 17 damage
+04 Jan 2017 21:54:54 : LimitlessMc, botchat, Botfuzzy77#2209, Level 11 Boss **Hypno** has 7339 health left.
+04 Jan 2017 21:54:55 : LimitlessMc, mainchat, Third_Worm#4804, thanks
+04 Jan 2017 21:54:57 : LimitlessMc, botchat, MoonWolf#8885, ;cd
+04 Jan 2017 21:54:58 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+04 Jan 2017 21:54:58 : LimitlessMc, botchat, Botfuzzy77#2209, You need to wait 85 seconds
+04 Jan 2017 21:54:59 : LimitlessMc, botchat, Botfuzzy77#2209, **Train**
+04 Jan 2017 21:54:59 : LimitlessMc, botchat, Botfuzzy77#2209, You can Train right now!
+04 Jan 2017 21:55:01 : LimitlessMc, mainchat, DicloniusPony#6564, thank frien
+04 Jan 2017 21:55:02 : LimitlessMc, botchat, MoonWolf#8885, ;train
+04 Jan 2017 21:55:02 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 260 XP!
+04 Jan 2017 21:55:10 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, ah thank you
+04 Jan 2017 21:55:18 : LimitlessMc, mainchat, Lightning#6734, gonna be a long day i can already tell
+04 Jan 2017 21:55:19 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, I already summoned one tho
+04 Jan 2017 21:55:22 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokeboss
+04 Jan 2017 21:55:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, -= **Boss Pokemon** =-
+*Name*: Hypno
+*Health*: 7339/7370 (99.58%)
+*Level*: 11
+04 Jan 2017 21:55:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 21:55:27 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;whoamI
+04 Jan 2017 21:55:27 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Name: Wertfuzzy77
+Level: 11
+XP: 102/1728
+04 Jan 2017 21:55:29 : LimitlessMc, mainchat, DicloniusPony#6564, true
+04 Jan 2017 21:55:31 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, ooo
+04 Jan 2017 21:55:33 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, at my level xD
+04 Jan 2017 21:55:37 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, lol
+04 Jan 2017 21:55:40 : LimitlessMc, mainchat, DicloniusPony#6564, i have school soon, just too lazy to get ready
+04 Jan 2017 21:55:41 : LimitlessMc, mainchat, Adam#7575, you know its serious when your uncomfertable and slightyl nervous doggos get immediately removed
+04 Jan 2017 21:55:41 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, ;pokebattle
+04 Jan 2017 21:55:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please use a Combination of **8** Types to Fight the Boss: (**N**)ormal, (**F**)ire, (**W**)ater, (**G**)rass, (**P**)oison, (**D**)ragon, (**S**)teel, (**E**)lectric, (**B**)ug, or (**I**)ce.
+ Ex 'GSEBI' or 'DPGDB'
+04 Jan 2017 21:55:45 : Pokemon Mystery Dungeon, general, xPalkia(lugia)#8149, Okay. Do i make an account or wait
+04 Jan 2017 21:55:46 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, types lol
+04 Jan 2017 21:55:49 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, You'll get XP if you do 5% of its max HP
+04 Jan 2017 21:55:52 : LimitlessMc, mainchat, DicloniusPony#6564, ^
+04 Jan 2017 21:55:52 : LimitlessMc, mainchat, Botfuzzy77#2209, ^
+04 Jan 2017 21:55:59 : LimitlessMc, botchat, MoonWolf#8885, ;cd
+04 Jan 2017 21:55:59 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+04 Jan 2017 21:55:59 : LimitlessMc, botchat, Botfuzzy77#2209, You need to wait 25 seconds
+04 Jan 2017 21:55:59 : LimitlessMc, botchat, Botfuzzy77#2209, **Train**
+04 Jan 2017 21:55:59 : LimitlessMc, botchat, Botfuzzy77#2209, You need to wait 1143 seconds
+04 Jan 2017 21:56:01 : LimitlessMc, mainchat, DicloniusPony#6564, dangit bot, stop copying me XD
+04 Jan 2017 21:56:06 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cd
+04 Jan 2017 21:56:06 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+04 Jan 2017 21:56:06 : LimitlessMc, botchat, Botfuzzy77#2209, You can battle right now!
+04 Jan 2017 21:56:06 : LimitlessMc, botchat, Botfuzzy77#2209, **Train**
+04 Jan 2017 21:56:06 : LimitlessMc, botchat, Botfuzzy77#2209, You can Train right now!
+04 Jan 2017 21:56:07 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, ;pokebattle BBBBFWBB
+04 Jan 2017 21:56:07 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 11 Boss **Hypno** has 7339 health left.
+04 Jan 2017 21:56:07 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 21:56:07 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_f: :regional_indicator_w: :regional_indicator_b: :regional_indicator_b:
+:x: :x: :x: :x: :x: :x: :x: :x:
+04 Jan 2017 21:56:07 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 8 damage
+04 Jan 2017 21:56:07 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 11 Boss **Hypno** has 7331 health left.
+04 Jan 2017 21:56:08 : LimitlessMc, mainchat, Lightning#6734, it wont
+04 Jan 2017 21:56:08 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+04 Jan 2017 21:56:08 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 242 XP!
+04 Jan 2017 21:56:17 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, *8*
+04 Jan 2017 21:56:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle NFFFFFFF\
+04 Jan 2017 21:56:19 : LimitlessMc, botchat, Botfuzzy77#2209, Level 11 Boss **Hypno** has 7331 health left.
+04 Jan 2017 21:56:19 : LimitlessMc, botchat, Botfuzzy77#2209, 
+04 Jan 2017 21:56:19 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f:
+:white_check_mark: :x: :x: :white_check_mark: :x: :white_check_mark: :x: :x:
+04 Jan 2017 21:56:19 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did 38 damage
+04 Jan 2017 21:56:19 : LimitlessMc, botchat, Botfuzzy77#2209, Level 11 Boss **Hypno** has 7293 health left.
+04 Jan 2017 21:56:23 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, long day indeed
+04 Jan 2017 21:56:35 : LimitlessMc, botchat, MoonWolf#8885, ;pokebattle NIIFIFII
+04 Jan 2017 21:56:37 : LimitlessMc, botchat, Botfuzzy77#2209, Level 11 Boss **Hypno** has 7293 health left.
+04 Jan 2017 21:56:37 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, xD
+04 Jan 2017 21:56:39 : LimitlessMc, botchat, Botfuzzy77#2209, 
+04 Jan 2017 21:56:41 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_i: :regional_indicator_i: :regional_indicator_f: :regional_indicator_i: :regional_indicator_f: :regional_indicator_i: :regional_indicator_i:
+:white_check_mark: :x: :x: :white_check_mark: :x: :white_check_mark: :x: :x:
+04 Jan 2017 21:56:43 : LimitlessMc, mainchat, Botfuzzy77#2209, Unmuted MoonWolf
+04 Jan 2017 21:56:45 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did 40 damage
+04 Jan 2017 21:56:48 : LimitlessMc, botchat, Botfuzzy77#2209, Level 11 Boss **Hypno** has 7253 health left.
+04 Jan 2017 21:56:51 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, ;pokebattle BBBBBBBB
+04 Jan 2017 21:56:56 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, check Limitless Botchat, we have some right already
+04 Jan 2017 21:56:59 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 46 seconds before you can fight the boss again.
+04 Jan 2017 21:57:01 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, also ;train
+04 Jan 2017 21:57:04 : LimitlessMc, mainchat, xPalkia(lugia)#8149, Shhhhh fornor shh
+04 Jan 2017 21:57:07 : LimitlessMc, mainchat, xPalkia(lugia)#8149, Dont tqlk
+04 Jan 2017 21:57:16 : LimitlessMc, mainchat, MoonWolf#8885, Dont sh me.
+04 Jan 2017 21:57:24 : LimitlessMc, mainchat, MoonWolf#8885, You're just triggering me more.
+04 Jan 2017 21:57:25 : LimitlessMc, mainchat, xPalkia(lugia)#8149, But i did
+04 Jan 2017 21:57:27 : Pokemon Mystery Dungeon, general, Third_Worm#4804, my entire team made seprete builds lol, but ruler can do that
+04 Jan 2017 21:57:30 : LimitlessMc, mainchat, xPalkia(lugia)#8149, Ok sorry
+04 Jan 2017 21:57:37 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, oh okei
+04 Jan 2017 21:57:50 : LimitlessMc, botchat, Third_Worm#4804, ;train
+04 Jan 2017 21:57:50 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 1 XP!
+04 Jan 2017 21:57:52 : LimitlessMc, mainchat, Jay113355#4999, chat offinces are not something we perma ban for
+04 Jan 2017 21:57:53 : LimitlessMc, botchat, MoonWolf#8885, ;pokebattle NEEFEFEE
+04 Jan 2017 21:57:53 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 25 seconds before you can fight the boss again.
+04 Jan 2017 21:57:54 : LimitlessMc, botchat, Wertfuzzy77#0274, gj
+04 Jan 2017 21:58:00 : LimitlessMc, botchat, Wertfuzzy77#0274, ;whoamI
+04 Jan 2017 21:58:01 : LimitlessMc, botchat, Botfuzzy77#2209, Name: Wertfuzzy77
+Level: 11
+XP: 344/1728
+04 Jan 2017 21:58:01 : LimitlessMc, botchat, Third_Worm#4804, wooooooo 1
+04 Jan 2017 21:58:05 : LimitlessMc, botchat, Third_Worm#4804, lol
+04 Jan 2017 21:58:05 : LimitlessMc, mainchat, Botfuzzy77#2209, Welcome @queen828 to LimitlessMc!
+04 Jan 2017 21:58:06 : LimitlessMc, mainchat, Gerald#7099, ​A meowth welcome to @queen828
+04 Jan 2017 21:58:06 : LimitlessMc, botchat, Wertfuzzy77#0274, prob cause you level 0
+04 Jan 2017 21:58:14 : LimitlessMc, mainchat, Third_Worm#4804, welcome
+04 Jan 2017 21:58:16 : LimitlessMc, botchat, Wertfuzzy77#0274, so it brought you to level 1 with 1 XP lol
+04 Jan 2017 21:58:27 : LimitlessMc, botchat, Third_Worm#4804, ;whoamI
+04 Jan 2017 21:58:27 : LimitlessMc, botchat, Botfuzzy77#2209, Name: Third_Worm
+Level: 0
+XP: 1/1
+04 Jan 2017 21:58:31 : LimitlessMc, botchat, Third_Worm#4804, and no
+04 Jan 2017 21:58:33 : LimitlessMc, mainchat, Lightning#6734, lightbots welcome is so broke lol
+04 Jan 2017 21:58:38 : LimitlessMc, botchat, Wertfuzzy77#0274, oh, it didnt level you
+04 Jan 2017 21:58:39 : LimitlessMc, botchat, Wertfuzzy77#0274, weird
+04 Jan 2017 21:58:41 : LimitlessMc, mainchat, MoonWolf#8885, Im not expecting a perma, not even a baan
+04 Jan 2017 21:58:43 : LimitlessMc, mainchat, MoonWolf#8885, just a warning
+04 Jan 2017 21:58:43 : LimitlessMc, botchat, Wertfuzzy77#0274, let me fix that 😛
+04 Jan 2017 21:58:48 : LimitlessMc, mainchat, MoonWolf#8885, or a "hey, dont be rude"
+04 Jan 2017 21:58:55 : LimitlessMc, botchat, Third_Worm#4804, okei
+04 Jan 2017 21:58:56 : LimitlessMc, mainchat, Lightning#6734, which is what you got
+04 Jan 2017 21:59:02 : LimitlessMc, mainchat, Lightning#6734, baka told you to cut it out
+04 Jan 2017 21:59:08 : LimitlessMc, mainchat, MoonWolf#8885, I dont meant about me.
+04 Jan 2017 21:59:17 : LimitlessMc, mainchat, MoonWolf#8885, I meant about the other person.
+04 Jan 2017 21:59:21 : LimitlessMc, botchat, MoonWolf#8885, ;pokebattle NEEFEFEE
+04 Jan 2017 21:59:21 : LimitlessMc, botchat, Botfuzzy77#2209, Level 11 Boss **Hypno** has 7253 health left.
+04 Jan 2017 21:59:22 : LimitlessMc, botchat, Botfuzzy77#2209, 
+04 Jan 2017 21:59:22 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_e: :regional_indicator_e: :regional_indicator_f: :regional_indicator_e: :regional_indicator_f: :regional_indicator_e: :regional_indicator_e:
+:white_check_mark: :white_check_mark: :x: :white_check_mark: :x: :white_check_mark: :x: :x:
+04 Jan 2017 21:59:22 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did 33 damage
+04 Jan 2017 21:59:22 : LimitlessMc, botchat, Botfuzzy77#2209, Level 11 Boss **Hypno** has 7220 health left.
+04 Jan 2017 21:59:55 : LimitlessMc, mainchat, Lightning#6734, exactly what did he/she say that was rude
+04 Jan 2017 22:00:16 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle NESFSFSS
+04 Jan 2017 22:00:16 : LimitlessMc, botchat, Botfuzzy77#2209, Level 11 Boss **Hypno** has 7220 health left.
+04 Jan 2017 22:00:17 : LimitlessMc, botchat, Botfuzzy77#2209, 
+04 Jan 2017 22:00:17 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_e: :regional_indicator_s: :regional_indicator_f: :regional_indicator_s: :regional_indicator_f: :regional_indicator_s: :regional_indicator_s:
+:white_check_mark: :white_check_mark: :x: :white_check_mark: :x: :white_check_mark: :x: :x:
+04 Jan 2017 22:00:17 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did 48 damage
+04 Jan 2017 22:00:17 : LimitlessMc, botchat, Botfuzzy77#2209, Level 11 Boss **Hypno** has 7172 health left.
+04 Jan 2017 22:00:38 : LimitlessMc, mainchat, MoonWolf#8885, "@Fornor youre garbage"
+04 Jan 2017 22:00:43 : LimitlessMc, mainchat, DicloniusPony#6564, he said that being rude was a compliment, so i said "you must live in a trashy neighborhood than if a insult = a compliment"
+04 Jan 2017 22:00:47 : LimitlessMc, mainchat, MoonWolf#8885, "you live in a trash neightborhood"
+04 Jan 2017 22:00:52 : LimitlessMc, mainchat, DicloniusPony#6564, i didnt say your garbage
+04 Jan 2017 22:01:02 : LimitlessMc, mainchat, MoonWolf#8885, yes you did
+04 Jan 2017 22:01:09 : LimitlessMc, mainchat, MoonWolf#8885, when i said scythers were garbage.
+04 Jan 2017 22:01:15 : LimitlessMc, mainchat, Lightning#6734, i mean i can look at the logs for todays chat
+04 Jan 2017 22:01:19 : LimitlessMc, mainchat, DicloniusPony#6564, ^
+04 Jan 2017 22:01:19 : LimitlessMc, mainchat, Botfuzzy77#2209, ^
+04 Jan 2017 22:01:22 : LimitlessMc, mainchat, Third_Worm#4804, mhm^
+04 Jan 2017 22:01:22 : LimitlessMc, mainchat, MoonWolf#8885, It was weeks ago.
+04 Jan 2017 22:01:26 : LimitlessMc, mainchat, MoonWolf#8885, maybe1/2
+04 Jan 2017 22:01:29 : LimitlessMc, mainchat, queen828#9029, oi.. is everyone 12
+04 Jan 2017 22:01:33 : LimitlessMc, mainchat, Third_Worm#4804, nah
+04 Jan 2017 22:01:37 : LimitlessMc, mainchat, Bakafish#8693, in our hearts maybe
+04 Jan 2017 22:01:41 : LimitlessMc, mainchat, DicloniusPony#6564, XD
+04 Jan 2017 22:01:43 : LimitlessMc, mainchat, queen828#9029, just say sorry to each other and drop it. nothing is getting solved arguing
+04 Jan 2017 22:01:44 : LimitlessMc, mainchat, Third_Worm#4804, ^le
+04 Jan 2017 22:01:45 : LimitlessMc, mainchat, Lightning#6734, i wish i was that young again
+04 Jan 2017 22:01:48 : LimitlessMc, mainchat, Third_Worm#4804, le
+04 Jan 2017 22:02:05 : LimitlessMc, mainchat, Lightning#6734, i'd actually get presents on my birthday XD
+04 Jan 2017 22:02:10 : LimitlessMc, mainchat, DicloniusPony#6564, ^
+04 Jan 2017 22:02:10 : LimitlessMc, mainchat, Botfuzzy77#2209, ^
+04 Jan 2017 22:02:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cd
+04 Jan 2017 22:02:11 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+04 Jan 2017 22:02:11 : LimitlessMc, botchat, Botfuzzy77#2209, You can battle right now!
+04 Jan 2017 22:02:11 : LimitlessMc, botchat, Botfuzzy77#2209, **Train**
+04 Jan 2017 22:02:12 : LimitlessMc, botchat, Botfuzzy77#2209, You need to wait 836 seconds
+04 Jan 2017 22:02:18 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle NEDFDFDD
+04 Jan 2017 22:02:18 : LimitlessMc, botchat, Botfuzzy77#2209, Level 11 Boss **Hypno** has 7172 health left.
+04 Jan 2017 22:02:18 : LimitlessMc, botchat, Botfuzzy77#2209, 
+04 Jan 2017 22:02:18 : LimitlessMc, botchat, MoonWolf#8885, ;pokebattle NEGFGFGG
+04 Jan 2017 22:02:18 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_e: :regional_indicator_d: :regional_indicator_f: :regional_indicator_d: :regional_indicator_f: :regional_indicator_d: :regional_indicator_d:
+:white_check_mark: :white_check_mark: :x: :white_check_mark: :x: :white_check_mark: :x: :white_check_mark:
+04 Jan 2017 22:02:18 : LimitlessMc, botchat, Botfuzzy77#2209, Level 11 Boss **Hypno** has 7172 health left.
+04 Jan 2017 22:02:18 : LimitlessMc, botchat, Botfuzzy77#2209, Its a Critical Strike
+04 Jan 2017 22:02:20 : LimitlessMc, botchat, Wertfuzzy77#0274, 😄
+04 Jan 2017 22:02:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+04 Jan 2017 22:02:23 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+04 Jan 2017 22:02:23 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_e: :regional_indicator_g: :regional_indicator_f: :regional_indicator_g: :regional_indicator_f: :regional_indicator_g: :regional_indicator_g:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :x:
+04 Jan 2017 22:02:24 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did 607 damage
+04 Jan 2017 22:02:24 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+04 Jan 2017 22:02:25 : LimitlessMc, mainchat, Jay113355#4999, Lol
+04 Jan 2017 22:02:28 : LimitlessMc, botchat, Botfuzzy77#2209, Level 11 Boss **Hypno** has 6565 health left.
+04 Jan 2017 22:02:28 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did 147 damage
+04 Jan 2017 22:02:28 : LimitlessMc, botchat, Botfuzzy77#2209, Level 11 Boss **Hypno** has 6418 health left.
+04 Jan 2017 22:02:34 : LimitlessMc, botchat, Wertfuzzy77#0274, oo, we can get a 7/8
+04 Jan 2017 22:02:39 : LimitlessMc, mainchat, DicloniusPony#6564, honestly, i'd give my children presents when they are 50 XD
+04 Jan 2017 22:02:40 : LimitlessMc, botchat, MoonWolf#8885, why?
+04 Jan 2017 22:02:50 : LimitlessMc, mainchat, Lightning#6734, pls..
+04 Jan 2017 22:02:51 : LimitlessMc, mainchat, queen828#9029, who doesnt like presents
+04 Jan 2017 22:02:53 : LimitlessMc, botchat, Wertfuzzy77#0274, NEGF_FGD
+04 Jan 2017 22:02:57 : LimitlessMc, botchat, Wertfuzzy77#0274, is 7 right
+04 Jan 2017 22:03:02 : LimitlessMc, mainchat, DicloniusPony#6564, ikr
+04 Jan 2017 22:03:03 : LimitlessMc, mainchat, Lightning#6734, mine better not live with me still when they're 50
+04 Jan 2017 22:03:09 : Pokemon Mystery Dungeon, general, Bakafish#8693, hope goes on to be "well-made OU team"
+04 Jan 2017 22:03:11 : LimitlessMc, botchat, MoonWolf#8885, Oh
+04 Jan 2017 22:03:13 : LimitlessMc, botchat, MoonWolf#8885, yah
+04 Jan 2017 22:03:14 : Pokemon Mystery Dungeon, general, Bakafish#8693, while everyone else is not
+04 Jan 2017 22:03:15 : LimitlessMc, mainchat, DicloniusPony#6564, no i meant, send it to them whever they live
+04 Jan 2017 22:03:15 : LimitlessMc, botchat, Wertfuzzy77#0274, Also, is 8 good, or should it be like 10?
+04 Jan 2017 22:03:20 : Pokemon Mystery Dungeon, general, Bakafish#8693, le
+04 Jan 2017 22:03:25 : LimitlessMc, mainchat, Lightning#6734, send em a giftcard to starbucks
+04 Jan 2017 22:03:26 : LimitlessMc, mainchat, Lightning#6734, lmao
+04 Jan 2017 22:03:31 : LimitlessMc, botchat, MoonWolf#8885, uhm
+04 Jan 2017 22:03:32 : LimitlessMc, mainchat, DicloniusPony#6564, XD
+04 Jan 2017 22:03:42 : LimitlessMc, botchat, MoonWolf#8885, I feel like its too many letters already.
+04 Jan 2017 22:03:44 : LimitlessMc, mainchat, DicloniusPony#6564, "back in my day, starbucks was every white girls dream"
+04 Jan 2017 22:03:48 : LimitlessMc, botchat, Wertfuzzy77#0274, Or should I scale it? So like Level 1-10 is 5, 10-25 is 8,  25+ is 10
+04 Jan 2017 22:03:50 : LimitlessMc, botchat, Third_Worm#4804, ;pokebattle NEGFNFGN
+04 Jan 2017 22:03:50 : LimitlessMc, botchat, Botfuzzy77#2209, Level 11 Boss **Hypno** has 6418 health left.
+04 Jan 2017 22:03:51 : LimitlessMc, botchat, Botfuzzy77#2209, 
+04 Jan 2017 22:03:51 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_e: :regional_indicator_g: :regional_indicator_f: :regional_indicator_n: :regional_indicator_f: :regional_indicator_g: :regional_indicator_n:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :x:
+04 Jan 2017 22:03:51 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+04 Jan 2017 22:03:51 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did 197 damage
+04 Jan 2017 22:03:52 : LimitlessMc, mainchat, Lightning#6734, haha....
+04 Jan 2017 22:03:55 : LimitlessMc, botchat, MoonWolf#8885, Scale it.
+04 Jan 2017 22:03:56 : LimitlessMc, botchat, Botfuzzy77#2209, Level 11 Boss **Hypno** has 6221 health left.
+04 Jan 2017 22:04:00 : LimitlessMc, botchat, Third_Worm#4804, woo
+04 Jan 2017 22:04:04 : LimitlessMc, botchat, Third_Worm#4804, ;whoamI
+04 Jan 2017 22:04:04 : LimitlessMc, botchat, Botfuzzy77#2209, Name: Third_Worm
+Level: 0
+XP: 1/1
+04 Jan 2017 22:04:10 : LimitlessMc, botchat, MoonWolf#8885, ;pokebattle NEGFWFGD
+04 Jan 2017 22:04:10 : LimitlessMc, botchat, Botfuzzy77#2209, Level 11 Boss **Hypno** has 6221 health left.
+04 Jan 2017 22:04:10 : LimitlessMc, botchat, Third_Worm#4804, *flipstable*
+04 Jan 2017 22:04:10 : LimitlessMc, botchat, Botfuzzy77#2209, 
+04 Jan 2017 22:04:11 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_e: :regional_indicator_g: :regional_indicator_f: :regional_indicator_w: :regional_indicator_f: :regional_indicator_g: :regional_indicator_d:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+04 Jan 2017 22:04:11 : LimitlessMc, botchat, Botfuzzy77#2209, Its a Perfect Combo. The Boss has switched half of the Super Effective Moves!
+04 Jan 2017 22:04:11 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did 2596 damage
+04 Jan 2017 22:04:14 : LimitlessMc, botchat, Wertfuzzy77#0274, gg
+04 Jan 2017 22:04:14 : LimitlessMc, mainchat, Lightning#6734, i've heard that exact line somewhere
+04 Jan 2017 22:04:15 : LimitlessMc, botchat, MoonWolf#8885, BOOOM
+04 Jan 2017 22:04:15 : LimitlessMc, botchat, Botfuzzy77#2209, Level 11 Boss **Hypno** has 3625 health left.
+04 Jan 2017 22:04:23 : LimitlessMc, botchat, Third_Worm#4804, ;train
+04 Jan 2017 22:04:23 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 808 seconds before you can train again.
+04 Jan 2017 22:04:26 : LimitlessMc, botchat, Third_Worm#4804, ;-;
+04 Jan 2017 22:04:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cd
+04 Jan 2017 22:04:28 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+04 Jan 2017 22:04:28 : LimitlessMc, botchat, Botfuzzy77#2209, You can battle right now!
+04 Jan 2017 22:04:28 : LimitlessMc, botchat, Botfuzzy77#2209, **Train**
+04 Jan 2017 22:04:28 : LimitlessMc, botchat, MoonWolf#8885, Wish i could do those 2596 to pony tho
+04 Jan 2017 22:04:28 : LimitlessMc, botchat, Botfuzzy77#2209, You need to wait 700 seconds
+04 Jan 2017 22:04:33 : LimitlessMc, mainchat, DicloniusPony#6564, i dont know, i rarely look on the internet for things like that
+04 Jan 2017 22:04:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle NEGFWFGD
+04 Jan 2017 22:04:42 : LimitlessMc, botchat, Botfuzzy77#2209, Level 11 Boss **Hypno** has 3625 health left.
+04 Jan 2017 22:04:42 : LimitlessMc, botchat, Botfuzzy77#2209, 
+04 Jan 2017 22:04:42 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_e: :regional_indicator_g: :regional_indicator_f: :regional_indicator_w: :regional_indicator_f: :regional_indicator_g: :regional_indicator_d:
+:white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark:
+04 Jan 2017 22:04:42 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+04 Jan 2017 22:04:43 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did 187 damage
+04 Jan 2017 22:04:47 : LimitlessMc, mainchat, Lightning#6734, the internet is a spoopy place
+04 Jan 2017 22:04:47 : LimitlessMc, botchat, Botfuzzy77#2209, Level 11 Boss **Hypno** has 3438 health left.
+04 Jan 2017 22:04:53 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokeboss
+04 Jan 2017 22:04:53 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Boss Pokemon** =-
+*Name*: Hypno
+*Health*: 3438/7370 (46.65%)
+*Level*: 11
+04 Jan 2017 22:04:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+04 Jan 2017 22:04:53 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **MoonWolf** with **2833** damage
+04 Jan 2017 22:04:53 : LimitlessMc, botchat, Botfuzzy77#2209, 2nd most Damage by *Wertfuzzy77* with *894* damage
+04 Jan 2017 22:04:53 : LimitlessMc, botchat, Botfuzzy77#2209, 3nd most Damage by *Third_Worm* with *205* damage
+04 Jan 2017 22:04:55 : LimitlessMc, mainchat, Lightning#6734, dangerous to search alone
+04 Jan 2017 22:04:57 : LimitlessMc, botchat, Wertfuzzy77#0274, 2nd place 😄
+04 Jan 2017 22:04:57 : LimitlessMc, mainchat, DicloniusPony#6564, true
+04 Jan 2017 22:05:05 : LimitlessMc, botchat, Wertfuzzy77#0274, that full combo OP
+04 Jan 2017 22:05:05 : LimitlessMc, mainchat, Bakafish#8693, "Wish i could do those 2596 to pony tho" -MoonWolf in bot chat
+04 Jan 2017 22:05:07 : LimitlessMc, botchat, MoonWolf#8885, ;pokebattle NBGFWBGD
+04 Jan 2017 22:05:07 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 38 seconds before you can fight the boss again.
+04 Jan 2017 22:05:08 : LimitlessMc, botchat, Wertfuzzy77#0274, ;whoamI
+04 Jan 2017 22:05:08 : LimitlessMc, botchat, Botfuzzy77#2209, Name: Wertfuzzy77
+Level: 11
+XP: 344/1728
+04 Jan 2017 22:05:26 : LimitlessMc, mainchat, DicloniusPony#6564, can we just, not have him around ;/ is this like harassment or something? XD
+04 Jan 2017 22:05:42 : The Wild Weebs, general, Tally#2764, @凛 mike is on his way
+04 Jan 2017 22:05:45 : LimitlessMc, botchat, MoonWolf#8885, ;pokebattle NBGFWBGD
+04 Jan 2017 22:05:45 : LimitlessMc, botchat, Botfuzzy77#2209, Level 11 Boss **Hypno** has 3438 health left.
+04 Jan 2017 22:05:45 : LimitlessMc, botchat, Botfuzzy77#2209, 
+04 Jan 2017 22:05:46 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_b: :regional_indicator_g: :regional_indicator_f: :regional_indicator_w: :regional_indicator_b: :regional_indicator_g: :regional_indicator_d:
+:white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark:
+04 Jan 2017 22:05:46 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+04 Jan 2017 22:05:46 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did 206 damage
+04 Jan 2017 22:05:50 : LimitlessMc, botchat, Botfuzzy77#2209, Level 11 Boss **Hypno** has 3232 health left.
+04 Jan 2017 22:06:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cd
+04 Jan 2017 22:06:11 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+04 Jan 2017 22:06:11 : LimitlessMc, botchat, Botfuzzy77#2209, You need to wait 6 seconds
+04 Jan 2017 22:06:11 : LimitlessMc, botchat, Botfuzzy77#2209, **Train**
+04 Jan 2017 22:06:11 : LimitlessMc, botchat, Botfuzzy77#2209, You need to wait 597 seconds
+04 Jan 2017 22:06:13 : LimitlessMc, mainchat, Lightning#6734, my brain...
+04 Jan 2017 22:06:14 : LimitlessMc, botchat, MoonWolf#8885, Wert
+04 Jan 2017 22:06:16 : LimitlessMc, botchat, Wertfuzzy77#0274, ?
+04 Jan 2017 22:06:18 : LimitlessMc, botchat, MoonWolf#8885, how do i check my chat logs?
+04 Jan 2017 22:06:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle NWGFWWGD
+04 Jan 2017 22:06:29 : LimitlessMc, botchat, Botfuzzy77#2209, Level 11 Boss **Hypno** has 3232 health left.
+04 Jan 2017 22:06:30 : LimitlessMc, botchat, Botfuzzy77#2209, 
+04 Jan 2017 22:06:30 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_w: :regional_indicator_g: :regional_indicator_f: :regional_indicator_w: :regional_indicator_w: :regional_indicator_g: :regional_indicator_d:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark:
+04 Jan 2017 22:06:30 : LimitlessMc, botchat, Botfuzzy77#2209, Its Super Effective! The Boss has switched 1 of the Super Effective Moves!
+04 Jan 2017 22:06:30 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did 1123 damage
+04 Jan 2017 22:06:33 : LimitlessMc, botchat, Wertfuzzy77#0274, What you mean?
+04 Jan 2017 22:06:34 : LimitlessMc, botchat, Botfuzzy77#2209, Level 11 Boss **Hypno** has 2109 health left.
+04 Jan 2017 22:06:35 : LimitlessMc, mainchat, DicloniusPony#6564, @Lightning can you get the chat logs from earlier?
+04 Jan 2017 22:06:36 : LimitlessMc, botchat, Wertfuzzy77#0274, ayy, got 7
+04 Jan 2017 22:06:43 : LimitlessMc, mainchat, Lightning#6734, ehm
+04 Jan 2017 22:06:49 : LimitlessMc, mainchat, DicloniusPony#6564, since he keeps persisting on the matter ;/
+04 Jan 2017 22:06:51 : LimitlessMc, botchat, MoonWolf#8885, Wanna count how mnay times she insulted me
+04 Jan 2017 22:06:51 : LimitlessMc, mainchat, Lightning#6734, from when i was on today
+04 Jan 2017 22:06:54 : LimitlessMc, mainchat, Lightning#6734, ye
+04 Jan 2017 22:06:57 : LimitlessMc, botchat, MoonWolf#8885, ;pokebattle NWGFWSGD
+04 Jan 2017 22:06:57 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 23 seconds before you can fight the boss again.
+04 Jan 2017 22:07:06 : LimitlessMc, mainchat, Lightning#6734, anything from when i was off i can't do
+04 Jan 2017 22:07:13 : LimitlessMc, botchat, DicloniusPony#6564, i never said anything to you, so stop blaming me for your own problems ;/ this is like harassment
+04 Jan 2017 22:07:15 : LimitlessMc, mainchat, Third_Worm#4804, i see
+04 Jan 2017 22:07:25 : LimitlessMc, mainchat, DicloniusPony#6564, @Bakafish was on
+04 Jan 2017 22:07:33 : LimitlessMc, botchat, MoonWolf#8885, You we're the one harrassing me tho.
+04 Jan 2017 22:07:35 : LimitlessMc, botchat, Wertfuzzy77#0274, oi, stop fighting, both of you, or ill mute ya both
+04 Jan 2017 22:07:41 : LimitlessMc, botchat, Third_Worm#4804, ...didn't we stop talking about thi-oh wert
+04 Jan 2017 22:07:44 : LimitlessMc, botchat, MoonWolf#8885, You told me to get out of "Your" land
+04 Jan 2017 22:07:47 : LimitlessMc, botchat, MoonWolf#8885, ;pokebattle NWGFWSGD
+04 Jan 2017 22:07:47 : LimitlessMc, botchat, Botfuzzy77#2209, Level 11 Boss **Hypno** has 2109 health left.
+04 Jan 2017 22:07:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+04 Jan 2017 22:07:48 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_w: :regional_indicator_g: :regional_indicator_f: :regional_indicator_w: :regional_indicator_s: :regional_indicator_g: :regional_indicator_d:
+:white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+04 Jan 2017 22:07:48 : LimitlessMc, botchat, Botfuzzy77#2209, Its Super Effective! The Boss has switched 1 of the Super Effective Moves!
+04 Jan 2017 22:07:48 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did 795 damage
+04 Jan 2017 22:07:53 : LimitlessMc, botchat, Botfuzzy77#2209, Level 11 Boss **Hypno** has 1314 health left.
+04 Jan 2017 22:08:01 : LimitlessMc, botchat, Third_Worm#4804, >_> tell me your ways
+04 Jan 2017 22:08:05 : LimitlessMc, botchat, DicloniusPony#6564, >.>
+04 Jan 2017 22:08:09 : LimitlessMc, botchat, MoonWolf#8885, Once a new boss spawns
+04 Jan 2017 22:08:17 : Pokemon Mystery Dungeon, general, Third_Worm#4804, le
+04 Jan 2017 22:08:18 : LimitlessMc, botchat, MoonWolf#8885, i'll show you young padawan.
+04 Jan 2017 22:08:36 : LimitlessMc, botchat, Third_Worm#4804, what is
+04 Jan 2017 22:08:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokeboss
+04 Jan 2017 22:08:38 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Boss Pokemon** =-
+*Name*: Hypno
+*Health*: 1314/7370 (17.83%)
+*Level*: 11
+04 Jan 2017 22:08:38 : LimitlessMc, botchat, Botfuzzy77#2209, 
+04 Jan 2017 22:08:38 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **MoonWolf** with **3834** damage
+04 Jan 2017 22:08:38 : LimitlessMc, botchat, Botfuzzy77#2209, 2nd most Damage by *Wertfuzzy77* with *2017* damage
+04 Jan 2017 22:08:38 : LimitlessMc, botchat, Botfuzzy77#2209, 3nd most Damage by *Third_Worm* with *205* damage
+04 Jan 2017 22:08:43 : LimitlessMc, botchat, Wertfuzzy77#0274, still 2nd ;-;
+04 Jan 2017 22:08:44 : LimitlessMc, mainchat, Lightning#6734, seems i only have what was said when i was on earlier o.O
+04 Jan 2017 22:08:49 : LimitlessMc, botchat, Third_Worm#4804, ...;-;
+04 Jan 2017 22:08:51 : LimitlessMc, mainchat, Lightning#6734, not recent logs
+04 Jan 2017 22:08:51 : LimitlessMc, botchat, MoonWolf#8885, ;pokebattle NEGFWSGD
+04 Jan 2017 22:08:52 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 31 seconds before you can fight the boss again.
+04 Jan 2017 22:08:58 : LimitlessMc, botchat, MoonWolf#8885, Do that one werm
+04 Jan 2017 22:08:58 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle NSGFWSGD
+04 Jan 2017 22:08:59 : LimitlessMc, botchat, Botfuzzy77#2209, Level 11 Boss **Hypno** has 1314 health left.
+04 Jan 2017 22:08:59 : LimitlessMc, botchat, Botfuzzy77#2209, 
+04 Jan 2017 22:08:59 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_s: :regional_indicator_g: :regional_indicator_f: :regional_indicator_w: :regional_indicator_s: :regional_indicator_g: :regional_indicator_d:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+04 Jan 2017 22:08:59 : LimitlessMc, botchat, Botfuzzy77#2209, Its a Critical Strike
+04 Jan 2017 22:08:59 : LimitlessMc, botchat, Botfuzzy77#2209, Its a Perfect Combo. The Boss has switched half of the Super Effective Moves!
+04 Jan 2017 22:09:01 : LimitlessMc, botchat, MoonWolf#8885, Kek
+04 Jan 2017 22:09:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ooooooooooooo
+04 Jan 2017 22:09:02 : LimitlessMc, botchat, MoonWolf#8885, fuck me
+04 Jan 2017 22:09:04 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did 4636 damage
+04 Jan 2017 22:09:04 : LimitlessMc, botchat, Botfuzzy77#2209, Level 11 Boss **Hypno** has been defeated!
+04 Jan 2017 22:09:04 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **Wertfuzzy77** with **6653** damage
+04 Jan 2017 22:09:04 : LimitlessMc, botchat, Botfuzzy77#2209, 2nd most Damage by *MoonWolf* with *3834* damage
+04 Jan 2017 22:09:04 : LimitlessMc, botchat, Botfuzzy77#2209, 3nd most Damage by *Third_Worm* with *205* damage
+04 Jan 2017 22:09:07 : LimitlessMc, botchat, Wertfuzzy77#0274, and a crit
+04 Jan 2017 22:09:07 : LimitlessMc, botchat, Wertfuzzy77#0274, gg
+04 Jan 2017 22:09:21 : LimitlessMc, botchat, Wertfuzzy77#0274, ;whoamI
+04 Jan 2017 22:09:21 : LimitlessMc, botchat, Botfuzzy77#2209, Name: Wertfuzzy77
+Level: 13
+XP: 483/2744
+04 Jan 2017 22:09:22 : LimitlessMc, botchat, MoonWolf#8885, ;pokebattle NNNNNNNN
+04 Jan 2017 22:09:22 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 1 seconds before you can fight the boss again.
+04 Jan 2017 22:09:25 : LimitlessMc, botchat, MoonWolf#8885, ;whoamI
+04 Jan 2017 22:09:25 : LimitlessMc, botchat, Botfuzzy77#2209, Name: Wolferino
+Level: 12
+XP: 1800/2197
+04 Jan 2017 22:09:26 : LimitlessMc, botchat, Wertfuzzy77#0274, level 13 HA
+04 Jan 2017 22:09:29 : LimitlessMc, botchat, MoonWolf#8885, fuck
+04 Jan 2017 22:09:43 : LimitlessMc, botchat, MoonWolf#8885, also wert u bish
+04 Jan 2017 22:09:49 : LimitlessMc, botchat, MoonWolf#8885, i didn't get a single special item on the event
+04 Jan 2017 22:09:57 : LimitlessMc, botchat, MoonWolf#8885, lol
+04 Jan 2017 22:10:00 : LimitlessMc, botchat, Third_Worm#4804, ;pokebattle NFSWGSSS
+04 Jan 2017 22:10:04 : LimitlessMc, mainchat, DicloniusPony#6564, rip
+04 Jan 2017 22:10:05 : LimitlessMc, botchat, Botfuzzy77#2209, The Boss has been Defeated! Please check ;pokeboss for stats.
+04 Jan 2017 22:10:06 : LimitlessMc, botchat, MoonWolf#8885, ;pokebattle nnnnnnnn
+04 Jan 2017 22:10:11 : LimitlessMc, botchat, Botfuzzy77#2209, The Boss has been Defeated! Please check ;pokeboss for stats.
+04 Jan 2017 22:10:15 : LimitlessMc, botchat, Third_Worm#4804, ;summon
+04 Jan 2017 22:10:29 : LimitlessMc, botchat, MoonWolf#8885, ;summon 4
+04 Jan 2017 22:10:29 : LimitlessMc, botchat, Third_Worm#4804, wha
+04 Jan 2017 22:10:29 : LimitlessMc, botchat, Third_Worm#4804, huh
+04 Jan 2017 22:10:29 : LimitlessMc, botchat, MoonWolf#8885, im lagging hard lmao
+04 Jan 2017 22:10:32 : LimitlessMc, botchat, Third_Worm#4804, same
+04 Jan 2017 22:10:35 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 0 boss has been summoned
+04 Jan 2017 22:10:38 : LimitlessMc, mainchat, Lightning#6734, w8
+04 Jan 2017 22:10:39 : LimitlessMc, botchat, Wertfuzzy77#0274, just ;summon
+04 Jan 2017 22:10:45 : LimitlessMc, botchat, MoonWolf#8885, Its discord then.
+04 Jan 2017 22:10:47 : LimitlessMc, mainchat, Bakafish#8693, http://pastebin.com/fF2cyypZ
+04 Jan 2017 22:10:48 : Pokemon Mystery Dungeon, general, DicloniusPony#6564, @Heracross mega can happen anytime
+04 Jan 2017 22:10:50 : LimitlessMc, botchat, MoonWolf#8885, ;summon 4
+04 Jan 2017 22:10:51 : LimitlessMc, botchat, Wertfuzzy77#0274, let @Third_Worm kill it
+04 Jan 2017 22:10:51 : LimitlessMc, mainchat, Bakafish#8693, only recent logs tho
+04 Jan 2017 22:10:52 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait for the current boss to be defeated before you summon a new one!
+04 Jan 2017 22:10:52 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait for the current boss to be defeated before you summon a new one!
+04 Jan 2017 22:11:05 : LimitlessMc, botchat, Wertfuzzy77#0274, they need the XP lol
+04 Jan 2017 22:11:15 : Pokemon Mystery Dungeon, general, DicloniusPony#6564, @Heracross also, fornor is bringing up SnowBell again even though i warned him many times ;/
+04 Jan 2017 22:12:07 : LimitlessMc, mainchat, Lightning#6734, [13:43:22] [Client thread/INFO]: [CHAT] [Donator] Yuri_Ponyta: @fornor you must live in a trash neighborhood than ;/
+[13:43:25] [Client thread/INFO]: [CHAT] t0mm1x was shot by Skeleton
+[13:43:26] [Client thread/INFO]: [CHAT] [Moderator] Acacia: you sorta were
+[13:43:30] [Client thread/INFO]: [CHAT] [Moderator] Acacia: in genera
+[13:43:31] [Client thread/INFO]: [CHAT] [Trainer] fornor: See?
+[13:43:31] [Client thread/INFO]: [CHAT] [Moderator] Acacia: l
+[13:43:34] [Client thread/INFO]: [CHAT] [Trainer] fornor: Why dont you kick her?
+[13:43:35] [Client thread/INFO]: [CHAT] Tristan was shot by Skeleton
+[13:43:45] [Client thread/INFO]: [CHAT] [Trainer] fornor: cuz she's your friend?
+[13:43:46] [Client thread/INFO]: [CHAT] [Donator] Yuri_Ponyta: i havent seen a single place where being rude is a compliment
+[13:43:46] [Client thread/INFO]: [CHAT] [Trainer] fornor: gj.
+[13:43:55] [Client thread/INFO]: [CHAT] [Event] HE HAS RISEN!
+[13:43:56] [Client thread/INFO]: [CHAT] [Donator] Yuri_Ponyta: she kicks me time from time
+[13:43:57] [Client thread/INFO]: [CHAT] [Admin] Lightning: i've heard enough.
+[13:43:58] [Client thread/INFO]: [CHAT] Patatasaurio99 left the game
+[13:44:04] [Client thread/INFO]: [CHAT] Patatasaurio99 joined the game
+[13:44:07] [Client thread/INFO]: [CHAT] [Trainer] fornor: in venezuela the slang its to say what ups fgt when we greet eachouther.
+[13:44:08] [Client thread/INFO]: [CHAT] [Donator] Yuri_Ponyta: rip level 61 braviary
+[13:44:11] [Client thread/INFO]: [CHAT] [VIP] StarwinnerCraft: crud
+[13:44:22] [Client thread/INFO]: [CHAT] [Moderator] AussieAge: lol
+[13:44:25] [Client thread/INFO]: [CHAT] [Helper] Bork: #rektastic
+[13:44:28] [Client thread/INFO]: [CHAT] [Donator] Yuri_Ponyta: rekt
+[13:44:28] [Client thread/INFO]: [CHAT] [Moderator] Bakafish has temporarily banned fornor for §dBeing rude. Enjoy getting no prize. Wait 2 hours. :P
+[13:44:28] [Client thread/INFO]: [CHAT] fornor left the game
+04 Jan 2017 22:12:17 : LimitlessMc, mainchat, Lightning#6734, ^ that's what i got
+04 Jan 2017 22:12:23 : LimitlessMc, mainchat, DicloniusPony#6564, yeah i didnt insult him ;/
+04 Jan 2017 22:12:30 : LimitlessMc, mainchat, DicloniusPony#6564, i insulted the neightborhoob XD
+04 Jan 2017 22:13:04 : LimitlessMc, botchat, Wertfuzzy77#0274, ;relog
+04 Jan 2017 22:13:04 : LimitlessMc, botchat, Botfuzzy77#2209, Relogging...

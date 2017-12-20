@@ -1,0 +1,247 @@
+22 Apr 2017 19:08:56 : OblivionEvolved, bots, Wertfuzzy77#0274, ;join
+22 Apr 2017 19:08:57 : OblivionEvolved, bots, Botfuzzy77#2209, Connected channel!
+22 Apr 2017 19:09:01 : OblivionEvolved, bots, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=HQnC1UHBvWA
+22 Apr 2017 19:09:02 : OblivionEvolved, bots, Botfuzzy77#2209, Added Porter Robinson & Madeon - Shelter (Official Audio) to the queue
+22 Apr 2017 19:09:08 : OblivionEvolved, bots, Wertfuzzy77#0274, oooooooooo
+22 Apr 2017 19:09:10 : OblivionEvolved, bots, Wertfuzzy77#0274, maybe fix
+22 Apr 2017 19:09:11 : OblivionEvolved, bots, Wertfuzzy77#0274, ;leave
+22 Apr 2017 19:09:29 : OblivionEvolved, bots, Wertfuzzy77#0274, ;join
+22 Apr 2017 19:09:29 : OblivionEvolved, bots, Botfuzzy77#2209, Connected channel!
+22 Apr 2017 19:09:35 : OblivionEvolved, bots, Wertfuzzy77#0274, ;yplaylist https://www.youtube.com/playlist?list=PLS4oROwDZmpP2w8wcad2q01VvcKX3dahv
+22 Apr 2017 19:09:43 : OblivionEvolved, bots, Wertfuzzy77#0274, fixed 😄
+22 Apr 2017 19:09:54 : OblivionEvolved, bots, StubbyMuffins#1053, @Oblivion Bot GG
+22 Apr 2017 19:09:56 : OblivionEvolved, bots, Botfuzzy77#2209, Good game.
+22 Apr 2017 19:10:18 : OblivionEvolved, bots, Wertfuzzy77#0274, ;songs
+22 Apr 2017 19:10:19 : OblivionEvolved, bots, Botfuzzy77#2209, **The Following songs are in the Queue, plus [11] more**
+22 Apr 2017 19:10:19 : OblivionEvolved, bots, Botfuzzy77#2209, 
+22 Apr 2017 19:12:27 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;join
+22 Apr 2017 19:12:41 : OblivionEvolved, bots, StubbyMuffins#1053, @Wertfuzzy77 ty for the help man ❤
+22 Apr 2017 19:12:51 : OblivionEvolved, bots, Wertfuzzy77#0274, np 😛
+22 Apr 2017 19:13:16 : LimitlessMc, botchat, Wertfuzzy77#0274, ;leave
+22 Apr 2017 19:13:27 : Pulse, game-chat, StubbyMuffins#1053, bot was being worked on
+22 Apr 2017 19:13:41 : OblivionEvolved, bots, Wertfuzzy77#0274, just making sure I didnt break it xD I just changed something
+22 Apr 2017 19:15:18 : OblivionEvolved, bots, StubbyMuffins#1053, kk lel
+22 Apr 2017 19:16:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;leave
+22 Apr 2017 19:17:02 : Cipher, general, Wertfuzzy77#0274, ;join
+22 Apr 2017 19:17:03 : Cipher, general, Botfuzzy77#2209, Connected channel!
+22 Apr 2017 19:17:09 : Cipher, general, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].player.yt
+22 Apr 2017 19:17:09 : Cipher, general, Botfuzzy77#2209, ```py
+AttributeError: 'NoneType' object has no attribute 'yt'
+```
+22 Apr 2017 19:17:19 : Cipher, general, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=s6yOFbMFyoM
+22 Apr 2017 19:17:20 : Cipher, general, Botfuzzy77#2209, Added Porter Robinson & Madeon - Shelter (Pure 100% Remix) to the queue
+22 Apr 2017 19:17:23 : Cipher, general, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].player.yt
+22 Apr 2017 19:17:23 : Cipher, general, Botfuzzy77#2209, ```py
+<youtube_dl.YoutubeDL.YoutubeDL object at 0x7f58dd362dd8>
+```
+22 Apr 2017 19:17:29 : Cipher, general, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].player.yt.thumbnail
+22 Apr 2017 19:17:29 : Cipher, general, Botfuzzy77#2209, ```py
+AttributeError: 'YoutubeDL' object has no attribute 'thumbnail'
+```
+22 Apr 2017 19:18:10 : Cipher, general, Wertfuzzy77#0274, ;musicdebug getattr(self.serverPlayers[ctx.message.server.id].player.yt)
+22 Apr 2017 19:18:10 : Cipher, general, Botfuzzy77#2209, ```py
+TypeError: getattr expected at least 2 arguments, got 1
+```
+22 Apr 2017 19:19:08 : Cipher, general, Wertfuzzy77#0274, ;musicdebug dir(self.serverPlayers[ctx.message.server.id].player.yt)
+22 Apr 2017 19:19:09 : Cipher, general, Botfuzzy77#2209, ```py
+['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__enter__', '__eq__', '__exit__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', '_bidi_workaround', '_build_format_filter', '_calc_cookies', '_calc_headers', '_download_retcode', '_err_file', '_format_note', '_ies', '_ies_instances', '_make_archive_id', '_match_entry', '_num_downloads', '_opener', '_pps', '_progress_hooks', '_screen_file', '_setup_opener', '_socket_timeout', '_write_string', '_write_thumbnails', 'add_default_extra_info', 'add_default_info_extractors', 'add_extra_info', 'add_info_extractor', 'add_post_processor', 'add_progress_hook', 'build_format_selector', 'cache', 'cookiejar', 'download', 'download_with_info_file', 'encode', 'extract_info', 'filter_requested_info', 'format_resolution', 'get_encoding', 'get_info_extractor', 'in_download_archive', 'list_formats', 'list_subtitles', 'list_thumbnails', 'params', 'post_process', 'prepare_filename', 'print_debug_header', 'process_ie_result', 'process_info', 'process_subtitles', 'process_video_result', 'record_download_archive', 'report_error', 'report_file_already_downloaded', 'report_warning', 'restore_console_title', 'save_console_title', 'to_console_title', 'to_screen', 'to_stderr', 'to_stdout', 'trouble', 'urlopen', 'warn_if_short_id']
+```
+22 Apr 2017 19:19:11 : Cipher, general, Wertfuzzy77#0274, ooooo
+22 Apr 2017 19:19:50 : Cipher, general, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].player.yt._write_thumbnails
+22 Apr 2017 19:19:50 : Cipher, general, Botfuzzy77#2209, ```py
+<bound method YoutubeDL._write_thumbnails of <youtube_dl.YoutubeDL.YoutubeDL object at 0x7f58dd362dd8>>
+```
+22 Apr 2017 19:20:38 : Cipher, general, Wertfuzzy77#0274, self.serverPlayers[ctx.message.server.id].player.yt.__dict__
+22 Apr 2017 19:20:49 : Cipher, general, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].player.yt.__dict__
+22 Apr 2017 19:21:22 : Cipher, general, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].player.yt.__dict__.items()[:5]
+22 Apr 2017 19:21:22 : Cipher, general, Botfuzzy77#2209, ```py
+TypeError: 'dict_items' object is not subscriptable
+```
+22 Apr 2017 19:21:29 : Cipher, general, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].player.yt.dict.items()
+22 Apr 2017 19:21:29 : Cipher, general, Botfuzzy77#2209, ```py
+AttributeError: 'YoutubeDL' object has no attribute 'dict'
+```
+22 Apr 2017 19:21:35 : Cipher, general, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].player.yt.__dict__.items()
+22 Apr 2017 19:21:52 : LimitlessMc, mainchat, Lightning#6734, ^
+22 Apr 2017 19:22:02 : Cipher, general, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].player.yt.extract_info
+22 Apr 2017 19:22:02 : Cipher, general, Botfuzzy77#2209, ```py
+<bound method YoutubeDL.extract_info of <youtube_dl.YoutubeDL.YoutubeDL object at 0x7f58dd362dd8>>
+```
+22 Apr 2017 19:22:08 : Cipher, general, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].player.yt.extract_info()
+22 Apr 2017 19:22:08 : Cipher, general, Botfuzzy77#2209, ```py
+TypeError: extract_info() missing 1 required positional argument: 'url'
+```
+22 Apr 2017 19:22:29 : Cipher, general, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].player.yt.__getattribute__
+22 Apr 2017 19:22:29 : Cipher, general, Botfuzzy77#2209, ```py
+<method-wrapper '__getattribute__' of YoutubeDL object at 0x7f58dd362dd8>
+```
+22 Apr 2017 19:22:39 : Cipher, general, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].player.yt.__getattribute__()
+22 Apr 2017 19:22:39 : Cipher, general, Botfuzzy77#2209, ```py
+TypeError: expected 1 arguments, got 0
+```
+22 Apr 2017 19:22:47 : Cipher, general, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].player.yt.__getattribute__(self)
+22 Apr 2017 19:22:47 : Cipher, general, Botfuzzy77#2209, ```py
+TypeError: attribute name must be string, not 'MusicPlayer'
+```
+22 Apr 2017 19:28:17 : Cipher, general, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].player.yt._ies
+22 Apr 2017 19:28:25 : Cipher, general, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].player.yt._ies[0]
+22 Apr 2017 19:28:25 : Cipher, general, Botfuzzy77#2209, ```py
+<class 'youtube_dl.extractor.afreecatv.AfreecaTVIE'>
+```
+22 Apr 2017 19:28:49 : Cipher, general, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].player.yt._ies_instances
+22 Apr 2017 19:28:49 : Cipher, general, Botfuzzy77#2209, ```py
+{'Youtube': <youtube_dl.extractor.youtube.YoutubeIE object at 0x7f58dd362d30>}
+```
+22 Apr 2017 19:29:01 : Cipher, general, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].player.yt._ies_instances['Youtube']
+22 Apr 2017 19:29:01 : Cipher, general, Botfuzzy77#2209, ```py
+<youtube_dl.extractor.youtube.YoutubeIE object at 0x7f58dd362d30>
+```
+22 Apr 2017 19:30:42 : Cipher, general, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].player.yt.extract_info
+22 Apr 2017 19:30:42 : Cipher, general, Botfuzzy77#2209, ```py
+<bound method YoutubeDL.extract_info of <youtube_dl.YoutubeDL.YoutubeDL object at 0x7f58dd362dd8>>
+```
+22 Apr 2017 19:30:46 : Cipher, general, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].player.yt.extract_info()
+22 Apr 2017 19:30:46 : Cipher, general, Botfuzzy77#2209, ```py
+TypeError: extract_info() missing 1 required positional argument: 'url'
+```
+22 Apr 2017 19:31:01 : Cipher, general, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].player.yt.url
+22 Apr 2017 19:31:01 : Cipher, general, Botfuzzy77#2209, ```py
+AttributeError: 'YoutubeDL' object has no attribute 'url'
+```
+22 Apr 2017 19:31:11 : Cipher, general, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].player.yt.extract_info(self.serverPlayers[ctx.message.server.id].player.url)
+22 Apr 2017 19:31:47 : Shadow's Subnautica, general, Botfuzzy77#2209, Welcome @tigertiger02 to Shadow's Subnautica!
+22 Apr 2017 19:31:49 : Cipher, general, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].player.yt.extract_info(self.serverPlayers[ctx.message.server.id].player.url)['entries'][0]
+22 Apr 2017 19:31:50 : Cipher, general, Botfuzzy77#2209, ```py
+KeyError: 'entries'
+```
+22 Apr 2017 19:32:01 : Shadow's Subnautica, general, tigertiger02#4338, can u send a link
+22 Apr 2017 19:32:09 : Shadow's Subnautica, general, Lastshadow#5809, http://www.blankmediagames.com/TownOfSalem/
+22 Apr 2017 19:32:12 : Shadow's Subnautica, general, tigertiger02#4338, it opens this weird page when i do
+22 Apr 2017 19:32:24 : Cipher, general, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].player.url
+22 Apr 2017 19:32:24 : Cipher, general, Botfuzzy77#2209, ```py
+https://www.youtube.com/watch?v=s6yOFbMFyoM
+```
+22 Apr 2017 19:32:36 : Shadow's Subnautica, general, tigertiger02#4338, brb
+22 Apr 2017 19:32:38 : Cipher, general, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].player.yt.extract_info("https://www.youtube.com/watch?v=s6yOFbMFyoM")['entries'][0]
+22 Apr 2017 19:32:39 : Cipher, general, Botfuzzy77#2209, ```py
+KeyError: 'entries'
+```
+22 Apr 2017 19:32:48 : Cipher, general, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].player.yt.extract_info("https://www.youtube.com/watch?v=s6yOFbMFyoM").keys()
+22 Apr 2017 19:32:49 : Cipher, general, Botfuzzy77#2209, ```py
+dict_keys(['playlist', 'webpage_url_basename', 'player_url', 'protocol', 'start_time', 'http_headers', 'webpage_url', 'duration', 'extractor', 'dislike_count', 'extractor_key', 'average_rating', 'acodec', 'format', 'view_count', 'subtitles', 'uploader_url', 'license', 'age_limit', 'resolution', 'creator', 'is_live', 'uploader_id', 'annotations', 'display_id', 'end_time', 'id', 'format_note', 'abr', 'thumbnails', 'automatic_captions', 'description', 'url', 'vcodec', 'format_id', 'tags', 'upload_date', 'thumbnail', 'series', 'title', 'playlist_index', 'width', 'alt_title', 'height', 'uploader', 'like_count', 'episode_number', 'categories', 'requested_subtitles', 'formats', 'ext', 'season_number'])
+```
+22 Apr 2017 19:33:11 : Cipher, general, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].player.yt.extract_info("https://www.youtube.com/watch?v=s6yOFbMFyoM")['thumbnails']
+22 Apr 2017 19:33:12 : Cipher, general, Botfuzzy77#2209, ```py
+[{'url': 'https://i.ytimg.com/vi/s6yOFbMFyoM/maxresdefault.jpg', 'id': '0'}]
+```
+22 Apr 2017 19:33:14 : Cipher, general, Wertfuzzy77#0274, 😄
+22 Apr 2017 19:33:17 : Cipher, general, Wertfuzzy77#0274, https://i.ytimg.com/vi/s6yOFbMFyoM/maxresdefault.jpg
+22 Apr 2017 19:33:22 : Cipher, general, Wertfuzzy77#0274, !!!!!!!!!!!!!!
+22 Apr 2017 19:33:23 : Cipher, general, Wertfuzzy77#0274, we did it
+22 Apr 2017 19:33:35 : Cipher, general, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].player.yt.extract_info("https://www.youtube.com/watch?v=s6yOFbMFyoM")['thumbnails'][0]['url']
+22 Apr 2017 19:33:36 : Cipher, general, Botfuzzy77#2209, ```py
+https://i.ytimg.com/vi/s6yOFbMFyoM/maxresdefault.jpg
+```
+22 Apr 2017 19:33:58 : OblivionEvolved, bots, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].player.yt.extract_info("https://www.youtube.com/watch?v=s6yOFbMFyoM")['thumbnails'][0]['url']
+22 Apr 2017 19:33:59 : OblivionEvolved, bots, Botfuzzy77#2209, ```py
+https://i.ytimg.com/vi/s6yOFbMFyoM/maxresdefault.jpg
+```
+22 Apr 2017 19:34:02 : OblivionEvolved, bots, Wertfuzzy77#0274, woops
+22 Apr 2017 19:34:14 : OblivionEvolved, bots, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].player.yt.extract_info(self.serverPlayers[ctx.message.server.id].player.url)['thumbnails'][0]['url']
+22 Apr 2017 19:34:20 : Shadow's Subnautica, general, tigertiger02#4338, back
+22 Apr 2017 19:34:20 : OblivionEvolved, bots, Botfuzzy77#2209, ```py
+https://i.ytimg.com/vi/6YcAYJF1YUo/maxresdefault.jpg
+```
+22 Apr 2017 19:34:21 : LimitlessMc, mainchat, Lastshadow#5809, Shaders hates me
+22 Apr 2017 19:34:24 : OblivionEvolved, bots, Wertfuzzy77#0274, https://i.ytimg.com/vi/6YcAYJF1YUo/maxresdefault.jpg
+22 Apr 2017 19:34:24 : LimitlessMc, mainchat, Lastshadow#5809, ;-;
+22 Apr 2017 19:34:44 : Shadow's Subnautica, general, Lastshadow#5809, join voice
+22 Apr 2017 19:35:23 : RooberBoobers, kinkyrubiestalk, TheCactusPlant#9272, HhhhGHHHHH whereisit
+22 Apr 2017 19:35:35 : LimitlessMc, botchat, TherminatorX#6644, ;train
+22 Apr 2017 19:35:46 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 19:35:54 : RooberBoobers, kinkyrubiestalk, TheCactusPlant#9272, Baka
+22 Apr 2017 19:35:56 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 19:35:57 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, ?
+22 Apr 2017 19:36:06 : RooberBoobers, kinkyrubiestalk, FrozenTanuki#8873, what's wrong?
+22 Apr 2017 19:36:12 : RooberBoobers, kinkyrubiestalk, TheCactusPlant#9272, HhhhhHHHH
+22 Apr 2017 19:36:21 : RooberBoobers, kinkyrubiestalk, TheCactusPlant#9272, Looking for sum art
+22 Apr 2017 19:36:29 : RooberBoobers, kinkyrubiestalk, TheCactusPlant#9272, Shhhhhhh
+22 Apr 2017 19:36:31 : LimitlessMc, botchat, TherminatorX#6644, @Wertfuzzy77  is the bot slow because of the new security you put on it?
+22 Apr 2017 19:36:38 : RooberBoobers, kinkyrubiestalk, TheCactusPlant#9272, Anabea shhh
+22 Apr 2017 19:36:41 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, smh, i wish CN wouldn't throw out spoilers
+22 Apr 2017 19:36:42 : LimitlessMc, botchat, Wertfuzzy77#0274, no, I just changed the token
+22 Apr 2017 19:36:47 : RooberBoobers, kinkyrubiestalk, FrozenTanuki#8873, same
+22 Apr 2017 19:36:48 : LimitlessMc, botchat, Wertfuzzy77#0274, didnt change anything with networking
+22 Apr 2017 19:36:49 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, fooking CN, ruining shit
+22 Apr 2017 19:36:52 : LimitlessMc, botchat, Wertfuzzy77#0274, ;leave
+22 Apr 2017 19:36:57 : RooberBoobers, kinkyrubiestalk, FrozenTanuki#8873, I'm avoiding it. xD
+22 Apr 2017 19:37:00 : RooberBoobers, kinkyrubiestalk, TheCactusPlant#9272, Like always
+22 Apr 2017 19:37:04 : LimitlessMc, botchat, Wertfuzzy77#0274, but its also not repsonding in the music channel rn xD
+22 Apr 2017 19:37:08 : RooberBoobers, kinkyrubiestalk, TheCactusPlant#9272, They kill off good shows
+22 Apr 2017 19:37:10 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, i can bet new gems are a topaz and aquamarine
+22 Apr 2017 19:37:12 : LimitlessMc, botchat, Wertfuzzy77#0274, and I can't connect to voice 😛
+22 Apr 2017 19:37:13 : LimitlessMc, botchat, Wertfuzzy77#0274, so idk
+22 Apr 2017 19:37:14 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, SOMEONE BET ME
+22 Apr 2017 19:37:16 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, i need money
+22 Apr 2017 19:37:17 : Cipher, music, Wertfuzzy77#0274, ;train
+22 Apr 2017 19:37:18 : Cipher, music, Botfuzzy77#2209, 
+22 Apr 2017 19:37:18 : Cipher, music, Botfuzzy77#2209, 
+22 Apr 2017 19:37:23 : RooberBoobers, kinkyrubiestalk, TheCactusPlant#9272, XD
+22 Apr 2017 19:37:24 : LimitlessMc, botchat, Wertfuzzy77#0274, its only slow in this server
+22 Apr 2017 19:37:29 : LimitlessMc, botchat, Wertfuzzy77#0274, every other server is fast
+22 Apr 2017 19:37:40 : RooberBoobers, kinkyrubiestalk, FrozenTanuki#8873, It's what they say
+I'm sure deviantard is already invaded in fan degign if these two
+22 Apr 2017 19:37:42 : RooberBoobers, kinkyrubiestalk, TheCactusPlant#9272, Baka
+22 Apr 2017 19:37:52 : RooberBoobers, kinkyrubiestalk, FrozenTanuki#8873, I've not tried to go and see yet. xD
+22 Apr 2017 19:37:55 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, @Pussy Doge i have fanart of someone who drew it XD
+22 Apr 2017 19:37:58 : LimitlessMc, botchat, TherminatorX#6644, Um, it wasn't fast in the Mystery Dungeon server
+22 Apr 2017 19:38:03 : RooberBoobers, kinkyrubiestalk, FrozenTanuki#8873, omg
+Already
+22 Apr 2017 19:38:03 : RooberBoobers, kinkyrubiestalk, TheCactusPlant#9272, I don't bet I know xD
+22 Apr 2017 19:38:05 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, already, the smol aquamarine
+22 Apr 2017 19:38:08 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, lemme show you?
+22 Apr 2017 19:38:11 : RooberBoobers, kinkyrubiestalk, FrozenTanuki#8873, nah
+22 Apr 2017 19:38:15 : RooberBoobers, kinkyrubiestalk, FrozenTanuki#8873, I wanna wait
+22 Apr 2017 19:38:16 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, rip
+22 Apr 2017 19:38:26 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, you're going to wait a entire month and 22 days XD
+22 Apr 2017 19:38:33 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, it'll come up eventually
+22 Apr 2017 19:38:34 : RooberBoobers, kinkyrubiestalk, FrozenTanuki#8873, the bomb will be during my birthday period xD
+I'm OK with that
+22 Apr 2017 19:38:44 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, okeiii XD
+22 Apr 2017 19:38:49 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, what time is it for you frien
+22 Apr 2017 19:38:57 : RooberBoobers, kinkyrubiestalk, FrozenTanuki#8873, I dun wanna say
+22 Apr 2017 19:39:05 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, gO TO BED
+22 Apr 2017 19:39:10 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;pbs
+22 Apr 2017 19:39:10 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> medium to fight and reveal the boss.
+22 Apr 2017 19:39:14 : RooberBoobers, kinkyrubiestalk, FrozenTanuki#8873, I don't like when it's my birthday
+22 Apr 2017 19:39:15 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;pb SSSSSSSS
+22 Apr 2017 19:39:15 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, 
+22 Apr 2017 19:39:15 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, 
+22 Apr 2017 19:39:17 : RooberBoobers, kinkyrubiestalk, FrozenTanuki#8873, wha-?
+22 Apr 2017 19:39:21 : LimitlessMc, botchat, Wertfuzzy77#0274, looks prettys fast to me
+22 Apr 2017 19:39:32 : RooberBoobers, kinkyrubiestalk, FrozenTanuki#8873, oh, sorry
+It's just 9 PM
+22 Apr 2017 19:39:34 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, (well, it was yesterday)
+22 Apr 2017 19:39:35 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, o i thought you meant you dont wanna say for what time it is XD
+22 Apr 2017 19:39:44 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ya, maybe something is just up with teh discord servers
+22 Apr 2017 19:40:07 : RooberBoobers, kinkyrubiestalk, FrozenTanuki#8873, I meant for my birthday
+It's not late. xDD and I just slept from 4 PM to 7PM
+I'm not tired already. xD
+22 Apr 2017 19:40:10 : RooberBoobers, kinkyrubiestalk, FrozenTanuki#8873, Just a lil sick
+22 Apr 2017 19:40:11 : RooberBoobers, kinkyrubiestalk, FrozenTanuki#8873, anyway
+22 Apr 2017 19:40:23 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, awww smol bab is sick ;A;
+22 Apr 2017 19:40:26 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, @Batman (Lunala) (didn't do anything here)
+22 Apr 2017 19:40:36 : RooberBoobers, kinkyrubiestalk, FrozenTanuki#8873, I'm okkkkkk ! ;v;
+22 Apr 2017 19:40:39 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, he might have been down xD
+22 Apr 2017 19:41:12 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, (he was online, at least)
+22 Apr 2017 19:41:17 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, 
+22 Apr 2017 19:41:27 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, smh
+22 Apr 2017 19:41:45 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, maybe I was working on the games module, so that part wasnt loaded
+22 Apr 2017 19:42:23 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, 🤔
+22 Apr 2017 19:43:17 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, im bored af
+22 Apr 2017 19:43:31 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, i might draw sapphy's oc Yume and my smol catgirl Nekozumi
+22 Apr 2017 19:43:58 : OblivionEvolved, general, ℋ𝒆𝓬𝓣𝓲𝓲𝓬𝓟𝓪𝓷𝓭𝓪#3127, i keep getting raped by battle eye
+22 Apr 2017 19:44:26 : OblivionEvolved, general, StubbyMuffins#1053, im sorry bb
+22 Apr 2017 19:45:14 : OblivionEvolved, bots, Wertfuzzy77#0274, ;relog
+22 Apr 2017 19:45:14 : OblivionEvolved, bots, Botfuzzy77#2209, Relogging...

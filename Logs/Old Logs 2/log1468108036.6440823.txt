@@ -1,0 +1,15 @@
+09 Jul 2016 23:47:23 : Cipher , Wertfuzzy77#0274 , ;youtube https://www.youtube.com/watch?v=CfihYWRWRTQ&index=21&list=RDktvTqknDobU
+09 Jul 2016 23:47:41 : Cipher , Akinci#5072 , No response le
+09 Jul 2016 23:47:48 : Cipher , Wertfuzzy77#0274 , ;debug list(ctx.message.server.channels)[6]
+09 Jul 2016 23:47:48 : Cipher , Botfuzzy77#2209 , ```py
+tophwalt4life
+```
+09 Jul 2016 23:47:49 : Cipher , Wertfuzzy77#0274 , oh
+09 Jul 2016 23:47:52 : Cipher , Wertfuzzy77#0274 , it changed
+09 Jul 2016 23:47:54 : Cipher , Wertfuzzy77#0274 , :/
+09 Jul 2016 23:48:08 : Cipher , Akinci#5072 , Whst changed?
+09 Jul 2016 23:48:13 : Cipher , Akinci#5072 , What*
+09 Jul 2016 23:48:49 : Cipher , Wertfuzzy77#0274 , ;debug ctx.message.server.get_channel("174395437330071553")
+09 Jul 2016 23:48:52 : Cipher , Wertfuzzy77#0274 , alright
+09 Jul 2016 23:49:04 : Cipher , Wertfuzzy77#0274 , ;relog
+09 Jul 2016 23:49:04 : Cipher , Botfuzzy77#2209 , Relogging...

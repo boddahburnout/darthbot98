@@ -1,0 +1,40 @@
+24 Aug 2016 00:36:38 : PassionMC, botchat, Wertfuzzy77#0274, ;config All
+24 Aug 2016 00:36:39 : PassionMC, botchat, Botfuzzy77#2209, Server Settings are as Follows:
+Welcome New Members: **False**
+Send a Message when a player comes online: **True**
+24 Aug 2016 00:37:05 : PassionMC, botchat, Wertfuzzy77#0274, ;debug CONFIG.keys
+24 Aug 2016 00:37:05 : PassionMC, botchat, Botfuzzy77#2209, ```py
+<built-in method keys of dict object at 0x000001E561754D08>
+```
+24 Aug 2016 00:37:14 : PassionMC, botchat, Wertfuzzy77#0274, ;debug CONFIG.keys()
+24 Aug 2016 00:37:14 : PassionMC, botchat, Botfuzzy77#2209, ```py
+dict_keys(['PassionMC'])
+```
+24 Aug 2016 00:37:26 : PassionMC, botchat, Wertfuzzy77#0274, ;debug CONFIG[ctx.message.server.name].keys()
+24 Aug 2016 00:37:26 : PassionMC, botchat, Botfuzzy77#2209, ```py
+dict_keys(['Online', 'Welcome'])
+```
+24 Aug 2016 00:37:37 : PassionMC, botchat, Wertfuzzy77#0274, ;debug list(CONFIG[ctx.message.server.name].keys())
+24 Aug 2016 00:37:37 : PassionMC, botchat, Botfuzzy77#2209, ```py
+['Online', 'Welcome']
+```
+24 Aug 2016 00:37:44 : PassionMC, botchat, Wertfuzzy77#0274, ;debug str(list(CONFIG[ctx.message.server.name].keys()))
+24 Aug 2016 00:37:45 : PassionMC, botchat, Botfuzzy77#2209, ```py
+['Online', 'Welcome']
+```
+24 Aug 2016 00:37:47 : PassionMC, general, D3NSH1N#8702, oi
+24 Aug 2016 00:37:54 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Offline!
+24 Aug 2016 00:37:55 : PassionMC, botchat, Wertfuzzy77#0274, ;debug ", ".join(list(CONFIG[ctx.message.server.name].keys()))
+24 Aug 2016 00:37:55 : PassionMC, general, D3NSH1N#8702, The minecraft is coded in java, right?
+24 Aug 2016 00:37:55 : PassionMC, botchat, Botfuzzy77#2209, ```py
+Online, Welcome
+```
+24 Aug 2016 00:37:58 : PassionMC, botchat, Wertfuzzy77#0274, cool
+24 Aug 2016 00:38:27 : PassionMC, general, Botfuzzy77#2209, **TheLast1Alive**(No Role) is now Offline!
+24 Aug 2016 00:38:27 : League Of Legends, general, Botfuzzy77#2209, **TheLast1Alive**(Security) is now Offline!
+24 Aug 2016 00:38:35 : PassionMC, general, Botfuzzy77#2209, **Lucario**(Owners) is now Online!
+24 Aug 2016 00:38:52 : PassionMC, botchat, Wertfuzzy77#0274, ;config Get Chocolate
+24 Aug 2016 00:39:58 : PassionMC, general, Botfuzzy77#2209, **Mystz**(Owners) is now Online!
+24 Aug 2016 00:40:17 : PassionMC, general, Botfuzzy77#2209, **Mystz**(Owners) is now Online!
+24 Aug 2016 00:40:21 : PassionMC, botchat, Wertfuzzy77#0274, ;relog
+24 Aug 2016 00:40:21 : PassionMC, botchat, Botfuzzy77#2209, Relogging...

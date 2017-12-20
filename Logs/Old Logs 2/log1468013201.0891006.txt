@@ -1,0 +1,41 @@
+08 Jul 2016 21:26:47 : LimitlessMc , Wertfuzzy77#0274 , ;mute someone
+08 Jul 2016 21:26:48 : LimitlessMc , Botfuzzy77#2209 , Something went Wrong: InvalidArgument
+08 Jul 2016 21:26:54 : LimitlessMc , Wertfuzzy77#0274 , ;mute Gerald
+08 Jul 2016 21:26:54 : LimitlessMc , Botfuzzy77#2209 , Something went Wrong: Forbidden
+08 Jul 2016 22:06:25 : LimitlessMc , Mystz#8072 , kappa
+08 Jul 2016 22:08:01 : LimitlessMc , TheMajesticSeal#2289 , <@186857995802640384> how in gods name did you set a hairbrush on fire
+08 Jul 2016 22:08:19 : LimitlessMc , Wertfuzzy77#0274 , ;afk Coding
+08 Jul 2016 22:08:20 : LimitlessMc , Botfuzzy77#2209 , Wertfuzzy77 is now AFK for reason:
+**Coding**
+08 Jul 2016 22:09:29 : LimitlessMc , Mystz#8072 , shes not the brightest
+08 Jul 2016 22:09:32 : The Pleb Privateers , Ryan#3332 , ?hatch aw aws
+08 Jul 2016 22:09:35 : The Pleb Privateers , enragedrobo#6009 , Supported zones for **aw**: **arp** (Azarov's Resting Place), **bl** (Blood Lodge), **ws** (Wretched Shop), **wy** (Wreckers Yard)
+08 Jul 2016 22:09:39 : LimitlessMc , depthy#3405 , <@176394182083084289> I was playing with "burn" calligraphy and lit the thread
+08 Jul 2016 22:09:49 : The Pleb Privateers , Ryan#3332 , ?hatch aw ws
+08 Jul 2016 22:09:51 : The Pleb Privateers , enragedrobo#6009 , 
+08 Jul 2016 22:09:51 : The Pleb Privateers , enragedrobo#6009 , It's located on the back side of the wretched shop itself, inbetween some barrels and a tree. As you can see from the picture you can find it relatively easily by just circling the shop.
+08 Jul 2016 22:09:57 : LimitlessMc , depthy#3405 , But my sister swung the door open and there was a breeze
+08 Jul 2016 22:10:08 : The Pleb Privateers , Ayy lmao#4034 , https://www.youtube.com/watch?v=labOn_dPhyw <@132880569007734784>  <@!126123522497052672> <@!126122455248011265>
+08 Jul 2016 22:10:10 : The Pleb Privateers , Ayy lmao#4034 , memes
+08 Jul 2016 22:10:25 : LimitlessMc , depthy#3405 , Which blew the flame onto the nearest thing, a hairbrush that was on my desk
+08 Jul 2016 22:10:35 : LimitlessMc , depthy#3405 , And it had a wooden handle.
+08 Jul 2016 22:10:44 : LimitlessMc , TheMajesticSeal#2289 , 10/10
+08 Jul 2016 22:10:54 : LimitlessMc , depthy#3405 , Thankfully I put it out efficiently and didn't even get caught
+08 Jul 2016 22:11:07 : LimitlessMc , depthy#3405 , Bc I used to play with chemicals in the lab a lot and that was so much worse lmao
+08 Jul 2016 22:11:34 : LimitlessMc , Wertfuzzy77#0274 , ;debug ctx.message.author.permissions_in(ctx.message.channel)
+08 Jul 2016 22:11:35 : LimitlessMc , Botfuzzy77#2209 , ```py
+<discord.permissions.Permissions object at 0x000001B738E84CA8>
+```
+08 Jul 2016 22:12:08 : LimitlessMc , Wertfuzzy77#0274 , ;debug ctx.message.author.permissions_in(ctx.message.channel).manage_messages
+08 Jul 2016 22:12:08 : LimitlessMc , Botfuzzy77#2209 , ```py
+False
+```
+08 Jul 2016 22:12:11 : LimitlessMc , Wertfuzzy77#0274 , hep
+08 Jul 2016 22:12:39 : LimitlessMc , Wertfuzzy77#0274 , <@128244218761183232>  hep, bot needs perms
+08 Jul 2016 22:14:50 : LimitlessMc , xPalkia(lugia)#8149 , FINALLY AN EEVEE
+08 Jul 2016 22:15:02 : LimitlessMc , xPalkia(lugia)#8149 , got it!
+08 Jul 2016 22:16:43 : LimitlessMc , Genesect#6492 , Are you kidding me
+08 Jul 2016 22:16:53 : LimitlessMc , Genesect#6492 , Wild charmander
+08 Jul 2016 22:16:57 : LimitlessMc , Genesect#6492 , Ran away
+08 Jul 2016 22:17:02 : Cipher , Wertfuzzy77#0274 , ;relog
+08 Jul 2016 22:17:03 : Cipher , Botfuzzy77#2209 , Relogging...

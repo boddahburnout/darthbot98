@@ -1,0 +1,7 @@
+02 Jan 2017 22:29:12 : LimitlessMc, mainchat, Third_Worm#4804, woooo
+02 Jan 2017 22:29:15 : LimitlessMc, mainchat, Third_Worm#4804, this is fun!
+02 Jan 2017 22:29:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+02 Jan 2017 22:29:26 : LimitlessMc, botchat, Botfuzzy77#2209, Reloaded all Modules
+02 Jan 2017 22:29:26 : LimitlessMc, botchat, Botfuzzy77#2209, Something went wrong :(
+02 Jan 2017 22:29:26 : LimitlessMc, botchat, Botfuzzy77#2209, ModuleNotFoundError: No module named 'apiclient.discovery'
+02 Jan 2017 22:29:39 : LimitlessMc, mainchat, Adam#7575, you're fun

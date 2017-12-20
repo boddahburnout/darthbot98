@@ -1,0 +1,10 @@
+24 Aug 2016 00:40:51 : PassionMC, general, Wertfuzzy77#0274, si
+24 Aug 2016 00:41:01 : PassionMC, botchat, Wertfuzzy77#0274, ;config Get Chocolate
+24 Aug 2016 00:41:01 : PassionMC, botchat, Botfuzzy77#2209, Only available config settings are: Welcome, Online
+24 Aug 2016 00:41:05 : PassionMC, botchat, Wertfuzzy77#0274, gg
+24 Aug 2016 00:41:12 : PassionMC, botchat, Wertfuzzy77#0274, ;config get Welcome
+24 Aug 2016 00:41:12 : PassionMC, botchat, Botfuzzy77#2209, Invalid config command passed...
+24 Aug 2016 00:41:18 : PassionMC, botchat, Wertfuzzy77#0274, ;config Get Welcome
+24 Aug 2016 00:41:18 : PassionMC, botchat, Botfuzzy77#2209, Welcome is set to False
+24 Aug 2016 00:41:43 : PassionMC, botchat, Wertfuzzy77#0274, ;relog
+24 Aug 2016 00:41:43 : PassionMC, botchat, Botfuzzy77#2209, Relogging...

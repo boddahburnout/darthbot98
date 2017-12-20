@@ -1,0 +1,307 @@
+05 Jan 2017 18:04:39 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;join
+05 Jan 2017 18:04:43 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;playlist Eddie
+05 Jan 2017 18:04:57 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+05 Jan 2017 18:09:53 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle nnnnn
+05 Jan 2017 18:09:53 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, A Level 0 Boss **Jellicent** has appeared!
+It has 0 Health.
+05 Jan 2017 18:09:53 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 18:09:53 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:white_check_mark: :x: :white_check_mark: :x: :x:
+05 Jan 2017 18:09:53 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 28 damage
+05 Jan 2017 18:09:53 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 0 Boss **Jellicent** has been defeated!
+05 Jan 2017 18:09:57 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokeboss
+05 Jan 2017 18:09:58 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Most Damage by **Wertfuzzy77** with **28** damage
+05 Jan 2017 18:10:22 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokeboss
+05 Jan 2017 18:10:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 0 Boss **Jellicent** has been defeated!
+05 Jan 2017 18:10:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Use ;summon to fight a boss of your Level!
+05 Jan 2017 18:10:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Most Damage by **Wertfuzzy77** with **28** damage
+05 Jan 2017 18:10:38 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, oi
+05 Jan 2017 18:10:43 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, ;summon
+05 Jan 2017 18:10:45 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, A Level 1 boss has been summoned
+05 Jan 2017 18:10:47 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ayy
+05 Jan 2017 18:10:48 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Lmao
+05 Jan 2017 18:10:49 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, level 1
+05 Jan 2017 18:10:52 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, kill it
+05 Jan 2017 18:10:55 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle nnnnn
+05 Jan 2017 18:10:55 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, A Level 1 Boss **Mr-mime** has appeared!
+It has 209 Health.
+05 Jan 2017 18:10:56 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 18:10:56 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :x: :x:
+05 Jan 2017 18:10:56 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 0 damage
+05 Jan 2017 18:10:56 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 1 Boss **Mr-mime** has 209 health left.
+05 Jan 2017 18:11:05 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, ;pokebattle EEEEE
+05 Jan 2017 18:11:05 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 1 Boss **Mr-mime** has 209 health left.
+05 Jan 2017 18:11:05 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 18:11:05 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e:
+:x: :white_check_mark: :x: :x: :white_check_mark:
+05 Jan 2017 18:11:05 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 1 damage
+05 Jan 2017 18:11:05 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 1 Boss **Mr-mime** has 208 health left.
+05 Jan 2017 18:11:09 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;train
+05 Jan 2017 18:11:15 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, ;train
+05 Jan 2017 18:11:15 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You **Lost** to a Level 25 **Lumineon** (32% to beat)
+You **Lost** to a Level 31 **Seadra** (25% to beat)
+You **Beat** a Level 12 **Furret** for 266 XP (66% to beat)
+You **Lost** to a Level 25 **Lucario** (32% to beat)
+You **Lost** to a Level 20 **Electabuzz** (40% to beat)
+05 Jan 2017 18:11:15 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You must be Level 5 to use ;train
+05 Jan 2017 18:11:15 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You trained for 267 XP!
+05 Jan 2017 18:11:21 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, >_>
+05 Jan 2017 18:11:30 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, ;cd
+05 Jan 2017 18:11:30 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Battle**
+05 Jan 2017 18:11:30 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You need to wait 66 seconds
+05 Jan 2017 18:11:30 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Train**
+05 Jan 2017 18:11:30 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You can Train right now!
+05 Jan 2017 18:11:59 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, ;cd
+05 Jan 2017 18:11:59 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Battle**
+05 Jan 2017 18:11:59 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You need to wait 36 seconds
+05 Jan 2017 18:12:00 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Train**
+05 Jan 2017 18:12:00 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You can Train right now!
+05 Jan 2017 18:12:20 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, ;pokebattle SSESSE
+05 Jan 2017 18:12:20 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 15 seconds before you can fight the boss again.
+05 Jan 2017 18:12:58 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, ;pokebattle SSESSE
+05 Jan 2017 18:12:58 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please use a Combination of **5** Types to Fight the Boss: (**N**)ormal, (**F**)ire, (**W**)ater, (**G**)rass, (**P**)oison, (**D**)ragon, (**S**)teel, (**E**)lectric, (**B**)ug, or (**I**)ce.
+ Ex 'GSEBI' or 'DPGDB'
+05 Jan 2017 18:13:05 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, oh i did 6 lol
+05 Jan 2017 18:13:10 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, ;pokebattle SSESE
+05 Jan 2017 18:13:10 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 1 Boss **Mr-mime** has 208 health left.
+05 Jan 2017 18:13:12 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 18:13:12 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_s: :regional_indicator_s: :regional_indicator_e: :regional_indicator_s: :regional_indicator_e:
+:x: :x: :x: :x: :white_check_mark:
+05 Jan 2017 18:13:12 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 0 damage
+05 Jan 2017 18:13:12 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 1 Boss **Mr-mime** has 208 health left.
+05 Jan 2017 18:13:22 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, lol and i got the pattern wrong
+05 Jan 2017 18:13:42 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle GESGE
+05 Jan 2017 18:13:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 1 Boss **Mr-mime** has 208 health left.
+05 Jan 2017 18:13:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 18:13:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_g: :regional_indicator_e: :regional_indicator_s: :regional_indicator_g: :regional_indicator_e:
+:x: :white_check_mark: :x: :x: :white_check_mark:
+05 Jan 2017 18:13:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 24 damage
+05 Jan 2017 18:13:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 1 Boss **Mr-mime** has 184 health left.
+05 Jan 2017 18:14:12 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, ;cd
+05 Jan 2017 18:14:12 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Battle**
+05 Jan 2017 18:14:12 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You need to wait 31 seconds
+05 Jan 2017 18:14:12 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Train**
+05 Jan 2017 18:14:12 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You can Train right now!
+05 Jan 2017 18:14:15 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, ;train
+05 Jan 2017 18:14:15 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You must be Level 5 to use ;train
+05 Jan 2017 18:14:16 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, ;-;
+05 Jan 2017 18:14:19 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, ;whoamI
+05 Jan 2017 18:14:25 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, oh wrong one
+05 Jan 2017 18:14:27 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, ;level
+05 Jan 2017 18:14:28 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Name**: *Third_Worm*
+**Level**: 1
+**XP**: 6/8
+05 Jan 2017 18:14:32 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, so close
+05 Jan 2017 18:14:53 : LimitlessMc, mainchat, Adam#7575, ;-;
+05 Jan 2017 18:15:01 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, ;pokebattle BEBBE
+05 Jan 2017 18:15:01 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 1 Boss **Mr-mime** has 184 health left.
+05 Jan 2017 18:15:01 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 18:15:01 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_b: :regional_indicator_e: :regional_indicator_b: :regional_indicator_b: :regional_indicator_e:
+:x: :white_check_mark: :x: :x: :white_check_mark:
+05 Jan 2017 18:15:01 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 1 damage
+05 Jan 2017 18:15:01 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 1 Boss **Mr-mime** has 183 health left.
+05 Jan 2017 18:17:39 : LimitlessMc, mainchat, Adam#7575, why won't y'all let me be weird
+05 Jan 2017 18:18:20 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle FEGFE
+05 Jan 2017 18:18:20 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 1 Boss **Mr-mime** has 183 health left.
+05 Jan 2017 18:18:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 18:18:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_e: :regional_indicator_g: :regional_indicator_f: :regional_indicator_e:
+:x: :white_check_mark: :x: :white_check_mark: :white_check_mark:
+05 Jan 2017 18:18:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+05 Jan 2017 18:18:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 117 damage
+05 Jan 2017 18:18:25 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 1 Boss **Mr-mime** has 66 health left.
+05 Jan 2017 18:18:28 : LimitlessMc, mainchat, ChesireKat#7022, lel be as weird as you want 😛
+05 Jan 2017 18:18:35 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, You do more damage based off your level
+05 Jan 2017 18:18:53 : LimitlessMc, mainchat, ChesireKat#7022, but i am only sometimes  helpful like until you piss me off then im spookly
+05 Jan 2017 18:18:57 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, ;pokebattle WEWFE
+05 Jan 2017 18:18:57 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 1 Boss **Mr-mime** has 66 health left.
+05 Jan 2017 18:18:57 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 18:18:57 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_e: :regional_indicator_w: :regional_indicator_f: :regional_indicator_e:
+:x: :white_check_mark: :x: :white_check_mark: :white_check_mark:
+05 Jan 2017 18:18:57 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+05 Jan 2017 18:18:57 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 9 damage
+05 Jan 2017 18:18:58 : LimitlessMc, mainchat, Wertfuzzy77#0274, wait, 3x person ship?
+05 Jan 2017 18:19:01 : LimitlessMc, mainchat, Wertfuzzy77#0274, wut
+05 Jan 2017 18:19:02 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 1 Boss **Mr-mime** has 57 health left.
+05 Jan 2017 18:19:04 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, impressive
+05 Jan 2017 18:19:11 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokeboss
+05 Jan 2017 18:19:11 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, -= **Boss Pokemon** =-
+*Name*: Mr-mime
+*Health*: 57/209 (27.27%)
+*Level*: 1
+Last Combo: :regional_indicator_w: :regional_indicator_e: :regional_indicator_w: :regional_indicator_f: :regional_indicator_e:
+:x: :white_check_mark: :x: :white_check_mark: :white_check_mark:
+05 Jan 2017 18:19:11 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 18:19:11 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Most Damage by **Wertfuzzy77** with **141** damage
+05 Jan 2017 18:19:11 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 2nd most Damage by *Third_Worm* with *11* damage
+05 Jan 2017 18:19:21 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, also, it says the last combo now 😛 to be nice
+05 Jan 2017 18:19:59 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, o nice
+05 Jan 2017 18:20:02 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;cd
+05 Jan 2017 18:20:02 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Battle**
+05 Jan 2017 18:20:02 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You can battle right now!
+05 Jan 2017 18:20:02 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Train**
+05 Jan 2017 18:20:02 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You need to wait 672 seconds
+05 Jan 2017 18:20:16 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle DEDFE
+05 Jan 2017 18:20:16 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 1 Boss **Mr-mime** has 57 health left.
+05 Jan 2017 18:20:17 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 18:20:17 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_d: :regional_indicator_e: :regional_indicator_d: :regional_indicator_f: :regional_indicator_e:
+:x: :white_check_mark: :x: :white_check_mark: :white_check_mark:
+05 Jan 2017 18:20:17 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+05 Jan 2017 18:20:17 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 88 damage
+05 Jan 2017 18:20:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 1 Boss **Mr-mime** has been defeated!
+05 Jan 2017 18:20:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Most Damage by **Wertfuzzy77** with **229** damage
+05 Jan 2017 18:20:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 2nd most Damage by *Third_Worm* with *11* damage
+05 Jan 2017 18:20:33 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;level
+05 Jan 2017 18:20:33 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 16
+**XP**: 330.59145299145166/4913
+05 Jan 2017 18:20:39 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, ;level
+05 Jan 2017 18:20:39 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Name**: *Third_Worm*
+**Level**: 3
+**XP**: 14/64
+05 Jan 2017 18:20:42 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, yay
+05 Jan 2017 18:20:48 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, summon a level 3 now
+05 Jan 2017 18:20:48 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, i lvled up woo!
+05 Jan 2017 18:20:52 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, ;summon
+05 Jan 2017 18:21:04 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, A Level 3 boss has been summoned
+05 Jan 2017 18:21:10 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle nnnnn
+05 Jan 2017 18:21:10 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, A Level 3 Boss **Roserade** has appeared!
+It has 1869 Health.
+05 Jan 2017 18:21:10 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 18:21:10 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :x: :x:
+05 Jan 2017 18:21:10 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 0 damage
+05 Jan 2017 18:21:10 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 3 Boss **Roserade** has 1869 health left.
+05 Jan 2017 18:21:17 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, lots more HP
+05 Jan 2017 18:21:39 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, I see
+05 Jan 2017 18:21:48 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, ;pokebattle FFFFF
+05 Jan 2017 18:21:48 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 3 Boss **Roserade** has 1869 health left.
+05 Jan 2017 18:21:48 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 18:21:49 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f:
+:white_check_mark: :x: :x: :x: :x:
+05 Jan 2017 18:21:49 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 3 damage
+05 Jan 2017 18:21:49 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 3 Boss **Roserade** has 1866 health left.
+05 Jan 2017 18:21:52 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, woo
+05 Jan 2017 18:21:54 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, 3
+05 Jan 2017 18:23:40 : LimitlessMc, mainchat, Adam#7575, we call it a tricorne
+05 Jan 2017 18:28:47 : Pokemon Mystery Dungeon, general, ChesireKat#7022, just tried to give someone a mew for free and got glitched
+05 Jan 2017 18:34:29 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle FGGGG
+05 Jan 2017 18:34:29 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 3 Boss **Roserade** has 1866 health left.
+05 Jan 2017 18:34:29 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 18:34:29 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g:
+:white_check_mark: :x: :x: :x: :x:
+05 Jan 2017 18:34:29 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 18 damage
+05 Jan 2017 18:34:29 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 3 Boss **Roserade** has 1848 health left.
+05 Jan 2017 18:34:40 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;level
+05 Jan 2017 18:34:40 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 16
+**XP**: 330.59145299145166/4913
+05 Jan 2017 18:34:50 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, You do damage equal to your level per correct move
+05 Jan 2017 18:35:07 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, + 1 per incorrect moves
+05 Jan 2017 18:35:18 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ranging from 75% - 125%
+05 Jan 2017 18:35:25 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, :pokebattle FWWWW
+05 Jan 2017 18:35:38 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, o
+05 Jan 2017 18:35:46 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, ;pokebattle FWWWW
+05 Jan 2017 18:35:46 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 3 Boss **Roserade** has 1848 health left.
+05 Jan 2017 18:35:46 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 18:35:46 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w:
+:white_check_mark: :white_check_mark: :x: :white_check_mark: :x:
+05 Jan 2017 18:35:46 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+05 Jan 2017 18:35:46 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 37 damage
+05 Jan 2017 18:35:49 : Pokemon Mystery Dungeon, poke_battles, Third_Worm#4804, woot
+05 Jan 2017 18:35:51 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 3 Boss **Roserade** has 1811 health left.
+05 Jan 2017 18:36:35 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, gj
+05 Jan 2017 18:36:43 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle FWEWE
+05 Jan 2017 18:36:43 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 3 Boss **Roserade** has 1811 health left.
+05 Jan 2017 18:36:44 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 18:36:44 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_w: :regional_indicator_e: :regional_indicator_w: :regional_indicator_e:
+:white_check_mark: :white_check_mark: :x: :white_check_mark: :x:
+05 Jan 2017 18:36:44 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+05 Jan 2017 18:36:44 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 91 damage
+05 Jan 2017 18:36:49 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 3 Boss **Roserade** has 1720 health left.
+05 Jan 2017 18:38:23 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokeboss
+05 Jan 2017 18:38:24 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, -= **Boss Pokemon** =-
+*Name*: Roserade
+*Health*: 1720/1869 (92.03%)
+*Level*: 3
+Last Combo: :regional_indicator_f: :regional_indicator_w: :regional_indicator_e: :regional_indicator_w: :regional_indicator_e:
+:white_check_mark: :white_check_mark: :x: :white_check_mark: :x:
+05 Jan 2017 18:38:24 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 18:38:24 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Most Damage by **Wertfuzzy77** with **109** damage
+05 Jan 2017 18:38:24 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 2nd most Damage by *Third_Worm* with *40* damage
+05 Jan 2017 18:39:21 : Pokemon Mystery Dungeon, poke_battles, jjtwilefc#0051, ;pokeboss
+05 Jan 2017 18:39:21 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, -= **Boss Pokemon** =-
+*Name*: Roserade
+*Health*: 1720/1869 (92.03%)
+*Level*: 3
+Last Combo: :regional_indicator_f: :regional_indicator_w: :regional_indicator_e: :regional_indicator_w: :regional_indicator_e:
+:white_check_mark: :white_check_mark: :x: :white_check_mark: :x:
+05 Jan 2017 18:39:21 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 18:39:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Most Damage by **Wertfuzzy77** with **109** damage
+05 Jan 2017 18:39:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 2nd most Damage by *Third_Worm* with *40* damage
+05 Jan 2017 18:39:46 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle FWIWI
+05 Jan 2017 18:39:46 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 3 Boss **Roserade** has 1720 health left.
+05 Jan 2017 18:39:46 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 18:39:46 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_w: :regional_indicator_i: :regional_indicator_w: :regional_indicator_i:
+:white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark:
+05 Jan 2017 18:39:47 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its a Critical Strike
+05 Jan 2017 18:39:47 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Super Effective! The Boss has switched 1/4 of the Super Effective Moves!
+05 Jan 2017 18:39:51 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 254 damage
+05 Jan 2017 18:39:51 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 3 Boss **Roserade** has 1466 health left.
+05 Jan 2017 18:39:54 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, gj
+05 Jan 2017 18:39:56 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;pokebattle FWBWI
+05 Jan 2017 18:39:56 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 3 Boss **Roserade** has 1466 health left.
+05 Jan 2017 18:39:56 : Pokemon Mystery Dungeon, poke_battles, jjtwilefc#0051, ;pokebattle FWGWI
+05 Jan 2017 18:39:56 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 18:39:56 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 3 Boss **Roserade** has 1466 health left.
+05 Jan 2017 18:39:56 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_w: :regional_indicator_b: :regional_indicator_w: :regional_indicator_i:
+:white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark:
+05 Jan 2017 18:39:57 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 18:39:57 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Super Effective! The Boss has switched 1/4 of the Super Effective Moves!
+05 Jan 2017 18:39:57 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_w: :regional_indicator_g: :regional_indicator_w: :regional_indicator_i:
+:white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark:
+05 Jan 2017 18:39:57 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 410 damage
+05 Jan 2017 18:40:01 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Super Effective! The Boss has switched 1/4 of the Super Effective Moves!
+05 Jan 2017 18:40:02 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 3 Boss **Roserade** has 1056 health left.
+05 Jan 2017 18:40:02 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 223 damage
+05 Jan 2017 18:40:02 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 3 Boss **Roserade** has 833 health left.
+05 Jan 2017 18:40:10 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, (cool)
+05 Jan 2017 18:40:11 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle FWDWI
+05 Jan 2017 18:40:11 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 70 seconds before you can fight the boss again.
+05 Jan 2017 18:40:14 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokeboss
+05 Jan 2017 18:40:15 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, -= **Boss Pokemon** =-
+*Name*: Roserade
+*Health*: 833/1869 (44.57%)
+*Level*: 3
+Last Combo: :regional_indicator_f: :regional_indicator_w: :regional_indicator_g: :regional_indicator_w: :regional_indicator_i:
+:white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark:
+05 Jan 2017 18:40:15 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 18:40:15 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Most Damage by **TherminatorX** with **410** damage
+05 Jan 2017 18:40:15 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 2nd most Damage by *Bakafish* with *254* damage
+05 Jan 2017 18:40:16 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 3rd most Damage by *jjtwilefc* with *223* damage
+05 Jan 2017 18:40:16 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Assisted by Wertfuzzy77,Third_Worm
+05 Jan 2017 18:40:20 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, no switch?
+05 Jan 2017 18:40:21 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;-; assisted
+05 Jan 2017 18:40:41 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, It prob did, but since you did so fast, the 2nd one didnt get a chance to see the updates yet xD
+05 Jan 2017 18:40:42 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, (lol,  only one attack and in 1st)
+05 Jan 2017 18:40:58 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, Well, you are like the highest level here, and it now scales damage by level
+05 Jan 2017 18:41:16 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle FWPWI
+05 Jan 2017 18:41:17 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 5 seconds before you can fight the boss again.
+05 Jan 2017 18:41:17 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;level
+05 Jan 2017 18:41:17 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Name**: *TherminatorX*
+**Level**: 14
+**XP**: 1554.693181818182/3375
+05 Jan 2017 18:41:23 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle FWPWI
+05 Jan 2017 18:41:23 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 3 Boss **Roserade** has 833 health left.
+05 Jan 2017 18:41:23 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 18:41:23 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_w: :regional_indicator_p: :regional_indicator_w: :regional_indicator_i:
+:white_check_mark: :x: :x: :white_check_mark: :white_check_mark:
+05 Jan 2017 18:41:24 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+05 Jan 2017 18:41:24 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 26 damage
+05 Jan 2017 18:41:26 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, also i really need to fix those decimals
+05 Jan 2017 18:41:28 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;train
+05 Jan 2017 18:42:17 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;train
+05 Jan 2017 18:42:17 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, (ye)
+05 Jan 2017 18:42:17 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, choo choo
+05 Jan 2017 18:42:17 : Pokemon Mystery Dungeon, poke_battles, jjtwilefc#0051, ;pokebattle FDDWI
+05 Jan 2017 18:42:17 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, looks like its lagging xD

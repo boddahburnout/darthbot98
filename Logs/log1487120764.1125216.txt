@@ -1,0 +1,433 @@
+15 Feb 2017 01:06:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+15 Feb 2017 01:06:14 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+15 Feb 2017 01:06:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio Japanese Lounge
+15 Feb 2017 01:06:23 : LimitlessMc, botchat, Botfuzzy77#2209, Radio Mode: True
+15 Feb 2017 01:06:32 : LimitlessMc, botchat, Wertfuzzy77#0274, heh
+15 Feb 2017 01:06:33 : LimitlessMc, botchat, Wertfuzzy77#0274, it worked
+15 Feb 2017 01:06:36 : LimitlessMc, botchat, MoonWolf#8885, ;song
+15 Feb 2017 01:06:40 : LimitlessMc, botchat, MoonWolf#8885, Sub esp
+15 Feb 2017 01:06:41 : LimitlessMc, botchat, MoonWolf#8885, LUL
+15 Feb 2017 01:06:49 : LimitlessMc, botchat, Wertfuzzy77#0274, has 800 songs to pick from, in each radio
+15 Feb 2017 01:06:59 : LimitlessMc, botchat, MoonWolf#8885, Add latino
+15 Feb 2017 01:07:00 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio Coffee-house Jazz
+15 Feb 2017 01:07:00 : LimitlessMc, botchat, Botfuzzy77#2209, Currently listening to the Japanese Lounge radio channel
+15 Feb 2017 01:07:00 : LimitlessMc, botchat, Botfuzzy77#2209, Radio Mode: True
+15 Feb 2017 01:07:00 : LimitlessMc, botchat, MoonWolf#8885, Kappa
+15 Feb 2017 01:07:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+15 Feb 2017 01:07:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+15 Feb 2017 01:07:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+15 Feb 2017 01:07:24 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+15 Feb 2017 01:07:24 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Mojo **Radio**
+	<https://www.youtube.com/watch?v=Q8QNzvtnOHc>
+Total Time is 0:10:30
+15 Feb 2017 01:07:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+15 Feb 2017 01:07:32 : LimitlessMc, botchat, Wertfuzzy77#0274, jazz
+15 Feb 2017 01:07:35 : LimitlessMc, botchat, Wertfuzzy77#0274, we did it boys
+15 Feb 2017 01:07:36 : LimitlessMc, botchat, MoonWolf#8885, This ain't japanese
+15 Feb 2017 01:07:37 : LimitlessMc, botchat, MoonWolf#8885, kek
+15 Feb 2017 01:07:40 : LimitlessMc, botchat, Wertfuzzy77#0274, I changed
+15 Feb 2017 01:07:43 : LimitlessMc, botchat, MoonWolf#8885, Oh
+15 Feb 2017 01:07:45 : LimitlessMc, botchat, Wertfuzzy77#0274, `;Radio Coffee-house Jazz`
+15 Feb 2017 01:07:49 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio
+15 Feb 2017 01:07:50 : LimitlessMc, botchat, Botfuzzy77#2209, Please choose one of these options: 
+Electro Hub
+Chill Corner
+Korean Madness
+Japanese Lounge
+Classical
+Retro Renegade
+Metal Mix
+Hip-hop
+Electro Swing
+Purely Pop
+Rock-n-Roll
+Coffee-house Jazz
+Example: `;Radio Purely Pop`
+15 Feb 2017 01:08:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio Rock-n-Roll
+15 Feb 2017 01:08:02 : LimitlessMc, botchat, Botfuzzy77#2209, Currently listening to the Coffee-house Jazz radio channel
+15 Feb 2017 01:08:02 : LimitlessMc, botchat, Botfuzzy77#2209, Radio Mode: True
+15 Feb 2017 01:08:05 : LimitlessMc, botchat, Wertfuzzy77#0274, hmm
+15 Feb 2017 01:08:06 : LimitlessMc, mainchat, TROLL#4967, Ras ben Sakka in Tunisia
+15 Feb 2017 01:08:08 : LimitlessMc, botchat, Wertfuzzy77#0274, weird prints tho
+15 Feb 2017 01:08:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ill fix that
+15 Feb 2017 01:08:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 1
+15 Feb 2017 01:08:12 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: Eddie Harris - Sham Time
+15 Feb 2017 01:08:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+15 Feb 2017 01:08:14 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Mojo by request (Radio Song)
+15 Feb 2017 01:08:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+15 Feb 2017 01:08:22 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: The Police - Wrapped Around Your Finger
+**Requester**: Radio
+**URL**: <https://www.youtube.com/watch?v=svWINSRhQU0>
+```py
+Time: 0:05:11
+Views: 9,579,465
+Likes: 36,104, 97.51%
+Dislikes: 921, 2.49%
+Skips: 0/1```
+15 Feb 2017 01:08:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+15 Feb 2017 01:08:28 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+15 Feb 2017 01:08:28 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Journey - Separate Ways (Worlds Apart) **Radio**
+	<https://www.youtube.com/watch?v=LatorN4P9aA>
+Total Time is 0:04:25
+15 Feb 2017 01:08:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+15 Feb 2017 01:08:31 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping The Police - Wrapped Around Your Finger by request (Radio Song)
+15 Feb 2017 01:08:35 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+15 Feb 2017 01:08:35 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+15 Feb 2017 01:08:35 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Come Sail Away Lyrics Styx **Radio**
+	<https://www.youtube.com/watch?v=9TcztyNlFx0>
+Total Time is 0:06:04
+15 Feb 2017 01:08:47 : LimitlessMc, botchat, Wertfuzzy77#0274, looks like it works beautifully
+15 Feb 2017 01:08:58 : LimitlessMc, botchat, MoonWolf#8885, That's wierd.
+15 Feb 2017 01:09:05 : LimitlessMc, botchat, MoonWolf#8885, You made something that actually works?
+15 Feb 2017 01:09:06 : LimitlessMc, botchat, MoonWolf#8885, Kappa
+15 Feb 2017 01:09:07 : LimitlessMc, botchat, Wertfuzzy77#0274, ^
+15 Feb 2017 01:09:07 : LimitlessMc, botchat, Botfuzzy77#2209, ^
+15 Feb 2017 01:09:39 : LimitlessMc, staffchat, Wertfuzzy77#0274, This is what happens when I code something that works
+15 Feb 2017 01:09:45 : LimitlessMc, staffchat, Wertfuzzy77#0274, ;-;
+15 Feb 2017 01:09:57 : The Wild Weebs, music, Wertfuzzy77#0274, !!!leave
+15 Feb 2017 01:09:57 : The Wild Weebs, music, dabBot#0563, Stopped playing music & left the voice channel.
+15 Feb 2017 01:10:12 : LimitlessMc, staffchat, Lightning#6734, ;-;
+15 Feb 2017 01:10:16 : LimitlessMc, botchat, MoonWolf#8885, ;train
+15 Feb 2017 01:10:21 : LimitlessMc, botchat, MoonWolf#8885, rip
+15 Feb 2017 01:10:22 : LimitlessMc, mainchat, Wertfuzzy77#0274, @PeopleInGeneralChat Come join music chat and test out my new radio feature
+15 Feb 2017 01:10:30 : LimitlessMc, staffchat, Wertfuzzy77#0274, come test music with me
+15 Feb 2017 01:10:32 : LimitlessMc, staffchat, Wertfuzzy77#0274, new radio OP
+15 Feb 2017 01:10:37 : LimitlessMc, botchat, MoonWolf#8885, looks like it works beautifully
+15 Feb 2017 01:10:39 : LimitlessMc, botchat, MoonWolf#8885, ;image LUL
+15 Feb 2017 01:10:41 : LimitlessMc, botchat, Botfuzzy77#2209, http://wiki.teamliquid.net/commons/images/c/cb/Totalbiscuit-TANK20130629-220151.jpg
+15 Feb 2017 01:10:42 : LimitlessMc, staffchat, Lightning#6734, on the phone with doctors atm
+15 Feb 2017 01:10:47 : LimitlessMc, staffchat, Wertfuzzy77#0274, rip
+15 Feb 2017 01:11:08 : LimitlessMc, botchat, MoonWolf#8885, xD
+15 Feb 2017 01:11:12 : LimitlessMc, staffchat, Wertfuzzy77#0274, its on rock n roll rn
+15 Feb 2017 01:11:13 : LimitlessMc, staffchat, Wertfuzzy77#0274, ;Radio
+15 Feb 2017 01:11:13 : LimitlessMc, staffchat, Botfuzzy77#2209, Please choose one of these options: 
+Electro Hub
+Chill Corner
+Korean Madness
+Japanese Lounge
+Classical
+Retro Renegade
+Metal Mix
+Hip-hop
+Electro Swing
+Purely Pop
+Rock-n-Roll
+Coffee-house Jazz
+Example: `;Radio Purely Pop`
+15 Feb 2017 01:11:19 : LimitlessMc, staffchat, Lightning#6734, oo nice
+15 Feb 2017 01:11:21 : LimitlessMc, staffchat, Wertfuzzy77#0274, Si
+15 Feb 2017 01:11:30 : LimitlessMc, staffchat, Lightning#6734, i steel code l8r
+15 Feb 2017 01:11:31 : LimitlessMc, staffchat, Wertfuzzy77#0274, Japense Lounge == all weeb songs
+15 Feb 2017 01:11:37 : LimitlessMc, staffchat, Lightning#6734, jkjk
+15 Feb 2017 01:11:42 : LimitlessMc, staffchat, Wertfuzzy77#0274, ```py
+                    choice = random.choice(json.loads(requests.get("http://temp.discord.fm/libraries/{}/json".format(SP.radioType['id'])).text))
+                    current = await SP.voice.create_ytdl_player("https://www.youtube.com/watch?v="+choice['identifier'], ytdl_options=OPTS)
+                    SP.queue.append((current, "Radio"))```
+15 Feb 2017 01:11:43 : LimitlessMc, staffchat, Wertfuzzy77#0274, there
+15 Feb 2017 01:11:45 : LimitlessMc, staffchat, Wertfuzzy77#0274, all the code
+15 Feb 2017 01:11:47 : LimitlessMc, staffchat, Wertfuzzy77#0274, thats it
+15 Feb 2017 01:11:49 : LimitlessMc, mainchat, TormentedSouls#5007, Here
+15 Feb 2017 01:11:51 : LimitlessMc, staffchat, Wertfuzzy77#0274, like 90% of it
+15 Feb 2017 01:11:53 : LimitlessMc, staffchat, Lightning#6734, i was jk D:
+15 Feb 2017 01:11:56 : LimitlessMc, staffchat, Lightning#6734, but okei
+15 Feb 2017 01:12:04 : LimitlessMc, staffchat, Wertfuzzy77#0274, ```py
+                if SP.radio:
+
+                    choice = random.choice(json.loads(requests.get("http://temp.discord.fm/libraries/{}/json".format(SP.radioType['id'])).text))
+                    current = await SP.voice.create_ytdl_player("https://www.youtube.com/watch?v="+choice['identifier'], ytdl_options=OPTS)
+                    SP.queue.append((current, "Radio"))
+
+                    # link = nextSong(SP.player.url)
+                    # current = await SP.voice.create_ytdl_player(link, ytdl_options=OPTS)
+                    # count = 0
+                    # while(current == None or current.likes == None or current.views < MIN_VIEWS or current.dislikes / (current.dislikes + current.likes) > MAX_PERCENT_DISLIKE or current.duration > MAX_LENGTH):
+                    #     current.process.kill()
+                    #     link = nextSong(SP.player.url, count)
+                    #     current = await SP.voice.create_ytdl_player(link, ytdl_options=OPTS)
+                    #     while(current.likes == None):
+                    #         current.process.kill()
+                    #         link = nextSong(SP.player.url, count)
+                    #         current = await SP.voice.create_ytdl_player(link, ytdl_options=OPTS)
+                    #         count += 1                        
+                    #     count += 1
+                    # SP.queue.append((current, "Radio"))```
+15 Feb 2017 01:12:08 : LimitlessMc, staffchat, Wertfuzzy77#0274, look at the difference xD
+15 Feb 2017 01:12:13 : LimitlessMc, staffchat, Wertfuzzy77#0274, old radio is commented out
+15 Feb 2017 01:12:13 : LimitlessMc, staffchat, Lightning#6734, o-o
+15 Feb 2017 01:12:28 : LimitlessMc, staffchat, Lightning#6734, looks like some of jays mess XD
+15 Feb 2017 01:12:44 : LimitlessMc, staffchat, Wertfuzzy77#0274, Most of my code it a mess
+15 Feb 2017 01:12:45 : LimitlessMc, botchat, MoonWolf#8885, ;radio
+15 Feb 2017 01:12:54 : LimitlessMc, botchat, MoonWolf#8885, Only you can change it?
+15 Feb 2017 01:12:54 : LimitlessMc, staffchat, Wertfuzzy77#0274, its what happens when you have 3k lines to work with xD
+15 Feb 2017 01:12:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio
+15 Feb 2017 01:12:59 : LimitlessMc, botchat, Botfuzzy77#2209, Please choose one of these options: 
+Electro Hub
+Chill Corner
+Korean Madness
+Japanese Lounge
+Classical
+Retro Renegade
+Metal Mix
+Hip-hop
+Electro Swing
+Purely Pop
+Rock-n-Roll
+Coffee-house Jazz
+Example: `;Radio Purely Pop`
+15 Feb 2017 01:13:01 : LimitlessMc, botchat, Wertfuzzy77#0274, capital R
+15 Feb 2017 01:13:04 : LimitlessMc, staffchat, Lightning#6734, same lightbots new stuff i have written up is a huge jumble of ass
+15 Feb 2017 01:13:05 : LimitlessMc, botchat, Wertfuzzy77#0274, its weird
+15 Feb 2017 01:13:28 : LimitlessMc, botchat, MoonWolf#8885, oh
+15 Feb 2017 01:13:40 : LimitlessMc, botchat, MoonWolf#8885, the fuck is retro renegade
+15 Feb 2017 01:13:43 : LimitlessMc, botchat, Wertfuzzy77#0274, no idea
+15 Feb 2017 01:13:46 : LimitlessMc, botchat, Wertfuzzy77#0274, play it xD
+15 Feb 2017 01:13:46 : LimitlessMc, botchat, MoonWolf#8885, ;Radio Retro Renegade
+15 Feb 2017 01:13:46 : LimitlessMc, botchat, Botfuzzy77#2209, Currently listening to the Rock-n-Roll radio channel
+15 Feb 2017 01:13:47 : LimitlessMc, botchat, Botfuzzy77#2209, Radio Mode: True
+15 Feb 2017 01:13:57 : LimitlessMc, botchat, MoonWolf#8885, ;skip
+15 Feb 2017 01:13:57 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Come Sail Away Lyrics Styx by request (Radio Song)
+15 Feb 2017 01:13:59 : LimitlessMc, botchat, MoonWolf#8885, ;songs
+15 Feb 2017 01:13:59 : LimitlessMc, botchat, Botfuzzy77#2209, Queue is Empty
+15 Feb 2017 01:14:05 : LimitlessMc, botchat, MoonWolf#8885, ;song
+15 Feb 2017 01:14:05 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Guns N' Roses - Welcome To The Jungle
+**Requester**: Radio
+**URL**: <https://www.youtube.com/watch?v=o1tj2zJ2Wvg>
+```py
+Time: 0:04:35
+Views: 183,400,758
+Likes: 656,900, 97.09%
+Dislikes: 19,710, 2.91%
+Skips: 0/1```
+15 Feb 2017 01:14:06 : LimitlessMc, mainchat, TormentedSouls#5007, Brown Swiss
+15 Feb 2017 01:14:14 : LimitlessMc, botchat, MoonWolf#8885, ;songs
+15 Feb 2017 01:14:14 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+15 Feb 2017 01:14:14 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Pokemon Red/Blue/Yellow - Battle! Trainer Music (HQ) **Radio**
+	<https://www.youtube.com/watch?v=Fupfr_eVLPo>
+Total Time is 0:02:59
+15 Feb 2017 01:14:20 : LimitlessMc, botchat, MoonWolf#8885, huh... what
+15 Feb 2017 01:14:22 : LimitlessMc, mainchat, TormentedSouls#5007, is litteraly a cow breed
+15 Feb 2017 01:14:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+15 Feb 2017 01:14:26 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Guns N' Roses - Welcome To The Jungle by request (Radio Song)
+15 Feb 2017 01:14:32 : LimitlessMc, botchat, Wertfuzzy77#0274, LOL
+15 Feb 2017 01:14:34 : LimitlessMc, botchat, Wertfuzzy77#0274, i love it
+15 Feb 2017 01:14:36 : LimitlessMc, botchat, MoonWolf#8885, y u skip guns n roses
+15 Feb 2017 01:14:41 : LimitlessMc, botchat, MoonWolf#8885, ;image DansGame
+15 Feb 2017 01:14:42 : LimitlessMc, botchat, Wertfuzzy77#0274, cause was rock and roll
+15 Feb 2017 01:14:42 : LimitlessMc, botchat, Botfuzzy77#2209, https://lh4.googleusercontent.com/-xPaCACIPg4A/AAAAAAAAAAI/AAAAAAAAADI/ZYQd6Mm3HC0/photo.jpg
+15 Feb 2017 01:14:45 : LimitlessMc, botchat, Wertfuzzy77#0274, wanted to see this radio
+15 Feb 2017 01:14:45 : LimitlessMc, mainchat, TormentedSouls#5007, Red
+15 Feb 2017 01:14:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+15 Feb 2017 01:14:46 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+15 Feb 2017 01:14:46 : LimitlessMc, botchat, Botfuzzy77#2209, 1. CCivory - The Knife **Radio**
+	<https://www.youtube.com/watch?v=1DWD_hEz4HI>
+Total Time is 0:04:16
+15 Feb 2017 01:14:53 : LimitlessMc, mainchat, TROLL#4967, Sparky
+15 Feb 2017 01:14:53 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+15 Feb 2017 01:14:53 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Pokemon Red/Blue/Yellow - Battle! Trainer Music (HQ)
+**Requester**: Radio
+**URL**: <https://www.youtube.com/watch?v=Fupfr_eVLPo>
+```py
+Time: 0:02:59
+Views: 9,794
+Likes: 96, 98.97%
+Dislikes: 1, 1.03%
+Skips: 0/1```
+15 Feb 2017 01:14:59 : LimitlessMc, botchat, MoonWolf#8885, kek
+15 Feb 2017 01:15:04 : LimitlessMc, mainchat, TormentedSouls#5007, Blue
+15 Feb 2017 01:15:08 : LimitlessMc, staffchat, Wertfuzzy77#0274, ;song
+15 Feb 2017 01:15:08 : LimitlessMc, staffchat, Botfuzzy77#2209, **Name**: Pokemon Red/Blue/Yellow - Battle! Trainer Music (HQ)
+**Requester**: Radio
+**URL**: <https://www.youtube.com/watch?v=Fupfr_eVLPo>
+```py
+Time: 0:02:59
+Views: 9,794
+Likes: 96, 98.97%
+Dislikes: 1, 1.03%
+Skips: 0/1```
+15 Feb 2017 01:15:11 : LimitlessMc, staffchat, Wertfuzzy77#0274, 10/10 radio
+15 Feb 2017 01:15:29 : LimitlessMc, staffchat, Wertfuzzy77#0274, came from the  `Retro Renegade` radio
+15 Feb 2017 01:15:56 : LimitlessMc, botchat, MoonWolf#8885, ;skip
+15 Feb 2017 01:15:56 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Pokemon Red/Blue/Yellow - Battle! Trainer Music (HQ) by request (Radio Song)
+15 Feb 2017 01:15:59 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+15 Feb 2017 01:16:09 : LimitlessMc, botchat, MoonWolf#8885, So retro renegade = 8 bit
+15 Feb 2017 01:16:09 : LimitlessMc, botchat, Wertfuzzy77#0274, this is the style I guess
+15 Feb 2017 01:16:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ^
+15 Feb 2017 01:16:11 : LimitlessMc, botchat, Botfuzzy77#2209, ^
+15 Feb 2017 01:16:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+15 Feb 2017 01:16:14 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+15 Feb 2017 01:16:14 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Harvest Moon Music SNES - Summer **Radio**
+	<https://www.youtube.com/watch?v=UfK0Lg6byrw>
+Total Time is 0:00:54
+15 Feb 2017 01:16:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+15 Feb 2017 01:16:15 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping CCivory - The Knife by request (Radio Song)
+15 Feb 2017 01:16:22 : LimitlessMc, botchat, MoonWolf#8885, Harvest moon Kreygasm
+15 Feb 2017 01:16:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+15 Feb 2017 01:16:22 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+15 Feb 2017 01:16:23 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Crypt of the Necrodancer OST - Deep Sea Bass (Coral Riff) **Radio**
+	<https://www.youtube.com/watch?v=4rJFgTNiRuQ>
+Total Time is 0:02:11
+15 Feb 2017 01:16:29 : LimitlessMc, botchat, MoonWolf#8885, Crypt of the necrodancer
+15 Feb 2017 01:16:30 : LimitlessMc, botchat, MoonWolf#8885, KREYGASM
+15 Feb 2017 01:16:32 : LimitlessMc, botchat, Wertfuzzy77#0274, also, its super quick to add radio songs now
+15 Feb 2017 01:16:41 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+15 Feb 2017 01:16:41 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Harvest Moon Music SNES - Summer by request (Radio Song)
+15 Feb 2017 01:16:45 : LimitlessMc, botchat, MoonWolf#8885, ;Radio
+15 Feb 2017 01:16:46 : LimitlessMc, botchat, Botfuzzy77#2209, Please choose one of these options: 
+Electro Hub
+Chill Corner
+Korean Madness
+Japanese Lounge
+Classical
+Retro Renegade
+Metal Mix
+Hip-hop
+Electro Swing
+Purely Pop
+Rock-n-Roll
+Coffee-house Jazz
+Example: `;Radio Purely Pop`
+15 Feb 2017 01:17:02 : LimitlessMc, botchat, MoonWolf#8885, ;Radio Korean Madness
+15 Feb 2017 01:17:02 : LimitlessMc, botchat, Botfuzzy77#2209, Currently listening to the Retro Renegade radio channel
+15 Feb 2017 01:17:02 : LimitlessMc, botchat, Botfuzzy77#2209, Radio Mode: True
+15 Feb 2017 01:17:05 : LimitlessMc, botchat, Wertfuzzy77#0274, o dear
+15 Feb 2017 01:17:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 1
+15 Feb 2017 01:17:12 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: Never Gonna Give You Up (8 Bit Remix Cover Version) [Tribute to Rick Astley] - 8 Bit Universe
+15 Feb 2017 01:17:13 : LimitlessMc, botchat, MoonWolf#8885, We need reggae i think.
+15 Feb 2017 01:17:14 : LimitlessMc, botchat, Wertfuzzy77#0274, LOL
+15 Feb 2017 01:17:17 : LimitlessMc, botchat, MoonWolf#8885, LOL
+15 Feb 2017 01:17:17 : LimitlessMc, botchat, Wertfuzzy77#0274, that song tho
+15 Feb 2017 01:17:23 : LimitlessMc, botchat, Wertfuzzy77#0274, we need that again
+15 Feb 2017 01:17:27 : LimitlessMc, botchat, MoonWolf#8885, Yes we do
+15 Feb 2017 01:17:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Never Gonna Give You Up (8 Bit Remix Cover Version) [Tribute to Rick Astley] - 8 Bit Universe
+15 Feb 2017 01:17:32 : LimitlessMc, botchat, Botfuzzy77#2209, Added Never Gonna Give You Up (8 Bit Drum N Bass Remix Cover Version) [Tribute to Rick Astley] to the queue
+15 Feb 2017 01:17:32 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=xxSii6Y0vQ0
+15 Feb 2017 01:17:41 : LimitlessMc, botchat, MoonWolf#8885, ;remove 1
+15 Feb 2017 01:17:46 : LimitlessMc, botchat, Wertfuzzy77#0274, wait... thats not the right one
+15 Feb 2017 01:17:48 : LimitlessMc, botchat, Wertfuzzy77#0274, exactly
+15 Feb 2017 01:17:50 : LimitlessMc, botchat, MoonWolf#8885, ;skip
+15 Feb 2017 01:17:50 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Crypt of the Necrodancer OST - Deep Sea Bass (Coral Riff) by request (Radio Song)
+15 Feb 2017 01:17:58 : LimitlessMc, botchat, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=9NcPvmk4vfo
+15 Feb 2017 01:18:12 : LimitlessMc, botchat, MoonWolf#8885, 10/10
+15 Feb 2017 01:18:14 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+15 Feb 2017 01:18:14 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Never Gonna Give You Up (8 Bit Remix Cover Version) [Tribute to Rick Astley] - 8 Bit Universe by request of the requester
+15 Feb 2017 01:18:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+15 Feb 2017 01:18:23 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Kim Jong Kook - Loveable (Sarang Surowo) [MV]
+**Requester**: Radio
+**URL**: <https://www.youtube.com/watch?v=r7OJ9LnboCY>
+```py
+Time: 0:04:31
+Views: 5,908,160
+Likes: 33,473, 98.7%
+Dislikes: 442, 1.3%
+Skips: 0/1```
+15 Feb 2017 01:18:32 : LimitlessMc, botchat, MoonWolf#8885, wot
+15 Feb 2017 01:18:42 : LimitlessMc, botchat, MoonWolf#8885, So this is all Kpop?
+15 Feb 2017 01:19:17 : LimitlessMc, botchat, Wertfuzzy77#0274, I think so
+15 Feb 2017 01:19:18 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+15 Feb 2017 01:19:18 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Kim Jong Kook - Loveable (Sarang Surowo) [MV] by request (Radio Song)
+15 Feb 2017 01:19:34 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+15 Feb 2017 01:19:34 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+15 Feb 2017 01:19:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+15 Feb 2017 01:19:40 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Taeyang - Eyes, Nose, Lips Hangul/ Romanized/ English Lyrics by request (Radio Song)
+15 Feb 2017 01:19:51 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+15 Feb 2017 01:19:51 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+15 Feb 2017 01:19:51 : LimitlessMc, botchat, Botfuzzy77#2209, 1. B.A.P - Feel So Good (Color Coded Han|Rom|Eng Lyrics) | by Yankat **Radio**
+	<https://www.youtube.com/watch?v=9ZUsWRFqM8Q>
+Total Time is 0:03:17
+15 Feb 2017 01:20:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio Chill Corner
+15 Feb 2017 01:20:06 : LimitlessMc, botchat, Botfuzzy77#2209, Currently listening to the Korean Madness radio channel
+15 Feb 2017 01:20:06 : LimitlessMc, botchat, Botfuzzy77#2209, Radio Mode: True
+15 Feb 2017 01:20:08 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 1
+15 Feb 2017 01:20:09 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: B.A.P - Feel So Good (Color Coded Han|Rom|Eng Lyrics) | by Yankat
+15 Feb 2017 01:20:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+15 Feb 2017 01:20:25 : LimitlessMc, botchat, MoonWolf#8885, ;song
+15 Feb 2017 01:20:25 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Milky Chance - Stolen Dance (Album Version)
+**Requester**: Radio
+**URL**: <https://www.youtube.com/watch?v=iX-QaNzd-0Y>
+```py
+Time: 0:05:13
+Views: 295,196,312
+Likes: 1,237,250, 96.82%
+Dislikes: 40,682, 3.18%
+Skips: 0/1```
+15 Feb 2017 01:20:31 : LimitlessMc, botchat, MoonWolf#8885, Wow.. the beat
+15 Feb 2017 01:20:33 : LimitlessMc, botchat, MoonWolf#8885, Like it
+15 Feb 2017 01:20:35 : LimitlessMc, botchat, Wertfuzzy77#0274, ^
+15 Feb 2017 01:20:35 : LimitlessMc, botchat, Botfuzzy77#2209, ^
+15 Feb 2017 01:22:11 : LimitlessMc, botchat, MoonWolf#8885, Wert explain me
+15 Feb 2017 01:22:13 : LimitlessMc, botchat, MoonWolf#8885, https://fb-s-d-a.akamaihd.net/h-ak-xlp1/v/t1.0-0/s480x480/16508593_1574957879188926_7459383284277420448_n.jpg?oh=4efaa0d8003fa7d0dbeb38699c941879&oe=5939F1BE&__gda__=1497446209_4ea5e5412745e6a3b2d40d1f79410356
+15 Feb 2017 01:22:21 : LimitlessMc, botchat, MoonWolf#8885, Why lee got S+ and i got S?
+15 Feb 2017 01:22:48 : LimitlessMc, botchat, MoonWolf#8885, https://scontent-mia1-2.xx.fbcdn.net/v/t1.0-9/16508593_1574957879188926_7459383284277420448_n.jpg?oh=f17aac31d0fa4348b39d34d608f90d48&oe=5938A975
+15 Feb 2017 01:23:45 : LimitlessMc, botchat, Wertfuzzy77#0274, ;afk Dinner
+15 Feb 2017 01:23:46 : LimitlessMc, botchat, Botfuzzy77#2209, Wertfuzzy77 is now AFK for reason:
+**Dinner**
+15 Feb 2017 01:25:07 : LimitlessMc, mainchat, McGrande123#3192, woops my bad
+15 Feb 2017 01:26:06 : LimitlessMc, botchat, MoonWolf#8885, ;afk Fapping like a gorilla.
+15 Feb 2017 01:26:06 : LimitlessMc, botchat, Botfuzzy77#2209, MoonWolf is now AFK for reason:
+**Fapping like a gorilla.**
+15 Feb 2017 01:29:50 : LimitlessMc, mainchat, Wtsoner#4231, Stubby joins this chat im talking xD
+15 Feb 2017 01:32:56 : LimitlessMc, mainchat, Tgamer101#2795, Hi
+15 Feb 2017 01:32:58 : LimitlessMc, mainchat, Tgamer101#2795, Goyz
+15 Feb 2017 01:33:02 : LimitlessMc, mainchat, Tgamer101#2795, Oue
+15 Feb 2017 01:34:25 : LimitlessMc, mainchat, Tgamer101#2795, From: Tganer1013
+15 Feb 2017 01:38:04 : LimitlessMc, mainchat, Chesire Kat#7022, ?
+15 Feb 2017 01:38:15 : LimitlessMc, mainchat, Chesire Kat#7022, no
+15 Feb 2017 01:39:32 : LimitlessMc, mainchat, ruleroftri#6648, Hi kat
+15 Feb 2017 01:39:44 : LimitlessMc, mainchat, ruleroftri#6648, Did you have a happy Valentine's Day?
+15 Feb 2017 01:40:52 : LimitlessMc, mainchat, Tgamer101#2795, Kat who is ur date
+15 Feb 2017 01:40:54 : LimitlessMc, mainchat, Tgamer101#2795, Oooo
+15 Feb 2017 01:42:32 : LimitlessMc, botchat, Tgamer101#2795, ;train
+15 Feb 2017 01:42:44 : LimitlessMc, botchat, Tgamer101#2795, ;train
+15 Feb 2017 01:42:49 : LimitlessMc, botchat, Tgamer101#2795, ;gif
+15 Feb 2017 01:42:53 : LimitlessMc, botchat, Tgamer101#2795, ;gif hAr
+15 Feb 2017 01:42:54 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/other-exo-idk-GPv7i7YOJoZA4
+15 Feb 2017 01:43:10 : LimitlessMc, botchat, Tgamer101#2795, ;gif gif
+15 Feb 2017 01:43:11 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/disney-snow-white-and-the-seven-dwarfs-walt-disney-pictures-YFis3URdQJ6qA
+15 Feb 2017 01:43:31 : LimitlessMc, botchat, Tgamer101#2795, ;gif horror
+15 Feb 2017 01:43:31 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/80s-horror-halloween-3oz8xrpxo8MYEG3kWs
+15 Feb 2017 01:43:51 : LimitlessMc, botchat, Tgamer101#2795, Lol
+15 Feb 2017 01:43:58 : LimitlessMc, botchat, Tgamer101#2795, ;gif scary
+15 Feb 2017 01:43:58 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/halloween-scary-monster-p5hBv63pSIDQI
+15 Feb 2017 01:44:15 : LimitlessMc, botchat, Tgamer101#2795, ;gif spooky
+15 Feb 2017 01:44:15 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/spooky-skulls-xT77XMusMwn5z6LCO4
+15 Feb 2017 01:44:28 : LimitlessMc, botchat, Tgamer101#2795, ;gif deeznuts
+15 Feb 2017 01:44:28 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/president-A7MtLCMnFGbPq
+15 Feb 2017 01:44:37 : LimitlessMc, mainchat, Third_Worm#4804, good good
+15 Feb 2017 01:44:40 : LimitlessMc, mainchat, Third_Worm#4804, love me humans
+15 Feb 2017 01:44:42 : LimitlessMc, mainchat, Third_Worm#4804, I mean
+15 Feb 2017 01:44:46 : LimitlessMc, mainchat, Third_Worm#4804, Lova y'all
+15 Feb 2017 01:44:48 : LimitlessMc, botchat, Tgamer101#2795, ;gif mlg
+15 Feb 2017 01:44:48 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/markiplier-mlg-qUlHlA7VTUxd6
+15 Feb 2017 01:45:13 : LimitlessMc, botchat, Tgamer101#2795, ;gif babes
+15 Feb 2017 01:45:13 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/chocolatedroppamixtape-kevin-hart-trey-songz-l0HlzmxH2AeP3RNvi
+15 Feb 2017 01:57:22 : LimitlessMc, mainchat, 1qazxcde32ws#0479, hi
+15 Feb 2017 01:57:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio
+15 Feb 2017 01:57:55 : LimitlessMc, botchat, Botfuzzy77#2209, Please choose one of these options: 
+Electro Hub
+Chill Corner
+Korean Madness
+Japanese Lounge
+Classical
+Retro Renegade
+Metal Mix
+Hip-hop
+Electro Swing
+Purely Pop
+Rock-n-Roll
+Coffee-house Jazz
+Example: `;Radio Purely Pop`
+15 Feb 2017 01:58:04 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+15 Feb 2017 01:58:04 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Jaymes Young - I'll Be Good
+**Requester**: Radio
+**URL**: <https://www.youtube.com/watch?v=mkMVyw-7avI>
+```py
+Time: 0:04:06
+Views: 7,186,108
+Likes: 84,538, 99.04%
+Dislikes: 823, 0.96%
+Skips: 0/2```
+15 Feb 2017 01:58:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+15 Feb 2017 01:58:05 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+15 Feb 2017 01:58:05 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Troye Sivan - BITE  (Lyric Video) **Radio**
+	<https://www.youtube.com/watch?v=fLuWMOF6vOU>
+Total Time is 0:03:07

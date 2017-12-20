@@ -1,0 +1,36 @@
+Wertfuzzy77#0274, !values
+Botfuzzy77#2926, Values: 
+TM:	150.0
+Items:	509.52
+Money:	3000.0
+Pack:	3308.33
+Legendary:	7692.31
+Jackpot:	18500.64
+Botfuzzy77#2926, **HALF**: TM: 84.0%, Item: 9.5%, Money: 3.0%, Pack: 2.0%, Legendary: 1.0%, Jackpot: 0.5%
+Botfuzzy77#2926, **ONE**: TM: 47%, Item: 37%, Money: 10%, Pack: 3%, Legendary: 2%, Jackpot: 1%
+Botfuzzy77#2926, **TWO**: TM: 10%, Item: 54%, Money: 18%, Pack: 10%, Legendary: 6%, Jackpot: 2%
+Botfuzzy77#2926, **FIVE**: TM: 7%, Item: 15%, Money: 18%, Pack: 21%, Legendary: 33%, Jackpot: 6%
+MGirard#3037, !Prize
+MGirard#3037, !prize
+Botfuzzy77#2926, https://gist.github.com/77Wertfuzzy77/30567d6ea547adce48042b86eec0573d#file-ticket_drop_rates-md
+Wertfuzzy77#0274, !values
+Botfuzzy77#2926, Values: 
+TM:	150.0
+Items:	509.52
+Money:	3000.0
+Pack:	3308.33
+Legendary:	7692.31
+Jackpot:	18500.64
+Botfuzzy77#2926, **HALF**: TM: 84.0%, Item: 9.5%, Money: 3.0%, Pack: 2.0%, Legendary: 1.0%, Jackpot: 0.5%
+Botfuzzy77#2926, **ONE**: TM: 47%, Item: 37%, Money: 10%, Pack: 3%, Legendary: 2%, Jackpot: 1%
+Botfuzzy77#2926, **TWO**: TM: 10%, Item: 54%, Money: 18%, Pack: 10%, Legendary: 6%, Jackpot: 2%
+Botfuzzy77#2926, **FIVE**: TM: 7%, Item: 15%, Money: 18%, Pack: 21%, Legendary: 33%, Jackpot: 6%
+Wertfuzzy77#0274, ^
+Wertfuzzy77#0274, right in discord
+Wertfuzzy77#0274, <@181146412933840896>
+MGirard#3037, Nice.
+Wertfuzzy77#0274, will auto update if i change anything too
+Wertfuzzy77#0274, i might also do it so i can do !drop [type] and see what that type consists of
+Wertfuzzy77#0274, and their respective values
+Wertfuzzy77#0274, !relog
+Botfuzzy77#2926, Relogging...

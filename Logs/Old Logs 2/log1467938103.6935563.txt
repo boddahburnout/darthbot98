@@ -1,0 +1,51 @@
+08 Jul 2016 00:35:12 : Cipher , Wertfuzzy77#0274 , ;muteperm Skyd
+08 Jul 2016 00:35:24 : Cipher , Wertfuzzy77#0274 , <@183411857225285632>
+08 Jul 2016 00:35:26 : Cipher , Wertfuzzy77#0274 , can you type?
+08 Jul 2016 00:35:37 : Cipher , Skyd#9935 , Yes 
+08 Jul 2016 00:35:51 : Cipher , Roy210#7098 , what does mute perm do?
+08 Jul 2016 00:36:16 : Cipher , Roy210#7098 , <@!134441036905840640> i need our help on the server once again
+08 Jul 2016 00:36:18 : Cipher , Roy210#7098 , sorre
+08 Jul 2016 00:36:49 : Cipher , Wertfuzzy77#0274 , ;debug bot.say("hello")
+08 Jul 2016 00:36:49 : Cipher , Botfuzzy77#2209 , hello
+08 Jul 2016 00:36:49 : Cipher , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x0000022F1F6E3CC8>
+```
+08 Jul 2016 00:37:30 : Cipher , Wertfuzzy77#0274 , ;debug bot.edit_channel_permissions(ctx.message.channel, ctx.message.server.get_member_named("Roy210")
+08 Jul 2016 00:37:31 : Cipher , Botfuzzy77#2209 , ```py
+SyntaxError: unexpected EOF while parsing (<string>, line 1)
+```
+08 Jul 2016 00:37:36 : Cipher , Wertfuzzy77#0274 , ;debug bot.edit_channel_permissions(ctx.message.channel, ctx.message.server.get_member_named("Roy210"))
+08 Jul 2016 00:37:36 : Cipher , Botfuzzy77#2209 , ```py
+None
+```
+08 Jul 2016 00:37:49 : Cipher , Roy210#7098 , wtf kind of curses you doing
+08 Jul 2016 00:37:58 : Cipher , Wertfuzzy77#0274 , trying to mute you
+08 Jul 2016 00:38:03 : Cipher , Wertfuzzy77#0274 , but the non fake way
+08 Jul 2016 00:38:07 : Cipher , Roy210#7098 , just do ;mute roy210
+08 Jul 2016 00:38:15 : Cipher , Wertfuzzy77#0274 , lol
+08 Jul 2016 00:38:19 : Cipher , Wertfuzzy77#0274 , I wrote that cmd
+08 Jul 2016 00:38:23 : Cipher , Roy210#7098 , no
+08 Jul 2016 00:38:26 : Cipher , Wertfuzzy77#0274 , and im trying to make it actually work correctly
+08 Jul 2016 00:38:27 : Cipher , Roy210#7098 , you did muteperm
+08 Jul 2016 00:38:31 : Cipher , Wertfuzzy77#0274 , ik
+08 Jul 2016 00:38:39 : Cipher , Wertfuzzy77#0274 , but muteperm will replace mute
+08 Jul 2016 00:38:43 : Cipher , Wertfuzzy77#0274 , or atleast the code will
+08 Jul 2016 00:38:45 : Cipher , Wertfuzzy77#0274 , eventually
+08 Jul 2016 00:38:47 : Cipher , Wertfuzzy77#0274 , once it works
+08 Jul 2016 00:38:49 : Cipher , Roy210#7098 , <@!134441036905840640> u joining server later?
+08 Jul 2016 00:39:17 : Cipher , Wertfuzzy77#0274 , ;debug bot.edit_channel_permissions(ctx.message.channel, ctx.message.server.get_member_named("Roy210"), discord.PermissionOverwrite())
+08 Jul 2016 00:39:17 : Cipher , Botfuzzy77#2209 , ```py
+None
+```
+08 Jul 2016 00:39:24 : Cipher , Wertfuzzy77#0274 , ctx.message.server.get_member_named("Roy210")
+08 Jul 2016 00:39:28 : Cipher , Wertfuzzy77#0274 , ;debug ctx.message.server.get_member_named("Roy210")
+08 Jul 2016 00:39:28 : Cipher , Botfuzzy77#2209 , ```py
+Roy210#7098
+```
+08 Jul 2016 00:39:40 : Cipher , Roy210#7098 , actually
+08 Jul 2016 00:39:47 : Cipher , Roy210#7098 , my name is wrong
+08 Jul 2016 00:39:52 : Cipher , Roy210#7098 , i do have a profile pic
+08 Jul 2016 00:40:04 : Cipher , Roy210#7098 , its just the purple discord
+08 Jul 2016 00:40:09 : Cipher , Roy210#7098 , but you can't get that
+08 Jul 2016 00:40:12 : Cipher , Wertfuzzy77#0274 , ;relog
+08 Jul 2016 00:40:13 : Cipher , Botfuzzy77#2209 , Relogging...

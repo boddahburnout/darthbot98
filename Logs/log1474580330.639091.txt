@@ -1,0 +1,16 @@
+22 Sep 2016 21:39:23 : The Wild Weeaboos, general, FinaldF#5864, currentSum = 0;
+For i=1, 2, ..., n
+    currentSum = A[i];
+     For j = i+1, i+2, ..., n
+        currentSum = currentSum + A[j]
+         Store the current sum in B[i, j]
+     Endfor
+Endfor
+22 Sep 2016 21:39:40 : The Wild Weeaboos, general, FinaldF#5864, ;join
+22 Sep 2016 21:39:44 : The Wild Weeaboos, general, FinaldF#5864, ;leave
+22 Sep 2016 21:39:57 : The Wild Weeaboos, general, Tally#2764, ;join
+22 Sep 2016 21:39:59 : The Wild Weeaboos, general, Tally#2764, ;join
+22 Sep 2016 21:40:03 : The Wild Weeaboos, general, Tally#2764, ;join
+22 Sep 2016 21:40:09 : The Wild Weeaboos, general, Tally#2764, ;leave
+22 Sep 2016 21:40:17 : The Wild Weeaboos, general, Wertfuzzy77#0274, ;relog
+22 Sep 2016 21:40:17 : The Wild Weeaboos, general, Botfuzzy77#2209, Relogging...

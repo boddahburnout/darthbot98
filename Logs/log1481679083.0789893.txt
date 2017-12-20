@@ -1,0 +1,192 @@
+14 Dec 2016 01:31:33 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+14 Dec 2016 01:31:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=nZ6yQgBvuoI
+14 Dec 2016 01:31:44 : LimitlessMc, botchat, Botfuzzy77#2209, Added "Have Yourself a Merry Little Christmas" by Frank Sinatra to the queue
+14 Dec 2016 01:31:48 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio
+14 Dec 2016 01:31:49 : LimitlessMc, botchat, Botfuzzy77#2209, Radio Mode: True
+14 Dec 2016 01:31:58 : LimitlessMc, botchat, NarcoticMile#6198, yay
+14 Dec 2016 01:32:02 : LimitlessMc, botchat, ChesireKat#7022, ok so your right about the caps they would rape it
+14 Dec 2016 01:32:03 : LimitlessMc, botchat, ChesireKat#7022, but
+14 Dec 2016 01:32:13 : LimitlessMc, botchat, ChesireKat#7022, whats the period for?
+14 Dec 2016 01:32:19 : LimitlessMc, botchat, Wertfuzzy77#0274, nothing, looks nicer 😛
+14 Dec 2016 01:32:24 : LimitlessMc, botchat, ChesireKat#7022, it causes syntax error
+14 Dec 2016 01:32:26 : LimitlessMc, botchat, ChesireKat#7022, O.o
+14 Dec 2016 01:32:28 : LimitlessMc, botchat, Wertfuzzy77#0274, hmm?
+14 Dec 2016 01:32:37 : LimitlessMc, botchat, ChesireKat#7022, options=['no']
+
+typedoption=str(input('is this rape?: '))
+
+if typedoption.lower in options:
+    print('Then this isnt rape.')
+else: 
+    print('You are lieing'.)
+14 Dec 2016 01:32:41 : LimitlessMc, botchat, ChesireKat#7022, the last one
+14 Dec 2016 01:32:45 : LimitlessMc, botchat, Wertfuzzy77#0274, oh, i put it ouside the ' xD
+14 Dec 2016 01:32:47 : LimitlessMc, botchat, Wertfuzzy77#0274, woops
+14 Dec 2016 01:32:48 : LimitlessMc, botchat, ChesireKat#7022, after you are lieing
+14 Dec 2016 01:32:51 : LimitlessMc, botchat, ChesireKat#7022, XD
+14 Dec 2016 01:32:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+14 Dec 2016 01:32:55 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+14 Dec 2016 01:32:56 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Wham! - Last Christmas **Radio**
+	<https://www.youtube.com/watch?v=E8gmARGvPlI>
+Total Time is 0:04:38
+14 Dec 2016 01:33:07 : LimitlessMc, botchat, ChesireKat#7022, ok so you meant to put it in the bracket?
+14 Dec 2016 01:33:11 : LimitlessMc, botchat, ChesireKat#7022, i get it now
+14 Dec 2016 01:33:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ya, should be in the quotes
+14 Dec 2016 01:33:18 : LimitlessMc, botchat, ChesireKat#7022, kk
+14 Dec 2016 01:33:20 : LimitlessMc, botchat, ChesireKat#7022, ty
+14 Dec 2016 01:33:30 : LimitlessMc, botchat, NarcoticMile#6198, wert you think i could be a good gym leader
+14 Dec 2016 01:33:37 : LimitlessMc, botchat, Wertfuzzy77#0274, also, vote to skip and ;remove should work right now
+14 Dec 2016 01:33:42 : LimitlessMc, botchat, ChesireKat#7022, nce
+14 Dec 2016 01:33:57 : LimitlessMc, botchat, Wertfuzzy77#0274, ya, anyone can be a good gym leader, just have to put some time into building and training
+14 Dec 2016 01:34:00 : LimitlessMc, botchat, ChesireKat#7022, i still cant figure out the two commands light gave me XD
+14 Dec 2016 01:34:13 : LimitlessMc, botchat, Wertfuzzy77#0274, most 'bad' gym leaders just dont put enough time into their gym
+14 Dec 2016 01:34:16 : LimitlessMc, botchat, ChesireKat#7022, im trying tho maybe once ive finished the tut
+14 Dec 2016 01:34:30 : LimitlessMc, botchat, Wertfuzzy77#0274, @Botfuzzy77 you excited for Christmas?
+14 Dec 2016 01:34:31 : LimitlessMc, botchat, Botfuzzy77#2209, Yes.
+14 Dec 2016 01:34:33 : LimitlessMc, botchat, NarcoticMile#6198, yeh got the gym down
+14 Dec 2016 01:34:39 : LimitlessMc, botchat, ChesireKat#7022, XD
+14 Dec 2016 01:34:39 : LimitlessMc, botchat, Wertfuzzy77#0274, @Botfuzzy77 what you most excited about?
+14 Dec 2016 01:34:39 : LimitlessMc, botchat, Botfuzzy77#2209, Presents and being with my family.
+14 Dec 2016 01:34:47 : LimitlessMc, botchat, ChesireKat#7022, woah!
+14 Dec 2016 01:34:53 : LimitlessMc, botchat, ChesireKat#7022, your cleverbot is....clever
+14 Dec 2016 01:34:59 : LimitlessMc, botchat, Wertfuzzy77#0274, @Botfuzzy77 yeah, that sounds pretty good too, but it will nice to just be home.
+14 Dec 2016 01:34:59 : LimitlessMc, botchat, Botfuzzy77#2209, It is actually. What do you have for breakfast?
+14 Dec 2016 01:35:09 : LimitlessMc, botchat, Wertfuzzy77#0274, ya 😛
+14 Dec 2016 01:35:12 : LimitlessMc, botchat, Wertfuzzy77#0274, he clever
+14 Dec 2016 01:35:15 : LimitlessMc, botchat, ChesireKat#7022, nice!
+14 Dec 2016 01:35:17 : LimitlessMc, botchat, Wertfuzzy77#0274, or she
+14 Dec 2016 01:35:21 : LimitlessMc, botchat, ChesireKat#7022, XD
+14 Dec 2016 01:35:25 : LimitlessMc, botchat, Wertfuzzy77#0274, @Botfuzzy77 you a boy or a girl this time?
+14 Dec 2016 01:35:26 : LimitlessMc, botchat, Botfuzzy77#2209, Girl.
+14 Dec 2016 01:35:30 : LimitlessMc, botchat, ChesireKat#7022, lol
+14 Dec 2016 01:35:34 : LimitlessMc, botchat, Wertfuzzy77#0274, She
+14 Dec 2016 01:35:38 : LimitlessMc, botchat, Wertfuzzy77#0274, they are apparently genderfluid
+14 Dec 2016 01:35:55 : LimitlessMc, botchat, ChesireKat#7022, how did you go about making it hold a convorsation?
+14 Dec 2016 01:36:11 : LimitlessMc, botchat, Wertfuzzy77#0274, well, I dont recreate the Cleverbot() everytime it is run
+14 Dec 2016 01:36:18 : LimitlessMc, botchat, Wertfuzzy77#0274, i save is as a global variable
+14 Dec 2016 01:36:20 : LimitlessMc, botchat, ChesireKat#7022, oh
+14 Dec 2016 01:36:27 : LimitlessMc, botchat, Wertfuzzy77#0274, and just keep sending messages to the same object
+14 Dec 2016 01:36:43 : LimitlessMc, botchat, ChesireKat#7022, btw im copeing this down for the day it makes sense to em
+14 Dec 2016 01:36:45 : LimitlessMc, botchat, ChesireKat#7022, 😛
+14 Dec 2016 01:37:06 : LimitlessMc, botchat, Wertfuzzy77#0274, also, i dont have a cmd for mine, its built into the `on_message` method
+14 Dec 2016 01:37:22 : LimitlessMc, botchat, Wertfuzzy77#0274, thats how it responds when you @ it
+14 Dec 2016 01:37:35 : LimitlessMc, botchat, ChesireKat#7022, does it work better that way? or is that just preferance
+14 Dec 2016 01:37:42 : LimitlessMc, botchat, Wertfuzzy77#0274, i like it better
+14 Dec 2016 01:37:51 : LimitlessMc, botchat, Wertfuzzy77#0274, but preference
+14 Dec 2016 01:38:02 : LimitlessMc, botchat, ChesireKat#7022, ok because i prefer the ^kat
+14 Dec 2016 01:38:04 : LimitlessMc, botchat, Wertfuzzy77#0274, codewise its no difference
+14 Dec 2016 01:38:06 : LimitlessMc, botchat, ChesireKat#7022, 😛
+14 Dec 2016 01:38:22 : LimitlessMc, botchat, Wertfuzzy77#0274, well, actually little more complicated with mentions
+14 Dec 2016 01:38:27 : LimitlessMc, botchat, ChesireKat#7022, XD i have a folder  with werts wisdom O.o
+14 Dec 2016 01:38:30 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+14 Dec 2016 01:38:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+14 Dec 2016 01:38:50 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+14 Dec 2016 01:38:50 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Mariah Carey - All I Want For Christmas Is You **Radio**
+	<https://www.youtube.com/watch?v=yXQViqx6GMY>
+Total Time is 0:03:55
+14 Dec 2016 01:39:06 : LimitlessMc, botchat, ChesireKat#7022, for the day that the terms u use make sense i will implement it XD
+14 Dec 2016 01:39:19 : LimitlessMc, botchat, Wertfuzzy77#0274, one day, it will all make sense
+14 Dec 2016 01:39:55 : LimitlessMc, botchat, ChesireKat#7022, like right now i have an idea what "global variable" might be but have no idea how to go about that whole proccess 😛
+14 Dec 2016 01:39:59 : LimitlessMc, botchat, ChesireKat#7022, yes soon
+14 Dec 2016 01:40:01 : LimitlessMc, botchat, ChesireKat#7022, very soon
+14 Dec 2016 01:40:03 : LimitlessMc, botchat, ChesireKat#7022, 😛
+14 Dec 2016 01:40:12 : LimitlessMc, botchat, NarcoticMile#6198, you learn fat kat
+14 Dec 2016 01:40:16 : LimitlessMc, botchat, NarcoticMile#6198, fast
+14 Dec 2016 01:40:17 : LimitlessMc, botchat, ChesireKat#7022, ;-;
+14 Dec 2016 01:40:18 : LimitlessMc, botchat, NarcoticMile#6198, not fat
+14 Dec 2016 01:40:22 : LimitlessMc, botchat, ChesireKat#7022, i cri
+14 Dec 2016 01:40:23 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+14 Dec 2016 01:40:25 : LimitlessMc, botchat, Wertfuzzy77#0274, gj
+14 Dec 2016 01:40:27 : LimitlessMc, botchat, NarcoticMile#6198, your not fat
+14 Dec 2016 01:40:29 : LimitlessMc, botchat, ChesireKat#7022, roasted while tryin to learn
+14 Dec 2016 01:40:38 : LimitlessMc, botchat, NarcoticMile#6198, i think oyu look very pretty
+14 Dec 2016 01:40:39 : LimitlessMc, botchat, ChesireKat#7022, 2spooky4me
+14 Dec 2016 01:40:46 : LimitlessMc, botchat, ChesireKat#7022, idk
+14 Dec 2016 01:40:48 : LimitlessMc, botchat, ChesireKat#7022, you just
+14 Dec 2016 01:40:50 : LimitlessMc, botchat, ChesireKat#7022, called me
+14 Dec 2016 01:40:52 : LimitlessMc, botchat, ChesireKat#7022, fat
+14 Dec 2016 01:40:56 : LimitlessMc, botchat, ChesireKat#7022, O.o
+14 Dec 2016 01:40:58 : LimitlessMc, botchat, NarcoticMile#6198, i didnt meant ot
+14 Dec 2016 01:41:00 : LimitlessMc, botchat, NarcoticMile#6198, to
+14 Dec 2016 01:41:10 : LimitlessMc, botchat, NarcoticMile#6198, i type fast
+14 Dec 2016 01:41:19 : LimitlessMc, botchat, ChesireKat#7022, mmmhhmmm yep seems fishy to be honest
+14 Dec 2016 01:41:34 : LimitlessMc, botchat, ChesireKat#7022, 😛
+14 Dec 2016 01:41:39 : LimitlessMc, botchat, NarcoticMile#6198, ;-; welp
+14 Dec 2016 01:41:46 : LimitlessMc, botchat, NarcoticMile#6198, i sorry ill go then
+14 Dec 2016 01:41:56 : LimitlessMc, botchat, ChesireKat#7022, _TRIGGERED_
+14 Dec 2016 01:41:59 : LimitlessMc, botchat, ChesireKat#7022, 😛
+14 Dec 2016 01:42:11 : LimitlessMc, botchat, NarcoticMile#6198, -__
+14 Dec 2016 01:42:25 : LimitlessMc, botchat, ChesireKat#7022, oh yea wert is what you have done with your bot completly unheard of?
+14 Dec 2016 01:43:12 : LimitlessMc, botchat, ChesireKat#7022, because i went to the python discord....or maybe a python related discord and they got triggered when i brought up music bot and non music features
+14 Dec 2016 01:43:17 : LimitlessMc, botchat, ChesireKat#7022, like really worked up
+14 Dec 2016 01:43:20 : LimitlessMc, botchat, ChesireKat#7022, -.-
+14 Dec 2016 01:43:23 : LimitlessMc, botchat, ChesireKat#7022, so i left
+14 Dec 2016 01:44:34 : LimitlessMc, botchat, Lightning#6734, lul
+14 Dec 2016 01:45:41 : LimitlessMc, botchat, NarcoticMile#6198, can you forgive me kat
+14 Dec 2016 01:45:56 : LimitlessMc, botchat, Wertfuzzy77#0274, nah, lots of discord bots
+14 Dec 2016 01:46:07 : LimitlessMc, botchat, Wertfuzzy77#0274, python is a common language for them too
+14 Dec 2016 01:46:37 : LimitlessMc, botchat, Wertfuzzy77#0274, I use an actual python wrapper tho, so its cleaner
+14 Dec 2016 01:46:48 : LimitlessMc, botchat, Wertfuzzy77#0274, https://github.com/Rapptz/discord.py
+14 Dec 2016 01:50:52 : LimitlessMc, botchat, ChesireKat#7022, nope
+14 Dec 2016 01:51:07 : LimitlessMc, botchat, ChesireKat#7022, oh
+14 Dec 2016 01:51:11 : LimitlessMc, botchat, ChesireKat#7022, ok
+14 Dec 2016 01:51:28 : LimitlessMc, botchat, Wertfuzzy77#0274, @mjrocksa you can add songs with ;youtube or ;search
+14 Dec 2016 01:51:44 : LimitlessMc, mainchat, Botfuzzy77#2209, Welcome @Walrus to LimitlessMc!
+14 Dec 2016 01:51:44 : LimitlessMc, mainchat, Gerald#7099, ​A meowth welcome to @Walrus
+14 Dec 2016 01:52:46 : LimitlessMc, botchat, Wertfuzzy77#0274, @Walrus same to you
+14 Dec 2016 01:52:55 : LimitlessMc, mainchat, Walrus#0511, yo
+14 Dec 2016 01:52:59 : LimitlessMc, mainchat, Wertfuzzy77#0274, Hola
+14 Dec 2016 01:53:06 : LimitlessMc, mainchat, Wertfuzzy77#0274, #botchat to interact with the bot
+14 Dec 2016 01:53:33 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+14 Dec 2016 01:53:33 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+14 Dec 2016 01:53:33 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Mariah Carey - All I Want For Christmas Is You **Radio**
+	<https://www.youtube.com/watch?v=yXQViqx6GMY>
+Total Time is 0:03:55
+14 Dec 2016 01:53:47 : LimitlessMc, botchat, ChesireKat#7022, :youtube oh f**k yea bud
+14 Dec 2016 01:53:52 : LimitlessMc, botchat, ChesireKat#7022, i cri
+14 Dec 2016 01:54:11 : LimitlessMc, botchat, ChesireKat#7022, ;youtube oh f**k yea bud
+14 Dec 2016 01:54:11 : LimitlessMc, botchat, Botfuzzy77#2209, Not a Valid Link, Please only use URLs from youtube.com
+14 Dec 2016 01:54:13 : LimitlessMc, botchat, Wertfuzzy77#0274, you used a : xD
+14 Dec 2016 01:54:20 : LimitlessMc, botchat, ChesireKat#7022, ik ;-;
+14 Dec 2016 01:54:43 : LimitlessMc, botchat, ChesireKat#7022, ive been doing python tut for the last few hours XD they dont use ;
+14 Dec 2016 01:54:45 : LimitlessMc, botchat, ChesireKat#7022, much
+14 Dec 2016 01:55:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ya, ; is like never used
+14 Dec 2016 01:55:06 : LimitlessMc, botchat, ChesireKat#7022, ;search oh f**k yea bud
+14 Dec 2016 01:55:07 : LimitlessMc, botchat, Wertfuzzy77#0274, which is v nice 😄
+14 Dec 2016 01:55:10 : LimitlessMc, botchat, Botfuzzy77#2209, Added OUT FOR A RIP - OFFICIAL VIDEO to the queue
+14 Dec 2016 01:55:10 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=F-glHAzXi_M
+14 Dec 2016 01:55:11 : LimitlessMc, botchat, ChesireKat#7022, yea
+14 Dec 2016 01:55:20 : LimitlessMc, botchat, ChesireKat#7022, close enough ;-;
+14 Dec 2016 01:55:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=WHoPIlzUUoI
+14 Dec 2016 01:55:29 : LimitlessMc, botchat, Botfuzzy77#2209, Added "Stitches" - Shawn Mendes (Piano Cover) - Costantino Carrara to the queue
+14 Dec 2016 01:56:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=-GTz0edlA2c
+14 Dec 2016 01:56:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 1
+14 Dec 2016 01:56:03 : LimitlessMc, botchat, Botfuzzy77#2209, You must be the requester of the song to remove it from queue!
+14 Dec 2016 01:56:03 : LimitlessMc, botchat, Botfuzzy77#2209, Added "A Sky Full Of Stars" - Coldplay (Grand Piano Cover) - Costantino Carrara to the queue
+14 Dec 2016 01:56:13 : LimitlessMc, botchat, ChesireKat#7022, my brain is mush brb
+14 Dec 2016 01:56:16 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+14 Dec 2016 01:56:19 : LimitlessMc, botchat, ChesireKat#7022, gunna go for a walk XD
+14 Dec 2016 01:56:42 : LimitlessMc, botchat, Wertfuzzy77#0274, gl
+14 Dec 2016 01:56:44 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=rExcQ5nm_yU
+14 Dec 2016 01:56:45 : LimitlessMc, botchat, Botfuzzy77#2209, Added "Let Her Go" - Passenger (Grand Piano Cover) - Costantino Carrara to the queue
+14 Dec 2016 01:56:48 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+14 Dec 2016 01:56:48 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+14 Dec 2016 01:56:48 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Mariah Carey - All I Want For Christmas Is You **Radio**
+	<https://www.youtube.com/watch?v=yXQViqx6GMY>
+2. OUT FOR A RIP - OFFICIAL VIDEO **ChesireKat**
+	<https://www.youtube.com/watch?v=F-glHAzXi_M>
+3. "Stitches" - Shawn Mendes (Piano Cover) - Costantino Carrara **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=WHoPIlzUUoI>
+4. "A Sky Full Of Stars" - Coldplay (Grand Piano Cover) - Costantino Carrara **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=-GTz0edlA2c>
+5. "Let Her Go" - Passenger (Grand Piano Cover) - Costantino Carrara **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=rExcQ5nm_yU>
+Total Time is 0:20:16
+14 Dec 2016 01:57:12 : LimitlessMc, botchat, Wertfuzzy77#0274, btw @mjrocksa  and @Walrus you can vote to skip a song with ;skip
+14 Dec 2016 01:57:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+14 Dec 2016 01:57:25 : LimitlessMc, botchat, Walrus#0511, i would add some really trashy metal music but i feel it would get skipped instantly
+14 Dec 2016 01:57:40 : LimitlessMc, botchat, Wertfuzzy77#0274, rip, i made a mistake coding it xD
+14 Dec 2016 01:57:44 : LimitlessMc, botchat, Wertfuzzy77#0274, we cant skip any songs now
+14 Dec 2016 01:59:53 : LimitlessMc, botchat, Wertfuzzy77#0274, I kill bot real quick
+14 Dec 2016 02:00:06 : LimitlessMc, botchat, Wertfuzzy77#0274, ;relog
+14 Dec 2016 02:00:06 : LimitlessMc, botchat, Botfuzzy77#2209, Relogging...

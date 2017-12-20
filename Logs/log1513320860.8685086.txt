@@ -1,0 +1,20 @@
+15 Dec 2017 06:54:31 : FAM, off-topic, darth kota#9446, ;joimn
+15 Dec 2017 06:54:34 : FAM, off-topic, darth kota#9446, ;join
+15 Dec 2017 06:54:35 : FAM, off-topic, darthbot98#5182, Connected channel!
+15 Dec 2017 06:54:41 : FAM, off-topic, darth kota#9446, ;search simple man
+15 Dec 2017 06:54:45 : FAM, off-topic, darthbot98#5182, Added Simple Man - Lynyrd Skynyrd - Lyrics HD to the queue
+15 Dec 2017 06:54:45 : FAM, off-topic, darthbot98#5182, https://www.youtube.com/watch?v=sMmTkKz60W8
+15 Dec 2017 06:54:52 : FAM, off-topic, darth kota#9446, ;pause
+15 Dec 2017 06:57:33 : FAM, off-topic, darth kota#9446, ;reload
+15 Dec 2017 06:57:33 : FAM, off-topic, darthbot98#5182, Reloaded
+15 Dec 2017 06:57:38 : FAM, off-topic, darth kota#9446, ;join
+15 Dec 2017 06:57:38 : FAM, off-topic, darthbot98#5182, Reconnected channel!
+15 Dec 2017 06:57:42 : FAM, off-topic, darth kota#9446, ;pause
+15 Dec 2017 06:59:16 : FAM, off-topic, darth kota#9446, ;debug
+15 Dec 2017 06:59:32 : FAM, off-topic, darth kota#9446, ;debug pause
+15 Dec 2017 06:59:32 : FAM, off-topic, darthbot98#5182, ```py
+NameError: name 'pause' is not defined
+```
+15 Dec 2017 07:00:10 : FAM, off-topic, darth kota#9446, ;debug bot.__dict__
+15 Dec 2017 07:26:11 : FAM, off-topic, darth kota#9446, ;relog
+15 Dec 2017 07:26:11 : FAM, off-topic, darthbot98#5182, Relogging...

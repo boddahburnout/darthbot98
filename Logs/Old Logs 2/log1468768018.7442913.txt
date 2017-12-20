@@ -1,0 +1,214 @@
+17 Jul 2016 15:07:07 : Cipher , Wertfuzzy77#0274 , ;join
+17 Jul 2016 15:07:10 : Cipher , Jabulla#3761 , :bet
+17 Jul 2016 15:07:14 : Cipher , Jabulla#3761 , ;bet
+17 Jul 2016 15:07:21 : LimitlessMc , Botfuzzy77#2209 , Welcome <@204252736089358336> to LimitlessMc!
+17 Jul 2016 15:07:21 : Cipher , Skyd#9935 , Then music D:
+17 Jul 2016 15:07:27 : Cipher , Wertfuzzy77#0274 , ;playlist 2Cellos ACDC Maroon Coldplay Adele
+17 Jul 2016 15:07:43 : Cipher , Skyd#9935 , ;song 
+17 Jul 2016 15:07:44 : Cipher , Botfuzzy77#2209 , ```Name: 2CELLOS - Thunderstruck [OFFICIAL VIDEO]
+URL: <https://www.youtube.com/watch?v=uT3SBzmDxGk>
+Time: 0:04:58
+Views: 62,455,969
+Likes: 607,481, 98.51%
+Dislikes: 9,188, 1.49%
+```
+17 Jul 2016 15:07:44 : Cipher , Wertfuzzy77#0274 , ;playlists
+17 Jul 2016 15:07:44 : Cipher , Botfuzzy77#2209 , Coldplay[5], WEEB[1], Sheeran[6], Adele[5], Maroon[5], 2Cellos[5], ACDC[5]
+17 Jul 2016 15:07:46 : Cipher , Botfuzzy77#2209 , Finished Adding songs from playlist(s)
+17 Jul 2016 15:07:51 : Cipher , Wertfuzzy77#0274 , ;shuffle
+17 Jul 2016 15:07:51 : Cipher , Botfuzzy77#2209 , Shuffling songs...
+17 Jul 2016 15:07:56 : Cipher , Jabulla#3761 , ;play https://www.youtube.com/watch?v=-FcmuOW1qt8
+17 Jul 2016 15:07:58 : LimitlessMc , Botfuzzy77#2209 , Welcome <@160929415537098752> to LimitlessMc!
+17 Jul 2016 15:07:58 : Cipher , Wertfuzzy77#0274 , join <@183411857225285632>
+17 Jul 2016 15:08:04 : Cipher , Wertfuzzy77#0274 , its ;youtube
+17 Jul 2016 15:08:07 : Cipher , Wertfuzzy77#0274 , ;help youtube
+17 Jul 2016 15:08:07 : Cipher , Botfuzzy77#2209 , ```
+;youtube [links...]
+
+Adds a Song for the Bot to Play
+
+```
+17 Jul 2016 15:08:09 : Cipher , Jabulla#3761 , ? I don't know how to do... :c
+17 Jul 2016 15:08:09 : LimitlessMc , Critical#6403 , what did happen?
+17 Jul 2016 15:08:13 : Cipher , Wertfuzzy77#0274 , ;help MusicPlayer
+17 Jul 2016 15:08:13 : Cipher , Botfuzzy77#2209 , ```
+Commands:
+  skip        Skips the Current song
+  shuffle     Shuffles the songs in the Queue
+  youtube     Adds a Song for the Bot to Play
+  song        Returns information about the current playing song
+  desc        Decription of the Current playing song
+  remove      removes a song from a queue by index
+  playlist    Adds songs from a predefined playlist to the songs list
+  playlists   
+  leave       Leaves the Join chat
+  join        Joins the Voice channel you are currently in
+  songs       Prints the songs in the queue
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+17 Jul 2016 15:08:15 : Cipher , Wertfuzzy77#0274 , ^
+17 Jul 2016 15:08:15 : Cipher , Botfuzzy77#2209 , ^
+17 Jul 2016 15:08:24 : Cipher , Jabulla#3761 , ;youtube https://www.youtube.com/watch?v=-FcmuOW1qt8
+17 Jul 2016 15:08:28 : Cipher , Wertfuzzy77#0274 , ;songs
+17 Jul 2016 15:08:28 : Cipher , Botfuzzy77#2209 , **The Following songs are in the Queue, plus [15] more**
+17 Jul 2016 15:08:28 : Cipher , Botfuzzy77#2209 , AC/DC - Hells Bells (https://www.youtube.com/watch?v=etAIpkdhU9Q)
+Adele - Someone Like You (https://www.youtube.com/watch?v=hLQl3WQQoQ0)
+2Cellos - Viva La Vida (Coldplay) (https://www.youtube.com/watch?v=Dp_SwthvfGc)
+2CELLOS - Wake Me Up - Avicii [OFFICIAL VIDEO] (https://www.youtube.com/watch?v=N-YuSKeFMxY)
+Coldplay - Viva La Vida (https://www.youtube.com/watch?v=dvgZkm1xWPE)
+Maroon 5 - Payphone (Explicit) ft. Wiz Khalifa (https://www.youtube.com/watch?v=KRaWnd3LJfs)
+Maroon 5 - Animals (https://www.youtube.com/watch?v=qpgTC9MDx1o)
+2CELLOS - Smooth Criminal [OFFICIAL VIDEO] (https://www.youtube.com/watch?v=Mx0xCI1jaUM)
+Maroon 5 - Maps (Explicit) (https://www.youtube.com/watch?v=NmugSMBh_iI)
+Adele - Rolling in the Deep (https://www.youtube.com/watch?v=rYEDA3JcQqw)
+Total Time is 1:56:49
+17 Jul 2016 15:08:30 : Cipher , Jabulla#3761 , Like that?
+17 Jul 2016 15:08:32 : LimitlessMc , Wickedshot#0171 , rip?
+17 Jul 2016 15:08:33 : Cipher , Wertfuzzy77#0274 , ya
+17 Jul 2016 15:08:35 : Cipher , Wertfuzzy77#0274 , it added it
+17 Jul 2016 15:08:46 : Cipher , Wertfuzzy77#0274 , but 25 songs down the list xD
+17 Jul 2016 15:08:50 : Cipher , Jabulla#3761 , Hahaa
+17 Jul 2016 15:08:55 : Cipher , Wertfuzzy77#0274 , ;shuffle
+17 Jul 2016 15:08:55 : Cipher , Botfuzzy77#2209 , Shuffling songs...
+17 Jul 2016 15:08:58 : Cipher , Skyd#9935 , There we go ahah 
+17 Jul 2016 15:09:01 : Cipher , Wertfuzzy77#0274 , there, now its random
+17 Jul 2016 15:09:08 : LimitlessMc , Wertfuzzy77#0274 , i think
+17 Jul 2016 15:09:20 : Cipher , Jabulla#3761 , In the clip, and it looks like demonic possesion at this point hahah
+17 Jul 2016 15:09:27 : Cipher , Wertfuzzy77#0274 , @here join music chat
+17 Jul 2016 15:09:48 : Cipher , Skyd#9935 , Yeah if you aren't in there you are missing out 
+17 Jul 2016 15:09:51 : Cipher , Wertfuzzy77#0274 , ^
+17 Jul 2016 15:09:52 : Cipher , Botfuzzy77#2209 , ^
+17 Jul 2016 15:09:58 : Cipher , Wertfuzzy77#0274 , awesome music in queue
+17 Jul 2016 15:10:24 : Cipher , Wertfuzzy77#0274 , ;songs
+17 Jul 2016 15:10:24 : Cipher , Botfuzzy77#2209 , **The Following songs are in the Queue, plus [15] more**
+17 Jul 2016 15:10:24 : Cipher , Botfuzzy77#2209 , Coldplay - Viva La Vida (https://www.youtube.com/watch?v=dvgZkm1xWPE)
+Maroon 5 - Moves Like Jagger ft. Christina Aguilera (https://www.youtube.com/watch?v=iEPTlhBmwRg)
+Adele - Turning Tables (With Lyrics) (https://www.youtube.com/watch?v=dx7sLNyIeQk)
+Maroon 5 - Sugar (https://www.youtube.com/watch?v=09R8_2nJtjg)
+2Cellos - Viva La Vida (Coldplay) (https://www.youtube.com/watch?v=Dp_SwthvfGc)
+Adele - Someone Like You (https://www.youtube.com/watch?v=hLQl3WQQoQ0)
+AC/DC - Highway to Hell (https://www.youtube.com/watch?v=gEPmA3USJdI)
+Maroon 5 - Payphone (Explicit) ft. Wiz Khalifa (https://www.youtube.com/watch?v=KRaWnd3LJfs)
+2Cellos - Use Somebody (Kings Of Leon) (https://www.youtube.com/watch?v=-FcmuOW1qt8)
+Coldplay - Adventure Of A Lifetime (Official video) (https://www.youtube.com/watch?v=QtXby3twMmI)
+Total Time is 1:56:49
+17 Jul 2016 15:10:36 : Cipher , Wertfuzzy77#0274 , should i make like a ;next ?
+17 Jul 2016 15:10:40 : Cipher , Wertfuzzy77#0274 , and give info on that song?
+17 Jul 2016 15:10:43 : Cipher , Wertfuzzy77#0274 , like ;song does
+17 Jul 2016 15:11:01 : Cipher , Jabulla#3761 , do you have a ;skip? to go to next song?
+17 Jul 2016 15:11:03 : Cipher , Wertfuzzy77#0274 , ya
+17 Jul 2016 15:11:07 : Cipher , Jabulla#3761 , GGWP
+17 Jul 2016 15:11:15 : Cipher , Wertfuzzy77#0274 , have everything xD
+17 Jul 2016 15:11:16 : Cipher , Topheralan#1202 , i saw 2 cellos when they opened for elton john, was pretty cool
+17 Jul 2016 15:11:21 : Cipher , Jabulla#3761 , Killer
+17 Jul 2016 15:11:22 : Cipher , Wertfuzzy77#0274 , yeah, they are really good
+17 Jul 2016 15:12:27 : Cipher , Wertfuzzy77#0274 , ;skip
+17 Jul 2016 15:12:27 : Cipher , Botfuzzy77#2209 , Skipping 2CELLOS - Thunderstruck [OFFICIAL VIDEO]
+17 Jul 2016 15:12:55 : Cipher , Jabulla#3761 , Toph, Are you putting walls on the question clouds in your Jim?
+17 Jul 2016 15:17:57 : Cipher , Akinci#5072 , ;youtube https://www.youtube.com/watch?v=SmjuzquC7pg
+17 Jul 2016 15:17:59 : Cipher , Botfuzzy77#2209 , Sorry, that video has too little views to be Trustworthy. Needs [20,000] but has [8,856]
+17 Jul 2016 15:18:18 : Cipher , Akinci#5072 , ;youtube https://www.youtube.com/watch?v=BR0e7UX_eM4
+17 Jul 2016 15:21:35 : LimitlessMc , Wertfuzzy77#0274 , wut m8
+17 Jul 2016 15:21:35 : LimitlessMc , Mystz#8072 , ri
+17 Jul 2016 15:21:36 : Cipher , Skyd#9935 , Crashhh
+17 Jul 2016 15:21:38 : LimitlessMc , Allianths#4161 , lol
+17 Jul 2016 15:21:38 : LimitlessMc , Mystz#8072 , y r u in the end
+17 Jul 2016 15:21:40 : LimitlessMc , Mystz#8072 , its broken
+17 Jul 2016 15:21:43 : Cipher , Jabulla#3761 , "Server is closed, get out" ~ Wert
+17 Jul 2016 15:21:45 : LimitlessMc , Wertfuzzy77#0274 , we arent lol
+17 Jul 2016 15:21:48 : Cipher , Topheralan#1202 , wtf
+17 Jul 2016 15:21:55 : LimitlessMc , Wertfuzzy77#0274 , just .//setbiome so pokemans dont spawn
+17 Jul 2016 15:21:57 : LimitlessMc , Mystz#8072 , y it say the end
+17 Jul 2016 15:22:03 : Cipher , Skyd#9935 , Also Alli and I are just chilling 
+17 Jul 2016 15:22:10 : Cipher , Skyd#9935 , Watching everyone kill stuff 
+17 Jul 2016 15:22:12 : LimitlessMc , Mystz#8072 , w.e just blame jay
+17 Jul 2016 15:22:14 : LimitlessMc , Wickedshot#0171 , you should just let us win
+17 Jul 2016 15:22:15 : Cipher , Jabulla#3761 , #Wert4President
+17 Jul 2016 15:22:17 : LimitlessMc , Wickedshot#0171 , we cant do anything
+17 Jul 2016 15:22:17 : Cipher , Wertfuzzy77#0274 , xD why does everyone blame me for stuff
+17 Jul 2016 15:22:21 : Cipher , Wertfuzzy77#0274 , like i dont do anything
+17 Jul 2016 15:22:21 : LimitlessMc , Wickedshot#0171 , keeps crashing
+17 Jul 2016 15:22:24 : Cipher , Topheralan#1202 , bc jay hates you lmao
+17 Jul 2016 15:22:32 : Cipher , Wertfuzzy77#0274 , ik lol
+17 Jul 2016 15:22:33 : Cipher , Jabulla#3761 , Bug in the code
+17 Jul 2016 15:22:45 : LimitlessMc , Mystz#8072 , pretty sure its because u guys are in the end
+17 Jul 2016 15:22:45 : LimitlessMc , Mystz#8072 , lol
+17 Jul 2016 15:22:50 : Cipher , Skyd#9935 , Someone tell me when it's the last 2 people and I'll come back and win 
+17 Jul 2016 15:22:52 : LimitlessMc , Wertfuzzy77#0274 , nah
+17 Jul 2016 15:23:03 : LimitlessMc , Wertfuzzy77#0274 , ive run mod arena many time before, never crashed this much
+17 Jul 2016 15:23:08 : LimitlessMc , Wertfuzzy77#0274 , mob*
+17 Jul 2016 15:23:15 : LimitlessMc , Wertfuzzy77#0274 , always been end biome
+17 Jul 2016 15:23:28 : LimitlessMc , Wertfuzzy77#0274 , and, NO I DID NOT CHANCE ANY GAMERULES
+17 Jul 2016 15:23:43 : LimitlessMc , Mystz#8072 , Why u change gamerules
+17 Jul 2016 15:23:53 : Cipher , Topheralan#1202 , lol
+17 Jul 2016 15:24:25 : LimitlessMc , Wertfuzzy77#0274 , jay thinks i did ;/
+17 Jul 2016 15:24:50 : Cipher , Wertfuzzy77#0274 , ;song
+17 Jul 2016 15:24:50 : Cipher , Botfuzzy77#2209 , ```Name: Maroon 5 - Moves Like Jagger ft. Christina Aguilera
+URL: <https://www.youtube.com/watch?v=iEPTlhBmwRg>
+Time: 0:04:39
+Views: 432,661,251
+Likes: 1,411,816, 96.15%
+Dislikes: 56,535, 3.85%
+```
+17 Jul 2016 15:24:53 : Cipher , Wertfuzzy77#0274 , ;skip
+17 Jul 2016 15:24:53 : Cipher , Botfuzzy77#2209 , Skipping Maroon 5 - Moves Like Jagger ft. Christina Aguilera
+17 Jul 2016 15:27:23 : Cipher , Jabulla#3761 , ;song
+17 Jul 2016 15:27:23 : Cipher , Botfuzzy77#2209 , ```Name: Maroon 5 - Moves Like Jagger ft. Christina Aguilera
+URL: <https://www.youtube.com/watch?v=iEPTlhBmwRg>
+Time: 0:04:39
+Views: 432,661,251
+Likes: 1,411,816, 96.15%
+Dislikes: 56,535, 3.85%
+```
+17 Jul 2016 15:27:30 : Cipher , Jabulla#3761 , ;skip
+17 Jul 2016 15:27:30 : Cipher , Botfuzzy77#2209 , Skipping Maroon 5 - Moves Like Jagger ft. Christina Aguilera
+17 Jul 2016 15:27:46 : None , Akinci#5072 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], "Skipping Maroon 5 - Moves Like Jagger ft. Christina Aguilera
+")
+17 Jul 2016 15:27:47 : None , Botfuzzy77#2209 , ```py
+SyntaxError: EOL while scanning string literal (<string>, line 1)
+```
+17 Jul 2016 15:27:51 : Cipher , Jabulla#3761 , ;dosmomethingwhatisthis
+17 Jul 2016 15:28:49 : Cipher , Wertfuzzy77#0274 , ;song
+17 Jul 2016 15:28:49 : Cipher , Botfuzzy77#2209 , ```Name: Maroon 5 - Moves Like Jagger ft. Christina Aguilera
+URL: <https://www.youtube.com/watch?v=iEPTlhBmwRg>
+Time: 0:04:39
+Views: 432,661,251
+Likes: 1,411,816, 96.15%
+Dislikes: 56,535, 3.85%
+```
+17 Jul 2016 15:28:51 : Cipher , Wertfuzzy77#0274 , ;skip
+17 Jul 2016 15:28:51 : Cipher , Botfuzzy77#2209 , Skipping Maroon 5 - Moves Like Jagger ft. Christina Aguilera
+17 Jul 2016 15:28:56 : Cipher , Wertfuzzy77#0274 , ;youtube q
+17 Jul 2016 15:28:56 : Cipher , Botfuzzy77#2209 , Not a Valid Link, Please only use URLs from youtube.com
+17 Jul 2016 15:29:02 : None , Akinci#5072 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], "test")
+17 Jul 2016 15:29:02 : Cipher , Botfuzzy77#2209 , test
+17 Jul 2016 15:29:02 : None , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000002262B8BD368>
+```
+17 Jul 2016 15:29:34 : None , Akinci#5072 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], "Skipping Maroon 5 - Moves Like Jagger ft. Christina Aguilera")
+17 Jul 2016 15:29:34 : Cipher , Botfuzzy77#2209 , Skipping Maroon 5 - Moves Like Jagger ft. Christina Aguilera
+17 Jul 2016 15:29:34 : None , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000002262B8BD5C0>
+```
+17 Jul 2016 15:31:39 : Cipher , Akinci#5072 , ;song
+17 Jul 2016 15:31:39 : Cipher , Botfuzzy77#2209 , ```Name: Maroon 5 - Moves Like Jagger ft. Christina Aguilera
+URL: <https://www.youtube.com/watch?v=iEPTlhBmwRg>
+Time: 0:04:39
+Views: 432,661,251
+Likes: 1,411,816, 96.15%
+Dislikes: 56,535, 3.85%
+```
+17 Jul 2016 15:31:46 : Cipher , Akinci#5072 , ;skip
+17 Jul 2016 15:31:46 : Cipher , Botfuzzy77#2209 , Skipping Maroon 5 - Moves Like Jagger ft. Christina Aguilera
+17 Jul 2016 15:32:07 : None , Akinci#5072 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], "Skipping Maroon 5 - Moves Like Jagger ft. Christina Aguilera")
+17 Jul 2016 15:32:07 : Cipher , Botfuzzy77#2209 , Skipping Maroon 5 - Moves Like Jagger ft. Christina Aguilera
+17 Jul 2016 15:32:07 : None , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000002262B8BDA70>
+```
+17 Jul 2016 15:56:27 : LimitlessMc , Mystic#9811 , Hello
+17 Jul 2016 15:56:27 : LimitlessMc , Botfuzzy77#2209 , *From The Other Side*
+17 Jul 2016 15:59:34 : LimitlessMc , Wickedshot#0171 , did it crash
+17 Jul 2016 15:59:44 : Cipher , Wertfuzzy77#0274 , ;relog
+17 Jul 2016 15:59:44 : Cipher , Botfuzzy77#2209 , Relogging...

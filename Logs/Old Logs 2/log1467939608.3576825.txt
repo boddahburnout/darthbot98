@@ -1,0 +1,228 @@
+08 Jul 2016 01:00:13 : Cipher , Wertfuzzy77#0274 , ;mute notaperson
+08 Jul 2016 01:00:14 : Cipher , Botfuzzy77#2209 , Something went Wrong
+08 Jul 2016 01:00:18 : Cipher , Wertfuzzy77#0274 , ;mute Roy210
+08 Jul 2016 01:00:18 : Cipher , Botfuzzy77#2209 , Muted Roy210
+08 Jul 2016 01:00:34 : Cipher , Wertfuzzy77#0274 , ;unmute Roy210
+08 Jul 2016 01:00:34 : Cipher , Botfuzzy77#2209 , Unmuted Roy210
+08 Jul 2016 01:00:45 : Cipher , Wertfuzzy77#0274 , ;tempmute Roy210 10
+08 Jul 2016 01:00:46 : Cipher , Botfuzzy77#2209 , Muted Roy210
+08 Jul 2016 01:00:56 : Cipher , Botfuzzy77#2209 , Unmuted Roy210
+08 Jul 2016 01:00:59 : Cipher , Wertfuzzy77#0274 , gg me
+08 Jul 2016 01:14:08 : Cipher , Wertfuzzy77#0274 , ;debug ctx.message.server.channel.overwrites_for()
+08 Jul 2016 01:14:08 : Cipher , Botfuzzy77#2209 , ```py
+AttributeError: 'Server' object has no attribute 'channel'
+```
+08 Jul 2016 01:14:15 : Cipher , Wertfuzzy77#0274 , ;debug ctx.message.channel.overwrites_for()
+08 Jul 2016 01:14:15 : Cipher , Botfuzzy77#2209 , ```py
+TypeError: overwrites_for() missing 1 required positional argument: 'obj'
+```
+08 Jul 2016 01:14:51 : Cipher , Wertfuzzy77#0274 , ;debug ctx.message.channel.overwrites_for(discord.Object("151163520120127488"))
+08 Jul 2016 01:14:51 : Cipher , Botfuzzy77#2209 , ```py
+<discord.permissions.PermissionOverwrite object at 0x000001E4B61C2D68>
+```
+08 Jul 2016 01:15:00 : Cipher , Wertfuzzy77#0274 , ;debug ctx.message.channel.overwrites_for(discord.Object("151163520120127488")).pair()
+08 Jul 2016 01:15:00 : Cipher , Botfuzzy77#2209 , ```py
+(<discord.permissions.Permissions object at 0x000001E4B60C04C8>, <discord.permissions.Permissions object at 0x000001E4B60C0828>)
+```
+08 Jul 2016 01:15:13 : Cipher , Wertfuzzy77#0274 , ;debug ctx.message.channel.overwrites_for(discord.Object("151163520120127488")).pair()[1]
+08 Jul 2016 01:15:13 : Cipher , Botfuzzy77#2209 , ```py
+<discord.permissions.Permissions object at 0x000001E4B60C0438>
+```
+08 Jul 2016 01:15:23 : Cipher , Wertfuzzy77#0274 , ;debug ctx.message.channel.overwrites_for(discord.Object("151163520120127488")).pair()[1].send_messages
+08 Jul 2016 01:15:23 : Cipher , Botfuzzy77#2209 , ```py
+False
+```
+08 Jul 2016 01:15:24 : Cipher , Wertfuzzy77#0274 , gg
+08 Jul 2016 01:15:37 : LimitlessMc , Genesect#6492 , <@190928285532815361>
+08 Jul 2016 01:15:40 : LimitlessMc , Genesect#6492 , omfg
+08 Jul 2016 01:15:43 : LimitlessMc , xPalkia(lugia)#8149 , ?
+08 Jul 2016 01:15:48 : LimitlessMc , Genesect#6492 , guess what wild pokemon is in my house
+08 Jul 2016 01:15:51 : LimitlessMc , Genesect#6492 , that i caught
+08 Jul 2016 01:15:52 : LimitlessMc , xPalkia(lugia)#8149 , Eevee
+08 Jul 2016 01:15:54 : LimitlessMc , Genesect#6492 , YES
+08 Jul 2016 01:15:54 : LimitlessMc , Genesect#6492 , XD
+08 Jul 2016 01:16:14 : LimitlessMc , Genesect#6492 , its 42 cp
+08 Jul 2016 01:16:16 : LimitlessMc , Genesect#6492 , rip
+08 Jul 2016 01:16:26 : LimitlessMc , xPalkia(lugia)#8149 , you caan make it higher
+08 Jul 2016 01:16:28 : LimitlessMc , Genesect#6492 , how do i level
+08 Jul 2016 01:16:47 : LimitlessMc , Genesect#6492 , do i have to catch more eevee to evolve it
+08 Jul 2016 01:16:57 : LimitlessMc , xPalkia(lugia)#8149 , You need eevee candy and a certain amount og stuff and go to pokemon and click eevee
+08 Jul 2016 01:17:09 : LimitlessMc , Genesect#6492 , how do i get eevee candy
+08 Jul 2016 01:17:10 : LimitlessMc , Genesect#6492 , more eevee
+08 Jul 2016 01:17:11 : LimitlessMc , Genesect#6492 , right
+08 Jul 2016 01:17:39 : LimitlessMc , xPalkia(lugia)#8149 , ya
+08 Jul 2016 01:17:44 : LimitlessMc , Genesect#6492 , fuck
+08 Jul 2016 01:19:21 : LimitlessMc , Genesect#6492 , is eevee rare
+08 Jul 2016 01:19:29 : LimitlessMc , Genesect#6492 , its white too btw
+08 Jul 2016 01:19:31 : LimitlessMc , Genesect#6492 , idk why
+08 Jul 2016 01:19:35 : LimitlessMc , Genesect#6492 , <@190928285532815361>
+08 Jul 2016 01:19:41 : Cipher , Wertfuzzy77#0274 , ;debug discord.utils.get(lambda x :ctx.message.server.members, ctx.message.channel.overwrites_for(x)).pair()[1].send_messages)
+08 Jul 2016 01:19:41 : Cipher , Botfuzzy77#2209 , ```py
+SyntaxError: unexpected EOF while parsing (<string>, line 1)
+```
+08 Jul 2016 01:19:47 : Cipher , Wertfuzzy77#0274 , ;debug discord.utils.get(lambda x :ctx.message.server.members, ctx.message.channel.overwrites_for(x)).pair()[1].send_messages))
+08 Jul 2016 01:19:47 : Cipher , Botfuzzy77#2209 , ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+08 Jul 2016 01:19:48 : LimitlessMc , xPalkia(lugia)#8149 , <@135660968804876289>  if its white its shiny
+08 Jul 2016 01:19:50 : LimitlessMc , Genesect#6492 , its a prank bro
+08 Jul 2016 01:19:52 : LimitlessMc , Genesect#6492 , XD
+08 Jul 2016 01:20:17 : Cipher , Wertfuzzy77#0274 , ;debug discord.utils.find(lambda x :ctx.message.server.members, ctx.message.channel.overwrites_for(x)).pair()[1].send_messages))
+08 Jul 2016 01:20:18 : Cipher , Botfuzzy77#2209 , ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+08 Jul 2016 01:20:43 : LimitlessMc , xPalkia(lugia)#8149 , servers down
+08 Jul 2016 01:20:44 : LimitlessMc , xPalkia(lugia)#8149 , AGAIN
+08 Jul 2016 01:20:56 : LimitlessMc , Genesect#6492 , LOL
+08 Jul 2016 01:22:57 : Cipher , Wertfuzzy77#0274 , ;debug discord.utils.find(lambda x : x.send_messages == False, ctx.message.channel.overwrites_for(x).pair()[1], ctx.message.server.members)
+08 Jul 2016 01:22:57 : Cipher , Botfuzzy77#2209 , ```py
+NameError: name 'x' is not defined
+```
+08 Jul 2016 01:23:36 : Cipher , Wertfuzzy77#0274 , ;debug discord.utils.find(lambda x : ctx.message.channel.overwrites_for(x).pair()[1]send_messages == False, ctx.message.server.members)
+08 Jul 2016 01:23:36 : Cipher , Botfuzzy77#2209 , ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+08 Jul 2016 01:23:48 : Cipher , Wertfuzzy77#0274 , ;debug discord.utils.find(lambda x : ctx.message.channel.overwrites_for(x).pair()[1].send_messages == False, ctx.message.server.members)
+08 Jul 2016 01:23:48 : Cipher , Botfuzzy77#2209 , ```py
+NameError: name 'ctx' is not defined
+```
+08 Jul 2016 01:23:52 : Cipher , Wertfuzzy77#0274 , wut
+08 Jul 2016 01:23:59 : Cipher , Roy210#7098 , curses
+08 Jul 2016 01:24:34 : Cipher , Wertfuzzy77#0274 , ;debug discord.utils.find(lambda x : message.channel.overwrites_for(x).pair()[1].send_messages == False, message.server.members)
+08 Jul 2016 01:24:34 : Cipher , Botfuzzy77#2209 , ```py
+NameError: name 'message' is not defined
+```
+08 Jul 2016 01:25:12 : Cipher , Wertfuzzy77#0274 , ;debug discord.utils.find(lambda x : channel.overwrites_for(x).pair()[1].send_messages == False, channel.server.members)
+08 Jul 2016 01:25:12 : Cipher , Botfuzzy77#2209 , ```py
+NameError: name 'channel' is not defined
+```
+08 Jul 2016 01:25:31 : Cipher , Wertfuzzy77#0274 , ;debug discord.utils.find(lambda x : ctx.channel.overwrites_for(x).pair()[1].send_messages == False, ctx.channel.server.members)
+08 Jul 2016 01:25:31 : Cipher , Botfuzzy77#2209 , ```py
+AttributeError: 'Context' object has no attribute 'channel'
+```
+08 Jul 2016 01:25:45 : Cipher , Wertfuzzy77#0274 , ;debug discord.utils.find(lambda x : ctx.message.channel.overwrites_for(x).pair()[1].send_messages == False, ctx.message.channel.server.members)
+08 Jul 2016 01:25:45 : Cipher , Botfuzzy77#2209 , ```py
+NameError: name 'ctx' is not defined
+```
+08 Jul 2016 01:25:51 : LimitlessMc , Genesect#6492 , <@190928285532815361>  even tho i have unlimited data
+08 Jul 2016 01:25:54 : LimitlessMc , Genesect#6492 , pokemon go
+08 Jul 2016 01:25:59 : LimitlessMc , Genesect#6492 , uses jack shit
+08 Jul 2016 01:30:03 : Cipher , Wertfuzzy77#0274 , ;debug discord.utils.find(lambda player : player.name == "Roy210", ctx.message.channel.server.members)
+08 Jul 2016 01:30:03 : Cipher , Botfuzzy77#2209 , ```py
+Roy210#7098
+```
+08 Jul 2016 01:30:23 : Cipher , Roy210#7098 , no pls
+08 Jul 2016 01:31:51 : Cipher , Wertfuzzy77#0274 , ;debug discord.utils.find(lambda player : player.permissions_in(discord.Object("174395437330071552")).send_messages == False', ctx.message.channel.server.members)
+08 Jul 2016 01:31:52 : Cipher , Botfuzzy77#2209 , ```py
+SyntaxError: EOL while scanning string literal (<string>, line 1)
+```
+08 Jul 2016 01:31:57 : Cipher , Wertfuzzy77#0274 , ;debug discord.utils.find(lambda player : player.permissions_in(discord.Object("174395437330071552")).send_messages == False, ctx.message.channel.server.members)
+08 Jul 2016 01:31:58 : Cipher , Botfuzzy77#2209 , ```py
+AttributeError: 'Object' object has no attribute 'permissions_for'
+```
+08 Jul 2016 01:32:02 : Cipher , Wertfuzzy77#0274 , bet
+08 Jul 2016 01:33:36 : Cipher , Wertfuzzy77#0274 , ;debug discord.utils.find(lambda player : player.permissions_in(ctx.message.channel).send_messages == False, ctx.message.channel.server.members)
+08 Jul 2016 01:33:37 : Cipher , Botfuzzy77#2209 , ```py
+NameError: name 'ctx' is not defined
+```
+08 Jul 2016 01:34:17 : Cipher , Wertfuzzy77#0274 , ;debug discord.utils.find(lambda player : player.permissions_in(player.server.channels[1]).send_messages == False, ctx.message.channel.server.members)
+08 Jul 2016 01:34:17 : Cipher , Botfuzzy77#2209 , ```py
+TypeError: 'dict_values' object does not support indexing
+```
+08 Jul 2016 01:34:29 : Cipher , Wertfuzzy77#0274 , ;debug discord.utils.find(lambda player : player.permissions_in(player.server.channel.get(0)).send_messages == False, ctx.message.channel.server.members)
+08 Jul 2016 01:34:29 : Cipher , Botfuzzy77#2209 , ```py
+AttributeError: 'Server' object has no attribute 'channel'
+```
+08 Jul 2016 01:34:38 : Cipher , Wertfuzzy77#0274 , ;debug discord.utils.find(lambda player : player.permissions_in(player.server.channels.get(0)).send_messages == False, ctx.message.channel.server.members)
+08 Jul 2016 01:34:38 : Cipher , Botfuzzy77#2209 , ```py
+AttributeError: 'dict_values' object has no attribute 'get'
+```
+08 Jul 2016 01:34:48 : Cipher , Wertfuzzy77#0274 , ;debug discord.utils.find(lambda player : player.permissions_in(player.server.channels(0)).send_messages == False, ctx.message.channel.server.members)
+08 Jul 2016 01:34:48 : Cipher , Botfuzzy77#2209 , ```py
+TypeError: 'dict_values' object is not callable
+```
+08 Jul 2016 01:34:54 : Cipher , Wertfuzzy77#0274 , ;debug discord.utils.find(lambda player : player.permissions_in(player.server.channels[0]).send_messages == False, ctx.message.channel.server.members)
+08 Jul 2016 01:34:54 : Cipher , Botfuzzy77#2209 , ```py
+TypeError: 'dict_values' object does not support indexing
+```
+08 Jul 2016 01:35:33 : Cipher , Wertfuzzy77#0274 , ;debug ctx.message.author.server.channels
+08 Jul 2016 01:35:33 : Cipher , Botfuzzy77#2209 , ```py
+dict_values([<discord.channel.Channel object at 0x000001E4B6087348>, <discord.channel.Channel object at 0x000001E4B60870C8>, <discord.channel.Channel object at 0x000001E4B5833EC8>, <discord.channel.Channel object at 0x000001E4B6087248>, <discord.channel.Channel object at 0x000001E4B6087148>, <discord.channel.Channel object at 0x000001E4B60871C8>, <discord.channel.Channel object at 0x000001E4B60872C8>, <discord.channel.Channel object at 0x000001E4B5833F48>, <discord.channel.Channel object at 0x000001E4B6087048>])
+```
+08 Jul 2016 01:35:43 : Cipher , Wertfuzzy77#0274 , ;debug ctx.message.author.server.channels[1]
+08 Jul 2016 01:35:43 : Cipher , Botfuzzy77#2209 , ```py
+TypeError: 'dict_values' object does not support indexing
+```
+08 Jul 2016 01:35:51 : Cipher , Wertfuzzy77#0274 , ;debug ctx.message.author.server.channels(1)
+08 Jul 2016 01:35:51 : Cipher , Botfuzzy77#2209 , ```py
+TypeError: 'dict_values' object is not callable
+```
+08 Jul 2016 01:36:06 : Cipher , Wertfuzzy77#0274 , ;debug ctx.message.author.server.channels<1>
+08 Jul 2016 01:36:06 : Cipher , Botfuzzy77#2209 , ```py
+SyntaxError: unexpected EOF while parsing (<string>, line 1)
+```
+08 Jul 2016 01:36:13 : Cipher , Wertfuzzy77#0274 , ;debug ctx.message.author.server.channels<{}
+08 Jul 2016 01:36:13 : Cipher , Botfuzzy77#2209 , ```py
+TypeError: unorderable types: dict_values() < dict()
+```
+08 Jul 2016 01:36:20 : Cipher , Wertfuzzy77#0274 , ;debug ctx.message.author.server.channels{1}
+08 Jul 2016 01:36:20 : Cipher , Botfuzzy77#2209 , ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+08 Jul 2016 01:36:26 : Cipher , Wertfuzzy77#0274 , ;debug ctx.message.author.server.channel.1
+08 Jul 2016 01:36:26 : Cipher , Botfuzzy77#2209 , ```py
+SyntaxError: unexpected EOF while parsing (<string>, line 1)
+```
+08 Jul 2016 01:36:31 : Cipher , Wertfuzzy77#0274 , ;debug ctx.message.author.server.channel.head
+08 Jul 2016 01:36:31 : Cipher , Botfuzzy77#2209 , ```py
+AttributeError: 'Server' object has no attribute 'channel'
+```
+08 Jul 2016 01:36:39 : Cipher , Wertfuzzy77#0274 , ;debug ctx.message.author.server.channels.1()
+08 Jul 2016 01:36:39 : Cipher , Botfuzzy77#2209 , ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+08 Jul 2016 01:36:42 : Cipher , Wertfuzzy77#0274 , ;debug ctx.message.author.server.channels.head
+08 Jul 2016 01:36:43 : Cipher , Botfuzzy77#2209 , ```py
+AttributeError: 'dict_values' object has no attribute 'head'
+```
+08 Jul 2016 01:36:49 : Cipher , Wertfuzzy77#0274 , ;debug ctx.message.author.server.channels.toList
+08 Jul 2016 01:36:49 : Cipher , Botfuzzy77#2209 , ```py
+AttributeError: 'dict_values' object has no attribute 'toList'
+```
+08 Jul 2016 01:37:34 : Cipher , Wertfuzzy77#0274 , ;debug list(ctx.message.author.server.channels)[1]
+08 Jul 2016 01:37:34 : Cipher , Botfuzzy77#2209 , ```py
+announements
+```
+08 Jul 2016 01:37:50 : Cipher , Wertfuzzy77#0274 , ;debug discord.utils.find(lambda player : player.permissions_in(list(player.server.channels)[0]).send_messages == False, ctx.message.channel.server.members)
+08 Jul 2016 01:37:50 : Cipher , Botfuzzy77#2209 , ```py
+Someone#8471
+```
+08 Jul 2016 01:37:56 : Cipher , Wertfuzzy77#0274 , 0.o
+08 Jul 2016 01:38:08 : Cipher , Wertfuzzy77#0274 , ;debug list(ctx.message.author.server.channels)[0]
+08 Jul 2016 01:38:08 : Cipher , Botfuzzy77#2209 , ```py
+tophwalt4life
+```
+08 Jul 2016 01:38:11 : Cipher , Wertfuzzy77#0274 , LOL
+08 Jul 2016 01:38:16 : Cipher , Wertfuzzy77#0274 , ;debug list(ctx.message.author.server.channels)[2]
+08 Jul 2016 01:38:16 : Cipher , Botfuzzy77#2209 , ```py
+general
+```
+08 Jul 2016 01:38:25 : Cipher , Wertfuzzy77#0274 , ;debug discord.utils.find(lambda player : player.permissions_in(list(player.server.channels)[2]).send_messages == False, ctx.message.channel.server.members)
+08 Jul 2016 01:38:25 : Cipher , Botfuzzy77#2209 , ```py
+Someone#8471
+```
+08 Jul 2016 01:38:27 : Cipher , Wertfuzzy77#0274 , ...
+08 Jul 2016 01:39:20 : Cipher , Wertfuzzy77#0274 , oh
+08 Jul 2016 01:39:26 : Cipher , Wertfuzzy77#0274 , it only ever returns 1 name
+08 Jul 2016 01:41:20 : LimitlessMc , Genesect#6492 , <@190928285532815361>  it worked this time
+08 Jul 2016 01:41:23 : LimitlessMc , Genesect#6492 , the pokestop
+08 Jul 2016 01:42:21 : LimitlessMc , xPalkia(lugia)#8149 , <@135660968804876289>  what did u get
+08 Jul 2016 01:42:36 : LimitlessMc , Genesect#6492 , 3 pokeballs
+08 Jul 2016 01:42:45 : LimitlessMc , xPalkia(lugia)#8149 , a pokemon egg?
+08 Jul 2016 01:43:00 : LimitlessMc , Genesect#6492 , no
+08 Jul 2016 01:43:09 : LimitlessMc , Genesect#6492 , are you supposed to
+08 Jul 2016 01:43:13 : LimitlessMc , xPalkia(lugia)#8149 , No
+08 Jul 2016 01:43:14 : LimitlessMc , xPalkia(lugia)#8149 , You can
+08 Jul 2016 01:43:21 : LimitlessMc , xPalkia(lugia)#8149 , But I think u supposed to get 4 things
+08 Jul 2016 01:43:22 : Cipher , Wertfuzzy77#0274 , ;relog
+08 Jul 2016 01:43:22 : Cipher , Botfuzzy77#2209 , Relogging...

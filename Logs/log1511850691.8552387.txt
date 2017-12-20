@@ -1,0 +1,82 @@
+28 Nov 2017 06:31:59 : darth, general, darth kota#9446, ;presence with death
+28 Nov 2017 06:31:59 : darth, general, darthbot98#5182, I am now playing ('with', 'death')
+28 Nov 2017 06:32:42 : darth, general, darth kota#9446, ;presence "with death"
+28 Nov 2017 06:32:42 : darth, general, darthbot98#5182, I am now playing ('with death',)
+28 Nov 2017 06:37:45 : FAM, off-topic, darth kota#9446, sdfsg
+28 Nov 2017 06:39:01 : FAM, off-topic, darth kota#9446, @WafflesTheWaffle fix his perms -_-
+28 Nov 2017 14:46:20 : FAM, off-topic, WafflesTheWaffle#4121, @Darth Kota98 my bad lol. i fixed it.
+28 Nov 2017 14:49:09 : FAM, off-topic, WafflesTheWaffle#4121, @Darth Kota98 well, there is three music bots because one plays radio, and then the other two glitch out sometimes. same with darthbot, it also gets buggy sometimes. it is just nice to have backup bots until they get reset. and gamestats, mathbot, and dankmemer do other things. mr meeseeks manages the server too. I can remove mathbot and gamestats since no one really uses them.
+28 Nov 2017 14:49:20 : FAM, main, Mee6#4876, This faggot: **MathBot** just left our server.
+28 Nov 2017 14:50:40 : FAM, off-topic, WafflesTheWaffle#4121, @Darth Kota98 i guess it isa also nice to have the two music bots since you cant have 1 in two channels at the same time
+28 Nov 2017 14:55:01 : FAM, off-topic, WafflesTheWaffle#4121, @Darth Kota98 can you make your bot do polls?
+28 Nov 2017 14:55:51 : FAM, main, Mee6#4876, @Simple Poll, Welcome to **FAM** ! <:PCMR:382251419685617674>
+28 Nov 2017 14:57:23 : FAM, off-topic, WafflesTheWaffle#4121, if you can make it do polls, play spotify/pandora/radio stations that would be amazing. i think the radio one  would be pretty hard though.
+28 Nov 2017 14:57:32 : FAM, main, WafflesTheWaffle#4121, /poll
+28 Nov 2017 14:57:32 : FAM, main, Simple Poll#9879, Simple Poll usage: /poll "Where should we go for lunch?" "Subway" "That burrito place" "The micro kitchen"
+1-10 Answers supported
+28 Nov 2017 14:59:08 : FAM, main, WafflesTheWaffle#4121, /poll "Should we kick the Game Stats Bot?" "Yes" "No" "Bring Back Vinny"
+28 Nov 2017 14:59:09 : FAM, main, Simple Poll#9879, 
+28 Nov 2017 15:00:55 : FAM, off-topic, WafflesTheWaffle#4121, ;join
+28 Nov 2017 15:00:56 : FAM, off-topic, darthbot98#5182, Connected channel!
+28 Nov 2017 15:30:54 : FAM, main, WafflesTheWaffle#4121, apparently pubg is being ported to android
+28 Nov 2017 18:28:13 : FAM, off-topic, darth kota#9446, @WafflesTheWaffle  what do you mean polls probably
+28 Nov 2017 18:28:51 : FAM, off-topic, darth kota#9446, and also if darth glitchs just ;relog
+28 Nov 2017 18:30:17 : FAM, off-topic, darth kota#9446, And i can also run multiple darth bots
+28 Nov 2017 18:40:24 : FAM, off-topic, darth kota#9446, ;radio
+28 Nov 2017 18:40:24 : FAM, off-topic, darthbot98#5182, The Radio feature is currently down :(
+28 Nov 2017 18:55:04 : FAM, off-topic, WafflesTheWaffle#4121, how do you run multiple darth bots?
+28 Nov 2017 18:55:13 : FAM, off-topic, WafflesTheWaffle#4121, @Darth Kota98
+28 Nov 2017 18:55:43 : FAM, off-topic, darth kota#9446, just run a nother copy of him with a different token
+28 Nov 2017 18:57:57 : FAM, off-topic, WafflesTheWaffle#4121, wat
+28 Nov 2017 18:58:10 : FAM, off-topic, WafflesTheWaffle#4121, like, it would show two darth bots online right?
+28 Nov 2017 18:59:54 : FAM, off-topic, WafflesTheWaffle#4121, but wouldnt they both need different command prefixes? like right now it is a semi colon, so if you had two it would need to be something different, correct?
+28 Nov 2017 19:00:32 : FAM, off-topic, WafflesTheWaffle#4121, try and see if you can copy astolfo's radio codes. i am not sure where it is sourcing from, but it works really well
+28 Nov 2017 19:04:32 : FAM, off-topic, darth kota#9446, yeah thats easy tho
+28 Nov 2017 19:11:17 : FAM, off-topic, darth kota#9446, i shall breed darth bot
+28 Nov 2017 20:05:24 : None, Direct Message with darth kota, darth kota#9446, ;invite
+28 Nov 2017 20:05:24 : None, Direct Message with darth kota, darthbot98#5182, https://discordapp.com/oauth2/authorize?client_id=187608834381053952&scope=bot&permissions=00000008
+28 Nov 2017 20:06:14 : FAM, off-topic, darth kota#9446, https://discordapp.com/oauth2/authorize?client_id=385155265709998081&scope=bot&permissions=00000008
+28 Nov 2017 20:16:12 : FAM, off-topic, darth kota#9446, @Administrator can you invite to this channle with this link
+28 Nov 2017 20:17:01 : darth, general, darth kota#9446, https://discordapp.com/oauth2/authorize?client_id=385155265709998081&scope=bot&permissions=00000008
+28 Nov 2017 20:24:55 : darth, general, darth kota#9446, ;invite
+28 Nov 2017 20:24:56 : darth, general, darthbot98#5182, https://discordapp.com/oauth2/authorize?client_id=187608834381053952&scope=bot&permissions=00000008
+28 Nov 2017 20:31:51 : FAM, off-topic, darth kota#9446, it wont even let me for my own channel
+28 Nov 2017 20:32:26 : FAM, main, Mee6#4876, @wafflebot, Welcome to **FAM** ! <:PCMR:382251419685617674>
+28 Nov 2017 20:32:27 : FAM, main, wafflebot#1602, Thank you :3.
+28 Nov 2017 20:33:02 : FAM, off-topic, darth kota#9446, i had to use fire fox
+28 Nov 2017 20:33:17 : FAM, off-topic, darth kota#9446, #join
+28 Nov 2017 20:33:18 : FAM, off-topic, wafflebot#1602, Reconnected channel!
+28 Nov 2017 20:33:18 : FAM, off-topic, wafflebot#1602, Reconnected channel!
+28 Nov 2017 20:33:29 : FAM, off-topic, darth kota#9446, XD
+28 Nov 2017 20:34:57 : FAM, off-topic, darth kota#9446, idk what you mean by polls
+28 Nov 2017 20:36:02 : FAM, off-topic, darth kota#9446, i can make that probs
+28 Nov 2017 20:36:23 : FAM, main, Mee6#4876, This faggot: **Simple Poll** just left our server.
+28 Nov 2017 20:37:11 : FAM, main, Mee6#4876, This faggot: **Rythm** just left our server.
+28 Nov 2017 20:37:17 : FAM, main, Mee6#4876, This faggot: **GameStats** just left our server.
+28 Nov 2017 20:39:54 : FAM, off-topic, darth kota#9446, one sec
+28 Nov 2017 20:39:54 : FAM, off-topic, Mee6#4876, GG @Darth Kota98, you just advanced to **level 7** !
+28 Nov 2017 20:43:38 : FAM, off-topic, darth kota#9446, im sending you some files
+28 Nov 2017 20:44:13 : FAM, off-topic, darth kota#9446, 3.6
+28 Nov 2017 20:49:00 : FAM, off-topic, darth kota#9446, #search seek and destroy
+28 Nov 2017 20:50:06 : FAM, off-topic, darth kota#9446, #status
+28 Nov 2017 20:50:10 : FAM, off-topic, wafflebot#1602, 
+28 Nov 2017 20:50:10 : FAM, off-topic, wafflebot#1602, 
+28 Nov 2017 20:50:33 : FAM, off-topic, darth kota#9446, #search seek and destroy
+28 Nov 2017 20:50:34 : FAM, off-topic, wafflebot#1602, The Bot isnt connected in this server!
+28 Nov 2017 20:51:24 : FAM, off-topic, darth kota#9446, #join
+28 Nov 2017 20:51:38 : FAM, off-topic, wafflebot#1602, Connected channel!
+28 Nov 2017 20:51:50 : FAM, off-topic, darth kota#9446, #search seek and destroy
+28 Nov 2017 20:52:25 : FAM, off-topic, darth kota#9446, ;search seek and destroy
+28 Nov 2017 20:52:40 : FAM, off-topic, wafflebot#1602, Added Metallica - Seek and Destroy - Lyrics to the queue
+28 Nov 2017 20:52:41 : FAM, off-topic, wafflebot#1602, https://www.youtube.com/watch?v=NUAdgt5Glk0
+28 Nov 2017 20:52:48 : FAM, off-topic, darthbot98#5182, Added Metallica - Seek and Destroy - Lyrics to the queue
+28 Nov 2017 20:52:49 : FAM, off-topic, darthbot98#5182, https://www.youtube.com/watch?v=NUAdgt5Glk0
+28 Nov 2017 20:54:43 : FAM, off-topic, darth kota#9446, https://www.4shared.com/zip/Yi1rlaOHca/wafflebot.html
+28 Nov 2017 20:57:41 : FAM, off-topic, darth kota#9446, #search seek and destroy
+28 Nov 2017 20:57:44 : FAM, off-topic, wafflebot#1602, Added Metallica - Seek and Destroy - Lyrics to the queue
+28 Nov 2017 20:57:44 : FAM, off-topic, wafflebot#1602, https://www.youtube.com/watch?v=NUAdgt5Glk0
+28 Nov 2017 21:04:05 : FAM, off-topic, darth kota#9446, #search seek and destroy
+28 Nov 2017 21:04:32 : FAM, off-topic, wafflebot#1602, Added Metallica - Seek and Destroy - Lyrics to the queue
+28 Nov 2017 21:04:32 : FAM, off-topic, wafflebot#1602, https://www.youtube.com/watch?v=NUAdgt5Glk0
+28 Nov 2017 21:05:10 : FAM, off-topic, darth kota#9446, there is a uni code error ill fox it tho
+28 Nov 2017 21:05:23 : FAM, off-topic, darth kota#9446, did you see the link

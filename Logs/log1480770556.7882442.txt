@@ -1,0 +1,53 @@
+03 Dec 2016 13:10:34 : LimitlessMc, botchat, Botfuzzy77#2209, Created Playlist 2015OP&EN with 0 songs
+03 Dec 2016 13:10:49 : LimitlessMc, botchat, Botfuzzy77#2209, ```
+Commands:
+  makeplaylist   Makes a custom playlist for the bot to save
+  desc           Decription of the Current playing song
+  song           Returns information about the current playing song
+  youtube        Adds a Song for the Bot to Play
+  playlist       Adds songs from a predefined playlist to the songs list
+  extendplaylist Extends a custom playlist
+  shuffle        Shuffles the songs in the Queue
+  playlists      
+  viewplaylist   Views the songs of a playlists
+  loop           
+  songs          Prints the songs in the queue
+  skip           Skips the Current song
+  search         
+  join           Joins the Voice channel you are currently in
+  leave          Leaves the Join chat
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+03 Dec 2016 13:14:46 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, i was kinda listening to that fam
+03 Dec 2016 13:15:49 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, ;viewplaylist
+03 Dec 2016 13:16:17 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, ;playlists
+03 Dec 2016 13:16:17 : LimitlessMc, botchat, Botfuzzy77#2209, WEEB2[3], Bringer[1], SteinsGate[13], 2015OP&EN[0], Katy[3], MJackson[5], Perri[2], Amagi[1], Adele[5], Coldplay[5], nicky[2], Dragons[4], Akinci[12], Kimi[4], Train[3], AnimeOpenings[14], FUN[3], GnR[5], 2Cellos[5], WEEB[4], Sheeran[6], Blunt[3], Cala[21], GAGA[3], Maroon[5], ACDC[5], Old[9], Animenz[3]
+03 Dec 2016 13:16:43 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, ;shuffle
+03 Dec 2016 13:16:43 : LimitlessMc, botchat, Botfuzzy77#2209, Shuffling songs...
+03 Dec 2016 13:16:57 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, ;song
+03 Dec 2016 13:16:57 : LimitlessMc, botchat, Botfuzzy77#2209, No Song Playing, ['NoneType' object has no attribute 'title']
+03 Dec 2016 13:21:15 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, .-.
+03 Dec 2016 13:21:37 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, .-.
+03 Dec 2016 13:21:46 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, yeezus
+03 Dec 2016 13:21:53 : LimitlessMc, botchat, Botfuzzy77#2209, WEEB2[3], Blunt[3], Bringer[1], SteinsGate[13], 2015OP&EN[25], Old[9], Katy[3], nicky[2], Perri[2], Amagi[1], Adele[5], Coldplay[5], MJackson[5], Dragons[4], Akinci[12], Kimi[4], FUN[3], GnR[5], 2Cellos[5], WEEB[4], Sheeran[6], Animenz[3], AnimeOpenings[14], Cala[21], Maroon[5], ACDC[5], GAGA[3], Train[3]
+03 Dec 2016 13:21:56 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, you got enough song there?
+03 Dec 2016 13:22:09 : LimitlessMc, botchat, Botfuzzy77#2209, WEEB2[3], Blunt[3], Bringer[1], SteinsGate[13], 2015OP&EN[25], Old[9], Katy[3], nicky[2], Perri[2], Amagi[1], Adele[5], Coldplay[5], MJackson[5], Dragons[4], Akinci[12], Kimi[4], FUN[3], GnR[5], 2Cellos[5], WEEB[4], Sheeran[6], Animenz[3], AnimeOpenings[14], Cala[21], Maroon[5], ACDC[5], GAGA[3], Train[3]
+03 Dec 2016 13:22:24 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, 25 songs
+03 Dec 2016 13:22:34 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, mabye thats the limit
+03 Dec 2016 13:22:46 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, to GIVE other ppl a chance to hear their music
+03 Dec 2016 13:23:01 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, why did it auto cap?
+03 Dec 2016 13:23:17 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, mabye new update cahnged it
+03 Dec 2016 13:24:51 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, ;makeplaylist TnDbRn
+03 Dec 2016 13:24:51 : LimitlessMc, botchat, Botfuzzy77#2209, Created Playlist TnDbRn with 0 songs
+03 Dec 2016 13:25:11 : LimitlessMc, botchat, Botfuzzy77#2209, No Song Playing, ['NoneType' object has no attribute 'title']
+03 Dec 2016 13:25:36 : LimitlessMc, botchat, Botfuzzy77#2209, Added One Punch Man Opening Full Version to the queue
+03 Dec 2016 13:25:56 : LimitlessMc, botchat, Botfuzzy77#2209, WEEB2[3], Bringer[1], SteinsGate[13], 2015OP&EN[25], Katy[3], MJackson[5], Perri[2], Amagi[1], Adele[5], Coldplay[5], nicky[2], Dragons[4], TnDbRn[0], Akinci[12], Kimi[4], Train[3], AnimeOpenings[14], FUN[3], GnR[5], 2Cellos[5], WEEB[4], Sheeran[6], Blunt[3], Cala[21], GAGA[3], Maroon[5], ACDC[5], Old[9], Animenz[3]
+03 Dec 2016 13:27:10 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, ay imma play a song after this one is done
+03 Dec 2016 13:28:16 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, aight
+03 Dec 2016 13:31:30 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, ;youtube https://www.youtube.com/watch?v=ZewFyjpQaL0
+03 Dec 2016 13:31:31 : LimitlessMc, botchat, Botfuzzy77#2209, Added Vegito [Dubstep Remix] (HD) to the queue
+03 Dec 2016 13:32:16 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, resolate
+03 Dec 2016 13:32:21 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, you there?
+03 Dec 2016 13:32:38 : LimitlessMc, botchat, Nick"Ace"Wilde#3503, ;relog

@@ -1,0 +1,34 @@
+27 Feb 2017 02:11:33 : Cipher, music, Wertfuzzy77#0274, ;join
+27 Feb 2017 02:11:33 : Cipher, music, Botfuzzy77#2209, Connected channel!
+27 Feb 2017 02:11:44 : Cipher, music, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=PDSkFeMVNFs
+27 Feb 2017 02:11:45 : Cipher, music, Botfuzzy77#2209, Added 前前前世 (movie ver.) RADWIMPS MV to the queue
+27 Feb 2017 02:11:49 : Cipher, music, Wertfuzzy77#0274, ;recommend
+27 Feb 2017 02:11:49 : Cipher, music, Botfuzzy77#2209, Recommend Songs to play: True
+27 Feb 2017 02:11:53 : Cipher, music, Wertfuzzy77#0274, ;songs
+27 Feb 2017 02:11:53 : Cipher, music, Botfuzzy77#2209, Queue is Empty
+27 Feb 2017 02:11:57 : Cipher, music, Wertfuzzy77#0274, ;songs
+27 Feb 2017 02:11:57 : Cipher, music, Botfuzzy77#2209, **The Following songs are in the Queue**
+27 Feb 2017 02:11:57 : Cipher, music, Botfuzzy77#2209, 1. 「やってみよう」 フルver. /WANIMA【公式】 **Radio: 前前前世 (movie ver.) RADWIMPS MV**
+	<https://www.youtube.com/watch?v=UzMamUEdlMI>
+2. スパークル [original ver.] -Your name. Music Video edition- 予告編 from new album「人間開花」初回盤DVD **Radio: 前前前世 (movie ver.) RADWIMPS MV**
+	<https://www.youtube.com/watch?v=a2GujJZfXpg>
+Total Time is 0:05:52
+27 Feb 2017 02:20:55 : Cipher, music, Wertfuzzy77#0274, ;song
+27 Feb 2017 02:20:56 : Cipher, music, Botfuzzy77#2209, **Name**: 前前前世 (movie ver.) RADWIMPS MV
+**Requester**: Wertfuzzy77
+**URL**: <https://www.youtube.com/watch?v=PDSkFeMVNFs>
+```py
+Time: 0:04:52
+Views: 112,818,700
+Likes: 458,535, 96.72%
+Dislikes: 15,542, 3.28%
+Skips: 0/0```
+27 Feb 2017 02:20:57 : Cipher, music, Wertfuzzy77#0274, ;songs
+27 Feb 2017 02:20:57 : Cipher, music, Botfuzzy77#2209, **The Following songs are in the Queue**
+27 Feb 2017 02:20:57 : Cipher, music, Botfuzzy77#2209, 1. 「やってみよう」 フルver. /WANIMA【公式】 **Radio: 前前前世 (movie ver.) RADWIMPS MV**
+	<https://www.youtube.com/watch?v=UzMamUEdlMI>
+2. スパークル [original ver.] -Your name. Music Video edition- 予告編 from new album「人間開花」初回盤DVD **Radio: 前前前世 (movie ver.) RADWIMPS MV**
+	<https://www.youtube.com/watch?v=a2GujJZfXpg>
+3. RADWIMPS／なんでもないや（映画『君の名は。』主題歌）cover by 宇野悠人 **Radio: 前前前世 (movie ver.) RADWIMPS MV**
+	<https://www.youtube.com/watch?v=EeRwJsjyoZs>
+Total Time is 0:11:38

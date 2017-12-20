@@ -1,0 +1,312 @@
+17 Jul 2016 19:07:44 : Cipher , Wertfuzzy77#0274 , ;join
+17 Jul 2016 19:07:55 : Cipher , Wertfuzzy77#0274 , ;playlist 2Cellos WEEB
+17 Jul 2016 19:08:11 : Cipher , Botfuzzy77#2209 , Finished Adding songs from playlist(s)
+17 Jul 2016 19:08:16 : Cipher , Wertfuzzy77#0274 , ;shuffle
+17 Jul 2016 19:08:16 : Cipher , Botfuzzy77#2209 , Shuffling songs...
+17 Jul 2016 19:08:35 : Cipher , Jabulla#3761 , Is server a kill?
+17 Jul 2016 19:08:35 : Cipher , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000001F3D62B41D8>
+```
+17 Jul 2016 19:08:39 : Cipher , Wertfuzzy77#0274 , lol
+17 Jul 2016 19:09:03 : Cipher , Wertfuzzy77#0274 , <@!151163520120127488>  use it in a PM instead of in botchat
+17 Jul 2016 19:09:07 : None , RoyGasm ;)#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], "bet")
+17 Jul 2016 19:09:07 : Cipher , Botfuzzy77#2209 , bet
+17 Jul 2016 19:09:07 : None , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000001F3D62B4688>
+```
+17 Jul 2016 19:09:12 : Cipher , Wertfuzzy77#0274 , there we go
+17 Jul 2016 19:09:34 : Cipher , Wertfuzzy77#0274 , <@!180158716895690752>  join us
+17 Jul 2016 19:09:38 : Cipher , Wertfuzzy77#0274 , music good
+17 Jul 2016 19:09:48 : Cipher , Wertfuzzy77#0274 , not Roy's Hentai
+17 Jul 2016 19:10:00 : Cipher , Jabulla#3761 , Just drag him in lol
+17 Jul 2016 19:10:07 : Cipher , Jabulla#3761 , Hahah
+17 Jul 2016 19:10:07 : Cipher , Wertfuzzy77#0274 , oh true xD
+17 Jul 2016 19:10:08 : None , RoyGasm ;)#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], "wtf it's your hentai")
+17 Jul 2016 19:10:08 : Cipher , Botfuzzy77#2209 , wtf it's your hentai
+17 Jul 2016 19:10:09 : None , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000001F3D62B41D8>
+```
+17 Jul 2016 19:10:12 : Cipher , Wertfuzzy77#0274 , bet
+17 Jul 2016 19:10:16 : Cipher , Wertfuzzy77#0274 , 10/10 its yours
+17 Jul 2016 19:10:18 : None , RoyGasm ;)#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], "weeaboo")
+17 Jul 2016 19:10:18 : Cipher , Botfuzzy77#2209 , weeaboo
+17 Jul 2016 19:10:18 : None , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000001F3D61BA368>
+```
+17 Jul 2016 19:10:27 : Cipher , Jabulla#3761 , Bye toph Hahah
+17 Jul 2016 19:10:33 : Cipher , Wertfuzzy77#0274 , lol, i moved him out
+17 Jul 2016 19:10:37 : Cipher , Jabulla#3761 , Oh
+17 Jul 2016 19:10:47 : None , RoyGasm ;)#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], "wert!")
+17 Jul 2016 19:10:47 : Cipher , Botfuzzy77#2209 , wert!
+17 Jul 2016 19:10:47 : None , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000001F3D61BA9A8>
+```
+17 Jul 2016 19:10:49 : Cipher , Wertfuzzy77#0274 , wut
+17 Jul 2016 19:10:57 : None , RoyGasm ;)#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], "bot can't ping people")
+17 Jul 2016 19:10:58 : Cipher , Botfuzzy77#2209 , bot can't ping people
+17 Jul 2016 19:10:58 : None , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000001F3D61BACC8>
+```
+17 Jul 2016 19:11:03 : Cipher , Wertfuzzy77#0274 , yes he can
+17 Jul 2016 19:11:04 : None , RoyGasm ;)#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], "fix")
+17 Jul 2016 19:11:04 : Cipher , Botfuzzy77#2209 , fix
+17 Jul 2016 19:11:04 : None , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000001F3D61F12A0>
+```
+17 Jul 2016 19:11:09 : Cipher , Wertfuzzy77#0274 , but not the way you are doing it
+17 Jul 2016 19:11:21 : None , RoyGasm ;)#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], "teach me dad")
+17 Jul 2016 19:11:21 : Cipher , Botfuzzy77#2209 , teach me dad
+17 Jul 2016 19:11:22 : None , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000001F3D61F1688>
+```
+17 Jul 2016 19:11:45 : None , RoyGasm ;)#7098 , @Wertfuzzy77#0274
+17 Jul 2016 19:11:48 : Cipher , Wertfuzzy77#0274 , ;debug ctx.message.server.get_member_named("Wertfuzzy77").mention
+17 Jul 2016 19:11:48 : Cipher , Botfuzzy77#2209 , ```py
+<@!134441036905840640>
+```
+17 Jul 2016 19:11:49 : Cipher , Wertfuzzy77#0274 , ^
+17 Jul 2016 19:11:49 : Cipher , Botfuzzy77#2209 , ^
+17 Jul 2016 19:11:51 : Cipher , Wertfuzzy77#0274 , like that
+17 Jul 2016 19:11:58 : None , RoyGasm ;)#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], "@Wertfuzzy77#0274")
+17 Jul 2016 19:11:58 : Cipher , Botfuzzy77#2209 , @Wertfuzzy77#0274
+17 Jul 2016 19:11:58 : None , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000001F3D61F1D90>
+```
+17 Jul 2016 19:12:19 : Cipher , Wertfuzzy77#0274 , need to get the `Member` Object and call `.mention` on it
+17 Jul 2016 19:12:29 : None , RoyGasm ;)#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], "but how would you do it on the cmd to talk?")
+17 Jul 2016 19:12:29 : Cipher , Botfuzzy77#2209 , but how would you do it on the cmd to talk?
+17 Jul 2016 19:12:29 : None , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000001F3D61F12A0>
+```
+17 Jul 2016 19:12:38 : Cipher , Wertfuzzy77#0274 , what was the cmd for talk? send it here
+17 Jul 2016 19:12:44 : Cipher , RoyGasm ;)#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], "<@!134441036905840640>")
+17 Jul 2016 19:12:44 : Cipher , Botfuzzy77#2209 , <@!134441036905840640>
+17 Jul 2016 19:12:44 : Cipher , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000001F3D62DC1D8>
+```
+17 Jul 2016 19:12:49 : Cipher , RoyGasm ;)#7098 , wtf?
+17 Jul 2016 19:12:57 : Cipher , Wertfuzzy77#0274 , it works here cause auto parse
+17 Jul 2016 19:13:02 : Cipher , Wertfuzzy77#0274 , but you cant auto parse in PM
+17 Jul 2016 19:13:07 : Cipher , RoyGasm ;)#7098 , yeah, but if i send on pm
+17 Jul 2016 19:13:10 : Cipher , RoyGasm ;)#7098 , no work
+17 Jul 2016 19:13:12 : Cipher , Jabulla#3761 , Wert! I think your Gym had a chunk error!
+17 Jul 2016 19:13:12 : Cipher , Wertfuzzy77#0274 , ik
+17 Jul 2016 19:13:16 : Cipher , Wertfuzzy77#0274 , wut
+17 Jul 2016 19:13:17 : Cipher , Wertfuzzy77#0274 , really
+17 Jul 2016 19:13:42 : Cipher , Jabulla#3761 , Yeah, like it's all flat
+17 Jul 2016 19:14:01 : None , RoyGasm ;)#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], "so... no way to fix? in pm i mean")
+17 Jul 2016 19:14:01 : Cipher , Botfuzzy77#2209 , so... no way to fix? in pm i mean
+17 Jul 2016 19:14:02 : None , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000001F3D62DCD90>
+```
+17 Jul 2016 19:14:05 : Cipher , Wertfuzzy77#0274 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")].get_member_named("Wertfuzzy77").mention)
+17 Jul 2016 19:14:05 : Cipher , Botfuzzy77#2209 , <@!134441036905840640>
+17 Jul 2016 19:14:05 : Cipher , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000001F3D62C1110>
+```
+17 Jul 2016 19:14:09 : Cipher , Wertfuzzy77#0274 , there we go
+17 Jul 2016 19:14:11 : Cipher , Wertfuzzy77#0274 , v ugly cmd
+17 Jul 2016 19:14:14 : Cipher , Wertfuzzy77#0274 , but should work
+17 Jul 2016 19:14:38 : Cipher , Wertfuzzy77#0274 , try it
+17 Jul 2016 19:14:38 : None , RoyGasm ;)#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], "yeah but if you do that cmd you can't put a message with the ping")
+17 Jul 2016 19:14:38 : Cipher , Botfuzzy77#2209 , yeah but if you do that cmd you can't put a message with the ping
+17 Jul 2016 19:14:38 : None , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000001F3D62C1750>
+```
+17 Jul 2016 19:14:54 : None , Wertfuzzy77#0274 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")].get_member_named("Wertfuzzy77").mention)
+17 Jul 2016 19:14:54 : Cipher , Botfuzzy77#2209 , <@!134441036905840640>
+17 Jul 2016 19:14:54 : None , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000001F3D61BA1D8>
+```
+17 Jul 2016 19:14:58 : Cipher , Wertfuzzy77#0274 , works fine
+17 Jul 2016 19:15:00 : Cipher , Wertfuzzy77#0274 , yw
+17 Jul 2016 19:15:08 : Cipher , Wertfuzzy77#0274 , just do + Message
+17 Jul 2016 19:15:14 : Cipher , Wertfuzzy77#0274 , watch
+17 Jul 2016 19:15:25 : None , Wertfuzzy77#0274 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")].get_member_named("Wertfuzzy77").mention + " Hello")
+17 Jul 2016 19:15:25 : Cipher , Botfuzzy77#2209 , <@!134441036905840640> Hello
+17 Jul 2016 19:15:25 : None , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000001F3D62C18E0>
+```
+17 Jul 2016 19:15:28 : Cipher , Wertfuzzy77#0274 , see
+17 Jul 2016 19:15:39 : Cipher , Jabulla#3761 , <discord.message.Message object at 0x000001F3D62C1110>
+17 Jul 2016 19:15:43 : Cipher , Jabulla#3761 , Sick
+17 Jul 2016 19:15:49 : Cipher , Wertfuzzy77#0274 , yeah lol
+17 Jul 2016 19:15:55 : Cipher , Wertfuzzy77#0274 , thats what it gives back
+17 Jul 2016 19:16:22 : None , RoyGasm ;)#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")].get_member_named("Wertfuzzy77 bet").mention)
+17 Jul 2016 19:16:22 : None , Botfuzzy77#2209 , ```py
+AttributeError: 'NoneType' object has no attribute 'mention'
+```
+17 Jul 2016 19:16:27 : Cipher , Wertfuzzy77#0274 , cause the actual `send_message` cmd both sends a message and returns it to me, so i can do things with it if i want
+17 Jul 2016 19:16:35 : None , RoyGasm ;)#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")].get_member_named("Wertfuzzy77").mention)
+17 Jul 2016 19:16:35 : Cipher , Botfuzzy77#2209 , <@!134441036905840640>
+17 Jul 2016 19:16:35 : None , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000001F3D62D82A0>
+```
+17 Jul 2016 19:16:45 : Cipher , Wertfuzzy77#0274 , so I could do like `send_message` then after like 5 seconds, remove that message, or something
+17 Jul 2016 19:16:57 : Cipher , Wertfuzzy77#0274 , <@!151163520120127488>  ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")].get_member_named("Wertfuzzy77").mention + " Hello")
+17 Jul 2016 19:17:04 : Cipher , Wertfuzzy77#0274 , see the `+ "Hello"`
+17 Jul 2016 19:17:06 : None , RoyGasm ;)#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], "then, what's the cmd to send the ping and the message?")
+17 Jul 2016 19:17:06 : Cipher , Botfuzzy77#2209 , then, what's the cmd to send the ping and the message?
+17 Jul 2016 19:17:06 : None , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000001F3D62D8818>
+```
+17 Jul 2016 19:17:28 : None , RoyGasm ;)#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")].get_member_named("Wertfuzzy77").mention + " test")
+17 Jul 2016 19:17:28 : Cipher , Botfuzzy77#2209 , <@!134441036905840640> test
+17 Jul 2016 19:17:28 : None , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000001F3D62D8B38>
+```
+17 Jul 2016 19:17:31 : Cipher , Wertfuzzy77#0274 , gj
+17 Jul 2016 19:17:32 : Cipher , Jabulla#3761 , Yeah wert, come to your gym, :l half of the arena is flat and 4 of the statues are missing...
+17 Jul 2016 19:17:41 : None , RoyGasm ;)#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")].get_member_named("Wertfuzzy77").mention + ":O kys now")
+17 Jul 2016 19:17:42 : Cipher , Botfuzzy77#2209 , <@!134441036905840640>:O kys now
+17 Jul 2016 19:17:42 : None , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000001F3D61BA1D8>
+```
+17 Jul 2016 19:19:25 : Cipher , Wertfuzzy77#0274 , ;kym
+17 Jul 2016 19:19:28 : Cipher , Wertfuzzy77#0274 , ;kms
+17 Jul 2016 19:19:29 : Cipher , Botfuzzy77#2209 , Don't Die
+17 Jul 2016 19:19:32 : None , RoyGasm ;)#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], "WTF I know this song")
+17 Jul 2016 19:19:32 : Cipher , Botfuzzy77#2209 , WTF I know this song
+17 Jul 2016 19:19:32 : None , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000001F3D62CE110>
+```
+17 Jul 2016 19:19:44 : None , RoyGasm ;)#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], ";song")
+17 Jul 2016 19:19:44 : Cipher , Botfuzzy77#2209 , ;song
+17 Jul 2016 19:19:45 : None , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000001F3D62CE5C0>
+```
+17 Jul 2016 19:20:04 : None , RoyGasm ;)#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("LimitlessMc")], " ;song ")
+17 Jul 2016 19:20:04 : LimitlessMc , Botfuzzy77#2209 ,  ;song 
+17 Jul 2016 19:20:04 : None , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000001F3D62CE8E0>
+```
+17 Jul 2016 19:20:29 : None , RoyGasm ;)#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], "erm woops")
+17 Jul 2016 19:20:29 : Cipher , Botfuzzy77#2209 , erm woops
+17 Jul 2016 19:20:29 : None , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000001F3D62CEC00>
+```
+17 Jul 2016 19:22:18 : Cipher , Wertfuzzy77#0274 , THERE IT is
+17 Jul 2016 19:28:59 : LimitlessMc , Botfuzzy77#2209 , Welcome <@200899621378195458> to LimitlessMc!
+17 Jul 2016 19:29:01 : Cipher , Wertfuzzy77#0274 , ;playlist Adele Coldplay Maroon
+17 Jul 2016 19:29:16 : Cipher , Botfuzzy77#2209 , Finished Adding songs from playlist(s)
+17 Jul 2016 19:29:20 : Cipher , Wertfuzzy77#0274 , ;song
+17 Jul 2016 19:29:20 : Cipher , Botfuzzy77#2209 , ```Name: 2Cellos - Viva La Vida (Coldplay)
+URL: <https://www.youtube.com/watch?v=Dp_SwthvfGc>
+Time: 0:06:31
+Views: 418,874
+Likes: 1,869, 98.68%
+Dislikes: 25, 1.32%
+```
+17 Jul 2016 19:29:26 : Cipher , Wertfuzzy77#0274 , ;skip
+17 Jul 2016 19:29:27 : Cipher , Botfuzzy77#2209 , Skipping 2Cellos - Viva La Vida (Coldplay)
+17 Jul 2016 19:29:29 : Cipher , Wertfuzzy77#0274 , ;songs
+17 Jul 2016 19:29:29 : Cipher , Botfuzzy77#2209 , **The Following songs are in the Queue, plus [6] more**
+17 Jul 2016 19:29:30 : Cipher , Botfuzzy77#2209 , 2CELLOS - Wake Me Up - Avicii [OFFICIAL VIDEO] (https://www.youtube.com/watch?v=N-YuSKeFMxY)
+Adele - Set Fire To The Rain (Live at The Royal Albert Hall) (https://www.youtube.com/watch?v=Ri7-vnrJD3k)
+Adele - Someone Like You (https://www.youtube.com/watch?v=hLQl3WQQoQ0)
+Adele - Rolling in the Deep (https://www.youtube.com/watch?v=rYEDA3JcQqw)
+Adele - Turning Tables (With Lyrics) (https://www.youtube.com/watch?v=dx7sLNyIeQk)
+Adele - Hello (https://www.youtube.com/watch?v=YQHsXMglC9A)
+Coldplay - A Sky Full Of Stars (Official video) (https://www.youtube.com/watch?v=VPRjCeoBqrI)
+Coldplay - Adventure Of A Lifetime (Official video) (https://www.youtube.com/watch?v=QtXby3twMmI)
+Coldplay - Fix You (https://www.youtube.com/watch?v=k4V3Mo61fJM)
+Coldplay - Every Teardrop Is a Waterfall (https://www.youtube.com/watch?v=fyMhvkC3A84)
+Total Time is 1:11:47
+17 Jul 2016 19:29:38 : None , RoyGasm ;)#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], "no cmd perms while talking in bot?")
+17 Jul 2016 19:29:38 : Cipher , Botfuzzy77#2209 , no cmd perms while talking in bot?
+17 Jul 2016 19:29:38 : None , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000001F3D631C5C0>
+```
+17 Jul 2016 19:29:48 : None , RoyGasm ;)#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], " ;song ")
+17 Jul 2016 19:29:48 : Cipher , Botfuzzy77#2209 ,  ;song 
+17 Jul 2016 19:29:48 : None , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000001F3D631C818>
+```
+17 Jul 2016 19:30:05 : None , RoyGasm ;)#7098 , ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], "-.-")
+17 Jul 2016 19:30:05 : Cipher , Botfuzzy77#2209 , -.-
+17 Jul 2016 19:30:05 : None , Botfuzzy77#2209 , ```py
+<discord.message.Message object at 0x000001F3D631CCC8>
+```
+17 Jul 2016 19:30:37 : LimitlessMc , Botfuzzy77#2209 , Welcome <@168223332876025856> to LimitlessMc!
+17 Jul 2016 19:43:56 : 02Gaming , Wu Tang#7652 , Im back from vacation
+17 Jul 2016 19:46:09 : 02Gaming , Wu Tang#7652 , ignore this, im testing the bot
+17 Jul 2016 19:46:11 : 02Gaming , Wu Tang#7652 , kys
+17 Jul 2016 19:46:39 : 02Gaming , Wu Tang#7652 , ;kys
+17 Jul 2016 19:46:39 : 02Gaming , Botfuzzy77#2209 , Sure, just gimme some bleach
+17 Jul 2016 19:46:44 : 02Gaming , Wu Tang#7652 , Holy
+17 Jul 2016 19:47:20 : 02Gaming , Wu Tang#7652 , ;kys
+17 Jul 2016 19:47:21 : 02Gaming , Botfuzzy77#2209 , Hey Mean!
+17 Jul 2016 19:47:27 : 02Gaming , Wu Tang#7652 , ;kys
+17 Jul 2016 19:47:27 : 02Gaming , Botfuzzy77#2209 , How about... no
+17 Jul 2016 19:47:35 : 02Gaming , Wu Tang#7652 , I love this bot.
+17 Jul 2016 19:54:36 : Cipher , Wertfuzzy77#0274 , yeah, it ignores its own messages
+17 Jul 2016 19:54:45 : Cipher , Wertfuzzy77#0274 , otherwise things like this would infinte spam
+17 Jul 2016 19:54:47 : Cipher , Wertfuzzy77#0274 , ^
+17 Jul 2016 19:54:47 : Cipher , Botfuzzy77#2209 , ^
+17 Jul 2016 19:54:50 : Cipher , Wertfuzzy77#0274 , like imagine
+17 Jul 2016 19:54:59 : Cipher , Wertfuzzy77#0274 , he would keep replying to himself xD
+17 Jul 2016 19:55:04 : LimitlessMc , Wertfuzzy77#0274 , welcome
+17 Jul 2016 19:55:25 : Cipher , Wertfuzzy77#0274 , ;songs
+17 Jul 2016 19:55:25 : Cipher , Botfuzzy77#2209 , **The Following songs are in the Queue**
+17 Jul 2016 19:55:26 : Cipher , Botfuzzy77#2209 , Coldplay - A Sky Full Of Stars (Official video) (https://www.youtube.com/watch?v=VPRjCeoBqrI)
+Coldplay - Adventure Of A Lifetime (Official video) (https://www.youtube.com/watch?v=QtXby3twMmI)
+Coldplay - Fix You (https://www.youtube.com/watch?v=k4V3Mo61fJM)
+Coldplay - Every Teardrop Is a Waterfall (https://www.youtube.com/watch?v=fyMhvkC3A84)
+Coldplay - Viva La Vida (https://www.youtube.com/watch?v=dvgZkm1xWPE)
+Maroon 5 - Moves Like Jagger ft. Christina Aguilera (https://www.youtube.com/watch?v=iEPTlhBmwRg)
+Maroon 5 - Animals (https://www.youtube.com/watch?v=qpgTC9MDx1o)
+Maroon 5 - Sugar (https://www.youtube.com/watch?v=09R8_2nJtjg)
+Maroon 5 - Maps (Explicit) (https://www.youtube.com/watch?v=NmugSMBh_iI)
+Maroon 5 - Payphone (Explicit) ft. Wiz Khalifa (https://www.youtube.com/watch?v=KRaWnd3LJfs)
+Total Time is 0:45:05
+17 Jul 2016 19:55:30 : Cipher , Wertfuzzy77#0274 , ;shuffle
+17 Jul 2016 19:55:30 : Cipher , Botfuzzy77#2209 , Shuffling songs...
+17 Jul 2016 19:55:32 : Cipher , Wertfuzzy77#0274 , ;songs
+17 Jul 2016 19:55:32 : Cipher , Botfuzzy77#2209 , **The Following songs are in the Queue**
+17 Jul 2016 19:55:32 : Cipher , Botfuzzy77#2209 , Maroon 5 - Payphone (Explicit) ft. Wiz Khalifa (https://www.youtube.com/watch?v=KRaWnd3LJfs)
+Coldplay - Viva La Vida (https://www.youtube.com/watch?v=dvgZkm1xWPE)
+Coldplay - A Sky Full Of Stars (Official video) (https://www.youtube.com/watch?v=VPRjCeoBqrI)
+Coldplay - Every Teardrop Is a Waterfall (https://www.youtube.com/watch?v=fyMhvkC3A84)
+Maroon 5 - Maps (Explicit) (https://www.youtube.com/watch?v=NmugSMBh_iI)
+Coldplay - Adventure Of A Lifetime (Official video) (https://www.youtube.com/watch?v=QtXby3twMmI)
+Coldplay - Fix You (https://www.youtube.com/watch?v=k4V3Mo61fJM)
+Maroon 5 - Sugar (https://www.youtube.com/watch?v=09R8_2nJtjg)
+Maroon 5 - Moves Like Jagger ft. Christina Aguilera (https://www.youtube.com/watch?v=iEPTlhBmwRg)
+Maroon 5 - Animals (https://www.youtube.com/watch?v=qpgTC9MDx1o)
+Total Time is 0:45:05
+17 Jul 2016 19:55:33 : Cipher , RoyGasm ;)#7098 , no pls
+17 Jul 2016 19:55:37 : Cipher , Wertfuzzy77#0274 , ?
+17 Jul 2016 19:55:48 : Cipher , RoyGasm ;)#7098 , spammed minecraft chat when you did that
+17 Jul 2016 19:55:53 : Cipher , Wertfuzzy77#0274 , oh xD
+17 Jul 2016 19:56:17 : Cipher , Wertfuzzy77#0274 , I turned Discord2MC off
+17 Jul 2016 19:56:27 : Cipher , Wertfuzzy77#0274 , they need to make it be customizable 1st
+17 Jul 2016 19:56:35 : Cipher , Wertfuzzy77#0274 , then ill re-enable it
+17 Jul 2016 19:56:46 : Cipher , Wertfuzzy77#0274 , ;skip
+17 Jul 2016 19:56:46 : Cipher , Botfuzzy77#2209 , Skipping Adele - Hello
+17 Jul 2016 20:00:11 : Cipher , Wertfuzzy77#0274 , ;playlist 2Cellos WEEB
+17 Jul 2016 20:00:16 : Cipher , Botfuzzy77#2209 , Finished Adding songs from playlist(s)
+17 Jul 2016 20:00:19 : Cipher , Wertfuzzy77#0274 , ;shuffle
+17 Jul 2016 20:00:19 : Cipher , Botfuzzy77#2209 , Shuffling songs...
+17 Jul 2016 20:00:21 : Cipher , Wertfuzzy77#0274 , ;songs
+17 Jul 2016 20:00:21 : Cipher , Botfuzzy77#2209 , **The Following songs are in the Queue, plus [5] more**
+17 Jul 2016 20:00:21 : Cipher , Botfuzzy77#2209 , Coldplay - Fix You (https://www.youtube.com/watch?v=k4V3Mo61fJM)
+Maroon 5 - Sugar (https://www.youtube.com/watch?v=09R8_2nJtjg)
+Maroon 5 - Animals (https://www.youtube.com/watch?v=qpgTC9MDx1o)
+2CELLOS - Wake Me Up - Avicii [OFFICIAL VIDEO] (https://www.youtube.com/watch?v=N-YuSKeFMxY)
+Maroon 5 - Maps (Explicit) (https://www.youtube.com/watch?v=NmugSMBh_iI)
+2CELLOS - Smooth Criminal [OFFICIAL VIDEO] (https://www.youtube.com/watch?v=Mx0xCI1jaUM)
+Maroon 5 - Moves Like Jagger ft. Christina Aguilera (https://www.youtube.com/watch?v=iEPTlhBmwRg)
+Coldplay - Viva La Vida (https://www.youtube.com/watch?v=dvgZkm1xWPE)
+2CELLOS - Thunderstruck [OFFICIAL VIDEO] (https://www.youtube.com/watch?v=uT3SBzmDxGk)
+Coldplay - Every Teardrop Is a Waterfall (https://www.youtube.com/watch?v=fyMhvkC3A84)
+Total Time is 1:05:43
+17 Jul 2016 20:04:11 : LimitlessMc , NorthOfTime#1507 , Thank god for VIP. Server full but I think I can still log in.. Hopefully lol
+17 Jul 2016 20:08:14 : Cipher , RoyGasm ;)#7098 , CAUSE I NEED
+17 Jul 2016 20:08:20 : Cipher , RoyGasm ;)#7098 , LITTLE love and little simpaty
+17 Jul 2016 20:08:24 : Cipher , RoyGasm ;)#7098 , NO
+17 Jul 2016 20:09:58 : Cipher , RoyGasm ;)#7098 , oh god no
+17 Jul 2016 20:10:09 : Cipher , RoyGasm ;)#7098 , someone messed with the minecarts in my gym
+17 Jul 2016 20:10:14 : Cipher , RoyGasm ;)#7098 , and barriers block them
+17 Jul 2016 20:10:20 : Cipher , RoyGasm ;)#7098 , so i can't fix -.-
+17 Jul 2016 20:11:19 : Cipher , Wertfuzzy77#0274 , ;relog
+17 Jul 2016 20:11:19 : Cipher , Botfuzzy77#2209 , Relogging...

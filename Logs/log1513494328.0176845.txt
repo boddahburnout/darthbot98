@@ -1,0 +1,17 @@
+17 Dec 2017 07:05:37 : darth, general, darth kota#9446, join
+17 Dec 2017 07:05:40 : darth, general, darth kota#9446, ;join
+17 Dec 2017 07:05:41 : darth, general, darthbot98#5182, Connected channel!
+17 Dec 2017 07:05:49 : darth, general, darth kota#9446, ;search twilight zone
+17 Dec 2017 07:05:55 : darth, general, darthbot98#5182, Added Golden Earring - Twilight Zone  (Video) to the queue
+17 Dec 2017 07:05:55 : darth, general, darthbot98#5182, https://www.youtube.com/watch?v=wIaaBuGNwNw
+17 Dec 2017 07:06:15 : darth, general, darth kota#9446, ;pause
+17 Dec 2017 07:06:27 : darth, general, darth kota#9446, ;resume
+17 Dec 2017 07:06:35 : darth, general, darth kota#9446, ;pause
+17 Dec 2017 07:06:40 : darth, general, darth kota#9446, ;resume
+17 Dec 2017 07:06:44 : darth, general, darth kota#9446, ;reload
+17 Dec 2017 07:06:45 : darth, general, darthbot98#5182, Reloaded
+17 Dec 2017 07:06:53 : darth, general, darth kota#9446, ;join
+17 Dec 2017 07:06:53 : darth, general, darthbot98#5182, Reconnected channel!
+17 Dec 2017 07:07:06 : darth, general, darth kota#9446, ;pause
+17 Dec 2017 07:07:29 : darth, general, darth kota#9446, ;viewplaylist
+17 Dec 2017 07:08:02 : darth, general, darth kota#9446, ;relog

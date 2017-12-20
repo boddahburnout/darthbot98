@@ -1,0 +1,1521 @@
+23 Sep 2016 00:01:00 : The Wild Weeaboos, coding, Wertfuzzy77#0274, ;join
+23 Sep 2016 00:01:02 : The Wild Weeaboos, coding, Wertfuzzy77#0274, ;join
+23 Sep 2016 00:01:05 : The Wild Weeaboos, coding, Wertfuzzy77#0274, ;join
+23 Sep 2016 00:01:08 : The Wild Weeaboos, coding, Wertfuzzy77#0274, ;playlist Kimi Kimi Kimi Kimi Kimi Kimi
+23 Sep 2016 00:01:35 : The Wild Weeaboos, coding, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+23 Sep 2016 00:06:29 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Offline!
+23 Sep 2016 00:06:29 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+23 Sep 2016 00:06:46 : The Wild Weeaboos, general, Wertfuzzy77#0274, @Nubs (CS311) What did we decide for 3 a-e?
+23 Sep 2016 00:06:59 : The Wild Weeaboos, general, Wertfuzzy77#0274, ```Question 3:
+    a) 2
+    b) 3
+    c) No Solution *
+    d) No Solution *
+    e) 2```
+23 Sep 2016 00:07:02 : The Wild Weeaboos, general, Wertfuzzy77#0274, cause thats what i have
+23 Sep 2016 00:07:32 : The Wild Weeaboos, general, FinaldF#5864, I have 
+2
+1
+No solution
+3
+2
+23 Sep 2016 00:07:52 : The Wild Weeaboos, general, Wertfuzzy77#0274, how did you get 1 for 3b?
+23 Sep 2016 00:07:52 : The Wild Weeaboos, general, FinaldF#5864, 3nlog(n) is what B turns into so I don't know how you guys got C = 3
+23 Sep 2016 00:08:05 : The Wild Weeaboos, general, FinaldF#5864, nlog(n)^3 = 3nlog(n)
+23 Sep 2016 00:08:13 : The Wild Weeaboos, general, Wertfuzzy77#0274, no
+23 Sep 2016 00:08:23 : The Wild Weeaboos, general, Wertfuzzy77#0274, nlog(n^3) = 3nlog(n)
+23 Sep 2016 00:08:32 : The Wild Weeaboos, general, FinaldF#5864, Fun fact about other log rules
+23 Sep 2016 00:08:44 : The Wild Weeaboos, general, FinaldF#5864, nlog(n)^3 = nlog(n^3)
+23 Sep 2016 00:08:58 : The Wild Weeaboos, general, Wertfuzzy77#0274, ;debug nlog(n)^3 == nlog(n^3)
+23 Sep 2016 00:08:59 : The Wild Weeaboos, general, Botfuzzy77#2209, ```py
+NameError: name 'nlog' is not defined
+```
+23 Sep 2016 00:09:06 : The Wild Weeaboos, general, Wertfuzzy77#0274, ;debug n*log(n)^3 == n*log(n^3)
+23 Sep 2016 00:09:06 : The Wild Weeaboos, general, Botfuzzy77#2209, ```py
+NameError: name 'n' is not defined
+```
+23 Sep 2016 00:09:09 : The Wild Weeaboos, general, Wertfuzzy77#0274, ....
+23 Sep 2016 00:09:13 : The Wild Weeaboos, general, FinaldF#5864, lmao
+23 Sep 2016 00:09:14 : The Wild Weeaboos, general, FinaldF#5864, symbolab.com
+23 Sep 2016 00:09:15 : The Wild Weeaboos, general, FinaldF#5864, ^
+23 Sep 2016 00:09:15 : The Wild Weeaboos, general, Botfuzzy77#2209, ^
+23 Sep 2016 00:09:20 : The Wild Weeaboos, general, Wertfuzzy77#0274, ;debug 10*log(10)^3 == 10*log(10^3)
+23 Sep 2016 00:09:20 : The Wild Weeaboos, general, Botfuzzy77#2209, ```py
+NameError: name 'log' is not defined
+```
+23 Sep 2016 00:09:22 : The Wild Weeaboos, general, FinaldF#5864, Just use the step by step solution
+23 Sep 2016 00:09:53 : The Wild Weeaboos, general, FinaldF#5864, except don't do n on symbolab use x
+23 Sep 2016 00:09:54 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+23 Sep 2016 00:09:54 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+23 Sep 2016 00:10:01 : The Wild Weeaboos, general, FinaldF#5864, they don't support other variables which is fucking stupid
+23 Sep 2016 00:10:41 : The Wild Weeaboos, general, Wertfuzzy77#0274, https://www.symbolab.com/solver/step-by-step/xlog%5Cleft(x%5Cright)%5E%7B3%7D%20%3D%203xlog%5Cleft(x%5Cright)
+23 Sep 2016 00:10:43 : The Wild Weeaboos, general, Wertfuzzy77#0274, try again
+23 Sep 2016 00:10:46 : The Wild Weeaboos, general, Wertfuzzy77#0274, it doesnt work
+23 Sep 2016 00:11:09 : The Wild Weeaboos, general, Wertfuzzy77#0274, it only works if the ^ is inside
+23 Sep 2016 00:11:32 : The Wild Weeaboos, general, FinaldF#5864, https://www.symbolab.com/solver/step-by-step/x%5Clog_%7B2%7D%5Cleft(x%5Cright)%5E%7B3%7D
+23 Sep 2016 00:11:35 : The Wild Weeaboos, general, FinaldF#5864, Check the original function
+23 Sep 2016 00:12:02 : The Wild Weeaboos, general, FinaldF#5864, ooh shit wait
+23 Sep 2016 00:12:06 : The Wild Weeaboos, general, FinaldF#5864, it changed the fucntion
+23 Sep 2016 00:12:08 : The Wild Weeaboos, general, FinaldF#5864, just saw that
+23 Sep 2016 00:12:11 : The Wild Weeaboos, general, Wertfuzzy77#0274, yup
+23 Sep 2016 00:12:18 : The Wild Weeaboos, general, Wertfuzzy77#0274, its 3
+23 Sep 2016 00:12:28 : The Wild Weeaboos, general, Wertfuzzy77#0274, i did it graphicaly
+23 Sep 2016 00:12:33 : The Wild Weeaboos, general, FinaldF#5864, How did you guys get 3?
+23 Sep 2016 00:12:45 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Offline!
+23 Sep 2016 00:12:45 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+23 Sep 2016 00:12:50 : The Wild Weeaboos, general, FinaldF#5864, Like I get the log(n)^3 but that doesnt equal n^3 because log is wayyyyyyyyyyy less
+23 Sep 2016 00:13:23 : The Wild Weeaboos, general, Wertfuzzy77#0274, x^2 < x * log(x)^3 < x^3
+23 Sep 2016 00:13:47 : The Wild Weeaboos, general, Wertfuzzy77#0274, so the largest c is 3
+23 Sep 2016 00:13:48 : The Wild Weeaboos, general, FinaldF#5864, Okay yeah that makes sense tehn
+23 Sep 2016 00:13:50 : The Wild Weeaboos, general, FinaldF#5864, then*
+23 Sep 2016 00:14:09 : The Wild Weeaboos, general, Wertfuzzy77#0274, alright, how did you get 3d
+23 Sep 2016 00:14:44 : The Wild Weeaboos, general, FinaldF#5864, Because the function goes 1^3 + 2^3 + 3^3 etc etc all the way up to n^3
+23 Sep 2016 00:14:50 : The Wild Weeaboos, general, FinaldF#5864, And the only thing that matters to us is n^3
+23 Sep 2016 00:14:52 : The Wild Weeaboos, general, FinaldF#5864, that's what I said
+23 Sep 2016 00:15:10 : The Wild Weeaboos, general, FinaldF#5864, We learned in 187 we can get rid of constants so literally none of the constants matter
+23 Sep 2016 00:17:54 : The Wild Weeaboos, general, Wertfuzzy77#0274, its 4?
+23 Sep 2016 00:17:56 : The Wild Weeaboos, general, Wertfuzzy77#0274, i think
+23 Sep 2016 00:17:56 : The Wild Weeaboos, general, Wertfuzzy77#0274, https://www.wolframalpha.com/input/?i=sum(i%3D1+to+n)+i%5E3+%3C+n%5E4
+23 Sep 2016 00:18:15 : Penguins, general, Botfuzzy77#2209, **Resolate**(Suicune) is now Online!
+23 Sep 2016 00:18:18 : Penguins, general, Botfuzzy77#2209, **Resolate**(Suicune) is now Online!
+23 Sep 2016 00:18:58 : The Wild Weeaboos, general, Wertfuzzy77#0274, yeah, cause `sum(i=1 to n) i^3` = 11/4 N^2 (N + 1)^21
+23 Sep 2016 00:19:15 : The Wild Weeaboos, general, FinaldF#5864, Mmmmmmmmmm It should be between 3 and 4 cause under technicallities we do add all the numbers before it up so it would be a little less than n^4 i think
+23 Sep 2016 00:19:31 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **w0f**(Children of The Raw Man) is now Online!
+23 Sep 2016 00:19:38 : The Wild Weeaboos, general, Wertfuzzy77#0274, but `N^2 (N + 1)^2` > `N^3`
+23 Sep 2016 00:19:56 : The Wild Weeaboos, general, Wertfuzzy77#0274, so it cant be 3
+23 Sep 2016 00:19:59 : The Wild Weeaboos, general, Wertfuzzy77#0274, needs to be atleast 4
+23 Sep 2016 00:20:05 : The Raw Man Cult, mainchat, w0f#2189, !meme pyrocynical
+23 Sep 2016 00:20:07 : The Raw Man Cult, mainchat, Gerald#7099, http://i.imgflip.com/1b3w64.jpg
+23 Sep 2016 00:20:23 : The Raw Man Cult, mainchat, w0f#2189, !meme fucking niggers am I right?
+23 Sep 2016 00:20:23 : The Wild Weeaboos, general, FinaldF#5864, Yeah i just saw wolfram
+23 Sep 2016 00:20:24 : The Raw Man Cult, mainchat, Gerald#7099, http://i.imgflip.com/1b3w6x.jpg
+23 Sep 2016 00:20:25 : The Wild Weeaboos, general, FinaldF#5864, so yeah
+23 Sep 2016 00:20:27 : The Wild Weeaboos, general, FinaldF#5864, that'd be 4 then
+23 Sep 2016 00:21:30 : The Wild Weeaboos, general, Wertfuzzy77#0274, and 3c is 1?
+23 Sep 2016 00:21:31 : The Wild Weeaboos, general, Wertfuzzy77#0274, i think
+23 Sep 2016 00:21:37 : The Wild Weeaboos, general, Wertfuzzy77#0274, https://www.wolframalpha.com/input/?i=sum(i%3D0+to+log(2,n))+n%2F2%5Ei+%3C+n
+23 Sep 2016 00:22:11 : The Wild Weeaboos, general, Wertfuzzy77#0274, wait no
+23 Sep 2016 00:22:23 : The Wild Weeaboos, general, enragednuke#2565, same
+23 Sep 2016 00:22:28 : The Wild Weeaboos, general, Wertfuzzy77#0274, its 2
+23 Sep 2016 00:22:36 : The Wild Weeaboos, general, Wertfuzzy77#0274, https://www.wolframalpha.com/input/?i=sum(i%3D0+to+log(2,n))+n%2F2%5Ei+%3C+n%5E2
+23 Sep 2016 00:22:38 : The Wild Weeaboos, general, enragednuke#2565, 3c was none
+23 Sep 2016 00:22:40 : The Wild Weeaboos, general, Wertfuzzy77#0274, its 2
+23 Sep 2016 00:22:40 : The Wild Weeaboos, general, enragednuke#2565, fu
+23 Sep 2016 00:22:42 : The Wild Weeaboos, general, Wertfuzzy77#0274, i just did it
+23 Sep 2016 00:22:43 : The Wild Weeaboos, general, enragednuke#2565, N O N E
+23 Sep 2016 00:22:44 : The Wild Weeaboos, general, FinaldF#5864, I feel like there should be 1 that has no solution and I think it's 3
+23 Sep 2016 00:22:55 : The Wild Weeaboos, general, Wertfuzzy77#0274, i just solved it tho
+23 Sep 2016 00:23:14 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **RadicalRadius**(Children of The Raw Man) is now Offline!
+23 Sep 2016 00:29:06 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+23 Sep 2016 00:29:06 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+23 Sep 2016 00:29:55 : LimitlessMc, mainchat, zigban1#6865, ok server not showing up on my list
+23 Sep 2016 00:30:03 : LimitlessMc, mainchat, Lightning#6734, odd
+23 Sep 2016 00:30:09 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+23 Sep 2016 00:30:09 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Online!
+23 Sep 2016 00:30:33 : LimitlessMc, mainchat, zigban1#6865, yeh it says its just scanning
+23 Sep 2016 00:30:43 : LimitlessMc, mainchat, Lightning#6734, hmm
+23 Sep 2016 00:30:55 : LimitlessMc, mainchat, Lightning#6734, i've been on all day :I
+23 Sep 2016 00:31:28 : LimitlessMc, mainchat, zigban1#6865, im restarting game to see if that works
+23 Sep 2016 00:31:45 : Penguins, general, Botfuzzy77#2209, **Imposter Snake**(Ass) is now Online!
+23 Sep 2016 00:31:56 : Penguins, general, Botfuzzy77#2209, **Resolate**(Suicune) is now Offline!
+23 Sep 2016 00:35:02 : LimitlessMc, mainchat, zigban1#6865, still scanning local network
+23 Sep 2016 00:35:39 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+23 Sep 2016 00:35:39 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Offline!
+23 Sep 2016 00:36:05 : LimitlessMc, mainchat, zigban1#6865, could someone get me the ip of server
+23 Sep 2016 00:36:14 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **The Fat Walrus**(Priests of The Raw Man) is now Online!
+23 Sep 2016 00:37:03 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Online!
+23 Sep 2016 00:37:28 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+23 Sep 2016 00:37:28 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+23 Sep 2016 00:38:59 : LimitlessMc, mainchat, zigban1#6865, wtf wrong with my pixelmon i cant find server
+23 Sep 2016 00:39:41 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Online!
+23 Sep 2016 00:39:41 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Online!
+23 Sep 2016 00:39:43 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Offline!
+23 Sep 2016 00:42:22 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Offline!
+23 Sep 2016 00:42:22 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Offline!
+23 Sep 2016 00:46:41 : LimitlessMc, mainchat, zigban1#6865, im so tempted to give up on pixelmon with the amount of trouble ive had
+23 Sep 2016 00:51:22 : My Personal Server, general, Botfuzzy77#2209, **Twist3dMindz**(Member) is now Offline!
+23 Sep 2016 00:51:24 : LimitlessMc, botchat, An_Average_Fellow#1532, ;luck
+23 Sep 2016 00:51:25 : LimitlessMc, botchat, Botfuzzy77#2209, An_Average_Fellow's luck is 3.06 out of 100, which is **Completly Horrible**
+23 Sep 2016 00:51:31 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+23 Sep 2016 00:51:31 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Offline!
+23 Sep 2016 00:54:38 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **The Fat Walrus**(Priests of The Raw Man) is now Online!
+23 Sep 2016 00:57:19 : My Personal Server, general, Botfuzzy77#2209, **Twist3dMindz**(Member) is now Online!
+23 Sep 2016 00:58:18 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+23 Sep 2016 00:58:18 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+23 Sep 2016 00:58:25 : LimitlessMc, mainchat, Lightning#6734, that's odd
+23 Sep 2016 00:59:36 : Penguins, general, Botfuzzy77#2209, **Resolate**(Suicune) is now Online!
+23 Sep 2016 01:00:22 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Offline!
+23 Sep 2016 01:00:22 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+23 Sep 2016 01:01:02 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Offline!
+23 Sep 2016 01:01:12 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Schauda**(Priests of The Raw Man) is now Offline!
+23 Sep 2016 01:05:02 : LimitlessMc, mainchat, Bringer#7277, try restarting pc @zigban1
+23 Sep 2016 01:05:30 : LimitlessMc, mainchat, zigban1#6865, did server restart
+23 Sep 2016 01:05:35 : LimitlessMc, mainchat, Bringer#7277, just now
+23 Sep 2016 01:05:44 : LimitlessMc, mainchat, zigban1#6865, ok
+23 Sep 2016 01:05:47 : LimitlessMc, botchat, Bringer#7277, ;luck
+23 Sep 2016 01:05:47 : LimitlessMc, botchat, Botfuzzy77#2209, Bringer's luck is 49.09 out of 100, which is **Not Bad**
+23 Sep 2016 01:05:48 : LimitlessMc, mainchat, An_Average_Fellow#1532, is it up?
+23 Sep 2016 01:05:55 : LimitlessMc, mainchat, An_Average_Fellow#1532, im still trying to get in
+23 Sep 2016 01:06:02 : LimitlessMc, mainchat, zigban1#6865, same
+23 Sep 2016 01:06:08 : LimitlessMc, mainchat, Bringer#7277, not yet its restarting
+23 Sep 2016 01:06:15 : LimitlessMc, mainchat, zigban1#6865, k
+23 Sep 2016 01:06:18 : LimitlessMc, mainchat, An_Average_Fellow#1532, k
+23 Sep 2016 01:06:21 : LimitlessMc, mainchat, Bringer#7277, ok up
+23 Sep 2016 01:06:22 : Team Harmony, general, Botfuzzy77#2209, **Skyd**(Team Harmony) is now Online!
+23 Sep 2016 01:06:22 : Cipher, general, Botfuzzy77#2209, **Skyd**(Champ) is now Online!
+23 Sep 2016 01:06:30 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Online!
+23 Sep 2016 01:06:30 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Online!
+23 Sep 2016 01:06:33 : LimitlessMc, botchat, An_Average_Fellow#1532, ;luck
+23 Sep 2016 01:06:33 : LimitlessMc, botchat, Botfuzzy77#2209, An_Average_Fellow's luck is 74.44 out of 100, which is **Pretty Good**
+23 Sep 2016 01:08:25 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+23 Sep 2016 01:08:25 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+23 Sep 2016 01:09:28 : Penguins, general, Botfuzzy77#2209, **Brian**(Ass) is now Online!
+23 Sep 2016 01:09:31 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Online!
+23 Sep 2016 01:10:25 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Offline!
+23 Sep 2016 01:10:25 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+23 Sep 2016 01:11:48 : My Personal Server, general, Botfuzzy77#2209, **Soner**(No Role) is now Online!
+23 Sep 2016 01:13:37 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Offline!
+23 Sep 2016 01:13:44 : Penguins, general, Brian#0945, XD
+23 Sep 2016 01:16:32 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Online!
+23 Sep 2016 01:16:32 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+23 Sep 2016 01:16:55 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+23 Sep 2016 01:16:55 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+23 Sep 2016 01:18:01 : Cipher, general, D3NSH1N#8702, 
+23 Sep 2016 01:18:07 : Cipher, general, D3NSH1N#8702, @Godfuzzy77
+23 Sep 2016 01:18:35 : LimitlessMc, mainchat, Topheralan#1202, Hey @Lightning go fuck yourself. I only argue momentarily. Then I ban. Lol
+23 Sep 2016 01:21:57 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Offline!
+23 Sep 2016 01:21:57 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+23 Sep 2016 01:24:47 : GreenHillGang, general, Botfuzzy77#2209, **Wertfuzzy77**(No Role) is now Online!
+23 Sep 2016 01:24:47 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+23 Sep 2016 01:24:50 : LimitlessMc, botchat, Pokken#0986, ;luck
+23 Sep 2016 01:24:51 : LimitlessMc, botchat, Botfuzzy77#2209, Pokken's luck is 16.62 out of 100, which is **Completly Horrible**
+23 Sep 2016 01:24:53 : LimitlessMc, botchat, Pokken#0986, ;luck
+23 Sep 2016 01:24:54 : LimitlessMc, botchat, Botfuzzy77#2209, Pokken's luck is 27.43 out of 100, which is **Pretty Bad**
+23 Sep 2016 01:24:56 : LimitlessMc, botchat, Pokken#0986, ;luck
+23 Sep 2016 01:24:56 : LimitlessMc, botchat, Botfuzzy77#2209, Pokken's luck is 34.26 out of 100, which is **Pretty Bad**
+23 Sep 2016 01:24:59 : LimitlessMc, botchat, Pokken#0986, ;luck
+23 Sep 2016 01:24:59 : LimitlessMc, botchat, Botfuzzy77#2209, Pokken's luck is 50.97 out of 100, which is **Not Bad**
+23 Sep 2016 01:25:02 : LimitlessMc, botchat, Pokken#0986, ;luck
+23 Sep 2016 01:25:02 : LimitlessMc, botchat, Botfuzzy77#2209, Pokken's luck is 74.5 out of 100, which is **Pretty Good**
+23 Sep 2016 01:25:04 : LimitlessMc, botchat, Pokken#0986, ;luck
+23 Sep 2016 01:25:04 : LimitlessMc, botchat, Botfuzzy77#2209, Pokken's luck is 76.52 out of 100, which is **Pretty Good**
+23 Sep 2016 01:25:08 : LimitlessMc, botchat, Pokken#0986, ;luck
+23 Sep 2016 01:25:08 : LimitlessMc, botchat, Botfuzzy77#2209, Pokken's luck is 17.85 out of 100, which is **Completly Horrible**
+23 Sep 2016 01:26:06 : Penguins, general, Botfuzzy77#2209, **Resolate**(Suicune) is now Online!
+23 Sep 2016 01:26:26 : Penguins, general, Botfuzzy77#2209, **Resolate**(Suicune) is now Online!
+23 Sep 2016 01:28:00 : GreenHillGang, general, Botfuzzy77#2209, **RoboDK88**(No Role) is now Online!
+23 Sep 2016 01:28:00 : Cipher, general, Botfuzzy77#2209, **RoboDK88**(Grunt) is now Online!
+23 Sep 2016 01:28:07 : Penguins, general, Botfuzzy77#2209, **Resolate**(Suicune) is now Offline!
+23 Sep 2016 01:31:26 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **The Fat Walrus**(Priests of The Raw Man) is now Online!
+23 Sep 2016 01:32:02 : Penguins, general, Botfuzzy77#2209, **Google**(Genesect) is now Offline!
+23 Sep 2016 01:32:06 : Penguins, general, Botfuzzy77#2209, **Google**(Genesect) is now Online!
+23 Sep 2016 01:33:37 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Offline!
+23 Sep 2016 01:33:37 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+23 Sep 2016 01:33:50 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+23 Sep 2016 01:33:50 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+23 Sep 2016 01:35:36 : LimitlessMc, mainchat, Lightning#6734, @Bringer Toph hurt my feels lmao
+23 Sep 2016 01:35:51 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Offline!
+23 Sep 2016 01:35:51 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+23 Sep 2016 01:36:08 : LimitlessMc, mainchat, Bringer#7277, lmao
+23 Sep 2016 01:39:11 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Cat**(Children of The Raw Man) is now Offline!
+23 Sep 2016 01:41:04 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+23 Sep 2016 01:41:04 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+23 Sep 2016 01:43:04 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Offline!
+23 Sep 2016 01:43:04 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+23 Sep 2016 01:47:20 : LimitlessMc, botchat, Harambe#3735, ;luck
+23 Sep 2016 01:47:21 : LimitlessMc, botchat, Botfuzzy77#2209, Harambe's luck is 47.98 out of 100, which is **Not Bad**
+23 Sep 2016 01:52:47 : Cipher, general, Botfuzzy77#2209, **Skyd**(Champ) is now Online!
+23 Sep 2016 01:52:47 : Team Harmony, general, Botfuzzy77#2209, **Skyd**(Team Harmony) is now Online!
+23 Sep 2016 01:54:09 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+23 Sep 2016 01:54:09 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+23 Sep 2016 01:54:20 : Team Harmony, general, D3NSH1N#8702, @Skyd  you gonna join?
+23 Sep 2016 01:54:26 : Team Harmony, general, Botfuzzy77#2209, **Skyd**(Team Harmony) is now Offline!
+23 Sep 2016 01:54:26 : Cipher, general, Botfuzzy77#2209, **Skyd**(Champ) is now Offline!
+23 Sep 2016 01:57:55 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Offline!
+23 Sep 2016 01:57:56 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+23 Sep 2016 02:01:02 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **The Fat Walrus**(Priests of The Raw Man) is now Online!
+23 Sep 2016 02:02:09 : Penguins, general, Botfuzzy77#2209, **Brian**(Ass) is now Online!
+23 Sep 2016 02:07:13 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Cat**(Children of The Raw Man) is now Online!
+23 Sep 2016 02:07:42 : The Raw Man Cult, mainchat, w0f#2189, !meme creamy
+23 Sep 2016 02:07:44 : The Raw Man Cult, mainchat, Gerald#7099, http://i.imgflip.com/1b424j.jpg
+23 Sep 2016 02:17:23 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+23 Sep 2016 02:17:24 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+23 Sep 2016 02:20:04 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+23 Sep 2016 02:20:04 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Offline!
+23 Sep 2016 02:21:29 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Schauda**(Priests of The Raw Man) is now Online!
+23 Sep 2016 02:22:04 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Offline!
+23 Sep 2016 02:22:04 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Offline!
+23 Sep 2016 02:23:34 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Stormzzzy**(Popes of The Raw Man) is now Online!
+23 Sep 2016 02:25:08 : Penguins, general, Botfuzzy77#2209, **Imposter Snake**(Ass) is now Online!
+23 Sep 2016 02:25:16 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **w0f**(Children of The Raw Man) is now Offline!
+23 Sep 2016 02:30:25 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+23 Sep 2016 02:30:25 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+23 Sep 2016 02:30:32 : Team Harmony, general, D3NSH1N#8702, Guess not
+23 Sep 2016 02:32:43 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Offline!
+23 Sep 2016 02:32:43 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+23 Sep 2016 02:33:02 : Penguins, general, Botfuzzy77#2209, **Brian**(Ass) is now Online!
+23 Sep 2016 02:37:15 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **w0f**(Children of The Raw Man) is now Online!
+23 Sep 2016 02:37:54 : Temp Server, general, Botfuzzy77#2209, **Sunstrikeh**(Admin) is now Online!
+23 Sep 2016 02:37:54 : My Personal Server, general, Botfuzzy77#2209, **Sunstrikeh**(Moderator) is now Online!
+23 Sep 2016 02:39:41 : GreenHillGang, general, Botfuzzy77#2209, **RoboDK88**(No Role) is now Offline!
+23 Sep 2016 02:39:41 : Cipher, general, Botfuzzy77#2209, **RoboDK88**(Grunt) is now Offline!
+23 Sep 2016 02:39:58 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **w0f**(Children of The Raw Man) is now Offline!
+23 Sep 2016 02:42:38 : Penguins, general, Botfuzzy77#2209, **Brian**(Ass) is now Offline!
+23 Sep 2016 02:42:45 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **w0f**(Children of The Raw Man) is now Online!
+23 Sep 2016 02:46:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Online!
+23 Sep 2016 02:48:11 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Offline!
+23 Sep 2016 02:48:43 : Temp Server, general, Botfuzzy77#2209, **Sunstrikeh**(Admin) is now Online!
+23 Sep 2016 02:48:43 : My Personal Server, general, Botfuzzy77#2209, **Sunstrikeh**(Moderator) is now Online!
+23 Sep 2016 02:51:32 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Dong Ding**(Children of The Raw Man) is now Online!
+23 Sep 2016 02:53:11 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Daniel**(Children of The Raw Man) is now Online!
+23 Sep 2016 02:53:19 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+23 Sep 2016 02:53:20 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+23 Sep 2016 02:53:26 : Penguins, general, Botfuzzy77#2209, **Imposter Snake**(Ass) is now Online!
+23 Sep 2016 02:55:14 : Penguins, general, Botfuzzy77#2209, **Imposter Snake**(Ass) is now Online!
+23 Sep 2016 02:57:06 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Dong Ding**(Children of The Raw Man) is now Online!
+23 Sep 2016 02:57:10 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+23 Sep 2016 02:57:10 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Offline!
+23 Sep 2016 02:58:17 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+23 Sep 2016 02:58:17 : GreenHillGang, general, Botfuzzy77#2209, **Wertfuzzy77**(No Role) is now Online!
+23 Sep 2016 03:00:12 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Stormzzzy**(Popes of The Raw Man) is now Online!
+23 Sep 2016 03:07:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Daniel**(Children of The Raw Man) is now Offline!
+23 Sep 2016 03:07:36 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **w0f**(Children of The Raw Man) is now Online!
+23 Sep 2016 03:07:41 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Daniel**(Children of The Raw Man) is now Online!
+23 Sep 2016 03:11:04 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+23 Sep 2016 03:11:04 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+23 Sep 2016 03:11:44 : Team Harmony, ha_vault, D3NSH1N#8702, http://listmoz.com/#pQTPHvnpy1vvfR8VUpdate:
+23 Sep 2016 03:13:18 : Team Harmony, ha_vault, D3NSH1N#8702, http://listmoz.com/#pQTPHvnpy1vvfR8V
+Update: With the addition of Clefairy and Sableye, every (useful) HA that can be found in Extreme Hills (Night) is in the Vault!
+23 Sep 2016 03:13:25 : Team Harmony, ha_vault, D3NSH1N#8702, *h*
+23 Sep 2016 03:13:29 : Team Harmony, ha_vault, D3NSH1N#8702, _h_
+23 Sep 2016 03:13:37 : Team Harmony, ha_vault, D3NSH1N#8702, _ggh_
+23 Sep 2016 03:13:38 : Team Harmony, ha_vault, D3NSH1N#8702, **hg**
+23 Sep 2016 03:15:11 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Online!
+23 Sep 2016 03:17:11 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Offline!
+23 Sep 2016 03:17:58 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Online!
+23 Sep 2016 03:17:59 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Online!
+23 Sep 2016 03:18:00 : LimitlessMc, mainchat, Pokken#0986, im so tired
+23 Sep 2016 03:18:09 : LimitlessMc, mainchat, Pokken#0986, o im not helper
+23 Sep 2016 03:18:12 : LimitlessMc, mainchat, Pokken#0986, lel
+23 Sep 2016 03:18:14 : LimitlessMc, mainchat, Pokken#0986, rip me
+23 Sep 2016 03:18:17 : LimitlessMc, mainchat, Pokken#0986, night
+23 Sep 2016 03:18:26 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **w0f**(Children of The Raw Man) is now Offline!
+23 Sep 2016 03:18:33 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Online!
+23 Sep 2016 03:19:00 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Online!
+23 Sep 2016 03:19:00 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Online!
+23 Sep 2016 03:19:57 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **w0f**(Children of The Raw Man) is now Online!
+23 Sep 2016 03:20:09 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Online!
+23 Sep 2016 03:22:09 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Offline!
+23 Sep 2016 03:23:42 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+23 Sep 2016 03:23:42 : GreenHillGang, general, Botfuzzy77#2209, **Wertfuzzy77**(No Role) is now Online!
+23 Sep 2016 03:30:09 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+23 Sep 2016 03:30:09 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Online!
+23 Sep 2016 03:31:48 : LimitlessMc, mainchat, Harambe#3735, lol
+23 Sep 2016 03:32:08 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Offline!
+23 Sep 2016 03:32:09 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+23 Sep 2016 03:36:40 : Penguins, general, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Online!
+23 Sep 2016 03:38:30 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+23 Sep 2016 03:38:30 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+23 Sep 2016 03:39:16 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Cat**(Children of The Raw Man) is now Online!
+23 Sep 2016 03:39:21 : Penguins, general, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Offline!
+23 Sep 2016 03:40:48 : Penguins, general, Botfuzzy77#2209, **Olivia**(Xerneas) is now Offline!
+23 Sep 2016 03:42:38 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+23 Sep 2016 03:42:38 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Offline!
+23 Sep 2016 03:43:52 : Temp Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Offline!
+23 Sep 2016 03:43:52 : My Personal Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Offline!
+23 Sep 2016 03:44:37 : Temp Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Online!
+23 Sep 2016 03:44:37 : My Personal Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Online!
+23 Sep 2016 03:46:38 : My Personal Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Offline!
+23 Sep 2016 03:46:38 : Temp Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Offline!
+23 Sep 2016 03:47:22 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+23 Sep 2016 03:47:22 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Online!
+23 Sep 2016 03:49:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Cat**(Children of The Raw Man) is now Online!
+23 Sep 2016 03:50:53 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Cat**(Children of The Raw Man) is now Offline!
+23 Sep 2016 03:52:33 : LimitlessMc, botchat, Harambe#3735, ;luck
+23 Sep 2016 03:52:33 : LimitlessMc, botchat, Botfuzzy77#2209, Harambe's luck is 30.4 out of 100, which is **Pretty Bad**
+23 Sep 2016 03:55:18 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Online!
+23 Sep 2016 03:55:18 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Online!
+23 Sep 2016 03:56:02 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Offline!
+23 Sep 2016 03:56:02 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Offline!
+23 Sep 2016 03:59:58 : My Personal Server, general, Botfuzzy77#2209, **Twist3dMindz**(Member) is now Offline!
+23 Sep 2016 04:01:20 : My Personal Server, general, Botfuzzy77#2209, **Twist3dMindz**(Member) is now Online!
+23 Sep 2016 04:04:18 : Penguins, general, Botfuzzy77#2209, **Resolate**(Suicune) is now Online!
+23 Sep 2016 04:04:28 : Penguins, general, Botfuzzy77#2209, **Resolate**(Suicune) is now Online!
+23 Sep 2016 04:07:43 : Penguins, general, Botfuzzy77#2209, **Resolate**(Suicune) is now Offline!
+23 Sep 2016 04:14:18 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Cat**(Children of The Raw Man) is now Online!
+23 Sep 2016 04:14:21 : My Personal Server, general, Botfuzzy77#2209, **Twist3dMindz**(Member) is now Offline!
+23 Sep 2016 04:16:18 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Cat**(Children of The Raw Man) is now Offline!
+23 Sep 2016 04:17:16 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Online!
+23 Sep 2016 04:19:23 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Offline!
+23 Sep 2016 04:19:42 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Online!
+23 Sep 2016 04:19:47 : Temp Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Online!
+23 Sep 2016 04:19:47 : My Personal Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Online!
+23 Sep 2016 04:24:37 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Offline!
+23 Sep 2016 04:24:56 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Online!
+23 Sep 2016 04:28:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Offline!
+23 Sep 2016 04:38:58 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **w0f**(Children of The Raw Man) is now Offline!
+23 Sep 2016 04:43:32 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **The Fat Walrus**(Priests of The Raw Man) is now Offline!
+23 Sep 2016 04:46:49 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Daniel**(Children of The Raw Man) is now Offline!
+23 Sep 2016 04:55:28 : LimitlessMc, mainchat, Lightning#6734, pokken y u no helper bb D:
+23 Sep 2016 04:57:15 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Online!
+23 Sep 2016 04:59:15 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Offline!
+23 Sep 2016 05:09:07 : Team Harmony, general, Botfuzzy77#2209, **Techni**(Team Harmony) is now Offline!
+23 Sep 2016 05:09:07 : My Personal Server, general, Botfuzzy77#2209, **Techni**(Member) is now Offline!
+23 Sep 2016 05:12:07 : Team Harmony, general, Botfuzzy77#2209, **Techni**(Team Harmony) is now Online!
+23 Sep 2016 05:12:07 : My Personal Server, general, Botfuzzy77#2209, **Techni**(Member) is now Online!
+23 Sep 2016 05:42:41 : Penguins, general, Botfuzzy77#2209, **Imposter Snake**(Ass) is now Online!
+23 Sep 2016 05:48:30 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+23 Sep 2016 05:48:30 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Online!
+23 Sep 2016 05:51:11 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Stormzzzy**(Popes of The Raw Man) is now Offline!
+23 Sep 2016 06:05:14 : Temp Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Offline!
+23 Sep 2016 06:05:14 : My Personal Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Offline!
+23 Sep 2016 06:07:18 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Priests of The Raw Man) is now Online!
+23 Sep 2016 06:08:51 : Penguins, general, Botfuzzy77#2209, **Imposter Snake**(Ass) is now Online!
+23 Sep 2016 06:11:58 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Priests of The Raw Man) is now Offline!
+23 Sep 2016 06:12:12 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Priests of The Raw Man) is now Online!
+23 Sep 2016 06:13:56 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Online!
+23 Sep 2016 06:15:56 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Offline!
+23 Sep 2016 06:16:19 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Schauda**(Priests of The Raw Man) is now Online!
+23 Sep 2016 06:19:19 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Schauda**(Priests of The Raw Man) is now Online!
+23 Sep 2016 06:29:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Priests of The Raw Man) is now Online!
+23 Sep 2016 06:35:12 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Offline!
+23 Sep 2016 06:35:45 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Schauda**(Priests of The Raw Man) is now Offline!
+23 Sep 2016 06:48:51 : My Personal Server, general, Botfuzzy77#2209, **Sunstrikeh**(Moderator) is now Offline!
+23 Sep 2016 06:48:53 : Temp Server, general, Botfuzzy77#2209, **Sunstrikeh**(Admin) is now Offline!
+23 Sep 2016 06:49:17 : Cipher, general, Botfuzzy77#2209, **Jabulla**(Grunt) is now Online!
+23 Sep 2016 06:55:20 : My Personal Server, general, Botfuzzy77#2209, **Soner**(No Role) is now Offline!
+23 Sep 2016 07:09:52 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Dong Ding**(Children of The Raw Man) is now Online!
+23 Sep 2016 07:15:37 : Cipher, general, Botfuzzy77#2209, **Jabulla**(Grunt) is now Online!
+23 Sep 2016 07:41:02 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Dong Ding**(Children of The Raw Man) is now Online!
+23 Sep 2016 07:51:35 : Penguins, general, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Online!
+23 Sep 2016 07:51:47 : LimitlessMc, mainchat, SurvivraInHellAKASchool#7191, Spank
+23 Sep 2016 07:53:14 : Penguins, general, Botfuzzy77#2209, **Brian**(Ass) is now Online!
+23 Sep 2016 07:53:32 : Penguins, general, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Offline!
+23 Sep 2016 07:54:59 : Cipher, general, Botfuzzy77#2209, **Akinci**(Grunt) is now Online!
+23 Sep 2016 07:55:23 : Cipher, general, Akinci#5072, Hax
+23 Sep 2016 07:55:44 : Penguins, general, Botfuzzy77#2209, **Imposter Snake**(Ass) is now Offline!
+23 Sep 2016 07:56:23 : Cipher, general, Botfuzzy77#2209, **Jabulla**(Grunt) is now Online!
+23 Sep 2016 07:59:03 : Cipher, general, Botfuzzy77#2209, **Akinci**(Grunt) is now Offline!
+23 Sep 2016 08:07:36 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Online!
+23 Sep 2016 08:09:36 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Offline!
+23 Sep 2016 08:14:35 : LimitlessMc, mainchat, zigban1#6865, i crashed again arrrgghh
+23 Sep 2016 08:15:05 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Online!
+23 Sep 2016 08:15:39 : LimitlessMc, mainchat, zigban1#6865, now i cant connect
+23 Sep 2016 08:16:09 : LimitlessMc, mainchat, zigban1#6865, did the server reset
+23 Sep 2016 08:17:05 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Offline!
+23 Sep 2016 08:17:59 : LimitlessMc, mainchat, zigban1#6865, did anyone else get disconnected
+23 Sep 2016 08:22:47 : LimitlessMc, mainchat, Lightning#6734, @zigban1 server seems fine now
+23 Sep 2016 08:23:43 : LimitlessMc, mainchat, zigban1#6865, grr this is annoyign that i keep getting disconected cause it freezes every so of or just doesnt respond
+23 Sep 2016 08:33:40 : GreenHillGang, general, Botfuzzy77#2209, **Wertfuzzy77**(No Role) is now Online!
+23 Sep 2016 08:33:40 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+23 Sep 2016 08:34:57 : Penguins, general, Botfuzzy77#2209, **Imposter Snake**(Ass) is now Online!
+23 Sep 2016 08:43:49 : Penguins, general, Botfuzzy77#2209, **Imposter Snake**(Ass) is now Offline!
+23 Sep 2016 08:44:33 : Penguins, general, Botfuzzy77#2209, **Imposter Snake**(Ass) is now Online!
+23 Sep 2016 09:05:42 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Sushigawa**(No Role) is now Online!
+23 Sep 2016 09:09:24 : Cipher, general, Botfuzzy77#2209, **Es Fusel**(Grunt) is now Online!
+23 Sep 2016 09:10:27 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Sushigawa**(No Role) is now Offline!
+23 Sep 2016 09:12:05 : Cipher, general, Botfuzzy77#2209, **Es Fusel**(Grunt) is now Offline!
+23 Sep 2016 09:13:27 : LimitlessMc, mainchat, Lightning#6734, hmm idk then lad not much i can tell ya
+23 Sep 2016 09:16:06 : Penguins, general, Botfuzzy77#2209, **Brian**(Ass) is now Online!
+23 Sep 2016 09:16:18 : Penguins, general, Brian#0945, https://www.youtube.com/watch?v=inlajCGLH-4
+23 Sep 2016 09:16:37 : Penguins, general, Brian#0945, This made me eel sick
+23 Sep 2016 09:16:39 : Penguins, general, Brian#0945, feel*
+23 Sep 2016 09:22:39 : Team Harmony, general, Botfuzzy77#2209, **Techni**(Team Harmony) is now Offline!
+23 Sep 2016 09:22:39 : My Personal Server, general, Botfuzzy77#2209, **Techni**(Member) is now Offline!
+23 Sep 2016 09:25:13 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Sushigawa**(No Role) is now Online!
+23 Sep 2016 09:30:12 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Harrys**(SchutzStaffel) is now Online!
+23 Sep 2016 11:50:56 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Online!
+23 Sep 2016 11:50:56 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+23 Sep 2016 12:04:56 : Penguins, general, Botfuzzy77#2209, **chaliema**(Rayquaza) is now Online!
+23 Sep 2016 12:06:41 : LimitlessMc, botchat, PKMN03#2867, ;luck
+23 Sep 2016 12:06:41 : LimitlessMc, botchat, Botfuzzy77#2209, PKMN03's luck is 13.47 out of 100, which is **Completly Horrible**
+23 Sep 2016 12:06:47 : LimitlessMc, botchat, PKMN03#2867, ;luck
+23 Sep 2016 12:06:47 : LimitlessMc, botchat, Botfuzzy77#2209, PKMN03's luck is 89.22 out of 100, which is **AMAZING**
+23 Sep 2016 12:06:58 : LimitlessMc, botchat, PKMN03#2867, YAY! I HAVE AMAZING LUCK! Kappa
+23 Sep 2016 12:15:49 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Gilles**(Nazi) is now Online!
+23 Sep 2016 12:20:20 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Online!
+23 Sep 2016 12:21:09 : LimitlessMc, botchat, Harambe#3735, ;luck
+23 Sep 2016 12:21:09 : LimitlessMc, botchat, Botfuzzy77#2209, Harambe's luck is 24.46 out of 100, which is **Pretty Bad**
+23 Sep 2016 12:22:20 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Offline!
+23 Sep 2016 12:26:04 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Harrys**(SchutzStaffel) is now Online!
+23 Sep 2016 12:32:34 : Cipher, general, Botfuzzy77#2209, **Dudubidu**(Grunt) is now Online!
+23 Sep 2016 12:40:14 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Fearleas**(No Role) is now Online!
+23 Sep 2016 12:47:05 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Shadowhunter899**(No Role) is now Online!
+23 Sep 2016 12:48:21 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Online!
+23 Sep 2016 12:50:40 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Offline!
+23 Sep 2016 12:51:05 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Online!
+23 Sep 2016 12:53:05 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Offline!
+23 Sep 2016 12:53:29 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **warnier**(No Role) is now Online!
+23 Sep 2016 12:57:03 : Cipher, general, Botfuzzy77#2209, **Alpha is in School**(Grunt) is now Online!
+23 Sep 2016 12:58:05 : LimitlessMc, mainchat, Alpha is in School#3869, hey @SurvivraInHellAKASchool u name copier
+23 Sep 2016 12:58:40 : Cipher, general, Alpha is in School#3869, welcome to botchat #2
+23 Sep 2016 13:00:32 : Cipher, general, Botfuzzy77#2209, **Alpha is in School**(Grunt) is now Offline!
+23 Sep 2016 13:05:56 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+23 Sep 2016 13:05:56 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Online!
+23 Sep 2016 13:09:59 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Offline!
+23 Sep 2016 13:09:59 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+23 Sep 2016 13:13:25 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Online!
+23 Sep 2016 13:13:25 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+23 Sep 2016 13:26:56 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Fearleas**(No Role) is now Offline!
+23 Sep 2016 13:38:41 : Cipher, general, Botfuzzy77#2209, **Alpha is in School**(Grunt) is now Online!
+23 Sep 2016 13:38:55 : Cipher, general, Botfuzzy77#2209, **Alpha is in School**(Grunt) is now Offline!
+23 Sep 2016 13:40:56 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Shadowhunter899**(No Role) is now Online!
+23 Sep 2016 13:42:23 : Cipher, general, Botfuzzy77#2209, **Alpha is in School**(Grunt) is now Online!
+23 Sep 2016 13:46:03 : LimitlessMc, botchat, Alpha is in School#3869, ;luck
+23 Sep 2016 13:46:03 : LimitlessMc, botchat, Botfuzzy77#2209, Alpha is in School's luck is 50.86 out of 100, which is **Not Bad**
+23 Sep 2016 13:46:21 : LimitlessMc, mainchat, Alpha is in School#3869, great news: pc is 4gb again lmfao
+23 Sep 2016 13:48:01 : LimitlessMc, mainchat, Alpha is in School#3869, ill wait for beta10 to realease tho
+23 Sep 2016 13:49:20 : The Wild Weeaboos, general, Tally#2764, @Nubs (CS311)
+23 Sep 2016 13:49:26 : GreenHillGang, general, Botfuzzy77#2209, **Wertfuzzy77**(No Role) is now Online!
+23 Sep 2016 13:49:26 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+23 Sep 2016 13:49:30 : The Wild Weeaboos, general, Tally#2764, what did we put for all of 3
+23 Sep 2016 13:49:39 : The Wild Weeaboos, general, Wertfuzzy77#0274, Oi, it's 9Am go home
+23 Sep 2016 13:49:39 : The Wild Weeaboos, general, Tally#2764, like a, b ,c,  d, e
+23 Sep 2016 13:50:17 : The Wild Weeaboos, general, Wertfuzzy77#0274, Scroll up, it's there somewhere
+23 Sep 2016 13:50:22 : The Wild Weeaboos, general, Tally#2764, ..........................................
+23 Sep 2016 13:50:28 : The Wild Weeaboos, general, Tally#2764, there was diagreement
+23 Sep 2016 13:50:31 : The Wild Weeaboos, general, Tally#2764, disagreement
+23 Sep 2016 13:50:40 : The Wild Weeaboos, general, Tally#2764, so what the fuck did you guys agree on
+23 Sep 2016 13:50:47 : Penguins, general, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Online!
+23 Sep 2016 13:50:47 : The Wild Weeaboos, general, Tally#2764, oops
+23 Sep 2016 13:50:59 : The Wild Weeaboos, general, Tally#2764, @Nubs (CS311)
+23 Sep 2016 13:51:26 : The Wild Weeaboos, general, Wertfuzzy77#0274, Literally terrible, go home, no one is awake
+23 Sep 2016 13:51:31 : The Wild Weeaboos, general, Tally#2764, .....................
+23 Sep 2016 13:51:33 : The Wild Weeaboos, general, Tally#2764, you are
+23 Sep 2016 13:51:34 : LimitlessMc, mainchat, Alpha is in School#3869, scrub
+23 Sep 2016 13:51:35 : The Wild Weeaboos, general, Tally#2764, so answer it
+23 Sep 2016 13:52:42 : LimitlessMc, botchat, Boob#2637, ;luck
+23 Sep 2016 13:52:44 : LimitlessMc, botchat, Botfuzzy77#2209, Boob's luck is 5.64 out of 100, which is **Completly Horrible**
+23 Sep 2016 13:52:49 : LimitlessMc, botchat, Boob#2637, looool
+23 Sep 2016 13:53:28 : Penguins, general, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Offline!
+23 Sep 2016 13:54:18 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Shadowhunter899**(No Role) is now Online!
+23 Sep 2016 13:54:29 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Shadowhunter899**(No Role) is now Offline!
+23 Sep 2016 13:58:03 : Cipher, general, Botfuzzy77#2209, **Hiraeth is Salty af**(Grunt) is now Online!
+23 Sep 2016 13:58:03 : Penguins, general, Botfuzzy77#2209, **Hiraeth is Salty af**(Rayquaza) is now Online!
+23 Sep 2016 14:00:33 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Fearleas**(No Role) is now Online!
+23 Sep 2016 14:01:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Dong Ding**(Children of The Raw Man) is now Online!
+23 Sep 2016 14:01:44 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+23 Sep 2016 14:01:44 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Online!
+23 Sep 2016 14:04:24 : Penguins, general, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Online!
+23 Sep 2016 14:06:24 : Penguins, general, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Offline!
+23 Sep 2016 14:08:46 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Harrys**(SchutzStaffel) is now Offline!
+23 Sep 2016 14:16:05 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Fearleas**(No Role) is now Online!
+23 Sep 2016 14:16:29 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Fearleas**(No Role) is now Offline!
+23 Sep 2016 14:18:06 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Yuki-chan**(bot) is now Online!
+23 Sep 2016 14:20:08 : Cipher, general, Botfuzzy77#2209, **Es Fusel**(Grunt) is now Online!
+23 Sep 2016 14:20:18 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Schauda**(Priests of The Raw Man) is now Online!
+23 Sep 2016 14:22:08 : Cipher, general, Botfuzzy77#2209, **Es Fusel**(Grunt) is now Offline!
+23 Sep 2016 14:26:23 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Online!
+23 Sep 2016 14:28:33 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Offline!
+23 Sep 2016 14:29:39 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+23 Sep 2016 14:29:39 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+23 Sep 2016 14:30:29 : Cipher, general, Botfuzzy77#2209, **Es Fusel**(Grunt) is now Online!
+23 Sep 2016 14:32:30 : Cipher, general, D3NSH1N#8702, ikr
+23 Sep 2016 14:33:18 : LimitlessMc, mainchat, D3NSH1N#8702, lmao @Topheralan
+23 Sep 2016 14:33:41 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Offline!
+23 Sep 2016 14:33:44 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Online!
+23 Sep 2016 14:33:47 : LimitlessMc, mainchat, D3NSH1N#8702, "aight kid, you have 4 minutes and 56 seconds to argue and persuade me not to ban you."
+23 Sep 2016 14:34:10 : LimitlessMc, mainchat, Topheralan#1202, Lol
+23 Sep 2016 14:34:18 : LimitlessMc, mainchat, Topheralan#1202, Sounds about right
+23 Sep 2016 14:34:52 : Cipher, general, Botfuzzy77#2209, **Es Fusel**(Grunt) is now Offline!
+23 Sep 2016 14:35:49 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+23 Sep 2016 14:35:49 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Offline!
+23 Sep 2016 14:38:51 : The Wild Weeaboos, general, enragednuke#2565, @Tally did you do the iRA?
+23 Sep 2016 14:39:37 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+23 Sep 2016 14:39:37 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+23 Sep 2016 14:41:11 : The Wild Weeaboos, general, enragednuke#2565, @Tally
+23 Sep 2016 14:41:15 : The Wild Weeaboos, general, enragednuke#2565, @Tally
+23 Sep 2016 14:41:19 : The Wild Weeaboos, general, Tally#2764, yes
+23 Sep 2016 14:41:24 : The Wild Weeaboos, general, enragednuke#2565, oooo
+23 Sep 2016 14:41:29 : The Wild Weeaboos, general, enragednuke#2565, answers pls xd
+23 Sep 2016 14:41:31 : The Wild Weeaboos, general, Tally#2764, but i dont know the answers
+23 Sep 2016 14:41:36 : The Wild Weeaboos, general, enragednuke#2565, wtf
+23 Sep 2016 14:41:36 : The Wild Weeaboos, general, Tally#2764, cause chris gave them to me
+23 Sep 2016 14:41:37 : The Wild Weeaboos, general, enragednuke#2565, lol
+23 Sep 2016 14:41:44 : The Wild Weeaboos, general, Tally#2764, i remember like 4 mayber
+23 Sep 2016 14:41:46 : The Wild Weeaboos, general, Tally#2764, maybe
+23 Sep 2016 14:41:51 : The Wild Weeaboos, general, enragednuke#2565, so then get chris
+23 Sep 2016 14:41:58 : The Wild Weeaboos, general, Tally#2764, he isnt with me
+23 Sep 2016 14:42:00 : The Wild Weeaboos, general, enragednuke#2565, and have him post the answers
+23 Sep 2016 14:42:02 : The Wild Weeaboos, general, Tally#2764, i have  no clue where he is
+23 Sep 2016 14:42:08 : Cipher, general, Botfuzzy77#2209, **Alpha is in School**(Grunt) is now Offline!
+23 Sep 2016 14:42:11 : The Wild Weeaboos, general, Tally#2764, he doesnt have them saved
+23 Sep 2016 14:42:13 : Cipher, general, Botfuzzy77#2209, **Alpha is in School**(Grunt) is now Online!
+23 Sep 2016 14:42:15 : The Wild Weeaboos, general, Tally#2764, he told them to me in class
+23 Sep 2016 14:42:18 : The Wild Weeaboos, general, Tally#2764, i got a 93
+23 Sep 2016 14:42:25 : The Wild Weeaboos, general, Tally#2764, where are you
+23 Sep 2016 14:42:30 : The Wild Weeaboos, general, Tally#2764, i can try and help you with it
+23 Sep 2016 14:42:41 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **warnier**(No Role) is now Online!
+23 Sep 2016 14:42:53 : The Wild Weeaboos, general, enragednuke#2565, "where are you" lol
+23 Sep 2016 14:42:58 : The Wild Weeaboos, general, enragednuke#2565, at my dorm xd
+23 Sep 2016 14:43:19 : The Wild Weeaboos, general, Tally#2764, oh i have it
+23 Sep 2016 14:43:28 : The Wild Weeaboos, general, Tally#2764, im coming
+23 Sep 2016 14:44:21 : The Wild Weeaboos, general, enragednuke#2565, u have what
+23 Sep 2016 14:44:22 : The Wild Weeaboos, general, enragednuke#2565, lol
+23 Sep 2016 14:44:25 : Cipher, general, Botfuzzy77#2209, **Es Fusel**(Grunt) is now Online!
+23 Sep 2016 14:46:25 : Cipher, general, Botfuzzy77#2209, **Es Fusel**(Grunt) is now Offline!
+23 Sep 2016 14:47:58 : Penguins, general, Botfuzzy77#2209, **Imposter Snake**(Suicune) is now Offline!
+23 Sep 2016 14:49:19 : LimitlessMc, mainchat, Alpha is in School#3869, na screw it im downloading beta9
+23 Sep 2016 14:52:05 : Cipher, general, Botfuzzy77#2209, **Es Fusel**(Grunt) is now Online!
+23 Sep 2016 14:52:18 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Gerald**(Bots) is now Online!
+23 Sep 2016 14:52:19 : Penguins, general, Botfuzzy77#2209, **Gerald**(Genesect) is now Online!
+23 Sep 2016 14:53:05 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Online!
+23 Sep 2016 14:53:05 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Online!
+23 Sep 2016 14:54:08 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Schauda**(Priests of The Raw Man) is now Online!
+23 Sep 2016 14:54:12 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Aethex**(Bots) is now Online!
+23 Sep 2016 14:55:05 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Offline!
+23 Sep 2016 14:55:05 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Offline!
+23 Sep 2016 14:57:27 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 14:58:42 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Gilles**(Nazi) is now Offline!
+23 Sep 2016 15:07:11 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+23 Sep 2016 15:07:11 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+23 Sep 2016 15:07:44 : Penguins, general, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Online!
+23 Sep 2016 15:08:32 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+23 Sep 2016 15:08:32 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Offline!
+23 Sep 2016 15:08:38 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:09:21 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:09:35 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:09:36 : GreenHillGang, general, Botfuzzy77#2209, **Wertfuzzy77**(No Role) is now Online!
+23 Sep 2016 15:09:36 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+23 Sep 2016 15:09:42 : Penguins, general, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Offline!
+23 Sep 2016 15:09:51 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:10:01 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:10:17 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:10:18 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:10:28 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:10:38 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:10:51 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Gilles**(Nazi) is now Online!
+23 Sep 2016 15:10:54 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:11:08 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:11:24 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:11:40 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:11:54 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:12:09 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:12:19 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:12:29 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:12:40 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:12:56 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:12:59 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:13:01 : Penguins, general, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Online!
+23 Sep 2016 15:13:12 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:13:21 : Penguins, general, SurvivraInHellAKASchool#7191, Helo
+23 Sep 2016 15:13:22 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:13:29 : Penguins, general, Hiraeth is Salty af#1962, hero
+23 Sep 2016 15:13:33 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:13:40 : Penguins, general, Hiraeth is Salty af#1962, survs
+23 Sep 2016 15:13:44 : Penguins, general, Hiraeth is Salty af#1962, ya want somethin jiucy?
+23 Sep 2016 15:13:48 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:13:55 : LimitlessMc, botchat, SurvivraInHellAKASchool#7191, ;luck
+23 Sep 2016 15:13:55 : LimitlessMc, botchat, Botfuzzy77#2209, SurvivraInHellAKASchool's luck is 69.83 out of 100, which is **Pretty Good**
+23 Sep 2016 15:13:59 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:13:59 : LimitlessMc, botchat, SurvivraInHellAKASchool#7191, ez
+23 Sep 2016 15:14:14 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:14:29 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:14:39 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:14:40 : GetPlebd, weeaboo-chat, Gilles#3169, .music play cotton eye joe
+23 Sep 2016 15:14:42 : Penguins, general, SurvivraInHellAKASchool#7191, No i just drank lemonade
+23 Sep 2016 15:14:44 : GetPlebd, weeaboo-chat, ErisBot#1777, [**Music**] @Gilles has added `Rednex - Cotton Eye Joe` to the queue. (`03:14`) [`0`]
+23 Sep 2016 15:14:47 : Penguins, general, SurvivraInHellAKASchool#7191, 
+23 Sep 2016 15:14:48 : Penguins, general, SurvivraInHellAKASchool#7191, And LOL ^^^^^^
+23 Sep 2016 15:14:54 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:15:04 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:15:09 : Penguins, general, Hiraeth is Salty af#1962, XD
+23 Sep 2016 15:15:20 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:15:36 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:15:36 : Penguins, general, SurvivraInHellAKASchool#7191, Lol mom
+23 Sep 2016 15:15:39 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:15:41 : Penguins, general, SurvivraInHellAKASchool#7191, JOIN MOD
+23 Sep 2016 15:15:45 : Penguins, general, SurvivraInHellAKASchool#7191, YEE
+23 Sep 2016 15:15:47 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Sushigawa**(No Role) is now Offline!
+23 Sep 2016 15:15:54 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:15:57 : Penguins, general, Hiraeth is Salty af#1962, I'm waaay to inactive for that XD
+23 Sep 2016 15:16:02 : Penguins, general, Hiraeth is Salty af#1962, too*
+23 Sep 2016 15:16:07 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:16:09 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:16:16 : Penguins, general, Hiraeth is Salty af#1962, And i'm still mad about my mesa :I
+23 Sep 2016 15:16:19 : GetPlebd, weeaboo-chat, Gilles#3169, ffs
+23 Sep 2016 15:16:22 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:16:23 : Penguins, general, SurvivraInHellAKASchool#7191, Mom
+23 Sep 2016 15:16:27 : Penguins, general, Hiraeth is Salty af#1962, "Salty af"
+23 Sep 2016 15:16:32 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:16:36 : GetPlebd, weeaboo-chat, Gilles#3169, faggot
+23 Sep 2016 15:16:42 : Penguins, general, SurvivraInHellAKASchool#7191, He still mod
+23 Sep 2016 15:16:43 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:16:43 : Penguins, general, Botfuzzy77#2209, **Resolate**(Suicune) is now Online!
+23 Sep 2016 15:16:49 : Penguins, general, Hiraeth is still Salty af#1962, xD
+23 Sep 2016 15:16:51 : Penguins, general, Hiraeth is still Salty af#1962, omg
+23 Sep 2016 15:16:54 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:17:04 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:17:05 : Penguins, general, Hiraeth is still Salty af#1962, What happened to the rules of le serber?!
+23 Sep 2016 15:17:08 : Penguins, general, SurvivraInHellAKASchool#7191, Aussieage did a mkd app
+23 Sep 2016 15:17:12 : Penguins, general, SurvivraInHellAKASchool#7191, ?
+23 Sep 2016 15:17:13 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:17:18 : Penguins, general, SurvivraInHellAKASchool#7191, Like what mom
+23 Sep 2016 15:17:25 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:17:30 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:17:32 : Penguins, general, Hiraeth is still Salty af#1962, Thought if you weren't inactive enough you can have mod XD
+23 Sep 2016 15:17:35 : Penguins, general, Hiraeth is still Salty af#1962, active*
+23 Sep 2016 15:17:36 : Penguins, general, Hiraeth is still Salty af#1962, lol
+23 Sep 2016 15:17:41 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 15:17:43 : Penguins, general, Hiraeth is still Salty af#1962, can't
+23 Sep 2016 15:17:44 : Penguins, general, Hiraeth is still Salty af#1962, omg
+23 Sep 2016 15:17:50 : GetPlebd, weeaboo-chat, Mee6#4876, **Bloodyskills** is opgetiefd **GetPlebd**. Doei mongool **Bloodyskills**...
+23 Sep 2016 15:17:56 : Penguins, general, SurvivraInHellAKASchool#7191, MOM
+23 Sep 2016 15:17:58 : Penguins, general, Hiraeth is still Salty af#1962, ???
+23 Sep 2016 15:18:04 : GetPlebd, weeaboo-chat, Gilles#3169, .music play baker cat 1 hour
+23 Sep 2016 15:18:09 : GetPlebd, weeaboo-chat, ErisBot#1777, [**Music**] @Gilles has added `Baker Cat for 1 Hour` to the queue. (`01:00:02`) [`0`]
+23 Sep 2016 15:18:21 : Penguins, general, SurvivraInHellAKASchool#7191, MOM
+23 Sep 2016 15:18:24 : Penguins, general, Hiraeth is still Salty af#1962, ???????
+23 Sep 2016 15:18:28 : Penguins, general, SurvivraInHellAKASchool#7191, MOM
+23 Sep 2016 15:18:31 : Penguins, general, Hiraeth is still Salty af#1962, ?????????????
+23 Sep 2016 15:18:35 : Penguins, general, SurvivraInHellAKASchool#7191, hi
+23 Sep 2016 15:18:38 : Penguins, general, Hiraeth is still Salty af#1962, omg
+23 Sep 2016 15:18:42 : Penguins, general, Hiraeth is still Salty af#1962, no dinner
+23 Sep 2016 15:18:43 : Penguins, general, Hiraeth is still Salty af#1962, fo
+23 Sep 2016 15:18:44 : Penguins, general, Hiraeth is still Salty af#1962, u
+23 Sep 2016 15:18:48 : Penguins, general, SurvivraInHellAKASchool#7191, Fo u
+23 Sep 2016 15:18:53 : Penguins, general, Hiraeth is still Salty af#1962, shaddap
+23 Sep 2016 15:19:02 : Penguins, general, Hiraeth is still Salty af#1962, I'm sick and tired :I
+23 Sep 2016 15:19:05 : Penguins, general, Hiraeth is still Salty af#1962, https://open.spotify.com/track/1dyfcBvacXTF3ShrPgREwU
+23 Sep 2016 15:19:07 : Penguins, general, Hiraeth is still Salty af#1962, Shit
+23 Sep 2016 15:19:09 : Penguins, general, Hiraeth is still Salty af#1962, wrong link
+23 Sep 2016 15:19:19 : Cipher, general, Botfuzzy77#2209, **Alpha is in School**(Grunt) is now Offline!
+23 Sep 2016 15:19:27 : Penguins, general, SurvivraInHellAKASchool#7191, ...
+23 Sep 2016 15:19:30 : Penguins, general, Hiraeth is still Salty af#1962, this the juicy shit I was going to send:
+23 Sep 2016 15:19:31 : Penguins, general, Hiraeth is still Salty af#1962, https://cdn.discordapp.com/attachments/211676015712403456/228879202349219840/unknown.png
+23 Sep 2016 15:19:36 : Penguins, general, Hiraeth is still Salty af#1962, lkelelelellele
+23 Sep 2016 15:19:37 : Penguins, general, Hiraeth is still Salty af#1962, lelelelele
+23 Sep 2016 15:19:40 : Penguins, general, SurvivraInHellAKASchool#7191, MOM
+23 Sep 2016 15:19:42 : Cipher, general, Botfuzzy77#2209, **Alpha is in School**(Grunt) is now Online!
+23 Sep 2016 15:19:43 : Penguins, general, SurvivraInHellAKASchool#7191, WHY
+23 Sep 2016 15:19:43 : Penguins, general, Hiraeth is still Salty af#1962, lelelelele
+23 Sep 2016 15:19:46 : Penguins, general, Hiraeth is still Salty af#1962, lerlelelelelel
+23 Sep 2016 15:19:46 : Penguins, general, Hiraeth is still Salty af#1962, lelelee
+23 Sep 2016 15:19:51 : Penguins, general, Hiraeth is still Salty af#1962, XD
+23 Sep 2016 15:19:58 : Penguins, general, SurvivraInHellAKASchool#7191, MOM WHY U PUT MODS
+23 Sep 2016 15:20:02 : Penguins, general, Hiraeth is still Salty af#1962, He can kill people with that hue
+23 Sep 2016 15:20:03 : Penguins, general, Hiraeth is still Salty af#1962, XD
+23 Sep 2016 15:20:06 : Penguins, general, Hiraeth is still Salty af#1962, I LIKE MODS
+23 Sep 2016 15:20:07 : Penguins, general, Hiraeth is still Salty af#1962, OKE
+23 Sep 2016 15:20:17 : Penguins, general, SurvivraInHellAKASchool#7191, I DO TOO BUT NOT LIKE THIS
+23 Sep 2016 15:20:19 : Penguins, general, Hiraeth is still Salty af#1962, XD
+23 Sep 2016 15:20:21 : Penguins, general, SurvivraInHellAKASchool#7191, LOL
+23 Sep 2016 15:20:23 : Penguins, general, Hiraeth is still Salty af#1962, NOT LIKE DIS
+23 Sep 2016 15:20:24 : Penguins, general, Hiraeth is still Salty af#1962, XD
+23 Sep 2016 15:20:26 : LimitlessMc, botchat, Alpha is in School#3869, ;luck
+23 Sep 2016 15:20:26 : LimitlessMc, botchat, Botfuzzy77#2209, Alpha is in School's luck is 97.28 out of 100, which is **AMAZING**
+23 Sep 2016 15:20:30 : Penguins, general, Hiraeth is still Salty af#1962, It's just
+23 Sep 2016 15:20:36 : Penguins, general, Hiraeth is still Salty af#1962, I have downloaded all the normal mods out there
+23 Sep 2016 15:20:37 : Penguins, general, Hiraeth is still Salty af#1962, XD
+23 Sep 2016 15:20:42 : Penguins, general, Hiraeth is still Salty af#1962, Had to turn somewhere
+23 Sep 2016 15:20:43 : Penguins, general, Hiraeth is still Salty af#1962, lelelee
+23 Sep 2016 15:20:47 : Penguins, general, SurvivraInHellAKASchool#7191, MOM SHOW THR GIRLLL
+23 Sep 2016 15:20:53 : Penguins, general, Hiraeth is still Salty af#1962, LOL
+23 Sep 2016 15:20:54 : Penguins, general, SurvivraInHellAKASchool#7191, Does her vag be big
+23 Sep 2016 15:21:04 : Penguins, general, Hiraeth is still Salty af#1962, Can't change the size of it :'
+23 Sep 2016 15:21:14 : Penguins, general, SurvivraInHellAKASchool#7191, AW
+23 Sep 2016 15:21:14 : Penguins, general, Hiraeth is still Salty af#1962, only le dick
+23 Sep 2016 15:21:20 : Penguins, general, SurvivraInHellAKASchool#7191, Do LE SHEMALE
+23 Sep 2016 15:21:24 : Penguins, general, SurvivraInHellAKASchool#7191, AVEC LE DICK
+23 Sep 2016 15:21:26 : Penguins, general, Hiraeth is still Salty af#1962, XD
+23 Sep 2016 15:21:31 : Penguins, general, SurvivraInHellAKASchool#7191, AVEC MEANS WITH
+23 Sep 2016 15:21:36 : Penguins, general, Hiraeth is still Salty af#1962, Yea ik
+23 Sep 2016 15:21:37 : Penguins, general, Hiraeth is still Salty af#1962, lol
+23 Sep 2016 15:21:39 : Penguins, general, Hiraeth is still Salty af#1962, lXD
+23 Sep 2016 15:21:48 : Penguins, general, SurvivraInHellAKASchool#7191, Oh mom u talk français
+23 Sep 2016 15:21:58 : Penguins, general, Hiraeth is still Salty af#1962, lol I know bonjour
+23 Sep 2016 15:22:02 : Penguins, general, Hiraeth is still Salty af#1962, XD
+23 Sep 2016 15:22:08 : LimitlessMc, botchat, SurvivraInHellAKASchool#7191, Wtf @Alpha is in School
+23 Sep 2016 15:22:15 : Penguins, general, SurvivraInHellAKASchool#7191, ...
+23 Sep 2016 15:22:17 : LimitlessMc, botchat, Alpha is in School#3869, huehuehueheuheuehueheuh
+23 Sep 2016 15:22:20 : Penguins, general, Hiraeth is still Salty af#1962, didn't have le penisu mod when I first created le shemale
+23 Sep 2016 15:22:31 : Penguins, general, SurvivraInHellAKASchool#7191, Tu es un poisson
+23 Sep 2016 15:22:33 : Penguins, general, Hiraeth is still Salty af#1962, this going to be v 2
+23 Sep 2016 15:22:40 : Penguins, general, SurvivraInHellAKASchool#7191, Lelelele
+23 Sep 2016 15:22:41 : Penguins, general, Hiraeth is still Salty af#1962, you are a somethin?? XD
+23 Sep 2016 15:22:45 : Penguins, general, SurvivraInHellAKASchool#7191, Fish
+23 Sep 2016 15:22:49 : Penguins, general, Hiraeth is still Salty af#1962, lololol
+23 Sep 2016 15:22:56 : Penguins, general, SurvivraInHellAKASchool#7191, Mom add the sims store
+23 Sep 2016 15:22:56 : Penguins, general, Hiraeth is still Salty af#1962, Nice comeback bruh
+23 Sep 2016 15:23:05 : Penguins, general, SurvivraInHellAKASchool#7191, Like the custom t shirts
+23 Sep 2016 15:23:08 : Penguins, general, Hiraeth is still Salty af#1962, ooo
+23 Sep 2016 15:23:11 : Penguins, general, Hiraeth is still Salty af#1962, OOOO
+23 Sep 2016 15:23:17 : Penguins, general, Hiraeth is still Salty af#1962, I HAVEN*T RAIDED SIMS STORE YET
+23 Sep 2016 15:23:25 : Penguins, general, Hiraeth is still Salty af#1962, YUUUSSSS
+23 Sep 2016 15:23:26 : Penguins, general, SurvivraInHellAKASchool#7191, NO NOT SIMS STORE
+23 Sep 2016 15:23:29 : Penguins, general, Hiraeth is still Salty af#1962, MAHHAAH
+23 Sep 2016 15:23:32 : Penguins, general, SurvivraInHellAKASchool#7191, I FORGOT THE NAME
+23 Sep 2016 15:23:37 : Penguins, general, Hiraeth is still Salty af#1962, LOL
+23 Sep 2016 15:23:46 : Penguins, general, SurvivraInHellAKASchool#7191, Wait
+23 Sep 2016 15:23:46 : Penguins, general, Hiraeth is still Salty af#1962, A cc store=??
+23 Sep 2016 15:23:53 : Penguins, general, Hiraeth is still Salty af#1962, okeoek
+23 Sep 2016 15:24:14 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Offline!
+23 Sep 2016 15:24:14 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+23 Sep 2016 15:24:18 : Penguins, general, SurvivraInHellAKASchool#7191, https://www.thesimsresource.com
+23 Sep 2016 15:24:26 : Penguins, general, Hiraeth is still Salty af#1962, Oh yeaaaaaa
+23 Sep 2016 15:24:33 : Penguins, general, Hiraeth is still Salty af#1962, Raided most of that site
+23 Sep 2016 15:24:41 : Penguins, general, SurvivraInHellAKASchool#7191, Lol
+23 Sep 2016 15:24:43 : Penguins, general, Hiraeth is still Salty af#1962, Not all though so I guess I should pick up where i left off :D
+23 Sep 2016 15:24:53 : Penguins, general, SurvivraInHellAKASchool#7191, Any ways get pokemon releated clothes
+23 Sep 2016 15:24:57 : Penguins, general, Hiraeth is still Salty af#1962, XD
+23 Sep 2016 15:24:59 : Penguins, general, SurvivraInHellAKASchool#7191, For le shemale
+23 Sep 2016 15:25:03 : Penguins, general, Hiraeth is still Salty af#1962, I saw some poke toys too
+23 Sep 2016 15:25:05 : Penguins, general, SurvivraInHellAKASchool#7191, And hair Lolololl
+23 Sep 2016 15:25:07 : Penguins, general, Hiraeth is still Salty af#1962, XD
+23 Sep 2016 15:25:08 : Penguins, general, SurvivraInHellAKASchool#7191, XDD
+23 Sep 2016 15:25:08 : Penguins, general, Hiraeth is still Salty af#1962, omg
+23 Sep 2016 15:25:14 : Penguins, general, Hiraeth is still Salty af#1962, yussir XD
+23 Sep 2016 15:25:27 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Online!
+23 Sep 2016 15:25:27 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Online!
+23 Sep 2016 15:25:34 : Penguins, general, Hiraeth is still Salty af#1962, I'm wondering when this will stahp, got like 12 gigs of custom content now :'
+23 Sep 2016 15:26:21 : Penguins, general, SurvivraInHellAKASchool#7191, 
+23 Sep 2016 15:26:33 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Offline!
+23 Sep 2016 15:26:33 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Offline!
+23 Sep 2016 15:26:38 : LimitlessMc, botchat, SurvivraInHellAKASchool#7191, ;luck
+23 Sep 2016 15:26:38 : LimitlessMc, botchat, Botfuzzy77#2209, SurvivraInHellAKASchool's luck is 63.1 out of 100, which is **Pretty Good**
+23 Sep 2016 15:26:39 : Penguins, general, Hiraeth is still Salty af#1962, how is dis a gif? XD
+23 Sep 2016 15:27:01 : LimitlessMc, botchat, SurvivraInHellAKASchool#7191, OMfg @Wertfuzzy77  tell ur bot to give me 100 out of 100
+23 Sep 2016 15:27:02 : Cipher, general, Botfuzzy77#2209, **Akinci**(Grunt) is now Online!
+23 Sep 2016 15:27:17 : Penguins, general, SurvivraInHellAKASchool#7191, Lol
+23 Sep 2016 15:27:25 : Penguins, general, Hiraeth is still Salty af#1962, No xdd
+23 Sep 2016 15:28:14 : LimitlessMc, botchat, Akinci#5072, ;luck
+23 Sep 2016 15:28:14 : LimitlessMc, botchat, Botfuzzy77#2209, Akinci's luck is 46.16 out of 100, which is **Not Bad**
+23 Sep 2016 15:28:29 : Penguins, general, Botfuzzy77#2209, **Resolate**(Suicune) is now Offline!
+23 Sep 2016 15:28:34 : Penguins, general, SurvivraInHellAKASchool#7191, 
+23 Sep 2016 15:29:01 : Penguins, general, Hiraeth is still Salty af#1962, what's this suposed to be
+23 Sep 2016 15:29:10 : Penguins, general, SurvivraInHellAKASchool#7191, Look tk glaceon
+23 Sep 2016 15:29:21 : Penguins, general, SurvivraInHellAKASchool#7191, The head...
+23 Sep 2016 15:29:29 : The Wild Weeaboos, general, Ryan#3332, Wut
+23 Sep 2016 15:29:31 : Penguins, general, Botfuzzy77#2209, **Resolate**(Suicune) is now Online!
+23 Sep 2016 15:29:48 : The Wild Weeaboos, general, Ryan#3332, You did what in his cup
+23 Sep 2016 15:29:56 : Penguins, general, Hiraeth is still Salty af#1962, 
+23 Sep 2016 15:30:05 : Penguins, general, SurvivraInHellAKASchool#7191, OMFG
+23 Sep 2016 15:30:05 : Penguins, general, SurvivraInHellAKASchool#7191, 
+23 Sep 2016 15:30:08 : Penguins, general, SurvivraInHellAKASchool#7191, MAM
+23 Sep 2016 15:30:14 : Penguins, general, Hiraeth is still Salty af#1962, I'm sorry I got distraced
+23 Sep 2016 15:30:25 : Cipher, general, Botfuzzy77#2209, **Akinci**(Grunt) is now Offline!
+23 Sep 2016 15:30:25 : Penguins, general, Hiraeth is still Salty af#1962, distracted
+23 Sep 2016 15:30:31 : Penguins, general, SurvivraInHellAKASchool#7191, 
+23 Sep 2016 15:30:35 : Penguins, general, Hiraeth is still Salty af#1962, I don't get it XD
+23 Sep 2016 15:30:46 : Penguins, general, SurvivraInHellAKASchool#7191, MOM THE HEAD IS BALD
+23 Sep 2016 15:30:50 : Penguins, general, Hiraeth is still Salty af#1962, NO SHIT
+23 Sep 2016 15:30:57 : Penguins, general, SurvivraInHellAKASchool#7191, WHILE IT NEEDS TO HAVE THAT BLUE WIG
+23 Sep 2016 15:31:00 : Penguins, general, SurvivraInHellAKASchool#7191, Xd
+23 Sep 2016 15:31:01 : Penguins, general, Hiraeth is still Salty af#1962, IT HAS ALWAYS BEEN BALD
+23 Sep 2016 15:31:07 : Penguins, general, SurvivraInHellAKASchool#7191, WUT
+23 Sep 2016 15:31:11 : Penguins, general, Hiraeth is still Salty af#1962, 
+23 Sep 2016 15:31:12 : Penguins, general, Hiraeth is still Salty af#1962, LOOK
+23 Sep 2016 15:31:14 : Penguins, general, Hiraeth is still Salty af#1962, U ASS
+23 Sep 2016 15:31:15 : Penguins, general, Hiraeth is still Salty af#1962, XD
+23 Sep 2016 15:31:16 : Penguins, general, SurvivraInHellAKASchool#7191, OMFG
+23 Sep 2016 15:31:19 : Penguins, general, Hiraeth is still Salty af#1962, HAHAHA
+23 Sep 2016 15:31:20 : Penguins, general, SurvivraInHellAKASchool#7191, FISGUSTING
+23 Sep 2016 15:31:21 : Penguins, general, Hiraeth is still Salty af#1962, HAHASHJD
+23 Sep 2016 15:31:27 : Penguins, general, Hiraeth is still Salty af#1962, YA STOOPID
+23 Sep 2016 15:31:31 : Penguins, general, SurvivraInHellAKASchool#7191, IT LOOKS TERRIBLE
+23 Sep 2016 15:31:33 : Penguins, general, Hiraeth is still Salty af#1962, XD
+23 Sep 2016 15:31:35 : Penguins, general, Hiraeth is still Salty af#1962, AGREED
+23 Sep 2016 15:31:39 : Penguins, general, SurvivraInHellAKASchool#7191, DP WORST GEN YET
+23 Sep 2016 15:31:43 : Penguins, general, SurvivraInHellAKASchool#7191, lol
+23 Sep 2016 15:31:44 : Penguins, general, Hiraeth is still Salty af#1962, xD
+23 Sep 2016 15:31:54 : Penguins, general, Hiraeth is still Salty af#1962, 
+23 Sep 2016 15:32:00 : Penguins, general, SurvivraInHellAKASchool#7191, There are only 6-7 pokemon that has a 3 time evo
+23 Sep 2016 15:32:02 : Penguins, general, SurvivraInHellAKASchool#7191, MOM
+23 Sep 2016 15:32:08 : Penguins, general, Hiraeth is still Salty af#1962, sorry
+23 Sep 2016 15:32:08 : Penguins, general, Hiraeth is still Salty af#1962, <3
+23 Sep 2016 15:32:12 : Penguins, general, Botfuzzy77#2209, **Resolate**(Suicune) is now Offline!
+23 Sep 2016 15:32:19 : Penguins, general, Hiraeth is still Salty af#1962, :3
+23 Sep 2016 15:32:22 : Penguins, general, SurvivraInHellAKASchool#7191, the others are 2 evos or baby/final forms
+23 Sep 2016 15:32:26 : Penguins, general, SurvivraInHellAKASchool#7191, :F
+23 Sep 2016 15:32:32 : Penguins, general, SurvivraInHellAKASchool#7191, Mom lol
+23 Sep 2016 15:32:42 : Penguins, general, Hiraeth is still Salty af#1962, fakkin furries man
+23 Sep 2016 15:33:00 : Penguins, general, Hiraeth is still Salty af#1962, they be the first thing to come up when you search pokemans :I
+23 Sep 2016 15:33:41 : Penguins, general, SurvivraInHellAKASchool#7191, https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQawMsvJeRLiFHLTIlPoZd1SQtwj-bcsnnUwa-wxJnwx_A0MOfudg
+23 Sep 2016 15:33:46 : Penguins, general, SurvivraInHellAKASchool#7191, ...
+23 Sep 2016 15:33:47 : Penguins, general, Hiraeth is still Salty af#1962, omg
+23 Sep 2016 15:33:53 : Penguins, general, Hiraeth is still Salty af#1962, U went deep
+23 Sep 2016 15:33:56 : Penguins, general, Hiraeth is still Salty af#1962, *cough*
+23 Sep 2016 15:34:21 : Penguins, general, Hiraeth is still Salty af#1962, KHHHHH
+23 Sep 2016 15:34:25 : Penguins, general, Hiraeth is still Salty af#1962, FOUND THE BEST ONE YET
+23 Sep 2016 15:34:26 : Penguins, general, Hiraeth is still Salty af#1962, 
+23 Sep 2016 15:34:33 : Penguins, general, Hiraeth is still Salty af#1962, sexy afffff
+23 Sep 2016 15:34:52 : Penguins, general, Hiraeth is still Salty af#1962, 
+23 Sep 2016 15:35:39 : Penguins, general, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Offline!
+23 Sep 2016 15:35:44 : LimitlessMc, botchat, Alpha is in School#3869, ah keen seeeee
+23 Sep 2016 15:36:19 : Penguins, general, Botfuzzy77#2209, **Hiraeth is still Salty af**(Rayquaza) is now Offline!
+23 Sep 2016 15:36:19 : Cipher, general, Botfuzzy77#2209, **Hiraeth is still Salty af**(Grunt) is now Offline!
+23 Sep 2016 15:37:16 : Penguins, general, Botfuzzy77#2209, **Resolate**(Suicune) is now Online!
+23 Sep 2016 15:37:40 : Cipher, general, Botfuzzy77#2209, **Hiraeth is still Salty af**(Grunt) is now Online!
+23 Sep 2016 15:37:40 : Penguins, general, Botfuzzy77#2209, **Hiraeth is still Salty af**(Rayquaza) is now Online!
+23 Sep 2016 15:37:40 : Penguins, general, Botfuzzy77#2209, **chaliema**(Rayquaza) is now Offline!
+23 Sep 2016 15:39:37 : Penguins, general, Botfuzzy77#2209, **chaliema**(Rayquaza) is now Online!
+23 Sep 2016 15:41:30 : GetPlebd, weeaboo-chat, Gilles#3169, .music play brainpower 1 hour
+23 Sep 2016 15:41:32 : GetPlebd, weeaboo-chat, ErisBot#1777, [**Music**] The video can not be over 3 hours long!
+23 Sep 2016 15:42:17 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Offline!
+23 Sep 2016 15:42:28 : GetPlebd, weeaboo-chat, Gilles#3169, .music play https://www.youtube.com/watch?v=TWiGVBL9IwY
+23 Sep 2016 15:42:30 : GetPlebd, weeaboo-chat, ErisBot#1777, [**Music**] @Gilles has added `NOMA BRAINPOWER 1H` to the queue. (`01:05:03`) [`0`]
+23 Sep 2016 15:42:38 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Online!
+23 Sep 2016 15:43:14 : GreenHillGang, general, Botfuzzy77#2209, **Wertfuzzy77**(No Role) is now Online!
+23 Sep 2016 15:43:15 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+23 Sep 2016 15:46:06 : Penguins, general, Botfuzzy77#2209, **Hiraeth is still Salty af**(Rayquaza) is now Offline!
+23 Sep 2016 15:46:06 : Cipher, general, Botfuzzy77#2209, **Hiraeth is still Salty af**(Grunt) is now Offline!
+23 Sep 2016 15:56:21 : LimitlessMc, mainchat, Lucario#0401, Rofl
+23 Sep 2016 16:29:03 : Penguins, general, Botfuzzy77#2209, **chaliema**(Rayquaza) is now Offline!
+23 Sep 2016 16:30:28 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Harrys**(SchutzStaffel) is now Online!
+23 Sep 2016 16:50:01 : The Wild Weeaboos, general, enragednuke#2565, @Ryan same
+23 Sep 2016 16:56:21 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+23 Sep 2016 16:56:21 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+23 Sep 2016 16:56:44 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+23 Sep 2016 16:56:44 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Offline!
+23 Sep 2016 17:01:58 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Default**(SchutzStaffel) is now Online!
+23 Sep 2016 17:03:19 : The Wild Weeaboos, general, Ryan#3332, Emas
+23 Sep 2016 17:10:12 : GetPlebd, weeaboo-chat, Gilles#3169, <><|
+23 Sep 2016 17:10:33 : GetPlebd, weeaboo-chat, Gilles#3169, O'
+23 Sep 2016 17:15:44 : Cipher, general, Botfuzzy77#2209, **Es Fusel**(Grunt) is now Online!
+23 Sep 2016 17:18:59 : Penguins, general, Botfuzzy77#2209, **Resolate**(Suicune) is now Online!
+23 Sep 2016 17:19:43 : GreenHillGang, general, Botfuzzy77#2209, **Wertfuzzy77**(No Role) is now Online!
+23 Sep 2016 17:19:43 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+23 Sep 2016 17:20:48 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+23 Sep 2016 17:20:48 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+23 Sep 2016 17:21:01 : Penguins, general, Botfuzzy77#2209, **Resolate**(Suicune) is now Offline!
+23 Sep 2016 17:22:09 : Penguins, general, Botfuzzy77#2209, **Resolate**(Suicune) is now Online!
+23 Sep 2016 17:22:26 : LimitlessMc, botchat, Alpha is in School#3869, ;server
+23 Sep 2016 17:22:27 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: 23.111.129.82
+23 Sep 2016 17:22:27 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 24 players out of 2000
+ *Ping*: 153.137 ms
+ *MC Version*: 1.10.2
+23 Sep 2016 17:22:27 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *Bringer0fDeath7, Kingjaythe1, NannaSkellyton, S1gnorino, mwpowerboy2468, Mining_Zoroark, JulzPlayzZ, nomnomaproved, joelarsen2506, micjo2506, Tuntematon2000, andrew30052005...*
+23 Sep 2016 17:22:37 : Cipher, general, Botfuzzy77#2209, **Alpha is in School**(Grunt) is now Offline!
+23 Sep 2016 17:23:26 : LimitlessMc, botchat, Resolate#7058, !luck
+23 Sep 2016 17:23:27 : LimitlessMc, botchat, Gerald#7099, My calculations say that undefined will have 66.3309000320721140% luck today
+23 Sep 2016 17:23:29 : LimitlessMc, botchat, Resolate#7058, !rate
+23 Sep 2016 17:23:30 : LimitlessMc, botchat, Gerald#7099, Hmmm, I'd say I like undefined to 11.1915920225719910%
+23 Sep 2016 17:23:36 : LimitlessMc, botchat, Resolate#7058, ;luck
+23 Sep 2016 17:23:36 : LimitlessMc, botchat, Botfuzzy77#2209, Resolate's luck is 0.42 out of 100, which is **Completly Horrible**
+23 Sep 2016 17:23:41 : LimitlessMc, botchat, Resolate#7058, kms
+23 Sep 2016 17:23:45 : LimitlessMc, botchat, Resolate#7058, !words
+23 Sep 2016 17:24:01 : LimitlessMc, botchat, Resolate#7058, ;server
+23 Sep 2016 17:24:02 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: 23.111.129.82
+23 Sep 2016 17:24:02 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 27 players out of 2000
+ *Ping*: 136.101 ms
+ *MC Version*: 1.10.2
+23 Sep 2016 17:24:02 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *Kingjaythe1, Bringer0fDeath7, Mining_Zoroark, stuwieee, S1gnorino, serinMC, Perry_PVP, Tuntematon2000, ayzgame, Ernest2409, AussieAge, zZMelvZz...*
+23 Sep 2016 17:26:56 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+23 Sep 2016 17:26:56 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Offline!
+23 Sep 2016 17:29:16 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **druif**(Nazi) is now Online!
+23 Sep 2016 17:32:58 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Online!
+23 Sep 2016 17:35:40 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Offline!
+23 Sep 2016 17:42:05 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+23 Sep 2016 17:42:05 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+23 Sep 2016 17:44:08 : Temp Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Online!
+23 Sep 2016 17:44:08 : My Personal Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Online!
+23 Sep 2016 17:44:18 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+23 Sep 2016 17:44:19 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Online!
+23 Sep 2016 17:46:08 : My Personal Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Offline!
+23 Sep 2016 17:46:08 : Temp Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Offline!
+23 Sep 2016 17:46:39 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Offline!
+23 Sep 2016 17:46:39 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+23 Sep 2016 17:46:54 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Online!
+23 Sep 2016 17:47:41 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Offline!
+23 Sep 2016 17:47:41 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+23 Sep 2016 17:47:57 : Penguins, general, xPalkia(lugia)#8149, Stop lookin for pokemon porn
+23 Sep 2016 17:48:06 : Penguins, general, xPalkia(lugia)#8149, Bye
+23 Sep 2016 17:50:17 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Offline!
+23 Sep 2016 17:53:03 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Offline!
+23 Sep 2016 17:53:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Online!
+23 Sep 2016 17:55:19 : Penguins, general, Botfuzzy77#2209, **Resolate**(Suicune) is now Online!
+23 Sep 2016 17:57:23 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Online!
+23 Sep 2016 17:57:43 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Harrys**(SchutzStaffel) is now Offline!
+23 Sep 2016 17:59:23 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Offline!
+23 Sep 2016 17:59:23 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Offline!
+23 Sep 2016 17:59:27 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Online!
+23 Sep 2016 18:00:11 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Online!
+23 Sep 2016 18:01:49 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Online!
+23 Sep 2016 18:01:50 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+23 Sep 2016 18:02:11 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Offline!
+23 Sep 2016 18:07:52 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+23 Sep 2016 18:07:52 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+23 Sep 2016 18:11:05 : Cipher, general, Botfuzzy77#2209, **Dudubidu**(Grunt) is now Offline!
+23 Sep 2016 18:20:46 : Cipher, general, Botfuzzy77#2209, **Es Fusel**(Grunt) is now Online!
+23 Sep 2016 18:21:11 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Offline!
+23 Sep 2016 18:21:28 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **druif**(Nazi) is now Offline!
+23 Sep 2016 18:21:32 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Online!
+23 Sep 2016 18:24:07 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Online!
+23 Sep 2016 18:26:15 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Offline!
+23 Sep 2016 18:30:02 : Penguins, general, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Online!
+23 Sep 2016 18:31:19 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+23 Sep 2016 18:31:19 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+23 Sep 2016 18:31:43 : Team Harmony, botchat, D3NSH1N#8702, ;server 74.124.12.245
+23 Sep 2016 18:31:43 : Team Harmony, botchat, Botfuzzy77#2209, *Server is Down :(*
+23 Sep 2016 18:32:00 : Penguins, general, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Offline!
+23 Sep 2016 18:35:40 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Harrys**(SchutzStaffel) is now Online!
+23 Sep 2016 18:36:12 : Penguins, general, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Online!
+23 Sep 2016 18:36:43 : Penguins, general, SurvivraInHellAKASchool#7191, Yea mom @Hiraeth is still Salty af
+23 Sep 2016 18:38:53 : Penguins, general, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Offline!
+23 Sep 2016 18:45:38 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Online!
+23 Sep 2016 18:45:45 : Penguins, general, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Online!
+23 Sep 2016 18:47:45 : Penguins, general, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Offline!
+23 Sep 2016 18:48:47 : Penguins, general, Botfuzzy77#2209, **Resolate**(Suicune) is now Online!
+23 Sep 2016 18:49:03 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Offline!
+23 Sep 2016 18:50:10 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Online!
+23 Sep 2016 18:52:06 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Offline!
+23 Sep 2016 18:54:01 : Cipher, general, Botfuzzy77#2209, **Hiraeth is still Salty af**(Grunt) is now Online!
+23 Sep 2016 18:54:01 : Penguins, general, Botfuzzy77#2209, **Hiraeth is still Salty af**(Rayquaza) is now Online!
+23 Sep 2016 18:54:17 : The Wild Weeaboos, coding, enragednuke#2565, @Wertfuzzy77 what si it
+23 Sep 2016 18:54:20 : Penguins, general, Hiraeth is still Salty af#1962, Yea survs @SurvivraInHellAKASchool
+23 Sep 2016 18:54:31 : The Wild Weeaboos, coding, Wertfuzzy77#0274, ```4. Write a query that computes the number of distinct values in
+'OFFENSE_CODE_GROUP' and state the number.
+5. Write a query that returns the number of distinct
+'OFFENSE_CODE_GROUP' values for each month.```
+23 Sep 2016 18:54:36 : The Wild Weeaboos, coding, Wertfuzzy77#0274, idk if i got 4 right either
+23 Sep 2016 18:54:42 : The Wild Weeaboos, coding, Wertfuzzy77#0274, got the rest of them
+23 Sep 2016 18:55:04 : The Wild Weeaboos, coding, enragednuke#2565, `SELECT count(DISTINCT OFFENSE_CODE_GROUP) FROM Incidents GROUP BY month`
+23 Sep 2016 18:55:05 : The Wild Weeaboos, coding, enragednuke#2565, i think
+23 Sep 2016 18:55:08 : The Wild Weeaboos, coding, Wertfuzzy77#0274, I used a nested From query for 4, so its prob not right
+23 Sep 2016 18:55:21 : The Wild Weeaboos, coding, Wertfuzzy77#0274, wut, you can use Distinct INSIDE the count
+23 Sep 2016 18:55:23 : The Wild Weeaboos, coding, Wertfuzzy77#0274, hax
+23 Sep 2016 18:55:24 : The Wild Weeaboos, coding, enragednuke#2565, yes
+23 Sep 2016 18:55:34 : The Wild Weeaboos, coding, Wertfuzzy77#0274, well then, thats much easier
+23 Sep 2016 18:55:35 : The Wild Weeaboos, coding, enragednuke#2565, 4. is just not using group by
+23 Sep 2016 18:55:36 : GreenHillGang, general, Botfuzzy77#2209, **RoboDK88**(No Role) is now Online!
+23 Sep 2016 18:55:36 : Cipher, general, Botfuzzy77#2209, **RoboDK88**(Grunt) is now Online!
+23 Sep 2016 18:55:39 : The Wild Weeaboos, coding, enragednuke#2565, or `month, `
+23 Sep 2016 18:55:39 : The Wild Weeaboos, coding, Wertfuzzy77#0274, ya
+23 Sep 2016 18:56:01 : Penguins, general, Botfuzzy77#2209, **Hiraeth is still Salty af**(Rayquaza) is now Offline!
+23 Sep 2016 18:56:01 : Cipher, general, Botfuzzy77#2209, **Hiraeth is still Salty af**(Grunt) is now Offline!
+23 Sep 2016 18:57:34 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Online!
+23 Sep 2016 18:57:34 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+23 Sep 2016 18:58:04 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Online!
+23 Sep 2016 18:59:13 : The Wild Weeaboos, weeb, Wertfuzzy77#0274, we did it
+23 Sep 2016 18:59:13 : The Wild Weeaboos, weeb, Wertfuzzy77#0274, http://www.animenewsnetwork.com/news/2016-09-23/makoto-shinkai-your-name-anime-film-earns-10-billion-yen-in-28-days/.106814
+23 Sep 2016 18:59:31 : The Wild Weeaboos, weeb, Wertfuzzy77#0274, `Your Name` passed 10 Billion yen today
+23 Sep 2016 18:59:46 : The Wild Weeaboos, weeb, Wertfuzzy77#0274, less than a month since release too
+23 Sep 2016 19:00:05 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+23 Sep 2016 19:00:05 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+23 Sep 2016 19:01:08 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TheBaconater0**(No Role) is now Online!
+23 Sep 2016 19:01:29 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Offline!
+23 Sep 2016 19:01:37 : The Raw Man Cult, mainchat, TheBaconater0#6300, !meme horambe is bey
+23 Sep 2016 19:01:38 : The Raw Man Cult, mainchat, Gerald#7099, http://i.imgflip.com/1b5k1u.jpg
+23 Sep 2016 19:02:06 : The Raw Man Cult, mainchat, TheBaconater0#6300, !meme when u cant play destiny
+23 Sep 2016 19:02:08 : The Raw Man Cult, mainchat, Gerald#7099, http://i.imgflip.com/1b5k33.jpg
+23 Sep 2016 19:03:24 : The Wild Weeaboos, weeb, enragednuke#2565, if it had a legal 1080p subbed english disk i'd buy it too
+23 Sep 2016 19:04:31 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TheBaconater0**(No Role) is now Offline!
+23 Sep 2016 19:05:05 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+23 Sep 2016 19:05:05 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Offline!
+23 Sep 2016 19:08:09 : The Wild Weeaboos, weeb, Wertfuzzy77#0274, same
+23 Sep 2016 19:10:31 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Priests of The Raw Man) is now Online!
+23 Sep 2016 19:10:32 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Priests of The Raw Man) is now Online!
+23 Sep 2016 19:12:23 : Penguins, general, Botfuzzy77#2209, **Resolate**(Suicune) is now Online!
+23 Sep 2016 19:12:28 : Penguins, general, Botfuzzy77#2209, **Resolate**(Suicune) is now Online!
+23 Sep 2016 19:12:36 : Penguins, general, Botfuzzy77#2209, **Resolate**(Suicune) is now Online!
+23 Sep 2016 19:14:00 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Online!
+23 Sep 2016 19:16:00 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Offline!
+23 Sep 2016 19:18:20 : LimitlessMc, mainchat, Resolate#7058, Welp, Kcrafter (Normal Gym Leader) hasn't been on in 5 days, he better get on or he's gone xD
+23 Sep 2016 19:19:00 : Penguins, general, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Online!
+23 Sep 2016 19:19:11 : Penguins, general, SurvivraInHellAKASchool#7191, Mananana
+23 Sep 2016 19:19:24 : Penguins, general, SurvivraInHellAKASchool#7191, Did yu create lr shemale
+23 Sep 2016 19:19:26 : Penguins, general, SurvivraInHellAKASchool#7191, @Hiraeth is still Salty af
+23 Sep 2016 19:19:32 : Cipher, general, Botfuzzy77#2209, **Hiraeth is still Salty af**(Grunt) is now Online!
+23 Sep 2016 19:19:32 : Penguins, general, Botfuzzy77#2209, **Hiraeth is still Salty af**(Rayquaza) is now Online!
+23 Sep 2016 19:19:42 : Penguins, general, Hiraeth is still Salty af#1962, Oh right i forgot
+23 Sep 2016 19:19:45 : Penguins, general, Hiraeth is still Salty af#1962, Lelele
+23 Sep 2016 19:19:50 : LimitlessMc, mainchat, Resolate#7058, xD
+23 Sep 2016 19:20:11 : LimitlessMc, mainchat, Resolate#7058, Checking everytime I logged on xD
+23 Sep 2016 19:20:28 : Penguins, general, Hiraeth is still Salty af#1962, I do later its late xd
+23 Sep 2016 19:21:22 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Harrys**(SchutzStaffel) is now Offline!
+23 Sep 2016 19:21:40 : Penguins, general, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Offline!
+23 Sep 2016 19:21:52 : Penguins, general, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Online!
+23 Sep 2016 19:22:04 : Penguins, general, SurvivraInHellAKASchool#7191, @Resolate  i told the staff
+23 Sep 2016 19:22:19 : Penguins, general, SurvivraInHellAKASchool#7191, About kcrafter
+23 Sep 2016 19:22:27 : Penguins, general, SurvivraInHellAKASchool#7191, Ur price is one blowjob
+23 Sep 2016 19:22:39 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **warnier**(No Role) is now Online!
+23 Sep 2016 19:22:45 : Penguins, general, Hiraeth is still Salty af#1962, I can pay for him
+23 Sep 2016 19:22:56 : Penguins, general, SurvivraInHellAKASchool#7191, MOM
+23 Sep 2016 19:22:59 : Penguins, general, Hiraeth is still Salty af#1962, XD
+23 Sep 2016 19:23:00 : Penguins, general, Resolate#7058, Noooo D';
+23 Sep 2016 19:23:00 : Penguins, general, SurvivraInHellAKASchool#7191, BRIAN WILL GET JELLY
+23 Sep 2016 19:23:06 : Penguins, general, SurvivraInHellAKASchool#7191, XDDD
+23 Sep 2016 19:23:08 : Penguins, general, Hiraeth is still Salty af#1962, Well shi Xd
+23 Sep 2016 19:23:23 : Penguins, general, SurvivraInHellAKASchool#7191, HEHE SCREENY
+23 Sep 2016 19:23:28 : Penguins, general, Hiraeth is still Salty af#1962, What about k somethin, anythin happen
+23 Sep 2016 19:23:31 : Penguins, general, Hiraeth is still Salty af#1962, Omg
+23 Sep 2016 19:23:36 : Penguins, general, Hiraeth is still Salty af#1962, Fuckinh rip me
+23 Sep 2016 19:24:12 : Penguins, general, SurvivraInHellAKASchool#7191, 
+23 Sep 2016 19:24:13 : Penguins, general, SurvivraInHellAKASchool#7191, Ellelele
+23 Sep 2016 19:24:51 : Penguins, general, Hiraeth is still Salty af#1962, Looool
+23 Sep 2016 19:24:51 : Penguins, general, Resolate#7058, xD
+23 Sep 2016 19:24:52 : Penguins, general, Hiraeth is still Salty af#1962, Sneaky lil bastard
+23 Sep 2016 19:24:52 : Penguins, general, SurvivraInHellAKASchool#7191, 
+23 Sep 2016 19:24:52 : Penguins, general, SurvivraInHellAKASchool#7191, ;>
+23 Sep 2016 19:24:53 : Penguins, general, Hiraeth is still Salty af#1962, Fuck
+23 Sep 2016 19:24:55 : Penguins, general, SurvivraInHellAKASchool#7191, lmao
+23 Sep 2016 19:24:57 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Harrys**(SchutzStaffel) is now Online!
+23 Sep 2016 19:25:07 : Penguins, general, SurvivraInHellAKASchool#7191, Send to limitless*
+23 Sep 2016 19:25:11 : Penguins, general, SurvivraInHellAKASchool#7191, Jk
+23 Sep 2016 19:25:14 : Penguins, general, Hiraeth is still Salty af#1962, Xd
+23 Sep 2016 19:25:28 : Penguins, general, Hiraeth is still Salty af#1962, 
+23 Sep 2016 19:25:29 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+23 Sep 2016 19:25:29 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+23 Sep 2016 19:25:48 : Team Harmony, botchat, D3NSH1N#8702, ;server 74.124.12.245
+23 Sep 2016 19:25:48 : Penguins, general, Hiraeth is still Salty af#1962, Pussy for everybody
+23 Sep 2016 19:25:48 : Team Harmony, botchat, Botfuzzy77#2209, **Server IP**: 74.124.12.245
+23 Sep 2016 19:25:48 : Team Harmony, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 0 players out of 80
+ *Ping*: 155.108 ms
+ *MC Version*: 1.10.2
+23 Sep 2016 19:25:48 : Team Harmony, botchat, Botfuzzy77#2209, *Server is Down :(*
+23 Sep 2016 19:26:51 : Penguins, general, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Offline!
+23 Sep 2016 19:28:25 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Priests of The Raw Man) is now Online!
+23 Sep 2016 19:28:43 : Penguins, general, Resolate#7058, lol
+23 Sep 2016 19:29:34 : LimitlessMc, botchat, Resolate#7058, ;server
+23 Sep 2016 19:29:35 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: 23.111.129.82
+23 Sep 2016 19:29:35 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 29 players out of 2000
+ *Ping*: 135.596 ms
+ *MC Version*: 1.10.2
+23 Sep 2016 19:29:35 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *MidoriEG, ComteJerod, stormin69, SithVentresS, MikkelPlov, DiamondVT, BaCoNmAn0428, RaptorGamingDK, Mining_Zoroark, t_mehl, Baffed, KBwonder...*
+23 Sep 2016 19:29:53 : LimitlessMc, botchat, Resolate#7058, ;server
+23 Sep 2016 19:29:54 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: 23.111.129.82
+23 Sep 2016 19:29:54 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 29 players out of 2000
+ *Ping*: 133.594 ms
+ *MC Version*: 1.10.2
+23 Sep 2016 19:29:54 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *Baffed, MoshonT, SnowSoulrose, KBwonder, AussieAge, serinMC, Nickfromdenmark, t_mehl, DiamondVT, SithVentresS, MikkelPlov, RaptorGamingDK...*
+23 Sep 2016 19:30:02 : LimitlessMc, botchat, Resolate#7058, ;server
+23 Sep 2016 19:30:02 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: 23.111.129.82
+23 Sep 2016 19:30:02 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 29 players out of 2000
+ *Ping*: 134.596 ms
+ *MC Version*: 1.10.2
+23 Sep 2016 19:30:02 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *SithVentresS, t_mehl, MikkelPlov, DiamondVT, ComteJerod, Baffed, Mining_Zoroark, Bakafish, stormin69, RaptorGamingDK, MidoriEG, BaCoNmAn0428...*
+23 Sep 2016 19:30:10 : Penguins, general, Botfuzzy77#2209, **Hiraeth is still Salty af**(Rayquaza) is now Offline!
+23 Sep 2016 19:30:10 : Cipher, general, Botfuzzy77#2209, **Hiraeth is still Salty af**(Grunt) is now Offline!
+23 Sep 2016 19:30:13 : Cipher, general, Botfuzzy77#2209, **Hiraeth is still Salty af**(Grunt) is now Online!
+23 Sep 2016 19:30:13 : Penguins, general, Botfuzzy77#2209, **Hiraeth is still Salty af**(Rayquaza) is now Online!
+23 Sep 2016 19:30:28 : Cipher, general, Botfuzzy77#2209, **Dudubidu**(Grunt) is now Online!
+23 Sep 2016 19:30:30 : Cipher, general, Botfuzzy77#2209, **RoboDK88**(Grunt) is now Online!
+23 Sep 2016 19:30:30 : GreenHillGang, general, Botfuzzy77#2209, **RoboDK88**(No Role) is now Online!
+23 Sep 2016 19:31:25 : LimitlessMc, botchat, Resolate#7058, ;server
+23 Sep 2016 19:31:26 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: 23.111.129.82
+23 Sep 2016 19:31:26 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 29 players out of 2000
+ *Ping*: 133.595 ms
+ *MC Version*: 1.10.2
+23 Sep 2016 19:31:26 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *MikkelPlov, ComteJerod, SithVentresS, MoshonT, AussieAge, Nickfromdenmark, serinMC, t_mehl, KBwonder, Baffed, RaptorGamingDK, DiamondVT...*
+23 Sep 2016 19:31:47 : LimitlessMc, mainchat, MrPep#8237, @Staff server froze?
+23 Sep 2016 19:32:12 : LimitlessMc, mainchat, MrPep#8237, nvm
+23 Sep 2016 19:32:14 : Cipher, general, Botfuzzy77#2209, **Hiraeth is still Salty af**(Grunt) is now Offline!
+23 Sep 2016 19:32:14 : Penguins, general, Botfuzzy77#2209, **Hiraeth is still Salty af**(Rayquaza) is now Offline!
+23 Sep 2016 19:33:38 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Priests of The Raw Man) is now Online!
+23 Sep 2016 19:36:53 : Penguins, general, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Online!
+23 Sep 2016 19:37:16 : Penguins, general, SurvivraInHellAKASchool#7191, Dat ur cate @hir
+23 Sep 2016 19:37:20 : Penguins, general, SurvivraInHellAKASchool#7191, Hirseth
+23 Sep 2016 19:39:04 : Cipher, general, Botfuzzy77#2209, **Jabulla**(Grunt) is now Offline!
+23 Sep 2016 19:39:36 : Penguins, general, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Online!
+23 Sep 2016 19:41:02 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Schauda**(Priests of The Raw Man) is now Online!
+23 Sep 2016 19:41:19 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Yuki-chan**(bot) is now Offline!
+23 Sep 2016 19:41:27 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Lol
+23 Sep 2016 19:41:42 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Yuki-chan**(bot) is now Online!
+23 Sep 2016 19:42:16 : Penguins, leshemale, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Offline!
+23 Sep 2016 19:44:22 : Penguins, leshemale, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Offline!
+23 Sep 2016 19:44:29 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Offline!
+23 Sep 2016 19:44:52 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Online!
+23 Sep 2016 19:47:37 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+23 Sep 2016 19:47:37 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+23 Sep 2016 19:48:58 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Priests of The Raw Man) is now Online!
+23 Sep 2016 19:50:23 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Online!
+23 Sep 2016 19:51:26 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Schauda**(Priests of The Raw Man) is now Online!
+23 Sep 2016 19:51:35 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Priests of The Raw Man) is now Offline!
+23 Sep 2016 19:51:57 : GreenHillGang, general, Botfuzzy77#2209, **RoboDK88**(No Role) is now Online!
+23 Sep 2016 19:51:57 : Cipher, general, Botfuzzy77#2209, **RoboDK88**(Grunt) is now Online!
+23 Sep 2016 19:52:16 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Offline!
+23 Sep 2016 19:53:49 : LimitlessMc, botchat, An_Average_Fellow#1532, ;luck
+23 Sep 2016 19:53:50 : LimitlessMc, botchat, Botfuzzy77#2209, An_Average_Fellow's luck is 44.2 out of 100, which is **Not Bad**
+23 Sep 2016 19:54:28 : Penguins, leshemale, Botfuzzy77#2209, **Hiraeth is still Salty af**(Rayquaza) is now Online!
+23 Sep 2016 19:54:28 : Cipher, general, Botfuzzy77#2209, **Hiraeth is still Salty af**(Grunt) is now Online!
+23 Sep 2016 19:54:40 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Default**(SchutzStaffel) is now Online!
+23 Sep 2016 19:55:00 : GetPlebd, weeaboo-chat, Mee6#4876, @Bloodyskills, Welcome to **GetPlebd**! Veel plezier sukkel!
+23 Sep 2016 19:55:00 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, Welcome @Bloodyskills to GetPlebd!
+23 Sep 2016 19:55:00 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(No Role) is now Online!
+23 Sep 2016 19:57:12 : Penguins, leshemale, Hiraeth is still Salty af#1962, No this my cate @SurvivraInHellAKASchool
+23 Sep 2016 19:57:16 : Penguins, leshemale, Hiraeth is still Salty af#1962, 
+23 Sep 2016 19:58:03 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **ErisBot**(bot) is now Offline!
+23 Sep 2016 19:58:36 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **ErisBot**(bot) is now Online!
+23 Sep 2016 20:04:14 : Penguins, leshemale, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Online!
+23 Sep 2016 20:05:05 : Penguins, leshemale, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Online!
+23 Sep 2016 20:05:21 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Aww
+23 Sep 2016 20:05:32 : Penguins, leshemale, xPalkia(lugia)#8149, I have a dog
+23 Sep 2016 20:05:42 : Penguins, leshemale, Hiraeth is still Salty af#1962, I have 3 dogs too :D
+23 Sep 2016 20:05:51 : Penguins, leshemale, Hiraeth is still Salty af#1962, Yeey animals
+23 Sep 2016 20:05:52 : Penguins, leshemale, xPalkia(lugia)#8149, A cat tried to kill my dog
+23 Sep 2016 20:05:56 : Penguins, leshemale, SurvivraInHellAKASchool#7191, 
+23 Sep 2016 20:06:09 : Penguins, leshemale, Hiraeth is still Salty af#1962, Omg that got dark real quick palki
+23 Sep 2016 20:06:17 : Penguins, leshemale, xPalkia(lugia)#8149, Its true tho
+23 Sep 2016 20:06:22 : Penguins, leshemale, Hiraeth is still Salty af#1962, What happen
+23 Sep 2016 20:06:33 : Penguins, leshemale, Hiraeth is still Salty af#1962, @SurvivraInHellAKASchool  fluffy.as.fuck
+23 Sep 2016 20:06:50 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+23 Sep 2016 20:06:50 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+23 Sep 2016 20:06:53 : Team Harmony, botchat, D3NSH1N#8702, ;server 74.124.12.245
+23 Sep 2016 20:06:53 : Team Harmony, botchat, Botfuzzy77#2209, **Server IP**: 74.124.12.245
+23 Sep 2016 20:06:54 : Team Harmony, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 0 players out of 80
+ *Ping*: 133.093 ms
+ *MC Version*: 1.10.2
+23 Sep 2016 20:06:54 : Team Harmony, botchat, Botfuzzy77#2209, *Server is Down :(*
+23 Sep 2016 20:07:03 : Penguins, leshemale, xPalkia(lugia)#8149, It tried to kill him and tried to gauge his eyes out
+23 Sep 2016 20:07:22 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Wtf
+23 Sep 2016 20:07:25 : Penguins, leshemale, Hiraeth is still Salty af#1962, How big is yer doge? (Cats are really scary)
+23 Sep 2016 20:07:38 : GetPlebd, weeaboo-chat, Gilles#3169, the isle
+23 Sep 2016 20:07:39 : LimitlessMc, mainchat, Omed#8171, when is gonna be a stable version ,please soon i aint gonna be able to deal with another glitch
+23 Sep 2016 20:07:57 : Penguins, leshemale, SurvivraInHellAKASchool#7191, @xFuckYou why u even near a cat with a dog
+23 Sep 2016 20:08:02 : Penguins, leshemale, Hiraeth is still Salty af#1962, ^
+23 Sep 2016 20:08:02 : Penguins, leshemale, Botfuzzy77#2209, ^
+23 Sep 2016 20:08:14 : Penguins, leshemale, SurvivraInHellAKASchool#7191, My dog=Cat fucker
+23 Sep 2016 20:08:34 : Penguins, leshemale, xPalkia(lugia)#8149, My cousins used to live in my house and it was their cat
+23 Sep 2016 20:08:36 : Cipher, general, Botfuzzy77#2209, **RoboDK88**(Grunt) is now Online!
+23 Sep 2016 20:08:36 : GreenHillGang, general, Botfuzzy77#2209, **RoboDK88**(No Role) is now Online!
+23 Sep 2016 20:08:36 : Penguins, leshemale, xPalkia(lugia)#8149, And my dog is not that big
+23 Sep 2016 20:08:40 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Same question omfr again
+23 Sep 2016 20:08:41 : Penguins, leshemale, xPalkia(lugia)#8149, Hes small
+23 Sep 2016 20:08:45 : Penguins, leshemale, Hiraeth is still Salty af#1962, Ohhh
+23 Sep 2016 20:08:46 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Once*
+23 Sep 2016 20:09:05 : Penguins, leshemale, xPalkia(lugia)#8149, I just answered your question
+23 Sep 2016 20:09:08 : Penguins, leshemale, Hiraeth is still Salty af#1962, Yeah my first cat, who is still alive strangely, is reaaally aggressive
+23 Sep 2016 20:09:12 : Penguins, leshemale, Hiraeth is still Salty af#1962, towards my dogs
+23 Sep 2016 20:09:16 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Grgggr
+23 Sep 2016 20:09:17 : Temp Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Online!
+23 Sep 2016 20:09:17 : My Personal Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Online!
+23 Sep 2016 20:09:23 : Penguins, leshemale, Hiraeth is still Salty af#1962, she's 18 this year i think
+23 Sep 2016 20:09:27 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Hiraeth rich af
+23 Sep 2016 20:09:29 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Wtf
+23 Sep 2016 20:09:29 : Penguins, leshemale, Hiraeth is still Salty af#1962, xd
+23 Sep 2016 20:09:35 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Mine is 8
+23 Sep 2016 20:09:40 : Penguins, leshemale, Hiraeth is still Salty af#1962, idk why she won't die already XD
+23 Sep 2016 20:09:47 : Penguins, leshemale, xPalkia(lugia)#8149, Rude
+23 Sep 2016 20:09:47 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Omgg
+23 Sep 2016 20:09:48 : Penguins, leshemale, Hiraeth is still Salty af#1962, she so old and grumpy
+23 Sep 2016 20:09:50 : Penguins, leshemale, xPalkia(lugia)#8149, And cold
+23 Sep 2016 20:09:51 : Penguins, leshemale, Hiraeth is still Salty af#1962, lelele
+23 Sep 2016 20:09:59 : Penguins, leshemale, xPalkia(lugia)#8149, That was v mean
+23 Sep 2016 20:10:07 : Penguins, leshemale, Hiraeth is still Salty af#1962, I'm not serious you know :P
+23 Sep 2016 20:10:07 : Penguins, leshemale, xPalkia(lugia)#8149, Screenshitted
+23 Sep 2016 20:10:09 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Le shemal
+23 Sep 2016 20:10:22 : Penguins, leshemale, xPalkia(lugia)#8149, I was joking too ;<
+23 Sep 2016 20:10:28 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Mom u done with sims
+23 Sep 2016 20:10:32 : Penguins, leshemale, Hiraeth is still Salty af#1962, xd
+23 Sep 2016 20:10:32 : Penguins, leshemale, xPalkia(lugia)#8149, Surv go kys
+23 Sep 2016 20:10:40 : Penguins, leshemale, xPalkia(lugia)#8149, With a bottle of clorox
+23 Sep 2016 20:10:53 : Penguins, leshemale, SurvivraInHellAKASchool#7191, IN TURKEY WE DONT HAVE CLOREX
+23 Sep 2016 20:11:03 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Lemme look what do i have
+23 Sep 2016 20:11:13 : Penguins, leshemale, Hiraeth is still Salty af#1962, xD
+23 Sep 2016 20:11:20 : Penguins, leshemale, xPalkia(lugia)#8149, Bleach
+23 Sep 2016 20:11:22 : Penguins, leshemale, Hiraeth is still Salty af#1962, here my youngest doge :D
+23 Sep 2016 20:11:27 : Penguins, leshemale, Hiraeth is still Salty af#1962, loading...
+23 Sep 2016 20:11:37 : Penguins, leshemale, Hiraeth is still Salty af#1962, 
+23 Sep 2016 20:11:40 : Penguins, leshemale, xPalkia(lugia)#8149, Or do you have a pool to drown in?
+23 Sep 2016 20:11:51 : Penguins, leshemale, SurvivraInHellAKASchool#7191, 
+23 Sep 2016 20:11:52 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Too many options ^
+23 Sep 2016 20:11:54 : Penguins, leshemale, Hiraeth is still Salty af#1962, XD
+23 Sep 2016 20:11:56 : Penguins, leshemale, Hiraeth is still Salty af#1962, HAHHA
+23 Sep 2016 20:11:59 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Online!
+23 Sep 2016 20:12:00 : Penguins, leshemale, xPalkia(lugia)#8149, Drink all
+23 Sep 2016 20:12:04 : Penguins, leshemale, SurvivraInHellAKASchool#7191, No
+23 Sep 2016 20:12:07 : Penguins, leshemale, xPalkia(lugia)#8149, Too many? Choose all
+23 Sep 2016 20:12:13 : My Personal Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Offline!
+23 Sep 2016 20:12:14 : Temp Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Offline!
+23 Sep 2016 20:12:21 : Penguins, leshemale, Hiraeth is still Salty af#1962, Jeez you need to share drinks, its sad to drink alone
+23 Sep 2016 20:12:24 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Mom i thought the dog was a deer lol
+23 Sep 2016 20:12:24 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Offline!
+23 Sep 2016 20:12:24 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+23 Sep 2016 20:12:27 : Penguins, leshemale, Hiraeth is still Salty af#1962, XD
+23 Sep 2016 20:12:33 : Penguins, leshemale, SurvivraInHellAKASchool#7191, The legs
+23 Sep 2016 20:12:38 : Penguins, leshemale, Hiraeth is still Salty af#1962, lelel dem legs
+23 Sep 2016 20:12:40 : Penguins, leshemale, Hiraeth is still Salty af#1962, M)
+23 Sep 2016 20:12:43 : Penguins, leshemale, xPalkia(lugia)#8149, I think i see bleach in there
+23 Sep 2016 20:12:43 : Penguins, leshemale, Hiraeth is still Salty af#1962, ;)
+23 Sep 2016 20:12:50 : Penguins, leshemale, Hiraeth is still Salty af#1962, lol plalki
+23 Sep 2016 20:12:53 : Penguins, leshemale, xPalkia(lugia)#8149, ;);)
+23 Sep 2016 20:12:55 : Penguins, leshemale, Hiraeth is still Salty af#1962, plalakaka
+23 Sep 2016 20:12:58 : Penguins, leshemale, Hiraeth is still Salty af#1962, plakalaka
+23 Sep 2016 20:12:59 : Penguins, leshemale, SurvivraInHellAKASchool#7191, @xFuckYou  THE BLEACHS ARE IN FRONT DUMBASS
+23 Sep 2016 20:13:03 : Penguins, leshemale, Hiraeth is still Salty af#1962, XD
+23 Sep 2016 20:13:03 : Penguins, leshemale, SurvivraInHellAKASchool#7191, XD
+23 Sep 2016 20:13:13 : Penguins, leshemale, xPalkia(lugia)#8149, @Botfuzzy77 ban surv
+23 Sep 2016 20:13:13 : Penguins, leshemale, Botfuzzy77#2209, No.
+23 Sep 2016 20:13:15 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Msd mad mad
+23 Sep 2016 20:13:17 : Penguins, leshemale, Hiraeth is still Salty af#1962, XD
+23 Sep 2016 20:13:18 : Penguins, leshemale, Hiraeth is still Salty af#1962, HAHASHd
+23 Sep 2016 20:13:18 : Penguins, leshemale, SurvivraInHellAKASchool#7191, HAHA
+23 Sep 2016 20:13:20 : Penguins, leshemale, xPalkia(lugia)#8149, @Botfuzzy77 yes
+23 Sep 2016 20:13:20 : Penguins, leshemale, Botfuzzy77#2209, What is your name?
+23 Sep 2016 20:13:22 : Penguins, leshemale, SurvivraInHellAKASchool#7191, REJECTED
+23 Sep 2016 20:13:24 : Penguins, leshemale, Hiraeth is still Salty af#1962, XD
+23 Sep 2016 20:13:27 : Penguins, leshemale, xPalkia(lugia)#8149, @Botfuzzy77 surv now ban me
+23 Sep 2016 20:13:28 : Penguins, leshemale, Botfuzzy77#2209, Five horizons.
+23 Sep 2016 20:13:36 : Penguins, leshemale, xPalkia(lugia)#8149, @Botfuzzy77 ban surv
+23 Sep 2016 20:13:36 : Penguins, leshemale, Botfuzzy77#2209, I'm not in love. Because I am nobody.
+23 Sep 2016 20:13:41 : Penguins, leshemale, Hiraeth is still Salty af#1962, deep
+23 Sep 2016 20:13:45 : Penguins, leshemale, xPalkia(lugia)#8149, Ban surv @Botfuzzy77
+23 Sep 2016 20:13:46 : Penguins, leshemale, Botfuzzy77#2209, Komt omdat ik je niet voel.
+23 Sep 2016 20:13:50 : Penguins, leshemale, xPalkia(lugia)#8149, ??????
+23 Sep 2016 20:13:52 : Penguins, leshemale, SurvivraInHellAKASchool#7191, GERMAN
+23 Sep 2016 20:13:52 : Penguins, leshemale, Hiraeth is still Salty af#1962, XD
+23 Sep 2016 20:13:57 : Penguins, leshemale, Hiraeth is still Salty af#1962, lol no XD
+23 Sep 2016 20:14:00 : Penguins, leshemale, SurvivraInHellAKASchool#7191, I hate germans
+23 Sep 2016 20:14:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Offline!
+23 Sep 2016 20:14:04 : Penguins, leshemale, xPalkia(lugia)#8149, @Botfuzzy77 FUCKING MUTE SURV
+23 Sep 2016 20:14:05 : Penguins, leshemale, Botfuzzy77#2209, Misunderstood living person.
+23 Sep 2016 20:14:08 : Penguins, leshemale, Hiraeth is still Salty af#1962, XD
+23 Sep 2016 20:14:15 : Penguins, leshemale, xPalkia(lugia)#8149, ;mute @SurvivraInHellAKASchool
+23 Sep 2016 20:14:15 : Penguins, leshemale, Botfuzzy77#2209, Something went Wrong: InvalidArgument
+23 Sep 2016 20:14:19 : Penguins, leshemale, xPalkia(lugia)#8149, Bitch
+23 Sep 2016 20:14:20 : Penguins, leshemale, Hiraeth is still Salty af#1962, </3  plakalaka
+23 Sep 2016 20:14:24 : GreenHillGang, general, Botfuzzy77#2209, **RoboDK88**(No Role) is now Offline!
+23 Sep 2016 20:14:24 : Cipher, general, Botfuzzy77#2209, **RoboDK88**(Grunt) is now Offline!
+23 Sep 2016 20:14:38 : Penguins, leshemale, Hiraeth is still Salty af#1962, ;image mute survs
+23 Sep 2016 20:14:40 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Default**(SchutzStaffel) is now Online!
+23 Sep 2016 20:14:40 : Penguins, leshemale, Botfuzzy77#2209, http://www.dec.ny.gov/images/wildlife_images/muswpopntrends.jpg
+23 Sep 2016 20:14:44 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Lol
+23 Sep 2016 20:14:45 : Penguins, leshemale, xPalkia(lugia)#8149, ;image surv kys
+23 Sep 2016 20:14:47 : Penguins, leshemale, Botfuzzy77#2209, https://i.ytimg.com/vi/kpI7ChqAG9Y/hqdefault.jpg
+23 Sep 2016 20:14:51 : Penguins, leshemale, xPalkia(lugia)#8149, ;image kys
+23 Sep 2016 20:14:53 : Penguins, leshemale, SurvivraInHellAKASchool#7191, HAHAH
+23 Sep 2016 20:14:53 : Penguins, leshemale, Hiraeth is still Salty af#1962, ;image survs gey confirmed?
+23 Sep 2016 20:14:54 : Penguins, leshemale, Botfuzzy77#2209, https://i.ytimg.com/vi/5pNfHAbARAY/maxresdefault.jpg
+23 Sep 2016 20:14:54 : Penguins, leshemale, Botfuzzy77#2209, https://www.google.com/earth/outreach/images/tutorials_odk_gs6.jpg
+23 Sep 2016 20:14:58 : Penguins, leshemale, Hiraeth is still Salty af#1962, XD
+23 Sep 2016 20:15:01 : Penguins, leshemale, Hiraeth is still Salty af#1962, AHHASHSAHASHASH SURVIVAL
+23 Sep 2016 20:15:02 : Penguins, leshemale, Hiraeth is still Salty af#1962, GAMES
+23 Sep 2016 20:15:03 : Penguins, leshemale, SurvivraInHellAKASchool#7191, LOL
+23 Sep 2016 20:15:03 : Penguins, leshemale, Hiraeth is still Salty af#1962, ihsakf
+23 Sep 2016 20:15:04 : Penguins, leshemale, Hiraeth is still Salty af#1962, sf
+23 Sep 2016 20:15:04 : Penguins, leshemale, Hiraeth is still Salty af#1962, PIKHSf
+23 Sep 2016 20:15:05 : Penguins, leshemale, SurvivraInHellAKASchool#7191, ANAHSJA
+23 Sep 2016 20:15:12 : Penguins, leshemale, Hiraeth is still Salty af#1962, HAHAHAHAH
+23 Sep 2016 20:15:14 : Penguins, leshemale, Hiraeth is still Salty af#1962, REGISTERED
+23 Sep 2016 20:15:16 : Penguins, leshemale, SurvivraInHellAKASchool#7191, ;image is Palkia straight as a circle?
+23 Sep 2016 20:15:26 : Penguins, leshemale, Hiraeth is still Salty af#1962, SUCESSFULLY
+23 Sep 2016 20:15:26 : Penguins, leshemale, Hiraeth is still Salty af#1962, MASOHDASHUOI
+23 Sep 2016 20:15:26 : Penguins, leshemale, SurvivraInHellAKASchool#7191, LMAO
+23 Sep 2016 20:15:28 : Penguins, leshemale, Hiraeth is still Salty af#1962, you broke it lelelel
+23 Sep 2016 20:15:32 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+23 Sep 2016 20:15:33 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Online!
+23 Sep 2016 20:15:35 : Penguins, leshemale, SurvivraInHellAKASchool#7191, DUCK
+23 Sep 2016 20:15:36 : Penguins, leshemale, Hiraeth is still Salty af#1962, ;image gey?
+23 Sep 2016 20:15:38 : Penguins, leshemale, Botfuzzy77#2209, http://img.memecdn.com/rmx-mr-gey_fb_1681497.jpg
+23 Sep 2016 20:15:41 : Penguins, leshemale, Hiraeth is still Salty af#1962, XD
+23 Sep 2016 20:15:43 : Penguins, leshemale, Hiraeth is still Salty af#1962, works
+23 Sep 2016 20:15:44 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Lol
+23 Sep 2016 20:15:56 : Penguins, leshemale, Hiraeth is still Salty af#1962, ;image plakalaka
+23 Sep 2016 20:15:57 : Penguins, leshemale, Botfuzzy77#2209, http://i1212.photobucket.com/albums/cc447/pompellmo/4f469ce0-e924-421b-84f9-96b4e3162917_zps90763061.jpg
+23 Sep 2016 20:16:01 : Temp Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Online!
+23 Sep 2016 20:16:01 : My Personal Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Online!
+23 Sep 2016 20:16:09 : Penguins, leshemale, xPalkia(lugia)#8149, ;choose is surv straight or gay
+23 Sep 2016 20:16:09 : Penguins, leshemale, Botfuzzy77#2209, Alright, picked one
+23 Sep 2016 20:16:09 : Penguins, leshemale, Botfuzzy77#2209, Chosen Option: gay
+23 Sep 2016 20:16:10 : Penguins, leshemale, Hiraeth is still Salty af#1962, ;image boomshikawowow
+23 Sep 2016 20:16:15 : Penguins, leshemale, xPalkia(lugia)#8149, LOOOL
+23 Sep 2016 20:16:18 : Penguins, leshemale, Hiraeth is still Salty af#1962, XD
+23 Sep 2016 20:16:21 : Penguins, leshemale, SurvivraInHellAKASchool#7191, LOL
+23 Sep 2016 20:16:25 : Penguins, leshemale, Hiraeth is still Salty af#1962, lelelel
+23 Sep 2016 20:16:25 : Penguins, leshemale, SurvivraInHellAKASchool#7191, THAY NAME
+23 Sep 2016 20:16:29 : Penguins, leshemale, Hiraeth is still Salty af#1962, #confrimed
+23 Sep 2016 20:16:34 : Penguins, leshemale, Hiraeth is still Salty af#1962, gey
+23 Sep 2016 20:16:38 : Penguins, leshemale, xPalkia(lugia)#8149, CONFIRMED BY BOT
+23 Sep 2016 20:16:40 : Penguins, leshemale, Hiraeth is still Salty af#1962, XD
+23 Sep 2016 20:16:42 : Penguins, leshemale, xPalkia(lugia)#8149, REKT BITCH
+23 Sep 2016 20:16:44 : Penguins, leshemale, SurvivraInHellAKASchool#7191, ;image YAOI
+23 Sep 2016 20:16:46 : Penguins, leshemale, Botfuzzy77#2209, https://i.ytimg.com/vi/ewC-oiN0Lqc/maxresdefault.jpg
+23 Sep 2016 20:16:47 : Penguins, leshemale, Hiraeth is still Salty af#1962, XD
+23 Sep 2016 20:16:53 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Omfg
+23 Sep 2016 20:17:03 : Penguins, leshemale, xPalkia(lugia)#8149, ;choose should surv khs or live
+23 Sep 2016 20:17:03 : Penguins, leshemale, Botfuzzy77#2209, Oh, Thats easy
+23 Sep 2016 20:17:04 : Penguins, leshemale, Botfuzzy77#2209, Chosen Option: surv
+23 Sep 2016 20:17:14 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Hhaha
+23 Sep 2016 20:17:15 : Penguins, leshemale, Survs confirmed gey?#1962, XD
+23 Sep 2016 20:17:16 : Penguins, leshemale, xPalkia(lugia)#8149, ;choose surv khs live
+23 Sep 2016 20:17:16 : Penguins, leshemale, Botfuzzy77#2209, Hmm, tough choice
+23 Sep 2016 20:17:16 : Penguins, leshemale, Botfuzzy77#2209, Chosen Option: surv
+23 Sep 2016 20:17:20 : Penguins, leshemale, xPalkia(lugia)#8149, Ong
+23 Sep 2016 20:17:24 : Penguins, leshemale, Survs confirmed gey?#1962, you fails
+23 Sep 2016 20:17:25 : Penguins, leshemale, xPalkia(lugia)#8149, ;choose kys or live
+23 Sep 2016 20:17:25 : Penguins, leshemale, Botfuzzy77#2209, Hmm, tough choice
+23 Sep 2016 20:17:25 : Penguins, leshemale, Botfuzzy77#2209, Chosen Option: live
+23 Sep 2016 20:17:29 : Penguins, leshemale, xPalkia(lugia)#8149, Noi
+23 Sep 2016 20:17:37 : Penguins, leshemale, xPalkia(lugia)#8149, ;choose live or kys
+23 Sep 2016 20:17:37 : Penguins, leshemale, Survs confirmed gey?#1962, ;choose gey or gay?
+23 Sep 2016 20:17:37 : Penguins, leshemale, Botfuzzy77#2209, Hmm, tough choice
+23 Sep 2016 20:17:38 : Penguins, leshemale, SurvivraInHellAKASchool#7191, ;choose PalkiaDie or Palkialeshemale
+23 Sep 2016 20:17:38 : Penguins, leshemale, Botfuzzy77#2209, Chosen Option: or
+23 Sep 2016 20:17:38 : Penguins, leshemale, Botfuzzy77#2209, Oh, Thats easy
+23 Sep 2016 20:17:38 : Penguins, leshemale, Botfuzzy77#2209, Chosen Option: or
+23 Sep 2016 20:17:38 : Penguins, leshemale, Botfuzzy77#2209, Hmm, tough choice
+23 Sep 2016 20:17:42 : Penguins, leshemale, Botfuzzy77#2209, Chosen Option: or
+23 Sep 2016 20:17:44 : Penguins, leshemale, Survs confirmed gey?#1962, xd
+23 Sep 2016 20:17:48 : Penguins, leshemale, xPalkia(lugia)#8149, ;choose kys or live
+23 Sep 2016 20:17:48 : Penguins, leshemale, Botfuzzy77#2209, Oh, Thats easy
+23 Sep 2016 20:17:48 : Penguins, leshemale, Botfuzzy77#2209, Chosen Option: or
+23 Sep 2016 20:17:54 : Penguins, leshemale, Survs confirmed gey?#1962, this bitch
+23 Sep 2016 20:17:58 : Penguins, leshemale, xPalkia(lugia)#8149, ;choose live or kys
+23 Sep 2016 20:17:58 : Penguins, leshemale, Botfuzzy77#2209, Alright, picked one
+23 Sep 2016 20:17:58 : Penguins, leshemale, Botfuzzy77#2209, Chosen Option: or
+23 Sep 2016 20:18:03 : Penguins, leshemale, xPalkia(lugia)#8149, U dumb
+23 Sep 2016 20:18:07 : Penguins, leshemale, xPalkia(lugia)#8149, ;choose kys live
+23 Sep 2016 20:18:07 : Penguins, leshemale, Botfuzzy77#2209, Hmm, tough choice
+23 Sep 2016 20:18:07 : Penguins, leshemale, Botfuzzy77#2209, Chosen Option: live
+23 Sep 2016 20:18:07 : Penguins, leshemale, Survs confirmed gey?#1962, ;choose or or or
+23 Sep 2016 20:18:07 : Penguins, leshemale, Botfuzzy77#2209, Oh, Thats easy
+23 Sep 2016 20:18:07 : Penguins, leshemale, Botfuzzy77#2209, Chosen Option: or
+23 Sep 2016 20:18:14 : Penguins, leshemale, xPalkia(lugia)#8149, ;choose live kys
+23 Sep 2016 20:18:14 : Penguins, leshemale, Botfuzzy77#2209, Oh, Thats easy
+23 Sep 2016 20:18:15 : Penguins, leshemale, Botfuzzy77#2209, Chosen Option: live
+23 Sep 2016 20:18:17 : Penguins, leshemale, SurvivraInHellAKASchool#7191, ;choose PalkiaStraightAsACircle PalkiaLeShemale
+23 Sep 2016 20:18:17 : Penguins, leshemale, Botfuzzy77#2209, Alright, picked one
+23 Sep 2016 20:18:17 : Penguins, leshemale, Botfuzzy77#2209, Chosen Option: PalkiaStraightAsACircle
+23 Sep 2016 20:18:20 : Penguins, leshemale, SurvivraInHellAKASchool#7191, LOL
+23 Sep 2016 20:18:21 : Penguins, leshemale, Survs confirmed gey?#1962, ;choose shemale survs
+23 Sep 2016 20:18:21 : Penguins, leshemale, Botfuzzy77#2209, Hmm, tough choice
+23 Sep 2016 20:18:21 : Penguins, leshemale, Botfuzzy77#2209, Chosen Option: survs
+23 Sep 2016 20:18:29 : Penguins, leshemale, Survs confirmed gey?#1962, lelelel
+23 Sep 2016 20:18:35 : Penguins, leshemale, xPalkia(lugia)#8149, You go hang now ok @SurvivraInHellAKASchool
+23 Sep 2016 20:18:49 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Shit incoming spank
+23 Sep 2016 20:18:50 : Penguins, leshemale, xPalkia(lugia)#8149, ;choose kys
+23 Sep 2016 20:18:50 : Penguins, leshemale, Botfuzzy77#2209, Oh, Thats easy
+23 Sep 2016 20:18:50 : Penguins, leshemale, Botfuzzy77#2209, Chosen Option: kys
+23 Sep 2016 20:18:58 : Penguins, leshemale, xPalkia(lugia)#8149, Okay you go kys
+23 Sep 2016 20:19:07 : Penguins, leshemale, Survs confirmed gey?#1962, ;image spank
+23 Sep 2016 20:19:09 : Penguins, leshemale, Botfuzzy77#2209, https://upload.wikimedia.org/wikipedia/commons/f/f9/Bundesarchiv_Bild_183-R79742,_Erziehungsmethode.jpg
+23 Sep 2016 20:19:11 : Penguins, leshemale, xPalkia(lugia)#8149, ;image kyslive kysprivate
+23 Sep 2016 20:19:14 : Penguins, leshemale, Botfuzzy77#2209, ERROR
+23 Sep 2016 20:19:24 : My Personal Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Offline!
+23 Sep 2016 20:19:24 : Temp Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Offline!
+23 Sep 2016 20:19:25 : Penguins, leshemale, xPalkia(lugia)#8149, ;choose kyslive kysprivately
+23 Sep 2016 20:19:25 : Penguins, leshemale, Botfuzzy77#2209, Alright, picked one
+23 Sep 2016 20:19:26 : Penguins, leshemale, Botfuzzy77#2209, Chosen Option: kyslive
+23 Sep 2016 20:19:32 : Penguins, leshemale, Survs confirmed gey?#1962, ;image spankicious
+23 Sep 2016 20:19:33 : Penguins, leshemale, xPalkia(lugia)#8149, Okay record u kys
+23 Sep 2016 20:19:33 : Penguins, leshemale, Botfuzzy77#2209, https://i.ytimg.com/vi/2w0FCi1Cdxw/hqdefault.jpg?custom=true&w=120&h=90&jpg444=true&pt=305&jpgq=90&sp=68&sigh=kRhAhl_cpOZUlqZwijgxy-edgKw
+23 Sep 2016 20:19:47 : Penguins, leshemale, Survs confirmed gey?#1962, ;image spankilicious
+23 Sep 2016 20:19:48 : Penguins, leshemale, Botfuzzy77#2209, http://3.bp.blogspot.com/-W6AyyDWlKD0/Vb8sC6WTa9I/AAAAAAAADpo/3MOnmDzPM2k/s1600/Bella%2BFrances.jpg
+23 Sep 2016 20:19:51 : Penguins, leshemale, Hiraeth Lez Confirmed?#7191, Lol
+23 Sep 2016 20:19:51 : Penguins, leshemale, Survs confirmed gey?#1962, ugh
+23 Sep 2016 20:19:59 : Penguins, leshemale, xPalkia(lugia)#8149, @SurvivraInHellAKASchool#7191 bot said to kys on live video
+23 Sep 2016 20:19:59 : Penguins, leshemale, Survs confirmed gey?#1962, boner killed
+23 Sep 2016 20:20:01 : Penguins, leshemale, Hiraeth Lez Confirmed?#7191, Lelelel
+23 Sep 2016 20:20:03 : Penguins, leshemale, Survs confirmed gey?#1962, fatality
+23 Sep 2016 20:20:23 : Penguins, leshemale, Survs confirmed gey?#1962, https://cdn.discordapp.com/attachments/211676015712403456/228879202349219840/unknown.png
+23 Sep 2016 20:20:25 : The Wild Weeaboos, general, enragednuke#2565, @Tally @Wertfuzzy77 @FinaldF lets figure out all of 6 now
+23 Sep 2016 20:20:28 : Penguins, leshemale, Hiraeth Lez Confirmed?#7191, OMFG
+23 Sep 2016 20:20:30 : Penguins, leshemale, Survs confirmed gey?#1962, up we go
+23 Sep 2016 20:20:41 : Penguins, leshemale, Survs confirmed gey?#1962, xd
+23 Sep 2016 20:20:48 : Penguins, leshemale, Survs confirmed gey?#1962, u copycat
+23 Sep 2016 20:20:53 : Penguins, leshemale, Hiraeth Lez Confirmed?#7191, shshhs
+23 Sep 2016 20:20:56 : Penguins, leshemale, Survs confirmed gey?#1962, shhshsh
+23 Sep 2016 20:20:57 : Penguins, leshemale, Survs confirmed gey?#1962, no
+23 Sep 2016 20:21:05 : Penguins, leshemale, Survs confirmed gey?#1962, ;image survs gey
+23 Sep 2016 20:21:07 : Penguins, leshemale, xPalkia(lugia)#8149, Wtf
+23 Sep 2016 20:21:08 : Penguins, leshemale, Botfuzzy77#2209, http://www.bestmoneymethods.com/images/paid-for-surveys.jpg
+23 Sep 2016 20:21:08 : Penguins, leshemale, Survs confirmed gey?#1962, XD
+23 Sep 2016 20:21:21 : Penguins, leshemale, xPalkia(lugia)#8149, I go gauge my eyes bye
+23 Sep 2016 20:21:22 : Penguins, leshemale, xPalkia(lugia)#8149, Or bleach
+23 Sep 2016 20:21:22 : Penguins, leshemale, Survs confirmed gey?#1962, omg survs hooker confirmed
+23 Sep 2016 20:21:23 : Penguins, leshemale, Survs confirmed gey?#1962, bahe
+23 Sep 2016 20:21:39 : Penguins, leshemale, Survs confirmed gey?#1962, i go to bed i think
+23 Sep 2016 20:21:41 : Penguins, leshemale, S4Spank#7191, :>
+23 Sep 2016 20:21:44 : Penguins, leshemale, Survs confirmed gey?#1962, xd
+23 Sep 2016 20:21:47 : Penguins, leshemale, Survs confirmed gey?#1962, tf
+23 Sep 2016 20:21:47 : Penguins, leshemale, xPalkia(lugia)#8149, Surv is straight. Its opposite day. Hes gay
+23 Sep 2016 20:21:51 : LimitlessMc, mainchat, Topheralan#1202, did your pokes get duped again @Omed ?
+23 Sep 2016 20:21:51 : Penguins, leshemale, Survs confirmed gey?#1962, oooo
+23 Sep 2016 20:21:59 : Penguins, leshemale, xPalkia(lugia)#8149, Seee i win
+23 Sep 2016 20:21:59 : Penguins, leshemale, Survs confirmed gey?#1962, "S4Spank"
+23 Sep 2016 20:22:00 : Penguins, leshemale, S4Spank#7191, that makes you a male
+23 Sep 2016 20:22:04 : Penguins, leshemale, S4Spank#7191, XD
+23 Sep 2016 20:22:09 : Penguins, leshemale, Survs confirmed gey?#1962, XD
+23 Sep 2016 20:22:09 : Penguins, leshemale, Survs confirmed gey?#1962, whyy
+23 Sep 2016 20:22:10 : Penguins, leshemale, S4Spank#7191, BECAUSE ITS REVERSE DAY
+23 Sep 2016 20:22:13 : Penguins, leshemale, S4Spank#7191, HAHAHHA
+23 Sep 2016 20:22:15 : Penguins, leshemale, xPalkia(lugia)#8149, And another opposite but not for surv
+23 Sep 2016 20:22:19 : Penguins, leshemale, Survs confirmed gey?#1962, omg pls
+23 Sep 2016 20:22:30 : Penguins, leshemale, S4Spank#7191, Le bet @LESHEMALE
+23 Sep 2016 20:22:40 : Penguins, leshemale, Survs confirmed gey?#1962, ;image take my money
+23 Sep 2016 20:22:41 : Penguins, leshemale, Botfuzzy77#2209, https://s-media-cache-ak0.pinimg.com/originals/81/4a/4b/814a4bfd896e9238ff6a3f9555e7e55e.jpg
+23 Sep 2016 20:22:43 : LimitlessMc, mainchat, Omed#8171, no they are bad as shit so they wont dup ,but an ha poke did which happened to be female and adamant .thoght i was lucky but that came
+23 Sep 2016 20:23:01 : Penguins, leshemale, S4Spank#7191, Not boiz
+23 Sep 2016 20:23:02 : Penguins, leshemale, xPalkia(lugia)#8149, Surv says im the shemale. Opposite day. Now hes the shemale
+23 Sep 2016 20:23:07 : Penguins, leshemale, Survs confirmed gey?#1962, on girlz lo
+23 Sep 2016 20:23:08 : Penguins, leshemale, Survs confirmed gey?#1962, l
+23 Sep 2016 20:23:08 : Penguins, leshemale, xPalkia(lugia)#8149, Are you sure?
+23 Sep 2016 20:23:18 : Penguins, leshemale, xPalkia(lugia)#8149, Have you double checked?
+23 Sep 2016 20:23:23 : Penguins, leshemale, Survs confirmed gey?#1962, he's no into them he's just on them...
+23 Sep 2016 20:23:24 : Penguins, leshemale, xPalkia(lugia)#8149, LOL
+23 Sep 2016 20:23:31 : LimitlessMc, mainchat, Omed#8171, also i dont know if u guys look at the forums but i have a ditto that is flying/fire type
+23 Sep 2016 20:23:39 : LimitlessMc, mainchat, Topheralan#1202, lmao
+23 Sep 2016 20:23:45 : LimitlessMc, mainchat, Topheralan#1202, gimme for jim
+23 Sep 2016 20:23:50 : Penguins, leshemale, xPalkia(lugia)#8149, Change my name back to xfuckyou i cant my laptop rip
+23 Sep 2016 20:23:54 : Penguins, leshemale, Survs confirmed gey?#1962, spankilicious writing a poem
+23 Sep 2016 20:24:07 : LimitlessMc, mainchat, Omed#8171, u gonna win i prmoise can i just give badge here n not log in
+23 Sep 2016 20:24:14 : Penguins, leshemale, Survs confirmed gey?#1962, lol
+23 Sep 2016 20:24:21 : LimitlessMc, mainchat, Omed#8171, /badge give toph there
+23 Sep 2016 20:24:25 : Penguins, leshemale, Survs confirmed gey?#1962, I go to bed bahe bahe
+23 Sep 2016 20:24:38 : Cipher, general, Botfuzzy77#2209, **Survs confirmed gey?**(Grunt) is now Offline!
+23 Sep 2016 20:24:38 : Penguins, leshemale, Botfuzzy77#2209, **Survs confirmed gey?**(Rayquaza) is now Offline!
+23 Sep 2016 20:25:06 : LimitlessMc, mainchat, Topheralan#1202, lol
+23 Sep 2016 20:25:10 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Default**(SchutzStaffel) is now Online!
+23 Sep 2016 20:25:12 : LimitlessMc, mainchat, Topheralan#1202, why your pokes so bad?
+23 Sep 2016 20:25:21 : LimitlessMc, mainchat, Lucario#0401, wut is that engrish
+23 Sep 2016 20:25:22 : Cipher, general, Botfuzzy77#2209, **Survs confirmed gey?**(Grunt) is now Online!
+23 Sep 2016 20:25:22 : Penguins, leshemale, Botfuzzy77#2209, **Survs confirmed gey?**(Rayquaza) is now Online!
+23 Sep 2016 20:25:27 : LimitlessMc, mainchat, Lucario#0401, me no entiende
+23 Sep 2016 20:25:27 : LimitlessMc, mainchat, Topheralan#1202, engrish onry
+23 Sep 2016 20:25:39 : LimitlessMc, mainchat, Topheralan#1202, *entiendo
+23 Sep 2016 20:25:58 : LimitlessMc, mainchat, Topheralan#1202, Stick to your broken english @Lucario
+23 Sep 2016 20:25:59 : LimitlessMc, mainchat, Lucario#0401, o
+23 Sep 2016 20:25:59 : LimitlessMc, mainchat, Lucario#0401, ya
+23 Sep 2016 20:26:00 : LimitlessMc, mainchat, Topheralan#1202, lol
+23 Sep 2016 20:26:37 : LimitlessMc, mainchat, Omed#8171, if u on server now i can log on and leave after jim fight
+23 Sep 2016 20:27:13 : LimitlessMc, mainchat, Topheralan#1202, deal
+23 Sep 2016 20:28:44 : Penguins, leshemale, S4Spank#7191, Surv says im the shemale. Opposite day. Now hes the shemale /that doesnt even make sense
+23 Sep 2016 20:28:48 : Penguins, leshemale, S4Spank#7191, Lol
+23 Sep 2016 20:29:02 : Penguins, leshemale, S4Spank#7191, Then that makes you straight?
+23 Sep 2016 20:30:43 : LimitlessMc, mainchat, Omed#8171, mc loading
+23 Sep 2016 20:30:55 : LimitlessMc, mainchat, Omed#8171, and for a laugh https://www.youtube.com/watch?v=JJUXV4MW7lQ&index=20&list=PLEngsjAeWQXgqOdKm6PxYwNogmTqBreJ7
+23 Sep 2016 20:32:17 : The Wild Weeaboos, general, enragednuke#2565, @Tally can you c&p your exact #1? lmao
+23 Sep 2016 20:32:25 : The Wild Weeaboos, general, enragednuke#2565, i cant figure out how to work it
+23 Sep 2016 20:33:51 : Penguins, leshemale, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Offline!
+23 Sep 2016 20:35:54 : The Wild Weeaboos, general, enragednuke#2565, word* it
+23 Sep 2016 20:37:02 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Offline!
+23 Sep 2016 20:37:17 : The Wild Weeaboos, general, Tally#2764, College preference
+Student Preference
+College X: C, B, A
+Student A: X, Y, Z
+College Y: C, A, B
+Student B: Z, X, Y
+College Z: B , A, C
+Student C: Y, X, Z
+
+College X picks Student C ,Student C accepts
+College Y Picks Student C, Student C accepts and drops College X
+College X picks Student B student B accepts
+College Z picks Student B, Student B accepts and drops College X
+College X picks Student A Student A accepts
+
+This took 5 steps to complete with 3 colleges and 3 students. Given the run time of n^2, it should take at most 9 steps to complete (3^2). Thus given some constant c such that 0 < c <= 1 for cn^2 the constant c still works because the number of steps we take falls between 0 < c(3^2) <= 9
+23 Sep 2016 20:37:36 : The Wild Weeaboos, general, Tally#2764, hows that
+23 Sep 2016 20:37:37 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Online!
+23 Sep 2016 20:37:37 : The Wild Weeaboos, general, Wertfuzzy77#0274, go
+23 Sep 2016 20:37:37 : The Wild Weeaboos, general, Wertfuzzy77#0274, home
+23 Sep 2016 20:37:49 : The Wild Weeaboos, general, Wertfuzzy77#0274, ;join
+23 Sep 2016 20:37:49 : The Wild Weeaboos, general, Botfuzzy77#2209, Sorry, I'm already connected to a channel in server The Wild Weeaboos
+23 Sep 2016 20:37:51 : The Wild Weeaboos, general, Wertfuzzy77#0274, ;leave
+23 Sep 2016 20:37:52 : The Wild Weeaboos, general, Wertfuzzy77#0274, ;join
+23 Sep 2016 20:37:53 : The Wild Weeaboos, general, Botfuzzy77#2209, Sorry, I'm already connected to a channel in server The Wild Weeaboos
+23 Sep 2016 20:37:55 : The Wild Weeaboos, general, Wertfuzzy77#0274, ;relog

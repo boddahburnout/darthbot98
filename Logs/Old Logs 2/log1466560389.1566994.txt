@@ -1,0 +1,270 @@
+22 Jun 2016 01:53:48 : LimitlessMc , Gerald#7099 , My calculations say that Meciaro will have 12.3378799556675110% luck today
+22 Jun 2016 01:54:12 : LimitlessMc , Nerokin#3586 , !luck <@127941856955727872>
+22 Jun 2016 01:54:41 : LimitlessMc , Wertfuzzy77#0274 , we did it
+22 Jun 2016 01:54:44 : LimitlessMc , Wertfuzzy77#0274 , bot alive
+22 Jun 2016 01:54:46 : LimitlessMc , Nerokin#3586 , <@158641216311787520> How is your day?
+22 Jun 2016 01:54:48 : LimitlessMc , Gerald#7099 , I can't.
+22 Jun 2016 01:54:50 : LimitlessMc , Nalk Xulk Uk Eht#7098 , ayy
+22 Jun 2016 01:54:50 : LimitlessMc , Wertfuzzy77#0274 , lol
+22 Jun 2016 01:54:50 : LimitlessMc , Botfuzzy77#2926 , Lmao
+22 Jun 2016 01:55:03 : LimitlessMc , Nerokin#3586 , <@158641216311787520> You can't what?
+22 Jun 2016 01:55:03 : LimitlessMc , Nalk Xulk Uk Eht#7098 , !luck <@167123959031005186>
+22 Jun 2016 01:55:03 : LimitlessMc , Botfuzzy77#2926 , Wut
+22 Jun 2016 01:55:04 : LimitlessMc , Gerald#7099 , Bye now.
+22 Jun 2016 01:55:04 : LimitlessMc , Gerald#7099 , My calculations say that Botfuzzy77 will have 90.9619610685585700% luck today
+22 Jun 2016 01:55:13 : LimitlessMc , Nalk Xulk Uk Eht#7098 , !luck <@134441036905840640>
+22 Jun 2016 01:55:14 : LimitlessMc , Gerald#7099 , My calculations say that Wertfuzzy77 will have 13.0341415718626720% luck today
+22 Jun 2016 01:55:19 : LimitlessMc , Nerokin#3586 , <@158641216311787520> Stop being mean
+22 Jun 2016 01:55:20 : LimitlessMc , Gerald#7099 , I don't know what 'tsundere' means.
+22 Jun 2016 01:55:26 : LimitlessMc , Wertfuzzy77#0274 , !ev Pikachu
+22 Jun 2016 01:55:27 : LimitlessMc , Botfuzzy77#2926 , ``` 025	 Pikachu HP:  ATT:  DEF:  SP.ATT:  SP.DEF:  SPEED:  2
+```
+22 Jun 2016 01:55:39 : LimitlessMc , Nalk Xulk Uk Eht#7098 , !ev groudon
+22 Jun 2016 01:55:39 : LimitlessMc , Botfuzzy77#2926 , ```Pokemon Not Found
+```
+22 Jun 2016 01:55:43 : LimitlessMc , Wertfuzzy77#0274 , !pokemon Celebi
+22 Jun 2016 01:55:43 : LimitlessMc , Botfuzzy77#2926 , Pixelmon Page: http://pixelmonmod.com/wiki/index.php?title=Celebi
+22 Jun 2016 01:55:43 : LimitlessMc , Botfuzzy77#2926 , Bulbapedia Page: http://bulbapedia.bulbagarden.net/wiki/Celebi
+22 Jun 2016 01:55:44 : LimitlessMc , Botfuzzy77#2926 , Pokemon DB: http://pokemondb.net/pokedex/Celebi
+22 Jun 2016 01:55:44 : LimitlessMc , Botfuzzy77#2926 , Smogon: http://www.smogon.com/dex/bw/pokemon/Celebi
+22 Jun 2016 01:55:46 : LimitlessMc , Nalk Xulk Uk Eht#7098 , !ev wooper
+22 Jun 2016 01:55:47 : LimitlessMc , Botfuzzy77#2926 , ```Pokemon Not Found
+```
+22 Jun 2016 01:55:52 : LimitlessMc , Nerokin#3586 , !ev Eevee
+22 Jun 2016 01:55:52 : LimitlessMc , Botfuzzy77#2926 , ``` 133	 Eevee HP:  ATT:  DEF:  SP.ATT:  SP.DEF:  1 SPEED: 
+```
+22 Jun 2016 01:55:53 : LimitlessMc , Wertfuzzy77#0274 , !ev Groudon
+22 Jun 2016 01:55:53 : LimitlessMc , Botfuzzy77#2926 , ``` 383	 Groudon HP: 3 ATT:  DEF:  SP.ATT:  SP.DEF:  SPEED: 
+```
+22 Jun 2016 01:56:02 : LimitlessMc , Nalk Xulk Uk Eht#7098 , <@134441036905840640> how does one !ev?
+22 Jun 2016 01:56:03 : LimitlessMc , Wertfuzzy77#0274 , need to be cap 1st letter
+22 Jun 2016 01:56:06 : LimitlessMc , Nerokin#3586 , !ev 383
+22 Jun 2016 01:56:06 : LimitlessMc , Botfuzzy77#2926 , ``` 383	 Groudon HP: 3 ATT:  DEF:  SP.ATT:  SP.DEF:  SPEED: 
+```
+22 Jun 2016 01:56:10 : LimitlessMc , Wertfuzzy77#0274 , !ev
+22 Jun 2016 01:56:14 : LimitlessMc , Nerokin#3586 , !ev 1
+22 Jun 2016 01:56:14 : LimitlessMc , Botfuzzy77#2926 , ``` 000	 TEST HP:  ATT: 1  DEF:  1  SP.ATT:  1  SP.DEF:  1  SPEED:  1 	  1
+```
+22 Jun 2016 01:56:19 : LimitlessMc , Wertfuzzy77#0274 , ^
+22 Jun 2016 01:56:22 : LimitlessMc , Nerokin#3586 , !ev 2
+22 Jun 2016 01:56:22 : LimitlessMc , Botfuzzy77#2926 , ``` 002	 Ivysaur HP:  ATT:  DEF:  SP.ATT:  1 SP.DEF:   1 SPEED: 	 	 	 	 	 	 
+```
+22 Jun 2016 01:56:29 : LimitlessMc , Nerokin#3586 , !ev 100
+22 Jun 2016 01:56:30 : LimitlessMc , Botfuzzy77#2926 , ``` 100	 Voltorb HP:  ATT:  DEF:  SP.ATT:  SP.DEF:  SPEED:  1
+```
+22 Jun 2016 01:56:33 : LimitlessMc , Nalk Xulk Uk Eht#7098 , !ev Wertfuzzy77
+22 Jun 2016 01:56:34 : LimitlessMc , Botfuzzy77#2926 , ```Pokemon Not Found
+```
+22 Jun 2016 01:56:37 : LimitlessMc , Nalk Xulk Uk Eht#7098 , bet
+22 Jun 2016 01:56:50 : LimitlessMc , Wertfuzzy77#0274 , i didnt know you could do by #
+22 Jun 2016 01:56:54 : LimitlessMc , Wertfuzzy77#0274 , gg me
+22 Jun 2016 01:57:05 : LimitlessMc , Wertfuzzy77#0274 , !ev 162
+22 Jun 2016 01:57:05 : LimitlessMc , Botfuzzy77#2926 , ``` 162	 Furret HP:  ATT:  DEF:  SP.ATT:  SP.DEF:  SPEED:  2
+```
+22 Jun 2016 01:57:08 : LimitlessMc , Nalk Xulk Uk Eht#7098 , !ev 1
+22 Jun 2016 01:57:08 : LimitlessMc , Botfuzzy77#2926 , ``` 000	 TEST HP:  ATT: 1  DEF:  1  SP.ATT:  1  SP.DEF:  1  SPEED:  1 	  1
+```
+22 Jun 2016 01:57:12 : LimitlessMc , Nalk Xulk Uk Eht#7098 , tf
+22 Jun 2016 01:57:14 : LimitlessMc , Nerokin#3586 , What? You didn't code <@167123959031005186> ?
+22 Jun 2016 01:57:14 : LimitlessMc , Botfuzzy77#2926 , Wut
+22 Jun 2016 01:57:16 : LimitlessMc , Wertfuzzy77#0274 , !ev 001
+22 Jun 2016 01:57:16 : LimitlessMc , Botfuzzy77#2926 , ``` 001	 Bulbasaur HP:   ATT:  DEF:  SP.ATT:  1 SP.DEF:  SPEED: 
+```
+22 Jun 2016 01:57:19 : LimitlessMc , Wertfuzzy77#0274 , i did
+22 Jun 2016 01:57:26 : LimitlessMc , Nalk Xulk Uk Eht#7098 , !ev 149
+22 Jun 2016 01:57:26 : LimitlessMc , Botfuzzy77#2926 , ``` 149	 Dragonite HP:  ATT:  3 DEF:  SP.ATT:  SP.DEF:  SPEED: 	 	 
+```
+22 Jun 2016 01:57:31 : LimitlessMc , Wertfuzzy77#0274 , but i didnt know it would also search the Numbers too
+22 Jun 2016 01:57:36 : LimitlessMc , Nalk Xulk Uk Eht#7098 , !ev 169
+22 Jun 2016 01:57:37 : LimitlessMc , Botfuzzy77#2926 , ``` 169	 Crobat HP:  ATT:  DEF:  SP.ATT:  SP.DEF:  SPEED:  3
+```
+22 Jun 2016 01:57:45 : LimitlessMc , Nalk Xulk Uk Eht#7098 , !ev 069
+22 Jun 2016 01:57:46 : LimitlessMc , Nerokin#3586 , !ev 069
+22 Jun 2016 01:57:46 : LimitlessMc , Botfuzzy77#2926 , ``` 069	 Bellsprout HP:  ATT:  1 DEF:  SP.ATT:  SP.DEF:  SPEED: 
+```
+22 Jun 2016 01:57:47 : LimitlessMc , Botfuzzy77#2926 , ``` 069	 Bellsprout HP:  ATT:  1 DEF:  SP.ATT:  SP.DEF:  SPEED: 
+```
+22 Jun 2016 01:57:47 : LimitlessMc , Wertfuzzy77#0274 , basically it checks line by line for the given string
+22 Jun 2016 01:57:49 : LimitlessMc , Nalk Xulk Uk Eht#7098 , lelel
+22 Jun 2016 01:57:55 : LimitlessMc , Wertfuzzy77#0274 , if it finds it, it returns it
+22 Jun 2016 01:57:57 : LimitlessMc , Wertfuzzy77#0274 , also
+22 Jun 2016 01:58:00 : LimitlessMc , Wertfuzzy77#0274 , !ev 001 002 003
+22 Jun 2016 01:58:02 : LimitlessMc , Botfuzzy77#2926 , ``` 001	 Bulbasaur HP:   ATT:  DEF:  SP.ATT:  1 SP.DEF:  SPEED: 
+ 002	 Ivysaur HP:  ATT:  DEF:  SP.ATT:  1 SP.DEF:   1 SPEED: 	 	 	 	 	 	 
+ 003	 Venusaur HP:  ATT:  DEF:  SP.ATT:  2 SP.DEF:   1 SPEED: 
+```
+22 Jun 2016 01:58:06 : LimitlessMc , Wertfuzzy77#0274 , does many at time
+22 Jun 2016 01:58:26 : LimitlessMc , Wertfuzzy77#0274 , !ev Celebi Mewtwo Mew
+22 Jun 2016 01:58:28 : LimitlessMc , Nalk Xulk Uk Eht#7098 , !ev 001 002 003 004 005 006 007 008 009 010
+22 Jun 2016 01:58:29 : LimitlessMc , Botfuzzy77#2926 , ``` 251	 Celebi HP:  3 ATT:  DEF:  SP.ATT:  SP.DEF:  SPEED: 
+ 150	 Mewtwo HP:  ATT:  DEF:  SP.ATT:  3 SP.DEF:  SPEED: 	 
+ 150	 Mewtwo HP:  ATT:  DEF:  SP.ATT:  3 SP.DEF:  SPEED: 	 
+```
+22 Jun 2016 01:58:29 : LimitlessMc , Botfuzzy77#2926 , ``` 001	 Bulbasaur HP:   ATT:  DEF:  SP.ATT:  1 SP.DEF:  SPEED: 
+ 002	 Ivysaur HP:  ATT:  DEF:  SP.ATT:  1 SP.DEF:   1 SPEED: 	 	 	 	 	 	 
+ 003	 Venusaur HP:  ATT:  DEF:  SP.ATT:  2 SP.DEF:   1 SPEED: 
+ 004	 Charmander HP:  ATT:  DEF:  SP.ATT:  SP.DEF:  SPEED:  1
+ 005	 Charmeleon HP:  ATT:  DEF:  SP.ATT:  1 SP.DEF:  SPEED:  1	 	 	 	 	 	 
+ 006	 Charizard HP:  ATT:  DEF:  SP.ATT:  3 SP.DEF:  SPEED: 
+ 007	 Squirtle HP:  ATT:  DEF:  1 SP.ATT:  SP.DEF:  SPEED: 
+ 008	 Wartortle HP:  ATT:  DEF:  1 SP.ATT:  SP.DEF:  1 SPEED: 	 	 	 	 	 	 
+ 009	 Blastoise HP:  ATT:  DEF:  SP.ATT:  SP.DEF:  3 SPEED: 
+ 010	 Caterpie HP:   1 ATT:  DEF:  SP.ATT:  SP.DEF:  SPEED: 
+```
+22 Jun 2016 01:58:31 : LimitlessMc , Nerokin#3586 , !ev Special Attack
+22 Jun 2016 01:58:36 : LimitlessMc , Wertfuzzy77#0274 , lol
+22 Jun 2016 01:58:36 : LimitlessMc , Nalk Xulk Uk Eht#7098 , ayy
+22 Jun 2016 01:58:36 : LimitlessMc , Botfuzzy77#2926 , ```Pokemon Not Found
+Pokemon Not Found
+```
+22 Jun 2016 01:58:36 : LimitlessMc , Botfuzzy77#2926 , Lmao
+22 Jun 2016 01:58:41 : LimitlessMc , Wertfuzzy77#0274 , its !ev Sp.att
+22 Jun 2016 01:58:45 : LimitlessMc , Nerokin#3586 , Oh
+22 Jun 2016 01:58:51 : LimitlessMc , Nerokin#3586 , !ev Sp.att
+22 Jun 2016 01:58:51 : LimitlessMc , Botfuzzy77#2926 , Pokemon that Give Special Attack EVs
+Oddish - 1
+Gloom - 2
+Psyduck - 1
+Golduck - 2
+Abra - 1
+Kadabra - 2
+Magnemite - 1
+Magneton - 2
+Gastly - 1
+Haunter - 2
+Horsea - 1
+Jynx - 2
+Magmar - 2
+Mareep - 1
+Flaaffy - 2
+Girafarig - 2
+Numel - 1
+Lunatone - 2
+
+Also, SP.ATTs are given by Boss Towers, which makes this one of the easiest EVs to train for
+
+22 Jun 2016 01:58:55 : LimitlessMc , Nalk Xulk Uk Eht#7098 , !ev SPD
+22 Jun 2016 01:58:55 : LimitlessMc , Botfuzzy77#2926 , Pokemon that Give Speed EVs
+Weedle - 1
+Pidgey - 1
+Pidgeotto - 2
+Rattata - 1
+Raticate - 2
+Spearow - 1
+Fearow - 2
+Pichu - 1
+Pikachu - 2
+Raichu - 3
+Vulpix - 1
+Zubat - 1
+Golbat - 2
+Diglett - 1
+Dugtrio - 2
+Meowth - 1
+Persian - 2
+Poliwag - 1
+Poliwhirl - 2
+Ponyta - 1
+Rapidash - 2
+Voltorb - 1
+Electrode - 2
+Staryu - 1
+Starmie - 2
+Electabuzz - 2
+Magikarp - 1 (finally, a use.)
+Elekid - 1
+
+22 Jun 2016 01:58:59 : LimitlessMc , Nalk Xulk Uk Eht#7098 , lele
+22 Jun 2016 01:59:03 : LimitlessMc , Nalk Xulk Uk Eht#7098 , finally a use
+22 Jun 2016 01:59:08 : LimitlessMc , Wertfuzzy77#0274 , ya lol
+22 Jun 2016 01:59:16 : LimitlessMc , Nalk Xulk Uk Eht#7098 , <@134441036905840640>
+22 Jun 2016 01:59:20 : LimitlessMc , Nalk Xulk Uk Eht#7098 , what for attack?
+22 Jun 2016 01:59:23 : LimitlessMc , Nalk Xulk Uk Eht#7098 , atk?
+22 Jun 2016 01:59:26 : LimitlessMc , Gerald#7099 , The queue is empty
+22 Jun 2016 01:59:29 : LimitlessMc , Wertfuzzy77#0274 , ya think
+22 Jun 2016 01:59:29 : LimitlessMc , Nerokin#3586 , <@158641216311787520> Get an adblocker!
+22 Jun 2016 01:59:31 : LimitlessMc , Gerald#7099 , Yes, interesting... And you are a male or female?
+22 Jun 2016 01:59:32 : LimitlessMc , Wertfuzzy77#0274 , !ev Att
+22 Jun 2016 01:59:32 : LimitlessMc , Botfuzzy77#2926 , Pokemon that Give Attack EVs
+Ekans - 1
+Arbok - 2
+Nidoran (male) - 1
+Nidorino - 2
+Paras - 1
+Mankey - 1
+Primeape - 2
+Growlithe - 1
+Machop - 1
+Machoke - 2
+Bellsprout - 1
+Weepinbell - 2
+Krabby - 1
+Kingler - 2
+Hitmonlee - 2
+Rhydon - 2
+Goldeen - 1
+Seaking - 2
+
+22 Jun 2016 01:59:36 : LimitlessMc , Wertfuzzy77#0274 , ya att
+22 Jun 2016 01:59:48 : LimitlessMc , Nalk Xulk Uk Eht#7098 , hepppp
+22 Jun 2016 01:59:50 : LimitlessMc , Nalk Xulk Uk Eht#7098 , i cry
+22 Jun 2016 01:59:55 : LimitlessMc , Nalk Xulk Uk Eht#7098 , grey's anatomy makes me cry
+22 Jun 2016 02:00:15 : LimitlessMc , Nerokin#3586 , <@158641216311787520> Talk to me
+22 Jun 2016 02:00:16 : LimitlessMc , Gerald#7099 , I don't know that much about art.
+22 Jun 2016 02:00:28 : LimitlessMc , Wertfuzzy77#0274 , He just returns random things
+22 Jun 2016 02:00:29 : LimitlessMc , Wertfuzzy77#0274 , !fml
+22 Jun 2016 02:00:30 : LimitlessMc , Flame#8516 , wtf man
+22 Jun 2016 02:00:31 : LimitlessMc , Botfuzzy77#2926 , *Today, I caught my boyfriend trying on my bra. He still has no excuse. FML*
+22 Jun 2016 02:00:34 : LimitlessMc , Wertfuzzy77#0274 , lol
+22 Jun 2016 02:00:39 : LimitlessMc , Nerokin#3586 , Lol
+22 Jun 2016 02:00:46 : LimitlessMc , Wertfuzzy77#0274 , !fml
+22 Jun 2016 02:00:47 : LimitlessMc , Botfuzzy77#2926 , *Today, in a desperate attempt to get fired, I sent a sexual love letter to my boss. We're going on our first date tomorrow. FML*
+22 Jun 2016 02:00:48 : LimitlessMc , Flame#8516 , !ev spa
+22 Jun 2016 02:00:48 : LimitlessMc , Botfuzzy77#2926 , ``` 206	 Dunsparce HP:   1 ATT:  DEF:  SP.ATT:  SP.DEF:  SPEED: 
+```
+22 Jun 2016 02:00:52 : LimitlessMc , Nerokin#3586 , Gerald needs adblocker
+22 Jun 2016 02:01:06 : LimitlessMc , Wertfuzzy77#0274 , !ev Sp.att
+22 Jun 2016 02:01:06 : LimitlessMc , Botfuzzy77#2926 , Pokemon that Give Special Attack EVs
+Oddish - 1
+Gloom - 2
+Psyduck - 1
+Golduck - 2
+Abra - 1
+Kadabra - 2
+Magnemite - 1
+Magneton - 2
+Gastly - 1
+Haunter - 2
+Horsea - 1
+Jynx - 2
+Magmar - 2
+Mareep - 1
+Flaaffy - 2
+Girafarig - 2
+Numel - 1
+Lunatone - 2
+
+Also, SP.ATTs are given by Boss Towers, which makes this one of the easiest EVs to train for
+
+22 Jun 2016 02:01:10 : LimitlessMc , Wertfuzzy77#0274 , <@190353979430010880>  ^
+22 Jun 2016 02:01:13 : LimitlessMc , Flame#8516 , ty
+22 Jun 2016 02:01:17 : LimitlessMc , Wertfuzzy77#0274 , !mute Gerald
+22 Jun 2016 02:01:17 : LimitlessMc , Botfuzzy77#2926 , Muted Gerald
+22 Jun 2016 02:01:19 : LimitlessMc , Wertfuzzy77#0274 , I try
+22 Jun 2016 02:01:21 : LimitlessMc , Wertfuzzy77#0274 , no work
+22 Jun 2016 02:01:24 : LimitlessMc , Wertfuzzy77#0274 , <@158641216311787520>
+22 Jun 2016 02:01:25 : (MUTED PLAYER)-LimitlessMc , Gerald#7099 , One day.
+22 Jun 2016 02:01:33 : LimitlessMc , Wertfuzzy77#0274 , !mutelist
+22 Jun 2016 02:01:33 : LimitlessMc , Botfuzzy77#2926 , Mute List:
+Gerald
+
+22 Jun 2016 02:01:36 : LimitlessMc , Wertfuzzy77#0274 , !unmuteall
+22 Jun 2016 02:01:36 : LimitlessMc , Botfuzzy77#2926 , Unmuted All Players
+22 Jun 2016 02:01:42 : LimitlessMc , Wertfuzzy77#0274 , !mutelist
+22 Jun 2016 02:01:42 : LimitlessMc , Botfuzzy77#2926 , No One is Muted
+22 Jun 2016 02:01:49 : LimitlessMc , Nerokin#3586 , He's playing music atm but he lags and plays ads
+22 Jun 2016 02:01:54 : LimitlessMc , Wertfuzzy77#0274 , lol
+22 Jun 2016 02:02:09 : LimitlessMc , Nerokin#3586 , !queue
+22 Jun 2016 02:02:10 : LimitlessMc , Gerald#7099 , The queue is empty
+22 Jun 2016 02:03:02 : LimitlessMc , Nerokin#3586 , !youtube Muse - Madness
+22 Jun 2016 02:03:04 : LimitlessMc , Wertfuzzy77#0274 , !relog

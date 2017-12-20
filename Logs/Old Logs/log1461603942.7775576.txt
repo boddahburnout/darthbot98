@@ -1,0 +1,33 @@
+Botfuzzy77#2926, Starting up...
+Botfuzzy77#2926, Loaded with Version 0.8.7
+Wertfuzzy77#0274, !mutelist
+Botfuzzy77#2926, No One is Muted
+Wertfuzzy77#0274, !mute Jay113355
+Botfuzzy77#2926, Muted Jay113355
+Wertfuzzy77#0274, !mutelist
+Botfuzzy77#2926, Mute List:
+Jay113355
+
+Wertfuzzy77#0274, !mute Userman
+Botfuzzy77#2926, Muted Userman
+Wertfuzzy77#0274, !mute mankHD
+Botfuzzy77#2926, Muted mankHD
+Wertfuzzy77#0274, !mutelist
+Botfuzzy77#2926, Mute List:
+Jay113355
+Userman
+mankHD
+
+Wertfuzzy77#0274, !unmute Jay113355
+Botfuzzy77#2926, Unmuted Jay113355
+Wertfuzzy77#0274, !unmute Userman
+Botfuzzy77#2926, Unmuted Userman
+Wertfuzzy77#0274, !unmute mankHD
+Botfuzzy77#2926, Unmuted mankHD
+Wertfuzzy77#0274, !mutelist
+Botfuzzy77#2926, No One is Muted
+Wertfuzzy77#0274, !redeem TEST
+Botfuzzy77#2926, Wertfuzzy77 won a Money prize from a TESTING book...
+Botfuzzy77#2926, Its **$4000**
+Wertfuzzy77#0274, !relog
+Botfuzzy77#2926, Relogging...

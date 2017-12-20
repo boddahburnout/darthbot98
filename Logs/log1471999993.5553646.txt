@@ -1,0 +1,46 @@
+24 Aug 2016 00:53:25 : PassionMC, general, Wertfuzzy77#0274, ;config All
+24 Aug 2016 00:53:26 : PassionMC, general, Botfuzzy77#2209, Server Settings are as Follows:
+Welcome new members: **True**
+Send a message when a player comes online: **True**
+24 Aug 2016 00:53:31 : PassionMC, general, Wertfuzzy77#0274, should work now
+24 Aug 2016 00:53:42 : PassionMC, general, Wertfuzzy77#0274, those settings are now connected to the cmds
+24 Aug 2016 00:53:57 : PassionMC, general, Wertfuzzy77#0274, so setting those True/False should change that stuff
+24 Aug 2016 00:54:03 : PassionMC, general, Wertfuzzy77#0274, someone leave and come back
+24 Aug 2016 00:54:08 : PassionMC, general, Mystz#8072, ;fucking disable send a message when player come online thank b;
+24 Aug 2016 00:54:22 : PassionMC, general, Wertfuzzy77#0274, that would be ;config Set Online False
+24 Aug 2016 00:54:28 : PassionMC, general, Wertfuzzy77#0274, ;help config
+24 Aug 2016 00:54:28 : PassionMC, general, Botfuzzy77#2209, ```
+;config
+
+Allows you to change settings for the server
+
+Commands:
+  Get Allows you to get config values
+  Set Allows you to set config values
+  All Gives you all of the Settings for this server
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+24 Aug 2016 00:54:30 : PassionMC, general, Mystz#8072, ;config killyourselfonjoin true
+24 Aug 2016 00:54:30 : PassionMC, general, Botfuzzy77#2209, Invalid config command passed...
+24 Aug 2016 00:54:33 : PassionMC, general, Wertfuzzy77#0274, gj
+24 Aug 2016 00:54:41 : PassionMC, general, Mystz#8072, lel.
+24 Aug 2016 00:54:43 : PassionMC, general, Wertfuzzy77#0274, ;help config Set
+24 Aug 2016 00:54:43 : PassionMC, general, Botfuzzy77#2209, ```
+;config Set <dataTag> <value>
+
+Allows you to set config values
+
+```
+24 Aug 2016 00:55:08 : PassionMC, general, Wertfuzzy77#0274, ;config Set Online False
+24 Aug 2016 00:55:08 : PassionMC, general, Botfuzzy77#2209, Sucessfully Set Online to False
+24 Aug 2016 00:55:12 : PassionMC, general, Wertfuzzy77#0274, ;config All
+24 Aug 2016 00:55:12 : PassionMC, general, Botfuzzy77#2209, Server Settings are as Follows:
+Welcome new members: **True**
+Send a message when a player comes online: **False**
+24 Aug 2016 00:55:22 : PassionMC, general, Wertfuzzy77#0274, alright, those messages shouldnt happen anymore
+24 Aug 2016 00:55:23 : PassionMC, general, Wertfuzzy77#0274, i think
+24 Aug 2016 00:55:24 : PassionMC, general, Wertfuzzy77#0274, xD
+24 Aug 2016 00:55:45 : PassionMC, general, Wertfuzzy77#0274, someone log out
+24 Aug 2016 00:56:19 : PassionMC, general, Wertfuzzy77#0274, ;relog

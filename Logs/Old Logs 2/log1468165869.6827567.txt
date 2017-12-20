@@ -1,0 +1,25 @@
+10 Jul 2016 15:51:15 : Cipher , Wertfuzzy77#0274 , ;join
+10 Jul 2016 15:51:19 : Cipher , Wertfuzzy77#0274 , ;youtube https://www.youtube.com/watch?v=pB-5XG-DbAA
+10 Jul 2016 15:51:25 : Cipher , Akinci#5072 , Does it work now?
+10 Jul 2016 15:51:25 : Cipher , Wertfuzzy77#0274 , ;showqueue
+10 Jul 2016 15:51:26 : Cipher , Botfuzzy77#2209 , []
+10 Jul 2016 15:51:28 : Cipher , Wertfuzzy77#0274 , working on it
+10 Jul 2016 15:51:34 : Cipher , Wertfuzzy77#0274 , ;youtube https://www.youtube.com/watch?v=pB-5XG-DbAA
+10 Jul 2016 15:51:38 : Cipher , Wertfuzzy77#0274 , ;showqueue
+10 Jul 2016 15:51:38 : Cipher , Botfuzzy77#2209 , ['https://www.youtube.com/watch?v=pB-5XG-DbAA']
+10 Jul 2016 15:51:40 : Cipher , Wertfuzzy77#0274 , ;skip
+10 Jul 2016 15:51:40 : Cipher , Botfuzzy77#2209 , Skipping Sam Smith - Stay With Me
+10 Jul 2016 15:51:44 : Cipher , Wertfuzzy77#0274 , ;showqueue
+10 Jul 2016 15:51:44 : Cipher , Botfuzzy77#2209 , ['https://www.youtube.com/watch?v=pB-5XG-DbAA']
+10 Jul 2016 15:51:46 : Cipher , Akinci#5072 , Well i hear something
+10 Jul 2016 15:51:50 : Cipher , Wertfuzzy77#0274 , ya, he plays
+10 Jul 2016 15:51:54 : Cipher , Wertfuzzy77#0274 , but im trying to make queue
+10 Jul 2016 15:51:56 : Cipher , Wertfuzzy77#0274 , ;showqueue
+10 Jul 2016 15:51:56 : Cipher , Botfuzzy77#2209 , ['https://www.youtube.com/watch?v=pB-5XG-DbAA']
+10 Jul 2016 15:51:58 : Cipher , Wertfuzzy77#0274 , D:
+10 Jul 2016 15:52:08 : Cipher , Wertfuzzy77#0274 , ;showqueue
+10 Jul 2016 15:52:08 : Cipher , Botfuzzy77#2209 , ['https://www.youtube.com/watch?v=pB-5XG-DbAA']
+10 Jul 2016 15:52:09 : Cipher , Wertfuzzy77#0274 , hep
+10 Jul 2016 15:52:13 : Cipher , Akinci#5072 , Lol
+10 Jul 2016 15:52:32 : Cipher , Wertfuzzy77#0274 , ;relog
+10 Jul 2016 15:52:32 : Cipher , Botfuzzy77#2209 , Relogging...

@@ -1,0 +1,190 @@
+19 Jan 2017 19:49:17 : LimitlessMc, botchat, TherminatorX#6644, Also
+19 Jan 2017 19:49:28 : LimitlessMc, botchat, TherminatorX#6644, @Botfuzzy77 This broke
+19 Jan 2017 19:50:10 : LimitlessMc, botchat, Wertfuzzy77#0274, @Botfuzzy77 wut
+19 Jan 2017 19:50:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ...
+19 Jan 2017 19:50:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+19 Jan 2017 19:50:25 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 44
+**Pokemon**: None
+**XP**: 39421/91125
+**Boss Takedowns**: 20
+**Most Dmg in an Attack**: 7794
+19 Jan 2017 19:50:27 : LimitlessMc, botchat, Wertfuzzy77#0274, o
+19 Jan 2017 19:50:29 : LimitlessMc, botchat, Wertfuzzy77#0274, it worked
+19 Jan 2017 19:50:29 : LimitlessMc, botchat, TherminatorX#6644, Cleverbot API changed
+19 Jan 2017 19:50:30 : LimitlessMc, botchat, Wertfuzzy77#0274, fancy
+19 Jan 2017 19:50:32 : LimitlessMc, botchat, Wertfuzzy77#0274, prob
+19 Jan 2017 19:50:38 : LimitlessMc, botchat, TherminatorX#6644, It did
+19 Jan 2017 19:50:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;setpokemon Regice
+19 Jan 2017 19:50:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+19 Jan 2017 19:50:46 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 44
+**Pokemon**: Regice
+**XP**: 39421/91125
+**Boss Takedowns**: 20
+**Most Dmg in an Attack**: 7794
+19 Jan 2017 19:50:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ayyy
+19 Jan 2017 19:51:00 : LimitlessMc, botchat, Wertfuzzy77#0274, it worked
+19 Jan 2017 19:51:05 : LimitlessMc, botchat, TherminatorX#6644, ;pokedex Furret
+19 Jan 2017 19:51:05 : LimitlessMc, botchat, Botfuzzy77#2209, You have not beat a Furret
+19 Jan 2017 19:51:20 : LimitlessMc, botchat, TherminatorX#6644, ;pokedex list
+19 Jan 2017 19:51:20 : LimitlessMc, botchat, Botfuzzy77#2209, You have not beat a List
+19 Jan 2017 19:51:48 : LimitlessMc, botchat, TherminatorX#6644, ;setpokemon Kyogre
+19 Jan 2017 19:51:48 : LimitlessMc, botchat, Botfuzzy77#2209, You must have beat that pokemon in ;train to become it!
+19 Jan 2017 19:51:53 : LimitlessMc, botchat, TherminatorX#6644, ....
+19 Jan 2017 19:52:03 : LimitlessMc, botchat, TherminatorX#6644, ;level
+19 Jan 2017 19:52:03 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *TherminatorX*
+**Level**: 47
+**Pokemon**: None
+**XP**: 96727/110592
+**Boss Takedowns**: 22
+**Most Dmg in an Attack**: 26778
+19 Jan 2017 19:52:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug json.load(open('Players.json', 'r'))['139767180920094720']
+19 Jan 2017 19:52:14 : LimitlessMc, botchat, TherminatorX#6644, ;pokedex Kyogre
+19 Jan 2017 19:52:14 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+{'Pokemon': [' ', 'Growlithe', 'Tornadus', 'Uxie', 'Marshtomp', 'Basculin', 'Dodrio', 'Klefki', 'Swirlix', 'Umbreon', 'Porygon', 'Ferroseed', 'Machop', 'Chandelure', 'Skiddo', 'Alakazam', 'Teddiursa', 'Sealeo', 'Clauncher', 'Numel', 'Timburr', 'Slowking', 'Beheeyem', 'Blastoise', 'Cranidos', 'Riolu', 'Kadabra', 'Kyurem', 'Yamask', 'Patrat', 'Combusken', 'Hariyama', 'Raikou', 'Corsola', 'Darmanitan', 'Ninetales', 'Torkoal', 'Cinccino', 'Loudred', 'Phantump', 'Sableye', 'Banette', 'Lombre', 'Ralts', 'Abomasnow', 'Nincada', 'Swellow', 'Glaceon', 'Honedge', 'Latios', 'Silcoon', 'Cyndaquil', 'Grotle', 'Phanpy', 'Pansage', 'Graveler', 'Eevee', 'Axew', 'Metang', 'Gurdurr', 'Gligar', 'Gothita', 'Mewtwo', 'Raticate', 'Trevenant', 'Kirlia', 'Nidorino', 'Sceptile', 'Skiploom', 'Spiritomb', 'Forretress', 'Drilbur', 'Unfezant', 'Munchlax', 'Pyroar', 'Natu', 'Tangela', 'Seismitoad', 'Oddish', 'Smoochum', 'Slurpuff', 'Kyogre', 'Darkrai', 'Litwick', 'Lapras', 'Beldum', 'Politoed', 'Fletchling', 'Scatterbug', 'Ditto', 'Cradily', 'Simisear', 'Buizel', 'Tepig', 'Ledyba', 'Volcanion', 'Chespin', 'Vespiquen', 'Porygon-z', 'Froakie', 'Barbaracle', 'Boldore', 'Gloom', 'Kingdra', 'Floette', 'Heatmor', 'Kangaskhan', 'Gourgeist', 'Spinda', 'Ledian', 'Rhydon', 'Huntail', 'Sharpedo', 'Skrelp', 'Kricketune', 'Tranquill', 'Golurk', 'Plusle', 'Solosis', 'Relicanth', 'Haunter', 'Purugly', 'Joltik', 'Garbodor', 'Nuzleaf', 'Misdreavus', 'Dusknoir', 'Dunsparce', 'Weavile', 'Registeel'], 'XP': 96727, 'Takedowns': 22, 'Name': 'TherminatorX', 'Large_Damage': 26778, 'Level': 47, 'PlayerPokemon': None}
+```
+19 Jan 2017 19:52:16 : LimitlessMc, botchat, Botfuzzy77#2209, You **have** beat a Kyogre
+19 Jan 2017 19:52:45 : LimitlessMc, botchat, Wertfuzzy77#0274, try again
+19 Jan 2017 19:52:49 : LimitlessMc, botchat, TherminatorX#6644, ;setpokemon Mewtwo
+19 Jan 2017 19:52:55 : LimitlessMc, botchat, TherminatorX#6644, ;level
+19 Jan 2017 19:52:55 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *TherminatorX*
+**Level**: 47
+**Pokemon**: Mewtwo
+**XP**: 96727/110592
+**Boss Takedowns**: 22
+**Most Dmg in an Attack**: 26778
+19 Jan 2017 19:53:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+19 Jan 2017 19:53:02 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 35 **Pineco** for 1634 XP (62% to beat)
+You **Beat** a Level 44 **Steelix** for 2200 XP (50% to beat)
+You **Beat** a Level 25 **Carracosta** for 528 XP (88% to beat)
+You **Beat** a Level 9 **Weavile** for 440 XP (90% to beat)
+You **Lost** to a Level 60 **Sewaddle** (36% to beat)
+You **Beat** a Level 9 **Beartic** for 440 XP (90% to beat)
+You **Lost** to a Level 72 **Nidoking** (30% to beat)
+You **Lost** to a Level 31 **Snivy** (70% to beat)
+You **Beat** a Level 32 **Swinub** for 1375 XP (68% to beat)
+You **Beat** a Level 30 **Seadra** for 1173 XP (73% to beat)
+You **Lost** to a Level 40 **Unfezant** (55% to beat)
+You **Lost** to a Level 39 **Machamp** (56% to beat)
+You use a **Lucky Egg** to gain more XP!
+19 Jan 2017 19:53:02 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 11685 XP!
+19 Jan 2017 19:53:12 : LimitlessMc, botchat, TherminatorX#6644, ;train
+19 Jan 2017 19:53:12 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 43 **Gastly** for 2131 XP (54% to beat)
+You **Lost** to a Level 46 **Bisharp** (51% to beat)
+You **Beat** a Level 20 **Phanpy** for 470 XP (90% to beat)
+You **Beat** a Level 54 **Prinplup** for 2654 XP (43% to beat)
+You **Lost** to a Level 89 **Salamence** (26% to beat)
+You **Lost** to a Level 28 **Skiddo** (83% to beat)
+You **Lost** to a Level 54 **Chingling** (43% to beat)
+You **Lost** to a Level 58 **Bouffalant** (40% to beat)
+You **Lost** to a Level 89 **Doublade** (26% to beat)
+You **Lost** to a Level 80 **Dusknoir** (29% to beat)
+You **Beat** a Level 44 **Bidoof** for 2189 XP (53% to beat)
+You **Beat** a Level 19 **Marshtomp** for 470 XP (90% to beat)
+You **Beat** a Level 2 **Charmander** for 470 XP (90% to beat)
+You Find a **Pokeloot** worth 5530 XP
+You Find an **Ultra Pokeloot** worth 44237 XP
+19 Jan 2017 19:53:12 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 58152 XP!
+19 Jan 2017 19:53:16 : LimitlessMc, botchat, Wertfuzzy77#0274, haxx
+19 Jan 2017 19:53:41 : LimitlessMc, botchat, TherminatorX#6644, Lol
+19 Jan 2017 19:54:09 : LimitlessMc, botchat, TherminatorX#6644, Have you figured out how to DM users of commands yet?
+19 Jan 2017 19:56:57 : LimitlessMc, botchat, TherminatorX#6644, ;level
+19 Jan 2017 19:56:57 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *TherminatorX*
+**Level**: 48
+**Pokemon**: Mewtwo
+**XP**: 44287/117649
+**Boss Takedowns**: 22
+**Most Dmg in an Attack**: 26778
+19 Jan 2017 19:58:31 : LimitlessMc, botchat, TherminatorX#6644, I should have at least 46 boss takedowns btw
+19 Jan 2017 19:58:44 : LimitlessMc, botchat, TherminatorX#6644, I had 44 before the incident
+19 Jan 2017 20:00:20 : LimitlessMc, botchat, DanTurboX#4833, ;train
+19 Jan 2017 20:00:20 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 18 **Abra** for 480 XP (90% to beat)
+You **Beat** a Level 22 **Mienfoo** for 480 XP (90% to beat)
+You **Beat** a Level 3 **Tangrowth** for 480 XP (90% to beat)
+You **Beat** a Level 90 **Avalugg** for 3520 XP (26% to beat)
+You **Lost** to a Level 66 **Unown** (36% to beat)
+You **Beat** a Level 67 **Electrike** for 3080 XP (35% to beat)
+You **Lost** to a Level 71 **Pidgeotto** (33% to beat)
+You **Lost** to a Level 35 **Scraggy** (68% to beat)
+You **Beat** a Level 57 **Electrode** for 2778 XP (42% to beat)
+You **Beat** a Level 13 **Ariados** for 480 XP (90% to beat)
+You **Beat** a Level 33 **Mantine** for 1309 XP (72% to beat)
+You **Beat** a Level 13 **Barbaracle** for 480 XP (90% to beat)
+You **Lost** to a Level 72 **Yanmega** (33% to beat)
+You Find a **Great Pokeloot** worth 17648 XP
+19 Jan 2017 20:00:20 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 30735 XP!
+19 Jan 2017 20:00:55 : LimitlessMc, botchat, TherminatorX#6644, @Wertfuzzy77 and you can see 40 over in PMD pokebattle chat logs
+19 Jan 2017 20:01:14 : LimitlessMc, botchat, TherminatorX#6644, From a couple days ago
+19 Jan 2017 20:02:32 : LimitlessMc, botchat, TherminatorX#6644, I don't care about you resetting my level, but don't slice my victories in half
+19 Jan 2017 20:03:20 : LimitlessMc, botchat, Wertfuzzy77#0274, sure, i can bring em up
+19 Jan 2017 20:03:47 : LimitlessMc, botchat, TherminatorX#6644, Inb4 23 takedowns
+19 Jan 2017 20:04:38 : None, Direct Message with TherminatorX, TherminatorX#6644, ;level
+19 Jan 2017 20:04:38 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **Name**: *TherminatorX*
+**Level**: 48
+**Pokemon**: Mewtwo
+**XP**: 44287/117649
+**Boss Takedowns**: 22
+**Most Dmg in an Attack**: 26778
+19 Jan 2017 20:06:23 : None, Direct Message with TherminatorX, TherminatorX#6644, ;cd
+19 Jan 2017 20:06:24 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 2809 seconds
+19 Jan 2017 20:07:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;help
+19 Jan 2017 20:07:40 : LimitlessMc, botchat, Botfuzzy77#2209, ```
+A Bot whose sole Purpose is to serve Wertfuzzy77! Version 0.15.1.3
+(Created by Wertfuzzy77)
+
+FlavorTexts:
+  choose         Chooses from a set of things
+  conch          Ask the Magic Conch a Question
+  fml            Returns a Random Post from fmylife.com
+  funify         Funifies a given text input
+  gif            Returns the First Found Image on Google Images for this Input
+  hug            Adds Emotion
+  image          Returns the First Found Image on Google Images for this Input
+  kill           Adds Emotion
+  kiss           Adds Emotion
+  kys            
+  lmgtfy         Returns a Link to a "Let me Google That For You" Page
+  luck           Returns the Player's Luck
+  rate           Rates the Player
+  rps            Allows the player to play Rock, Paper, Scissors with the Bot...
+  slap           Adds Emotion
+  wyr            
+Games:
+  cd             Shows your Cooldowns
+  level          Displays your Current Information
+  lookup         Displays your Current Information
+  pokebattle     Fights a Pokemon Boss
+  pokeboss       Displays Boss Info
+  pokedex        
+  pokehelp       Pokemon Battle Sim Help
+  ranking        
+  setpokemon     
+  train          Fights Pokemon for XP
+  types          
+MusicPlayer:
+  Radio          Toggles Radio Mode
+  clear          Clears the Queue
+  desc           Decription of the Current playing song
+  extendplaylist Extends a custom playlist
+  join           Joins the Voice channel you are currently in
+  leave          Leaves the Join chat
+  loop           Plays the current song again
+  makeplaylist   Makes a custom playlist for the bot to save
+  music          Returns the current status of the Music Bot
+  playlist       Adds songs from a predefined playlist to the songs list
+  playlists      Shows all the current playlists
+  remove         removes a song from a queue by index
+  search         Searches for a song
+  shuffle        Shuffles the songs in the Queue
+  skip           Skips the Current song
+```
+19 Jan 2017 20:07:52 : LimitlessMc, botchat, Wertfuzzy77#0274, did i patch that?
+19 Jan 2017 20:07:55 : LimitlessMc, botchat, Wertfuzzy77#0274, to auto delete yet?
+19 Jan 2017 20:15:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug bot.pm_help
+19 Jan 2017 20:15:55 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+False
+```

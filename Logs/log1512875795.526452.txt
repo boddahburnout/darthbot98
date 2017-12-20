@@ -1,0 +1,28 @@
+10 Dec 2017 06:17:47 : None, Direct Message with darth kota, darth kota#9446, ;status
+10 Dec 2017 06:17:51 : None, Direct Message with darth kota, darthbot98#5182, 
+10 Dec 2017 07:55:54 : None, Direct Message with darth kota, darth kota#9446, ;invite
+10 Dec 2017 07:55:55 : None, Direct Message with darth kota, darthbot98#5182, https://discordapp.com/oauth2/authorize?client_id=187608834381053952&scope=bot&permissions=00000008
+10 Dec 2017 07:59:12 : FAM, main, Mee6#4876, @darthbot98, Welcome to **FAM** ! <:PCMR:382251419685617674>
+10 Dec 2017 07:59:13 : FAM, main, darthbot98#5182, Entire thing.
+10 Dec 2017 08:01:52 : FAM, off-topic, darth kota#9446, ;join
+10 Dec 2017 08:01:53 : FAM, off-topic, darthbot98#5182, Connected channel!
+10 Dec 2017 08:02:48 : FAM, off-topic, darth kota#9446, ;search where ever i may roam
+10 Dec 2017 08:02:57 : FAM, off-topic, darthbot98#5182, Added Metallica - Wherever I May Roam to the queue
+10 Dec 2017 08:02:58 : FAM, off-topic, darthbot98#5182, https://www.youtube.com/watch?v=S5TnPjOd_To
+10 Dec 2017 08:03:05 : FAM, off-topic, darth kota#9446, ;recomend
+10 Dec 2017 08:03:26 : FAM, off-topic, darth kota#9446, ;recommend
+10 Dec 2017 08:03:26 : FAM, off-topic, darthbot98#5182, Recommend Songs to play: True
+10 Dec 2017 08:03:58 : FAM, off-topic, darthbot98#5182, Added Miley Cyrus - Party In The U.S.A. to the queue
+10 Dec 2017 08:04:03 : FAM, off-topic, darthbot98#5182, 1/2 votes to skip
+10 Dec 2017 08:04:08 : FAM, off-topic, darth kota#9446, ;skip
+10 Dec 2017 08:04:15 : FAM, off-topic, darth kota#9446, ;songs
+10 Dec 2017 08:04:15 : FAM, off-topic, darthbot98#5182, 
+10 Dec 2017 08:04:22 : FAM, off-topic, darthbot98#5182, 
+10 Dec 2017 08:04:24 : FAM, off-topic, darth kota#9446, ;skip
+10 Dec 2017 08:04:29 : FAM, off-topic, darth kota#9446, ;skip
+10 Dec 2017 08:04:42 : FAM, off-topic, darth kota#9446, ;recommend
+10 Dec 2017 08:04:42 : FAM, off-topic, darthbot98#5182, Recommend Songs to play: False
+10 Dec 2017 08:04:48 : FAM, off-topic, darth kota#9446, ;clear
+10 Dec 2017 08:04:48 : FAM, off-topic, darthbot98#5182, You do not have permission to do this.
+10 Dec 2017 08:04:54 : FAM, off-topic, darthbot98#5182, Cleared Queue!
+10 Dec 2017 08:05:12 : FAM, off-topic, darth kota#9446, ;skip

@@ -1,0 +1,1640 @@
+16 Apr 2017 16:00:34 : LimitlessMc, botchat, Wertfuzzy77#0274, there was a bug in my system that wasnt allowing new players into it
+16 Apr 2017 16:00:36 : LimitlessMc, botchat, Wertfuzzy77#0274, I just patched it
+16 Apr 2017 16:00:42 : The Choudhry, viktig, Wertfuzzy77#0274, try now 😛
+16 Apr 2017 16:00:44 : The Choudhry, choudhry, Talha_choudhry#5495, is it working now?
+16 Apr 2017 16:00:55 : The Choudhry, choudhry, Wertfuzzy77#0274, I think
+16 Apr 2017 16:01:03 : The Choudhry, choudhry, Talha_choudhry#5495, bur prøv
+16 Apr 2017 16:01:14 : The Choudhry, choudhry, Choudhryyy#4295, ;level
+16 Apr 2017 16:01:16 : The Choudhry, choudhry, Botfuzzy77#2209, 
+16 Apr 2017 16:01:22 : The Choudhry, choudhry, Talha_choudhry#5495, eyeyey
+16 Apr 2017 16:01:23 : The Choudhry, choudhry, Wertfuzzy77#0274, there we go
+16 Apr 2017 16:01:25 : The Choudhry, choudhry, Choudhryyy#4295, Hva nå
+16 Apr 2017 16:01:28 : The Choudhry, choudhry, Wertfuzzy77#0274, ;ranking
+16 Apr 2017 16:01:29 : The Choudhry, choudhry, Botfuzzy77#2209, 
+16 Apr 2017 16:01:38 : The Choudhry, choudhry, Talha_choudhry#5495, thanks wert
+16 Apr 2017 16:01:40 : The Choudhry, choudhry, Wertfuzzy77#0274, np
+16 Apr 2017 16:01:47 : The Choudhry, choudhry, Talha_choudhry#5495, bur prøv ;pbt nnnnn
+16 Apr 2017 16:02:06 : The Choudhry, choudhry, Choudhryyy#4295, ;pbt
+16 Apr 2017 16:02:06 : The Choudhry, choudhry, Botfuzzy77#2209, Please use a Combination of **5** Types. `;types`
+16 Apr 2017 16:02:14 : The Choudhry, choudhry, Wertfuzzy77#0274, that should fix it for anyone else who joins too
+16 Apr 2017 16:02:28 : The Choudhry, choudhry, Choudhryyy#4295, ;pbt nnnnn
+16 Apr 2017 16:02:28 : The Choudhry, choudhry, Botfuzzy77#2209, 
+16 Apr 2017 16:02:29 : The Choudhry, choudhry, Botfuzzy77#2209, 
+16 Apr 2017 16:02:40 : The Choudhry, choudhry, Wertfuzzy77#0274, ;pbs
+16 Apr 2017 16:02:40 : The Choudhry, choudhry, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> medium to fight and reveal the boss.
+16 Apr 2017 16:02:47 : The Choudhry, choudhry, Wertfuzzy77#0274, anyways, gl 😄
+16 Apr 2017 16:02:54 : The Choudhry, choudhry, Choudhryyy#4295, Hav skal jeg
+16 Apr 2017 16:03:01 : The Choudhry, choudhry, Talha_choudhry#5495, your the best wert😉
+16 Apr 2017 16:03:10 : The Choudhry, choudhry, Talha_choudhry#5495, skal lære deg gjør ;types
+16 Apr 2017 16:03:17 : The Choudhry, choudhry, Choudhryyy#4295, ; types
+16 Apr 2017 16:03:21 : LimitlessMc, mainchat, Wertfuzzy77#0274, wut
+16 Apr 2017 16:03:22 : The Choudhry, choudhry, Choudhryyy#4295, ;types
+16 Apr 2017 16:03:23 : The Choudhry, choudhry, Botfuzzy77#2209, -= **Possible Types ** =-
+:regional_indicator_n: ormal
+:regional_indicator_f: ire
+:regional_indicator_w: ater
+:regional_indicator_g: rass
+:regional_indicator_p: oison
+:regional_indicator_d: ragon
+:regional_indicator_s: teel
+:regional_indicator_e: lectric
+:regional_indicator_b: ug
+:regional_indicator_i: ce
+16 Apr 2017 16:03:50 : The Choudhry, choudhry, Talha_choudhry#5495, du skal lage en kode
+16 Apr 2017 16:04:01 : The Choudhry, choudhry, Talha_choudhry#5495, som foreksempel
+16 Apr 2017 16:04:05 : The Choudhry, choudhry, Choudhryyy#4295, Hvordan
+16 Apr 2017 16:04:05 : The Choudhry, choudhry, Talha_choudhry#5495, ;pbt nnnnnnnn
+16 Apr 2017 16:04:05 : The Choudhry, choudhry, Botfuzzy77#2209, 
+16 Apr 2017 16:04:05 : The Choudhry, choudhry, Botfuzzy77#2209, 
+16 Apr 2017 16:04:16 : The Choudhry, choudhry, Choudhryyy#4295, Ikke mening
+16 Apr 2017 16:04:30 : The Choudhry, choudhry, Talha_choudhry#5495, jo, vanskelig å forklare lett å gjøre
+16 Apr 2017 16:04:36 : The Choudhry, choudhry, Talha_choudhry#5495, ;pokehelp
+16 Apr 2017 16:04:36 : The Choudhry, choudhry, Botfuzzy77#2209, Welcome to the **Pokemon Battle Sim**!
+Here you fight together against Pokemon Bosses. There are 4 areas, *Easy*, *Medium*, *Hard* and *Insane*.	
+To fight a boss, you use the command `;pokebattle`, a set of moves you will fight the boss with, and a location you want to fight in. (The bot will default to the area best suited for you level if left blank)
+An example of this is the following:
+`;pokebattle ngfse easy`
+which means you will be fighting the easy boss with battle combo of Normal, Grass, Fire, Steel, and Electric.
+You can use any combination of the 10 moves which can be found on `;types`
+16 Apr 2017 16:04:42 : The Choudhry, choudhry, Talha_choudhry#5495, alt står her
+16 Apr 2017 16:04:52 : The Choudhry, choudhry, Choudhryyy#4295, Hva skal jeg gjøre hvordan beskjed
+16 Apr 2017 16:05:09 : The Choudhry, choudhry, Talha_choudhry#5495, først gjør ;level
+16 Apr 2017 16:05:15 : The Choudhry, choudhry, Choudhryyy#4295, ;level
+16 Apr 2017 16:05:17 : The Choudhry, choudhry, Botfuzzy77#2209, 
+16 Apr 2017 16:05:26 : The Choudhry, choudhry, Choudhryyy#4295, ;pokebattle
+16 Apr 2017 16:05:26 : The Choudhry, choudhry, Botfuzzy77#2209, Please use a Combination of **5** Types. `;types`
+16 Apr 2017 16:05:30 : LimitlessMc, mainchat, Crystal4209#4698, https://images-ext-2.discordapp.net/.eJwlylsKgCAQAMC7eADdTS3tMuKzhMwQhSC6ex_N9zxktIOsZO_9WhmbFS0xZEv7KO5o1NfCktTcKQQP6FCGOAlADjzYoGMEWNh_TbW6iHOf8409JzV4RSMB6HVu5P0Aukgg7w.S-4_lUaMj-JIifq5lw30RD0jNo4?width=166&height=251
+16 Apr 2017 16:05:33 : LimitlessMc, mainchat, Crystal4209#4698, ^
+16 Apr 2017 16:05:35 : LimitlessMc, mainchat, Crystal4209#4698, join
+16 Apr 2017 16:05:39 : The Choudhry, choudhry, Talha_choudhry#5495, så kan du velge hvilken type elemet du vil være
+16 Apr 2017 16:05:45 : The Choudhry, choudhry, Talha_choudhry#5495, jeg er fire
+16 Apr 2017 16:05:48 : The Choudhry, choudhry, Talha_choudhry#5495, ;level
+16 Apr 2017 16:05:50 : The Choudhry, choudhry, Botfuzzy77#2209, 
+16 Apr 2017 16:05:56 : The Choudhry, choudhry, Choudhryyy#4295, Tror fire eller vann
+16 Apr 2017 16:06:12 : The Choudhry, choudhry, Talha_choudhry#5495, da gjør du ;settype fire eller water
+16 Apr 2017 16:06:31 : The Choudhry, choudhry, Talha_choudhry#5495, ;cd
+16 Apr 2017 16:06:31 : The Choudhry, choudhry, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You can Train right now!
+**Gamble**
+You can Gamble right now!
+16 Apr 2017 16:06:31 : The Choudhry, choudhry, Choudhryyy#4295, ;settype water
+16 Apr 2017 16:06:31 : The Choudhry, choudhry, Botfuzzy77#2209, You are now a Water type
+16 Apr 2017 16:06:41 : The Choudhry, choudhry, Talha_choudhry#5495, gjør også ;train
+16 Apr 2017 16:06:44 : The Choudhry, choudhry, Talha_choudhry#5495, ;train
+16 Apr 2017 16:06:44 : The Choudhry, choudhry, Botfuzzy77#2209, 
+16 Apr 2017 16:06:44 : The Choudhry, choudhry, Botfuzzy77#2209, 
+16 Apr 2017 16:06:47 : The Choudhry, choudhry, Choudhryyy#4295, ;train
+16 Apr 2017 16:06:47 : The Choudhry, choudhry, Botfuzzy77#2209, 
+16 Apr 2017 16:06:47 : The Choudhry, choudhry, Botfuzzy77#2209, 
+16 Apr 2017 16:06:52 : LimitlessMc, mainchat, Wertfuzzy77#0274, nah
+16 Apr 2017 16:06:57 : The Choudhry, choudhry, Choudhryyy#4295, Godd
+16 Apr 2017 16:06:58 : The Choudhry, choudhry, Talha_choudhry#5495, gratis exp
+16 Apr 2017 16:06:59 : The Choudhry, choudhry, Choudhryyy#4295, Good
+16 Apr 2017 16:07:06 : The Choudhry, choudhry, Choudhryyy#4295, ;train
+16 Apr 2017 16:07:06 : The Choudhry, choudhry, Botfuzzy77#2209, Please wait 1,781 seconds before you can train again.
+16 Apr 2017 16:07:11 : The Choudhry, choudhry, Talha_choudhry#5495, du kan også gamble
+16 Apr 2017 16:07:13 : The Choudhry, choudhry, Talha_choudhry#5495, ;cd
+16 Apr 2017 16:07:13 : The Choudhry, choudhry, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You need to wait 1,771 seconds
+**Gamble**
+You can Gamble right now!
+16 Apr 2017 16:07:23 : The Choudhry, choudhry, Choudhryyy#4295, ;gamble
+16 Apr 2017 16:07:23 : The Choudhry, choudhry, Botfuzzy77#2209, You need to gamble atleast 14 XP
+16 Apr 2017 16:07:34 : The Choudhry, choudhry, Choudhryyy#4295, ;figt
+16 Apr 2017 16:07:35 : LimitlessMc, mainchat, Crystal4209#4698, why?
+16 Apr 2017 16:07:37 : The Choudhry, choudhry, Talha_choudhry#5495, da gjør du ;gamble 14 eller over
+16 Apr 2017 16:07:38 : The Choudhry, choudhry, Choudhryyy#4295, Haja
+16 Apr 2017 16:07:46 : The Choudhry, choudhry, Choudhryyy#4295, ;gamble 14
+16 Apr 2017 16:07:46 : The Choudhry, choudhry, Botfuzzy77#2209, You have gained back your offering and more!
+16 Apr 2017 16:07:47 : The Choudhry, choudhry, Botfuzzy77#2209, 
+16 Apr 2017 16:07:47 : The Choudhry, choudhry, Botfuzzy77#2209, You are exhausted from Gambling...
+16 Apr 2017 16:08:02 : The Choudhry, choudhry, Choudhryyy#4295, ;boss
+16 Apr 2017 16:08:04 : The Choudhry, choudhry, Talha_choudhry#5495, der want du exp gjør ;level
+16 Apr 2017 16:08:11 : The Choudhry, choudhry, Choudhryyy#4295, ;level
+16 Apr 2017 16:08:12 : The Choudhry, choudhry, Botfuzzy77#2209, 
+16 Apr 2017 16:08:30 : The Choudhry, choudhry, Choudhryyy#4295, ;pokebattle
+16 Apr 2017 16:08:30 : The Choudhry, choudhry, Botfuzzy77#2209, Please use a Combination of **5** Types. `;types`
+16 Apr 2017 16:08:37 : The Choudhry, choudhry, Choudhryyy#4295, ;types
+16 Apr 2017 16:08:37 : The Choudhry, choudhry, Botfuzzy77#2209, -= **Possible Types ** =-
+:regional_indicator_n: ormal
+:regional_indicator_f: ire
+:regional_indicator_w: ater
+:regional_indicator_g: rass
+:regional_indicator_p: oison
+:regional_indicator_d: ragon
+:regional_indicator_s: teel
+:regional_indicator_e: lectric
+:regional_indicator_b: ug
+:regional_indicator_i: ce
+16 Apr 2017 16:08:40 : The Choudhry, choudhry, Talha_choudhry#5495, når exp bare er full kan du levele up
+16 Apr 2017 16:08:50 : The Choudhry, choudhry, Choudhryyy#4295, Hvordan
+16 Apr 2017 16:08:57 : The Choudhry, choudhry, Talha_choudhry#5495, sånn her
+16 Apr 2017 16:09:03 : The Choudhry, choudhry, Talha_choudhry#5495, ;pbs
+16 Apr 2017 16:09:03 : The Choudhry, choudhry, Botfuzzy77#2209, 
+16 Apr 2017 16:09:15 : The Choudhry, choudhry, Talha_choudhry#5495, ;pbt fnffffff
+16 Apr 2017 16:09:15 : The Choudhry, choudhry, Choudhryyy#4295, ;pbs
+16 Apr 2017 16:09:15 : The Choudhry, choudhry, Botfuzzy77#2209, 
+16 Apr 2017 16:09:15 : The Choudhry, choudhry, Botfuzzy77#2209, 
+16 Apr 2017 16:09:15 : The Choudhry, choudhry, Botfuzzy77#2209, 
+16 Apr 2017 16:09:35 : The Choudhry, choudhry, Choudhryyy#4295, ;pbs
+16 Apr 2017 16:09:36 : The Choudhry, choudhry, Botfuzzy77#2209, 
+16 Apr 2017 16:09:43 : The Choudhry, choudhry, Talha_choudhry#5495, nå tar du ;pbt nnnnn
+16 Apr 2017 16:10:02 : The Choudhry, choudhry, Choudhryyy#4295, ;pbt nnnnn
+16 Apr 2017 16:10:02 : The Choudhry, choudhry, Botfuzzy77#2209, 
+16 Apr 2017 16:10:02 : The Choudhry, choudhry, Botfuzzy77#2209, 
+16 Apr 2017 16:10:29 : The Choudhry, choudhry, Talha_choudhry#5495, ingen av kodene var rikige så da fortsjetter du f er neste bokstav
+16 Apr 2017 16:10:44 : The Choudhry, choudhry, Choudhryyy#4295, ;pbt fffff
+16 Apr 2017 16:10:44 : The Choudhry, choudhry, Botfuzzy77#2209, Please wait 19 seconds before you can fight the boss again.
+16 Apr 2017 16:10:53 : The Choudhry, choudhry, Choudhryyy#4295, Ffffuk
+16 Apr 2017 16:10:57 : The Choudhry, choudhry, Choudhryyy#4295, Fffuck
+16 Apr 2017 16:11:01 : The Choudhry, choudhry, Talha_choudhry#5495, du må vente 1 min mellom hver økt
+16 Apr 2017 16:11:11 : The Choudhry, choudhry, Talha_choudhry#5495, og en ting til,
+16 Apr 2017 16:11:20 : The Choudhry, choudhry, Talha_choudhry#5495, hvis du vil høre på music
+16 Apr 2017 16:11:27 : The Choudhry, choudhry, Talha_choudhry#5495, kan du gjøre dette
+16 Apr 2017 16:11:39 : The Choudhry, choudhry, Talha_choudhry#5495, inni voice
+16 Apr 2017 16:11:43 : The Choudhry, choudhry, Talha_choudhry#5495, ;join
+16 Apr 2017 16:11:44 : The Choudhry, choudhry, Botfuzzy77#2209, Connected channel!
+16 Apr 2017 16:11:49 : The Choudhry, choudhry, Talha_choudhry#5495, ;Radio
+16 Apr 2017 16:11:49 : The Choudhry, choudhry, Botfuzzy77#2209, **Please choose one of these options**: 
+```py
+Electro Hub        (1158 Songs) https://temp.discord.fm/libraries/electro-hub
+Chill Corner       (746 Songs) https://temp.discord.fm/libraries/chill-corner
+Korean Madness     (393 Songs) https://temp.discord.fm/libraries/korean-madness
+Japanese Lounge    (829 Songs) https://temp.discord.fm/libraries/japanese-lounge
+Classical          (293 Songs) https://temp.discord.fm/libraries/classical
+Retro Renegade     (452 Songs) https://temp.discord.fm/libraries/retro-renegade
+Metal Mix          (575 Songs) https://temp.discord.fm/libraries/metal-mix
+Hip-hop            (434 Songs) https://temp.discord.fm/libraries/hip-hop
+Electro Swing      (342 Songs) https://temp.discord.fm/libraries/electro-swing
+Purely Pop         (339 Songs) https://temp.discord.fm/libraries/purely-pop
+Rock-n-Roll        (640 Songs) https://temp.discord.fm/libraries/rock-n-roll
+Coffee-house Jazz  (522 Songs) https://temp.discord.fm/libraries/coffee-house-jazz```
+Example: `;Radio Purely Pop`
+16 Apr 2017 16:11:53 : The Choudhry, choudhry, Choudhryyy#4295, ;join
+16 Apr 2017 16:11:53 : The Choudhry, choudhry, Botfuzzy77#2209, Sorry, I'm already connected to a channel
+16 Apr 2017 16:12:02 : The Choudhry, choudhry, Talha_choudhry#5495, du må være i en voice
+16 Apr 2017 16:12:06 : The Choudhry, choudhry, Choudhryyy#4295, Hører ikke
+16 Apr 2017 16:12:15 : LimitlessMc, mainchat, Wertfuzzy77#0274, cause Lugia > Ho-oh 😛
+16 Apr 2017 16:12:21 : The Choudhry, choudhry, Talha_choudhry#5495, du må være i voice channal
+16 Apr 2017 16:12:28 : The Choudhry, choudhry, Choudhryyy#4295, Er det
+16 Apr 2017 16:12:38 : The Choudhry, choudhry, Talha_choudhry#5495, ;Radio Purely Pop
+16 Apr 2017 16:12:38 : The Choudhry, choudhry, Botfuzzy77#2209, Now listening to **Purely Pop** radio channel
+16 Apr 2017 16:12:49 : The Choudhry, choudhry, Talha_choudhry#5495, hører du nå?
+16 Apr 2017 16:12:56 : The Choudhry, choudhry, Choudhryyy#4295, Ja
+16 Apr 2017 16:13:01 : LimitlessMc, mainchat, Crystal4209#4698, i love ho-oh more 😛
+16 Apr 2017 16:13:06 : The Choudhry, choudhry, Talha_choudhry#5495, ser du, du kan ta radio eller
+16 Apr 2017 16:13:13 : LimitlessMc, botchat, Crystal4209#4698, ;train
+16 Apr 2017 16:13:13 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 16:13:13 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 16:13:14 : The Choudhry, choudhry, Talha_choudhry#5495, ;search swalla
+16 Apr 2017 16:13:14 : The Choudhry, choudhry, Botfuzzy77#2209, Turn off Radio mode first! (`;Radio off`)
+16 Apr 2017 16:13:24 : The Choudhry, choudhry, Talha_choudhry#5495, ;Radio off
+16 Apr 2017 16:13:24 : The Choudhry, choudhry, Botfuzzy77#2209, Radio mode OFF
+16 Apr 2017 16:13:30 : The Choudhry, choudhry, Talha_choudhry#5495, ;search swalla
+16 Apr 2017 16:13:31 : The Choudhry, choudhry, Botfuzzy77#2209, Added Jason Derulo - Swalla (feat. Nicki Minaj & Ty Dolla $ign) (Official Music Video) to the queue
+16 Apr 2017 16:13:31 : The Choudhry, choudhry, Botfuzzy77#2209, https://www.youtube.com/watch?v=NGLxoKOvzu4
+16 Apr 2017 16:13:46 : The Choudhry, choudhry, Talha_choudhry#5495, okey? forstår du
+16 Apr 2017 16:13:55 : The Choudhry, choudhry, Choudhryyy#4295, Men hører ikke swallow
+16 Apr 2017 16:14:08 : The Choudhry, choudhry, Talha_choudhry#5495, okey, vent
+16 Apr 2017 16:14:13 : The Choudhry, choudhry, Talha_choudhry#5495, ;songa
+16 Apr 2017 16:14:15 : The Choudhry, choudhry, Talha_choudhry#5495, ;songs
+16 Apr 2017 16:14:15 : The Choudhry, choudhry, Botfuzzy77#2209, **The Following songs are in the Queue**
+16 Apr 2017 16:14:15 : The Choudhry, choudhry, Botfuzzy77#2209, 1. Jason Derulo - Swalla (feat. Nicki Minaj & Ty Dolla $ign) (Official Music Video) **Talha_choudhry**
+	<https://www.youtube.com/watch?v=NGLxoKOvzu4>
+Total Time is 0:03:55
+16 Apr 2017 16:14:36 : The Choudhry, choudhry, Talha_choudhry#5495, ;leave
+16 Apr 2017 16:14:44 : The Choudhry, choudhry, Talha_choudhry#5495, ;c
+16 Apr 2017 16:14:47 : The Choudhry, choudhry, Talha_choudhry#5495, ;cd
+16 Apr 2017 16:14:47 : The Choudhry, choudhry, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You need to wait 1,317 seconds
+**Gamble**
+You can Gamble right now!
+16 Apr 2017 16:14:55 : The Choudhry, choudhry, Talha_choudhry#5495, ;pbt nnnniiii
+16 Apr 2017 16:14:55 : The Choudhry, choudhry, Botfuzzy77#2209, 
+16 Apr 2017 16:14:55 : The Choudhry, choudhry, Botfuzzy77#2209, 
+16 Apr 2017 16:14:58 : The Choudhry, choudhry, Choudhryyy#4295, ;battle
+16 Apr 2017 16:15:07 : The Choudhry, choudhry, Talha_choudhry#5495, bur ;pbt
+16 Apr 2017 16:15:13 : The Choudhry, choudhry, Choudhryyy#4295, ;pbt fffff
+16 Apr 2017 16:15:13 : The Choudhry, choudhry, Botfuzzy77#2209, 
+16 Apr 2017 16:15:13 : The Choudhry, choudhry, Botfuzzy77#2209, 
+16 Apr 2017 16:15:30 : The Choudhry, choudhry, Talha_choudhry#5495, eyeyey nummer 4 er rikitig
+16 Apr 2017 16:15:32 : The Choudhry, choudhry, Talha_choudhry#5495, ;types
+16 Apr 2017 16:15:33 : The Choudhry, choudhry, Botfuzzy77#2209, -= **Possible Types ** =-
+:regional_indicator_n: ormal
+:regional_indicator_f: ire
+:regional_indicator_w: ater
+:regional_indicator_g: rass
+:regional_indicator_p: oison
+:regional_indicator_d: ragon
+:regional_indicator_s: teel
+:regional_indicator_e: lectric
+:regional_indicator_b: ug
+:regional_indicator_i: ce
+16 Apr 2017 16:15:37 : The Choudhry, choudhry, Talha_choudhry#5495, w er neste
+16 Apr 2017 16:15:47 : The Choudhry, choudhry, Choudhryyy#4295, Ok
+16 Apr 2017 16:15:47 : The Choudhry, choudhry, Talha_choudhry#5495, da blir det ;pbt wwwfw
+16 Apr 2017 16:15:58 : The Choudhry, choudhry, Talha_choudhry#5495, f er riktig og skal bli der
+16 Apr 2017 16:16:10 : The Choudhry, choudhry, Talha_choudhry#5495, okey? hvis en w er riktig skal den bli der
+16 Apr 2017 16:16:39 : LimitlessMc, mainchat, Third_Worm#4804, @Wertfuzzy77 Join Team Unity
+16 Apr 2017 16:16:57 : LimitlessMc, mainchat, Third_Worm#4804, 
+16 Apr 2017 16:22:34 : LimitlessMc, mainchat, Wertfuzzy77#0274, but I don't wanna change my iconnnn
+16 Apr 2017 16:22:40 : LimitlessMc, mainchat, Crystal4209#4698, @That-Guy-Gilly haiiii
+16 Apr 2017 16:22:56 : LimitlessMc, mainchat, Third_Worm#4804, @Wertfuzzy77 You don't have to D:
+16 Apr 2017 16:23:00 : LimitlessMc, mainchat, Third_Worm#4804, You just join :d
+16 Apr 2017 16:23:01 : LimitlessMc, mainchat, Third_Worm#4804, 😄
+16 Apr 2017 16:23:13 : LimitlessMc, mainchat, Wertfuzzy77#0274, nah, I stick with Shadow Lugia and Cipher
+16 Apr 2017 16:23:19 : LimitlessMc, mainchat, Third_Worm#4804, !
+16 Apr 2017 16:23:29 : LimitlessMc, mainchat, Talha_choudhry#5495, what teams?
+16 Apr 2017 16:23:32 : LimitlessMc, mainchat, Talha_choudhry#5495, hahah
+16 Apr 2017 16:23:39 : LimitlessMc, mainchat, Wertfuzzy77#0274, ^
+16 Apr 2017 16:23:44 : LimitlessMc, mainchat, That-Guy-Gilly#6803, Send nudes @Crystal4209
+16 Apr 2017 16:23:50 : LimitlessMc, mainchat, Crystal4209#4698, only if you do
+16 Apr 2017 16:23:54 : LimitlessMc, mainchat, That-Guy-Gilly#6803, Deal
+16 Apr 2017 16:23:55 : LimitlessMc, mainchat, Wertfuzzy77#0274, @That-Guy-Gilly I believe thats illegal
+16 Apr 2017 16:24:04 : LimitlessMc, mainchat, Adam#7575, crystal told me she'd send nudes if she got made admin
+16 Apr 2017 16:24:07 : LimitlessMc, mainchat, Wertfuzzy77#0274, like 86% sure
+16 Apr 2017 16:24:10 : LimitlessMc, mainchat, That-Guy-Gilly#6803, @Wertfuzzy77  I believe you're illegal in america
+16 Apr 2017 16:24:14 : LimitlessMc, mainchat, Wertfuzzy77#0274, racist
+16 Apr 2017 16:24:17 : LimitlessMc, mainchat, Crystal4209#4698, roasted
+16 Apr 2017 16:24:34 : LimitlessMc, mainchat, Talha_choudhry#5495, @adam sigh
+16 Apr 2017 16:24:46 : LimitlessMc, mainchat, Talha_choudhry#5495, @Adam
+16 Apr 2017 16:25:02 : LimitlessMc, botchat, Talha_choudhry#5495, ;cd
+16 Apr 2017 16:25:02 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You need to wait 702 seconds
+**Gamble**
+You can Gamble right now!
+16 Apr 2017 16:25:09 : LimitlessMc, botchat, Talha_choudhry#5495, ;level
+16 Apr 2017 16:25:11 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 16:25:17 : LimitlessMc, botchat, Talha_choudhry#5495, ;gamble 6000
+16 Apr 2017 16:25:17 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained back your offering and more!
+16 Apr 2017 16:25:17 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 16:25:23 : LimitlessMc, botchat, Talha_choudhry#5495, ;gamble 7000
+16 Apr 2017 16:25:23 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained back your offering and more!
+16 Apr 2017 16:25:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 16:25:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 16:25:27 : LimitlessMc, botchat, Talha_choudhry#5495, eyeyeyey
+16 Apr 2017 16:25:29 : LimitlessMc, botchat, Talha_choudhry#5495, ;level
+16 Apr 2017 16:25:31 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 16:26:03 : The Choudhry, choudhry, Talha_choudhry#5495, ;ranking
+16 Apr 2017 16:26:03 : The Choudhry, choudhry, Botfuzzy77#2209, 
+16 Apr 2017 16:26:13 : The Choudhry, choudhry, Talha_choudhry#5495, hahhaa bur med level 5
+16 Apr 2017 16:26:46 : LimitlessMc, mainchat, Third_Worm#4804, we can do this wert
+16 Apr 2017 16:27:10 : LimitlessMc, mainchat, Third_Worm#4804, @Wertfuzzy77 that took way to long to upload
+16 Apr 2017 16:27:15 : LimitlessMc, mainchat, Third_Worm#4804, we can
+16 Apr 2017 16:27:17 : LimitlessMc, mainchat, Third_Worm#4804, DO THIS
+16 Apr 2017 16:29:51 : LimitlessMc, mainchat, Team Charizard#5495, make your shity team le, then i make my own
+16 Apr 2017 16:29:55 : LimitlessMc, botchat, TherminatorX#6644, ;cd
+16 Apr 2017 16:29:55 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You can Train right now!
+**Gamble**
+You can Gamble right now!
+16 Apr 2017 16:30:08 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;train
+16 Apr 2017 16:30:08 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+16 Apr 2017 16:30:08 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+16 Apr 2017 16:32:04 : LimitlessMc, mainchat, Wertfuzzy77#0274, easily my fav pokemon game
+16 Apr 2017 16:32:42 : LimitlessMc, mainchat, Third_Worm#4804, le
+16 Apr 2017 16:35:28 : LimitlessMc, mainchat, Mal#8419, terrible game
+16 Apr 2017 16:36:13 : LimitlessMc, mainchat, Wertfuzzy77#0274, kys
+16 Apr 2017 16:36:17 : LimitlessMc, mainchat, Wertfuzzy77#0274, I love that game
+16 Apr 2017 16:37:10 : LimitlessMc, mainchat, Crystal4209#4698, My favourite game is Pokemon heart gold
+16 Apr 2017 16:37:20 : LimitlessMc, mainchat, Wertfuzzy77#0274, what about the original gold xD
+16 Apr 2017 16:37:58 : LimitlessMc, mainchat, Crystal4209#4698, Wasn't able to play it since I was to young
+16 Apr 2017 16:38:04 : LimitlessMc, mainchat, Wertfuzzy77#0274, xD rip
+16 Apr 2017 16:38:09 : LimitlessMc, mainchat, Wertfuzzy77#0274, I played all the old ones
+16 Apr 2017 16:38:13 : LimitlessMc, mainchat, Crystal4209#4698, Like I might of been not born then xD
+16 Apr 2017 16:38:36 : LimitlessMc, mainchat, Wertfuzzy77#0274, from like pikachu yellow, to red, to gold
+16 Apr 2017 16:39:01 : LimitlessMc, mainchat, Crystal4209#4698, I grew up from ruby to all the current Pokemon games
+16 Apr 2017 16:39:17 : LimitlessMc, mainchat, Wertfuzzy77#0274, I did the exact opposite, I played until Ruby
+16 Apr 2017 16:39:23 : LimitlessMc, mainchat, Crystal4209#4698, Have been into Pokemon since I was 5 xD
+16 Apr 2017 16:40:08 : LimitlessMc, mainchat, Crystal4209#4698, But heart gold was my favourite games out of all of them
+16 Apr 2017 16:40:30 : LimitlessMc, mainchat, Crystal4209#4698, Did restart the game like last year and took my time beating it
+16 Apr 2017 16:42:26 : LimitlessMc, mainchat, Crystal4209#4698, @Wertfuzzy77 what does it mean that you are playing dolphin?
+16 Apr 2017 16:42:35 : LimitlessMc, mainchat, Wertfuzzy77#0274, Dolphin Emulator
+16 Apr 2017 16:42:40 : LimitlessMc, mainchat, Wertfuzzy77#0274, playing Gale of Darkness rn xD
+16 Apr 2017 16:42:46 : LimitlessMc, mainchat, Crystal4209#4698, Lol
+16 Apr 2017 16:46:07 : LimitlessMc, mainchat, TherminatorX#6644, Because physical GC games are overpriced nowadays
+16 Apr 2017 16:46:23 : LimitlessMc, mainchat, Crystal4209#4698, I should be asleep ;-;
+16 Apr 2017 16:46:24 : LimitlessMc, mainchat, Wertfuzzy77#0274, well that, and my disk broke 😛
+16 Apr 2017 16:46:31 : LimitlessMc, mainchat, Wertfuzzy77#0274, and my GC is at home xD
+16 Apr 2017 16:46:33 : LimitlessMc, mainchat, Crystal4209#4698, Someone kill me
+16 Apr 2017 16:46:36 : LimitlessMc, mainchat, TherminatorX#6644, Rip hopes of playing actual Wind Waker
+16 Apr 2017 16:48:37 : The Choudhry, choudhry, Choudhryyy#4295, Hahha
+16 Apr 2017 16:48:38 : The Choudhry, choudhry, Choudhryyy#4295, Ohaa
+16 Apr 2017 16:48:49 : The Choudhry, choudhry, Choudhryyy#4295, Hvorfor så mange
+16 Apr 2017 16:48:52 : The Choudhry, choudhry, Choudhryyy#4295, På gruop
+16 Apr 2017 16:49:04 : The Choudhry, choudhry, Choudhryyy#4295, ;pbt
+16 Apr 2017 16:49:04 : The Choudhry, choudhry, Botfuzzy77#2209, Please use a Combination of **5** Types. `;types`
+16 Apr 2017 16:49:15 : The Choudhry, choudhry, Choudhryyy#4295, ;pbt wwwww
+16 Apr 2017 16:49:15 : The Choudhry, choudhry, Botfuzzy77#2209, 
+16 Apr 2017 16:49:15 : The Choudhry, choudhry, Botfuzzy77#2209, 
+16 Apr 2017 16:49:28 : The Choudhry, choudhry, Choudhryyy#4295, Ok
+16 Apr 2017 16:49:32 : LimitlessMc, botchat, Team Charizard#5495, ;level
+16 Apr 2017 16:49:34 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 16:49:48 : LimitlessMc, botchat, Team Charizard#5495, ;refresh
+16 Apr 2017 16:49:53 : LimitlessMc, botchat, Team Charizard#5495, ;train
+16 Apr 2017 16:49:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 16:49:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 16:49:59 : LimitlessMc, botchat, Team Charizard#5495, ;level
+16 Apr 2017 16:50:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 16:50:04 : LimitlessMc, botchat, Team Charizard#5495, ;gamble 3000
+16 Apr 2017 16:50:04 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained back your offering and more!
+16 Apr 2017 16:50:04 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 16:50:11 : LimitlessMc, botchat, Team Charizard#5495, ;gamble 5000
+16 Apr 2017 16:50:11 : LimitlessMc, botchat, Botfuzzy77#2209, You have lost your offering...
+16 Apr 2017 16:50:20 : LimitlessMc, botchat, Team Charizard#5495, ;gamble 2000
+16 Apr 2017 16:50:20 : LimitlessMc, botchat, Botfuzzy77#2209, You need to gamble atleast 2,247 XP
+16 Apr 2017 16:50:23 : LimitlessMc, botchat, TherminatorX#6644, ;train
+16 Apr 2017 16:50:24 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 585 seconds before you can train again.
+16 Apr 2017 16:50:27 : LimitlessMc, botchat, Team Charizard#5495, ;level
+16 Apr 2017 16:50:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 16:50:33 : LimitlessMc, botchat, Crystal4209#4698, ;train
+16 Apr 2017 16:50:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 16:50:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 16:50:35 : LimitlessMc, botchat, Team Charizard#5495, ;gamblr 3000
+16 Apr 2017 16:50:40 : LimitlessMc, botchat, Team Charizard#5495, ;gamble 3000
+16 Apr 2017 16:50:40 : LimitlessMc, botchat, Botfuzzy77#2209, You have lost your offering...
+16 Apr 2017 16:50:41 : LimitlessMc, botchat, Botfuzzy77#2209, You are exhausted from Gambling...
+16 Apr 2017 16:50:52 : LimitlessMc, botchat, TherminatorX#6644, What is ;refresh supposed to do?
+16 Apr 2017 16:51:45 : LimitlessMc, botchat, TherminatorX#6644, ;refresh
+16 Apr 2017 16:51:58 : LimitlessMc, botchat, TherminatorX#6644, Nothing, apparently
+16 Apr 2017 16:52:44 : LimitlessMc, mainchat, Third_Worm#4804, @Jay113355 You get sleep?
+16 Apr 2017 16:54:48 : LimitlessMc, botchat, Crystal4209#4698, ;level
+16 Apr 2017 16:54:50 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 16:55:04 : LimitlessMc, botchat, TherminatorX#6644, ;level
+16 Apr 2017 16:55:06 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 16:57:05 : LimitlessMc, botchat, TherminatorX#6644, Only about 240k until Prestige 5
+16 Apr 2017 16:57:16 : LimitlessMc, botchat, Crystal4209#4698, Booo
+16 Apr 2017 16:57:22 : LimitlessMc, botchat, TherminatorX#6644, Hooo
+16 Apr 2017 17:02:50 : LimitlessMc, botchat, TherminatorX#6644, ;cd
+16 Apr 2017 17:02:50 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You can Train right now!
+**Gamble**
+You can Gamble right now!
+16 Apr 2017 17:02:54 : LimitlessMc, mainchat, Jay113355#4999, Yes
+16 Apr 2017 17:02:57 : LimitlessMc, botchat, TherminatorX#6644, ;train
+16 Apr 2017 17:02:57 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 17:02:57 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 17:03:12 : LimitlessMc, mainchat, Third_Worm#4804, Did you have a good sleep?
+16 Apr 2017 17:05:00 : LimitlessMc, mainchat, Crystal4209#4698, Have you had a good Easter so far? @Jay113355
+16 Apr 2017 17:05:52 : LimitlessMc, botchat, Crystal4209#4698, ;train
+16 Apr 2017 17:05:52 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 882 seconds before you can train again.
+16 Apr 2017 17:10:15 : LimitlessMc, mainchat, Crystal4209#4698, Okei I go sleep now, night
+16 Apr 2017 17:10:36 : LimitlessMc, mainchat, Third_Worm#4804, Night
+16 Apr 2017 17:16:21 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+16 Apr 2017 17:16:21 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 17:16:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+16 Apr 2017 17:16:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 17:16:24 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 17:26:03 : LimitlessMc, mainchat, SuMiT#4051, whitelist
+16 Apr 2017 17:29:22 : LimitlessMc, mainchat, Third_Worm#4804, Wormneff @Wtsoner
+16 Apr 2017 17:53:27 : LimitlessMc, mainchat, Third_Worm#4804, @Light soner loves how you look
+16 Apr 2017 18:03:06 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, added Pussydoge, adding the others now
+16 Apr 2017 18:03:54 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, @Pussy Doge ^
+16 Apr 2017 18:04:30 : RooberBoobers, kinkyrubiestalk, Third_Worm#4804, *continues trying to fix my anatamy*
+16 Apr 2017 18:04:40 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, *its okei, XD*
+16 Apr 2017 18:06:44 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, @Dick Van Lick boi XD
+16 Apr 2017 18:06:54 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, rip blind roober
+16 Apr 2017 18:07:39 : RooberBoobers, kinkyrubiestalk, navy#8336, oh god
+16 Apr 2017 18:08:04 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, idk what colors dickvanlick is XD
+16 Apr 2017 18:08:20 : RooberBoobers, kinkyrubiestalk, navy#8336, 
+16 Apr 2017 18:08:21 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, bondi is dead because of work and college
+16 Apr 2017 18:08:26 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, XD BOI
+16 Apr 2017 18:08:26 : RooberBoobers, kinkyrubiestalk, navy#8336, it looks like a unibrow smiley'
+16 Apr 2017 18:08:38 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, im adding lip shade XD
+16 Apr 2017 18:08:50 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, wtf color is dicklick
+16 Apr 2017 18:09:21 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, o yeah, dicklick had a headband?
+16 Apr 2017 18:09:24 : RooberBoobers, kinkyrubiestalk, navy#8336, @Dick Van Lick
+16 Apr 2017 18:09:32 : RooberBoobers, kinkyrubiestalk, navy#8336, idk
+16 Apr 2017 18:09:48 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, dickllick has been gone for 21 hours
+16 Apr 2017 18:14:22 : RooberBoobers, kinkyrubiestalk, navy#8336, rip
+16 Apr 2017 18:16:29 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, your girlfriend died
+16 Apr 2017 18:17:37 : RooberBoobers, kinkyrubiestalk, navy#8336, cri evrytim
+16 Apr 2017 18:18:34 : LimitlessMc, mainchat, ruleroftri#6648, Best Pokemon game is Pokemon Zeta
+16 Apr 2017 18:18:42 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, so basically i have all the rubies on this page, i just need bondi dicklick and nippirino XD
+16 Apr 2017 18:19:03 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+16 Apr 2017 18:19:09 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, we must spread our kink to other rubies, @Lewdie
+16 Apr 2017 18:19:16 : RooberBoobers, kinkyrubiestalk, navy#8336, wha
+16 Apr 2017 18:19:27 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, we need more kinkrubies XD
+16 Apr 2017 18:22:55 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+16 Apr 2017 18:23:20 : RooberBoobers, kinkyrubiestalk, navy#8336, there should be a miniature/giant ruby for size difference--
+16 Apr 2017 18:24:01 : RooberBoobers, kinkyrubiestalk, navy#8336, inflation ruby
+16 Apr 2017 18:32:38 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, true true XD im pretty sure all the rubies are the same size tho
+16 Apr 2017 18:32:54 : RooberBoobers, kinkyrubiestalk, navy#8336, ye a
+16 Apr 2017 18:32:56 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, o lordy pls no XD
+16 Apr 2017 18:32:56 : RooberBoobers, kinkyrubiestalk, navy#8336, h
+16 Apr 2017 18:33:02 : RooberBoobers, kinkyrubiestalk, navy#8336, well i know a friend
+16 Apr 2017 18:33:11 : RooberBoobers, kinkyrubiestalk, navy#8336, who is is roleplay mode 24/7
+16 Apr 2017 18:33:14 : RooberBoobers, kinkyrubiestalk, navy#8336, and
+16 Apr 2017 18:33:22 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, get them to join if they want, but lordy the inflation XD
+16 Apr 2017 18:33:25 : RooberBoobers, kinkyrubiestalk, navy#8336, she makes ruby ocs that are fkign tiny
+16 Apr 2017 18:33:42 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, its okei, rubies are all the same size so XD
+16 Apr 2017 18:34:09 : LimitlessMc, mainchat, Team Charizard#5495, @Crystal4209  @Third_Worm  like the way you two try to get jay to like you more😂😂😂 its so funny, at the end you get ignored😂😂
+16 Apr 2017 18:34:23 : LimitlessMc, mainchat, Third_Worm#4804, actually
+16 Apr 2017 18:34:24 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, does she have discord or facebook?
+16 Apr 2017 18:34:32 : LimitlessMc, mainchat, Third_Worm#4804, crystal wanted jay to join voice
+16 Apr 2017 18:34:41 : LimitlessMc, mainchat, Third_Worm#4804, so we started conversations lol
+16 Apr 2017 18:34:59 : LimitlessMc, mainchat, Team Charizard#5495, thats because she wants to be admin, she told me ahah
+16 Apr 2017 18:35:03 : RooberBoobers, kinkyrubiestalk, navy#8336, yeah
+16 Apr 2017 18:35:05 : RooberBoobers, kinkyrubiestalk, navy#8336, i send her
+16 Apr 2017 18:35:07 : RooberBoobers, kinkyrubiestalk, navy#8336, this server
+16 Apr 2017 18:35:15 : RooberBoobers, kinkyrubiestalk, navy#8336, idk if shes online
+16 Apr 2017 18:35:21 : LimitlessMc, mainchat, Third_Worm#4804, i want and will get head-mod
+16 Apr 2017 18:35:25 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, o lordy
+16 Apr 2017 18:35:40 : LimitlessMc, mainchat, Team Charizard#5495, thats ruler i think
+16 Apr 2017 18:35:46 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, i think talking to her about it before inviting her would've been better XD but okei
+16 Apr 2017 18:35:46 : LimitlessMc, mainchat, Team Charizard#5495, i now
+16 Apr 2017 18:36:04 : LimitlessMc, mainchat, Team Charizard#5495, i just want to be myself
+16 Apr 2017 18:36:08 : RooberBoobers, kinkyrubiestalk, navy#8336, r i p
+16 Apr 2017 18:36:09 : LimitlessMc, mainchat, Third_Worm#4804, Ruler is banned on the server
+16 Apr 2017 18:36:19 : LimitlessMc, mainchat, Team Charizard#5495, how? and why?
+16 Apr 2017 18:36:30 : LimitlessMc, mainchat, Sunstrikeh#8034, @Light  @Jay113355 You should make meteorites part of pixelmon.
+Similar to grottos, the world can spawn with large craters. In the center of these craters could be a 'meteorite' with moonstone ore and stone. I think people would enjoy that. ;D
+Anyone else think that's a good idea?
+16 Apr 2017 18:36:52 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, good lordy, my entire internet is dying
+16 Apr 2017 18:36:59 : LimitlessMc, mainchat, Third_Worm#4804, @Team Charizard He banned himself
+16 Apr 2017 18:37:03 : LimitlessMc, mainchat, Third_Worm#4804, He quit
+16 Apr 2017 18:37:04 : LimitlessMc, mainchat, Team Charizard#5495, ooo
+16 Apr 2017 18:37:11 : LimitlessMc, mainchat, Team Charizard#5495, that thkng i now,
+16 Apr 2017 18:37:26 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, yo i got another member for the kinkrubies
+16 Apr 2017 18:37:37 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, StacyU101
+16 Apr 2017 18:37:54 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, >that username
+16 Apr 2017 18:37:59 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, oboi
+16 Apr 2017 18:38:02 : The Choudhry, choudhry, Choudhryyy#4295, Talha
+16 Apr 2017 18:38:13 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, wait who has Core membership for DA here? XD
+16 Apr 2017 18:38:14 : The Choudhry, choudhry, Choudhryyy#4295, ;pbt rrrrr
+16 Apr 2017 18:38:14 : The Choudhry, choudhry, Botfuzzy77#2209, Please use a Combination of **5** Types. `;types`
+16 Apr 2017 18:38:23 : LimitlessMc, mainchat, Team Charizard#5495, i really want to play pixelmon again, like all the time, but its not much to do anymore
+16 Apr 2017 18:38:30 : RooberBoobers, kinkyrubiestalk, navy#8336, its
+16 Apr 2017 18:38:32 : RooberBoobers, kinkyrubiestalk, navy#8336, nose
+16 Apr 2017 18:38:36 : LimitlessMc, mainchat, Team Charizard#5495, soery if it hurts anyone
+16 Apr 2017 18:38:39 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, http://staceyu101.deviantart.com/
+16 Apr 2017 18:38:44 : RooberBoobers, kinkyrubiestalk, navy#8336, it,s nosey
+16 Apr 2017 18:38:45 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, ye im getting nosy to join this shit XD
+16 Apr 2017 18:39:00 : LimitlessMc, botchat, Team Charizard#5495, ;train
+16 Apr 2017 18:39:00 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 18:39:00 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 18:39:06 : LimitlessMc, botchat, Team Charizard#5495, ;level
+16 Apr 2017 18:39:08 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 18:39:16 : LimitlessMc, botchat, Team Charizard#5495, ;gamble 6000
+16 Apr 2017 18:39:16 : LimitlessMc, botchat, Botfuzzy77#2209, You have lost your offering...
+16 Apr 2017 18:39:18 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, spread the kinkrubies
+16 Apr 2017 18:39:20 : LimitlessMc, botchat, Team Charizard#5495, rippp
+16 Apr 2017 18:43:31 : RooberBoobers, kinkyrubiestalk, navy#8336, o k
+16 Apr 2017 18:44:09 : LimitlessMc, mainchat, Toasty#4764, hey guys
+16 Apr 2017 18:49:33 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+16 Apr 2017 18:49:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 18:49:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 18:49:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+16 Apr 2017 18:49:37 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 18:50:57 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, im having to make stacey  get Discord XD
+16 Apr 2017 18:51:06 : RooberBoobers, kinkyrubiestalk, navy#8336, lmao
+16 Apr 2017 18:51:14 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, this grill i stfg
+16 Apr 2017 18:52:14 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, btw, pug hasn;t been on DA or anywhere for 22 hours XD
+16 Apr 2017 18:52:34 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+16 Apr 2017 18:52:41 : RooberBoobers, kinkyrubiestalk, navy#8336, why are you counting
+16 Apr 2017 18:52:46 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, it shows me
+16 Apr 2017 18:53:24 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, 
+16 Apr 2017 18:53:31 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+16 Apr 2017 18:53:56 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, smol child hasn't been on for 15 hours XD
+16 Apr 2017 18:54:06 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, it should show you if someone is online or not etc
+16 Apr 2017 18:55:58 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+16 Apr 2017 19:01:10 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, https://www.youtube.com/watch?v=KA8y5lxfmb4
+16 Apr 2017 19:01:13 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, o this is good
+16 Apr 2017 19:01:37 : RooberBoobers, kinkyrubiestalk, navy#8336, wha
+16 Apr 2017 19:01:45 : RooberBoobers, kinkyrubiestalk, navy#8336, lapis isnt a crystal gem hndhvhgfkhjk
+16 Apr 2017 19:02:00 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, true, but shes still against homeworld XD
+16 Apr 2017 19:02:10 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, maybe, idk
+16 Apr 2017 19:02:13 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, then why did she consider herself part of the crystal temps
+16 Apr 2017 19:02:17 : RooberBoobers, kinkyrubiestalk, navy#8336, shes against everyone ever
+16 Apr 2017 19:02:24 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, besides steven
+16 Apr 2017 19:02:27 : RooberBoobers, kinkyrubiestalk, navy#8336, **she murdered connie**
+16 Apr 2017 19:02:39 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, She's not as chaotic neutral as you believe
+16 Apr 2017 19:03:34 : RooberBoobers, kinkyrubiestalk, navy#8336, **m.y gemsone is canon in ses 4**
+16 Apr 2017 19:03:54 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, i realize no one is a crystal gem till they have star eyes XD
+16 Apr 2017 19:04:00 : RooberBoobers, kinkyrubiestalk, navy#8336, hvuceirnyghiuremjf
+16 Apr 2017 19:04:05 : RooberBoobers, kinkyrubiestalk, navy#8336, peridot thats not singing
+16 Apr 2017 19:04:07 : RooberBoobers, kinkyrubiestalk, navy#8336, tahts screamign
+16 Apr 2017 19:04:11 : Pulse, game-chat, JustinOPGamer#9138, ;train
+16 Apr 2017 19:04:11 : Pulse, game-chat, Botfuzzy77#2209, 
+16 Apr 2017 19:04:11 : Pulse, game-chat, Botfuzzy77#2209, 
+16 Apr 2017 19:04:12 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, REEEE
+16 Apr 2017 19:04:18 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, o look, almost everyone is online
+16 Apr 2017 19:04:21 : RooberBoobers, kinkyrubiestalk, navy#8336, peridot likes screamo music
+16 Apr 2017 19:04:29 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, only @Bondi and @Dick Van Lick are ded
+16 Apr 2017 19:05:07 : RooberBoobers, kinkyrubiestalk, navy#8336, rip girlfirn
+16 Apr 2017 19:05:12 : RooberBoobers, kinkyrubiestalk, navy#8336, i guess im single--
+16 Apr 2017 19:05:46 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, this character costs 60$
+16 Apr 2017 19:05:59 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+16 Apr 2017 19:06:12 : RooberBoobers, kinkyrubiestalk, navy#8336, ok
+16 Apr 2017 19:06:14 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, overpriced as fuck
+16 Apr 2017 19:06:30 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, its because its a closed species and its from a VERY high bidding sell right now
+16 Apr 2017 19:06:35 : LimitlessMc, mainchat, Jay113355#4999, That was planed but it got droped
+16 Apr 2017 19:06:40 : RooberBoobers, kinkyrubiestalk, navy#8336, it,s ears arent symmetrical
+16 Apr 2017 19:06:54 : LimitlessMc, mainchat, Jay113355#4999, (Get it)
+16 Apr 2017 19:06:55 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, there are like 100 people bidding right now for her XD
+16 Apr 2017 19:07:07 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, it looks like a generic mermaid kemonomimi, how is it a closed species
+16 Apr 2017 19:07:15 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, idk
+16 Apr 2017 19:07:22 : LimitlessMc, mainchat, Third_Worm#4804, yes
+16 Apr 2017 19:07:28 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, http://neeyeo.deviantart.com/art/Meristaru-species-sheet-663959977
+16 Apr 2017 19:07:34 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, this is the species apparently
+16 Apr 2017 19:09:03 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, kinda lame
+16 Apr 2017 19:09:10 : LimitlessMc, mainchat, Team Charizard#5495, update me what was planed?
+16 Apr 2017 19:09:55 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, true XD
+16 Apr 2017 19:10:04 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, 60$ is a lot for a character, people are STILL bidding for her
+16 Apr 2017 19:10:27 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, they're just spacey mermaids with horns
+16 Apr 2017 19:10:31 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, also, there was a VERY bland character i saw long ago, she costed 100$. she was a ghost with no shading what so ever
+16 Apr 2017 19:10:41 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, and had little detail'
+16 Apr 2017 19:10:48 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, it's not that complex or innovative
+16 Apr 2017 19:11:35 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, ikr, im pretty sure any kid could think of something like that? *then again the galaxy deers were also like that XD*
+16 Apr 2017 19:12:27 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, @Musical Kink how kink are you
+16 Apr 2017 19:12:28 : RooberBoobers, kinkyrubiestalk, Botfuzzy77#2209, Hell.
+16 Apr 2017 19:12:39 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, @Musical Kink entertain me
+16 Apr 2017 19:12:41 : RooberBoobers, kinkyrubiestalk, Botfuzzy77#2209, No.
+16 Apr 2017 19:12:49 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, @Musical Kink marry me?
+16 Apr 2017 19:12:50 : RooberBoobers, kinkyrubiestalk, Botfuzzy77#2209, I do.
+16 Apr 2017 19:12:53 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, o
+16 Apr 2017 19:13:01 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, @Lewdie your new gf can be the musical kink
+16 Apr 2017 19:13:32 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, that exists?
+16 Apr 2017 19:13:33 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+16 Apr 2017 19:13:36 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, ye XD
+16 Apr 2017 19:13:44 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, just @ the music bot and it will talk to you
+16 Apr 2017 19:13:52 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, green red green red green XD
+16 Apr 2017 19:14:54 : RooberBoobers, kinkyrubiestalk, navy#8336, perefct
+16 Apr 2017 19:16:25 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, *that moment people say 'kawaii' or 'baka' or 'desu' when they aren't japanese and in a english sentence without any actual japanese *
+16 Apr 2017 19:17:57 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, i stfg these weeaboos are gonna kill me
+16 Apr 2017 19:18:18 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, im a memelord so I do that often
+16 Apr 2017 19:18:42 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, nono, i meant whenever they wanna describe something and aren't a memelord
+16 Apr 2017 19:18:51 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, like "this is so kawaiiii"
+16 Apr 2017 19:18:54 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, like, no hoe
+16 Apr 2017 19:18:59 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, oh
+16 Apr 2017 19:19:17 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, *the REAL cringe weeaboos*
+16 Apr 2017 19:20:15 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, be thankful we're no longer in '06-'10
+16 Apr 2017 19:20:27 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, you ungrateful ass
+16 Apr 2017 19:20:40 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, i lived in the heart of the rise of anime
+16 Apr 2017 19:20:47 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, bOi we are the same damn age XD
+16 Apr 2017 19:20:55 : RooberBoobers, kinkyrubiestalk, navy#8336, im smol
+16 Apr 2017 19:21:08 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, but I was on the internet much earlier
+16 Apr 2017 19:21:23 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, ah true, but i lived in america when i came from japan with a bunch of fooking weebs everywhere
+16 Apr 2017 19:23:32 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, i think the internet was easier because at least you never got bothered 24/7 about hearing naruto behind you then get questioned about shit because you came from japan the heart of weeaboo land XD
+16 Apr 2017 19:23:53 : LimitlessMc, botchat, theOnlyJuan#9357, ;train
+16 Apr 2017 19:23:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 19:23:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 19:24:01 : LimitlessMc, botchat, theOnlyJuan#9357, ;pbs
+16 Apr 2017 19:24:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 19:24:45 : LimitlessMc, botchat, theOnlyJuan#9357, ;pbt eneeieee
+16 Apr 2017 19:24:46 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 19:24:46 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 19:25:09 : RooberBoobers, kinkyrubiestalk, navy#8336, im
+16 Apr 2017 19:25:11 : RooberBoobers, kinkyrubiestalk, navy#8336, gay
+16 Apr 2017 19:31:52 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, https://www.youtube.com/watch?v=PCr4xzSvlqo
+16 Apr 2017 19:31:55 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, o lordy these are cool XD
+16 Apr 2017 19:33:32 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+16 Apr 2017 19:36:16 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, also, who the fuck is spreading that steven is sans when he dies
+16 Apr 2017 19:36:33 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, this and onion is secretly YD XD who is doing this
+16 Apr 2017 19:36:41 : RooberBoobers, kinkyrubiestalk, navy#8336, **sans = Steven After Not Surviving**
+16 Apr 2017 19:37:29 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, it's a joke meme theory
+16 Apr 2017 19:37:36 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, too many meme theories for me
+16 Apr 2017 19:37:36 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, from ages ago might I add
+16 Apr 2017 19:37:47 : LimitlessMc, botchat, Bakafish#8693, ;train
+16 Apr 2017 19:37:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 19:37:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 19:37:48 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, *they are still popping up*
+16 Apr 2017 19:40:16 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, *slowly drawing us worshipping Whippy with whippy calling us pathetic XD*
+16 Apr 2017 19:43:32 : LimitlessMc, botchat, TherminatorX#6644, ;train
+16 Apr 2017 19:43:32 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 19:43:32 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 19:43:41 : LimitlessMc, botchat, TherminatorX#6644, ;level
+16 Apr 2017 19:43:42 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 19:47:40 : LimitlessMc, botchat, TherminatorX#6644, *Jaws theme plays*
+16 Apr 2017 19:49:53 : RooberBoobers, kinkyrubiestalk, Botfuzzy77#2209, Welcome @Leggy to RooberBoobers!
+16 Apr 2017 19:49:58 : RooberBoobers, kinkyrubiestalk, Leggy#6475, w hA
+16 Apr 2017 19:50:16 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, @Lewdie time to explain to your frien about the kinkrubies
+16 Apr 2017 19:50:35 : RooberBoobers, kinkyrubiestalk, navy#8336, wh a
+16 Apr 2017 19:50:40 : RooberBoobers, kinkyrubiestalk, navy#8336, **oh hi leggy**
+16 Apr 2017 19:50:49 : RooberBoobers, kinkyrubiestalk, navy#8336, well
+16 Apr 2017 19:50:52 : RooberBoobers, kinkyrubiestalk, Leggy#6475, " u m "
+16 Apr 2017 19:50:57 : RooberBoobers, kinkyrubiestalk, navy#8336, you gotta make a slutty ruby oc now
+16 Apr 2017 19:51:04 : RooberBoobers, kinkyrubiestalk, navy#8336, " **bitch** "
+16 Apr 2017 19:51:10 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, well, erm
+16 Apr 2017 19:51:15 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, lemme explain
+16 Apr 2017 19:51:23 : RooberBoobers, kinkyrubiestalk, navy#8336, ban leggy imediately
+16 Apr 2017 19:51:26 : RooberBoobers, kinkyrubiestalk, navy#8336, /sarcasm
+16 Apr 2017 19:51:44 : RooberBoobers, kinkyrubiestalk, Leggy#6475, u m
+16 Apr 2017 19:52:20 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, basically we're making rubies based on kinks
+16 Apr 2017 19:52:40 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, kinkrubies are basically just kinks and rubies fused together. like, lewdie is the strapon kink, or whippy is a whip kink, or im a analbead kink XD
+16 Apr 2017 19:52:44 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, really simple
+16 Apr 2017 19:52:51 : RooberBoobers, kinkyrubiestalk, Leggy#6475, u m
+16 Apr 2017 19:53:15 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, there are many kinks, so try not to have the same one as someone else, but you were kinda forced here with no detail of what this is
+16 Apr 2017 19:53:41 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, here's mine for example
+16 Apr 2017 19:54:02 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, @Lewdie you should've explained before sending a invite XD this is awkward for smol leggy
+16 Apr 2017 19:54:09 : RooberBoobers, kinkyrubiestalk, navy#8336, oh shite
+16 Apr 2017 19:54:23 : RooberBoobers, kinkyrubiestalk, navy#8336, leggy is
+16 Apr 2017 19:54:30 : RooberBoobers, kinkyrubiestalk, navy#8336, stuck in rp mode ive explaine
+16 Apr 2017 19:54:36 : RooberBoobers, kinkyrubiestalk, navy#8336, **smorches leg**
+16 Apr 2017 19:54:53 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, i can make a small rp chat for you guys to do the kink?
+16 Apr 2017 19:55:01 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, *but need smol kink roobie*
+16 Apr 2017 19:55:01 : RooberBoobers, kinkyrubiestalk, Leggy#6475, um
+16 Apr 2017 19:55:22 : RooberBoobers, kinkyrubiestalk, Leggy#6475, munch
+16 Apr 2017 19:55:23 : RooberBoobers, kinkyrubiestalk, Leggy#6475, pfft
+16 Apr 2017 19:55:44 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, you can rp after you join this? XD
+16 Apr 2017 19:56:07 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, i dont think anyone here really rps because it would get awkward XD
+16 Apr 2017 19:57:06 : RooberBoobers, kinkyrubiestalk, Leggy#6475, M U N C H
+16 Apr 2017 19:57:12 : RooberBoobers, kinkyrubiestalk, Leggy#6475, 
+16 Apr 2017 19:57:17 : RooberBoobers, kinkyrubiestalk, Leggy#6475, gon
+16 Apr 2017 19:57:19 : RooberBoobers, kinkyrubiestalk, Leggy#6475, kill your as
+16 Apr 2017 19:57:35 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, waIT THATS A KINK??
+16 Apr 2017 19:57:43 : RooberBoobers, kinkyrubiestalk, Leggy#6475, y e s
+16 Apr 2017 19:57:52 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, what a hot kink
+16 Apr 2017 19:57:59 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, thats spicy
+16 Apr 2017 19:58:31 : RooberBoobers, kinkyrubiestalk, navy#8336, omg
+16 Apr 2017 19:58:35 : RooberBoobers, kinkyrubiestalk, navy#8336, thats m y k ink //
+16 Apr 2017 19:58:45 : RooberBoobers, kinkyrubiestalk, Third_Worm#4804, My kink is nipples
+16 Apr 2017 19:58:49 : RooberBoobers, kinkyrubiestalk, navy#8336, it's temperature play tho ??
+16 Apr 2017 19:58:52 : RooberBoobers, kinkyrubiestalk, navy#8336, right
+16 Apr 2017 19:58:53 : RooberBoobers, kinkyrubiestalk, navy#8336, i think
+16 Apr 2017 19:59:26 : RooberBoobers, kinkyrubiestalk, navy#8336, " **leg com here ill comfort** "
+16 Apr 2017 19:59:38 : RooberBoobers, kinkyrubiestalk, Leggy#6475, u m
+16 Apr 2017 19:59:41 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, lemme get the rp chat up XD
+16 Apr 2017 20:00:06 : RooberBoobers, kinkyrubiestalk, Third_Worm#4804, N I p s are nice to touckh
+16 Apr 2017 20:00:06 : RooberBoobers, kinkyrubiestalk, Leggy#6475, "Suka"
+16 Apr 2017 20:00:19 : RooberBoobers, kinkyroleplay, DicloniusPony#6564, @Lewdie @Leggy
+16 Apr 2017 20:00:23 : RooberBoobers, kinkyrubiestalk, Leggy#6475, " bez kasaniy "
+16 Apr 2017 20:00:44 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, how many fucking text chats am i gonna have XD
+16 Apr 2017 20:00:56 : LimitlessMc, botchat, TherminatorX#6644, ;cd
+16 Apr 2017 20:00:56 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You need to wait 756 seconds
+**Gamble**
+You can Gamble right now!
+16 Apr 2017 20:01:01 : RooberBoobers, kinkyroleplay, navy#8336, h ug s leg
+16 Apr 2017 20:01:06 : RooberBoobers, kinkyrubiestalk, navy#8336, lmao
+16 Apr 2017 20:01:28 : RooberBoobers, lewdie, navy#8336, im gay
+16 Apr 2017 20:01:30 : RooberBoobers, kinkyrubiestalk, Leggy#6475, hides
+16 Apr 2017 20:01:32 : RooberBoobers, kinkyrubiestalk, Leggy#6475, " no "
+16 Apr 2017 20:01:41 : RooberBoobers, kinkyrubiestalk, navy#8336, " leg y st op "
+16 Apr 2017 20:01:49 : RooberBoobers, lewdie, Leggy#6475, "no"
+16 Apr 2017 20:01:53 : RooberBoobers, kinkyrubiestalk, navy#8336, "  Only Roleplay ™ "
+16 Apr 2017 20:02:03 : RooberBoobers, kinkyrubiestalk, navy#8336, " in #kinkyroleplay binch "
+16 Apr 2017 20:02:09 : RooberBoobers, kinkyrubiestalk, Leggy#6475, d ont tell
+16 Apr 2017 20:02:10 : RooberBoobers, kinkyrubiestalk, Leggy#6475, m e wh at to do
+16 Apr 2017 20:02:13 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+16 Apr 2017 20:02:15 : RooberBoobers, kinkyrubiestalk, navy#8336, savage leg
+16 Apr 2017 20:02:28 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, @Nippirino i need help with limiting people to their own chats XD
+16 Apr 2017 20:02:58 : RooberBoobers, kinkyrubiestalk, navy#8336, ok ok
+16 Apr 2017 20:03:00 : RooberBoobers, kinkyrubiestalk, navy#8336, i know how
+16 Apr 2017 20:03:01 : RooberBoobers, kinkyrubiestalk, navy#8336, um
+16 Apr 2017 20:03:13 : RooberBoobers, kinkyrubiestalk, navy#8336, i know how to ban leggy from ever chat except roleplay
+16 Apr 2017 20:03:14 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, such as you can only talk in your Lewdie text etc
+16 Apr 2017 20:03:21 : RooberBoobers, kinkyrubiestalk, navy#8336, wha
+16 Apr 2017 20:03:46 : RooberBoobers, kinkyrubiestalk, navy#8336, you need to make a role for every individual person
+16 Apr 2017 20:03:47 : RooberBoobers, kinkyrubiestalk, navy#8336, and
+16 Apr 2017 20:03:53 : RooberBoobers, kinkyrubiestalk, Lighty#6475, um
+16 Apr 2017 20:03:55 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, fook
+16 Apr 2017 20:04:00 : RooberBoobers, kinkyrubiestalk, navy#8336, go to channel setting
+16 Apr 2017 20:04:07 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, @Lighty thats your kinky rubies name?
+16 Apr 2017 20:04:16 : RooberBoobers, kinkyrubiestalk, navy#8336, and ban them from all the servers excep
+16 Apr 2017 20:04:20 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, no XD
+16 Apr 2017 20:04:41 : RooberBoobers, kinkyrubiestalk, Lighty#6475, sure
+16 Apr 2017 20:04:41 : Pulse, game-chat, JustinOPGamer#9138, ;train
+16 Apr 2017 20:04:41 : Pulse, game-chat, Botfuzzy77#2209, 
+16 Apr 2017 20:04:41 : Pulse, game-chat, Botfuzzy77#2209, 
+16 Apr 2017 20:04:46 : RooberBoobers, kinkyrubiestalk, navy#8336, lighty
+16 Apr 2017 20:04:49 : RooberBoobers, kinkyrubiestalk, navy#8336, light m e on fire
+16 Apr 2017 20:04:53 : RooberBoobers, kinkyrubiestalk, Lighty#6475, n o
+16 Apr 2017 20:04:54 : RooberBoobers, kinkyrubiestalk, navy#8336, aesthetic
+16 Apr 2017 20:04:58 : RooberBoobers, kinkyrubiestalk, navy#8336, **hey**
+16 Apr 2017 20:05:38 : RooberBoobers, kinkyrubiestalk, Lighty#6475, is eat of the crackers
+16 Apr 2017 20:06:05 : LimitlessMc, botchat, TherminatorX#6644, ;cd
+16 Apr 2017 20:06:05 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You need to wait 447 seconds
+**Gamble**
+You can Gamble right now!
+16 Apr 2017 20:07:08 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+16 Apr 2017 20:07:29 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, i'll have to go soon, mom wants to visit ;/
+16 Apr 2017 20:07:35 : RooberBoobers, kinkyrubiestalk, Lighty#6475, you
+16 Apr 2017 20:07:37 : RooberBoobers, kinkyrubiestalk, Lighty#6475, need some
+16 Apr 2017 20:07:40 : RooberBoobers, kinkyrubiestalk, Lighty#6475, fuel
+16 Apr 2017 20:07:42 : RooberBoobers, kinkyrubiestalk, Lighty#6475, brb
+16 Apr 2017 20:15:19 : RooberBoobers, kinkyrubiestalk, navy#8336, rip
+16 Apr 2017 20:20:34 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, i need the colors for dicklick ;A;
+16 Apr 2017 20:20:44 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, i dont know what nippirino or bondi looks like XD nor Lighty
+16 Apr 2017 20:20:56 : RooberBoobers, kinkyrubiestalk, Lighty#6475, u m
+16 Apr 2017 20:20:56 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, wait a second
+16 Apr 2017 20:21:13 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, we have 10 rubies 0-0;;;;;
+16 Apr 2017 20:21:22 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, good fucking lord, thats a massive ruby
+16 Apr 2017 20:21:27 : RooberBoobers, kinkyrubiestalk, Lighty#6475, o h
+16 Apr 2017 20:21:37 : RooberBoobers, kinkyrubiestalk, navy#8336, they shoul
+16 Apr 2017 20:21:49 : RooberBoobers, kinkyrubiestalk, navy#8336, they should be divided into two 5-gem fusions
+16 Apr 2017 20:21:55 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, 5 and 5 should fuse, and when in very bad danger, they all fuse
+16 Apr 2017 20:21:57 : RooberBoobers, kinkyrubiestalk, navy#8336, so the giant womans can fucc
+16 Apr 2017 20:22:03 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+16 Apr 2017 20:22:31 : RooberBoobers, kinkyrubiestalk, navy#8336, **m.y wife is aliv**e
+16 Apr 2017 20:22:58 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, ye i got her XD
+16 Apr 2017 20:23:14 : RooberBoobers, kinkyrubiestalk, Lighty#6475, eats crackers
+16 Apr 2017 20:24:47 : RooberBoobers, kinkyrubiestalk, navy#8336, is gay
+16 Apr 2017 20:29:16 : RooberBoobers, kinkyrubiestalk, Lighty#6475, https://www.youtube.com/watch?v=TlmGLqolbGw
+16 Apr 2017 20:30:02 : RooberBoobers, kinkyrubiestalk, navy#8336, why
+16 Apr 2017 20:30:22 : RooberBoobers, kinkyrubiestalk, Lighty#6475, ah ahah
+16 Apr 2017 20:30:41 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, holy fukc 10 kin k roobers
+16 Apr 2017 20:31:54 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, im alive
+16 Apr 2017 20:33:01 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, 10th roobie is trying to discord
+16 Apr 2017 20:33:34 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+16 Apr 2017 20:33:36 : RooberBoobers, kinkyrubiestalk, navy#8336, hi wif
+16 Apr 2017 20:33:41 : RooberBoobers, kinkyrubiestalk, navy#8336, meet my frien leg
+16 Apr 2017 20:33:54 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, 
+16 Apr 2017 20:34:03 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, 5 roobies down, 5 more to go
+16 Apr 2017 20:34:11 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+16 Apr 2017 20:34:29 : RooberBoobers, kinkyrubiestalk, navy#8336, lewdie is so purple omg
+16 Apr 2017 20:34:36 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, anabea and pussydoge are such light colors XD
+16 Apr 2017 20:34:45 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, pussydoge looks brownish red, and anabea is pinkish red
+16 Apr 2017 20:34:50 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, i fuckign love them these lil' babs
+16 Apr 2017 20:34:54 : RooberBoobers, kinkyrubiestalk, Lighty#6475, um
+16 Apr 2017 20:34:59 : RooberBoobers, kinkyrubiestalk, navy#8336, **leg**
+16 Apr 2017 20:35:10 : RooberBoobers, kinkyrubiestalk, Lighty#6475, what
+16 Apr 2017 20:35:26 : LimitlessMc, mainchat, Lightning#6734, nubz
+16 Apr 2017 20:36:00 : RooberBoobers, kinkyrubiestalk, navy#8336, hi
+16 Apr 2017 20:36:02 : RooberBoobers, kinkyrubiestalk, navy#8336, meet
+16 Apr 2017 20:36:04 : RooberBoobers, kinkyrubiestalk, navy#8336, m gf
+16 Apr 2017 20:36:26 : RooberBoobers, kinkyrubiestalk, Lighty#6475, no
+16 Apr 2017 20:36:35 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, *popss out of the shadows*
+16 Apr 2017 20:36:42 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, well hi there hue
+16 Apr 2017 20:36:48 : RooberBoobers, kinkyrubiestalk, Lighty#6475, um
+16 Apr 2017 20:36:58 : RooberBoobers, kinkyrubiestalk, navy#8336, now
+16 Apr 2017 20:36:59 : RooberBoobers, kinkyrubiestalk, navy#8336, kiss
+16 Apr 2017 20:37:01 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, holy shit, almost all of the roobies are here
+16 Apr 2017 20:37:02 : RooberBoobers, kinkyrubiestalk, navy#8336, insert 2006 meme
+16 Apr 2017 20:37:03 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, n o
+16 Apr 2017 20:37:16 : RooberBoobers, kinkyrubiestalk, navy#8336, catdog is dead
+16 Apr 2017 20:37:19 : RooberBoobers, kinkyrubiestalk, Lighty#6475, leaves into the shadows
+16 Apr 2017 20:37:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+16 Apr 2017 20:37:24 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 20:37:24 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 20:37:27 : RooberBoobers, kinkyrubiestalk, navy#8336, follows
+16 Apr 2017 20:37:36 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, pussydoge is doing a makeup livestream rn XD
+16 Apr 2017 20:37:45 : LimitlessMc, botchat, Wertfuzzy77#0274, ;server
+16 Apr 2017 20:37:46 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+16 Apr 2017 20:37:46 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 10 players out of 150
+ *Ping*: 112.255 ms
+ *MC Version*: 1.10.2
+16 Apr 2017 20:37:46 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.3
+16 Apr 2017 20:37:46 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *DemonOfAwsome, 10_bit_sloth_YT, Wtsoner, Sunstrikeh, JOBarc, MattRuc, PatanX, Cryotrees, GentlyGaming, Chimera1737...*
+16 Apr 2017 20:38:06 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, *internal screming*
+16 Apr 2017 20:38:07 : RooberBoobers, kinkyrubiestalk, Lighty#6475, omfg
+16 Apr 2017 20:38:08 : RooberBoobers, kinkyrubiestalk, Lighty#6475, im gonna
+16 Apr 2017 20:38:11 : RooberBoobers, kinkyrubiestalk, Lighty#6475, find that bit hc
+16 Apr 2017 20:38:36 : RooberBoobers, kinkyrubiestalk, navy#8336, omg
+16 Apr 2017 20:39:00 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, @Musical Kink list of kinks
+16 Apr 2017 20:39:02 : RooberBoobers, kinkyrubiestalk, Botfuzzy77#2209, Well what is your favorite?
+16 Apr 2017 20:39:16 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+16 Apr 2017 20:39:55 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, wait a second
+16 Apr 2017 20:40:24 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, rubies are basically fire, there is a fire kink, does that mean they ALL have the fire kink?
+16 Apr 2017 20:40:35 : RooberBoobers, kinkyrubiestalk, navy#8336, **yes**
+16 Apr 2017 20:40:40 : RooberBoobers, kinkyrubiestalk, navy#8336, **f u ck yes**
+16 Apr 2017 20:40:50 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, how the fuck do you get bold text
+16 Apr 2017 20:40:54 : RooberBoobers, kinkyrubiestalk, Lighty#6475, i must find a new kink
+16 Apr 2017 20:40:56 : RooberBoobers, kinkyrubiestalk, Lighty#6475, you do **
+16 Apr 2017 20:41:03 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, **lordy**
+16 Apr 2017 20:41:04 : RooberBoobers, kinkyrubiestalk, Lighty#6475, **bitch**
+16 Apr 2017 20:41:15 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, *lordy* **daddy**
+16 Apr 2017 20:41:16 : RooberBoobers, kinkyrubiestalk, Third_Worm#4804, .*.*
+16 Apr 2017 20:41:20 : RooberBoobers, kinkyrubiestalk, Third_Worm#4804, Rip
+16 Apr 2017 20:41:24 : RooberBoobers, kinkyrubiestalk, Third_Worm#4804, **
+16 Apr 2017 20:41:37 : RooberBoobers, kinkyrubiestalk, Third_Worm#4804, Use two stars analrino
+16 Apr 2017 20:41:45 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, @Nippirino there are 10 kinkrubies
+16 Apr 2017 20:41:56 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, 5 and 5 get a team, then if they need to, fuse all together
+16 Apr 2017 20:42:14 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, omG
+16 Apr 2017 20:42:19 : RooberBoobers, kinkyrubiestalk, Third_Worm#4804, Cool who are my bitchrinos
+16 Apr 2017 20:42:30 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, oh god this is going to be just like gym
+16 Apr 2017 20:42:31 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, what would they look like trying to all form a position to fuse
+16 Apr 2017 20:42:44 : RooberBoobers, kinkyrubiestalk, Third_Worm#4804, a pusdy
+16 Apr 2017 20:42:47 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, like, the regular ruby squad fusing XD
+16 Apr 2017 20:42:50 : RooberBoobers, kinkyrubiestalk, Third_Worm#4804, pussyrino
+16 Apr 2017 20:42:52 : RooberBoobers, kinkyrubiestalk, Third_Worm#4804, Aw
+16 Apr 2017 20:43:12 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, @​everyone we should choose teams for each roobie
+16 Apr 2017 20:43:26 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+16 Apr 2017 20:43:27 : RooberBoobers, kinkyrubiestalk, navy#8336, wha
+16 Apr 2017 20:43:28 : RooberBoobers, kinkyrubiestalk, Third_Worm#4804, n I p s
+16 Apr 2017 20:43:31 : RooberBoobers, kinkyrubiestalk, navy#8336, whast that me
+16 Apr 2017 20:43:32 : RooberBoobers, kinkyrubiestalk, navy#8336, an
+16 Apr 2017 20:43:33 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, like, new teams every time there is 5 in a group
+16 Apr 2017 20:43:34 : RooberBoobers, kinkyrubiestalk, navy#8336, wah
+16 Apr 2017 20:43:38 : RooberBoobers, kinkyrubiestalk, navy#8336, wha t
+16 Apr 2017 20:43:41 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, cries
+16 Apr 2017 20:43:43 : RooberBoobers, kinkyrubiestalk, navy#8336, o k
+16 Apr 2017 20:43:44 : RooberBoobers, kinkyrubiestalk, navy#8336, wy hufjgn
+16 Apr 2017 20:43:49 : RooberBoobers, kinkyrubiestalk, Third_Worm#4804, I'll s h o v e thee n I p s
+16 Apr 2017 20:43:57 : RooberBoobers, kinkyrubiestalk, Third_Worm#4804, d e e p
+16 Apr 2017 20:44:07 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, im guessing a nipple fetish is like sticking needles in the nips or so
+16 Apr 2017 20:44:18 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, OW FUCK THAT HURT ME THINKING OF IT
+16 Apr 2017 20:44:19 : LimitlessMc, botchat, theOnlyJuan#9357, ;cd
+16 Apr 2017 20:44:19 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You can Train right now!
+**Gamble**
+You can Gamble right now!
+16 Apr 2017 20:44:27 : LimitlessMc, botchat, theOnlyJuan#9357, ;train
+16 Apr 2017 20:44:27 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 20:44:27 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 20:44:48 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, better than being stabbed through the pussy *shuns*
+16 Apr 2017 20:44:54 : RooberBoobers, kinkyrubiestalk, Third_Worm#4804, I thought we stick nipples into the mouth really hard and you suck and twist em
+16 Apr 2017 20:45:11 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, o
+16 Apr 2017 20:45:20 : RooberBoobers, kinkyrubiestalk, Third_Worm#4804, And every time they get hard you flip and do the others
+16 Apr 2017 20:45:27 : RooberBoobers, kinkyrubiestalk, Third_Worm#4804, *persons*
+16 Apr 2017 20:45:41 : RooberBoobers, kinkyrubiestalk, Third_Worm#4804, And its like a cycle
+16 Apr 2017 20:45:45 : RooberBoobers, kinkyrubiestalk, Third_Worm#4804, You keep doing it
+16 Apr 2017 20:45:59 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, nip fetish is just nip stimulation, I would think
+16 Apr 2017 20:46:01 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, so much spam
+16 Apr 2017 20:46:11 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, im simply topdrop
+16 Apr 2017 20:46:13 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, lmao
+16 Apr 2017 20:46:34 : RooberBoobers, kinkyrubiestalk, Third_Worm#4804, I'll carass your leg with thee nips
+16 Apr 2017 20:46:53 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, um
+16 Apr 2017 20:46:58 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, ill burn your nipples
+16 Apr 2017 20:47:01 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, im scared
+16 Apr 2017 20:47:19 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, there XD
+16 Apr 2017 20:47:44 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, u m
+16 Apr 2017 20:47:50 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, im trying to fix things
+16 Apr 2017 20:47:54 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, fek
+16 Apr 2017 20:48:17 : RooberBoobers, kinkyrubiestalk, Third_Worm#4804, I'm too spicy to be burned my sweet legirino
+16 Apr 2017 20:48:35 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, we got generation 1 kink roobies, which is us @Kinky Team 1
+16 Apr 2017 20:48:39 : RooberBoobers, kinkyrubiestalk, Third_Worm#4804, Rip I gotta go
+16 Apr 2017 20:48:48 : RooberBoobers, kinkyrubiestalk, Third_Worm#4804, Cya rubirinos
+16 Apr 2017 20:48:50 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, then generation 2 kink roobies which is @Kinky Team 2
+16 Apr 2017 20:48:52 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, baiii
+16 Apr 2017 20:49:07 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, b ye
+16 Apr 2017 20:49:09 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, this is easy to tell so we can fuse with said team XD
+16 Apr 2017 20:49:15 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, *and it sorts us all out*
+16 Apr 2017 20:49:17 : RooberBoobers, kinkyrubiestalk, navy#8336, wha'
+16 Apr 2017 20:49:23 : RooberBoobers, kinkyrubiestalk, navy#8336, o k
+16 Apr 2017 20:49:32 : RooberBoobers, kinkyrubiestalk, navy#8336, but there are only
+16 Apr 2017 20:49:35 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, why the fuck is musickink bigger than us
+16 Apr 2017 20:49:36 : RooberBoobers, kinkyrubiestalk, navy#8336, eight of us
+16 Apr 2017 20:49:49 : RooberBoobers, kinkyrubiestalk, navy#8336, we should be in groups of four first
+16 Apr 2017 20:49:49 : RooberBoobers, kinkyrubiestalk, navy#8336, so
+16 Apr 2017 20:49:51 : RooberBoobers, kinkyrubiestalk, navy#8336, its even
+16 Apr 2017 20:50:03 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, stacey is trying to get discord
+16 Apr 2017 20:50:20 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, wasn't there a 10th roobie?
+16 Apr 2017 20:50:26 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, am confuseeeed XD
+16 Apr 2017 20:50:40 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, i swear i counted 10..
+16 Apr 2017 20:51:41 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, Because you put yourself as a lower member
+16 Apr 2017 20:51:51 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, theres 8 of us right now, stacey is getting discord which is 9
+16 Apr 2017 20:51:59 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, there was someone else
+16 Apr 2017 20:52:12 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, um
+16 Apr 2017 20:52:38 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, You say "um" every other post
+16 Apr 2017 20:52:56 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, lighty seems to say 'um' and lewdie says 'oh'
+16 Apr 2017 20:53:27 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, and i say 'i fuckign love them these lil' dorks'
+16 Apr 2017 20:53:42 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+16 Apr 2017 20:53:46 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, um
+16 Apr 2017 20:53:53 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, i feel so guilty for that spam lmao
+16 Apr 2017 20:53:54 : RooberBoobers, kinkyrubiestalk, navy#8336, um x oh is the ohtp
+16 Apr 2017 20:54:03 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, boi
+16 Apr 2017 20:54:03 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, *biCH WAT*
+16 Apr 2017 20:54:07 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, whippy is our daddy
+16 Apr 2017 20:54:08 : RooberBoobers, kinkyrubiestalk, navy#8336, **i mean**
+16 Apr 2017 20:54:12 : RooberBoobers, kinkyrubiestalk, navy#8336, **coughs hard**
+16 Apr 2017 20:54:15 : RooberBoobers, kinkyrubiestalk, navy#8336, **oh**
+16 Apr 2017 20:54:19 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, **sucks hard**
+16 Apr 2017 20:54:24 : RooberBoobers, kinkyrubiestalk, navy#8336, same
+16 Apr 2017 20:54:29 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, give them the good  s u c c
+16 Apr 2017 20:54:33 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, *that's my job*
+16 Apr 2017 20:54:36 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, but thats dicklicks job XD
+16 Apr 2017 20:54:54 : RooberBoobers, kinkyrubiestalk, navy#8336, wha
+16 Apr 2017 20:55:01 : RooberBoobers, kinkyrubiestalk, navy#8336, i'm taking your job
+16 Apr 2017 20:55:11 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, lewdie x anabea tho
+16 Apr 2017 20:55:12 : RooberBoobers, kinkyrubiestalk, navy#8336, lewdie has sharp vampire teeth
+16 Apr 2017 20:55:15 : LimitlessMc, mainchat, LightBot#4090, Welcome @10_bit_sloth_YT to LimitlessMc!
+16 Apr 2017 20:55:42 : RooberBoobers, kinkyrubiestalk, navy#8336, im gonna post this in her channel b
+16 Apr 2017 20:55:58 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, sobs
+16 Apr 2017 20:56:05 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, sh
+16 Apr 2017 20:56:06 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, its o k
+16 Apr 2017 20:56:08 : RooberBoobers, lewdie, navy#8336, lewdie has sharp vampire teeth and shes into watersports
+16 Apr 2017 20:56:18 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, but mother im scarred
+16 Apr 2017 20:56:21 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, it ok
+16 Apr 2017 20:56:22 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, sh h
+16 Apr 2017 20:56:30 : RooberBoobers, kinkyrubiestalk, navy#8336, **ill ksis you**
+16 Apr 2017 20:56:35 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, o
+16 Apr 2017 20:56:38 : RooberBoobers, kinkyrubiestalk, navy#8336, kiss + isis = ksis
+16 Apr 2017 20:56:38 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, i will
+16 Apr 2017 20:56:39 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, watersports is peeing
+16 Apr 2017 20:56:42 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, light your
+16 Apr 2017 20:56:44 : RooberBoobers, kinkyrubiestalk, navy#8336, yeah
+16 Apr 2017 20:56:45 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, lips
+16 Apr 2017 20:56:45 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, on fire
+16 Apr 2017 20:56:47 : RooberBoobers, kinkyrubiestalk, navy#8336, lmao
+16 Apr 2017 20:56:58 : RooberBoobers, kinkyrubiestalk, navy#8336, it's because her gem is on her. pee--
+16 Apr 2017 20:56:59 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, we got a kin ky love triangle here lmao
+16 Apr 2017 20:57:02 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, *im guessing thats your **personal** kink?*
+16 Apr 2017 20:57:09 : RooberBoobers, kinkyrubiestalk, navy#8336, **no i have a biting kink**
+16 Apr 2017 20:57:17 : RooberBoobers, kinkyrubiestalk, navy#8336, **in blocking you /sarcasm**
+16 Apr 2017 20:57:19 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, **you can have more than one kink irl**
+16 Apr 2017 20:57:28 : RooberBoobers, kinkyrubiestalk, navy#8336, **ya i have**
+16 Apr 2017 20:57:28 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, i m
+16 Apr 2017 20:57:30 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, lighty
+16 Apr 2017 20:57:31 : RooberBoobers, kinkyrubiestalk, navy#8336, ** kink**
+16 Apr 2017 20:57:39 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, um
+16 Apr 2017 20:57:46 : RooberBoobers, kinkyrubiestalk, navy#8336, **i forgot what my other kink was but. piss is gro ss**
+16 Apr 2017 20:58:23 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, shu sh
+16 Apr 2017 20:58:25 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, your a twat
+16 Apr 2017 20:58:44 : RooberBoobers, kinkyrubiestalk, navy#8336, cries
+16 Apr 2017 20:58:53 : RooberBoobers, kinkyrubiestalk, navy#8336, thats not even proper grammar
+16 Apr 2017 20:59:01 : RooberBoobers, kinkyrubiestalk, navy#8336, sobs
+16 Apr 2017 20:59:33 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, **suck my twat **
+16 Apr 2017 20:59:37 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, n o '
+16 Apr 2017 20:59:41 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, imma light your twat on fire
+16 Apr 2017 20:59:52 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, but i am a eternal flame baby
+16 Apr 2017 21:00:01 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, n o
+16 Apr 2017 21:00:06 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, rubies would probably find pleasure from fire? XD
+16 Apr 2017 21:00:13 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, because they are literally fire
+16 Apr 2017 21:00:16 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, o boi
+16 Apr 2017 21:00:19 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, new kin k
+16 Apr 2017 21:00:34 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, how old is stacey
+16 Apr 2017 21:00:40 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, i fucking forgot
+16 Apr 2017 21:00:49 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, 8
+16 Apr 2017 21:01:13 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, i mean
+16 Apr 2017 21:01:18 : RooberBoobers, kinkyrubiestalk, navy#8336, wha
+16 Apr 2017 21:01:21 : RooberBoobers, kinkyrubiestalk, navy#8336, im 6
+16 Apr 2017 21:01:34 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, everyone here is probably too young for such kin k
+16 Apr 2017 21:01:38 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, lmao
+16 Apr 2017 21:01:43 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, im 16 XD
+16 Apr 2017 21:01:49 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, bondi is literally 26 or so
+16 Apr 2017 21:01:56 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, shes the oldest
+16 Apr 2017 21:02:04 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, and shes never on because of some fucking job XD
+16 Apr 2017 21:02:18 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, i have a friend
+16 Apr 2017 21:02:18 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, whos 19
+16 Apr 2017 21:02:20 : RooberBoobers, kinkyrubiestalk, navy#8336, rubies are made with stimulants in their necks accessible by b**iting them like a vampire. i barely know what a hickey is**
+16 Apr 2017 21:02:21 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, and is a bitch
+16 Apr 2017 21:02:23 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, and has no job
+16 Apr 2017 21:02:48 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, i've never given a hickey, but i'll be sure to send lots of photos of them after i meet my gf XD
+16 Apr 2017 21:03:01 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, *damn*
+16 Apr 2017 21:03:06 : RooberBoobers, kinkyrubiestalk, navy#8336, oh shit
+16 Apr 2017 21:03:08 : RooberBoobers, kinkyrubiestalk, navy#8336, um
+16 Apr 2017 21:03:09 : RooberBoobers, kinkyrubiestalk, navy#8336, i
+16 Apr 2017 21:03:14 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, lmao
+16 Apr 2017 21:03:15 : RooberBoobers, kinkyrubiestalk, navy#8336, i haeve thsi th
+16 Apr 2017 21:03:17 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, now im gonna hide in my house
+16 Apr 2017 21:03:24 : RooberBoobers, kinkyrubiestalk, navy#8336, i hav
+16 Apr 2017 21:03:34 : RooberBoobers, kinkyrubiestalk, navy#8336, ~~crippling depression~~
+16 Apr 2017 21:03:37 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, look at all of our red profile pictures, now everyone look at dicklick
+16 Apr 2017 21:03:45 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, h e y
+16 Apr 2017 21:03:53 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, it's ho t
+16 Apr 2017 21:03:59 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, grent always is
+16 Apr 2017 21:04:04 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, *one of us, one of us, **ONE OF US** *
+16 Apr 2017 21:04:12 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, *NO*
+16 Apr 2017 21:04:24 : RooberBoobers, kinkyrubiestalk, navy#8336, im not attracted to irl people sexually and irl gore is. scary
+16 Apr 2017 21:04:25 : RooberBoobers, kinkyrubiestalk, navy#8336, but id totally fuc k a ruby and draw her guts everywhere
+16 Apr 2017 21:04:28 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, this entire chat was dead, added a few more people and its a shitstorm
+16 Apr 2017 21:04:35 : RooberBoobers, kinkyrubiestalk, navy#8336, i dont really want the   hicke y pics
+16 Apr 2017 21:04:48 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, irl gore is.... weird?
+16 Apr 2017 21:04:57 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, *gives the hicke y*
+16 Apr 2017 21:05:03 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, i wont want
+16 Apr 2017 21:05:03 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, *bitch*
+16 Apr 2017 21:05:04 : RooberBoobers, kinkyrubiestalk, navy#8336, moans
+16 Apr 2017 21:05:04 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, an y th i n g
+16 Apr 2017 21:05:16 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, hickeys hurt btw
+16 Apr 2017 21:05:22 : RooberBoobers, kinkyrubiestalk, navy#8336, i knw o
+16 Apr 2017 21:05:25 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, um
+16 Apr 2017 21:05:26 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, no th ank s
+16 Apr 2017 21:05:27 : RooberBoobers, kinkyrubiestalk, navy#8336, ok time to
+16 Apr 2017 21:05:31 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, basically biting and sucking VERY hard on your flesh till its purpleish red
+16 Apr 2017 21:05:32 : RooberBoobers, kinkyrubiestalk, navy#8336, upload a hickey drawing
+16 Apr 2017 21:06:06 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, u,m
+16 Apr 2017 21:06:08 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, n o
+16 Apr 2017 21:06:30 : RooberBoobers, kinkyruby_drawings, navy#8336, 
+16 Apr 2017 21:06:36 : RooberBoobers, kinkyruby_drawings, navy#8336, @ everyone
+16 Apr 2017 21:06:45 : RooberBoobers, kinkyrubiestalk, navy#8336, i
+16 Apr 2017 21:06:47 : RooberBoobers, kinkyrubiestalk, navy#8336, have
+16 Apr 2017 21:06:48 : RooberBoobers, kinkyrubiestalk, navy#8336, gay
+16 Apr 2017 21:06:52 : RooberBoobers, kinkyruby_drawings, TopDroppy#6475, um
+16 Apr 2017 21:06:54 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, o deer, that might be ruby x sapphire? XD
+16 Apr 2017 21:06:54 : RooberBoobers, kinkyruby_drawings, TopDroppy#6475, no thank
+16 Apr 2017 21:06:59 : RooberBoobers, kinkyruby_drawings, TopDroppy#6475, lighty doesnt want a hik
+16 Apr 2017 21:07:13 : RooberBoobers, kinkyruby_drawings, navy#8336, it,s from
+16 Apr 2017 21:07:23 : RooberBoobers, kinkyruby_drawings, navy#8336, an rupphire roleplay
+16 Apr 2017 21:07:24 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, btw, dont comment on anything besides RP this chat and MUsic
+16 Apr 2017 21:07:34 : RooberBoobers, kinkyrubiestalk, navy#8336, wha
+16 Apr 2017 21:07:47 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, and your named chatrooms XD
+16 Apr 2017 21:07:52 : RooberBoobers, kinkyrubiestalk, navy#8336, ok
+16 Apr 2017 21:07:53 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, i dont have
+16 Apr 2017 21:07:56 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, a named chatroom
+16 Apr 2017 21:07:59 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, bich
+16 Apr 2017 21:08:02 : RooberBoobers, kinkyrubiestalk, navy#8336, lmao
+16 Apr 2017 21:08:09 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, im making one hold on, its for drawings/info on your kink roobie
+16 Apr 2017 21:08:46 : RooberBoobers, light, TopDroppy#6475, "silence "
+16 Apr 2017 21:08:48 : RooberBoobers, light, TopDroppy#6475, "i kill "
+16 Apr 2017 21:09:22 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, 
+16 Apr 2017 21:09:23 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, 2stronk
+16 Apr 2017 21:09:59 : RooberBoobers, kinkyrubiestalk, navy#8336, oh fuck im ga y
+16 Apr 2017 21:10:21 : RooberBoobers, kinkyrubiestalk, navy#8336, **insi de  me**
+16 Apr 2017 21:10:25 : RooberBoobers, kinkyrubiestalk, navy#8336, ** now**
+16 Apr 2017 21:10:25 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, im waiting for the day SU to do a episode of ruby and sapphire, and ruby gets so mad she starts breathing fire everywhere like a dragon XD
+16 Apr 2017 21:11:05 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, this makes me so VERY uncomfortable
+16 Apr 2017 21:11:19 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, um
+16 Apr 2017 21:11:20 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, dont even
+16 Apr 2017 21:11:36 : RooberBoobers, kinkyrubiestalk, navy#8336, oh theyre cute
+16 Apr 2017 21:12:04 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, 
+16 Apr 2017 21:12:59 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, 
+16 Apr 2017 21:13:02 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, rape at its finest
+16 Apr 2017 21:13:10 : RooberBoobers, kinkyrubiestalk, navy#8336, why
+16 Apr 2017 21:13:15 : RooberBoobers, kinkyrubiestalk, navy#8336, **oh**
+16 Apr 2017 21:13:22 : RooberBoobers, kinkyrubiestalk, navy#8336, **legy dont make those jokes here**
+16 Apr 2017 21:13:29 : RooberBoobers, kinkyrubiestalk, navy#8336, **it,s bad**
+16 Apr 2017 21:13:31 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, @Lewdie earlier when you said inflation ruby, i found it
+16 Apr 2017 21:13:32 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, cries
+16 Apr 2017 21:13:36 : RooberBoobers, kinkyrubiestalk, navy#8336, oh hot
+16 Apr 2017 21:13:48 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, its a fusion XD idk what happened
+16 Apr 2017 21:13:54 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, 
+16 Apr 2017 21:13:54 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, i think this is a DBZ meme
+16 Apr 2017 21:14:01 : RooberBoobers, kinkyrubiestalk, navy#8336, oh yeah i saw that
+16 Apr 2017 21:14:05 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, um
+16 Apr 2017 21:14:24 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, 
+16 Apr 2017 21:15:43 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+16 Apr 2017 21:16:08 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, us to @Whippy basically
+16 Apr 2017 21:16:09 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, **all hail Whippy**
+16 Apr 2017 21:17:12 : RooberBoobers, kinkyrubiestalk, navy#8336, ~~im doc~~
+16 Apr 2017 21:17:15 : RooberBoobers, kinkyrubiestalk, navy#8336, im nav
+16 Apr 2017 21:17:37 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, i like eyeball tbh XD
+16 Apr 2017 21:17:44 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, 
+16 Apr 2017 21:17:45 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, SMOL CHILD
+16 Apr 2017 21:18:02 : RooberBoobers, kinkyrubiestalk, navy#8336, 
+16 Apr 2017 21:18:02 : RooberBoobers, kinkyrubiestalk, navy#8336, but navy,,,,,
+16 Apr 2017 21:18:41 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, we got the psychopath navy, and the war veteran eyeball
+16 Apr 2017 21:19:09 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, 
+16 Apr 2017 21:19:19 : RooberBoobers, kinkyrubiestalk, navy#8336, **navy is justified**
+16 Apr 2017 21:19:25 : RooberBoobers, kinkyrubiestalk, navy#8336, **she did nothing wrong**
+16 Apr 2017 21:19:32 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, i can
+16 Apr 2017 21:19:34 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, fucking brai-
+16 Apr 2017 21:19:35 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, oh
+16 Apr 2017 21:20:06 : RooberBoobers, kinkyrubiestalk, navy#8336, ye
+16 Apr 2017 21:20:25 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, 
+16 Apr 2017 21:21:08 : RooberBoobers, kinkyruby_drawings, navy#8336, 
+16 Apr 2017 21:21:46 : RooberBoobers, kinkyrubiestalk, navy#8336, whyd you delete navy
+16 Apr 2017 21:22:02 : RooberBoobers, kinkyruby_drawings, navy#8336, 
+16 Apr 2017 21:22:15 : LimitlessMc, botchat, Bakafish#8693, ;train
+16 Apr 2017 21:22:15 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 21:22:15 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 21:22:16 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, 
+16 Apr 2017 21:22:49 : RooberBoobers, kinkyrubiestalk, navy#8336, **binch**
+16 Apr 2017 21:22:52 : RooberBoobers, kinkyrubiestalk, navy#8336, **answer me**
+16 Apr 2017 21:22:57 : RooberBoobers, kinkyrubiestalk, navy#8336, **why,d you deleting**
+16 Apr 2017 21:23:20 : RooberBoobers, kinkyrubiestalk, navy#8336, sobs uncontrollably im anxie
+16 Apr 2017 21:23:20 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, *because not drawing XD*
+16 Apr 2017 21:23:28 : RooberBoobers, kinkyrubiestalk, navy#8336, b,ut i made it
+16 Apr 2017 21:23:35 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, *drawingggggg*
+16 Apr 2017 21:23:43 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, am kinking right now
+16 Apr 2017 21:24:31 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, 
+16 Apr 2017 21:26:41 : RooberBoobers, kinkyroleplay, navy#8336, 
+16 Apr 2017 21:26:47 : RooberBoobers, kinkyroleplay, navy#8336, rnjcgrke
+16 Apr 2017 21:27:12 : Pokemon Mystery Dungeon, general, Bakafish#8693, rip
+16 Apr 2017 21:29:55 : RooberBoobers, kinkyroleplay, DicloniusPony#6564, @Lighty o lordy XD
+16 Apr 2017 21:30:09 : RooberBoobers, kinkyroleplay, TopDroppy#6475, um
+16 Apr 2017 21:30:16 : RooberBoobers, kinkyroleplay, DicloniusPony#6564, i can tell thats lighty XD 1. knows lewdie. 2. roleplays 24/7
+16 Apr 2017 21:30:20 : RooberBoobers, kinkyroleplay, navy#8336, it's not
+16 Apr 2017 21:30:27 : RooberBoobers, kinkyroleplay, navy#8336, jirefdncjs
+16 Apr 2017 21:30:29 : RooberBoobers, kinkyroleplay, DicloniusPony#6564, *sure sure*
+16 Apr 2017 21:30:37 : RooberBoobers, kinkyroleplay, TopDroppy#6475, its
+16 Apr 2017 21:30:40 : RooberBoobers, kinkyroleplay, navy#8336, it,s a person from tunglr
+16 Apr 2017 21:30:41 : RooberBoobers, kinkyroleplay, TopDroppy#6475, not m e
+16 Apr 2017 21:30:41 : RooberBoobers, kinkyroleplay, DicloniusPony#6564, this is lewd chat anyway, idc
+16 Apr 2017 21:31:02 : RooberBoobers, kinkyroleplay, DicloniusPony#6564, do whatever the fuckle you want with your roleplay XD
+16 Apr 2017 21:31:10 : RooberBoobers, kinkyroleplay, TopDroppy#6475, y ou rj eal ou s
+16 Apr 2017 21:31:22 : RooberBoobers, kinkyroleplay, DicloniusPony#6564, *i've done kinkier rp's btw, git gud*
+16 Apr 2017 21:31:28 : RooberBoobers, kinkyroleplay, TopDroppy#6475, same
+16 Apr 2017 21:31:32 : RooberBoobers, kinkyroleplay, TopDroppy#6475, lm ao
+16 Apr 2017 21:31:50 : RooberBoobers, kinkyroleplay, DicloniusPony#6564, think of a 5 paragraph rp 24/7 and its completely literate and it has a LOt of detail
+16 Apr 2017 21:31:59 : RooberBoobers, kinkyroleplay, DicloniusPony#6564, thats how i used to rp XD i dont rp anymore
+16 Apr 2017 21:32:05 : RooberBoobers, kinkyroleplay, navy#8336, wha
+16 Apr 2017 21:32:26 : RooberBoobers, kinkyroleplay, navy#8336, i m
+16 Apr 2017 21:32:29 : RooberBoobers, kinkyroleplay, navy#8336, i wan na di e
+16 Apr 2017 21:32:31 : RooberBoobers, kinkyroleplay, navy#8336, aa a
+16 Apr 2017 21:32:37 : RooberBoobers, kinkyroleplay, DicloniusPony#6564, lemme show a example of how i rped XD
+16 Apr 2017 21:32:54 : RooberBoobers, kinkyroleplay, navy#8336, im gonna
+16 Apr 2017 21:32:59 : RooberBoobers, kinkyroleplay, navy#8336, hide in a corner
+16 Apr 2017 21:34:30 : RooberBoobers, kinkyrubiestalk, navy#8336, **bae**
+16 Apr 2017 21:34:37 : RooberBoobers, kinkyrubiestalk, navy#8336, **bae hug me**
+16 Apr 2017 21:34:39 : RooberBoobers, kinkyroleplay, DicloniusPony#6564, Rocking her hips back and forth, pressing in the faintly large strapon, the small girl moaned loudly gasping for air "w-wait, not so hard!" Shino moaned but couldn't stop drooling
+16 Apr 2017 21:34:41 : RooberBoobers, kinkyroleplay, DicloniusPony#6564, i gotta go XD
+16 Apr 2017 21:34:50 : RooberBoobers, kinkyroleplay, TopDroppy#6475, hot
+16 Apr 2017 21:34:52 : RooberBoobers, kinkyroleplay, TopDroppy#6475, I rp
+16 Apr 2017 21:34:53 : RooberBoobers, kinkyrubiestalk, navy#8336, **b ae. someone hurt me by accident they didnt mean to**
+16 Apr 2017 21:34:54 : RooberBoobers, kinkyroleplay, TopDroppy#6475, d e c e n t
+16 Apr 2017 21:34:55 : RooberBoobers, kinkyroleplay, TopDroppy#6475, i s h
+16 Apr 2017 21:35:09 : RooberBoobers, kinkyroleplay, navy#8336, shino
+16 Apr 2017 21:35:11 : RooberBoobers, kinkyroleplay, navy#8336, wtf
+16 Apr 2017 21:35:12 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, wa
+16 Apr 2017 21:35:39 : RooberBoobers, kinkyroleplay, TopDroppy#6475, ew
+16 Apr 2017 21:35:41 : RooberBoobers, kinkyroleplay, TopDroppy#6475, ana dont rp anymore
+16 Apr 2017 21:35:45 : RooberBoobers, kinkyroleplay, TopDroppy#6475, ana needs some milk
+16 Apr 2017 21:35:54 : RooberBoobers, kinkyrubiestalk, navy#8336, **bae im  depressed an d anxieotus**
+16 Apr 2017 21:36:00 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, w a
+16 Apr 2017 21:36:09 : LimitlessMc, mainchat, 10_bit_sloth_YT#8480, thanks bot
+16 Apr 2017 21:36:14 : RooberBoobers, kinkyrubiestalk, navy#8336, no matter how hard i try i cant spell anxious/anxiety
+16 Apr 2017 21:36:21 : LimitlessMc, mainchat, Lightning#6734, goodgirl lightbot c:
+16 Apr 2017 21:36:23 : RooberBoobers, kinkyrubiestalk, navy#8336, **baeb stop bee movie hug me**
+16 Apr 2017 21:36:32 : LimitlessMc, mainchat, 10_bit_sloth_YT#8480, lel
+16 Apr 2017 21:37:12 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, um
+16 Apr 2017 21:37:15 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, wh os bae
+16 Apr 2017 21:37:18 : LimitlessMc, mainchat, 10_bit_sloth_YT#8480, i didnt know u could do that with bots n stuff
+16 Apr 2017 21:37:40 : RooberBoobers, kinkyroleplay, navy#8336, whomst is ana
+16 Apr 2017 21:37:50 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, u m
+16 Apr 2017 21:37:50 : RooberBoobers, kinkyrubiestalk, navy#8336, dick van lick is m gf
+16 Apr 2017 21:37:51 : LimitlessMc, mainchat, Lightning#6734, yea
+16 Apr 2017 21:38:00 : RooberBoobers, kinkyrubiestalk, navy#8336, she pasted the entire bee movie script
+16 Apr 2017 21:38:09 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, thats my job
+16 Apr 2017 21:38:14 : LimitlessMc, mainchat, 10_bit_sloth_YT#8480, cn i call u real quick
+16 Apr 2017 21:38:29 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+16 Apr 2017 21:38:30 : LimitlessMc, mainchat, Lightning#6734, eh i suppose? i usually don't take calls but sure
+16 Apr 2017 21:38:38 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, thANK THE LORD
+16 Apr 2017 21:38:42 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, I SPENT
+16 Apr 2017 21:38:47 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, 20 FUCKING MINTUES
+16 Apr 2017 21:39:00 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, TRYING TO DELETE THAT FUCKIGN SCRIPT
+16 Apr 2017 21:39:14 : RooberBoobers, kinkyruby_drawings, TopDroppy#6475, 
+16 Apr 2017 21:39:15 : RooberBoobers, kinkyrubiestalk, navy#8336, ok
+16 Apr 2017 21:39:17 : RooberBoobers, kinkyrubiestalk, navy#8336, imdead
+16 Apr 2017 21:39:22 : RooberBoobers, kinkyruby_drawings, navy#8336, same
+16 Apr 2017 21:39:24 : RooberBoobers, kinkyruby_drawings, TopDroppy#6475, um
+16 Apr 2017 21:39:35 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, YOU
+16 Apr 2017 21:39:39 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, GET YOUR ASS HERE
+16 Apr 2017 21:39:41 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, YOURE
+16 Apr 2017 21:39:49 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, GETTING A FUCKING CUDDLE
+16 Apr 2017 21:39:56 : RooberBoobers, kinkyroleplay, TopDroppy#6475, lm ao
+16 Apr 2017 21:40:05 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, hides
+16 Apr 2017 21:40:25 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+16 Apr 2017 21:40:49 : RooberBoobers, kinkyrubiestalk, navy#8336, th.e person that hurt me is dead now
+16 Apr 2017 21:40:51 : RooberBoobers, kinkyrubiestalk, navy#8336, jus like me
+16 Apr 2017 21:41:15 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, IM SORR IM JUST
+16 Apr 2017 21:41:18 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, SO HAPP
+16 Apr 2017 21:42:34 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, IM SOB
+16 Apr 2017 21:43:05 : RooberBoobers, kinkyrubiestalk, navy#8336, wha
+16 Apr 2017 21:43:08 : RooberBoobers, kinkyrubiestalk, navy#8336, ok
+16 Apr 2017 21:43:10 : RooberBoobers, kinkyrubiestalk, navy#8336, aaaaaa
+16 Apr 2017 21:43:19 : RooberBoobers, kinkyrubiestalk, navy#8336, im Hit by the depression
+16 Apr 2017 21:43:23 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, um
+16 Apr 2017 21:43:28 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, 
+16 Apr 2017 21:43:53 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, im hug you
+16 Apr 2017 21:44:32 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, you saved me 1h 35m of h e l l
+16 Apr 2017 21:44:38 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, o h
+16 Apr 2017 21:44:57 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, u m
+16 Apr 2017 21:45:21 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, well i just can't stop thinkin'
+16 Apr 2017 21:46:03 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+16 Apr 2017 21:46:05 : RooberBoobers, kinkyrubiestalk, navy#8336, um
+16 Apr 2017 21:46:10 : RooberBoobers, kinkyrubiestalk, navy#8336, did
+16 Apr 2017 21:46:11 : RooberBoobers, kinkyrubiestalk, navy#8336, you say
+16 Apr 2017 21:46:14 : RooberBoobers, kinkyrubiestalk, navy#8336, i was difer
+16 Apr 2017 21:46:16 : RooberBoobers, kinkyrubiestalk, navy#8336, en
+16 Apr 2017 21:46:31 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, so you
+16 Apr 2017 21:46:36 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, havent before
+16 Apr 2017 21:46:44 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, is eat crackers
+16 Apr 2017 21:46:51 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, wat lmao
+16 Apr 2017 21:47:02 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, cracks
+16 Apr 2017 21:47:04 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, crack ers
+16 Apr 2017 21:47:21 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, 
+16 Apr 2017 21:47:42 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, o h
+16 Apr 2017 21:47:45 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, y e s
+16 Apr 2017 21:48:03 : RooberBoobers, kinkyrubiestalk, navy#8336, **of horse knot**
+16 Apr 2017 21:48:07 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, *sticks m leggy out relly far
+16 Apr 2017 21:48:09 : RooberBoobers, kinkyrubiestalk, navy#8336, when wood eye have ever
+16 Apr 2017 21:48:14 : RooberBoobers, kinkyrubiestalk, navy#8336, relly
+16 Apr 2017 21:48:16 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, im so sorr
+16 Apr 2017 21:48:18 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, sticks m legy out real far
+16 Apr 2017 21:48:20 : RooberBoobers, kinkyrubiestalk, navy#8336, **no**
+16 Apr 2017 21:48:21 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, has bigges leggy
+16 Apr 2017 21:48:23 : RooberBoobers, kinkyrubiestalk, navy#8336, **no**
+16 Apr 2017 21:48:28 : RooberBoobers, kinkyrubiestalk, navy#8336, **don t b e**
+16 Apr 2017 21:48:36 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, and now
+16 Apr 2017 21:48:38 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, ur here
+16 Apr 2017 21:48:42 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, 4EVER
+16 Apr 2017 21:50:00 : LimitlessMc, botchat, 10_bit_sloth_YT#8480, ;train
+16 Apr 2017 21:52:27 : RooberBoobers, kinkyrubiestalk, navy#8336, tfw when
+16 Apr 2017 21:52:43 : RooberBoobers, kinkyrubiestalk, navy#8336, **sobs uncontrollably**
+16 Apr 2017 21:52:49 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, wh a
+16 Apr 2017 21:53:32 : RooberBoobers, kinkyrubiestalk, navy#8336, **mom i have an booboo**
+16 Apr 2017 21:53:48 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, *who do i have to murder*
+16 Apr 2017 21:54:25 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;train
+16 Apr 2017 21:54:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 21:54:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 21:54:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 21:55:57 : RooberBoobers, kinkyrubiestalk, navy#8336, **your frien who you probbaly knew before me**
+16 Apr 2017 21:56:12 : RooberBoobers, kinkyrubiestalk, navy#8336, **theyve scarred me mentally im dead**
+16 Apr 2017 21:56:26 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, wh o
+16 Apr 2017 21:56:29 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, hides
+16 Apr 2017 21:57:08 : RooberBoobers, kinkyrubiestalk, navy#8336, **well th ey might get hurt becauseof the fact that im hurt**
+16 Apr 2017 21:57:13 : RooberBoobers, kinkyrubiestalk, navy#8336, **a**
+16 Apr 2017 21:57:19 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, u mk
+16 Apr 2017 21:57:22 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, who
+16 Apr 2017 21:57:23 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, *tell your mother*
+16 Apr 2017 21:57:31 : RooberBoobers, kinkyrubiestalk, navy#8336, you **are** my mother
+16 Apr 2017 21:57:34 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, **tell your mother**
+16 Apr 2017 21:57:39 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, i know
+16 Apr 2017 21:57:41 : RooberBoobers, kinkyrubiestalk, navy#8336, **youre my mom**
+16 Apr 2017 21:57:43 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+16 Apr 2017 21:57:54 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, **tell me son**
+16 Apr 2017 21:58:19 : RooberBoobers, kinkyrubiestalk, navy#8336, angle
+16 Apr 2017 21:58:23 : RooberBoobers, kinkyrubiestalk, navy#8336, ninety degrees
+16 Apr 2017 21:58:29 : RooberBoobers, kinkyrubiestalk, navy#8336, painful
+16 Apr 2017 21:58:31 : RooberBoobers, kinkyrubiestalk, navy#8336, sharp
+16 Apr 2017 21:58:32 : RooberBoobers, kinkyrubiestalk, navy#8336, ow
+16 Apr 2017 21:58:39 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, do you
+16 Apr 2017 21:58:39 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, **WHO**
+16 Apr 2017 21:58:43 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, **want some fries with that**
+16 Apr 2017 21:58:48 : RooberBoobers, kinkyrubiestalk, navy#8336, **i said**
+16 Apr 2017 21:58:52 : RooberBoobers, kinkyrubiestalk, navy#8336, **it was angle**
+16 Apr 2017 21:59:03 : RooberBoobers, kinkyrubiestalk, navy#8336, yes i want fries im hunger
+16 Apr 2017 21:59:06 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, ' ok
+16 Apr 2017 21:59:17 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, how did she hurt you
+16 Apr 2017 21:59:19 : RooberBoobers, kinkyrubiestalk, navy#8336, brb im gonna
+16 Apr 2017 21:59:20 : RooberBoobers, kinkyrubiestalk, navy#8336, get a food
+16 Apr 2017 21:59:29 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, " th ats my gi rl "
+16 Apr 2017 22:00:11 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, **how did shy hurt my babe**
+16 Apr 2017 22:00:14 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, she
+16 Apr 2017 22:00:18 : RooberBoobers, kinkyrubiestalk, navy#8336, syhy
+16 Apr 2017 22:00:31 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, i need
+16 Apr 2017 22:00:35 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, the answer
+16 Apr 2017 22:00:50 : RooberBoobers, kinkyrubiestalk, navy#8336, in #kinkyroleplay i posted a screenshot of a roleplay thing
+16 Apr 2017 22:01:00 : RooberBoobers, kinkyrubiestalk, navy#8336, a nd she said it was a roleplay with leggy
+16 Apr 2017 22:01:05 : RooberBoobers, kinkyrubiestalk, navy#8336, but it w,asnt
+16 Apr 2017 22:01:11 : RooberBoobers, kinkyrubiestalk, navy#8336, and i cried
+16 Apr 2017 22:02:11 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, **...**
+16 Apr 2017 22:02:18 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, **. . .**
+16 Apr 2017 22:02:49 : RooberBoobers, kinkyrubiestalk, navy#8336, d,ont hurt me
+16 Apr 2017 22:02:51 : RooberBoobers, kinkyrubiestalk, navy#8336, im soft
+16 Apr 2017 22:02:54 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, **i was stuck with the bee movie script**
+16 Apr 2017 22:02:58 : RooberBoobers, kinkyrubiestalk, navy#8336, **a**
+16 Apr 2017 22:03:03 : RooberBoobers, kinkyrubiestalk, navy#8336, **im cry**
+16 Apr 2017 22:03:08 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, **hugs**
+16 Apr 2017 22:03:08 : RooberBoobers, kinkyrubiestalk, navy#8336, **what did i doe**
+16 Apr 2017 22:03:14 : RooberBoobers, kinkyrubiestalk, navy#8336, hugs bac k
+16 Apr 2017 22:03:16 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, **im still in pain from that**
+16 Apr 2017 22:03:36 : RooberBoobers, kinkyrubiestalk, navy#8336, **did i make you angre im sor ry**
+16 Apr 2017 22:03:47 : RooberBoobers, kinkyrubiestalk, navy#8336, **aa**
+16 Apr 2017 22:03:55 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, **is slep**
+16 Apr 2017 22:04:02 : RooberBoobers, kinkyrubiestalk, navy#8336, **is daed**
+16 Apr 2017 22:04:14 : RooberBoobers, kinkyrubiestalk, navy#8336, **im jstur**
+16 Apr 2017 22:04:17 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, 
+16 Apr 2017 22:04:19 : RooberBoobers, kinkyrubiestalk, navy#8336, **gonna die**
+16 Apr 2017 22:04:28 : RooberBoobers, kinkyrubiestalk, navy#8336, ***are you anger at me**
+16 Apr 2017 22:04:33 : RooberBoobers, kinkyrubiestalk, navy#8336, im s ory ry
+16 Apr 2017 22:04:52 : RooberBoobers, kinkyrubiestalk, navy#8336, **i need break im gonna kms**
+16 Apr 2017 22:05:03 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, im not angre
+16 Apr 2017 22:05:03 : RooberBoobers, kinkyrubiestalk, navy#8336, **zz**
+16 Apr 2017 22:05:07 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, **z**
+16 Apr 2017 22:05:39 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, hav sum memes my child
+16 Apr 2017 22:05:46 : RooberBoobers, kinkyrubiestalk, navy#8336, 
+16 Apr 2017 22:05:48 : RooberBoobers, kinkyrubiestalk, navy#8336, rainbow
+16 Apr 2017 22:05:50 : RooberBoobers, kinkyrubiestalk, navy#8336, um
+16 Apr 2017 22:06:05 : RooberBoobers, kinkyrubiestalk, navy#8336, b ae can i tell you a hting becuase
+16 Apr 2017 22:06:06 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, u m
+16 Apr 2017 22:06:11 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, you were offline im sorr
+16 Apr 2017 22:06:15 : RooberBoobers, kinkyrubiestalk, navy#8336, i wanna dying
+16 Apr 2017 22:06:32 : RooberBoobers, kinkyrubiestalk, navy#8336, i have a button that makes it look like im offline when im not
+16 Apr 2017 22:06:37 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, sa m e
+16 Apr 2017 22:07:05 : LimitlessMc, mainchat, 10_bit_sloth_YT#8480, anybody on NOT busy that will go on the server?
+16 Apr 2017 22:07:19 : LimitlessMc, mainchat, Sunstrikeh#8034, What do you need?
+16 Apr 2017 22:07:19 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, what do you want to tell me mon chéri
+16 Apr 2017 22:07:27 : RooberBoobers, kinkyrubiestalk, navy#8336, im sending you nudes
+16 Apr 2017 22:07:40 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, i only accept no ot s
+16 Apr 2017 22:07:55 : LimitlessMc, mainchat, 10_bit_sloth_YT#8480, ill msg u
+16 Apr 2017 22:08:00 : RooberBoobers, kinkyrubiestalk, navy#8336, c.heck facebok
+16 Apr 2017 22:08:13 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, grunts
+16 Apr 2017 22:08:19 : RooberBoobers, kinkyrubiestalk, navy#8336, im gay
+16 Apr 2017 22:08:24 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, sa m e
+16 Apr 2017 22:08:50 : RooberBoobers, kinkyrubiestalk, navy#8336, @Dick Van Lick i sent you 58748 mesage
+16 Apr 2017 22:10:00 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, o boi
+16 Apr 2017 22:11:40 : RooberBoobers, kinkyrubiestalk, navy#8336, im dead'
+16 Apr 2017 22:11:55 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, wh y son
+16 Apr 2017 22:12:01 : RooberBoobers, kinkyrubiestalk, navy#8336, id k
+16 Apr 2017 22:12:09 : RooberBoobers, kinkyrubiestalk, navy#8336, time f
+16 Apr 2017 22:13:49 : RooberBoobers, kinkyrubiestalk, navy#8336, 
+16 Apr 2017 22:14:03 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, o  h
+16 Apr 2017 22:14:06 : RooberBoobers, kinkyrubiestalk, navy#8336, i hav e cr i **pplng depression**
+16 Apr 2017 22:14:47 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, i want to see a clock and a candle fucc
+16 Apr 2017 22:14:55 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, wa it
+16 Apr 2017 22:15:01 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, foreboden
+16 Apr 2017 22:15:01 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, wrong thread
+16 Apr 2017 22:15:15 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, n o please
+16 Apr 2017 22:15:21 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, mu kin k must live on
+16 Apr 2017 22:16:33 : RooberBoobers, kinkyrubiestalk, navy#8336, oh lmao
+16 Apr 2017 22:17:53 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, its an obsession honestly lmao
+16 Apr 2017 22:23:01 : RooberBoobers, kinkyrubiestalk, navy#8336, whip me daddy
+16 Apr 2017 22:23:59 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, I'm in the car of my mother, I eat grilled cheese, I'm gay for that
+16 Apr 2017 22:25:04 : RooberBoobers, kinkyrubiestalk, navy#8336, smh google translate
+16 Apr 2017 22:25:55 : RooberBoobers, kinkyrubiestalk, navy#8336, messing up all my translations
+16 Apr 2017 22:26:24 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, what was it meant to say lmao
+16 Apr 2017 22:26:34 : RooberBoobers, kinkyrubiestalk, navy#8336, 👀
+16 Apr 2017 22:26:56 : RooberBoobers, kinkyrubiestalk, navy#8336, why'd you actually put it in google translate lmao
+16 Apr 2017 22:27:08 : RooberBoobers, kinkyrubiestalk, navy#8336, i put the fake translation at the bottom for you smh
+16 Apr 2017 22:27:19 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, because i saw  fromage grillé
+16 Apr 2017 22:27:27 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, i know some french lmao
+16 Apr 2017 22:27:33 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, thank you lumiere
+16 Apr 2017 22:31:41 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, has breath problem
+16 Apr 2017 22:31:50 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, J'aime le fromage suisse
+16 Apr 2017 22:32:59 : RooberBoobers, kinkyrubiestalk, navy#8336, je suis gay
+16 Apr 2017 22:33:58 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, Mən Swiss pendir kimi
+16 Apr 2017 22:39:57 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, Hey there copain chum pal ami copain ami chum bud ami fella bruther amigo pal copain ami chummy chum chum pal je ne veux pas être grossier mon ami ami maison tranche tranches de pain dawg mais je dois vous avertir si tu prends un pas plus diddly darn Juste là-bas, je vais devoir effrayer le snap ur neck et wowza ne serait-ce pas une jonction crummy, hein? veux-tu çà? Est-ce que vous souhaitez sur vous de vivre une expérience physique avec une jonction crasseuse? Parce que mon ami mon ami chum pum pally pal chum friend si tu le gardes bien, alors je ne peux pas avoir trop amical avec u mon amie ami ami mon ami mon ami chum pally friend chum buddy ...
+16 Apr 2017 22:40:05 : RooberBoobers, kinkyrubiestalk, navy#8336, **no**
+16 Apr 2017 22:41:20 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, Hey there buddy chum pal friend buddy friend chum bud friend fella bruther amigo pal boyfriend friend chummy chum pal pal I do not want to be rude my friend house slice slices of bread dawg but I have to warn you if you take a step more diddly darn Just Out there, I'll have to scare the snap ur neck and wowza would not it be a crummy junction, huh? Would you like that? Do you want to experience a physical experience with a filthy junction? Because my friend my friend chum pum pally pal chum friend if you guard it well then i can not have too friendly with u my friend friend friend my friend my friend chum pally friend chum buddy ...
+16 Apr 2017 22:41:23 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, do you think rubies lust after quartez because they're so thicc and strong
+16 Apr 2017 22:41:55 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, 👌
+16 Apr 2017 22:42:02 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, they thicc
+16 Apr 2017 22:46:21 : RooberBoobers, kinkyrubiestalk, navy#8336, yes
+16 Apr 2017 22:46:22 : RooberBoobers, kinkyrubiestalk, navy#8336, they do
+16 Apr 2017 22:46:24 : RooberBoobers, kinkyrubiestalk, navy#8336, it,s canon
+16 Apr 2017 22:46:36 : RooberBoobers, kinkyrubiestalk, navy#8336, 
+16 Apr 2017 22:46:38 : RooberBoobers, kinkyrubiestalk, navy#8336, bitch-
+16 Apr 2017 22:46:38 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, o h
+16 Apr 2017 22:47:24 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, iM SORRY
+16 Apr 2017 22:47:37 : RooberBoobers, kinkyrubiestalk, navy#8336, what
+16 Apr 2017 22:47:37 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, BUT MAY I KINDLY DRAW YOUR ATTENTION
+16 Apr 2017 22:47:40 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, TO THIS
+16 Apr 2017 22:47:46 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, 
+16 Apr 2017 22:48:16 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, **lets get waxy**
+16 Apr 2017 22:48:34 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, . . .
+16 Apr 2017 22:48:35 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+16 Apr 2017 22:48:52 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, **i don't know either**
+16 Apr 2017 22:48:53 : RooberBoobers, kinkyrubiestalk, navy#8336, **you got eggplanted™**
+16 Apr 2017 22:49:31 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, sson stop
+16 Apr 2017 22:49:40 : RooberBoobers, kinkyrubiestalk, navy#8336, **i cant handle it**
+16 Apr 2017 22:49:41 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, your doin him a frighten
+16 Apr 2017 22:49:48 : RooberBoobers, kinkyrubiestalk, navy#8336, **im gona frightenign**
+16 Apr 2017 22:49:55 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, **n o**
+16 Apr 2017 22:50:07 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, "Yo i totally wanna fuck that amethyst over there, what about you"
+"Fuck that girl, that Citrine is way better"
+"Are we just gonna ignore that Prasiolite's booty?"
+16 Apr 2017 22:50:15 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, I'm she/her
+16 Apr 2017 22:50:25 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, o h
+16 Apr 2017 22:50:33 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, well then
+16 Apr 2017 22:50:39 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, kin ky
+16 Apr 2017 22:51:19 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, speaking of quartzes
+16 Apr 2017 22:51:23 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, I doodled a Citrine
+16 Apr 2017 22:51:26 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, 
+16 Apr 2017 22:51:37 : RooberBoobers, kinkyrubiestalk, navy#8336, oh shes cute
+16 Apr 2017 22:52:06 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, thats actually adorable
+16 Apr 2017 22:52:14 : RooberBoobers, kinkyrubiestalk, navy#8336, i want her
+16 Apr 2017 22:52:17 : RooberBoobers, kinkyrubiestalk, navy#8336, to fucc me
+16 Apr 2017 22:52:21 : RooberBoobers, kinkyrubiestalk, navy#8336, not really b ut
+16 Apr 2017 22:52:39 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, youll have to get kin k with frod first
+16 Apr 2017 22:52:41 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, New idea
+we design our Rubies quartzes that they wanna b a n g
+16 Apr 2017 22:52:59 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, o boi
+16 Apr 2017 22:53:31 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, or just other gems in general they wanna smesh
+16 Apr 2017 22:53:44 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, y ee
+16 Apr 2017 22:53:47 : RooberBoobers, kinkyrubiestalk, navy#8336, **yes**
+16 Apr 2017 22:54:20 : RooberBoobers, lewdie, navy#8336, lewdie flirts with the diamonds but theyre like "why should i fuck a tiny bitch liek you"
+16 Apr 2017 22:54:31 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, I think whippy is particularly interested in an era 1 peridot of mine
+16 Apr 2017 22:55:19 : RooberBoobers, kinkyrubiestalk, navy#8336, lewdie wants to smash everyone no exceptions
+16 Apr 2017 22:55:26 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, dick van lick wants to have a threesome with moby dicc and dick van dike
+16 Apr 2017 22:55:39 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, lighty is shy in sex
+16 Apr 2017 22:55:40 : RooberBoobers, kinkyrubiestalk, navy#8336, o
+16 Apr 2017 22:55:45 : RooberBoobers, kinkyrubiestalk, navy#8336, h
+16 Apr 2017 22:55:49 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, **ye e**
+16 Apr 2017 22:56:05 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, **all teh diccs**
+16 Apr 2017 22:56:21 : Pokemon Mystery Dungeon, general, Zorua#5017, And you thought it was a good idea to kick me out I seem to be the only one trying to keep the chat alive
+16 Apr 2017 22:56:51 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, show me these threesome partners
+16 Apr 2017 22:58:22 : RooberBoobers, kinkyrubiestalk, navy#8336, i have an oc named blasper um
+16 Apr 2017 22:58:34 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, 
+16 Apr 2017 22:58:36 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, I wonder if there's a kinkruby with her eyes set on a sapphire
+16 Apr 2017 22:58:40 : RooberBoobers, kinkyruby_drawings, navy#8336, 
+16 Apr 2017 22:58:45 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, 
+16 Apr 2017 22:58:46 : RooberBoobers, kinkyrubiestalk, navy#8336, ooh
+16 Apr 2017 22:58:50 : RooberBoobers, kinkyrubiestalk, navy#8336, i have
+16 Apr 2017 22:58:55 : RooberBoobers, kinkyrubiestalk, navy#8336, a ruby and a sapphire
+16 Apr 2017 22:58:59 : RooberBoobers, kinkyrubiestalk, navy#8336, but its not my kinkruby
+16 Apr 2017 22:59:08 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, **the threesome partners**
+16 Apr 2017 22:59:11 : RooberBoobers, kinkyrubiestalk, navy#8336, i posted blasper
+16 Apr 2017 23:00:00 : RooberBoobers, kinkyruby_drawings, Bill Nye the Nazi Spy#4053, oh my god
+16 Apr 2017 23:00:22 : RooberBoobers, kinkyruby_drawings, navy#8336, her gem is on her eye tho
+16 Apr 2017 23:00:33 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, despite her recolor-ness i like her pallete
+16 Apr 2017 23:00:49 : RooberBoobers, kinkyrubiestalk, navy#8336, lmao
+16 Apr 2017 23:01:44 : RooberBoobers, kinkyruby_drawings, navy#8336, 
+16 Apr 2017 23:02:21 : RooberBoobers, kinkyruby_drawings, Bill Nye the Nazi Spy#4053, so a pink jasper with bands
+16 Apr 2017 23:02:36 : RooberBoobers, kinkyruby_drawings, navy#8336, i
+16 Apr 2017 23:02:37 : RooberBoobers, kinkyruby_drawings, navy#8336, think so
+16 Apr 2017 23:03:59 : RooberBoobers, kinkyruby_drawings, Bill Nye the Nazi Spy#4053, Willow Creek Jasper sounds about right
+16 Apr 2017 23:04:54 : RooberBoobers, kinkyruby_drawings, navy#8336, oh willow is a cute name
+16 Apr 2017 23:04:59 : RooberBoobers, kinkyruby_drawings, navy#8336, i,ll
+16 Apr 2017 23:05:03 : RooberBoobers, kinkyruby_drawings, navy#8336, redesign her soon
+16 Apr 2017 23:05:20 : RooberBoobers, kinkyruby_drawings, Bill Nye the Nazi Spy#4053, it looks like this~
+16 Apr 2017 23:05:22 : RooberBoobers, kinkyruby_drawings, Bill Nye the Nazi Spy#4053, 
+16 Apr 2017 23:05:43 : RooberBoobers, kinkyruby_drawings, navy#8336, yay
+16 Apr 2017 23:05:50 : RooberBoobers, kinkyrubiestalk, navy#8336, 
+16 Apr 2017 23:05:54 : RooberBoobers, kinkyrubiestalk, navy#8336, this is my wif e
+16 Apr 2017 23:09:54 : LimitlessMc, mainchat, Lastshadow#5809, @Sunstrikeh come bacl
+16 Apr 2017 23:10:23 : LimitlessMc, voice-junk, Lastshadow#5809, @Sunstrikeh
+16 Apr 2017 23:10:24 : LimitlessMc, voice-junk, Lastshadow#5809, I never really experienced embarrassing things much, I was mostly a loner. But! I do have a few. -_- Talent shows, I hated them. I have major stage fright and etc. One day a friend of mine asked me to do the talent show with him, his name was Corbin. He was going to perform on stage with his dog. I accepted to go on stage with him even though I felt like I was going to faint. 
+
+So the day came for the talent show... and I was nervous as hell! I couldn't stop shaking! anyway I did well, but I ended up bailing.
+
+
+I have another story that is like this one. So a year ago I entered high school during the second semester, because of this I couldn't pick any electives. So the school decided to put me in drama class. As I said before I have major stage fright! So overall the year was mostly fine, other than I was fighting depression. So the final comes up.... We were to perform on a stage in front of the whole school! I forgot all my lines, my knees literally gave out from under me, I was hyperventilating, and I did faint.
+
+Apparently, my performance was great! The crowd somehow loved my knees giving out and the "overblown reactions that made the performance feel real"  It was real and I was pretty much in agony, but somehow they loved it.
+16 Apr 2017 23:11:04 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, **whatt**
+16 Apr 2017 23:14:54 : LimitlessMc, mainchat, 10_bit_sloth_YT#8480, shadow
+16 Apr 2017 23:15:23 : LimitlessMc, mainchat, Sunstrikeh#8034, hi, join us. ^^
+16 Apr 2017 23:15:23 : RooberBoobers, kinkyrubiestalk, navy#8336, **oh**
+16 Apr 2017 23:16:09 : LimitlessMc, mainchat, 10_bit_sloth_YT#8480, how...
+16 Apr 2017 23:16:26 : LimitlessMc, mainchat, Sunstrikeh#8034, double click general
+<<------
+16 Apr 2017 23:17:49 : LimitlessMc, mainchat, 10_bit_sloth_YT#8480, im  i
+16 Apr 2017 23:17:51 : LimitlessMc, mainchat, 10_bit_sloth_YT#8480, in
+16 Apr 2017 23:18:00 : LimitlessMc, mainchat, 10_bit_sloth_YT#8480, cant hear notin
+16 Apr 2017 23:18:13 : LimitlessMc, mainchat, Lastshadow#5809, @10_bit_sloth_YT You can't hear us?
+16 Apr 2017 23:18:31 : LimitlessMc, mainchat, Sunstrikeh#8034, Hmm... try going into your discord settings and go to voice
+16 Apr 2017 23:18:38 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, 
+16 Apr 2017 23:18:45 : LimitlessMc, mainchat, 10_bit_sloth_YT#8480, then
+16 Apr 2017 23:18:50 : LimitlessMc, mainchat, Sunstrikeh#8034, Then make sure the input nd output devices are cossect.
+16 Apr 2017 23:19:29 : LimitlessMc, mainchat, 10_bit_sloth_YT#8480, did it
+16 Apr 2017 23:19:46 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, wait
+16 Apr 2017 23:19:50 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, no
+16 Apr 2017 23:19:51 : LimitlessMc, mainchat, 10_bit_sloth_YT#8480, now what
+16 Apr 2017 23:19:52 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, i
+16 Apr 2017 23:19:56 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, didn't
+16 Apr 2017 23:19:59 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, mean
+16 Apr 2017 23:20:03 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, fukc
+16 Apr 2017 23:20:40 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, im sorr
+16 Apr 2017 23:20:53 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, dick van lick is into lemonparty
+16 Apr 2017 23:21:01 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, ye e
+16 Apr 2017 23:21:49 : LimitlessMc, mainchat, Sunstrikeh#8034, try selecting default for both?
+16 Apr 2017 23:23:37 : LimitlessMc, mainchat, 10_bit_sloth_YT#8480, im gunn log out
+16 Apr 2017 23:41:47 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, good fucking lord
+16 Apr 2017 23:41:53 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, wtf happened while i was gone
+16 Apr 2017 23:42:16 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, Le retour physique du Christ
+16 Apr 2017 23:42:39 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, @Whippy whippy is after era 1 peridot, while the entire kinkrubies want whippy XD
+16 Apr 2017 23:42:56 : RooberBoobers, kinkyrubiestalk, navy#8336, im dead
+16 Apr 2017 23:43:22 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, ahaha i'm drawing her with said peridot now, actually
+16 Apr 2017 23:43:29 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, im mentally disoriented
+16 Apr 2017 23:45:38 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, im never going to go near anything bee movie again
+16 Apr 2017 23:45:45 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, ive developed a phobia
+16 Apr 2017 23:46:04 : RooberBoobers, kinkyrubiestalk, navy#8336, lmao rip
+16 Apr 2017 23:46:15 : RooberBoobers, kinkyrubiestalk, navy#8336, im designing blasper
+16 Apr 2017 23:46:52 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, ive got to draw dick van dyke and moby dick having a fucc pile with dick van lick
+16 Apr 2017 23:47:33 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, **i don't know either**
+16 Apr 2017 23:47:45 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+16 Apr 2017 23:48:59 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, **im bored af**
+16 Apr 2017 23:50:28 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, let us f u c c whippy
+16 Apr 2017 23:51:02 : LimitlessMc, mainchat, Crystal4209#4698, Ah @Team Charizard I'm not sucking up to get admin I just like to have conversations with jay.
+16 Apr 2017 23:51:14 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, @Lighty @Nippirino @Bondi do you guys have a picture of your kinkrubies face at least so i can add them onto the kinkruby list?
+16 Apr 2017 23:51:50 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, lmao
+16 Apr 2017 23:51:52 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, I dont have a face at all
+16 Apr 2017 23:51:53 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, I legit
+16 Apr 2017 23:51:55 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, cant draw-
+16 Apr 2017 23:52:01 : LimitlessMc, botchat, Crystal4209#4698, ;train
+16 Apr 2017 23:52:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 23:52:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 23:52:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+16 Apr 2017 23:52:06 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, bOi you can draw XD
+16 Apr 2017 23:52:28 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, can you at least make a description
+16 Apr 2017 23:52:36 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, ^
+16 Apr 2017 23:52:36 : RooberBoobers, kinkyrubiestalk, Botfuzzy77#2209, ^
+16 Apr 2017 23:53:01 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, would anyone care to explain ^^
+16 Apr 2017 23:53:03 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, just like @Dick Van Lick did, saying a ruby color pallet with just massive lips and a headband
+16 Apr 2017 23:54:24 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, @Lighty make a description of your roobie then XD
+16 Apr 2017 23:54:35 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, its
+16 Apr 2017 23:54:35 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, a ruby
+16 Apr 2017 23:54:37 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, its red
+16 Apr 2017 23:54:38 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, it got fire
+16 Apr 2017 23:54:39 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, 10/10
+16 Apr 2017 23:54:41 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, bOi
+16 Apr 2017 23:54:43 : RooberBoobers, kinkyrubiestalk, navy#8336, lmao
+16 Apr 2017 23:54:54 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, that actually made me lol
+16 Apr 2017 23:55:02 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, *you've gotta at least have some seriousness when talking to me pls ;w;*
+16 Apr 2017 23:55:02 : RooberBoobers, kinkyrubiestalk, navy#8336, i'd describe lewdie as a purple-red ruby with pink and purple earrings
+16 Apr 2017 23:55:12 : RooberBoobers, kinkyrubiestalk, navy#8336, ^ example
+16 Apr 2017 23:55:51 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, @Lighty like, does she have something on her head or so? like a headband or accessory etc
+16 Apr 2017 23:55:55 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, + curly hair
+16 Apr 2017 23:56:09 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, um
+16 Apr 2017 23:56:12 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, you draw her what you think
+16 Apr 2017 23:56:18 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, ye, like these, describe the character XD
+16 Apr 2017 23:56:36 : LimitlessMc, mainchat, Lightning#6734, #le
+16 Apr 2017 23:56:56 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, fuckin
+16 Apr 2017 23:56:57 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, this chat is meant for artists to share **their** ideas of their kink rubies
+16 Apr 2017 23:56:59 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, PIRATE
+16 Apr 2017 23:57:09 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, h a t
+16 Apr 2017 23:57:36 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, @Nippirino if you dont have a drawing of nip yet, i can try a face description of her XD
+16 Apr 2017 23:57:54 : RooberBoobers, kinkyrubiestalk, Third_Worm#4804, *I was typing em le*
+16 Apr 2017 23:57:58 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, o XD
+16 Apr 2017 23:58:07 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, stacey is dead
+16 Apr 2017 23:59:34 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, i might do a 'draw your squad' thing with team 1 XD
+16 Apr 2017 23:59:41 : RooberBoobers, kinkyrubiestalk, Third_Worm#4804, My nip is wearing sugilite bitch sun glasses with square shaped slick hair, they are the same colors as lewdierino just lighter
+16 Apr 2017 23:59:53 : RooberBoobers, kinkyrubiestalk, navy#8336, um
+17 Apr 2017 00:00:03 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, o lordy
+17 Apr 2017 00:00:10 : RooberBoobers, kinkyrubiestalk, Third_Worm#4804, like shit ton lighter lol
+17 Apr 2017 00:00:14 : RooberBoobers, kinkyrubiestalk, Third_Worm#4804, Like skin light
+17 Apr 2017 00:00:16 : RooberBoobers, kinkyrubiestalk, navy#8336, i draw all rubies with the same curly hair so i wouldnt describe lewdie like that
+17 Apr 2017 00:00:22 : RooberBoobers, kinkyrubiestalk, navy#8336, wit
+17 Apr 2017 00:00:24 : RooberBoobers, kinkyrubiestalk, Third_Worm#4804, Just same tint
+17 Apr 2017 00:00:26 : RooberBoobers, kinkyrubiestalk, navy#8336, h curly hair
+17 Apr 2017 00:00:44 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, 
+17 Apr 2017 00:00:49 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, febulous
+17 Apr 2017 00:01:00 : RooberBoobers, kinkyrubiestalk, Third_Worm#4804, my bitch glasses
+17 Apr 2017 00:01:05 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, her glasses remind me of a bad drawing of batman symbol XD
+17 Apr 2017 00:01:30 : RooberBoobers, kinkyrubiestalk, Third_Worm#4804, Ikr? Gotta love em
+17 Apr 2017 00:01:57 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, 
+17 Apr 2017 00:02:00 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, she looks like a ape in this photo XD
+17 Apr 2017 00:02:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+17 Apr 2017 00:02:05 : LimitlessMc, botchat, Botfuzzy77#2209, 
+17 Apr 2017 00:02:06 : LimitlessMc, botchat, Botfuzzy77#2209, 
+17 Apr 2017 00:02:09 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, big purple people eater
+17 Apr 2017 00:02:29 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, props to you if you understand that reference
+17 Apr 2017 00:02:35 : LimitlessMc, mainchat, Wertfuzzy77#0274, ;-; tbh botfuzzy perms in main chat
+17 Apr 2017 00:02:40 : RooberBoobers, kinkyrubiestalk, Third_Worm#4804, Le
+17 Apr 2017 00:02:41 : LimitlessMc, mainchat, Lightning#6734, :L
+17 Apr 2017 00:02:48 : LimitlessMc, mainchat, Wertfuzzy77#0274, #EqualRights
+17 Apr 2017 00:02:51 : LimitlessMc, mainchat, Lightning#6734, all lightbot can do is say welcome iirc
+17 Apr 2017 00:02:59 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, SNEEZES
+17 Apr 2017 00:03:02 : LimitlessMc, mainchat, Wertfuzzy77#0274, hello
+17 Apr 2017 00:03:05 : LimitlessMc, mainchat, Wertfuzzy77#0274, hmmmm
+17 Apr 2017 00:03:09 : LimitlessMc, mainchat, Lightning#6734, i changed that
+17 Apr 2017 00:03:12 : LimitlessMc, mainchat, Lightning#6734, :L
+17 Apr 2017 00:03:17 : LimitlessMc, mainchat, Wertfuzzy77#0274, .pokemon Celebi
+17 Apr 2017 00:03:17 : LimitlessMc, mainchat, LightBot#4090, Pixelmon Page: http://pixelmonmod.com/wiki/index.php?title=Celebi
+17 Apr 2017 00:03:17 : LimitlessMc, mainchat, LightBot#4090, Bulbapedia Page: http://bulbapedia.bulbagarden.net/wiki/Celebi
+17 Apr 2017 00:03:17 : LimitlessMc, mainchat, LightBot#4090, Pokemon DB: http://pokemondb.net/pokedex/Celebi
+17 Apr 2017 00:03:18 : LimitlessMc, mainchat, LightBot#4090, Smogon: http://www.smogon.com/dex/bw/pokemon/Celebi
+17 Apr 2017 00:03:19 : LimitlessMc, mainchat, Wertfuzzy77#0274, bet
+17 Apr 2017 00:03:20 : LimitlessMc, mainchat, Lightning#6734, o tru
+17 Apr 2017 00:03:25 : LimitlessMc, mainchat, Wertfuzzy77#0274, .music
+17 Apr 2017 00:03:26 : RooberBoobers, kinkyrubiestalk, navy#8336, i
+17 Apr 2017 00:03:28 : LimitlessMc, mainchat, Wertfuzzy77#0274, .status
+17 Apr 2017 00:03:28 : LimitlessMc, mainchat, LightBot#4090, UpTime: 2 days, 20:24:27.200000s
+17 Apr 2017 00:03:28 : LimitlessMc, mainchat, LightBot#4090, Total Messages: 6033
+17 Apr 2017 00:03:28 : LimitlessMc, mainchat, LightBot#4090, Servers Joined: 3
+17 Apr 2017 00:03:29 : RooberBoobers, kinkyrubiestalk, navy#8336, drew willow
+17 Apr 2017 00:03:30 : LimitlessMc, mainchat, Wertfuzzy77#0274, hmmm
+17 Apr 2017 00:03:34 : RooberBoobers, kinkyrubiestalk, navy#8336, blasper
+17 Apr 2017 00:03:39 : LimitlessMc, mainchat, Lightning#6734, k thas enuff
+17 Apr 2017 00:03:44 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, blasper?
+17 Apr 2017 00:03:45 : LimitlessMc, mainchat, Wertfuzzy77#0274, .server
+17 Apr 2017 00:03:47 : LimitlessMc, mainchat, LightBot#4090, **Server IP**: mc.limitlessmc.net
+17 Apr 2017 00:03:47 : LimitlessMc, mainchat, LightBot#4090, **Server Status**
+ *Online Players*: 10 players out of 150
+ *Ping*: 127.514 ms
+ *MC Version*: 1.10.2
+17 Apr 2017 00:03:47 : LimitlessMc, mainchat, LightBot#4090, **Pixelmon Version**: 5.0.3
+17 Apr 2017 00:03:47 : LimitlessMc, mainchat, LightBot#4090, **Players Online**:
+ *DemonOfAwsome, Le_PingWing, Wtsoner, Shadowfire1217, Sunstrikeh, GoldenStateFan, Chimera1737, LegendaryFaze, Dakodaguy101, Sappie_...*
+17 Apr 2017 00:03:48 : RooberBoobers, kinkyrubiestalk, navy#8336, **everyone is online except bondi**
+17 Apr 2017 00:03:50 : LimitlessMc, mainchat, Wertfuzzy77#0274, .feedback
+17 Apr 2017 00:03:50 : LimitlessMc, mainchat, LightBot#4090, **Use This Link to Give Feedback on me :D**
+http://goo.gl/forms/5o0YV1wbmXAhv6XT2
+17 Apr 2017 00:03:51 : LimitlessMc, mainchat, Lightning#6734, - ,-
+17 Apr 2017 00:03:53 : LimitlessMc, mainchat, Wertfuzzy77#0274, 😛
+17 Apr 2017 00:04:00 : RooberBoobers, kinkyrubiestalk, navy#8336, #kinkyruby_drawings lookit her
+17 Apr 2017 00:04:02 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, bondi is dead
+17 Apr 2017 00:04:04 : LimitlessMc, mainchat, Wertfuzzy77#0274, like I said #EqualRights
+17 Apr 2017 00:04:06 : RooberBoobers, kinkyrubiestalk, Third_Worm#4804, kinkyruby  drawings analrino
+17 Apr 2017 00:04:13 : LimitlessMc, mainchat, Lightning#6734, cri to jay not me o-o
+17 Apr 2017 00:04:24 : LimitlessMc, mainchat, Wertfuzzy77#0274, @Jay113355 😢 😢 😢 😢 😢 😢 😢 😢 😢 😢 😢 😢 😢 😢 😢
+17 Apr 2017 00:04:27 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, im dying
+17 Apr 2017 00:04:36 : LimitlessMc, mainchat, Third_Worm#4804, Hi kids, how ya doin
+17 Apr 2017 00:04:38 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, bondi is bondage XD
+17 Apr 2017 00:04:44 : LimitlessMc, mainchat, Wertfuzzy77#0274, lol, he actually came on
+17 Apr 2017 00:04:51 : LimitlessMc, mainchat, Wertfuzzy77#0274, jayyyyyy, #EqualBotRights
+17 Apr 2017 00:04:58 : LimitlessMc, mainchat, Wertfuzzy77#0274, mute lightbot in main chat plz
+17 Apr 2017 00:05:06 : LimitlessMc, mainchat, Lightning#6734, :L
+17 Apr 2017 00:05:12 : LimitlessMc, mainchat, Wertfuzzy77#0274, ❤ @Light
+17 Apr 2017 00:05:12 : LimitlessMc, mainchat, Lightning#6734, #mad
+17 Apr 2017 00:05:19 : LimitlessMc, mainchat, Jay113355#4999, Yours was spaming
+17 Apr 2017 00:05:23 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, im pretty sure we can guess basically all the kinks here besides lewdie XD
+17 Apr 2017 00:05:23 : RooberBoobers, kinkyruby_drawings, Bill Nye the Nazi Spy#4053, 
+17 Apr 2017 00:05:24 : LimitlessMc, mainchat, Wertfuzzy77#0274, spamming what?
+17 Apr 2017 00:05:25 : LimitlessMc, mainchat, Lightning#6734, "hello"
+17 Apr 2017 00:05:28 : LimitlessMc, mainchat, Jay113355#4999, Thats why he got blocked here
+17 Apr 2017 00:05:32 : RooberBoobers, kinkyrubiestalk, navy#8336, oh fuck
+17 Apr 2017 00:05:37 : RooberBoobers, kinkyrubiestalk, navy#8336, whippy thats--
+17 Apr 2017 00:05:38 : LimitlessMc, mainchat, Jay113355#4999, That and ^
+17 Apr 2017 00:05:38 : RooberBoobers, kinkyrubiestalk, navy#8336, ho t
+17 Apr 2017 00:05:41 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, good fucking lord thats k i n k
+17 Apr 2017 00:05:56 : LimitlessMc, botchat, Third_Worm#4804, hello
+17 Apr 2017 00:05:56 : LimitlessMc, botchat, Botfuzzy77#2209, *Its me*
+17 Apr 2017 00:05:58 : LimitlessMc, mainchat, Wertfuzzy77#0274, well, I'm making those toggleable, but I can disable in this channel manually for now
+17 Apr 2017 00:06:08 : LimitlessMc, botchat, Third_Worm#4804, from the other sideeeee
+17 Apr 2017 00:06:22 : RooberBoobers, kinkyrubiestalk, navy#8336, im so gay for whippy
+17 Apr 2017 00:06:27 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, oh
+17 Apr 2017 00:06:33 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, same
+17 Apr 2017 00:06:35 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, i wana look like a fokin
+17 Apr 2017 00:06:36 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, pirate
+17 Apr 2017 00:06:40 : RooberBoobers, kinkyruby_drawings, navy#8336, 
+17 Apr 2017 00:06:45 : RooberBoobers, kinkyrubiestalk, navy#8336, her,es willow
+17 Apr 2017 00:07:04 : RooberBoobers, kinkyruby_drawings, Bill Nye the Nazi Spy#4053, qt
+17 Apr 2017 00:07:10 : RooberBoobers, kinkyruby_drawings, navy#8336, thank
+17 Apr 2017 00:07:42 : RooberBoobers, kinkyrubiestalk, Bill Nye the Nazi Spy#4053, i wanna doodle her
+17 Apr 2017 00:07:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;relog
+17 Apr 2017 00:07:55 : LimitlessMc, botchat, Botfuzzy77#2209, Relogging...

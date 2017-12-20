@@ -1,0 +1,28 @@
+18 Aug 2016 21:40:38 : Cipher, bot_land, Wertfuzzy77#0274, ;debug discord.Emoji()
+18 Aug 2016 21:40:38 : Cipher, bot_land, Botfuzzy77#2209, ```py
+AttributeError: module 'discord' has no attribute 'Emoji'
+```
+18 Aug 2016 21:40:40 : Cipher, bot_land, Wertfuzzy77#0274, bet
+18 Aug 2016 21:41:06 : Cipher, bot_land, Wertfuzzy77#0274, ;debug discord.User
+18 Aug 2016 21:41:06 : Cipher, bot_land, Botfuzzy77#2209, ```py
+<class 'discord.user.User'>
+```
+18 Aug 2016 21:41:15 : Cipher, bot_land, Wertfuzzy77#0274, ;debug discord.Emoji
+18 Aug 2016 21:41:15 : Cipher, bot_land, Botfuzzy77#2209, ```py
+AttributeError: module 'discord' has no attribute 'Emoji'
+```
+18 Aug 2016 21:41:34 : Cipher, bot_land, Wertfuzzy77#0274, ;debug Emoji
+18 Aug 2016 21:41:34 : Cipher, bot_land, Botfuzzy77#2209, ```py
+NameError: name 'Emoji' is not defined
+```
+18 Aug 2016 21:42:54 : My Personal Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Offline!
+18 Aug 2016 21:42:54 : 02Gaming, general, Botfuzzy77#2209, **LightShadow**(Guide) is now Offline!
+18 Aug 2016 21:42:54 : Temp Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Offline!
+18 Aug 2016 21:44:13 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **SuperNova**(Nazi) is now Offline!
+18 Aug 2016 21:44:36 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **I-Like-Pizzja**(Nazi) is now Offline!
+18 Aug 2016 21:46:23 : 02Gaming, general, Botfuzzy77#2209, **Twist3dMindz**(Member) is now Online!
+18 Aug 2016 21:46:23 : My Personal Server, general, Botfuzzy77#2209, **Twist3dMindz**(Member) is now Online!
+18 Aug 2016 21:46:30 : 02Gaming, general, Botfuzzy77#2209, **Twist3dMindz**(Member) is now Online!
+18 Aug 2016 21:46:30 : My Personal Server, general, Botfuzzy77#2209, **Twist3dMindz**(Member) is now Online!
+18 Aug 2016 21:53:20 : Cipher, bot_land, Wertfuzzy77#0274, ;relog
+18 Aug 2016 21:53:20 : Cipher, bot_land, Botfuzzy77#2209, Relogging...

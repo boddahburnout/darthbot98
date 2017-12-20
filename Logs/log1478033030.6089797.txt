@@ -1,0 +1,152 @@
+01 Nov 2016 20:43:53 : LimitlessMc, staff, Jay113355#4999, prob not
+01 Nov 2016 20:44:15 : LimitlessMc, staff, Wertfuzzy77#0274, well, if it didnt it would just return something like ```method query(int) doesnt exist``` or something
+01 Nov 2016 20:44:25 : LimitlessMc, staff, Wertfuzzy77#0274, but its actually trying to do something
+01 Nov 2016 20:44:38 : LimitlessMc, staff, Wertfuzzy77#0274, ;debug MinecraftServer.lookup('mc.limitless.net')
+01 Nov 2016 20:44:39 : LimitlessMc, staff, Botfuzzy77#2209, ```py
+<mcstatus.server.MinecraftServer object at 0x0000021C43D62D68>
+```
+01 Nov 2016 20:44:48 : LimitlessMc, staff, Wertfuzzy77#0274, ;debug MinecraftServer.lookup('mc.limitless.net').query()
+01 Nov 2016 20:44:49 : LimitlessMc, staff, Botfuzzy77#2209, ```py
+gaierror: [Errno 11001] getaddrinfo failed
+```
+01 Nov 2016 20:45:07 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+01 Nov 2016 20:45:09 : LimitlessMc, botchat, Wertfuzzy77#0274, ;playlist MJackson
+01 Nov 2016 20:45:19 : LimitlessMc, staff, Jay113355#4999, try '25560'
+01 Nov 2016 20:45:24 : LimitlessMc, botchat, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+01 Nov 2016 20:45:26 : LimitlessMc, staff, Wertfuzzy77#0274, ;debug MinecraftServer.lookup('mc.limitless.net').query('25560')
+01 Nov 2016 20:45:26 : LimitlessMc, staff, Botfuzzy77#2209, ```py
+TypeError: 'str' object cannot be interpreted as an integer
+```
+01 Nov 2016 20:45:32 : LimitlessMc, staff, Wertfuzzy77#0274, nope, needs to be an int
+01 Nov 2016 20:45:46 : LimitlessMc, staff, Wertfuzzy77#0274, ;debug MinecraftServer.lookup('mc.limitless.net').query(25560)
+01 Nov 2016 20:45:53 : LimitlessMc, staff, Botfuzzy77#2209, ```py
+gaierror: [Errno 11001] getaddrinfo failed
+```
+01 Nov 2016 20:45:55 : LimitlessMc, staff, Jay113355#4999, maybe its a timeout
+01 Nov 2016 20:45:59 : LimitlessMc, staff, Jay113355#4999, and not a port number
+01 Nov 2016 20:46:00 : LimitlessMc, staff, Wertfuzzy77#0274, ooo, it didnt die
+01 Nov 2016 20:46:03 : LimitlessMc, staff, Jay113355#4999, that would kill it
+01 Nov 2016 20:46:03 : LimitlessMc, staff, Wertfuzzy77#0274, maybe
+01 Nov 2016 20:46:46 : LimitlessMc, staff, Wertfuzzy77#0274, `def query(self, retries=3):`
+01 Nov 2016 20:46:48 : LimitlessMc, staff, Wertfuzzy77#0274, yup
+01 Nov 2016 20:46:55 : LimitlessMc, staff, Jay113355#4999, lol
+01 Nov 2016 20:46:57 : LimitlessMc, staff, Wertfuzzy77#0274, its a retry number lol
+01 Nov 2016 20:47:25 : LimitlessMc, staff, Wertfuzzy77#0274, wait
+01 Nov 2016 20:47:27 : LimitlessMc, staff, Wertfuzzy77#0274, i think i got it
+01 Nov 2016 20:47:39 : LimitlessMc, staff, Wertfuzzy77#0274, ;debug MinecraftServer.lookup('mc.limitless.net','25560').query()
+01 Nov 2016 20:47:40 : LimitlessMc, staff, Botfuzzy77#2209, ```py
+TypeError: lookup() takes 1 positional argument but 2 were given
+```
+01 Nov 2016 20:47:54 : LimitlessMc, staff, Wertfuzzy77#0274, or not
+01 Nov 2016 20:48:22 : LimitlessMc, staff, Wertfuzzy77#0274, ;debug MinecraftServer.lookup('mc.limitless.net:25560').query()
+01 Nov 2016 20:48:22 : LimitlessMc, staff, Botfuzzy77#2209, ```py
+gaierror: [Errno 11001] getaddrinfo failed
+```
+01 Nov 2016 20:48:33 : LimitlessMc, staff, Wertfuzzy77#0274, it looks like it actually parses the : and splits the string into host and port
+01 Nov 2016 20:48:59 : LimitlessMc, staff, Wertfuzzy77#0274, ;debug MinecraftServer.lookup('mc.limitless.net:25560').ping
+01 Nov 2016 20:48:59 : LimitlessMc, staff, Botfuzzy77#2209, ```py
+<bound method MinecraftServer.ping of <mcstatus.server.MinecraftServer object at 0x0000021C43DAAA20>>
+```
+01 Nov 2016 20:49:03 : LimitlessMc, staff, Wertfuzzy77#0274, woops
+01 Nov 2016 20:49:06 : LimitlessMc, staff, Wertfuzzy77#0274, ;debug MinecraftServer.lookup('mc.limitless.net:25560').ping()
+01 Nov 2016 20:49:07 : LimitlessMc, staff, Botfuzzy77#2209, ```py
+gaierror: [Errno 11001] getaddrinfo failed
+```
+01 Nov 2016 20:49:13 : LimitlessMc, staff, Wertfuzzy77#0274, cant even ping it
+01 Nov 2016 20:49:21 : LimitlessMc, staff, Wertfuzzy77#0274, ........
+01 Nov 2016 20:49:23 : LimitlessMc, staff, Wertfuzzy77#0274, im dumb
+01 Nov 2016 20:49:32 : LimitlessMc, staff, Wertfuzzy77#0274, ;debug MinecraftServer.lookup('mc.limitlessmc.net:25560').query()
+01 Nov 2016 20:49:32 : LimitlessMc, staff, Botfuzzy77#2209, ```py
+<mcstatus.querier.QueryResponse object at 0x0000021C459EA780>
+```
+01 Nov 2016 20:49:33 : LimitlessMc, staff, Jay113355#4999, server is 25565
+01 Nov 2016 20:49:40 : LimitlessMc, staff, Wertfuzzy77#0274, I got the host name wrong xD
+01 Nov 2016 20:49:46 : LimitlessMc, staff, Wertfuzzy77#0274, i forgot the mc after limitless
+01 Nov 2016 20:49:50 : LimitlessMc, staff, Jay113355#4999, lol
+01 Nov 2016 20:50:06 : LimitlessMc, staff, Wertfuzzy77#0274, ;debug MinecraftServer.lookup('mc.limitlessmc.net:25560').query().software.plugins
+01 Nov 2016 20:50:07 : LimitlessMc, staff, Botfuzzy77#2209, ```py
+[]
+```
+01 Nov 2016 20:50:14 : LimitlessMc, staff, Wertfuzzy77#0274, and says no plugins
+01 Nov 2016 20:50:15 : LimitlessMc, staff, Wertfuzzy77#0274, rip
+01 Nov 2016 20:50:15 : LimitlessMc, staff, Jay113355#4999, Yeah,
+01 Nov 2016 20:50:21 : LimitlessMc, staff, Jay113355#4999, duh XD
+01 Nov 2016 20:50:32 : LimitlessMc, staff, Jay113355#4999, forge doesnt report mods yet
+01 Nov 2016 20:50:35 : LimitlessMc, staff, Wertfuzzy77#0274, ;debug MinecraftServer.lookup('mc.limitlessmc.net:25560').query().software.brand
+01 Nov 2016 20:50:35 : LimitlessMc, staff, Botfuzzy77#2209, ```py
+vanilla
+```
+01 Nov 2016 20:50:36 : LimitlessMc, staff, Jay113355#4999, or at all
+01 Nov 2016 20:50:45 : LimitlessMc, staff, Wertfuzzy77#0274, ;debug MinecraftServer.lookup('mc.limitlessmc.net:25560').query().software.version
+01 Nov 2016 20:50:45 : LimitlessMc, staff, Botfuzzy77#2209, ```py
+1.10.2
+```
+01 Nov 2016 20:50:51 : LimitlessMc, staff, Jay113355#4999, Okay, That should say jaycore thougb
+01 Nov 2016 20:51:01 : LimitlessMc, staff, Wertfuzzy77#0274, ;debug MinecraftServer.lookup('mc.limitlessmc.net:25560').query().software.players
+01 Nov 2016 20:51:02 : LimitlessMc, staff, Botfuzzy77#2209, ```py
+AttributeError: 'Software' object has no attribute 'players'
+```
+01 Nov 2016 20:51:07 : LimitlessMc, staff, Wertfuzzy77#0274, lier
+01 Nov 2016 20:51:09 : LimitlessMc, staff, Wertfuzzy77#0274, lies*
+01 Nov 2016 20:51:11 : LimitlessMc, staff, Wertfuzzy77#0274, thats a thing
+01 Nov 2016 20:51:14 : LimitlessMc, staff, Wertfuzzy77#0274, wait...
+01 Nov 2016 20:51:15 : LimitlessMc, staff, Wertfuzzy77#0274, no
+01 Nov 2016 20:51:20 : LimitlessMc, staff, Jay113355#4999, software shouldnt be
+01 Nov 2016 20:51:23 : LimitlessMc, staff, Wertfuzzy77#0274, ;debug MinecraftServer.lookup('mc.limitlessmc.net:25560').query().players
+01 Nov 2016 20:51:24 : LimitlessMc, staff, Botfuzzy77#2209, ```py
+<mcstatus.querier.QueryResponse.Players object at 0x0000021C459BC668>
+```
+01 Nov 2016 20:51:28 : LimitlessMc, staff, Wertfuzzy77#0274, yeah lol, i just saw that
+01 Nov 2016 20:51:53 : LimitlessMc, staff, Wertfuzzy77#0274, ;debug MinecraftServer.lookup('mc.limitlessmc.net:25560').query().players.names
+01 Nov 2016 20:51:53 : LimitlessMc, staff, Botfuzzy77#2209, ```py
+['DeadApe', 'KPPG_LMAA', 'Amidama', 'GentlyGaming', 'opalhydra', 'jjtwilefc', 'TurboX3dan', 'Doc_Mooshroom', 'FearlessFalconX', 'apefar02', 'FAmayham', 'ShuckDuckmc', 'JannottiX', 'LegendaryFaze', 'SKiiiiNG', 'XtDiomedes', 'Omed', 'talhachoudhry', 'Wormneff']
+```
+01 Nov 2016 20:52:10 : LimitlessMc, staff, Wertfuzzy77#0274, ;debug MinecraftServer.lookup('mc.limitlessmc.net:25560').query().motd
+01 Nov 2016 20:52:10 : LimitlessMc, staff, Botfuzzy77#2209, ```py
+LimitlessMC Pixelmon Server
+```
+01 Nov 2016 20:52:16 : LimitlessMc, mainchat, Lightning#6734, is it mj day wert? lol
+01 Nov 2016 20:52:20 : LimitlessMc, staff, Jay113355#4999, O_O?
+01 Nov 2016 20:52:27 : LimitlessMc, staff, Jay113355#4999, Oh.. Right
+01 Nov 2016 20:52:31 : LimitlessMc, staff, Jay113355#4999, I haxed that
+01 Nov 2016 20:52:33 : LimitlessMc, mainchat, Wertfuzzy77#0274, apparently
+01 Nov 2016 20:52:34 : LimitlessMc, mainchat, Wertfuzzy77#0274, ;songs
+01 Nov 2016 20:52:34 : LimitlessMc, mainchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+01 Nov 2016 20:52:34 : LimitlessMc, mainchat, Botfuzzy77#2209, 1. Michael Jackson - Billie Jean
+	<https://www.youtube.com/watch?v=Zi_XLOBDo_Y>
+2. Michael Jackson - Smooth Criminal Lyrics
+	<https://www.youtube.com/watch?v=CBrWNbjw3RA>
+3. Michael Jackson - The Way You Make Me Feel (lyrics)
+	<https://www.youtube.com/watch?v=4ru6XlZKZDg>
+Total Time is 0:14:31
+01 Nov 2016 20:52:41 : LimitlessMc, staff, Wertfuzzy77#0274, gj
+01 Nov 2016 20:52:42 : LimitlessMc, mainchat, Lightning#6734, yep
+01 Nov 2016 20:52:43 : LimitlessMc, mainchat, Lightning#6734, 10/10
+01 Nov 2016 20:52:49 : LimitlessMc, staff, Wertfuzzy77#0274, ;debug MinecraftServer.lookup('mc.limitlessmc.net:25560').query().map
+01 Nov 2016 20:52:50 : LimitlessMc, staff, Botfuzzy77#2209, ```py
+world
+```
+01 Nov 2016 20:52:52 : LimitlessMc, staff, Wertfuzzy77#0274, lol
+01 Nov 2016 20:52:52 : LimitlessMc, staff, Jay113355#4999, so query is pulling the data from the server.prop
+01 Nov 2016 20:52:53 : LimitlessMc, staff, Wertfuzzy77#0274, 10/10
+01 Nov 2016 20:53:10 : LimitlessMc, staff, Wertfuzzy77#0274, I can get some more data manually, i think
+01 Nov 2016 20:53:14 : LimitlessMc, staff, Wertfuzzy77#0274, ;debug MinecraftServer.lookup('mc.limitlessmc.net:25560').query().raw
+01 Nov 2016 20:53:14 : LimitlessMc, staff, Botfuzzy77#2209, ```py
+{'hostip': '23.111.129.82', 'map': 'world', 'game_id': 'MINECRAFT', 'maxplayers': '200', 'numplayers': '20', 'gametype': 'SMP', 'hostport': '25565', 'version': '1.10.2', 'hostname': 'LimitlessMC Pixelmon Server', 'plugins': ''}
+```
+01 Nov 2016 20:53:23 : LimitlessMc, staff, Wertfuzzy77#0274, nvm, thats all i get
+01 Nov 2016 20:53:35 : LimitlessMc, staff, Jay113355#4999, Yeah
+01 Nov 2016 20:53:43 : LimitlessMc, staff, Jay113355#4999, Looks about right
+01 Nov 2016 20:53:56 : LimitlessMc, staff, Jay113355#4999, ill fix some data on my end the next time i mess with it
+01 Nov 2016 20:54:13 : GetPlebd, weeaboo-chat, Harrys#3922, O-oooooooooo AAAAE-A-A-I-A-U-
+JO-oooooooooooo AAE-O-A-A-U-U-A-
+E-eee-ee-eee AAAAE-A-E-I-E-A-
+JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA
+01 Nov 2016 20:54:19 : LimitlessMc, staff, Wertfuzzy77#0274, let me fix the ;server cmd while im at it
+01 Nov 2016 20:54:20 : GetPlebd, weeaboo-chat, Mee6#4876, GG @Harrys, you just advanced to **level 11** !
+01 Nov 2016 20:54:26 : LimitlessMc, staff, Jay113355#4999, Voting sites asked for it anyway
+01 Nov 2016 20:54:50 : LimitlessMc, staff, Jay113355#4999, Where it is running from normaly btw?
+01 Nov 2016 20:55:12 : LimitlessMc, staff, Wertfuzzy77#0274, on a cloud droplet somewhere in NY
+01 Nov 2016 20:55:29 : LimitlessMc, mainchat, Wertfuzzy77#0274, dont cri
+01 Nov 2016 20:55:31 : LimitlessMc, mainchat, Wertfuzzy77#0274, i kill music
+01 Nov 2016 20:55:32 : LimitlessMc, mainchat, Wertfuzzy77#0274, ;relog

@@ -1,0 +1,25 @@
+19 Jul 2016 02:01:25 : Cipher , Skyd#9935 , Im giving Kburn the tour werty
+19 Jul 2016 02:01:25 : LimitlessMc , dizzle#6593 , ;clever what
+19 Jul 2016 02:01:26 : LimitlessMc , Botfuzzy77#2209 , How are you?
+19 Jul 2016 02:01:26 : Cipher , Wertfuzzy77#0274 , ;join
+19 Jul 2016 02:01:35 : LimitlessMc , dizzle#6593 , ;clever im ok you?
+19 Jul 2016 02:01:35 : LimitlessMc , Botfuzzy77#2209 , Bored.
+19 Jul 2016 02:01:41 : LimitlessMc , Wertfuzzy77#0274 , ew
+19 Jul 2016 02:01:44 : LimitlessMc , Wertfuzzy77#0274 , that needs to stop here
+19 Jul 2016 02:01:45 : The Pleb Privateers , enragednuke#2565 , that shit better not spam my chat everytime people log on
+19 Jul 2016 02:01:48 : The Pleb Privateers , enragednuke#2565 , imma hurt you
+19 Jul 2016 02:02:02 : LimitlessMc , dizzle#6593 , ;clever do you want a cupcake?
+19 Jul 2016 02:02:02 : LimitlessMc , Botfuzzy77#2209 , What is it?
+19 Jul 2016 02:02:15 : LimitlessMc , dizzle#6593 , ;clever its coco
+19 Jul 2016 02:02:15 : LimitlessMc , Botfuzzy77#2209 , Do you know any?
+19 Jul 2016 02:02:26 : LimitlessMc , Wertfuzzy77#0274 , ;debug ctx,message.server.name
+19 Jul 2016 02:02:26 : LimitlessMc , Botfuzzy77#2209 , ```py
+NameError: name 'message' is not defined
+```
+19 Jul 2016 02:02:29 : LimitlessMc , dizzle#6593 , my brain
+19 Jul 2016 02:02:31 : LimitlessMc , Wertfuzzy77#0274 , ;debug ctx.message.server.name
+19 Jul 2016 02:02:31 : LimitlessMc , Botfuzzy77#2209 , ```py
+LimitlessMc
+```
+19 Jul 2016 02:02:41 : LimitlessMc , Wertfuzzy77#0274 , ;relog
+19 Jul 2016 02:02:42 : LimitlessMc , Botfuzzy77#2209 , Relogging...

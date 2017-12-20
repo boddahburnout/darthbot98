@@ -1,0 +1,150 @@
+01 Nov 2016 22:24:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;data Wertfuzzy77
+01 Nov 2016 22:24:17 : LimitlessMc, botchat, Wertfuzzy77#0274, I think he may be dead xD
+01 Nov 2016 22:24:41 : LimitlessMc, botchat, Wertfuzzy77#0274, ;data Wertfuzzy77
+01 Nov 2016 22:24:41 : LimitlessMc, botchat, Botfuzzy77#2209, Name: Wertfuzzy77
+FuzzyIndex: 119.9, Rank: 13
+Win-Lose Ratio: 1.0
+Tournaments Participated in 5
+TournamentURL: http://limitlessmc.challonge.com/LimitlessMC-LimitlessMCTournament
+Rank: 9 Out of 24 Participants
+
+TournamentURL: http://limitlessmc.challonge.com/LimitlessMC-Level100Battle
+Rank: 7 Out of 8 Participants
+
+TournamentURL: http://limitlessmc.challonge.com/LimitlessMC-20jkjerl
+Rank: 3 Out of 13 Participants
+
+TournamentURL: http://limitlessmc.challonge.com/LimitlessMC-1juwze7i
+Rank: 3 Out of 10 Participants
+
+TournamentURL: http://limitlessmc.challonge.com/LimitlessMC-vhfqet4z
+Rank: 2 Out of 12 Participants
+
+
+Players Won Against
+Cryotrees: 1
+xN3MOx: 1
+WolfBreath: 1
+mycaelspear: 1
+TheLast1Alive: 1
+Latichris: 1
+MGirard: 2
+sc0tty14: 1
+
+
+Players Lost Against
+HeroNeos: 1
+TheSolvdow: 1
+TheLast1Alive: 1
+PoroTheSquirrel: 1
+Bakafish: 1
+ruleroftri: 2
+Latichris: 1
+That_Guy_Gilly: 2
+01 Nov 2016 22:24:45 : LimitlessMc, botchat, Wertfuzzy77#0274, it worked
+01 Nov 2016 22:24:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+01 Nov 2016 22:24:56 : LimitlessMc, botchat, Botfuzzy77#2209, Name: TheSolvdow, Rank: 1, Index: 188.3
+Name: Bakafish, Rank: 2, Index: 182.7
+Name: HeroNeos, Rank: 3, Index: 157.3
+Name: Joeswalt3, Rank: 4, Index: 149.8
+Name: Zeathrus, Rank: 5, Index: 140.1
+01 Nov 2016 22:25:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking 1 20
+01 Nov 2016 22:25:02 : LimitlessMc, botchat, Botfuzzy77#2209, Output is Too Long
+01 Nov 2016 22:25:08 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking 20
+01 Nov 2016 22:25:08 : LimitlessMc, botchat, Botfuzzy77#2209, Name: TheSolvdow, Rank: 1, Index: 188.3
+Name: Bakafish, Rank: 2, Index: 182.7
+Name: HeroNeos, Rank: 3, Index: 157.3
+Name: Joeswalt3, Rank: 4, Index: 149.8
+Name: Zeathrus, Rank: 5, Index: 140.1
+Name: That_Guy_Gilly, Rank: 6, Index: 136.9
+Name: PacMen, Rank: 7, Index: 136.3
+Name: Laintime, Rank: 8, Index: 129.5
+Name: Sephirium, Rank: 9, Index: 128.8
+Name: EHHockey35, Rank: 10, Index: 128.8
+Name: ruleroftri, Rank: 11, Index: 125.7
+Name: TheLast1Alive, Rank: 12, Index: 122.6
+Name: Wertfuzzy77, Rank: 13, Index: 119.9
+Name: PrincePixel, Rank: 14, Index: 117.3
+Name: BigJoseB, Rank: 15, Index: 115.5
+Name: mrKosse, Rank: 16, Index: 115.5
+Name: MGirard, Rank: 17, Index: 115.3
+Name: sc0tty14, Rank: 18, Index: 114.2
+Name: kingbrenner, Rank: 19, Index: 112.5
+Name: frecen, Rank: 20, Index: 112.4
+01 Nov 2016 22:25:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;help tournament
+01 Nov 2016 22:25:26 : LimitlessMc, botchat, Botfuzzy77#2209, No command called "tournament" found.
+01 Nov 2016 22:25:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ;help Tournament
+01 Nov 2016 22:25:30 : LimitlessMc, botchat, Botfuzzy77#2209, ```
+Commands:
+  data           Returns Player Data
+  tournaments    Returns All tournament info
+  ranking        Returns the Current Server Rankings
+  prize          Returns a Link to where all the Current Prizes can be found
+  sell           Used to Sell a Code instead of Redeeming it
+  redeem         Redeems a Given Code for the prize it contains
+  sync           Syncs you Discord Account with the Given IG Name
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+01 Nov 2016 22:25:58 : LimitlessMc, mainchat, Wertfuzzy77#0274, `We do have a command for tournaments now` @Jay113355 what do you mean?
+01 Nov 2016 22:26:35 : LimitlessMc, mainchat, Jay113355#4999, There is a in-game command for tournaments
+01 Nov 2016 22:26:51 : LimitlessMc, mainchat, Wertfuzzy77#0274, ooo, cool
+01 Nov 2016 22:27:03 : LimitlessMc, mainchat, Wertfuzzy77#0274, So i dont have to import from Challonge anymore
+01 Nov 2016 22:27:26 : LimitlessMc, mainchat, Wertfuzzy77#0274, hmm, but I would have to manually enter games won if i use the ig tournament
+01 Nov 2016 22:27:39 : LimitlessMc, mainchat, Jay113355#4999, i mean it just does the battle starting and tier checking
+01 Nov 2016 22:28:37 : LimitlessMc, mainchat, Wertfuzzy77#0274, is it like /tournament <name> <name> <name> <name> ...?
+01 Nov 2016 22:29:06 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+01 Nov 2016 22:29:14 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search re:zero soundtrack
+01 Nov 2016 22:29:18 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=C1ws8KGOh8o
+01 Nov 2016 22:30:42 : The Wild Weebs, coding, enragednuke#2565, 
+01 Nov 2016 22:30:45 : The Wild Weebs, coding, enragednuke#2565, @Wertfuzzy77
+01 Nov 2016 22:35:18 : LimitlessMc, botchat, crystal4209#4698, ;server
+01 Nov 2016 22:35:18 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+01 Nov 2016 22:35:18 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 24 players out of 200
+ *Ping*: 125.973 ms
+ *MC Version*: 1.10.2
+01 Nov 2016 22:35:18 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *Fiodor, ryan10000, DrangonKiller, Wormneff, EmilytheQUEEN, SillyDillyPickle, KBwonder, TommyIlluminati, SsSUniverse, xZeldasBootyx, Panejo, GentlyGaming...*
+01 Nov 2016 22:37:02 : LimitlessMc, mainchat, Lightning#6734, bringer still bloodlord le
+01 Nov 2016 22:39:42 : LimitlessMc, mainchat, Wertfuzzy77#0274, ;afk Dinner
+01 Nov 2016 22:39:42 : LimitlessMc, mainchat, Botfuzzy77#2209, Wertfuzzy77 is now AFK for reason:
+**Dinner**
+01 Nov 2016 22:56:09 : The Wild Weebs, general, enragednuke#2565, ;boss DFFEFEEDFD 1111100111
+01 Nov 2016 22:56:12 : The Wild Weebs, general, Botfuzzy77#2209, DFFEFFFDFD
+01 Nov 2016 22:56:17 : The Wild Weebs, general, enragednuke#2565, ?boss DFFEFFFDFD
+01 Nov 2016 22:56:17 : The Wild Weebs, general, enragedrobo#6009, A **Venomancer** stands before you...
+Health: 12.6% (8018 / 63513)
+
+You exposed most of the boss' weak points, 5x damage!
+Your moves were... :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :x:
+You deal **3840** damage to the boss!
+01 Nov 2016 22:56:50 : The Wild Weebs, general, Wertfuzzy77#0274, ;boss DFFEFFFDFD 1111101110
+01 Nov 2016 22:56:50 : The Wild Weebs, general, Botfuzzy77#2209, DFFEFAFDFS
+01 Nov 2016 22:57:02 : The Wild Weebs, general, Wertfuzzy77#0274, ?boss DFFEFAFDFS
+01 Nov 2016 22:57:02 : The Wild Weebs, general, Botfuzzy77#2209, Wertfuzzy77 is afk for reason:
+**Dinner**
+01 Nov 2016 22:57:10 : The Wild Weebs, general, Wertfuzzy77#0274, ?train
+01 Nov 2016 22:57:10 : The Wild Weebs, general, enragedrobo#6009, **:up: | Level Up!**
+01 Nov 2016 22:57:10 : The Wild Weebs, general, enragedrobo#6009, 
+01 Nov 2016 22:57:10 : The Wild Weebs, general, enragedrobo#6009, You begin training...
+
+You didn't benefit much from basic training...
+
+You begin fighting some monsters in the forest...
+You *beat* a Lv. **56** **Peon** (EXP: +**14.0**) (Chance: **61.111%**)
+You *beat* a Lv. **42** **General** (EXP: +**84.0**) (Chance: **18.75%**)
+You *lost* to a Lv. **38** **Soldier** (Chance: **41.808%**)
+You *lost* to a Lv. **23** **Soldier** (Chance: **49.887%**)
+
+You gained **350** XP!
+01 Nov 2016 22:57:47 : The Wild Weebs, general, enragednuke#2565, a
+01 Nov 2016 22:57:48 : The Wild Weebs, general, enragedrobo#6009, **:up: | Level Up!**
+01 Nov 2016 22:57:48 : The Wild Weebs, general, enragedrobo#6009, 
+01 Nov 2016 22:57:52 : The Wild Weebs, general, enragednuke#2565, ?level
+01 Nov 2016 22:57:52 : The Wild Weebs, general, enragedrobo#6009, :newspaper: | **enragednuke's Level Card**
+01 Nov 2016 22:57:52 : The Wild Weebs, general, enragedrobo#6009, 
+01 Nov 2016 22:57:57 : The Wild Weebs, general, enragednuke#2565, ?summary
+01 Nov 2016 22:58:01 : The Wild Weebs, general, enragednuke#2565, ?gamble 1
+01 Nov 2016 22:58:01 : The Wild Weebs, general, enragedrobo#6009, You need to offer at least one eighth of your level (559.0)

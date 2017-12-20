@@ -1,0 +1,15 @@
+25 Jun 2016 17:15:35 : Cipher , Wertfuzzy77#0274 , !mutelist
+25 Jun 2016 17:15:35 : Cipher , Botfuzzy77#2209 , No One is Muted
+25 Jun 2016 17:15:41 : Cipher , Wertfuzzy77#0274 , !mute Nerokin
+25 Jun 2016 17:15:41 : Cipher , Botfuzzy77#2209 , Muted Nerokin
+25 Jun 2016 17:15:44 : Cipher , Wertfuzzy77#0274 , !mutelist
+25 Jun 2016 17:15:44 : Cipher , Botfuzzy77#2209 , Mute List:
+Nerokin
+
+25 Jun 2016 17:15:48 : LimitlessMc , Wertfuzzy77#0274 , !mutelist
+25 Jun 2016 17:15:48 : LimitlessMc , Botfuzzy77#2209 , No One is Muted
+25 Jun 2016 17:16:17 : Cipher , Botfuzzy77#7098 , `Cipher`
+25 Jun 2016 17:16:38 : LimitlessMc , Wertfuzzy77#0274 , weird
+25 Jun 2016 17:16:41 : LimitlessMc , Wertfuzzy77#0274 , !sync
+25 Jun 2016 17:18:00 : LimitlessMc , Wertfuzzy77#0274 , !relog
+25 Jun 2016 17:18:00 : LimitlessMc , Botfuzzy77#2209 , Relogging...

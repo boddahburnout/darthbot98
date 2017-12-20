@@ -1,0 +1,38 @@
+07 May 2017 03:17:12 : LimitlessMc, botchat, TherminatorX#6644, ;train
+07 May 2017 03:17:18 : LimitlessMc, botchat, TherminatorX#6644, ;cd
+07 May 2017 03:17:19 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You can Train right now!
+**Gamble**
+You can Gamble right now!
+07 May 2017 03:17:22 : LimitlessMc, botchat, TherminatorX#6644, Wert
+07 May 2017 03:17:27 : LimitlessMc, botchat, TherminatorX#6644, What did you do?
+07 May 2017 03:18:14 : LimitlessMc, botchat, Wertfuzzy77#0274, local bot
+07 May 2017 03:18:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+07 May 2017 03:18:15 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+07 May 2017 03:18:23 : LimitlessMc, botchat, Wertfuzzy77#0274, big music changes
+07 May 2017 03:18:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=oerZ1cYE-Qk
+07 May 2017 03:18:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;radio
+07 May 2017 03:18:38 : LimitlessMc, botchat, Botfuzzy77#2209, **Please choose one of these options**: 
+```py
+Electro Hub       https://temp.discord.fm/libraries/electro-hub
+Chill Corner      https://temp.discord.fm/libraries/chill-corner
+Korean Madness    https://temp.discord.fm/libraries/korean-madness
+Japanese Lounge   https://temp.discord.fm/libraries/japanese-lounge
+Classical         https://temp.discord.fm/libraries/classical
+Retro Renegade    https://temp.discord.fm/libraries/retro-renegade
+Metal Mix         https://temp.discord.fm/libraries/metal-mix
+Hip-hop           https://temp.discord.fm/libraries/hip-hop
+Electro Swing     https://temp.discord.fm/libraries/electro-swing
+Purely Pop        https://temp.discord.fm/libraries/purely-pop
+Rock-n-Roll       https://temp.discord.fm/libraries/rock-n-roll
+Coffee-house Jazz https://temp.discord.fm/libraries/coffee-house-jazz```
+Example: `;Radio Purely Pop`
+07 May 2017 03:18:42 : LimitlessMc, botchat, TherminatorX#6644, I thought you made it so that it displayed on the side when you had local going
+07 May 2017 03:18:45 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio purely pop
+07 May 2017 03:18:54 : LimitlessMc, botchat, Wertfuzzy77#0274, ;radio purely pop
+07 May 2017 03:19:17 : LimitlessMc, botchat, Wertfuzzy77#0274, maybe it got rolled back?
+07 May 2017 03:19:36 : LimitlessMc, botchat, TherminatorX#6644, Please and thank you
+07 May 2017 03:20:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;relog
+07 May 2017 03:20:05 : LimitlessMc, botchat, Botfuzzy77#2209, Relogging...

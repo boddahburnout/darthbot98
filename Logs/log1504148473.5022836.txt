@@ -1,0 +1,17 @@
+31 Aug 2017 03:01:27 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, ;join
+31 Aug 2017 03:01:28 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, Connected channel!
+31 Aug 2017 03:01:32 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, ;search hotel california
+31 Aug 2017 03:01:35 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, Added Hotel California - The Eagles  Lyrics to the queue
+31 Aug 2017 03:01:35 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, https://www.youtube.com/watch?v=oYTYtoGNIvg
+31 Aug 2017 03:01:41 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, ;recommend
+31 Aug 2017 03:01:41 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, Recommend Songs to play: True
+31 Aug 2017 03:01:51 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, ;songs
+31 Aug 2017 03:01:52 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, 
+31 Aug 2017 03:01:55 : Proton Gaming Network, bot_commands, Wertfuzzy77#0274, ;status
+31 Aug 2017 03:01:56 : Proton Gaming Network, bot_commands, Botfuzzy77#2209, ```UpTime: 0:00:41.800000s
+Total Messages: 5
+Servers Joined: 37
+CPU usage: 10.1%
+Memory usage: 35.2%
+```
+31 Aug 2017 03:02:08 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, ;ctoggle all

@@ -1,0 +1,211 @@
+HeroNeos#7704, lel
+Botfuzzy77#2926, Starting up...
+Botfuzzy77#2926, Loaded with Version 0.8.7
+Wertfuzzy77#0274, !prize
+Botfuzzy77#2926, https://gist.github.com/nnarma/30567d6ea547adce48042b86eec0573d
+Wertfuzzy77#0274, there we go
+Wertfuzzy77#0274, now you can see drop rates of things
+Himay#3594, !prize
+Botfuzzy77#2926, https://gist.github.com/nnarma/30567d6ea547adce48042b86eec0573d
+Himay#3594, boi
+Himay#3594, let me get a lugia
+Himay#3594, jk
+Wertfuzzy77#0274, never
+Himay#3594, i want a ho oh
+Himay#3594, cuz i get all them hoes
+Wertfuzzy77#0274, !redeem TESTFIVE
+Botfuzzy77#2926, Wertfuzzy77 won a Money prize from a TESTING $5000 book...
+Botfuzzy77#2926, Its **$4400**
+Wertfuzzy77#0274, !redeem TESTFIVE
+Botfuzzy77#2926, Wertfuzzy77 won a Money prize from a TESTING $5000 book...
+Botfuzzy77#2926, Its **$2100**
+Wertfuzzy77#0274, !redeem TESTFIVE
+Botfuzzy77#2926, Wertfuzzy77 won a Items prize from a TESTING $5000 book...
+Botfuzzy77#2926, Its a **Master Ball!**
+Wertfuzzy77#0274, !redeem TESTFIVE
+Botfuzzy77#2926, Wertfuzzy77 won a Pack prize from a TESTING $5000 book...
+Botfuzzy77#2926, Its a **Treasure Pack**
+Himay#3594, !redeem
+Botfuzzy77#2926, To Test the System, try the Codes 'TESTHALF', 'TESTONE', 'TESTTWO', 'TESTFIVE'
+Botfuzzy77#2926, That is an INVALID Code
+Wertfuzzy77#0274, !redeem TESTFIVE
+Botfuzzy77#2926, Wertfuzzy77 won a Money prize from a TESTING $5000 book...
+Botfuzzy77#2926, Its **$4000**
+Wertfuzzy77#0274, !redeem TESTFIVE
+Botfuzzy77#2926, Wertfuzzy77 won a Money prize from a TESTING $5000 book...
+Botfuzzy77#2926, Its **$3200**
+Wertfuzzy77#0274, !redeem TESTFIVE
+Botfuzzy77#2926, Wertfuzzy77 won a Money prize from a TESTING $5000 book...
+Botfuzzy77#2926, Its **$1200**
+Wertfuzzy77#0274, !redeem TESTFIVE
+Botfuzzy77#2926, Wertfuzzy77 won a Pack prize from a TESTING $5000 book...
+Botfuzzy77#2926, Its a **Building Pack**
+Wertfuzzy77#0274, !redeem TESTFIVE
+Botfuzzy77#2926, Wertfuzzy77 won a Items prize from a TESTING $5000 book...
+Botfuzzy77#2926, Its a **Master Ball!**
+Wertfuzzy77#0274, !redeem TESTFIVE
+Botfuzzy77#2926, Wertfuzzy77 won a Money prize from a TESTING $5000 book...
+Botfuzzy77#2926, Its **$2400**
+Himay#3594, !redeem TESTFIVE
+Botfuzzy77#2926, Himay won a Pack prize from a TESTING $5000 book...
+Botfuzzy77#2926, Its a **Breeding Pack**
+Wertfuzzy77#0274, !redeem TESTFIVE
+Himay#3594, !redeem TESTFIVE
+Botfuzzy77#2926, Wertfuzzy77 won a Pack prize from a TESTING $5000 book...
+Botfuzzy77#2926, Its a **Animal Pack**
+Botfuzzy77#2926, Himay won a Items prize from a TESTING $5000 book...
+Botfuzzy77#2926, Its a **Master Ball!**
+Himay#3594, !redeem TESTFIVE
+Botfuzzy77#2926, Himay won a Legendary prize from a TESTING $5000 book...
+Botfuzzy77#2926, 
+Himay#3594, !redeem TESTFIVE
+Wertfuzzy77#0274, gj
+Himay#3594, yes
+Himay#3594, i got a lugia
+Botfuzzy77#2926, Himay won a Money prize from a TESTING $5000 book...
+Botfuzzy77#2926, Its **$4000**
+Himay#3594, now give me lugia
+Wertfuzzy77#0274, not really tho
+Himay#3594, ?
+Wertfuzzy77#0274, hence the "TEST"
+Wertfuzzy77#0274, not real code
+Himay#3594, RHMSRJYETHARHJSR
+Himay#3594, COME ON
+Himay#3594, CUT ME SOME SLACK
+Wertfuzzy77#0274, y would i give everyone like everyprize for free
+Himay#3594, how do i do a real one
+Wertfuzzy77#0274, win a tickey
+Himay#3594, not everyone
+Himay#3594, just me
+Himay#3594, how do i get a ticket
+Wertfuzzy77#0274, or catch in game
+Himay#3594, i need a masterball tho
+Himay#3594, cuz my charmander is level 7
+Himay#3594, it is gonna get pooped on
+Wertfuzzy77#0274, http://limitlessmc.net/f/viewtopic.php?f=11&t=3172
+Botfuzzy77#2926, **
+Redeem Tickets
+**
+
+#9550 by Wertfuzzy77
+ Mon Apr 25, 2016 12:36 pm 
+		
+So, Recently I have been working on a Ticket/redeeming system. Some of you might have seen me testing this by giving out $500 books But now I am ready for an official Release.So What are these tickets?Simply Said, These Tickets each contain a redeem code, which can be used on the server Discord to redeem a prize. The prize is completely random, and even I dont know what prize you will get. However, there is a weighted Probability. So for example, a $500 book has a very high chance to drop an item, and a low chance to drop anything else. and this is very diffferent from the 5k book. More information about Drops and Drop rates can be found Below:Link to Drop RatesHow do I get these Drops?There are 3 Major Ways you can receive these codesWin them from an Official TournamentGet them in a Drop PartyWin them in a Game hosted by StaffThe 1st Major Use for these Tickets will be in the Upcoming Noob Tournament. All of the...
+Wertfuzzy77#0274, clicky
+Wertfuzzy77#0274, sux
+Himay#3594, all these kids on this server are try hards
+Himay#3594, im just looking to mess around
+Wertfuzzy77#0274, Well this is a Competitive server
+Himay#3594, http://prntscr.com/awtw1p
+Himay#3594, i get taht one too
+Wertfuzzy77#0274, ya 100% graphics card driver
+Wertfuzzy77#0274, update it
+Himay#3594, its canerous
+Wertfuzzy77#0274, sux
+Himay#3594, cancerous
+Himay#3594, give me ho oh
+Wertfuzzy77#0274, no
+Himay#3594, give me masterball
+Wertfuzzy77#0274, never
+Himay#3594, /ban wertfuzzy77
+Wertfuzzy77#0274, !mute Himay
+Botfuzzy77#2926, Muted Himay
+Himay#3594, /ipban wertfuzzy77
+Himay#3594, nooooooooooo
+Wertfuzzy77#0274, gg
+Wertfuzzy77#0274, !unmute Himay
+Botfuzzy77#2926, Unmuted Himay
+Himay#3594, /ipban wertfuzzy77
+Himay#3594, /ddos wertfuzzy77
+Himay#3594, these commands suck
+Wertfuzzy77#0274, !timeout Himay
+Himay#3594, whats that
+Wertfuzzy77#0274, does nothing
+Himay#3594, lmao
+Himay#3594, give me ho oh
+Wertfuzzy77#0274, plus idk y you are doing /
+Wertfuzzy77#0274, its !
+Wertfuzzy77#0274, gj
+Wertfuzzy77#0274, also Kick/ban cmd not made
+Himay#3594, im just bored and want a ho oh to fly around in and wreck some noobs
+Wertfuzzy77#0274, so then win something, and get em
+Himay#3594, that takes time
+Wertfuzzy77#0274, ya
+Himay#3594, and ill most likely play for a week
+Wertfuzzy77#0274, problem?
+Himay#3594, and then quit
+Wertfuzzy77#0274, :/
+Himay#3594, i was pimped out af in mc.destiny.com
+Himay#3594, or something like that
+Himay#3594, but idk why i dont play it
+Himay#3594, i got bored of that server
+Himay#3594, oh yea
+Himay#3594, i remember they unclaimed my house cuz i was gone for more than month
+Wertfuzzy77#0274, we do that
+Himay#3594, even though i bought a rank
+Himay#3594, and some dude griefed my mansions (2 of them)
+Himay#3594, and took my 2 stacks of rare candies
+Himay#3594, and i lost 20k claimblocks
+Himay#3594, that just tilted me
+Himay#3594, they wouldnt give me my blocks back
+Himay#3594, ima go lizard squad on them
+Wertfuzzy77#0274, sux
+Himay#3594, i updated graphic drivers
+Himay#3594, still crashes
+JustinOPGamer#9138, wert u here?
+JustinOPGamer#9138, !redeem TESTFIVE
+Botfuzzy77#2926, JustinOPGamer won a Special prize from a TESTING $5000 book...
+Botfuzzy77#2926, You Won this Month's Special Prize!
+Botfuzzy77#2926, **A Shiny Suicine!**
+JustinOPGamer#9138, !redeem TESTFIVE
+Botfuzzy77#2926, JustinOPGamer won a Money prize from a TESTING $5000 book...
+Botfuzzy77#2926, Its **$4900**
+JustinOPGamer#9138, !redeem TESTFIVE
+Botfuzzy77#2926, JustinOPGamer won a Pack prize from a TESTING $5000 book...
+Botfuzzy77#2926, Its a **Animal Pack**
+JustinOPGamer#9138, !redeem TESTFIVE
+Botfuzzy77#2926, JustinOPGamer won a Money prize from a TESTING $5000 book...
+Botfuzzy77#2926, Its **$1400**
+JustinOPGamer#9138, twice in a row wert XD
+JustinOPGamer#9138, !redeem TESTFIVE
+Botfuzzy77#2926, JustinOPGamer won a Money prize from a TESTING $5000 book...
+Botfuzzy77#2926, Its **$2500**
+JustinOPGamer#9138, !redeem TESTFIVE
+Botfuzzy77#2926, JustinOPGamer won a Money prize from a TESTING $5000 book...
+Botfuzzy77#2926, Its **$1900**
+JustinOPGamer#9138, !redeem TESTFIVE
+Botfuzzy77#2926, JustinOPGamer won a Money prize from a TESTING $5000 book...
+Botfuzzy77#2926, Its **$2100**
+JustinOPGamer#9138, !redeem TESTFIVE
+Botfuzzy77#2926, JustinOPGamer won a Money prize from a TESTING $5000 book...
+Botfuzzy77#2926, Its **$2300**
+JustinOPGamer#9138, !redeem TESTFIVE
+Botfuzzy77#2926, JustinOPGamer won a Pack prize from a TESTING $5000 book...
+Botfuzzy77#2926, Its a **Pokeball Pack**
+JustinOPGamer#9138, !redeem TESTFIVE
+JustinOPGamer#9138, !redeem TESTFIVE
+JustinOPGamer#9138, !redeem TESTFIVE
+JustinOPGamer#9138, !redeem TESTFIVE
+JustinOPGamer#9138, !redeem TESTFIVE
+JustinOPGamer#9138, !redeem TESTFIVE
+JustinOPGamer#9138, !redeem TESTFIVE
+JustinOPGamer#9138, !redeem TESTFIVE
+JustinOPGamer#9138, !redeem TESTFIVE
+Botfuzzy77#2926, JustinOPGamer won a Legendary prize from a TESTING $5000 book...
+Botfuzzy77#2926, JustinOPGamer won a Pack prize from a TESTING $5000 book...
+Botfuzzy77#2926, JustinOPGamer won a Legendary prize from a TESTING $5000 book...
+Botfuzzy77#2926, JustinOPGamer won a Legendary prize from a TESTING $5000 book...
+Botfuzzy77#2926, JustinOPGamer won a Pack prize from a TESTING $5000 book...
+Botfuzzy77#2926, JustinOPGamer won a Special prize from a TESTING $5000 book...
+Botfuzzy77#2926, JustinOPGamer won a Legendary prize from a TESTING $5000 book...
+Botfuzzy77#2926, JustinOPGamer won a Legendary prize from a TESTING $5000 book...
+Botfuzzy77#2926, 
+Botfuzzy77#2926, JustinOPGamer won a Legendary prize from a TESTING $5000 book...
+JustinOPGamer#9138, !redeem TESTFIVE
+Botfuzzy77#2926, Its a **Animal Pack**
+Botfuzzy77#2926, You Won this Month's Special Prize!
+Botfuzzy77#2926, Its a **Building Pack**
+Botfuzzy77#2926, JustinOPGamer won a Money prize from a TESTING $5000 book...
+Botfuzzy77#2926, Its **$3900**
+Botfuzzy77#2926, **A Shiny Suicine!**
+JustinOPGamer#9138, lol like 30 legends

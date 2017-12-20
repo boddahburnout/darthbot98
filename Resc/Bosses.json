@@ -1,0 +1,102 @@
+{
+    "easy": {
+        "level": 17,
+        "name": "Tyrogue",
+        "moves": 5,
+        "health": 7429,
+        "starting_health": 7430,
+        "damage": {
+            "292484423658766346": 1
+        },
+        "is_defeated": false,
+        "has_been_revealed": true,
+        "combination": [
+            "B",
+            "E",
+            "I",
+            "P",
+            "G"
+        ],
+        "last_used_combo": "\ud83c\uddf3\u200b\ud83c\uddf3\u200b\ud83c\uddf3\u200b\ud83c\uddf3\u200b\ud83c\uddf3\n\u274c\u200b\u274c\u200b\u274c\u200b\u274c\u200b\u274c\n",
+        "summoner": "darth kota",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png"
+    },
+    "medium": {
+        "level": 20,
+        "name": "Lampent",
+        "moves": 8,
+        "health": 13986,
+        "starting_health": 13986,
+        "damage": {},
+        "is_defeated": false,
+        "has_been_revealed": false,
+        "combination": [
+            "G",
+            "W",
+            "S",
+            "G",
+            "W",
+            "I",
+            "G",
+            "B"
+        ],
+        "last_used_combo": "",
+        "summoner": "",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/608.png"
+    },
+    "hard": {
+        "level": 52,
+        "name": "Staraptor",
+        "moves": 10,
+        "health": 32900,
+        "starting_health": 32900,
+        "damage": {},
+        "is_defeated": false,
+        "has_been_revealed": false,
+        "combination": [
+            "D",
+            "F",
+            "E",
+            "W",
+            "I",
+            "P",
+            "F",
+            "W",
+            "N",
+            "E"
+        ],
+        "last_used_combo": "",
+        "summoner": "",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png"
+    },
+    "insane": {
+        "level": 95,
+        "name": "Hoopa",
+        "moves": 15,
+        "health": 111513,
+        "starting_health": 111513,
+        "damage": {},
+        "is_defeated": false,
+        "has_been_revealed": false,
+        "combination": [
+            "S",
+            "P",
+            "B",
+            "P",
+            "D",
+            "W",
+            "W",
+            "G",
+            "I",
+            "W",
+            "I",
+            "D",
+            "I",
+            "W",
+            "B"
+        ],
+        "last_used_combo": "",
+        "summoner": "",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/720.png"
+    }
+}

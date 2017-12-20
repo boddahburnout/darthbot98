@@ -1,0 +1,20 @@
+02 Apr 2017 00:45:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;changeBox 100 100 100
+02 Apr 2017 00:45:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 00:45:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug json.load(open('Players.json', 'r'))[ctx.message.author.id]['box_color']
+02 Apr 2017 00:45:28 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+['100', '100', '100']
+```
+02 Apr 2017 00:45:31 : LimitlessMc, botchat, Wertfuzzy77#0274, hmmmmmmmmmmmmmmmm
+02 Apr 2017 00:45:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ;changeBox 1 2 3
+02 Apr 2017 00:45:48 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug json.load(open('Players.json', 'r'))[ctx.message.author.id]['box_color']
+02 Apr 2017 00:45:48 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+['1', '2', '3']
+```
+02 Apr 2017 00:45:51 : LimitlessMc, botchat, Wertfuzzy77#0274, why thho
+02 Apr 2017 00:45:55 : LimitlessMc, botchat, Wertfuzzy77#0274, why you not tuple
+02 Apr 2017 00:46:00 : LimitlessMc, botchat, Wertfuzzy77#0274, useless @Botfuzzy77
+02 Apr 2017 00:46:01 : LimitlessMc, botchat, Botfuzzy77#2209, Why?
+02 Apr 2017 00:46:06 : LimitlessMc, botchat, Wertfuzzy77#0274, you just are @Botfuzzy77
+02 Apr 2017 00:46:07 : LimitlessMc, botchat, Botfuzzy77#2209, Well, thanks.
+02 Apr 2017 00:46:13 : LimitlessMc, botchat, Wertfuzzy77#0274, @Botfuzzy77 you're welcome
+02 Apr 2017 00:46:14 : LimitlessMc, botchat, Botfuzzy77#2209, You are rude.

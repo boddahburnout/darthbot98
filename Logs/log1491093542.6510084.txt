@@ -1,0 +1,14 @@
+02 Apr 2017 00:39:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 00:39:21 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 00:40:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;changeBox 100 100 100
+02 Apr 2017 00:40:14 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 00:41:04 : LimitlessMc, botchat, Wertfuzzy77#0274, ....
+02 Apr 2017 00:41:34 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug json.load(open('Players.json', 'r'))[ctx.message.author.id]['box_color']
+02 Apr 2017 00:41:34 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+['100', '100', '100']
+```
+02 Apr 2017 00:41:40 : LimitlessMc, botchat, Wertfuzzy77#0274, nu, I don't want a listtttt
+02 Apr 2017 00:41:43 : LimitlessMc, botchat, Wertfuzzy77#0274, I wanted a tuple
+02 Apr 2017 00:41:46 : LimitlessMc, botchat, Wertfuzzy77#0274, useless xD
+02 Apr 2017 00:41:50 : LimitlessMc, botchat, Wertfuzzy77#0274, @Botfuzzy77 do what I want you to do
+02 Apr 2017 00:41:52 : LimitlessMc, botchat, Botfuzzy77#2209, What?

@@ -1,0 +1,145 @@
+25 Apr 2017 15:31:48 : LimitlessMc, botchat, TherminatorX#6644, Since we can see them fine out of embeds
+25 Apr 2017 15:31:48 : LimitlessMc, botchat, Wertfuzzy77#0274, I think the bot crashed
+25 Apr 2017 15:31:48 : LimitlessMc, botchat, Wertfuzzy77#0274, true
+25 Apr 2017 15:31:48 : LimitlessMc, botchat, Wertfuzzy77#0274, I'll see whats wrong with my embeds
+25 Apr 2017 15:31:54 : LimitlessMc, botchat, TherminatorX#6644, 🤔 Woo! Thonk emote shows on mobile now!
+25 Apr 2017 15:31:59 : LimitlessMc, botchat, TherminatorX#6644, ...
+25 Apr 2017 15:32:03 : LimitlessMc, botchat, TherminatorX#6644, Or not
+25 Apr 2017 15:32:09 : LimitlessMc, botchat, Wertfuzzy77#0274, 🤔
+25 Apr 2017 15:32:10 : LimitlessMc, botchat, TherminatorX#6644, Weird
+25 Apr 2017 15:32:25 : LimitlessMc, botchat, TherminatorX#6644, It shows when I search for it...
+25 Apr 2017 15:32:30 : LimitlessMc, botchat, Wertfuzzy77#0274, lol
+25 Apr 2017 15:32:35 : LimitlessMc, botchat, TherminatorX#6644, But not once posted
+25 Apr 2017 15:32:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug bot.send_message(ctx.message.channel, embed=discord.Embed(title='Current Queue', description="🤔", colour=0x8989E5).set_author(name=ctx.message.author.name, icon_url=ctx.message.author.avatar_url))
+25 Apr 2017 15:32:57 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 15:32:57 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7fafdf8f4b28>
+```
+25 Apr 2017 15:33:04 : LimitlessMc, botchat, Wertfuzzy77#0274, 🤔
+25 Apr 2017 15:33:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug bot.send_message(ctx.message.channel, embed=discord.Embed(title='Current Queue', description="🤔", colour=0x8989E5).set_author(name=ctx.message.author.name, icon_url=ctx.message.author.avatar_url)).raw
+25 Apr 2017 15:33:25 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+AttributeError: 'generator' object has no attribute 'raw'
+```
+25 Apr 2017 15:33:28 : LimitlessMc, botchat, Wertfuzzy77#0274, hmmmm
+25 Apr 2017 15:33:34 : LimitlessMc, botchat, TherminatorX#6644, Lol, not the best option to test with
+25 Apr 2017 15:33:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ^
+25 Apr 2017 15:33:37 : LimitlessMc, botchat, Botfuzzy77#2209, ^
+25 Apr 2017 15:33:40 : LimitlessMc, botchat, TherminatorX#6644, ❌
+25 Apr 2017 15:33:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug bot.send_message(ctx.message.channel, embed=discord.Embed(title='Current Queue', description="❌", colour=0x8989E5).set_author(name=ctx.message.author.name, icon_url=ctx.message.author.avatar_url))
+25 Apr 2017 15:33:56 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 15:33:56 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7fafdf8ac870>
+```
+25 Apr 2017 15:34:16 : LimitlessMc, botchat, TherminatorX#6644, That embedded
+25 Apr 2017 15:35:01 : LimitlessMc, botchat, TherminatorX#6644, You hear about the beta, Crys?
+25 Apr 2017 15:35:13 : LimitlessMc, botchat, Crystal4209#4698, What beta?
+25 Apr 2017 15:35:21 : LimitlessMc, botchat, TherminatorX#6644, For Discord
+25 Apr 2017 15:35:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug bot.send_message(ctx.message.channel, embed=discord.Embed(title='Current Queue', description="❌❌", colour=0x8989E5).set_author(name=ctx.message.author.name, icon_url=ctx.message.author.avatar_url))
+25 Apr 2017 15:35:27 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 15:35:27 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7fafd475f048>
+```
+25 Apr 2017 15:35:41 : LimitlessMc, botchat, TherminatorX#6644, Fixed regional indicator emotes
+25 Apr 2017 15:36:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug bot.send_message(ctx.message.channel, embed=discord.Embed(title='Current Queue', description="🇩", colour=0x8989E5).set_author(name=ctx.message.author.name, icon_url=ctx.message.author.avatar_url))
+25 Apr 2017 15:36:03 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 15:36:03 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7fafd475f300>
+```
+25 Apr 2017 15:36:05 : LimitlessMc, botchat, Crystal4209#4698, So we can see the letters now?
+25 Apr 2017 15:36:07 : LimitlessMc, botchat, Wertfuzzy77#0274, wat
+25 Apr 2017 15:36:12 : LimitlessMc, botchat, Wertfuzzy77#0274, why does it work now
+25 Apr 2017 15:36:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;kms
+25 Apr 2017 15:36:13 : LimitlessMc, botchat, Botfuzzy77#2209, Do it, you wont
+25 Apr 2017 15:36:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ;kms
+25 Apr 2017 15:36:15 : LimitlessMc, botchat, Botfuzzy77#2209, Don't Die
+25 Apr 2017 15:36:18 : LimitlessMc, botchat, TherminatorX#6644, Yep
+25 Apr 2017 15:36:23 : LimitlessMc, botchat, Crystal4209#4698, Hm
+25 Apr 2017 15:36:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pbs
+25 Apr 2017 15:36:27 : LimitlessMc, botchat, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> medium to fight and reveal the boss.
+25 Apr 2017 15:36:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pb SSSSSSSS
+25 Apr 2017 15:36:32 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 15:36:34 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 15:36:38 : LimitlessMc, botchat, TherminatorX#6644, If you use the beta app that is
+25 Apr 2017 15:36:46 : LimitlessMc, botchat, Wertfuzzy77#0274, WHY DON'T YOU WORK ON MOBILE, YOU TOASTER @Botfuzzy77
+25 Apr 2017 15:36:47 : LimitlessMc, botchat, Botfuzzy77#2209, Ok.
+25 Apr 2017 15:36:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ....
+25 Apr 2017 15:36:51 : LimitlessMc, botchat, Wertfuzzy77#0274, kms
+25 Apr 2017 15:37:03 : LimitlessMc, botchat, Wertfuzzy77#0274, This is what being a parent must be like
+25 Apr 2017 15:37:17 : LimitlessMc, botchat, TherminatorX#6644, Apparently
+25 Apr 2017 15:37:22 : LimitlessMc, botchat, TherminatorX#6644, 😉
+25 Apr 2017 15:37:44 : LimitlessMc, botchat, Crystal4209#4698, Nah, raising a child might be easier then teaching this 😛
+25 Apr 2017 15:38:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug bot.send_message(ctx.message.channel, embed=discord.Embed(title='Current Queue', description="Hello/n" + ":regional_indicator_B:", colour=0x8989E5).set_author(name=ctx.message.author.name, icon_url=ctx.message.author.avatar_url))
+25 Apr 2017 15:38:06 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 15:38:06 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7fafd478c130>
+```
+25 Apr 2017 15:38:10 : LimitlessMc, botchat, Wertfuzzy77#0274, woops
+25 Apr 2017 15:38:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug bot.send_message(ctx.message.channel, embed=discord.Embed(title='Current Queue', description="Hello\n" + ":regional_indicator_B:", colour=0x8989E5).set_author(name=ctx.message.author.name, icon_url=ctx.message.author.avatar_url))
+25 Apr 2017 15:38:26 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 15:38:26 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7fafd478c5b8>
+```
+25 Apr 2017 15:38:32 : LimitlessMc, botchat, TherminatorX#6644, True, human children have an aptitude for picking stuff up via copying
+25 Apr 2017 15:38:36 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug bot.send_message(ctx.message.channel, embed=discord.Embed(title='Current Queue', description="Hello\n" + "🇧", colour=0x8989E5).set_author(name=ctx.message.author.name, icon_url=ctx.message.author.avatar_url))
+25 Apr 2017 15:38:38 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 15:38:38 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7fafd478ca40>
+```
+25 Apr 2017 15:38:41 : LimitlessMc, botchat, Wertfuzzy77#0274, .............
+25 Apr 2017 15:38:45 : LimitlessMc, botchat, TherminatorX#6644, Bots, however
+25 Apr 2017 15:38:45 : LimitlessMc, botchat, Crystal4209#4698, Very tru
+25 Apr 2017 15:38:48 : LimitlessMc, botchat, Wertfuzzy77#0274, I don't understand
+25 Apr 2017 15:38:55 : LimitlessMc, botchat, Crystal4209#4698, ^
+25 Apr 2017 15:38:55 : LimitlessMc, botchat, Botfuzzy77#2209, ^
+25 Apr 2017 15:39:08 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug bot.send_message(ctx.message.channel, embed=discord.Embed(title='Current Queue', description="Hello\n" + "🇧🇧🇧", colour=0x8989E5).set_author(name=ctx.message.author.name, icon_url=ctx.message.author.avatar_url))
+25 Apr 2017 15:39:10 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 15:39:10 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7fafd47693e8>
+```
+25 Apr 2017 15:39:16 : LimitlessMc, botchat, Wertfuzzy77#0274, wait wut
+25 Apr 2017 15:39:22 : LimitlessMc, botchat, Wertfuzzy77#0274, wutttt
+25 Apr 2017 15:39:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gif doctor who what
+25 Apr 2017 15:39:28 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/doctor-who-hJeWbmvZYTy9y/giphy.gif
+25 Apr 2017 15:39:55 : LimitlessMc, botchat, Crystal4209#4698, Oh shit look at the time I need to sleep
+25 Apr 2017 15:40:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug bot.send_message(ctx.message.channel, embed=discord.Embed(title='Current Queue', description="Hello\n" + "regional_indicator_f:🇧", colour=0x8989E5).set_author(name=ctx.message.author.name, icon_url=ctx.message.author.avatar_url))
+25 Apr 2017 15:40:04 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 15:40:04 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7fafd4769870>
+```
+25 Apr 2017 15:40:08 : LimitlessMc, botchat, Wertfuzzy77#0274, hmmmmmmmmmmmmmmmmm
+25 Apr 2017 15:40:12 : LimitlessMc, botchat, TherminatorX#6644, Pft, nah
+25 Apr 2017 15:40:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug bot.send_message(ctx.message.channel, embed=discord.Embed(title='Current Queue', description="Hello\n" + "❌🇫🇧", colour=0x8989E5).set_author(name=ctx.message.author.name, icon_url=ctx.message.author.avatar_url))
+25 Apr 2017 15:40:21 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 15:40:21 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7fafd4769de0>
+```
+25 Apr 2017 15:40:28 : LimitlessMc, botchat, TherminatorX#6644, It's only 20 til midnight, right?
+25 Apr 2017 15:40:40 : LimitlessMc, botchat, Crystal4209#4698, I wake up in basically 6 hours
+25 Apr 2017 15:40:47 : LimitlessMc, botchat, TherminatorX#6644, So?
+25 Apr 2017 15:40:51 : LimitlessMc, botchat, TherminatorX#6644, 😛
+25 Apr 2017 15:41:22 : LimitlessMc, botchat, Crystal4209#4698, Hate having less sleep, usually start to feel like Ima vomit
+25 Apr 2017 15:41:37 : LimitlessMc, botchat, TherminatorX#6644, lma?
+25 Apr 2017 15:41:52 : LimitlessMc, botchat, TherminatorX#6644, That shorthand for llama?
+25 Apr 2017 15:41:52 : LimitlessMc, botchat, Crystal4209#4698, Shh
+25 Apr 2017 15:42:00 : LimitlessMc, botchat, Crystal4209#4698, No..
+25 Apr 2017 15:42:05 : LimitlessMc, botchat, TherminatorX#6644, Lol
+25 Apr 2017 15:42:17 : LimitlessMc, botchat, Crystal4209#4698, ;train
+25 Apr 2017 15:42:19 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 15:42:21 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 15:42:46 : LimitlessMc, botchat, TherminatorX#6644, ;train
+25 Apr 2017 15:42:49 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 15:42:51 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 15:42:54 : LimitlessMc, botchat, Crystal4209#4698, ;level
+25 Apr 2017 15:42:59 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 15:43:07 : LimitlessMc, botchat, TherminatorX#6644, Get on my
+25 Apr 2017 15:43:08 : LimitlessMc, botchat, Crystal4209#4698, Bork
+25 Apr 2017 15:43:12 : LimitlessMc, botchat, TherminatorX#6644, ;level
+25 Apr 2017 15:43:14 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 15:43:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+25 Apr 2017 15:43:32 : LimitlessMc, botchat, Wertfuzzy77#0274, no idea if that works
+25 Apr 2017 15:43:35 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pbs
+25 Apr 2017 15:43:37 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 15:43:41 : LimitlessMc, botchat, Wertfuzzy77#0274, well, it didnt
+25 Apr 2017 15:43:43 : LimitlessMc, botchat, Wertfuzzy77#0274, ;relog
+25 Apr 2017 15:43:43 : LimitlessMc, botchat, Botfuzzy77#2209, Relogging...

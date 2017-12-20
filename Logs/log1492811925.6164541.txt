@@ -1,0 +1,1137 @@
+21 Apr 2017 21:58:56 : RooberBoobers, kinkyroleplay, Tic-Tat-Purl#4152, "Anyone want these baby opals? I just got rid of the mum and found these Lil shits in a box
+21 Apr 2017 21:58:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+21 Apr 2017 21:59:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+21 Apr 2017 21:59:03 : LimitlessMc, botchat, Botfuzzy77#2209, 
+21 Apr 2017 21:59:08 : LimitlessMc, botchat, Wertfuzzy77#0274, ;status
+21 Apr 2017 21:59:09 : LimitlessMc, botchat, Botfuzzy77#2209, ```UpTime: 0:00:23s
+Total Messages: 3
+Servers Joined: 15
+CPU usage: 0.0%
+Memory usage: 34.9%
+```
+21 Apr 2017 21:59:15 : RooberBoobers, kinkyroleplay, TopDroppy#6475, " I thought you would crush them and fap to them like you always do. " She snorted.
+21 Apr 2017 21:59:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug [x.name for x in bot.servers]
+21 Apr 2017 21:59:23 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+['Alone Server', 'LimitlessMc', 'GetPlebd', 'OblivionEvolved', 'The Raw Man Cult', 'The Choudhry', 'Pulse', 'House of Stubb', 'Team Harmony', 'nein', 'Cipher', 'Unity Of Nirvana', 'RooberBoobers', "Shadow's Subnautica", 'Pokemon Mystery Dungeon']
+```
+21 Apr 2017 21:59:36 : RooberBoobers, kinkyroleplay, Collin#5120, Mmphie raised her hand. "I'll take one!"
+21 Apr 2017 21:59:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug sorted([(x['Name'], int(time.time() - x['Time'])) for x in json.load(open('Players.json', 'r')).values() if x.get("Time", 0) + 86400 > time.time()], key = lambda x: x[1])
+21 Apr 2017 21:59:40 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+[('Wertfuzzy77', 37), ('StarwinnerCraft', 1442), ('TherminatorX', 20072), ('darth kota', 32838), ('(Not Really)Head Mod AlphaBit', 33032), ('Crystal4209', 33239), ('Lightning', 34941), ('MrMudkipKipperten', 35250), ('Bakafish', 42752), ('theOnlyJuan', 52101), ('Dasher', 66299), ('Tux', 72719), ('JustinOPGamer', 75931)]
+```
+21 Apr 2017 21:59:55 : RooberBoobers, kinkyroleplay, Tic-Tat-Purl#4152, "I don't do gemlings, I'm not that fucked up
+21 Apr 2017 22:00:04 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug sorted([(x['Name'], int(time.time() - x['Time'])) for x in json.load(open('Players.json', 'r')).values() if x.get("Time", 0) + 3600 > time.time()], key = lambda x: x[1])
+21 Apr 2017 22:00:04 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+[('Wertfuzzy77', 60), ('StarwinnerCraft', 1466)]
+```
+21 Apr 2017 22:00:13 : RooberBoobers, kinkyroleplay, Tic-Tat-Purl#4152, *tosses an opal to mmphie*
+21 Apr 2017 22:00:34 : RooberBoobers, kinkyroleplay, ComradeBismuth#5997, Gutsy looked up. Her stomach as already half finished digesting it's meal and she never knew when she'd be hungry again. "Me too!"
+21 Apr 2017 22:01:05 : RooberBoobers, kinkyroleplay, Tic-Tat-Purl#4152, *tosses a few by the legs to gutsy*
+21 Apr 2017 22:01:45 : RooberBoobers, kinkyroleplay, TopDroppy#6475, lighty facepalmed.
+21 Apr 2017 22:01:50 : RooberBoobers, kinkyroleplay, Collin#5120, Mmphie stuffed the Opal in between her cleavage. "Thanks! I'm going to scramble before Rubie O'Donnell over there decides to consume another youth of our nation." She gestured over at Gutsy.
+21 Apr 2017 22:01:58 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+21 Apr 2017 22:01:58 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+21 Apr 2017 22:02:00 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=fAQBTU1vXS0
+21 Apr 2017 22:02:01 : RooberBoobers, kinkyroleplay, Tic-Tat-Purl#4152, Lol
+21 Apr 2017 22:02:02 : LimitlessMc, botchat, Botfuzzy77#2209, Added DEAMN - Drive My Car to the queue
+21 Apr 2017 22:02:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ;recommend
+21 Apr 2017 22:02:10 : RooberBoobers, kinkyroleplay, TopDroppy#6475, Lighty walked over to gutsy.
+21 Apr 2017 22:02:10 : LimitlessMc, botchat, Botfuzzy77#2209, Recommend Songs to play: True
+21 Apr 2017 22:02:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;loop 3
+21 Apr 2017 22:02:13 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*DEAMN - Drive My Car*' **3** more times
+21 Apr 2017 22:02:16 : RooberBoobers, kinkyroleplay, TopDroppy#6475, Taking the opal, and then suddenly putting something on her back.
+21 Apr 2017 22:02:22 : RooberBoobers, kinkyroleplay, TopDroppy#6475, And running away.
+21 Apr 2017 22:02:28 : RooberBoobers, kinkyroleplay, ComradeBismuth#5997, Gutsy pointed a pistol at Lighty
+21 Apr 2017 22:02:37 : RooberBoobers, kinkyroleplay, ComradeBismuth#5997, "GIVE THAT BACK FUCKER
+21 Apr 2017 22:02:37 : RooberBoobers, kinkyroleplay, TopDroppy#6475, " What, a Bullet? "
+21 Apr 2017 22:02:37 : RooberBoobers, kinkyroleplay, Tic-Tat-Purl#4152, "I only grabbed em cause they didn't have arms
+21 Apr 2017 22:02:39 : RooberBoobers, kinkyroleplay, TopDroppy#6475, " Try me. "
+21 Apr 2017 22:03:05 : RooberBoobers, kinkyroleplay, ComradeBismuth#5997, Gutsy paused, then threw the gun away and took out a fucking RPG
+21 Apr 2017 22:03:22 : RooberBoobers, kinkyroleplay, ComradeBismuth#5997, She fired straigh at Lighty's fuckign face
+21 Apr 2017 22:03:45 : RooberBoobers, kinkyroleplay, TopDroppy#6475, She put a hand infront of her face.
+21 Apr 2017 22:03:50 : RooberBoobers, kinkyroleplay, TopDroppy#6475, The bullets melted upon contact with her hand.
+21 Apr 2017 22:04:01 : OblivionEvolved, server_news, StubbyMuffins#1053, @​everyone Server adjusted and back online !
+21 Apr 2017 22:04:09 : RooberBoobers, kinkyroleplay, Tic-Tat-Purl#4152, *noms on a ded gemling while watching the fight*
+21 Apr 2017 22:04:12 : RooberBoobers, kinkyroleplay, ComradeBismuth#5997, But since they were explosive they blew up in Lighty's face
+21 Apr 2017 22:04:22 : RooberBoobers, kinkyroleplay, TopDroppy#6475, She wiped ashes off her face.
+21 Apr 2017 22:04:33 : RooberBoobers, kinkyroleplay, TopDroppy#6475, " Gutsy, you need to go on a diet. "
+21 Apr 2017 22:04:42 : RooberBoobers, kinkyroleplay, TopDroppy#6475, Lighty took one of the ropes she took from Mmphie.
+21 Apr 2017 22:04:47 : RooberBoobers, kinkyroleplay, Tic-Tat-Purl#4152, *crunch crunch*
+21 Apr 2017 22:04:56 : RooberBoobers, kinkyroleplay, TopDroppy#6475, She walked over to Gutsy, kicking her onto the ground.
+21 Apr 2017 22:05:08 : RooberBoobers, kinkyroleplay, TopDroppy#6475, Being the savage, She started to repeatedly tie Gutsy's jaw.
+21 Apr 2017 22:05:27 : RooberBoobers, kinkyroleplay, ComradeBismuth#5997, Gutsy grabbed Lighty by the leg and threw her to the ground.
+21 Apr 2017 22:05:33 : RooberBoobers, kinkyroleplay, TopDroppy#6475, Lighty got back up.
+21 Apr 2017 22:05:36 : RooberBoobers, kinkyroleplay, TopDroppy#6475, And snickered.
+21 Apr 2017 22:05:41 : RooberBoobers, kinkyroleplay, TopDroppy#6475, And ran away.
+21 Apr 2017 22:05:43 : RooberBoobers, kinkyroleplay, ComradeBismuth#5997, She puched her repeatedly across the face
+21 Apr 2017 22:05:49 : RooberBoobers, kinkyroleplay, TopDroppy#6475, Lighty laughed.
+21 Apr 2017 22:05:54 : RooberBoobers, kinkyroleplay, TopDroppy#6475, " Your not that strong your just really fat- "
+21 Apr 2017 22:06:02 : RooberBoobers, kinkyroleplay, ComradeBismuth#5997, Gutsy broke her neck
+21 Apr 2017 22:06:09 : RooberBoobers, kinkyroleplay, ComradeBismuth#5997, And sat on her
+21 Apr 2017 22:06:23 : RooberBoobers, kinkyroleplay, TopDroppy#6475, Lighty popped her neck back into place. " Rude" ?
+21 Apr 2017 22:06:25 : RooberBoobers, kinkyroleplay, ComradeBismuth#5997, and kept punching her
+21 Apr 2017 22:06:27 : RooberBoobers, kinkyroleplay, TopDroppy#6475, Rude?*
+21 Apr 2017 22:06:34 : RooberBoobers, kinkyroleplay, TopDroppy#6475, She grabbed gutsy's hands.
+21 Apr 2017 22:06:39 : RooberBoobers, kinkyroleplay, Tic-Tat-Purl#4152, "I'm guessing you 2 don't get along."
+21 Apr 2017 22:06:48 : RooberBoobers, kinkyroleplay, ComradeBismuth#5997, Gutsy took them out her hands
+21 Apr 2017 22:06:58 : RooberBoobers, kinkyroleplay, ComradeBismuth#5997, and poked out Lighty's eyes
+21 Apr 2017 22:07:06 : RooberBoobers, kinkyroleplay, TopDroppy#6475, Lighty slipped out from under gutsy.
+21 Apr 2017 22:07:14 : RooberBoobers, kinkyroleplay, Collin#5120, The young Opal popped her head up from Mmphie's breasts. Mmphie looked at the adorable little gem and laughed. "Aww!"
+21 Apr 2017 22:07:43 : RooberBoobers, kinkyroleplay, TopDroppy#6475, Lighty ran over to Mmphie almost instantly, climbing onto her head. " That Fat gem is a psycho bitch- "
+21 Apr 2017 22:08:08 : RooberBoobers, kinkyroleplay, Tic-Tat-Purl#4152, *still chewing on a headless opal*
+21 Apr 2017 22:08:27 : RooberBoobers, kinkyroleplay, ComradeBismuth#5997, Gusty turned around and picked up the remaining Opals. "That's because you're a fucking asshole!"
+21 Apr 2017 22:08:40 : RooberBoobers, kinkyroleplay, TopDroppy#6475, " YOUR EATING CHILDREN- "
+21 Apr 2017 22:08:55 : RooberBoobers, kinkyroleplay, TopDroppy#6475, " Well so is she but- "
+21 Apr 2017 22:08:56 : RooberBoobers, kinkyroleplay, ComradeBismuth#5997, "You're an arsonist!
+21 Apr 2017 22:08:57 : RooberBoobers, kinkyroleplay, Tic-Tat-Purl#4152, "they don't have arms
+21 Apr 2017 22:09:09 : RooberBoobers, kinkyroleplay, TopDroppy#6475, " I know, I like being an Arsonist. " She winked.
+21 Apr 2017 22:09:13 : LimitlessMc, mainchat, Wertfuzzy77#0274, yaa
+21 Apr 2017 22:09:18 : LimitlessMc, mainchat, Wertfuzzy77#0274, elevator music
+21 Apr 2017 22:09:23 : LimitlessMc, mainchat, Wertfuzzy77#0274, *ding*
+21 Apr 2017 22:09:27 : LimitlessMc, mainchat, Wertfuzzy77#0274, *door opens*
+21 Apr 2017 22:09:28 : LimitlessMc, mainchat, Wertfuzzy77#0274, o
+21 Apr 2017 22:09:30 : RooberBoobers, kinkyroleplay, ComradeBismuth#5997, "Well I like eating Gems whole, so" Gutsy flipped the bird
+21 Apr 2017 22:09:37 : LimitlessMc, mainchat, Jay113355#4999, better?
+21 Apr 2017 22:09:37 : RooberBoobers, kinkyroleplay, Tic-Tat-Purl#4152, "also, alot of them are cracked
+21 Apr 2017 22:09:46 : LimitlessMc, mainchat, Wertfuzzy77#0274, sure xD
+21 Apr 2017 22:09:56 : LimitlessMc, mainchat, Wertfuzzy77#0274, better would be control over it
+21 Apr 2017 22:09:59 : RooberBoobers, kinkyroleplay, TopDroppy#6475, Lighty flipped the bird back.
+21 Apr 2017 22:10:00 : RooberBoobers, kinkyroleplay, ComradeBismuth#5997, Gutsy walkieed away, cradling the Opals
+21 Apr 2017 22:10:01 : LimitlessMc, mainchat, Jay113355#4999, there is.
+21 Apr 2017 22:10:04 : LimitlessMc, mainchat, Wertfuzzy77#0274, hmmmmmmm
+21 Apr 2017 22:10:07 : RooberBoobers, kinkyroleplay, TopDroppy#6475, " Fatass hoe! "
+21 Apr 2017 22:10:11 : LimitlessMc, mainchat, Jay113355#4999, i just havent fully writen out the return messages
+21 Apr 2017 22:10:15 : RooberBoobers, kinkyroleplay, TopDroppy#6475, She sat on Mmphie.
+21 Apr 2017 22:10:21 : RooberBoobers, kinkyroleplay, ComradeBismuth#5997, Gutsy ignored her
+21 Apr 2017 22:10:22 : LimitlessMc, mainchat, Jay113355#4999, as im upgrading the internals
+21 Apr 2017 22:10:22 : LimitlessMc, mainchat, Wertfuzzy77#0274, whats teh cmds tho?
+21 Apr 2017 22:10:27 : LimitlessMc, mainchat, Jay113355#4999, no commands
+21 Apr 2017 22:10:31 : LimitlessMc, mainchat, Jay113355#4999, just pm him
+21 Apr 2017 22:10:33 : LimitlessMc, mainchat, Jay113355#4999, links
+21 Apr 2017 22:10:36 : LimitlessMc, mainchat, Wertfuzzy77#0274, o
+21 Apr 2017 22:11:00 : RooberBoobers, kinkyroleplay, TopDroppy#6475, imma side as one of the opals omfg
+21 Apr 2017 22:11:17 : RooberBoobers, kinkyroleplay, TopDroppy#6475, One of the opals was flailing its arms around, screaming and crying.
+21 Apr 2017 22:11:22 : RooberBoobers, kinkyroleplay, Tic-Tat-Purl#4152, "I don't think anyone could help a cracked gemling..."
+21 Apr 2017 22:11:35 : LimitlessMc, mainchat, Wertfuzzy77#0274, I dont understand xD
+21 Apr 2017 22:11:36 : RooberBoobers, kinkyroleplay, Tic-Tat-Purl#4152, "again, they are armless"
+21 Apr 2017 22:11:37 : RooberBoobers, kinkyroleplay, TopDroppy#6475, " That question we will never know. "
+21 Apr 2017 22:11:44 : RooberBoobers, kinkyroleplay, TopDroppy#6475, Lighty was drinking gasoline.
+21 Apr 2017 22:13:04 : RooberBoobers, kinkyroleplay, Tic-Tat-Purl#4152, *buries the opal's gem*
+21 Apr 2017 22:13:34 : RooberBoobers, kinkyroleplay, TopDroppy#6475, alsoifyoudidntnoticemygemiseasilytriggered- ))
+21 Apr 2017 22:13:54 : RooberBoobers, kinkyroleplay, TopDroppy#6475, " You could shatter Gutsy, youd be doing me a favorrr- " Lighty snorted.
+21 Apr 2017 22:14:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=s5TIulzXoXo
+21 Apr 2017 22:14:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;server
+21 Apr 2017 22:14:25 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+21 Apr 2017 22:14:25 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 8 players out of 150
+ *Ping*: 113.717 ms
+ *MC Version*: 1.10.2
+21 Apr 2017 22:14:25 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.3
+21 Apr 2017 22:14:25 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *StarwinnerCraft, darthkota98, Cryotrees, reyjr10, Gertwert, SALIRED, FROSTY0GAMING, SSLNick...*
+21 Apr 2017 22:35:35 : LimitlessMc, botchat, Crystal4209#4698, ;train
+21 Apr 2017 22:35:36 : LimitlessMc, botchat, Botfuzzy77#2209, 
+21 Apr 2017 22:35:39 : LimitlessMc, botchat, Botfuzzy77#2209, 
+21 Apr 2017 22:36:24 : OblivionEvolved, general, Shy#1903, YES
+21 Apr 2017 22:36:29 : OblivionEvolved, general, Shy#1903, SO NOW I CAN SPAM HARVEST!
+21 Apr 2017 22:36:34 : OblivionEvolved, general, Shy#1903, IM ON MY WAY ANKY!
+21 Apr 2017 22:45:31 : LimitlessMc, mainchat, ZyroPlayz#3967, this is a nice song @Wertfuzzy77
+21 Apr 2017 22:45:40 : LimitlessMc, mainchat, Wertfuzzy77#0274, the bot recommended it
+21 Apr 2017 22:45:43 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+21 Apr 2017 22:45:43 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Advanced - Start Again (feat. Ashley Jana)
+**Requester**: Radio: MALEY - I Want It All
+**URL**: <https://www.youtube.com/watch?v=-1tLSyabGjU>
+```py
+Time: 0:03:43
+Views: 9,442
+Likes: 400, 99.75%
+Dislikes: 1, 0.25%
+Skips: 0/1```
+21 Apr 2017 22:45:47 : LimitlessMc, mainchat, ZyroPlayz#3967, ;]
+21 Apr 2017 22:45:51 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+21 Apr 2017 22:45:51 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+21 Apr 2017 22:45:51 : LimitlessMc, botchat, Botfuzzy77#2209, 1. r3n - Day after day **Radio: MALEY - I Want It All**
+	<https://www.youtube.com/watch?v=Y1rfSJ5Y7BM>
+2. Pure 100% - Love Ya **Radio: Advanced - Start Again (feat. Ashley Jana)**
+	<https://www.youtube.com/watch?v=pm3bjFzHOMU>
+3. Yunomi - ロボティックガール (Robotic Girl) [Dream Hackers Remix] **Radio: DEAMN - Drive My Car**
+	<https://www.youtube.com/watch?v=vKgUlBfIK8o>
+4. iMeiden - Atmosphere **Radio: iMeiden - Revolution**
+	<https://www.youtube.com/watch?v=dkEVTnRZqSc>
+5. r3n - Lily **Radio: Advanced - Start Again (feat. Ashley Jana)**
+	<https://www.youtube.com/watch?v=e_qZp4zm-yQ>
+Total Time is 0:19:02
+21 Apr 2017 22:47:56 : OblivionEvolved, general, StubbyMuffins#1053, rofl
+21 Apr 2017 22:51:28 : LimitlessMc, mainchat, ZyroPlayz#3967, @Wertfuzzy77 u should play like bill nye the science guy remixes in here c;
+21 Apr 2017 22:51:44 : LimitlessMc, mainchat, Wertfuzzy77#0274, you could play it
+21 Apr 2017 22:51:52 : LimitlessMc, mainchat, Wertfuzzy77#0274, .;youtube [link]
+21 Apr 2017 22:52:18 : LimitlessMc, mainchat, ZyroPlayz#3967, https://www.youtube.com/watch?v=-5CVVKIowX0
+21 Apr 2017 22:52:32 : Pulse, game-chat, JustinOPGamer#9138, ;train
+21 Apr 2017 22:52:32 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 22:52:32 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 22:52:39 : LimitlessMc, mainchat, ZyroPlayz#3967, .; youtube https://www.youtube.com/watch?v=-5CVVKIowX0
+21 Apr 2017 22:52:49 : LimitlessMc, mainchat, Wertfuzzy77#0274, you cant do it in main chat
+21 Apr 2017 22:53:04 : LimitlessMc, mainchat, ZyroPlayz#3967, how does one work bits
+21 Apr 2017 22:53:05 : LimitlessMc, mainchat, ZyroPlayz#3967, bots
+21 Apr 2017 22:53:18 : Pulse, game-chat, JustinOPGamer#9138, ;pbt NNNNNNNN
+21 Apr 2017 22:53:18 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 22:53:18 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 22:53:50 : LimitlessMc, mainchat, Wertfuzzy77#0274, go to #botchat and do `;youtube [your link]`
+21 Apr 2017 22:54:03 : LimitlessMc, mainchat, ZyroPlayz#3967, k
+21 Apr 2017 22:54:38 : LimitlessMc, botchat, ZyroPlayz#3967, ;youtube https://www.youtube.com/watch?v=oQn-K3h_MfY
+21 Apr 2017 22:54:39 : LimitlessMc, botchat, Botfuzzy77#2209, Added Tobu & Jordan Kelvin James - Summer Breeze to the queue
+21 Apr 2017 22:55:01 : Pulse, game-chat, JustinOPGamer#9138, ;pbt FFFFFFFFF
+21 Apr 2017 22:55:01 : Pulse, game-chat, Botfuzzy77#2209, Please use a Combination of **8** Types. `;types`
+21 Apr 2017 22:55:07 : Pulse, game-chat, JustinOPGamer#9138, ;pbt FFFFFFFF
+21 Apr 2017 22:55:07 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 22:55:08 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 22:55:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+21 Apr 2017 22:55:25 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+21 Apr 2017 22:55:25 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Yunomi - ロボティックガール (Robotic Girl) [Dream Hackers Remix] **Radio: DEAMN - Drive My Car**
+	<https://www.youtube.com/watch?v=vKgUlBfIK8o>
+2. iMeiden - Atmosphere **Radio: iMeiden - Revolution**
+	<https://www.youtube.com/watch?v=dkEVTnRZqSc>
+3. r3n - Lily **Radio: Advanced - Start Again (feat. Ashley Jana)**
+	<https://www.youtube.com/watch?v=e_qZp4zm-yQ>
+4. Wisp X - Moon **Radio: r3n - Day after day**
+	<https://www.youtube.com/watch?v=fMcf4WhWXTI>
+5. Yunomi - ロボティックガール (Robotic Girl) [Dream Hackers Remix] **Radio: Pure 100% - Love Ya**
+	<https://www.youtube.com/watch?v=vKgUlBfIK8o>
+6. Tobu & Jordan Kelvin James - Summer Breeze **ZyroPlayz**
+	<https://www.youtube.com/watch?v=oQn-K3h_MfY>
+Total Time is 0:24:36
+21 Apr 2017 22:55:43 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+21 Apr 2017 22:55:43 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Yunomi - ロボティックガール (Robotic Girl) [Dream Hackers Remix] by request (Radio Song)
+21 Apr 2017 22:55:55 : LimitlessMc, botchat, Wertfuzzy77#0274, feel free to skip what you want
+21 Apr 2017 22:55:58 : LimitlessMc, botchat, Wertfuzzy77#0274, its on recommend mode
+21 Apr 2017 22:56:02 : LimitlessMc, botchat, Wertfuzzy77#0274, so it will keep adding songs
+21 Apr 2017 22:56:10 : LimitlessMc, botchat, ZyroPlayz#3967, ;skip
+21 Apr 2017 22:56:11 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping iMeiden - Atmosphere by request (Radio Song)
+21 Apr 2017 22:56:36 : LimitlessMc, botchat, ZyroPlayz#3967, ;skip
+21 Apr 2017 22:56:36 : Pulse, game-chat, JustinOPGamer#9138, ;pbt WWWWWWWW
+21 Apr 2017 22:56:36 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping r3n - Lily by request (Radio Song)
+21 Apr 2017 22:56:36 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 22:56:36 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 22:57:15 : LimitlessMc, botchat, ZyroPlayz#3967, nope no classical music xD
+21 Apr 2017 22:57:17 : LimitlessMc, botchat, ZyroPlayz#3967, ;skip
+21 Apr 2017 22:57:17 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Wisp X - Moon by request (Radio Song)
+21 Apr 2017 22:57:46 : LimitlessMc, botchat, darth kota#9446, wtf am i listen too
+21 Apr 2017 22:57:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+21 Apr 2017 22:57:50 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Yunomi - ロボティックガール (Robotic Girl) [Dream Hackers Remix]
+**Requester**: Radio: Pure 100% - Love Ya
+**URL**: <https://www.youtube.com/watch?v=vKgUlBfIK8o>
+```py
+Time: 0:04:22
+Views: 10,116
+Likes: 429, 99.54%
+Dislikes: 2, 0.46%
+Skips: 0/3```
+21 Apr 2017 22:57:51 : LimitlessMc, botchat, ZyroPlayz#3967, i have no idea xD
+21 Apr 2017 22:58:04 : LimitlessMc, botchat, Wertfuzzy77#0274, remix of some song
+21 Apr 2017 22:58:12 : LimitlessMc, botchat, Wertfuzzy77#0274, skip if you don't like xD
+21 Apr 2017 22:58:12 : LimitlessMc, botchat, ZyroPlayz#3967, sounds asian
+21 Apr 2017 22:58:16 : LimitlessMc, botchat, Wertfuzzy77#0274, ya, is weeb
+21 Apr 2017 22:58:16 : LimitlessMc, botchat, Third_Worm#4804, ;song
+21 Apr 2017 22:58:17 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Yunomi - ロボティックガール (Robotic Girl) [Dream Hackers Remix]
+**Requester**: Radio: Pure 100% - Love Ya
+**URL**: <https://www.youtube.com/watch?v=vKgUlBfIK8o>
+```py
+Time: 0:04:22
+Views: 10,116
+Likes: 429, 99.54%
+Dislikes: 2, 0.46%
+Skips: 0/3```
+21 Apr 2017 22:58:19 : LimitlessMc, botchat, JustinOPGamer#9138, it is
+21 Apr 2017 22:58:24 : LimitlessMc, botchat, Third_Worm#4804, ;songs
+21 Apr 2017 22:58:24 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+21 Apr 2017 22:58:25 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Tobu & Jordan Kelvin James - Summer Breeze **ZyroPlayz**
+	<https://www.youtube.com/watch?v=oQn-K3h_MfY>
+2. iMeiden - Wave Laser **Radio: iMeiden - Atmosphere**
+	<https://www.youtube.com/watch?v=6F8OXgCjdww>
+3. iMeiden - Party **Radio: r3n - Lily**
+	<https://www.youtube.com/watch?v=xLF0r_aNt_s>
+4. Project Skylate - Plastic Memories **Radio: Wisp X - Moon**
+	<https://www.youtube.com/watch?v=vz3rcpvlzEs>
+5. Pure 100% - Love Ya **Radio: Yunomi - ロボティックガール (Robotic Girl) [Dream Hackers Remix]**
+	<https://www.youtube.com/watch?v=pm3bjFzHOMU>
+Total Time is 0:20:13
+21 Apr 2017 22:58:32 : LimitlessMc, botchat, ZyroPlayz#3967, next song is pure relaxation^
+21 Apr 2017 22:58:57 : Pulse, game-chat, Third_Worm#4804, ;pb gggggggg
+21 Apr 2017 22:58:57 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 22:58:57 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 22:59:29 : Pulse, game-chat, JustinOPGamer#9138, ;pbt PPPPPPPP
+21 Apr 2017 22:59:29 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 22:59:29 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 22:59:48 : LimitlessMc, botchat, JustinOPGamer#9138, ;youtube https://www.youtube.com/watch?v=8OkpRK2_gVs
+21 Apr 2017 22:59:49 : LimitlessMc, botchat, Botfuzzy77#2209, Added Attack on Titan - Official Opening - Feuerroter Pfeil und Bogen (English Sub) to the queue
+21 Apr 2017 22:59:53 : LimitlessMc, botchat, JustinOPGamer#9138, 😄
+21 Apr 2017 22:59:59 : LimitlessMc, botchat, ZyroPlayz#3967, o jesus
+21 Apr 2017 23:00:02 : LimitlessMc, botchat, Third_Worm#4804, oo
+21 Apr 2017 23:00:11 : LimitlessMc, botchat, ZyroPlayz#3967, what language is this song in xD>
+21 Apr 2017 23:00:13 : LimitlessMc, botchat, ZyroPlayz#3967, ?
+21 Apr 2017 23:00:33 : LimitlessMc, botchat, Third_Worm#4804, Japanease i believe
+21 Apr 2017 23:00:34 : LimitlessMc, botchat, Third_Worm#4804, ;song
+21 Apr 2017 23:00:34 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Yunomi - ロボティックガール (Robotic Girl) [Dream Hackers Remix]
+**Requester**: Radio: Pure 100% - Love Ya
+**URL**: <https://www.youtube.com/watch?v=vKgUlBfIK8o>
+```py
+Time: 0:04:22
+Views: 10,116
+Likes: 429, 99.54%
+Dislikes: 2, 0.46%
+Skips: 0/3```
+21 Apr 2017 23:00:46 : LimitlessMc, botchat, Third_Worm#4804, Just click the link and figure out
+21 Apr 2017 23:01:04 : LimitlessMc, botchat, ZyroPlayz#3967, no ty xD
+21 Apr 2017 23:01:21 : LimitlessMc, botchat, Third_Worm#4804, okay
+21 Apr 2017 23:01:30 : LimitlessMc, botchat, ZyroPlayz#3967, ;song
+21 Apr 2017 23:01:30 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Yunomi - ロボティックガール (Robotic Girl) [Dream Hackers Remix]
+**Requester**: Radio: Pure 100% - Love Ya
+**URL**: <https://www.youtube.com/watch?v=vKgUlBfIK8o>
+```py
+Time: 0:04:22
+Views: 10,116
+Likes: 429, 99.54%
+Dislikes: 2, 0.46%
+Skips: 0/4```
+21 Apr 2017 23:01:42 : Pulse, game-chat, JustinOPGamer#9138, ;pbt DDDDDDDD
+21 Apr 2017 23:01:42 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:01:42 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:01:56 : Pulse, game-chat, Third_Worm#4804, ;pb ssssssss
+21 Apr 2017 23:01:56 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:01:56 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:02:07 : LimitlessMc, botchat, Crystal4209#4698, Weeb songs!!!
+21 Apr 2017 23:02:11 : LimitlessMc, botchat, ZyroPlayz#3967, .-.
+21 Apr 2017 23:02:15 : LimitlessMc, botchat, ZyroPlayz#3967, this is a tobu relaxation song
+21 Apr 2017 23:02:29 : LimitlessMc, botchat, ZyroPlayz#3967, that was suggested by me xD
+21 Apr 2017 23:02:35 : LimitlessMc, botchat, Crystal4209#4698, XD
+21 Apr 2017 23:02:36 : RooberBoobers, kinkyrubiestalk, navy#8336, i,ts not loadi
+21 Apr 2017 23:02:53 : Pulse, game-chat, JustinOPGamer#9138, ;pbt EEEEEEEE
+21 Apr 2017 23:02:53 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:02:53 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:02:55 : LimitlessMc, botchat, Crystal4209#4698, ;search my hero academia opening 1
+21 Apr 2017 23:02:57 : LimitlessMc, botchat, Botfuzzy77#2209, Added My Hero Academia - Official Opening to the queue
+21 Apr 2017 23:02:57 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=yu0HjPzFYnY
+21 Apr 2017 23:03:01 : Pulse, game-chat, JustinOPGamer#9138, Do b @Only_Worm
+21 Apr 2017 23:03:13 : LimitlessMc, botchat, ZyroPlayz#3967, now thats a weeb song
+21 Apr 2017 23:03:13 : LimitlessMc, botchat, Crystal4209#4698, There's some crystal flare to this now 😄
+21 Apr 2017 23:03:27 : LimitlessMc, botchat, ZyroPlayz#3967, ;youtube https://www.youtube.com/watch?v=K4DyBUG242c
+21 Apr 2017 23:03:28 : LimitlessMc, botchat, Botfuzzy77#2209, Added Cartoon - On & On (feat. Daniel Levi) [NCS Release] to the queue
+21 Apr 2017 23:03:49 : Pulse, game-chat, Third_Worm#4804, ;pb bbbbbbbb
+21 Apr 2017 23:03:49 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:03:49 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:04:15 : Pulse, game-chat, JustinOPGamer#9138, ;pbt FPWIGDPB
+21 Apr 2017 23:04:15 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:04:15 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:04:31 : LimitlessMc, botchat, Third_Worm#4804, bOI
+21 Apr 2017 23:04:38 : LimitlessMc, botchat, Third_Worm#4804, ;search One Punch Opening Full
+21 Apr 2017 23:04:39 : LimitlessMc, botchat, ZyroPlayz#3967, xDDDDDDD
+21 Apr 2017 23:04:40 : LimitlessMc, botchat, Botfuzzy77#2209, Added One Punch Man Opening Full Version to the queue
+21 Apr 2017 23:04:41 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=_TUTJ0klnKk
+21 Apr 2017 23:04:43 : LimitlessMc, botchat, Crystal4209#4698, @Third_Worm why you offline bro
+21 Apr 2017 23:04:47 : LimitlessMc, botchat, Third_Worm#4804, bet
+21 Apr 2017 23:04:51 : LimitlessMc, botchat, Crystal4209#4698, Nvm
+21 Apr 2017 23:04:54 : Pulse, game-chat, JustinOPGamer#9138, ;pbt FPWIGDPB
+21 Apr 2017 23:04:54 : Pulse, game-chat, Botfuzzy77#2209, Please wait 21 seconds before you can fight the boss again.
+21 Apr 2017 23:05:00 : Pulse, game-chat, Third_Worm#4804, ;cd
+21 Apr 2017 23:05:00 : Pulse, game-chat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You can Train right now!
+**Gamble**
+You can Gamble right now!
+21 Apr 2017 23:05:05 : Pulse, game-chat, Third_Worm#4804, ;pbt FPWIGDPB
+21 Apr 2017 23:05:05 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:05:05 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:05:07 : Pulse, game-chat, Third_Worm#4804, ;train
+21 Apr 2017 23:05:07 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:05:07 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:05:14 : Pulse, game-chat, Third_Worm#4804, ;level
+21 Apr 2017 23:05:29 : LimitlessMc, botchat, Crystal4209#4698, ;search bleach opening 1
+21 Apr 2017 23:05:30 : LimitlessMc, botchat, Botfuzzy77#2209, Added Bleach Opening 1 to the queue
+21 Apr 2017 23:05:30 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=_ty-Nqm4Pdc
+21 Apr 2017 23:05:33 : Pulse, game-chat, JustinOPGamer#9138, ;pbt NNNNNNNN
+21 Apr 2017 23:05:33 : LimitlessMc, botchat, ZyroPlayz#3967, ...
+21 Apr 2017 23:05:33 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:05:33 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:05:37 : LimitlessMc, botchat, ZyroPlayz#3967, that song
+21 Apr 2017 23:05:44 : LimitlessMc, botchat, Crystal4209#4698, Shhhh
+21 Apr 2017 23:05:48 : Pulse, game-chat, Third_Worm#4804, @Wertfuzzy77 i'm confused
+21 Apr 2017 23:05:50 : Pulse, game-chat, Third_Worm#4804, ;cd
+21 Apr 2017 23:05:50 : Pulse, game-chat, Botfuzzy77#2209, **Battle**
+You need to wait 15 seconds
+**Train**
+You need to wait 1,757 seconds
+**Gamble**
+You can Gamble right now!
+21 Apr 2017 23:06:00 : LimitlessMc, botchat, ZyroPlayz#3967, both of em....
+21 Apr 2017 23:06:01 : Pulse, game-chat, Third_Worm#4804, ;level
+21 Apr 2017 23:06:07 : Pulse, game-chat, Third_Worm#4804, o
+21 Apr 2017 23:06:09 : Pulse, game-chat, Third_Worm#4804, nvm
+21 Apr 2017 23:06:13 : LimitlessMc, botchat, Crystal4209#4698, ;search my hero academia season 2 opening 1
+21 Apr 2017 23:06:16 : LimitlessMc, botchat, Botfuzzy77#2209, Added MY HERO ACADEMIA season 2 opening ENGLISH DUB: "Peace Sign" to the queue
+21 Apr 2017 23:06:16 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=xFEJGDv6XKk
+21 Apr 2017 23:06:16 : RooberBoobers, kinkyrubiestalk, navy#8336, **oh hot**
+21 Apr 2017 23:06:18 : LimitlessMc, botchat, ZyroPlayz#3967, ;song
+21 Apr 2017 23:06:18 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: iMeiden - Wave Laser
+**Requester**: Radio: iMeiden - Atmosphere
+**URL**: <https://www.youtube.com/watch?v=6F8OXgCjdww>
+```py
+Time: 0:03:53
+Views: 9,001
+Likes: 352, 99.44%
+Dislikes: 2, 0.56%
+Skips: 0/4```
+21 Apr 2017 23:06:20 : Pulse, game-chat, Third_Worm#4804, ;pb ffffffff
+21 Apr 2017 23:06:20 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:06:20 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:06:24 : Pulse, game-chat, JustinOPGamer#9138, ;pbt WWWWWWWW
+21 Apr 2017 23:06:24 : Pulse, game-chat, Botfuzzy77#2209, Please wait 9 seconds before you can fight the boss again.
+21 Apr 2017 23:06:25 : LimitlessMc, botchat, Crystal4209#4698, ;songs
+21 Apr 2017 23:06:25 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+21 Apr 2017 23:06:25 : LimitlessMc, botchat, Botfuzzy77#2209, 1. iMeiden - Party **Radio: r3n - Lily**
+	<https://www.youtube.com/watch?v=xLF0r_aNt_s>
+2. Project Skylate - Plastic Memories **Radio: Wisp X - Moon**
+	<https://www.youtube.com/watch?v=vz3rcpvlzEs>
+3. Pure 100% - Love Ya **Radio: Yunomi - ロボティックガール (Robotic Girl) [Dream Hackers Remix]**
+	<https://www.youtube.com/watch?v=pm3bjFzHOMU>
+4. Attack on Titan - Official Opening - Feuerroter Pfeil und Bogen (English Sub) **JustinOPGamer**
+	<https://www.youtube.com/watch?v=8OkpRK2_gVs>
+5. My Hero Academia - Official Opening **Crystal4209**
+	<https://www.youtube.com/watch?v=yu0HjPzFYnY>
+6. Cartoon - On & On (feat. Daniel Levi) [NCS Release] **ZyroPlayz**
+	<https://www.youtube.com/watch?v=K4DyBUG242c>
+7. One Punch Man Opening Full Version **Third_Worm**
+	<https://www.youtube.com/watch?v=_TUTJ0klnKk>
+8. Bleach Opening 1 **Crystal4209**
+	<https://www.youtube.com/watch?v=_ty-Nqm4Pdc>
+9. MY HERO ACADEMIA season 2 opening ENGLISH DUB: "Peace Sign" **Crystal4209**
+	<https://www.youtube.com/watch?v=xFEJGDv6XKk>
+Total Time is 0:26:18
+21 Apr 2017 23:06:29 : Pulse, game-chat, Third_Worm#4804, ;gamble 9000
+21 Apr 2017 23:06:29 : Pulse, game-chat, Botfuzzy77#2209, You have gained back your offering and more!
+21 Apr 2017 23:06:29 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:06:33 : LimitlessMc, botchat, Crystal4209#4698, ;remove 9
+21 Apr 2017 23:06:39 : Pulse, game-chat, JustinOPGamer#9138, ;pbt WWWWWWWW
+21 Apr 2017 23:06:39 : Pulse, game-chat, Third_Worm#4804, ;gamble 10800
+21 Apr 2017 23:06:39 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:06:39 : Pulse, game-chat, Botfuzzy77#2209, You have lost your offering...
+21 Apr 2017 23:06:39 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:06:44 : Pulse, game-chat, Third_Worm#4804, ;gamble
+21 Apr 2017 23:06:45 : Pulse, game-chat, Botfuzzy77#2209, You need to gamble atleast 5,696 XP
+21 Apr 2017 23:06:50 : LimitlessMc, botchat, Crystal4209#4698, ..
+21 Apr 2017 23:06:51 : Pulse, game-chat, Third_Worm#4804, ;gamble 6000
+21 Apr 2017 23:06:51 : Pulse, game-chat, Botfuzzy77#2209, You have lost your offering...
+21 Apr 2017 23:06:51 : Pulse, game-chat, Botfuzzy77#2209, You are exhausted from Gambling...
+21 Apr 2017 23:06:55 : LimitlessMc, botchat, Wertfuzzy77#0274, some cmds are broke xD
+21 Apr 2017 23:06:56 : Pulse, game-chat, JustinOPGamer#9138, ;level
+21 Apr 2017 23:06:57 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:07:01 : LimitlessMc, botchat, ZyroPlayz#3967, ;remove 1
+21 Apr 2017 23:07:01 : LimitlessMc, botchat, Botfuzzy77#2209, You must be the requester of the song to remove it from queue!
+21 Apr 2017 23:07:01 : LimitlessMc, botchat, Wertfuzzy77#0274, I complete rewrote the queue
+21 Apr 2017 23:07:07 : LimitlessMc, botchat, Wertfuzzy77#0274, to be memory effecient
+21 Apr 2017 23:07:09 : LimitlessMc, botchat, ZyroPlayz#3967, ;songs
+21 Apr 2017 23:07:09 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+21 Apr 2017 23:07:10 : LimitlessMc, botchat, Botfuzzy77#2209, 1. iMeiden - Party **Radio: r3n - Lily**
+	<https://www.youtube.com/watch?v=xLF0r_aNt_s>
+2. Project Skylate - Plastic Memories **Radio: Wisp X - Moon**
+	<https://www.youtube.com/watch?v=vz3rcpvlzEs>
+3. Pure 100% - Love Ya **Radio: Yunomi - ロボティックガール (Robotic Girl) [Dream Hackers Remix]**
+	<https://www.youtube.com/watch?v=pm3bjFzHOMU>
+4. Attack on Titan - Official Opening - Feuerroter Pfeil und Bogen (English Sub) **JustinOPGamer**
+	<https://www.youtube.com/watch?v=8OkpRK2_gVs>
+5. My Hero Academia - Official Opening **Crystal4209**
+	<https://www.youtube.com/watch?v=yu0HjPzFYnY>
+6. Cartoon - On & On (feat. Daniel Levi) [NCS Release] **ZyroPlayz**
+	<https://www.youtube.com/watch?v=K4DyBUG242c>
+7. One Punch Man Opening Full Version **Third_Worm**
+	<https://www.youtube.com/watch?v=_TUTJ0klnKk>
+8. Bleach Opening 1 **Crystal4209**
+	<https://www.youtube.com/watch?v=_ty-Nqm4Pdc>
+9. MY HERO ACADEMIA season 2 opening ENGLISH DUB: "Peace Sign" **Crystal4209**
+	<https://www.youtube.com/watch?v=xFEJGDv6XKk>
+Total Time is 0:26:18
+21 Apr 2017 23:07:10 : Pulse, game-chat, Third_Worm#4804, !
+21 Apr 2017 23:07:14 : Pulse, game-chat, Third_Worm#4804, ;level
+21 Apr 2017 23:07:19 : Pulse, game-chat, JustinOPGamer#9138, Le
+21 Apr 2017 23:07:23 : Pulse, game-chat, Third_Worm#4804, @Wertfuzzy77
+21 Apr 2017 23:07:30 : LimitlessMc, botchat, ZyroPlayz#3967, ;song
+21 Apr 2017 23:07:30 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: iMeiden - Wave Laser
+**Requester**: Radio: iMeiden - Atmosphere
+**URL**: <https://www.youtube.com/watch?v=6F8OXgCjdww>
+```py
+Time: 0:03:53
+Views: 9,001
+Likes: 352, 99.44%
+Dislikes: 2, 0.56%
+Skips: 0/4```
+21 Apr 2017 23:07:36 : LimitlessMc, botchat, ZyroPlayz#3967, ;skip
+21 Apr 2017 23:07:36 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping iMeiden - Wave Laser by request (Radio Song)
+21 Apr 2017 23:07:37 : Pulse, game-chat, JustinOPGamer#9138, @Wertfuzzy77  sam doesnt have ;level xD
+21 Apr 2017 23:07:42 : LimitlessMc, botchat, Crystal4209#4698, ;search my hero academia peace sign
+21 Apr 2017 23:07:43 : Pulse, game-chat, Third_Worm#4804, ;-;
+21 Apr 2017 23:07:44 : LimitlessMc, botchat, Botfuzzy77#2209, Added My Hero Academia Opening 2 ENGLISH ver. - Peace Sign - Tsuko G. to the queue
+21 Apr 2017 23:07:44 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=KGQ56PF9fFg
+21 Apr 2017 23:07:50 : LimitlessMc, botchat, ZyroPlayz#3967, so much weeb songs
+21 Apr 2017 23:07:50 : Pulse, game-chat, Third_Worm#4804, ;pb gggggggg
+21 Apr 2017 23:07:51 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:07:51 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:07:55 : LimitlessMc, botchat, Crystal4209#4698, Not English ya bum
+21 Apr 2017 23:08:05 : Pulse, game-chat, JustinOPGamer#9138, ;pbt PPPPPPPP
+21 Apr 2017 23:08:05 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:08:05 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:08:22 : LimitlessMc, botchat, Third_Worm#4804, ;songs
+21 Apr 2017 23:08:23 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+21 Apr 2017 23:08:23 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Project Skylate - Plastic Memories **Radio: Wisp X - Moon**
+	<https://www.youtube.com/watch?v=vz3rcpvlzEs>
+2. Pure 100% - Love Ya **Radio: Yunomi - ロボティックガール (Robotic Girl) [Dream Hackers Remix]**
+	<https://www.youtube.com/watch?v=pm3bjFzHOMU>
+3. Attack on Titan - Official Opening - Feuerroter Pfeil und Bogen (English Sub) **JustinOPGamer**
+	<https://www.youtube.com/watch?v=8OkpRK2_gVs>
+4. My Hero Academia - Official Opening **Crystal4209**
+	<https://www.youtube.com/watch?v=yu0HjPzFYnY>
+5. Cartoon - On & On (feat. Daniel Levi) [NCS Release] **ZyroPlayz**
+	<https://www.youtube.com/watch?v=K4DyBUG242c>
+6. One Punch Man Opening Full Version **Third_Worm**
+	<https://www.youtube.com/watch?v=_TUTJ0klnKk>
+7. Bleach Opening 1 **Crystal4209**
+	<https://www.youtube.com/watch?v=_ty-Nqm4Pdc>
+8. MY HERO ACADEMIA season 2 opening ENGLISH DUB: "Peace Sign" **Crystal4209**
+	<https://www.youtube.com/watch?v=xFEJGDv6XKk>
+9. My Hero Academia Opening 2 ENGLISH ver. - Peace Sign - Tsuko G. **Crystal4209**
+	<https://www.youtube.com/watch?v=KGQ56PF9fFg>
+Total Time is 0:23:16
+21 Apr 2017 23:08:33 : LimitlessMc, botchat, Third_Worm#4804, did you guys
+21 Apr 2017 23:08:34 : LimitlessMc, botchat, ZyroPlayz#3967, ;song https://www.youtube.com/watch?v=RBZna0xAhTY
+21 Apr 2017 23:08:34 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: iMeiden - Party
+**Requester**: Radio: r3n - Lily
+**URL**: <https://www.youtube.com/watch?v=xLF0r_aNt_s>
+```py
+Time: 0:04:37
+Views: 17,764
+Likes: 447, 99.33%
+Dislikes: 3, 0.67%
+Skips: 0/4```
+21 Apr 2017 23:08:35 : LimitlessMc, botchat, Third_Worm#4804, .;shuffle?
+21 Apr 2017 23:08:39 : LimitlessMc, botchat, Third_Worm#4804, bOI
+21 Apr 2017 23:08:48 : LimitlessMc, botchat, ZyroPlayz#3967, lmao
+21 Apr 2017 23:08:55 : LimitlessMc, botchat, ZyroPlayz#3967, says the one that added attack on titan
+21 Apr 2017 23:09:05 : LimitlessMc, botchat, Third_Worm#4804, erm
+21 Apr 2017 23:09:08 : LimitlessMc, botchat, Third_Worm#4804, that was justin
+21 Apr 2017 23:09:11 : LimitlessMc, botchat, ZyroPlayz#3967, woops
+21 Apr 2017 23:09:15 : LimitlessMc, botchat, Third_Worm#4804, i added one punch man 😄
+21 Apr 2017 23:09:16 : LimitlessMc, botchat, ZyroPlayz#3967, which one did u add xX
+21 Apr 2017 23:09:17 : LimitlessMc, botchat, ZyroPlayz#3967, xD
+21 Apr 2017 23:09:18 : Pulse, game-chat, JustinOPGamer#9138, ;pbt DDDDDDDD
+21 Apr 2017 23:09:18 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:09:19 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:09:19 : LimitlessMc, botchat, Crystal4209#4698, ;YouTube https://youtu.be/9F3SlTKc0Hw
+21 Apr 2017 23:09:22 : LimitlessMc, botchat, ZyroPlayz#3967, bruh thats even worse
+21 Apr 2017 23:09:26 : LimitlessMc, botchat, Third_Worm#4804, bich
+21 Apr 2017 23:09:29 : LimitlessMc, botchat, Third_Worm#4804, its my bby
+21 Apr 2017 23:09:33 : LimitlessMc, botchat, ZyroPlayz#3967, fite me
+21 Apr 2017 23:09:41 : LimitlessMc, botchat, Third_Worm#4804, ;kiss @ZyroPlayz
+21 Apr 2017 23:09:42 : LimitlessMc, botchat, Botfuzzy77#2209, :kissing_heart: *Third_Worm Kissed @ZyroPlayz* :kissing_heart:
+21 Apr 2017 23:09:43 : LimitlessMc, botchat, Crystal4209#4698, ;youtube https://youtu.be/9F3SlTKc0Hw
+21 Apr 2017 23:09:44 : LimitlessMc, botchat, Botfuzzy77#2209, Added My  Hero Academia  Op  2 to the queue
+21 Apr 2017 23:09:44 : LimitlessMc, botchat, Third_Worm#4804, !
+21 Apr 2017 23:09:48 : LimitlessMc, botchat, Third_Worm#4804, ;kill @ZyroPlayz
+21 Apr 2017 23:09:48 : LimitlessMc, botchat, Botfuzzy77#2209, :skull: *Third_Worm Killed @ZyroPlayz* :skull:
+21 Apr 2017 23:09:51 : LimitlessMc, botchat, Third_Worm#4804, there we go
+21 Apr 2017 23:09:56 : LimitlessMc, botchat, ZyroPlayz#3967, o.O
+21 Apr 2017 23:10:05 : LimitlessMc, botchat, Third_Worm#4804, @ZyroPlayz you ded, i win
+21 Apr 2017 23:10:08 : LimitlessMc, botchat, Crystal4209#4698, ;songs
+21 Apr 2017 23:10:08 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+21 Apr 2017 23:10:08 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Project Skylate - Plastic Memories **Radio: Wisp X - Moon**
+	<https://www.youtube.com/watch?v=vz3rcpvlzEs>
+2. Pure 100% - Love Ya **Radio: Yunomi - ロボティックガール (Robotic Girl) [Dream Hackers Remix]**
+	<https://www.youtube.com/watch?v=pm3bjFzHOMU>
+3. Attack on Titan - Official Opening - Feuerroter Pfeil und Bogen (English Sub) **JustinOPGamer**
+	<https://www.youtube.com/watch?v=8OkpRK2_gVs>
+4. My Hero Academia - Official Opening **Crystal4209**
+	<https://www.youtube.com/watch?v=yu0HjPzFYnY>
+5. Cartoon - On & On (feat. Daniel Levi) [NCS Release] **ZyroPlayz**
+	<https://www.youtube.com/watch?v=K4DyBUG242c>
+6. One Punch Man Opening Full Version **Third_Worm**
+	<https://www.youtube.com/watch?v=_TUTJ0klnKk>
+7. Bleach Opening 1 **Crystal4209**
+	<https://www.youtube.com/watch?v=_ty-Nqm4Pdc>
+8. MY HERO ACADEMIA season 2 opening ENGLISH DUB: "Peace Sign" **Crystal4209**
+	<https://www.youtube.com/watch?v=xFEJGDv6XKk>
+9. My Hero Academia Opening 2 ENGLISH ver. - Peace Sign - Tsuko G. **Crystal4209**
+	<https://www.youtube.com/watch?v=KGQ56PF9fFg>
+10. My  Hero Academia  Op  2 **Crystal4209**
+	<https://youtu.be/9F3SlTKc0Hw>
+Total Time is 0:24:46
+21 Apr 2017 23:10:15 : LimitlessMc, botchat, ZyroPlayz#3967, ;kill @Third_Worm
+21 Apr 2017 23:10:15 : LimitlessMc, botchat, Botfuzzy77#2209, :skull: *ZyroPlayz Killed @Third_Worm* :skull:
+21 Apr 2017 23:10:15 : Pulse, game-chat, Third_Worm#4804, ;pb ssssssss
+21 Apr 2017 23:10:15 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:10:15 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:10:15 : LimitlessMc, botchat, Crystal4209#4698, ;remove 9
+21 Apr 2017 23:10:38 : LimitlessMc, botchat, Crystal4209#4698, Eh we just skip 8 and 9 then
+21 Apr 2017 23:10:42 : Pulse, game-chat, JustinOPGamer#9138, ;pbt EEEEEEEE
+21 Apr 2017 23:10:42 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:10:42 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:10:48 : Pulse, game-chat, Third_Worm#4804, ;cd
+21 Apr 2017 23:10:48 : Pulse, game-chat, Botfuzzy77#2209, **Battle**
+You need to wait 27 seconds
+**Train**
+You need to wait 1,459 seconds
+**Gamble**
+You can Gamble right now!
+21 Apr 2017 23:10:52 : Pulse, game-chat, Third_Worm#4804, ;level
+21 Apr 2017 23:10:54 : LimitlessMc, botchat, ZyroPlayz#3967, ;song
+21 Apr 2017 23:10:54 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: iMeiden - Party
+**Requester**: Radio: r3n - Lily
+**URL**: <https://www.youtube.com/watch?v=xLF0r_aNt_s>
+```py
+Time: 0:04:37
+Views: 17,764
+Likes: 447, 99.33%
+Dislikes: 3, 0.67%
+Skips: 0/4```
+21 Apr 2017 23:10:56 : Pulse, game-chat, JustinOPGamer#9138, RIP
+21 Apr 2017 23:10:58 : LimitlessMc, botchat, ZyroPlayz#3967, ;skip
+21 Apr 2017 23:10:59 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping iMeiden - Party by request (Radio Song)
+21 Apr 2017 23:10:59 : Pulse, game-chat, Third_Worm#4804, @Botfuzzy77 why you no love me
+21 Apr 2017 23:11:00 : Pulse, game-chat, Botfuzzy77#2209, I'm sorry, I didn't quite get that, ask again please!
+21 Apr 2017 23:11:03 : Pulse, game-chat, Third_Worm#4804, oh
+21 Apr 2017 23:11:10 : Pulse, game-chat, JustinOPGamer#9138, @Botfuzzy77  do u love sam?
+21 Apr 2017 23:11:12 : Pulse, game-chat, Botfuzzy77#2209, Next to me.
+21 Apr 2017 23:11:12 : LimitlessMc, botchat, ZyroPlayz#3967, ;skip
+21 Apr 2017 23:11:12 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Project Skylate - Plastic Memories by request (Radio Song)
+21 Apr 2017 23:11:13 : LimitlessMc, botchat, Third_Worm#4804, @Botfuzzy77 yo
+21 Apr 2017 23:11:15 : LimitlessMc, botchat, Botfuzzy77#2209, Ok.
+21 Apr 2017 23:11:18 : LimitlessMc, botchat, Third_Worm#4804, k
+21 Apr 2017 23:11:24 : Pulse, game-chat, Third_Worm#4804, wut
+21 Apr 2017 23:11:26 : Pulse, game-chat, Third_Worm#4804, hek
+21 Apr 2017 23:11:27 : LimitlessMc, botchat, ZyroPlayz#3967, wtf
+21 Apr 2017 23:11:27 : Pulse, game-chat, JustinOPGamer#9138, idk
+21 Apr 2017 23:11:34 : Pulse, game-chat, Third_Worm#4804, @Botfuzzy77 Do you love Crystal?
+21 Apr 2017 23:11:35 : Pulse, game-chat, Botfuzzy77#2209, I don't even know you.
+21 Apr 2017 23:11:36 : LimitlessMc, botchat, ZyroPlayz#3967, @JustinOPGamer  wtf
+21 Apr 2017 23:11:38 : Pulse, game-chat, Third_Worm#4804, same
+21 Apr 2017 23:11:39 : LimitlessMc, botchat, ZyroPlayz#3967, ;song
+21 Apr 2017 23:11:39 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Pure 100% - Love Ya
+**Requester**: Radio: Yunomi - ロボティックガール (Robotic Girl) [Dream Hackers Remix]
+**URL**: <https://www.youtube.com/watch?v=pm3bjFzHOMU>
+```py
+Time: 0:03:08
+Views: 11,087
+Likes: 426, 99.53%
+Dislikes: 2, 0.47%
+Skips: 0/4```
+21 Apr 2017 23:11:43 : Pulse, game-chat, JustinOPGamer#9138, @Botfuzzy77  do u love me ?
+21 Apr 2017 23:11:45 : LimitlessMc, botchat, ZyroPlayz#3967, o woops
+21 Apr 2017 23:11:45 : Pulse, game-chat, Botfuzzy77#2209, I do.
+21 Apr 2017 23:11:47 : Pulse, game-chat, JustinOPGamer#9138, 😄
+21 Apr 2017 23:11:49 : LimitlessMc, botchat, ZyroPlayz#3967, this isnt the song u requested xD
+21 Apr 2017 23:11:51 : LimitlessMc, botchat, Third_Worm#4804, zyro
+21 Apr 2017 23:11:55 : LimitlessMc, botchat, Third_Worm#4804, ima kill
+21 Apr 2017 23:11:57 : LimitlessMc, botchat, Third_Worm#4804, you again
+21 Apr 2017 23:12:00 : LimitlessMc, botchat, Third_Worm#4804, ;kill @ZyroPlayz
+21 Apr 2017 23:12:00 : LimitlessMc, botchat, Botfuzzy77#2209, :skull: *Third_Worm Killed @ZyroPlayz* :skull:
+21 Apr 2017 23:12:03 : LimitlessMc, botchat, Third_Worm#4804, ;songs
+21 Apr 2017 23:12:03 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+21 Apr 2017 23:12:03 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Attack on Titan - Official Opening - Feuerroter Pfeil und Bogen (English Sub) **JustinOPGamer**
+	<https://www.youtube.com/watch?v=8OkpRK2_gVs>
+2. My Hero Academia - Official Opening **Crystal4209**
+	<https://www.youtube.com/watch?v=yu0HjPzFYnY>
+3. Cartoon - On & On (feat. Daniel Levi) [NCS Release] **ZyroPlayz**
+	<https://www.youtube.com/watch?v=K4DyBUG242c>
+4. One Punch Man Opening Full Version **Third_Worm**
+	<https://www.youtube.com/watch?v=_TUTJ0klnKk>
+5. Bleach Opening 1 **Crystal4209**
+	<https://www.youtube.com/watch?v=_ty-Nqm4Pdc>
+6. MY HERO ACADEMIA season 2 opening ENGLISH DUB: "Peace Sign" **Crystal4209**
+	<https://www.youtube.com/watch?v=xFEJGDv6XKk>
+7. My Hero Academia Opening 2 ENGLISH ver. - Peace Sign - Tsuko G. **Crystal4209**
+	<https://www.youtube.com/watch?v=KGQ56PF9fFg>
+8. My  Hero Academia  Op  2 **Crystal4209**
+	<https://youtu.be/9F3SlTKc0Hw>
+Total Time is 0:16:33
+21 Apr 2017 23:12:07 : LimitlessMc, botchat, ZyroPlayz#3967, ;kill @Third_Worm
+21 Apr 2017 23:12:07 : LimitlessMc, botchat, Botfuzzy77#2209, :skull: *ZyroPlayz Killed @Third_Worm* :skull:
+21 Apr 2017 23:12:20 : Pulse, game-chat, Third_Worm#4804, @Botfuzzy77 Do you love me?
+21 Apr 2017 23:12:21 : Pulse, game-chat, Botfuzzy77#2209, No, I don't know you. How could I love you if I don't know you?
+21 Apr 2017 23:12:28 : LimitlessMc, botchat, ZyroPlayz#3967, wut other commands are there xD
+21 Apr 2017 23:12:36 : Pulse, game-chat, JustinOPGamer#9138, ;pbt FWNIGEPW
+21 Apr 2017 23:12:36 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:12:36 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:12:38 : Pulse, game-chat, Third_Worm#4804, that should be the same answer to justin
+21 Apr 2017 23:12:43 : Pulse, game-chat, JustinOPGamer#9138, Le
+21 Apr 2017 23:12:49 : Pulse, game-chat, JustinOPGamer#9138, @Botfuzzy77  hello
+21 Apr 2017 23:12:50 : LimitlessMc, botchat, Crystal4209#4698, I'm up way to early ;-;
+21 Apr 2017 23:12:50 : LimitlessMc, botchat, ZyroPlayz#3967, ;list
+21 Apr 2017 23:12:50 : Pulse, game-chat, Botfuzzy77#2209, What are you doing?
+21 Apr 2017 23:12:50 : Pulse, game-chat, Third_Worm#4804, @Botfuzzy77 You love Lightbot?
+21 Apr 2017 23:12:52 : Pulse, game-chat, Botfuzzy77#2209, No I don't.
+21 Apr 2017 23:12:55 : LimitlessMc, botchat, ZyroPlayz#3967, what time is it for you?
+21 Apr 2017 23:13:02 : Pulse, game-chat, JustinOPGamer#9138, @Botfuzzy77  talkin to a stupid bot what about u ?
+21 Apr 2017 23:13:03 : LimitlessMc, botchat, Third_Worm#4804, 7:12am
+21 Apr 2017 23:13:03 : Pulse, game-chat, Botfuzzy77#2209, Talking to you.
+21 Apr 2017 23:13:06 : LimitlessMc, botchat, Third_Worm#4804, for her
+21 Apr 2017 23:13:08 : Pulse, game-chat, JustinOPGamer#9138, le see
+21 Apr 2017 23:13:16 : Pulse, game-chat, JustinOPGamer#9138, Botfuzz and i r friends
+21 Apr 2017 23:13:17 : Pulse, game-chat, Wertfuzzy77#0274, ;level
+21 Apr 2017 23:13:17 : LimitlessMc, botchat, ZyroPlayz#3967, thats nothing i wake up at 5am and sleep at 4am
+21 Apr 2017 23:13:19 : LimitlessMc, botchat, ZyroPlayz#3967, smh
+21 Apr 2017 23:13:20 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:13:20 : Pulse, game-chat, Third_Worm#4804, @Botfuzzy77 How are you?
+21 Apr 2017 23:13:24 : Pulse, game-chat, Third_Worm#4804, ;level
+21 Apr 2017 23:13:24 : Pulse, game-chat, Botfuzzy77#2209, Good. You?
+21 Apr 2017 23:13:24 : LimitlessMc, botchat, ZyroPlayz#3967, im a coffee no lifer
+21 Apr 2017 23:13:28 : Pulse, game-chat, Third_Worm#4804, ;-;
+21 Apr 2017 23:13:32 : Pulse, game-chat, Wertfuzzy77#0274, oh
+21 Apr 2017 23:13:34 : Pulse, game-chat, Wertfuzzy77#0274, its your icon
+21 Apr 2017 23:13:37 : Pulse, game-chat, Wertfuzzy77#0274, it doesnt liek it
+21 Apr 2017 23:13:37 : Pulse, game-chat, Third_Worm#4804, @Botfuzzy77 tired but still proud of myself
+21 Apr 2017 23:13:38 : Pulse, game-chat, Botfuzzy77#2209, You act as if I care.
+21 Apr 2017 23:13:44 : Pulse, game-chat, Third_Worm#4804, it no like my icon? o-o
+21 Apr 2017 23:13:46 : Pulse, game-chat, Wertfuzzy77#0274, I'll fix it later, hw rn
+21 Apr 2017 23:13:47 : Pulse, game-chat, Wertfuzzy77#0274, yw
+21 Apr 2017 23:13:49 : Pulse, game-chat, Wertfuzzy77#0274, ya *
+21 Apr 2017 23:13:51 : LimitlessMc, botchat, Crystal4209#4698, Coffee doesn't wake me up
+21 Apr 2017 23:13:51 : LimitlessMc, botchat, ZyroPlayz#3967, no lie my doctors legit told me to get some sleep or im gonna have heart problems when im like 40-50 xD
+21 Apr 2017 23:13:53 : Pulse, game-chat, Third_Worm#4804, aw
+21 Apr 2017 23:13:55 : Pulse, game-chat, Third_Worm#4804, kk
+21 Apr 2017 23:13:55 : Pulse, game-chat, JustinOPGamer#9138, okei gl wert
+21 Apr 2017 23:13:58 : Pulse, game-chat, Third_Worm#4804, @Botfuzzy77 That's rude
+21 Apr 2017 23:13:59 : Pulse, game-chat, Botfuzzy77#2209, Do you like music?
+21 Apr 2017 23:14:01 : Pulse, game-chat, JustinOPGamer#9138, ;pbt FWNIGEPW
+21 Apr 2017 23:14:01 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:14:01 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:14:29 : LimitlessMc, botchat, ZyroPlayz#3967, WTF
+21 Apr 2017 23:14:30 : Pulse, game-chat, Third_Worm#4804, ;pb nnnnnnnn
+21 Apr 2017 23:14:30 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:14:30 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:14:33 : LimitlessMc, botchat, JustinOPGamer#9138, 😄
+21 Apr 2017 23:14:33 : LimitlessMc, botchat, Third_Worm#4804, :).
+21 Apr 2017 23:14:36 : LimitlessMc, botchat, Third_Worm#4804, le
+21 Apr 2017 23:14:40 : LimitlessMc, botchat, JustinOPGamer#9138, AOT :DDDDD
+21 Apr 2017 23:14:50 : LimitlessMc, botchat, ZyroPlayz#3967, THIS SONG IS HORRIFYING
+21 Apr 2017 23:14:52 : LimitlessMc, botchat, ZyroPlayz#3967, HOW LONG IS IT
+21 Apr 2017 23:14:54 : LimitlessMc, botchat, ZyroPlayz#3967, NO HOMO
+21 Apr 2017 23:14:56 : Pulse, game-chat, Third_Worm#4804, @Botfuzzy77 Yes I do, as a matter of fact i am listening to music right now
+21 Apr 2017 23:14:56 : Pulse, game-chat, Botfuzzy77#2209, What are you listening to?
+21 Apr 2017 23:15:01 : LimitlessMc, botchat, Third_Worm#4804, ;song
+21 Apr 2017 23:15:02 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Attack on Titan - Official Opening - Feuerroter Pfeil und Bogen (English Sub)
+**Requester**: JustinOPGamer
+**URL**: <https://www.youtube.com/watch?v=8OkpRK2_gVs>
+```py
+Time: 0:01:32
+Views: 6,606,674
+Likes: 51,144, 98.63%
+Dislikes: 710, 1.37%
+Skips: 0/4```
+21 Apr 2017 23:15:02 : LimitlessMc, botchat, JustinOPGamer#9138, 50 hrs and not its not bad
+21 Apr 2017 23:15:11 : LimitlessMc, botchat, Third_Worm#4804, Yeah 50 hours
+21 Apr 2017 23:15:14 : LimitlessMc, botchat, Third_Worm#4804, sorry man @ZyroPlayz
+21 Apr 2017 23:15:16 : LimitlessMc, botchat, Third_Worm#4804, but its good
+21 Apr 2017 23:15:21 : LimitlessMc, botchat, JustinOPGamer#9138, @ZyroPlayz  y dont u like ?
+21 Apr 2017 23:15:21 : LimitlessMc, botchat, Third_Worm#4804, ;loop 5
+21 Apr 2017 23:15:22 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*Attack on Titan - Official Opening - Feuerroter Pfeil und Bogen (English Sub)*' **5** more times
+21 Apr 2017 23:15:25 : LimitlessMc, botchat, Third_Worm#4804, 😄
+21 Apr 2017 23:15:31 : LimitlessMc, botchat, ZyroPlayz#3967, u mean 1 min and 32 secs right..
+21 Apr 2017 23:15:35 : LimitlessMc, botchat, JustinOPGamer#9138, no
+21 Apr 2017 23:15:44 : Pulse, game-chat, Third_Worm#4804, @Botfuzzy77 Attack On Titan Opening
+21 Apr 2017 23:15:46 : Pulse, game-chat, Botfuzzy77#2209, I love that anime. what's your favorite character?
+21 Apr 2017 23:15:52 : Pulse, game-chat, Third_Worm#4804, @Botfuzzy77 Levi
+21 Apr 2017 23:15:53 : LimitlessMc, botchat, JustinOPGamer#9138, @Botfuzzy77  do u like Attack on titan?
+21 Apr 2017 23:15:53 : Pulse, game-chat, Botfuzzy77#2209, I love Levi too! I like Eren as well.
+21 Apr 2017 23:15:53 : LimitlessMc, botchat, Botfuzzy77#2209, Do you feel fear?
+21 Apr 2017 23:16:02 : Pulse, game-chat, Third_Worm#4804, @Botfuzzy77 Nice! Who do you hate?
+21 Apr 2017 23:16:02 : LimitlessMc, botchat, JustinOPGamer#9138, @Botfuzzy77  never
+21 Apr 2017 23:16:03 : Pulse, game-chat, Botfuzzy77#2209, I don't really hate anyone.
+21 Apr 2017 23:16:03 : LimitlessMc, botchat, Botfuzzy77#2209, What do you dream of?
+21 Apr 2017 23:16:09 : Pulse, game-chat, Third_Worm#4804, @Botfuzzy77 same
+21 Apr 2017 23:16:10 : Pulse, game-chat, Botfuzzy77#2209, Lol.
+21 Apr 2017 23:16:14 : LimitlessMc, botchat, Crystal4209#4698, ;songs
+21 Apr 2017 23:16:14 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue, plus [1] more**
+21 Apr 2017 23:16:14 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Attack on Titan - Official Opening - Feuerroter Pfeil und Bogen (English Sub) **Third_Worm**
+	<https://www.youtube.com/watch?v=8OkpRK2_gVs>
+2. Attack on Titan - Official Opening - Feuerroter Pfeil und Bogen (English Sub) **Third_Worm**
+	<https://www.youtube.com/watch?v=8OkpRK2_gVs>
+3. Attack on Titan - Official Opening - Feuerroter Pfeil und Bogen (English Sub) **Third_Worm**
+	<https://www.youtube.com/watch?v=8OkpRK2_gVs>
+4. Attack on Titan - Official Opening - Feuerroter Pfeil und Bogen (English Sub) **Third_Worm**
+	<https://www.youtube.com/watch?v=8OkpRK2_gVs>
+5. My Hero Academia - Official Opening **Crystal4209**
+	<https://www.youtube.com/watch?v=yu0HjPzFYnY>
+6. Cartoon - On & On (feat. Daniel Levi) [NCS Release] **ZyroPlayz**
+	<https://www.youtube.com/watch?v=K4DyBUG242c>
+7. One Punch Man Opening Full Version **Third_Worm**
+	<https://www.youtube.com/watch?v=_TUTJ0klnKk>
+8. Bleach Opening 1 **Crystal4209**
+	<https://www.youtube.com/watch?v=_ty-Nqm4Pdc>
+9. MY HERO ACADEMIA season 2 opening ENGLISH DUB: "Peace Sign" **Crystal4209**
+	<https://www.youtube.com/watch?v=xFEJGDv6XKk>
+10. My Hero Academia Opening 2 ENGLISH ver. - Peace Sign - Tsuko G. **Crystal4209**
+	<https://www.youtube.com/watch?v=KGQ56PF9fFg>
+Total Time is 0:21:09
+21 Apr 2017 23:16:16 : LimitlessMc, botchat, Third_Worm#4804, justin
+21 Apr 2017 23:16:17 : LimitlessMc, botchat, ZyroPlayz#3967, alright ik ur lying now yt vids dont allow anything more than 24 hrs xD
+21 Apr 2017 23:16:19 : LimitlessMc, botchat, Third_Worm#4804, look at other chat
+21 Apr 2017 23:16:22 : LimitlessMc, botchat, Third_Worm#4804, i did a thing
+21 Apr 2017 23:16:26 : Pulse, game-chat, Third_Worm#4804, @JustinOPGamer ^
+21 Apr 2017 23:16:28 : LimitlessMc, botchat, ZyroPlayz#3967, ;skip
+21 Apr 2017 23:16:28 : LimitlessMc, botchat, Botfuzzy77#2209, 1/4 votes to skip
+21 Apr 2017 23:16:31 : LimitlessMc, botchat, ZyroPlayz#3967, .-.
+21 Apr 2017 23:16:33 : Pulse, game-chat, Third_Worm#4804, confirmed botfuzzy is fan
+21 Apr 2017 23:16:37 : LimitlessMc, botchat, ZyroPlayz#3967, why
+21 Apr 2017 23:16:47 : LimitlessMc, botchat, Crystal4209#4698, @Wertfuzzy77 hep
+21 Apr 2017 23:16:52 : LimitlessMc, botchat, ZyroPlayz#3967, hep wert
+21 Apr 2017 23:16:56 : Pulse, game-chat, JustinOPGamer#9138, ;pbt {}{}{}I{}EPW
+21 Apr 2017 23:16:56 : Pulse, game-chat, Botfuzzy77#2209, Please use a Combination of **8** Types. `;types`
+21 Apr 2017 23:16:56 : LimitlessMc, botchat, ZyroPlayz#3967, abuse of botfuzzy
+21 Apr 2017 23:17:00 : LimitlessMc, botchat, Wertfuzzy77#0274, wut
+21 Apr 2017 23:17:07 : LimitlessMc, botchat, ZyroPlayz#3967, its stuck on AOT xD
+21 Apr 2017 23:17:08 : LimitlessMc, botchat, Wertfuzzy77#0274, o
+21 Apr 2017 23:17:11 : Pulse, game-chat, Third_Worm#4804, i did n Justin too
+21 Apr 2017 23:17:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 1
+21 Apr 2017 23:17:15 : LimitlessMc, botchat, Wertfuzzy77#0274, hmm
+21 Apr 2017 23:17:15 : Pulse, game-chat, Third_Worm#4804, look up, it made a mark
+21 Apr 2017 23:17:19 : LimitlessMc, botchat, Wertfuzzy77#0274, o
+21 Apr 2017 23:17:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+21 Apr 2017 23:17:20 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Attack on Titan - Official Opening - Feuerroter Pfeil und Bogen (English Sub) by ADMIN request
+21 Apr 2017 23:17:22 : LimitlessMc, botchat, ZyroPlayz#3967, they put it on loop lmao
+21 Apr 2017 23:17:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+21 Apr 2017 23:17:24 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Attack on Titan - Official Opening - Feuerroter Pfeil und Bogen (English Sub) by ADMIN request
+21 Apr 2017 23:17:27 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+21 Apr 2017 23:17:27 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Attack on Titan - Official Opening - Feuerroter Pfeil und Bogen (English Sub) by ADMIN request
+21 Apr 2017 23:17:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+21 Apr 2017 23:17:29 : LimitlessMc, botchat, Third_Worm#4804, nu
+21 Apr 2017 23:17:30 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Attack on Titan - Official Opening - Feuerroter Pfeil und Bogen (English Sub) by ADMIN request
+21 Apr 2017 23:17:31 : LimitlessMc, botchat, Wertfuzzy77#0274, 😛
+21 Apr 2017 23:17:33 : LimitlessMc, botchat, JustinOPGamer#9138, @Wertfuzzy77  check this out
+21 Apr 2017 23:17:35 : LimitlessMc, botchat, JustinOPGamer#9138, Botfuzzy77BOT - Today at 7:14 PM
+What are you listening to?
+Only_Worm - Today at 7:15 PM
+@Botfuzzy77 Attack On Titan Opening
+Botfuzzy77BOT - Today at 7:15 PM
+I love that anime. what's your favorite character?
+Only_Worm - Today at 7:15 PM
+@Botfuzzy77 Levi
+Botfuzzy77BOT - Today at 7:15 PM
+I love Levi too! I like Eren as well.
+Only_Worm - Today at 7:16 PM
+@Botfuzzy77 Nice! Who do you hate?
+Botfuzzy77BOT - Today at 7:16 PM
+I don't really hate anyone.
+Only_Worm - Today at 7:16 PM
+@Botfuzzy77 same
+Botfuzzy77BOT - Today at 7:16 PM
+Lol.
+21 Apr 2017 23:17:36 : LimitlessMc, botchat, Crystal4209#4698, ;songs
+21 Apr 2017 23:17:36 : LimitlessMc, botchat, Botfuzzy77#2209, Electronic music.
+21 Apr 2017 23:17:36 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+21 Apr 2017 23:17:36 : LimitlessMc, botchat, Botfuzzy77#2209, 1. My Hero Academia - Official Opening **Crystal4209**
+	<https://www.youtube.com/watch?v=yu0HjPzFYnY>
+2. Cartoon - On & On (feat. Daniel Levi) [NCS Release] **ZyroPlayz**
+	<https://www.youtube.com/watch?v=K4DyBUG242c>
+3. One Punch Man Opening Full Version **Third_Worm**
+	<https://www.youtube.com/watch?v=_TUTJ0klnKk>
+4. Bleach Opening 1 **Crystal4209**
+	<https://www.youtube.com/watch?v=_ty-Nqm4Pdc>
+5. MY HERO ACADEMIA season 2 opening ENGLISH DUB: "Peace Sign" **Crystal4209**
+	<https://www.youtube.com/watch?v=xFEJGDv6XKk>
+6. My Hero Academia Opening 2 ENGLISH ver. - Peace Sign - Tsuko G. **Crystal4209**
+	<https://www.youtube.com/watch?v=KGQ56PF9fFg>
+7. My  Hero Academia  Op  2 **Crystal4209**
+	<https://youtu.be/9F3SlTKc0Hw>
+Total Time is 0:15:01
+21 Apr 2017 23:17:41 : Pulse, game-chat, Third_Worm#4804, ;pb ffffffff
+21 Apr 2017 23:17:41 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:17:41 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:17:52 : LimitlessMc, botchat, Wertfuzzy77#0274, ya, the bot is pretty smart 😛
+21 Apr 2017 23:17:59 : LimitlessMc, botchat, JustinOPGamer#9138, le
+21 Apr 2017 23:18:03 : LimitlessMc, botchat, ZyroPlayz#3967, ;youtube https://www.youtube.com/watch?v=RBZna0xAhTY
+21 Apr 2017 23:18:04 : LimitlessMc, botchat, Botfuzzy77#2209, Added XY & Z - Pokémon XYZ (FULL ENGLISH COVER) to the queue
+21 Apr 2017 23:18:04 : LimitlessMc, botchat, JustinOPGamer#9138, it likes aot
+21 Apr 2017 23:18:13 : LimitlessMc, botchat, JustinOPGamer#9138, @Wertfuzzy77  its becoming sentant
+21 Apr 2017 23:18:14 : LimitlessMc, botchat, ZyroPlayz#3967, RIP Botfuzzy
+21 Apr 2017 23:18:37 : LimitlessMc, botchat, ZyroPlayz#3967, ;songs
+21 Apr 2017 23:18:37 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+21 Apr 2017 23:18:37 : LimitlessMc, botchat, Botfuzzy77#2209, 1. My Hero Academia - Official Opening **Crystal4209**
+	<https://www.youtube.com/watch?v=yu0HjPzFYnY>
+2. Cartoon - On & On (feat. Daniel Levi) [NCS Release] **ZyroPlayz**
+	<https://www.youtube.com/watch?v=K4DyBUG242c>
+3. One Punch Man Opening Full Version **Third_Worm**
+	<https://www.youtube.com/watch?v=_TUTJ0klnKk>
+4. Bleach Opening 1 **Crystal4209**
+	<https://www.youtube.com/watch?v=_ty-Nqm4Pdc>
+5. MY HERO ACADEMIA season 2 opening ENGLISH DUB: "Peace Sign" **Crystal4209**
+	<https://www.youtube.com/watch?v=xFEJGDv6XKk>
+6. My Hero Academia Opening 2 ENGLISH ver. - Peace Sign - Tsuko G. **Crystal4209**
+	<https://www.youtube.com/watch?v=KGQ56PF9fFg>
+7. My  Hero Academia  Op  2 **Crystal4209**
+	<https://youtu.be/9F3SlTKc0Hw>
+8. XY & Z - Pokémon XYZ (FULL ENGLISH COVER) **ZyroPlayz**
+	<https://www.youtube.com/watch?v=RBZna0xAhTY>
+Total Time is 0:18:30
+21 Apr 2017 23:18:52 : LimitlessMc, botchat, ZyroPlayz#3967, when is this ending... xD
+21 Apr 2017 23:19:10 : LimitlessMc, botchat, ZyroPlayz#3967, finally
+21 Apr 2017 23:19:13 : LimitlessMc, botchat, Crystal4209#4698, 😄
+21 Apr 2017 23:19:15 : LimitlessMc, botchat, ZyroPlayz#3967, another weeb song xD
+21 Apr 2017 23:19:23 : Pulse, game-chat, JustinOPGamer#9138, ;pbt WWWWWWWW
+21 Apr 2017 23:19:23 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:19:23 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:19:58 : LimitlessMc, botchat, Crystal4209#4698, One of my favourite anime's 😄
+21 Apr 2017 23:20:24 : LimitlessMc, botchat, Third_Worm#4804, c:
+21 Apr 2017 23:20:31 : LimitlessMc, botchat, Third_Worm#4804, ;search parasyte opening
+21 Apr 2017 23:20:32 : LimitlessMc, botchat, Botfuzzy77#2209, Added Parasyte Opening to the queue
+21 Apr 2017 23:20:32 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=Rm8UjBAS3cs
+21 Apr 2017 23:20:54 : LimitlessMc, botchat, ZyroPlayz#3967, ;song
+21 Apr 2017 23:20:54 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Cartoon - On & On (feat. Daniel Levi) [NCS Release]
+**Requester**: ZyroPlayz
+**URL**: <https://www.youtube.com/watch?v=K4DyBUG242c>
+```py
+Time: 0:03:28
+Views: 61,256,527
+Likes: 928,317, 98.99%
+Dislikes: 9,440, 1.01%
+Skips: 0/3```
+21 Apr 2017 23:20:55 : Pulse, game-chat, JustinOPGamer#9138, ;pbt GGGGGGGG
+21 Apr 2017 23:20:55 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:20:55 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:21:58 : LimitlessMc, botchat, ZyroPlayz#3967, nice song right
+21 Apr 2017 23:22:45 : Pulse, game-chat, JustinOPGamer#9138, ;pbt PPPPPPPP
+21 Apr 2017 23:22:45 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:22:45 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:24:10 : Pulse, game-chat, JustinOPGamer#9138, ;pbt DDDDDDDD
+21 Apr 2017 23:24:10 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:24:10 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:24:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ik this song?
+21 Apr 2017 23:24:21 : LimitlessMc, botchat, Wertfuzzy77#0274, i think
+21 Apr 2017 23:24:28 : LimitlessMc, botchat, Wertfuzzy77#0274, hmmmmmm
+21 Apr 2017 23:24:32 : LimitlessMc, botchat, Wertfuzzy77#0274, anime I watched
+21 Apr 2017 23:24:34 : LimitlessMc, botchat, Wertfuzzy77#0274, early on
+21 Apr 2017 23:24:37 : LimitlessMc, botchat, Crystal4209#4698, My brothers favourite anime..
+21 Apr 2017 23:24:38 : LimitlessMc, botchat, Wertfuzzy77#0274, parasyte?
+21 Apr 2017 23:24:39 : LimitlessMc, botchat, ZyroPlayz#3967, why why one punch...
+21 Apr 2017 23:24:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+21 Apr 2017 23:24:40 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: One Punch Man Opening Full Version
+**Requester**: Third_Worm
+**URL**: <https://www.youtube.com/watch?v=_TUTJ0klnKk>
+```py
+Time: 0:03:43
+Views: 6,416,097
+Likes: 55,193, 98.16%
+Dislikes: 1,037, 1.84%
+Skips: 0/3```
+21 Apr 2017 23:24:44 : LimitlessMc, botchat, Wertfuzzy77#0274, nvm
+21 Apr 2017 23:24:50 : LimitlessMc, botchat, Wertfuzzy77#0274, worm jsut plays this so much
+21 Apr 2017 23:24:57 : LimitlessMc, botchat, Crystal4209#4698, Lol
+21 Apr 2017 23:25:04 : Pulse, game-chat, Third_Worm#4804, ;pb ssssssss
+21 Apr 2017 23:25:05 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:25:05 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:25:11 : LimitlessMc, botchat, ZyroPlayz#3967, ima play a donald trump speach xD
+21 Apr 2017 23:25:21 : LimitlessMc, botchat, ZyroPlayz#3967, wait no even better brb
+21 Apr 2017 23:25:49 : LimitlessMc, botchat, ZyroPlayz#3967, ;youtube https://www.youtube.com/watch?v=HbifQKCAaYQ
+21 Apr 2017 23:25:50 : LimitlessMc, botchat, Botfuzzy77#2209, Added Donald Trump Theme Song (Danny Phantom Parody) to the queue
+21 Apr 2017 23:25:52 : LimitlessMc, botchat, ZyroPlayz#3967, ;]
+21 Apr 2017 23:26:35 : Pulse, game-chat, JustinOPGamer#9138, ;pbt DNDISEPW
+21 Apr 2017 23:26:35 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:26:35 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:26:35 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:26:35 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:26:35 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:26:38 : Pulse, game-chat, JustinOPGamer#9138, 😄
+21 Apr 2017 23:26:59 : Pulse, game-chat, Third_Worm#4804, wooo 416 damg lol
+21 Apr 2017 23:27:01 : LimitlessMc, botchat, ZyroPlayz#3967, ;songs
+21 Apr 2017 23:27:01 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+21 Apr 2017 23:27:01 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Bleach Opening 1 **Crystal4209**
+	<https://www.youtube.com/watch?v=_ty-Nqm4Pdc>
+2. MY HERO ACADEMIA season 2 opening ENGLISH DUB: "Peace Sign" **Crystal4209**
+	<https://www.youtube.com/watch?v=xFEJGDv6XKk>
+3. My Hero Academia Opening 2 ENGLISH ver. - Peace Sign - Tsuko G. **Crystal4209**
+	<https://www.youtube.com/watch?v=KGQ56PF9fFg>
+4. My  Hero Academia  Op  2 **Crystal4209**
+	<https://youtu.be/9F3SlTKc0Hw>
+5. XY & Z - Pokémon XYZ (FULL ENGLISH COVER) **ZyroPlayz**
+	<https://www.youtube.com/watch?v=RBZna0xAhTY>
+6. Parasyte Opening **Third_Worm**
+	<https://www.youtube.com/watch?v=Rm8UjBAS3cs>
+7. Donald Trump Theme Song (Danny Phantom Parody) **ZyroPlayz**
+	<https://www.youtube.com/watch?v=HbifQKCAaYQ>
+Total Time is 0:12:05
+21 Apr 2017 23:27:02 : Pulse, game-chat, Third_Worm#4804, Good job le
+21 Apr 2017 23:27:05 : Pulse, game-chat, Third_Worm#4804, ;level
+21 Apr 2017 23:27:08 : Pulse, game-chat, JustinOPGamer#9138, le
+21 Apr 2017 23:27:12 : Pulse, game-chat, Third_Worm#4804, *cries self to sleep*
+21 Apr 2017 23:27:14 : Pulse, game-chat, JustinOPGamer#9138, ;level
+21 Apr 2017 23:27:15 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:27:16 : Pulse, game-chat, Third_Worm#4804, ;cd
+21 Apr 2017 23:27:16 : Pulse, game-chat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You need to wait 471 seconds
+**Gamble**
+You can Gamble right now!
+21 Apr 2017 23:27:22 : Pulse, game-chat, Third_Worm#4804, ;pb nnnnnnnn
+21 Apr 2017 23:27:28 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:27:28 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:27:32 : Pulse, game-chat, JustinOPGamer#9138, ;gamble 10000
+21 Apr 2017 23:27:32 : Pulse, game-chat, Botfuzzy77#2209, You have lost your offering...
+21 Apr 2017 23:27:32 : Pulse, game-chat, Botfuzzy77#2209, You are exhausted from Gambling...
+21 Apr 2017 23:27:34 : Pulse, game-chat, JustinOPGamer#9138, rip
+21 Apr 2017 23:27:41 : Pulse, game-chat, JustinOPGamer#9138, ;pbt FFFFFFFF
+21 Apr 2017 23:27:41 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:27:41 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:27:59 : LimitlessMc, botchat, ZyroPlayz#3967, ;song
+21 Apr 2017 23:28:00 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Bleach Opening 1
+**Requester**: Crystal4209
+**URL**: <https://www.youtube.com/watch?v=_ty-Nqm4Pdc>
+```py
+Time: 0:01:30
+Views: 2,343,218
+Likes: 15,282, 98.82%
+Dislikes: 182, 1.18%
+Skips: 0/3```
+21 Apr 2017 23:28:14 : LimitlessMc, botchat, Third_Worm#4804, ;search One Punch Opening Full
+21 Apr 2017 23:28:15 : LimitlessMc, botchat, Botfuzzy77#2209, Added One Punch Man Opening Full Version to the queue
+21 Apr 2017 23:28:15 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=_TUTJ0klnKk
+21 Apr 2017 23:28:53 : LimitlessMc, botchat, Crystal4209#4698, ;search fairy tail opening 9 full
+21 Apr 2017 23:28:55 : LimitlessMc, botchat, Botfuzzy77#2209, Added Fairy tail: Towa no Kizuna to the queue
+21 Apr 2017 23:28:55 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=qmvVxGLz-B0
+21 Apr 2017 23:28:58 : LimitlessMc, botchat, ZyroPlayz#3967, NO
+21 Apr 2017 23:29:02 : LimitlessMc, botchat, ZyroPlayz#3967, NO
+21 Apr 2017 23:29:05 : Pulse, game-chat, Third_Worm#4804, ;cd
+21 Apr 2017 23:29:05 : Pulse, game-chat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You need to wait 362 seconds
+**Gamble**
+You can Gamble right now!
+21 Apr 2017 23:29:07 : LimitlessMc, botchat, ZyroPlayz#3967, NO CRYSTAL
+21 Apr 2017 23:29:10 : Pulse, game-chat, Third_Worm#4804, ;pb wwwwwwww
+21 Apr 2017 23:29:10 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:29:10 : Pulse, game-chat, Botfuzzy77#2209, 
+21 Apr 2017 23:29:13 : LimitlessMc, botchat, Crystal4209#4698, Uh yeah
+21 Apr 2017 23:29:24 : LimitlessMc, botchat, Crystal4209#4698, ;skip
+21 Apr 2017 23:29:24 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping MY HERO ACADEMIA season 2 opening ENGLISH DUB: "Peace Sign" by request of the requester
+21 Apr 2017 23:29:29 : LimitlessMc, botchat, Crystal4209#4698, ;skip
+21 Apr 2017 23:29:29 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping My Hero Academia Opening 2 ENGLISH ver. - Peace Sign - Tsuko G. by request of the requester
+21 Apr 2017 23:29:35 : LimitlessMc, botchat, Third_Worm#4804, ;search Pokemon Rap Song King
+21 Apr 2017 23:29:37 : LimitlessMc, botchat, Botfuzzy77#2209, Added PokéRAP ♪ "CHAMPION" [TheKingNappy + Shofu] to the queue
+21 Apr 2017 23:29:37 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=dGsN2sGxspk
+21 Apr 2017 23:29:37 : LimitlessMc, botchat, Third_Worm#4804, please
+21 Apr 2017 23:29:37 : LimitlessMc, botchat, Crystal4209#4698, The right one
+21 Apr 2017 23:29:40 : LimitlessMc, botchat, Third_Worm#4804, yES
+21 Apr 2017 23:29:46 : LimitlessMc, botchat, ZyroPlayz#3967, oh god
+21 Apr 2017 23:29:49 : LimitlessMc, botchat, ZyroPlayz#3967, ;songs
+21 Apr 2017 23:29:49 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+21 Apr 2017 23:29:49 : LimitlessMc, botchat, Botfuzzy77#2209, 1. XY & Z - Pokémon XYZ (FULL ENGLISH COVER) **ZyroPlayz**
+	<https://www.youtube.com/watch?v=RBZna0xAhTY>
+2. Parasyte Opening **Third_Worm**
+	<https://www.youtube.com/watch?v=Rm8UjBAS3cs>
+3. Donald Trump Theme Song (Danny Phantom Parody) **ZyroPlayz**
+	<https://www.youtube.com/watch?v=HbifQKCAaYQ>
+4. One Punch Man Opening Full Version **Third_Worm**
+	<https://www.youtube.com/watch?v=_TUTJ0klnKk>
+5. Fairy tail: Towa no Kizuna **Crystal4209**
+	<https://www.youtube.com/watch?v=qmvVxGLz-B0>
+6. PokéRAP ♪ "CHAMPION" [TheKingNappy + Shofu] **Third_Worm**
+	<https://www.youtube.com/watch?v=dGsN2sGxspk>
+Total Time is 0:16:32
+21 Apr 2017 23:29:56 : LimitlessMc, botchat, Wertfuzzy77#0274, what are these sogns
+21 Apr 2017 23:29:57 : LimitlessMc, botchat, Wertfuzzy77#0274, kms
+21 Apr 2017 23:30:00 : LimitlessMc, botchat, ZyroPlayz#3967, xDDDD
+21 Apr 2017 23:30:02 : LimitlessMc, botchat, Wertfuzzy77#0274, songs *
+21 Apr 2017 23:31:14 : LimitlessMc, botchat, ZyroPlayz#3967, wew the kid songs now bois
+21 Apr 2017 23:32:11 : LimitlessMc, mainchat, Uchiha.Riku#0880, Figured I'd make this as a poll for something I might ask for later on the Pixelmon offical website, as a side mod, if it does well enough in the polls. http://www.strawpoll.me/12797781/r
+21 Apr 2017 23:32:36 : LimitlessMc, botchat, Third_Worm#4804, ;song
+21 Apr 2017 23:32:36 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: XY & Z - Pokémon XYZ (FULL ENGLISH COVER)
+**Requester**: ZyroPlayz
+**URL**: <https://www.youtube.com/watch?v=RBZna0xAhTY>
+```py
+Time: 0:03:29
+Views: 2,268,205
+Likes: 16,622, 96.77%
+Dislikes: 555, 3.23%
+Skips: 0/2```
+21 Apr 2017 23:32:40 : LimitlessMc, botchat, Third_Worm#4804, k
+21 Apr 2017 23:32:44 : LimitlessMc, botchat, ZyroPlayz#3967, hohoho
+21 Apr 2017 23:34:40 : LimitlessMc, botchat, Wertfuzzy77#0274, this is parasyte
+21 Apr 2017 23:34:41 : LimitlessMc, botchat, ZyroPlayz#3967, o god
+21 Apr 2017 23:34:46 : LimitlessMc, botchat, ZyroPlayz#3967, ;song
+21 Apr 2017 23:34:46 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Parasyte Opening
+**Requester**: Third_Worm
+**URL**: <https://www.youtube.com/watch?v=Rm8UjBAS3cs>
+```py
+Time: 0:01:30
+Views: 2,290,782
+Likes: 19,742, 98.67%
+Dislikes: 266, 1.33%
+Skips: 0/2```
+21 Apr 2017 23:34:50 : LimitlessMc, botchat, Wertfuzzy77#0274, 😄
+21 Apr 2017 23:35:03 : LimitlessMc, botchat, ZyroPlayz#3967, it sounds like a broken tv
+21 Apr 2017 23:35:54 : LimitlessMc, botchat, Wertfuzzy77#0274, the anime was good tho
+21 Apr 2017 23:35:57 : LimitlessMc, botchat, Wertfuzzy77#0274, solid 8
+21 Apr 2017 23:35:59 : LimitlessMc, botchat, Wertfuzzy77#0274, /10
+21 Apr 2017 23:36:06 : LimitlessMc, botchat, ZyroPlayz#3967, how much anime do u wtch
+21 Apr 2017 23:36:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ive watched almost 50?
+21 Apr 2017 23:36:19 : LimitlessMc, botchat, Crystal4209#4698, Hey just like your bot 😄
+21 Apr 2017 23:36:21 : LimitlessMc, botchat, Third_Worm#4804, *flys to botchat(
+21 Apr 2017 23:36:26 : LimitlessMc, botchat, Crystal4209#4698, 8/10
+21 Apr 2017 23:36:29 : LimitlessMc, botchat, Third_Worm#4804, ;skip
+21 Apr 2017 23:36:29 : LimitlessMc, botchat, Botfuzzy77#2209, 1/2 votes to skip
+21 Apr 2017 23:36:34 : LimitlessMc, botchat, Third_Worm#4804, bai
+21 Apr 2017 23:36:34 : LimitlessMc, botchat, ZyroPlayz#3967, bruh
+21 Apr 2017 23:36:36 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+21 Apr 2017 23:36:36 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Donald Trump Theme Song (Danny Phantom Parody) by ADMIN request
+21 Apr 2017 23:36:37 : LimitlessMc, botchat, ZyroPlayz#3967, this song is gr8
+21 Apr 2017 23:36:39 : LimitlessMc, botchat, Wertfuzzy77#0274, 😛
+21 Apr 2017 23:36:40 : LimitlessMc, botchat, ZyroPlayz#3967, ;-;
+21 Apr 2017 23:36:43 : LimitlessMc, botchat, ZyroPlayz#3967, ;skip
+21 Apr 2017 23:36:43 : LimitlessMc, botchat, Botfuzzy77#2209, 1/2 votes to skip
+21 Apr 2017 23:36:52 : LimitlessMc, botchat, Wertfuzzy77#0274, nto again
+21 Apr 2017 23:36:55 : LimitlessMc, botchat, ZyroPlayz#3967, ;-;
+21 Apr 2017 23:36:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+21 Apr 2017 23:36:55 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping One Punch Man Opening Full Version by ADMIN request
+21 Apr 2017 23:37:01 : LimitlessMc, botchat, ZyroPlayz#3967, ;skip
+21 Apr 2017 23:37:01 : LimitlessMc, botchat, Botfuzzy77#2209, 1/2 votes to skip
+21 Apr 2017 23:37:01 : LimitlessMc, botchat, Wertfuzzy77#0274, wut
+21 Apr 2017 23:37:04 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+21 Apr 2017 23:37:04 : LimitlessMc, botchat, ZyroPlayz#3967, xDDDDDDDDD
+21 Apr 2017 23:37:04 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Fairy tail: Towa no Kizuna
+**Requester**: Crystal4209
+**URL**: <https://www.youtube.com/watch?v=qmvVxGLz-B0>
+```py
+Time: 0:03:33
+Views: 119,568
+Likes: 1,067, 98.43%
+Dislikes: 17, 1.57%
+Skips: 1/2```
+21 Apr 2017 23:37:07 : LimitlessMc, botchat, ZyroPlayz#3967, o no
+21 Apr 2017 23:37:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ill let it be
+21 Apr 2017 23:37:16 : LimitlessMc, botchat, Wertfuzzy77#0274, eh
+21 Apr 2017 23:37:17 : LimitlessMc, botchat, Crystal4209#4698, 😄
+21 Apr 2017 23:37:35 : LimitlessMc, botchat, ZyroPlayz#3967, fuck this shit im out
+21 Apr 2017 23:37:41 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+21 Apr 2017 23:37:41 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+21 Apr 2017 23:37:41 : LimitlessMc, botchat, Botfuzzy77#2209, 1. PokéRAP ♪ "CHAMPION" [TheKingNappy + Shofu] **Third_Worm**
+	<https://www.youtube.com/watch?v=dGsN2sGxspk>
+2. Snow Fairy Full **Radio: Fairy tail: Towa no Kizuna**
+	<https://www.youtube.com/watch?v=y-q3br6WcGc>
+3. Fairy Tail Opening 18 **Radio: Fairy tail: Towa no Kizuna**
+	<https://www.youtube.com/watch?v=72TSoykN7Q8>
+4. HERO - Tenohira [Fairy Tail OP 12] HD **Radio: Fairy tail: Towa no Kizuna**
+	<https://www.youtube.com/watch?v=BFDTwfmLiaw>
+5. Fairy Tail Opening 16 Full **Radio: Fairy tail: Towa no Kizuna**
+	<https://www.youtube.com/watch?v=b7JtSHhJxYU>
+Total Time is 0:18:01
+21 Apr 2017 23:37:49 : LimitlessMc, botchat, Wertfuzzy77#0274, ;recommend
+21 Apr 2017 23:37:49 : LimitlessMc, botchat, Botfuzzy77#2209, Recommend Songs to play: False
+21 Apr 2017 23:37:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;clear
+21 Apr 2017 23:37:50 : LimitlessMc, botchat, Botfuzzy77#2209, Cleared Queue!
+21 Apr 2017 23:37:51 : LimitlessMc, botchat, Wertfuzzy77#0274, ;yplaylist https://www.youtube.com/playlist?list=PLFwhUkU59Z5vFpB4mMNhj8vvu05b60VnK
+21 Apr 2017 23:37:55 : LimitlessMc, botchat, Crystal4209#4698, Hmm must hate fairytail or something
+21 Apr 2017 23:38:08 : LimitlessMc, botchat, Wertfuzzy77#0274, well rip
+21 Apr 2017 23:38:10 : LimitlessMc, botchat, Wertfuzzy77#0274, I broke it xD
+21 Apr 2017 23:38:18 : LimitlessMc, botchat, Crystal4209#4698, XD
+21 Apr 2017 23:38:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;music
+21 Apr 2017 23:38:24 : LimitlessMc, botchat, Botfuzzy77#2209, Connected to voice channels in the following servers:
+LimitlessMc playing Fairy tail: Towa no Kizuna
+21 Apr 2017 23:38:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;relog
+21 Apr 2017 23:38:26 : LimitlessMc, botchat, Botfuzzy77#2209, Relogging...

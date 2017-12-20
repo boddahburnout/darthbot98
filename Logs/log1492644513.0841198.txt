@@ -1,0 +1,71 @@
+19 Apr 2017 23:28:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+19 Apr 2017 23:28:43 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+19 Apr 2017 23:28:51 : LimitlessMc, botchat, Wertfuzzy77#0274, ;yplaylist https://www.youtube.com/playlist?list=PLL77IVn4yixXNjnBZGgFavieuLHyaaw-q
+19 Apr 2017 23:29:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug psutil.cpu_percent(interval=1)
+19 Apr 2017 23:29:02 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+20.4
+```
+19 Apr 2017 23:29:04 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug psutil.cpu_percent(interval=1)
+19 Apr 2017 23:29:05 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+19.0
+```
+19 Apr 2017 23:29:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug "Memory usage: {}%\n".format(str(psutil.virtual_memory().percent))
+19 Apr 2017 23:29:40 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+Memory usage: 100.0%
+
+```
+19 Apr 2017 23:29:42 : LimitlessMc, botchat, Wertfuzzy77#0274, well
+19 Apr 2017 23:29:52 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug "Memory usage: {}%\n".format(str(psutil.virtual_memory().percent))
+19 Apr 2017 23:29:53 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+Memory usage: 100.0%
+
+```
+19 Apr 2017 23:29:58 : LimitlessMc, botchat, Wertfuzzy77#0274, thats no bueno
+19 Apr 2017 23:30:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+19 Apr 2017 23:30:03 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue, plus [32] more**
+19 Apr 2017 23:30:03 : LimitlessMc, botchat, Botfuzzy77#2209, 1. SteinsGate - Event Horizon - 02.August 13 -Explanation- **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=CPOx40Ejfr0>
+2. SteinsGate - Event Horizon - 03.Labordinary **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=ZPu4aFdMxzA>
+3. SteinsGate - Event Horizon - 04.Warmth of days -Promise- **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=C1UJi6M057A>
+4. SteinsGate - Event Horizon - 05.Butterfly effect **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=gxpYfvtzrMg>
+5. SteinsGate - Event Horizon - 06.Timeleap **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=Oa-Av5eAPH8>
+6. SteinsGate - Event Horizon - 07.Menace **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=WMMmsqSrjxk>
+7. SteinsGate - Event Horizon - 08.Confrontation **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=FBVj35JU7eM>
+8. One selection - Gate of steiner **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=XUdS9lLn9c4>
+9. Steins;Gate OST - Gate of Steiner -Main Theme- **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=qft44yIJ6_M>
+10. [Beautiful Soundtracks] Steins;Gate OST - Believe Me **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=lUTkiY70PGA>
+Total Time is 1:22:53
+19 Apr 2017 23:30:05 : LimitlessMc, botchat, Wertfuzzy77#0274, o
+19 Apr 2017 23:30:24 : LimitlessMc, botchat, Wertfuzzy77#0274, maybe I should cap it
+19 Apr 2017 23:33:44 : OblivionEvolved, server_news, StubbyMuffins#1053, @​everyone be wary of deep water pugnacia is having a problem with conflagrant angler spawns and there is hundreds if not thousands in the deep trenches im submitting a bug report and will reply with progress or if they update it
+19 Apr 2017 23:34:08 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug "Memory usage: {}%\n".format(str(psutil.virtual_memory().percent))
+19 Apr 2017 23:34:08 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+Memory usage: 96.1%
+
+```
+19 Apr 2017 23:35:40 : LimitlessMc, mainchat, (Not Really)Head Mod AlphaBit#3869, wpp
+19 Apr 2017 23:35:41 : LimitlessMc, mainchat, (Not Really)Head Mod AlphaBit#3869, woo
+19 Apr 2017 23:40:32 : LimitlessMc, botchat, TherminatorX#6644, Ouch
+19 Apr 2017 23:40:35 : LimitlessMc, botchat, TherminatorX#6644, ;pbs
+19 Apr 2017 23:40:35 : LimitlessMc, botchat, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> medium to fight and reveal the boss.
+19 Apr 2017 23:40:43 : LimitlessMc, botchat, TherminatorX#6644, ;pbt bbbbbbbb
+19 Apr 2017 23:40:43 : LimitlessMc, botchat, Botfuzzy77#2209, 
+19 Apr 2017 23:40:43 : LimitlessMc, botchat, Botfuzzy77#2209, 
+19 Apr 2017 23:40:48 : LimitlessMc, botchat, TherminatorX#6644, ;train
+19 Apr 2017 23:40:48 : LimitlessMc, botchat, Botfuzzy77#2209, 
+19 Apr 2017 23:40:48 : LimitlessMc, botchat, Botfuzzy77#2209, 
+19 Apr 2017 23:41:53 : LimitlessMc, botchat, (Not Really)Head Mod AlphaBit#3869, ;train
+19 Apr 2017 23:41:54 : LimitlessMc, botchat, Botfuzzy77#2209, 
+19 Apr 2017 23:41:54 : LimitlessMc, botchat, Botfuzzy77#2209, 
+19 Apr 2017 23:45:18 : LimitlessMc, botchat, Wertfuzzy77#0274, ;relog
+19 Apr 2017 23:45:18 : LimitlessMc, botchat, Botfuzzy77#2209, Relogging...

@@ -1,0 +1,11 @@
+22 Sep 2016 23:56:53 : The Wild Weeaboos, coding, Wertfuzzy77#0274, ;join
+22 Sep 2016 23:56:58 : The Wild Weeaboos, coding, Wertfuzzy77#0274, ;playlist Kimi Kimi Kimi Kimi Kimi Kimi
+22 Sep 2016 23:58:13 : The Wild Weeaboos, coding, Wertfuzzy77#0274, ;join
+22 Sep 2016 23:58:13 : The Wild Weeaboos, coding, Botfuzzy77#2209, Sorry, I'm already connected to a channel in server The Wild Weeaboos
+22 Sep 2016 23:58:17 : The Wild Weeaboos, coding, Wertfuzzy77#0274, ;leave
+22 Sep 2016 23:58:19 : The Wild Weeaboos, coding, Wertfuzzy77#0274, ;join
+22 Sep 2016 23:58:23 : The Wild Weeaboos, coding, Wertfuzzy77#0274, ;playlist Kimi Kimi Kimi Kimi Kimi Kimi
+22 Sep 2016 23:59:13 : The Wild Weeaboos, coding, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+22 Sep 2016 23:59:42 : The Wild Weeaboos, general, FinaldF#5864, A.. basically just count each different node visited
+22 Sep 2016 23:59:56 : The Wild Weeaboos, general, FinaldF#5864, B. set v to the root node then dfs or bfs it
+23 Sep 2016 00:00:55 : The Wild Weeaboos, coding, Wertfuzzy77#0274, ;relog

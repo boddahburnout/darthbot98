@@ -1,0 +1,28 @@
+15 Dec 2017 07:28:23 : FAM, off-topic, darth kota#9446, ;subs
+15 Dec 2017 07:32:39 : FAM, off-topic, darth kota#9446, ;reload
+15 Dec 2017 07:32:40 : FAM, off-topic, darthbot98#5182, Reloaded
+15 Dec 2017 07:32:46 : FAM, off-topic, darth kota#9446, ;join
+15 Dec 2017 07:32:47 : FAM, off-topic, darthbot98#5182, Connected channel!
+15 Dec 2017 07:32:51 : FAM, off-topic, darth kota#9446, ;recommend
+15 Dec 2017 07:32:51 : FAM, off-topic, darthbot98#5182, Please add a song with ;search first
+15 Dec 2017 07:35:38 : FAM, off-topic, darth kota#9446, ;reload
+15 Dec 2017 07:35:38 : FAM, off-topic, darthbot98#5182, Reloaded
+15 Dec 2017 07:35:41 : FAM, off-topic, darth kota#9446, ;join
+15 Dec 2017 07:35:41 : FAM, off-topic, darthbot98#5182, Reconnected channel!
+15 Dec 2017 07:35:48 : FAM, off-topic, darth kota#9446, ;search 45
+15 Dec 2017 07:35:52 : FAM, off-topic, darthbot98#5182, Added Shinedown - 45 [OFFICIAL VIDEO] to the queue
+15 Dec 2017 07:35:52 : FAM, off-topic, darthbot98#5182, https://www.youtube.com/watch?v=MLeIyy2ipps
+15 Dec 2017 07:36:02 : FAM, off-topic, darth kota#9446, ;pause
+15 Dec 2017 07:36:02 : FAM, off-topic, darthbot98#5182, The Bot isnt connected in this server!
+15 Dec 2017 07:37:30 : FAM, off-topic, darth kota#9446, ;reload
+15 Dec 2017 07:37:31 : FAM, off-topic, darthbot98#5182, Reloaded
+15 Dec 2017 07:37:33 : FAM, off-topic, darth kota#9446, ;join
+15 Dec 2017 07:37:34 : FAM, off-topic, darthbot98#5182, Reconnected channel!
+15 Dec 2017 07:37:38 : FAM, off-topic, darth kota#9446, ;pause
+15 Dec 2017 07:37:38 : FAM, off-topic, darthbot98#5182, The Bot isnt connected in this server!
+15 Dec 2017 07:38:08 : FAM, off-topic, darth kota#9446, ;music
+15 Dec 2017 07:38:09 : FAM, off-topic, darthbot98#5182, 
+15 Dec 2017 07:38:28 : FAM, off-topic, darth kota#9446, ;reload
+15 Dec 2017 07:38:28 : FAM, off-topic, darthbot98#5182, Reloaded
+15 Dec 2017 07:38:31 : FAM, off-topic, darth kota#9446, ;relog
+15 Dec 2017 07:38:31 : FAM, off-topic, darthbot98#5182, Relogging...

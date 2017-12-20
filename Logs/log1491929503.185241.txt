@@ -1,0 +1,23 @@
+11 Apr 2017 16:52:43 : LimitlessMc, botchat, Wertfuzzy77#0274, ;relog
+11 Apr 2017 16:52:54 : LimitlessMc, botchat, Wertfuzzy77#0274, ;help StaffCmds
+11 Apr 2017 16:52:55 : None, Direct Message with Wertfuzzy77, Botfuzzy77#2209, ```
+Commands:
+  tempmute         
+  unmute           
+  mutelist         
+  mute             
+  unmuteall        Unmutes ALL muted players
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+11 Apr 2017 16:53:14 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+11 Apr 2017 16:53:15 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 16:53:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pbt GGGGG
+11 Apr 2017 16:53:19 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 16:53:19 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 16:53:31 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+11 Apr 2017 16:53:31 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+11 Apr 2017 16:53:36 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio Rock-n-Roll
+11 Apr 2017 16:54:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio Rock-n-Roll
+11 Apr 2017 16:54:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio

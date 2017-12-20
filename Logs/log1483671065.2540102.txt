@@ -1,0 +1,731 @@
+06 Jan 2017 02:51:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+06 Jan 2017 02:51:31 : LimitlessMc, botchat, Botfuzzy77#2209, Something went wrong :(
+06 Jan 2017 02:51:31 : LimitlessMc, botchat, Botfuzzy77#2209, SyntaxError: invalid syntax (Games.py, line 370)
+06 Jan 2017 02:51:35 : LimitlessMc, botchat, Tux#0283, ;pokebattle FGFBP
+06 Jan 2017 02:51:52 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+06 Jan 2017 02:51:53 : LimitlessMc, botchat, Botfuzzy77#2209, Reloaded all Modules
+06 Jan 2017 02:51:56 : LimitlessMc, botchat, Bakafish#8693, ;rankings
+06 Jan 2017 02:51:57 : LimitlessMc, botchat, Wertfuzzy77#0274, I fixing him rn
+06 Jan 2017 02:52:02 : LimitlessMc, botchat, Bakafish#8693, ;level
+06 Jan 2017 02:52:03 : LimitlessMc, botchat, Tux#0283, Oh okei
+06 Jan 2017 02:52:09 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 02:52:26 : LimitlessMc, botchat, Tux#0283, ;help
+06 Jan 2017 02:52:26 : LimitlessMc, botchat, Botfuzzy77#2209, ```
+A Bot for the Limitless MC Server Discord! Version 0.14.2.6
+(Created by Wertfuzzy77)
+
+FlavorTexts:
+  choose         Chooses from a set of things
+  conch          Ask the Magic Conch a Question
+  fml            Returns a Random Post from fmylife.com
+  funify         Funifies a given text input
+  gif            Returns the First Found Image on Google Images for this Input
+  hug            Adds Emotion
+  image          Returns the First Found Image on Google Images for this Input
+  kill           Adds Emotion
+  kiss           Adds Emotion
+  kys            
+  lmgtfy         Returns a Link to a "Let me Google That For You" Page
+  luck           Returns the Player's Luck
+  rate           Rates the Player
+  rps            Allows the player to play Rock, Paper, Scissors with the Bot...
+  slap           Adds Emotion
+  wyr            
+Games:
+  cd             Shows your Cooldowns
+  level          Displays your Current Information
+  pokebattle     Fights a Pokemon Boss using a combination of 10 total moves ...
+  pokeboss       Displays Boss Info
+  pokehelp       Pokemon Battle Sim Help
+  ranking        
+  summon         Summons a Boss of your Level or a Level below yours
+  train          Fights Pokemon for XP
+  trivia         
+  types          
+MusicPlayer:
+  Radio          Toggles Radio Mode
+  clear          Clears the Queue
+  desc           Decription of the Current playing song
+  extendplaylist Extends a custom playlist
+  join           Joins the Voice channel you are currently in
+  leave          Leaves the Join chat
+  loop           Plays the current song again
+  makeplaylist   Makes a custom playlist for the bot to save
+  music          Returns the current status of the Music Bot
+  playlist       Adds songs from a predefined playlist to the songs list
+  playlists      Shows all the current playlists
+  remove         removes a song from a queue by index
+  search         Searches for a song
+  shuffle        Shuffles the songs in the Queue
+```
+06 Jan 2017 02:52:54 : LimitlessMc, botchat, Tux#0283, ;youtube https://www.youtube.com/watch?v=sjdhnmQ-wmk
+06 Jan 2017 02:52:54 : LimitlessMc, botchat, Botfuzzy77#2209, I am not connected to a Voice Chat!
+06 Jan 2017 02:52:59 : LimitlessMc, botchat, Tux#0283, ;join
+06 Jan 2017 02:53:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+06 Jan 2017 02:53:12 : LimitlessMc, botchat, Botfuzzy77#2209, Reloaded all Modules
+06 Jan 2017 02:53:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 02:53:21 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+06 Jan 2017 02:53:29 : LimitlessMc, botchat, Bakafish#8693, ;level
+06 Jan 2017 02:53:31 : LimitlessMc, botchat, Bakafish#8693, ;ranking
+06 Jan 2017 02:53:31 : LimitlessMc, botchat, Tux#0283, ;youtube https://www.youtube.com/watch?v=sjdhnmQ-wmk
+06 Jan 2017 02:53:31 : LimitlessMc, botchat, Botfuzzy77#2209, I am not connected to a Voice Chat!
+06 Jan 2017 02:53:35 : LimitlessMc, botchat, Tux#0283, wat
+06 Jan 2017 02:53:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+06 Jan 2017 02:53:37 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 0
+**XP**: 0/1
+06 Jan 2017 02:53:39 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 02:53:46 : LimitlessMc, botchat, Bakafish#8693, ;level
+06 Jan 2017 02:53:46 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Bakafish*
+**Level**: 0
+**XP**: 0/1
+06 Jan 2017 02:53:51 : LimitlessMc, botchat, Bakafish#8693, did you reset?
+06 Jan 2017 02:53:55 : LimitlessMc, botchat, Wertfuzzy77#0274, nah, local bot
+06 Jan 2017 02:53:57 : LimitlessMc, botchat, Tux#0283, you are connected to a voice channel mr
+06 Jan 2017 02:53:58 : LimitlessMc, botchat, Bakafish#8693, o
+06 Jan 2017 02:54:03 : LimitlessMc, botchat, Bakafish#8693, ;ranking
+06 Jan 2017 02:54:21 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+06 Jan 2017 02:54:22 : LimitlessMc, botchat, Botfuzzy77#2209, Reloaded all Modules
+06 Jan 2017 02:54:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 02:54:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+06 Jan 2017 02:54:29 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 0
+**XP**: 0/1
+06 Jan 2017 02:54:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 02:54:54 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+06 Jan 2017 02:54:55 : LimitlessMc, botchat, Botfuzzy77#2209, Reloaded all Modules
+06 Jan 2017 02:54:57 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 02:55:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+06 Jan 2017 02:55:39 : LimitlessMc, botchat, Botfuzzy77#2209, Reloaded all Modules
+06 Jan 2017 02:55:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+06 Jan 2017 02:55:40 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 0
+**XP**: 0/1
+06 Jan 2017 02:55:43 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 02:55:43 : LimitlessMc, botchat, Botfuzzy77#2209, **Wertfuzzy77**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 0
+06 Jan 2017 02:55:47 : LimitlessMc, botchat, Wertfuzzy77#0274, cool
+06 Jan 2017 02:55:55 : LimitlessMc, botchat, Wertfuzzy77#0274, @Bakafish do ;level
+06 Jan 2017 02:56:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+06 Jan 2017 02:56:24 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 0
+**XP**: 0/1
+06 Jan 2017 02:56:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 02:56:27 : LimitlessMc, botchat, Botfuzzy77#2209, **Wertfuzzy77**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 0
+06 Jan 2017 02:56:58 : LimitlessMc, botchat, Bakafish#8693, ;level
+06 Jan 2017 02:56:59 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Bakafish*
+**Level**: 0
+**XP**: 0/1
+06 Jan 2017 02:57:03 : LimitlessMc, botchat, Bakafish#8693, ;ranking
+06 Jan 2017 02:59:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+06 Jan 2017 02:59:44 : LimitlessMc, botchat, Botfuzzy77#2209, Reloaded all Modules
+06 Jan 2017 02:59:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 02:59:57 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+06 Jan 2017 02:59:58 : LimitlessMc, botchat, Botfuzzy77#2209, Reloaded all Modules
+06 Jan 2017 02:59:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 03:00:20 : LimitlessMc, mainchat, Tux#0283, Going off
+06 Jan 2017 03:00:25 : LimitlessMc, mainchat, Tux#0283, Bai
+06 Jan 2017 03:00:32 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+06 Jan 2017 03:00:33 : LimitlessMc, botchat, Botfuzzy77#2209, Reloaded all Modules
+06 Jan 2017 03:00:34 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 03:01:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+06 Jan 2017 03:01:13 : LimitlessMc, botchat, Botfuzzy77#2209, Reloaded all Modules
+06 Jan 2017 03:01:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 03:01:19 : LimitlessMc, botchat, Bakafish#8693, ;level
+06 Jan 2017 03:01:19 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Bakafish*
+**Level**: 0
+**XP**: 0/1
+06 Jan 2017 03:01:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+06 Jan 2017 03:01:30 : LimitlessMc, botchat, Botfuzzy77#2209, Reloaded all Modules
+06 Jan 2017 03:01:31 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 03:01:56 : LimitlessMc, mainchat, Tux#0283, o/
+06 Jan 2017 03:02:14 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+06 Jan 2017 03:02:15 : LimitlessMc, botchat, Botfuzzy77#2209, Reloaded all Modules
+06 Jan 2017 03:02:16 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 03:02:35 : Pokemon Mystery Dungeon, pmd_drawings, AnishaLunarAngel#5926, 
+06 Jan 2017 03:02:52 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+06 Jan 2017 03:02:53 : LimitlessMc, botchat, Botfuzzy77#2209, Reloaded all Modules
+06 Jan 2017 03:02:54 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 03:02:54 : LimitlessMc, botchat, Botfuzzy77#2209, **Wertfuzzy77**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 0**Bakafish**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 0
+06 Jan 2017 03:02:56 : LimitlessMc, botchat, Wertfuzzy77#0274, ayy
+06 Jan 2017 03:02:56 : LimitlessMc, botchat, Botfuzzy77#2209, Lmao
+06 Jan 2017 03:03:03 : Pokemon Mystery Dungeon, general, AnishaLunarAngel#5926, Team Moon full team drawing in pmd_drawings channel.
+06 Jan 2017 03:03:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+06 Jan 2017 03:03:14 : LimitlessMc, botchat, Botfuzzy77#2209, Something went wrong :(
+06 Jan 2017 03:03:15 : LimitlessMc, botchat, Botfuzzy77#2209, KeyError: 'sprites'
+06 Jan 2017 03:03:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+06 Jan 2017 03:03:20 : LimitlessMc, botchat, Bakafish#8693, ^
+06 Jan 2017 03:03:20 : LimitlessMc, botchat, Botfuzzy77#2209, Reloaded all Modules
+06 Jan 2017 03:03:21 : LimitlessMc, botchat, Botfuzzy77#2209, ^
+06 Jan 2017 03:03:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 03:03:22 : LimitlessMc, botchat, Botfuzzy77#2209, **Wertfuzzy77**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 0
+**Bakafish**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 0
+06 Jan 2017 03:03:24 : LimitlessMc, botchat, Bakafish#8693, ayy
+06 Jan 2017 03:03:24 : LimitlessMc, botchat, Botfuzzy77#2209, Lmao
+06 Jan 2017 03:03:27 : LimitlessMc, botchat, Bakafish#8693, any ^
+06 Jan 2017 03:03:30 : LimitlessMc, botchat, Bakafish#8693, woops
+06 Jan 2017 03:03:36 : LimitlessMc, botchat, Bakafish#8693, aay ^
+06 Jan 2017 03:03:38 : LimitlessMc, botchat, Bakafish#8693, rip
+06 Jan 2017 03:06:41 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+06 Jan 2017 03:06:43 : LimitlessMc, botchat, Botfuzzy77#2209, Reloaded all Modules
+06 Jan 2017 03:06:44 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 03:06:45 : LimitlessMc, botchat, Botfuzzy77#2209, **Wertfuzzy77**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 0
+**Bakafish**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 0
+06 Jan 2017 03:06:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 03:06:46 : LimitlessMc, botchat, Botfuzzy77#2209, **Wertfuzzy77**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 0
+**Bakafish**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 0
+06 Jan 2017 03:06:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 03:06:59 : LimitlessMc, botchat, Botfuzzy77#2209, **Wertfuzzy77**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 0
+**Bakafish**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 0
+06 Jan 2017 03:07:35 : LimitlessMc, botchat, Bakafish#8693, ;pokebattle NNNNN
+06 Jan 2017 03:07:35 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 0 Boss **Sunkern** has appeared!
+It has 0 Health.
+06 Jan 2017 03:07:36 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:07:36 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :x: :x:
+06 Jan 2017 03:07:36 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **0** damage
+06 Jan 2017 03:07:36 : LimitlessMc, botchat, Botfuzzy77#2209, Level 0 Boss **Sunkern** has been defeated!
+06 Jan 2017 03:07:41 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **Bakafish** with **0** damage
+06 Jan 2017 03:07:42 : LimitlessMc, botchat, Bakafish#8693, ;level
+06 Jan 2017 03:07:42 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Bakafish*
+**Level**: 1
+**XP**: 0/8
+06 Jan 2017 03:07:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 03:07:46 : LimitlessMc, botchat, Botfuzzy77#2209, **Bakafish**, Level: *1*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 0
+**Wertfuzzy77**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 0
+06 Jan 2017 03:07:48 : LimitlessMc, botchat, Wertfuzzy77#0274, fancy
+06 Jan 2017 03:07:53 : LimitlessMc, botchat, Wertfuzzy77#0274, it sorts correctly
+06 Jan 2017 03:08:21 : Pokemon Mystery Dungeon, general, ChesireKat#7022, ohmylord yes!
+06 Jan 2017 03:08:50 : Pokemon Mystery Dungeon, general, ChesireKat#7022, YAS!
+06 Jan 2017 03:09:16 : LimitlessMc, mainchat, ChesireKat#7022, @Tux  bai have a  good night
+06 Jan 2017 03:09:18 : Pokemon Mystery Dungeon, general, AnishaLunarAngel#5926, *so much happy* I was most proud of Umbreon and Kingdra :3 could not wait for reactions
+06 Jan 2017 03:09:32 : Pokemon Mystery Dungeon, general, AnishaLunarAngel#5926, here.. back to team moon chat
+06 Jan 2017 03:11:46 : LimitlessMc, botchat, Bakafish#8693, ;ranking
+06 Jan 2017 03:11:47 : LimitlessMc, botchat, Botfuzzy77#2209, **Bakafish**, Level: *1*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 0
+**Wertfuzzy77**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 0
+06 Jan 2017 03:11:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+06 Jan 2017 03:11:50 : LimitlessMc, botchat, Botfuzzy77#2209, Something went wrong :(
+06 Jan 2017 03:11:50 : LimitlessMc, botchat, Botfuzzy77#2209, SyntaxError: invalid syntax (Games.py, line 261)
+06 Jan 2017 03:11:59 : LimitlessMc, botchat, Bakafish#8693, ^
+06 Jan 2017 03:11:59 : LimitlessMc, botchat, Botfuzzy77#2209, ^
+06 Jan 2017 03:12:04 : LimitlessMc, botchat, Bakafish#8693, ^
+06 Jan 2017 03:12:04 : LimitlessMc, botchat, Botfuzzy77#2209, ^
+06 Jan 2017 03:12:05 : LimitlessMc, botchat, Bakafish#8693, ^
+06 Jan 2017 03:12:05 : LimitlessMc, botchat, Botfuzzy77#2209, ^
+06 Jan 2017 03:12:06 : LimitlessMc, botchat, Bakafish#8693, ^
+06 Jan 2017 03:12:06 : LimitlessMc, botchat, Botfuzzy77#2209, ^
+06 Jan 2017 03:12:58 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+06 Jan 2017 03:12:58 : LimitlessMc, botchat, Botfuzzy77#2209, Something went wrong :(
+06 Jan 2017 03:12:59 : LimitlessMc, botchat, Botfuzzy77#2209, SyntaxError: invalid syntax (Games.py, line 261)
+06 Jan 2017 03:13:08 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+06 Jan 2017 03:13:08 : LimitlessMc, botchat, Botfuzzy77#2209, Something went wrong :(
+06 Jan 2017 03:13:08 : LimitlessMc, botchat, Botfuzzy77#2209, SyntaxError: invalid syntax (Games.py, line 261)
+06 Jan 2017 03:13:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ;-;
+06 Jan 2017 03:13:51 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+06 Jan 2017 03:13:52 : LimitlessMc, botchat, Botfuzzy77#2209, Reloaded all Modules
+06 Jan 2017 03:13:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 03:13:55 : LimitlessMc, botchat, Botfuzzy77#2209, **Bakafish**, Level: *1*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 0
+**Wertfuzzy77**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 0
+06 Jan 2017 03:14:00 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle nnnnn
+06 Jan 2017 03:14:00 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 0 Boss **Beheeyem** has appeared!
+It has 0 Health.
+06 Jan 2017 03:14:00 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:14:00 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :x: :x:
+06 Jan 2017 03:14:01 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **0** damage
+06 Jan 2017 03:14:06 : LimitlessMc, botchat, Bakafish#8693, ;pokebattle nnnnn
+06 Jan 2017 03:14:06 : LimitlessMc, botchat, Botfuzzy77#2209, Level 0 Boss **Beheeyem** has 0 health left.
+06 Jan 2017 03:14:07 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:14:07 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :x: :x:
+06 Jan 2017 03:14:07 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **0** damage
+06 Jan 2017 03:14:14 : LimitlessMc, botchat, Bakafish#8693, ;cd
+06 Jan 2017 03:14:15 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You can Train right now!
+06 Jan 2017 03:14:19 : LimitlessMc, botchat, Bakafish#8693, ;pokebattle SSSSS
+06 Jan 2017 03:14:19 : LimitlessMc, botchat, Botfuzzy77#2209, Level 0 Boss **Beheeyem** has 0 health left.
+06 Jan 2017 03:14:19 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:14:19 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_s: :regional_indicator_s: :regional_indicator_s: :regional_indicator_s: :regional_indicator_s:
+:x: :x: :x: :x: :x:
+06 Jan 2017 03:14:20 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **0** damage
+06 Jan 2017 03:14:25 : LimitlessMc, botchat, Bakafish#8693, ;pokebattle PPPPP
+06 Jan 2017 03:14:25 : LimitlessMc, botchat, Botfuzzy77#2209, Level 0 Boss **Beheeyem** has 0 health left.
+06 Jan 2017 03:14:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:14:25 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_p: :regional_indicator_p: :regional_indicator_p: :regional_indicator_p: :regional_indicator_p:
+:x: :x: :x: :x: :white_check_mark:
+06 Jan 2017 03:14:25 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **2** damage
+06 Jan 2017 03:14:37 : LimitlessMc, mainchat, ChesireKat#7022, brb foods
+06 Jan 2017 03:14:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+06 Jan 2017 03:14:39 : LimitlessMc, botchat, Bakafish#8693, ;pokebattle PPPPP
+06 Jan 2017 03:14:39 : LimitlessMc, botchat, Botfuzzy77#2209, Reloaded all Modules
+06 Jan 2017 03:14:39 : LimitlessMc, mainchat, ChesireKat#7022, -.-
+06 Jan 2017 03:14:39 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 0 Boss **Tentacool** has appeared!
+It has 0 Health.
+06 Jan 2017 03:14:39 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:14:39 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_p: :regional_indicator_p: :regional_indicator_p: :regional_indicator_p: :regional_indicator_p:
+:x: :x: :white_check_mark: :x: :x:
+06 Jan 2017 03:14:39 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **0** damage
+06 Jan 2017 03:14:44 : LimitlessMc, botchat, Botfuzzy77#2209, Level 0 Boss **Tentacool** has been defeated!
+06 Jan 2017 03:14:44 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **Bakafish** with **0** damage
+06 Jan 2017 03:14:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 03:14:47 : LimitlessMc, botchat, Botfuzzy77#2209, **Wertfuzzy77**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 0
+**Bakafish**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 1
+06 Jan 2017 03:14:52 : LimitlessMc, botchat, Wertfuzzy77#0274, gj, you have 1 takedown
+06 Jan 2017 03:14:58 : LimitlessMc, botchat, Wertfuzzy77#0274, but back to level 1?
+06 Jan 2017 03:15:00 : LimitlessMc, botchat, Wertfuzzy77#0274, 0 *
+06 Jan 2017 03:15:01 : LimitlessMc, botchat, Wertfuzzy77#0274, weird
+06 Jan 2017 03:15:27 : LimitlessMc, botchat, Wertfuzzy77#0274, ;summon 0
+06 Jan 2017 03:15:29 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 0 boss has been summoned
+06 Jan 2017 03:15:32 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle nnnnn
+06 Jan 2017 03:15:33 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 0 Boss **Terrakion** has appeared!
+It has 0 Health.
+06 Jan 2017 03:15:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:15:33 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :white_check_mark: :x: :x:
+06 Jan 2017 03:15:33 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+06 Jan 2017 03:15:34 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **1** damage
+06 Jan 2017 03:15:34 : LimitlessMc, botchat, Botfuzzy77#2209, Level 0 Boss **Terrakion** has been defeated!
+06 Jan 2017 03:15:34 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **Wertfuzzy77** with **1** damage
+06 Jan 2017 03:15:39 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 03:15:39 : LimitlessMc, botchat, Botfuzzy77#2209, **Wertfuzzy77**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 1
+**Bakafish**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 1
+06 Jan 2017 03:15:48 : LimitlessMc, botchat, Wertfuzzy77#0274, it didnt count my damaga ;-;
+06 Jan 2017 03:16:35 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+06 Jan 2017 03:16:36 : LimitlessMc, botchat, Botfuzzy77#2209, Reloaded all Modules
+06 Jan 2017 03:16:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+06 Jan 2017 03:16:38 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 1
+**XP**: 0/8
+06 Jan 2017 03:16:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 03:16:47 : LimitlessMc, botchat, Botfuzzy77#2209, **Wertfuzzy77**, Level: *1*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 1
+**Bakafish**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 1
+06 Jan 2017 03:16:51 : LimitlessMc, botchat, Wertfuzzy77#0274, weird
+06 Jan 2017 03:17:00 : LimitlessMc, botchat, Bakafish#8693, ;pokebattle DIEDS
+06 Jan 2017 03:17:00 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 0 Boss **Purrloin** has appeared!
+It has 0 Health.
+06 Jan 2017 03:17:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:17:01 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_d: :regional_indicator_i: :regional_indicator_e: :regional_indicator_d: :regional_indicator_s:
+:x: :x: :x: :x: :x:
+06 Jan 2017 03:17:01 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **0** damage
+06 Jan 2017 03:17:01 : LimitlessMc, botchat, Botfuzzy77#2209, Level 0 Boss **Purrloin** has been defeated!
+06 Jan 2017 03:17:06 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **Bakafish** with **0** damage
+06 Jan 2017 03:17:09 : LimitlessMc, botchat, Bakafish#8693, ;level
+06 Jan 2017 03:17:09 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Bakafish*
+**Level**: 1
+**XP**: 0/8
+06 Jan 2017 03:17:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 03:17:11 : LimitlessMc, botchat, Botfuzzy77#2209, **Wertfuzzy77**, Level: *1*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 1
+**Bakafish**, Level: *1*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 1
+06 Jan 2017 03:17:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ;summon
+06 Jan 2017 03:17:19 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 1 boss has been summoned
+06 Jan 2017 03:17:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle nnnnn
+06 Jan 2017 03:17:23 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 1 Boss **Rhyperior** has appeared!
+It has 685 Health.
+06 Jan 2017 03:17:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:17:23 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :white_check_mark: :x:
+06 Jan 2017 03:17:23 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+06 Jan 2017 03:17:24 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **2** damage
+06 Jan 2017 03:17:25 : LimitlessMc, botchat, Botfuzzy77#2209, Level 1 Boss **Rhyperior** has 683 health left.
+06 Jan 2017 03:17:27 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 03:17:28 : LimitlessMc, botchat, Botfuzzy77#2209, **Wertfuzzy77**, Level: *1*, Most Damage Done in a Single Attack: *2*, Boss Takedowns: 1
+**Bakafish**, Level: *1*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 1
+06 Jan 2017 03:17:32 : LimitlessMc, botchat, Wertfuzzy77#0274, oh, so it works?
+06 Jan 2017 03:17:33 : LimitlessMc, botchat, Bakafish#8693, ;pokebattle NNDNN
+06 Jan 2017 03:17:34 : LimitlessMc, botchat, Botfuzzy77#2209, Level 1 Boss **Rhyperior** has 683 health left.
+06 Jan 2017 03:17:34 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:17:34 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_d: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :white_check_mark: :white_check_mark: :x:
+06 Jan 2017 03:17:34 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **2** damage
+06 Jan 2017 03:17:34 : LimitlessMc, botchat, Botfuzzy77#2209, Level 1 Boss **Rhyperior** has 681 health left.
+06 Jan 2017 03:17:42 : LimitlessMc, botchat, Bakafish#8693, ;pokebattle WWDNW
+06 Jan 2017 03:17:43 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 82 seconds before you can fight the boss again.
+06 Jan 2017 03:17:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 03:17:47 : LimitlessMc, botchat, Botfuzzy77#2209, **Wertfuzzy77**, Level: *1*, Most Damage Done in a Single Attack: *2*, Boss Takedowns: 1
+**Bakafish**, Level: *1*, Most Damage Done in a Single Attack: *2*, Boss Takedowns: 1
+06 Jan 2017 03:17:54 : LimitlessMc, botchat, Bakafish#8693, reload?
+06 Jan 2017 03:17:58 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+06 Jan 2017 03:17:59 : LimitlessMc, botchat, Botfuzzy77#2209, Reloaded all Modules
+06 Jan 2017 03:18:00 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 03:18:00 : LimitlessMc, botchat, Botfuzzy77#2209, **Wertfuzzy77**, Level: *1*, Most Damage Done in a Single Attack: *2*, Boss Takedowns: 1
+**Bakafish**, Level: *1*, Most Damage Done in a Single Attack: *2*, Boss Takedowns: 1
+06 Jan 2017 03:18:06 : LimitlessMc, botchat, Wertfuzzy77#0274, saves it too
+06 Jan 2017 03:18:35 : Pokemon Mystery Dungeon, general, TherminatorX#6644, (grr, curse mobile not being able to add reaction. wanted to add my personal seal of approval to the picture, but noooo)
+06 Jan 2017 03:19:25 : LimitlessMc, botchat, Bakafish#8693, ;cd
+06 Jan 2017 03:19:25 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You can Train right now!
+06 Jan 2017 03:19:33 : LimitlessMc, botchat, Bakafish#8693, ;pokebattle WWDNW
+06 Jan 2017 03:19:34 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 0 Boss **Typhlosion** has appeared!
+It has 0 Health.
+06 Jan 2017 03:19:34 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:19:34 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_w: :regional_indicator_d: :regional_indicator_n: :regional_indicator_w:
+:x: :x: :x: :x: :x:
+06 Jan 2017 03:19:34 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **0** damage
+06 Jan 2017 03:19:34 : LimitlessMc, botchat, Botfuzzy77#2209, Level 0 Boss **Typhlosion** has been defeated!
+06 Jan 2017 03:19:39 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **Bakafish** with **0** damage
+06 Jan 2017 03:19:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+06 Jan 2017 03:19:43 : LimitlessMc, botchat, Botfuzzy77#2209, Reloaded all Modules
+06 Jan 2017 03:19:47 : LimitlessMc, botchat, Bakafish#8693, ;level
+06 Jan 2017 03:19:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 03:19:47 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Bakafish*
+**Level**: 1
+**XP**: 0/8
+**Boss Takedowns**: 1
+**Most Dmg in an Attack**: 0
+06 Jan 2017 03:19:47 : LimitlessMc, botchat, Botfuzzy77#2209, **Wertfuzzy77**, Level: *1*, Most Damage Done in a Single Attack: *2*, Boss Takedowns: 1
+**Bakafish**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 1
+06 Jan 2017 03:20:02 : LimitlessMc, botchat, Wertfuzzy77#0274, hmmm, now it says max is 0 dmg
+06 Jan 2017 03:20:06 : LimitlessMc, botchat, Wertfuzzy77#0274, and level is 0?
+06 Jan 2017 03:20:07 : LimitlessMc, botchat, Wertfuzzy77#0274, wut
+06 Jan 2017 03:20:07 : LimitlessMc, botchat, LightBot#4090, Hek
+06 Jan 2017 03:20:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 03:20:10 : LimitlessMc, botchat, Botfuzzy77#2209, **Wertfuzzy77**, Level: *1*, Most Damage Done in a Single Attack: *2*, Boss Takedowns: 1
+**Bakafish**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 1
+06 Jan 2017 03:20:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ...
+06 Jan 2017 03:20:18 : LimitlessMc, botchat, Wertfuzzy77#0274, do ;level?
+06 Jan 2017 03:20:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+06 Jan 2017 03:20:29 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 1
+**XP**: 0/8
+**Boss Takedowns**: 1
+**Most Dmg in an Attack**: 2
+06 Jan 2017 03:21:12 : LimitlessMc, botchat, TherminatorX#6644, ;level
+06 Jan 2017 03:21:12 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *TherminatorX*
+**Level**: 0
+**XP**: 0/1
+**Boss Takedowns**: 0
+**Most Dmg in an Attack**: 0
+06 Jan 2017 03:21:26 : LimitlessMc, botchat, TherminatorX#6644, Reset again I see
+06 Jan 2017 03:21:33 : LimitlessMc, botchat, TherminatorX#6644, ;pokeboss
+06 Jan 2017 03:21:34 : LimitlessMc, botchat, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle to fight and reveal the boss.
+06 Jan 2017 03:21:48 : LimitlessMc, botchat, TherminatorX#6644, ;pokebattle BBBBBBBB
+06 Jan 2017 03:21:48 : LimitlessMc, botchat, Botfuzzy77#2209, Please use a Combination of **5** Types to Fight the Boss: (**N**)ormal, (**F**)ire, (**W**)ater, (**G**)rass, (**P**)oison, (**D**)ragon, (**S**)teel, (**E**)lectric, (**B**)ug, or (**I**)ce.
+ Ex 'GSEBI' or 'DPGDB'
+06 Jan 2017 03:22:00 : LimitlessMc, botchat, Bakafish#8693, ;pokebattle NINES
+06 Jan 2017 03:22:00 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 0 Boss **Clefable** has appeared!
+It has 0 Health.
+06 Jan 2017 03:22:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:22:01 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_i: :regional_indicator_n: :regional_indicator_e: :regional_indicator_s:
+:x: :x: :white_check_mark: :x: :x:
+06 Jan 2017 03:22:01 : LimitlessMc, botchat, Botfuzzy77#2209, Its a Critical Strike
+06 Jan 2017 03:22:01 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **2** damage
+06 Jan 2017 03:22:03 : LimitlessMc, botchat, TherminatorX#6644, ;pokebattle BBBBB
+06 Jan 2017 03:22:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 03:22:05 : LimitlessMc, botchat, Botfuzzy77#2209, Level 0 Boss **Clefable** has been defeated!
+06 Jan 2017 03:22:06 : LimitlessMc, botchat, Botfuzzy77#2209, Level 0 Boss **Clefable** has -2 health left.
+06 Jan 2017 03:22:06 : LimitlessMc, botchat, Botfuzzy77#2209, **Wertfuzzy77**, Level: *1*, Most Damage Done in a Single Attack: *2*, Boss Takedowns: 1
+**Bakafish**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 1
+**TherminatorX**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 0
+06 Jan 2017 03:22:06 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **Bakafish** with **2** damage
+06 Jan 2017 03:22:06 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:22:10 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b:
+:white_check_mark: :x: :x: :x: :x:
+06 Jan 2017 03:22:11 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **0** damage
+06 Jan 2017 03:22:11 : LimitlessMc, botchat, Botfuzzy77#2209, Level 0 Boss **Clefable** has been defeated!
+06 Jan 2017 03:22:11 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **Bakafish** with **2** damage
+06 Jan 2017 03:22:11 : LimitlessMc, botchat, Botfuzzy77#2209, 2nd most Damage by *TherminatorX* with *0* damage
+06 Jan 2017 03:22:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 03:22:24 : LimitlessMc, botchat, Botfuzzy77#2209, **Wertfuzzy77**, Level: *1*, Most Damage Done in a Single Attack: *2*, Boss Takedowns: 1
+**Bakafish**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 1
+**TherminatorX**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 1
+06 Jan 2017 03:22:32 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+06 Jan 2017 03:22:33 : LimitlessMc, botchat, TherminatorX#6644, ;summon
+06 Jan 2017 03:22:33 : LimitlessMc, botchat, Botfuzzy77#2209, Reloaded all Modules
+06 Jan 2017 03:22:33 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait for the current boss to be defeated before you summon a new one!
+06 Jan 2017 03:22:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle nnnnn
+06 Jan 2017 03:22:38 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 0 Boss **Roggenrola** has appeared!
+It has 0 Health.
+06 Jan 2017 03:22:38 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:22:39 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :x: :x:
+06 Jan 2017 03:22:39 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **0** damage
+06 Jan 2017 03:22:39 : LimitlessMc, botchat, Botfuzzy77#2209, Level 0 Boss **Roggenrola** has been defeated!
+06 Jan 2017 03:22:40 : LimitlessMc, botchat, TherminatorX#6644, ;pokebattle BBBBB
+06 Jan 2017 03:22:41 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 03:22:43 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **Wertfuzzy77** with **0** damage
+06 Jan 2017 03:22:43 : LimitlessMc, botchat, Botfuzzy77#2209, Level 0 Boss **Roggenrola** has 0 health left.
+06 Jan 2017 03:22:43 : LimitlessMc, botchat, Botfuzzy77#2209, **Wertfuzzy77**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 1
+**Bakafish**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 1
+**TherminatorX**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 1
+06 Jan 2017 03:22:44 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:22:44 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b:
+:x: :x: :white_check_mark: :x: :x:
+06 Jan 2017 03:22:48 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **0** damage
+06 Jan 2017 03:22:48 : LimitlessMc, botchat, Botfuzzy77#2209, Level 0 Boss **Roggenrola** has been defeated!
+06 Jan 2017 03:22:49 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **Wertfuzzy77** with **0** damage
+06 Jan 2017 03:22:49 : LimitlessMc, botchat, Botfuzzy77#2209, 2nd most Damage by *TherminatorX* with *0* damage
+06 Jan 2017 03:22:49 : LimitlessMc, botchat, Wertfuzzy77#0274, hmm, it reset me too
+06 Jan 2017 03:22:55 : LimitlessMc, botchat, TherminatorX#6644, ;summon
+06 Jan 2017 03:22:57 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 1 boss has been summoned
+06 Jan 2017 03:23:06 : LimitlessMc, botchat, TherminatorX#6644, ;level
+06 Jan 2017 03:23:06 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *TherminatorX*
+**Level**: 0
+**XP**: 0/1
+**Boss Takedowns**: 0
+**Most Dmg in an Attack**: 0
+06 Jan 2017 03:23:14 : LimitlessMc, botchat, TherminatorX#6644, ;pokebattle BBBBB
+06 Jan 2017 03:23:14 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 1 Boss **Swinub** has appeared!
+It has 983 Health.
+06 Jan 2017 03:23:14 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:23:14 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b:
+:white_check_mark: :x: :x: :x: :x:
+06 Jan 2017 03:23:14 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+06 Jan 2017 03:23:14 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **0** damage
+06 Jan 2017 03:23:19 : LimitlessMc, botchat, Botfuzzy77#2209, Level 1 Boss **Swinub** has 983 health left.
+06 Jan 2017 03:23:26 : LimitlessMc, botchat, TherminatorX#6644, I'm lvl 0 tho
+06 Jan 2017 03:23:34 : LimitlessMc, botchat, TherminatorX#6644, Y lv1 boss?
+06 Jan 2017 03:24:09 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+06 Jan 2017 03:24:10 : LimitlessMc, botchat, Botfuzzy77#2209, Reloaded all Modules
+06 Jan 2017 03:24:13 : LimitlessMc, botchat, Wertfuzzy77#0274, its confused
+06 Jan 2017 03:24:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 03:24:15 : LimitlessMc, botchat, Botfuzzy77#2209, **Wertfuzzy77**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 1
+**Bakafish**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 1
+**TherminatorX**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 0
+06 Jan 2017 03:24:23 : LimitlessMc, botchat, TherminatorX#6644, ;summon
+06 Jan 2017 03:24:23 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait for the current boss to be defeated before you summon a new one!
+06 Jan 2017 03:24:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle nnnnn
+06 Jan 2017 03:24:28 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 0 Boss **Bronzor** has appeared!
+It has 0 Health.
+06 Jan 2017 03:24:28 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:24:28 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :x: :x:
+06 Jan 2017 03:24:28 : LimitlessMc, botchat, Botfuzzy77#2209, Its a Critical Strike
+06 Jan 2017 03:24:28 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **0** damage
+06 Jan 2017 03:24:50 : LimitlessMc, botchat, TherminatorX#6644, Err
+06 Jan 2017 03:25:00 : LimitlessMc, botchat, TherminatorX#6644, It didn't say defeated
+06 Jan 2017 03:25:01 : LimitlessMc, botchat, Bakafish#8693, ;pokebattle NNNNN
+06 Jan 2017 03:25:01 : LimitlessMc, botchat, Botfuzzy77#2209, Level 0 Boss **Bronzor** has 0 health left.
+06 Jan 2017 03:25:02 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:25:02 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :x: :x:
+06 Jan 2017 03:25:02 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **0** damage
+06 Jan 2017 03:25:07 : LimitlessMc, botchat, Bakafish#8693, ;cd
+06 Jan 2017 03:25:07 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You can Train right now!
+06 Jan 2017 03:25:11 : LimitlessMc, botchat, Bakafish#8693, ;pokebattle WEWEW
+06 Jan 2017 03:25:12 : LimitlessMc, botchat, Botfuzzy77#2209, Level 0 Boss **Bronzor** has 0 health left.
+06 Jan 2017 03:25:12 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:25:12 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_e: :regional_indicator_w: :regional_indicator_e: :regional_indicator_w:
+:x: :x: :x: :x: :x:
+06 Jan 2017 03:25:12 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **0** damage
+06 Jan 2017 03:25:17 : LimitlessMc, botchat, TherminatorX#6644, ;pokebattle BBBBB
+06 Jan 2017 03:25:17 : LimitlessMc, botchat, Botfuzzy77#2209, Level 0 Boss **Bronzor** has 0 health left.
+06 Jan 2017 03:25:17 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:25:18 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b:
+:x: :x: :x: :x: :x:
+06 Jan 2017 03:25:18 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **0** damage
+06 Jan 2017 03:25:21 : The Wild Weebs, general, enragednuke#2565, ik
+06 Jan 2017 03:25:25 : LimitlessMc, botchat, Bakafish#8693, ;pokebattle EFEFE
+06 Jan 2017 03:25:25 : LimitlessMc, botchat, Botfuzzy77#2209, Level 0 Boss **Bronzor** has 0 health left.
+06 Jan 2017 03:25:26 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:25:26 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_e: :regional_indicator_f: :regional_indicator_e: :regional_indicator_f: :regional_indicator_e:
+:white_check_mark: :x: :x: :x: :x:
+06 Jan 2017 03:25:26 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **0** damage
+06 Jan 2017 03:25:33 : LimitlessMc, botchat, Bakafish#8693, ;pokebattle EIIII
+06 Jan 2017 03:25:33 : LimitlessMc, botchat, Botfuzzy77#2209, Level 0 Boss **Bronzor** has 0 health left.
+06 Jan 2017 03:25:34 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:25:34 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_e: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i:
+:white_check_mark: :x: :x: :x: :x:
+06 Jan 2017 03:25:34 : LimitlessMc, botchat, Botfuzzy77#2209, Its a Critical Strike
+06 Jan 2017 03:25:34 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **1** damage
+06 Jan 2017 03:25:49 : LimitlessMc, botchat, Bakafish#8693, ;pokebattle EPDDD
+06 Jan 2017 03:25:49 : LimitlessMc, botchat, Botfuzzy77#2209, Level 0 Boss **Bronzor** has -1 health left.
+06 Jan 2017 03:25:49 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:25:49 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_e: :regional_indicator_p: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d:
+:white_check_mark: :white_check_mark: :x: :x: :x:
+06 Jan 2017 03:25:49 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **3** damage
+06 Jan 2017 03:25:54 : LimitlessMc, botchat, Bakafish#8693, ;pokebattle EPPPP
+06 Jan 2017 03:25:55 : LimitlessMc, botchat, Botfuzzy77#2209, Level 0 Boss **Bronzor** has -4 health left.
+06 Jan 2017 03:25:55 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:25:55 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_e: :regional_indicator_p: :regional_indicator_p: :regional_indicator_p: :regional_indicator_p:
+:white_check_mark: :white_check_mark: :x: :x: :x:
+06 Jan 2017 03:25:55 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **2** damage
+06 Jan 2017 03:26:01 : LimitlessMc, botchat, Bakafish#8693, ;pokebattle EPGGG
+06 Jan 2017 03:26:01 : LimitlessMc, botchat, Botfuzzy77#2209, Level 0 Boss **Bronzor** has -6 health left.
+06 Jan 2017 03:26:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:26:01 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_e: :regional_indicator_p: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g:
+:white_check_mark: :white_check_mark: :x: :x: :x:
+06 Jan 2017 03:26:01 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **2** damage
+06 Jan 2017 03:26:05 : Pokemon Mystery Dungeon, general, AnishaLunarAngel#5926, xD
+06 Jan 2017 03:26:05 : LimitlessMc, botchat, TherminatorX#6644, Fuzzy...
+06 Jan 2017 03:26:21 : LimitlessMc, botchat, Bakafish#8693, ;pokebattle EPSSS
+06 Jan 2017 03:26:21 : LimitlessMc, botchat, Botfuzzy77#2209, Level 0 Boss **Bronzor** has -8 health left.
+06 Jan 2017 03:26:21 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:26:21 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_e: :regional_indicator_p: :regional_indicator_s: :regional_indicator_s: :regional_indicator_s:
+:white_check_mark: :white_check_mark: :x: :white_check_mark: :x:
+06 Jan 2017 03:26:22 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+06 Jan 2017 03:26:22 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **5** damage
+06 Jan 2017 03:26:34 : LimitlessMc, botchat, Bakafish#8693, ;pokebattle EPFSF
+06 Jan 2017 03:26:34 : LimitlessMc, botchat, Botfuzzy77#2209, Level 0 Boss **Bronzor** has -13 health left.
+06 Jan 2017 03:26:34 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:26:34 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_e: :regional_indicator_p: :regional_indicator_f: :regional_indicator_s: :regional_indicator_f:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+06 Jan 2017 03:26:34 : LimitlessMc, botchat, Botfuzzy77#2209, Its a Perfect Combo. The Boss has switched 1/2 of the Super Effective Moves!
+06 Jan 2017 03:26:34 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **67** damage
+06 Jan 2017 03:26:38 : LimitlessMc, botchat, TherminatorX#6644, Baka, it's not going to die
+06 Jan 2017 03:26:45 : LimitlessMc, botchat, Wertfuzzy77#0274, lol
+06 Jan 2017 03:26:47 : LimitlessMc, botchat, Bakafish#8693, ;ranking
+06 Jan 2017 03:26:47 : LimitlessMc, botchat, Botfuzzy77#2209, **Wertfuzzy77**, Level: *1*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 1
+**Bakafish**, Level: *1*, Most Damage Done in a Single Attack: *67*, Boss Takedowns: 1
+**TherminatorX**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 0
+06 Jan 2017 03:26:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+06 Jan 2017 03:26:52 : LimitlessMc, botchat, Botfuzzy77#2209, Reloaded all Modules
+06 Jan 2017 03:26:55 : LimitlessMc, botchat, Wertfuzzy77#0274, i think i fixed it
+06 Jan 2017 03:26:57 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle nnnnn
+06 Jan 2017 03:26:57 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 0 Boss **Elgyem** has appeared!
+It has 0 Health.
+06 Jan 2017 03:26:58 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:26:58 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:white_check_mark: :x: :x: :x: :x:
+06 Jan 2017 03:26:58 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **0** damage
+06 Jan 2017 03:26:58 : LimitlessMc, botchat, Botfuzzy77#2209, Level 0 Boss **Elgyem** has been defeated!
+06 Jan 2017 03:26:58 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **Wertfuzzy77** with **0** damage
+06 Jan 2017 03:27:00 : LimitlessMc, botchat, Bakafish#8693, ;pokebattle NNNN
+06 Jan 2017 03:27:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 03:27:03 : LimitlessMc, botchat, Botfuzzy77#2209, Please use a Combination of **5** Types to Fight the Boss: (**N**)ormal, (**F**)ire, (**W**)ater, (**G**)rass, (**P**)oison, (**D**)ragon, (**S**)teel, (**E**)lectric, (**B**)ug, or (**I**)ce.
+ Ex 'GSEBI' or 'DPGDB'
+06 Jan 2017 03:27:03 : LimitlessMc, botchat, Botfuzzy77#2209, **Wertfuzzy77**, Level: *1*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 2
+**Bakafish**, Level: *1*, Most Damage Done in a Single Attack: *67*, Boss Takedowns: 1
+**TherminatorX**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 0
+06 Jan 2017 03:27:05 : LimitlessMc, botchat, Bakafish#8693, ;pokebattle NNNNN
+06 Jan 2017 03:27:05 : LimitlessMc, botchat, Botfuzzy77#2209, The Boss has been Defeated! Please check ;pokeboss for stats.
+06 Jan 2017 03:27:07 : LimitlessMc, botchat, Bakafish#8693, ;summon
+06 Jan 2017 03:27:08 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 1 boss has been summoned
+06 Jan 2017 03:27:14 : LimitlessMc, botchat, TherminatorX#6644, Nooooo
+06 Jan 2017 03:27:15 : LimitlessMc, botchat, Bakafish#8693, ;pokebattle NENEN
+06 Jan 2017 03:27:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+06 Jan 2017 03:27:15 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 1 Boss **Dratini** has appeared!
+It has 428 Health.
+06 Jan 2017 03:27:16 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 0
+**XP**: 0/1
+**Boss Takedowns**: 0
+**Most Dmg in an Attack**: 0
+06 Jan 2017 03:27:16 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:27:16 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_e: :regional_indicator_n: :regional_indicator_e: :regional_indicator_n:
+:x: :x: :x: :white_check_mark: :x:
+06 Jan 2017 03:27:16 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+06 Jan 2017 03:27:20 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **0** damage
+06 Jan 2017 03:27:21 : LimitlessMc, botchat, Botfuzzy77#2209, Level 1 Boss **Dratini** has 428 health left.
+06 Jan 2017 03:27:26 : LimitlessMc, botchat, Bakafish#8693, ;pokebattle DDDDD
+06 Jan 2017 03:27:26 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 84 seconds before you can fight the boss again.
+06 Jan 2017 03:27:29 : LimitlessMc, botchat, Bakafish#8693, ;cd
+06 Jan 2017 03:27:29 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 82 seconds
+**Train** (*Note: Must be Level 5 to use ;train*)
+You can Train right now!
+06 Jan 2017 03:27:30 : LimitlessMc, botchat, TherminatorX#6644, You're on your own for this
+06 Jan 2017 03:27:40 : LimitlessMc, botchat, Bakafish#8693, actual data when
+06 Jan 2017 03:28:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+06 Jan 2017 03:28:04 : LimitlessMc, botchat, Botfuzzy77#2209, Reloaded all Modules
+06 Jan 2017 03:28:12 : LimitlessMc, botchat, Wertfuzzy77#0274, once i make sure this wont kill the actual data xD
+06 Jan 2017 03:28:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 03:28:15 : LimitlessMc, botchat, Botfuzzy77#2209, **Bakafish**, Level: *1*, Most Damage Done in a Single Attack: *67*, Boss Takedowns: 1
+**Wertfuzzy77**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 0
+**TherminatorX**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 0
+06 Jan 2017 03:28:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle nnnnn
+06 Jan 2017 03:28:23 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 0 Boss **Shiftry** has appeared!
+It has 0 Health.
+06 Jan 2017 03:28:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:28:23 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :x: :x:
+06 Jan 2017 03:28:24 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **0** damage
+06 Jan 2017 03:28:24 : LimitlessMc, botchat, Botfuzzy77#2209, Level 0 Boss **Shiftry** has been defeated!
+06 Jan 2017 03:28:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+06 Jan 2017 03:28:28 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **Wertfuzzy77** with **0** damage
+06 Jan 2017 03:28:28 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 0
+**XP**: 0/1
+**Boss Takedowns**: 1
+**Most Dmg in an Attack**: 0
+06 Jan 2017 03:29:02 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;level
+06 Jan 2017 03:29:03 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Name**: *TherminatorX*
+**Level**: 0
+**XP**: 0/1
+**Boss Takedowns**: 0
+**Most Dmg in an Attack**: 0
+06 Jan 2017 03:29:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;summon
+06 Jan 2017 03:29:07 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 0 boss has been summoned
+06 Jan 2017 03:29:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle nnnnn
+06 Jan 2017 03:29:13 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 0 Boss **Palpitoad** has appeared!
+It has 0 Health.
+06 Jan 2017 03:29:13 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:29:13 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :white_check_mark: :x: :x:
+06 Jan 2017 03:29:13 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+06 Jan 2017 03:29:13 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **0** damage
+06 Jan 2017 03:29:18 : LimitlessMc, botchat, Botfuzzy77#2209, Level 0 Boss **Palpitoad** has been defeated!
+06 Jan 2017 03:29:18 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **Wertfuzzy77** with **0** damage
+06 Jan 2017 03:29:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+06 Jan 2017 03:29:24 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 1
+**XP**: 0/8
+**Boss Takedowns**: 2
+**Most Dmg in an Attack**: 0
+06 Jan 2017 03:29:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 03:29:28 : LimitlessMc, botchat, Botfuzzy77#2209, **Wertfuzzy77**, Level: *1*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 2
+**Bakafish**, Level: *1*, Most Damage Done in a Single Attack: *67*, Boss Takedowns: 1
+**TherminatorX**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 0
+06 Jan 2017 03:29:34 : LimitlessMc, botchat, Wertfuzzy77#0274, ;summon
+06 Jan 2017 03:29:35 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 1 boss has been summoned
+06 Jan 2017 03:29:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle nnnnn
+06 Jan 2017 03:29:38 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 1 Boss **Corphish** has appeared!
+It has 411 Health.
+06 Jan 2017 03:29:38 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:29:38 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :white_check_mark: :white_check_mark: :x: :x:
+06 Jan 2017 03:29:39 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+06 Jan 2017 03:29:40 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **1** damage
+06 Jan 2017 03:29:40 : LimitlessMc, botchat, Botfuzzy77#2209, Level 1 Boss **Corphish** has 410 health left.
+06 Jan 2017 03:29:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+06 Jan 2017 03:29:42 : LimitlessMc, botchat, Botfuzzy77#2209, **Wertfuzzy77**, Level: *1*, Most Damage Done in a Single Attack: *1*, Boss Takedowns: 2
+**Bakafish**, Level: *1*, Most Damage Done in a Single Attack: *67*, Boss Takedowns: 1
+**TherminatorX**, Level: *0*, Most Damage Done in a Single Attack: *0*, Boss Takedowns: 0
+06 Jan 2017 03:29:48 : LimitlessMc, botchat, Wertfuzzy77#0274, alright, maybe it works now
+06 Jan 2017 03:30:22 : LimitlessMc, botchat, TherminatorX#6644, ;pokeboss
+06 Jan 2017 03:30:22 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Boss Pokemon** =-
+*Name*: Corphish
+*Health*: 410/411 (99.76%)
+*Level*: 1
+Last Combo:
+:regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :white_check_mark: :white_check_mark: :x: :x:
+06 Jan 2017 03:30:22 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:30:23 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **Wertfuzzy77** with **1** damage
+06 Jan 2017 03:30:53 : LimitlessMc, botchat, TherminatorX#6644, I'm lvl 0, no way I'm going to 5% that
+06 Jan 2017 03:31:02 : LimitlessMc, botchat, Wertfuzzy77#0274, you get XP just for damaging it
+06 Jan 2017 03:31:05 : LimitlessMc, botchat, Wertfuzzy77#0274, do 15 damage and get 1 XP
+06 Jan 2017 03:31:07 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cd
+06 Jan 2017 03:31:07 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 3 seconds
+**Train** (*Note: Must be Level 5 to use ;train*)
+You can Train right now!
+06 Jan 2017 03:31:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle INNII
+06 Jan 2017 03:31:12 : LimitlessMc, botchat, Botfuzzy77#2209, Level 1 Boss **Corphish** has 410 health left.
+06 Jan 2017 03:31:12 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:31:12 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_n: :regional_indicator_n: :regional_indicator_i: :regional_indicator_i:
+:x: :white_check_mark: :white_check_mark: :white_check_mark: :x:
+06 Jan 2017 03:31:13 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+06 Jan 2017 03:31:13 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+06 Jan 2017 03:31:13 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **10** damage
+06 Jan 2017 03:31:13 : LimitlessMc, botchat, Botfuzzy77#2209, Level 1 Boss **Corphish** has 400 health left.
+06 Jan 2017 03:31:26 : LimitlessMc, botchat, Bakafish#8693, ;pokebattle ENNIE
+06 Jan 2017 03:31:26 : LimitlessMc, botchat, Botfuzzy77#2209, Level 1 Boss **Corphish** has 400 health left.
+06 Jan 2017 03:31:26 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:31:26 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_e: :regional_indicator_n: :regional_indicator_n: :regional_indicator_i: :regional_indicator_e:
+:x: :white_check_mark: :white_check_mark: :white_check_mark: :x:
+06 Jan 2017 03:31:26 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+06 Jan 2017 03:31:26 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **10** damage
+06 Jan 2017 03:31:31 : LimitlessMc, botchat, Botfuzzy77#2209, Level 1 Boss **Corphish** has 390 health left.
+06 Jan 2017 03:31:31 : LimitlessMc, botchat, TherminatorX#6644, ;pokebattle bnnib
+06 Jan 2017 03:31:31 : LimitlessMc, botchat, Botfuzzy77#2209, Level 1 Boss **Corphish** has 390 health left.
+06 Jan 2017 03:31:32 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 03:31:32 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_b: :regional_indicator_n: :regional_indicator_n: :regional_indicator_i: :regional_indicator_b:
+:x: :white_check_mark: :white_check_mark: :white_check_mark: :x:
+06 Jan 2017 03:31:32 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective

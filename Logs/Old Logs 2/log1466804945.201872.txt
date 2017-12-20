@@ -1,0 +1,123 @@
+24 Jun 2016 21:49:23 : Cipher , Wertfuzzy77#0274 , !debug ctx.message.author.avatar_url
+24 Jun 2016 21:49:23 : Cipher , Botfuzzy77#2926 , ```py
+https://discordapp.com/api/users/134441036905840640/avatars/8eab47f530b01b1b17a8cc28d39100ce.jpg
+```
+24 Jun 2016 21:49:29 : Cipher , Wertfuzzy77#0274 , we did it
+24 Jun 2016 21:50:00 : Cipher , Nerokin#3586 , ?
+24 Jun 2016 21:50:04 : Cipher , Wertfuzzy77#0274 , I can get anyone's icon now
+24 Jun 2016 21:50:17 : Cipher , Wertfuzzy77#0274 , was curious as to if i could
+24 Jun 2016 21:50:26 : Cipher , Nerokin#3586 , Can I get mine back?
+24 Jun 2016 21:50:29 : Cipher , Nerokin#3586 , I've lost the file
+24 Jun 2016 21:50:39 : Cipher , Wertfuzzy77#0274 , type what i typed
+24 Jun 2016 21:50:45 : Cipher , Wertfuzzy77#0274 , just copy and paste it
+24 Jun 2016 21:50:47 : Cipher , Nerokin#3586 , !debug ctx.message.author.avatar_url
+24 Jun 2016 21:50:47 : Cipher , Botfuzzy77#2926 , ```py
+https://discordapp.com/api/users/123959717411291136/avatars/b100d6f8286b16a72fffc30e0aca44dd.jpg
+```
+24 Jun 2016 21:50:56 : Cipher , Wertfuzzy77#0274 , thats the file saved on the discord server
+24 Jun 2016 21:51:10 : Cipher , Nerokin#3586 , Awesome, thanks
+24 Jun 2016 21:51:12 : Cipher , Wertfuzzy77#0274 , np
+24 Jun 2016 21:51:35 : Cipher , Nerokin#3586 , I'm bored
+24 Jun 2016 21:51:44 : Cipher , Wertfuzzy77#0274 , do something fun
+24 Jun 2016 21:51:49 : Cipher , Wertfuzzy77#0274 , or find a hobby
+24 Jun 2016 21:51:54 : Cipher , Wertfuzzy77#0274 , i do both
+24 Jun 2016 21:52:14 : Cipher , Nerokin#3586 , I used to have a hoppy, coding
+24 Jun 2016 21:52:29 : Cipher , Nerokin#3586 , HTML and DOS
+24 Jun 2016 21:52:29 : Cipher , Wertfuzzy77#0274 , pick it back up?
+24 Jun 2016 21:52:37 : Cipher , Wertfuzzy77#0274 , eh, never coded in em
+24 Jun 2016 21:52:46 : Cipher , Wertfuzzy77#0274 , bet
+24 Jun 2016 21:52:46 : Cipher , Botfuzzy77#2926 , bet
+24 Jun 2016 21:52:50 : Cipher , Wertfuzzy77#0274 , thx bot ...
+24 Jun 2016 21:52:50 : Cipher , Nerokin#3586 , DOS is pretty easy to grasp
+24 Jun 2016 21:53:03 : Cipher , Nerokin#3586 , Made a batch file that works like dice
+24 Jun 2016 21:53:07 : Cipher , Wertfuzzy77#0274 , cool
+24 Jun 2016 21:53:27 : Cipher , Nerokin#3586 , I think I might have it somewhere
+24 Jun 2016 21:53:58 : Cipher , Wertfuzzy77#0274 , !debug ctx.message.server.get_member("Calamariela").icon_url
+24 Jun 2016 21:53:59 : Cipher , Botfuzzy77#2926 , ```py
+AttributeError: 'NoneType' object has no attribute 'icon_url'
+```
+24 Jun 2016 21:54:08 : Cipher , Wertfuzzy77#0274 , rip
+24 Jun 2016 21:54:15 : Cipher , Wertfuzzy77#0274 , !debug ctx.message.server.get_member(Calamariela).icon_url
+24 Jun 2016 21:54:15 : Cipher , Botfuzzy77#2926 , ```py
+NameError: name 'Calamariela' is not defined
+```
+24 Jun 2016 21:54:19 : Cipher , Wertfuzzy77#0274 , also rip
+24 Jun 2016 21:54:23 : Cipher , Nerokin#3586 , Want to check it out?
+24 Jun 2016 21:54:26 : Cipher , Wertfuzzy77#0274 , sure
+24 Jun 2016 21:54:29 : Cipher , Nerokin#3586 , https://drive.google.com/file/d/0B2CYQFPXIj_uLXBEM1FXMmlrRUk/view?usp=sharing
+24 Jun 2016 21:55:01 : Cipher , Nerokin#3586 , I wont
+24 Jun 2016 21:55:16 : Cipher , Wertfuzzy77#0274 , fancy
+24 Jun 2016 21:55:22 : Cipher , Nerokin#3586 , It uses a native program that's on every windows pc
+24 Jun 2016 21:55:38 : Cipher , Wertfuzzy77#0274 , ive used bat files b4
+24 Jun 2016 21:55:44 : Cipher , Wertfuzzy77#0274 , how i auto start bot
+24 Jun 2016 21:56:47 : Cipher , Wertfuzzy77#0274 , wow, code is actually pretty ez to read
+24 Jun 2016 21:57:35 : Cipher , Wertfuzzy77#0274 , one sec afk
+24 Jun 2016 21:57:42 : Cipher , Nerokin#3586 , Alright
+24 Jun 2016 22:05:52 : LimitlessMc , Mank#0033 , Le.
+24 Jun 2016 22:06:51 : LimitlessMc , Botfuzzy77#2926 , Welcome <@128359526112952320> to LimitlessMc!
+24 Jun 2016 22:08:21 : Cipher , Wertfuzzy77#0274 , back, sorry, extended family is home, and made some good desert
+24 Jun 2016 22:08:31 : Cipher , Nerokin#3586 , Np
+24 Jun 2016 22:08:43 : Cipher , Wertfuzzy77#0274 , alright, you were gonna say soemthing right b4 i left
+24 Jun 2016 22:09:08 : Cipher , Nerokin#3586 , I don't remember what I was going to say
+24 Jun 2016 22:09:29 : Cipher , Nerokin#3586 , I once was trying to code a game in DOS
+24 Jun 2016 22:09:38 : Cipher , Wertfuzzy77#0274 , sounds difficult
+24 Jun 2016 22:10:01 : Cipher , Nerokin#3586 , Which someone has, but the way they coded it in the first place did not seem the best way it could be coded
+24 Jun 2016 22:11:25 : Cipher , Wertfuzzy77#0274 , then code it, and do it better
+24 Jun 2016 22:11:37 : Cipher , Wertfuzzy77#0274 , become a coder god
+24 Jun 2016 22:12:20 : Cipher , Wertfuzzy77#0274 , !debug ctx.message.server.get_member_named("Calamariela").icon_url
+24 Jun 2016 22:12:20 : Cipher , Botfuzzy77#2926 , ```py
+AttributeError: 'Member' object has no attribute 'icon_url'
+```
+24 Jun 2016 22:12:43 : Cipher , Wertfuzzy77#0274 , !debug ctx.message.server.get_member_named("Calamariela").avatar_url
+24 Jun 2016 22:12:44 : Cipher , Botfuzzy77#2926 , ```py
+https://discordapp.com/api/users/183307266475294721/avatars/b189467b5250301dcd031323a4b2fd33.jpg
+```
+24 Jun 2016 22:12:57 : Cipher , Nerokin#3586 , Gonna brb
+24 Jun 2016 22:13:01 : Cipher , Nerokin#3586 , Tranfering to tablet
+24 Jun 2016 22:13:08 : Cipher , Wertfuzzy77#0274 , k
+24 Jun 2016 22:14:12 : Cipher , Calamariela#4119 , i have no idea whats going onnnn
+24 Jun 2016 22:14:45 : Cipher , Wertfuzzy77#0274 , dont have to, just know nero becoming a coding god
+24 Jun 2016 22:14:55 : Cipher , Calamariela#4119 , cool
+24 Jun 2016 22:15:41 : Cipher , Wertfuzzy77#0274 , !debug Discord.Object("183307266475294721")
+24 Jun 2016 22:15:41 : Cipher , Botfuzzy77#2926 , ```py
+NameError: name 'Discord' is not defined
+```
+24 Jun 2016 22:15:48 : Cipher , Wertfuzzy77#0274 , !debug discord.Object("183307266475294721")
+24 Jun 2016 22:15:48 : Cipher , Botfuzzy77#2926 , ```py
+<discord.object.Object object at 0x0000018BBF050128>
+```
+24 Jun 2016 22:16:40 : LimitlessMc , MoonWolf (Fornor)#8885 , <@151437497191235585>  I need tou babe , msg me when you finish your league skrub
+24 Jun 2016 22:16:44 : Cipher , Nerokin#3586 , Does is an ancient programming language and no one is looking for it
+24 Jun 2016 22:16:50 : Cipher , Nerokin#3586 , ...
+24 Jun 2016 22:17:38 : LimitlessMc , Wertfuzzy77#0274 , i can help if its server related, im home now
+24 Jun 2016 22:17:54 : Cipher , Nerokin#3586 , There, fixed the auto correct
+24 Jun 2016 22:18:07 : LimitlessMc , MoonWolf (Fornor)#8885 , Uhm...
+24 Jun 2016 22:18:39 : Cipher , Nerokin#3586 , So,  how is everyone?
+24 Jun 2016 22:18:53 : Cipher , Calamariela#4119 , bad
+24 Jun 2016 22:19:20 : Cipher , Nerokin#3586 , That's sad...
+24 Jun 2016 22:19:37 : Cipher , Calamariela#4119 , lol im kidding
+24 Jun 2016 22:19:38 : Cipher , Wertfuzzy77#0274 , dont be bad
+24 Jun 2016 22:19:46 : Cipher , Calamariela#4119 , im great
+24 Jun 2016 22:20:14 : Cipher , Calamariela#4119 , brb tho
+24 Jun 2016 22:20:41 : Cipher , Wertfuzzy77#0274 , btw, im fantastic <@123959717411291136>
+24 Jun 2016 22:21:05 : Cipher , Nerokin#3586 , Well, I'm stuck on my tablet until parents get back. Atm watching brother in the living room.
+24 Jun 2016 22:21:22 : Cipher , Wertfuzzy77#0274 , could be worse
+24 Jun 2016 22:21:30 : Cipher , Wertfuzzy77#0274 , could be stuck with no tablet
+24 Jun 2016 22:21:54 : Cipher , Nerokin#3586 , Yeah, that would be worse
+24 Jun 2016 22:22:15 : Cipher , Wertfuzzy77#0274 , or... brother could have tablet, and you would have to wait/watch
+24 Jun 2016 22:22:26 : Cipher , Wertfuzzy77#0274 , unless its younger brother
+24 Jun 2016 22:22:29 : Cipher , Wertfuzzy77#0274 , then just take it
+24 Jun 2016 22:23:34 : Cipher , Nerokin#3586 , But the tablet I am using, I have paid for with my own money. So, they aren't allowed to use it
+24 Jun 2016 22:23:41 : Cipher , Wertfuzzy77#0274 , oh, fancy
+24 Jun 2016 22:23:48 : Cipher , Wertfuzzy77#0274 , gg then
+24 Jun 2016 22:24:08 : LimitlessMc , darkHugoPT#5607 , i killed a wild mewtwo ... i'm so sad
+24 Jun 2016 22:24:17 : LimitlessMc , Wertfuzzy77#0274 , bet
+24 Jun 2016 22:24:17 : LimitlessMc , Botfuzzy77#2926 , bet
+24 Jun 2016 22:24:23 : LimitlessMc , Wertfuzzy77#0274 , what he said
+24 Jun 2016 22:24:30 : LimitlessMc , darkHugoPT#5607 , server off
+24 Jun 2016 22:25:11 : Cipher , Nerokin#3586 , But I may want to buy a better tablet since this one isn't as good as the first time I've got it.
+24 Jun 2016 22:26:09 : Cipher , Nerokin#3586 , Battery seems to be dying quicker than usual as well
+24 Jun 2016 22:26:20 : Cipher , Wertfuzzy77#0274 , just happens with age
+24 Jun 2016 22:26:43 : Cipher , Nerokin#3586 , Yeah..
+24 Jun 2016 22:27:22 : LimitlessMc , NorthOfTime#1507 , Have you tried turning it off and back on again?
+24 Jun 2016 22:27:36 : LimitlessMc , NorthOfTime#1507 , Have you updated Adobe recently?

@@ -1,0 +1,490 @@
+02 Apr 2017 20:45:05 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;level
+02 Apr 2017 20:45:07 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+02 Apr 2017 20:45:12 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;color Palette
+02 Apr 2017 20:45:12 : LimitlessMc, voice-junk, Botfuzzy77#2209, text_color : [255, 255, 255]
+box_color : [12, 12, 20]
+title_color : [70, 130, 40]
+bar_color : [105, 140, 45]
+02 Apr 2017 20:45:55 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;changeBackground https://s-media-cache-ak0.pinimg.com/originals/7c/43/6d/7c436db6400b75577f7c9ab7a6968eee.jpg
+02 Apr 2017 20:45:55 : LimitlessMc, voice-junk, Botfuzzy77#2209, Changed Background sucessfully
+02 Apr 2017 20:46:01 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;color reset
+02 Apr 2017 20:46:01 : LimitlessMc, voice-junk, Botfuzzy77#2209, Custom colors reset!
+02 Apr 2017 20:46:05 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;level
+02 Apr 2017 20:46:06 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+02 Apr 2017 20:46:39 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;color text 180 160 80
+02 Apr 2017 20:46:39 : LimitlessMc, voice-junk, Botfuzzy77#2209, Text Color sucessfully
+02 Apr 2017 20:46:41 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;level
+02 Apr 2017 20:46:42 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+02 Apr 2017 20:47:09 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;color text 210 190 80
+02 Apr 2017 20:47:09 : LimitlessMc, voice-junk, Botfuzzy77#2209, Text Color sucessfully
+02 Apr 2017 20:47:10 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;level
+02 Apr 2017 20:47:12 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+02 Apr 2017 20:47:34 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;settype ice
+02 Apr 2017 20:47:34 : LimitlessMc, voice-junk, Botfuzzy77#2209, You are now a Ice type
+02 Apr 2017 20:47:35 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;level
+02 Apr 2017 20:47:36 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+02 Apr 2017 20:47:52 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;color text 230 225130
+02 Apr 2017 20:47:52 : LimitlessMc, voice-junk, Botfuzzy77#2209, Invalid RGB code, all 3 numbers need to be between 0-255
+02 Apr 2017 20:47:52 : LimitlessMc, voice-junk, Botfuzzy77#2209, Text Color sucessfully
+02 Apr 2017 20:47:56 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;color text 230 225 130
+02 Apr 2017 20:47:56 : LimitlessMc, voice-junk, Botfuzzy77#2209, Text Color sucessfully
+02 Apr 2017 20:47:57 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;level
+02 Apr 2017 20:47:58 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+02 Apr 2017 20:48:51 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;ranking
+02 Apr 2017 20:48:51 : LimitlessMc, voice-junk, Botfuzzy77#2209, :first_place: **TherminatorX** Level **45** Prestige **2**
+:second_place: **Wertfuzzy77** Level **32** Prestige **1**
+:third_place: **Crystal4209** Level **31** Prestige **1**
+:medal: theOnlyJuan Level 25 Prestige 1
+:medal: MrMudkipKipperten Level 22 Prestige 1
+:medal: DanTurboX Level 14 Prestige 1
+:medal: MoonWolf Level 14 Prestige 1
+:medal: jjtwilefc Level 53 Prestige 0
+:medal: Bakafish Level 41 Prestige 0
+:medal: Mr. AlphaMeeseeks Level 34 Prestige 0
+:medal: 🌟💖Resolate💖🌟 Level 34 Prestige 0
+:medal: Third_Worm Level 33 Prestige 0
+:medal: PostalOffice Level 26 Prestige 0
+:medal: StubbyMuffins Level 24 Prestige 0
+:medal: Dzepps Level 23 Prestige 0
+:medal: Saba Level 17 Prestige 0
+:medal: Niionkai Level 16 Prestige 0
+:medal: Lightning Level 12 Prestige 0
+:medal: StarwinnerCraft Level 11 Prestige 0
+:medal: Dasher Level 10 Prestige 0
+02 Apr 2017 20:48:58 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;lookup TherminatorX
+02 Apr 2017 20:49:00 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+02 Apr 2017 20:49:13 : LimitlessMc, voice-junk, Wertfuzzy77#0274, wow, 100% pokedex
+02 Apr 2017 20:49:15 : LimitlessMc, voice-junk, Wertfuzzy77#0274, congrats
+02 Apr 2017 20:49:23 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;lookup Crystal4209
+02 Apr 2017 20:49:25 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+02 Apr 2017 20:49:48 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;lookup theOnlyJuan
+02 Apr 2017 20:49:50 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+02 Apr 2017 20:50:04 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;lookup MrMudkipKipperten
+02 Apr 2017 20:50:07 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+02 Apr 2017 20:50:18 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;lookup DanTurboX
+02 Apr 2017 20:50:19 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+02 Apr 2017 20:51:13 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;lookup MoonWolf
+02 Apr 2017 20:51:15 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+02 Apr 2017 20:51:30 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;lookup jjtwilefc
+02 Apr 2017 20:51:32 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+02 Apr 2017 20:51:49 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;lookup Mr. AlphaMeeseeks
+02 Apr 2017 20:51:57 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;lookup "Mr. AlphaMeeseeks"
+02 Apr 2017 20:52:34 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;lookup DrunkBit
+02 Apr 2017 20:52:36 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+02 Apr 2017 20:52:53 : LimitlessMc, botchat, Wertfuzzy77#0274, @theOnlyJuan @MrMudkipKipperten @DanTurboX @MoonWolf @jjtwilefc
+02 Apr 2017 20:53:05 : LimitlessMc, botchat, MrMudkipKipperten#8916, I was summoned
+02 Apr 2017 20:53:16 : LimitlessMc, botchat, jjtwilefc#0051, Wut
+02 Apr 2017 20:53:46 : LimitlessMc, botchat, Wertfuzzy77#0274, As part of the top 10 players in my pokemon mini game thingy, I'm informing you that a new ;level is out and its fully customizable, just figured you might be interested
+02 Apr 2017 20:53:54 : LimitlessMc, botchat, Wertfuzzy77#0274, the other 5 have already made theirs
+02 Apr 2017 20:53:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 20:53:57 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 20:54:19 : LimitlessMc, botchat, jjtwilefc#0051, ;level
+02 Apr 2017 20:54:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lookup Bakafish
+02 Apr 2017 20:54:20 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 20:54:24 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 20:54:27 : LimitlessMc, botchat, jjtwilefc#0051, :0
+02 Apr 2017 20:54:34 : LimitlessMc, botchat, Wertfuzzy77#0274, first step is to give it a new background
+02 Apr 2017 20:54:37 : LimitlessMc, botchat, jjtwilefc#0051, Awesome
+02 Apr 2017 20:54:43 : LimitlessMc, botchat, Wertfuzzy77#0274, @MrMudkipKipperten ik you saw this already 😛
+02 Apr 2017 20:54:59 : LimitlessMc, botchat, Wertfuzzy77#0274, so go online, and find a link to a cool background
+02 Apr 2017 20:55:08 : LimitlessMc, botchat, Wertfuzzy77#0274, anything you want
+02 Apr 2017 20:55:11 : LimitlessMc, botchat, MrMudkipKipperten#8916, Yeh my friends making me a background :3
+02 Apr 2017 20:55:11 : LimitlessMc, botchat, jjtwilefc#0051, I like the one you chose tbh
+02 Apr 2017 20:55:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ya, its a nice default one, but everyone has that one 😛
+02 Apr 2017 20:55:25 : LimitlessMc, botchat, DanTurboX#4833, ;level
+02 Apr 2017 20:55:27 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 20:55:34 : LimitlessMc, botchat, jjtwilefc#0051, Everyone else can change then
+02 Apr 2017 20:55:37 : LimitlessMc, botchat, Wertfuzzy77#0274, si
+02 Apr 2017 20:55:40 : LimitlessMc, botchat, jjtwilefc#0051, I like blue
+02 Apr 2017 20:55:46 : LimitlessMc, botchat, Wertfuzzy77#0274, but any new players will also get that one xD
+02 Apr 2017 20:55:50 : LimitlessMc, botchat, jjtwilefc#0051, Eh
+02 Apr 2017 20:56:00 : LimitlessMc, botchat, Wertfuzzy77#0274, how about this one?
+02 Apr 2017 20:56:00 : LimitlessMc, botchat, Wertfuzzy77#0274, http://i.imgur.com/wYjAzA9.jpg
+02 Apr 2017 20:56:18 : LimitlessMc, botchat, DanTurboX#4833, Yes that look good
+02 Apr 2017 20:56:21 : LimitlessMc, botchat, jjtwilefc#0051, Nah to cartoony
+02 Apr 2017 20:56:32 : LimitlessMc, botchat, jjtwilefc#0051, I'll take a look at some
+02 Apr 2017 20:56:40 : LimitlessMc, botchat, Wertfuzzy77#0274, @DanTurboX do `;changeBackground http://i.imgur.com/wYjAzA9.jpg`
+02 Apr 2017 20:56:48 : LimitlessMc, botchat, DanTurboX#4833, O
+02 Apr 2017 20:56:48 : LimitlessMc, botchat, Wertfuzzy77#0274, just to show you how this works 😛
+02 Apr 2017 20:57:03 : LimitlessMc, botchat, Wertfuzzy77#0274, works with any online picture
+02 Apr 2017 20:57:30 : LimitlessMc, botchat, DanTurboX#4833, ;changeBackground http://i.imgur.com/wYjAzA9.jpg
+02 Apr 2017 20:57:30 : LimitlessMc, botchat, Botfuzzy77#2209, Changed Background sucessfully
+02 Apr 2017 20:57:39 : LimitlessMc, botchat, DanTurboX#4833, ;level
+02 Apr 2017 20:57:41 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 20:57:54 : LimitlessMc, botchat, Wertfuzzy77#0274, my program tries to match the color scheme to your background
+02 Apr 2017 20:57:58 : LimitlessMc, botchat, Wertfuzzy77#0274, its not perfect tho
+02 Apr 2017 20:58:04 : LimitlessMc, botchat, Wertfuzzy77#0274, you can change the colors manually tho if you want
+02 Apr 2017 20:58:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;color
+02 Apr 2017 20:58:05 : LimitlessMc, botchat, Botfuzzy77#2209, **Invalid option**
+Options include:
+Text, Box, Title, Bar
+Ex `;color box 30 30 30`
+Use `palette` to return the current color palette being used
+Use `reset` to reset the custom options back to default.
+02 Apr 2017 20:58:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;color palette
+02 Apr 2017 20:58:12 : LimitlessMc, botchat, Botfuzzy77#2209, text_color : [230, 225, 130]
+box_color : [227, 148, 130]
+title_color : [151, 165, 199]
+bar_color : [34, 11, 62]
+02 Apr 2017 20:59:12 : LimitlessMc, botchat, jjtwilefc#0051, ;changeBackground http://m.imgur.com/gallery/5SdbLAv
+02 Apr 2017 20:59:12 : LimitlessMc, botchat, Botfuzzy77#2209, Changed Background sucessfully
+02 Apr 2017 20:59:17 : LimitlessMc, botchat, jjtwilefc#0051, ;level
+02 Apr 2017 20:59:19 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 20:59:20 : LimitlessMc, botchat, Wertfuzzy77#0274, eh, thats a gallery
+02 Apr 2017 20:59:22 : LimitlessMc, botchat, Wertfuzzy77#0274, it wont work
+02 Apr 2017 20:59:27 : LimitlessMc, botchat, jjtwilefc#0051, O
+02 Apr 2017 20:59:31 : LimitlessMc, botchat, Wertfuzzy77#0274, http://i.imgur.com/5SdbLAv.jpg
+02 Apr 2017 20:59:33 : LimitlessMc, botchat, Wertfuzzy77#0274, try that link
+02 Apr 2017 20:59:53 : LimitlessMc, botchat, jjtwilefc#0051, ;changeBackground http://i.imgur.com/5SdbLAv.jpg
+02 Apr 2017 20:59:53 : LimitlessMc, botchat, Botfuzzy77#2209, Changed Background sucessfully
+02 Apr 2017 21:00:00 : LimitlessMc, botchat, jjtwilefc#0051, ;level
+02 Apr 2017 21:00:04 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 21:00:09 : LimitlessMc, botchat, jjtwilefc#0051, Nice
+02 Apr 2017 21:00:20 : LimitlessMc, botchat, Wertfuzzy77#0274, oh, do `;color reset`
+02 Apr 2017 21:00:29 : LimitlessMc, botchat, jjtwilefc#0051, ;color reset
+02 Apr 2017 21:00:29 : LimitlessMc, botchat, Botfuzzy77#2209, Custom colors reset!
+02 Apr 2017 21:00:33 : LimitlessMc, botchat, Wertfuzzy77#0274, now look at it
+02 Apr 2017 21:00:36 : LimitlessMc, botchat, jjtwilefc#0051, ;level
+02 Apr 2017 21:00:39 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 21:00:51 : LimitlessMc, botchat, jjtwilefc#0051, Looks the same
+02 Apr 2017 21:00:57 : LimitlessMc, botchat, jjtwilefc#0051, Ish
+02 Apr 2017 21:00:58 : LimitlessMc, botchat, Wertfuzzy77#0274, ya, cause the 2 images were similar
+02 Apr 2017 21:01:07 : LimitlessMc, botchat, Wertfuzzy77#0274, it changed the color scheme to match the new background
+02 Apr 2017 21:01:17 : LimitlessMc, botchat, jjtwilefc#0051, Can see some small changes
+02 Apr 2017 21:01:35 : LimitlessMc, botchat, jjtwilefc#0051, Very cool
+02 Apr 2017 21:01:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ya, if you tried with a completly different image, would look v differnt
+02 Apr 2017 21:02:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+02 Apr 2017 21:02:20 : LimitlessMc, botchat, Botfuzzy77#2209, :first_place: **TherminatorX** Level **45** Prestige **2**
+:second_place: **Wertfuzzy77** Level **32** Prestige **1**
+:third_place: **Crystal4209** Level **31** Prestige **1**
+:medal: theOnlyJuan Level 25 Prestige 1
+:medal: MrMudkipKipperten Level 22 Prestige 1
+:medal: DanTurboX Level 14 Prestige 1
+:medal: MoonWolf Level 14 Prestige 1
+:medal: jjtwilefc Level 53 Prestige 0
+:medal: Bakafish Level 41 Prestige 0
+:medal: 🌟💖Resolate💖🌟 Level 34 Prestige 0
+:medal: Mr. AlphaMeeseeks Level 34 Prestige 0
+:medal: Third_Worm Level 33 Prestige 0
+:medal: PostalOffice Level 26 Prestige 0
+:medal: StubbyMuffins Level 24 Prestige 0
+:medal: Dzepps Level 23 Prestige 0
+:medal: Saba Level 17 Prestige 0
+:medal: Niionkai Level 16 Prestige 0
+:medal: Lightning Level 12 Prestige 0
+:medal: StarwinnerCraft Level 11 Prestige 0
+:medal: Dasher Level 10 Prestige 0
+02 Apr 2017 21:02:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lookup TherminatorX
+02 Apr 2017 21:02:27 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 21:02:42 : LimitlessMc, botchat, DanTurboX#4833, @Wertfuzzy77  can i use a background that i choose?
+02 Apr 2017 21:02:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ofc, any background you want
+02 Apr 2017 21:03:10 : LimitlessMc, botchat, Wertfuzzy77#0274, its just `;changeBackground [Link to background]`
+02 Apr 2017 21:03:16 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 21:03:18 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 21:03:18 : LimitlessMc, botchat, Wertfuzzy77#0274, like this
+02 Apr 2017 21:03:19 : LimitlessMc, botchat, DanTurboX#4833, k
+02 Apr 2017 21:03:22 : LimitlessMc, botchat, DanTurboX#4833, ty
+02 Apr 2017 21:03:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ;changeBackground https://s-media-cache-ak0.pinimg.com/originals/f1/12/94/f11294f1ef56a6aa44571487785b582f.jpg
+02 Apr 2017 21:03:22 : LimitlessMc, botchat, Botfuzzy77#2209, Changed Background sucessfully
+02 Apr 2017 21:03:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 21:03:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 21:03:36 : LimitlessMc, botchat, Wertfuzzy77#0274, ;color reset
+02 Apr 2017 21:03:36 : LimitlessMc, botchat, Botfuzzy77#2209, Custom colors reset!
+02 Apr 2017 21:03:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 21:03:40 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 21:03:52 : LimitlessMc, botchat, Wertfuzzy77#0274, ;color text 230 230 230
+02 Apr 2017 21:03:52 : LimitlessMc, botchat, Botfuzzy77#2209, Text Color sucessfully
+02 Apr 2017 21:03:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 21:03:57 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 21:04:06 : LimitlessMc, botchat, Wertfuzzy77#0274, ;color palette
+02 Apr 2017 21:04:06 : LimitlessMc, botchat, Botfuzzy77#2209, text_color : [230, 230, 230]
+box_color : [231, 200, 162]
+title_color : [45, 34, 55]
+bar_color : [154, 181, 205]
+02 Apr 2017 21:04:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ;color bar 90 130 150
+02 Apr 2017 21:04:23 : LimitlessMc, botchat, Botfuzzy77#2209, Bar Color sucessfully
+02 Apr 2017 21:04:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 21:04:26 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 21:04:32 : LimitlessMc, botchat, DanTurboX#4833, ;changeBackground https://www.google.co.il/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjxgqyL1obTAhVCVBQKHTFtDeMQjRwIBw&url=http%3A%2F%2Fwww.amazingwallpaperz.com%2Fdragon-fire-background-hd-wallpapers%2F&psig=AFQjCNG77cQi1MYFvcOAH7tmI6VFvcWaoQ&ust=1491253279690641
+02 Apr 2017 21:04:32 : LimitlessMc, botchat, Botfuzzy77#2209, Changed Background sucessfully
+02 Apr 2017 21:04:39 : LimitlessMc, botchat, DanTurboX#4833, ;level
+02 Apr 2017 21:04:41 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 21:04:47 : LimitlessMc, botchat, DanTurboX#4833, ...
+02 Apr 2017 21:04:49 : LimitlessMc, botchat, Wertfuzzy77#0274, that link looks sketchy xD
+02 Apr 2017 21:04:57 : LimitlessMc, botchat, DanTurboX#4833, lol ok
+02 Apr 2017 21:05:20 : LimitlessMc, botchat, Wertfuzzy77#0274, if It can't parse the image from the link you give it, it displays the default image instead
+02 Apr 2017 21:05:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;changeBackground https://s-media-cache-ak0.pinimg.com/originals/f7/d6/19/f7d619ada60393e880f29508ca70f79e.jpg
+02 Apr 2017 21:05:59 : LimitlessMc, botchat, Botfuzzy77#2209, Changed Background sucessfully
+02 Apr 2017 21:06:04 : LimitlessMc, botchat, Wertfuzzy77#0274, ;color reset
+02 Apr 2017 21:06:04 : LimitlessMc, botchat, Botfuzzy77#2209, Custom colors reset!
+02 Apr 2017 21:06:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 21:06:09 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 21:06:15 : LimitlessMc, botchat, DanTurboX#4833, mk
+02 Apr 2017 21:06:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ooo, I like this one
+02 Apr 2017 21:06:44 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+02 Apr 2017 21:06:44 : LimitlessMc, botchat, Botfuzzy77#2209, :first_place: **TherminatorX** Level **45** Prestige **2**
+:second_place: **Wertfuzzy77** Level **32** Prestige **1**
+:third_place: **Crystal4209** Level **31** Prestige **1**
+:medal: theOnlyJuan Level 25 Prestige 1
+:medal: MrMudkipKipperten Level 22 Prestige 1
+:medal: DanTurboX Level 14 Prestige 1
+:medal: MoonWolf Level 14 Prestige 1
+:medal: jjtwilefc Level 53 Prestige 0
+:medal: Bakafish Level 41 Prestige 0
+:medal: 🌟💖Resolate💖🌟 Level 34 Prestige 0
+:medal: Mr. AlphaMeeseeks Level 34 Prestige 0
+:medal: Third_Worm Level 33 Prestige 0
+:medal: PostalOffice Level 26 Prestige 0
+:medal: StubbyMuffins Level 24 Prestige 0
+:medal: Dzepps Level 23 Prestige 0
+:medal: Saba Level 17 Prestige 0
+:medal: Niionkai Level 16 Prestige 0
+:medal: Lightning Level 12 Prestige 0
+:medal: StarwinnerCraft Level 11 Prestige 0
+:medal: Dasher Level 10 Prestige 0
+02 Apr 2017 21:07:00 : LimitlessMc, botchat, Wertfuzzy77#0274, ugh, I need to make a better looking ;ranking like ;level
+02 Apr 2017 21:07:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+02 Apr 2017 21:07:11 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 45 **Sunkern** for 676 XP (35% to beat)
+You *Lost* to a Level 58 **Minun** (27% to beat)
+You *Lost* to a Level 38 **Trevenant** (42% to beat)
+You **Beat** a Level 17 **Tornadus** for 97 XP (90% to beat)
+You **Beat** a Level 17 **Weezing** for 97 XP (90% to beat)
+You **Beat** a Level 44 **Chinchou** for 646 XP (36% to beat)
+You *Lost* to a Level 55 **Phanpy** (29% to beat)
+You *Lost* to a Level 48 **Granbull** (33% to beat)
+You *Lost* to a Level 57 **Landorus** (28% to beat)
+You Find a **Pokeloot** worth 899 XP
+02 Apr 2017 21:07:11 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 2415 (+ 241) XP
+02 Apr 2017 21:07:16 : LimitlessMc, botchat, Wertfuzzy77#0274, sounds like a lot of work thooooo
+02 Apr 2017 21:07:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 21:07:22 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 21:08:54 : LimitlessMc, botchat, DanTurboX#4833, ;changeBackground file:///E:/Dan/Dragon-Fire-HD-Desktop-Background-Wallpapers.jpg
+02 Apr 2017 21:08:54 : LimitlessMc, botchat, Botfuzzy77#2209, Changed Background sucessfully
+02 Apr 2017 21:09:09 : LimitlessMc, botchat, DanTurboX#4833, nha i dont know how to use it lol
+02 Apr 2017 21:09:15 : LimitlessMc, botchat, DanTurboX#4833, ;level
+02 Apr 2017 21:09:17 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 21:09:25 : LimitlessMc, botchat, Wertfuzzy77#0274, you have to upload it online 😛
+02 Apr 2017 21:10:44 : LimitlessMc, botchat, Wertfuzzy77#0274, easiest way to get a good image is to use google images, find one you like, and right click on it and copy link address
+02 Apr 2017 21:12:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+02 Apr 2017 21:12:46 : LimitlessMc, botchat, Botfuzzy77#2209, :first_place: **TherminatorX** Level **45** Prestige **2**
+:second_place: **Wertfuzzy77** Level **32** Prestige **1**
+:third_place: **Crystal4209** Level **31** Prestige **1**
+:medal: theOnlyJuan Level 25 Prestige 1
+:medal: MrMudkipKipperten Level 22 Prestige 1
+:medal: DanTurboX Level 14 Prestige 1
+:medal: MoonWolf Level 14 Prestige 1
+:medal: jjtwilefc Level 53 Prestige 0
+:medal: Bakafish Level 41 Prestige 0
+:medal: Mr. AlphaMeeseeks Level 34 Prestige 0
+:medal: 🌟💖Resolate💖🌟 Level 34 Prestige 0
+:medal: Third_Worm Level 33 Prestige 0
+:medal: PostalOffice Level 26 Prestige 0
+:medal: StubbyMuffins Level 24 Prestige 0
+:medal: Dzepps Level 23 Prestige 0
+:medal: Saba Level 17 Prestige 0
+:medal: Niionkai Level 16 Prestige 0
+:medal: Lightning Level 12 Prestige 0
+:medal: StarwinnerCraft Level 11 Prestige 0
+:medal: Dasher Level 10 Prestige 0
+02 Apr 2017 21:12:47 : LimitlessMc, botchat, Botfuzzy77#2209, :first_place: **TherminatorX** Level **19** Prestige **2**
+:second_place: **Wertfuzzy77** Level **27** Prestige **1**
+:third_place: **Crystal4209** Level **21** Prestige **1**
+:medal: MoonWolf Level 14 Prestige 1
+:medal: theOnlyJuan Level 14 Prestige 1
+:medal: DanTurboX Level 57 Prestige 0
+:medal: MrMudkipKipperten Level 8 Prestige 1
+:medal: jjtwilefc Level 53 Prestige 0
+:medal: Bakafish Level 39 Prestige 0
+:medal: 🌟💖Resolate💖🌟 Level 34 Prestige 0
+:medal: Mr. AlphaMeeseeks Level 33 Prestige 0
+:medal: Third_Worm Level 33 Prestige 0
+:medal: PostalOffice Level 26 Prestige 0
+:medal: Dzepps Level 19 Prestige 0
+:medal: Saba Level 17 Prestige 0
+:medal: Niionkai Level 16 Prestige 0
+:medal: Lightning Level 12 Prestige 0
+:medal: StarwinnerCraft Level 11 Prestige 0
+:medal: Dasher Level 10 Prestige 0
+:medal: Red_Dragon_333 Level 8 Prestige 0
+02 Apr 2017 21:14:21 : LimitlessMc, botchat, DanTurboX#4833, ;changeBackground https://images8.alphacoders.com/403/403477.jpg
+02 Apr 2017 21:14:21 : LimitlessMc, botchat, Botfuzzy77#2209, Changed Background sucessfully
+02 Apr 2017 21:14:27 : LimitlessMc, botchat, DanTurboX#4833, ;level
+02 Apr 2017 21:14:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 21:14:36 : LimitlessMc, botchat, Wertfuzzy77#0274, do ;color reset
+02 Apr 2017 21:14:45 : LimitlessMc, botchat, DanTurboX#4833, yaa i did it lol 😛
+02 Apr 2017 21:14:49 : LimitlessMc, botchat, Wertfuzzy77#0274, gj 😄
+02 Apr 2017 21:15:03 : LimitlessMc, botchat, DanTurboX#4833, ;color reset
+02 Apr 2017 21:15:03 : LimitlessMc, botchat, Botfuzzy77#2209, Custom colors reset!
+02 Apr 2017 21:15:07 : LimitlessMc, botchat, Wertfuzzy77#0274, now do ;level
+02 Apr 2017 21:15:08 : LimitlessMc, botchat, DanTurboX#4833, ;level
+02 Apr 2017 21:15:10 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 21:15:20 : LimitlessMc, botchat, DanTurboX#4833, nice...
+02 Apr 2017 21:15:27 : LimitlessMc, botchat, DanTurboX#4833, lol same
+02 Apr 2017 21:16:06 : LimitlessMc, botchat, DanTurboX#4833, ;train
+02 Apr 2017 21:16:06 : LimitlessMc, botchat, Botfuzzy77#2209, You *Lost* to a Level 12 **Dialga** (58% to beat)
+You *Lost* to a Level 15 **Pidgey** (46% to beat)
+You *Lost* to a Level 14 **Torterra** (50% to beat)
+You *Lost* to a Level 21 **Smoochum** (33% to beat)
+You **Beat** a Level 7 **Swampert** for 17 XP (90% to beat)
+You use an **EXP share** to gain more XP! (+ 8)
+You Find a **Pokeloot** worth 85 XP
+02 Apr 2017 21:16:06 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 110 (+ 11) XP
+02 Apr 2017 21:16:08 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 89 **Torterra** for 2,641 XP (32% to beat)
+You *Lost* to a Level 59 **Natu** (48% to beat)
+You *Lost* to a Level 54 **Tyrunt** (52% to beat)
+You **Beat** a Level 59 **Scrafty** for 1,161 XP (48% to beat)
+You *Lost* to a Level 113 **Qwilfish** (25% to beat)
+You *Lost* to a Level 102 **Espurr** (27% to beat)
+You *Lost* to a Level 89 **Cleffa** (32% to beat)
+You *Lost* to a Level 60 **Gallade** (47% to beat)
+You **Beat** a Level 49 **Hitmonlee** for 801 XP (58% to beat)
+You *Lost* to a Level 63 **Drifblim** (45% to beat)
+You **Beat** a Level 106 **Nuzleaf** for 3,746 XP (26% to beat)
+You **Beat** a Level 29 **Alomomola** for 281 XP (90% to beat)
+You **Beat** a Level 71 **Hoothoot** for 1,681 XP (40% to beat)
+You **Beat** a Level 37 **Aromatisse** for 457 XP (77% to beat)
+You *Lost* to a Level 86 **Corsola** (33% to beat)
+You Find a **Pokeloot** worth 4,878 XP
+02 Apr 2017 21:16:08 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 15646 (+ 0) XP
+02 Apr 2017 21:16:10 : LimitlessMc, botchat, Wertfuzzy77#0274, now this is where it gets interesting
+02 Apr 2017 21:16:14 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+02 Apr 2017 21:16:15 : LimitlessMc, botchat, Botfuzzy77#2209, :first_place: **TherminatorX** Level **45** Prestige **2**
+:second_place: **Wertfuzzy77** Level **32** Prestige **1**
+:third_place: **Crystal4209** Level **31** Prestige **1**
+:medal: theOnlyJuan Level 25 Prestige 1
+:medal: MrMudkipKipperten Level 22 Prestige 1
+:medal: DanTurboX Level 14 Prestige 1
+:medal: MoonWolf Level 14 Prestige 1
+:medal: jjtwilefc Level 53 Prestige 0
+:medal: Bakafish Level 41 Prestige 0
+:medal: Mr. AlphaMeeseeks Level 34 Prestige 0
+:medal: 🌟💖Resolate💖🌟 Level 34 Prestige 0
+:medal: Third_Worm Level 33 Prestige 0
+:medal: PostalOffice Level 26 Prestige 0
+:medal: StubbyMuffins Level 24 Prestige 0
+:medal: Dzepps Level 23 Prestige 0
+:medal: Saba Level 17 Prestige 0
+:medal: Niionkai Level 16 Prestige 0
+:medal: Lightning Level 12 Prestige 0
+:medal: StarwinnerCraft Level 11 Prestige 0
+:medal: Dasher Level 10 Prestige 0
+02 Apr 2017 21:16:15 : LimitlessMc, botchat, Botfuzzy77#2209, :first_place: **TherminatorX** Level **19** Prestige **2**
+:second_place: **Wertfuzzy77** Level **27** Prestige **1**
+:third_place: **Crystal4209** Level **21** Prestige **1**
+:medal: MoonWolf Level 14 Prestige 1
+:medal: theOnlyJuan Level 14 Prestige 1
+:medal: DanTurboX Level 57 Prestige 0
+:medal: MrMudkipKipperten Level 8 Prestige 1
+:medal: jjtwilefc Level 53 Prestige 0
+:medal: Bakafish Level 39 Prestige 0
+:medal: 🌟💖Resolate💖🌟 Level 34 Prestige 0
+:medal: Mr. AlphaMeeseeks Level 33 Prestige 0
+:medal: Third_Worm Level 33 Prestige 0
+:medal: PostalOffice Level 26 Prestige 0
+:medal: Dzepps Level 19 Prestige 0
+:medal: Saba Level 17 Prestige 0
+:medal: Niionkai Level 16 Prestige 0
+:medal: Lightning Level 12 Prestige 0
+:medal: StarwinnerCraft Level 11 Prestige 0
+:medal: Dasher Level 10 Prestige 0
+:medal: Red_Dragon_333 Level 8 Prestige 0
+02 Apr 2017 21:16:18 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 21:16:20 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 21:16:21 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 21:16:26 : LimitlessMc, botchat, Wertfuzzy77#0274, LOL rank 1
+02 Apr 2017 21:16:27 : LimitlessMc, botchat, Wertfuzzy77#0274, go me
+02 Apr 2017 21:16:32 : LimitlessMc, botchat, Wertfuzzy77#0274, except I'm not xD
+02 Apr 2017 21:16:35 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+02 Apr 2017 21:16:37 : LimitlessMc, botchat, DanTurboX#4833, lol
+02 Apr 2017 21:17:06 : LimitlessMc, botchat, Wertfuzzy77#0274, ugh, I need to center that rank thing
+02 Apr 2017 21:17:10 : LimitlessMc, botchat, Wertfuzzy77#0274, gonna get annoying later
+02 Apr 2017 21:17:14 : LimitlessMc, botchat, Wertfuzzy77#0274, but... lazy
+02 Apr 2017 21:17:33 : LimitlessMc, botchat, Wertfuzzy77#0274, ;settype grass
+02 Apr 2017 21:17:33 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Grass type
+02 Apr 2017 21:17:34 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Grass type
+02 Apr 2017 21:17:36 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 21:17:38 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 21:17:39 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 21:18:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+02 Apr 2017 21:18:01 : LimitlessMc, botchat, Botfuzzy77#2209, :first_place: **TherminatorX** Level **19** Prestige **2**
+:second_place: **Wertfuzzy77** Level **27** Prestige **1**
+:third_place: **Crystal4209** Level **21** Prestige **1**
+:medal: MoonWolf Level 14 Prestige 1
+:medal: theOnlyJuan Level 14 Prestige 1
+:medal: DanTurboX Level 57 Prestige 0
+:medal: MrMudkipKipperten Level 8 Prestige 1
+:medal: jjtwilefc Level 53 Prestige 0
+:medal: Bakafish Level 39 Prestige 0
+:medal: 🌟💖Resolate💖🌟 Level 34 Prestige 0
+:medal: Mr. AlphaMeeseeks Level 33 Prestige 0
+:medal: Third_Worm Level 33 Prestige 0
+:medal: PostalOffice Level 26 Prestige 0
+:medal: Dzepps Level 19 Prestige 0
+:medal: Saba Level 17 Prestige 0
+:medal: Niionkai Level 16 Prestige 0
+:medal: Lightning Level 12 Prestige 0
+:medal: StarwinnerCraft Level 11 Prestige 0
+:medal: Dasher Level 10 Prestige 0
+:medal: Red_Dragon_333 Level 8 Prestige 0
+02 Apr 2017 21:18:01 : LimitlessMc, botchat, Botfuzzy77#2209, :first_place: **TherminatorX** Level **45** Prestige **2**
+:second_place: **Wertfuzzy77** Level **32** Prestige **1**
+:third_place: **Crystal4209** Level **31** Prestige **1**
+:medal: theOnlyJuan Level 25 Prestige 1
+:medal: MrMudkipKipperten Level 22 Prestige 1
+:medal: DanTurboX Level 14 Prestige 1
+:medal: MoonWolf Level 14 Prestige 1
+:medal: jjtwilefc Level 53 Prestige 0
+:medal: Bakafish Level 41 Prestige 0
+:medal: Mr. AlphaMeeseeks Level 34 Prestige 0
+:medal: 🌟💖Resolate💖🌟 Level 34 Prestige 0
+:medal: Third_Worm Level 33 Prestige 0
+:medal: PostalOffice Level 26 Prestige 0
+:medal: StubbyMuffins Level 24 Prestige 0
+:medal: Dzepps Level 23 Prestige 0
+:medal: Saba Level 17 Prestige 0
+:medal: Niionkai Level 16 Prestige 0
+:medal: Lightning Level 12 Prestige 0
+:medal: StarwinnerCraft Level 11 Prestige 0
+:medal: Dasher Level 10 Prestige 0
+02 Apr 2017 21:18:02 : LimitlessMc, botchat, DanTurboX#4833, ;settype electric
+02 Apr 2017 21:18:02 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Electric type
+02 Apr 2017 21:18:02 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Electric type
+02 Apr 2017 21:18:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 21:18:05 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 21:18:06 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 21:18:09 : LimitlessMc, botchat, Talha_choudhry#5495, ;settype fire
+02 Apr 2017 21:18:09 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Fire type
+02 Apr 2017 21:18:09 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Fire type
+02 Apr 2017 21:18:14 : LimitlessMc, botchat, Talha_choudhry#5495, ;level
+02 Apr 2017 21:18:16 : LimitlessMc, botchat, Wertfuzzy77#0274, well, ranking works now
+02 Apr 2017 21:18:17 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 21:18:18 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 21:18:21 : LimitlessMc, botchat, theOnlyJuan#9357, ;train
+02 Apr 2017 21:18:21 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 42 **Clamperl** for 589 XP (29% to beat)
+You **Beat** a Level 19 **Zapdos** for 121 XP (65% to beat)
+You *Lost* to a Level 30 **Kricketune** (41% to beat)
+You *Lost* to a Level 30 **Shuckle** (41% to beat)
+You *Lost* to a Level 49 **Donphan** (25% to beat)
+You *Lost* to a Level 19 **Probopass** (65% to beat)
+You **Beat** a Level 29 **Lilligant** for 281 XP (43% to beat)
+You Find a **Pokeloot** worth 440 XP
+02 Apr 2017 21:18:21 : LimitlessMc, botchat, Botfuzzy77#2209, You *Lost* to a Level 8 **Taillow** (87% to beat)
+You *Lost* to a Level 27 **Noibat** (25% to beat)
+You *Lost* to a Level 19 **Dustox** (36% to beat)
+You *Lost* to a Level 15 **Monferno** (46% to beat)
+You *Lost* to a Level 17 **Basculin** (41% to beat)
+You Find a **Pokeloot** worth 85 XP
+02 Apr 2017 21:18:21 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 1431 (+ 143) XP
+02 Apr 2017 21:18:22 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 85 (+ 8) XP
+02 Apr 2017 21:18:24 : LimitlessMc, botchat, Wertfuzzy77#0274, mostly xD
+02 Apr 2017 21:18:35 : LimitlessMc, botchat, theOnlyJuan#9357, ;level
+02 Apr 2017 21:18:37 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 21:18:37 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 21:18:37 : LimitlessMc, botchat, Talha_choudhry#5495, Wert it comes two times why?
+02 Apr 2017 21:18:44 : LimitlessMc, botchat, Wertfuzzy77#0274, local and not local 😛
+02 Apr 2017 21:18:45 : LimitlessMc, botchat, Wertfuzzy77#0274, debugging
+02 Apr 2017 21:18:50 : LimitlessMc, botchat, Talha_choudhry#5495, Oo
+02 Apr 2017 21:18:57 : LimitlessMc, botchat, Wertfuzzy77#0274, @theOnlyJuan get a custom background already
+02 Apr 2017 21:18:59 : LimitlessMc, botchat, Wertfuzzy77#0274, slowpoke
+02 Apr 2017 21:19:09 : LimitlessMc, botchat, theOnlyJuan#9357, I just saw the new stuff rn
+02 Apr 2017 21:19:10 : LimitlessMc, botchat, Talha_choudhry#5495, Hahaha

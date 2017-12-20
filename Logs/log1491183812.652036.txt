@@ -1,0 +1,84 @@
+03 Apr 2017 01:43:43 : OblivionEvolved, general, Wertfuzzy77#0274, ;train
+03 Apr 2017 01:43:46 : OblivionEvolved, general, Wertfuzzy77#0274, ayy
+03 Apr 2017 01:43:46 : OblivionEvolved, general, Botfuzzy77#2209, Lmao
+03 Apr 2017 01:43:50 : OblivionEvolved, general, Wertfuzzy77#0274, ;fml
+03 Apr 2017 01:43:52 : OblivionEvolved, general, Botfuzzy77#2209, *Today, a friend and I saw some deer outside my car. Since we were both leaving for college the next day we wanted to do something memorable so we decided to chase the deer. Turns out the deer wanted to chase us too. We ran for over five minutes screaming. FML*
+03 Apr 2017 01:43:56 : OblivionEvolved, general, Wertfuzzy77#0274, looks like it works
+03 Apr 2017 01:44:02 : OblivionEvolved, general, Wertfuzzy77#0274, all the pokemon stuff will be disabled
+03 Apr 2017 01:44:15 : OblivionEvolved, general, Wertfuzzy77#0274, now I just need to add your personal server stuff
+03 Apr 2017 01:44:31 : OblivionEvolved, general, StubbyMuffins#1053, your a beautifulman wert i want you to know that
+03 Apr 2017 01:44:43 : OblivionEvolved, general, Wertfuzzy77#0274, how about `;ark` for the server cmd? or do you want it to still be `;server`?
+03 Apr 2017 01:45:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+03 Apr 2017 01:45:03 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 28 **Vivillon** for 340 XP (60% to beat)
+You **Beat** a Level 53 **Larvesta** for 1,218 XP (32% to beat)
+You **Beat** a Level 52 **Chingling** for 1,172 XP (32% to beat)
+You *Lost* to a Level 34 **Fennekin** (50% to beat)
+You **Beat** a Level 22 **Trubbish** for 210 XP (77% to beat)
+You *Lost* to a Level 59 **Klefki** (28% to beat)
+You *Lost* to a Level 66 **Rattata** (25% to beat)
+You **Beat** a Level 41 **Xatu** for 729 XP (41% to beat)
+You **Beat** a Level 33 **Mandibuzz** for 472 XP (51% to beat)
+You *Lost* to a Level 34 **Spiritomb** (50% to beat)
+
+You use an **EXP share** to gain more XP! (+ 2,070)
+You use an **Item Finder** for a better chance at Pokeloots! (+50%)
+03 Apr 2017 01:45:03 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 6211 (+ 621) XP
+03 Apr 2017 01:45:07 : OblivionEvolved, general, StubbyMuffins#1053, what will show in ;help
+03 Apr 2017 01:45:13 : LimitlessMc, mainchat, Wertfuzzy77#0274, each episode
+03 Apr 2017 01:45:21 : OblivionEvolved, general, Wertfuzzy77#0274, good question
+03 Apr 2017 01:45:37 : OblivionEvolved, general, Wertfuzzy77#0274, no idea 😄
+03 Apr 2017 01:45:41 : OblivionEvolved, general, StubbyMuffins#1053, leleleleleell
+03 Apr 2017 01:45:58 : OblivionEvolved, general, Wertfuzzy77#0274, I hard coded your server ID into my bot to stop those cmds from running
+03 Apr 2017 01:46:19 : OblivionEvolved, general, Wertfuzzy77#0274, so they will prob show up in ;help but just not run
+03 Apr 2017 01:46:28 : OblivionEvolved, general, Wertfuzzy77#0274, not like anyone uses ;help anyways
+03 Apr 2017 01:47:07 : OblivionEvolved, general, StubbyMuffins#1053, alright
+03 Apr 2017 01:48:52 : OblivionEvolved, general, Wertfuzzy77#0274, so what kinds of things do you want your cmd to show? rn I have the list of online players
+03 Apr 2017 01:49:14 : OblivionEvolved, general, StubbyMuffins#1053, hmm
+03 Apr 2017 01:49:26 : OblivionEvolved, general, StubbyMuffins#1053, can you show server version
+03 Apr 2017 01:49:27 : OblivionEvolved, general, Wertfuzzy77#0274, I'll steal this banner too while I'm at it
+03 Apr 2017 01:49:28 : OblivionEvolved, general, Wertfuzzy77#0274, 
+03 Apr 2017 01:49:47 : OblivionEvolved, general, StubbyMuffins#1053, k that works
+03 Apr 2017 01:50:27 : OblivionEvolved, general, StubbyMuffins#1053, all i really need it to show is server version if its online or not and players online
+03 Apr 2017 01:51:10 : OblivionEvolved, general, Wertfuzzy77#0274, ;debug BeautifulSoup(requests.get("https://arkservers.net/server/192.154.224.19:27015").text, "html.parser").find(id = 'img-responsive')
+03 Apr 2017 01:51:11 : OblivionEvolved, general, Botfuzzy77#2209, ```py
+None
+```
+03 Apr 2017 01:51:13 : OblivionEvolved, general, Wertfuzzy77#0274, well
+03 Apr 2017 01:51:25 : OblivionEvolved, general, Wertfuzzy77#0274, ;debug BeautifulSoup(requests.get("https://arkservers.net/server/192.154.224.19:27015").text, "html.parser").find(_class = 'img-responsive')
+03 Apr 2017 01:51:25 : OblivionEvolved, general, Botfuzzy77#2209, ```py
+None
+```
+03 Apr 2017 01:51:27 : OblivionEvolved, general, Wertfuzzy77#0274, ...
+03 Apr 2017 01:52:05 : OblivionEvolved, general, Wertfuzzy77#0274, ;debug BeautifulSoup(requests.get("https://arkservers.net/server/192.154.224.19:27015").text, "html.parser").find(class_ = 'img-responsive')
+03 Apr 2017 01:52:06 : OblivionEvolved, general, Botfuzzy77#2209, ```py
+<img class="img-responsive" src="/banner/192.154.224.19:27015/banner.png?nocache=2485307">
+<a href="/server/192.154.224.19:27015/?show-banner-codes=1#banner_section" id="banner_code" onclick="if ((typeof BannerCodes) != 'undefined') { BannerCodes(); return false; }"><i class="fa fa-picture-o"></i> Image/Forum/HTML Banner - Get Code</a>
+</img>
+```
+03 Apr 2017 01:52:07 : OblivionEvolved, general, Wertfuzzy77#0274, 😄
+03 Apr 2017 01:52:08 : OblivionEvolved, general, Wertfuzzy77#0274, found it
+03 Apr 2017 01:52:16 : OblivionEvolved, general, Wertfuzzy77#0274, ;debug BeautifulSoup(requests.get("https://arkservers.net/server/192.154.224.19:27015").text, "html.parser").find(class_ = 'img-responsive').src
+03 Apr 2017 01:52:17 : OblivionEvolved, general, Botfuzzy77#2209, ```py
+None
+```
+03 Apr 2017 01:52:21 : OblivionEvolved, general, Wertfuzzy77#0274, hmm
+03 Apr 2017 01:53:17 : OblivionEvolved, general, Wertfuzzy77#0274, ;debug BeautifulSoup(requests.get("https://arkservers.net/server/192.154.224.19:27015").text, "html.parser").find(class_ = 'img-responsive')['src']
+03 Apr 2017 01:53:17 : OblivionEvolved, general, Botfuzzy77#2209, ```py
+/banner/192.154.224.19:27015/banner.png?nocache=2485307
+```
+03 Apr 2017 01:54:02 : OblivionEvolved, general, Wertfuzzy77#0274, ;debug "https://arkservers.net" + BeautifulSoup(requests.get("https://arkservers.net/server/192.154.224.19:27015").text, "html.parser").find(class_ = 'img-responsive')['src']
+03 Apr 2017 01:54:02 : OblivionEvolved, general, Botfuzzy77#2209, ```py
+https://arkservers.net/banner/192.154.224.19:27015/banner.png?nocache=2485307
+```
+03 Apr 2017 01:54:05 : OblivionEvolved, general, Wertfuzzy77#0274, https://arkservers.net/banner/192.154.224.19:27015/banner.png?nocache=2485307
+03 Apr 2017 01:54:09 : OblivionEvolved, general, Wertfuzzy77#0274, 😄
+03 Apr 2017 01:54:12 : OblivionEvolved, general, Wertfuzzy77#0274, we found it
+03 Apr 2017 01:54:28 : OblivionEvolved, general, Wertfuzzy77#0274, wow, thats 1 ugly line of code
+03 Apr 2017 01:54:37 : OblivionEvolved, general, StubbyMuffins#1053, lol
+03 Apr 2017 01:54:44 : OblivionEvolved, general, StubbyMuffins#1053, so its working 😮
+03 Apr 2017 01:55:16 : OblivionEvolved, general, Wertfuzzy77#0274, ;debug bot.say("https://arkservers.net" + BeautifulSoup(requests.get("https://arkservers.net/server/192.154.224.19:27015").text, "html.parser").find(class_ = 'img-responsive')['src'])
+03 Apr 2017 01:55:16 : OblivionEvolved, general, Botfuzzy77#2209, https://arkservers.net/banner/192.154.224.19:27015/banner.png?nocache=2485308
+03 Apr 2017 01:55:16 : OblivionEvolved, general, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7f7f57c25130>
+```
+03 Apr 2017 01:55:24 : OblivionEvolved, general, Wertfuzzy77#0274, prob

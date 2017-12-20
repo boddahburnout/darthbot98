@@ -1,0 +1,16 @@
+14 Dec 2017 06:18:35 : FAM, videos-and-music, darth kota#9446, ;join
+14 Dec 2017 06:18:36 : FAM, videos-and-music, darthbot98#5182, Connected channel!
+14 Dec 2017 06:18:40 : FAM, videos-and-music, darth kota#9446, ;recommend
+14 Dec 2017 06:18:40 : FAM, videos-and-music, darthbot98#5182, Recommend Songs to play: True
+14 Dec 2017 06:19:58 : FAM, videos-and-music, darth kota#9446, ;search iris
+14 Dec 2017 06:20:07 : FAM, videos-and-music, darthbot98#5182, Added Iris - The Goo Goo Dolls (lyrics) to the queue
+14 Dec 2017 06:20:07 : FAM, videos-and-music, darthbot98#5182, https://www.youtube.com/watch?v=aNO6yd66PpA
+14 Dec 2017 06:20:16 : FAM, videos-and-music, darth kota#9446, ;songs
+14 Dec 2017 06:20:16 : FAM, videos-and-music, darthbot98#5182, 
+14 Dec 2017 06:20:25 : FAM, videos-and-music, darth kota#9446, ;song
+14 Dec 2017 06:20:25 : FAM, videos-and-music, darthbot98#5182, 
+14 Dec 2017 06:20:30 : FAM, videos-and-music, darth kota#9446, ;skip
+14 Dec 2017 06:21:22 : FAM, videos-and-music, darth kota#9446, ;reload
+14 Dec 2017 06:22:52 : FAM, videos-and-music, darth kota#9446, ;_reload
+14 Dec 2017 06:23:11 : FAM, videos-and-music, darth kota#9446, ;reload
+14 Dec 2017 06:24:33 : FAM, videos-and-music, darth kota#9446, ;relog

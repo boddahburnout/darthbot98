@@ -1,0 +1,250 @@
+15 Feb 2017 02:29:32 : LimitlessMc, botchat, Tgamer101#2795, wow
+15 Feb 2017 02:29:33 : LimitlessMc, botchat, Wertfuzzy77#0274, fix
+15 Feb 2017 02:29:39 : LimitlessMc, botchat, JustinOPGamer#9138, lol
+15 Feb 2017 02:29:39 : LimitlessMc, botchat, Tgamer101#2795, she died
+15 Feb 2017 02:29:41 : LimitlessMc, botchat, Tgamer101#2795, r.i.p
+15 Feb 2017 02:29:41 : LimitlessMc, botchat, Wertfuzzy77#0274, should clear queue when radio off
+15 Feb 2017 02:29:45 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+15 Feb 2017 02:29:46 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+15 Feb 2017 02:29:48 : LimitlessMc, botchat, JustinOPGamer#9138, ;search Mike Posner - I Took A Pill In Ibiza (SeeB Remix)
+15 Feb 2017 02:29:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio Japanese lounge
+15 Feb 2017 02:29:50 : LimitlessMc, botchat, Botfuzzy77#2209, Please choose one of these options: 
+Electro Hub
+Chill Corner
+Korean Madness
+Japanese Lounge
+Classical
+Retro Renegade
+Metal Mix
+Hip-hop
+Electro Swing
+Purely Pop
+Rock-n-Roll
+Coffee-house Jazz
+Example: `;Radio Purely Pop`
+15 Feb 2017 02:29:51 : LimitlessMc, botchat, Botfuzzy77#2209, Added Mike Posner - I Took A Pill In Ibiza (SeeB Remix) to the queue
+15 Feb 2017 02:29:51 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=u3VFzuUiTGw
+15 Feb 2017 02:29:51 : LimitlessMc, botchat, Tgamer101#2795, ;search megalovania
+15 Feb 2017 02:29:53 : LimitlessMc, botchat, Botfuzzy77#2209, Added Undertale OST - Megalovania Extended to the queue
+15 Feb 2017 02:29:53 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=B2jVbSI9H4o
+15 Feb 2017 02:29:53 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+15 Feb 2017 02:29:59 : LimitlessMc, botchat, Tgamer101#2795, thx
+15 Feb 2017 02:30:03 : LimitlessMc, botchat, TherminatorX#6644, @Botfuzzy77 tell us your gender
+15 Feb 2017 02:30:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio Chill Corner
+15 Feb 2017 02:30:10 : LimitlessMc, botchat, Botfuzzy77#2209, Now listening to Chill Corner radio channel
+15 Feb 2017 02:30:15 : LimitlessMc, botchat, Wertfuzzy77#0274, clever bot ded
+15 Feb 2017 02:30:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+15 Feb 2017 02:30:17 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+15 Feb 2017 02:30:17 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Undertale OST - Megalovania Extended **Tgamer101**
+	<https://www.youtube.com/watch?v=B2jVbSI9H4o>
+2. Alan Walker - Faded (Sara Farell Cover) **Radio: Chill Corner**
+	<https://www.youtube.com/watch?v=2jZFsQS8Veo>
+3. In Love With a Ghost - We'll Be Together **Radio: Chill Corner**
+	<https://www.youtube.com/watch?v=QUCFS5X9FPI>
+4. Joseph Terruel - Tool For Love (original) **Radio: Chill Corner**
+	<https://www.youtube.com/watch?v=GpzY4496vKs>
+Total Time is 0:28:27
+15 Feb 2017 02:30:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+15 Feb 2017 02:30:26 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+15 Feb 2017 02:30:26 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Undertale OST - Megalovania Extended **Tgamer101**
+	<https://www.youtube.com/watch?v=B2jVbSI9H4o>
+2. Alan Walker - Faded (Sara Farell Cover) **Radio: Chill Corner**
+	<https://www.youtube.com/watch?v=2jZFsQS8Veo>
+3. In Love With a Ghost - We'll Be Together **Radio: Chill Corner**
+	<https://www.youtube.com/watch?v=QUCFS5X9FPI>
+4. Joseph Terruel - Tool For Love (original) **Radio: Chill Corner**
+	<https://www.youtube.com/watch?v=GpzY4496vKs>
+5. Wax Tailor - Que Sera (HQ) **Radio: Chill Corner**
+	<https://www.youtube.com/watch?v=7I18_VNjX3g>
+Total Time is 0:31:13
+15 Feb 2017 02:30:33 : LimitlessMc, botchat, TherminatorX#6644, You don't have the fix in this version?
+15 Feb 2017 02:30:39 : LimitlessMc, botchat, Wertfuzzy77#0274, its not me
+15 Feb 2017 02:30:44 : LimitlessMc, botchat, Wertfuzzy77#0274, my code works fine
+15 Feb 2017 02:30:50 : LimitlessMc, botchat, Wertfuzzy77#0274, but its not connecting right anymore
+15 Feb 2017 02:31:02 : LimitlessMc, botchat, Wertfuzzy77#0274, getting some API errors
+15 Feb 2017 02:31:08 : LimitlessMc, botchat, Wertfuzzy77#0274, I have to see whats wrong with it
+15 Feb 2017 02:31:12 : LimitlessMc, botchat, Wertfuzzy77#0274, again...
+15 Feb 2017 02:31:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+15 Feb 2017 02:31:17 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+15 Feb 2017 02:31:17 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Undertale OST - Megalovania Extended **Tgamer101**
+	<https://www.youtube.com/watch?v=B2jVbSI9H4o>
+2. Alan Walker - Faded (Sara Farell Cover) **Radio: Chill Corner**
+	<https://www.youtube.com/watch?v=2jZFsQS8Veo>
+3. In Love With a Ghost - We'll Be Together **Radio: Chill Corner**
+	<https://www.youtube.com/watch?v=QUCFS5X9FPI>
+4. Joseph Terruel - Tool For Love (original) **Radio: Chill Corner**
+	<https://www.youtube.com/watch?v=GpzY4496vKs>
+5. Wax Tailor - Que Sera (HQ) **Radio: Chill Corner**
+	<https://www.youtube.com/watch?v=7I18_VNjX3g>
+Total Time is 0:31:13
+15 Feb 2017 02:31:18 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+15 Feb 2017 02:31:18 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Mike Posner - I Took A Pill In Ibiza (SeeB Remix)
+**Requester**: JustinOPGamer
+**URL**: <https://www.youtube.com/watch?v=u3VFzuUiTGw>
+```py
+Time: 0:03:20
+Views: 40,890,428
+Likes: 174,340, 97.97%
+Dislikes: 3,621, 2.03%
+Skips: 0/2```
+15 Feb 2017 02:31:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+15 Feb 2017 02:31:24 : LimitlessMc, botchat, Botfuzzy77#2209, 1/2 votes to skip
+15 Feb 2017 02:31:26 : LimitlessMc, botchat, JustinOPGamer#9138, wert y all radio songs
+15 Feb 2017 02:31:31 : LimitlessMc, botchat, Tgamer101#2795, ;skip
+15 Feb 2017 02:31:31 : LimitlessMc, botchat, Botfuzzy77#2209, 2/2 votes to skip
+15 Feb 2017 02:31:31 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Mike Posner - I Took A Pill In Ibiza (SeeB Remix) by popular vote.
+15 Feb 2017 02:31:34 : LimitlessMc, botchat, Tgamer101#2795, lol
+15 Feb 2017 02:31:38 : LimitlessMc, botchat, JustinOPGamer#9138, ;Blue Swede - Hooked on a Feeling
+15 Feb 2017 02:31:43 : LimitlessMc, botchat, JustinOPGamer#9138, ;search Blue Swede - Hooked on a Feeling
+15 Feb 2017 02:31:43 : LimitlessMc, botchat, Botfuzzy77#2209, Turn off Radio mode first!
+15 Feb 2017 02:31:57 : LimitlessMc, botchat, JustinOPGamer#9138, lol turn off radio thank
+15 Feb 2017 02:32:00 : LimitlessMc, botchat, Wertfuzzy77#0274, why
+15 Feb 2017 02:32:02 : LimitlessMc, botchat, Wertfuzzy77#0274, radio OP
+15 Feb 2017 02:32:11 : LimitlessMc, botchat, JustinOPGamer#9138, wanna add a great song
+15 Feb 2017 02:32:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+15 Feb 2017 02:32:21 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+15 Feb 2017 02:32:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio Off
+15 Feb 2017 02:32:24 : LimitlessMc, botchat, Botfuzzy77#2209, Radio mode OFF
+15 Feb 2017 02:32:29 : LimitlessMc, botchat, Wertfuzzy77#0274, go for it
+15 Feb 2017 02:32:31 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+15 Feb 2017 02:32:31 : LimitlessMc, botchat, Botfuzzy77#2209, Queue is Empty
+15 Feb 2017 02:32:53 : LimitlessMc, botchat, Tgamer101#2795, ;bushes of love
+15 Feb 2017 02:32:56 : LimitlessMc, botchat, Tgamer101#2795, oops lol
+15 Feb 2017 02:33:01 : LimitlessMc, botchat, JustinOPGamer#9138, ;search Blue Swede - Hooked on a Feeling
+15 Feb 2017 02:33:03 : LimitlessMc, botchat, Botfuzzy77#2209, Added Blue Swede - Hooked On A Feeling to the queue
+15 Feb 2017 02:33:03 : LimitlessMc, botchat, Tgamer101#2795, ;search bushes of love
+15 Feb 2017 02:33:04 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=Bo-qweh7nbQ
+15 Feb 2017 02:33:04 : LimitlessMc, botchat, Botfuzzy77#2209, Added "BUSHES OF LOVE" -- Extended Lyric Video to the queue
+15 Feb 2017 02:33:04 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=RySHDUU2juM
+15 Feb 2017 02:33:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+15 Feb 2017 02:33:12 : LimitlessMc, botchat, Botfuzzy77#2209, 1/2 votes to skip
+15 Feb 2017 02:33:14 : LimitlessMc, botchat, Tgamer101#2795, nu
+15 Feb 2017 02:33:18 : LimitlessMc, botchat, Tgamer101#2795, so dank music
+15 Feb 2017 02:33:21 : LimitlessMc, botchat, Tgamer101#2795, lol
+15 Feb 2017 02:33:23 : LimitlessMc, botchat, JustinOPGamer#9138, ;skip
+15 Feb 2017 02:33:23 : LimitlessMc, botchat, Botfuzzy77#2209, 2/2 votes to skip
+15 Feb 2017 02:33:23 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Undertale OST - Megalovania Extended by popular vote.
+15 Feb 2017 02:33:36 : LimitlessMc, botchat, Tgamer101#2795, ;skip
+15 Feb 2017 02:33:36 : LimitlessMc, botchat, Botfuzzy77#2209, 1/2 votes to skip
+15 Feb 2017 02:33:37 : LimitlessMc, botchat, Tgamer101#2795, lol
+15 Feb 2017 02:33:39 : LimitlessMc, botchat, Wertfuzzy77#0274, LOL
+15 Feb 2017 02:33:39 : LimitlessMc, botchat, JustinOPGamer#9138, Hooked on a feeling
+15 Feb 2017 02:33:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+15 Feb 2017 02:33:40 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Blue Swede - Hooked On A Feeling
+**Requester**: JustinOPGamer
+**URL**: <https://www.youtube.com/watch?v=Bo-qweh7nbQ>
+```py
+Time: 0:03:16
+Views: 15,842,152
+Likes: 75,845, 96.68%
+Dislikes: 2,608, 3.32%
+Skips: 1/2```
+15 Feb 2017 02:33:49 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+15 Feb 2017 02:33:49 : LimitlessMc, botchat, Botfuzzy77#2209, 2/2 votes to skip
+15 Feb 2017 02:33:49 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Blue Swede - Hooked On A Feeling by popular vote.
+15 Feb 2017 02:33:51 : LimitlessMc, botchat, Tgamer101#2795, lel
+15 Feb 2017 02:33:54 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio
+15 Feb 2017 02:33:54 : LimitlessMc, botchat, Botfuzzy77#2209, Please choose one of these options: 
+Electro Hub
+Chill Corner
+Korean Madness
+Japanese Lounge
+Classical
+Retro Renegade
+Metal Mix
+Hip-hop
+Electro Swing
+Purely Pop
+Rock-n-Roll
+Coffee-house Jazz
+Example: `;Radio Purely Pop`
+15 Feb 2017 02:33:56 : LimitlessMc, botchat, JustinOPGamer#9138, awwwwww
+15 Feb 2017 02:34:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio Coffee-house Jazz
+15 Feb 2017 02:34:01 : LimitlessMc, botchat, Botfuzzy77#2209, Now listening to Coffee-house Jazz radio channel
+15 Feb 2017 02:34:05 : LimitlessMc, botchat, JustinOPGamer#9138, wert can we listen to it once?
+15 Feb 2017 02:34:09 : LimitlessMc, botchat, JustinOPGamer#9138, plz
+15 Feb 2017 02:34:10 : LimitlessMc, botchat, Wertfuzzy77#0274, was bad
+15 Feb 2017 02:34:13 : LimitlessMc, botchat, JustinOPGamer#9138, no
+15 Feb 2017 02:34:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+15 Feb 2017 02:34:13 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+15 Feb 2017 02:34:13 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Hunting Wabbits - Gordon Goodwin's Big Phat Band **Radio: Coffee-house Jazz**
+	<https://www.youtube.com/watch?v=nr3pY_uaO98>
+2. Duke Ellington, "Take the A Train" **Radio: Coffee-house Jazz**
+	<https://www.youtube.com/watch?v=cb2w2m1JmCY>
+3. Miles Davis "  Bye Bye Blackbird " 1955 **Radio: Coffee-house Jazz**
+	<https://www.youtube.com/watch?v=3kOWGBDJALY>
+4. Mose Allison - Your Mind Is On Vacation **Radio: Coffee-house Jazz**
+	<https://www.youtube.com/watch?v=pCpekvOkwNM>
+5. The BOBCATS  " Big Noise From Winnetka " !!! **Radio: Coffee-house Jazz**
+	<https://www.youtube.com/watch?v=KfFBdViZHzk>
+Total Time is 0:22:24
+15 Feb 2017 02:34:22 : LimitlessMc, botchat, Wertfuzzy77#0274, we got jazz now
+15 Feb 2017 02:34:24 : LimitlessMc, botchat, Tgamer101#2795, lel
+15 Feb 2017 02:34:25 : LimitlessMc, botchat, JustinOPGamer#9138, Hunting wabbits
+15 Feb 2017 02:34:39 : Cipher, general, JustinOPGamer#9138, ;join
+15 Feb 2017 02:34:39 : Cipher, general, Botfuzzy77#2209, Connected channel!
+15 Feb 2017 02:34:48 : Cipher, general, JustinOPGamer#9138, ;search Blue Swede - Hooked on a Feeling
+15 Feb 2017 02:34:50 : Cipher, general, Botfuzzy77#2209, Added Blue Swede - Hooked On A Feeling to the queue
+15 Feb 2017 02:34:50 : Cipher, general, Botfuzzy77#2209, https://www.youtube.com/watch?v=Bo-qweh7nbQ
+15 Feb 2017 02:35:05 : Cipher, general, JustinOPGamer#9138, ;loop 5
+15 Feb 2017 02:35:06 : Cipher, general, Botfuzzy77#2209, Added '*Blue Swede - Hooked On A Feeling*' **5** more times
+15 Feb 2017 02:35:26 : LimitlessMc, botchat, JustinOPGamer#9138, wert look at TARDIS bot in cipher XD
+15 Feb 2017 02:35:32 : LimitlessMc, botchat, JustinOPGamer#9138, >:D
+15 Feb 2017 02:35:40 : Cipher, general, Wertfuzzy77#0274, xD
+15 Feb 2017 02:35:41 : Cipher, general, Wertfuzzy77#0274, gj
+15 Feb 2017 02:35:42 : LimitlessMc, botchat, JustinOPGamer#9138, plan B
+15 Feb 2017 02:35:48 : LimitlessMc, botchat, JustinOPGamer#9138, worked great
+15 Feb 2017 02:35:51 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+15 Feb 2017 02:35:51 : LimitlessMc, botchat, Botfuzzy77#2209, 1/1 votes to skip
+15 Feb 2017 02:35:52 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping "BUSHES OF LOVE" -- Extended Lyric Video by popular vote.
+15 Feb 2017 02:36:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+15 Feb 2017 02:36:15 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Hunting Wabbits - Gordon Goodwin's Big Phat Band by request (Radio Song)
+15 Feb 2017 02:36:17 : LimitlessMc, mainchat, JustinOPGamer#9138, rip
+15 Feb 2017 02:36:18 : LimitlessMc, mainchat, JustinOPGamer#9138, gl
+15 Feb 2017 02:36:32 : LimitlessMc, botchat, Tgamer101#2795, ;search Dragon Ball super
+15 Feb 2017 02:36:32 : LimitlessMc, botchat, Botfuzzy77#2209, Turn off Radio mode first!
+15 Feb 2017 02:36:35 : LimitlessMc, botchat, Tgamer101#2795, lel
+15 Feb 2017 02:36:42 : LimitlessMc, mainchat, JustinOPGamer#9138, ;join
+15 Feb 2017 02:36:43 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;train
+15 Feb 2017 02:36:43 : LimitlessMc, botchat, Botfuzzy77#2209, You *Lost* to a Level 35 **Ledyba** (57% to beat)
+You *Lost* to a Level 50 **Plusle** (40% to beat)
+You *Lost* to a Level 63 **Pichu** (31% to beat)
+You **Beat** a Level 22 **Crobat** for 162 XP (90% to beat)
+You **Beat** a Level 33 **Chesnaught** for 364 XP (60% to beat)
+You **Beat** a Level 22 **Fraxure** for 162 XP (90% to beat)
+You **Beat** a Level 27 **Gulpin** for 244 XP (74% to beat)
+You *Lost* to a Level 64 **Liepard** (31% to beat)
+You *Lost* to a Level 55 **Bergmite** (36% to beat)
+You *Lost* to a Level 51 **Karrablast** (39% to beat)
+You **Beat** a Level 29 **Ivysaur** for 281 XP (68% to beat)
+15 Feb 2017 02:36:43 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 1213 (+ 0) XP
+15 Feb 2017 02:36:53 : LimitlessMc, botchat, Tgamer101#2795, ;train
+15 Feb 2017 02:36:53 : LimitlessMc, mainchat, JustinOPGamer#9138, rip wrong chat
+15 Feb 2017 02:36:58 : LimitlessMc, botchat, Tgamer101#2795, ;train
+15 Feb 2017 02:37:00 : LimitlessMc, botchat, JustinOPGamer#9138, ;join
+15 Feb 2017 02:37:00 : LimitlessMc, botchat, Botfuzzy77#2209, Reconnected channel!
+15 Feb 2017 02:37:01 : LimitlessMc, botchat, Tgamer101#2795, ;train
+15 Feb 2017 02:37:08 : LimitlessMc, botchat, Tgamer101#2795, ;train
+15 Feb 2017 02:37:10 : LimitlessMc, botchat, Tgamer101#2795, ;join
+15 Feb 2017 02:37:10 : LimitlessMc, botchat, Botfuzzy77#2209, Reconnected channel!
+15 Feb 2017 02:37:13 : LimitlessMc, botchat, JustinOPGamer#9138, boooo didnt come to channel
+15 Feb 2017 02:37:15 : LimitlessMc, botchat, Wertfuzzy77#0274, o, I think thats a bug xD
+15 Feb 2017 02:37:17 : LimitlessMc, botchat, Wertfuzzy77#0274, woops
+15 Feb 2017 02:37:23 : LimitlessMc, botchat, Tgamer101#2795, lazy
+15 Feb 2017 02:37:28 : LimitlessMc, botchat, Tgamer101#2795, wut
+15 Feb 2017 02:37:29 : LimitlessMc, botchat, LightBot#4090, Hek
+15 Feb 2017 02:37:31 : LimitlessMc, botchat, Tgamer101#2795, lel
+15 Feb 2017 02:37:32 : LimitlessMc, mainchat, JustinOPGamer#9138, light whats ur bot command for music?
+15 Feb 2017 02:37:34 : LimitlessMc, botchat, Tgamer101#2795, wut
+15 Feb 2017 02:37:34 : LimitlessMc, botchat, LightBot#4090, Hek
+15 Feb 2017 02:37:36 : LimitlessMc, botchat, Tgamer101#2795, wut
+15 Feb 2017 02:37:36 : LimitlessMc, botchat, LightBot#4090, Hek
+15 Feb 2017 02:37:45 : LimitlessMc, botchat, TherminatorX#6644, @Wertfuzzy77 yeah, Cleverbot site changed again
+15 Feb 2017 02:38:15 : LimitlessMc, botchat, TherminatorX#6644, They're trying to get bot makers to pay for access
+15 Feb 2017 02:38:18 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+15 Feb 2017 02:38:21 : LimitlessMc, botchat, Tgamer101#2795, rip
+15 Feb 2017 02:38:23 : LimitlessMc, botchat, Wertfuzzy77#0274, Ill find another AI then
+15 Feb 2017 02:38:27 : LimitlessMc, botchat, Tgamer101#2795, poo
+15 Feb 2017 02:38:36 : LimitlessMc, mainchat, Wertfuzzy77#0274, ... Step 1
+15 Feb 2017 02:38:41 : LimitlessMc, mainchat, Wertfuzzy77#0274, dont try mainchat for cmds
+15 Feb 2017 02:38:44 : LimitlessMc, mainchat, Wertfuzzy77#0274, not gonna work

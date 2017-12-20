@@ -1,0 +1,262 @@
+28 Jan 2017 06:03:18 : Cipher, cala, Wertfuzzy77#0274, also, very adorable
+28 Jan 2017 06:03:18 : Cipher, cala, Wertfuzzy77#0274, Your fault for being so cute, I can't help myself xD
+28 Jan 2017 06:03:18 : Cipher, cala, Calamariela#4119, >:) keep it up
+28 Jan 2017 06:03:32 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokeboss
+28 Jan 2017 06:03:42 : LimitlessMc, mainchat, Alpha Penguin#3869, ;afk
+28 Jan 2017 06:03:46 : LimitlessMc, mainchat, Alpha Penguin#3869, boop  wc
+28 Jan 2017 06:03:50 : LimitlessMc, botchat, Crystal4209#4698, ¯\_(ツ)_/¯
+28 Jan 2017 06:03:55 : LimitlessMc, botchat, Alpha Penguin#3869, (╯°□°）╯︵ ┻━┻
+28 Jan 2017 06:04:01 : LimitlessMc, botchat, Crystal4209#4698, 
+28 Jan 2017 06:04:24 : None, Direct Message with enragednuke, enragednuke#2565, ;debug os.listdir('.')
+28 Jan 2017 06:04:24 : None, Direct Message with enragednuke, Botfuzzy77#2209, ```py
+['.gitignore', 'Redeem', 'Players_backup_hi_nik.json', 'BossImageinsane.jpg', 'Logs', 'small', 'splunkforwarder-6.5.1-f74036626f0c-Linux-i686.tgz', 'Players.json', 'Sync', 'Start_BotFuzzy77.bat', '.gitattributes', 'Music', 'BossImage.jpg', 'README.md', 'OutputFolder', 'Players2.json', 'BossImageeasy.jpg', 'Modules', 'BossImagehard.jpg', 'Botfuzzy77.py', 'MakeDataBase.bat', '.git', 'Cleanup.py', 'Icons', '__pycache__', 'Tournament', 'Util', 'save.json', 'PlayerImage.jpg', 'Logs.', 'Playlists.json', 'BossImagemedium.jpg']
+```
+28 Jan 2017 06:04:35 : None, Direct Message with enragednuke, enragednuke#2565, ;debug os.system('mv Players.json Players2.json')
+28 Jan 2017 06:04:36 : None, Direct Message with enragednuke, Botfuzzy77#2209, ```py
+0
+```
+28 Jan 2017 06:04:37 : None, Direct Message with enragednuke, enragednuke#2565, ;debug os.system('mv Players_backup_hi_nik.json Players.json')
+28 Jan 2017 06:04:37 : None, Direct Message with enragednuke, Botfuzzy77#2209, ```py
+0
+```
+28 Jan 2017 06:04:43 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokeboss
+28 Jan 2017 06:04:43 : LimitlessMc, botchat, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> hard to fight and reveal the boss.
+28 Jan 2017 06:05:09 : LimitlessMc, botchat, enragednuke#2565, ¯\_(ツ)_/¯
+28 Jan 2017 06:05:26 : LimitlessMc, botchat, Alpha Penguin#3869, I OBJECT
+28 Jan 2017 06:05:38 : Cipher, cala, Wertfuzzy77#0274, why 😉
+28 Jan 2017 06:05:47 : LimitlessMc, botchat, Alpha Penguin#3869, ;image phoenix wright objection
+28 Jan 2017 06:05:49 : LimitlessMc, botchat, Botfuzzy77#2209, https://i.ytimg.com/vi/W8QRExBfQhs/hqdefault.jpg
+28 Jan 2017 06:05:57 : None, Direct Message with enragednuke, enragednuke#2565, ;debug bot.send_file(ctx.message.channel, 'Players.json')
+28 Jan 2017 06:05:57 : None, Direct Message with enragednuke, Botfuzzy77#2209, 
+28 Jan 2017 06:05:57 : None, Direct Message with enragednuke, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7ff77a331de0>
+```
+28 Jan 2017 06:05:58 : Cipher, cala, Calamariela#4119, nooooo dont keep it up xD stop
+28 Jan 2017 06:06:15 : Cipher, cala, Wertfuzzy77#0274, hmmmmmmm
+28 Jan 2017 06:06:22 : LimitlessMc, botchat, Alpha Penguin#3869, ;image objection
+28 Jan 2017 06:06:24 : Cipher, cala, Wertfuzzy77#0274, which one do I listen to
+28 Jan 2017 06:06:24 : LimitlessMc, botchat, Botfuzzy77#2209, https://i.ytimg.com/vi/W8QRExBfQhs/hqdefault.jpg
+28 Jan 2017 06:06:33 : LimitlessMc, botchat, Crystal4209#4698, ;image denied
+28 Jan 2017 06:06:34 : LimitlessMc, botchat, Botfuzzy77#2209, http://stlucieappraisal.net/diminished-value-claim-denied/wp-content/uploads/2015/10/www.stlucieappraisal.net_.jpg
+28 Jan 2017 06:06:44 : LimitlessMc, botchat, Alpha Penguin#3869, ;gif objection
+28 Jan 2017 06:06:44 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/the-grinder-fox-tv-the-grinder-l3V0pCVP6BtkYZ8QM
+28 Jan 2017 06:06:51 : LimitlessMc, botchat, Crystal4209#4698, ;gif denied
+28 Jan 2017 06:06:52 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/reactiongifs-mrw-office-xIhGpmuVtuEpi
+28 Jan 2017 06:07:09 : LimitlessMc, botchat, Alpha Penguin#3869, ;gif ace attorney objection
+28 Jan 2017 06:07:10 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/ruby-rose-AO6PbcJWR1JJu
+28 Jan 2017 06:07:12 : Cipher, cala, Calamariela#4119, this is when i would pinch you on the nose and push you xD
+28 Jan 2017 06:07:27 : LimitlessMc, botchat, Crystal4209#4698, ;gif denied
+28 Jan 2017 06:07:27 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/no-denied-food-hHh2lqWFeHYBO
+28 Jan 2017 06:07:32 : Cipher, cala, Wertfuzzy77#0274, well idk if that would have the effect you want it to have
+28 Jan 2017 06:07:38 : Cipher, cala, Wertfuzzy77#0274, sounds kinda adorable
+28 Jan 2017 06:07:51 : Cipher, cala, Calamariela#4119, nah it hurts XD
+28 Jan 2017 06:08:18 : Cipher, cala, Wertfuzzy77#0274, I mean, alot of things you do hurt 😉 doesnt mean thay arent adorable
+28 Jan 2017 06:08:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gif denied
+28 Jan 2017 06:08:30 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/no-denied-food-hHh2lqWFeHYBO
+28 Jan 2017 06:08:33 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gif denied
+28 Jan 2017 06:08:33 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/high-five-denied-DYvroxifyHEmA
+28 Jan 2017 06:09:16 : Cipher, cala, Calamariela#4119, lol i think im pretty strong for a girl. i can take you in a fight
+28 Jan 2017 06:09:17 : None, Direct Message with enragednuke, enragednuke#2565, ;debug urllib.request.urlretrieve('http://www.dylanbowers.com/Players4.json', 'Players4.json')
+28 Jan 2017 06:09:17 : None, Direct Message with enragednuke, Botfuzzy77#2209, ```py
+('Players4.json', <http.client.HTTPMessage object at 0x7ff77a25e7b8>)
+```
+28 Jan 2017 06:09:19 : Unity Of Nirvana, bot_chat, Alpha Penguin#3869, ;server
+28 Jan 2017 06:09:19 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+28 Jan 2017 06:09:19 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 12 players out of 100
+ *Ping*: 139.386 ms
+ *MC Version*: 1.10.2
+28 Jan 2017 06:09:19 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.1
+28 Jan 2017 06:09:20 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, **Players Online**:
+ *ljacoco77, AussieAge, crystal4209, Sabakunokage, Calamariela, AlphaBit, LiBugPony, Timsky, dia123, gamedevtree, DonTheBreton, shypokemonrock11...*
+28 Jan 2017 06:09:21 : LimitlessMc, botchat, Crystal4209#4698, ;gif anime denied
+28 Jan 2017 06:09:22 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/denied-3TXvxkzS6YiOs
+28 Jan 2017 06:09:22 : None, Direct Message with enragednuke, enragednuke#2565, ;debug os.listdir('.')
+28 Jan 2017 06:09:22 : None, Direct Message with enragednuke, Botfuzzy77#2209, ```py
+['.gitignore', 'Redeem', 'BossImageinsane.jpg', 'Logs', 'small', 'splunkforwarder-6.5.1-f74036626f0c-Linux-i686.tgz', 'Players4.json', 'Players.json', 'Sync', 'Start_BotFuzzy77.bat', '.gitattributes', 'Music', 'BossImage.jpg', 'README.md', 'OutputFolder', 'Players2.json', 'BossImageeasy.jpg', 'Modules', 'BossImagehard.jpg', 'Botfuzzy77.py', 'MakeDataBase.bat', '.git', 'Cleanup.py', 'Icons', '__pycache__', 'Tournament', 'Util', 'save.json', 'PlayerImage.jpg', 'Logs.', 'Playlists.json', 'BossImagemedium.jpg']
+```
+28 Jan 2017 06:09:25 : Unity Of Nirvana, bot_chat, Alpha Penguin#3869, oooh
+28 Jan 2017 06:09:27 : Unity Of Nirvana, bot_chat, Alpha Penguin#3869, dia123
+28 Jan 2017 06:09:42 : Unity Of Nirvana, bot_chat, Alpha Penguin#3869, another not so old but old fuk
+28 Jan 2017 06:09:44 : Cipher, cala, Wertfuzzy77#0274, yeah, i believe you, you pretty strong
+28 Jan 2017 06:09:47 : None, Direct Message with enragednuke, enragednuke#2565, ;debug os.system('cp Players.json Players_backup.json')
+28 Jan 2017 06:09:47 : None, Direct Message with enragednuke, Botfuzzy77#2209, ```py
+0
+```
+28 Jan 2017 06:09:51 : None, Direct Message with enragednuke, enragednuke#2565, ;debug os.listdir('.')
+28 Jan 2017 06:09:51 : None, Direct Message with enragednuke, Botfuzzy77#2209, ```py
+['.gitignore', 'Redeem', 'Players_backup.json', 'BossImageinsane.jpg', 'Logs', 'small', 'splunkforwarder-6.5.1-f74036626f0c-Linux-i686.tgz', 'Players4.json', 'Players.json', 'Sync', 'Start_BotFuzzy77.bat', '.gitattributes', 'Music', 'BossImage.jpg', 'README.md', 'OutputFolder', 'Players2.json', 'BossImageeasy.jpg', 'Modules', 'BossImagehard.jpg', 'Botfuzzy77.py', 'MakeDataBase.bat', '.git', 'Cleanup.py', 'Icons', '__pycache__', 'Tournament', 'Util', 'save.json', 'PlayerImage.jpg', 'Logs.', 'Playlists.json', 'BossImagemedium.jpg']
+```
+28 Jan 2017 06:09:55 : Cipher, cala, Wertfuzzy77#0274, but also, I'm not very strong xD
+28 Jan 2017 06:10:03 : LimitlessMc, botchat, Crystal4209#4698, ;gif anime denied
+28 Jan 2017 06:10:03 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/denied-4xKWdVsh220iQ
+28 Jan 2017 06:10:03 : Unity Of Nirvana, bot_chat, Wertfuzzy77#0274, xD
+28 Jan 2017 06:10:11 : Cipher, cala, Calamariela#4119, lol you still overpower me
+28 Jan 2017 06:10:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gif weeb denied
+28 Jan 2017 06:10:30 : None, Direct Message with enragednuke, enragednuke#2565, ;debug os.system('mv Players.json Players2.json')
+28 Jan 2017 06:10:30 : None, Direct Message with enragednuke, Botfuzzy77#2209, ```py
+0
+```
+28 Jan 2017 06:10:30 : None, Direct Message with enragednuke, enragednuke#2565, ;debug os.system('mv Players4.json Players.json')
+28 Jan 2017 06:10:30 : None, Direct Message with enragednuke, Botfuzzy77#2209, ```py
+0
+```
+28 Jan 2017 06:10:33 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gif assassination classroom denied
+28 Jan 2017 06:10:33 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/GbDzGnwDDQ4uY
+28 Jan 2017 06:10:39 : LimitlessMc, botchat, enragednuke#2565, ;pokeboss
+28 Jan 2017 06:10:43 : LimitlessMc, botchat, enragednuke#2565, hep
+28 Jan 2017 06:10:49 : LimitlessMc, botchat, enragednuke#2565, ;level
+28 Jan 2017 06:10:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+28 Jan 2017 06:11:25 : None, Direct Message with enragednuke, enragednuke#2565, ;debug os.system('mv Players.json Players3.json')
+28 Jan 2017 06:11:25 : None, Direct Message with enragednuke, Botfuzzy77#2209, ```py
+0
+```
+28 Jan 2017 06:11:26 : None, Direct Message with enragednuke, enragednuke#2565, ;debug os.system('mv Players2.json Players.json')
+28 Jan 2017 06:11:26 : None, Direct Message with enragednuke, Botfuzzy77#2209, ```py
+0
+```
+28 Jan 2017 06:11:26 : LimitlessMc, botchat, Crystal4209#4698, ;gif assassination classroom
+28 Jan 2017 06:11:27 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/funimation-assassination-classroom-koro-sensei-kI98S4jRaHUQw
+28 Jan 2017 06:11:30 : Cipher, cala, Wertfuzzy77#0274, maybe
+28 Jan 2017 06:11:33 : LimitlessMc, botchat, enragednuke#2565, ;level
+28 Jan 2017 06:11:33 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *enragednuke*
+**Level**: 1
+28 Jan 2017 06:11:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+28 Jan 2017 06:11:34 : LimitlessMc, botchat, Botfuzzy77#2209, **XP**: 0/8
+**Boss Takedowns**: 0
+**Most Dmg in an Attack**: 2
+28 Jan 2017 06:11:35 : LimitlessMc, botchat, enragednuke#2565, 😦
+28 Jan 2017 06:11:37 : LimitlessMc, botchat, Alpha Penguin#3869, lagbot77
+28 Jan 2017 06:11:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokeboss easy
+28 Jan 2017 06:11:50 : LimitlessMc, botchat, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> easy to fight and reveal the boss.
+28 Jan 2017 06:11:51 : LimitlessMc, botchat, Crystal4209#4698, ;gif assassination classroom
+28 Jan 2017 06:11:51 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/funimation-smile-assassination-classroom-lX1xw3VFI7NJK
+28 Jan 2017 06:12:11 : LimitlessMc, botchat, Crystal4209#4698, ;gif assassination classroom
+28 Jan 2017 06:12:12 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/funimation-smile-assassination-classroom-lX1xw3VFI7NJK
+28 Jan 2017 06:12:16 : LimitlessMc, botchat, Crystal4209#4698, ;gif assassination classroom
+28 Jan 2017 06:12:16 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/funimation-smile-assassination-classroom-lX1xw3VFI7NJK
+28 Jan 2017 06:12:18 : LimitlessMc, botchat, Crystal4209#4698, ;gif assassination classroom
+28 Jan 2017 06:12:19 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/funimation-assassination-classroom-koro-sensei-kI98S4jRaHUQw
+28 Jan 2017 06:12:21 : LimitlessMc, botchat, Crystal4209#4698, ;gif assassination classroom
+28 Jan 2017 06:12:21 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/funimation-assassination-classroom-koro-sensei-kI98S4jRaHUQw
+28 Jan 2017 06:12:23 : LimitlessMc, botchat, Crystal4209#4698, ;gif assassination classroom
+28 Jan 2017 06:12:23 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/funimation-smile-assassination-classroom-lX1xw3VFI7NJK
+28 Jan 2017 06:12:27 : LimitlessMc, botchat, Crystal4209#4698, ...
+28 Jan 2017 06:12:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gif assassination classroom fight
+28 Jan 2017 06:12:28 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/episode-8-ZUZXPzBNHe4RW
+28 Jan 2017 06:12:34 : LimitlessMc, botchat, Crystal4209#4698, ;gif assassination classroom denied
+28 Jan 2017 06:12:34 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/form-classroom-assassination-fv3QLuTEiMlyg
+28 Jan 2017 06:12:41 : Cipher, cala, Calamariela#4119, lol remember when i tied you up xD that was funny as hell
+28 Jan 2017 06:12:59 : Cipher, cala, Wertfuzzy77#0274, xD ofc I remember
+28 Jan 2017 06:12:59 : None, Direct Message with enragednuke, enragednuke#2565, ;debug os.listdir('.')
+28 Jan 2017 06:12:59 : None, Direct Message with enragednuke, Botfuzzy77#2209, ```py
+['.gitignore', 'Redeem', 'Players_backup.json', 'BossImageinsane.jpg', 'Logs', 'small', 'splunkforwarder-6.5.1-f74036626f0c-Linux-i686.tgz', 'Players.json', 'Sync', 'Start_BotFuzzy77.bat', '.gitattributes', 'Music', 'BossImage.jpg', 'README.md', 'OutputFolder', 'BossImageeasy.jpg', 'Modules', 'BossImagehard.jpg', 'Botfuzzy77.py', 'MakeDataBase.bat', '.git', 'Cleanup.py', 'Icons', '__pycache__', 'Tournament', 'Util', 'save.json', 'PlayerImage.jpg', 'Logs.', 'Playlists.json', 'BossImagemedium.jpg', 'Players3.json']
+```
+28 Jan 2017 06:13:11 : LimitlessMc, botchat, Crystal4209#4698, ;gif assassination classroom denied
+28 Jan 2017 06:13:11 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/hit-classroom-assassination-FiCLE3ffumzAI
+28 Jan 2017 06:13:12 : LimitlessMc, botchat, Wertfuzzy77#0274, kys
+28 Jan 2017 06:13:23 : Cipher, cala, Calamariela#4119, took you awhile to get out
+28 Jan 2017 06:13:24 : LimitlessMc, botchat, Wertfuzzy77#0274, lewd
+28 Jan 2017 06:13:25 : LimitlessMc, botchat, Alpha Penguin#3869, lEWD
+28 Jan 2017 06:13:26 : None, Direct Message with enragednuke, enragednuke#2565, ;debug bot.send_file(ctx.message.channel, 'save.json')
+28 Jan 2017 06:13:26 : None, Direct Message with enragednuke, Botfuzzy77#2209, 
+28 Jan 2017 06:13:26 : None, Direct Message with enragednuke, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7ff77a1a0218>
+```
+28 Jan 2017 06:13:29 : LimitlessMc, botchat, Alpha Penguin#3869, LEWDDD
+28 Jan 2017 06:14:00 : LimitlessMc, botchat, Crystal4209#4698, ;gif assassination classroom denied
+28 Jan 2017 06:14:00 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/GbDzGnwDDQ4uY
+28 Jan 2017 06:14:02 : Cipher, cala, Wertfuzzy77#0274, I mean, You wouldnt have gotten out of yours if i didnt help you 😉
+28 Jan 2017 06:14:54 : LimitlessMc, botchat, Crystal4209#4698, ;gif fairy tail
+28 Jan 2017 06:14:54 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/cute-kawaii-15TLJYQ2nIBaM
+28 Jan 2017 06:15:17 : Cipher, cala, Calamariela#4119, >:) hush
+28 Jan 2017 06:15:24 : Cipher, cala, Wertfuzzy77#0274, xD
+28 Jan 2017 06:15:31 : Cipher, cala, Wertfuzzy77#0274, like I said, too easy to tease 😛
+28 Jan 2017 06:15:35 : None, Direct Message with enragednuke, enragednuke#2565, ;debug urllib.request.urlretrieve('http://www.dylanbowers.com/Players4.json', 'Players4.json')
+28 Jan 2017 06:15:35 : None, Direct Message with enragednuke, Botfuzzy77#2209, ```py
+('Players4.json', <http.client.HTTPMessage object at 0x7ff77a1956d8>)
+```
+28 Jan 2017 06:15:40 : None, Direct Message with enragednuke, enragednuke#2565, ;debug os.listdir('.')
+28 Jan 2017 06:15:40 : None, Direct Message with enragednuke, Botfuzzy77#2209, ```py
+['.gitignore', 'Redeem', 'Players_backup.json', 'BossImageinsane.jpg', 'Logs', 'small', 'splunkforwarder-6.5.1-f74036626f0c-Linux-i686.tgz', 'Players4.json', 'Players.json', 'Sync', 'Start_BotFuzzy77.bat', '.gitattributes', 'Music', 'BossImage.jpg', 'README.md', 'OutputFolder', 'BossImageeasy.jpg', 'Modules', 'BossImagehard.jpg', 'Botfuzzy77.py', 'MakeDataBase.bat', '.git', 'Cleanup.py', 'Icons', '__pycache__', 'Tournament', 'Util', 'save.json', 'PlayerImage.jpg', 'Logs.', 'Playlists.json', 'BossImagemedium.jpg', 'Players3.json']
+```
+28 Jan 2017 06:15:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gif fairy tail
+28 Jan 2017 06:15:50 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/fairy-tail-angry-fvcrSYkOmtP8c
+28 Jan 2017 06:16:03 : None, Direct Message with enragednuke, enragednuke#2565, ;debug os.send_file(ctx.message.channel, 'Botfuzzy77.py')
+28 Jan 2017 06:16:03 : None, Direct Message with enragednuke, Botfuzzy77#2209, ```py
+AttributeError: module 'os' has no attribute 'send_file'
+```
+28 Jan 2017 06:16:09 : None, Direct Message with enragednuke, enragednuke#2565, ;debug bot.send_file(ctx.message.channel, 'Botfuzzy77.py')
+28 Jan 2017 06:16:10 : None, Direct Message with enragednuke, Botfuzzy77#2209, 
+28 Jan 2017 06:16:10 : None, Direct Message with enragednuke, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7ff77a18d3e8>
+```
+28 Jan 2017 06:16:20 : Cipher, cala, Calamariela#4119, yeah but so are you <#
+28 Jan 2017 06:16:23 : Cipher, cala, Calamariela#4119, xd
+28 Jan 2017 06:16:25 : Cipher, cala, Calamariela#4119, ❤
+28 Jan 2017 06:16:27 : Cipher, cala, Calamariela#4119, hehe
+28 Jan 2017 06:16:28 : Cipher, cala, Calamariela#4119, there
+28 Jan 2017 06:16:33 : Cipher, cala, Wertfuzzy77#0274, xD
+28 Jan 2017 06:16:40 : Cipher, cala, Wertfuzzy77#0274, I win, didnt send the first heart
+28 Jan 2017 06:16:43 : Cipher, cala, Wertfuzzy77#0274, ❤
+28 Jan 2017 06:16:52 : LimitlessMc, botchat, Crystal4209#4698, ;gif fairy tail fight
+28 Jan 2017 06:16:52 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/erza-9F7rQwvVCCYCc
+28 Jan 2017 06:17:08 : Cipher, cala, Calamariela#4119, you wanted me first sooooo
+28 Jan 2017 06:17:09 : LimitlessMc, botchat, Crystal4209#4698, ;gif fairy tail haopy
+28 Jan 2017 06:17:09 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/fairy-tail-BY2SKxKbgZtsc
+28 Jan 2017 06:17:10 : Cipher, cala, Calamariela#4119, xD
+28 Jan 2017 06:17:22 : LimitlessMc, botchat, Crystal4209#4698, ;fairy tail happy
+28 Jan 2017 06:17:36 : LimitlessMc, botchat, Crystal4209#4698, ;gif fairy tail gray
+28 Jan 2017 06:17:36 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/fairy-tail-anime-gif-LCmwH3U7y4uRi
+28 Jan 2017 06:18:03 : Cipher, cala, Wertfuzzy77#0274, If you take a look at my wording, I never actually saiddd that I wanted you 😉 you just infered it
+28 Jan 2017 06:18:10 : LimitlessMc, botchat, Crystal4209#4698, ;gif fairy tail denied
+28 Jan 2017 06:18:10 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/fairy-tail-abiwCe9MZVLoI
+28 Jan 2017 06:18:24 : Cipher, cala, Calamariela#4119, 🙂
+28 Jan 2017 06:18:29 : Cipher, cala, Wertfuzzy77#0274, xD
+28 Jan 2017 06:18:30 : LimitlessMc, botchat, Crystal4209#4698, ;gif fairy tail denied
+28 Jan 2017 06:18:30 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/fairy-tail-147RQcIbK4IfAI
+28 Jan 2017 06:18:40 : Cipher, cala, Wertfuzzy77#0274, But yes, I do infact still want you
+28 Jan 2017 06:18:44 : Cipher, cala, Wertfuzzy77#0274, happy
+28 Jan 2017 06:18:47 : Cipher, cala, Wertfuzzy77#0274, ya nub
+28 Jan 2017 06:18:48 : LimitlessMc, botchat, Crystal4209#4698, ;gif fairy tail denied
+28 Jan 2017 06:18:48 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/fairy-tail-12iXl1LJR7rnos
+28 Jan 2017 06:18:58 : LimitlessMc, botchat, Crystal4209#4698, ;gif fairy tail denied
+28 Jan 2017 06:18:58 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/fairy-tail-gif-86e1MEl5PAZKU
+28 Jan 2017 06:19:09 : The Wild Weebs, general, Wertfuzzy77#0274, http://giphy.com/gifs/fairy-tail-gif-86e1MEl5PAZKU
+28 Jan 2017 06:19:11 : Cipher, cala, Calamariela#4119, hmph
+28 Jan 2017 06:19:12 : The Wild Weebs, general, Wertfuzzy77#0274, @KR Shaman
+28 Jan 2017 06:19:17 : Cipher, cala, Calamariela#4119, hey
+28 Jan 2017 06:19:21 : LimitlessMc, botchat, Crystal4209#4698, ;gif fairy tail denied
+28 Jan 2017 06:19:21 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/fairy-tail-abiwCe9MZVLoI
+28 Jan 2017 06:19:22 : Cipher, cala, Calamariela#4119, what are you doing?
+28 Jan 2017 06:19:30 : None, Direct Message with enragednuke, enragednuke#2565, ;debug os.listdir('.')
+28 Jan 2017 06:19:30 : None, Direct Message with enragednuke, Botfuzzy77#2209, ```py
+['.gitignore', 'Redeem', 'Players_backup.json', 'BossImageinsane.jpg', 'Logs', 'small', 'splunkforwarder-6.5.1-f74036626f0c-Linux-i686.tgz', 'Players4.json', 'Players.json', 'Sync', 'Start_BotFuzzy77.bat', '.gitattributes', 'Music', 'BossImage.jpg', 'README.md', 'OutputFolder', 'BossImageeasy.jpg', 'Modules', 'BossImagehard.jpg', 'Botfuzzy77.py', 'MakeDataBase.bat', '.git', 'Cleanup.py', 'Icons', '__pycache__', 'Tournament', 'Util', 'save.json', 'PlayerImage.jpg', 'Logs.', 'Playlists.json', 'BossImagemedium.jpg', 'Players3.json']
+```
+28 Jan 2017 06:19:30 : LimitlessMc, botchat, Crystal4209#4698, ;image fairy tail
+28 Jan 2017 06:19:32 : LimitlessMc, botchat, Botfuzzy77#2209, http://digispectra.net/wp-content/uploads/2016/06/fairytale_1600x900_0.jpg
+28 Jan 2017 06:19:45 : Cipher, cala, Wertfuzzy77#0274, nothing really
+28 Jan 2017 06:19:46 : LimitlessMc, botchat, Crystal4209#4698, ;image fairy tail
+28 Jan 2017 06:19:47 : LimitlessMc, botchat, Botfuzzy77#2209, http://digispectra.net/wp-content/uploads/2016/06/fairytale_1600x900_0.jpg
+28 Jan 2017 06:19:51 : None, Direct Message with enragednuke, enragednuke#2565, ;debug os.system('mv Players.json Players2.json')
+28 Jan 2017 06:19:51 : None, Direct Message with enragednuke, Botfuzzy77#2209, ```py
+0
+```
+28 Jan 2017 06:19:52 : None, Direct Message with enragednuke, enragednuke#2565, ;debug os.system('mv Players4.json Players.json')
+28 Jan 2017 06:19:52 : None, Direct Message with enragednuke, Botfuzzy77#2209, ```py
+0
+```
+28 Jan 2017 06:19:55 : LimitlessMc, botchat, Crystal4209#4698, ;image juvia
+28 Jan 2017 06:19:56 : LimitlessMc, botchat, Botfuzzy77#2209, https://dailyanimeart.files.wordpress.com/2016/08/fairy-tail-499-juvia-by-sharknex.jpg
+28 Jan 2017 06:19:58 : Cipher, cala, Calamariela#4119, lair
+28 Jan 2017 06:19:59 : Cipher, cala, Wertfuzzy77#0274, talking to you, listening to music, watching gifs in limitless botchat
+28 Jan 2017 06:20:03 : LimitlessMc, botchat, enragednuke#2565, ;pokeboss
+28 Jan 2017 06:20:05 : LimitlessMc, botchat, enragednuke#2565, ;level
+28 Jan 2017 06:20:06 : LimitlessMc, botchat, enragednuke#2565, q_q
+28 Jan 2017 06:20:08 : Cipher, cala, Calamariela#4119, lol thank you
+28 Jan 2017 06:20:15 : Cipher, cala, Wertfuzzy77#0274, xD
+28 Jan 2017 06:20:17 : LimitlessMc, botchat, Crystal4209#4698, xD
+28 Jan 2017 06:20:36 : LimitlessMc, botchat, Crystal4209#4698, ;image gray
+28 Jan 2017 06:20:37 : LimitlessMc, botchat, Botfuzzy77#2209, http://www.solidbackgrounds.com/images/2560x1440/2560x1440-gray-solid-color-background.jpg

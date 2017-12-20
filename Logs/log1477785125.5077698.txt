@@ -1,0 +1,487 @@
+29 Oct 2016 23:52:08 : The Wild Weebs, weeb, enragednuke#2565, SHUTDOWN
+29 Oct 2016 23:56:59 : Team Harmony, ha_vault, Skyd#9935, Well when my internet is working I'll be on
+30 Oct 2016 00:13:15 : LimitlessMc, botchat, Lightning#6734, ;luck
+30 Oct 2016 00:13:16 : LimitlessMc, botchat, Botfuzzy77#2209, Lightning's luck is 94.13 out of 100, which is **AMAZING**
+30 Oct 2016 00:24:51 : LimitlessMc, mainchat, yeetnigga#4208, niggers
+30 Oct 2016 00:24:51 : LimitlessMc, mainchat, yeetnigga#4208, niggers
+30 Oct 2016 00:24:52 : LimitlessMc, mainchat, yeetnigga#4208, niggers
+30 Oct 2016 00:24:52 : LimitlessMc, mainchat, yeetnigga#4208, niggers
+30 Oct 2016 00:24:52 : LimitlessMc, mainchat, yeetnigga#4208, niggers
+30 Oct 2016 00:24:52 : LimitlessMc, mainchat, yeetnigga#4208, niggers
+30 Oct 2016 00:24:53 : LimitlessMc, mainchat, yeetnigga#4208, niggers
+30 Oct 2016 00:24:53 : LimitlessMc, mainchat, yeetnigga#4208, niggers
+30 Oct 2016 00:24:53 : LimitlessMc, mainchat, yeetnigga#4208, niggers
+30 Oct 2016 00:24:54 : LimitlessMc, mainchat, yeetnigga#4208, niggers
+30 Oct 2016 00:25:01 : LimitlessMc, mainchat, yeetnigga#4208, niggers
+30 Oct 2016 00:25:01 : LimitlessMc, mainchat, yeetnigga#4208, niggers
+30 Oct 2016 00:25:02 : LimitlessMc, mainchat, yeetnigga#4208, niggers
+30 Oct 2016 00:25:02 : LimitlessMc, mainchat, yeetnigga#4208, niggers
+30 Oct 2016 00:25:02 : LimitlessMc, mainchat, yeetnigga#4208, niggers
+30 Oct 2016 00:25:02 : LimitlessMc, mainchat, yeetnigga#4208, niggers
+30 Oct 2016 00:36:56 : The Wild Weebs, weeb, Wertfuzzy77#0274, hello
+30 Oct 2016 00:36:56 : The Wild Weebs, weeb, Botfuzzy77#2209, *From The Other Side*
+30 Oct 2016 00:37:07 : LimitlessMc, mainchat, crystal4209#4698, I don't get what your saying jay
+30 Oct 2016 00:37:33 : The Wild Weebs, general, Wertfuzzy77#0274, ;debug bot.say("?level")
+30 Oct 2016 00:37:34 : The Wild Weebs, general, Botfuzzy77#2209, ?level
+30 Oct 2016 00:37:34 : The Wild Weebs, general, enragedrobo#6009, **:up: | Level Up!**
+30 Oct 2016 00:37:34 : The Wild Weebs, general, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x000001E6E9F2E748>
+```
+30 Oct 2016 00:37:34 : The Wild Weebs, general, enragedrobo#6009, 
+30 Oct 2016 00:37:34 : The Wild Weebs, general, enragedrobo#6009, :newspaper: | **Botfuzzy77's Level Card**
+30 Oct 2016 00:37:34 : The Wild Weebs, general, enragedrobo#6009, 
+30 Oct 2016 00:37:43 : The Wild Weebs, general, Wertfuzzy77#0274, ?train
+30 Oct 2016 00:37:44 : The Wild Weebs, general, enragedrobo#6009, You begin training...
+
+You didn't benefit much from basic training...
+
+You begin fighting some monsters in the forest...
+You *beat* a Lv. **13** **Soldier** (EXP: +**13**) (Chance: **47.531%**)
+You *beat* a Lv. **13** **Peon** (EXP: +**3.25**) (Chance: **100%**)
+You *beat* a Lv. **13** **Peon** (EXP: +**3.25**) (Chance: **100%**)
+
+You gained **127** XP!
+30 Oct 2016 00:37:55 : The Wild Weebs, general, Wertfuzzy77#0274, ;debug bot.say("?train")
+30 Oct 2016 00:37:55 : The Wild Weebs, general, Botfuzzy77#2209, ?train
+30 Oct 2016 00:37:55 : The Wild Weebs, general, enragedrobo#6009, You are still too tired to train again, try again in 13 minutes.
+30 Oct 2016 00:37:55 : The Wild Weebs, general, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x000001E6E9F3A048>
+```
+30 Oct 2016 00:38:05 : The Wild Weebs, general, Wertfuzzy77#0274, ?boss
+30 Oct 2016 00:38:09 : The Wild Weebs, general, Wertfuzzy77#0274, ?boss help
+30 Oct 2016 00:38:09 : The Wild Weebs, general, enragedrobo#6009, Attacks must be a ten-character string consisting of A, D, S, B, E, and F (attack, defend, savage, block, execute, flee)
+30 Oct 2016 00:38:43 : LimitlessMc, mainchat, apefar02#4440, hello
+30 Oct 2016 00:38:43 : LimitlessMc, mainchat, Botfuzzy77#2209, *From The Other Side*
+30 Oct 2016 00:39:05 : LimitlessMc, mainchat, apefar02#4440, xD
+30 Oct 2016 00:41:14 : The Wild Weebs, general, Wertfuzzy77#0274, ?boss DBFEDFSBE
+30 Oct 2016 00:41:14 : The Wild Weebs, general, enragedrobo#6009, Attacks must be a ten-character string consisting of A, D, S, B, E, and F (attack, defend, savage, block, execute, flee)
+30 Oct 2016 00:41:44 : The Wild Weebs, general, enragednuke#2565, 
+30 Oct 2016 00:42:24 : The Wild Weebs, general, Wertfuzzy77#0274, ?boss BAEEASFSAD
+30 Oct 2016 00:42:24 : The Wild Weebs, general, enragedrobo#6009, A **Venomancer** stands before you...
+Health: 1.0% (909 / 87059)
+
+Your moves were... :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :x: :white_check_mark:
+You deal **334** damage to the boss!
+30 Oct 2016 00:43:16 : The Wild Weebs, general, Wertfuzzy77#0274, ?level
+30 Oct 2016 00:43:16 : The Wild Weebs, general, enragedrobo#6009, :newspaper: | **Wertfuzzy77's Level Card**
+30 Oct 2016 00:43:16 : The Wild Weebs, general, enragedrobo#6009, 
+30 Oct 2016 00:43:20 : The Wild Weebs, general, Wertfuzzy77#0274, ?gamble 340
+30 Oct 2016 00:43:20 : The Wild Weebs, general, enragedrobo#6009, You feel the dark magic choke you. You do not dare try again for **2 minutes**
+30 Oct 2016 00:43:23 : The Wild Weebs, general, Wertfuzzy77#0274, ?train
+30 Oct 2016 00:43:23 : The Wild Weebs, general, enragedrobo#6009, You are still too tired to train again, try again in 54 minutes.
+30 Oct 2016 00:43:40 : The Wild Weebs, general, Wertfuzzy77#0274, ?levelhelp
+30 Oct 2016 00:43:40 : The Wild Weebs, general, enragedrobo#6009, Welcome to enragedrobo's **LevelUP** game!
+
+`level` - Display a card containing your LevelUP information!
+`train` - Unlocks at level **5**. Gives a boost in XP, can be very high if you are lucky. 1 hour cooldown.
+`gamble <amount>` - Gamble a certain amount of XP for a chance at glorious prizes!
+`pot <amount>` - Open a pot for an amount of XP. The lowest roll pays the highest!
+`grace` - Shows the remaining time on the Grace of Light!
+`color <mode> <r> <g> <b>` - Set the color for your `xp` or `text`
+`lookup <player>` - Use this command with an @ mention to see that person's LevelUP data!
+`boss <attack>` - Fight a powerful foe with friends!
+30 Oct 2016 00:43:51 : LimitlessMc, mainchat, Lightning#6734, goodbye.
+30 Oct 2016 00:44:01 : The Wild Weebs, general, Wertfuzzy77#0274, ?pot
+30 Oct 2016 00:44:03 : The Wild Weebs, general, Wertfuzzy77#0274, ?pot 5
+30 Oct 2016 00:44:03 : The Wild Weebs, general, enragedrobo#6009, **Wertfuzzy77** has opened a pot of **5**
+Type 'in' to join! You have 20 seconds to join.
+30 Oct 2016 00:44:04 : LimitlessMc, mainchat, Lightning#6734, whoever that was with the spamming.
+30 Oct 2016 00:44:19 : The Wild Weebs, general, enragednuke#2565, in
+30 Oct 2016 00:44:19 : The Wild Weebs, general, enragedrobo#6009, Player @dankdankdankdankdankdankdankdank registered
+30 Oct 2016 00:44:22 : The Wild Weebs, general, Wertfuzzy77#0274, in
+30 Oct 2016 00:44:22 : The Wild Weebs, general, enragedrobo#6009, Player @Wertfuzzy77 registered
+30 Oct 2016 00:44:27 : The Wild Weebs, general, enragedrobo#6009, **Beginning the pot...**
+Reward: **5** XP
+
+@dankdankdankdankdankdankdankdank has rolled **1127**
+@Wertfuzzy77 has rolled **2696**
+
+Winner: @Wertfuzzy77
+Loser: @dankdankdankdankdankdankdankdank
+30 Oct 2016 00:44:39 : The Wild Weebs, general, Wertfuzzy77#0274, ?pot 200
+30 Oct 2016 00:44:39 : The Wild Weebs, general, enragedrobo#6009, **Wertfuzzy77** has opened a pot of **200**
+Type 'in' to join! You have 20 seconds to join.
+30 Oct 2016 00:44:49 : The Wild Weebs, general, Wertfuzzy77#0274, ?level
+30 Oct 2016 00:44:49 : The Wild Weebs, general, enragedrobo#6009, :newspaper: | **Wertfuzzy77's Level Card**
+30 Oct 2016 00:44:49 : The Wild Weebs, general, enragedrobo#6009, 
+30 Oct 2016 00:44:59 : The Wild Weebs, general, enragedrobo#6009, Sorry, pots require at least 2 players.
+30 Oct 2016 00:45:24 : The Wild Weebs, general, Wertfuzzy77#0274, ?level
+30 Oct 2016 00:45:24 : The Wild Weebs, general, enragedrobo#6009, :newspaper: | **Wertfuzzy77's Level Card**
+30 Oct 2016 00:45:24 : The Wild Weebs, general, enragedrobo#6009, 
+30 Oct 2016 00:46:47 : The Wild Weebs, general, Wertfuzzy77#0274, ?boss
+30 Oct 2016 00:46:51 : The Wild Weebs, general, Wertfuzzy77#0274, ?boss FEDFSAEDDF
+30 Oct 2016 00:46:51 : The Wild Weebs, general, enragedrobo#6009, The corpse of Venomancer still lies, rotting away...
+(Respawn in 238 minutes)
+30 Oct 2016 00:49:49 : Team Harmony, ha_vault, D3NSH1N#8702, rip
+30 Oct 2016 01:01:01 : LimitlessMc, botchat, crystal4209#4698, ;server
+30 Oct 2016 01:01:03 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: 23.111.129.82
+30 Oct 2016 01:01:03 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 19 players out of 200
+ *Ping*: 314.722 ms
+ *MC Version*: 1.10.2
+30 Oct 2016 01:01:03 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *Bakafish, dubbleddash, LegDay, dinter66, Antoniololol, MasterGamer587, lighteninglex, Fiodor, JustTangoxX, ryan10000, SillyDillyPickle, FearlessFalconX...*
+30 Oct 2016 01:01:54 : LimitlessMc, mainchat, crystal4209#4698, Hello
+30 Oct 2016 01:01:56 : LimitlessMc, mainchat, Botfuzzy77#2209, *From The Other Side*
+30 Oct 2016 01:03:19 : The Wild Weebs, general, Wertfuzzy77#0274, ?train
+30 Oct 2016 01:03:19 : The Wild Weebs, general, enragedrobo#6009, You are still too tired to train again, try again in 34 minutes.
+30 Oct 2016 01:05:17 : LimitlessMc, mainchat, crystal4209#4698, Actually I will be on in a minute
+30 Oct 2016 01:12:00 : The Wild Weebs, general, enragednuke#2565, =summary
+30 Oct 2016 01:12:14 : The Wild Weebs, general, enragednuke#2565, =level
+30 Oct 2016 01:12:14 : The Wild Weebs, general, enragedrobo_test#0986, :first_place: | **enragednuke's Level Card**
+30 Oct 2016 01:12:14 : The Wild Weebs, general, enragedrobo_test#0986, 
+30 Oct 2016 01:12:14 : The Wild Weebs, general, enragedrobo_test#0986, The **Grace of Light** lingers at your shoulder, eager to await your **prestige** (you are eligible to prestige with `?prestige`)
+30 Oct 2016 01:12:16 : The Wild Weebs, general, enragednuke#2565, =summary
+30 Oct 2016 01:12:33 : The Wild Weebs, general, enragednuke#2565, =reload level
+30 Oct 2016 01:12:34 : The Wild Weebs, general, enragedrobo_test#0986, Now attempting to reload `modules.level`...
+30 Oct 2016 01:12:34 : The Wild Weebs, general, enragedrobo_test#0986, Reloaded `modules.level` successfully
+30 Oct 2016 01:12:35 : The Wild Weebs, general, enragednuke#2565, =summary
+30 Oct 2016 01:13:49 : The Wild Weebs, general, enragednuke#2565, buh
+30 Oct 2016 01:13:50 : The Wild Weebs, general, enragednuke#2565, =summaryy
+30 Oct 2016 01:13:56 : The Wild Weebs, general, enragednuke#2565, =summary
+30 Oct 2016 01:14:09 : The Wild Weebs, general, enragednuke#2565, =reload level
+30 Oct 2016 01:14:09 : The Wild Weebs, general, enragedrobo_test#0986, Now attempting to reload `modules.level`...
+30 Oct 2016 01:14:10 : The Wild Weebs, general, enragedrobo_test#0986, Reloaded `modules.level` successfully
+30 Oct 2016 01:14:11 : The Wild Weebs, general, enragednuke#2565, =summaryy
+30 Oct 2016 01:14:14 : The Wild Weebs, general, enragednuke#2565, =summary
+30 Oct 2016 01:14:32 : The Wild Weebs, general, enragednuke#2565, =reload level
+30 Oct 2016 01:14:32 : The Wild Weebs, general, enragedrobo_test#0986, Now attempting to reload `modules.level`...
+30 Oct 2016 01:14:32 : The Wild Weebs, general, enragedrobo_test#0986, Reloaded `modules.level` successfully
+30 Oct 2016 01:14:34 : The Wild Weebs, general, enragednuke#2565, =summary
+30 Oct 2016 01:14:34 : The Wild Weebs, general, enragedrobo_test#0986, @dankdankdankdankdankdankdankdank
+
+**Level 33** (12363 EXP)
+Gamble: **0** seconds
+Boss: **0** seconds
+Train: **0** minutes
+Grace: **0** minutes
+30 Oct 2016 01:16:30 : The Wild Weebs, general, enragednuke#2565, =reload
+30 Oct 2016 01:16:30 : The Wild Weebs, general, enragedrobo_test#0986, Please note `reload` is now a command to reload all library code (non-main). To restart the bot entirely or to reload the **botconfig** module, you should now use `relog`
+30 Oct 2016 01:16:30 : The Wild Weebs, general, enragedrobo_test#0986, **6** modules reloaded. **0** errors in loading.
+30 Oct 2016 01:16:36 : The Wild Weebs, general, enragednuke#2565, =summary
+30 Oct 2016 01:16:52 : The Wild Weebs, general, enragednuke#2565, =reload
+30 Oct 2016 01:16:52 : The Wild Weebs, general, enragedrobo_test#0986, Please note `reload` is now a command to reload all library code (non-main). To restart the bot entirely or to reload the **botconfig** module, you should now use `relog`
+30 Oct 2016 01:16:52 : The Wild Weebs, general, enragedrobo_test#0986, **6** modules reloaded. **0** errors in loading.
+30 Oct 2016 01:16:55 : The Wild Weebs, general, enragednuke#2565, =summary
+30 Oct 2016 01:16:55 : The Wild Weebs, general, enragedrobo_test#0986, @dankdankdankdankdankdankdankdank
+
+**Level 33** (12463 EXP)
+Gamble: **Up!**
+Boss: **Up!**
+Train: **Up!**
+Grace: **Up!**
+30 Oct 2016 01:16:59 : The Wild Weebs, general, enragednuke#2565, =train
+30 Oct 2016 01:16:59 : The Wild Weebs, general, enragedrobo_test#0986, You begin training...
+
+You didn't benefit much from basic training...
+
+You begin fighting some monsters in the forest...
+You *lost* to a Lv. **81** **Soldier** (Chance: **23.554%**)
+You *lost* to a Lv. **48** **Captain** (Chance: **37.934%**)
+You *beat* a Lv. **45** **Peon** (EXP: +**56.25**) (Chance: **100%**)
+You *lost* to a Lv. **41** **Captain** (Chance: **39.412%**)
+You *lost* to a Lv. **67** **Soldier** (Chance: **36.731%**)
+You *beat* a Lv. **45** **Captain** (EXP: +**281.25**) (Chance: **38.678%**)
+
+You gained **2317** XP!
+30 Oct 2016 01:17:04 : The Wild Weebs, general, enragednuke#2565, =summary
+30 Oct 2016 01:17:05 : The Wild Weebs, general, enragedrobo_test#0986, @dankdankdankdankdankdankdankdank
+
+**Level 33** (14830 EXP)
+Gamble: **Up!**
+Boss: **Up!**
+Train: **Up!**
+Grace: **Up!**
+30 Oct 2016 01:17:38 : The Wild Weebs, general, enragednuke#2565, =reload
+30 Oct 2016 01:17:38 : The Wild Weebs, general, enragedrobo_test#0986, Please note `reload` is now a command to reload all library code (non-main). To restart the bot entirely or to reload the **botconfig** module, you should now use `relog`
+30 Oct 2016 01:17:38 : The Wild Weebs, general, enragedrobo_test#0986, **6** modules reloaded. **0** errors in loading.
+30 Oct 2016 01:17:40 : The Wild Weebs, general, enragednuke#2565, =summaryy
+30 Oct 2016 01:17:43 : The Wild Weebs, general, enragednuke#2565, =summary
+30 Oct 2016 01:17:44 : The Wild Weebs, general, enragedrobo_test#0986, @dankdankdankdankdankdankdankdank
+
+**Level 33** (14905 EXP)
+Gamble: **Up!**
+Boss: **Up!**
+Train: **Up!**
+Grace: **Up!**
+30 Oct 2016 01:17:46 : The Wild Weebs, general, enragednuke#2565, =train
+30 Oct 2016 01:17:46 : The Wild Weebs, general, enragedrobo_test#0986, You begin training...
+
+You dodge a quick foe (Chance: **50.0**%)
+Your blade feels swifter than before (Chance: **16.667**%)
+
+You begin fighting some monsters in the forest...
+You *lost* to a Lv. **19** **Soldier** (Chance: **85.996%**)
+You *lost* to a Lv. **21** **King** (Chance: **3.822%**)
+You *beat* a Lv. **34** **Soldier** (EXP: +**646.0**) (Chance: **49.989%**)
+You *beat* a Lv. **51** **Soldier** (EXP: +**968.9999999999999**) (Chance: **46.281%**)
+You *lost* to a Lv. **44** **Soldier** (Chance: **48.611%**)
+You *lost* to a Lv. **87** **General** (Chance: **8.264%**)
+You *lost* to a Lv. **95** **King** (Chance: **0.294%**)
+You *lost* to a Lv. **29** **Captain** (Chance: **42.351%**)
+You *beat* a Lv. **77** **Peon** (EXP: +**365.74999999999994**) (Chance: **100%**)
+You *beat* a Lv. **29** **General** (EXP: +**1102.0**) (Chance: **26.469%**)
+
+You gained **10606** XP!
+30 Oct 2016 01:18:01 : The Wild Weebs, general, enragednuke#2565, =summary
+30 Oct 2016 01:18:01 : The Wild Weebs, general, enragedrobo_test#0986, **:up: | Level Up!**
+30 Oct 2016 01:18:02 : The Wild Weebs, general, enragedrobo_test#0986, 
+30 Oct 2016 01:18:02 : The Wild Weebs, general, enragedrobo_test#0986, @dankdankdankdankdankdankdankdank
+
+**Level 34** (5333 EXP)
+Gamble: **Up!**
+Boss: **Up!**
+Train: **119** minutes
+Grace: **Up!**
+30 Oct 2016 01:18:12 : The Wild Weebs, general, enragednuke#2565, =gamble 1000
+30 Oct 2016 01:18:12 : The Wild Weebs, general, enragedrobo_test#0986, You need to offer at least one eighth of your level (2801.25)
+30 Oct 2016 01:18:15 : The Wild Weebs, general, enragednuke#2565, =gamble 2802
+30 Oct 2016 01:18:15 : The Wild Weebs, general, enragedrobo_test#0986, You would have lost offering, but the Grace of Light has saved it. You cannot be saved for another two hours.
+30 Oct 2016 01:18:18 : The Wild Weebs, general, Ryan#3332, =train
+30 Oct 2016 01:18:18 : The Wild Weebs, general, enragedrobo_test#0986, You need to be **level 5** to use this!
+30 Oct 2016 01:18:21 : The Wild Weebs, general, enragednuke#2565, =summary
+30 Oct 2016 01:18:25 : The Wild Weebs, general, Ryan#3332, =level
+30 Oct 2016 01:18:26 : The Wild Weebs, general, enragedrobo_test#0986, :newspaper: | **Ryan's Level Card**
+30 Oct 2016 01:18:26 : The Wild Weebs, general, enragedrobo_test#0986, 
+30 Oct 2016 01:18:59 : The Wild Weebs, general, enragednuke#2565, =reload
+30 Oct 2016 01:18:59 : The Wild Weebs, general, enragedrobo_test#0986, Please note `reload` is now a command to reload all library code (non-main). To restart the bot entirely or to reload the **botconfig** module, you should now use `relog`
+30 Oct 2016 01:18:59 : The Wild Weebs, general, enragedrobo_test#0986, **6** modules reloaded. **0** errors in loading.
+30 Oct 2016 01:19:01 : The Wild Weebs, general, enragednuke#2565, =summary
+30 Oct 2016 01:19:01 : The Wild Weebs, general, enragedrobo_test#0986, @dankdankdankdankdankdankdankdank
+
+**Level 34** (5458 EXP)
+Gamble: **Up!**
+Boss: **Up!**
+Train: **Up!**
+Grace: **Up!**
+30 Oct 2016 01:19:04 : The Wild Weebs, general, enragednuke#2565, =train
+30 Oct 2016 01:19:04 : The Wild Weebs, general, enragedrobo_test#0986, You begin training...
+
+You didn't benefit much from basic training...
+
+You begin fighting some monsters in the forest...
+You *lost* to a Lv. **89** **General** (Chance: **8.645%**)
+You *beat* a Lv. **27** **Peon** (EXP: +**33.75**) (Chance: **100%**)
+You *lost* to a Lv. **38** **Captain** (Chance: **39.862%**)
+You *lost* to a Lv. **18** **General** (Chance: **47.145%**)
+You *lost* to a Lv. **28** **Soldier** (Chance: **56.228%**)
+
+You gained **2073** XP!
+30 Oct 2016 01:19:06 : The Wild Weebs, general, enragednuke#2565, =summary
+30 Oct 2016 01:19:06 : The Wild Weebs, general, enragedrobo_test#0986, @dankdankdankdankdankdankdankdank
+
+**Level 34** (7581 EXP)
+Gamble: **Up!**
+Boss: **Up!**
+Train: **59** minutes
+Grace: **Up!**
+30 Oct 2016 01:19:07 : The Wild Weebs, general, enragednuke#2565, =level
+30 Oct 2016 01:19:08 : The Wild Weebs, general, enragedrobo_test#0986, :first_place: | **enragednuke's Level Card**
+30 Oct 2016 01:19:08 : The Wild Weebs, general, enragedrobo_test#0986, 
+30 Oct 2016 01:19:08 : The Wild Weebs, general, enragedrobo_test#0986, The **Grace of Light** lingers at your shoulder, eager to await your **prestige** (you are eligible to prestige with `?prestige`)
+30 Oct 2016 01:19:15 : The Wild Weebs, general, enragednuke#2565, =prestige
+30 Oct 2016 01:19:15 : The Wild Weebs, general, enragedrobo_test#0986, The **Grace of Light** speaks to you...
+
+You are worthy of raising your **prestige**.
+If you do so, you will lose all the XP needed to go from 1 to 25 (63964)
+Your overall ranking will also be dropped in this process.
+However, you will permanently earn 100 percent extra experience and both `?grace` and `?train` will be reset.
+
+You will keep the ability to do `?setbg`, but will have to re-level for anything else.
+
+**Are you sure you want to prestige?** (y/n)
+30 Oct 2016 01:19:16 : The Wild Weebs, general, enragednuke#2565, y
+30 Oct 2016 01:19:16 : The Wild Weebs, general, enragedrobo_test#0986, Very well, you are now **Prestige 5**
+30 Oct 2016 01:19:18 : The Wild Weebs, general, enragednuke#2565, =prestige
+30 Oct 2016 01:19:18 : The Wild Weebs, general, enragedrobo_test#0986, **:up: | Level Up!**
+30 Oct 2016 01:19:18 : The Wild Weebs, general, enragedrobo_test#0986, 
+30 Oct 2016 01:19:18 : The Wild Weebs, general, enragedrobo_test#0986, **Level 5 Perks**
+Unlocked `?gamble <amt>` and `?train`
+30 Oct 2016 01:19:20 : The Wild Weebs, general, enragedrobo_test#0986, The **Grace of Light** speaks to you...
+
+You are worthy of raising your **prestige**.
+If you do so, you will lose all the XP needed to go from 1 to 25 (63964)
+Your overall ranking will also be dropped in this process.
+However, you will permanently earn 100 percent extra experience and both `?grace` and `?train` will be reset.
+
+You will keep the ability to do `?setbg`, but will have to re-level for anything else.
+
+**Are you sure you want to prestige?** (y/n)
+30 Oct 2016 01:19:22 : The Wild Weebs, general, enragednuke#2565, y
+30 Oct 2016 01:19:22 : The Wild Weebs, general, enragedrobo_test#0986, Very well, you are now **Prestige 6**
+30 Oct 2016 01:19:24 : The Wild Weebs, general, enragednuke#2565, =level
+30 Oct 2016 01:19:24 : The Wild Weebs, general, enragedrobo_test#0986, **:up: | Level Up!**
+30 Oct 2016 01:19:24 : The Wild Weebs, general, enragedrobo_test#0986, 
+30 Oct 2016 01:19:24 : The Wild Weebs, general, enragedrobo_test#0986, **Level 5 Perks**
+Unlocked `?gamble <amt>` and `?train`
+30 Oct 2016 01:19:25 : The Wild Weebs, general, enragedrobo_test#0986, :first_place: | **enragednuke's Level Card**
+30 Oct 2016 01:19:25 : The Wild Weebs, general, enragedrobo_test#0986, 
+30 Oct 2016 01:19:26 : The Wild Weebs, general, enragedrobo_test#0986, The **Grace of Light** lingers at your shoulder, eager to await your **prestige** (you are eligible to prestige with `?prestige`)
+30 Oct 2016 01:19:29 : The Wild Weebs, general, enragednuke#2565, =prestige
+30 Oct 2016 01:19:29 : The Wild Weebs, general, enragedrobo_test#0986, The **Grace of Light** speaks to you...
+
+You are worthy of raising your **prestige**.
+If you do so, you will lose all the XP needed to go from 1 to 25 (63964)
+Your overall ranking will also be dropped in this process.
+However, you will permanently earn 100 percent extra experience and both `?grace` and `?train` will be reset.
+
+You will keep the ability to do `?setbg`, but will have to re-level for anything else.
+
+**Are you sure you want to prestige?** (y/n)
+30 Oct 2016 01:19:30 : The Wild Weebs, general, enragednuke#2565, y
+30 Oct 2016 01:19:30 : The Wild Weebs, general, enragedrobo_test#0986, Very well, you are now **Prestige 7**
+30 Oct 2016 01:19:33 : The Wild Weebs, general, enragednuke#2565, a
+30 Oct 2016 01:19:33 : The Wild Weebs, general, enragedrobo_test#0986, **:up: | Level Up!**
+30 Oct 2016 01:19:33 : The Wild Weebs, general, enragedrobo_test#0986, 
+30 Oct 2016 01:19:34 : The Wild Weebs, general, enragedrobo_test#0986, **Level 5 Perks**
+Unlocked `?gamble <amt>` and `?train`
+30 Oct 2016 01:19:35 : The Wild Weebs, general, enragednuke#2565, =level
+30 Oct 2016 01:19:35 : The Wild Weebs, general, enragedrobo_test#0986, :first_place: | **enragednuke's Level Card**
+30 Oct 2016 01:19:35 : The Wild Weebs, general, enragedrobo_test#0986, 
+30 Oct 2016 01:19:38 : The Wild Weebs, general, enragednuke#2565, =level
+30 Oct 2016 01:19:38 : The Wild Weebs, general, enragedrobo_test#0986, :first_place: | **enragednuke's Level Card**
+30 Oct 2016 01:19:38 : The Wild Weebs, general, enragedrobo_test#0986, 
+30 Oct 2016 01:19:43 : The Wild Weebs, general, enragednuke#2565, =gamble 250
+30 Oct 2016 01:19:43 : The Wild Weebs, general, enragedrobo_test#0986, You feel slightly refreshed, but the offering was not enough to fully refresh you.
+(Sacrifice at least a fourth of a level to unlock this result)
+30 Oct 2016 01:19:47 : The Wild Weebs, general, enragednuke#2565, =gamble 250
+30 Oct 2016 01:19:47 : The Wild Weebs, general, enragedrobo_test#0986, The black magic courses through you. You gain a portion of your remaining level.
+30 Oct 2016 01:19:49 : The Wild Weebs, general, enragednuke#2565, a
+30 Oct 2016 01:19:50 : The Wild Weebs, general, enragedrobo_test#0986, **:up: | Level Up!**
+30 Oct 2016 01:19:50 : The Wild Weebs, general, enragedrobo_test#0986, 
+30 Oct 2016 01:19:53 : The Wild Weebs, general, enragednuke#2565, =gamble 250
+30 Oct 2016 01:19:53 : The Wild Weebs, general, enragedrobo_test#0986, You would have lost offering, but the Grace of Light has saved it. You cannot be saved for another two hours.
+30 Oct 2016 01:19:56 : The Wild Weebs, general, enragednuke#2565, =summary
+30 Oct 2016 01:19:56 : The Wild Weebs, general, enragedrobo_test#0986, @dankdankdankdankdankdankdankdank
+
+**Level 10** (763 EXP)
+Gamble: **Up!**
+Boss: **Up!**
+Train: **Up!**
+Grace: **119** minutes
+30 Oct 2016 01:20:00 : The Wild Weebs, general, enragednuke#2565, =train
+30 Oct 2016 01:20:00 : The Wild Weebs, general, enragedrobo_test#0986, You begin training...
+
+You didn't benefit much from basic training...
+
+You begin fighting some monsters in the forest...
+You *lost* to a Lv. **27** **Soldier** (Chance: **13.875%**)
+
+You gained **960** XP!
+30 Oct 2016 01:20:02 : The Wild Weebs, general, enragednuke#2565, =summary
+30 Oct 2016 01:20:02 : The Wild Weebs, general, enragedrobo_test#0986, **:up: | Level Up!**
+30 Oct 2016 01:20:03 : The Wild Weebs, general, enragedrobo_test#0986, 
+30 Oct 2016 01:20:03 : The Wild Weebs, general, enragedrobo_test#0986, @dankdankdankdankdankdankdankdank
+
+**Level 11** (444 EXP)
+Gamble: **Up!**
+Boss: **Up!**
+Train: **59** minutes
+Grace: **119** minutes
+30 Oct 2016 01:20:09 : The Wild Weebs, general, enragednuke#2565, =boss AAAAAAAAAA
+30 Oct 2016 01:20:09 : The Wild Weebs, general, enragedrobo_test#0986, ***A powerful new strength appears...***
+30 Oct 2016 01:20:09 : The Wild Weebs, general, enragedrobo_test#0986, A **Al'sharah** stands before you...
+Health: 100.0% (64209 / 64209)
+
+Your moves were... :x: :x: :x: :x: :white_check_mark: :x: :x: :white_check_mark: :x: :x:
+You deal **204** damage to the boss!
+30 Oct 2016 01:20:14 : The Wild Weebs, general, enragednuke#2565, =summary
+30 Oct 2016 01:20:14 : The Wild Weebs, general, enragedrobo_test#0986, @dankdankdankdankdankdankdankdank
+
+**Level 11** (524 EXP)
+Gamble: **Up!**
+Boss: **Up!**
+Train: **59** minutes
+Grace: **119** minutes
+30 Oct 2016 01:20:25 : The Wild Weebs, general, enragednuke#2565, =boss AAAAAAAAAA
+30 Oct 2016 01:20:25 : The Wild Weebs, general, enragedrobo_test#0986, You are too tired to attack yet, try again in 5 minutes.
+30 Oct 2016 01:20:44 : The Wild Weebs, general, enragednuke#2565, =reload
+30 Oct 2016 01:20:45 : The Wild Weebs, general, enragedrobo_test#0986, Please note `reload` is now a command to reload all library code (non-main). To restart the bot entirely or to reload the **botconfig** module, you should now use `relog`
+30 Oct 2016 01:20:45 : The Wild Weebs, general, enragedrobo_test#0986, **6** modules reloaded. **0** errors in loading.
+30 Oct 2016 01:20:47 : The Wild Weebs, general, enragednuke#2565, =summary
+30 Oct 2016 01:20:47 : The Wild Weebs, general, enragedrobo_test#0986, @dankdankdankdankdankdankdankdank
+
+**Level 11** (644 EXP)
+Gamble: **Up!**
+Boss: **Up!**
+Train: **Up!**
+Grace: **Up!**
+30 Oct 2016 01:20:51 : The Wild Weebs, general, enragednuke#2565, =boss AAAAAAAAAA
+30 Oct 2016 01:20:51 : The Wild Weebs, general, enragedrobo_test#0986, ***A powerful new strength appears...***
+30 Oct 2016 01:20:51 : The Wild Weebs, general, enragedrobo_test#0986, A **Chromus** stands before you...
+Health: 100.0% (60743 / 60743)
+
+Your moves were... :x: :x: :x: :x: :x: :x: :white_check_mark: :x: :x: :x:
+You deal **72** damage to the boss!
+30 Oct 2016 01:20:54 : The Wild Weebs, general, enragednuke#2565, =summary
+30 Oct 2016 01:20:54 : The Wild Weebs, general, enragedrobo_test#0986, @dankdankdankdankdankdankdankdank
+
+**Level 11** (724 EXP)
+Gamble: **Up!**
+Boss: **356.61727** seconds
+Train: **Up!**
+Grace: **Up!**
+30 Oct 2016 01:21:02 : The Wild Weebs, general, enragednuke#2565, =gamble 200
+30 Oct 2016 01:21:03 : The Wild Weebs, general, enragedrobo_test#0986, You would have lost offering, but the Grace of Light has saved it. You cannot be saved for another two hours.
+30 Oct 2016 01:21:05 : The Wild Weebs, general, enragednuke#2565, =gamble 200
+30 Oct 2016 01:21:06 : The Wild Weebs, general, enragedrobo_test#0986, Unfortunately, the black magic steals away part of you. You lose the offering.
+30 Oct 2016 01:21:08 : The Wild Weebs, general, enragednuke#2565, =gamble 200
+30 Oct 2016 01:21:08 : The Wild Weebs, general, enragedrobo_test#0986, You feel the dark magic choke you. You do not dare try again for **2 minutes**
+30 Oct 2016 01:21:10 : The Wild Weebs, general, enragednuke#2565, =summary
+30 Oct 2016 01:21:11 : The Wild Weebs, general, enragedrobo_test#0986, @dankdankdankdankdankdankdankdank
+
+**Level 11** (604 EXP)
+Gamble: **117.280948** seconds
+Boss: **340.50104699999997** seconds
+Train: **Up!**
+Grace: **119** minutes
+30 Oct 2016 01:27:48 : The Wild Weebs, general, Wertfuzzy77#0274, ?train
+30 Oct 2016 01:27:48 : The Wild Weebs, general, enragedrobo#6009, You begin training...
+
+You didn't benefit much from basic training...
+
+You begin fighting some monsters in the forest...
+You *beat* a Lv. **10** **Captain** (EXP: +**12.5**) (Chance: **39.877%**)
+You *beat* a Lv. **17** **Soldier** (EXP: +**17**) (Chance: **40.123%**)
+
+You gained **137** XP!
+30 Oct 2016 01:27:55 : The Wild Weebs, general, Wertfuzzy77#0274, ?level
+30 Oct 2016 01:27:55 : The Wild Weebs, general, enragedrobo#6009, :newspaper: | **Wertfuzzy77's Level Card**
+30 Oct 2016 01:27:55 : The Wild Weebs, general, enragedrobo#6009, 
+30 Oct 2016 01:27:57 : The Wild Weebs, general, enragednuke#2565, ?level
+30 Oct 2016 01:27:57 : The Wild Weebs, general, enragedrobo#6009, :newspaper: | **enragednuke's Level Card**
+30 Oct 2016 01:27:57 : The Wild Weebs, general, enragedrobo#6009, 
+30 Oct 2016 01:28:06 : The Wild Weebs, general, enragednuke#2565, cucked
+30 Oct 2016 01:31:27 : The Wild Weebs, general, Wertfuzzy77#0274, go home
+30 Oct 2016 03:13:49 : The Wild Weebs, general, enragednuke#2565, ?gamble 122
+30 Oct 2016 03:13:49 : The Wild Weebs, general, enragedrobo#6009, You are too afraid to attempt to gamble yet. Try again in 1 minutes.
+30 Oct 2016 03:37:09 : LimitlessMc, mainchat, Dowritox#0220, Hello
+30 Oct 2016 03:37:09 : LimitlessMc, mainchat, Botfuzzy77#2209, *From The Other Side*
+30 Oct 2016 03:37:12 : LimitlessMc, mainchat, Dowritox#0220, Guys
+30 Oct 2016 03:42:34 : LimitlessMc, botchat, Harambe#3735, ;server
+30 Oct 2016 03:42:35 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: 23.111.129.82
+30 Oct 2016 03:42:35 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 16 players out of 200
+ *Ping*: 134.519 ms
+ *MC Version*: 1.10.2
+30 Oct 2016 03:42:35 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *theOnlyJuan, dinter66, a7450168, WaterNinja458, ZumThing, dubbleddash, JustTangoxX, xBABYGIRLx, Fiodor, SyntherosX, MadlifeCreeper, Antoniololol...*
+30 Oct 2016 03:56:00 : LimitlessMc, mainchat, theOnlyJuan#9357, Sup
+30 Oct 2016 04:56:23 : The Raw Man Cult, mainchat, Sans the Skeleton#2345, !meme when u step on the autistic kids light up lightning McQueen sketchers
+30 Oct 2016 04:59:20 : The Raw Man Cult, mainchat, Sans the Skeleton#2345, -play assumptions song
+30 Oct 2016 04:59:25 : The Raw Man Cult, mainchat, Aethex#0394, Now playing **The Assumption Song - Oney Cartoons** in `Music Channel` (1:34, requested by **Sans the Skeleton**).
+30 Oct 2016 05:03:24 : LimitlessMc, mainchat, Brian#0945, Goodvbye everyone
+30 Oct 2016 05:03:27 : LimitlessMc, mainchat, Brian#0945, Goodbye*
+30 Oct 2016 05:03:32 : LimitlessMc, mainchat, Brian#0945, This server is bad
+30 Oct 2016 05:03:35 : LimitlessMc, mainchat, Harambe#3735, lol
+30 Oct 2016 05:03:38 : LimitlessMc, mainchat, Harambe#3735, triggered
+30 Oct 2016 05:03:38 : LimitlessMc, mainchat, Brian#0945, it will always be bad
+30 Oct 2016 05:03:39 : LimitlessMc, mainchat, Harambe#3735, ^
+30 Oct 2016 05:03:39 : LimitlessMc, mainchat, Botfuzzy77#2209, ^
+30 Oct 2016 05:03:47 : LimitlessMc, mainchat, Harambe#3735, bye(;
+30 Oct 2016 05:03:49 : LimitlessMc, mainchat, Brian#0945, Anyways i delete discord
+30 Oct 2016 05:03:56 : LimitlessMc, mainchat, Brian#0945, and everything
+30 Oct 2016 05:03:57 : LimitlessMc, mainchat, Harambe#3735, no one cares
+30 Oct 2016 05:04:05 : LimitlessMc, mainchat, Brian#0945, I care
+30 Oct 2016 05:04:09 : LimitlessMc, mainchat, Brian#0945, lol
+30 Oct 2016 05:04:10 : LimitlessMc, mainchat, Harambe#3735, *fuck not found*

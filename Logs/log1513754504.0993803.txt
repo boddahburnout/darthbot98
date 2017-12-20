@@ -1,0 +1,51 @@
+20 Dec 2017 07:21:59 : darth, general, darth kota#9446, ;join
+20 Dec 2017 07:22:02 : darth, general, darthbot98#5182, Connected channel!
+20 Dec 2017 07:22:05 : darth, general, Wertfuzzy77#0274, we did it
+20 Dec 2017 07:22:07 : darth, general, darth kota#9446, ;search simple man
+20 Dec 2017 07:22:11 : darth, general, darthbot98#5182, Sorry, couldnt find anything :(
+20 Dec 2017 07:22:17 : darth, general, Wertfuzzy77#0274, ;search Hotel california
+20 Dec 2017 07:22:20 : darth, general, darthbot98#5182, Sorry, couldnt find anything :(
+20 Dec 2017 07:22:22 : darth, general, Wertfuzzy77#0274, well
+20 Dec 2017 07:22:24 : darth, general, darth kota#9446, ....
+20 Dec 2017 07:22:28 : darth, general, Wertfuzzy77#0274, thats a diff problem xD
+20 Dec 2017 07:22:34 : darth, general, darth kota#9446, kms
+20 Dec 2017 07:22:49 : darth, general, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=e7aGAIWe3uE
+20 Dec 2017 07:22:53 : darth, general, darth kota#9446, no errors
+20 Dec 2017 07:22:57 : darth, general, Wertfuzzy77#0274, well
+20 Dec 2017 07:22:58 : darth, general, Wertfuzzy77#0274, it didnt play
+20 Dec 2017 07:23:04 : darth, general, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].voice
+20 Dec 2017 07:23:05 : darth, general, darthbot98#5182, ```py
+<discord.voice_client.VoiceClient object at 0x0000019E06BD8080>
+```
+20 Dec 2017 07:23:07 : darth, general, Wertfuzzy77#0274, o
+20 Dec 2017 07:23:10 : darth, general, darth kota#9446, Ignoring exception in command forceplay
+Traceback (most recent call last):
+  File "C:\Users\Dakota\AppData\Local\Programs\Python\Python36\lib\site-packages\discord\ext\commands\core.py", line 50, in wrapped
+    ret = yield from coro(*args, **kwargs)
+  File "C:\Users\Dakota\Downloads\Botfuzzy77-master\Botfuzzy77-master\Modules\Music.py", line 259, in forceplay
+    current = await SP.voice.create_ytdl_player(link, ytdl_options=OPTS)
+  File "C:\Users\Dakota\AppData\Local\Programs\Python\Python36\lib\site-packages\discord\voice_client.py", line 522, in create_ytdl_player
+    import youtube_dl
+ModuleNotFoundError: No module named 'youtube_dl'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Dakota\AppData\Local\Programs\Python\Python36\lib\site-packages\discord\ext\commands\bot.py", line 846, in process_commands
+    yield from command.invoke(ctx)
+  File "C:\Users\Dakota\AppData\Local\Programs\Python\Python36\lib\site-packages\discord\ext\commands\core.py", line 374, in invoke
+    yield from injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\Dakota\AppData\Local\Programs\Python\Python36\lib\site-packages\discord\ext\commands\core.py", line 54, in wrapped
+    raise CommandInvokeError(e) from e
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ModuleNotFoundError: No module named 'youtube_dl'
+20 Dec 2017 07:23:12 : darth, general, Wertfuzzy77#0274, it did something tho
+20 Dec 2017 07:23:14 : darth, general, Wertfuzzy77#0274, ahh
+20 Dec 2017 07:23:22 : darth, general, Wertfuzzy77#0274, `pip install youtube_dl`
+20 Dec 2017 07:23:55 : darth, general, darth kota#9446, lel
+20 Dec 2017 07:25:42 : darth, general, darth kota#9446, reeee my internet
+20 Dec 2017 07:26:00 : darth, general, Wertfuzzy77#0274, same
+20 Dec 2017 07:26:16 : darth, general, darth kota#9446, whats your provider
+20 Dec 2017 07:26:55 : darth, general, Wertfuzzy77#0274, no idea
+20 Dec 2017 07:26:59 : darth, general, Wertfuzzy77#0274, on campus atm
+20 Dec 2017 07:27:08 : darth, general, darth kota#9446, oh
+20 Dec 2017 07:27:31 : darth, general, darth kota#9446, ;relog

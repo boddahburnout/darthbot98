@@ -1,0 +1,49 @@
+13 Jul 2016 00:45:32 : Cipher , Wertfuzzy77#0274 , ;join
+13 Jul 2016 00:45:36 : Cipher , Wertfuzzy77#0274 , ;playlist Maroon
+13 Jul 2016 00:45:41 : Cipher , Botfuzzy77#2209 , Finished Adding songs from playlist(s)
+13 Jul 2016 00:46:07 : Cipher , Wertfuzzy77#0274 , ;skip
+13 Jul 2016 00:46:07 : Cipher , Botfuzzy77#2209 , Skipping Maroon 5 - Animals
+13 Jul 2016 00:48:34 : Cipher , Wertfuzzy77#0274 , ;song
+13 Jul 2016 00:48:34 : Cipher , Botfuzzy77#2209 , ```Name: Maroon 5 - Maps (Explicit)
+URL: <https://www.youtube.com/watch?v=NmugSMBh_iI>
+Views: 302,943,065
+Likes: 1,040,451, 96.68%
+Dislikes: 35,753, 3.32%
+```
+13 Jul 2016 00:48:36 : Cipher , Wertfuzzy77#0274 , ;songs
+13 Jul 2016 00:48:37 : Cipher , Botfuzzy77#2209 , The Following songs are in the Queue
+13 Jul 2016 00:48:37 : Cipher , Botfuzzy77#2209 , Maroon 5 - Sugar (https://www.youtube.com/watch?v=09R8_2nJtjg)
+Maroon 5 - Payphone (Explicit) ft. Wiz Khalifa (https://www.youtube.com/watch?v=KRaWnd3LJfs)
+Maroon 5 - Moves Like Jagger ft. Christina Aguilera (https://www.youtube.com/watch?v=iEPTlhBmwRg)
+
+13 Jul 2016 00:48:44 : Cipher , Wertfuzzy77#0274 , ;playlist Sheeran
+13 Jul 2016 00:48:50 : Cipher , Botfuzzy77#2209 , Finished Adding songs from playlist(s)
+13 Jul 2016 00:48:51 : Cipher , Wertfuzzy77#0274 , ;shuffle
+13 Jul 2016 00:48:51 : Cipher , Botfuzzy77#2209 , Shuffling songs...
+13 Jul 2016 00:48:56 : Cipher , Wertfuzzy77#0274 , ;songs
+13 Jul 2016 00:48:56 : Cipher , Botfuzzy77#2209 , The Following songs are in the Queue
+13 Jul 2016 00:48:56 : Cipher , Botfuzzy77#2209 , Ed Sheeran - Don't [Official Video] (https://www.youtube.com/watch?v=iD2rhdFRehU)
+Maroon 5 - Moves Like Jagger ft. Christina Aguilera (https://www.youtube.com/watch?v=iEPTlhBmwRg)
+Ed Sheeran - Photograph (Official Music Video) (https://www.youtube.com/watch?v=nSDgHBxUbVQ)
+Ed Sheeran - Thinking Out Loud [Official Video] (https://www.youtube.com/watch?v=lp-EO5I60KA)
+Ed Sheeran - Give Me Love [Official Video] (https://www.youtube.com/watch?v=FOjdXSrtUxA)
+Maroon 5 - Payphone (Explicit) ft. Wiz Khalifa (https://www.youtube.com/watch?v=KRaWnd3LJfs)
+Ed Sheeran - The A Team [Official Video] (https://www.youtube.com/watch?v=UAWcs5H-qgQ)
+Ed Sheeran - Lego House [Official Video] (https://www.youtube.com/watch?v=c4BLVznuWnU)
+Ed Sheeran - I See Fire (Music Video) (https://www.youtube.com/watch?v=2fngvQS_PmQ)
+Maroon 5 - Sugar (https://www.youtube.com/watch?v=09R8_2nJtjg)
+
+13 Jul 2016 00:49:52 : Cipher , Wertfuzzy77#0274 , ;songs
+13 Jul 2016 00:49:53 : Cipher , Botfuzzy77#2209 , The Following songs are in the Queue
+13 Jul 2016 00:49:53 : Cipher , Botfuzzy77#2209 , Maroon 5 - Moves Like Jagger ft. Christina Aguilera (https://www.youtube.com/watch?v=iEPTlhBmwRg)
+Ed Sheeran - Photograph (Official Music Video) (https://www.youtube.com/watch?v=nSDgHBxUbVQ)
+Ed Sheeran - Thinking Out Loud [Official Video] (https://www.youtube.com/watch?v=lp-EO5I60KA)
+Ed Sheeran - Give Me Love [Official Video] (https://www.youtube.com/watch?v=FOjdXSrtUxA)
+Maroon 5 - Payphone (Explicit) ft. Wiz Khalifa (https://www.youtube.com/watch?v=KRaWnd3LJfs)
+Ed Sheeran - The A Team [Official Video] (https://www.youtube.com/watch?v=UAWcs5H-qgQ)
+Ed Sheeran - Lego House [Official Video] (https://www.youtube.com/watch?v=c4BLVznuWnU)
+Ed Sheeran - I See Fire (Music Video) (https://www.youtube.com/watch?v=2fngvQS_PmQ)
+Maroon 5 - Sugar (https://www.youtube.com/watch?v=09R8_2nJtjg)
+
+13 Jul 2016 00:58:09 : Cipher , Wertfuzzy77#0274 , ;relog
+13 Jul 2016 00:58:10 : Cipher , Botfuzzy77#2209 , Relogging...

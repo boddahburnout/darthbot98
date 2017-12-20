@@ -1,0 +1,99 @@
+11 Apr 2017 16:54:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+11 Apr 2017 16:54:59 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+11 Apr 2017 16:55:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio Rock-n-Roll
+11 Apr 2017 16:55:03 : LimitlessMc, botchat, Botfuzzy77#2209, Now listening to **Rock-n-Roll** radio channel
+11 Apr 2017 16:55:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+11 Apr 2017 16:55:10 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Blue Öyster Cult - Take Me Away (1983)
+**Requester**: Radio: Rock-n-Roll
+**URL**: <https://www.youtube.com/watch?v=hm-7YGIy2Ws>
+```py
+Time: 0:04:31
+Views: 1,711
+Likes: 14, 93.33%
+Dislikes: 1, 6.67%
+Skips: 0/0```
+11 Apr 2017 16:55:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+11 Apr 2017 16:55:12 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+11 Apr 2017 16:55:12 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Foreigner   Feels Like The First Time **Radio: Rock-n-Roll**
+	<https://www.youtube.com/watch?v=QNm_LihEsn0>
+2. Bon Jovi - Wanted Dead Or Alive **Radio: Rock-n-Roll**
+	<https://www.youtube.com/watch?v=SRvCvsRp5ho>
+Total Time is 0:08:03
+11 Apr 2017 16:56:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;leave
+11 Apr 2017 17:09:46 : LimitlessMc, botchat, Bakafish#8693, ;train
+11 Apr 2017 17:09:46 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 17:09:46 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 17:10:00 : Pulse, botchat, JustinOPGamer#9138, ;train
+11 Apr 2017 17:10:00 : Pulse, botchat, Botfuzzy77#2209, 
+11 Apr 2017 17:10:00 : Pulse, botchat, Botfuzzy77#2209, 
+11 Apr 2017 17:10:00 : Pulse, botchat, Botfuzzy77#2209, 
+11 Apr 2017 17:10:19 : Pulse, botchat, JustinOPGamer#9138, You Beat a Level 9 Giratina for 36 XP (72% to beat)
+11 Apr 2017 17:15:58 : Pulse, botchat, Tux#0283, ;train
+11 Apr 2017 17:15:58 : Pulse, botchat, Botfuzzy77#2209, 
+11 Apr 2017 17:15:58 : Pulse, botchat, Botfuzzy77#2209, 
+11 Apr 2017 17:16:17 : Pulse, game-chat, Tux#0283, ;train
+11 Apr 2017 17:16:17 : Pulse, game-chat, Botfuzzy77#2209, Please wait 1,782 seconds before you can train again.
+11 Apr 2017 17:16:34 : Pulse, game-chat, Tux#0283, ;pbt FFFFF
+11 Apr 2017 17:16:34 : Pulse, game-chat, Botfuzzy77#2209, 
+11 Apr 2017 17:16:34 : Pulse, game-chat, Botfuzzy77#2209, 
+11 Apr 2017 17:16:38 : Pulse, game-chat, Tux#0283, oh ok
+11 Apr 2017 17:17:05 : Pulse, game-chat, JustinOPGamer#9138, ;train
+11 Apr 2017 17:17:05 : Pulse, game-chat, Botfuzzy77#2209, Please wait 1,375 seconds before you can train again.
+11 Apr 2017 17:18:55 : Pulse, game-chat, Tux#0283, ;level
+11 Apr 2017 17:18:57 : Pulse, game-chat, Botfuzzy77#2209, 
+11 Apr 2017 17:26:18 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, #2688
+11 Apr 2017 17:36:52 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+11 Apr 2017 17:36:52 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 17:36:52 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 17:37:03 : LimitlessMc, mainchat, Adam#7575, JUST GOT A DRAGON EGG WOO
+11 Apr 2017 18:26:24 : Pulse, game-chat, JustinOPGamer#9138, ;train
+11 Apr 2017 18:26:24 : Pulse, game-chat, Botfuzzy77#2209, 
+11 Apr 2017 18:26:24 : Pulse, game-chat, Botfuzzy77#2209, 
+11 Apr 2017 18:26:43 : Pulse, game-chat, JustinOPGamer#9138, I figure as long as I am at the doctors I might aswell train lol
+11 Apr 2017 18:27:18 : LimitlessMc, botchat, jjtwilefc#7374, ;train
+11 Apr 2017 18:27:18 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 18:27:18 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 18:27:24 : LimitlessMc, botchat, jjtwilefc#7374, ;level
+11 Apr 2017 18:27:28 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 18:27:58 : LimitlessMc, botchat, Talha_choudhry#5495, ;level
+11 Apr 2017 18:28:00 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 18:28:06 : LimitlessMc, botchat, Talha_choudhry#5495, ;ranking
+11 Apr 2017 18:28:19 : LimitlessMc, botchat, Talha_choudhry#5495, ;rankings
+11 Apr 2017 18:28:29 : LimitlessMc, botchat, Talha_choudhry#5495, Still not working
+11 Apr 2017 18:28:32 : LimitlessMc, botchat, Talha_choudhry#5495, ;cd
+11 Apr 2017 18:28:32 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You can Train right now!
+**Gamble**
+You can Gamble right now!
+11 Apr 2017 18:28:37 : LimitlessMc, botchat, Talha_choudhry#5495, ;train
+11 Apr 2017 18:28:38 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 18:28:38 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 18:28:43 : LimitlessMc, botchat, Talha_choudhry#5495, ;level
+11 Apr 2017 18:28:45 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 18:31:29 : LimitlessMc, botchat, Talha_choudhry#5495, ;pbt ppgpdiid
+11 Apr 2017 18:31:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 18:31:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 18:31:48 : LimitlessMc, botchat, Talha_choudhry#5495, ;pbt nnnnnnnn
+11 Apr 2017 18:31:48 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 42 seconds before you can fight the boss again.
+11 Apr 2017 18:40:46 : LimitlessMc, botchat, TherminatorX#6644, ;train
+11 Apr 2017 18:40:46 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 18:40:46 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 18:41:01 : LimitlessMc, botchat, TherminatorX#6644, ;pbs
+11 Apr 2017 18:41:01 : LimitlessMc, botchat, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> hard to fight and reveal the boss.
+11 Apr 2017 18:41:11 : LimitlessMc, botchat, TherminatorX#6644, ;pbt bbbbbbbbbb
+11 Apr 2017 18:41:11 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 18:41:11 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 18:41:28 : LimitlessMc, botchat, TherminatorX#6644, ;level
+11 Apr 2017 18:41:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 19:03:16 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+11 Apr 2017 19:03:16 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 19:03:16 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 19:10:18 : LimitlessMc, botchat, TherminatorX#6644, ;train
+11 Apr 2017 19:10:18 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 28 seconds before you can train again.
+11 Apr 2017 19:10:25 : LimitlessMc, botchat, TherminatorX#6644, -_-
+11 Apr 2017 19:10:55 : LimitlessMc, botchat, TherminatorX#6644, ;train
+11 Apr 2017 19:10:55 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 19:10:55 : LimitlessMc, botchat, Botfuzzy77#2209, 

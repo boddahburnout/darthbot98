@@ -1,0 +1,31 @@
+15 Feb 2017 00:55:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+15 Feb 2017 00:55:31 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+15 Feb 2017 00:55:36 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio
+15 Feb 2017 00:55:36 : LimitlessMc, botchat, Botfuzzy77#2209, Please choose one of these options: 
+Electro Hub
+Chill Corner
+Korean Madness
+Japanese Lounge
+Classical
+Retro Renegade
+Metal Mix
+Hip-hop
+Electro Swing
+Purely Pop
+Rock-n-Roll
+Coffee-house Jazz
+Example: `;Radio Purely Pop`
+15 Feb 2017 00:55:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio Classical
+15 Feb 2017 00:55:42 : LimitlessMc, botchat, Botfuzzy77#2209, Radio Mode: True
+15 Feb 2017 00:56:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug self.serverPlayers[ctx.message.server.id].radioType
+15 Feb 2017 00:56:03 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+NameError: name 'self' is not defined
+```
+15 Feb 2017 00:56:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].radioType
+15 Feb 2017 00:56:11 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+classical
+```
+15 Feb 2017 00:56:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ayy
+15 Feb 2017 00:56:13 : LimitlessMc, botchat, Botfuzzy77#2209, Lmao
+15 Feb 2017 00:56:52 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Say something
+15 Feb 2017 00:57:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=-2U0Ivkn2Ds

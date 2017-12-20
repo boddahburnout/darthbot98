@@ -1,0 +1,136 @@
+17 Jan 2017 21:36:01 : LimitlessMc, botchat, Wertfuzzy77#0274, think i got it tho
+17 Jan 2017 21:36:06 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle easy nnnnnnnn
+17 Jan 2017 21:36:07 : LimitlessMc, botchat, Botfuzzy77#2209, Please use a Combination of **5** Types to Fight the Boss: (**N**)ormal, (**F**)ire, (**W**)ater, (**G**)rass, (**P**)oison, (**D**)ragon, (**S**)teel, (**E**)lectric, (**B**)ug, or (**I**)ce.
+ Ex 'GSEBI' or 'DPGDB'
+17 Jan 2017 21:36:09 : LimitlessMc, botchat, Wertfuzzy77#0274, ...............
+17 Jan 2017 21:36:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle easy nnnnn
+17 Jan 2017 21:36:12 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 2 Boss **Regigigas** has appeared!
+It has 548 Health.
+17 Jan 2017 21:36:13 : LimitlessMc, botchat, Botfuzzy77#2209, 
+17 Jan 2017 21:36:13 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :x: :x:
+17 Jan 2017 21:36:13 : LimitlessMc, botchat, Botfuzzy77#2209, *Low level boss penalty...*
+17 Jan 2017 21:36:13 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **1** damage
+17 Jan 2017 21:36:16 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+17 Jan 2017 21:36:18 : LimitlessMc, botchat, Botfuzzy77#2209, Level 2 Boss **Regigigas** has 547 health left.
+17 Jan 2017 21:36:19 : LimitlessMc, botchat, Wertfuzzy77#0274, level 2 Legend
+17 Jan 2017 21:36:28 : LimitlessMc, botchat, TherminatorX#6644, Ye boi
+17 Jan 2017 21:36:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle medium nnnnnnnnnn
+17 Jan 2017 21:36:29 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 79 seconds before you can fight the boss again.
+17 Jan 2017 21:36:32 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+17 Jan 2017 21:36:38 : LimitlessMc, botchat, Wertfuzzy77#0274, someone try medium, hard, or insane
+17 Jan 2017 21:36:39 : LimitlessMc, botchat, Wertfuzzy77#0274, plz
+17 Jan 2017 21:36:49 : LimitlessMc, botchat, TherminatorX#6644, ;pokebattle medium
+17 Jan 2017 21:36:49 : LimitlessMc, botchat, Botfuzzy77#2209, Please use a Combination of **10** Types to Fight the Boss: (**N**)ormal, (**F**)ire, (**W**)ater, (**G**)rass, (**P**)oison, (**D**)ragon, (**S**)teel, (**E**)lectric, (**B**)ug, or (**I**)ce.
+ Ex 'GSEBI' or 'DPGDB'
+17 Jan 2017 21:37:07 : LimitlessMc, botchat, TherminatorX#6644, ;pokebattle medium bbbbbbbbbb
+17 Jan 2017 21:37:07 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 26 Boss **Trapinch** has appeared!
+It has 8944 Health.
+17 Jan 2017 21:37:08 : LimitlessMc, botchat, Botfuzzy77#2209, 
+17 Jan 2017 21:37:08 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b:
+:x: :x: :x: :x: :x: :x: :x: :x: :x: :x:
+17 Jan 2017 21:37:08 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **0** damage
+17 Jan 2017 21:37:08 : LimitlessMc, botchat, Botfuzzy77#2209, Level 26 Boss **Trapinch** has 8944 health left.
+17 Jan 2017 21:37:16 : LimitlessMc, botchat, Wertfuzzy77#0274, Ill coordinate it so like easy is 5, medium is 8, hard is 10, and insane is 15
+17 Jan 2017 21:37:20 : LimitlessMc, botchat, Wertfuzzy77#0274, or soemthing like that
+17 Jan 2017 21:37:30 : LimitlessMc, botchat, Wertfuzzy77#0274, and ill ;pokebattle default to easy
+17 Jan 2017 21:37:34 : LimitlessMc, botchat, Wertfuzzy77#0274, if you dont put a area
+17 Jan 2017 21:37:43 : LimitlessMc, botchat, Wertfuzzy77#0274, or, maybe ill have it set to what ever level you are
+17 Jan 2017 21:37:54 : LimitlessMc, botchat, Wertfuzzy77#0274, so like if you are level 40, It would default to hard
+17 Jan 2017 21:37:56 : LimitlessMc, botchat, Wertfuzzy77#0274, or medium
+17 Jan 2017 21:38:00 : LimitlessMc, botchat, Wertfuzzy77#0274, which ever 40 is
+17 Jan 2017 21:38:12 : LimitlessMc, botchat, TherminatorX#6644, What about lv0 bosses for n00bs?
+17 Jan 2017 21:38:23 : LimitlessMc, botchat, Wertfuzzy77#0274, they will just fight ;pokebattle easy
+17 Jan 2017 21:38:35 : LimitlessMc, botchat, Wertfuzzy77#0274, cause doing any damage gets you to level 1
+17 Jan 2017 21:38:38 : LimitlessMc, botchat, Wertfuzzy77#0274, only need 1 XP
+17 Jan 2017 21:38:43 : LimitlessMc, botchat, TherminatorX#6644, Tru
+17 Jan 2017 21:38:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;afk mom wants something
+17 Jan 2017 21:38:50 : LimitlessMc, botchat, Botfuzzy77#2209, Wertfuzzy77 is now AFK for reason:
+**mom wants something**
+17 Jan 2017 21:39:22 : LimitlessMc, botchat, TherminatorX#6644, ;level
+17 Jan 2017 21:39:22 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *TherminatorX*
+**Level**: 39
+**XP**: 15222/64000
+**Boss Takedowns**: 40
+**Most Dmg in an Attack**: 20767
+17 Jan 2017 21:39:30 : LimitlessMc, botchat, TherminatorX#6644, ;train
+17 Jan 2017 21:39:38 : LimitlessMc, botchat, TherminatorX#6644, Still disabled
+17 Jan 2017 21:39:57 : LimitlessMc, botchat, TherminatorX#6644, (I approve of that, btw)
+17 Jan 2017 21:43:11 : LimitlessMc, botchat, theOnlyJuan#9357, ;cd
+17 Jan 2017 21:43:11 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 10 to use ;train*)
+You can Train right now!
+17 Jan 2017 21:43:15 : LimitlessMc, botchat, theOnlyJuan#9357, ;train
+17 Jan 2017 21:43:55 : LimitlessMc, botchat, theOnlyJuan#9357, How long it disabled for ?
+17 Jan 2017 21:45:36 : LimitlessMc, botchat, TherminatorX#6644, Until Wert starts liking what he's doing with ;pokebattle
+17 Jan 2017 21:49:25 : LimitlessMc, botchat, Dankdra#0051, ;train
+17 Jan 2017 21:50:56 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;train
+17 Jan 2017 21:51:02 : Pokemon Mystery Dungeon, poke_battles, Dankdra#0051, The hax though
+17 Jan 2017 21:51:07 : Pokemon Mystery Dungeon, poke_battles, Dankdra#0051, Geez lol
+17 Jan 2017 21:55:23 : LimitlessMc, botchat, Dankdra#0051, ;image train train
+17 Jan 2017 21:55:26 : LimitlessMc, botchat, Botfuzzy77#2209, https://images-na.ssl-images-amazon.com/images/I/51fH33NUnyL.jpg
+17 Jan 2017 21:55:56 : LimitlessMc, botchat, Wertfuzzy77#0274, ;af
+17 Jan 2017 21:55:58 : LimitlessMc, botchat, Wertfuzzy77#0274, ;afk
+17 Jan 2017 21:55:58 : LimitlessMc, botchat, Botfuzzy77#2209, Wertfuzzy77 is no Longer AFK
+17 Jan 2017 21:56:14 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cd
+17 Jan 2017 21:56:15 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 10 to use ;train*)
+You can Train right now!
+17 Jan 2017 21:56:20 : LimitlessMc, botchat, Wertfuzzy77#0274, cd still works thats good
+17 Jan 2017 21:56:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle insane
+17 Jan 2017 21:56:25 : LimitlessMc, botchat, Botfuzzy77#2209, Please use a Combination of **15** Types to Fight the Boss: (**N**)ormal, (**F**)ire, (**W**)ater, (**G**)rass, (**P**)oison, (**D**)ragon, (**S**)teel, (**E**)lectric, (**B**)ug, or (**I**)ce.
+ Ex 'GSEBI' or 'DPGDB'
+17 Jan 2017 21:56:31 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle insane iiiiiiiiiiiiiii
+17 Jan 2017 21:56:31 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 70 Boss **Drifloon** has appeared!
+It has 93660 Health.
+17 Jan 2017 21:56:31 : LimitlessMc, botchat, Botfuzzy77#2209, 
+17 Jan 2017 21:56:31 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i:
+:x: :white_check_mark: :x: :x: :x: :x: :x: :white_check_mark: :x: :x: :x: :x: :x: :x: :x:
+17 Jan 2017 21:56:32 : LimitlessMc, botchat, Botfuzzy77#2209, Its a Critical Strike
+17 Jan 2017 21:56:32 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **167** damage
+17 Jan 2017 21:56:37 : LimitlessMc, botchat, Botfuzzy77#2209, Level 70 Boss **Drifloon** has 93493 health left.
+17 Jan 2017 21:56:44 : LimitlessMc, botchat, Wertfuzzy77#0274, LOL almost 100k HP
+17 Jan 2017 21:58:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug 100 * 125 * 15
+17 Jan 2017 21:58:30 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+187500
+```
+17 Jan 2017 21:58:46 : LimitlessMc, botchat, Wertfuzzy77#0274, A level 100 Boss can have up to 187500 HP
+17 Jan 2017 22:01:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gif beatles Help
+17 Jan 2017 22:01:26 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/the-beatles-GOERx44TRafHW
+17 Jan 2017 22:01:39 : LimitlessMc, botchat, Wertfuzzy77#0274, Thats Yellow Submarire... lier @Botfuzzy77
+17 Jan 2017 22:01:40 : LimitlessMc, botchat, Botfuzzy77#2209, We all live in a yellow submarine.
+17 Jan 2017 22:01:45 : LimitlessMc, botchat, Wertfuzzy77#0274, well
+17 Jan 2017 22:01:47 : LimitlessMc, botchat, Wertfuzzy77#0274, you are forgiven
+17 Jan 2017 22:02:14 : LimitlessMc, botchat, Wertfuzzy77#0274, @Botfuzzy77 A yellow Submarire... A yellow Submarine... A Yellow Submarine
+17 Jan 2017 22:02:16 : LimitlessMc, botchat, Botfuzzy77#2209, Do you know who that song is by?
+17 Jan 2017 22:02:31 : LimitlessMc, botchat, Wertfuzzy77#0274, @Botfuzzy77 The Beatles
+17 Jan 2017 22:02:31 : LimitlessMc, botchat, Botfuzzy77#2209, Who were the Beatles?
+17 Jan 2017 22:02:39 : LimitlessMc, botchat, Wertfuzzy77#0274, @Botfuzzy77 A very famous British band
+17 Jan 2017 22:02:40 : LimitlessMc, botchat, Botfuzzy77#2209, What were their names.
+17 Jan 2017 22:02:50 : LimitlessMc, botchat, Wertfuzzy77#0274, @Botfuzzy77 George, Paul, Ringo and John
+17 Jan 2017 22:02:51 : LimitlessMc, botchat, Botfuzzy77#2209, Name all of The Beatles last names.
+17 Jan 2017 22:03:22 : LimitlessMc, botchat, Wertfuzzy77#0274, @Botfuzzy77 George Harrison, John Lennon, Ringo Starr, and Paul Mc'cartney
+17 Jan 2017 22:03:24 : LimitlessMc, botchat, Botfuzzy77#2209, Very good!
+17 Jan 2017 22:03:38 : LimitlessMc, botchat, Wertfuzzy77#0274, @Botfuzzy77 thank you
+17 Jan 2017 22:03:41 : LimitlessMc, botchat, Botfuzzy77#2209, Who programmed you?
+17 Jan 2017 22:03:47 : LimitlessMc, botchat, Wertfuzzy77#0274, @Botfuzzy77 No one did, I am human
+17 Jan 2017 22:03:48 : LimitlessMc, botchat, Botfuzzy77#2209, OK, I thought you were a computer program.
+17 Jan 2017 22:03:59 : LimitlessMc, botchat, Wertfuzzy77#0274, @Botfuzzy77 nope, I just know about the Beatles lol
+17 Jan 2017 22:04:00 : LimitlessMc, botchat, Botfuzzy77#2209, What do you know about them?
+17 Jan 2017 22:04:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ...
+17 Jan 2017 22:05:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+17 Jan 2017 22:05:12 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 36
+**XP**: 19098/50653
+**Boss Takedowns**: 18
+**Most Dmg in an Attack**: 7181
+17 Jan 2017 22:05:13 : LimitlessMc, botchat, Wertfuzzy77#0274, o
+17 Jan 2017 22:05:17 : LimitlessMc, botchat, Wertfuzzy77#0274, I transfered data
+17 Jan 2017 22:05:19 : LimitlessMc, botchat, Wertfuzzy77#0274, go me
+17 Jan 2017 22:05:44 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+17 Jan 2017 22:06:33 : LimitlessMc, botchat, MoonWolf#8885, ;train
+17 Jan 2017 22:06:39 : LimitlessMc, botchat, MoonWolf#8885, wert pls dont move me to the aids room
+17 Jan 2017 22:06:40 : LimitlessMc, botchat, MoonWolf#8885, Kappa
+17 Jan 2017 22:07:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join

@@ -1,0 +1,57 @@
+02 Oct 2016 22:16:08 : The Wild Weebs, music, Wertfuzzy77#0274, ;join
+02 Oct 2016 22:16:12 : The Wild Weebs, music, Wertfuzzy77#0274, ;playlist AnimeOpenings
+02 Oct 2016 22:16:23 : The Wild Weebs, music, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+02 Oct 2016 22:20:23 : LimitlessMc, mainchat, Rellice24#9588, ohh
+02 Oct 2016 22:20:40 : LimitlessMc, mainchat, Rellice24#9588, i been walking
+02 Oct 2016 22:22:59 : LimitlessMc, mainchat, Lightning#6734, resooo c:
+02 Oct 2016 22:33:27 : LimitlessMc, mainchat, Resolate#7058, Helloooooo C:
+02 Oct 2016 22:33:57 : LimitlessMc, mainchat, Resolate#7058, And btw please @ me as I don't notice the messages unless I check xD
+02 Oct 2016 22:36:28 : LimitlessMc, mainchat, D3NSH1N#8702, @NorthOfTime 's comment tho :D:D
+02 Oct 2016 22:38:54 : LimitlessMc, mainchat, Lightning#6734, haii @D3NSH1N
+02 Oct 2016 22:39:32 : LimitlessMc, botchat, TheMajesticSeal#2289, ;rate
+02 Oct 2016 22:39:33 : LimitlessMc, botchat, Botfuzzy77#2209, TheMajesticSeal is Basically Garbage
+02 Oct 2016 22:39:35 : LimitlessMc, botchat, TheMajesticSeal#2289, k
+02 Oct 2016 22:39:37 : LimitlessMc, botchat, TheMajesticSeal#2289, ;luck
+02 Oct 2016 22:39:37 : LimitlessMc, botchat, Botfuzzy77#2209, TheMajesticSeal's luck is 36.48 out of 100, which is **Pretty Bad**
+02 Oct 2016 22:39:42 : LimitlessMc, botchat, TheMajesticSeal#2289, !rate
+02 Oct 2016 22:39:43 : LimitlessMc, botchat, Gerald#7099, Hmmm, I'd say I like Knight_Steel (TheMajesticSeal) to 10.7141763684350870%
+02 Oct 2016 22:39:48 : LimitlessMc, botchat, TheMajesticSeal#2289, !luck
+02 Oct 2016 22:39:49 : LimitlessMc, botchat, Gerald#7099, My calculations say that Knight_Steel (TheMajesticSeal) will have 27.4916899407836020% luck today
+02 Oct 2016 22:39:54 : LimitlessMc, botchat, TheMajesticSeal#2289, fuck you guys
+02 Oct 2016 22:40:05 : LimitlessMc, botchat, An_Average_Fellow#1532, !rate
+02 Oct 2016 22:40:06 : LimitlessMc, botchat, Gerald#7099, Hmmm, I'd say I like An_Average_Fellow to 15.4459309877976560%
+02 Oct 2016 22:40:16 : LimitlessMc, botchat, An_Average_Fellow#1532, ;rate
+02 Oct 2016 22:40:17 : LimitlessMc, botchat, Botfuzzy77#2209, An_Average_Fellow is Basically Garbage
+02 Oct 2016 22:40:28 : LimitlessMc, botchat, An_Average_Fellow#1532, !luck
+02 Oct 2016 22:40:28 : LimitlessMc, botchat, Gerald#7099, My calculations say that An_Average_Fellow will have 58.1868282820479960% luck today
+02 Oct 2016 22:40:31 : LimitlessMc, botchat, An_Average_Fellow#1532, ;luck
+02 Oct 2016 22:40:31 : LimitlessMc, botchat, Botfuzzy77#2209, An_Average_Fellow's luck is 53.96 out of 100, which is **Not Bad**
+02 Oct 2016 22:43:51 : The Wild Weebs, general, Tally#2764, the arcway
+02 Oct 2016 22:43:53 : The Wild Weebs, general, Tally#2764, lvl 2
+02 Oct 2016 22:44:35 : The Wild Weebs, coding, Wertfuzzy77#0274, ```Select A.fname, A.lname, M.name, count(distinct C.role)
+From actor A, movie M, casts C
+Where M.id = C.mid AND C.pid = A.id
+group by A.id, M.id
+Having count(Distinct C.role) >= 5```
+02 Oct 2016 22:44:39 : The Wild Weebs, coding, Wertfuzzy77#0274, fix
+02 Oct 2016 22:46:26 : The Wild Weebs, general, enragednuke#2565, lol
+02 Oct 2016 22:51:03 : The Wild Weebs, coding, enragednuke#2565, ```sql
+SELECT J.fname, J.lname, J.name, count(DISTINCT J.role) as mult
+FROM 
+  (movie M
+    INNER JOIN
+  casts C
+    ON M.id = C.mid
+    INNER JOIN
+  actor A
+    ON A.id = C.pid) J
+WHERE J.year = 2015
+GROUP BY J.pid, J.mid
+HAVING mult > 4;
+```
+02 Oct 2016 23:01:46 : LimitlessMc, mainchat, Lightning#6734, @Jay113355 got a minute?
+02 Oct 2016 23:10:25 : The Wild Weebs, music, Wertfuzzy77#0274, ;playlist AnimeOpenings AnimeOpenings AnimeOpenings AnimeOpenings
+02 Oct 2016 23:11:07 : The Wild Weebs, music, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+02 Oct 2016 23:31:24 : The Wild Weebs, music, Wertfuzzy77#0274, ;loop 3
+02 Oct 2016 23:31:27 : The Wild Weebs, music, Botfuzzy77#2209, Added '*Kimi no Na wa. (Your Name.) RADWIMPS – Yumetourou (ENG SUB)*' **3** more times
+03 Oct 2016 00:09:31 : LimitlessMc, mainchat, NorthOfTime#1507, @Bringer @Lightning  hey a guy traded me a masterball for my kyog. I found a metagrass like 2 minutes later it glitched (everytime J moved the mouse the camera would move and my mouse would reset to center of screen. If I managed to get the battle tab open itd be a little better but not much.) I finally get it low health and start throwing ultras, only for it to glitch as Im choosing my next ball and throw my master. Anything you can do? Ill give up the meta for the masterball back. I was already gonna leave the battle anyway cause of the glitching.

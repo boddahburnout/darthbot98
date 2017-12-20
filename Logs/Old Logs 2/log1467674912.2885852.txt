@@ -1,0 +1,1823 @@
+04 Jul 2016 23:30:38 : Cipher , Botfuzzy77#2209 , Welcome <@151163520120127488> to Cipher!
+04 Jul 2016 23:30:45 : Cipher , Wertfuzzy77#0274 , wb
+04 Jul 2016 23:31:14 : LimitlessMc , Shadowfire1217#5809 , Imma download discord real quick
+04 Jul 2016 23:31:24 : Cipher , Babe#7098 , wb
+04 Jul 2016 23:34:10 : LimitlessMc , llbeast#0406 , hi
+04 Jul 2016 23:36:26 : Cipher , Wertfuzzy77#0274 , ```04 Jul 2016 02:05:37 : Cipher , Wertfuzzy77#0274 , !tempmute Babe 360
+04 Jul 2016 02:05:37 : Cipher , Botfuzzy77#2209 , Temp-Muted Babe for 360 Seconds
+04 Jul 2016 02:05:43 : (MUTED PLAYER)-Cipher , Babe#7098 , gfdsmn
+04 Jul 2016 02:05:44 : (MUTED PLAYER)-Cipher , Babe#7098 , dhf
+04 Jul 2016 02:05:44 : (MUTED PLAYER)-Cipher , Babe#7098 , md
+04 Jul 2016 02:05:45 : (MUTED PLAYER)-Cipher , Babe#7098 , hm
+04 Jul 2016 02:05:45 : (MUTED PLAYER)-Cipher , Babe#7098 , dh
+04 Jul 2016 02:05:46 : (MUTED PLAYER)-Cipher , Babe#7098 , d
+04 Jul 2016 02:05:46 : (MUTED PLAYER)-Cipher , Babe#7098 , hfm
+04 Jul 2016 02:05:47 : (MUTED PLAYER)-Cipher , Babe#7098 , dhfm
+04 Jul 2016 02:05:47 : (MUTED PLAYER)-Cipher , Babe#7098 , ,hd
+04 Jul 2016 02:05:47 : (MUTED PLAYER)-Cipher , Babe#7098 , d
+04 Jul 2016 02:05:54 : (MUTED PLAYER)-Cipher , Babe#7098 , ,g
+04 Jul 2016 02:05:54 : (MUTED PLAYER)-Cipher , Babe#7098 , d,h
+04 Jul 2016 02:05:54 : (MUTED PLAYER)-Cipher , Babe#7098 , d,hf
+04 Jul 2016 02:05:55 : (MUTED PLAYER)-Cipher , Babe#7098 , d,h
+04 Jul 2016 02:05:55 : (MUTED PLAYER)-Cipher , Babe#7098 , dh,f
+04 Jul 2016 02:05:55 : (MUTED PLAYER)-Cipher , Babe#7098 , yjdef
+04 Jul 2016 02:05:56 : (MUTED PLAYER)-Cipher , Babe#7098 , ASAP
+04 Jul 2016 02:05:56 : (MUTED PLAYER)-Cipher , Babe#7098 , dfehms
+04 Jul 2016 02:05:57 : (MUTED PLAYER)-Cipher , Babe#7098 , mfs
+04 Jul 2016 02:05:57 : (MUTED PLAYER)-Cipher , Babe#7098 , mshf
+04 Jul 2016 02:06:04 : (MUTED PLAYER)-Cipher , Babe#7098 , sfm
+04 Jul 2016 02:06:04 : (MUTED PLAYER)-Cipher , Babe#7098 , smgf
+04 Jul 2016 02:06:05 : (MUTED PLAYER)-Cipher , Babe#7098 , mgns
+04 Jul 2016 02:06:05 : (MUTED PLAYER)-Cipher , Babe#7098 , mgsf
+04 Jul 2016 02:06:05 : (MUTED PLAYER)-Cipher , Babe#7098 , fms
+04 Jul 2016 02:06:06 : (MUTED PLAYER)-Cipher , Babe#7098 , bet
+```
+04 Jul 2016 23:36:31 : Cipher , Meep#7098 , racist you no answear me
+04 Jul 2016 23:36:38 : Cipher , Wertfuzzy77#0274 , thx 4 that <@151163520120127488>
+04 Jul 2016 23:36:50 : Cipher , Meep#7098 , np, 10/10 would do again
+04 Jul 2016 23:37:12 : Cipher , Meep#7098 , will fill again
+04 Jul 2016 23:37:16 : Cipher , Meep#7098 , mpore than ever
+04 Jul 2016 23:37:25 : Cipher , Wertfuzzy77#0274 , im working on a better mute function
+04 Jul 2016 23:37:34 : Cipher , Meep#7098 , but l8r
+04 Jul 2016 23:37:35 : Cipher , Wertfuzzy77#0274 , one that doesnt even let the message go thru
+04 Jul 2016 23:37:40 : Cipher , Meep#7098 , bet
+04 Jul 2016 23:37:45 : Cipher , Wertfuzzy77#0274 , instead of deleting it after the fact
+04 Jul 2016 23:37:48 : Cipher , Meep#7098 , i always find a way...
+04 Jul 2016 23:37:52 : Cipher , Wertfuzzy77#0274 , I got it to work, but i need to just code it
+04 Jul 2016 23:37:55 : Cipher , Wertfuzzy77#0274 , watch
+04 Jul 2016 23:38:01 : Cipher , Wertfuzzy77#0274 , try typing
+04 Jul 2016 23:38:10 : Cipher , Wertfuzzy77#0274 , gg me
+04 Jul 2016 23:38:24 : Cipher , Meep#7098 , can't edit text
+04 Jul 2016 23:38:26 : Cipher , Meep#7098 , fucker
+04 Jul 2016 23:38:47 : Cipher , Wertfuzzy77#0274 , yup, cant do anything
+04 Jul 2016 23:38:52 : Cipher , Meep#7098 , kys
+04 Jul 2016 23:39:57 : Cipher , Meep#7098 , !debug ctx.message.server.get_member_named("Dudubidu").avatar_url
+04 Jul 2016 23:39:57 : Cipher , Botfuzzy77#2209 , ```py
+https://discordapp.com/api/users/180734543488090123/avatars/4816c80d33b5e51878521fafcb9b3544.jpg
+```
+04 Jul 2016 23:40:03 : Cipher , Meep#7098 , wtf is du's profile pic
+04 Jul 2016 23:40:08 : Cipher , Meep#7098 , srsly
+04 Jul 2016 23:40:13 : Cipher , Meep#7098 , o,forget about it
+04 Jul 2016 23:40:18 : Cipher , Meep#7098 , mega thing
+04 Jul 2016 23:40:27 : Cipher , Wertfuzzy77#0274 , oooo, you rememeber the code line
+04 Jul 2016 23:40:27 : Cipher , Meep#7098 , blaziken
+04 Jul 2016 23:40:30 : Cipher , Wertfuzzy77#0274 , you learning
+04 Jul 2016 23:40:31 : Cipher , Wertfuzzy77#0274 , gj
+04 Jul 2016 23:41:01 : Cipher , Wertfuzzy77#0274 , but yeah, i think its Mega Blazakin
+04 Jul 2016 23:41:11 : Cipher , Meep#7098 , wert
+04 Jul 2016 23:41:17 : Cipher , Wertfuzzy77#0274 , roy
+04 Jul 2016 23:41:23 : Cipher , Meep#7098 , wat was the code for default avatar pics?
+04 Jul 2016 23:41:27 : Cipher , Meep#7098 , Meep
+04 Jul 2016 23:41:39 : Cipher , Wertfuzzy77#0274 , !debug ctx.message.server.get_member_named("Dudubidu").default_avatar
+04 Jul 2016 23:41:39 : Cipher , Botfuzzy77#2209 , ```py
+blurple
+```
+04 Jul 2016 23:41:43 : Cipher , Wertfuzzy77#0274 , wut
+04 Jul 2016 23:41:47 : Cipher , Wertfuzzy77#0274 , xD
+04 Jul 2016 23:41:48 : Cipher , Meep#7098 , lmfao
+04 Jul 2016 23:41:49 : Cipher , Meep#7098 , wtf
+04 Jul 2016 23:41:54 : Cipher , Wertfuzzy77#0274 , gg bot
+04 Jul 2016 23:41:55 : Cipher , Wertfuzzy77#0274 , gg
+04 Jul 2016 23:42:12 : Cipher , Wertfuzzy77#0274 , like what even is a Blurple!!!!?!?!?!?!?!?!!
+04 Jul 2016 23:42:22 : Cipher , Wertfuzzy77#0274 , !debug ctx.message.server.get_member_named("Wertfuzzy77").default_avatar
+04 Jul 2016 23:42:23 : Cipher , Botfuzzy77#2209 , ```py
+red
+```
+04 Jul 2016 23:42:28 : Cipher , Wertfuzzy77#0274 , ?????????????
+04 Jul 2016 23:42:30 : Cipher , Meep#7098 , blue + purple = vomit
+04 Jul 2016 23:42:59 : Cipher , Wertfuzzy77#0274 , !debug ctx.message.server.get_member_named("Wertfuzzy77").default_avatar_url
+04 Jul 2016 23:42:59 : Cipher , Botfuzzy77#2209 , ```py
+https://discordapp.com/assets/1cbd08c76f8af6dddce02c5138971129.png
+```
+04 Jul 2016 23:43:01 : Cipher , Wertfuzzy77#0274 , better
+04 Jul 2016 23:43:10 : Cipher , Wertfuzzy77#0274 , !debug ctx.message.server.get_member_named("Dudubidu").default_avatar_url
+04 Jul 2016 23:43:10 : Cipher , Botfuzzy77#2209 , ```py
+https://discordapp.com/assets/6debd47ed13483642cf09e832ed0bc1b.png
+```
+04 Jul 2016 23:43:19 : Cipher , Meep#7098 , racist
+04 Jul 2016 23:43:21 : Cipher , Wertfuzzy77#0274 , apparently, ^ is blurple
+04 Jul 2016 23:44:09 : Cipher , Meep#7098 , bitch, i have an almost photographic memory, i can memorize simple codes
+04 Jul 2016 23:44:15 : Cipher , Wertfuzzy77#0274 , gj
+04 Jul 2016 23:44:32 : Cipher , Wertfuzzy77#0274 , I just use this
+04 Jul 2016 23:44:32 : Cipher , Wertfuzzy77#0274 , http://discordpy.readthedocs.io/en/latest/api.html#data-classes
+04 Jul 2016 23:44:36 : Cipher , Wertfuzzy77#0274 , v helpful
+04 Jul 2016 23:44:42 : Cipher , Meep#7098 , wat that?
+04 Jul 2016 23:44:52 : Cipher , Wertfuzzy77#0274 , a readthedocs page
+04 Jul 2016 23:44:57 : Cipher , Wertfuzzy77#0274 , tells you every method
+04 Jul 2016 23:45:00 : Cipher , Wertfuzzy77#0274 , and what they do
+04 Jul 2016 23:45:28 : Cipher , Meep#7098 , k will read l8r
+04 Jul 2016 23:45:43 : Cipher , Wertfuzzy77#0274 , btw, ctx = a Context Object
+04 Jul 2016 23:47:01 : Cipher , Wertfuzzy77#0274 , !debug discord.utils.get(ctx.message.server.members, name="Botfuzzy77")
+04 Jul 2016 23:47:01 : Cipher , Botfuzzy77#2209 , ```py
+Botfuzzy77#2209
+```
+04 Jul 2016 23:47:04 : Cipher , Wertfuzzy77#0274 , fancy
+04 Jul 2016 23:48:06 : Cipher , Meep#7098 , !debug discord.utils.get(ctx.message.server.members, name="GET AN ICON YA BUM")
+04 Jul 2016 23:48:06 : Cipher , Botfuzzy77#2209 , ```py
+None
+```
+04 Jul 2016 23:48:09 : Cipher , Meep#7098 , wtf
+04 Jul 2016 23:48:21 : Cipher , Wertfuzzy77#0274 , cause is nickname
+04 Jul 2016 23:48:25 : Cipher , Meep#7098 , !debug discord.utils.get(ctx.message.server.members, name="GET_AN_ICON_YA_BUM")
+04 Jul 2016 23:48:25 : Cipher , Botfuzzy77#2209 , ```py
+None
+```
+04 Jul 2016 23:48:30 : Cipher , Meep#7098 , oh k
+04 Jul 2016 23:48:38 : Cipher , Wertfuzzy77#0274 , !debug discord.utils.get(ctx.message.server.members, display_name="GET_AN_ICON_YA_BUM")
+04 Jul 2016 23:48:38 : Cipher , Botfuzzy77#2209 , ```py
+None
+```
+04 Jul 2016 23:48:53 : Cipher , Wertfuzzy77#0274 , !debug discord.utils.get(ctx.message.server.members, display_name="GET AN ICON YA BUM")
+04 Jul 2016 23:48:53 : Cipher , Botfuzzy77#2209 , ```py
+Meep#7156
+```
+04 Jul 2016 23:48:56 : Cipher , Wertfuzzy77#0274 , there we go
+04 Jul 2016 23:49:04 : Cipher , Meep#7098 , who tf is roboDK88
+04 Jul 2016 23:49:17 : Cipher , Wertfuzzy77#0274 , brother
+04 Jul 2016 23:49:37 : Cipher , Meep#7098 , omfg you have a brother?
+04 Jul 2016 23:49:43 : Cipher , Meep#7098 , can i fuck him?
+04 Jul 2016 23:49:49 : Cipher , Wertfuzzy77#0274 , weirdo
+04 Jul 2016 23:49:52 : Cipher , Meep#7098 , who is kimo?
+04 Jul 2016 23:50:01 : Cipher , Wertfuzzy77#0274 , random person
+04 Jul 2016 23:50:03 : Cipher , Meep#7098 , and who is mxflare
+04 Jul 2016 23:50:08 : Cipher , Wertfuzzy77#0274 , fuze / joel invited
+04 Jul 2016 23:50:13 : Cipher , Wertfuzzy77#0274 , also random person
+04 Jul 2016 23:50:16 : Cipher , Meep#7098 , who is joel?
+04 Jul 2016 23:50:57 : Cipher , Meep#7098 , ur brother never on <@!134441036905840640>
+04 Jul 2016 23:51:01 : Cipher , Meep#7098 , when i date him?
+04 Jul 2016 23:51:15 : Cipher , Wertfuzzy77#0274 , weirdo
+04 Jul 2016 23:51:17 : Cipher , Wertfuzzy77#0274 , ooooooooooooo
+04 Jul 2016 23:51:23 : Cipher , Wertfuzzy77#0274 , i think i found an ez way to make music bot
+04 Jul 2016 23:51:40 : Cipher , Meep#7098 , make <@!187609093001838602> support !meme k
+04 Jul 2016 23:51:45 : Cipher , Wertfuzzy77#0274 , never
+04 Jul 2016 23:51:46 : Cipher , Wertfuzzy77#0274 , hate that
+04 Jul 2016 23:51:50 : Cipher , Wertfuzzy77#0274 , super spammy
+04 Jul 2016 23:51:50 : Cipher , Meep#7098 , fs
+04 Jul 2016 23:51:55 : Cipher , Meep#7098 , add gerald then
+04 Jul 2016 23:52:01 : Cipher , Wertfuzzy77#0274 , i ban gerald okei
+04 Jul 2016 23:52:09 : Cipher , Meep#7098 , i want my dank memes <@!134441036905840640>
+04 Jul 2016 23:52:15 : Cipher , Meep#7098 , <@!158285674666131457>
+04 Jul 2016 23:52:23 : Cipher , Meep#7098 , date me
+04 Jul 2016 23:53:47 : Cipher , Wertfuzzy77#0274 , !debug this
+04 Jul 2016 23:53:47 : Cipher , Botfuzzy77#2209 , ```py
+NameError: name 'this' is not defined
+```
+04 Jul 2016 23:53:49 : Cipher , Wertfuzzy77#0274 , rip
+04 Jul 2016 23:54:19 : Cipher , Meep#7098 , Meep
+04 Jul 2016 23:54:39 : Cipher , Wertfuzzy77#0274 , !debug await bot.send_message(CIPHERCHAT, "Hello")
+04 Jul 2016 23:54:40 : Cipher , Botfuzzy77#2209 , ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+04 Jul 2016 23:54:42 : Cipher , Wertfuzzy77#0274 , rip
+04 Jul 2016 23:55:07 : Cipher , T.A.R.D.I.S#7098 , bet
+04 Jul 2016 23:55:16 : Cipher , T.A.R.D.I.S#7098 , brb
+04 Jul 2016 23:55:19 : Cipher , T.A.R.D.I.S#7098 , afk
+04 Jul 2016 23:55:23 : Cipher , Wertfuzzy77#0274 , sure
+04 Jul 2016 23:55:53 : Cipher , Wertfuzzy77#0274 , !debug <@&180356638245388288>.command()
+async def joined(member : discord.Member):
+    """Says when a member joined."""
+    await bot.say('{0.name} joined in {0.joined_at}'.format(member))
+04 Jul 2016 23:55:53 : Cipher , Botfuzzy77#2209 , ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+04 Jul 2016 23:55:57 : Cipher , Wertfuzzy77#0274 , rip
+04 Jul 2016 23:57:10 : Cipher , T.A.R.D.I.S#7098 , Wert wtf kind off curses are you performing?
+04 Jul 2016 23:57:47 : Cipher , Wertfuzzy77#0274 , what debug actually does, is take what you write, complie it using python, and run it
+04 Jul 2016 23:58:06 : Cipher , Wertfuzzy77#0274 , so, i tried to copy and paste python code i am currently using, and see if it would work
+04 Jul 2016 23:58:09 : Cipher , Wertfuzzy77#0274 , and it did not
+05 Jul 2016 00:16:12 : Cipher , JustinOPGamer#9138 , Gj
+05 Jul 2016 00:21:56 : LimitlessMc , MountainDewRed#4034 , !youtube pokemon music remix
+05 Jul 2016 00:22:44 : LimitlessMc , MountainDewRed#4034 , oh no i woke up gerald
+05 Jul 2016 00:24:49 : LimitlessMc , Botfuzzy77#2209 , Welcome <@199681961952935940> to LimitlessMc!
+05 Jul 2016 00:25:03 : LimitlessMc , Some Nigger#9486 , hi
+05 Jul 2016 00:27:59 : LimitlessMc , MountainDewRed#4034 , !queue
+05 Jul 2016 00:28:00 : LimitlessMc , Gerald#7099 , The queue is empty
+05 Jul 2016 00:28:26 : LimitlessMc , MountainDewRed#4034 , !youtube pokemon music remix
+05 Jul 2016 00:28:33 : LimitlessMc , MountainDewRed#4034 , !queue
+05 Jul 2016 00:28:34 : LimitlessMc , Gerald#7099 , The queue is empty
+05 Jul 2016 00:29:10 : LimitlessMc , MountainDewRed#4034 , !YouTube pokemon music remix
+05 Jul 2016 00:29:17 : LimitlessMc , MountainDewRed#4034 , !queue
+05 Jul 2016 00:29:17 : LimitlessMc , Gerald#7099 , The queue is empty
+05 Jul 2016 00:44:54 : LimitlessMc , Gerald#7099 , The queue is empty
+05 Jul 2016 00:50:25 : LimitlessMc , Gerald#7099 , I see you and talk with you and travel with you.
+05 Jul 2016 00:51:53 : LimitlessMc , Gerald#7099 , Sorry, I didn't find anything
+05 Jul 2016 00:54:43 : LimitlessMc , T.A.R.D.I.S#7098 , bet
+05 Jul 2016 00:54:49 : Cipher , T.A.R.D.I.S#7098 , <@!134441036905840640>
+05 Jul 2016 00:54:53 : Cipher , Wertfuzzy77#0274 , ?
+05 Jul 2016 00:55:18 : Cipher , T.A.R.D.I.S#7098 , screenshooted
+05 Jul 2016 00:55:32 : Cipher , T.A.R.D.I.S#7098 , 
+05 Jul 2016 00:55:58 : Cipher , T.A.R.D.I.S#7098 , rude
+05 Jul 2016 00:56:07 : Cipher , T.A.R.D.I.S#7098 , <@!134441036905840640>
+05 Jul 2016 00:57:55 : Cipher , Wertfuzzy77#0274 , kys
+05 Jul 2016 00:58:00 : Cipher , T.A.R.D.I.S#7098 , rude
+05 Jul 2016 01:49:28 : LimitlessMc , Botfuzzy77#2209 , Welcome <@163748257938276352> to LimitlessMc!
+05 Jul 2016 02:19:19 : Cipher , T.A.R.D.I.S#7098 , @here fuckers wake up
+05 Jul 2016 02:37:32 : Cipher , T.A.R.D.I.S#7098 , <@!134441036905840640> don't sleep on me cunt
+05 Jul 2016 02:43:46 : Cipher , Botfuzzy77#7098 , !redeem -666
+05 Jul 2016 02:43:46 : Cipher , Botfuzzy77#2209 , <@151163520120127488> won...
+05 Jul 2016 02:43:46 : Cipher , Botfuzzy77#2209 , *With Testing Code*
+05 Jul 2016 02:43:46 : Cipher , Botfuzzy77#2209 , - Power Bracer, $275
+05 Jul 2016 02:43:53 : Cipher , Botfuzzy77#7098 , !redeem -1
+05 Jul 2016 02:43:53 : Cipher , Botfuzzy77#2209 , <@151163520120127488> won...
+05 Jul 2016 02:43:53 : Cipher , Botfuzzy77#2209 , *With Testing Code*
+05 Jul 2016 02:43:53 : Cipher , Botfuzzy77#2209 , - TM86: Grass Knot, $100
+05 Jul 2016 02:43:58 : Cipher , Botfuzzy77#7098 , !redeem -2
+05 Jul 2016 02:43:58 : Cipher , Botfuzzy77#2209 , <@151163520120127488> won...
+05 Jul 2016 02:43:58 : Cipher , Botfuzzy77#2209 , *With Testing Code*
+05 Jul 2016 02:43:58 : Cipher , Botfuzzy77#2209 , - Expert Belt, $200
+05 Jul 2016 02:44:04 : Cipher , Botfuzzy77#7098 , !redeem -25467869
+05 Jul 2016 02:44:04 : Cipher , Botfuzzy77#2209 , <@151163520120127488> won...
+05 Jul 2016 02:44:05 : Cipher , Botfuzzy77#2209 , *With Testing Code*
+05 Jul 2016 02:44:05 : Cipher , Botfuzzy77#2209 , - Destiny Knot, $125
+05 Jul 2016 02:44:12 : Cipher , Botfuzzy77#7098 , !reddem 1234567898
+05 Jul 2016 02:44:23 : Cipher , Botfuzzy77#7098 , !redeem 324567
+05 Jul 2016 02:44:23 : Cipher , Botfuzzy77#2209 , 324567 is an INVALID Code
+05 Jul 2016 02:44:31 : Cipher , Botfuzzy77#7098 , !redeem -12345678
+05 Jul 2016 02:44:31 : Cipher , Botfuzzy77#2209 , <@151163520120127488> won...
+05 Jul 2016 02:44:32 : Cipher , Botfuzzy77#2209 , *With Testing Code*
+05 Jul 2016 02:44:32 : Cipher , Botfuzzy77#2209 , - TM29: Psychic, $750
+05 Jul 2016 02:44:37 : Cipher , Botfuzzy77#7098 , !redeem -34567
+05 Jul 2016 02:44:37 : Cipher , Botfuzzy77#2209 , <@151163520120127488> won...
+05 Jul 2016 02:44:37 : Cipher , Botfuzzy77#2209 , *With Testing Code*
+05 Jul 2016 02:44:37 : Cipher , Botfuzzy77#2209 , - TM75: Swords Dance, $200
+05 Jul 2016 02:44:44 : Cipher , Botfuzzy77#7098 , !redeem -666
+05 Jul 2016 02:44:44 : Cipher , Botfuzzy77#2209 , <@151163520120127488> won...
+05 Jul 2016 02:44:44 : Cipher , Botfuzzy77#2209 , *With Testing Code*
+05 Jul 2016 02:44:45 : Cipher , Botfuzzy77#2209 , - TM33: Reflect, $50
+05 Jul 2016 02:44:49 : Cipher , Botfuzzy77#7098 , fuck you fake
+05 Jul 2016 02:44:59 : Cipher , Botfuzzy77#7098 , !redeem -3456789765434567876567876545678976545678900786547898754890675478971390'89
+05 Jul 2016 02:45:12 : Cipher , Botfuzzy77#7098 , !redeem -234567874456789654678546789765432456789
+05 Jul 2016 02:45:12 : Cipher , Botfuzzy77#2209 , <@151163520120127488> won...
+05 Jul 2016 02:45:12 : Cipher , Botfuzzy77#2209 , *With Testing Code*
+05 Jul 2016 02:45:12 : Cipher , Botfuzzy77#2209 , - Focus Sash, $400
+05 Jul 2016 02:47:15 : LimitlessMc , xPalkia(lugia)#8149 , Server restarted? is that why so many people are on
+05 Jul 2016 02:47:21 : LimitlessMc , llbeast#0406 , wut
+05 Jul 2016 02:52:52 : Cipher , JustinOPGamer#9138 , lel
+05 Jul 2016 02:53:01 : Cipher , JustinOPGamer#9138 , Only the weak sleep
+05 Jul 2016 02:53:31 : Cipher , Botfuzzy77#7098 , Ikr
+05 Jul 2016 02:58:51 : LimitlessMc , PigMinted#4566 , is th server down?
+05 Jul 2016 03:29:53 : LimitlessMc , Mystz#8072 , ruki is racist
+05 Jul 2016 03:29:56 : LimitlessMc , Mystz#8072 , <@170365279774179338>
+05 Jul 2016 03:30:01 : LimitlessMc , PigMinted#4566 , ikr
+05 Jul 2016 03:30:12 : LimitlessMc , Mystz#8072 , <@134441036905840640> hep i abused
+05 Jul 2016 03:48:27 : LimitlessMc , xPalkia(lugia)#8149 , <@196041873956012033>
+05 Jul 2016 04:50:03 : Cipher , Akinci#5072 , Hello
+05 Jul 2016 04:50:03 : Cipher , Botfuzzy77#2209 , *From The Other Side*
+05 Jul 2016 04:50:17 : Cipher , Akinci#5072 , !redeem -31
+05 Jul 2016 04:50:17 : Cipher , Botfuzzy77#2209 , <@187658828739903489> won...
+05 Jul 2016 04:50:17 : Cipher , Botfuzzy77#2209 , *With Testing Code*
+05 Jul 2016 04:50:17 : Cipher , Botfuzzy77#2209 , - TM128: Curse, $100
+05 Jul 2016 04:50:56 : Cipher , Akinci#5072 , !redeem -656
+05 Jul 2016 04:50:56 : Cipher , Botfuzzy77#2209 , <@187658828739903489> won...
+05 Jul 2016 04:50:57 : Cipher , Botfuzzy77#2209 , *With Testing Code*
+05 Jul 2016 04:50:57 : Cipher , Botfuzzy77#2209 , - TM12: Taunt, $100
+05 Jul 2016 04:51:32 : Cipher , Akinci#5072 , !redeem -22222
+05 Jul 2016 04:51:32 : Cipher , Botfuzzy77#2209 , <@187658828739903489> won...
+05 Jul 2016 04:51:32 : Cipher , Botfuzzy77#2209 , *With Testing Code*
+05 Jul 2016 04:51:33 : Cipher , Botfuzzy77#2209 , - Master Ball, $2000
+05 Jul 2016 04:51:37 : Cipher , Akinci#5072 , Ooooh
+05 Jul 2016 04:55:10 : LimitlessMc , Renamon#9283 , Is the server ded
+05 Jul 2016 04:55:20 : LimitlessMc , Renamon#9283 , Just got a "Server Closed" and not a restart
+05 Jul 2016 04:55:25 : LimitlessMc , xPalkia(lugia)#8149 , ya
+05 Jul 2016 04:55:28 : LimitlessMc , xPalkia(lugia)#8149 , rip
+05 Jul 2016 04:58:24 : LimitlessMc , Renamon#9283 , _OH_
+05 Jul 2016 04:58:24 : LimitlessMc , Renamon#9283 , its alive
+05 Jul 2016 04:58:46 : LimitlessMc , xPalkia(lugia)#8149 , ya
+05 Jul 2016 05:01:28 : LimitlessMc , xPalkia(lugia)#8149 , <@84620757992210432>  what is your in game name btw?
+05 Jul 2016 05:01:32 : LimitlessMc , Renamon#9283 , toxekcat
+05 Jul 2016 05:01:48 : LimitlessMc , xPalkia(lugia)#8149 , k
+05 Jul 2016 05:40:36 : LimitlessMc , {BR}GuardiaN#3763 , I just won 500 masterballs for free!!! Get some for yourself at here -------> www.kys.com
+05 Jul 2016 05:40:50 : LimitlessMc , {BR}GuardiaN#3763 , I don't even
+05 Jul 2016 05:40:58 : LimitlessMc , {BR}GuardiaN#3763 , Wtf that's an actual online store
+05 Jul 2016 06:19:16 : LimitlessMc , Skyd#9935 , Someone has looted most of rock gym. 
+05 Jul 2016 07:04:52 : LimitlessMc , Botfuzzy77#2209 , Welcome <@145942247022657536> to LimitlessMc!
+05 Jul 2016 07:05:38 : LimitlessMc , KingSTARwolf#4730 , Love losing shinies to the server.... -.-
+05 Jul 2016 07:38:50 : LimitlessMc , depthy#3405 , <@145942247022657536> what do you mean? Screenshots?
+05 Jul 2016 07:39:52 : LimitlessMc , KingSTARwolf#4730 , I posted to the forums. I caught a riolu, and noticed my shiny aggron was gone. I looked in the pc, relogged and restarted and looked again and it is still gone.
+05 Jul 2016 07:40:12 : LimitlessMc , KingSTARwolf#4730 , And yes I have screenshots of it to prove I had it
+05 Jul 2016 07:42:52 : LimitlessMc , KingSTARwolf#4730 , Any way you can help me?
+05 Jul 2016 07:45:19 : LimitlessMc , depthy#3405 , Yeah I'll be on pc in like an hour probs
+05 Jul 2016 07:45:33 : LimitlessMc , depthy#3405 , I'll resolve then, okay?;
+05 Jul 2016 07:45:34 : LimitlessMc , Mystz#8072 , i slep
+05 Jul 2016 07:45:50 : LimitlessMc , depthy#3405 , Okei Tyler u slep
+05 Jul 2016 07:45:52 : LimitlessMc , depthy#3405 , Gnight
+05 Jul 2016 07:46:02 : LimitlessMc , depthy#3405 , Don't 4get to brush your teeth
+05 Jul 2016 07:46:08 : LimitlessMc , KingSTARwolf#4730 , Ok. Night Mystz
+05 Jul 2016 07:51:42 : LimitlessMc , Mystz#8072 , i test pack in custom game
+05 Jul 2016 07:51:43 : LimitlessMc , Mystz#8072 , i slep
+05 Jul 2016 07:51:45 : LimitlessMc , Mystz#8072 , good niteo
+05 Jul 2016 08:00:24 : LimitlessMc , depthy#3405 , Nerd
+05 Jul 2016 08:27:14 : LimitlessMc , depthy#3405 , <@186718364943515648> who are you in game
+05 Jul 2016 08:27:19 : LimitlessMc , depthy#3405 , Are you alphabitch
+05 Jul 2016 08:27:21 : LimitlessMc , depthy#3405 , ?
+05 Jul 2016 08:35:28 : LimitlessMc , Mank#0033 , AlphaCunt
+05 Jul 2016 08:39:48 : LimitlessMc , depthy#3405 , Okei
+05 Jul 2016 08:39:53 : LimitlessMc , depthy#3405 , Gud 2 kno
+05 Jul 2016 08:40:09 : LimitlessMc , KingSTARwolf#4730 , <@186857995802640384>  lmk when you get on to help. Watching Summer games done quick
+05 Jul 2016 08:40:15 : LimitlessMc , depthy#3405 , Okei
+05 Jul 2016 09:06:51 : LimitlessMc , KingSTARwolf#4730 , Server crash?
+05 Jul 2016 09:07:08 : LimitlessMc , KingSTARwolf#4730 , Nvm just died randomly
+05 Jul 2016 09:12:43 : LimitlessMc , depthy#3405 , Hey btw
+05 Jul 2016 09:12:47 : LimitlessMc , depthy#3405 , are y'all aware I can see
+05 Jul 2016 09:12:51 : LimitlessMc , depthy#3405 , what mods you're using
+05 Jul 2016 09:13:03 : LimitlessMc , depthy#3405 , bc some of you *loud cough* have been using gameshark
+05 Jul 2016 09:13:20 : LimitlessMc , depthy#3405 , and it would be a shame if I had to ban y'all so seriously
+05 Jul 2016 09:13:24 : LimitlessMc , depthy#3405 , stop using cheat mods
+05 Jul 2016 09:14:37 : LimitlessMc , KingSTARwolf#4730 , ? Last time I checked it was endorsed...?
+05 Jul 2016 09:19:21 : LimitlessMc , depthy#3405 , <@145942247022657536> what did you need?
+05 Jul 2016 09:19:30 : LimitlessMc , depthy#3405 , and no gameshark is illegal it gives an ingame advantage
+05 Jul 2016 09:19:47 : LimitlessMc , KingSTARwolf#4730 , Lost my shiny aggron to server glitching
+05 Jul 2016 09:19:47 : LimitlessMc , depthy#3405 , it's like gameshark to the real pokemon games- everyone knows about it but only assholes who can't play fair use it
+05 Jul 2016 09:19:52 : LimitlessMc , depthy#3405 , Okay
+05 Jul 2016 09:19:56 : LimitlessMc , depthy#3405 , lemme check forum post, sec
+05 Jul 2016 09:22:45 : LimitlessMc , depthy#3405 , what's your username? Same as discord?
+05 Jul 2016 10:41:26 : Cipher , Akinci#5072 , !help
+05 Jul 2016 10:43:22 : Cipher , Akinci#5072 , !joined
+05 Jul 2016 10:43:36 : Cipher , Akinci#5072 , !joined Akinci
+05 Jul 2016 10:43:36 : Cipher , Botfuzzy77#2209 , Akinci joined in 2016-06-01 20:11:59.814000
+05 Jul 2016 10:44:16 : Cipher , Akinci#5072 , !joined Wertfuzzy77
+05 Jul 2016 10:44:16 : Cipher , Botfuzzy77#2209 , Wertfuzzy77 joined in 2016-04-26 05:45:12.373000
+05 Jul 2016 10:45:56 : Cipher , Akinci#5072 , !status
+05 Jul 2016 10:45:57 : Cipher , Botfuzzy77#2209 , UpTime: 40642.107s
+05 Jul 2016 10:45:57 : Cipher , Botfuzzy77#2209 , Total Messages: 259
+05 Jul 2016 10:46:17 : Cipher , Akinci#5072 , !redeem -62589
+05 Jul 2016 10:46:17 : Cipher , Botfuzzy77#2209 , <@187658828739903489> won...
+05 Jul 2016 10:46:17 : Cipher , Botfuzzy77#2209 , *With Testing Code*
+05 Jul 2016 10:46:18 : Cipher , Botfuzzy77#2209 , - Master Ball, $2000
+05 Jul 2016 10:46:25 : Cipher , Akinci#5072 , M8
+05 Jul 2016 10:46:49 : Cipher , Akinci#5072 , !redeem -95257
+05 Jul 2016 10:46:49 : Cipher , Botfuzzy77#2209 , <@187658828739903489> won...
+05 Jul 2016 10:46:49 : Cipher , Botfuzzy77#2209 , *With Testing Code*
+05 Jul 2016 10:46:49 : Cipher , Botfuzzy77#2209 , - Power Anklet, $300
+05 Jul 2016 10:47:37 : Cipher , Akinci#5072 , !redeem -88885
+05 Jul 2016 10:47:37 : Cipher , Botfuzzy77#2209 , <@187658828739903489> won...
+05 Jul 2016 10:47:38 : Cipher , Botfuzzy77#2209 , *With Testing Code*
+05 Jul 2016 10:47:38 : Cipher , Botfuzzy77#2209 , - Power Weight, $275
+05 Jul 2016 10:47:59 : Cipher , Akinci#5072 , !redeem -22222
+05 Jul 2016 10:47:59 : Cipher , Botfuzzy77#2209 , <@187658828739903489> won...
+05 Jul 2016 10:47:59 : Cipher , Botfuzzy77#2209 , *With Testing Code*
+05 Jul 2016 10:47:59 : Cipher , Botfuzzy77#2209 , - $2000, $2000
+05 Jul 2016 10:48:16 : Cipher , Akinci#5072 , !redeem -22222
+05 Jul 2016 10:48:16 : Cipher , Botfuzzy77#2209 , <@187658828739903489> won...
+05 Jul 2016 10:48:16 : Cipher , Botfuzzy77#2209 , *With Testing Code*
+05 Jul 2016 10:48:16 : Cipher , Botfuzzy77#2209 , - Eviolite, $200
+05 Jul 2016 10:48:38 : Cipher , Akinci#5072 , !redeem -1337
+05 Jul 2016 10:48:38 : Cipher , Botfuzzy77#2209 , <@187658828739903489> won...
+05 Jul 2016 10:48:38 : Cipher , Botfuzzy77#2209 , *With Testing Code*
+05 Jul 2016 10:48:38 : Cipher , Botfuzzy77#2209 , - Expert Belt, $200
+05 Jul 2016 10:49:01 : Cipher , Akinci#5072 , You suck <@&180356638245388288> 
+05 Jul 2016 10:49:15 : Cipher , Akinci#5072 , jk
+05 Jul 2016 14:47:34 : LimitlessMc , Botfuzzy77#2209 , Welcome <@199899082418946049> to LimitlessMc!
+05 Jul 2016 14:49:30 : LimitlessMc , depthy#3405 , Hello <@199899082418946049>
+05 Jul 2016 14:50:05 : LimitlessMc , Exocutioner13#0925 , hello depthy! can I get an inv link? this is not my main account on here lol
+05 Jul 2016 14:50:16 : LimitlessMc , Exocutioner13#0925 , forgot to login and idk how to log out
+05 Jul 2016 14:54:09 : LimitlessMc , Botfuzzy77#2209 , Welcome <@142108738516549632> to LimitlessMc!
+05 Jul 2016 14:54:17 : LimitlessMc , Exocutioner13#3277 , Fixed it
+05 Jul 2016 14:54:18 : LimitlessMc , Exocutioner13#3277 , lol
+05 Jul 2016 15:57:18 : LimitlessMc , Resolate#7058 , !meme Server Restarts
+05 Jul 2016 15:57:20 : LimitlessMc , Gerald#7099 , http://i.imgflip.com/16xic0.jpg
+05 Jul 2016 15:57:37 : LimitlessMc , depthy#3405 , ._.
+05 Jul 2016 15:57:52 : LimitlessMc , depthy#3405 , !Meme When players whine about restarts
+05 Jul 2016 15:57:58 : LimitlessMc , Resolate#7058 , xD
+05 Jul 2016 15:58:06 : LimitlessMc , depthy#3405 , fk capital meme
+05 Jul 2016 15:58:06 : LimitlessMc , Resolate#7058 , So true
+05 Jul 2016 15:58:15 : LimitlessMc , depthy#3405 , !meme When players whine about restarts
+05 Jul 2016 15:58:16 : LimitlessMc , depthy#3405 , there
+05 Jul 2016 15:58:16 : LimitlessMc , Gerald#7099 , http://i.imgflip.com/16xidy.jpg
+05 Jul 2016 15:58:20 : LimitlessMc , depthy#3405 , .-.
+05 Jul 2016 15:58:22 : LimitlessMc , depthy#3405 , gerald broke?
+05 Jul 2016 15:58:25 : LimitlessMc , depthy#3405 , !meme test
+05 Jul 2016 15:58:27 : LimitlessMc , Gerald#7099 , http://i.imgflip.com/16xiea.jpg
+05 Jul 2016 15:58:29 : LimitlessMc , depthy#3405 , !meme balls
+05 Jul 2016 15:58:31 : LimitlessMc , Gerald#7099 , http://i.imgflip.com/16xieh.jpg
+05 Jul 2016 15:58:32 : LimitlessMc , depthy#3405 , ok nvm
+05 Jul 2016 15:58:33 : LimitlessMc , depthy#3405 , weird
+05 Jul 2016 16:48:44 : Cipher , ItzFuzeM8#0498 , !redeem -666
+05 Jul 2016 16:48:44 : Cipher , Botfuzzy77#2209 , <@172468701826646016> won...
+05 Jul 2016 16:48:44 : Cipher , Botfuzzy77#2209 , *With Testing Code*
+05 Jul 2016 16:48:45 : Cipher , Botfuzzy77#2209 , - TM65: Shadow Claw, $100
+05 Jul 2016 16:48:48 : Cipher , ItzFuzeM8#0498 , fuck u
+05 Jul 2016 16:49:00 : Cipher , ItzFuzeM8#0498 , !redeem -
+05 Jul 2016 16:49:05 : Cipher , ItzFuzeM8#0498 , !redeem -8
+05 Jul 2016 16:49:06 : Cipher , Botfuzzy77#2209 , <@172468701826646016> won...
+05 Jul 2016 16:49:06 : Cipher , Botfuzzy77#2209 , *With Testing Code*
+05 Jul 2016 16:49:06 : Cipher , Botfuzzy77#2209 , - HM07: Waterfall, $100
+05 Jul 2016 16:49:08 : Cipher , ItzFuzeM8#0498 , ahaa nk
+05 Jul 2016 17:11:27 : Cipher , Botfuzzy77#2209 , <@186718364943515648> won...
+05 Jul 2016 17:11:27 : Cipher , Botfuzzy77#2209 , *With Testing Code*
+05 Jul 2016 17:11:27 : Cipher , Botfuzzy77#2209 , - TM17: Protect, $500
+05 Jul 2016 17:17:56 : Cipher , ItzFuzeM8#0498 , !redeem -666
+05 Jul 2016 17:17:57 : Cipher , Botfuzzy77#2209 , <@172468701826646016> won...
+05 Jul 2016 17:17:57 : Cipher , Botfuzzy77#2209 , *With Testing Code*
+05 Jul 2016 17:17:57 : Cipher , Botfuzzy77#2209 , - TM84: Poison Jab, $80
+05 Jul 2016 17:18:05 : Cipher , ItzFuzeM8#0498 , !redeem -342
+05 Jul 2016 17:18:05 : Cipher , Botfuzzy77#2209 , <@172468701826646016> won...
+05 Jul 2016 17:18:05 : Cipher , Botfuzzy77#2209 , *With Testing Code*
+05 Jul 2016 17:18:05 : Cipher , Botfuzzy77#2209 , - Park Ball, $2500
+05 Jul 2016 17:18:10 : Cipher , ItzFuzeM8#0498 , nice
+05 Jul 2016 17:22:25 : LimitlessMc , depthy#3405 , Shit can someone tell Jabulla
+05 Jul 2016 17:22:27 : LimitlessMc , depthy#3405 , I crashed
+05 Jul 2016 17:22:27 : LimitlessMc , depthy#3405 , fk
+05 Jul 2016 18:03:14 : LimitlessMc , Resolate#7058 , !meme When your Wifi is Shit
+05 Jul 2016 18:03:16 : LimitlessMc , Gerald#7099 , http://i.imgflip.com/16xpyv.jpg
+05 Jul 2016 18:05:48 : LimitlessMc , Resolate#7058 , Well bye guys can't even connect to the server
+05 Jul 2016 18:05:52 : LimitlessMc , Resolate#7058 , rip me
+05 Jul 2016 18:30:24 : LimitlessMc , Shadowfire1217#5809 , Server is being shut down???
+05 Jul 2016 18:31:31 : LimitlessMc , Botfuzzy77#2209 , Welcome <@165227780844290048> to LimitlessMc!
+05 Jul 2016 18:31:46 : LimitlessMc , xPalkia(lugia)#8149 , rip
+05 Jul 2016 18:38:43 : LimitlessMc , Yoshifarian#6754 , one of the vote servers are down how to get our daily 5 ?
+05 Jul 2016 18:48:34 : LimitlessMc , xPalkia(lugia)#8149 , !luck
+05 Jul 2016 18:48:35 : LimitlessMc , Gerald#7099 , My calculations say that xPalkia(lugia) will have 10.2428895305784870% luck today
+05 Jul 2016 18:48:38 : LimitlessMc , xPalkia(lugia)#8149 , !rate
+05 Jul 2016 18:48:39 : LimitlessMc , Gerald#7099 , Hmmm, I'd say I like xPalkia(lugia) to 36.0524690353507000%
+05 Jul 2016 18:48:41 : LimitlessMc , xPalkia(lugia)#8149 , k
+05 Jul 2016 18:58:32 : LimitlessMc , NorthOfTime#1507 , Just called Depthy Koontakentay
+05 Jul 2016 18:59:00 : LimitlessMc , NorthOfTime#1507 , She hasnt replied in 50 seconds. Im pretty sure she hates me now.
+05 Jul 2016 19:13:30 : LimitlessMc , depthy#3405 , no
+05 Jul 2016 19:13:31 : LimitlessMc , depthy#3405 , was afk
+05 Jul 2016 19:13:32 : LimitlessMc , depthy#3405 , .-.
+05 Jul 2016 19:13:43 : LimitlessMc , depthy#3405 , <@134441036905840640>  reply dangit
+05 Jul 2016 19:24:00 : LimitlessMc , xPalkia(lugia)#8149 , Rip server or lag?
+05 Jul 2016 19:24:15 : LimitlessMc , xPalkia(lugia)#8149 , .-.
+05 Jul 2016 19:29:16 : LimitlessMc , xPalkia(lugia)#8149 , <@186857995802640384>  I cant join the server .-.
+05 Jul 2016 19:29:41 : LimitlessMc , xPalkia(lugia)#8149 , now I can I hope
+05 Jul 2016 19:29:49 : LimitlessMc , xPalkia(lugia)#8149 , It might kick me .-.
+05 Jul 2016 19:30:18 : LimitlessMc , depthy#3405 , lag
+05 Jul 2016 19:30:21 : LimitlessMc , depthy#3405 , lots of lag
+05 Jul 2016 20:48:26 : LimitlessMc , xPalkia(lugia)#8149 , <@134441036905840640>  <@86301028575645696>  another issue with a legendary... llbeast and magikoopa >.>
+05 Jul 2016 20:49:06 : LimitlessMc , DonTheBreton#0276 , If I have to get on, llbeast is going to be very disappointed in how I handle it. I'm eating dinner. He needs to stop now.
+05 Jul 2016 20:49:33 : LimitlessMc , TheMajesticSeal#2289 , what happened with a legendary?
+05 Jul 2016 20:49:35 : LimitlessMc , Botfuzzy77#7098 , what's the issue?
+05 Jul 2016 20:49:51 : LimitlessMc , xPalkia(lugia)#8149 , >.> llbeast and magikoopa are fighting over a mewtwo
+05 Jul 2016 20:49:59 : LimitlessMc , TheMajesticSeal#2289 , ummm
+05 Jul 2016 20:50:02 : LimitlessMc , TheMajesticSeal#2289 , whos is it?
+05 Jul 2016 20:50:03 : LimitlessMc , Botfuzzy77#7098 , why?
+05 Jul 2016 20:50:59 : LimitlessMc , xPalkia(lugia)#8149 , llbeast asked magikoopa for cloning machines and apparently made a deal that magikoopa would get a mewtwo if there was a 2nd one and llbeast says that he told magikoopa that he would get a ditto >.>
+05 Jul 2016 20:51:36 : LimitlessMc , AlphaQUp#8516 , nice english
+05 Jul 2016 20:52:00 : LimitlessMc , Genesect#6492 , https://gyazo.com/5b22c36ed85b9363453dd1c20cf9ef29
+05 Jul 2016 20:52:22 : LimitlessMc , xPalkia(lugia)#8149 , wow
+05 Jul 2016 20:52:25 : LimitlessMc , xPalkia(lugia)#8149 , rude
+05 Jul 2016 20:52:54 : LimitlessMc , Genesect#6492 , <@86301028575645696>  look at this one
+05 Jul 2016 20:52:55 : LimitlessMc , Genesect#6492 , https://gyazo.com/5b22c36ed85b9363453dd1c20cf9ef29
+05 Jul 2016 20:53:31 : LimitlessMc , D3NSH1N#8702 , What screenshot ?\
+05 Jul 2016 20:53:34 : LimitlessMc , Genesect#6492 , thats not very nice of him to say
+05 Jul 2016 20:53:50 : LimitlessMc , Genesect#6492 , i sent it to you in pm
+05 Jul 2016 20:54:32 : LimitlessMc , Botfuzzy77#7098 , https://gyazo.com/5b22c36ed85b9363453dd1c20cf9ef29 ths one i think <@172469163250548736>
+05 Jul 2016 21:02:17 : LimitlessMc , llbeast#0406 , d3
+05 Jul 2016 21:02:38 : LimitlessMc , LightShadow#5809 , x-x
+05 Jul 2016 21:15:18 : LimitlessMc , DonTheBreton#0276 , Next time I suspect you're scamming a player llbeast, you're out for good.
+05 Jul 2016 21:15:27 : LimitlessMc , DonTheBreton#0276 , I've unbanned you. Watch your mouth.
+05 Jul 2016 21:21:53 : LimitlessMc , Genesect#6492 , <@86301028575645696>  https://gyazo.com/fd64c767006ea93eb7750b680fe0e738
+05 Jul 2016 21:22:03 : LimitlessMc , Genesect#6492 , dat was rude of him to say
+05 Jul 2016 21:22:14 : LimitlessMc , Genesect#6492 , i hadn't talked to him in like 10 minutes
+05 Jul 2016 21:22:19 : LimitlessMc , Wertfuzzy77#0274 , So.... what's up?
+05 Jul 2016 21:22:19 : LimitlessMc , Genesect#6492 , and he just says that
+05 Jul 2016 21:22:59 : LimitlessMc , Calamariela#4119 , Ugh pointless drama
+05 Jul 2016 21:23:13 : Cipher , Botfuzzy77#7098 , hai babe <@183307266475294721>
+05 Jul 2016 21:24:03 : LimitlessMc , Wertfuzzy77#0274 , Hmm, I've come across this kind of deal before, however without the rude language
+05 Jul 2016 21:24:17 : Cipher , Wertfuzzy77#0274 , Weirdo
+05 Jul 2016 21:24:28 : Cipher , Botfuzzy77#7098 , fist me daddy <@!134441036905840640>
+05 Jul 2016 21:24:33 : Cipher , Wertfuzzy77#0274 , No
+05 Jul 2016 21:24:39 : Cipher , Botfuzzy77#7098 , bet
+05 Jul 2016 21:25:31 : LimitlessMc , Wertfuzzy77#0274 , !status
+05 Jul 2016 21:25:31 : LimitlessMc , Botfuzzy77#2209 , UpTime: 79016.979s
+05 Jul 2016 21:25:32 : LimitlessMc , Gerald#7099 , Some overall infos:
+
+  - Uptime: 1 hour
+  - Library version: 1.13.3
+  - RAM usage: 40.3 MB
+  - Number of plugins: 13
+  - Lines of code: 3301 (105,632 characters)
+  - Number of handled commands: 50
+  - Number of command calls: 4
+  - Number of servers: 47
+  - Number of channels: 406
+  - - text channels: 255
+  - - voice channels: 126
+  - - DM channels: 25
+  - Number of users i know: 2562
+  - Number of roles in all servers: 477
+  - Number of gotten nessages: 362,586
+  - Average users per server: 54.51063829787234
+  - Average channels per server: 8.106382978723405
+  - Average roles per server: 10.148936170212766
+  - Average messages per server: 7714.595744680851
+  - Average messages per channel: 1421.9058823529413
+05 Jul 2016 21:25:36 : LimitlessMc , Botfuzzy77#2209 , Total Messages: 368
+05 Jul 2016 21:25:40 : LimitlessMc , Wertfuzzy77#0274 , Ew, go home Gerald
+05 Jul 2016 21:25:50 : LimitlessMc , Botfuzzy77#7098 , !help
+05 Jul 2016 21:25:52 : LimitlessMc , Gerald#7099 , 
+Hello, I am Gerald, the channel Bot. I can do many things, I can even be extended by plugins (weehee).
+
+Current commands: (note that arguments in <> are required, those in [] not)
+  - !clean  : lets me purge messages, options below
+    - !clean lets me purge the last 50 messages
+    - !clean <number> does the same for n messages (no maximum :P)
+    - !clean infinite removes messages until !kill, even the end of the channel doesn't seem like the limit
+    - !clean images deletes any message containing either a link to a jpg, !meme or an attachment
+    - !clean <string> removes every message containing the string
+    - !clean @someone cleans @someones messages in the last 100
+  - <@158641216311787520> (<@!158641216311787520>)  : Talk with me :)
+  - !help (!info) : Prints the help
+  - !kill : Kills me and lets me (hopefully) respawn instantly
+  - !ping (!pong) : Ping Pong
+  - (DM) !nobroadcast : Disables update broadcasts from me if you have a server
+  - (DM) !dobroadcast : Enables update broadcasts from me again
+  - !bugreport <message> : File a bug so it will reach my master even if you can't contact him directly (If it's abused, I will block certain ~~ab~~users)
+  - !invite : Add me to your server
+  - !status : Prints some overall status
+  - !plugins : Prints informations about all plugins
+  - (DM) !dropbox <secret> : Register Dropbox. Go to http://ultramc.org:8087/dropbox/authorize
+  - !id <beginning of name> : Outputs their internal id
+  - !serverid : Prints this server's id
+  - !channelid : Let me output the id of thid channel
+  - !roleids : Lists all roles with their ids
+  - !mention <role name> : Mentions everyone in that role
+  - !permissions <username> : Lists all permissions the spefific user has in this channel
+  - !meme <text you wanna write> : Generate a funny image
+  - !play <name> : Plays a specific song from soundcloud
+  - !youtube <name> : Plays a specific song from youtube. Can also be a url
+05 Jul 2016 21:25:53 : LimitlessMc , Gerald#7099 , 
+  - !twitch <name> : Streams from twitch.tv
+  - !pause : Pauses playback
+  - !stop : Stops playback and empties the queue
+  - !queue : Prints the current queue
+  - !shufflequeue : Shuffles the queue
+  - !flushqueue : Empties the queue
+  - !skip : Skips the current song
+  - !replay : Adds the current playing song to the queue
+  - !webplayer : Outputs your personal webplayer url
+  - !resetsecret : Resets your webplayer secret in case you lost it
+  - !stats  : Outputs which users wrote the most in this channel
+  - !words  : Outputs which users wrote the most words in this channel
+  - !topwords  : Sends the most common words in this channel
+  - !suspicious  : NSA-like who should be tracked a bit more :)
+  - !weblog  : The channel's weblog for easy search in the browser
+  - !punchcard  : The channel's punchcard - when are people active in here
+  - (DM) !steam Authenticates a steam user linking his steam id to the discord id (visit http://ultramc.org:8087/steam
+  - (DM) !nosteam Deauthenticates a steam user and disables notifications
+  - (DM) !arkserver <name> : Creates an api token for use of the ARK webalarms
+  - (DM) !deleteark <key> : Delete an ARK server from the config. Provide the key as argument
+  - !rate [@mention] : outputs my rating for a user
+  - !luck [@mention] : outputs the luck of a user today
+  - !nowelcome  : Disables the welcome message for this server
+  - !dowelcome  : Enables the welcome message again
+
+(DM) means that you have to issue this command via a direct message to me.
+05 Jul 2016 21:26:00 : LimitlessMc , Botfuzzy77#7098 , !topwords
+05 Jul 2016 21:26:01 : LimitlessMc , Gerald#7099 , These are the top words in this channel
+
+!meme: 1333 (1.4457230241966097%)
+!youtube: 937 (1.0162359142327257%)
+:: 595 (0.6453152283548258%)
+!queue: 469 (0.5086602388208626%)
+songs: 392 (0.4251488563278852%)
+song: 360 (0.3904428272398946%)
+following: 339 (0.3676669956509007%)
+say: 332 (0.3600750517879028%)
+!skip: 309 (0.33513009338090954%)
+1: 253 (0.2743945424769259%)
+gerald: 232 (0.25161871088793203%)
+irl: 211 (0.2288428792989382%)
+music: 207 (0.22450462566293936%)
+queue: 200 (0.21691268179994141%)
+05 Jul 2016 21:26:10 : LimitlessMc , Botfuzzy77#7098 , ew go home botfuzzy
+05 Jul 2016 21:26:26 : LimitlessMc , Wertfuzzy77#0274 , !fml
+05 Jul 2016 21:26:28 : LimitlessMc , Botfuzzy77#2209 , *Today, my girlfriend called me and asked what I was doing. I replied, "What I'm always doing." She couldn't think of anything besides eating. FML*
+05 Jul 2016 21:26:45 : LimitlessMc , Wertfuzzy77#0274 , !fml
+05 Jul 2016 21:26:46 : LimitlessMc , Botfuzzy77#2209 , *Today, my boyfriend forgot our anniversary. But it's okay; I wasn't expecting anything after he forgot my birthday, Valentine's Day, and my name. FML*
+05 Jul 2016 21:26:48 : LimitlessMc , Botfuzzy77#7098 , not really
+05 Jul 2016 21:27:03 : LimitlessMc , Wertfuzzy77#0274 , !fml
+05 Jul 2016 21:27:04 : LimitlessMc , Botfuzzy77#2209 , *Today, I told my parents about the amazing guy I met. My mom immediately stormed out. My dad got up, looked at me and told me he's disappointed in me for "falling into the traps of the Internet," and leaves. I didn't meet him on the Internet. FML*
+05 Jul 2016 21:27:21 : LimitlessMc , Wertfuzzy77#0274 , Lol
+05 Jul 2016 21:27:31 : LimitlessMc , Botfuzzy77#7098 , tf?
+05 Jul 2016 21:27:38 : LimitlessMc , Botfuzzy77#7098 , this not really funny tho
+05 Jul 2016 21:28:05 : LimitlessMc , Botfuzzy77#7098 , sorre but true
+05 Jul 2016 21:29:41 : Cipher , Calamariela#4119 , Hai roy
+05 Jul 2016 21:29:52 : Cipher , Calamariela#4119 , Hai wert
+05 Jul 2016 21:30:00 : Cipher , Botfuzzy77#7098 , hai babe
+05 Jul 2016 21:30:05 : Cipher , Calamariela#4119 , Lol did D3 quit????
+05 Jul 2016 21:30:11 : Cipher , Botfuzzy77#7098 , no?
+05 Jul 2016 21:30:28 : Cipher , Calamariela#4119 , Mmmm will he quit staff chat
+05 Jul 2016 21:30:35 : Cipher , Calamariela#4119 , Well
+05 Jul 2016 21:30:36 : Cipher , Botfuzzy77#7098 , ?
+05 Jul 2016 21:30:45 : Cipher , Calamariela#4119 , Lol...yeahh
+05 Jul 2016 21:30:54 : Cipher , Botfuzzy77#7098 , why will he wquit staff chat? and how do you know? snitch
+05 Jul 2016 21:31:03 : LimitlessMc , Genesect#6492 , bet
+05 Jul 2016 21:31:06 : LimitlessMc , Genesect#6492 , ayy
+05 Jul 2016 21:31:07 : LimitlessMc , Botfuzzy77#2209 , Lmao
+05 Jul 2016 21:31:50 : Cipher , Botfuzzy77#2209 , <@123959717411291136> won...
+05 Jul 2016 21:31:50 : Cipher , Botfuzzy77#2209 , *With Testing Code*
+05 Jul 2016 21:31:50 : Cipher , Botfuzzy77#2209 , - Expert Belt, $200
+05 Jul 2016 21:32:18 : LimitlessMc , Botfuzzy77#2209 , Lmao
+05 Jul 2016 21:32:21 : LimitlessMc , llbeast#0406 , http://limitlessmc.net/f/viewtopic.php?f=20&t=3422
+05 Jul 2016 21:32:22 : LimitlessMc , Botfuzzy77#2209 , **Magikoopa stole my mewtwo**
+#10220 by llbeast
+ Tue Jul 05, 2016 3:14 pm 
+------------------------------------
+[16:33:19] [Client thread/INFO]: [CHAT] &gt;&gt; Request sent!
+[16:33:21] [Client thread/INFO]: [CHAT] [Trainer] TryHardGaming11: srry
+[16:33:21] [Client thread/INFO]: [CHAT] [Trainer] Likeablock36: modest*
+[16:33:26] [Client thread/INFO]: [CHAT] &gt;&gt; Request sent!
+[16:33:36] [Client thread/INFO]: [CHAT] [Trainer] ForverAlone: xD
+[16:33:38] [Client thread/INFO]: [CHAT] Lost_in_my_eyes has just earned the achievement [Benchmarking]
+[16:33:40] [Client thread/INFO]: [CHAT] [you -&gt; magikoopamagic] u there?
+[16:33:42] [Client thread/INFO]: [CHAT] FangsTheGuardian joined the game
+[16:33:50] [Client thread/INFO]: [CHAT] [magikoopamagic -&gt; you] im trying to get some more diamond blocks
+[16:33:51] [Client thread/INFO]: [CHAT] pokemonlov3r left the game
+[16:33:54] [Client thread/INFO]: [CHAT] _Byan left the game
+[16:33:56] [Client thread/INFO]: [CHAT] LighteningRed left the game
+[16:34:02] [Client thread/INFO]: [CHAT] [you -&gt; magikoopamagic] i have 3
+[16:34:10] [Client thread/INFO]: [CHAT] kypwarnova1 has just earned the achievement [Getting Wood]
+[16:34:12] [Client thread/INFO]: [CHAT] [magikoopamagic -&gt; you] i hav 3 as well
+[16:34:23] [Client thread/INFO]: [CHAT] IamLucario left the game
+[16:34:24] [Client thread/INFO]: [CHAT] [you -&gt; NoahChanx] can i have 3 diamond blocks?
+[16:34:26] [Client thread/INFO]:...
+------------------------------------
+*If you would like to read more, click the link below!*
+http://limitlessmc.net/f/viewtopic.php?f=20&t=3422
+05 Jul 2016 21:32:45 : LimitlessMc , Botfuzzy77#7098 , just stop mang
+05 Jul 2016 21:32:56 : LimitlessMc , llbeast#0406 , i put the link here
+05 Jul 2016 21:33:00 : LimitlessMc , llbeast#0406 , just in case
+05 Jul 2016 21:33:17 : Cipher , Wertfuzzy77#0274 , Ugh, do I have to moderate the mods again
+05 Jul 2016 21:33:29 : Cipher , Botfuzzy77#7098 , probably
+05 Jul 2016 21:38:03 : LimitlessMc , Impasta Snake#1447 , !play down with the sickness
+05 Jul 2016 21:39:12 : LimitlessMc , Mystz#8072 , wahoo
+05 Jul 2016 21:39:35 : LimitlessMc , Botfuzzy77#7098 , babe <@151437497191235585>
+05 Jul 2016 21:39:59 : Cipher , Wertfuzzy77#0274 , don and d3 being grumpy
+05 Jul 2016 21:40:12 : Cipher , Botfuzzy77#7098 , d3 is so fucking mad right now
+05 Jul 2016 21:43:10 : LimitlessMc , Impasta Snake#1447 , Why is it a big deal to you?
+05 Jul 2016 21:43:36 : Cipher , Calamariela#4119 , Sigh....
+05 Jul 2016 21:44:11 : Cipher , Wertfuzzy77#0274 , anyone know "Jabulla" ?
+05 Jul 2016 21:44:13 : Cipher , Wertfuzzy77#0274 , wants to Join
+05 Jul 2016 21:44:18 : Cipher , Botfuzzy77#7098 , no idea
+05 Jul 2016 21:44:21 : Cipher , Wertfuzzy77#0274 , <@!180158716895690752>  says you recommended
+05 Jul 2016 21:44:40 : Cipher , Botfuzzy77#7098 , she joined 15 of june
+05 Jul 2016 21:44:48 : Cipher , Botfuzzy77#7098 , so i don't know her/ him
+05 Jul 2016 21:45:07 : Cipher , Wertfuzzy77#0274 , hmm, pretty recent player, but ive taken earlier
+05 Jul 2016 21:45:44 : Cipher , Botfuzzy77#7098 , <@183307266475294721> we date?
+05 Jul 2016 21:45:47 : LimitlessMc , Resolate#7058 , !rate
+05 Jul 2016 21:45:48 : LimitlessMc , Gerald#7099 , Hmmm, I'd say I like Resolate to 14.3526392968115140%
+05 Jul 2016 21:45:53 : LimitlessMc , Resolate#7058 , !luck
+05 Jul 2016 21:45:54 : Cipher , Calamariela#4119 , Lol do whatever I'm prob not playing Minecraft anymore
+05 Jul 2016 21:45:54 : LimitlessMc , Gerald#7099 , My calculations say that Resolate will have 79.8497629956008300% luck today
+05 Jul 2016 21:46:03 : Cipher , Botfuzzy77#7098 , why babe? <@183307266475294721>
+05 Jul 2016 21:46:26 : Cipher , Wertfuzzy77#0274 , no go home
+05 Jul 2016 21:46:38 : Cipher , Botfuzzy77#7098 , @cal babe why you going?
+05 Jul 2016 21:46:47 : Cipher , Wertfuzzy77#0274 , ^
+05 Jul 2016 21:47:02 : LimitlessMc , Resolate#7058 , !fml
+05 Jul 2016 21:47:04 : LimitlessMc , Botfuzzy77#2209 , *Today, I gave my boss the paperwork to approve my commissions for the month. She wouldn't sign it, saying, "Maybe I'm crazy, but I feel that I've signed this before." She hasn't. I have no commission, and my boss is crazy. FML*
+05 Jul 2016 21:48:04 : Cipher , Calamariela#4119 , Lol it seems Minecraft is just putting stress on don tbh...like I don't see him having fun anymore
+05 Jul 2016 21:48:22 : Cipher , Botfuzzy77#7098 , so you both leave?
+05 Jul 2016 21:48:28 : Cipher , Calamariela#4119 , Idk
+05 Jul 2016 21:48:37 : Cipher , Botfuzzy77#7098 , who is leaving?
+05 Jul 2016 21:48:41 : Cipher , Botfuzzy77#7098 , you or don or both?
+05 Jul 2016 21:48:47 : LimitlessMc , llbeast#0406 , http://limitlessmc.net/f/viewtopic.php?f=20&t=3422
+05 Jul 2016 21:48:47 : LimitlessMc , Botfuzzy77#2209 , **Magikoopa stole my mewtwo**
+#10220 by llbeast
+ Tue Jul 05, 2016 3:14 pm 
+------------------------------------
+[16:33:19] [Client thread/INFO]: [CHAT] &gt;&gt; Request sent!
+[16:33:21] [Client thread/INFO]: [CHAT] [Trainer] TryHardGaming11: srry
+[16:33:21] [Client thread/INFO]: [CHAT] [Trainer] Likeablock36: modest*
+[16:33:26] [Client thread/INFO]: [CHAT] &gt;&gt; Request sent!
+[16:33:36] [Client thread/INFO]: [CHAT] [Trainer] ForverAlone: xD
+[16:33:38] [Client thread/INFO]: [CHAT] Lost_in_my_eyes has just earned the achievement [Benchmarking]
+[16:33:40] [Client thread/INFO]: [CHAT] [you -&gt; magikoopamagic] u there?
+[16:33:42] [Client thread/INFO]: [CHAT] FangsTheGuardian joined the game
+[16:33:50] [Client thread/INFO]: [CHAT] [magikoopamagic -&gt; you] im trying to get some more diamond blocks
+[16:33:51] [Client thread/INFO]: [CHAT] pokemonlov3r left the game
+[16:33:54] [Client thread/INFO]: [CHAT] _Byan left the game
+[16:33:56] [Client thread/INFO]: [CHAT] LighteningRed left the game
+[16:34:02] [Client thread/INFO]: [CHAT] [you -&gt; magikoopamagic] i have 3
+[16:34:10] [Client thread/INFO]: [CHAT] kypwarnova1 has just earned the achievement [Getting Wood]
+[16:34:12] [Client thread/INFO]: [CHAT] [magikoopamagic -&gt; you] i hav 3 as well
+[16:34:23] [Client thread/INFO]: [CHAT] IamLucario left the game
+[16:34:24] [Client thread/INFO]: [CHAT] [you -&gt; NoahChanx] can i have 3 diamond blocks?
+[16:34:26] [Client thread/INFO]:...
+------------------------------------
+*If you would like to read more, click the link below!*
+http://limitlessmc.net/f/viewtopic.php?f=20&t=3422
+05 Jul 2016 21:48:58 : Cipher , Calamariela#4119 , I'm just saying we might...
+05 Jul 2016 21:49:03 : LimitlessMc , Botfuzzy77#7098 , stop.
+05 Jul 2016 21:49:24 : LimitlessMc , Botfuzzy77#7098 , <@135165242056376320> nero always get angry for random shit
+05 Jul 2016 21:49:27 : LimitlessMc , Botfuzzy77#7098 , so don't worry
+05 Jul 2016 21:49:42 : LimitlessMc , Wertfuzzy77#0274 , hey mean
+05 Jul 2016 21:50:02 : LimitlessMc , Botfuzzy77#2209 , Welcome <@84840293530075136> to LimitlessMc!
+05 Jul 2016 21:50:04 : LimitlessMc , Botfuzzy77#7098 , i only speak truth
+05 Jul 2016 21:50:08 : LimitlessMc , Wertfuzzy77#0274 , !slap <@!151163520120127488>
+05 Jul 2016 21:50:08 : LimitlessMc , Botfuzzy77#2209 , :raised_hand: *Wertfuzzy77 slapped <@!151163520120127488>* :raised_hand:
+05 Jul 2016 21:50:57 : LimitlessMc , Resolate#7058 , !words
+05 Jul 2016 21:51:46 : LimitlessMc , Resolate#7058 , I feel insignificant
+05 Jul 2016 21:51:46 : LimitlessMc , Wertfuzzy77#0274 , gerald needs to chill with the amount of words he types :/
+05 Jul 2016 21:51:53 : LimitlessMc , Akinci#5072 , Lol^
+05 Jul 2016 21:52:04 : LimitlessMc , Wertfuzzy77#0274 , like rly, 39%
+05 Jul 2016 21:52:06 : LimitlessMc , Wertfuzzy77#0274 , chill
+05 Jul 2016 21:52:24 : LimitlessMc , Akinci#5072 , Hes a genius
+05 Jul 2016 21:52:40 : LimitlessMc , Wertfuzzy77#0274 , <@!158641216311787520> are you a genius
+05 Jul 2016 21:52:41 : LimitlessMc , Gerald#7099 , No offense, but you really are still a far cry from genius.
+05 Jul 2016 21:52:49 : LimitlessMc , Akinci#5072 , Oooooo
+05 Jul 2016 21:52:50 : LimitlessMc , Wertfuzzy77#0274 , well then
+05 Jul 2016 21:53:43 : LimitlessMc , Akinci#5072 , xD
+05 Jul 2016 21:54:03 : Cipher , Akinci#5072 , But
+05 Jul 2016 21:54:13 : Cipher , Akinci#5072 , D3 needs to chill
+05 Jul 2016 21:54:53 : Cipher , Akinci#5072 , Wait what youre leaving? ;-;
+05 Jul 2016 21:55:03 : Cipher , Wertfuzzy77#0274 , ^ ;-;
+05 Jul 2016 21:55:34 : Cipher , Akinci#5072 , Leik if u cri everytiem
+05 Jul 2016 21:55:34 : LimitlessMc , Yoshifarian#6754 , is there a adult that can help me lol
+05 Jul 2016 21:55:52 : Cipher , Calamariela#4119 , Didn't think you all would get sad tbh xD
+05 Jul 2016 21:56:01 : Cipher , Calamariela#4119 , Haha I will still chat
+05 Jul 2016 21:56:09 : Cipher , Wertfuzzy77#0274 , lol, you in the guild, ofc we sad to see people go
+05 Jul 2016 21:56:14 : Cipher , Akinci#5072 , Ofc we will get sad
+05 Jul 2016 21:56:17 : LimitlessMc , Resolate#7058 , xD There are no adults
+05 Jul 2016 21:56:18 : Cipher , Botfuzzy77#7098 , i no et sad thank god <@183307266475294721>
+05 Jul 2016 21:56:22 : Cipher , Wertfuzzy77#0274 , xD
+05 Jul 2016 21:56:27 : Cipher , Akinci#5072 , Le
+05 Jul 2016 21:56:32 : Cipher , Wertfuzzy77#0274 , !empmute Botfuzzy77 120
+05 Jul 2016 21:56:37 : Cipher , Akinci#5072 , Fail
+05 Jul 2016 21:56:39 : Cipher , Wertfuzzy77#0274 , !tempmute Botfuzzy77 120
+05 Jul 2016 21:56:39 : Cipher , Botfuzzy77#2209 , Temp-Muted Botfuzzy77 for 120 Seconds
+05 Jul 2016 21:56:41 : Cipher , Wertfuzzy77#0274 , got it
+05 Jul 2016 21:56:44 : (MUTED PLAYER)-Cipher , Botfuzzy77#7098 , s+mhf}
+05 Jul 2016 21:56:45 : (MUTED PLAYER)-Cipher , Botfuzzy77#7098 , +}eh
+05 Jul 2016 21:56:47 : Cipher , Wertfuzzy77#0274 , barely
+05 Jul 2016 21:56:48 : (MUTED PLAYER)-Cipher , Botfuzzy77#7098 , tm
+05 Jul 2016 21:56:50 : Cipher , Akinci#5072 , Lol
+05 Jul 2016 21:56:52 : Cipher , Calamariela#4119 , Prob only gonna play when don is not home then....well if he quits
+05 Jul 2016 21:56:53 : (MUTED PLAYER)-Cipher , Botfuzzy77#7098 , hem
+05 Jul 2016 21:56:55 : (MUTED PLAYER)-Cipher , Botfuzzy77#7098 , ,
+05 Jul 2016 21:56:55 : (MUTED PLAYER)-Cipher , Botfuzzy77#7098 , e,hj
+05 Jul 2016 21:56:56 : (MUTED PLAYER)-Cipher , Botfuzzy77#7098 , ,ej
+05 Jul 2016 21:56:57 : (MUTED PLAYER)-Cipher , Botfuzzy77#7098 , ,
+05 Jul 2016 21:57:04 : (MUTED PLAYER)-Cipher , Botfuzzy77#7098 , jee
+,eg,e,gj
+,je,jee,.ee.
+05 Jul 2016 21:57:05 : (MUTED PLAYER)-Cipher , Botfuzzy77#7098 , ,jr
+05 Jul 2016 21:57:06 : (MUTED PLAYER)-Cipher , Botfuzzy77#7098 , hme,e
+05 Jul 2016 21:57:07 : (MUTED PLAYER)-Cipher , Botfuzzy77#7098 , ,e
+05 Jul 2016 21:57:08 : (MUTED PLAYER)-Cipher , Botfuzzy77#7098 , ,e
+05 Jul 2016 21:57:10 : Cipher , Akinci#5072 , But...
+05 Jul 2016 21:57:10 : (MUTED PLAYER)-Cipher , Botfuzzy77#7098 , ,eeeeggggggggggggggggg,
+05 Jul 2016 21:57:12 : (MUTED PLAYER)-Cipher , Botfuzzy77#7098 , ,e
+05 Jul 2016 21:57:14 : (MUTED PLAYER)-Cipher , Botfuzzy77#7098 , .e
+05 Jul 2016 21:57:17 : (MUTED PLAYER)-Cipher , Botfuzzy77#7098 , je............................
+05 Jul 2016 21:57:19 : (MUTED PLAYER)-Cipher , Botfuzzy77#7098 , e
+05 Jul 2016 21:57:20 : Cipher , Wertfuzzy77#0274 , oi, <@151163520120127488>  dont make me actually mute u
+05 Jul 2016 21:57:20 : (MUTED PLAYER)-Cipher , Botfuzzy77#7098 , .
+05 Jul 2016 21:57:22 : (MUTED PLAYER)-Cipher , Botfuzzy77#7098 , e,
+05 Jul 2016 21:57:23 : (MUTED PLAYER)-Cipher , Botfuzzy77#7098 , .
+05 Jul 2016 21:57:24 : (MUTED PLAYER)-Cipher , Botfuzzy77#7098 , j.ejd,.yluetjhdbnhkju
+05 Jul 2016 21:57:25 : Cipher , Wertfuzzy77#0274 , like real mute
+05 Jul 2016 21:57:25 : (MUTED PLAYER)-Cipher , Botfuzzy77#7098 , yhdgfbnmkjtdrgf
+05 Jul 2016 21:57:25 : Cipher , Akinci#5072 , Don ;-;
+05 Jul 2016 21:57:28 : (MUTED PLAYER)-Cipher , Botfuzzy77#7098 , d,
+05 Jul 2016 21:57:30 : (MUTED PLAYER)-Cipher , Botfuzzy77#7098 , n
+05 Jul 2016 21:57:33 : Cipher , Calamariela#4119 , Hahahha I was just giving you guys a heads up.....so it wont be out of nowhere
+05 Jul 2016 21:57:43 : Cipher , Akinci#5072 , Wut
+05 Jul 2016 21:57:44 : (MUTED PLAYER)-Cipher , Botfuzzy77#7098 , ,jfr
+05 Jul 2016 21:57:45 : (MUTED PLAYER)-Cipher , Botfuzzy77#7098 , dfb
+05 Jul 2016 21:57:46 : (MUTED PLAYER)-Cipher , Botfuzzy77#7098 , ,kjhngfhdbnm,
+05 Jul 2016 21:58:06 : Cipher , Calamariela#4119 , Like heads up that he might quit
+05 Jul 2016 21:58:16 : Cipher , Wertfuzzy77#0274 , <@!173656281985449984> THATS YOU YA BUM
+05 Jul 2016 21:58:18 : Cipher , Calamariela#4119 , But who knows
+05 Jul 2016 21:58:23 : Cipher , Akinci#5072 , Lol
+05 Jul 2016 21:58:36 : Cipher , Calamariela#4119 , XD nah no joe
+05 Jul 2016 21:58:52 : Cipher , Akinci#5072 , DONT LEAVE PLEEEESSSDSHJEDJUEJVHGFDU (sorry caps)
+05 Jul 2016 21:59:28 : Cipher , Botfuzzy77#7098 , xdngd
+05 Jul 2016 21:59:29 : Cipher , Botfuzzy77#7098 , hmhf.
+05 Jul 2016 21:59:31 : Cipher , Botfuzzy77#7098 , km,
+05 Jul 2016 21:59:33 : Cipher , Botfuzzy77#7098 , dtj-
+05 Jul 2016 21:59:34 : Cipher , Botfuzzy77#7098 , kn,j.klv
+05 Jul 2016 21:59:35 : Cipher , Akinci#5072 , !redeem -47986
+05 Jul 2016 21:59:35 : Cipher , Botfuzzy77#7098 , g-,hl
+05 Jul 2016 21:59:35 : Cipher , Botfuzzy77#2209 , <@187658828739903489> won...
+05 Jul 2016 21:59:35 : Cipher , Botfuzzy77#2209 , *With Testing Code*
+05 Jul 2016 21:59:35 : Cipher , Botfuzzy77#2209 , - TM18: Rain Dance, $200
+05 Jul 2016 21:59:35 : Cipher , Botfuzzy77#7098 , hnc<dv
+05 Jul 2016 21:59:36 : Cipher , Botfuzzy77#7098 , ,n
+05 Jul 2016 21:59:41 : Cipher , Botfuzzy77#7098 , dvz.,nvfs<h-v,bhf<j
+05 Jul 2016 21:59:53 : Cipher , Wertfuzzy77#0274 , hey
+05 Jul 2016 21:59:56 : Cipher , Wertfuzzy77#0274 , go home
+05 Jul 2016 21:59:58 : Cipher , Akinci#5072 , !redeem -98287
+05 Jul 2016 21:59:58 : Cipher , Botfuzzy77#2209 , <@187658828739903489> won...
+05 Jul 2016 21:59:59 : Cipher , Botfuzzy77#2209 , *With Testing Code*
+05 Jul 2016 21:59:59 : Cipher , Botfuzzy77#2209 , - HM07: Waterfall, $100
+05 Jul 2016 22:00:13 : Cipher , Akinci#5072 , !redeem -22226
+05 Jul 2016 22:00:13 : Cipher , Botfuzzy77#2209 , <@187658828739903489> won...
+05 Jul 2016 22:00:13 : Cipher , Botfuzzy77#2209 , *With Testing Code*
+05 Jul 2016 22:00:13 : Cipher , Botfuzzy77#2209 , - HM03: Surf , $20
+05 Jul 2016 22:00:24 : Cipher , Akinci#5072 , Lol
+05 Jul 2016 22:00:29 : Cipher , Botfuzzy77#7098 , bet
+05 Jul 2016 22:00:33 : Cipher , Botfuzzy77#7098 , shit
+05 Jul 2016 22:00:54 : Cipher , Calamariela#4119 , I will stay but I won't be on as much
+05 Jul 2016 22:01:51 : Cipher , Akinci#5072 , But still, i criii ;-;
+05 Jul 2016 22:02:18 : LimitlessMc , Resolate#7058 , !meme When you looking for manga and there are Harems everywhere
+05 Jul 2016 22:02:20 : LimitlessMc , Gerald#7099 , http://i.imgflip.com/16y5n7.jpg
+05 Jul 2016 22:05:05 : Cipher , Wertfuzzy77#0274 , ugh, thats roy
+05 Jul 2016 22:05:13 : Cipher , Akinci#5072 , Really
+05 Jul 2016 22:05:19 : Cipher , Akinci#5072 , Le
+05 Jul 2016 22:05:19 : Cipher , Calamariela#4119 , Gn :)
+05 Jul 2016 22:05:29 : Cipher , botfuzzy77#7098 , bet
+05 Jul 2016 22:05:32 : Cipher , Wertfuzzy77#0274 , lol, gn but its like 6 PM
+05 Jul 2016 22:05:32 : Cipher , Akinci#5072 , Gn
+05 Jul 2016 22:05:42 : Cipher , Akinci#5072 , 12Am here
+05 Jul 2016 22:05:45 : Cipher , Calamariela#4119 , Not for akin xD
+05 Jul 2016 22:05:48 : Cipher , botfuzzy77#7098 , diferent timezones dumby <@!134441036905840640>
+05 Jul 2016 22:05:54 : Cipher , Akinci#5072 , xD
+05 Jul 2016 22:05:55 : Cipher , Wertfuzzy77#0274 , ooooooooooooooooo
+05 Jul 2016 22:05:59 : Cipher , Wertfuzzy77#0274 , i thought cala was going to bed
+05 Jul 2016 22:06:03 : Cipher , Wertfuzzy77#0274 , v confused
+05 Jul 2016 22:06:06 : Cipher , Akinci#5072 , Lolololol
+05 Jul 2016 22:06:12 : Cipher , Calamariela#4119 , Nahhhh it's for the weak...
+05 Jul 2016 22:06:23 : Cipher , Wertfuzzy77#0274 , more like sleep for a week
+05 Jul 2016 22:06:28 : Cipher , Akinci#5072 , I aint weak 
+05 Jul 2016 22:06:39 : Cipher , Akinci#5072 , A fact^
+05 Jul 2016 22:06:50 : Cipher , botfuzzy77#7098 , bet
+05 Jul 2016 22:06:55 : Cipher , Calamariela#4119 , XD
+05 Jul 2016 22:06:55 : Cipher , Wertfuzzy77#0274 , bet
+05 Jul 2016 22:06:57 : Cipher , Akinci#5072 , bet
+05 Jul 2016 22:07:00 : Cipher , botfuzzy77#7098 , bet
+05 Jul 2016 22:07:01 : Cipher , botfuzzy77#7098 , bet
+05 Jul 2016 22:07:02 : Cipher , botfuzzy77#7098 , bet
+05 Jul 2016 22:07:03 : Cipher , botfuzzy77#7098 , bet
+05 Jul 2016 22:07:03 : Cipher , botfuzzy77#7098 , bet
+05 Jul 2016 22:07:04 : Cipher , botfuzzy77#7098 , bet
+05 Jul 2016 22:07:05 : Cipher , botfuzzy77#7098 , bet
+05 Jul 2016 22:07:06 : Cipher , botfuzzy77#7098 , bet
+05 Jul 2016 22:07:07 : Cipher , botfuzzy77#7098 , bet
+05 Jul 2016 22:07:08 : Cipher , botfuzzy77#7098 , bet
+05 Jul 2016 22:07:10 : Cipher , Akinci#5072 , K
+05 Jul 2016 22:07:10 : Cipher , Wertfuzzy77#0274 , !mute Botfuzzy77
+05 Jul 2016 22:07:11 : Cipher , botfuzzy77#7098 , bet
+05 Jul 2016 22:07:11 : Cipher , Botfuzzy77#2209 , Muted Botfuzzy77
+05 Jul 2016 22:07:15 : Cipher , Wertfuzzy77#0274 , go home
+05 Jul 2016 22:07:16 : Cipher , botfuzzy77#7098 , bet
+05 Jul 2016 22:07:18 : Cipher , botfuzzy77#7098 , bet
+05 Jul 2016 22:07:19 : Cipher , botfuzzy77#7098 , bet
+05 Jul 2016 22:07:20 : Cipher , botfuzzy77#7098 , bet
+05 Jul 2016 22:07:20 : Cipher , botfuzzy77#7098 , bet
+05 Jul 2016 22:07:21 : Cipher , botfuzzy77#7098 , bet
+05 Jul 2016 22:07:23 : Cipher , Wertfuzzy77#0274 , ...
+05 Jul 2016 22:07:23 : Cipher , Akinci#5072 , b*
+05 Jul 2016 22:07:25 : Cipher , Calamariela#4119 , Roy
+05 Jul 2016 22:07:28 : Cipher , Calamariela#4119 , Kys
+05 Jul 2016 22:07:28 : Cipher , botfuzzy77#7098 , sorre
+05 Jul 2016 22:07:29 : Cipher , Wertfuzzy77#0274 , Muted botfuzzy77
+05 Jul 2016 22:07:30 : Cipher , Calamariela#4119 , XD
+05 Jul 2016 22:07:34 : Cipher , Wertfuzzy77#0274 , woops xD
+05 Jul 2016 22:07:37 : Cipher , Akinci#5072 , !mute botfuzzy77
+05 Jul 2016 22:07:37 : Cipher , Wertfuzzy77#0274 , copied wrong line
+05 Jul 2016 22:07:42 : Cipher , Wertfuzzy77#0274 , !mute botfuzzy77
+05 Jul 2016 22:07:43 : Cipher , Botfuzzy77#2209 , Muted botfuzzy77
+05 Jul 2016 22:07:45 : Cipher , Wertfuzzy77#0274 , thx
+05 Jul 2016 22:07:50 : (MUTED PLAYER)-Cipher , botfuzzy77#7098 , fuck yiu
+05 Jul 2016 22:07:52 : (MUTED PLAYER)-Cipher , botfuzzy77#7098 , ,dm
+05 Jul 2016 22:07:52 : (MUTED PLAYER)-Cipher , botfuzzy77#7098 , h,d
+05 Jul 2016 22:07:53 : (MUTED PLAYER)-Cipher , botfuzzy77#7098 , ,
+05 Jul 2016 22:07:55 : (MUTED PLAYER)-Cipher , botfuzzy77#7098 , d,
+05 Jul 2016 22:07:56 : (MUTED PLAYER)-Cipher , botfuzzy77#7098 , d,
+05 Jul 2016 22:07:57 : (MUTED PLAYER)-Cipher , botfuzzy77#7098 , j
+05 Jul 2016 22:07:58 : (MUTED PLAYER)-Cipher , botfuzzy77#7098 , d,gj
+05 Jul 2016 22:07:59 : (MUTED PLAYER)-Cipher , botfuzzy77#7098 , jd
+05 Jul 2016 22:08:00 : (MUTED PLAYER)-Cipher , botfuzzy77#7098 , d,
+05 Jul 2016 22:08:00 : (MUTED PLAYER)-Cipher , botfuzzy77#7098 , dj,
+05 Jul 2016 22:08:01 : (MUTED PLAYER)-Cipher , botfuzzy77#7098 , ds
+05 Jul 2016 22:08:04 : Cipher , Calamariela#4119 , Poor thing
+05 Jul 2016 22:08:31 : Cipher , Wertfuzzy77#0274 , well, rip my computer, running at 95% CPU
+05 Jul 2016 22:08:39 : (MUTED PLAYER)-Cipher , botfuzzy77#7098 , ,g
+05 Jul 2016 22:08:40 : (MUTED PLAYER)-Cipher , botfuzzy77#7098 , s
+05 Jul 2016 22:08:42 : (MUTED PLAYER)-Cipher , botfuzzy77#7098 , j
+05 Jul 2016 22:08:44 : (MUTED PLAYER)-Cipher , botfuzzy77#7098 , .
+05 Jul 2016 22:08:45 : (MUTED PLAYER)-Cipher , botfuzzy77#7098 , srHS
+05 Jul 2016 22:08:46 : (MUTED PLAYER)-Cipher , botfuzzy77#7098 , FKHL.K
+05 Jul 2016 22:08:47 : (MUTED PLAYER)-Cipher , botfuzzy77#7098 , M,
+05 Jul 2016 22:08:48 : Cipher , Akinci#5072 , Ok but i should slee now, gotta wake up at 5:30am ;-;
+05 Jul 2016 22:08:49 : (MUTED PLAYER)-Cipher , botfuzzy77#7098 , J
+05 Jul 2016 22:08:50 : (MUTED PLAYER)-Cipher , botfuzzy77#7098 , D
+05 Jul 2016 22:08:51 : (MUTED PLAYER)-Cipher , botfuzzy77#7098 , ,KH
+05 Jul 2016 22:08:52 : (MUTED PLAYER)-Cipher , botfuzzy77#7098 , D,
+05 Jul 2016 22:08:53 : (MUTED PLAYER)-Cipher , botfuzzy77#7098 , D
+05 Jul 2016 22:08:55 : (MUTED PLAYER)-Cipher , botfuzzy77#7098 , DJL
+05 Jul 2016 22:08:56 : Cipher , Wertfuzzy77#0274 , lol, go to sleep <@187658828739903489>
+05 Jul 2016 22:08:57 : (MUTED PLAYER)-Cipher , botfuzzy77#7098 , DLJ
+05 Jul 2016 22:08:57 : (MUTED PLAYER)-Cipher , botfuzzy77#7098 , D,J
+05 Jul 2016 22:08:58 : (MUTED PLAYER)-Cipher , botfuzzy77#7098 , JDGL
+05 Jul 2016 22:08:59 : (MUTED PLAYER)-Cipher , botfuzzy77#7098 , J,LD
+05 Jul 2016 22:08:59 : (MUTED PLAYER)-Cipher , botfuzzy77#7098 , D,L
+05 Jul 2016 22:09:01 : (MUTED PLAYER)-Cipher , botfuzzy77#7098 , D,L
+05 Jul 2016 22:09:02 : (MUTED PLAYER)-Cipher , botfuzzy77#7098 , D,G
+05 Jul 2016 22:09:03 : (MUTED PLAYER)-Cipher , botfuzzy77#7098 , .D
+05 Jul 2016 22:09:05 : Cipher , Akinci#5072 , Gn 
+05 Jul 2016 22:09:10 : Cipher , Wertfuzzy77#0274 , !unmuteall
+05 Jul 2016 22:09:11 : Cipher , Botfuzzy77#2209 , Unmuted All Players
+05 Jul 2016 22:09:15 : Cipher , Wertfuzzy77#0274 , yw <@151163520120127488>
+05 Jul 2016 22:09:28 : Cipher , Wertfuzzy77#0274 , actual server mute now
+05 Jul 2016 22:09:47 : Cipher , botfuzzy77#7098 , D.J
+05 Jul 2016 22:09:50 : Cipher , Wertfuzzy77#0274 , yw
+05 Jul 2016 22:11:41 : Cipher , Wertfuzzy77#0274 , ayyyy, we did it
+05 Jul 2016 22:11:48 : Cipher , Wertfuzzy77#0274 , down to 65% CPU
+05 Jul 2016 22:12:29 : LimitlessMc , xPalkia(lugia)#8149 , !slap <@190928285532815361>
+05 Jul 2016 22:12:29 : LimitlessMc , Botfuzzy77#2209 , :raised_hand: *xPalkia(lugia) slapped <@190928285532815361>* :raised_hand:
+05 Jul 2016 22:13:01 : LimitlessMc , Wertfuzzy77#0274 , <@165227780844290048>  you need something?
+05 Jul 2016 22:13:58 : Cipher , Calamariela#4119 , *cough* nerd *cough*
+05 Jul 2016 22:14:14 : Cipher , botfuzzy77#7098 , *cough* nerd *cough*
+05 Jul 2016 22:14:29 : Cipher , Wertfuzzy77#0274 , *cough* true *cough*
+05 Jul 2016 22:14:48 : Cipher , botfuzzy77#7098 , *cough* not a good thing *cough*
+05 Jul 2016 22:14:57 : Cipher , Wertfuzzy77#0274 , nerds rule the world
+05 Jul 2016 22:15:07 : Cipher , botfuzzy77#7098 , not true
+05 Jul 2016 22:15:13 : Cipher , Wertfuzzy77#0274 , completly true
+05 Jul 2016 22:15:15 : Cipher , botfuzzy77#7098 , japanease shits rule the world
+05 Jul 2016 22:15:23 : Cipher , botfuzzy77#7098 , or chinease
+05 Jul 2016 22:15:26 : Cipher , Wertfuzzy77#0274 , and japanese people are huhe nerds
+05 Jul 2016 22:15:28 : Cipher , Wertfuzzy77#0274 , huge*
+05 Jul 2016 22:15:34 : Cipher , botfuzzy77#7098 , true
+05 Jul 2016 22:16:33 : Cipher , Wertfuzzy77#0274 , sure
+05 Jul 2016 22:23:53 : Cipher , botfuzzy77#7098 , gimme your irl pic k <@183307266475294721>
+05 Jul 2016 22:28:56 : Cipher , Calamariela#4119 , No xD
+05 Jul 2016 22:32:40 : Cipher , botfuzzy77#7098 , pls babe
+05 Jul 2016 22:32:59 : Cipher , Calamariela#4119 , Nah fam
+05 Jul 2016 22:33:39 : Cipher , Wertfuzzy77#0274 , lol rekt
+05 Jul 2016 22:33:49 : Cipher , botfuzzy77#7098 , rude
+05 Jul 2016 22:34:05 : Cipher , Wertfuzzy77#0274 , prob
+05 Jul 2016 22:34:08 : Cipher , Wertfuzzy77#0274 , still sux 4 u
+05 Jul 2016 22:36:37 : Cipher , botfuzzy77#7098 , <@!134441036905840640>
+05 Jul 2016 22:36:44 : Cipher , Wertfuzzy77#0274 , ?
+05 Jul 2016 22:37:05 : Cipher , botfuzzy77#7098 , have you seen cal irl?
+05 Jul 2016 22:37:25 : Cipher , Calamariela#4119 , Hahah xD
+05 Jul 2016 22:38:16 : Cipher , botfuzzy77#7098 , fuck you cal
+05 Jul 2016 22:39:08 : Cipher , Wertfuzzy77#0274 , haha, i din <@151163520120127488>
+05 Jul 2016 22:39:10 : Cipher , Wertfuzzy77#0274 , win *
+05 Jul 2016 22:39:12 : Cipher , Wertfuzzy77#0274 , go home
+05 Jul 2016 22:39:24 : Cipher , botfuzzy77#7098 , i leave
+05 Jul 2016 22:39:32 : Cipher , Wertfuzzy77#0274 , bet
+05 Jul 2016 22:39:42 : Cipher , Wertfuzzy77#0274 , <@183411857225285632>  you like the new red color?
+05 Jul 2016 22:40:01 : Cipher , Skyd#9935 , Yes I do 
+05 Jul 2016 22:40:15 : Cipher , Calamariela#4119 , Good skyd
+05 Jul 2016 22:40:28 : Cipher , Wertfuzzy77#0274 , you can thank Cala for the color change
+05 Jul 2016 22:40:42 : Cipher , Calamariela#4119 , Red=favorite color
+05 Jul 2016 22:40:53 : Cipher , botfuzzy77#7098 , purple = fav colour
+05 Jul 2016 22:41:03 : Cipher , Wertfuzzy77#0274 , purple best color imo
+05 Jul 2016 22:41:09 : Cipher , botfuzzy77#7098 , ya
+05 Jul 2016 22:42:11 : Cipher , botfuzzy77#7098 , <@!134441036905840640> gimme purple name pls
+05 Jul 2016 22:43:41 : Cipher , botfuzzy77#7098 , ...
+05 Jul 2016 22:44:05 : Cipher , botfuzzy77#7098 , pls <@!134441036905840640>
+05 Jul 2016 22:44:23 : Cipher , Wertfuzzy77#0274 , i did xD
+05 Jul 2016 22:44:43 : Cipher , botfuzzy77#7098 , ...
+05 Jul 2016 22:44:58 : Cipher , Calamariela#4119 , Hahahha omg
+05 Jul 2016 22:45:01 : Cipher , Calamariela#4119 , Yes wert
+05 Jul 2016 22:45:04 : Cipher , Calamariela#4119 , So smart
+05 Jul 2016 22:45:26 : Cipher , Wertfuzzy77#0274 , Rule 1. Give people what they want without giving them what they want
+05 Jul 2016 22:45:41 : Cipher , botfuzzy77#7098 , kys rude
+05 Jul 2016 22:45:42 : Cipher , Calamariela#4119 , Spool messed up
+05 Jul 2016 22:45:47 : Cipher , Calamariela#4119 , Soo
+05 Jul 2016 22:45:48 : Cipher , Calamariela#4119 , Lol
+05 Jul 2016 22:45:59 : Cipher , botfuzzy77#7098 , acutally <@!134441036905840640>
+05 Jul 2016 22:46:01 : Cipher , botfuzzy77#7098 , not true
+05 Jul 2016 22:46:19 : Cipher , botfuzzy77#7098 , rule 1: no griefing or stealing from cipher members <@!134441036905840640>
+05 Jul 2016 22:46:22 : LimitlessMc , xPalkia(lugia)#8149 , Tell me if a mew spawns
+05 Jul 2016 22:46:46 : Cipher , Wertfuzzy77#0274 , oh true
+05 Jul 2016 22:46:47 : Cipher , Calamariela#4119 , Haha damnnn trying to get back at wert xD
+05 Jul 2016 22:46:48 : Cipher , Wertfuzzy77#0274 , gg
+05 Jul 2016 22:47:04 : LimitlessMc , Genesect#6492 , <@151438890107011072>  y u leave me
+05 Jul 2016 22:47:04 : LimitlessMc , Genesect#6492 , ;w;
+05 Jul 2016 22:47:10 : Cipher , Wertfuzzy77#0274 , is it actually tho, no idea
+05 Jul 2016 22:53:37 : LimitlessMc , Mank#0033 , I on vacation slut
+05 Jul 2016 22:54:05 : LimitlessMc , botfuzzy77#7098 , vacation is for gay people
+05 Jul 2016 23:07:03 : Cipher , Botfuzzy77#2209 , Welcome <@156331971717365760> to Cipher!
+05 Jul 2016 23:07:46 : Cipher , Wertfuzzy77#0274 , ya
+05 Jul 2016 23:07:53 : Cipher , Jabulla#3761 , Hiya haha
+05 Jul 2016 23:08:05 : Cipher , Wertfuzzy77#0274 , just ignore <@!151163520120127488>
+05 Jul 2016 23:08:07 : Cipher , Wertfuzzy77#0274 , he weird
+05 Jul 2016 23:08:19 : Cipher , Jabulla#3761 , Toph?
+05 Jul 2016 23:08:24 : Cipher , Wertfuzzy77#0274 , <@!180158716895690752>
+05 Jul 2016 23:08:28 : Cipher , Wertfuzzy77#0274 , ^ thats toph
+05 Jul 2016 23:08:32 : Cipher , Jabulla#3761 , Ayyy
+05 Jul 2016 23:08:44 : Cipher , Wertfuzzy77#0274 , is offline atm
+05 Jul 2016 23:08:59 : Cipher , Wertfuzzy77#0274 , !slap <@!180158716895690752>
+05 Jul 2016 23:09:00 : Cipher , Botfuzzy77#2209 , :raised_hand: *Wertfuzzy77 slapped <@!180158716895690752>* :raised_hand:
+05 Jul 2016 23:09:01 : Cipher , Wertfuzzy77#0274 , wake up
+05 Jul 2016 23:09:09 : Cipher , Jabulla#3761 , Haha!
+05 Jul 2016 23:10:07 : Cipher , Jabulla#3761 , So I have to wear a uniform?
+05 Jul 2016 23:11:02 : Cipher , Wertfuzzy77#0274 , yeah, i can give you that now
+05 Jul 2016 23:11:08 : Cipher , Wertfuzzy77#0274 , if i can find it xD
+05 Jul 2016 23:11:35 : Cipher , Jabulla#3761 , Oh boy, I hope it's a cout outfit.
+05 Jul 2016 23:12:03 : Cipher , Wertfuzzy77#0274 , also, i like how you have an icon, otherwise you would get the Nickname of Shame
+05 Jul 2016 23:12:11 : Cipher , Wertfuzzy77#0274 , 'GET AN ICON YA BUM'
+05 Jul 2016 23:12:43 : Cipher , Wertfuzzy77#0274 , take a look at the players --------->
+05 Jul 2016 23:12:54 : Cipher , Jabulla#3761 , Hahahahahah!
+05 Jul 2016 23:12:58 : Cipher , botfuzzy77#7098 , <@!134441036905840640>
+05 Jul 2016 23:12:58 : Cipher , Jabulla#3761 , Yep, sick
+05 Jul 2016 23:13:04 : Cipher , botfuzzy77#7098 , i need uniform too babe
+05 Jul 2016 23:13:16 : Cipher , botfuzzy77#7098 , <@!134441036905840640> purple name pls
+05 Jul 2016 23:13:26 : Cipher , Jabulla#3761 , Roy?
+05 Jul 2016 23:13:35 : Cipher , botfuzzy77#7098 , nope
+05 Jul 2016 23:13:40 : Cipher , botfuzzy77#7098 , intelligent botfuzzy
+05 Jul 2016 23:13:44 : Cipher , Jabulla#3761 , Nice
+05 Jul 2016 23:13:51 : Cipher , botfuzzy77#7098 , programed by the one and only <@!134441036905840640>
+05 Jul 2016 23:13:52 : Cipher , Wertfuzzy77#0274 , bet
+05 Jul 2016 23:13:56 : Cipher , Wertfuzzy77#0274 , you are fake
+05 Jul 2016 23:14:02 : Cipher , Wertfuzzy77#0274 , <@!187609093001838602>
+05 Jul 2016 23:14:06 : Cipher , Wertfuzzy77#0274 , thats the real 1
+05 Jul 2016 23:14:08 : Cipher , Wertfuzzy77#0274 , hello
+05 Jul 2016 23:14:08 : Cipher , Botfuzzy77#2209 , *From The Other Side*
+05 Jul 2016 23:14:10 : Cipher , Wertfuzzy77#0274 , ^
+05 Jul 2016 23:14:31 : Cipher , Wertfuzzy77#0274 , bet roy
+05 Jul 2016 23:16:27 : Cipher , Botfuzzy77#2209 , ```py
+https://discordapp.com/api/users/156331971717365760/avatars/f6251ab684eb57712cfd07bc7162b523.jpg
+```
+05 Jul 2016 23:16:38 : Cipher , Wertfuzzy77#0274 , lol, wut is it
+05 Jul 2016 23:17:06 : Cipher , Jabulla#3761 , Puddi
+05 Jul 2016 23:17:09 : Cipher , Jabulla#3761 , Giga Puddi
+05 Jul 2016 23:17:26 : Cipher , Wertfuzzy77#0274 , lol, i should make a google cmd
+05 Jul 2016 23:17:27 : Cipher , Wertfuzzy77#0274 , like
+05 Jul 2016 23:17:29 : Cipher , Wertfuzzy77#0274 , !fml
+05 Jul 2016 23:17:51 : Cipher , Jabulla#3761 , It's a REALLY old 4chan meme
+05 Jul 2016 23:17:51 : Cipher , Jabulla#7098 , what is giga puddi? <@156331971717365760>
+05 Jul 2016 23:17:51 : Cipher , Wertfuzzy77#0274 , lol
+05 Jul 2016 23:17:51 : Cipher , Wertfuzzy77#0274 , gg
+05 Jul 2016 23:17:56 : Cipher , Wertfuzzy77#0274 , !fml
+05 Jul 2016 23:17:58 : Cipher , Botfuzzy77#2209 , *Today, I had to explain to my son why it is not okay to slap old women's butts. He's 16. FML*
+05 Jul 2016 23:18:03 : Cipher , Wertfuzzy77#0274 , lol
+05 Jul 2016 23:18:24 : Cipher , Jabulla#3761 , https://www.youtube.com/watch?v=9sEI1AUFJKw
+05 Jul 2016 23:18:27 : Cipher , Jabulla#3761 , POrepair your ears
+05 Jul 2016 23:18:28 : Cipher , Jabulla#7098 , gay
+05 Jul 2016 23:18:56 : Cipher , Jabulla#3761 , Ugh, it's so bad
+05 Jul 2016 23:19:06 : Cipher , Jabulla#7098 , lmao wtf
+05 Jul 2016 23:19:10 : Cipher , Jabulla#3761 , Yeah haha
+05 Jul 2016 23:19:56 : Cipher , Wertfuzzy77#0274 , LOL
+05 Jul 2016 23:20:08 : Cipher , Wertfuzzy77#0274 , thats amazing
+05 Jul 2016 23:20:56 : Cipher , Jabulla#3761 , They had it to auto play at max volume and you couldn't mute it, and for a whole day not matter what you typed it got replaced with "PUDDI PUDDI PUDDI PUDDI"
+05 Jul 2016 23:21:18 : Cipher , Jabulla#3761 , Hell on earth
+05 Jul 2016 23:21:23 : Cipher , Wertfuzzy77#0274 , lol
+05 Jul 2016 23:27:37 : Cipher , Jabulla#3761 , Wertfuzzy77 ~ Gone but not forgotten
+05 Jul 2016 23:32:24 : Cipher , Wertfuzzy77#0274 , oi, server dont kick me
+05 Jul 2016 23:32:35 : Cipher , Wertfuzzy77#0274 , "idle too long" prob
+05 Jul 2016 23:33:05 : LimitlessMc , Mank#0033 , Roy you have a low amount of brain cells
+05 Jul 2016 23:33:31 : Cipher , Wertfuzzy77#0274 , nero always like 1/2 gone 1/2 online
+05 Jul 2016 23:33:36 : Cipher , Wertfuzzy77#0274 , just is a fact
+05 Jul 2016 23:33:59 : Cipher , Jabulla#3761 , This Roy,stealing peoples identitys, Freeloading in peopls basements... tisk tisk
+05 Jul 2016 23:34:03 : Cipher , Wertfuzzy77#0274 , oi, wait, thats teh fake 1
+05 Jul 2016 23:34:09 : Cipher , Wertfuzzy77#0274 , and that one isnt
+05 Jul 2016 23:34:27 : Cipher , Jabulla#7098 , i'm real one
+05 Jul 2016 23:34:30 : Cipher , Jabulla#3761 , Roy plz
+05 Jul 2016 23:34:34 : Cipher , Jabulla#7098 , go away fake <@156331971717365760>
+05 Jul 2016 23:34:34 : Cipher , Jabulla#3761 , Stahp
+05 Jul 2016 23:35:09 : Cipher , Jabulla#7098 , wtf?
+05 Jul 2016 23:35:12 : Cipher , Wertfuzzy77#0274 , Thats Joe's job
+05 Jul 2016 23:35:17 : Cipher , Jabulla#7098 , toph and i besties k
+05 Jul 2016 23:35:21 : Cipher , Jabulla#3761 , Oh, is it Joe.
+05 Jul 2016 23:35:44 : Cipher , Jabulla#3761 , I don't know all the details, We just had a cheeki giggle about it m8
+05 Jul 2016 23:36:15 : Cipher , Jabulla#7098 , i'm not even roy tho
+05 Jul 2016 23:36:20 : Cipher , Jabulla#7098 , i'm jab
+05 Jul 2016 23:36:22 : Cipher , Wertfuzzy77#0274 , but you are
+05 Jul 2016 23:36:29 : Cipher , Jabulla#7098 , i'm not
+05 Jul 2016 23:36:31 : Cipher , Jabulla#3761 , When the guild master abandons you during the intro tour, rip Life
+05 Jul 2016 23:36:37 : Cipher , Wertfuzzy77#0274 , i made a note on your profile, i can always see which one is you
+05 Jul 2016 23:36:43 : Cipher , Wertfuzzy77#0274 , oh yeah sorry xD
+05 Jul 2016 23:36:47 : Cipher , Wertfuzzy77#0274 , forgot about that tour
+05 Jul 2016 23:36:51 : Cipher , Jabulla#7098 , how u make nodes?
+05 Jul 2016 23:37:19 : Cipher , Wertfuzzy77#0274 , right click their name on the side, and press 'add note' or something
+05 Jul 2016 23:37:27 : Cipher , Wertfuzzy77#0274 , ya 'Add Note'
+05 Jul 2016 23:37:47 : Cipher , Jabulla#7098 , done
+05 Jul 2016 23:37:48 : Cipher , Wertfuzzy77#0274 , <@156331971717365760> yeah he does
+05 Jul 2016 23:37:50 : Cipher , Jabulla#3761 , These boots though, whyyyy,  feel like a slug now.
+05 Jul 2016 23:37:59 : Cipher , Jabulla#7098 , i added a note saying weeaboo on you <@!134441036905840640>
+05 Jul 2016 23:38:00 : Cipher , Wertfuzzy77#0274 , dont have to wear the boots
+05 Jul 2016 23:38:08 : Cipher , Wertfuzzy77#0274 , bet <@151163520120127488>
+05 Jul 2016 23:38:41 : Cipher , Jabulla#7098 , give me purple name pls <@!134441036905840640>
+05 Jul 2016 23:39:17 : LimitlessMc , B3TAMAN#5712 , !youtube Hello Darkness my old friend
+05 Jul 2016 23:39:18 : Cipher , Wertfuzzy77#0274 , ooooo, i think i found an ez way to mute/unmute
+05 Jul 2016 23:39:33 : Cipher , Wertfuzzy77#0274 , lol, but actually, dont need to wear em
+05 Jul 2016 23:39:44 : Cipher , Wertfuzzy77#0274 , just wear atleast the pants and chest
+05 Jul 2016 23:39:53 : Cipher , Wertfuzzy77#0274 , but i give the whole thing incase they want
+05 Jul 2016 23:40:19 : LimitlessMc , Botfuzzy77#2209 , Welcome <@200032784545349632> to LimitlessMc!
+05 Jul 2016 23:40:20 : Cipher , Jabulla#3761 , OK.
+05 Jul 2016 23:40:32 : LimitlessMc , divach#5559 , Eyy
+05 Jul 2016 23:40:44 : LimitlessMc , B3TAMAN#5712 , !queue
+05 Jul 2016 23:40:45 : LimitlessMc , Gerald#7099 , The queue is empty
+05 Jul 2016 23:41:51 : LimitlessMc , B3TAMAN#5712 , !youtube who can say where the road goes
+05 Jul 2016 23:41:55 : LimitlessMc , B3TAMAN#5712 , !queue
+05 Jul 2016 23:41:55 : Cipher , Jabulla#7098 , <@!134441036905840640>
+05 Jul 2016 23:41:56 : LimitlessMc , Gerald#7099 , I will play the following songs
+  - Enya - Only Time Lyrics
+05 Jul 2016 23:42:00 : Cipher , Jabulla#7098 , when u making me officer?
+05 Jul 2016 23:42:20 : Cipher , Wertfuzzy77#0274 , when the current staff think you are ready
+05 Jul 2016 23:42:23 : Cipher , Wertfuzzy77#0274 , and we need 1
+05 Jul 2016 23:42:29 : LimitlessMc , B3TAMAN#5712 , !youtube mmm whatcha say
+05 Jul 2016 23:42:39 : Cipher , Jabulla#7098 , erm
+05 Jul 2016 23:42:43 : Cipher , Jabulla#7098 , i am tho?
+05 Jul 2016 23:42:52 : Cipher , Jabulla#3761 , This guy
+05 Jul 2016 23:43:00 : Cipher , Wertfuzzy77#0274 , "and we need 1"
+05 Jul 2016 23:43:06 : Cipher , Wertfuzzy77#0274 , we dont need 1 rn
+05 Jul 2016 23:43:11 : LimitlessMc , B3TAMAN#5712 , !youtube I made my mistake
+05 Jul 2016 23:43:15 : LimitlessMc , B3TAMAN#5712 , !queue
+05 Jul 2016 23:43:16 : Cipher , Jabulla#7098 , wtf
+05 Jul 2016 23:43:16 : LimitlessMc , Gerald#7099 , I will play the following songs
+  - How Could This Happen To Me (with lyrics)
+05 Jul 2016 23:43:25 : Cipher , Jabulla#7098 , you just said "and we need one"
+05 Jul 2016 23:43:27 : LimitlessMc , B3TAMAN#5712 , !skip
+05 Jul 2016 23:43:36 : Cipher , Jabulla#7098 , and now "we don't need 1 rn"
+05 Jul 2016 23:43:38 : Cipher , Jabulla#7098 , hep?
+05 Jul 2016 23:43:45 : Cipher , Jabulla#3761 , It was the second clause of you becoming an officer
+05 Jul 2016 23:43:50 : LimitlessMc , B3TAMAN#5712 , !youtube whatcha say
+05 Jul 2016 23:43:57 : Cipher , Jabulla#3761 , 1, when you are ready
+2, when we need one
+05 Jul 2016 23:44:05 : Cipher , Jabulla#3761 , etc.
+05 Jul 2016 23:44:06 : Cipher , Wertfuzzy77#0274 , ^^^^^^^^^^^
+05 Jul 2016 23:44:19 : LimitlessMc , B3TAMAN#5712 , !youtube Enya - Only Time
+05 Jul 2016 23:44:39 : Cipher , Jabulla#7098 , prolly never be read tbh
+05 Jul 2016 23:44:49 : Cipher , Jabulla#3761 , I am pretty patient, I will wait in this bunk room years if I have too
+05 Jul 2016 23:45:30 : LimitlessMc , B3TAMAN#5712 , !youtube Hello Darkness my old friend
+05 Jul 2016 23:45:59 : Cipher , Jabulla#3761 , When the newest recruit won't wear his boots and is a cheeky fucker...
+05 Jul 2016 23:58:39 : LimitlessMc , MoonWolf (Fornor)#8885 , <@190928285532815361>  Game crashed lel
+05 Jul 2016 23:58:47 : LimitlessMc , xPalkia(lugia)#8149 , idc
+05 Jul 2016 23:58:51 : LimitlessMc , MoonWolf (Fornor)#8885 , Wow rood
+05 Jul 2016 23:58:59 : LimitlessMc , MoonWolf (Fornor)#8885 , Then im not giving you any more chances
+05 Jul 2016 23:59:02 : LimitlessMc , MoonWolf (Fornor)#8885 , to keep the absol
+05 Jul 2016 23:59:05 : LimitlessMc , xPalkia(lugia)#8149 , >..
+05 Jul 2016 23:59:13 : LimitlessMc , MoonWolf (Fornor)#8885 , "I'll just keep it anyway"
+05 Jul 2016 23:59:15 : LimitlessMc , MoonWolf (Fornor)#8885 , imr?
+05 Jul 2016 23:59:23 : LimitlessMc , xPalkia(lugia)#8149 , ?
+05 Jul 2016 23:59:28 : LimitlessMc , MoonWolf (Fornor)#8885 , nothing
+05 Jul 2016 23:59:29 : LimitlessMc , MoonWolf (Fornor)#8885 , hehe
+06 Jul 2016 00:03:29 : LimitlessMc , MoonWolf (Fornor)#8885 , Aight <@190928285532815361>  Keep it , i wont log in for a few week anyway.
+06 Jul 2016 00:03:39 : LimitlessMc , MoonWolf (Fornor)#8885 , !youtube Lose yourself to dance.
+06 Jul 2016 00:04:13 : LimitlessMc , AnishaLunarAngel#5926 , :c rip. guilt tripper...
+06 Jul 2016 00:04:53 : LimitlessMc , AnishaLunarAngel#5926 , I don't like this song because when I first heard it, I had the volume turned down and all I could hear was "Losers suck the dicks"
+06 Jul 2016 00:05:12 : LimitlessMc , MoonWolf (Fornor)#8885 , lolll
+06 Jul 2016 00:08:15 : LimitlessMc , B3TAMAN#5712 , xD anisha
+06 Jul 2016 00:08:29 : LimitlessMc , divach#5559 , Darn
+06 Jul 2016 00:08:32 : LimitlessMc , MoonWolf (Fornor)#8885 , !youtube Music makes you lose controll
+06 Jul 2016 00:09:04 : LimitlessMc , AnishaLunarAngel#5926 , no thanks
+06 Jul 2016 00:09:04 : LimitlessMc , AnishaLunarAngel#5926 , bye
+06 Jul 2016 00:09:38 : LimitlessMc , MoonWolf (Fornor)#8885 , wow
+06 Jul 2016 00:09:40 : LimitlessMc , MoonWolf (Fornor)#8885 , sowwy
+06 Jul 2016 00:09:41 : LimitlessMc , MoonWolf (Fornor)#8885 , come back
+06 Jul 2016 00:09:51 : LimitlessMc , MoonWolf (Fornor)#8885 , <@148678046214389760>  Come back :c
+06 Jul 2016 00:09:51 : LimitlessMc , MoonWolf (Fornor)#8885 , !stop
+06 Jul 2016 00:10:01 : LimitlessMc , MoonWolf (Fornor)#8885 , !youtube Lazyboy Vampire
+06 Jul 2016 00:11:47 : LimitlessMc , MoonWolf (Fornor)#8885 , !youtube Mrsuicidesheep Ashen
+06 Jul 2016 00:14:58 : Cipher , Jabulla#3761 , <@!134441036905840640> Oh, I was going to show you my Jim...
+06 Jul 2016 00:15:42 : Cipher , Jabulla#7098 , can i c it? <@156331971717365760>
+06 Jul 2016 00:16:07 : Cipher , Jabulla#7098 , ya
+06 Jul 2016 00:16:11 : Cipher , Jabulla#7098 , jk obvs not
+06 Jul 2016 00:54:16 : LimitlessMc , divach#5559 , KoontaKentay
+06 Jul 2016 01:26:07 : LimitlessMc , LightShadow#5809 , I have just started to finalize Me and Sunstrikeh's gallery
+06 Jul 2016 01:26:46 : LimitlessMc , Botfuzzy77#2209 , Welcome <@195209205379104768> to LimitlessMc!
+06 Jul 2016 01:26:53 : LimitlessMc , LightShadow#5809 , If any1 here has shiny pokemon, legendaries, or shiny legendaries please tell me
+06 Jul 2016 01:43:32 : Cipher , GET AN ICON YA BUM#7098 , <@!134441036905840640>
+06 Jul 2016 01:45:37 : Cipher , GET AN ICON YA BUM#7098 , <@!134441036905840640> baby
+06 Jul 2016 01:46:59 : Cipher , GET AN ICON YA BUM#7098 , !debug ctx.message.server.get_member_named("Dudubidu").default_avatar_url
+06 Jul 2016 01:46:59 : Cipher , Botfuzzy77#2209 , ```py
+https://discordapp.com/assets/6debd47ed13483642cf09e832ed0bc1b.png
+```
+06 Jul 2016 01:47:17 : Cipher , GET AN ICON YA BUM#7098 , !debug ctx.message.server.get_member_named("Im gonna kms").default_avatar_url
+06 Jul 2016 01:47:17 : Cipher , Botfuzzy77#2209 , ```py
+https://discordapp.com/assets/322c936a8c8be1b803cd94861bdfa868.png
+```
+06 Jul 2016 01:47:27 : Cipher , GET AN ICON YA BUM#7098 , !debug ctx.message.server.get_member_named("Greevil").default_avatar_url
+06 Jul 2016 01:47:27 : Cipher , Botfuzzy77#2209 , ```py
+https://discordapp.com/assets/1cbd08c76f8af6dddce02c5138971129.png
+```
+06 Jul 2016 01:47:39 : Cipher , GET AN ICON YA BUM#7098 , !debug ctx.message.server.get_member_named("Jabulla").default_avatar_url
+06 Jul 2016 01:47:39 : Cipher , Botfuzzy77#2209 , ```py
+https://discordapp.com/assets/322c936a8c8be1b803cd94861bdfa868.png
+```
+06 Jul 2016 01:48:08 : Cipher , GET AN ICON YA BUM#7098 , !debug ctx.message.server.get_member_named("muhammad alli").default_avatar_url
+06 Jul 2016 01:48:08 : Cipher , Botfuzzy77#2209 , ```py
+AttributeError: 'NoneType' object has no attribute 'default_avatar_url'
+```
+06 Jul 2016 01:48:19 : Cipher , GET AN ICON YA BUM#7098 , !debug ctx.message.server.get_member_named("Allianths").default_avatar_url
+06 Jul 2016 01:48:19 : Cipher , Botfuzzy77#2209 , ```py
+https://discordapp.com/assets/322c936a8c8be1b803cd94861bdfa868.png
+```
+06 Jul 2016 01:48:28 : Cipher , GET AN ICON YA BUM#7098 , !debug ctx.message.server.get_member_named("Pacmen").default_avatar_url
+06 Jul 2016 01:48:29 : Cipher , Botfuzzy77#2209 , ```py
+AttributeError: 'NoneType' object has no attribute 'default_avatar_url'
+```
+06 Jul 2016 01:48:45 : Cipher , GET AN ICON YA BUM#7098 , !debug ctx.message.server.get_member_named("PacMen").default_avatar_url
+06 Jul 2016 01:48:45 : Cipher , Botfuzzy77#2209 , ```py
+https://discordapp.com/assets/6debd47ed13483642cf09e832ed0bc1b.png
+```
+06 Jul 2016 01:51:16 : Cipher , GET AN ICON YA BUM#7098 , Yay!
+06 Jul 2016 01:51:23 : Cipher , GET AN ICON YA BUM#7098 , I created my own icon!
+06 Jul 2016 02:03:47 : LimitlessMc , AnishaLunarAngel#5926 , fuck the server closed unexpectedly!!
+06 Jul 2016 02:03:53 : LimitlessMc , AnishaLunarAngel#5926 , I lost my /back to the mesa! D<
+06 Jul 2016 02:05:29 : LimitlessMc , B3TAMAN#5712 , Server closed ;-;
+06 Jul 2016 02:05:37 : LimitlessMc , B3TAMAN#5712 , and my game crashed ;-;
+06 Jul 2016 02:05:48 : LimitlessMc , AnishaLunarAngel#5926 , I lost my /back to the mesa =_=
+06 Jul 2016 02:05:59 : LimitlessMc , AnishaLunarAngel#5926 , my mesa... it's so fucking far away
+06 Jul 2016 02:06:11 : LimitlessMc , B3TAMAN#5712 , my pokemon was switched to a random Quagsire ;-;
+06 Jul 2016 02:06:24 : LimitlessMc , B3TAMAN#5712 , and i dont know if i will find it in my PC
+06 Jul 2016 02:06:56 : LimitlessMc , B3TAMAN#5712 , I was in a battle i sent out my Gengar and it was like you sent out Quagsire!
+06 Jul 2016 02:07:01 : LimitlessMc , B3TAMAN#5712 , and i was like wth...
+06 Jul 2016 02:07:06 : LimitlessMc , B3TAMAN#5712 , then my game crashed
+06 Jul 2016 02:11:28 : LimitlessMc , GET AN ICON YA BUM#7098 , <@&148203743362547712>
+06 Jul 2016 02:11:29 : LimitlessMc , GET AN ICON YA BUM#7098 , hep
+06 Jul 2016 02:12:37 : LimitlessMc , GET AN ICON YA BUM#7098 , grief
+06 Jul 2016 02:12:40 : LimitlessMc , GET AN ICON YA BUM#7098 , bad one
+06 Jul 2016 02:12:51 : LimitlessMc , GET AN ICON YA BUM#7098 , <@151437497191235585> misty hep
+06 Jul 2016 02:16:10 : Cipher , GET AN ICON YA BUM#7098 , <@183307266475294721>
+06 Jul 2016 02:30:20 : LimitlessMc , xPalkia(lugia)#8149 , !luck
+06 Jul 2016 02:30:21 : LimitlessMc , Gerald#7099 , My calculations say that xPalkia(lugia) will have 13.5175337419612980% luck today
+06 Jul 2016 02:32:10 : LimitlessMc , llbeast#0406 , server down?
+06 Jul 2016 02:32:14 : LimitlessMc , xPalkia(lugia)#8149 , no
+06 Jul 2016 02:32:20 : LimitlessMc , llbeast#0406 , rip
+06 Jul 2016 02:32:23 : LimitlessMc , xPalkia(lugia)#8149 , !rate
+06 Jul 2016 02:32:24 : LimitlessMc , Gerald#7099 , Hmmm, I'd say I like xPalkia(lugia) to 10.0503999456223200%
+06 Jul 2016 03:27:10 : LimitlessMc , xPalkia(lugia)#8149 , !rate
+06 Jul 2016 03:27:11 : LimitlessMc , Gerald#7099 , Hmmm, I'd say I like xPalkia(lugia) to 10.0503999456223200%
+06 Jul 2016 03:27:50 : LimitlessMc , Roy210#7098 , <@!158641216311787520> is playing "bleach music compilation" great job you have exceded yourself
+06 Jul 2016 03:27:51 : LimitlessMc , Gerald#7099 , One day.
+06 Jul 2016 03:31:23 : Cipher , Roy210#7098 , <@!134441036905840640>
+06 Jul 2016 03:31:26 : Cipher , Roy210#7098 , <@!134441036905840640>
+06 Jul 2016 03:31:30 : Cipher , Roy210#7098 , <@!134441036905840640>
+06 Jul 2016 03:31:33 : Cipher , Roy210#7098 , <@!134441036905840640>
+06 Jul 2016 03:31:37 : Cipher , Roy210#7098 , <@!134441036905840640>
+06 Jul 2016 03:31:50 : Cipher , Roy210#7098 , babe
+06 Jul 2016 03:31:57 : Cipher , Roy210#7098 , congrats mang
+06 Jul 2016 03:32:01 : Cipher , Roy210#7098 , i think
+06 Jul 2016 03:32:12 : Cipher , Roy210#7098 , if mystz wasn't lieying
+06 Jul 2016 03:35:05 : LimitlessMc , Jay113355#4999 , <@134441036905840640> Was promoted to admin! congrats
+06 Jul 2016 03:35:19 : Cipher , Roy210#7098 , <@!134441036905840640>
+06 Jul 2016 03:35:22 : Cipher , Roy210#7098 , <@!134441036905840640>
+06 Jul 2016 03:35:25 : Cipher , Roy210#7098 , <@!134441036905840640>
+06 Jul 2016 03:35:28 : Cipher , Roy210#7098 , <@!134441036905840640>
+06 Jul 2016 03:35:31 : Cipher , Roy210#7098 , -.-
+06 Jul 2016 03:35:39 : Cipher , Roy210#7098 , wake tf up you lazy ass
+06 Jul 2016 03:35:51 : Cipher , Roy210#7098 , w/e
+06 Jul 2016 03:35:55 : Cipher , Roy210#7098 , congrats anyways
+06 Jul 2016 03:39:43 : LimitlessMc , B3TAMAN#5712 , !luck
+06 Jul 2016 03:39:44 : LimitlessMc , Gerald#7099 , My calculations say that B3TAMAN will have 82.6241624393438300% luck today
+06 Jul 2016 03:39:47 : LimitlessMc , B3TAMAN#5712 , !rate
+06 Jul 2016 03:39:48 : LimitlessMc , Gerald#7099 , Hmmm, I'd say I like B3TAMAN to 91.3648126058668700%
+06 Jul 2016 03:39:51 : LimitlessMc , B3TAMAN#5712 , ayy
+06 Jul 2016 03:39:51 : LimitlessMc , Botfuzzy77#2209 , Lmao
+06 Jul 2016 03:40:02 : LimitlessMc , B3TAMAN#5712 , jb on Admin Wert
+06 Jul 2016 03:40:11 : LimitlessMc , Mystz#8072 , !rate
+06 Jul 2016 03:40:12 : LimitlessMc , Gerald#7099 , Hmmm, I'd say I like Mystz to 89.2425788885805300%
+06 Jul 2016 03:40:16 : LimitlessMc , Mystz#8072 , damn right gerald
+06 Jul 2016 03:40:23 : LimitlessMc , xPalkia(lugia)#8149 , yeah. gg. <@134441036905840640>
+06 Jul 2016 03:40:35 : LimitlessMc , Roy210#7098 , !meme wert is babe
+06 Jul 2016 03:40:37 : LimitlessMc , Gerald#7099 , http://i.imgflip.com/16yn6f.jpg
+06 Jul 2016 03:40:47 : LimitlessMc , Roy210#7098 , ew wtf horrible pic
+06 Jul 2016 03:45:38 : Cipher , Topheralan#1202 , Yea congrats <@!134441036905840640> we love you! #wert4owner
+06 Jul 2016 03:49:21 : LimitlessMc , Jay113355#4999 , !meme when WertFuzzy gets promoted
+06 Jul 2016 03:49:23 : LimitlessMc , Gerald#7099 , http://i.imgflip.com/16yni6.jpg
+06 Jul 2016 03:50:18 : LimitlessMc , Mystz#8072 , !meme When Mystz gets demoted
+06 Jul 2016 03:50:19 : LimitlessMc , Gerald#7099 , http://i.imgflip.com/16ynk4.jpg
+06 Jul 2016 03:58:03 : Cipher , Akinci#5072 , Omgggggg <@!134441036905840640> finally!!! Congrats!!!!!!
+06 Jul 2016 03:58:49 : Cipher , Wertfuzzy77#0274 , xD I would log on now, but have work in the morning
+06 Jul 2016 03:59:55 : Cipher , Akinci#5072 , But is mystz really demoted?
+06 Jul 2016 04:00:03 : Cipher , Wertfuzzy77#0274 , Doubt it
+06 Jul 2016 04:00:18 : Cipher , Wertfuzzy77#0274 , But I have no idea, been on my phone for the past few hours
+06 Jul 2016 04:00:59 : Cipher , Wertfuzzy77#0274 , https://youtu.be/iqT0iFZifgw
+06 Jul 2016 04:01:08 : Cipher , Wertfuzzy77#0274 , Largely watching this
+06 Jul 2016 04:01:16 : Cipher , Wertfuzzy77#0274 , Because I have no control over my life
+06 Jul 2016 04:01:25 : Cipher , Allianths#4161 , oi wut did wert get ?
+06 Jul 2016 04:01:34 : Cipher , Allianths#4161 , @here ^
+06 Jul 2016 04:01:42 : Cipher , Allianths#4161 , :p
+06 Jul 2016 04:01:52 : Cipher , Akinci#5072 , Headowner
+06 Jul 2016 04:01:55 : Cipher , Allianths#4161 , :oo
+06 Jul 2016 04:01:56 : Cipher , Wertfuzzy77#0274 , Lol
+06 Jul 2016 04:02:00 : Cipher , Wertfuzzy77#0274 , Head owner
+06 Jul 2016 04:02:02 : Cipher , Wertfuzzy77#0274 , Gg
+06 Jul 2016 04:02:05 : Cipher , Allianths#4161 , grats for owner wert
+06 Jul 2016 04:02:07 : LimitlessMc , FearlessFalconX#8756 , did we just crash or was it just me
+06 Jul 2016 04:02:10 : Cipher , Allianths#4161 , sell it to me okei :p
+06 Jul 2016 04:02:15 : Cipher , Wertfuzzy77#0274 , Bet
+06 Jul 2016 04:02:20 : Cipher , Akinci#5072 , Lol
+06 Jul 2016 04:03:06 : Cipher , Wertfuzzy77#0274 , But actually, I've spent a sizable potion of my night watching that while moving my head back and forth
+06 Jul 2016 04:03:16 : Cipher , Wertfuzzy77#0274 , I just can't stop
+06 Jul 2016 04:03:38 : LimitlessMc , Allianths#4161 , congrats on  trainer mystz
+06 Jul 2016 04:04:01 : LimitlessMc , xPalkia(lugia)#8149 , Wait mystz really got demoted?
+06 Jul 2016 04:04:31 : LimitlessMc , xPalkia(lugia)#8149 , just curious
+06 Jul 2016 04:04:38 : LimitlessMc , Allianths#4161 , oh wait wus it for real
+06 Jul 2016 04:04:42 : LimitlessMc , Allianths#4161 , ;-;
+06 Jul 2016 04:04:45 : LimitlessMc , Mystz#8072 , yeah it was real
+06 Jul 2016 04:04:49 : LimitlessMc , Mystz#8072 , jay said fuck u and i got kicked
+06 Jul 2016 04:04:59 : LimitlessMc , xPalkia(lugia)#8149 , <@151437497191235585> .
+06 Jul 2016 04:05:07 : LimitlessMc , xPalkia(lugia)#8149 , k
+06 Jul 2016 04:05:31 : LimitlessMc , Allianths#4161 , i sorry mystz
+06 Jul 2016 04:05:42 : LimitlessMc , Mystz#8072 , yep
+06 Jul 2016 04:06:48 : LimitlessMc , Mystz#8072 , le
+06 Jul 2016 04:07:01 : LimitlessMc , xPalkia(lugia)#8149 , troll
+06 Jul 2016 04:07:11 : LimitlessMc , Allianths#4161 , ;-;
+06 Jul 2016 04:23:35 : LimitlessMc , AnishaLunarAngel#5926 , Maybe now he can stop griffing me =w=
+06 Jul 2016 04:29:07 : Cipher , Akinci#5072 , So that also means, that jay doesnt hate u anymore, right?
+06 Jul 2016 04:38:07 : LimitlessMc , AnishaLunarAngel#5926 , <@128244218761183232>
+06 Jul 2016 04:38:26 : LimitlessMc , AnishaLunarAngel#5926 , Jayyyyyyyyyyyyyyyyyyyyyyyyyy
+06 Jul 2016 04:38:32 : LimitlessMc , Jay113355#4999 , WAT
+06 Jul 2016 04:40:16 : LimitlessMc , AnishaLunarAngel#5926 , Friend of mine changed their premium username and lost everything. they got their home back but not their items or pokemon.
+06 Jul 2016 04:44:51 : LimitlessMc , AnishaLunarAngel#5926 , Can you help him out BlueJay? ;w; http://4.bp.blogspot.com/-6Pm3iqdv3Os/UcAYzO1wkXI/AAAAAAAADRY/ys4r2FPBYUQ/s1600/Beautiful-Blue-Jay-Bird.jpg
+06 Jul 2016 04:48:47 : LimitlessMc , AnishaLunarAngel#5926 , well I have to go.. so.. his old username was Shimotay, his new is HoodieKingX.
+06 Jul 2016 05:02:31 : LimitlessMc , Jay113355#4999 , Should be fixed
+06 Jul 2016 05:53:58 : LimitlessMc , AlphaQUp#8516 , https://imgflip.com/i/16yryn
+06 Jul 2016 05:55:40 : LimitlessMc , MoonWolf (Fornor)#8885 , https://media.giphy.com/media/BSWDs1DUqbMQw/giphy.gif
+06 Jul 2016 05:55:44 : LimitlessMc , MoonWolf (Fornor)#8885 , #SMOOTHAF
+06 Jul 2016 06:09:52 : LimitlessMc , MoonWolf (Fornor)#8885 , wtf
+06 Jul 2016 06:09:55 : LimitlessMc , MoonWolf (Fornor)#8885 , anisha is 3rd?
+06 Jul 2016 06:09:59 : LimitlessMc , MoonWolf (Fornor)#8885 , she almost never speaks.
+06 Jul 2016 06:10:11 : LimitlessMc , xPalkia(lugia)#8149 , gerald needs to take a break from talking tho
+06 Jul 2016 06:10:15 : LimitlessMc , MoonWolf (Fornor)#8885 , lemme rephrase that
+06 Jul 2016 06:10:24 : LimitlessMc , MoonWolf (Fornor)#8885 , She barely type.
+06 Jul 2016 06:10:38 : LimitlessMc , Botfuzzy77#2209 , Welcome <@200131384810012673> to LimitlessMc!
+06 Jul 2016 06:11:15 : LimitlessMc , IkanaAkatosh#3631 , Hi may i ask how long the server downtime will probably be?
+06 Jul 2016 06:11:29 : LimitlessMc , IkanaAkatosh#3631 , oh wow
+06 Jul 2016 06:11:38 : LimitlessMc , xPalkia(lugia)#8149 , <@127941856955727872>  Bitch, You said to keep it..
+06 Jul 2016 06:11:45 : LimitlessMc , MoonWolf (Fornor)#8885 , no i didn't
+06 Jul 2016 06:11:51 : LimitlessMc , xPalkia(lugia)#8149 , ya you did...
+06 Jul 2016 06:12:08 : LimitlessMc , xPalkia(lugia)#8149 , You said keep it, I wont be getting on for a few weeks anyways
+06 Jul 2016 06:12:14 : LimitlessMc , xPalkia(lugia)#8149 , dont lie to me >..
+06 Jul 2016 06:12:15 : LimitlessMc , IkanaAkatosh#3631 , i though it was a the upgrades to higher server or some stuff
+06 Jul 2016 06:12:23 : LimitlessMc , MoonWolf (Fornor)#8885 , I didn't say that
+06 Jul 2016 06:12:26 : LimitlessMc , MoonWolf (Fornor)#8885 , when did i say that?
+06 Jul 2016 06:12:30 : LimitlessMc , MoonWolf (Fornor)#8885 , o_o
+06 Jul 2016 06:13:08 : LimitlessMc , xPalkia(lugia)#8149 , Did you fucking delete the message? <@127941856955727872>
+06 Jul 2016 06:13:13 : LimitlessMc , xPalkia(lugia)#8149 , -_- thats sad
+06 Jul 2016 06:13:19 : LimitlessMc , MoonWolf (Fornor)#8885 , no i didn't
+06 Jul 2016 06:13:24 : LimitlessMc , MoonWolf (Fornor)#8885 , stop making shit up
+06 Jul 2016 06:13:25 : LimitlessMc , xPalkia(lugia)#8149 , mhmm?
+06 Jul 2016 06:13:29 : LimitlessMc , xPalkia(lugia)#8149 , I'm not...
+06 Jul 2016 06:13:59 : LimitlessMc , IkanaAkatosh#3631 , i missread a forum thread actually whatever iam out of here
+06 Jul 2016 06:14:04 : LimitlessMc , IkanaAkatosh#3631 , and in game peace^^
+06 Jul 2016 06:14:05 : LimitlessMc , MoonWolf (Fornor)#8885 , !youtube Runaway
+06 Jul 2016 06:14:33 : LimitlessMc , MoonWolf (Fornor)#8885 , gerald broken?
+06 Jul 2016 06:14:34 : LimitlessMc , MoonWolf (Fornor)#8885 , !stop
+06 Jul 2016 06:14:40 : LimitlessMc , MoonWolf (Fornor)#8885 , !youtube Galantis Runaway
+06 Jul 2016 06:21:19 : LimitlessMc , MoonWolf (Fornor)#8885 , w0t
+06 Jul 2016 06:21:20 : LimitlessMc , MoonWolf (Fornor)#8885 , w0t
+06 Jul 2016 06:21:20 : LimitlessMc , MoonWolf (Fornor)#8885 , w0
+06 Jul 2016 06:21:22 : LimitlessMc , MoonWolf (Fornor)#8885 , w0t
+06 Jul 2016 06:21:27 : LimitlessMc , MoonWolf (Fornor)#8885 , wtf
+06 Jul 2016 06:22:15 : LimitlessMc , Aviivix#2695 , what the shit
+06 Jul 2016 06:22:46 : LimitlessMc , MoonWolf (Fornor)#8885 , dunno
+06 Jul 2016 06:22:47 : LimitlessMc , Aviivix#2695 , i was having an important conversation with my grandmother and suddenly this shit sounds from discord
+06 Jul 2016 06:22:49 : LimitlessMc , MoonWolf (Fornor)#8885 , someone moved the mod
+06 Jul 2016 06:22:50 : LimitlessMc , Aviivix#2695 , wtf is happening
+06 Jul 2016 06:22:54 : LimitlessMc , MoonWolf (Fornor)#8885 , no idea
+06 Jul 2016 06:22:56 : LimitlessMc , MoonWolf (Fornor)#8885 , not me
+06 Jul 2016 06:23:06 : LimitlessMc , MoonWolf (Fornor)#8885 , !stop
+06 Jul 2016 06:24:14 : LimitlessMc , MoonWolf (Fornor)#8885 , !stop
+06 Jul 2016 06:24:21 : LimitlessMc , MoonWolf (Fornor)#8885 , fuck you
+06 Jul 2016 06:24:22 : LimitlessMc , MoonWolf (Fornor)#8885 , genesect
+06 Jul 2016 06:24:22 : LimitlessMc , MoonWolf (Fornor)#8885 , lol
+06 Jul 2016 06:24:40 : LimitlessMc , MoonWolf (Fornor)#8885 , wat?
+06 Jul 2016 06:24:43 : LimitlessMc , MoonWolf (Fornor)#8885 , Nah
+06 Jul 2016 06:24:46 : LimitlessMc , MoonWolf (Fornor)#8885 , well
+06 Jul 2016 06:24:50 : LimitlessMc , MoonWolf (Fornor)#8885 , someone stole my carrots
+06 Jul 2016 06:25:28 : LimitlessMc , Botfuzzy77#2209 , Welcome <@193496406357442560> to LimitlessMc!
+06 Jul 2016 06:26:25 : LimitlessMc , MoonWolf (Fornor)#8885 , fuck you gene xD
+06 Jul 2016 06:27:05 : LimitlessMc , MoonWolf (Fornor)#8885 , offer baby
+06 Jul 2016 06:27:06 : LimitlessMc , MoonWolf (Fornor)#8885 , always
+06 Jul 2016 06:27:19 : LimitlessMc , Genesect#6492 , !youtube sex music
+06 Jul 2016 06:27:27 : LimitlessMc , MoonWolf (Fornor)#8885 , !stop
+06 Jul 2016 06:27:41 : LimitlessMc , swagrid#7001 , !youtube George Michael careless whisper
+06 Jul 2016 06:28:16 : LimitlessMc , Genesect#6492 , !youtube George Michael careless whisper
+06 Jul 2016 06:28:35 : LimitlessMc , Genesect#6492 , <@127941856955727872>  ready bb
+06 Jul 2016 06:28:38 : LimitlessMc , Genesect#6492 , ;]
+06 Jul 2016 06:28:43 : LimitlessMc , MoonWolf (Fornor)#8885 , awwyeeh
+06 Jul 2016 06:28:48 : LimitlessMc , MoonWolf (Fornor)#8885 , this music lawl
+06 Jul 2016 06:28:50 : LimitlessMc , MoonWolf (Fornor)#8885 , gene
+06 Jul 2016 06:28:53 : LimitlessMc , Genesect#6492 , XD
+06 Jul 2016 06:28:53 : LimitlessMc , MoonWolf (Fornor)#8885 , what rank are you in csgo?
+06 Jul 2016 06:28:57 : LimitlessMc , Genesect#6492 , dont worry
+06 Jul 2016 06:29:01 : LimitlessMc , Genesect#6492 , i lost my rank
+06 Jul 2016 06:29:04 : LimitlessMc , Genesect#6492 , inactivity
+06 Jul 2016 06:29:05 : LimitlessMc , swagrid#7001 , I'll third wheel like that god damn motorcycle I see everywhere 
+06 Jul 2016 06:29:13 : LimitlessMc , Genesect#6492 , xD
+06 Jul 2016 06:29:26 : LimitlessMc , swagrid#7001 , !meme careless whisper
+06 Jul 2016 06:29:27 : LimitlessMc , Gerald#7099 , http://i.imgflip.com/16yt5u.jpg
+06 Jul 2016 06:29:31 : LimitlessMc , swagrid#7001 , Oh yeah
+06 Jul 2016 06:29:31 : LimitlessMc , Genesect#6492 , WTF
+06 Jul 2016 06:29:32 : LimitlessMc , Genesect#6492 , XD
+06 Jul 2016 06:29:37 : LimitlessMc , swagrid#7001 , Oh yeah baby
+06 Jul 2016 06:31:26 : LimitlessMc , MoonWolf (Fornor)#8885 , <@134441036905840640>  http://prntscr.com/bpdv1f
+06 Jul 2016 06:31:52 : LimitlessMc , Genesect#6492 , what is that
+06 Jul 2016 06:31:54 : LimitlessMc , MoonWolf (Fornor)#8885 , cuz its the only shiny
+06 Jul 2016 06:31:55 : LimitlessMc , MoonWolf (Fornor)#8885 , i think
+06 Jul 2016 06:31:56 : LimitlessMc , Genesect#6492 , i see nothing wrong
+06 Jul 2016 06:32:01 : LimitlessMc , MoonWolf (Fornor)#8885 , it was*
+06 Jul 2016 06:32:06 : LimitlessMc , MoonWolf (Fornor)#8885 , I gave it
+06 Jul 2016 06:32:07 : LimitlessMc , xPalkia(lugia)#8149 , hes basically teasing me with shinies
+06 Jul 2016 06:32:09 : LimitlessMc , MoonWolf (Fornor)#8885 , to xpalkia
+06 Jul 2016 06:32:13 : LimitlessMc , MoonWolf (Fornor)#8885 , but i asked for it back
+06 Jul 2016 06:32:15 : LimitlessMc , xPalkia(lugia)#8149 , he gave all of his shinies to me
+06 Jul 2016 06:32:26 : LimitlessMc , xPalkia(lugia)#8149 , And then leaves the server and says he isnt coming back for a while
+06 Jul 2016 06:32:26 : LimitlessMc , MoonWolf (Fornor)#8885 , Swag
+06 Jul 2016 06:32:29 : LimitlessMc , MoonWolf (Fornor)#8885 , who are you ingame?
+06 Jul 2016 06:32:30 : LimitlessMc , xPalkia(lugia)#8149 , and comes back a day later
+06 Jul 2016 06:32:40 : LimitlessMc , MoonWolf (Fornor)#8885 , Who are you ingame swag?
+06 Jul 2016 06:32:47 : LimitlessMc , MoonWolf (Fornor)#8885 , Just tell me the name
+06 Jul 2016 06:32:51 : LimitlessMc , MoonWolf (Fornor)#8885 , I'll give him the absol
+06 Jul 2016 06:32:52 : LimitlessMc , swagrid#7001 , NinjaKiwi306
+06 Jul 2016 06:32:57 : LimitlessMc , xPalkia(lugia)#8149 , When we thought he had gone for a while and wouldnt come back until like a week +
+06 Jul 2016 06:32:58 : LimitlessMc , MoonWolf (Fornor)#8885 , jk
+06 Jul 2016 06:32:58 : LimitlessMc , MoonWolf (Fornor)#8885 , lel
+06 Jul 2016 06:33:08 : LimitlessMc , MoonWolf (Fornor)#8885 , want a riolu adamant tho?
+06 Jul 2016 06:33:14 : LimitlessMc , swagrid#7001 , Tes
+06 Jul 2016 06:33:17 : LimitlessMc , swagrid#7001 , Ges
+06 Jul 2016 06:33:19 : LimitlessMc , swagrid#7001 , Tes
+06 Jul 2016 06:33:21 : LimitlessMc , swagrid#7001 , Yes
+06 Jul 2016 06:33:48 : LimitlessMc , MoonWolf (Fornor)#8885 , Can't hear you well
+06 Jul 2016 06:33:49 : LimitlessMc , MoonWolf (Fornor)#8885 , t</3
+06 Jul 2016 06:34:51 : LimitlessMc , MoonWolf (Fornor)#8885 , topkek
+06 Jul 2016 06:35:03 : LimitlessMc , MoonWolf (Fornor)#8885 , xFornor
+06 Jul 2016 06:35:03 : LimitlessMc , swagrid#7001 , Hey fornor you have an unclonded mew right
+06 Jul 2016 06:35:06 : LimitlessMc , MoonWolf (Fornor)#8885 , inc
+06 Jul 2016 06:35:09 : LimitlessMc , MoonWolf (Fornor)#8885 , Hmm
+06 Jul 2016 06:35:11 : LimitlessMc , MoonWolf (Fornor)#8885 , tempting offer
+06 Jul 2016 06:35:13 : LimitlessMc , swagrid#7001 , Can I have it?
+06 Jul 2016 06:35:19 : LimitlessMc , MoonWolf (Fornor)#8885 , huh
+06 Jul 2016 06:35:22 : LimitlessMc , MoonWolf (Fornor)#8885 , what do you have?
+06 Jul 2016 06:36:07 : LimitlessMc , Genesect#6492 , <@127941856955727872>  can you get  an uncloned mew for me?
+06 Jul 2016 06:36:15 : LimitlessMc , Genesect#6492 , via trading
+06 Jul 2016 06:36:19 : LimitlessMc , MoonWolf (Fornor)#8885 , Catch or give you mine?
+06 Jul 2016 06:36:22 : LimitlessMc , Genesect#6492 , ye
+06 Jul 2016 06:36:27 : LimitlessMc , MoonWolf (Fornor)#8885 , which one?
+06 Jul 2016 06:36:29 : LimitlessMc , Genesect#6492 , mew
+06 Jul 2016 06:36:35 : LimitlessMc , Genesect#6492 , i just want one from you
+06 Jul 2016 06:36:39 : LimitlessMc , MoonWolf (Fornor)#8885 , aight
+06 Jul 2016 06:36:43 : LimitlessMc , MoonWolf (Fornor)#8885 , do you have 1mball?
+06 Jul 2016 06:36:46 : LimitlessMc , Genesect#6492 , ye
+06 Jul 2016 06:36:47 : LimitlessMc , MoonWolf (Fornor)#8885 , I'll do it
+06 Jul 2016 06:36:49 : LimitlessMc , MoonWolf (Fornor)#8885 , for 1 mball
+06 Jul 2016 06:36:49 : LimitlessMc , Genesect#6492 , i got 7
+06 Jul 2016 06:36:50 : LimitlessMc , swagrid#7001 , I'll give you a stack of ultras for it!
+06 Jul 2016 06:36:50 : LimitlessMc , Genesect#6492 , xD
+06 Jul 2016 06:36:52 : LimitlessMc , Genesect#6492 , alright
+06 Jul 2016 06:37:09 : LimitlessMc , MoonWolf (Fornor)#8885 , yo gotta go online tho
+06 Jul 2016 06:37:19 : LimitlessMc , swagrid#7001 , Dude fornor I have 64 ultras instead 
+06 Jul 2016 06:37:23 : LimitlessMc , swagrid#7001 , Take my deal
+06 Jul 2016 06:37:28 : LimitlessMc , MoonWolf (Fornor)#8885 , almost everything
+06 Jul 2016 06:37:37 : LimitlessMc , MoonWolf (Fornor)#8885 , topkek
+06 Jul 2016 06:37:37 : LimitlessMc , MoonWolf (Fornor)#8885 , nah
+06 Jul 2016 06:37:49 : LimitlessMc , MoonWolf (Fornor)#8885 , I'll probably delete this shiny absol
+06 Jul 2016 06:37:53 : LimitlessMc , MoonWolf (Fornor)#8885 , and gtfo
+06 Jul 2016 06:37:57 : LimitlessMc , xPalkia(lugia)#8149 , Can you stop?
+06 Jul 2016 06:38:00 : LimitlessMc , xPalkia(lugia)#8149 , -_-
+06 Jul 2016 06:38:05 : LimitlessMc , swagrid#7001 , No
+06 Jul 2016 06:38:05 : LimitlessMc , MoonWolf (Fornor)#8885 , naw
+06 Jul 2016 06:38:12 : LimitlessMc , MoonWolf (Fornor)#8885 , ikr gene.
+06 Jul 2016 06:38:28 : LimitlessMc , MoonWolf (Fornor)#8885 , what do you mean with that?
+06 Jul 2016 06:38:29 : LimitlessMc , MoonWolf (Fornor)#8885 , o_o
+06 Jul 2016 06:38:32 : LimitlessMc , MoonWolf (Fornor)#8885 , oh
+06 Jul 2016 06:38:32 : LimitlessMc , Mystz#8072 , cunts
+06 Jul 2016 06:38:33 : LimitlessMc , MoonWolf (Fornor)#8885 , aigh
+06 Jul 2016 06:38:34 : LimitlessMc , xPalkia(lugia)#8149 , <@127941856955727872>  are you going to tease me with the absol? ._.
+06 Jul 2016 06:38:38 : LimitlessMc , MoonWolf (Fornor)#8885 , Yeh
+06 Jul 2016 06:38:41 : LimitlessMc , MoonWolf (Fornor)#8885 , http://prntscr.com/bpdv1f
+06 Jul 2016 06:38:44 : LimitlessMc , MoonWolf (Fornor)#8885 , Mysts halp
+06 Jul 2016 06:38:47 : LimitlessMc , xPalkia(lugia)#8149 , Kys <@127941856955727872>
+06 Jul 2016 06:38:48 : LimitlessMc , MoonWolf (Fornor)#8885 , someone is bullying me
+06 Jul 2016 06:38:50 : LimitlessMc , MoonWolf (Fornor)#8885 , and my mom
+06 Jul 2016 06:39:05 : LimitlessMc , MoonWolf (Fornor)#8885 , Look at that shiny absol in the corner tho
+06 Jul 2016 06:39:12 : LimitlessMc , Genesect#6492 , <@190928285532815361>  this is why your not helper anymore
+06 Jul 2016 06:39:20 : LimitlessMc , Genesect#6492 , your about as mature as a 3 year old
+06 Jul 2016 06:39:21 : LimitlessMc , MoonWolf (Fornor)#8885 , ew no
+06 Jul 2016 06:39:24 : LimitlessMc , MoonWolf (Fornor)#8885 , fullscreen minecraft
+06 Jul 2016 06:39:24 : LimitlessMc , MoonWolf (Fornor)#8885 , ew
+06 Jul 2016 06:39:25 : LimitlessMc , MoonWolf (Fornor)#8885 , ew
+06 Jul 2016 06:39:56 : LimitlessMc , MoonWolf (Fornor)#8885 , Tyler? topkek
+06 Jul 2016 06:39:59 : LimitlessMc , MoonWolf (Fornor)#8885 , tyler fucking 1
+06 Jul 2016 06:40:02 : LimitlessMc , Mystz#8072 , fuck off
+06 Jul 2016 06:40:19 : LimitlessMc , MoonWolf (Fornor)#8885 , Tyler1
+06 Jul 2016 06:40:28 : LimitlessMc , MoonWolf (Fornor)#8885 , OH
+06 Jul 2016 06:40:29 : LimitlessMc , MoonWolf (Fornor)#8885 , LOL
+06 Jul 2016 06:40:32 : LimitlessMc , MoonWolf (Fornor)#8885 , Mysts
+06 Jul 2016 06:40:35 : LimitlessMc , xPalkia(lugia)#8149 , <@135660968804876289>  no, the rank was broken + Fornor has been doing the same thing over again, He has been saying he will delete the shiny absol when he gave it to me and then kept asking for it back until I gave it back and he knows I want the shiny absol
+06 Jul 2016 06:40:37 : LimitlessMc , MoonWolf (Fornor)#8885 , are you tyler too?
+06 Jul 2016 06:40:38 : LimitlessMc , MoonWolf (Fornor)#8885 , LMAO
+06 Jul 2016 06:40:41 : LimitlessMc , Mystz#8072 , yes
+06 Jul 2016 06:40:49 : LimitlessMc , MoonWolf (Fornor)#8885 , sexy name bruh
+06 Jul 2016 06:40:52 : LimitlessMc , Genesect#6492 , <@190928285532815361>  thats what they said to not hurt your feelings
+06 Jul 2016 06:40:54 : LimitlessMc , MoonWolf (Fornor)#8885 , are you bald too?
+06 Jul 2016 06:41:06 : LimitlessMc , xPalkia(lugia)#8149 , <@135660968804876289>  whatever
+06 Jul 2016 06:41:08 : LimitlessMc , Genesect#6492 , k
+06 Jul 2016 06:41:10 : LimitlessMc , swagrid#7001 , My names shelilah 
+06 Jul 2016 06:41:12 : LimitlessMc , MoonWolf (Fornor)#8885 , Yo gene
+06 Jul 2016 06:41:13 : LimitlessMc , MoonWolf (Fornor)#8885 , for real.
+06 Jul 2016 06:41:16 : LimitlessMc , MoonWolf (Fornor)#8885 , should i delete
+06 Jul 2016 06:41:18 : LimitlessMc , xPalkia(lugia)#8149 , <@135660968804876289>  k
+06 Jul 2016 06:41:18 : LimitlessMc , MoonWolf (Fornor)#8885 , this absol
+06 Jul 2016 06:41:24 : LimitlessMc , Genesect#6492 , <@127941856955727872>  thanks for the absol btw
+06 Jul 2016 06:41:33 : LimitlessMc , MoonWolf (Fornor)#8885 , oh
+06 Jul 2016 06:41:36 : LimitlessMc , MoonWolf (Fornor)#8885 , well
+06 Jul 2016 06:41:48 : LimitlessMc , Genesect#6492 , I love this shiny absol
+06 Jul 2016 06:41:50 : LimitlessMc , Genesect#6492 , it's great
+06 Jul 2016 06:41:56 : LimitlessMc , Genesect#6492 , ty for giving
+06 Jul 2016 06:42:05 : LimitlessMc , xPalkia(lugia)#8149 , I dont want the shiny absol anymore, at least not fornor's shiny absol
+06 Jul 2016 06:42:06 : LimitlessMc , MoonWolf (Fornor)#8885 , do you like the evs?
+06 Jul 2016 06:42:09 : LimitlessMc , MoonWolf (Fornor)#8885 , all ev trained.
+06 Jul 2016 06:42:10 : LimitlessMc , MoonWolf (Fornor)#8885 , http://prntscr.com/bpdy3y
+06 Jul 2016 06:42:24 : LimitlessMc , Genesect#6492 , The trash can in my pc looks sad without a shiny absol in it
+06 Jul 2016 06:42:26 : LimitlessMc , Genesect#6492 , <@127941856955727872>
+06 Jul 2016 06:42:30 : LimitlessMc , MoonWolf (Fornor)#8885 , lelelelel
+06 Jul 2016 06:42:32 : LimitlessMc , MoonWolf (Fornor)#8885 , do it
+06 Jul 2016 06:42:33 : LimitlessMc , Genesect#6492 , lelelel
+06 Jul 2016 06:42:33 : LimitlessMc , MoonWolf (Fornor)#8885 , no balls
+06 Jul 2016 06:42:37 : LimitlessMc , Genesect#6492 , trade it to me
+06 Jul 2016 06:42:39 : LimitlessMc , Genesect#6492 , ill do it
+06 Jul 2016 06:42:44 : LimitlessMc , Genesect#6492 , welp it doesnt look sad anymore
+06 Jul 2016 06:42:47 : LimitlessMc , Genesect#6492 , rip absol
+06 Jul 2016 06:42:51 : LimitlessMc , xPalkia(lugia)#8149 , Go ahead
+06 Jul 2016 06:42:55 : LimitlessMc , xPalkia(lugia)#8149 , I dont want the absol
+06 Jul 2016 06:43:42 : LimitlessMc , swagrid#7001 , I know I wanted it
+06 Jul 2016 06:43:44 : LimitlessMc , Genesect#6492 , <@151438890107011072>  pls no
+06 Jul 2016 06:43:47 : LimitlessMc , Genesect#6492 , let us troll
+06 Jul 2016 06:43:48 : LimitlessMc , Genesect#6492 , le
+06 Jul 2016 06:43:55 : LimitlessMc , MoonWolf (Fornor)#8885 , #GeneSavage
+06 Jul 2016 06:44:02 : LimitlessMc , MoonWolf (Fornor)#8885 , swag i sent you the minimap
+06 Jul 2016 06:44:32 : LimitlessMc , MoonWolf (Fornor)#8885 , its this one
+06 Jul 2016 06:44:38 : LimitlessMc , MoonWolf (Fornor)#8885 , Xaernus
+06 Jul 2016 06:44:42 : LimitlessMc , MoonWolf (Fornor)#8885 , the one on the screeshot
+06 Jul 2016 06:44:53 : LimitlessMc , MoonWolf (Fornor)#8885 , Wot
+06 Jul 2016 06:44:56 : LimitlessMc , MoonWolf (Fornor)#8885 , are you permaban?
+06 Jul 2016 06:45:01 : LimitlessMc , MoonWolf (Fornor)#8885 , oh aight aight
+06 Jul 2016 06:45:10 : LimitlessMc , MoonWolf (Fornor)#8885 , 1-100 who savage was it?
+06 Jul 2016 06:45:21 : LimitlessMc , MoonWolf (Fornor)#8885 , he can't ban
+06 Jul 2016 06:45:28 : LimitlessMc , MoonWolf (Fornor)#8885 , he can kick and mute
+06 Jul 2016 06:45:32 : LimitlessMc , xPalkia(lugia)#8149 , Who?
+06 Jul 2016 06:45:37 : LimitlessMc , MoonWolf (Fornor)#8885 , not anymore thooo
+06 Jul 2016 06:45:40 : LimitlessMc , swagrid#7001 , You
+06 Jul 2016 06:45:43 : LimitlessMc , Genesect#6492 , <@190928285532815361> talk when spoken to
+06 Jul 2016 06:45:44 : LimitlessMc , xPalkia(lugia)#8149 , k
+06 Jul 2016 06:45:57 : LimitlessMc , MoonWolf (Fornor)#8885 , Fornor vs xPalkia: Civil War.
+06 Jul 2016 06:45:59 : LimitlessMc , MoonWolf (Fornor)#8885 , topkek
+06 Jul 2016 06:46:06 : LimitlessMc , xPalkia(lugia)#8149 , I'm just going to get off of discord.
+06 Jul 2016 06:46:08 : LimitlessMc , Genesect#6492 , or else you'll have to kiss my sassy little finger
+06 Jul 2016 06:46:11 : LimitlessMc , MoonWolf (Fornor)#8885 , cy@
+06 Jul 2016 06:46:11 : LimitlessMc , xPalkia(lugia)#8149 , Na
+06 Jul 2016 06:46:17 : LimitlessMc , MoonWolf (Fornor)#8885 , i dont
+06 Jul 2016 06:46:20 : LimitlessMc , MoonWolf (Fornor)#8885 , im not english so...
+06 Jul 2016 06:46:22 : LimitlessMc , Mystz#8072 , ke
+06 Jul 2016 06:46:23 : LimitlessMc , swagrid#7001 , !youtube I am captain now
+06 Jul 2016 06:46:27 : LimitlessMc , Mystz#8072 , <@151438890107011072> hi
+06 Jul 2016 06:46:34 : LimitlessMc , Mank#0033 , Le
+06 Jul 2016 06:46:41 : LimitlessMc , Genesect#6492 , <@151438890107011072>  papa ;]
+06 Jul 2016 06:46:44 : LimitlessMc , Mystz#8072 , when u come home baby
+06 Jul 2016 06:46:54 : LimitlessMc , MoonWolf (Fornor)#8885 , lel
+06 Jul 2016 06:46:55 : LimitlessMc , MoonWolf (Fornor)#8885 , lel
+06 Jul 2016 06:47:00 : LimitlessMc , Mank#0033 , 2 days quer
+06 Jul 2016 06:47:03 : LimitlessMc , swagrid#7001 , !youtube I am captain now
+06 Jul 2016 06:47:19 : LimitlessMc , Mank#0033 , !youtube gerrara her
+06 Jul 2016 06:47:29 : LimitlessMc , Genesect#6492 , <@151438890107011072>  i miss you
+06 Jul 2016 06:47:30 : LimitlessMc , MoonWolf (Fornor)#8885 , dafuq
+06 Jul 2016 06:47:33 : LimitlessMc , MoonWolf (Fornor)#8885 , is this tropical shit
+06 Jul 2016 06:47:33 : LimitlessMc , MoonWolf (Fornor)#8885 , lel
+06 Jul 2016 06:47:40 : LimitlessMc , Genesect#6492 , !youtube clash of swords
+06 Jul 2016 06:47:51 : LimitlessMc , MoonWolf (Fornor)#8885 , Mank
+06 Jul 2016 06:47:54 : LimitlessMc , MoonWolf (Fornor)#8885 , do you have a voice?
+06 Jul 2016 06:47:59 : LimitlessMc , Mank#0033 , Le
+06 Jul 2016 06:47:59 : LimitlessMc , Genesect#6492 , !skip
+06 Jul 2016 06:48:06 : LimitlessMc , MoonWolf (Fornor)#8885 , Thats the tv?
+06 Jul 2016 06:48:37 : LimitlessMc , MoonWolf (Fornor)#8885 , lel
+06 Jul 2016 06:48:48 : LimitlessMc , Genesect#6492 , !stop
+06 Jul 2016 06:48:54 : LimitlessMc , Genesect#6492 , !youtube clash of swords
+06 Jul 2016 06:49:00 : LimitlessMc , swagrid#7001 , !youtube I am the captain now
+06 Jul 2016 06:49:07 : LimitlessMc , MoonWolf (Fornor)#8885 , ALLAHU AKBAR
+06 Jul 2016 06:49:16 : LimitlessMc , Genesect#6492 , XD
+06 Jul 2016 06:49:17 : LimitlessMc , Mank#0033 , Kill self
+06 Jul 2016 06:49:25 : LimitlessMc , Genesect#6492 , Hey, Mean!
+06 Jul 2016 06:49:34 : LimitlessMc , MoonWolf (Fornor)#8885 , i think i have
+06 Jul 2016 06:49:38 : LimitlessMc , Genesect#6492 , cancer
+06 Jul 2016 06:49:39 : LimitlessMc , MoonWolf (Fornor)#8885 , a programs that makes gifs
+06 Jul 2016 06:49:51 : LimitlessMc , MoonWolf (Fornor)#8885 , i'll make a gif of the absol being deleted
+06 Jul 2016 06:50:03 : LimitlessMc , swagrid#7001 , !youtube I am the captain now
+06 Jul 2016 06:50:32 : LimitlessMc , MoonWolf (Fornor)#8885 , !youtube Mrsuicidesheep ashen
+06 Jul 2016 06:51:04 : LimitlessMc , MoonWolf (Fornor)#8885 , cy@ nurds
+06 Jul 2016 06:51:10 : LimitlessMc , MoonWolf (Fornor)#8885 , sleeping is for the weaks
+06 Jul 2016 06:52:33 : LimitlessMc , MoonWolf (Fornor)#8885 , Gene
+06 Jul 2016 06:52:36 : LimitlessMc , MoonWolf (Fornor)#8885 , Delete or no delete
+06 Jul 2016 06:52:41 : LimitlessMc , Genesect#6492 , delte
+06 Jul 2016 06:52:42 : LimitlessMc , Genesect#6492 , delete
+06 Jul 2016 06:52:43 : LimitlessMc , Genesect#6492 , pls
+06 Jul 2016 06:52:49 : LimitlessMc , Genesect#6492 , delete it so hard
+06 Jul 2016 06:52:50 : LimitlessMc , MoonWolf (Fornor)#8885 , im gonna do it
+06 Jul 2016 06:52:54 : LimitlessMc , Genesect#6492 , that it goes into my pc
+06 Jul 2016 06:53:15 : LimitlessMc , MoonWolf (Fornor)#8885 , i will
+06 Jul 2016 06:53:24 : LimitlessMc , Genesect#6492 , !youtube blink-182 dysentary gary
+06 Jul 2016 06:53:32 : LimitlessMc , Genesect#6492 , <@127941856955727872>  yw
+06 Jul 2016 06:53:44 : LimitlessMc , Genesect#6492 , rip gerald
+06 Jul 2016 06:53:48 : LimitlessMc , MoonWolf (Fornor)#8885 , lel
+06 Jul 2016 06:54:28 : LimitlessMc , MoonWolf (Fornor)#8885 , what thing
+06 Jul 2016 06:54:29 : LimitlessMc , MoonWolf (Fornor)#8885 , no
+06 Jul 2016 06:54:29 : LimitlessMc , MoonWolf (Fornor)#8885 , lel
+06 Jul 2016 06:55:05 : LimitlessMc , MoonWolf (Fornor)#8885 , i though so
+06 Jul 2016 06:55:25 : LimitlessMc , MoonWolf (Fornor)#8885 , !help
+06 Jul 2016 06:55:27 : LimitlessMc , Gerald#7099 , 
+Hello, I am Gerald, the channel Bot. I can do many things, I can even be extended by plugins (weehee).
+
+Current commands: (note that arguments in <> are required, those in [] not)
+  - !clean  : lets me purge messages, options below
+    - !clean lets me purge the last 50 messages
+    - !clean <number> does the same for n messages (no maximum :P)
+    - !clean infinite removes messages until !kill, even the end of the channel doesn't seem like the limit
+    - !clean images deletes any message containing either a link to a jpg, !meme or an attachment
+    - !clean <string> removes every message containing the string
+    - !clean @someone cleans @someones messages in the last 100
+  - <@158641216311787520> (<@!158641216311787520>)  : Talk with me :)
+  - !help (!info) : Prints the help
+  - !kill : Kills me and lets me (hopefully) respawn instantly
+  - !ping (!pong) : Ping Pong
+  - (DM) !nobroadcast : Disables update broadcasts from me if you have a server
+  - (DM) !dobroadcast : Enables update broadcasts from me again
+  - !bugreport <message> : File a bug so it will reach my master even if you can't contact him directly (If it's abused, I will block certain ~~ab~~users)
+  - !invite : Add me to your server
+  - !status : Prints some overall status
+  - !plugins : Prints informations about all plugins
+  - (DM) !dropbox <secret> : Register Dropbox. Go to http://ultramc.org:8087/dropbox/authorize
+  - !id <beginning of name> : Outputs their internal id
+  - !serverid : Prints this server's id
+  - !channelid : Let me output the id of thid channel
+  - !roleids : Lists all roles with their ids
+  - !mention <role name> : Mentions everyone in that role
+  - !permissions <username> : Lists all permissions the spefific user has in this channel
+  - !meme <text you wanna write> : Generate a funny image
+  - !play <name> : Plays a specific song from soundcloud
+  - !youtube <name> : Plays a specific song from youtube. Can also be a url
+06 Jul 2016 06:55:27 : LimitlessMc , MoonWolf (Fornor)#8885 , hehexd
+06 Jul 2016 06:55:27 : LimitlessMc , Gerald#7099 , 
+  - !twitch <name> : Streams from twitch.tv
+  - !pause : Pauses playback
+  - !stop : Stops playback and empties the queue
+  - !queue : Prints the current queue
+  - !shufflequeue : Shuffles the queue
+  - !flushqueue : Empties the queue
+  - !skip : Skips the current song
+  - !replay : Adds the current playing song to the queue
+  - !webplayer : Outputs your personal webplayer url
+  - !resetsecret : Resets your webplayer secret in case you lost it
+  - !stats  : Outputs which users wrote the most in this channel
+  - !words  : Outputs which users wrote the most words in this channel
+  - !topwords  : Sends the most common words in this channel
+  - !suspicious  : NSA-like who should be tracked a bit more :)
+  - !weblog  : The channel's weblog for easy search in the browser
+  - !punchcard  : The channel's punchcard - when are people active in here
+  - (DM) !steam Authenticates a steam user linking his steam id to the discord id (visit http://ultramc.org:8087/steam
+  - (DM) !nosteam Deauthenticates a steam user and disables notifications
+  - (DM) !arkserver <name> : Creates an api token for use of the ARK webalarms
+  - (DM) !deleteark <key> : Delete an ARK server from the config. Provide the key as argument
+  - !rate [@mention] : outputs my rating for a user
+  - !luck [@mention] : outputs the luck of a user today
+  - !nowelcome  : Disables the welcome message for this server
+  - !dowelcome  : Enables the welcome message again
+
+(DM) means that you have to issue this command via a direct message to me.
+06 Jul 2016 06:55:29 : LimitlessMc , MoonWolf (Fornor)#8885 , hehexd
+06 Jul 2016 06:56:06 : LimitlessMc , MoonWolf (Fornor)#8885 , !webplayer
+06 Jul 2016 06:56:53 : LimitlessMc , MoonWolf (Fornor)#8885 , notrelly
+06 Jul 2016 06:59:05 : LimitlessMc , MoonWolf (Fornor)#8885 , lawl
+06 Jul 2016 06:59:21 : LimitlessMc , MoonWolf (Fornor)#8885 , <@151437497191235585>  Abuse! xD
+06 Jul 2016 07:22:29 : LimitlessMc , Mystz#8072 , <@127941856955727872> toss account
+06 Jul 2016 07:23:43 : LimitlessMc , MoonWolf (Fornor)#8885 , huh
+06 Jul 2016 07:23:43 : LimitlessMc , MoonWolf (Fornor)#8885 , sexc
+06 Jul 2016 07:23:46 : LimitlessMc , MoonWolf (Fornor)#8885 , sec*
+06 Jul 2016 07:23:52 : LimitlessMc , MoonWolf (Fornor)#8885 , i wanna catch a magikarp first
+06 Jul 2016 07:23:56 : LimitlessMc , MoonWolf (Fornor)#8885 , but minecraft crashed.
+06 Jul 2016 07:24:32 : LimitlessMc , MoonWolf (Fornor)#8885 , which account
+06 Jul 2016 07:24:33 : LimitlessMc , MoonWolf (Fornor)#8885 , do you want
+06 Jul 2016 07:24:36 : LimitlessMc , MoonWolf (Fornor)#8885 , lvl 30
+06 Jul 2016 07:24:39 : LimitlessMc , MoonWolf (Fornor)#8885 , or lvl 20 smthng?
+06 Jul 2016 07:24:54 : LimitlessMc , Mystz#8072 , 30 obv
+06 Jul 2016 07:24:59 : LimitlessMc , MoonWolf (Fornor)#8885 , lemme change pass then
+06 Jul 2016 07:25:17 : LimitlessMc , MoonWolf (Fornor)#8885 , start updating LAN
+06 Jul 2016 07:44:22 : LimitlessMc , Mystz#8072 , get online
+06 Jul 2016 07:44:30 : LimitlessMc , Mystz#8072 , <@127941856955727872>
+06 Jul 2016 07:44:37 : LimitlessMc , MoonWolf (Fornor)#8885 , chill
+06 Jul 2016 07:44:40 : LimitlessMc , MoonWolf (Fornor)#8885 , i was chaging nragions
+06 Jul 2016 07:44:45 : LimitlessMc , MoonWolf (Fornor)#8885 , had a 20mb update
+06 Jul 2016 07:44:47 : LimitlessMc , MoonWolf (Fornor)#8885 , for some reason
+06 Jul 2016 07:48:32 : LimitlessMc , {BR}GuardiaN#3763 , Congratulations Wert!
+06 Jul 2016 07:49:54 : LimitlessMc , Mystz#8072 , ur gay wert
+06 Jul 2016 08:40:33 : LimitlessMc , Mystz#8072 , server sucks <@127941856955727872>
+06 Jul 2016 08:43:36 : LimitlessMc , MoonWolf (Fornor)#8885 , <@148678046214389760>  Please dont hate me that much when palkia tells you what i did C:
+06 Jul 2016 08:48:06 : LimitlessMc , MoonWolf (Fornor)#8885 , https://fbcdn-photos-a-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-0/p480x480/13619956_1335910889770383_7524905435236984542_n.jpg?oh=b51ed492620cf6c806507e192dcdc9af&oe=582D20F9&__gda__=1479819068_95f6652a0069a3447f8721f43bb7cec4
+06 Jul 2016 10:38:40 : LimitlessMc , NorthOfTime#1507 , I have one of those
+06 Jul 2016 10:57:45 : Cipher , Akinci#5072 , 
+06 Jul 2016 12:19:49 : Cipher , Roy210#7098 , Lelele
+06 Jul 2016 12:42:40 : LimitlessMc , depthy#3405 , hepp
+06 Jul 2016 13:44:02 : Cipher , Wertfuzzy77#0274 , Lol <@151163520120127488>
+06 Jul 2016 13:44:03 : Cipher , Wertfuzzy77#0274 , Gj
+06 Jul 2016 13:51:22 : Cipher , Roy210#7098 , <@134441036905840640> chang my nick to GET AN ICON YA BUM
+06 Jul 2016 14:18:48 : Cipher , Calamariela#4119 , ewww <@!180158716895690752>
+06 Jul 2016 14:19:15 : Cipher , Topheralan#1202 , <@183307266475294721> you alive?!
+06 Jul 2016 14:19:24 : Cipher , Topheralan#1202 , !mutelist
+06 Jul 2016 14:19:24 : Cipher , Botfuzzy77#2209 , No One is Muted
+06 Jul 2016 14:19:33 : Cipher , Calamariela#4119 , hahaha xD v much
+06 Jul 2016 14:19:41 : Cipher , Calamariela#4119 , how are you cutie?
+06 Jul 2016 14:19:43 : Cipher , Calamariela#4119 , xD
+06 Jul 2016 14:20:08 : Cipher , Calamariela#4119 , OOOO shots
+06 Jul 2016 14:20:13 : Cipher , Calamariela#4119 , thats my toph xD
+06 Jul 2016 14:20:21 : Cipher , Topheralan#1202 , How's puppy?
+06 Jul 2016 14:20:38 : Cipher , Calamariela#4119 , he is great! very sweet dog actually
+06 Jul 2016 14:21:15 : Cipher , Topheralan#1202 , Bet
+06 Jul 2016 14:22:01 : Cipher , Topheralan#1202 , Maybe it's me
+06 Jul 2016 14:22:07 : Cipher , Calamariela#4119 , for a puppy....he listens. its so great, doesnt cry that much
+06 Jul 2016 14:22:16 : Cipher , Calamariela#4119 , i havent been on the server in days
+06 Jul 2016 14:22:30 : Cipher , Topheralan#1202 , I haven't either. Been v busy irl
+06 Jul 2016 14:23:21 : Cipher , Calamariela#4119 , is
+06 Jul 2016 14:26:05 : Cipher , Topheralan#1202 , Don?
+06 Jul 2016 14:26:15 : Cipher , Calamariela#4119 , hahahaah xD
+06 Jul 2016 14:26:21 : Cipher , Calamariela#4119 , no omg
+06 Jul 2016 14:26:24 : Cipher , Calamariela#4119 , im dying
+06 Jul 2016 14:26:26 : Cipher , Calamariela#4119 , the dog
+06 Jul 2016 14:26:31 : Cipher , Roy210#7098 , Bet
+06 Jul 2016 14:26:59 : Cipher , Calamariela#4119 , like the puppy is sucking a nipple in his dreams rn...i guess
+06 Jul 2016 14:27:26 : Cipher , Topheralan#1202 , Let's not speculate what the puppy is actually sucking Mari.....
+06 Jul 2016 14:27:55 : Cipher , Roy210#7098 , Puppy sucks what Cal sucks from Don ;)
+06 Jul 2016 14:28:05 : Cipher , Calamariela#4119 , ew roy go home
+06 Jul 2016 14:28:23 : Cipher , Calamariela#4119 , toph...xD
+06 Jul 2016 14:28:33 : Cipher , Topheralan#1202 , <@!151163520120127488> wtf man.....
+06 Jul 2016 14:28:39 : Cipher , Topheralan#1202 , Bleh
+06 Jul 2016 14:28:47 : Cipher , Calamariela#4119 , roy needs help
+06 Jul 2016 14:28:49 : Cipher , Calamariela#4119 , like
+06 Jul 2016 14:28:51 : Cipher , Calamariela#4119 , yesterday
+06 Jul 2016 14:29:43 : Cipher , Roy210#7098 , Wtf
+06 Jul 2016 14:29:58 : Cipher , Roy210#7098 , ~mari <3
+06 Jul 2016 14:30:05 : Cipher , Roy210#7098 , No pls
+06 Jul 2016 14:30:15 : Cipher , Calamariela#4119 , heh >:)
+06 Jul 2016 14:30:33 : Cipher , Calamariela#4119 , ask toph
+06 Jul 2016 14:30:36 : Cipher , Calamariela#4119 , he can change
+06 Jul 2016 14:32:07 : Cipher , Topheralan#1202 , If I change it'll be worse
+06 Jul 2016 14:32:26 : Cipher , Calamariela#4119 , v true
+06 Jul 2016 14:36:31 : Cipher , Roy210#7098 , Rude
+06 Jul 2016 14:36:55 : Cipher , Calamariela#4119 , why you gotta be so rude
+06 Jul 2016 14:42:51 : Cipher , Calamariela#4119 , ....no one gonna finish the song? wah wah
+06 Jul 2016 14:43:15 : Cipher , Roy210#7098 , No ty
+06 Jul 2016 14:44:03 : Cipher , Calamariela#4119 , lol you salty? want your name changed?
+06 Jul 2016 14:46:38 : Cipher , Roy210#7098 , Lmao I wasnt salty
+06 Jul 2016 14:46:43 : Cipher , Roy210#7098 , I just hate that song
+06 Jul 2016 14:46:55 : Cipher , Calamariela#4119 , but you happy about the name now?
+06 Jul 2016 14:47:11 : Cipher , Roy210#7098 , Na
+06 Jul 2016 14:47:19 : Cipher , Calamariela#4119 , okei
+06 Jul 2016 14:47:24 : Cipher , Roy210#7098 , Was better before
+06 Jul 2016 14:47:32 : Cipher , Calamariela#4119 , lol
+06 Jul 2016 14:49:43 : Cipher , Jabulla#3761 , [00:18:21] [Client thread/INFO]: [CHAT] Your Defence Iv is 31
+[00:18:21] [Client thread/INFO]: [CHAT] Your SpecialAttack Iv is 31
+[00:18:21] [Client thread/INFO]: [CHAT] and your next highest Iv is HP 10
+
+Huh, all lower then 10. waow
+06 Jul 2016 14:49:59 : Cipher , Calamariela#4119 , hai <@156331971717365760>
+06 Jul 2016 14:50:11 : Cipher , Jabulla#3761 , Hai <@183307266475294721>
+06 Jul 2016 14:50:25 : Cipher , Calamariela#4119 , like the guild so far?
+06 Jul 2016 14:50:32 : Cipher , Jabulla#3761 , Yeah, it's great
+06 Jul 2016 14:55:00 : LimitlessMc , Akuraizu#8280 , it's been too long
+06 Jul 2016 14:55:06 : LimitlessMc , Akuraizu#8280 , since I last played
+06 Jul 2016 14:55:15 : LimitlessMc , Akuraizu#8280 , I haz returned
+06 Jul 2016 14:55:37 : LimitlessMc , Akuraizu#8280 , no
+06 Jul 2016 14:55:39 : LimitlessMc , Akuraizu#8280 , it scares me
+06 Jul 2016 14:55:55 : LimitlessMc , Akuraizu#8280 , no
+06 Jul 2016 14:56:02 : LimitlessMc , Akuraizu#8280 , !meme it will take my virginity
+06 Jul 2016 14:56:03 : LimitlessMc , Gerald#7099 , http://i.imgflip.com/16zelx.jpg
+06 Jul 2016 14:56:09 : LimitlessMc , Gerald#7099 , http://i.imgflip.com/16zem8.jpg
+06 Jul 2016 14:56:18 : LimitlessMc , Akuraizu#8280 , !meme the face says otherwise..
+06 Jul 2016 14:56:20 : LimitlessMc , Gerald#7099 , http://i.imgflip.com/16zeml.jpg
+06 Jul 2016 14:57:02 : LimitlessMc , Akuraizu#8280 , Also, <@186857995802640384>  I apologize for calling you old
+06 Jul 2016 14:57:14 : LimitlessMc , depthy#3405 , When did you call me old lmao
+06 Jul 2016 14:57:39 : LimitlessMc , Akuraizu#8280 , like
+06 Jul 2016 14:57:42 : LimitlessMc , Akuraizu#8280 , a few days ago
+06 Jul 2016 14:57:43 : LimitlessMc , Akuraizu#8280 , maybe
+06 Jul 2016 14:57:47 : Cipher , Wertfuzzy77#0274 , Dont you know I'm human too <@183307266475294721>
+06 Jul 2016 14:57:48 : LimitlessMc , Akuraizu#8280 , it's fine if you don't remember
+06 Jul 2016 14:57:51 : LimitlessMc , Akuraizu#8280 , actually
+06 Jul 2016 14:57:56 : LimitlessMc , Akuraizu#8280 , it's better if you don'[t remember
+06 Jul 2016 14:58:00 : Cipher , Wertfuzzy77#0274 , Also, 10/10 nickname for Roy
+06 Jul 2016 14:58:51 : LimitlessMc , Akuraizu#8280 , !meme fck. That mean's I'm going elderly
+06 Jul 2016 14:58:53 : LimitlessMc , Gerald#7099 , http://i.imgflip.com/16zes7.jpg
+06 Jul 2016 15:02:34 : Cipher , Wertfuzzy77#0274 , Hello
+06 Jul 2016 15:02:34 : Cipher , Botfuzzy77#2209 , *From The Other Side*
+06 Jul 2016 15:02:52 : Cipher , Wertfuzzy77#0274 , I'm all alone <@187609093001838602>
+06 Jul 2016 15:02:52 : Cipher , Botfuzzy77#2209 , Wut
+06 Jul 2016 15:03:00 : Cipher , Wertfuzzy77#0274 , Thanks
+06 Jul 2016 15:03:06 : Cipher , Wertfuzzy77#0274 , !fml
+06 Jul 2016 15:03:07 : Cipher , Botfuzzy77#2209 , *Today, some random guy decided to wake me up at 5.30am by yelling outside my window. I opened the window and told him to knock it off before going back to bed. It took a good 3 minutes of his laughter before I realised I was naked and he got a close up view of my breasts. FML*
+06 Jul 2016 15:03:19 : Cipher , Wertfuzzy77#0274 , lol
+06 Jul 2016 15:05:42 : Cipher , Calamariela#4119 , This*
+06 Jul 2016 15:06:05 : Cipher , Wertfuzzy77#0274 , Isis confirmed
+06 Jul 2016 15:06:19 : Cipher , Calamariela#4119 , Woah what xD
+06 Jul 2016 15:06:31 : Cipher , Wertfuzzy77#0274 , 'is is'
+06 Jul 2016 15:07:05 : Cipher , Calamariela#4119 , You weirdo. You caught so many small things
+06 Jul 2016 15:07:32 : Cipher , Wertfuzzy77#0274 , !fml
+06 Jul 2016 15:07:35 : Cipher , Botfuzzy77#2209 , *Today, my sister got her car repossessed. In order to get it back, my mom took $4,000.00 out of my bank account promising she would pay it back within a few months. She lost her job. FML*
+06 Jul 2016 15:07:47 : Cipher , Wertfuzzy77#0274 , Poor them xD
+06 Jul 2016 15:07:59 : Cipher , Calamariela#4119 , Andre I cant type
+06 Jul 2016 15:08:03 : Cipher , Calamariela#4119 , I give up
+06 Jul 2016 15:08:08 : Cipher , Wertfuzzy77#0274 , Lol
+06 Jul 2016 15:08:11 : Cipher , Calamariela#4119 , Screw English for now
+06 Jul 2016 15:08:25 : Cipher , Wertfuzzy77#0274 , Try a different language xD
+06 Jul 2016 15:08:37 : Cipher , Calamariela#4119 , Maybe I should lol
+06 Jul 2016 15:09:01 : Cipher , Calamariela#4119 , Catch catch catch
+06 Jul 2016 15:09:15 : Cipher , Wertfuzzy77#0274 , Pika pika
+06 Jul 2016 15:09:51 : Cipher , Wertfuzzy77#0274 , !status
+06 Jul 2016 15:09:51 : Cipher , Botfuzzy77#2209 , UpTime: 142876.95s
+06 Jul 2016 15:09:51 : Cipher , Botfuzzy77#2209 , Total Messages: 1467
+06 Jul 2016 15:10:14 : Cipher , Wertfuzzy77#0274 , !debug 142876.95/60/60
+06 Jul 2016 15:10:14 : Cipher , Botfuzzy77#2209 , ```py
+39.68804166666667
+```
+06 Jul 2016 15:10:31 : Cipher , Wertfuzzy77#0274 , Wow, 40 hours???
+06 Jul 2016 15:10:41 : Cipher , Wertfuzzy77#0274 , This thing needs a restart xD
+06 Jul 2016 15:10:45 : Cipher , Wertfuzzy77#0274 , !restart
+06 Jul 2016 15:10:51 : Cipher , Wertfuzzy77#0274 , !relog
+06 Jul 2016 15:10:51 : Cipher , Botfuzzy77#2209 , Relogging...

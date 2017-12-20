@@ -1,0 +1,31 @@
+Wertfuzzy77#0274, !mute randomname
+Wertfuzzy77#0274, !mutelist
+Botfuzzy77#2926, Mute List:
+borfuzzy77
+Botfuzzy77
+Botfuzzy77
+
+Wertfuzzy77#0274, weird
+Topheralan#1202, !mute akinci
+Topheralan#1202, Nope
+Wertfuzzy77#0274, now i dont have perms ;-;
+Wertfuzzy77#0274, ...
+Wertfuzzy77#0274, ```Topheralan#1202, !mute akinci
+@everyone
+Staff
+Admin```
+Wertfuzzy77#0274, ```if role.name is "Staff":
+            return True```
+Wertfuzzy77#0274, hep
+Topheralan#1202, What is going on???
+Wertfuzzy77#0274, you clearly have Staff rank
+Wertfuzzy77#0274, Im having it print what roles you have
+Wertfuzzy77#0274, so you have @'everyone  Staff, and Admin
+Wertfuzzy77#0274, and to see if you can use Mute, I check if one of those is "Staff"
+Wertfuzzy77#0274, which you clearly have
+Topheralan#1202, Ah
+Wertfuzzy77#0274, but still dont have perms ????
+Topheralan#1202, Technology confuses me. I swear I'm an 80yo man trapped in a 26yo body. 
+Wertfuzzy77#0274, rip
+Wertfuzzy77#0274, !relog
+Botfuzzy77#2926, Relogging...

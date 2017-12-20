@@ -1,0 +1,142 @@
+07 May 2017 06:26:08 : LimitlessMc, botchat, darth kota#9446, but i did in other language
+07 May 2017 06:26:17 : LimitlessMc, botchat, Wertfuzzy77#0274, welcome to 2017
+07 May 2017 06:26:23 : LimitlessMc, botchat, Wertfuzzy77#0274, the languages of the future xD
+07 May 2017 06:26:24 : LimitlessMc, botchat, darth kota#9446, and ;reconnect
+07 May 2017 06:26:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ya and ;reconnect
+07 May 2017 06:26:31 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+07 May 2017 06:26:31 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+07 May 2017 06:26:38 : LimitlessMc, botchat, darth kota#9446, yaaay
+07 May 2017 06:26:39 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search american pie
+07 May 2017 06:26:41 : LimitlessMc, botchat, Botfuzzy77#2209, Added Don McLean- American Pie (with Lyrics) to the queue
+07 May 2017 06:26:44 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=uAsV5-Hv-7U
+07 May 2017 06:27:14 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=y8AWFf7EAc4
+07 May 2017 06:27:19 : LimitlessMc, botchat, Botfuzzy77#2209, Added Jeff Buckley - Hallelujah (Official Video) to the queue
+07 May 2017 06:27:21 : LimitlessMc, botchat, Wertfuzzy77#0274, lets try it
+07 May 2017 06:27:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reconnect
+07 May 2017 06:27:28 : LimitlessMc, botchat, Wertfuzzy77#0274, 😄
+07 May 2017 06:27:34 : LimitlessMc, botchat, Wertfuzzy77#0274, ;leave
+07 May 2017 06:27:36 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+07 May 2017 06:27:36 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+07 May 2017 06:27:39 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=y8AWFf7EAc4
+07 May 2017 06:27:40 : LimitlessMc, botchat, Botfuzzy77#2209, Added Jeff Buckley - Hallelujah (Official Video) to the queue
+07 May 2017 06:27:41 : LimitlessMc, botchat, Wertfuzzy77#0274, there we go
+07 May 2017 06:27:57 : LimitlessMc, botchat, darth kota#9446, ;search cemetary gates
+07 May 2017 06:27:58 : LimitlessMc, botchat, Botfuzzy77#2209, Added Cemetery Gates - Pantera (HQ Audio) to the queue
+07 May 2017 06:27:59 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=1OYw7FPB7CE
+07 May 2017 06:28:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+07 May 2017 06:28:08 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 06:28:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+07 May 2017 06:28:12 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 06:29:15 : LimitlessMc, botchat, darth kota#9446, next step is too figure out how to if x == 2: jump to defined line of code
+07 May 2017 06:29:26 : LimitlessMc, botchat, Wertfuzzy77#0274, elif
+07 May 2017 06:29:35 : LimitlessMc, botchat, darth kota#9446, waht
+07 May 2017 06:29:51 : LimitlessMc, botchat, darth kota#9446, bless you
+07 May 2017 06:29:55 : LimitlessMc, botchat, darth kota#9446, XD
+07 May 2017 06:30:16 : LimitlessMc, botchat, Wertfuzzy77#0274, else if
+07 May 2017 06:30:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+if(current.views < MIN_VIEWS):
+                await self.bot.say("Sorry, that video has too little views to be Trustworthy. Needs [{}] but has [{}]".format(format(MIN_VIEWS, ",d"), format(current.views, ",d")))
+                current.process.kill()
+                break
+            elif(current.dislikes / (current.dislikes + current.likes) > MAX_PERCENT_DISLIKE):
+                await self.bot.say("Sorry, too many people dislike that video. Needs to be below [{}%] but was [{}%]".format(MAX_PERCENT_DISLIKE * 100, round(current.dislikes / (current.dislikes + current.likes) * 100,2)))
+                current.process.kill()
+                break
+            elif(current.duration > MAX_LENGTH):
+                await self.bot.say("Sorry, that video is too long, it must be under [{}] minutes!".format(MAX_LENGTH/60))
+                current.process.kill()
+                break```
+07 May 2017 06:30:26 : LimitlessMc, botchat, darth kota#9446, ohhhh duh XD
+07 May 2017 06:30:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+if this:
+    then this
+elif this:
+    thhe this
+else:
+    this
+```
+07 May 2017 06:31:12 : LimitlessMc, botchat, darth kota#9446, you dont allow unliked and underviewed vids?
+07 May 2017 06:31:19 : LimitlessMc, botchat, Wertfuzzy77#0274, correct
+07 May 2017 06:31:23 : LimitlessMc, botchat, Wertfuzzy77#0274, watch this 😛
+07 May 2017 06:31:35 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=kffacxfA7G4
+07 May 2017 06:31:36 : LimitlessMc, botchat, Botfuzzy77#2209, Sorry, too many people dislike that video. Needs to be below [25.0%] but was [54.5%]
+07 May 2017 06:31:40 : LimitlessMc, botchat, darth kota#9446, XD
+07 May 2017 06:31:47 : LimitlessMc, botchat, darth kota#9446, im dead
+07 May 2017 06:32:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=-nazo6QQUL8
+07 May 2017 06:32:04 : LimitlessMc, botchat, Botfuzzy77#2209, Sorry, that video has too little views to be Trustworthy. Needs [5,000] but has [795]
+07 May 2017 06:32:27 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=U6ti1JaQzAM
+07 May 2017 06:32:28 : LimitlessMc, botchat, Botfuzzy77#2209, Sorry, that video is too long, it must be under [20.0] minutes!
+07 May 2017 06:32:36 : LimitlessMc, botchat, Wertfuzzy77#0274, there is all 3 ifs in action xD
+07 May 2017 06:32:43 : LimitlessMc, botchat, darth kota#9446, ;search wheels on the bus littlebabybum
+07 May 2017 06:33:11 : LimitlessMc, botchat, darth kota#9446, XD i killed it with this internet plague
+07 May 2017 06:33:40 : LimitlessMc, botchat, Wertfuzzy77#0274, nah, its trying to find a good one
+07 May 2017 06:33:41 : LimitlessMc, botchat, Wertfuzzy77#0274, but cant
+07 May 2017 06:33:48 : LimitlessMc, botchat, Wertfuzzy77#0274, hasnt errored on my end yet
+07 May 2017 06:33:50 : LimitlessMc, botchat, Wertfuzzy77#0274, so still looking xD
+07 May 2017 06:33:54 : LimitlessMc, botchat, darth kota#9446, lel
+07 May 2017 06:34:32 : LimitlessMc, botchat, darth kota#9446, so how do i use elif to loop in said manor im still confused
+07 May 2017 06:34:48 : LimitlessMc, botchat, Wertfuzzy77#0274, you don't use elif in loops
+07 May 2017 06:34:53 : LimitlessMc, botchat, Wertfuzzy77#0274, its the same as if
+07 May 2017 06:34:56 : LimitlessMc, botchat, Wertfuzzy77#0274, just a 2nd case
+07 May 2017 06:35:34 : LimitlessMc, botchat, darth kota#9446, ;search i remember you skid row
+07 May 2017 06:35:36 : LimitlessMc, botchat, Botfuzzy77#2209, Added Skid Row - I Remember You to the queue
+07 May 2017 06:35:36 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=ivFYVAntpw0
+07 May 2017 06:35:44 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+X = 2
+if X == 1:
+    print("X is 1")
+elif X == 2:
+    print("X is 2")
+else:
+    print("X is something else')
+```
+07 May 2017 06:35:54 : LimitlessMc, botchat, darth kota#9446, ^that face
+07 May 2017 06:36:15 : LimitlessMc, botchat, Wertfuzzy77#0274, also, i just fixed the ;search cmd to properly say when it doenst find something
+07 May 2017 06:36:21 : LimitlessMc, botchat, darth kota#9446, okay lel
+07 May 2017 06:36:32 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search
+07 May 2017 06:36:33 : LimitlessMc, botchat, Botfuzzy77#2209, Search for SOMETHING you bum
+07 May 2017 06:36:34 : LimitlessMc, botchat, Wertfuzzy77#0274, 😛
+07 May 2017 06:36:39 : LimitlessMc, botchat, Wertfuzzy77#0274, I like that feature xD
+07 May 2017 06:36:49 : LimitlessMc, botchat, darth kota#9446, XD
+07 May 2017 06:36:53 : LimitlessMc, botchat, Wertfuzzy77#0274, little easter eggs I have coded in here
+07 May 2017 06:36:54 : LimitlessMc, botchat, Wertfuzzy77#0274, like
+07 May 2017 06:37:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pbs notrealplace
+07 May 2017 06:37:02 : LimitlessMc, botchat, Botfuzzy77#2209, wut
+07 May 2017 06:37:13 : LimitlessMc, botchat, darth kota#9446, XD
+07 May 2017 06:38:05 : LimitlessMc, botchat, TherminatorX#6644, Mainly encountered by users who accidentally use ;pokeboss to fight
+07 May 2017 06:38:22 : LimitlessMc, botchat, Wertfuzzy77#0274, which is why I made it say `wut`
+07 May 2017 06:38:54 : LimitlessMc, botchat, TherminatorX#6644, ;pbs wut
+07 May 2017 06:38:54 : LimitlessMc, botchat, Botfuzzy77#2209, wut
+07 May 2017 06:39:01 : LimitlessMc, botchat, Wertfuzzy77#0274, also, does this still work?
+07 May 2017 06:39:02 : LimitlessMc, botchat, Wertfuzzy77#0274, https://limitlessmc.net/f/viewtopic.php?f=9&t=5294
+07 May 2017 06:39:12 : LimitlessMc, botchat, darth kota#9446, @Wertfuzzy77  my goal here is to make a program that starts a var at 1 prints matching conditional adds one prints matching conditional subtracts 1 prints matching conditional ec
+07 May 2017 06:39:17 : LimitlessMc, botchat, darth kota#9446, ect
+07 May 2017 06:39:30 : LimitlessMc, botchat, Wertfuzzy77#0274, wau
+07 May 2017 06:39:33 : LimitlessMc, botchat, Wertfuzzy77#0274, english plz
+07 May 2017 06:40:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug ForumPost("https://limitlessmc.net/f/viewtopic.php?f=9&t=5294")
+07 May 2017 06:40:13 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+** #15495  by Jay113355 Sat Apr 22, 2017 10:55 am 			**
+Re: Pixelmon turns 5 years old!
+------------------------------------
+It's hard to believe pixelmon is turning 5 years old. But here it is!<br>
+<br>
+<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/pKHD2BsvQJ0" width="560"></iframe></br></br>
+```
+07 May 2017 06:40:16 : LimitlessMc, botchat, Wertfuzzy77#0274, ayyy
+07 May 2017 06:40:20 : LimitlessMc, botchat, Wertfuzzy77#0274, it still works
+07 May 2017 06:40:20 : LimitlessMc, botchat, Wertfuzzy77#0274, go me
+07 May 2017 06:40:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug "http://limitlessmc.net/f/viewtopic.php?" in ctx.message.content
+07 May 2017 06:40:54 : LimitlessMc, botchat, Wertfuzzy77#0274, hmm
+07 May 2017 06:41:39 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug ctx.message.content
+07 May 2017 06:41:39 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+;debug ctx.message.content
+```
+07 May 2017 06:41:54 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug "http://limitlessmc.net/f/viewtopic.php?" in "https://limitlessmc.net/f/viewtopic.php?f=9&t=5294"
+07 May 2017 06:42:09 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug 'http://limitlessmc.net/f/viewtopic.php?' in "https://limitlessmc.net/f/viewtopic.php?f=9&t=5294"
+07 May 2017 06:42:12 : LimitlessMc, botchat, Wertfuzzy77#0274, hmmmmmmmmmm
+07 May 2017 06:42:27 : LimitlessMc, botchat, Wertfuzzy77#0274, o...
+07 May 2017 06:42:30 : LimitlessMc, botchat, Wertfuzzy77#0274, im dumb
+07 May 2017 06:42:36 : LimitlessMc, botchat, Wertfuzzy77#0274, https://limitlessmc.net/f/viewtopic.php?f=9&t=5294
+07 May 2017 06:42:44 : LimitlessMc, botchat, Wertfuzzy77#0274, why you no work...
+07 May 2017 06:43:39 : LimitlessMc, botchat, Wertfuzzy77#0274, ;relog
+07 May 2017 06:43:40 : LimitlessMc, botchat, Botfuzzy77#2209, Relogging...

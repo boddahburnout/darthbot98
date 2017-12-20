@@ -1,0 +1,59 @@
+22 Apr 2017 18:49:11 : OblivionEvolved, bots, Wertfuzzy77#0274, 😄
+22 Apr 2017 18:49:11 : OblivionEvolved, bots, Wertfuzzy77#0274, oi
+22 Apr 2017 18:49:11 : OblivionEvolved, bots, Wertfuzzy77#0274, kys
+22 Apr 2017 18:49:11 : OblivionEvolved, bots, ℋ𝒆𝓬𝓣𝓲𝓲𝓬𝓟𝓪𝓷𝓭𝓪#3127, 👨‍❤️‍👨
+22 Apr 2017 18:49:22 : OblivionEvolved, bots, Wertfuzzy77#0274, 😘
+22 Apr 2017 18:49:30 : OblivionEvolved, bots, Wertfuzzy77#0274, ;join
+22 Apr 2017 18:49:31 : OblivionEvolved, bots, Botfuzzy77#2209, Connected channel!
+22 Apr 2017 18:49:33 : OblivionEvolved, bots, Wertfuzzy77#0274, ;playlist Shelter
+22 Apr 2017 18:49:35 : OblivionEvolved, bots, ℋ𝒆𝓬𝓣𝓲𝓲𝓬𝓟𝓪𝓷𝓭𝓪#3127, 😡
+22 Apr 2017 18:49:38 : OblivionEvolved, bots, Wertfuzzy77#0274, 😇
+22 Apr 2017 18:49:43 : OblivionEvolved, bots, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+22 Apr 2017 18:49:45 : OblivionEvolved, bots, Wertfuzzy77#0274, ;songs
+22 Apr 2017 18:49:45 : OblivionEvolved, bots, Botfuzzy77#2209, **The Following songs are in the Queue**
+22 Apr 2017 18:49:45 : OblivionEvolved, bots, Botfuzzy77#2209, 
+22 Apr 2017 18:49:53 : OblivionEvolved, bots, StubbyMuffins#1053, ;skip
+22 Apr 2017 18:49:53 : OblivionEvolved, bots, Botfuzzy77#2209, Skipping Shelter - Porter Robinson & Madeon - Fingerstyle Guitar Cover by ADMIN request
+22 Apr 2017 18:50:05 : OblivionEvolved, bots, Wertfuzzy77#0274, ya
+22 Apr 2017 18:50:08 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, 
+22 Apr 2017 18:50:09 : OblivionEvolved, bots, Wertfuzzy77#0274, this is my shelter playlist
+22 Apr 2017 18:50:16 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, how i do XD
+22 Apr 2017 18:50:23 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+22 Apr 2017 18:50:23 : OblivionEvolved, bots, Wertfuzzy77#0274, I also added youtube playlists too
+22 Apr 2017 18:50:30 : OblivionEvolved, bots, ℋ𝒆𝓬𝓣𝓲𝓲𝓬𝓟𝓪𝓷𝓭𝓪#3127, 💯
+22 Apr 2017 18:51:42 : OblivionEvolved, bots, Wertfuzzy77#0274, ;clear
+22 Apr 2017 18:51:42 : OblivionEvolved, bots, Botfuzzy77#2209, Cleared Queue!
+22 Apr 2017 18:51:45 : OblivionEvolved, bots, Wertfuzzy77#0274, ;yplaylist https://www.youtube.com/playlist?list=PLS4oROwDZmpP2w8wcad2q01VvcKX3dahv
+22 Apr 2017 18:51:55 : OblivionEvolved, bots, Wertfuzzy77#0274, you can now import playlists from youtube 😄
+22 Apr 2017 18:51:59 : OblivionEvolved, bots, Wertfuzzy77#0274, ;songs
+22 Apr 2017 18:52:00 : OblivionEvolved, bots, Botfuzzy77#2209, **The Following songs are in the Queue, plus [4] more**
+22 Apr 2017 18:52:00 : OblivionEvolved, bots, Botfuzzy77#2209, 
+22 Apr 2017 18:52:42 : OblivionEvolved, bots, Wertfuzzy77#0274, gonna spam some cmds in this discord 😛 only sorta sorry
+22 Apr 2017 18:52:55 : OblivionEvolved, bots, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id]
+22 Apr 2017 18:52:55 : OblivionEvolved, bots, Botfuzzy77#2209, ```py
+<Modules.Music.ServerPlayer object at 0x7f7f71124898>
+```
+22 Apr 2017 18:53:02 : OblivionEvolved, bots, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].player
+22 Apr 2017 18:53:02 : OblivionEvolved, bots, Botfuzzy77#2209, ```py
+<ProcessPlayer(Thread-20, started daemon 140184712640256)>
+```
+22 Apr 2017 18:53:47 : OblivionEvolved, bots, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].player.yt
+22 Apr 2017 18:53:47 : OblivionEvolved, bots, Botfuzzy77#2209, ```py
+<youtube_dl.YoutubeDL.YoutubeDL object at 0x7f7f615e0080>
+```
+22 Apr 2017 18:57:15 : OblivionEvolved, bots, Wertfuzzy77#0274, did I?
+22 Apr 2017 18:57:35 : OblivionEvolved, bots, StubbyMuffins#1053, ;skip
+22 Apr 2017 18:57:36 : OblivionEvolved, bots, Botfuzzy77#2209, Skipping Porter Robinson & Madeon - Shelter (Official Audio) by ADMIN request
+22 Apr 2017 18:57:42 : OblivionEvolved, bots, Wertfuzzy77#0274, nah, the queue player died
+22 Apr 2017 18:57:48 : OblivionEvolved, bots, Wertfuzzy77#0274, I think I can restart it?
+22 Apr 2017 18:57:57 : OblivionEvolved, bots, Wertfuzzy77#0274, ;musicdebug self.useQueue()
+22 Apr 2017 18:57:57 : OblivionEvolved, bots, Botfuzzy77#2209, ```py
+TypeError: useQueue() missing 1 required positional argument: 'SP'
+```
+22 Apr 2017 18:57:59 : OblivionEvolved, bots, Wertfuzzy77#0274, hmmm
+22 Apr 2017 18:58:08 : OblivionEvolved, bots, Wertfuzzy77#0274, ;musicdebug self.useQueue(self.serverPlayers[ctx.message.server.id])
+22 Apr 2017 18:58:16 : OblivionEvolved, bots, Wertfuzzy77#0274, rip
+22 Apr 2017 18:58:19 : OblivionEvolved, bots, Wertfuzzy77#0274, its being mean
+22 Apr 2017 18:58:59 : OblivionEvolved, bots, StubbyMuffins#1053, D:
+22 Apr 2017 19:00:49 : OblivionEvolved, bots, Wertfuzzy77#0274, ;relog
+22 Apr 2017 19:00:49 : OblivionEvolved, bots, Botfuzzy77#2209, Relogging...

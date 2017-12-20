@@ -1,0 +1,12 @@
+02 Apr 2017 00:42:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ;changeBox 100 100 100
+02 Apr 2017 00:42:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 00:42:44 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug json.load(open('Players.json', 'r'))[ctx.message.author.id]['box_color']
+02 Apr 2017 00:42:44 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+['100', '100', '100']
+```
+02 Apr 2017 00:42:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ......
+02 Apr 2017 00:42:51 : LimitlessMc, botchat, Wertfuzzy77#0274, kill me
+02 Apr 2017 00:43:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug tuple(100, 100, 100)
+02 Apr 2017 00:43:11 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+TypeError: tuple() takes at most 1 argument (3 given)
+```

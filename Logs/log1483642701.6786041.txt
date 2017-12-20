@@ -1,0 +1,48 @@
+05 Jan 2017 18:58:44 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, >3k xp
+05 Jan 2017 18:58:44 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, (wat)
+05 Jan 2017 18:58:44 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ❤ you wert
+05 Jan 2017 18:58:44 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ya, we stay away from ;train for now xD
+05 Jan 2017 18:59:53 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, (especially you with your negative xp)
+05 Jan 2017 19:00:24 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, (probably confuses the heck out of it)
+05 Jan 2017 19:00:39 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, xD that was before, i fixed that now
+05 Jan 2017 19:00:43 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, (not to mention the decimals)
+05 Jan 2017 19:00:48 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, working on it 😛
+05 Jan 2017 19:01:56 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, guess you could just apply ceil to all the decimal exp gains
+05 Jan 2017 19:02:14 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, Ill just round em to an int
+05 Jan 2017 19:02:18 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, which is what i do now
+05 Jan 2017 19:02:21 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, or convert to int
+05 Jan 2017 19:02:23 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, that works
+05 Jan 2017 19:02:28 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, but the decimals are already in the system 😛
+05 Jan 2017 19:02:42 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, so i have to run through all the players and set their XPs to int
+05 Jan 2017 19:02:57 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, nothing a list comprehension can't do
+05 Jan 2017 19:04:33 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;level
+05 Jan 2017 19:04:34 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Name**: *TherminatorX*
+**Level**: 14
+**XP**: 1757.693181818182/3375
+05 Jan 2017 19:04:46 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle GGGGG
+05 Jan 2017 19:04:46 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, A Level 0 Boss **Wingull** has appeared!
+It has 0 Health.
+05 Jan 2017 19:04:46 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 19:04:47 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g:
+:x: :x: :x: :white_check_mark: :x:
+05 Jan 2017 19:04:47 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 1 damage
+05 Jan 2017 19:04:47 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 0 Boss **Wingull** has been defeated!
+05 Jan 2017 19:04:51 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, 1 damage g
+05 Jan 2017 19:04:51 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Most Damage by **Bakafish** with **1** damage
+05 Jan 2017 19:04:52 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, g
+05 Jan 2017 19:05:03 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;level
+05 Jan 2017 19:05:03 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Name**: *Bakafish*
+**Level**: 1
+**XP**: 2/8
+05 Jan 2017 19:05:05 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, lel
+05 Jan 2017 19:05:06 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, 👍
+05 Jan 2017 19:05:11 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;summon
+05 Jan 2017 19:05:15 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, A Level 1 boss has been summoned
+05 Jan 2017 19:05:31 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle WIING
+05 Jan 2017 19:05:31 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, A Level 1 Boss **Dewgong** has appeared!
+It has 650 Health.
+05 Jan 2017 19:05:31 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+05 Jan 2017 19:05:31 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_i: :regional_indicator_i: :regional_indicator_n: :regional_indicator_g:
+:x: :x: :x: :white_check_mark: :x:
+05 Jan 2017 19:05:32 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 1 damage
+05 Jan 2017 19:05:32 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 1 Boss **Dewgong** has 649 health left.

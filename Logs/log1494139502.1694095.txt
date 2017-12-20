@@ -1,0 +1,559 @@
+07 May 2017 06:45:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+07 May 2017 06:45:12 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+07 May 2017 06:45:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search walk this way
+07 May 2017 06:45:19 : LimitlessMc, botchat, Botfuzzy77#2209, Added RUN-DMC - Walk This Way to the queue
+07 May 2017 06:45:19 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=4B_UYYPb-Gk
+07 May 2017 06:45:23 : LimitlessMc, botchat, Wertfuzzy77#0274, https://limitlessmc.net/f/viewtopic.php?f=9&t=5294
+07 May 2017 06:45:35 : LimitlessMc, botchat, Wertfuzzy77#0274, https://limitlessmc.net/f/viewtopic.php?f=9&t=5294
+07 May 2017 06:45:37 : LimitlessMc, botchat, Wertfuzzy77#0274, wat
+07 May 2017 06:45:43 : LimitlessMc, botchat, darth kota#9446, run dmx
+07 May 2017 06:46:20 : LimitlessMc, botchat, Wertfuzzy77#0274, things are about to get weird
+07 May 2017 06:46:23 : LimitlessMc, botchat, darth kota#9446, y = 1
+x = 1
+if x == 1:
+    print ("string 1")
+else:
+    print ("string 2")
+if y == 1:
+    x = 1 + x
+if y == 2:
+    x = 1 - x
+if y == 1:
+    y = 1 + 1
+if y == 2:
+    y = 1 - y
+07 May 2017 06:46:29 : LimitlessMc, botchat, darth kota#9446, thats what she said
+07 May 2017 06:46:38 : LimitlessMc, botchat, Wertfuzzy77#0274, why is your code so ugly looking
+07 May 2017 06:46:42 : LimitlessMc, botchat, Wertfuzzy77#0274, why you make ugly code
+07 May 2017 06:46:55 : LimitlessMc, botchat, darth kota#9446, logic programing habits
+07 May 2017 06:46:58 : LimitlessMc, botchat, Wertfuzzy77#0274, is ugly xD
+07 May 2017 06:47:03 : LimitlessMc, botchat, darth kota#9446, same
+07 May 2017 06:47:16 : LimitlessMc, botchat, Wertfuzzy77#0274, step 1, write what you want your code to do in english
+07 May 2017 06:47:24 : LimitlessMc, botchat, darth kota#9446, i did
+07 May 2017 06:47:26 : LimitlessMc, botchat, darth kota#9446, XD
+07 May 2017 06:47:30 : LimitlessMc, botchat, Wertfuzzy77#0274, and what is that?
+07 May 2017 06:47:33 : LimitlessMc, botchat, Wertfuzzy77#0274, in ENGLISH
+07 May 2017 06:47:53 : LimitlessMc, botchat, darth kota#9446, i want it to loop y = 1
+x = 1
+if x == 1:
+    print ("string 1")
+else:
+    print ("string 2")
+if y == 1:
+    x = 1 + x
+if y == 2:
+    x = 1 - x
+if y == 1:
+    y = 1 + 1
+if y == 2:
+    y = 1 - y
+07 May 2017 06:48:04 : LimitlessMc, botchat, Wertfuzzy77#0274, what do you mean loop y = 1?
+07 May 2017 06:48:08 : LimitlessMc, botchat, Wertfuzzy77#0274, that makes no sense xD
+07 May 2017 06:48:22 : LimitlessMc, botchat, darth kota#9446, mistake i forget i cant use enter
+07 May 2017 06:48:25 : LimitlessMc, botchat, Wertfuzzy77#0274, o
+07 May 2017 06:48:41 : LimitlessMc, botchat, Wertfuzzy77#0274, well... if you want it to loop you should try using a loop xD
+07 May 2017 06:48:59 : LimitlessMc, botchat, darth kota#9446, i want  a loop from line 3 to then end
+07 May 2017 06:49:52 : LimitlessMc, botchat, darth kota#9446, while adding up to 2 and back down to one spaming both conditional if statments
+07 May 2017 06:50:08 : LimitlessMc, botchat, darth kota#9446, but idk loops
+07 May 2017 06:50:18 : LimitlessMc, botchat, darth kota#9446, ik fruit loops
+07 May 2017 06:50:18 : LimitlessMc, botchat, Wertfuzzy77#0274, well, first of all, there are no loops currently in your code
+07 May 2017 06:50:22 : LimitlessMc, botchat, Wertfuzzy77#0274, just a bunch of ifs xD
+07 May 2017 06:50:25 : LimitlessMc, botchat, Wertfuzzy77#0274, that make no sense
+07 May 2017 06:50:43 : LimitlessMc, botchat, darth kota#9446, shhhhh it would work in my language
+07 May 2017 06:50:51 : LimitlessMc, botchat, Wertfuzzy77#0274, which is cavemany
+07 May 2017 06:50:57 : LimitlessMc, botchat, darth kota#9446, XD shhhhh
+07 May 2017 06:51:01 : LimitlessMc, botchat, darth kota#9446, lele
+07 May 2017 06:51:32 : LimitlessMc, botchat, darth kota#9446, mine evolved to make fire lel
+07 May 2017 06:52:14 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+import time
+x = 1
+for y in range(10)
+    if x == 1:
+        print("String 1")
+        x = 2
+    else:
+        print("String 2")
+        x = 1```
+07 May 2017 06:52:32 : LimitlessMc, botchat, Wertfuzzy77#0274, you don't need that import time
+07 May 2017 06:52:36 : LimitlessMc, botchat, Wertfuzzy77#0274, ;loop
+07 May 2017 06:52:36 : LimitlessMc, botchat, Botfuzzy77#2209, The Bot isnt connected in this server!
+07 May 2017 06:52:37 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*RUN-DMC - Walk This Way*' **1** more times
+07 May 2017 06:52:53 : LimitlessMc, botchat, darth kota#9446, okay
+07 May 2017 06:53:15 : LimitlessMc, botchat, Wertfuzzy77#0274, that code will alternate between printing `String 1` and `String 2`
+07 May 2017 06:53:18 : LimitlessMc, botchat, Wertfuzzy77#0274, 10 times
+07 May 2017 06:53:37 : LimitlessMc, botchat, Wertfuzzy77#0274, could be even shorter tbh xD
+07 May 2017 06:53:43 : memes, general, Crown#7932, same
+07 May 2017 06:54:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+x = True
+for y in range(10)
+    if x:
+        print("String 1")
+    else:
+        print("String 2")
+    x = not x```
+07 May 2017 06:54:12 : LimitlessMc, botchat, Wertfuzzy77#0274, there
+07 May 2017 06:54:13 : LimitlessMc, botchat, Wertfuzzy77#0274, even shorter
+07 May 2017 06:54:38 : LimitlessMc, botchat, darth kota#9446, invalid syntax
+07 May 2017 06:54:53 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+x = True
+for y in range(10)
+    thing = "String 1" if x else "String 2":
+    print(thing)
+    x = not x```
+07 May 2017 06:54:57 : LimitlessMc, botchat, Wertfuzzy77#0274, o
+07 May 2017 06:54:59 : LimitlessMc, botchat, Wertfuzzy77#0274, forgot the :
+07 May 2017 06:55:02 : LimitlessMc, botchat, Wertfuzzy77#0274, in the for loop
+07 May 2017 06:55:05 : LimitlessMc, botchat, darth kota#9446, wrecked
+07 May 2017 06:55:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+x = True
+for y in range(10):
+    thing = "String 1" if x else "String 2"
+    print(thing)
+    x = not x```
+07 May 2017 06:55:14 : LimitlessMc, botchat, Wertfuzzy77#0274, there
+07 May 2017 06:55:32 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+x = True
+for y in range(10):
+    print("String 1" if x else "String 2")
+    x = not x```
+07 May 2017 06:55:36 : LimitlessMc, botchat, Wertfuzzy77#0274, shorter xD
+07 May 2017 06:55:45 : LimitlessMc, botchat, darth kota#9446, damn it worked and now i feel like i still dont know anything
+07 May 2017 06:55:54 : LimitlessMc, botchat, Wertfuzzy77#0274, cause you thinking about it wrong xD
+07 May 2017 06:56:13 : LimitlessMc, botchat, Wertfuzzy77#0274, stop thinking about line numbers and variables and think about english
+07 May 2017 06:56:18 : LimitlessMc, botchat, darth kota#9446, ;gif help senpi
+07 May 2017 06:56:18 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/hand-help-111DAsrV1Hs5XO
+07 May 2017 06:56:18 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/help-cDegcqSUrsdag
+07 May 2017 06:56:27 : LimitlessMc, botchat, darth kota#9446, no
+07 May 2017 06:56:30 : LimitlessMc, botchat, darth kota#9446, no
+07 May 2017 06:56:31 : LimitlessMc, botchat, darth kota#9446, no
+07 May 2017 06:56:33 : LimitlessMc, botchat, Wertfuzzy77#0274, like I said, gonna get weird xD cause I have 2 bots running
+07 May 2017 06:57:04 : LimitlessMc, botchat, darth kota#9446, XD
+07 May 2017 06:57:49 : LimitlessMc, botchat, darth kota#9446, i named you script wertwrecksdarth.py XD
+07 May 2017 06:57:50 : LimitlessMc, botchat, Wertfuzzy77#0274, https://limitlessmc.net/f/viewtopic.php?f=9&t=5294
+07 May 2017 06:57:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ugh, why you no work @Botfuzzy77
+07 May 2017 06:58:01 : LimitlessMc, botchat, Botfuzzy77#2209, Tell me a joke.
+07 May 2017 06:58:01 : LimitlessMc, botchat, Botfuzzy77#2209, How so.
+07 May 2017 06:58:18 : LimitlessMc, botchat, darth kota#9446, @Botfuzzy77  my life
+07 May 2017 06:58:19 : LimitlessMc, botchat, Botfuzzy77#2209, Because I thought you were supposed to be intelligent.
+07 May 2017 06:58:22 : LimitlessMc, botchat, Botfuzzy77#2209, Yes.
+07 May 2017 06:58:25 : LimitlessMc, botchat, darth kota#9446, see
+07 May 2017 06:58:25 : LimitlessMc, botchat, Wertfuzzy77#0274, https://limitlessmc.net/f/viewtopic.php?f=9&t=5294
+07 May 2017 06:58:26 : LimitlessMc, botchat, Botfuzzy77#2209, ** #15495  by Jay113355 Sat Apr 22, 2017 10:55 am 			**
+Re: Pixelmon turns 5 years old!
+------------------------------------
+It's hard to believe pixelmon is turning 5 years old. But here it is!<br>
+<br>
+<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/pKHD2BsvQJ0" width="560"></iframe></br></br>
+07 May 2017 06:58:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ayyyyyy
+07 May 2017 06:58:29 : LimitlessMc, botchat, Wertfuzzy77#0274, we did it
+07 May 2017 06:58:30 : LimitlessMc, botchat, Wertfuzzy77#0274, yaa
+07 May 2017 06:58:39 : LimitlessMc, botchat, Wertfuzzy77#0274, https://limitlessmc.net/f/viewtopic.php?f=9&t=4358
+07 May 2017 06:58:40 : LimitlessMc, botchat, Botfuzzy77#2209, ** #13775  by Jay113355 Tue Feb 14, 2017 3:27 pm 			**
+ Reply
+------------------------------------
+Happy Valentines Day everyone!<br>
+<br>
+We hope you have a wonderful day today. To celebrate valentines day we have upped the shiny spawn rate by 50%. This will be in effect for the next 24 hours.<br>
+<br>
+Enjoy, and from all of the Limitlessmc Staff, have a lovely loving day!</br></br></br></br>
+07 May 2017 06:58:42 : LimitlessMc, botchat, Wertfuzzy77#0274, hmmm
+07 May 2017 06:58:44 : OblivionEvolved, offtopic_18plus, TheChad🐵#1660, ;gif tits
+07 May 2017 06:58:44 : OblivionEvolved, offtopic_18plus, Botfuzzy77#2209, http://giphy.com/gifs/reactionseditor-cartoon-mrzyk-and-moriceau-l2YWlGiCtxXcILHq0
+07 May 2017 06:58:45 : OblivionEvolved, offtopic_18plus, Botfuzzy77#2209, http://giphy.com/gifs/time-friday-thread-Gxk0jI06myhpu
+07 May 2017 06:58:45 : LimitlessMc, botchat, Wertfuzzy77#0274, not parsing right tho
+07 May 2017 06:58:47 : OblivionEvolved, offtopic_18plus, DareDevin#7086, :gif boobs
+07 May 2017 06:58:47 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+07 May 2017 06:58:58 : OblivionEvolved, offtopic_18plus, StubbyMuffins#1053, ;
+07 May 2017 06:58:58 : OblivionEvolved, offtopic_18plus, TheChad🐵#1660, ;gif wat
+07 May 2017 06:58:58 : OblivionEvolved, offtopic_18plus, Botfuzzy77#2209, http://giphy.com/gifs/what-sailor-moon-wut-IBkWv4OLecliM
+07 May 2017 06:59:03 : OblivionEvolved, offtopic_18plus, Botfuzzy77#2209, http://giphy.com/gifs/dog-shocked-huh-RIFv4btS2XLoI
+07 May 2017 06:59:04 : OblivionEvolved, offtopic_18plus, DareDevin#7086, ;gif boobs
+07 May 2017 06:59:04 : OblivionEvolved, offtopic_18plus, Botfuzzy77#2209, http://giphy.com/gifs/art-meme-xTiN0FKehcOhj7sWru
+07 May 2017 06:59:04 : OblivionEvolved, offtopic_18plus, Botfuzzy77#2209, http://giphy.com/gifs/siteytmndcom-P9iFfsYw88nPa
+07 May 2017 06:59:06 : OblivionEvolved, offtopic_18plus, StubbyMuffins#1053, ;gif big titties
+07 May 2017 06:59:06 : OblivionEvolved, offtopic_18plus, Botfuzzy77#2209, http://giphy.com/gifs/ring-of-honor-VnBFIIVD72STm
+07 May 2017 06:59:07 : OblivionEvolved, offtopic_18plus, Botfuzzy77#2209, http://giphy.com/gifs/gifnews-artists-on-tumblr-13dsqKOZzyZBm0
+07 May 2017 06:59:25 : LimitlessMc, botchat, darth kota#9446, anything you think i could do with what ik
+07 May 2017 06:59:39 : OblivionEvolved, offtopic_18plus, TheChad🐵#1660, ;gif hell nah
+07 May 2017 06:59:39 : OblivionEvolved, offtopic_18plus, Botfuzzy77#2209, http://giphy.com/gifs/luchandotv-l4JyT4n5fod59Y8U0
+07 May 2017 06:59:40 : OblivionEvolved, offtopic_18plus, Botfuzzy77#2209, http://giphy.com/gifs/luchandotv-l4JyT4n5fod59Y8U0
+07 May 2017 06:59:47 : LimitlessMc, botchat, Wertfuzzy77#0274, you can make a dice rolling simulation
+07 May 2017 06:59:55 : OblivionEvolved, offtopic_18plus, TheChad🐵#1660, ;gif help
+07 May 2017 06:59:56 : OblivionEvolved, offtopic_18plus, Botfuzzy77#2209, http://giphy.com/gifs/theshallows-the-shallows-sony-home-ent-3oGNDk715s04Hw0zbG
+07 May 2017 06:59:56 : OblivionEvolved, offtopic_18plus, Botfuzzy77#2209, http://giphy.com/gifs/real-housewives-of-orange-county-rhoc-gpoy-ALrX2uJWVGrCw
+07 May 2017 06:59:57 : LimitlessMc, botchat, darth kota#9446, maybe
+07 May 2017 07:00:01 : LimitlessMc, botchat, Wertfuzzy77#0274, I would have to teach you the random function tho
+07 May 2017 07:00:01 : OblivionEvolved, offtopic_18plus, StubbyMuffins#1053, @Oblivion Bot are you broken
+07 May 2017 07:00:02 : OblivionEvolved, offtopic_18plus, Botfuzzy77#2209, I'm sorry, I didn't quite get that, ask again please!
+07 May 2017 07:00:02 : OblivionEvolved, offtopic_18plus, Botfuzzy77#2209, No.
+07 May 2017 07:00:17 : OblivionEvolved, offtopic_18plus, StubbyMuffins#1053, @Oblivion Bot i love you lets have some maritals
+07 May 2017 07:00:18 : OblivionEvolved, offtopic_18plus, Botfuzzy77#2209, But I don't have.
+07 May 2017 07:00:18 : OblivionEvolved, offtopic_18plus, Botfuzzy77#2209, Ok?
+07 May 2017 07:00:20 : OblivionEvolved, offtopic_18plus, TheChad🐵#1660, @Oblivion Bot check yo' self befor ya rekt yo' self
+07 May 2017 07:00:21 : OblivionEvolved, offtopic_18plus, Botfuzzy77#2209, Do you mean 'wreck'?
+07 May 2017 07:00:21 : OblivionEvolved, offtopic_18plus, Botfuzzy77#2209, I'm sorry, I didn't quite get that, ask again please!
+07 May 2017 07:00:23 : LimitlessMc, botchat, darth kota#9446, is it stil :randint() in 2017
+07 May 2017 07:00:34 : OblivionEvolved, offtopic_18plus, StubbyMuffins#1053, @Wertfuzzy77 its double posting
+07 May 2017 07:00:41 : LimitlessMc, botchat, Wertfuzzy77#0274, better
+07 May 2017 07:00:46 : OblivionEvolved, offtopic_18plus, TheChad🐵#1660, make it werk :3
+07 May 2017 07:00:46 : LimitlessMc, botchat, darth kota#9446, do we still use :menu()
+07 May 2017 07:00:47 : LimitlessMc, botchat, Wertfuzzy77#0274, tons of diff random cmds
+07 May 2017 07:01:00 : LimitlessMc, botchat, TherminatorX#6644, ;train go choo choo
+07 May 2017 07:01:02 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 07:01:03 : LimitlessMc, botchat, Wertfuzzy77#0274, wut is a :menu() you caveman
+07 May 2017 07:01:04 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 07:01:32 : OblivionEvolved, offtopic_18plus, Wertfuzzy77#0274, ya, I have 2 bots running rn xD
+07 May 2017 07:01:37 : OblivionEvolved, offtopic_18plus, Wertfuzzy77#0274, I just turned off the local one
+07 May 2017 07:01:59 : LimitlessMc, botchat, darth kota#9446, XD how you created a arrow keyed menu that jumped you to lined of code
+07 May 2017 07:02:14 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=Pi8xsZXibIc
+07 May 2017 07:02:15 : LimitlessMc, botchat, Botfuzzy77#2209, Added My Dearest  - Guilty Crown OP 1 [Piano] to the queue
+07 May 2017 07:02:17 : LimitlessMc, botchat, Wertfuzzy77#0274, see, forget that
+07 May 2017 07:02:28 : LimitlessMc, botchat, darth kota#9446, :menu("test",a)
+07 May 2017 07:02:30 : LimitlessMc, botchat, Wertfuzzy77#0274, if you have to use the words "line of code" you are prob outdated 😛
+07 May 2017 07:02:44 : LimitlessMc, botchat, darth kota#9446, would goto :lbl a
+07 May 2017 07:02:53 : LimitlessMc, botchat, darth kota#9446, shhh
+07 May 2017 07:03:01 : OblivionEvolved, offtopic_18plus, StubbyMuffins#1053, kk lel
+07 May 2017 07:03:07 : LimitlessMc, botchat, darth kota#9446, *you might be outdated if*
+07 May 2017 07:03:15 : LimitlessMc, botchat, Wertfuzzy77#0274, let me introduce you to methods
+07 May 2017 07:03:32 : LimitlessMc, botchat, darth kota#9446, my favoright is keyboard smashing
+07 May 2017 07:04:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+MyMethod(1)
+
+def MyMethod(number):
+    if number == 1:
+        print("Your number is 1")
+    else:
+        print("Your numer is not 1")```
+07 May 2017 07:04:34 : LimitlessMc, botchat, darth kota#9446, assembly still has to be usefull somewhere
+07 May 2017 07:04:36 : LimitlessMc, botchat, TherminatorX#6644, Tbh, menu sounds nice for a small game program
+07 May 2017 07:04:43 : LimitlessMc, botchat, Wertfuzzy77#0274, woops
+07 May 2017 07:04:43 : LimitlessMc, botchat, darth kota#9446, ^
+07 May 2017 07:04:44 : LimitlessMc, botchat, Botfuzzy77#2209, ^
+07 May 2017 07:04:45 : LimitlessMc, botchat, Wertfuzzy77#0274, numer
+07 May 2017 07:04:48 : LimitlessMc, botchat, darth kota#9446, it was
+07 May 2017 07:04:53 : LimitlessMc, botchat, Wertfuzzy77#0274, well, ya in 1997
+07 May 2017 07:05:05 : LimitlessMc, botchat, TherminatorX#6644, And what do you do now?
+07 May 2017 07:05:09 : LimitlessMc, botchat, TherminatorX#6644, Hmm?
+07 May 2017 07:05:11 : LimitlessMc, botchat, Wertfuzzy77#0274, python
+07 May 2017 07:05:23 : LimitlessMc, botchat, darth kota#9446, sneks
+07 May 2017 07:05:47 : LimitlessMc, botchat, TherminatorX#6644, And how do you make python read arrow key inputs?
+07 May 2017 07:06:11 : LimitlessMc, botchat, darth kota#9446, @Wertfuzzy77 lets have a chat about logo writer for dos XD
+07 May 2017 07:06:18 : LimitlessMc, botchat, TherminatorX#6644, No googling
+07 May 2017 07:06:23 : LimitlessMc, botchat, TherminatorX#6644, :P
+07 May 2017 07:06:33 : LimitlessMc, botchat, darth kota#9446, ^
+07 May 2017 07:06:33 : LimitlessMc, botchat, Botfuzzy77#2209, ^
+07 May 2017 07:07:12 : LimitlessMc, botchat, Wertfuzzy77#0274, hmmm, arrow keys
+07 May 2017 07:07:36 : LimitlessMc, botchat, darth kota#9446, and enter button
+07 May 2017 07:07:57 : LimitlessMc, botchat, Wertfuzzy77#0274, I don't do anything outside of a cmd prompt or through a connection like discord, so no idea xD
+07 May 2017 07:08:01 : LimitlessMc, botchat, Wertfuzzy77#0274, I mean, enter button is ez
+07 May 2017 07:08:09 : LimitlessMc, botchat, Wertfuzzy77#0274, so is any other character input
+07 May 2017 07:08:13 : LimitlessMc, botchat, Wertfuzzy77#0274, just not arrow keys xD
+07 May 2017 07:08:52 : LimitlessMc, botchat, darth kota#9446, in my lang it was what ever key you used for the program
+07 May 2017 07:09:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ;recommend
+07 May 2017 07:09:10 : LimitlessMc, botchat, Botfuzzy77#2209, Recommend Songs to play: True
+07 May 2017 07:09:25 : LimitlessMc, botchat, darth kota#9446, used getkey->varible to get the key id
+07 May 2017 07:09:40 : LimitlessMc, botchat, Wertfuzzy77#0274, also, your variables are backwards xD
+07 May 2017 07:09:42 : LimitlessMc, botchat, Wertfuzzy77#0274, it bothers me
+07 May 2017 07:09:58 : LimitlessMc, botchat, Wertfuzzy77#0274, well, backwards from the lanuages I know
+07 May 2017 07:10:19 : LimitlessMc, botchat, darth kota#9446, it goes data source to varible
+07 May 2017 07:10:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+07 May 2017 07:10:20 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping COLORS - Code Geass OP1 [piano] by request (Radio Song)
+07 May 2017 07:10:33 : LimitlessMc, botchat, Wertfuzzy77#0274, nonsense, the variable gets set to the stuff
+07 May 2017 07:10:42 : LimitlessMc, botchat, Wertfuzzy77#0274, X = 1
+07 May 2017 07:10:56 : LimitlessMc, botchat, Wertfuzzy77#0274, X = nextint()
+07 May 2017 07:11:11 : LimitlessMc, botchat, darth kota#9446, see thats 1->x
+07 May 2017 07:11:36 : LimitlessMc, botchat, Wertfuzzy77#0274, thats just syntax tho xD not too important
+07 May 2017 07:12:16 : LimitlessMc, botchat, darth kota#9446, X=1 would output a true or false as to wether or not x's value ='ed 1
+07 May 2017 07:12:29 : LimitlessMc, botchat, Wertfuzzy77#0274, thats why we have `=` and `==`
+07 May 2017 07:12:40 : LimitlessMc, botchat, Wertfuzzy77#0274, where = being set to this, and == being logical equals
+07 May 2017 07:12:53 : LimitlessMc, botchat, Wertfuzzy77#0274, and also != not equal to
+07 May 2017 07:13:20 : LimitlessMc, botchat, darth kota#9446, or its because they forgot to add the all important sto button to keyboards these days
+07 May 2017 07:13:48 : LimitlessMc, botchat, Wertfuzzy77#0274, hmm?
+07 May 2017 07:14:07 : LimitlessMc, botchat, darth kota#9446, sto is ->
+07 May 2017 07:14:32 : LimitlessMc, botchat, Wertfuzzy77#0274, so... `=`
+07 May 2017 07:14:35 : LimitlessMc, botchat, darth kota#9446, a fancy arrow that moves data to a varible
+07 May 2017 07:14:54 : LimitlessMc, botchat, Wertfuzzy77#0274, i mean, I used something simliar to that in R
+07 May 2017 07:15:07 : LimitlessMc, botchat, Wertfuzzy77#0274, you use <- instead of = to assign to variables
+07 May 2017 07:15:56 : LimitlessMc, botchat, darth kota#9446, ima be stuck in snes forever arent i
+07 May 2017 07:16:03 : LimitlessMc, botchat, darth kota#9446, XD
+07 May 2017 07:17:06 : LimitlessMc, botchat, darth kota#9446, at least i can make cool number guessing games
+07 May 2017 07:17:17 : LimitlessMc, botchat, darth kota#9446, and tic tac toe
+07 May 2017 07:17:42 : LimitlessMc, botchat, darth kota#9446, with no one to play with
+07 May 2017 07:17:52 : LimitlessMc, botchat, darth kota#9446, ;gif forever alone
+07 May 2017 07:17:53 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/cheezburger-forever-alone-animation-JXIA2Pzge00ww
+07 May 2017 07:18:16 : LimitlessMc, botchat, Wertfuzzy77#0274, xD I made a tic tac toe game in java
+07 May 2017 07:18:42 : LimitlessMc, botchat, darth kota#9446, make bot fuzz play tic tac toe
+07 May 2017 07:18:49 : LimitlessMc, botchat, Wertfuzzy77#0274, ;rps R
+07 May 2017 07:18:49 : LimitlessMc, botchat, Botfuzzy77#2209, You throw :right_facing_fist:
+I throw :right_facing_fist:
+07 May 2017 07:18:49 : LimitlessMc, botchat, Botfuzzy77#2209, Its a Tie, we both put :right_facing_fist:
+07 May 2017 07:18:53 : LimitlessMc, botchat, darth kota#9446, do it do it do it
+07 May 2017 07:19:02 : LimitlessMc, botchat, Wertfuzzy77#0274, why tho
+07 May 2017 07:19:16 : LimitlessMc, botchat, darth kota#9446, idk for the lols
+07 May 2017 07:19:22 : LimitlessMc, botchat, darth kota#9446, why anything
+07 May 2017 07:19:51 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+from tkinter import *
+
+main = Tk()
+
+def leftKey(event):
+    print("Left key pressed")
+
+def rightKey(event):
+    print("Right key pressed")
+
+frame = Frame(main, width=100, height=100)
+main.bind('<Left>', leftKey)
+main.bind('<Right>', rightKey)
+frame.pack()
+main.mainloop()```
+07 May 2017 07:19:55 : LimitlessMc, botchat, Botfuzzy77#2209, **Soukyuu no Fafner: Right of Left - Single Program**
+Link: https://myanimelist.net/anime/560
+**Episodes**: 1
+**Status**: Finished Airing
+**Rating**: 7.48 (by 3,996 users)
+**Hoshi no Kirby**
+Link: https://myanimelist.net/anime/2390
+**Episodes**: 100
+**Status**: Finished Airing
+**Rating**: 6.72 (by 5,084 users)
+07 May 2017 07:19:59 : LimitlessMc, botchat, Wertfuzzy77#0274, there, that takes in left and right arrows
+07 May 2017 07:20:03 : memes, general, Ya boi velcro#1129, i bring the mega dick
+07 May 2017 07:20:08 : LimitlessMc, botchat, darth kota#9446, changes ign to logicalcaveman
+07 May 2017 07:20:24 : LimitlessMc, botchat, Wertfuzzy77#0274, I think you mean Illogicavemane
+07 May 2017 07:20:26 : LimitlessMc, botchat, Wertfuzzy77#0274, 😛
+07 May 2017 07:20:33 : LimitlessMc, botchat, Wertfuzzy77#0274, man *
+07 May 2017 07:20:43 : LimitlessMc, botchat, darth kota#9446, XD shhh
+07 May 2017 07:20:58 : LimitlessMc, botchat, Wertfuzzy77#0274, anyways, I would explore more into python
+07 May 2017 07:21:05 : LimitlessMc, botchat, Wertfuzzy77#0274, there are a lot of little things that are cool about it
+07 May 2017 07:21:24 : LimitlessMc, botchat, Wertfuzzy77#0274, and stop thinking about it so technically and line numbery and pointery xD you gonna confuse yourself
+07 May 2017 07:21:45 : LimitlessMc, botchat, darth kota#9446, but daaaaad it the real me
+07 May 2017 07:21:59 : LimitlessMc, botchat, Wertfuzzy77#0274, *Its just a phase I promise son*
+07 May 2017 07:22:03 : LimitlessMc, botchat, darth kota#9446, XD
+07 May 2017 07:22:59 : LimitlessMc, botchat, TherminatorX#6644, Or you know, he could just do JavaScript
+07 May 2017 07:23:07 : LimitlessMc, botchat, darth kota#9446, its hard because im trying to make connections with what ik
+07 May 2017 07:23:21 : LimitlessMc, botchat, darth kota#9446, ;gif hell no
+07 May 2017 07:23:21 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/lifetimetelly-no-hell-not-good-A3t48v7vgzk1G
+07 May 2017 07:23:39 : LimitlessMc, botchat, Wertfuzzy77#0274, You should learn C
+07 May 2017 07:23:40 : LimitlessMc, botchat, Wertfuzzy77#0274, heh
+07 May 2017 07:23:42 : LimitlessMc, botchat, TherminatorX#6644, ;gif oh yes
+07 May 2017 07:23:43 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/eonline-academy-awards-red-carpet-xTiN0EQGpYJFTg7wsg
+07 May 2017 07:23:54 : LimitlessMc, botchat, darth kota#9446, no c pls
+07 May 2017 07:23:57 : LimitlessMc, botchat, TherminatorX#6644, That face
+07 May 2017 07:23:59 : LimitlessMc, botchat, Wertfuzzy77#0274, C would be perfect for a caveman like you 😛
+07 May 2017 07:24:15 : LimitlessMc, botchat, TherminatorX#6644, I think you mean BASIC
+07 May 2017 07:24:18 : LimitlessMc, botchat, Wertfuzzy77#0274, LOL
+07 May 2017 07:24:20 : LimitlessMc, botchat, darth kota#9446, would it i hear its painful
+07 May 2017 07:24:25 : LimitlessMc, botchat, Wertfuzzy77#0274, it is
+07 May 2017 07:24:32 : LimitlessMc, botchat, Wertfuzzy77#0274, and looking at your bash code is more painful
+07 May 2017 07:24:40 : LimitlessMc, botchat, Wertfuzzy77#0274, its like assembly all over again
+07 May 2017 07:24:43 : LimitlessMc, botchat, Wertfuzzy77#0274, hated that CS class
+07 May 2017 07:24:57 : LimitlessMc, botchat, darth kota#9446, #logowriter
+07 May 2017 07:25:32 : LimitlessMc, botchat, Wertfuzzy77#0274, they taught us C and Assembly just to show us how our newer codes work xD
+07 May 2017 07:25:33 : LimitlessMc, botchat, TherminatorX#6644, Do what you want darth, but always look for ways to improve
+07 May 2017 07:25:39 : LimitlessMc, botchat, Wertfuzzy77#0274, ^
+07 May 2017 07:25:40 : LimitlessMc, botchat, Botfuzzy77#2209, ^
+07 May 2017 07:25:52 : LimitlessMc, botchat, Wertfuzzy77#0274, each language has its strengths and weaknesses
+07 May 2017 07:25:56 : LimitlessMc, botchat, Wertfuzzy77#0274, like python for example
+07 May 2017 07:26:23 : LimitlessMc, botchat, Wertfuzzy77#0274, it can be slow because of how much is interpreted instead of compiled
+07 May 2017 07:26:32 : LimitlessMc, botchat, darth kota#9446, gets wrecked cause someone posted source on git hub XD
+07 May 2017 07:26:44 : LimitlessMc, botchat, TherminatorX#6644, Rubbish for rendering, too
+07 May 2017 07:26:49 : LimitlessMc, botchat, Wertfuzzy77#0274, python?
+07 May 2017 07:26:50 : LimitlessMc, botchat, Wertfuzzy77#0274, prob
+07 May 2017 07:27:10 : LimitlessMc, botchat, Wertfuzzy77#0274, python is your everyday jack of all trades language
+07 May 2017 07:27:19 : LimitlessMc, botchat, darth kota#9446, spanish?
+07 May 2017 07:27:47 : LimitlessMc, botchat, Wertfuzzy77#0274, its not the fastest, or the best for a specific thing, but it can do just about anything
+07 May 2017 07:28:02 : LimitlessMc, botchat, TherminatorX#6644, I don't think the source code was what allowed the hacker to get the password and log into​ Light's terminal
+07 May 2017 07:28:30 : LimitlessMc, botchat, TherminatorX#6644, Unless you guys bundled that in with the code...
+07 May 2017 07:28:35 : LimitlessMc, botchat, Wertfuzzy77#0274, shh 😛
+07 May 2017 07:28:47 : LimitlessMc, botchat, TherminatorX#6644, In which case
+07 May 2017 07:28:51 : LimitlessMc, botchat, TherminatorX#6644, 😑
+07 May 2017 07:28:55 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+07 May 2017 07:29:03 : LimitlessMc, botchat, Wertfuzzy77#0274, atleast they got lights and not mine
+07 May 2017 07:29:04 : LimitlessMc, botchat, Wertfuzzy77#0274, lucky me
+07 May 2017 07:29:13 : LimitlessMc, botchat, Wertfuzzy77#0274, I've made my github private now tho
+07 May 2017 07:29:18 : LimitlessMc, botchat, Wertfuzzy77#0274, and changed the key
+07 May 2017 07:29:38 : LimitlessMc, botchat, TherminatorX#6644, Just means it's harder to grab, but not impossible
+07 May 2017 07:29:50 : LimitlessMc, botchat, Wertfuzzy77#0274, well, they would be my github login
+07 May 2017 07:29:54 : LimitlessMc, botchat, darth kota#9446, lel
+07 May 2017 07:29:55 : LimitlessMc, botchat, TherminatorX#6644, Out of the reach of script kiddies though
+07 May 2017 07:30:00 : LimitlessMc, botchat, Wertfuzzy77#0274, ya
+07 May 2017 07:30:31 : LimitlessMc, botchat, Wertfuzzy77#0274, see but like things like this
+07 May 2017 07:30:33 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+def AnimesLikeThis(genreGroup, num = 10):
+    combos = [combo for x in range(max(int(len(genreGroup)/2), 1), len(genreGroup)+1, 1) for combo in itertools.combinations(genreGroup, x)]
+    animeGroups = [FindInDataBase(combo) for combo in combos]
+    NameToScore = {}
+    for animeGroup in animeGroups:
+        for anime in animeGroup:
+            if anime[1]['Title'] not in NameToScore.keys(): 
+                numIn = [genre in anime[1]['Genres'] for genre in genreGroup].count(True)
+                extra = len(anime[1]['Genres']) - numIn
+                Rating = sum(anime[1]['Ratings'].values()) / len(anime[1]['Ratings'].values())
+                NameToScore[anime[1]['Title']] = round(numIn/len(genreGroup) * math.pow(1.1, min(0, int(Ratings-7))) * math.pow(0.95, extra), 3)
+    sortedToScore = sorted(NameToScore.items(), key = lambda x: x[1], reverse = True)
+    return sortedToScore[:num]```
+07 May 2017 07:30:49 : LimitlessMc, botchat, Wertfuzzy77#0274, I would be afraid of how many lines it would take @darth kota to write this in his language
+07 May 2017 07:31:25 : LimitlessMc, botchat, TherminatorX#6644, Data sorting is the main strength of py
+07 May 2017 07:31:38 : LimitlessMc, botchat, Wertfuzzy77#0274, is true
+07 May 2017 07:31:44 : LimitlessMc, botchat, Wertfuzzy77#0274, I use python for mostly data related things
+07 May 2017 07:32:27 : LimitlessMc, botchat, darth kota#9446, mix python with other things
+07 May 2017 07:32:34 : LimitlessMc, botchat, Wertfuzzy77#0274, hmm?
+07 May 2017 07:32:39 : LimitlessMc, botchat, TherminatorX#6644, For scripted tasks you want BASH
+07 May 2017 07:32:52 : LimitlessMc, botchat, TherminatorX#6644, Or possibly lua
+07 May 2017 07:33:08 : LimitlessMc, botchat, Wertfuzzy77#0274, ya, like I said, every language is useful for diff things
+07 May 2017 07:33:08 : LimitlessMc, botchat, TherminatorX#6644, If you're really complex
+07 May 2017 07:33:51 : LimitlessMc, botchat, TherminatorX#6644, Java for heavy processing and rendering
+07 May 2017 07:34:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ya, java is like the father to all languages xD
+07 May 2017 07:34:29 : LimitlessMc, botchat, Wertfuzzy77#0274, can also be a pain to set up tho
+07 May 2017 07:34:38 : LimitlessMc, botchat, TherminatorX#6644, Eh, more like the powerhouse
+07 May 2017 07:34:55 : LimitlessMc, botchat, TherminatorX#6644, BASIC is father/mother imo
+07 May 2017 07:35:05 : LimitlessMc, botchat, Wertfuzzy77#0274, that would be like the grandfather xD
+07 May 2017 07:35:10 : LimitlessMc, botchat, darth kota#9446, heyyyy
+07 May 2017 07:35:20 : LimitlessMc, botchat, darth kota#9446, that my homie XD
+07 May 2017 07:35:29 : LimitlessMc, botchat, Wertfuzzy77#0274, exactly why you the caveman
+07 May 2017 07:35:33 : LimitlessMc, botchat, Wertfuzzy77#0274, 😛
+07 May 2017 07:35:48 : LimitlessMc, botchat, TherminatorX#6644, Caveman in a top hat
+07 May 2017 07:35:52 : LimitlessMc, botchat, darth kota#9446, would a cave man right this
+07 May 2017 07:35:58 : LimitlessMc, botchat, Wertfuzzy77#0274, prob
+07 May 2017 07:36:06 : LimitlessMc, botchat, darth kota#9446, from random import randint
+a = randint(1,6)
+print ("you rolled a")
+print (a)
+07 May 2017 07:36:22 : LimitlessMc, botchat, TherminatorX#6644, Would a caveman have typos? Yes. 😛
+07 May 2017 07:36:25 : LimitlessMc, botchat, darth kota#9446, i didnt know how to print same line
+07 May 2017 07:36:36 : LimitlessMc, botchat, Wertfuzzy77#0274, string formatting
+07 May 2017 07:36:36 : LimitlessMc, botchat, darth kota#9446, im tired XD
+07 May 2017 07:36:40 : LimitlessMc, botchat, Wertfuzzy77#0274, its gonna be your best friend
+07 May 2017 07:36:50 : LimitlessMc, botchat, Wertfuzzy77#0274, "You rolled a {}".format(a)
+07 May 2017 07:36:52 : LimitlessMc, botchat, TherminatorX#6644, Sleep is your best friend
+07 May 2017 07:37:00 : LimitlessMc, botchat, Wertfuzzy77#0274, it formats the {} with what you put in the format cmd
+07 May 2017 07:37:06 : LimitlessMc, botchat, darth kota#9446, naw ima pull a crystal
+07 May 2017 07:37:14 : LimitlessMc, botchat, Wertfuzzy77#0274, well, I go sleep now xD
+07 May 2017 07:37:19 : LimitlessMc, botchat, darth kota#9446, show mw
+07 May 2017 07:37:21 : LimitlessMc, botchat, Wertfuzzy77#0274, I need to be up for the safari event
+07 May 2017 07:37:45 : LimitlessMc, botchat, Wertfuzzy77#0274, so gn 😛
+07 May 2017 07:37:51 : LimitlessMc, botchat, darth kota#9446, gn
+07 May 2017 07:38:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;music
+07 May 2017 07:38:15 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 07:38:18 : LimitlessMc, botchat, Wertfuzzy77#0274, ;recommend
+07 May 2017 07:38:18 : LimitlessMc, botchat, Botfuzzy77#2209, Recommend Songs to play: False
+07 May 2017 07:38:31 : LimitlessMc, botchat, darth kota#9446, you should add a dice command now XD
+07 May 2017 07:38:41 : LimitlessMc, botchat, Wertfuzzy77#0274, like ;choose ?
+07 May 2017 07:38:45 : LimitlessMc, botchat, Wertfuzzy77#0274, ;choose a b c d e f
+07 May 2017 07:38:45 : LimitlessMc, botchat, Botfuzzy77#2209, Hmm, tough choice
+07 May 2017 07:38:45 : LimitlessMc, botchat, Botfuzzy77#2209, Chosen Option: f
+07 May 2017 07:38:46 : LimitlessMc, botchat, darth kota#9446, ;choose
+07 May 2017 07:38:46 : LimitlessMc, botchat, Botfuzzy77#2209, Oh, Thats easy
+07 May 2017 07:38:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;choose a b c d e f
+07 May 2017 07:38:50 : LimitlessMc, botchat, Botfuzzy77#2209, Hmm, tough choice
+07 May 2017 07:38:50 : LimitlessMc, botchat, Botfuzzy77#2209, Chosen Option: e
+07 May 2017 07:38:56 : LimitlessMc, botchat, Wertfuzzy77#0274, need to give it options xD
+07 May 2017 07:39:09 : LimitlessMc, botchat, darth kota#9446, thats not a dice command
+07 May 2017 07:39:21 : LimitlessMc, botchat, Wertfuzzy77#0274, ;choose range(6)
+07 May 2017 07:39:21 : LimitlessMc, botchat, Botfuzzy77#2209, Hmm, tough choice
+07 May 2017 07:39:21 : LimitlessMc, botchat, Botfuzzy77#2209, Chosen Option: range(6)
+07 May 2017 07:39:24 : LimitlessMc, botchat, Wertfuzzy77#0274, hmm
+07 May 2017 07:39:34 : LimitlessMc, botchat, Wertfuzzy77#0274, ;choose [1:6]
+07 May 2017 07:39:34 : LimitlessMc, botchat, Botfuzzy77#2209, Alright, picked one
+07 May 2017 07:39:34 : LimitlessMc, botchat, Botfuzzy77#2209, Chosen Option: [1:6]
+07 May 2017 07:39:35 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+07 May 2017 07:39:39 : LimitlessMc, botchat, Wertfuzzy77#0274, cant pass in vars
+07 May 2017 07:39:52 : LimitlessMc, botchat, Wertfuzzy77#0274, used to have a ;roll cmd
+07 May 2017 07:39:57 : LimitlessMc, botchat, Wertfuzzy77#0274, got rid of it months ago
+07 May 2017 07:39:59 : LimitlessMc, botchat, darth kota#9446, ;choose randint (1,6)
+07 May 2017 07:39:59 : LimitlessMc, botchat, Botfuzzy77#2209, Oh, Thats easy
+07 May 2017 07:40:00 : LimitlessMc, botchat, Botfuzzy77#2209, Chosen Option: (1,6)
+07 May 2017 07:40:13 : LimitlessMc, botchat, Wertfuzzy77#0274, anyways, gl with python 😛
+07 May 2017 07:40:15 : LimitlessMc, botchat, darth kota#9446, trip
+07 May 2017 07:40:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ;afk sleep now
+07 May 2017 07:40:15 : LimitlessMc, botchat, Botfuzzy77#2209, Wertfuzzy77 is now AFK for reason:
+**sleep now**
+07 May 2017 07:40:50 : LimitlessMc, botchat, darth kota#9446, ;afk rage quit with out the mighty wert
+07 May 2017 07:40:50 : LimitlessMc, botchat, Botfuzzy77#2209, darth kota is now AFK for reason:
+**rage quit with out the mighty wert**
+07 May 2017 07:43:11 : LimitlessMc, botchat, TherminatorX#6644, ;choose "my money" "my life"
+07 May 2017 07:43:11 : LimitlessMc, botchat, Botfuzzy77#2209, Alright, picked one
+07 May 2017 07:43:11 : LimitlessMc, botchat, Botfuzzy77#2209, Chosen Option: my money
+07 May 2017 07:43:23 : LimitlessMc, botchat, TherminatorX#6644, Priorities
+07 May 2017 07:47:48 : LimitlessMc, mainchat, Bakafish#8693, NPCs at /warp battlearena have now been changed!
+07 May 2017 07:48:54 : LimitlessMc, mainchat, Bakafish#8693, as such, prizes for each level have been modified and can be obtained again!
+07 May 2017 08:06:54 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;train
+07 May 2017 08:06:56 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 08:06:58 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 08:11:42 : OblivionEvolved, offtopic_18plus, TheChad🐵#1660, 
+07 May 2017 08:16:10 : LimitlessMc, mainchat, Crystal4209#4698, Ooo
+07 May 2017 08:16:34 : LimitlessMc, mainchat, Crystal4209#4698, I might hop on later and test them out
+07 May 2017 08:16:59 : House of Stubb, bot2, StubbyMuffins#1053, ;train
+07 May 2017 08:16:59 : House of Stubb, bot2, Botfuzzy77#2209, 
+07 May 2017 08:16:59 : House of Stubb, bot2, Botfuzzy77#2209, 
+07 May 2017 08:17:05 : House of Stubb, bot2, StubbyMuffins#1053, ;level
+07 May 2017 08:17:05 : House of Stubb, bot2, Botfuzzy77#2209, 
+07 May 2017 08:17:19 : House of Stubb, bot2, StubbyMuffins#1053, ;gamble 20707
+07 May 2017 08:17:20 : House of Stubb, bot2, Botfuzzy77#2209, You have gained back your offering and more!
+07 May 2017 08:17:20 : House of Stubb, bot2, Botfuzzy77#2209, 
+07 May 2017 08:17:20 : House of Stubb, bot2, Botfuzzy77#2209, 
+07 May 2017 08:17:20 : House of Stubb, bot2, Botfuzzy77#2209, You are exhausted from Gambling...
+07 May 2017 08:17:27 : House of Stubb, bot2, StubbyMuffins#1053, ;level
+07 May 2017 08:17:28 : House of Stubb, bot2, Botfuzzy77#2209, 
+07 May 2017 08:17:39 : House of Stubb, bot2, StubbyMuffins#1053, ;gamble 23603
+07 May 2017 08:17:40 : House of Stubb, bot2, Botfuzzy77#2209, Please wait 100 seconds before you can gamble again.
+07 May 2017 08:18:14 : Shadow's Subnautica, botchat, Gertwert#6877, ;train
+07 May 2017 08:18:14 : Shadow's Subnautica, botchat, Botfuzzy77#2209, 
+07 May 2017 08:18:14 : Shadow's Subnautica, botchat, Botfuzzy77#2209, 
+07 May 2017 08:22:30 : LimitlessMc, botchat, Crystal4209#4698, When I look at botchat I just see earth saying Ima pull a crystal, nice to know xD
+07 May 2017 08:22:53 : LimitlessMc, botchat, Crystal4209#4698, ;train
+07 May 2017 08:22:54 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 08:22:57 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 08:34:06 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;cd
+07 May 2017 08:34:06 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You need to wait 172 seconds
+**Gamble**
+You can Gamble right now!
+07 May 2017 08:36:39 : RooberBoobers, kinkydrawings, Bill Nye the Nazi Spy#4053, 
+07 May 2017 08:56:13 : LimitlessMc, mainchat, jjtwilefc#7374, Ugh I keep crashing
+07 May 2017 09:14:16 : LimitlessMc, mainchat, jjtwilefc#7374, Wait how long is it till that safari thing?
+07 May 2017 11:57:17 : LimitlessMc, mainchat, MattRuc#5481, @Bakafish dang you've been up late!
+07 May 2017 12:12:22 : LimitlessMc, mainchat, Lightning#6734, go bed beb
+07 May 2017 12:15:26 : The Choudhry, choudhry, Choudhryyy#4295, Tal
+07 May 2017 12:15:33 : The Choudhry, choudhry, Choudhryyy#4295, @Botfuzzy77 swalla
+07 May 2017 12:15:33 : The Choudhry, choudhry, Botfuzzy77#2209, How so.
+07 May 2017 12:15:55 : The Choudhry, choudhry, Choudhryyy#4295, @Botfuzzy77 play the song "swalla"
+07 May 2017 12:15:56 : The Choudhry, choudhry, Botfuzzy77#2209, What song?
+07 May 2017 12:16:01 : The Choudhry, choudhry, Choudhryyy#4295, Talha
+07 May 2017 12:17:44 : The Choudhry, choudhry, Professor Oak#5495, burhan?
+07 May 2017 12:20:21 : The Choudhry, choudhry, Choudhryyy#4295, Ja
+07 May 2017 12:20:22 : The Choudhry, choudhry, Choudhryyy#4295, Clash
+07 May 2017 12:20:24 : The Choudhry, choudhry, Choudhryyy#4295, Kamp
+07 May 2017 12:20:26 : The Choudhry, choudhry, Choudhryyy#4295, Klan
+07 May 2017 12:20:29 : The Choudhry, choudhry, Professor Oak#5495, ya
+07 May 2017 12:20:39 : The Choudhry, choudhry, Choudhryyy#4295, Gå på voice
+07 May 2017 12:20:48 : The Choudhry, choudhry, Professor Oak#5495, men jeg kan ikke gå voice og clash haha
+07 May 2017 12:30:42 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, **OH N**
+            O 
+           O
+           0 
+             O
+             0
+           0
+          0
+             0
+                 o
+                o
+                o
+                   o 
+                  °
+                  °
+                    °
+                   .
+                     .
+                   .
+07 May 2017 12:31:22 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, i just finished writing a chapter for my book, and i forgot to save, and now half of it is goNE
+07 May 2017 13:06:01 : LimitlessMc, voice-junk, jjtwilefc#7374, ;playlists
+07 May 2017 13:06:01 : LimitlessMc, voice-junk, Botfuzzy77#2209, 2Cellos[5], AnimeOpenings[14], Blunt[3], WEEB2[3], Sheeran[6], Maroon[5], GAGA[3], FUN[3], SteinsGate[13], Niko[8], Akinci[12], Katy[3], Coldplay[5], Cala[21], Costantino[13], Draxos[13], TnDbRn[0], Eddie[18], WEEB[4], Train[3], Adele[5], Kimi[4], MJackson[5], ACDC[5], GnR[5], 2015OP&EN[25], Animenz[3], Stubby[13], Perri[2], nicky[2], Bringer[1], KenAshcorp[11], positivity[17], Amagi[1], Shelter[12], Dragons[4], Old[9]
+07 May 2017 13:06:25 : LimitlessMc, voice-junk, jjtwilefc#7374, ;playlist positivity
+07 May 2017 13:06:37 : LimitlessMc, voice-junk, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+07 May 2017 13:07:05 : LimitlessMc, voice-junk, jjtwilefc#7374, ;songs
+07 May 2017 13:07:07 : LimitlessMc, voice-junk, Botfuzzy77#2209, 

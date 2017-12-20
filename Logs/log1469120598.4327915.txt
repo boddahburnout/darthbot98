@@ -1,0 +1,647 @@
+21 Jul 2016 17:03:21 : 02Gaming, general, Botfuzzy77#2209, **kayoooooooooo**(Member) is now Offline!
+21 Jul 2016 17:03:23 : Cipher, bot_land, RoyGasm#7098, le
+21 Jul 2016 17:03:23 : Cipher, general, Wertfuzzy77#0274, ;mutelist
+21 Jul 2016 17:03:29 : Cipher, general, Wertfuzzy77#0274, Oi
+21 Jul 2016 17:03:33 : Cipher, general, Wertfuzzy77#0274, Wu
+21 Jul 2016 17:03:36 : Cipher, general, Wertfuzzy77#0274, Wut *
+21 Jul 2016 17:03:43 : Cipher, general, Wertfuzzy77#0274, ;status
+21 Jul 2016 17:03:43 : Cipher, general, Botfuzzy77#2209, UpTime: 0:00:24.800000s
+21 Jul 2016 17:03:43 : Cipher, general, Botfuzzy77#2209, Total Messages: 6
+21 Jul 2016 17:03:43 : Cipher, general, Botfuzzy77#2209, Servers Joined: 6
+21 Jul 2016 17:03:46 : Cipher, general, Wertfuzzy77#0274, Oh
+21 Jul 2016 17:03:54 : Cipher, general, Wertfuzzy77#0274, Wait, 6 servers?
+21 Jul 2016 17:04:12 : Cipher, bot_land, RoyGasm#7098, ;debug [x.name for x in list(bot.servers)]
+21 Jul 2016 17:04:13 : Cipher, bot_land, Botfuzzy77#2209, ```py
+['02Gaming', 'Cipher', 'The Raw Man Cult', 'The Pleb Privateers', 'LimitlessMc', 'League Of Legends']
+```
+21 Jul 2016 17:04:25 : Cipher, general, Wertfuzzy77#0274, ;debug [x.name for x in bot.servers]
+21 Jul 2016 17:04:25 : Cipher, general, Botfuzzy77#2209, ```py
+['02Gaming', 'Cipher', 'The Raw Man Cult', 'The Pleb Privateers', 'LimitlessMc', 'League Of Legends']
+```
+21 Jul 2016 17:04:30 : Cipher, general, Wertfuzzy77#0274, Oh xD
+21 Jul 2016 17:04:37 : Cipher, general, Wertfuzzy77#0274, The raw man cult
+21 Jul 2016 17:04:44 : Cipher, general, Wertfuzzy77#0274, Bunch of weirdos
+21 Jul 2016 17:04:50 : 02Gaming, general, Botfuzzy77#2209, **kayoooooooooo**(Member) is now Online!
+21 Jul 2016 17:04:50 : 02Gaming, general, Botfuzzy77#2209, **kayoooooooooo**(Member) is now Offline!
+21 Jul 2016 17:05:02 : None, Direct Message with RoyGasm, RoyGasm#7098, ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], "ikr they have porn der")
+21 Jul 2016 17:05:02 : Cipher, general, Botfuzzy77#2209, ikr they have porn der
+21 Jul 2016 17:05:02 : None, Direct Message with RoyGasm, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x0000025610BA45C0>
+```
+21 Jul 2016 17:05:14 : None, Direct Message with RoyGasm, RoyGasm#7098, ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], "it's almost like cal's bedroom")
+21 Jul 2016 17:05:14 : Cipher, general, Botfuzzy77#2209, it's almost like cal's bedroom
+21 Jul 2016 17:05:14 : Cipher, general, Wertfuzzy77#0274, ^
+21 Jul 2016 17:05:14 : None, Direct Message with RoyGasm, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x0000025610BA4818>
+```
+21 Jul 2016 17:05:14 : Cipher, general, Botfuzzy77#2209, ^
+21 Jul 2016 17:05:17 : Cipher, general, Wertfuzzy77#0274, Lol
+21 Jul 2016 17:05:22 : Cipher, general, Wertfuzzy77#0274, Not that message
+21 Jul 2016 17:05:29 : None, Direct Message with RoyGasm, RoyGasm#7098, ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], "bet")
+21 Jul 2016 17:05:29 : Cipher, general, Botfuzzy77#2209, bet
+21 Jul 2016 17:05:30 : None, Direct Message with RoyGasm, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x0000025610BA4F20>
+```
+21 Jul 2016 17:05:33 : Cipher, general, Wertfuzzy77#0274, Bet
+21 Jul 2016 17:05:38 : 02Gaming, general, Botfuzzy77#2209, **kayoooooooooo**(Member) is now Online!
+21 Jul 2016 17:06:23 : None, Direct Message with RoyGasm, RoyGasm#7098, ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")].get_member_named("Calamariela").mention
+21 Jul 2016 17:06:23 : None, Direct Message with RoyGasm, Botfuzzy77#2209, ```py
+SyntaxError: unexpected EOF while parsing (<string>, line 1)
+```
+21 Jul 2016 17:06:30 : None, Direct Message with RoyGasm, RoyGasm#7098, ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")].get_member_named("Wertfuzzy77").mention
+21 Jul 2016 17:06:31 : None, Direct Message with RoyGasm, Botfuzzy77#2209, ```py
+SyntaxError: unexpected EOF while parsing (<string>, line 1)
+```
+21 Jul 2016 17:06:53 : None, Direct Message with RoyGasm, RoyGasm#7098, ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")].get_member_named("Calamariela").mention
+21 Jul 2016 17:06:53 : None, Direct Message with RoyGasm, Botfuzzy77#2209, ```py
+SyntaxError: unexpected EOF while parsing (<string>, line 1)
+```
+21 Jul 2016 17:07:03 : Cipher, general, RoyGasm#7098, hep
+21 Jul 2016 17:07:06 : Cipher, general, RoyGasm#7098, ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")].get_member_named("Wertfuzzy77").mention
+21 Jul 2016 17:07:06 : Cipher, general, Botfuzzy77#2209, ```py
+SyntaxError: unexpected EOF while parsing (<string>, line 1)
+```
+21 Jul 2016 17:07:09 : Cipher, general, RoyGasm#7098, that no work
+21 Jul 2016 17:07:17 : Cipher, general, Wertfuzzy77#0274, Cause it's wrong
+21 Jul 2016 17:07:27 : Cipher, general, RoyGasm#7098, did you change the cmd?
+21 Jul 2016 17:07:35 : Cipher, general, Wertfuzzy77#0274, No
+21 Jul 2016 17:07:41 : Cipher, general, RoyGasm#7098, den?
+21 Jul 2016 17:07:41 : Cipher, general, Wertfuzzy77#0274, You messed it up
+21 Jul 2016 17:07:48 : Cipher, general, Wertfuzzy77#0274, Add a ) at the end
+21 Jul 2016 17:07:57 : Cipher, general, Wertfuzzy77#0274, Should work then
+21 Jul 2016 17:08:05 : Cipher, general, RoyGasm#7098, ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")].get_member_named("Wertfuzzy77").mention)
+21 Jul 2016 17:08:05 : Cipher, general, Botfuzzy77#2209, @Godfuzzy77
+21 Jul 2016 17:08:06 : Cipher, general, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x0000025610BB9C00>
+```
+21 Jul 2016 17:08:08 : Cipher, general, RoyGasm#7098, oh
+21 Jul 2016 17:08:15 : Cipher, general, Wertfuzzy77#0274, Gj
+21 Jul 2016 17:08:22 : Cipher, general, Wertfuzzy77#0274, That cmd tho
+21 Jul 2016 17:08:29 : Cipher, general, Wertfuzzy77#0274, Rly long
+21 Jul 2016 17:08:35 : Cipher, general, Wertfuzzy77#0274, Need to shortcut it
+21 Jul 2016 17:08:36 : 02Gaming, general, Botfuzzy77#2209, **kayoooooooooo**(Member) is now Offline!
+21 Jul 2016 17:08:54 : Cipher, general, RoyGasm#7098, ^
+21 Jul 2016 17:08:54 : Cipher, general, Botfuzzy77#2209, ^
+21 Jul 2016 17:10:43 : Cipher, general, Botfuzzy77#2209, **AlphaBit(AlphaWeeb)**(Grunt) is now Online!
+21 Jul 2016 17:10:50 : Cipher, general, Wertfuzzy77#0274, Hai
+21 Jul 2016 17:11:07 : League Of Legends, general, Botfuzzy77#2209, **!nsane**(!nsane) is now Offline!
+21 Jul 2016 17:11:19 : Cipher, general, RoyGasm#7098, btw @Godfuzzy77 can you make that online thing stop in league?
+21 Jul 2016 17:11:35 : Cipher, general, Wertfuzzy77#0274, Not from work i cant
+21 Jul 2016 17:11:41 : Cipher, general, Wertfuzzy77#0274, But when I get home I can
+21 Jul 2016 17:11:48 : Cipher, general, Kburn1999#5526, league?
+21 Jul 2016 17:11:50 : Cipher, general, RoyGasm#7098, okei
+21 Jul 2016 17:11:51 : Cipher, general, Wertfuzzy77#0274, Gonna make it toggleable
+21 Jul 2016 17:12:00 : Cipher, general, RoyGasm#7098, @Godfuzzy77 where do you even work at?
+21 Jul 2016 17:12:12 : Cipher, general, RoyGasm#7098, a server of mine @Kburn1999
+21 Jul 2016 17:12:13 : Cipher, general, Wertfuzzy77#0274, ;lmgtfy D&B short hills
+21 Jul 2016 17:12:13 : Cipher, general, Botfuzzy77#2209, http://lmgtfy.com/?q=D&B+short+hills
+21 Jul 2016 17:12:21 : Cipher, general, Wertfuzzy77#0274, ^
+21 Jul 2016 17:12:21 : Cipher, general, Botfuzzy77#2209, ^
+21 Jul 2016 17:12:24 : Cipher, general, Kburn1999#5526, ah
+21 Jul 2016 17:12:26 : Cipher, general, Wertfuzzy77#0274, Where I work
+21 Jul 2016 17:13:10 : Cipher, general, RoyGasm#7098, wtf is Dun & Bradstreet Corporation
+21 Jul 2016 17:13:24 : Cipher, general, Botfuzzy77#2209, **AlphaBit(AlphaWeeb)**(Grunt) is now Offline!
+21 Jul 2016 17:13:25 : Cipher, general, Wertfuzzy77#0274, `where I work`
+21 Jul 2016 17:13:34 : Cipher, general, RoyGasm#7098, but what is that
+21 Jul 2016 17:13:38 : Cipher, general, RoyGasm#7098, wat do you do
+21 Jul 2016 17:13:41 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Online!
+21 Jul 2016 17:13:43 : Cipher, general, Wertfuzzy77#0274, You have Google lol
+21 Jul 2016 17:13:46 : Cipher, general, Wertfuzzy77#0274, I code
+21 Jul 2016 17:13:48 : Cipher, general, Wertfuzzy77#0274, In java
+21 Jul 2016 17:13:53 : Cipher, general, RoyGasm#7098, okei?
+21 Jul 2016 17:13:57 : Cipher, general, RoyGasm#7098, so you work being a nerd?
+21 Jul 2016 17:14:05 : Cipher, general, RoyGasm#7098, fair enough lele
+21 Jul 2016 17:14:08 : Cipher, general, RoyGasm#7098, jk
+21 Jul 2016 17:14:24 : Cipher, general, Wertfuzzy77#0274, Yup lol, I'm a nerd, what kind of job did you expect xD
+21 Jul 2016 17:14:48 : Cipher, general, Kburn1999#5526, come on man he made this bot he should know how to code
+21 Jul 2016 17:14:57 : Cipher, general, Wertfuzzy77#0274, ^
+21 Jul 2016 17:14:57 : Cipher, general, Botfuzzy77#2209, ^
+21 Jul 2016 17:15:03 : Cipher, general, Wertfuzzy77#0274, This bot in a diff language tho
+21 Jul 2016 17:15:09 : Cipher, general, Wertfuzzy77#0274, It's in Python
+21 Jul 2016 17:15:18 : Cipher, general, RoyGasm#7098, python is a lenguage?
+21 Jul 2016 17:15:21 : Cipher, general, Wertfuzzy77#0274, Si
+21 Jul 2016 17:15:25 : Cipher, general, Wertfuzzy77#0274, V good language
+21 Jul 2016 17:15:29 : Cipher, general, Kburn1999#5526, im 17 i have no idea what that is lolz
+21 Jul 2016 17:15:42 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Offline!
+21 Jul 2016 17:15:48 : Cipher, general, Wertfuzzy77#0274, It's what you would call an 'Upper level language'
+21 Jul 2016 17:15:53 : Cipher, general, Kburn1999#5526, ah
+21 Jul 2016 17:16:01 : Cipher, general, Kburn1999#5526, the most ive done is self move right...
+21 Jul 2016 17:16:12 : Cipher, general, Wertfuzzy77#0274, V simple to understand, and not to technically difficult
+21 Jul 2016 17:16:53 : Cipher, general, Wertfuzzy77#0274, Java is like a well balanced language, can be pretty simple to understand, but allows for some technical things
+21 Jul 2016 17:17:04 : Cipher, general, Wertfuzzy77#0274, And C is a garbage lower level language
+21 Jul 2016 17:17:10 : Cipher, general, Kburn1999#5526, but i need to learn for after highschool im looking at computer programming/ repair
+21 Jul 2016 17:17:13 : Cipher, general, Wertfuzzy77#0274, V technical
+21 Jul 2016 17:17:36 : Cipher, general, Wertfuzzy77#0274, Then try java
+21 Jul 2016 17:17:45 : Cipher, general, Kburn1999#5526, is that beginner?
+21 Jul 2016 17:17:45 : Cipher, general, Wertfuzzy77#0274, It's pretty decent starting language
+21 Jul 2016 17:17:48 : Cipher, general, Wertfuzzy77#0274, Ya
+21 Jul 2016 17:17:58 : Cipher, general, Kburn1999#5526, cause my uncle knows it
+21 Jul 2016 17:18:17 : Cipher, general, Wertfuzzy77#0274, It's a very well known language, with lots of tutorials and guides
+21 Jul 2016 17:18:28 : Cipher, general, Kburn1999#5526, i think he needs it for the irs
+21 Jul 2016 17:18:41 : Cipher, general, Wertfuzzy77#0274, Java is used everywhere
+21 Jul 2016 17:18:44 : Cipher, general, Kburn1999#5526, ah
+21 Jul 2016 17:18:55 : Cipher, general, Wertfuzzy77#0274, ;afk working
+21 Jul 2016 17:18:55 : Cipher, general, Botfuzzy77#2209, Wertfuzzy77 is now AFK for reason:
+**working**
+21 Jul 2016 17:20:27 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **The Fat Walrus**(Priests of The Raw Man) is now Online!
+21 Jul 2016 17:21:22 : Cipher, general, Botfuzzy77#2209, **Kburn1999**(Grunt) is now Offline!
+21 Jul 2016 17:21:40 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **The Fat Walrus**(Priests of The Raw Man) is now Online!
+21 Jul 2016 17:24:23 : Cipher, general, Botfuzzy77#2209, **Akincifenwa**(Grunt) is now Online!
+21 Jul 2016 17:26:53 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+21 Jul 2016 17:26:56 : Cipher, general, Wertfuzzy77#0274, Bet
+21 Jul 2016 17:29:03 : Cipher, general, Akincifenwa#5072, bet
+21 Jul 2016 17:29:34 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Online!
+21 Jul 2016 17:31:08 : Cipher, general, Akincifenwa#5072, ;afk
+21 Jul 2016 17:31:23 : Cipher, music, Akincifenwa#5072, ;join
+21 Jul 2016 17:31:26 : 02Gaming, general, Botfuzzy77#2209, **kayoooooooooo**(Member) is now Online!
+21 Jul 2016 17:31:30 : Cipher, music, Akincifenwa#5072, ;playlist Trending
+21 Jul 2016 17:31:34 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Offline!
+21 Jul 2016 17:31:39 : Cipher, music, Akincifenwa#5072, ;songs
+21 Jul 2016 17:31:39 : Cipher, music, Botfuzzy77#2209, **The Following songs are in the Queue**
+21 Jul 2016 17:31:39 : Cipher, music, Botfuzzy77#2209, The Strumbellas - Spirits (https://www.youtube.com/watch?v=F9kXstb9FF4)
+Total Time is 0:03:36
+21 Jul 2016 17:34:08 : 02Gaming, general, Botfuzzy77#2209, **kayoooooooooo**(Member) is now Offline!
+21 Jul 2016 17:34:52 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Online!
+21 Jul 2016 17:36:52 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Offline!
+21 Jul 2016 17:37:44 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Online!
+21 Jul 2016 17:38:08 : Cipher, general, Botfuzzy77#2209, **Calamariela**(Officer) is now Offline!
+21 Jul 2016 17:39:44 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Offline!
+21 Jul 2016 17:39:49 : Cipher, music, Akincifenwa#5072, ;playlist Trending
+21 Jul 2016 17:40:13 : Cipher, music, Akincifenwa#5072, ;songs
+21 Jul 2016 17:40:13 : Cipher, music, Botfuzzy77#2209, **The Following songs are in the Queue**
+21 Jul 2016 17:40:13 : Cipher, music, Botfuzzy77#2209, The Chainsmokers - Don't Let Me Down (Audio) ft. Daya (https://www.youtube.com/watch?v=qMH0Xglh7GA)
+Julian Perretta - Miracle (https://www.youtube.com/watch?v=GQ0X7_rv38s)
+Total Time is 0:06:31
+21 Jul 2016 17:43:50 : 02Gaming, general, Botfuzzy77#2209, **kayoooooooooo**(Member) is now Online!
+21 Jul 2016 17:45:50 : 02Gaming, general, Botfuzzy77#2209, **kayoooooooooo**(Member) is now Offline!
+21 Jul 2016 17:49:18 : LimitlessMc, mainchat, Bariskedicik#4838, Wert, are you on?
+21 Jul 2016 17:50:01 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Online!
+21 Jul 2016 17:50:05 : Cipher, general, Botfuzzy77#2209, **Calamariela**(Officer) is now Online!
+21 Jul 2016 17:50:43 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+21 Jul 2016 17:52:01 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Offline!
+21 Jul 2016 17:52:18 : 02Gaming, general, Botfuzzy77#2209, **kayoooooooooo**(Member) is now Online!
+21 Jul 2016 17:52:30 : Cipher, general, Botfuzzy77#2209, **Akincifenwa**(Grunt) is now Offline!
+21 Jul 2016 17:52:47 : Cipher, general, Botfuzzy77#2209, **Calamariela**(Officer) is now Offline!
+21 Jul 2016 17:53:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Online!
+21 Jul 2016 17:53:59 : League Of Legends, general, Botfuzzy77#2209, **GN4R**(Bots) is now Offline!
+21 Jul 2016 17:54:16 : League Of Legends, general, Botfuzzy77#2209, **GN4R**(Bots) is now Online!
+21 Jul 2016 17:54:18 : 02Gaming, general, Botfuzzy77#2209, **kayoooooooooo**(Member) is now Offline!
+21 Jul 2016 17:55:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Offline!
+21 Jul 2016 17:56:37 : LimitlessMc, mainchat, Bariskedicik#4838, Jay
+21 Jul 2016 17:56:56 : Cipher, general, Botfuzzy77#2209, **Calamariela**(Officer) is now Online!
+21 Jul 2016 17:58:54 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+21 Jul 2016 17:58:56 : Cipher, general, Botfuzzy77#2209, **Calamariela**(Officer) is now Offline!
+21 Jul 2016 18:00:54 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+21 Jul 2016 18:02:23 : Cipher, music, Jabulla#3761, ;server
+21 Jul 2016 18:02:26 : Cipher, music, Botfuzzy77#2209, *Server is Down :(*
+21 Jul 2016 18:02:28 : Cipher, music, RoyGasm#7098, it died
+21 Jul 2016 18:02:30 : Cipher, music, Jabulla#3761, RIP
+21 Jul 2016 18:02:32 : Cipher, music, RoyGasm#7098, i hate this
+21 Jul 2016 18:02:42 : Cipher, music, RoyGasm#7098, it always dies
+21 Jul 2016 18:04:26 : Cipher, music, Jabulla#3761, So yeah Roy, Pacman beat him today, and I went for the overtake, I had knocked out 3 or 4 of his dudes with no losses when my Yanmega lvled up, I forgot to lock it's level, so I would have smashed him but I had to forfeit. Immediatly after he had a breakdown, said he quit for good, told me I could have bug and that it was only something he did for shits and giggles, spent 30 minutes saying farewell to people, and logged off....
+21 Jul 2016 18:05:14 : Cipher, music, Jabulla#3761, @Roy, The One and Only  Así que sí Roy , Pacman le ganó hoy, y se fue para el adelantamiento , que había noqueado a 3 o 4 de sus tíos sin pérdidas cuando mi Yanmega lvled arriba , se me olvidó para bloquear su nivel , así que él, pero me he roto tenido que renunciar . Inmediatamente después de que tuvo una crisis , dijo que fumó más , me dijeron que podría haber error y lo hizo sólo lo que él hizo algo por mierdas y risitas , pasó 30 minutos diciendo adiós a la gente , y cierra la sesión ....
+21 Jul 2016 18:05:36 : Cipher, music, Jabulla#3761, That looks like a bad translation hahah
+21 Jul 2016 18:05:39 : Cipher, general, Botfuzzy77#2209, **Akincifenwa**(Grunt) is now Online!
+21 Jul 2016 18:05:42 : LimitlessMc, botchat, Wrath#5712, ;server
+21 Jul 2016 18:05:51 : LimitlessMc, botchat, Wrath#5712, what
+21 Jul 2016 18:05:51 : LimitlessMc, botchat, Wrath#5712, does it  do
+21 Jul 2016 18:05:51 : LimitlessMc, botchat, Botfuzzy77#2209, *Server is Down :(*
+21 Jul 2016 18:05:54 : LimitlessMc, botchat, Wrath#5712, oh
+21 Jul 2016 18:05:56 : Cipher, music, RoyGasm#7098, oh
+21 Jul 2016 18:05:57 : LimitlessMc, botchat, Wrath#5712, ;luck
+21 Jul 2016 18:05:58 : LimitlessMc, botchat, Botfuzzy77#2209, Wrath's luck is 93.82 out of 100, which is **AMAZING**
+21 Jul 2016 18:06:02 : Cipher, music, RoyGasm#7098, and yeah, wtf
+21 Jul 2016 18:06:09 : LimitlessMc, botchat, Wrath#5712, ;luck
+21 Jul 2016 18:06:09 : LimitlessMc, botchat, Botfuzzy77#2209, Wrath's luck is 76.22 out of 100, which is **Pretty Good**
+21 Jul 2016 18:06:12 : LimitlessMc, botchat, Wrath#5712, what
+21 Jul 2016 18:06:14 : LimitlessMc, botchat, Wrath#5712, ;luck
+21 Jul 2016 18:06:14 : LimitlessMc, botchat, Botfuzzy77#2209, Wrath's luck is 5.15 out of 100, which is **Completly Horrible**
+21 Jul 2016 18:06:18 : LimitlessMc, botchat, Wrath#5712, ;luck
+21 Jul 2016 18:06:18 : LimitlessMc, botchat, Botfuzzy77#2209, Wrath's luck is 11.92 out of 100, which is **Completly Horrible**
+21 Jul 2016 18:06:19 : Cipher, music, RoyGasm#7098, 1 how did you translate that 2 horrible translation
+21 Jul 2016 18:06:24 : LimitlessMc, botchat, Wrath#5712, ;server
+21 Jul 2016 18:06:27 : LimitlessMc, botchat, Botfuzzy77#2209, *Server is Down :(*
+21 Jul 2016 18:06:29 : Cipher, music, Jabulla#3761, Google translate hahahahaha
+21 Jul 2016 18:06:38 : Cipher, music, RoyGasm#7098, oh
+21 Jul 2016 18:06:41 : Cipher, music, RoyGasm#7098, lol
+21 Jul 2016 18:06:44 : LimitlessMc, botchat, Wrath#5712, ;relog
+21 Jul 2016 18:06:46 : Cipher, music, Jabulla#3761, Copy paste
+21 Jul 2016 18:06:52 : LimitlessMc, botchat, Wrath#5712, ;music
+21 Jul 2016 18:06:55 : LimitlessMc, botchat, Wrath#5712, ;help
+21 Jul 2016 18:06:55 : LimitlessMc, botchat, Botfuzzy77#2209, ```
+  source         Returns a link to the source code for this bot
+  ev             Returns Best Pokemon to Find Certain EVs 
+  joined         Says when a member joined.
+  invite         Returns a Link to the Invite URL for this bot
+  help           Shows this message.
+  feedback       Returns a link to a Google Forums, where you can leave feedb...
+  fml            Returns a Random Post from fmylife.com
+  afk            Sets you as AFK, and the Bot will auto Reply for you with th...
+  status         Returns the Status of the Bot, along with Additional Informa...
+  clever         
+  server         Returns Information on the Limitless MC server!
+  conch          
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+21 Jul 2016 18:07:06 : Cipher, music, Akincifenwa#5072, lol why do you translate
+21 Jul 2016 18:07:08 : Cipher, music, RoyGasm#7098, so rip  your yanmega?
+21 Jul 2016 18:07:08 : Cipher, music, Akincifenwa#5072, XD
+21 Jul 2016 18:07:14 : LimitlessMc, botchat, Wrath#5712, ;status
+21 Jul 2016 18:07:14 : LimitlessMc, botchat, Botfuzzy77#2209, UpTime: 1:03:55.700000s
+21 Jul 2016 18:07:14 : LimitlessMc, botchat, Botfuzzy77#2209, Total Messages: 135
+21 Jul 2016 18:07:14 : LimitlessMc, botchat, Botfuzzy77#2209, Servers Joined: 6
+21 Jul 2016 18:07:18 : Cipher, music, Jabulla#3761, Figured you might read a block of text faster that way hahah
+21 Jul 2016 18:07:19 : Cipher, general, Botfuzzy77#2209, **Calamariela**(Officer) is now Online!
+21 Jul 2016 18:07:38 : Cipher, music, RoyGasm#7098, lol, i read fast
+21 Jul 2016 18:07:41 : Cipher, music, Akincifenwa#5072, p.s change my name
+21 Jul 2016 18:07:42 : Cipher, music, Jabulla#3761, Mank Fixed it for me, the Champ, and he also changed my scizor from pygmy to enormus
+21 Jul 2016 18:07:59 : Cipher, music, RoyGasm#7098, i actually read fatser in english than in spanish
+21 Jul 2016 18:08:00 : Cipher, music, Jabulla#3761, ;server
+21 Jul 2016 18:08:03 : Cipher, music, Botfuzzy77#2209, *Server is Down :(*
+21 Jul 2016 18:08:07 : Cipher, music, Akincifenwa#5072, why are we chatting in music
+21 Jul 2016 18:08:07 : Cipher, music, Jabulla#3761, I see
+21 Jul 2016 18:08:13 : Cipher, music, RoyGasm#7098, idk
+21 Jul 2016 18:08:19 : Cipher, general, RoyGasm#7098, kys @AWOL Mari
+21 Jul 2016 18:08:24 : Cipher, music, Jabulla#3761, Whoops my bad
+21 Jul 2016 18:08:26 : LimitlessMc, botchat, Wrath#5712, ;join
+21 Jul 2016 18:08:27 : LimitlessMc, botchat, Botfuzzy77#2209, Sorry, I'm already connected to a channel
+21 Jul 2016 18:08:29 : Cipher, music, Jabulla#3761, Go to general?
+21 Jul 2016 18:08:33 : Cipher, music, RoyGasm#7098, meh
+21 Jul 2016 18:08:38 : Cipher, music, RoyGasm#7098, idrc
+21 Jul 2016 18:08:43 : Cipher, music, Jabulla#3761, Hahah
+21 Jul 2016 18:08:43 : Cipher, music, Akincifenwa#5072, k
+21 Jul 2016 18:09:12 : Cipher, music, RoyGasm#7098, lelele @P.s change my name
+21 Jul 2016 18:09:19 : Cipher, general, Botfuzzy77#2209, **Calamariela**(Officer) is now Offline!
+21 Jul 2016 18:09:21 : LimitlessMc, botchat, Wrath#5712, ;kys
+21 Jul 2016 18:09:21 : LimitlessMc, botchat, Botfuzzy77#2209, How about... no
+21 Jul 2016 18:09:23 : Cipher, off_topic, Akincifenwa#5072, ;playlist Trending
+21 Jul 2016 18:09:28 : LimitlessMc, botchat, Wrath#5712, ;hug
+21 Jul 2016 18:09:32 : LimitlessMc, botchat, Wrath#5712, ;slap
+21 Jul 2016 18:09:39 : Cipher, off_topic, Akincifenwa#5072, ;songs
+21 Jul 2016 18:09:39 : Cipher, off_topic, Botfuzzy77#2209, **The Following songs are in the Queue**
+21 Jul 2016 18:09:39 : Cipher, off_topic, Botfuzzy77#2209, Calvin Harris - This Is What You Came For (Official Video) ft. Rihanna (https://www.youtube.com/watch?v=kOkQ4T5WO9E)
+Twenty One Pilots - Ride Lyrics (https://www.youtube.com/watch?v=KZHByNJlgsw)
+Grace - You Don't Own Me ft. G-Eazy (https://www.youtube.com/watch?v=8SeRU_ZPDkE)
+Coldplay feat beyoncé - hymn for the weekend  ( lyrics ) (https://www.youtube.com/watch?v=wTK5DVIxkNw)
+Total Time is 0:15:06
+21 Jul 2016 18:09:42 : Cipher, music, Jabulla#3761, ;afk Getting sick memes
+21 Jul 2016 18:09:42 : Cipher, music, Botfuzzy77#2209, Jabulla is now AFK for reason:
+**Getting sick memes**
+21 Jul 2016 18:09:47 : LimitlessMc, botchat, Wrath#5712, ;kms
+21 Jul 2016 18:09:47 : LimitlessMc, botchat, Botfuzzy77#2209, Don't Die
+21 Jul 2016 18:09:52 : Cipher, off_topic, Akincifenwa#5072, bot makin progress
+21 Jul 2016 18:10:03 : Cipher, off_topic, Akincifenwa#5072, *clap* *clap*
+21 Jul 2016 18:10:27 : Cipher, music, Akincifenwa#5072, besssss afk reason
+21 Jul 2016 18:10:46 : Cipher, general, Akincifenwa#5072, what is AWOL
+21 Jul 2016 18:10:56 : Cipher, general, Akincifenwa#5072, ;lmgtfy AWOL
+21 Jul 2016 18:10:56 : Cipher, general, Botfuzzy77#2209, http://lmgtfy.com/?q=AWOL
+21 Jul 2016 18:10:57 : LimitlessMc, mainchat, Wrath#5712, ;
+21 Jul 2016 18:11:07 : LimitlessMc, botchat, Wrath#5712, ;
+21 Jul 2016 18:11:12 : LimitlessMc, botchat, Wrath#5712, ;i
+21 Jul 2016 18:11:17 : Cipher, music, Jabulla#3761, Ayy you know it playa
+21 Jul 2016 18:11:20 : LimitlessMc, mainchat, Wrath#5712, ;help
+21 Jul 2016 18:11:23 : LimitlessMc, mainchat, Wrath#5712, help*
+21 Jul 2016 18:11:29 : LimitlessMc, mainchat, Wrath#5712, Is the server down
+21 Jul 2016 18:11:31 : Cipher, music, Jabulla#3761, ;server
+21 Jul 2016 18:11:40 : Cipher, music, Botfuzzy77#2209, *Server is Down :(*
+21 Jul 2016 18:11:49 : Cipher, music, Jabulla#3761, Tardis why do you only bring me bad news?
+21 Jul 2016 18:12:34 : Cipher, general, Akincifenwa#5072, *from urbandictioanary.com*
+21 Jul 2016 18:12:38 : Cipher, general, Akincifenwa#5072, AWOL
+Absent Without Official Leave: A term used in the United States Military to describe a soldier or other military member who has left his or her post without permission (usually in disagreement with a particular order). This is one of many military terms that has trickled down into everyday speech among civilian populations.
+Private Johnson went AWOL after he received an order to join major combat forces in Iraq.
+21 Jul 2016 18:12:47 : Cipher, general, Akincifenwa#5072, is that true le
+21 Jul 2016 18:12:57 : Cipher, music, Jabulla#3761, @Morpheus  @P.s change my name  Either of you going for a gym?
+21 Jul 2016 18:13:13 : Cipher, music, Akincifenwa#5072, i would but lazy to build and breeed
+21 Jul 2016 18:13:18 : Cipher, music, RoyGasm#7098, i am
+21 Jul 2016 18:13:23 : Cipher, music, RoyGasm#7098, almost done too
+21 Jul 2016 18:13:32 : Cipher, music, Jabulla#3761, I am sure the guild would help, thats pretty much all they do, is help
+21 Jul 2016 18:13:38 : Cipher, music, RoyGasm#7098, 2 more pokes to train, well i'm not training either of them, toph is
+21 Jul 2016 18:13:40 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Ashchram**(Children of The Raw Man) is now Online!
+21 Jul 2016 18:13:47 : Cipher, music, Jabulla#3761, What are you going for?
+21 Jul 2016 18:13:54 : Cipher, music, Jabulla#3761, Fight?
+21 Jul 2016 18:13:56 : Cipher, music, RoyGasm#7098, steel
+21 Jul 2016 18:13:58 : Cipher, music, Akincifenwa#5072, did you breed your pokes all by yourself @Jabulla
+21 Jul 2016 18:13:58 : Cipher, music, Botfuzzy77#2209, Jabulla is afk for reason:
+**Getting sick memes**
+21 Jul 2016 18:14:06 : Cipher, music, Jabulla#3761, ;afk
+21 Jul 2016 18:14:06 : Cipher, music, Botfuzzy77#2209, Jabulla is no Longer AFK
+21 Jul 2016 18:14:10 : Cipher, music, RoyGasm#7098, jose doesn't know how to fight
+21 Jul 2016 18:14:17 : Cipher, music, Jabulla#3761, Yeah, the ones that ARE bred
+21 Jul 2016 18:14:29 : Cipher, music, Akincifenwa#5072, gg
+21 Jul 2016 18:15:03 : Cipher, music, Jabulla#3761, bought a stuf from toph, with 5 ivs, but it wasn't a bug I wanted to run, I bred 4 pokes and bought one from toph that isn't bred, I built my gym myself too... ;P
+21 Jul 2016 18:15:23 : Cipher, music, Akincifenwa#5072, nice
+21 Jul 2016 18:15:35 : Cipher, music, Akincifenwa#5072, like i said im lazy :/
+21 Jul 2016 18:16:25 : Cipher, music, Jabulla#3761, Wait, you are Stealing Steel?! Hahahah thats funny as! Isn't his gym a MASSIVE registeel statue? @Morpheus
+21 Jul 2016 18:16:45 : 02Gaming, general, Botfuzzy77#2209, **kayoooooooooo**(Member) is now Online!
+21 Jul 2016 18:16:55 : Cipher, music, RoyGasm#7098, lelele
+21 Jul 2016 18:16:56 : Cipher, music, Akincifenwa#5072, le it is
+21 Jul 2016 18:16:58 : Cipher, music, Jabulla#3761, ;server
+21 Jul 2016 18:16:58 : Cipher, music, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 69 players out of 100
+ *Ping*: 143.102 ms
+ *MC Version*: 1.8.9
+21 Jul 2016 18:16:59 : Cipher, music, Botfuzzy77#2209, **Players Online**:
+ *ogmox, Phoenix, xPalkia, ErTTOscar, LuvlyMuffin, Vennick, ColonelShock, Dan_Dan, afx38, SteviePlaysYT, Borjagamer3, Merckpox25...*
+21 Jul 2016 18:17:02 : Cipher, music, Akincifenwa#5072, 69
+21 Jul 2016 18:17:03 : Cipher, music, Jabulla#3761, Here we go
+21 Jul 2016 18:17:53 : Cipher, music, Akincifenwa#5072, roy can i see ur jim
+21 Jul 2016 18:18:13 : Cipher, music, Jabulla#3761, Oooh, may I also?
+21 Jul 2016 18:18:37 : Cipher, music, Akincifenwa#5072, and roy do u know how to go through barriers?
+21 Jul 2016 18:18:50 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+21 Jul 2016 18:20:00 : 02Gaming, general, Botfuzzy77#2209, **kayoooooooooo**(Member) is now Offline!
+21 Jul 2016 18:20:50 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+21 Jul 2016 18:22:21 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Ashchram**(Children of The Raw Man) is now Offline!
+21 Jul 2016 18:22:38 : 02Gaming, general, Botfuzzy77#2209, **kayoooooooooo**(Member) is now Online!
+21 Jul 2016 18:22:48 : League Of Legends, general, Botfuzzy77#2209, **GN4R**(Bots) is now Offline!
+21 Jul 2016 18:23:07 : League Of Legends, general, Botfuzzy77#2209, **GN4R**(Bots) is now Online!
+21 Jul 2016 18:24:50 : League Of Legends, general, Botfuzzy77#2209, **GN4R**(Bots) is now Offline!
+21 Jul 2016 18:25:14 : League Of Legends, general, Botfuzzy77#2209, **GN4R**(Bots) is now Online!
+21 Jul 2016 18:25:19 : 02Gaming, general, Botfuzzy77#2209, **kayoooooooooo**(Member) is now Offline!
+21 Jul 2016 18:27:09 : LimitlessMc, mainchat, Hxcking#5570, Yo, my AVG deleted some files on the beta pixelmon launcher and now regular Minecraft with forge and pixelmon won't even load and I'm pissed cuz I need to join the server
+21 Jul 2016 18:27:17 : 02Gaming, general, Botfuzzy77#2209, **kayoooooooooo**(Member) is now Online!
+21 Jul 2016 18:27:24 : Cipher, music, RoyGasm#7098, well i did
+21 Jul 2016 18:27:33 : Cipher, music, RoyGasm#7098, but i'm not sure if it works anymore
+21 Jul 2016 18:27:38 : League Of Legends, general, Botfuzzy77#2209, **GN4R**(Bots) is now Offline!
+21 Jul 2016 18:27:44 : Cipher, music, Akincifenwa#5072, K teach me
+21 Jul 2016 18:27:51 : League Of Legends, general, Botfuzzy77#2209, **GN4R**(Bots) is now Online!
+21 Jul 2016 18:28:05 : Cipher, music, RoyGasm#7098, also, sure
+21 Jul 2016 18:28:28 : Cipher, music, RoyGasm#7098, but depends
+21 Jul 2016 18:28:42 : Cipher, music, RoyGasm#7098, what kind of barriers do you want to get thru?
+21 Jul 2016 18:28:50 : Cipher, music, Akincifenwa#5072, Like gym
+21 Jul 2016 18:28:53 : League Of Legends, general, Botfuzzy77#2209, **GN4R**(Bots) is now Offline!
+21 Jul 2016 18:29:09 : Cipher, music, RoyGasm#7098, what gym?
+21 Jul 2016 18:29:17 : 02Gaming, general, Botfuzzy77#2209, **kayoooooooooo**(Member) is now Offline!
+21 Jul 2016 18:29:26 : Cipher, music, Akincifenwa#5072, Steel gym
+21 Jul 2016 18:29:35 : Cipher, music, RoyGasm#7098, not allowed
+21 Jul 2016 18:29:37 : Cipher, music, RoyGasm#7098, lmfao
+21 Jul 2016 18:29:41 : Cipher, music, Akincifenwa#5072, Why
+21 Jul 2016 18:29:54 : Cipher, music, Akincifenwa#5072, K
+21 Jul 2016 18:30:20 : Cipher, music, RoyGasm#7098, idk
+21 Jul 2016 18:30:23 : Cipher, music, RoyGasm#7098, but i'll try
+21 Jul 2016 18:30:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **The Fat Walrus**(Priests of The Raw Man) is now Offline!
+21 Jul 2016 18:30:30 : Cipher, music, RoyGasm#7098, idk if it still works
+21 Jul 2016 18:30:37 : Cipher, music, Akincifenwa#5072, Okei
+21 Jul 2016 18:31:35 : Cipher, bot_land, Akincifenwa#5072, ;playlist Trending
+21 Jul 2016 18:32:13 : 02Gaming, general, Botfuzzy77#2209, **kayoooooooooo**(Member) is now Online!
+21 Jul 2016 18:32:47 : Cipher, music, RoyGasm#7098, doesn't appear to work anymore
+21 Jul 2016 18:35:22 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **The Fat Walrus**(Priests of The Raw Man) is now Online!
+21 Jul 2016 18:36:57 : 02Gaming, general, Botfuzzy77#2209, **kayoooooooooo**(Member) is now Offline!
+21 Jul 2016 18:38:45 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+21 Jul 2016 18:40:45 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+21 Jul 2016 18:42:53 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **The Fat Walrus**(Priests of The Raw Man) is now Offline!
+21 Jul 2016 18:43:42 : Cipher, off_topic, Akincifenwa#5072, http://limitlessmc.net/f/viewtopic.php?f=20&p=10496&sid=a531233d001ce16ea567d1d9239d8d00#p10496 le
+21 Jul 2016 18:43:42 : Cipher, off_topic, Botfuzzy77#2209, **Leaving this is for ppl who were not ingame**
+#10490 by ajzombie1
+ Thu Jul 21, 2016 5:57 am 
+------------------------------------
+I have quit limitless due to reasons 
+Just wanted to say goodbye to zemp roy trogdortb techini hiraeth yo_nigga Iamlucario and all my good mates
+
+Also wanted to say I hate you Troll, Skyd, ruleroftri,
+
+
+p.s I am twelve troll and you're 8 <img alt=":)" src="./images/smilies/icon_e_smile.gif" title="Smile"/>
+
+Fuck you all and goodbye forever!!!!!! alphabit I will be gone
+21 Jul 2016 18:44:04 : 02Gaming, general, Botfuzzy77#2209, **kayoooooooooo**(Member) is now Online!
+21 Jul 2016 18:44:27 : League Of Legends, general, Botfuzzy77#2209, **GN4R**(Bots) is now Online!
+21 Jul 2016 18:44:32 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **The Fat Walrus**(Priests of The Raw Man) is now Online!
+21 Jul 2016 18:51:45 : League Of Legends, general, Botfuzzy77#2209, **GN4R**(Bots) is now Offline!
+21 Jul 2016 18:51:55 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+21 Jul 2016 18:52:24 : League Of Legends, general, Botfuzzy77#2209, **GN4R**(Bots) is now Online!
+21 Jul 2016 18:55:22 : LimitlessMc, botchat, xPalkia(lugia)#8149, ;kms
+21 Jul 2016 18:55:23 : LimitlessMc, botchat, Botfuzzy77#2209, Good :)
+21 Jul 2016 18:55:27 : LimitlessMc, botchat, xPalkia(lugia)#8149, ;kys
+21 Jul 2016 18:55:27 : LimitlessMc, botchat, Botfuzzy77#2209, Sure, just gimme some bleach
+21 Jul 2016 18:55:32 : LimitlessMc, botchat, xPalkia(lugia)#8149, :D
+21 Jul 2016 18:55:36 : LimitlessMc, botchat, xPalkia(lugia)#8149, ;kys
+21 Jul 2016 18:55:36 : LimitlessMc, botchat, Botfuzzy77#2209, Hey Mean!
+21 Jul 2016 18:58:43 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+21 Jul 2016 19:00:44 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+21 Jul 2016 19:02:28 : Cipher, general, Botfuzzy77#2209, **AlphaBit(AlphaWeeb)**(Grunt) is now Online!
+21 Jul 2016 19:05:08 : Cipher, off_topic, AlphaBit(AlphaWeeb)#3869, Idk why he mentioned me ke
+21 Jul 2016 19:07:28 : Cipher, general, Botfuzzy77#2209, **AlphaBit(AlphaWeeb)**(Grunt) is now Offline!
+21 Jul 2016 19:08:35 : 02Gaming, general, Botfuzzy77#2209, **kayoooooooooo**(Member) is now Offline!
+21 Jul 2016 19:16:24 : Cipher, general, Botfuzzy77#2209, **Akincifenwa**(Grunt) is now Offline!
+21 Jul 2016 19:17:08 : Cipher, off_topic, RoyGasm#7098, le
+21 Jul 2016 19:18:45 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Schauda**(Priests of The Raw Man) is now Online!
+21 Jul 2016 19:28:40 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+21 Jul 2016 19:30:40 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+21 Jul 2016 19:32:34 : 02Gaming, general, Botfuzzy77#2209, **kayoooooooooo**(Member) is now Online!
+21 Jul 2016 19:34:34 : 02Gaming, general, Botfuzzy77#2209, **kayoooooooooo**(Member) is now Offline!
+21 Jul 2016 19:36:44 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+21 Jul 2016 19:48:34 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+21 Jul 2016 19:49:25 : Cipher, general, Jabulla#3761, ;server
+21 Jul 2016 19:49:34 : Cipher, general, RoyGasm#7098, fuck you server
+21 Jul 2016 19:49:34 : Cipher, general, Botfuzzy77#2209, *Server is Down :(*
+21 Jul 2016 19:49:47 : Cipher, general, Jabulla#3761, More like "Server has the downs"
+21 Jul 2016 19:50:16 : Cipher, general, RoyGasm#7098, yeah
+21 Jul 2016 19:50:22 : Cipher, general, Jabulla#3761, Yeah?
+21 Jul 2016 19:50:34 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+21 Jul 2016 19:52:06 : Cipher, general, RoyGasm#7098, server has down syndrome
+21 Jul 2016 19:52:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Ashchram**(Children of The Raw Man) is now Online!
+21 Jul 2016 19:53:35 : Cipher, general, Jabulla#3761, You got it my friend
+21 Jul 2016 19:54:24 : Cipher, general, Jabulla#3761, Anyway, its 5am here, night
+21 Jul 2016 19:55:09 : Cipher, general, Botfuzzy77#2209, **Jabulla**(Grunt) is now Offline!
+21 Jul 2016 19:58:39 : League Of Legends, general, Botfuzzy77#2209, **Legit_0reo**(Security) is now Online!
+21 Jul 2016 20:01:05 : LimitlessMc, mainchat, Techni#9903, @TheGoose25 completely uninstall and reinstall. That's most likely the only thing you can do.
+21 Jul 2016 20:01:24 : League Of Legends, general, Botfuzzy77#2209, **Legit_0reo**(Security) is now Online!
+21 Jul 2016 20:09:03 : LimitlessMc, mainchat, doomsdaysteel #InitiateForever#8903, .-. ohhhh yeeahhh i forgot about this server
+21 Jul 2016 20:09:39 : LimitlessMc, mainchat, doomsdaysteel #InitiateForever#8903, .-. wrong profile then
+21 Jul 2016 20:12:15 : League Of Legends, general, Botfuzzy77#2209, **GN4R**(Bots) is now Offline!
+21 Jul 2016 20:12:19 : League Of Legends, general, Botfuzzy77#2209, **GN4R**(Bots) is now Online!
+21 Jul 2016 20:13:34 : LimitlessMc, botchat, Techni#9903, ;server
+21 Jul 2016 20:13:35 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 68 players out of 100
+ *Ping*: 152.442 ms
+ *MC Version*: 1.8.9
+21 Jul 2016 20:13:35 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *Kenny, afx38, AuraEvolution, rat558, ILikePugs, Resynchro, thebtheMaN, Brahooodley, Hermione_33_, MysticThunder12, AmpedGTR, spoon36...*
+21 Jul 2016 20:14:07 : 02Gaming, general, Botfuzzy77#2209, **kayoooooooooo**(Member) is now Online!
+21 Jul 2016 20:16:03 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Online!
+21 Jul 2016 20:17:13 : The Pleb Privateers, general, enragednuke#2565, league in 2016 LUL
+21 Jul 2016 20:17:42 : 02Gaming, general, Botfuzzy77#2209, **kayoooooooooo**(Member) is now Offline!
+21 Jul 2016 20:18:44 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Offline!
+21 Jul 2016 20:21:52 : LimitlessMc, news, Jay113355#4999, Importaint poll: please read and vote
+http://limitlessmc.net/f/viewtopic.php?f=8&t=3525
+21 Jul 2016 20:23:17 : Cipher, general, Botfuzzy77#2209, **Calamariela**(Officer) is now Online!
+21 Jul 2016 20:23:46 : Cipher, general, Calamariela#4119, woah everyone is off xD
+21 Jul 2016 20:25:02 : League Of Legends, general, Botfuzzy77#2209, **GN4R**(Bots) is now Offline!
+21 Jul 2016 20:25:09 : League Of Legends, general, Botfuzzy77#2209, **GN4R**(Bots) is now Online!
+21 Jul 2016 20:28:56 : League Of Legends, general, Botfuzzy77#2209, **GN4R**(Bots) is now Offline!
+21 Jul 2016 20:29:26 : League Of Legends, general, Botfuzzy77#2209, **GN4R**(Bots) is now Online!
+21 Jul 2016 20:32:10 : Cipher, general, Botfuzzy77#2209, **Calamariela**(Officer) is now Offline!
+21 Jul 2016 20:32:37 : Cipher, general, Botfuzzy77#2209, **RoyGasm**(Officer) is now Online!
+21 Jul 2016 20:32:37 : League Of Legends, general, Botfuzzy77#2209, **RoyGasm**(Officer) is now Online!
+21 Jul 2016 20:35:33 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Ashchram**(Children of The Raw Man) is now Online!
+21 Jul 2016 20:36:30 : 02Gaming, general, Botfuzzy77#2209, **kayoooooooooo**(Member) is now Online!
+21 Jul 2016 20:38:30 : 02Gaming, general, Botfuzzy77#2209, **kayoooooooooo**(Member) is now Offline!
+21 Jul 2016 20:38:56 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+21 Jul 2016 20:40:37 : 02Gaming, general, Botfuzzy77#2209, **kayoooooooooo**(Member) is now Online!
+21 Jul 2016 20:43:32 : 02Gaming, general, Botfuzzy77#2209, **kayoooooooooo**(Member) is now Offline!
+21 Jul 2016 20:43:37 : Cipher, general, RoyGasm#7098, So
+21 Jul 2016 20:43:43 : Cipher, general, RoyGasm#7098, Rip out builds
+21 Jul 2016 20:43:47 : Cipher, general, RoyGasm#7098, And rip inv
+21 Jul 2016 20:43:54 : Cipher, general, RoyGasm#7098, And rip everything
+21 Jul 2016 20:44:04 : LimitlessMc, mainchat, TheGoose25#5570, @Techni like more then just deleting the .pixelmonbeta folder? Not sure the actual name but you understand
+21 Jul 2016 20:46:30 : LimitlessMc, mainchat, Techni#9903, Right, completely uninstall the Pixelmon launcher and the mod file. Is vanilla Minecraft working without mods? If not, uninstall MC also and reinstall it all.
+21 Jul 2016 20:47:27 : LimitlessMc, mainchat, Techni#9903, Also, it might help to delete your cache. I'm not sure why, but alot of problems I've had were fixed by deleting the cached files.
+21 Jul 2016 20:50:22 : Cipher, general, Botfuzzy77#2209, **Akincifenwa**(Grunt) is now Online!
+21 Jul 2016 20:51:45 : 02Gaming, general, Botfuzzy77#2209, **kayoooooooooo**(Member) is now Online!
+21 Jul 2016 20:52:18 : LimitlessMc, mainchat, Jay113355#4999, Importaint poll: please read and vote
+http://limitlessmc.net/f/viewtopic.php?f=8&t=3525
+21 Jul 2016 20:52:22 : Cipher, general, Botfuzzy77#2209, **Akincifenwa**(Grunt) is now Offline!
+21 Jul 2016 20:52:44 : Cipher, general, Botfuzzy77#2209, **Akincifenwa**(Grunt) is now Online!
+21 Jul 2016 20:54:44 : Cipher, general, Botfuzzy77#2209, **Akincifenwa**(Grunt) is now Offline!
+21 Jul 2016 20:57:12 : Cipher, general, Botfuzzy77#2209, **Akincifenwa**(Grunt) is now Online!
+21 Jul 2016 20:59:28 : Cipher, general, Akincifenwa#5072, You mean the reset? @Morpheus 
+21 Jul 2016 20:59:36 : League Of Legends, general, Botfuzzy77#2209, **RoyGasm**(Officer) is now Online!
+21 Jul 2016 20:59:36 : Cipher, general, Botfuzzy77#2209, **RoyGasm**(Officer) is now Online!
+21 Jul 2016 20:59:44 : Cipher, general, RoyGasm#7098, Yes
+21 Jul 2016 20:59:50 : Cipher, general, Akincifenwa#5072, Ikr
+21 Jul 2016 20:59:52 : Cipher, general, Akincifenwa#5072, ;-;
+21 Jul 2016 20:59:58 : Cipher, general, Akincifenwa#5072, What did u vote
+21 Jul 2016 21:00:04 : Cipher, general, RoyGasm#7098, Soft
+21 Jul 2016 21:00:09 : Cipher, general, Akincifenwa#5072, Me too ^
+21 Jul 2016 21:00:24 : Cipher, general, RoyGasm#7098, Rip our time we spent on that world too
+21 Jul 2016 21:00:33 : Cipher, general, Akincifenwa#5072, Yep
+21 Jul 2016 21:03:02 : Cipher, general, RoyGasm#7098, Rip guild base
+21 Jul 2016 21:03:14 : Cipher, general, Botfuzzy77#2209, **Akincifenwa**(Grunt) is now Offline!
+21 Jul 2016 21:03:15 : Cipher, general, RoyGasm#7098, Rip my gym
+21 Jul 2016 21:05:36 : LimitlessMc, mainchat, Wolf Power#8885, !invite
+21 Jul 2016 21:05:36 : LimitlessMc, mainchat, Gerald#7099, Go there and add me to your server!
+
+https://discordapp.com/oauth2/authorize?client_id=158640018045272065&scope=bot&permissions=3271680
+21 Jul 2016 21:10:35 : LimitlessMc, mainchat, TheMajesticSeal#2289, @Jay113355 so computers as in pokemon boxes?
+21 Jul 2016 21:10:51 : LimitlessMc, mainchat, TheMajesticSeal#2289, no pokemon in there will be deleted?
+21 Jul 2016 21:13:09 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Grunt) is now Online!
+21 Jul 2016 21:13:40 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Grunt) is now Offline!
+21 Jul 2016 21:14:13 : League Of Legends, general, Botfuzzy77#2209, **GN4R**(Bots) is now Offline!
+21 Jul 2016 21:14:16 : League Of Legends, general, Botfuzzy77#2209, **GN4R**(Bots) is now Online!
+21 Jul 2016 21:15:24 : LimitlessMc, mainchat, Jay113355#4999, mmh
+21 Jul 2016 21:16:31 : Cipher, general, Botfuzzy77#2209, **Akincifenwa**(Grunt) is now Online!
+21 Jul 2016 21:16:45 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+21 Jul 2016 21:17:15 : Cipher, general, Akincifenwa#5072, Guild base ez for wert
+21 Jul 2016 21:17:19 : Cipher, general, Wertfuzzy77#0274, ?
+21 Jul 2016 21:17:21 : Cipher, general, Akincifenwa#5072, Right?
+21 Jul 2016 21:17:25 : Cipher, general, Wertfuzzy77#0274, ??
+21 Jul 2016 21:17:45 : Cipher, general, Akincifenwa#5072, Maps going to reset
+21 Jul 2016 21:20:05 : Cipher, general, Wertfuzzy77#0274, Oh, didn't know Jay made that poll already
+21 Jul 2016 21:20:14 : Cipher, general, Wertfuzzy77#0274, Hard reset 100%
+21 Jul 2016 21:20:20 : Cipher, general, Akincifenwa#5072, na
+21 Jul 2016 21:20:23 : Cipher, general, Akincifenwa#5072, soft
+21 Jul 2016 21:20:24 : Cipher, general, Wertfuzzy77#0274, And yeah, guild base ez
+21 Jul 2016 21:20:33 : Cipher, general, Wertfuzzy77#0274, Nah, kill the pokes too
+21 Jul 2016 21:20:49 : Cipher, general, Wertfuzzy77#0274, That guy who replied below Jay has good points
+21 Jul 2016 21:21:13 : Cipher, general, Wertfuzzy77#0274, We had people abusing new players selling things for really really cheap for legends and stuff
+21 Jul 2016 21:21:20 : Cipher, general, Wertfuzzy77#0274, Wasn't good
+21 Jul 2016 21:21:27 : Cipher, general, Wertfuzzy77#0274, Better if everything goes
+21 Jul 2016 21:21:55 : Cipher, general, Wertfuzzy77#0274, * from the 1.7 to 1.8 soft reset
+21 Jul 2016 21:22:24 : Cipher, general, Akincifenwa#5072, but for cracked users, its bad
+21 Jul 2016 21:22:28 : Cipher, general, Akincifenwa#5072, since we cant vote
+21 Jul 2016 21:23:14 : Cipher, general, Akincifenwa#5072, lvling up will be pain in the ass, getting mball will be hard, getting money...
+21 Jul 2016 21:23:17 : Cipher, general, Akincifenwa#5072, will be hard
+21 Jul 2016 21:27:17 : LimitlessMc, mainchat, TheMajesticSeal#2289, okay bby
+21 Jul 2016 21:27:24 : LimitlessMc, mainchat, TheMajesticSeal#2289, just making sure
+21 Jul 2016 21:27:28 : LimitlessMc, mainchat, xPalkia(lugia)#8149, K
+21 Jul 2016 21:27:36 : LimitlessMc, mainchat, TheMajesticSeal#2289, i gotta catch my birds before it restarts then
+21 Jul 2016 21:27:41 : LimitlessMc, mainchat, TheMajesticSeal#2289, i have like 3 filled orbs
+21 Jul 2016 21:27:44 : LimitlessMc, mainchat, TheMajesticSeal#2289, and found shrines
+21 Jul 2016 21:27:48 : LimitlessMc, mainchat, TheMajesticSeal#2289, just havent been on lol
+21 Jul 2016 21:28:44 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Online!
+21 Jul 2016 21:28:53 : LimitlessMc, mainchat, xPalkia(lugia)#8149, I CAN Not lose 4 evo stone sets
+21 Jul 2016 21:29:32 : LimitlessMc, mainchat, xPalkia(lugia)#8149, It would take so long to get them back.
+21 Jul 2016 21:30:59 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+21 Jul 2016 21:31:25 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Offline!
+21 Jul 2016 21:31:58 : Cipher, general, Wertfuzzy77#0274, If you vote for me, I'll give you the stuff and money
+21 Jul 2016 21:32:08 : Cipher, general, Wertfuzzy77#0274, I dont need it
+21 Jul 2016 21:32:21 : Cipher, general, Akincifenwa#5072, le really?
+21 Jul 2016 21:32:27 : Cipher, general, Wertfuzzy77#0274, Sure, idc
+21 Jul 2016 21:32:38 : Cipher, general, Wertfuzzy77#0274, I havnt voted in like 3 weeks lol
+21 Jul 2016 21:32:54 : Cipher, general, Akincifenwa#5072, i havent voted in months
+21 Jul 2016 21:33:23 : Cipher, general, Akincifenwa#5072, last time i was at 300+ votes
+21 Jul 2016 21:33:45 : Cipher, general, Akincifenwa#5072, i prob would have been voter now
+21 Jul 2016 21:43:19 : LimitlessMc, mainchat, TheGoose25#5570, Jay I asked you about this awhile ago, I really want full reset
+21 Jul 2016 21:43:52 : LimitlessMc, mainchat, TheGoose25#5570, And I'm glad you listened to me and others for that
+21 Jul 2016 21:46:09 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Online!
+21 Jul 2016 21:47:28 : LimitlessMc, botchat, TheGoose25#5570, ;server
+21 Jul 2016 21:47:29 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 100 players out of 100
+ *Ping*: 149.279 ms
+ *MC Version*: 1.8.9
+21 Jul 2016 21:47:29 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *DocSarge99, rat558, EnergyBuzz, Bygiglipop, Shook7, thebtheMaN, frozenwar3, TheGooseBoy, GetRekdM8, littltayl, FocusLvL160, onir11...*
+21 Jul 2016 21:51:43 : The Pleb Privateers, general, Ryan#3332, Buh
+21 Jul 2016 21:51:57 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+21 Jul 2016 21:54:10 : LimitlessMc, mainchat, xPalkia(lugia)#8149, Is there a dp going on?!
+21 Jul 2016 21:54:13 : LimitlessMc, mainchat, xPalkia(lugia)#8149, like
+21 Jul 2016 21:54:17 : LimitlessMc, mainchat, xPalkia(lugia)#8149, I cant join
+21 Jul 2016 21:54:22 : LimitlessMc, mainchat, xPalkia(lugia)#8149, even if someone leaves
+21 Jul 2016 21:54:27 : LimitlessMc, mainchat, TheGoose25#5570, ;server
+21 Jul 2016 21:54:30 : LimitlessMc, mainchat, xPalkia(lugia)#8149, a vip or a random person comes on
+21 Jul 2016 21:54:34 : LimitlessMc, mainchat, TheGoose25#5570, Rip
+21 Jul 2016 21:54:37 : LimitlessMc, mainchat, xPalkia(lugia)#8149, go 2 bot chat for ;server
+21 Jul 2016 21:54:59 : LimitlessMc, botchat, xPalkia(lugia)#8149, ;server
+21 Jul 2016 21:54:59 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 100 players out of 100
+ *Ping*: 138.249 ms
+ *MC Version*: 1.8.9
+21 Jul 2016 21:55:00 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *swclone, gears121, CrAzKaito, Kizza, tyferrari, Micr0_, rebeccakp, Resynchro, SaJi_MiraKuru, Last7Hope, _Savage_PvP, gdaysir...*
+21 Jul 2016 21:55:57 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Schauda**(Priests of The Raw Man) is now Offline!
+21 Jul 2016 21:56:56 : LimitlessMc, mainchat, xPalkia(lugia)#8149, server ccrash or restart
+21 Jul 2016 21:56:59 : LimitlessMc, mainchat, xPalkia(lugia)#8149, ;-;
+21 Jul 2016 22:03:58 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Offline!
+21 Jul 2016 22:05:21 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Ashchram**(Children of The Raw Man) is now Offline!
+21 Jul 2016 22:07:16 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Schauda**(Priests of The Raw Man) is now Online!
+21 Jul 2016 22:07:35 : The Raw Man Cult, mainchat, Schauda#4225, ;clever what is my name?
+21 Jul 2016 22:07:36 : The Raw Man Cult, mainchat, Botfuzzy77#2209, I don't know, you tell me.
+21 Jul 2016 22:07:40 : LimitlessMc, mainchat, Techni#9903, Lul. Np.
+21 Jul 2016 22:07:41 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Schauda**(Priests of The Raw Man) is now Offline!
+21 Jul 2016 22:08:28 : LimitlessMc, mainchat, Techni#9903, #GoHardOrGoHome
+21 Jul 2016 22:08:34 : LimitlessMc, mainchat, Techni#9903, ;3
+21 Jul 2016 22:08:48 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Eli**(Children of The Raw Man) is now Online!
+21 Jul 2016 22:08:51 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Eli**(Children of The Raw Man) is now Online!
+21 Jul 2016 22:12:15 : LimitlessMc, mainchat, Wickedshot#0171, Techni
+21 Jul 2016 22:12:23 : LimitlessMc, mainchat, Wickedshot#0171, can you post the Poll link in minecraft so people can vote on it
+21 Jul 2016 22:12:35 : LimitlessMc, mainchat, TheGoose25#5570, ^
+21 Jul 2016 22:12:50 : LimitlessMc, mainchat, TheGoose25#5570, wicked are you in game atm?
+21 Jul 2016 22:14:31 : The Raw Man Cult, mainchat, The Fat Walrus#5889, !meme Butt Fuck
+21 Jul 2016 22:14:33 : The Raw Man Cult, mainchat, Gerald#7099, http://i.imgflip.com/17rgxb.jpg
+21 Jul 2016 22:18:20 : LimitlessMc, mainchat, Wickedshot#0171, maybe
+21 Jul 2016 22:18:26 : LimitlessMc, mainchat, Wickedshot#0171, yes iam why thegoose
+21 Jul 2016 22:18:28 : Cipher, general, Botfuzzy77#2209, **Akincifenwa**(Grunt) is now Offline!
+21 Jul 2016 22:19:01 : Cipher, general, Botfuzzy77#2209, **Akincifenwa**(Grunt) is now Online!
+21 Jul 2016 22:22:24 : Cipher, general, Botfuzzy77#2209, **Akincifenwa**(Grunt) is now Offline!
+21 Jul 2016 22:22:36 : LimitlessMc, mainchat, Forever Capim#1572, whats going on? shows 5 people @ me lol
+21 Jul 2016 22:23:40 : LimitlessMc, mainchat, TheGoose25#5570, can you do /seen Newton_123 and tell me what happens?
+21 Jul 2016 22:27:19 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Online!
+21 Jul 2016 22:30:15 : League Of Legends, general, Botfuzzy77#2209, **GN4R**(Bots) is now Offline!
+21 Jul 2016 22:30:44 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+21 Jul 2016 22:30:55 : League Of Legends, general, Botfuzzy77#2209, **GN4R**(Bots) is now Online!
+21 Jul 2016 22:31:41 : LimitlessMc, mainchat, Wickedshot#0171, https://gyazo.com/6ea6eff8b3887b65f0c15386636b5fa1
+21 Jul 2016 22:31:43 : LimitlessMc, mainchat, Wickedshot#0171, there you go
+21 Jul 2016 22:33:48 : Cipher, general, Wertfuzzy77#0274, ;playlist SteinsGate
+21 Jul 2016 22:34:03 : Cipher, general, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+21 Jul 2016 22:34:26 : Cipher, general, Wertfuzzy77#0274, ;song
+21 Jul 2016 22:34:26 : Cipher, general, Botfuzzy77#2209, ```Name: Emotional Ost of the Day(Day 1): Steins;Gate - ''Believe me''
+URL: <https://www.youtube.com/watch?v=5rYI2eG3DuQ>
+Time: 0:02:01
+Views: 345,476
+Likes: 2,855, 99.48%
+Dislikes: 15, 0.52%
+```
+21 Jul 2016 22:34:28 : Cipher, general, Wertfuzzy77#0274, ;skip
+21 Jul 2016 22:34:28 : Cipher, general, Botfuzzy77#2209, Skipping Emotional Ost of the Day(Day 1): Steins;Gate - ''Believe me''
+21 Jul 2016 22:34:31 : Cipher, general, Wertfuzzy77#0274, ;song
+21 Jul 2016 22:34:31 : Cipher, general, Botfuzzy77#2209, ```Name: Emotional Ost of the Day(Day 1): Steins;Gate - ''Believe me''
+URL: <https://www.youtube.com/watch?v=5rYI2eG3DuQ>
+Time: 0:02:01
+Views: 345,476
+Likes: 2,855, 99.48%
+Dislikes: 15, 0.52%
+```
+21 Jul 2016 22:35:00 : Cipher, general, Wertfuzzy77#0274, ;relog
+21 Jul 2016 22:35:00 : Cipher, general, Botfuzzy77#2209, Relogging...

@@ -1,0 +1,119 @@
+PacMen#1450, wert it's okay
+Wertfuzzy77#0274, online
+Wertfuzzy77#0274, ew
+PacMen#1450, !tournament
+Wertfuzzy77#0274, nvm he ok
+PacMen#1450, !help
+Wertfuzzy77#0274, !tournaments
+Botfuzzy77#2926, May Flowers - May 28th
+Date: May 28,2016		Participants: 2
+Type: double elimination	ID: 2461202
+URL: https://limitlessmc.challonge.com/vm2cjefi
+
+6 v 6 - May 21st (Mew 1st Prize)
+Date: May 21,2016		Participants: 13
+Type: double elimination	ID: 2486220
+URL: https://limitlessmc.challonge.com/cske41s2
+
+Noob Tournament Month 3
+Date: May 30,2016		Participants: 3
+Type: double elimination	ID: 2489411
+URL: https://limitlessmc.challonge.com/mlhxhd4c
+
+
+Wertfuzzy77#0274, needs to be updated
+Wertfuzzy77#0274, havnt updated for todays
+Wertfuzzy77#0274, making database now, could be a fre minutes
+PacMen#1450, mkay
+PacMen#1450, I have a specific problem where scheduling to appear to these tournaments is a problem.
+PacMen#1450, due to work and stuff
+Wertfuzzy77#0274, maybe
+PacMen#1450, with more kiddies comes more trainers...
+PacMen#1450, okay i've got to come online now
+PacMen#1450, to the server lol
+Mystz#8072, lmfa
+Mystz#8072, o
+Wertfuzzy77#0274, lol
+Wertfuzzy77#0274, *lots of love*
+Botfuzzy77#2926, Welcome <@158285674666131457> to LimitlessMC Cipher!
+Wertfuzzy77#0274, !pokemon mew
+Botfuzzy77#2926, Pixelmon Page: http://pixelmonmod.com/wiki/index.php?title=mew
+Botfuzzy77#2926, Bulbapedia Page: http://bulbapedia.bulbagarden.net/wiki/mew
+Botfuzzy77#2926, Pokemon DB: http://pokemondb.net/pokedex/mew
+Botfuzzy77#2926, Smogon: http://www.smogon.com/dex/bw/pokemon/mew
+duskblade#6997, ihewwo
+Nerokin#3586, Where did the server go :?
+Mystz#8072, rips?
+Wertfuzzy77#0274, Go me
+Wertfuzzy77#0274, I am now able to Chain breed
+Wertfuzzy77#0274, *from my python code*
+Wertfuzzy77#0274, ```
+python
+>>> ChainBreed(2, Gender = "Female")
+Pokemon 1: [9, 10, 26, 7, 29, 1], Male
+Pokemon 2: [1, 17, 11, 31, 22, 15], Female
+Resulting Egg: [19, 17, 26, 31, 22, 15], Male
+Switching Pokemon 1 (Male) for Egg
+
+Pokemon 1: [19, 17, 26, 31, 22, 15], Male
+Pokemon 2: [1, 17, 11, 31, 22, 15], Female
+Resulting Egg: [1, 17, 11, 31, 22, 30], Female
+
+Pokemon 1: [19, 17, 26, 31, 22, 15], Male
+Pokemon 2: [1, 17, 11, 31, 22, 15], Female
+Resulting Egg: [26, 17, 26, 31, 22, 15], Male
+
+Pokemon 1: [19, 17, 26, 31, 22, 15], Male
+Pokemon 2: [1, 17, 11, 31, 22, 15], Female
+Resulting Egg: [19, 17, 26, 31, 22, 14], Male
+
+Pokemon 1: [19, 17, 26, 31, 22, 15], Male
+Pokemon 2: [1, 17, 11, 31, 22, 15], Female
+Resulting Egg: [3, 17, 11, 31, 22, 15], Female
+
+Pokemon 1: [19, 17, 26, 31, 22, 15], Male
+Pokemon 2: [1, 17, 11, 31, 22, 15], Female
+Resulting Egg: [19, 17, 11, 12, 22, 15], Female
+
+Pokemon 1: [19, 17, 26, 31, 22, 15], Male
+Pokemon 2: [1, 17, 11, 31, 22, 15], Female
+Resulting Egg: [1, 17, 11, 31, 22, 9], Male
+
+Pokemon 1: [19, 17, 26, 31, 22, 15], Male
+Pokemon 2: [1, 17, 11, 31, 22, 15], Female
+Resulting Egg: [1, 17, 27, 31, 22, 15], Male
+
+Pokemon 1: [19, 17, 26, 31, 22, 15], Male
+Pokemon 2: [1, 17, 11, 31, 22, 15], Female
+Resulting Egg: [1, 31, 11, 31, 22, 15], Male
+Switching Pokemon 1 (Male) for Egg
+
+Pokemon 1: [1, 31, 11, 31, 22, 15], Male
+Pokemon 2: [1, 17, 11, 31, 22, 15], Female
+Resulting Egg: [1, 31, 22, 31, 22, 15], Male
+
+Pokemon 1: [1, 31, 11, 31, 22, 15], Male
+Pokemon 2: [1, 17, 11, 31, 22, 15], Female
+Resulting Egg: [1, 17, 11, 31, 3, 15], Male
+
+Pokemon 1: [1, 31, 11, 31, 22, 15], Male
+Pokemon 2: [1, 17, 11, 31, 22, 15], Female
+Resulting Egg: [1, 31, 11, 31, 22, 17], Male
+
+Pokemon 1: [1, 31, 11, 31, 22, 15], Male
+Pokemon 2: [1, 17, 11, 31, 22, 15], Female
+Resulting Egg: [1, 31, 11, 31, 22, 8], Female
+Switching Pokemon 2 (Female) for Egg
+
+Found Pokemon!
+[1, 31, 11, 31, 22, 8] Female
+Took 13 Breeding Cycles
+13```
+Wertfuzzy77#0274, this was started with 2 Random Non 1 IV pokemon
+Wertfuzzy77#0274, also is smart, and started using a Destiny Knot when it got a Pokemon with 1 IV
+Wertfuzzy77#0274, "Which i learned is better as long as 1 of the pokemon have at least 1 IV"
+Wertfuzzy77#0274, ```Found Pokemon!
+[31, 31, 31, 31, 31, 31] Female
+Took 692 Breeding Cycles```
+Wertfuzzy77#0274, gg
+Wertfuzzy77#0274, thats wayyyyyy to many

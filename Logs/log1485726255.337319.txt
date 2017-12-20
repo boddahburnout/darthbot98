@@ -1,0 +1,923 @@
+29 Jan 2017 21:44:25 : Cipher, cala, Calamariela#4119, nice
+29 Jan 2017 21:44:26 : Cipher, music, Wertfuzzy77#0274, ;join
+29 Jan 2017 21:44:44 : Cipher, music, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=u3VFzuUiTGw https://www.youtube.com/watch?v=_IaiUY3E1VY https://www.youtube.com/watch?v=R8OOWcsFj0U
+29 Jan 2017 21:44:47 : Cipher, music, Botfuzzy77#2209, Added Mike Posner - I Took A Pill In Ibiza (SeeB Remix) to the queue
+29 Jan 2017 21:44:48 : Cipher, music, Botfuzzy77#2209, Added Beyoncè Drunk In Love (Audio) to the queue
+29 Jan 2017 21:44:49 : Cipher, music, Botfuzzy77#2209, Added Muse - Undisclosed Desires to the queue
+29 Jan 2017 21:44:50 : Cipher, music, Wertfuzzy77#0274, ;Radio
+29 Jan 2017 21:44:50 : Cipher, music, Botfuzzy77#2209, Radio Mode: True
+29 Jan 2017 21:44:59 : Cipher, music, Wertfuzzy77#0274, Radio mode, will auto add songs based off of the last 1
+29 Jan 2017 21:45:03 : Cipher, music, Wertfuzzy77#0274, so we never need to add music
+29 Jan 2017 21:45:26 : Cipher, music, Wertfuzzy77#0274, lazy coder makes features to allow him to be lazy xD
+29 Jan 2017 21:45:38 : Cipher, cala, Wertfuzzy77#0274, Allllll
+29 Jan 2017 21:45:39 : Cipher, cala, Wertfuzzy77#0274, I know
+29 Jan 2017 21:45:42 : Cipher, cala, Wertfuzzy77#0274, are sad songs
+29 Jan 2017 21:45:44 : Cipher, cala, Wertfuzzy77#0274, sad songs
+29 Jan 2017 21:46:02 : Cipher, cala, Calamariela#4119, stop xD
+29 Jan 2017 21:46:13 : Cipher, cala, Calamariela#4119, you just dont like nasty songs xD
+29 Jan 2017 21:46:18 : Cipher, cala, Calamariela#4119, like lizards
+29 Jan 2017 21:46:28 : Cipher, cala, Calamariela#4119, thats not the name of the song  tho
+29 Jan 2017 21:46:32 : Cipher, cala, Wertfuzzy77#0274, ik
+29 Jan 2017 21:46:42 : Cipher, cala, Wertfuzzy77#0274, also, those are lines in the song ya bum xD
+29 Jan 2017 21:47:03 : Cipher, cala, Wertfuzzy77#0274, Alllll
+29 Jan 2017 21:47:05 : Cipher, cala, Wertfuzzy77#0274, I know
+29 Jan 2017 21:47:07 : Cipher, cala, Wertfuzzy77#0274, are sad songs
+29 Jan 2017 21:47:09 : Cipher, cala, Wertfuzzy77#0274, sad songs
+29 Jan 2017 21:47:13 : Cipher, cala, Wertfuzzy77#0274, alllllllllll
+29 Jan 2017 21:47:14 : Cipher, cala, Wertfuzzy77#0274, i know
+29 Jan 2017 21:47:16 : Cipher, cala, Wertfuzzy77#0274, are sad songs
+29 Jan 2017 21:47:19 : Cipher, cala, Wertfuzzy77#0274, Sad songs.....
+29 Jan 2017 21:47:21 : Cipher, cala, Calamariela#4119, shake that ass for me
+29 Jan 2017 21:47:23 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 21:47:24 : Cipher, cala, Wertfuzzy77#0274, *drop*
+29 Jan 2017 21:47:35 : Cipher, cala, Calamariela#4119, cheer upppp
+29 Jan 2017 21:47:46 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 21:48:13 : Cipher, cala, Wertfuzzy77#0274, o dear
+29 Jan 2017 21:48:15 : Cipher, cala, Wertfuzzy77#0274, not this song
+29 Jan 2017 21:48:18 : Cipher, cala, Calamariela#4119, ???
+29 Jan 2017 21:48:21 : Cipher, cala, Wertfuzzy77#0274, ;song
+29 Jan 2017 21:48:21 : Cipher, cala, Botfuzzy77#2209, **Name**: Beyoncè Drunk In Love (Audio)
+**Requester**: Wertfuzzy77
+**URL**: <https://www.youtube.com/watch?v=_IaiUY3E1VY>
+```py
+Time: 0:05:23
+Views: 2,548,719
+Likes: 13,388, 95.95%
+Dislikes: 565, 4.05%
+Skips: 0/0```
+29 Jan 2017 21:48:25 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 21:48:47 : Cipher, cala, Calamariela#4119, na naaaa
+29 Jan 2017 21:48:54 : Cipher, cala, Wertfuzzy77#0274, ;songs
+29 Jan 2017 21:48:54 : Cipher, cala, Botfuzzy77#2209, **The Following songs are in the Queue**
+29 Jan 2017 21:48:54 : Cipher, cala, Botfuzzy77#2209, 1. Muse - Undisclosed Desires **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=R8OOWcsFj0U>
+Total Time is 0:03:56
+29 Jan 2017 21:49:09 : Cipher, cala, Wertfuzzy77#0274, Lets see if the radio still works xD
+29 Jan 2017 21:49:13 : Cipher, cala, Calamariela#4119, drinking watermelon is nasty
+29 Jan 2017 21:49:15 : Cipher, cala, Wertfuzzy77#0274, should keep adding songs forever
+29 Jan 2017 21:49:25 : Cipher, cala, Wertfuzzy77#0274, ya, prob a boring flavor
+29 Jan 2017 21:49:45 : Cipher, cala, Calamariela#4119, you know what that means xD
+29 Jan 2017 21:49:58 : Cipher, cala, Wertfuzzy77#0274, wtb translation
+29 Jan 2017 21:50:08 : Cipher, cala, Calamariela#4119, eating cum...
+29 Jan 2017 21:50:12 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 21:50:33 : Cipher, cala, Calamariela#4119, it is a boring flavor tho....
+29 Jan 2017 21:50:38 : Cipher, cala, Wertfuzzy77#0274, XD
+29 Jan 2017 21:51:31 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 21:51:42 : Cipher, cala, Calamariela#4119, i didnt know for a long time either
+29 Jan 2017 21:53:45 : Cipher, cala, Wertfuzzy77#0274, ;songs
+29 Jan 2017 21:53:45 : Cipher, cala, Botfuzzy77#2209, **The Following songs are in the Queue**
+29 Jan 2017 21:53:46 : Cipher, cala, Botfuzzy77#2209, 1. Muse - Time Is Running Out (video) **Radio**
+	<https://www.youtube.com/watch?v=O2IuJPh6h_A>
+Total Time is 0:04:01
+29 Jan 2017 21:53:47 : Cipher, cala, Wertfuzzy77#0274, ayy
+29 Jan 2017 21:53:48 : Cipher, cala, Botfuzzy77#2209, Lmao
+29 Jan 2017 21:53:50 : Cipher, cala, Wertfuzzy77#0274, it worked
+29 Jan 2017 21:53:52 : Cipher, cala, Wertfuzzy77#0274, added a song
+29 Jan 2017 21:53:57 : Cipher, cala, Wertfuzzy77#0274, no idea what it is tho xD
+29 Jan 2017 21:56:44 : Unity Of Nirvana, general, Third_Worm#4804, Happy b-day?
+29 Jan 2017 21:57:59 : Cipher, music, Wertfuzzy77#0274, ;songs
+29 Jan 2017 21:57:59 : Cipher, music, Botfuzzy77#2209, **The Following songs are in the Queue**
+29 Jan 2017 21:57:59 : Cipher, music, Botfuzzy77#2209, 1. Muse - Starlight [Official Music Video] **Radio**
+	<https://www.youtube.com/watch?v=Pgum6OT_VH8>
+Total Time is 0:04:05
+29 Jan 2017 21:58:03 : Cipher, cala, Calamariela#4119, what is this xD
+29 Jan 2017 21:58:08 : Cipher, cala, Wertfuzzy77#0274, no idea
+29 Jan 2017 21:58:11 : Cipher, cala, Wertfuzzy77#0274, radio found it
+29 Jan 2017 21:58:12 : Cipher, cala, Wertfuzzy77#0274, ;skip
+29 Jan 2017 21:58:12 : Cipher, cala, Botfuzzy77#2209, Skipping Muse - Time Is Running Out (video) by request (Radio Song)
+29 Jan 2017 21:58:24 : Cipher, cala, Wertfuzzy77#0274, ;song
+29 Jan 2017 21:58:24 : Cipher, cala, Botfuzzy77#2209, **Name**: Muse - Starlight [Official Music Video]
+**Requester**: Radio
+**URL**: <https://www.youtube.com/watch?v=Pgum6OT_VH8>
+```py
+Time: 0:04:05
+Views: 64,149,008
+Likes: 239,648, 98.17%
+Dislikes: 4,457, 1.83%
+Skips: 0/1```
+29 Jan 2017 21:58:31 : Cipher, cala, Wertfuzzy77#0274, ;songs
+29 Jan 2017 21:58:31 : Cipher, cala, Botfuzzy77#2209, **The Following songs are in the Queue**
+29 Jan 2017 21:58:31 : Cipher, cala, Botfuzzy77#2209, 1. Muse - Knights Of Cydonia  (Video) **Radio**
+	<https://www.youtube.com/watch?v=G_sBOsh-vyI>
+Total Time is 0:06:05
+29 Jan 2017 21:58:49 : Unity Of Nirvana, general, Third_Worm#4804, Happy Birthday! Sorry, I wasn't on Alpha
+29 Jan 2017 21:58:52 : Cipher, cala, Wertfuzzy77#0274, it tries to find music based off of the current playing song
+29 Jan 2017 21:58:56 : Cipher, cala, Wertfuzzy77#0274, so music never stops
+29 Jan 2017 21:59:01 : Cipher, cala, Calamariela#4119, welp back to youtube
+29 Jan 2017 21:59:04 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 21:59:22 : Cipher, cala, Calamariela#4119, nahhh lazy
+29 Jan 2017 21:59:29 : Cipher, cala, Wertfuzzy77#0274, but I wanna listen with you ;-;
+29 Jan 2017 21:59:31 : Unity Of Nirvana, general, Alpha Penguin#3869, Mornin
+29 Jan 2017 21:59:47 : Unity Of Nirvana, general, Wertfuzzy77#0274, ohayou
+29 Jan 2017 21:59:48 : Cipher, cala, Calamariela#4119, but but...
+29 Jan 2017 22:00:29 : Cipher, cala, Calamariela#4119, it need up beat music to keep me going xD
+29 Jan 2017 22:01:09 : Cipher, cala, Calamariela#4119, well i careeeeee xD
+29 Jan 2017 22:01:37 : Cipher, cala, Calamariela#4119, ;playlist Cala
+29 Jan 2017 22:01:40 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 22:01:43 : Cipher, cala, Wertfuzzy77#0274, lazy
+29 Jan 2017 22:01:49 : Unity Of Nirvana, general, Alpha Penguin#3869, Its monday and i barely had sleps lol
+29 Jan 2017 22:01:53 : Cipher, cala, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+29 Jan 2017 22:01:59 : Cipher, cala, Wertfuzzy77#0274, ;skip
+29 Jan 2017 22:01:59 : Cipher, cala, Botfuzzy77#2209, Skipping Muse - Starlight [Official Music Video] by request (Radio Song)
+29 Jan 2017 22:02:09 : Unity Of Nirvana, general, Wertfuzzy77#0274, thats not fun
+29 Jan 2017 22:02:12 : Cipher, cala, Wertfuzzy77#0274, ;song
+29 Jan 2017 22:02:12 : Cipher, cala, Botfuzzy77#2209, **Name**: Muse - Knights Of Cydonia  (Video)
+**Requester**: Radio
+**URL**: <https://www.youtube.com/watch?v=G_sBOsh-vyI>
+```py
+Time: 0:06:05
+Views: 20,505,379
+Likes: 64,878, 97.46%
+Dislikes: 1,690, 2.54%
+Skips: 0/0```
+29 Jan 2017 22:02:22 : Cipher, cala, Wertfuzzy77#0274, ;skip
+29 Jan 2017 22:02:22 : Cipher, cala, Botfuzzy77#2209, Skipping Muse - Knights Of Cydonia  (Video) by request (Radio Song)
+29 Jan 2017 22:02:32 : Cipher, cala, Calamariela#4119, ;skip
+29 Jan 2017 22:02:33 : Cipher, cala, Botfuzzy77#2209, Skipping twenty one pilots: Stressed Out [OFFICIAL VIDEO] by request of the requester
+29 Jan 2017 22:02:40 : Cipher, cala, Calamariela#4119, ;skip
+29 Jan 2017 22:02:40 : Cipher, cala, Botfuzzy77#2209, Skipping Muse - Uprising [Official Video] by request of the requester
+29 Jan 2017 22:02:41 : Cipher, cala, Calamariela#4119, :p
+29 Jan 2017 22:02:43 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 22:02:46 : Cipher, cala, Calamariela#4119, ugh
+29 Jan 2017 22:02:49 : Cipher, cala, Calamariela#4119, ;skip
+29 Jan 2017 22:02:49 : Cipher, cala, Botfuzzy77#2209, Skipping The Weeknd - The Hills by request of the requester
+29 Jan 2017 22:02:54 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 22:03:11 : Unity Of Nirvana, general, Alpha Penguin#3869, Ikr
+29 Jan 2017 22:08:02 : Cipher, cala, Calamariela#4119, mmmmm
+29 Jan 2017 22:08:06 : Cipher, cala, Wertfuzzy77#0274, hmm?
+29 Jan 2017 22:08:41 : Unity Of Nirvana, general, Alpha Penguin#3869, Yet
+29 Jan 2017 22:08:42 : Unity Of Nirvana, general, Alpha Penguin#3869, Y
+29 Jan 2017 22:09:19 : Cipher, cala, Calamariela#4119, how i add songs again
+29 Jan 2017 22:09:22 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 22:09:27 : Cipher, cala, Calamariela#4119, eh
+29 Jan 2017 22:09:29 : Cipher, cala, Calamariela#4119, you do it
+29 Jan 2017 22:09:31 : Cipher, cala, Calamariela#4119, here
+29 Jan 2017 22:09:33 : Cipher, cala, Calamariela#4119, https://www.youtube.com/watch?v=IoYi1pLAS6g
+29 Jan 2017 22:09:41 : Cipher, cala, Wertfuzzy77#0274, its just .;youtube <link>
+29 Jan 2017 22:09:44 : Cipher, cala, Calamariela#4119, youuuu
+29 Jan 2017 22:09:47 : Cipher, cala, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=IoYi1pLAS6g
+29 Jan 2017 22:09:48 : Cipher, cala, Botfuzzy77#2209, Added Austin Mahone ft. Pitbull - Mmm Yeah (Lyrics) to the queue
+29 Jan 2017 22:09:52 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 22:10:22 : Cipher, cala, Calamariela#4119, lol don and i just laughing at this song
+29 Jan 2017 22:10:41 : Cipher, cala, Wertfuzzy77#0274, xD why it funny
+29 Jan 2017 22:11:03 : Cipher, cala, Wertfuzzy77#0274, Alllll
+29 Jan 2017 22:11:04 : Cipher, cala, Wertfuzzy77#0274, I know
+29 Jan 2017 22:11:07 : Cipher, cala, Wertfuzzy77#0274, are sad songs
+29 Jan 2017 22:11:09 : Cipher, cala, Wertfuzzy77#0274, sad songs
+29 Jan 2017 22:11:30 : Cipher, cala, Calamariela#4119, omg
+29 Jan 2017 22:11:37 : Cipher, cala, Calamariela#4119, i found a song
+29 Jan 2017 22:11:39 : Cipher, cala, Wertfuzzy77#0274, ?
+29 Jan 2017 22:11:58 : Cipher, cala, Calamariela#4119, how i add to my playlist tho
+29 Jan 2017 22:11:59 : LimitlessMc, mainchat, DarkNinja458#9006, ahhhh
+29 Jan 2017 22:12:11 : Cipher, cala, Wertfuzzy77#0274, .;extendplaylist <Name> <Links>
+29 Jan 2017 22:12:35 : Cipher, cala, Calamariela#4119, ;extendplaylist Cala https://www.youtube.com/watch?v=tVj0ZTS4WF4
+29 Jan 2017 22:12:38 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 22:12:41 : Cipher, cala, Wertfuzzy77#0274, xD wut
+29 Jan 2017 22:12:52 : Cipher, cala, Calamariela#4119, we need to listen
+29 Jan 2017 22:12:57 : Cipher, cala, Calamariela#4119, ;playlist Cala
+29 Jan 2017 22:13:02 : Cipher, cala, Wertfuzzy77#0274, xD adding everything again
+29 Jan 2017 22:13:13 : Cipher, cala, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+29 Jan 2017 22:13:18 : Cipher, cala, Wertfuzzy77#0274, ;songs
+29 Jan 2017 22:13:18 : Cipher, cala, Botfuzzy77#2209, **The Following songs are in the Queue, plus [22] more**
+29 Jan 2017 22:13:18 : Cipher, cala, Botfuzzy77#2209, 1. The Weeknd - Earned It (Fifty Shades Of Grey) (Lyric Video) **Calamariela**
+	<https://www.youtube.com/watch?v=xe_iCkFsQKE>
+2. Beyoncè Drunk In Love (Audio) **Calamariela**
+	<https://www.youtube.com/watch?v=_IaiUY3E1VY>
+3. DNCE - Cake By The Ocean **Calamariela**
+	<https://www.youtube.com/watch?v=PAzH-YAlFYc>
+4. Muse - Undisclosed Desires **Calamariela**
+	<https://www.youtube.com/watch?v=R8OOWcsFj0U>
+5. Kings of Leon - Closer (HQ) **Calamariela**
+	<https://www.youtube.com/watch?v=eg3F4zpOdK8>
+6. ZAYN - PillowTalk (Lyrics) **Calamariela**
+	<https://www.youtube.com/watch?v=YO-XGWSvZB0>
+7. Kevin Lyttle Turn Me On Lyrics **Calamariela**
+	<https://www.youtube.com/watch?v=lzk58JedcDU>
+8. Kings Of Leon - Use Somebody (Official Video) **Calamariela**
+	<https://www.youtube.com/watch?v=gnhXHvRoUd0>
+9. Naughty Boy ft Sam Smith - La La La **Calamariela**
+	<https://www.youtube.com/watch?v=OsTTacH0jx0>
+10. Calvin Harris - This Is What You Came For (Official Video) ft. Rihanna **Calamariela**
+	<https://www.youtube.com/watch?v=kOkQ4T5WO9E>
+Total Time is 2:04:53
+29 Jan 2017 22:13:29 : Cipher, cala, Calamariela#4119, ;shuffle
+29 Jan 2017 22:13:29 : Cipher, cala, Botfuzzy77#2209, Shuffling songs...
+29 Jan 2017 22:13:33 : Cipher, cala, Wertfuzzy77#0274, I can forceplay it
+29 Jan 2017 22:13:42 : Cipher, cala, Wertfuzzy77#0274, ;song
+29 Jan 2017 22:13:43 : Cipher, cala, Botfuzzy77#2209, **Name**: Kevin Lyttle Turn Me On Lyrics
+**Requester**: Calamariela
+**URL**: <https://www.youtube.com/watch?v=lzk58JedcDU>
+```py
+Time: 0:03:15
+Views: 2,510,080
+Likes: 12,868, 97.4%
+Dislikes: 343, 2.6%
+Skips: 0/1```
+29 Jan 2017 22:13:49 : Cipher, cala, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=tVj0ZTS4WF4
+29 Jan 2017 22:13:54 : Cipher, cala, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=lzk58JedcDU
+29 Jan 2017 22:13:55 : Cipher, cala, Botfuzzy77#2209, Added Kevin Lyttle Turn Me On Lyrics to the queue
+29 Jan 2017 22:14:00 : LimitlessMc, mainchat, JenGrl#2637, helloooooo
+29 Jan 2017 22:14:11 : Cipher, cala, Wertfuzzy77#0274, wut is this xD
+29 Jan 2017 22:14:19 : Cipher, cala, Calamariela#4119, fucking funny
+29 Jan 2017 22:14:35 : Cipher, cala, Wertfuzzy77#0274, xD watching the video rn
+29 Jan 2017 22:14:44 : Cipher, cala, Calamariela#4119, the dancing thoooooo
+29 Jan 2017 22:14:46 : Cipher, cala, Wertfuzzy77#0274, what is even going on
+29 Jan 2017 22:14:50 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 22:14:52 : Cipher, cala, Wertfuzzy77#0274, they arent even moving xD
+29 Jan 2017 22:14:56 : Cipher, cala, Wertfuzzy77#0274, o dear
+29 Jan 2017 22:14:58 : Cipher, cala, Wertfuzzy77#0274, that laugh
+29 Jan 2017 22:15:05 : Cipher, cala, Wertfuzzy77#0274, xD his arms
+29 Jan 2017 22:15:10 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 22:16:04 : Cipher, cala, Wertfuzzy77#0274, well, he is wearing like 3 inch heels
+29 Jan 2017 22:16:09 : Cipher, cala, Wertfuzzy77#0274, so I dont expect him to do anything xD
+29 Jan 2017 22:16:22 : Cipher, cala, Calamariela#4119, i love this so much
+29 Jan 2017 22:16:52 : Cipher, cala, Wertfuzzy77#0274, xD what is he doing with his tongue xD
+29 Jan 2017 22:17:09 : Cipher, cala, Calamariela#4119, can you eat pussy like that xD
+29 Jan 2017 22:17:21 : Cipher, cala, Calamariela#4119, the vine
+29 Jan 2017 22:17:31 : Cipher, cala, Wertfuzzy77#0274, xD thats weird
+29 Jan 2017 22:17:41 : Cipher, cala, Calamariela#4119, lol
+29 Jan 2017 22:17:52 : Cipher, cala, Wertfuzzy77#0274, ;song
+29 Jan 2017 22:17:52 : Cipher, cala, Botfuzzy77#2209, **Name**: Weird russian singer - Chum Drum Bedrum
+**Requester**: Wertfuzzy77
+**URL**: <https://www.youtube.com/watch?v=tVj0ZTS4WF4>
+```py
+Time: 0:04:06
+Views: 18,225,308
+Likes: 247,946, 96.59%
+Dislikes: 8,765, 3.41%
+Skips: 0/1```
+29 Jan 2017 22:17:54 : Cipher, cala, Wertfuzzy77#0274, ;loop
+29 Jan 2017 22:17:55 : Cipher, cala, Botfuzzy77#2209, Added '*Weird russian singer - Chum Drum Bedrum*' **1** more times
+29 Jan 2017 22:18:16 : Cipher, cala, Wertfuzzy77#0274, I need more of this in my life
+29 Jan 2017 22:19:23 : LimitlessMc, mainchat, Lightning#6734, hulloo
+29 Jan 2017 22:19:26 : Cipher, cala, Calamariela#4119, exactly
+29 Jan 2017 22:19:44 : LimitlessMc, mainchat, Wertfuzzy77#0274, *from the otherside*
+29 Jan 2017 22:20:56 : Cipher, cala, Wertfuzzy77#0274, Its kinda funny how you like to move me around xD
+29 Jan 2017 22:21:47 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 22:22:04 : Unity Of Nirvana, general, Third_Worm#4804, Good morning, its still Sunday for me lol
+29 Jan 2017 22:22:08 : Unity Of Nirvana, general, Third_Worm#4804, And wert
+29 Jan 2017 22:22:31 : Unity Of Nirvana, general, Wertfuzzy77#0274, same, still sunday
+29 Jan 2017 22:22:41 : Cipher, cala, Calamariela#4119, xD lol because its silly of me
+29 Jan 2017 22:23:37 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 22:24:31 : Cipher, cala, Calamariela#4119, ;skip
+29 Jan 2017 22:24:31 : Cipher, cala, Botfuzzy77#2209, Skipping Kings Of Leon - Use Somebody (Official Video) by request of the requester
+29 Jan 2017 22:26:56 : Cipher, cala, Calamariela#4119, dat name xD
+29 Jan 2017 22:27:09 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 22:28:15 : Unity Of Nirvana, general, Alpha Penguin#3869, Shh
+29 Jan 2017 22:28:23 : Unity Of Nirvana, general, Alpha Penguin#3869, Just let it happen
+29 Jan 2017 22:28:29 : LimitlessMc, mainchat, Lightning#6734, le
+29 Jan 2017 22:28:35 : Unity Of Nirvana, general, Third_Worm#4804, okei
+29 Jan 2017 22:30:14 : Cipher, cala, Calamariela#4119, CANT GET YOU OUT
+29 Jan 2017 22:30:19 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 22:30:49 : Cipher, cala, Calamariela#4119, thanksss
+29 Jan 2017 22:33:31 : LimitlessMc, mainchat, Crystal4209#4698, ;-: do I have to be awake
+29 Jan 2017 22:34:39 : Cipher, cala, Wertfuzzy77#0274, ;hug Cala
+29 Jan 2017 22:34:39 : Cipher, cala, Botfuzzy77#2209, :hugging: *Wertfuzzy77 Hugged Cala* :hugging:
+29 Jan 2017 22:34:43 : LimitlessMc, mainchat, Crystal4209#4698, *realizes Adam is on*
+29 Jan 2017 22:35:00 : LimitlessMc, mainchat, Wertfuzzy77#0274, I mean, its like what, 6:30 for you?
+29 Jan 2017 22:35:01 : LimitlessMc, mainchat, Wertfuzzy77#0274, go to bed xD
+29 Jan 2017 22:35:15 : Cipher, cala, Calamariela#4119, heh >:)
+29 Jan 2017 22:35:23 : LimitlessMc, mainchat, Crystal4209#4698, Can't I will get in trouble
+29 Jan 2017 22:35:27 : Cipher, cala, Wertfuzzy77#0274, was all part of the plan
+29 Jan 2017 22:35:35 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 22:35:37 : Cipher, cala, Wertfuzzy77#0274, not this one
+29 Jan 2017 22:35:41 : Cipher, cala, Calamariela#4119, youuuuuuuu
+29 Jan 2017 22:36:06 : LimitlessMc, botchat, Crystal4209#4698, ;server
+29 Jan 2017 22:36:06 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+29 Jan 2017 22:36:06 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 26 players out of 100
+ *Ping*: 131.463 ms
+ *MC Version*: 1.10.2
+29 Jan 2017 22:36:06 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.1
+29 Jan 2017 22:36:06 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *Contxmpt, Wertfuzzy77, brightborn, shypokemonrock11, YOLOFUNGUY, TroopaKoopaG, Calamariela, xray40Gamez, Cryotrees, talhachoudhry, OMGtheskyisblue, jjtwilefc...*
+29 Jan 2017 22:36:17 : Cipher, cala, Wertfuzzy77#0274, https://www.youtube.com/watch?v=4VyhKVxpSYk
+29 Jan 2017 22:36:20 : Cipher, cala, Wertfuzzy77#0274, this is all I think of
+29 Jan 2017 22:36:47 : Unity Of Nirvana, general, Third_Worm#4804, @#SHIP_CrystalBit Trouble?
+29 Jan 2017 22:37:01 : Cipher, cala, Calamariela#4119, omg
+29 Jan 2017 22:37:12 : Cipher, cala, Calamariela#4119, i got it perfectly in sync....
+29 Jan 2017 22:37:22 : Cipher, cala, Wertfuzzy77#0274, o
+29 Jan 2017 22:37:23 : Cipher, cala, Wertfuzzy77#0274, gg
+29 Jan 2017 22:37:31 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 22:37:36 : Cipher, cala, Calamariela#4119, play with meee
+29 Jan 2017 22:37:45 : Unity Of Nirvana, general, Crystal4209#4698, Yeah because I gotta get in the habit of waking up at this time for school
+29 Jan 2017 22:37:48 : Cipher, cala, Calamariela#4119, well?
+29 Jan 2017 22:37:49 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 22:37:52 : Cipher, cala, Wertfuzzy77#0274, im in a box
+29 Jan 2017 22:37:53 : Cipher, cala, Wertfuzzy77#0274, hep
+29 Jan 2017 22:38:12 : Unity Of Nirvana, general, Third_Worm#4804, Ah I see
+29 Jan 2017 22:38:16 : Unity Of Nirvana, general, Third_Worm#4804, Same
+29 Jan 2017 22:38:38 : Cipher, cala, Wertfuzzy77#0274, alright, wanna watch me build something?
+29 Jan 2017 22:38:39 : Cipher, cala, Calamariela#4119, what you wanna doooo
+29 Jan 2017 22:38:51 : Cipher, cala, Wertfuzzy77#0274, what you want me to build?
+29 Jan 2017 22:38:58 : Unity Of Nirvana, general, Crystal4209#4698, Sucks tho since I went to bed at10 last night
+29 Jan 2017 22:39:05 : Cipher, cala, Calamariela#4119, add to the house
+29 Jan 2017 22:39:16 : Cipher, cala, Wertfuzzy77#0274, anywhere particular? or just something?
+29 Jan 2017 22:39:21 : Cipher, cala, Calamariela#4119, nah idk
+29 Jan 2017 22:39:33 : Cipher, cala, Wertfuzzy77#0274, indoors or outdoors?
+29 Jan 2017 22:39:40 : Cipher, cala, Calamariela#4119, out
+29 Jan 2017 22:39:44 : Cipher, cala, Wertfuzzy77#0274, alright
+29 Jan 2017 22:40:29 : LimitlessMc, mainchat, Lightning#6734, i caught a cold D:
+29 Jan 2017 22:40:30 : Unity Of Nirvana, general, Crystal4209#4698, Also @Puplord how are you?
+29 Jan 2017 22:40:42 : LimitlessMc, mainchat, Chesire Kat#7022, rip :/
+29 Jan 2017 22:44:44 : LimitlessMc, mainchat, Crystal4209#4698, aww hope you feel better
+29 Jan 2017 22:45:36 : LimitlessMc, botchat, Crystal4209#4698, ;server
+29 Jan 2017 22:45:37 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+29 Jan 2017 22:45:37 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 24 players out of 100
+ *Ping*: 126.191 ms
+ *MC Version*: 1.10.2
+29 Jan 2017 22:45:37 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.1
+29 Jan 2017 22:45:37 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *Dark_Ninja458, Calamariela, shypokemonrock11, DonTheBreton, _LightinGamer30_, xray40Gamez, Sabakunokage, Wertfuzzy77, YOLOFUNGUY, dubbleddash, Contxmpt, gimmiadimond...*
+29 Jan 2017 22:46:02 : Unity Of Nirvana, general, Crystal4209#4698, also @#SHIP_CrystalFuzzy42077 HAPPY BIRTHDAY!!!!!!
+29 Jan 2017 22:46:19 : Cipher, cala, Calamariela#4119, you should fix this just straight dirt wall
+29 Jan 2017 22:46:35 : Cipher, cala, Wertfuzzy77#0274, xD yeah, I'm planning on making it an underground area
+29 Jan 2017 22:46:49 : Cipher, cala, Calamariela#4119, do it now :3
+29 Jan 2017 22:48:43 : Cipher, cala, Calamariela#4119, ;skip
+29 Jan 2017 22:48:43 : Cipher, cala, Botfuzzy77#2209, Skipping The Weeknd - Earned It (Fifty Shades Of Grey) (Lyric Video) by request of the requester
+29 Jan 2017 22:48:50 : Cipher, cala, Calamariela#4119, ;skip
+29 Jan 2017 22:48:50 : Cipher, cala, Botfuzzy77#2209, Skipping Calvin Harris - This Is What You Came For (Official Video) ft. Rihanna by request of the requester
+29 Jan 2017 22:48:57 : Cipher, cala, Calamariela#4119, ;skip
+29 Jan 2017 22:48:57 : Cipher, cala, Botfuzzy77#2209, Skipping Heathens by request of the requester
+29 Jan 2017 22:52:34 : Cipher, cala, Wertfuzzy77#0274, ;song
+29 Jan 2017 22:52:34 : Cipher, cala, Botfuzzy77#2209, **Name**: Weird russian singer - Chum Drum Bedrum
+**Requester**: Calamariela
+**URL**: <https://www.youtube.com/watch?v=tVj0ZTS4WF4>
+```py
+Time: 0:04:06
+Views: 18,226,086
+Likes: 247,994, 96.59%
+Dislikes: 8,767, 3.41%
+Skips: 0/1```
+29 Jan 2017 22:52:49 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 22:53:09 : Cipher, cala, Wertfuzzy77#0274, like, what even is this song xD
+29 Jan 2017 22:53:12 : Cipher, cala, Wertfuzzy77#0274, its just weird
+29 Jan 2017 22:53:18 : Cipher, cala, Calamariela#4119, ikr
+29 Jan 2017 22:53:23 : Cipher, cala, Calamariela#4119, good weird beat tho
+29 Jan 2017 22:53:29 : Cipher, cala, Wertfuzzy77#0274, it is catchy tho
+29 Jan 2017 22:53:30 : Cipher, cala, Wertfuzzy77#0274, ya
+29 Jan 2017 22:53:45 : Cipher, cala, Calamariela#4119, si
+29 Jan 2017 22:56:39 : Cipher, cala, Wertfuzzy77#0274, https://www.youtube.com/watch?v=4VyhKVxpSYk
+29 Jan 2017 23:00:39 : Cipher, cala, Calamariela#4119, sorry was drinking beer..
+29 Jan 2017 23:00:41 : Cipher, cala, Calamariela#4119, lol
+29 Jan 2017 23:01:06 : Cipher, cala, Wertfuzzy77#0274, so now you drunk in love?
+29 Jan 2017 23:01:35 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 23:01:47 : Cipher, cala, Calamariela#4119, don wanted me to try a beer
+29 Jan 2017 23:01:55 : Cipher, cala, Calamariela#4119, i HATE BEER
+29 Jan 2017 23:01:58 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 23:02:00 : Cipher, cala, Calamariela#4119, but this one was ok
+29 Jan 2017 23:02:58 : Cipher, cala, Calamariela#4119, lol hopefully i dont start getting all lovey
+29 Jan 2017 23:03:03 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 23:04:19 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 23:04:31 : Cipher, cala, Calamariela#4119, its fun to fuck with them tho
+29 Jan 2017 23:04:44 : Cipher, cala, Wertfuzzy77#0274, drunk people are kinda funny xD
+29 Jan 2017 23:04:54 : Cipher, cala, Calamariela#4119, you can do whatever you want with them
+29 Jan 2017 23:05:01 : Cipher, cala, Calamariela#4119, >:)
+29 Jan 2017 23:05:32 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 23:06:52 : Cipher, cala, Calamariela#4119, i get dangerous when im drunk
+29 Jan 2017 23:06:58 : Cipher, cala, Calamariela#4119, i will hurt people xD
+29 Jan 2017 23:07:01 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 23:07:16 : Cipher, cala, Wertfuzzy77#0274, idk what kinda of drunk I am
+29 Jan 2017 23:07:23 : Cipher, cala, Calamariela#4119, throwing bottles at people xD
+29 Jan 2017 23:07:32 : Cipher, cala, Calamariela#4119, yeah i wonder
+29 Jan 2017 23:07:53 : Cipher, cala, Calamariela#4119, oh im leaving around 7:30
+29 Jan 2017 23:09:02 : Cipher, cala, Calamariela#4119, maybe i will come back
+29 Jan 2017 23:09:05 : Cipher, cala, Calamariela#4119, idk
+29 Jan 2017 23:09:11 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 23:09:16 : Cipher, cala, Wertfuzzy77#0274, https://www.thesun.co.uk/living/1809043/these-are-the-four-different-types-of-drunk-according-to-scientists/
+29 Jan 2017 23:09:24 : Cipher, cala, Calamariela#4119, gonna smoke and fuck bitches
+29 Jan 2017 23:09:31 : Cipher, cala, Wertfuzzy77#0274, ```Everyone knows a ‘Mr Hyde’ type.
+
+They’re generally the person you want to watch out for when they’re boozed.
+
+Dr Jekyll is famed for having an evil alter ego called Mr Hyde – and this drinker has a dark side when they hit the bottle.```
+29 Jan 2017 23:09:42 : Cipher, cala, Wertfuzzy77#0274, bet
+29 Jan 2017 23:09:53 : Cipher, cala, Calamariela#4119, no for real
+29 Jan 2017 23:09:58 : Cipher, cala, Calamariela#4119, going to a party
+29 Jan 2017 23:10:02 : Cipher, cala, Calamariela#4119, to smoke weed
+29 Jan 2017 23:10:11 : Cipher, cala, Calamariela#4119, look the perfect song
+29 Jan 2017 23:10:17 : Cipher, cala, Wertfuzzy77#0274, xD I thought you were anti-social
+29 Jan 2017 23:10:25 : Cipher, cala, Calamariela#4119, and fuck prob
+29 Jan 2017 23:10:37 : Cipher, cala, Wertfuzzy77#0274, thanks 4 sharing
+29 Jan 2017 23:10:39 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 23:10:46 : Cipher, cala, Calamariela#4119, jk cutie
+29 Jan 2017 23:10:52 : Cipher, cala, Calamariela#4119, not going to a party
+29 Jan 2017 23:11:03 : Cipher, cala, Wertfuzzy77#0274, hmph
+29 Jan 2017 23:11:12 : Cipher, cala, Calamariela#4119, no xD dont get mad
+29 Jan 2017 23:11:29 : Cipher, cala, Wertfuzzy77#0274, Hmph!
+29 Jan 2017 23:11:45 : Cipher, cala, Calamariela#4119, you hmph one more time and we fighting >:)
+29 Jan 2017 23:11:50 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 23:12:01 : Cipher, cala, Calamariela#4119, ill trhow a bottle at you xD
+29 Jan 2017 23:12:05 : Cipher, cala, Calamariela#4119, ...throw
+29 Jan 2017 23:12:40 : Cipher, cala, Calamariela#4119, why you madddddd
+29 Jan 2017 23:13:18 : Cipher, cala, Wertfuzzy77#0274, if you get a thanks 4 sharing from me xD you messed up
+29 Jan 2017 23:13:22 : Cipher, cala, Wertfuzzy77#0274, 
+29 Jan 2017 23:13:32 : Cipher, cala, Calamariela#4119, no pls xD
+29 Jan 2017 23:13:43 : Cipher, cala, Calamariela#4119, im not fucking pls believe me xD
+29 Jan 2017 23:13:53 : Cipher, cala, Wertfuzzy77#0274, hmmm
+29 Jan 2017 23:14:10 : Cipher, cala, Calamariela#4119, i barely have sex
+29 Jan 2017 23:14:14 : Cipher, cala, Calamariela#4119, liike really
+29 Jan 2017 23:14:29 : LimitlessMc, mainchat, Tetra#4593, Inquiry
+29 Jan 2017 23:14:46 : Cipher, cala, Wertfuzzy77#0274, xD Cutie, I was done being mad at you like 10 messages ago
+29 Jan 2017 23:14:50 : LimitlessMc, mainchat, Crystal4209#4698, im way to tired ;-;
+29 Jan 2017 23:15:03 : LimitlessMc, mainchat, Tetra#4593, I'm way too excited
+29 Jan 2017 23:15:11 : LimitlessMc, mainchat, Crystal4209#4698, for what?
+29 Jan 2017 23:15:20 : LimitlessMc, mainchat, Tetra#4593, For life
+29 Jan 2017 23:15:22 : Cipher, cala, Wertfuzzy77#0274, and you try just as hard as I do when your mad xD
+29 Jan 2017 23:15:24 : Cipher, cala, Wertfuzzy77#0274, its adorable
+29 Jan 2017 23:15:55 : Cipher, cala, Calamariela#4119, cant....stand...you...being mad at me
+29 Jan 2017 23:15:59 : Cipher, cala, Wertfuzzy77#0274, aww
+29 Jan 2017 23:16:44 : Cipher, cala, Calamariela#4119, like heart breaks
+29 Jan 2017 23:16:49 : Unity Of Nirvana, general, Alpha Penguin#3869, Yey
+29 Jan 2017 23:16:52 : Unity Of Nirvana, general, Alpha Penguin#3869, Thank
+29 Jan 2017 23:17:07 : Cipher, cala, Wertfuzzy77#0274, ya, is v sad
+29 Jan 2017 23:17:14 : Unity Of Nirvana, general, Crystal4209#4698, yeah hope you have a good day alpha
+29 Jan 2017 23:17:47 : LimitlessMc, botchat, Dasher#6390, ;train
+29 Jan 2017 23:17:48 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 14 **Pupitar** (32% to beat)
+You **Lost** to a Level 10 **Gardevoir** (45% to beat)
+You **Beat** a Level 13 **Tyrunt** for 470 XP (34% to beat)
+You use a **Lucky Egg** to gain more XP!
+You Find a **Pokeloot** worth 51 XP
+29 Jan 2017 23:17:48 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 756 XP!
+29 Jan 2017 23:17:50 : LimitlessMc, mainchat, Alpha Penguin#3869, Happy
+29 Jan 2017 23:17:53 : LimitlessMc, mainchat, Alpha Penguin#3869, Birthday
+29 Jan 2017 23:17:54 : LimitlessMc, mainchat, Alpha Penguin#3869, Me
+29 Jan 2017 23:17:55 : Cipher, cala, Calamariela#4119, soooo lets go mining plsssss
+29 Jan 2017 23:18:01 : LimitlessMc, botchat, Dasher#6390, ;pokebattle fffff
+29 Jan 2017 23:18:01 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 8 Boss **Budew** has appeared in the Easy zone!
+It has 4600 Health.
+29 Jan 2017 23:18:02 : LimitlessMc, botchat, Botfuzzy77#2209, 
+29 Jan 2017 23:18:02 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f:
+:x: :white_check_mark: :x: :x: :x:
+29 Jan 2017 23:18:02 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+Your moves did **15** damage
+29 Jan 2017 23:18:02 : LimitlessMc, botchat, Botfuzzy77#2209, Level 8 Boss **Budew** has 4585 health left.
+29 Jan 2017 23:18:07 : Cipher, cala, Wertfuzzy77#0274, why you want to go mining?
+29 Jan 2017 23:18:13 : LimitlessMc, mainchat, Alpha Penguin#3869, Notice me
+29 Jan 2017 23:18:14 : Cipher, cala, Wertfuzzy77#0274, rather, why need gold? xD
+29 Jan 2017 23:18:20 : Cipher, cala, Calamariela#4119, for my dragons
+29 Jan 2017 23:18:24 : Cipher, cala, Wertfuzzy77#0274, ah
+29 Jan 2017 23:18:34 : LimitlessMc, mainchat, Crystal4209#4698, lel
+29 Jan 2017 23:18:34 : Cipher, cala, Calamariela#4119, yaaaa
+29 Jan 2017 23:18:36 : Cipher, cala, Wertfuzzy77#0274, ;song
+29 Jan 2017 23:18:36 : Cipher, cala, Botfuzzy77#2209, **Name**: Kings of Leon - Closer (HQ)
+**Requester**: Calamariela
+**URL**: <https://www.youtube.com/watch?v=eg3F4zpOdK8>
+```py
+Time: 0:04:01
+Views: 6,863,363
+Likes: 29,840, 97.05%
+Dislikes: 906, 2.95%
+Skips: 0/1```
+29 Jan 2017 23:18:42 : Cipher, cala, Wertfuzzy77#0274, I like this one
+29 Jan 2017 23:18:45 : Cipher, cala, Calamariela#4119, me tooo
+29 Jan 2017 23:18:53 : Cipher, cala, Wertfuzzy77#0274, ;songs
+29 Jan 2017 23:18:53 : Cipher, cala, Botfuzzy77#2209, **The Following songs are in the Queue, plus [4] more**
+29 Jan 2017 23:18:53 : Cipher, cala, Botfuzzy77#2209, 1. Austin Mahone ft. Pitbull - Mmm Yeah (Lyrics) **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=IoYi1pLAS6g>
+2. Kings Of Leon - Use Somebody (Official Video) **Calamariela**
+	<https://www.youtube.com/watch?v=gnhXHvRoUd0>
+3. Kevin Lyttle Turn Me On Lyrics **Calamariela**
+	<https://www.youtube.com/watch?v=lzk58JedcDU>
+4. Muse - Undisclosed Desires **Calamariela**
+	<https://www.youtube.com/watch?v=R8OOWcsFj0U>
+5. The Weeknd - The Hills **Calamariela**
+	<https://www.youtube.com/watch?v=yzTuBuRdAyA>
+6. ZAYN - PillowTalk (Lyrics) **Calamariela**
+	<https://www.youtube.com/watch?v=YO-XGWSvZB0>
+7. Kings of Leon - Closer (HQ) **Calamariela**
+	<https://www.youtube.com/watch?v=eg3F4zpOdK8>
+8. Muse - Uprising [Official Video] **Calamariela**
+	<https://www.youtube.com/watch?v=w8KQmps-Sog>
+9. Naughty Boy ft Sam Smith - La La La **Calamariela**
+	<https://www.youtube.com/watch?v=OsTTacH0jx0>
+10. Calvin Harris - This Is What You Came For (Official Video) ft. Rihanna **Calamariela**
+	<https://www.youtube.com/watch?v=kOkQ4T5WO9E>
+Total Time is 0:52:56
+29 Jan 2017 23:19:00 : Cipher, cala, Wertfuzzy77#0274, and the 2nd one
+29 Jan 2017 23:19:12 : Cipher, cala, Calamariela#4119, mmm mmm mmm ya ya ya
+29 Jan 2017 23:19:34 : Cipher, cala, Calamariela#4119, wait
+29 Jan 2017 23:19:38 : Cipher, cala, Calamariela#4119, two mmmm's
+29 Jan 2017 23:19:45 : Cipher, cala, Calamariela#4119, and two ya
+29 Jan 2017 23:19:49 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 23:20:01 : Cipher, cala, Calamariela#4119, ikr gawd im fucking up
+29 Jan 2017 23:20:03 : Cipher, cala, Calamariela#4119, drunk
+29 Jan 2017 23:20:04 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 23:22:42 : Cipher, cala, Wertfuzzy77#0274, Its like mmm mm, yeah yeah
+29 Jan 2017 23:22:47 : Cipher, cala, Wertfuzzy77#0274, and Hmmhmm, yeah yeah
+29 Jan 2017 23:22:56 : Cipher, cala, Calamariela#4119, yaaaa
+29 Jan 2017 23:24:28 : Cipher, cala, Wertfuzzy77#0274, Also, I dont really get mad that easily xD or rather, I dont get mad enough to voice it normally
+29 Jan 2017 23:24:48 : LimitlessMc, mainchat, Lightning#6734, hbd alpha
+29 Jan 2017 23:25:11 : Cipher, cala, Calamariela#4119, dragon time xD
+29 Jan 2017 23:25:16 : Cipher, cala, Wertfuzzy77#0274, almost done
+29 Jan 2017 23:25:20 : Cipher, cala, Wertfuzzy77#0274, need alittle more wood
+29 Jan 2017 23:25:21 : Cipher, cala, Calamariela#4119, no
+29 Jan 2017 23:25:27 : Cipher, cala, Calamariela#4119, my phone game
+29 Jan 2017 23:25:32 : Cipher, cala, Wertfuzzy77#0274, o
+29 Jan 2017 23:25:35 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 23:25:35 : Cipher, cala, Wertfuzzy77#0274, nub
+29 Jan 2017 23:27:12 : Cipher, cala, Calamariela#4119, i dont get mad ALL THE TIME
+29 Jan 2017 23:27:20 : Cipher, cala, Wertfuzzy77#0274, no xD ofc not
+29 Jan 2017 23:27:43 : LimitlessMc, mainchat, Crystal4209#4698, adam i see that your circle is green you cant hide from me lel
+29 Jan 2017 23:27:54 : Cipher, cala, Wertfuzzy77#0274, and I wanna minimize then xD
+29 Jan 2017 23:28:11 : Cipher, cala, Calamariela#4119, yeah i dont like that
+29 Jan 2017 23:28:17 : Cipher, cala, Calamariela#4119, that you must watch yourself
+29 Jan 2017 23:28:52 : Cipher, cala, Wertfuzzy77#0274, I mean, I'm not really restricting myself from doing things, its more like, am I doing something stupid, if yes, stop
+29 Jan 2017 23:29:32 : Cipher, cala, Wertfuzzy77#0274, ```py
+if niko.doingSomethingStupid == True:
+     niko.stopDoingThing()
+```
+29 Jan 2017 23:30:06 : LimitlessMc, botchat, MoonWolf#8885, ;train
+29 Jan 2017 23:30:06 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 58 **Quagsire** (39% to beat)
+You **Lost** to a Level 49 **Paras** (46% to beat)
+You **Lost** to a Level 85 **Infernape** (27% to beat)
+You **Lost** to a Level 75 **Sneasel** (30% to beat)
+You **Beat** a Level 35 **Rhyperior** for 1261 XP (65% to beat)
+You **Lost** to a Level 73 **Butterfree** (31% to beat)
+You **Lost** to a Level 75 **Excadrill** (30% to beat)
+You **Beat** a Level 24 **Honchkrow** for 368 XP (90% to beat)
+You **Lost** to a Level 62 **Noibat** (37% to beat)
+You **Lost** to a Level 85 **Roserade** (27% to beat)
+You **Lost** to a Level 89 **Spoink** (25% to beat)
+You **Beat** a Level 37 **Litleo** for 1392 XP (62% to beat)
+You **Lost** to a Level 59 **Mime jr.** (38% to beat)
+You use a **Lucky Egg** to gain more XP!
+You Find a **Pokeloot** worth 5192 XP
+29 Jan 2017 23:30:06 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 9723 XP!
+29 Jan 2017 23:30:11 : Cipher, cala, Wertfuzzy77#0274, but then again, I watch everything I do all the time
+29 Jan 2017 23:30:36 : LimitlessMc, mainchat, MoonWolf#8885, Ew
+29 Jan 2017 23:30:37 : Cipher, cala, Wertfuzzy77#0274, I'm very consious about how my actions effect people around me, so, I keep that in mind when I do things
+29 Jan 2017 23:30:44 : LimitlessMc, mainchat, MoonWolf#8885, Wert is green now
+29 Jan 2017 23:30:58 : LimitlessMc, mainchat, MoonWolf#8885, The red was better
+29 Jan 2017 23:31:07 : Cipher, cala, Calamariela#4119, eh you can flirt with girls if ya want. we are just friends
+29 Jan 2017 23:31:13 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 23:31:17 : Cipher, cala, Wertfuzzy77#0274, thats not what I mean
+29 Jan 2017 23:31:23 : Cipher, cala, Wertfuzzy77#0274, I dont really flirt regardless
+29 Jan 2017 23:31:33 : Cipher, cala, Calamariela#4119, thats the only thing that bothers me
+29 Jan 2017 23:31:40 : Cipher, cala, Calamariela#4119, but eh
+29 Jan 2017 23:32:53 : Cipher, cala, Wertfuzzy77#0274, Well, like I said before, I don't flirt xD I only flirt with you because we are weird like that
+29 Jan 2017 23:33:05 : Unity Of Nirvana, general, Crystal4209#4698, lol @#FuzzyRuthlessJayFazingRainbow i just got a exp all from a legendary boss venomoth xD
+29 Jan 2017 23:33:10 : Cipher, cala, Calamariela#4119, shouldnt even be doing that
+29 Jan 2017 23:33:18 : Unity Of Nirvana, general, Crystal4209#4698, after all the other red bosses i kill its this one
+29 Jan 2017 23:33:39 : Cipher, cala, Wertfuzzy77#0274, prob
+29 Jan 2017 23:35:29 : Cipher, cala, Calamariela#4119, lol so do what you like
+29 Jan 2017 23:35:40 : Cipher, cala, Calamariela#4119, i dont want to be controlling
+29 Jan 2017 23:35:52 : Unity Of Nirvana, general, Crystal4209#4698, oooo
+29 Jan 2017 23:36:07 : Unity Of Nirvana, general, Crystal4209#4698, nice but why send help xD
+29 Jan 2017 23:37:13 : Cipher, cala, Wertfuzzy77#0274, xD You arent controlling
+29 Jan 2017 23:37:43 : Cipher, cala, Calamariela#4119, eh
+29 Jan 2017 23:38:09 : Unity Of Nirvana, general, Crystal4209#4698, guess im the person with the most votes now xD
+29 Jan 2017 23:38:13 : Cipher, cala, Wertfuzzy77#0274, btw, thinking you are controlling normally means that you arent
+29 Jan 2017 23:38:55 : Unity Of Nirvana, general, Crystal4209#4698, ;-; tomorrow is my last day on holidays until i go back to school
+29 Jan 2017 23:39:27 : Unity Of Nirvana, general, Crystal4209#4698, also @Puplord worm misses your voice
+29 Jan 2017 23:39:40 : Cipher, cala, Calamariela#4119, im controlling towards don for sure
+29 Jan 2017 23:39:52 : Cipher, cala, Wertfuzzy77#0274, well thats don's problem xD
+29 Jan 2017 23:40:11 : Cipher, cala, Calamariela#4119, im just protective
+29 Jan 2017 23:40:19 : Cipher, cala, Wertfuzzy77#0274, Si
+29 Jan 2017 23:40:20 : Cipher, cala, Calamariela#4119, sssss
+29 Jan 2017 23:40:23 : Cipher, cala, Calamariela#4119, snake noisessss
+29 Jan 2017 23:40:26 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 23:40:32 : Cipher, cala, Wertfuzzy77#0274, you are def protective tho
+29 Jan 2017 23:40:48 : Cipher, cala, Wertfuzzy77#0274, when something is yours, you want it to be yours, not someone else's
+29 Jan 2017 23:40:52 : Cipher, cala, Wertfuzzy77#0274, including people xD
+29 Jan 2017 23:40:56 : Cipher, cala, Wertfuzzy77#0274, which is actually cute
+29 Jan 2017 23:41:03 : Cipher, cala, Calamariela#4119, fuck with me xD
+29 Jan 2017 23:41:21 : Unity Of Nirvana, general, Adam#7575, bless her
+29 Jan 2017 23:41:25 : Unity Of Nirvana, general, Alpha Penguin#3869, Ayy @Puplord
+29 Jan 2017 23:41:51 : Unity Of Nirvana, general, Crystal4209#4698, and ofc i have missed you to adam
+29 Jan 2017 23:41:56 : Cipher, cala, Calamariela#4119, yeah i will be fine with a girl that lives near you and 20 years old
+29 Jan 2017 23:42:01 : Cipher, cala, Calamariela#4119, other than that
+29 Jan 2017 23:42:03 : Cipher, cala, Calamariela#4119, back off
+29 Jan 2017 23:42:05 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 23:42:26 : Cipher, cala, Calamariela#4119, the shipping girl is also v annoying
+29 Jan 2017 23:42:35 : Cipher, cala, Wertfuzzy77#0274, I can tell
+29 Jan 2017 23:42:41 : Cipher, cala, Calamariela#4119, third is fine
+29 Jan 2017 23:42:52 : Cipher, cala, Calamariela#4119, sometimes weird
+29 Jan 2017 23:43:13 : LimitlessMc, mainchat, Chesire Kat#7022, ^
+29 Jan 2017 23:43:27 : Cipher, cala, Wertfuzzy77#0274, ya, worm is a little weird
+29 Jan 2017 23:43:28 : The Wild Weebs, general, Calamariela#4119, lol you are a dirty weeb @Wertfuzzy77
+29 Jan 2017 23:43:43 : The Wild Weebs, general, Calamariela#4119, well bot
+29 Jan 2017 23:44:14 : The Wild Weebs, general, Calamariela#4119, why does no one talk here xD
+29 Jan 2017 23:44:25 : The Wild Weebs, general, Wertfuzzy77#0274, cause they all a bunch of weebs
+29 Jan 2017 23:44:26 : The Wild Weebs, general, Calamariela#4119, room mate ik
+29 Jan 2017 23:44:37 : The Wild Weebs, general, Calamariela#4119, which ones are your roommates?
+29 Jan 2017 23:45:13 : The Wild Weebs, general, Calamariela#4119, @KR Shaman  hi
+29 Jan 2017 23:45:53 : None, Direct Message with TherminatorX, TherminatorX#6644, ;train
+29 Jan 2017 23:45:53 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You **Lost** to a Level 96 **Starly** (32% to beat)
+You **Lost** to a Level 90 **Snivy** (34% to beat)
+You **Lost** to a Level 91 **Cloyster** (34% to beat)
+You **Beat** a Level 114 **Entei** for 3611 XP (27% to beat)
+You **Lost** to a Level 114 **Weezing** (27% to beat)
+You **Lost** to a Level 66 **Zoroark** (46% to beat)
+You **Beat** a Level 53 **Espurr** for 2058 XP (58% to beat)
+You **Beat** a Level 34 **Darkrai** for 496 XP (90% to beat)
+You **Beat** a Level 34 **Trubbish** for 496 XP (90% to beat)
+You **Lost** to a Level 113 **Zapdos** (27% to beat)
+You **Lost** to a Level 103 **Magnemite** (30% to beat)
+You **Lost** to a Level 114 **Hawlucha** (27% to beat)
+You **Lost** to a Level 55 **Arcanine** (56% to beat)
+You **Lost** to a Level 90 **Latios** (34% to beat)
+You **Lost** to a Level 65 **Cacnea** (47% to beat)
+You **Lost** to a Level 49 **Lotad** (63% to beat)
+You **Lost** to a Level 114 **Moltres** (27% to beat)
+You Find a **Pokeloot** worth 12503 XP
+29 Jan 2017 23:45:53 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You Have Leveled up from **62** to **63**!
+29 Jan 2017 23:45:53 : The Wild Weebs, general, Wertfuzzy77#0274, 70%
+29 Jan 2017 23:45:53 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You trained for 19164 XP!
+29 Jan 2017 23:45:58 : The Wild Weebs, general, enragednuke#2565, <:err:268999123011633154>
+29 Jan 2017 23:46:00 : The Wild Weebs, general, Calamariela#4119, and he only does that xD
+29 Jan 2017 23:46:05 : The Wild Weebs, general, Wertfuzzy77#0274, yes, and no
+29 Jan 2017 23:46:11 : The Wild Weebs, general, Wertfuzzy77#0274, he says otherthings
+29 Jan 2017 23:46:28 : The Wild Weebs, general, Wertfuzzy77#0274, from shelter
+29 Jan 2017 23:46:29 : The Wild Weebs, general, enragednuke#2565, joe
+29 Jan 2017 23:46:37 : The Wild Weebs, general, Calamariela#4119, hi joe xD
+29 Jan 2017 23:46:56 : The Wild Weebs, general, Calamariela#4119, say hi xD damn it
+29 Jan 2017 23:47:17 : The Wild Weebs, general, Wertfuzzy77#0274, @Tally you are dylan right?
+29 Jan 2017 23:47:21 : The Wild Weebs, general, enragednuke#2565, NO
+29 Jan 2017 23:47:39 : The Wild Weebs, general, Calamariela#4119, okay...ill just take alittle visit to ya dorm
+29 Jan 2017 23:47:44 : The Wild Weebs, general, Wertfuzzy77#0274, gl
+29 Jan 2017 23:47:45 : The Wild Weebs, general, enragednuke#2565, <:thonking:268636632259756032>
+29 Jan 2017 23:47:48 : The Wild Weebs, general, Calamariela#4119, xD
+29 Jan 2017 23:47:58 : Unity Of Nirvana, general, Crystal4209#4698, @Puplord are you gonna get on the server?
+29 Jan 2017 23:48:33 : The Wild Weebs, general, Calamariela#4119, wert open the door when i get there
+29 Jan 2017 23:48:54 : The Wild Weebs, general, Wertfuzzy77#0274, maybe
+29 Jan 2017 23:48:55 : The Wild Weebs, general, Wertfuzzy77#0274, lazy
+29 Jan 2017 23:49:04 : Cipher, cala, Wertfuzzy77#0274, :
+29 Jan 2017 23:49:09 : The Wild Weebs, general, Calamariela#4119, well thats like 10 hours soooo
+29 Jan 2017 23:49:29 : The Wild Weebs, general, Wertfuzzy77#0274, hmmm, would be like 5 AM
+29 Jan 2017 23:49:35 : Unity Of Nirvana, general, Adam#7575, nope
+29 Jan 2017 23:49:39 : The Wild Weebs, general, Calamariela#4119, you would be up xD
+29 Jan 2017 23:49:42 : Unity Of Nirvana, general, Adam#7575, im gonna go to bed
+29 Jan 2017 23:49:50 : Unity Of Nirvana, general, Crystal4209#4698, alright well night
+29 Jan 2017 23:50:09 : The Wild Weebs, general, Wertfuzzy77#0274, I mean, i dont have class tomorrow xD but who says im up at 5
+29 Jan 2017 23:50:15 : The Wild Weebs, general, Calamariela#4119, me
+29 Jan 2017 23:50:38 : The Wild Weebs, general, Wertfuzzy77#0274, bet
+29 Jan 2017 23:51:00 : The Wild Weebs, general, Calamariela#4119, lol well i need to make joe say hi to me xd
+29 Jan 2017 23:51:05 : The Wild Weebs, general, Calamariela#4119, its bothering me lol
+29 Jan 2017 23:51:11 : The Wild Weebs, general, Wertfuzzy77#0274, gl with that
+29 Jan 2017 23:51:26 : The Wild Weebs, general, Calamariela#4119, go to him and type hi xD
+29 Jan 2017 23:51:36 : The Wild Weebs, general, Wertfuzzy77#0274, nonsense, I have to get up then
+29 Jan 2017 23:51:38 : The Wild Weebs, general, enragednuke#2565, i will literally slaughter him
+29 Jan 2017 23:51:41 : The Wild Weebs, general, Wertfuzzy77#0274, ^
+29 Jan 2017 23:51:42 : The Wild Weebs, general, Botfuzzy77#2209, ^
+29 Jan 2017 23:51:58 : The Wild Weebs, general, Calamariela#4119, i will kill him now if he doesnt do it
+29 Jan 2017 23:52:05 : The Wild Weebs, general, enragednuke#2565, <:err:268999123011633154>
+29 Jan 2017 23:52:22 : The Wild Weebs, general, Calamariela#4119, you assholes xD with that face
+29 Jan 2017 23:53:10 : The Wild Weebs, general, enragednuke#2565, sux
+29 Jan 2017 23:53:10 : The Wild Weebs, general, Wertfuzzy77#0274, bet
+29 Jan 2017 23:53:15 : The Wild Weebs, general, Calamariela#4119, xD
+29 Jan 2017 23:53:42 : The Wild Weebs, general, enragednuke#2565, rip
+29 Jan 2017 23:53:54 : The Wild Weebs, general, Wertfuzzy77#0274, ;kill @Wertfuzzy77
+29 Jan 2017 23:53:54 : The Wild Weebs, general, Botfuzzy77#2209, :skull: *Wertfuzzy77 Killed @Wertfuzzy77* :skull:
+29 Jan 2017 23:54:27 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;train
+29 Jan 2017 23:54:27 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, You **Lost** to a Level 57 **Vespiquen** (37% to beat)
+You **Beat** a Level 31 **Weavile** for 1054 XP (69% to beat)
+You **Lost** to a Level 51 **Fearow** (42% to beat)
+You **Lost** to a Level 58 **Farfetch'd** (37% to beat)
+You **Lost** to a Level 30 **Scyther** (71% to beat)
+You **Lost** to a Level 42 **Audino** (51% to beat)
+You **Lost** to a Level 75 **Eelektross** (28% to beat)
+You **Lost** to a Level 31 **Farfetch'd** (69% to beat)
+You **Beat** a Level 60 **Mankey** for 2207 XP (35% to beat)
+You **Beat** a Level 47 **Mareep** for 1866 XP (45% to beat)
+You **Lost** to a Level 71 **Musharna** (30% to beat)
+You **Beat** a Level 62 **Aromatisse** for 2247 XP (34% to beat)
+You Find a **Pokeloot** worth 4260 XP
+29 Jan 2017 23:54:27 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, You trained for 11634 XP!
+29 Jan 2017 23:54:52 : The Wild Weebs, weeb, enragednuke#2565, fuck yyouuuu
+29 Jan 2017 23:55:37 : The Wild Weebs, general, Wertfuzzy77#0274, He's a weeb
+29 Jan 2017 23:55:41 : The Wild Weebs, general, Wertfuzzy77#0274, so thats how he talks
+29 Jan 2017 23:55:50 : The Wild Weebs, general, Wertfuzzy77#0274, But I promise thats Good Evening xD
+29 Jan 2017 23:56:32 : The Wild Weebs, general, Calamariela#4119, who are you?
+29 Jan 2017 23:56:43 : The Wild Weebs, general, enragednuke#2565, im you
+29 Jan 2017 23:57:02 : The Wild Weebs, general, Calamariela#4119, im talking about that wert guy
+29 Jan 2017 23:57:13 : The Wild Weebs, general, Wertfuzzy77#0274, I'm you
+29 Jan 2017 23:58:19 : The Wild Weebs, general, Wertfuzzy77#0274, ;kms
+29 Jan 2017 23:58:19 : The Wild Weebs, general, Botfuzzy77#2209, Do it, you wont
+29 Jan 2017 23:59:10 : The Wild Weebs, general, Calamariela#4119, do it
+29 Jan 2017 23:59:18 : The Wild Weebs, general, Wertfuzzy77#0274, ;kill @Wertfuzzy77
+29 Jan 2017 23:59:18 : The Wild Weebs, general, Botfuzzy77#2209, :skull: *Wertfuzzy77 Killed @Wertfuzzy77* :skull:
+29 Jan 2017 23:59:31 : The Wild Weebs, general, Wertfuzzy77#0274, meanie
+29 Jan 2017 23:59:48 : The Wild Weebs, general, Calamariela#4119, saved me the 10 hour drive
+30 Jan 2017 00:00:05 : The Wild Weebs, general, Wertfuzzy77#0274, well, its more like a 15 now
+30 Jan 2017 00:00:23 : The Wild Weebs, general, enragednuke#2565, you are FLOODING MY GENERAL CHAT
+30 Jan 2017 00:00:25 : The Wild Weebs, general, enragednuke#2565, REEEEEEEEEEEEEEE
+30 Jan 2017 00:00:28 : The Wild Weebs, general, Wertfuzzy77#0274, SUX FOR YOU
+30 Jan 2017 00:00:34 : The Wild Weebs, general, Calamariela#4119, g
+30 Jan 2017 00:00:35 : The Wild Weebs, general, Calamariela#4119, o
+30 Jan 2017 00:00:36 : The Wild Weebs, general, Calamariela#4119, o
+30 Jan 2017 00:00:36 : The Wild Weebs, general, Calamariela#4119, g
+30 Jan 2017 00:00:38 : The Wild Weebs, general, Calamariela#4119, d
+30 Jan 2017 00:00:41 : The Wild Weebs, general, Calamariela#4119, xD
+30 Jan 2017 00:00:41 : The Wild Weebs, general, enragednuke#2565, goog
+30 Jan 2017 00:00:44 : The Wild Weebs, general, Calamariela#4119, oops
+30 Jan 2017 00:00:50 : The Wild Weebs, general, Wertfuzzy77#0274, ITS CALLED GENERAL, MEANT FOR GENERAL CONVERSATIONS
+30 Jan 2017 00:01:07 : The Wild Weebs, general, Calamariela#4119, YEAH i agree with the random dude
+30 Jan 2017 00:01:10 : The Wild Weebs, general, enragednuke#2565, kys
+30 Jan 2017 00:01:15 : The Wild Weebs, general, Wertfuzzy77#0274, you kys
+30 Jan 2017 00:01:23 : The Wild Weebs, general, Calamariela#4119, no wert you kys
+30 Jan 2017 00:01:29 : The Wild Weebs, general, enragednuke#2565, o
+30 Jan 2017 00:01:31 : The Wild Weebs, general, enragednuke#2565, what was that?
+30 Jan 2017 00:01:32 : The Wild Weebs, general, enragednuke#2565, i cant hear u
+30 Jan 2017 00:01:33 : The Wild Weebs, general, enragednuke#2565, sry
+30 Jan 2017 00:01:55 : Cipher, cala, Wertfuzzy77#0274, ;-; he muted me
+30 Jan 2017 00:02:04 : The Wild Weebs, general, enragednuke#2565, gen chat is for wut now
+30 Jan 2017 00:02:05 : The Wild Weebs, general, enragednuke#2565, ?
+30 Jan 2017 00:02:18 : Cipher, cala, Calamariela#4119, wait
+30 Jan 2017 00:02:20 : Cipher, cala, Calamariela#4119, no
+30 Jan 2017 00:02:26 : Cipher, cala, Calamariela#4119, who are you!!!!
+30 Jan 2017 00:02:31 : Cipher, cala, Wertfuzzy77#0274, xD
+30 Jan 2017 00:02:35 : Cipher, cala, Wertfuzzy77#0274, nope too late
+30 Jan 2017 00:02:42 : Cipher, cala, Calamariela#4119, nu
+30 Jan 2017 00:02:56 : Cipher, cala, Calamariela#4119, no no no
+30 Jan 2017 00:02:56 : The Wild Weebs, general, Wertfuzzy77#0274, Its for you to be a Nazi Mod
+30 Jan 2017 00:02:57 : Cipher, cala, Calamariela#4119, kyssss
+30 Jan 2017 00:03:04 : The Wild Weebs, general, enragednuke#2565, my server my rules bitch
+30 Jan 2017 00:03:07 : Cipher, cala, Wertfuzzy77#0274, bet
+30 Jan 2017 00:03:41 : Cipher, cala, Calamariela#4119, grrr
+30 Jan 2017 00:03:46 : The Wild Weebs, general, Wertfuzzy77#0274, http://stream1.gifsoup.com/view4/1978196/heil-hitler-o.gif
+30 Jan 2017 00:03:47 : Cipher, cala, Calamariela#4119, sssss
+30 Jan 2017 00:03:51 : Cipher, cala, Calamariela#4119, animal noises
+30 Jan 2017 00:04:31 : The Wild Weebs, general, Calamariela#4119, https://www.youtube.com/watch?v=tVj0ZTS4WF4
+30 Jan 2017 00:05:02 : Cipher, cala, Calamariela#4119, xD
+30 Jan 2017 00:05:18 : Cipher, cala, Wertfuzzy77#0274, xD
+30 Jan 2017 00:05:30 : The Wild Weebs, general, Calamariela#4119, hey you @Ryan  watch this
+30 Jan 2017 00:05:48 : The Wild Weebs, general, Ryan#3332, excuse me
+30 Jan 2017 00:06:16 : The Wild Weebs, general, Calamariela#4119, lol got you to talk. good enough
+30 Jan 2017 00:06:31 : The Wild Weebs, general, enragednuke#2565, lol
+30 Jan 2017 00:06:38 : Cipher, cala, Wertfuzzy77#0274, lol, trying to get random people to talk gj
+30 Jan 2017 00:06:50 : Cipher, cala, Calamariela#4119, your friends are like excuse me! WHY!
+30 Jan 2017 00:06:51 : Cipher, cala, Calamariela#4119, xD
+30 Jan 2017 00:07:08 : Cipher, cala, Wertfuzzy77#0274, i mean, barely know the guy you mentioned xD
+30 Jan 2017 00:07:14 : Cipher, cala, Wertfuzzy77#0274, I would try @tally he will tlak
+30 Jan 2017 00:07:15 : Cipher, cala, Calamariela#4119, lololol
+30 Jan 2017 00:07:16 : Cipher, cala, Wertfuzzy77#0274, he fun
+30 Jan 2017 00:07:36 : Cipher, cala, Calamariela#4119, is is afk tho
+30 Jan 2017 00:07:45 : Cipher, cala, Calamariela#4119, i got to pee
+30 Jan 2017 00:07:46 : Cipher, cala, Calamariela#4119, brb
+30 Jan 2017 00:07:54 : Cipher, cala, Wertfuzzy77#0274, same actually xD
+30 Jan 2017 00:07:59 : Cipher, cala, Wertfuzzy77#0274, was just gonna go afk for a sec
+30 Jan 2017 00:10:16 : Cipher, cala, Calamariela#4119, BACK
+30 Jan 2017 00:10:26 : Cipher, cala, Wertfuzzy77#0274, LOL i literally just sat back in my chair
+30 Jan 2017 00:12:55 : LimitlessMc, botchat, MoonWolf#8885, ;train
+30 Jan 2017 00:12:55 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 1032 seconds before you can train again.
+30 Jan 2017 00:13:31 : Cipher, cala, Calamariela#4119, xD
+30 Jan 2017 00:13:34 : Cipher, cala, Wertfuzzy77#0274, xD why you join music and then leave
+30 Jan 2017 00:13:44 : Cipher, cala, Calamariela#4119, eh
+30 Jan 2017 00:14:29 : Cipher, cala, Wertfuzzy77#0274, nub
+30 Jan 2017 00:15:27 : Cipher, cala, Wertfuzzy77#0274, ;song
+30 Jan 2017 00:15:28 : Cipher, cala, Botfuzzy77#2209, **Name**: Sean Paul - Temperature - Lyrics on Screen!
+**Requester**: Radio
+**URL**: <https://www.youtube.com/watch?v=nW-3By0DFuk>
+```py
+Time: 0:03:32
+Views: 1,827,932
+Likes: 9,718, 97.11%
+Dislikes: 289, 2.89%
+Skips: 0/0```
+30 Jan 2017 00:15:31 : Cipher, cala, Wertfuzzy77#0274, o
+30 Jan 2017 00:15:33 : Cipher, cala, Wertfuzzy77#0274, radio
+30 Jan 2017 00:15:39 : Cipher, cala, Wertfuzzy77#0274, was like, never heard this before xD
+30 Jan 2017 00:17:06 : LimitlessMc, botchat, theOnlyJuan#9357, ;cd
+30 Jan 2017 00:17:06 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You can Train right now!
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+30 Jan 2017 00:17:12 : LimitlessMc, botchat, theOnlyJuan#9357, ;train
+30 Jan 2017 00:17:12 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 38 **Golurk** (46% to beat)
+You **Lost** to a Level 32 **Trubbish** (54% to beat)
+You **Beat** a Level 35 **Kabuto** for 1400 XP (50% to beat)
+You **Beat** a Level 42 **Gible** for 1633 XP (41% to beat)
+You **Beat** a Level 21 **Pyroar** for 466 XP (83% to beat)
+You **Lost** to a Level 41 **Armaldo** (42% to beat)
+You **Beat** a Level 17 **Xerneas** for 280 XP (90% to beat)
+You **Beat** a Level 29 **Tranquill** for 1110 XP (60% to beat)
+You **Beat** a Level 36 **Nuzleaf** for 1438 XP (48% to beat)
+You **Lost** to a Level 37 **Wooper** (47% to beat)
+You use a **Lucky Egg** to gain more XP!
+You Find a **Pokeloot** worth 2333 XP
+30 Jan 2017 00:17:12 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 11824 XP!
+30 Jan 2017 00:17:16 : Cipher, music, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=Z4vD9ppAQhw
+30 Jan 2017 00:17:21 : Cipher, music, Wertfuzzy77#0274, ;remove 1
+30 Jan 2017 00:17:21 : Cipher, music, Botfuzzy77#2209, Removed: Kevin Lyttle Turn Me On Lyrics
+30 Jan 2017 00:17:25 : Cipher, music, Wertfuzzy77#0274, ;songs
+30 Jan 2017 00:17:25 : Cipher, music, Botfuzzy77#2209, Queue is Empty
+30 Jan 2017 00:17:29 : LimitlessMc, botchat, theOnlyJuan#9357, ;gamble 11824
+30 Jan 2017 00:17:29 : LimitlessMc, botchat, Botfuzzy77#2209, You have lost your offering...
+30 Jan 2017 00:17:29 : LimitlessMc, botchat, Botfuzzy77#2209, You are exhausted from Gambling...
+30 Jan 2017 00:17:32 : LimitlessMc, botchat, theOnlyJuan#9357, Rip
+30 Jan 2017 00:17:45 : Cipher, cala, Wertfuzzy77#0274, ;song
+30 Jan 2017 00:17:45 : Cipher, cala, Botfuzzy77#2209, **Name**: Jason Mraz - I'm Yours (Andie Roy Remix)
+**Requester**: Wertfuzzy77
+**URL**: <https://www.youtube.com/watch?v=Z4vD9ppAQhw>
+```py
+Time: 0:06:00
+Views: 3,394,887
+Likes: 19,532, 98.17%
+Dislikes: 364, 1.83%
+Skips: 0/0```
+30 Jan 2017 00:17:46 : LimitlessMc, botchat, theOnlyJuan#9357, ;level
+30 Jan 2017 00:17:46 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *theOnlyJuan*
+**Level**: 35
+30 Jan 2017 00:17:46 : LimitlessMc, botchat, Botfuzzy77#2209, 
+30 Jan 2017 00:17:46 : LimitlessMc, botchat, Botfuzzy77#2209, **XP**: 26524/46656
+**Boss Takedowns**: 5
+**Most Dmg in an Attack**: 13069
+30 Jan 2017 00:17:47 : Cipher, cala, Wertfuzzy77#0274, better
+30 Jan 2017 00:18:07 : Cipher, cala, Calamariela#4119, 8:30 now
+30 Jan 2017 00:18:12 : Cipher, cala, Wertfuzzy77#0274, xD
+30 Jan 2017 00:18:13 : LimitlessMc, botchat, theOnlyJuan#9357, ;pokeboss
+30 Jan 2017 00:18:13 : LimitlessMc, botchat, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> medium to fight and reveal the boss.
+30 Jan 2017 00:18:22 : LimitlessMc, botchat, theOnlyJuan#9357, ;pokebattle iiiiiiii
+30 Jan 2017 00:18:22 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 45 Boss **Shellos** has appeared in the Medium zone!
+It has 34650 Health.
+30 Jan 2017 00:18:22 : Cipher, music, Wertfuzzy77#0274, ;loop
+30 Jan 2017 00:18:22 : LimitlessMc, botchat, Botfuzzy77#2209, 
+30 Jan 2017 00:18:22 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i:
+:x: :x: :x: :x: :white_check_mark: :x: :x: :x:
+30 Jan 2017 00:18:23 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+STAB bonus damage for Ice type (1x)
+Your moves did **70** damage
+30 Jan 2017 00:18:23 : LimitlessMc, botchat, Botfuzzy77#2209, Level 45 Boss **Shellos** has 34580 health left.
+30 Jan 2017 00:18:23 : Cipher, music, Botfuzzy77#2209, Added '*Jason Mraz - I'm Yours (Andie Roy Remix)*' **1** more times
+30 Jan 2017 00:20:21 : Cipher, cala, Calamariela#4119, soooo
+30 Jan 2017 00:24:12 : Cipher, music, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=LYhrYHmUPn0
+30 Jan 2017 00:25:47 : Cipher, cala, Wertfuzzy77#0274, xD what
+30 Jan 2017 00:26:17 : Cipher, cala, Wertfuzzy77#0274, whattttt
+30 Jan 2017 00:26:25 : Cipher, cala, Calamariela#4119, nothingggg
+30 Jan 2017 00:26:29 : Cipher, cala, Wertfuzzy77#0274, nooooo
+30 Jan 2017 00:26:30 : Cipher, cala, Wertfuzzy77#0274, tell me
+30 Jan 2017 00:26:43 : Cipher, cala, Calamariela#4119, >;)
+30 Jan 2017 00:26:49 : Cipher, cala, Wertfuzzy77#0274, nub!
+30 Jan 2017 00:26:51 : Cipher, cala, Wertfuzzy77#0274, spill
+30 Jan 2017 00:27:31 : Cipher, cala, Calamariela#4119, time to mess with you
+30 Jan 2017 00:27:35 : Cipher, cala, Wertfuzzy77#0274, o dear
+30 Jan 2017 00:27:42 : The Wild Weebs, general, Calamariela#4119, wert wears diapers to bed
+30 Jan 2017 00:27:59 : LimitlessMc, mainchat, DonTheBreton#0276, http://prntscr.com/e20xzc
+30 Jan 2017 00:28:19 : The Wild Weebs, general, Wertfuzzy77#0274, xD
+30 Jan 2017 00:29:01 : LimitlessMc, mainchat, <3~Wolfie~<3#5314, o.o wow that took time
+30 Jan 2017 00:29:25 : Cipher, cala, Calamariela#4119, xD
+30 Jan 2017 00:30:29 : Cipher, cala, Calamariela#4119, xD idk your friends may stalk you
+30 Jan 2017 00:30:40 : Cipher, cala, Wertfuzzy77#0274, xd
+30 Jan 2017 00:30:57 : Cipher, music, Wertfuzzy77#0274, ;song
+30 Jan 2017 00:30:57 : Cipher, music, Botfuzzy77#2209, **Name**: Jason Mraz -I'm Yours (live)
+**Requester**: Wertfuzzy77
+**URL**: <https://www.youtube.com/watch?v=LYhrYHmUPn0>
+```py
+Time: 0:08:11
+Views: 74,933,367
+Likes: 180,517, 97.4%
+Dislikes: 4,818, 2.6%
+Skips: 0/0```
+30 Jan 2017 00:31:00 : Cipher, music, Wertfuzzy77#0274, ;loop
+30 Jan 2017 00:31:02 : Cipher, music, Botfuzzy77#2209, Added '*Jason Mraz -I'm Yours (live)*' **1** more times
+30 Jan 2017 00:31:17 : Cipher, cala, Calamariela#4119, i dont trust joe
+30 Jan 2017 00:31:32 : Cipher, cala, Wertfuzzy77#0274, first of all Joe is @tally
+30 Jan 2017 00:31:36 : Cipher, cala, Wertfuzzy77#0274, thats Dylan xD
+30 Jan 2017 00:31:37 : Cipher, cala, Wertfuzzy77#0274, shhh
+30 Jan 2017 00:31:43 : Cipher, cala, Wertfuzzy77#0274, dont tell him I told you
+30 Jan 2017 00:31:49 : Cipher, cala, Calamariela#4119, xD
+30 Jan 2017 00:32:02 : Cipher, cala, Calamariela#4119, little slippery fuck
+30 Jan 2017 00:32:13 : LimitlessMc, mainchat, Wertfuzzy77#0274, I would show you my build xD but Its not as impressive from a top down
+30 Jan 2017 00:32:33 : Cipher, cala, Wertfuzzy77#0274, xD
+30 Jan 2017 00:32:33 : LimitlessMc, mainchat, Chesire Kat#7022, XD
+30 Jan 2017 00:33:31 : Cipher, cala, Calamariela#4119, lol im gonna pretend to be your gf
+30 Jan 2017 00:33:32 : Cipher, cala, Calamariela#4119, k?
+30 Jan 2017 00:33:35 : LimitlessMc, mainchat, Wertfuzzy77#0274, same, my current build is in a mesa plateau
+30 Jan 2017 00:33:47 : Cipher, cala, Calamariela#4119, to get back at his bitch ass
+30 Jan 2017 00:33:58 : Cipher, cala, Calamariela#4119, xD
+30 Jan 2017 00:34:28 : Cipher, cala, Wertfuzzy77#0274, Fake girlfriend is a step above friend I think?
+30 Jan 2017 00:34:31 : Cipher, cala, Calamariela#4119, imma go at tally heyyy joe
+30 Jan 2017 00:34:32 : Cipher, cala, Calamariela#4119, xD
+30 Jan 2017 00:34:50 : Cipher, cala, Calamariela#4119, if he ever talks
+30 Jan 2017 00:34:53 : Cipher, cala, Wertfuzzy77#0274, sure
+30 Jan 2017 00:34:57 : Cipher, cala, Wertfuzzy77#0274, also, he talks alot
+30 Jan 2017 00:35:35 : LimitlessMc, mainchat, <3~Wolfie~<3#5314, I like the extreme hills as i can get a window out the side of the hill and have an amazing veiw with my shaders on :3
+30 Jan 2017 00:36:05 : LimitlessMc, mainchat, Wertfuzzy77#0274, wait, not mesa xD i meant savanna
+30 Jan 2017 00:36:40 : LimitlessMc, mainchat, <3~Wolfie~<3#5314, xD
+30 Jan 2017 00:36:54 : Cipher, cala, Calamariela#4119, xD
+30 Jan 2017 00:37:00 : LimitlessMc, mainchat, <3~Wolfie~<3#5314, I've never actually seen a minecraft savanna >.>
+30 Jan 2017 00:37:30 : LimitlessMc, mainchat, Wertfuzzy77#0274, 
+30 Jan 2017 00:38:29 : LimitlessMc, mainchat, Crystal4209#4698, oo wert you did more work since the last time i was there
+30 Jan 2017 00:38:31 : Cipher, cala, Calamariela#4119, talk to him
+30 Jan 2017 00:38:37 : Cipher, cala, Wertfuzzy77#0274, who?
+30 Jan 2017 00:38:40 : Cipher, cala, Calamariela#4119, joe
+30 Jan 2017 00:39:03 : The Wild Weebs, general, Wertfuzzy77#0274, @Tally
+30 Jan 2017 00:39:11 : Cipher, cala, Calamariela#4119, lol where is he now?
+30 Jan 2017 00:39:21 : Cipher, cala, Wertfuzzy77#0274, working maybe?
+30 Jan 2017 00:39:26 : Cipher, cala, Wertfuzzy77#0274, he a security monitor
+30 Jan 2017 00:39:31 : Cipher, cala, Calamariela#4119, no
+30 Jan 2017 00:39:34 : Cipher, cala, Wertfuzzy77#0274, o
+30 Jan 2017 00:39:34 : Cipher, cala, Calamariela#4119, like live
+30 Jan 2017 00:39:43 : Cipher, cala, Wertfuzzy77#0274, in a apt now
+30 Jan 2017 00:39:50 : Cipher, cala, Wertfuzzy77#0274, with 2 other guys
+30 Jan 2017 00:39:56 : Cipher, cala, Calamariela#4119, o nice
+30 Jan 2017 00:40:05 : Cipher, cala, Wertfuzzy77#0274, and me and my current 2 roommates staying in dorms
+30 Jan 2017 00:40:18 : Cipher, cala, Calamariela#4119, do dylan andddd?
+30 Jan 2017 00:40:20 : Cipher, cala, Calamariela#4119, so
+30 Jan 2017 00:40:24 : Cipher, cala, Wertfuzzy77#0274, rahaun
+30 Jan 2017 00:40:27 : Cipher, cala, Wertfuzzy77#0274, is the other one

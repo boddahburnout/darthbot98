@@ -1,0 +1,130 @@
+19 Jan 2017 20:18:34 : LimitlessMc, botchat, Wertfuzzy77#0274, ;help
+19 Jan 2017 20:18:34 : None, Direct Message with Wertfuzzy77, Botfuzzy77#2209, ```
+A Bot whose sole Purpose is to serve Wertfuzzy77! Version 0.15.1.3
+(Created by Wertfuzzy77)
+
+FlavorTexts:
+  choose         Chooses from a set of things
+  conch          Ask the Magic Conch a Question
+  fml            Returns a Random Post from fmylife.com
+  funify         Funifies a given text input
+  gif            Returns the First Found Image on Google Images for this Input
+  hug            Adds Emotion
+  image          Returns the First Found Image on Google Images for this Input
+  kill           Adds Emotion
+  kiss           Adds Emotion
+  kys            
+  lmgtfy         Returns a Link to a "Let me Google That For You" Page
+  luck           Returns the Player's Luck
+  rate           Rates the Player
+  rps            Allows the player to play Rock, Paper, Scissors with the Bot...
+  slap           Adds Emotion
+  wyr            
+Games:
+  cd             Shows your Cooldowns
+  level          Displays your Current Information
+  lookup         Displays your Current Information
+  pokebattle     Fights a Pokemon Boss
+  pokeboss       Displays Boss Info
+  pokedex        
+  pokehelp       Pokemon Battle Sim Help
+  ranking        
+  setpokemon     
+  train          Fights Pokemon for XP
+  types          
+MusicPlayer:
+  Radio          Toggles Radio Mode
+  clear          Clears the Queue
+  desc           Decription of the Current playing song
+  extendplaylist Extends a custom playlist
+  join           Joins the Voice channel you are currently in
+  leave          Leaves the Join chat
+  loop           Plays the current song again
+  makeplaylist   Makes a custom playlist for the bot to save
+  music          Returns the current status of the Music Bot
+  playlist       Adds songs from a predefined playlist to the songs list
+  playlists      Shows all the current playlists
+  remove         removes a song from a queue by index
+  search         Searches for a song
+  shuffle        Shuffles the songs in the Queue
+  skip           Skips the Current song
+```
+19 Jan 2017 20:18:37 : LimitlessMc, botchat, Wertfuzzy77#0274, AYYYYYYYYYYYY
+19 Jan 2017 20:18:39 : LimitlessMc, botchat, Wertfuzzy77#0274, AYYYYYYYY
+19 Jan 2017 20:18:44 : LimitlessMc, botchat, Wertfuzzy77#0274, WE DID IT REDDIT.
+19 Jan 2017 20:18:53 : LimitlessMc, botchat, Wertfuzzy77#0274, @TherminatorX ;help
+19 Jan 2017 20:23:49 : LimitlessMc, botchat, TherminatorX#6644, ;help
+19 Jan 2017 20:23:49 : None, Direct Message with TherminatorX, Botfuzzy77#2209, ```
+A Bot whose sole Purpose is to serve Wertfuzzy77! Version 0.15.1.3
+(Created by Wertfuzzy77)
+
+FlavorTexts:
+  choose         Chooses from a set of things
+  conch          Ask the Magic Conch a Question
+  fml            Returns a Random Post from fmylife.com
+  funify         Funifies a given text input
+  gif            Returns the First Found Image on Google Images for this Input
+  hug            Adds Emotion
+  image          Returns the First Found Image on Google Images for this Input
+  kill           Adds Emotion
+  kiss           Adds Emotion
+  kys            
+  lmgtfy         Returns a Link to a "Let me Google That For You" Page
+  luck           Returns the Player's Luck
+  rate           Rates the Player
+  rps            Allows the player to play Rock, Paper, Scissors with the Bot...
+  slap           Adds Emotion
+  wyr            
+Games:
+  cd             Shows your Cooldowns
+  level          Displays your Current Information
+  lookup         Displays your Current Information
+  pokebattle     Fights a Pokemon Boss
+  pokeboss       Displays Boss Info
+  pokedex        
+  pokehelp       Pokemon Battle Sim Help
+  ranking        
+  setpokemon     
+  train          Fights Pokemon for XP
+  types          
+MusicPlayer:
+  Radio          Toggles Radio Mode
+  clear          Clears the Queue
+  desc           Decription of the Current playing song
+  extendplaylist Extends a custom playlist
+  join           Joins the Voice channel you are currently in
+  leave          Leaves the Join chat
+  loop           Plays the current song again
+  makeplaylist   Makes a custom playlist for the bot to save
+  music          Returns the current status of the Music Bot
+  playlist       Adds songs from a predefined playlist to the songs list
+  playlists      Shows all the current playlists
+  remove         removes a song from a queue by index
+  search         Searches for a song
+  shuffle        Shuffles the songs in the Queue
+  skip           Skips the Current song
+```
+19 Jan 2017 20:24:09 : LimitlessMc, botchat, TherminatorX#6644, @Wertfuzzy77 AYYY
+19 Jan 2017 20:24:59 : LimitlessMc, botchat, TherminatorX#6644, Now, can you add a response for ;pokedex list, and have that DM?
+19 Jan 2017 20:26:09 : LimitlessMc, botchat, TherminatorX#6644, Because having to do ;pokedex mon just to check if you have one is tedious if you want to look at them all
+19 Jan 2017 20:26:36 : LimitlessMc, botchat, TherminatorX#6644, Still, nice job with moving ;help
+19 Jan 2017 20:34:06 : The Wild Weebs, general, Wertfuzzy77#0274, also, she doesnt like the anime
+19 Jan 2017 20:34:11 : The Wild Weebs, general, Wertfuzzy77#0274, so I think im gonna kill her
+19 Jan 2017 20:34:34 : LimitlessMc, botchat, Wertfuzzy77#0274, I can look into it
+19 Jan 2017 20:35:56 : LimitlessMc, botchat, DanTurboX#4833, ;train
+19 Jan 2017 20:35:56 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 89 **Primeape** for 3505 XP (26% to beat)
+You **Lost** to a Level 9 **Suicune** (90% to beat)
+You **Beat** a Level 1 **Nidoqueen** for 480 XP (90% to beat)
+You **Beat** a Level 62 **Larvesta** for 2941 XP (38% to beat)
+You **Beat** a Level 68 **Virizion** for 3105 XP (35% to beat)
+You **Lost** to a Level 74 **Meditite** (32% to beat)
+You **Beat** a Level 3 **Panpour** for 480 XP (90% to beat)
+You **Lost** to a Level 44 **Munna** (54% to beat)
+You **Lost** to a Level 86 **Donphan** (27% to beat)
+You **Beat** a Level 44 **Cacnea** for 2181 XP (54% to beat)
+You **Beat** a Level 58 **Granbull** for 2813 XP (41% to beat)
+You **Beat** a Level 31 **Kricketune** for 1083 XP (77% to beat)
+You **Lost** to a Level 36 **Krabby** (66% to beat)
+You use a **Lucky Egg** to gain more XP!
+You Find a **Pokeloot** worth 5883 XP
+19 Jan 2017 20:35:56 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 30765 XP!

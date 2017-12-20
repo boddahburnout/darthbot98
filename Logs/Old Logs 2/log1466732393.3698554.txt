@@ -1,0 +1,38 @@
+24 Jun 2016 01:39:55 : LimitlessMc , Wertfuzzy77#0274 , !ev Celebi
+24 Jun 2016 01:39:55 : LimitlessMc , Botfuzzy77#2926 , **``0000	 000000 HP: 00 ATT:  DEF:  SP.ATT:  SP.DEF:  SPEED: 0``**
+24 Jun 2016 01:39:57 : LimitlessMc , Wertfuzzy77#0274 , lol
+24 Jun 2016 01:39:58 : LimitlessMc , Wertfuzzy77#0274 , nope
+24 Jun 2016 01:39:59 : LimitlessMc , ZyroPlayz#3967 , !Kys
+24 Jun 2016 01:40:14 : LimitlessMc , ZyroPlayz#3967 , !kysbotfuzzy
+24 Jun 2016 01:40:17 : LimitlessMc , ZyroPlayz#3967 , it no work
+24 Jun 2016 01:40:21 : LimitlessMc , Wertfuzzy77#0274 , code it really ugly
+24 Jun 2016 01:40:23 : LimitlessMc , Wertfuzzy77#0274 , is *
+24 Jun 2016 01:40:35 : LimitlessMc , Wertfuzzy77#0274 , ```Python
+def find(names):
+    Stats = ["HP", "ATT", "DEF", "SP.ATT", "SP.DEF", "SPEED"]
+    f = open("./Util./" +"PokemonFile.txt", 'r')
+    firstline = f.readline()
+    result = ""
+    for name in names:
+        raw_line = findPokemonEVs(f,name)
+        tabCount = 0
+        count = 1
+        if raw_line != None:
+            for c in raw_line:
+                if c == '\t' and tabCount >= 1 and tabCount < 7:
+                    tabCount += 1
+                    result += " " + Stats[tabCount-2] + ": "
+                elif c == '\t':
+                    tabCount += 1
+                    result += c + " "
+                else:
+                    count += 1 
+                    result += c
+        f = open("./Util./" +"PokemonFile.txt", 'r')
+
+    return result```
+24 Jun 2016 01:40:42 : LimitlessMc , Wertfuzzy77#0274 , dont even remember how it works
+24 Jun 2016 01:40:43 : LimitlessMc , ZyroPlayz#3967 , i have no idea how u do dis bs wert
+24 Jun 2016 01:41:01 : LimitlessMc , Wertfuzzy77#0274 , I have to debug it again :/
+24 Jun 2016 01:41:33 : LimitlessMc , Wertfuzzy77#0274 , !relog
+24 Jun 2016 01:41:33 : LimitlessMc , Botfuzzy77#2926 , Relogging...

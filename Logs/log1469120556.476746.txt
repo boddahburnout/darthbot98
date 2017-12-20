@@ -1,0 +1,14 @@
+21 Jul 2016 17:02:46 : Cipher, general, Wertfuzzy77#0274, I would need access to my source code
+21 Jul 2016 17:02:55 : None, Direct Message with RoyGasm, RoyGasm#7098, ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], "hep?")
+21 Jul 2016 17:02:55 : Cipher, general, Botfuzzy77#2209, hep?
+21 Jul 2016 17:02:55 : None, Direct Message with RoyGasm, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x000001ACC9CF7368>
+```
+21 Jul 2016 17:02:58 : Cipher, general, Calamariela#4119, lol roy abusing the bot lol
+21 Jul 2016 17:03:03 : Cipher, general, Wertfuzzy77#0274, ^
+21 Jul 2016 17:03:03 : Cipher, general, Botfuzzy77#2209, ^
+21 Jul 2016 17:03:11 : Cipher, bot_land, Wertfuzzy77#0274, Hey mean
+21 Jul 2016 17:03:14 : 02Gaming, general, Botfuzzy77#2209, **Wu Tang**(Member) is now Online!
+21 Jul 2016 17:03:17 : Cipher, bot_land, RoyGasm#7098, ;shutdown
+21 Jul 2016 17:03:17 : Cipher, bot_land, Botfuzzy77#2209, Ok :(
+21 Jul 2016 17:03:17 : Cipher, bot_land, Botfuzzy77#2209, Gooodbye cruel world

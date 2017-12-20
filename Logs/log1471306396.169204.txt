@@ -1,0 +1,793 @@
+16 Aug 2016 00:13:20 : Cipher, general, Wertfuzzy77#0274, bug fixes xD
+16 Aug 2016 00:13:25 : Cipher, general, Wertfuzzy77#0274, ;join
+16 Aug 2016 00:13:32 : Cipher, general, Wertfuzzy77#0274, ;playlist Adele Katy 2Cellos WEEB2 Perri GnR SteinsGate WEEB Sheeran Coldplay Dragons Old Blunt Trending2 Bringer GAGA ACDC FUN Cala Maroon nicky Amagi
+16 Aug 2016 00:13:36 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+16 Aug 2016 00:13:40 : Cipher, general, Wertfuzzy77#0274, hey toph
+16 Aug 2016 00:13:50 : The Pleb Privateers, general, enragednuke#2565, my computer is so fast now
+16 Aug 2016 00:13:54 : The Pleb Privateers, general, enragednuke#2565, but i also have nothing installed yet
+16 Aug 2016 00:13:56 : The Pleb Privateers, general, enragednuke#2565, so who knows
+16 Aug 2016 00:14:19 : Cipher, general, Skyd#9935, Have they added ranches back yet?
+16 Aug 2016 00:14:23 : The Pleb Privateers, general, enragednuke#2565, btw @Wertfuzzy77 https://education.github.com/pack
+16 Aug 2016 00:14:28 : Cipher, general, Wertfuzzy77#0274, doubt
+16 Aug 2016 00:14:54 : Cipher, general, Skyd#9935, Why did they even disable them in the first place?
+16 Aug 2016 00:15:11 : LimitlessMc, mainchat, Mystz#8072, prob not
+16 Aug 2016 00:15:19 : The Pleb Privateers, general, enragednuke#2565, the big thin in that is the digitalocean credit
+16 Aug 2016 00:15:30 : The Pleb Privateers, general, enragednuke#2565, which u can use to host your bot remotely so it doesn't have to stayy on your computer
+16 Aug 2016 00:15:33 : The Pleb Privateers, general, enragednuke#2565, but i havent figured out how to do it
+16 Aug 2016 00:15:37 : The Pleb Privateers, general, enragednuke#2565, so if you do lmk :d
+16 Aug 2016 00:15:56 : Cipher, general, Wertfuzzy77#0274, bug prob
+16 Aug 2016 00:16:04 : The Pleb Privateers, general, enragednuke#2565, everything is done via console on the remote stuff
+16 Aug 2016 00:16:11 : The Pleb Privateers, general, enragednuke#2565, i got python and the files installed on it
+16 Aug 2016 00:16:15 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+16 Aug 2016 00:16:20 : The Pleb Privateers, general, enragednuke#2565, but it was yelling at the async stuff that discordpy uses
+16 Aug 2016 00:16:24 : The Pleb Privateers, general, enragednuke#2565, so
+16 Aug 2016 00:16:43 : Cipher, general, Wertfuzzy77#0274, bot still adding music xD going strong
+16 Aug 2016 00:17:39 : Cipher, general, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+16 Aug 2016 00:18:10 : Cipher, general, Wertfuzzy77#0274, yaaa
+16 Aug 2016 00:18:14 : Cipher, general, Wertfuzzy77#0274, ;shuffle
+16 Aug 2016 00:18:15 : Cipher, general, Botfuzzy77#2209, Shuffling songs...
+16 Aug 2016 00:18:16 : Cipher, general, Wertfuzzy77#0274, ;songs
+16 Aug 2016 00:18:16 : Cipher, general, Botfuzzy77#2209, **The Following songs are in the Queue, plus [106] more**
+16 Aug 2016 00:18:26 : Cipher, general, Wertfuzzy77#0274, xD yup @Calamariela  8+ hours
+16 Aug 2016 00:18:38 : Cipher, general, Wertfuzzy77#0274, and Anime weeb song in the first 5 lol
+16 Aug 2016 00:18:45 : Cipher, general, Calamariela#4119, You're a nub xD
+16 Aug 2016 00:18:48 : Cipher, general, Wertfuzzy77#0274, si
+16 Aug 2016 00:18:52 : Cipher, general, Botfuzzy77#2209, **Skyd**(Champ) is now Offline!
+16 Aug 2016 00:19:04 : Cipher, general, Wertfuzzy77#0274, lets listen to all of it xD
+16 Aug 2016 00:19:07 : Cipher, general, Wertfuzzy77#0274, i believe
+16 Aug 2016 00:19:52 : LimitlessMc, mainchat, Cadenv02#5437, CHANDELUR ARE SO AIDS TO TRY AND BATTLE
+16 Aug 2016 00:20:05 : Cipher, general, Wertfuzzy77#0274, so about 4:45 AM
+16 Aug 2016 00:20:09 : Cipher, general, Wertfuzzy77#0274, i can do that lol
+16 Aug 2016 00:20:25 : LimitlessMc, mainchat, Wertfuzzy77#0274, caps
+16 Aug 2016 00:21:04 : Cipher, general, Calamariela#4119, Yeah idk about that lol
+16 Aug 2016 00:21:16 : Cipher, general, Wertfuzzy77#0274, lol, just skip some bad ones
+16 Aug 2016 00:21:21 : Cipher, general, Wertfuzzy77#0274, we can make it to the end
+16 Aug 2016 00:21:54 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Yuki-chan**(bot) is now Offline!
+16 Aug 2016 00:22:14 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Yuki-chan**(bot) is now Online!
+16 Aug 2016 00:22:21 : Cipher, general, Wertfuzzy77#0274, I wonder if I could make a ;DJ where it just pulls random songs from random playlists, and continuesly plays
+16 Aug 2016 00:22:31 : Cipher, general, Wertfuzzy77#0274, shouldnt be too hard
+16 Aug 2016 00:22:50 : Cipher, general, Wertfuzzy77#0274, ;viewplaylist WEEB
+16 Aug 2016 00:22:51 : Cipher, general, Botfuzzy77#2209, ['Thread-127 <https://www.youtube.com/watch?v=kuNixp-wvWM>']
+16 Aug 2016 00:22:56 : Cipher, general, Wertfuzzy77#0274, ew still doesnt work
+16 Aug 2016 00:24:29 : Cipher, general, Calamariela#4119, Yeah imma skip all of yours xD
+16 Aug 2016 00:24:47 : Cipher, general, Wertfuzzy77#0274, great lol
+16 Aug 2016 00:24:52 : Cipher, general, Wertfuzzy77#0274, thats like most of em
+16 Aug 2016 00:24:59 : Cipher, general, Wertfuzzy77#0274, considering I use the bot the most xD
+16 Aug 2016 00:25:12 : Cipher, general, Wertfuzzy77#0274, ;song
+16 Aug 2016 00:25:13 : Cipher, general, Botfuzzy77#2209, ```Name: Lukas Graham -  7 Years [OFFICIAL MUSIC VIDEO]
+URL: <https://www.youtube.com/watch?v=LHCob76kigA>
+Time: 0:03:59
+Views: 332,945,935
+Likes: 2,013,741, 97.23%
+Dislikes: 57,279, 2.77%
+```
+16 Aug 2016 00:25:17 : Cipher, general, Wertfuzzy77#0274, I kinda like this
+16 Aug 2016 00:26:05 : Cipher, general, Wertfuzzy77#0274, oh, and My godly coding roomate may have found a way for me to have my bot run offline, like when im not online
+16 Aug 2016 00:26:27 : Cipher, general, Calamariela#4119, Yay nerds xD
+16 Aug 2016 00:27:21 : Cipher, general, Wertfuzzy77#0274, gives me access to a cloud storage
+16 Aug 2016 00:27:58 : The Pleb Privateers, general, enragednuke#2565, @I AM SPEED I AM SPEED
+16 Aug 2016 00:28:10 : The Pleb Privateers, general, Spaceman659#9068, I AM SPEED
+16 Aug 2016 00:28:18 : LimitlessMc, mainchat, Cadenv02#5437, how much is a good price to buy an articuno shrine for?
+16 Aug 2016 00:30:41 : LimitlessMc, mainchat, Cadenv02#5437, ?
+16 Aug 2016 00:30:49 : Gang ;), general, Botfuzzy77#2209, **Olivia**(Staff/Guild Leaders) is now Online!
+16 Aug 2016 00:31:37 : LimitlessMc, mainchat, Mystz#8072, dont know
+16 Aug 2016 00:31:38 : LimitlessMc, mainchat, Mystz#8072, free
+16 Aug 2016 00:31:41 : Cipher, general, Wertfuzzy77#0274, ill have access to it for 10 months
+16 Aug 2016 00:32:22 : Gang ;), general, Botfuzzy77#2209, **TheGoose25**(Cunt) is now Offline!
+16 Aug 2016 00:32:34 : The Pleb Privateers, general, Wertfuzzy77#0274, only get it for 10 months tho right? with the 5/month package and the free $50 credit
+16 Aug 2016 00:32:49 : Gang ;), general, Botfuzzy77#2209, **Olivia**(Staff/Guild Leaders) is now Offline!
+16 Aug 2016 00:32:56 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Dong Ding**(Children of The Raw Man) is now Online!
+16 Aug 2016 00:33:36 : Cipher, general, Calamariela#4119, Ew cloud storage
+16 Aug 2016 00:33:38 : Cipher, general, Calamariela#4119, XD
+16 Aug 2016 00:33:51 : Cipher, general, Wertfuzzy77#0274, ```Unreal Engine
+A complete suite of game development tools for PC, console, mobile, web and VR
+
+DETAILS Unreal Engine while you're a student```
+16 Aug 2016 00:33:54 : Cipher, general, Wertfuzzy77#0274, lol cool
+16 Aug 2016 00:33:59 : League Of Legends, general, Botfuzzy77#2209, **Legit_0reo**(Security) is now Online!
+16 Aug 2016 00:34:16 : Cipher, general, Wertfuzzy77#0274, Unreal engine is what all the cool new games use
+16 Aug 2016 00:34:29 : Cipher, general, Botfuzzy77#2209, **MGirard**(Grunt) is now Online!
+16 Aug 2016 00:34:39 : Cipher, general, Calamariela#4119, I really wanna play starbound with you lok
+16 Aug 2016 00:34:49 : Cipher, general, Wertfuzzy77#0274, lol, then get a steam account and join me
+16 Aug 2016 00:35:03 : Cipher, general, Calamariela#4119, No moneys to get starbound lol
+16 Aug 2016 00:35:39 : LimitlessMc, mainchat, Okas_Ls_13 (George)#6283, is this the pixelmon chat?
+16 Aug 2016 00:35:57 : Cipher, general, Wertfuzzy77#0274, WEEEEb
+16 Aug 2016 00:36:04 : Cipher, general, Wertfuzzy77#0274, ;funify WEEB
+16 Aug 2016 00:36:04 : Cipher, general, Botfuzzy77#2209, WWeEE+bb
+16 Aug 2016 00:36:07 : Cipher, general, Wertfuzzy77#0274, ^
+16 Aug 2016 00:36:07 : Cipher, general, Botfuzzy77#2209, ^
+16 Aug 2016 00:36:21 : Cipher, cala, Wertfuzzy77#0274, How much was it again?
+16 Aug 2016 00:36:25 : Cipher, cala, Wertfuzzy77#0274, $15?
+16 Aug 2016 00:36:41 : LimitlessMc, mainchat, Mystz#8072, yes
+16 Aug 2016 00:36:46 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Gilles**(Nazi) is now Offline!
+16 Aug 2016 00:37:23 : Cipher, general, Calamariela#4119, Noooo
+16 Aug 2016 00:37:26 : Cipher, general, Calamariela#4119, Play it againnnn
+16 Aug 2016 00:37:31 : Cipher, general, Calamariela#4119, I was in the other rooommm
+16 Aug 2016 00:37:32 : Cipher, general, Wertfuzzy77#0274, xD right
+16 Aug 2016 00:37:34 : LimitlessMc, mainchat, Okas_Ls_13 (George)#6283, i need to talk to a staff
+16 Aug 2016 00:37:34 : Cipher, general, Wertfuzzy77#0274, sux
+16 Aug 2016 00:37:38 : Cipher, general, Wertfuzzy77#0274, ;playlist WEEB
+16 Aug 2016 00:37:39 : Cipher, general, Calamariela#4119, I didn't gt to hear it
+16 Aug 2016 00:37:39 : Cipher, general, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+16 Aug 2016 00:37:41 : LimitlessMc, mainchat, RockedYou#4125, ask dephy
+16 Aug 2016 00:37:43 : Cipher, general, Calamariela#4119, Yay
+16 Aug 2016 00:37:44 : Cipher, general, Wertfuzzy77#0274, ;shuffle
+16 Aug 2016 00:37:44 : Cipher, general, Botfuzzy77#2209, Shuffling songs...
+16 Aug 2016 00:37:45 : Cipher, general, Wertfuzzy77#0274, ;songs
+16 Aug 2016 00:37:45 : Cipher, general, Botfuzzy77#2209, **The Following songs are in the Queue, plus [101] more**
+16 Aug 2016 00:37:45 : Cipher, general, Botfuzzy77#2209, Green Day - American Idiot [OFFICIAL VIDEO] (https://www.youtube.com/watch?v=Ee_uujKuJMI)
+Mike Posner - I Took A Pill In Ibiza (SeeB Remix) (https://www.youtube.com/watch?v=u3VFzuUiTGw)
+James Blunt - You're Beautiful (Video) (https://www.youtube.com/watch?v=oofSnsGkops)
+AC/DC - Thunderstruck (https://www.youtube.com/watch?v=v2AC41dglnM)
+Christina Perri - A Thousand Years [Official Music Video] (https://www.youtube.com/watch?v=rtOvBOTyX00)
+Kevin Lyttle Turn Me On Lyrics (https://www.youtube.com/watch?v=lzk58JedcDU)
+DNCE - Cake By The Ocean (Lyric) (https://www.youtube.com/watch?v=PAzH-YAlFYc)
+Anata No Eranda Kono Toki Wo-Itao Kanako (https://www.youtube.com/watch?v=q0hdTbqMICw)
+The Eagles - Hotel California   (High Quality) (https://www.youtube.com/watch?v=lHje9w7Ev4U)
+Calvin Harris - This Is What You Came For (Official Video) ft. Rihanna (https://www.youtube.com/watch?v=kOkQ4T5WO9E)
+Total Time is 8:18:25
+16 Aug 2016 00:37:48 : Cipher, general, Wertfuzzy77#0274, ;shuffle
+16 Aug 2016 00:37:48 : Cipher, general, Botfuzzy77#2209, Shuffling songs...
+16 Aug 2016 00:37:49 : Cipher, general, Wertfuzzy77#0274, ;songs
+16 Aug 2016 00:37:49 : Cipher, general, Botfuzzy77#2209, **The Following songs are in the Queue, plus [101] more**
+16 Aug 2016 00:37:50 : Cipher, general, Botfuzzy77#2209, Ed Sheeran - Thinking Out Loud [Official Video] (https://www.youtube.com/watch?v=lp-EO5I60KA)
+JACK AND DIANE john mellencamp [Lyrics!!] (https://www.youtube.com/watch?v=feeHTm-dYGg)
+Imagine Dragons - Demons (Official) (https://www.youtube.com/watch?v=mWRsgZuwf_8)
+Coldplay - Adventure Of A Lifetime (Official video) (https://www.youtube.com/watch?v=QtXby3twMmI)
+Murakami Jun - Farewell (STEINS;GATE OST) [Best Song In Anime]{2} (https://www.youtube.com/watch?v=ZBLk_NKc_H8)
+Tom Odell - Magnetised (Official Video) (https://www.youtube.com/watch?v=4fgzu9Fo66Y)
+Kiiara - Gold Lyrics HD (https://www.youtube.com/watch?v=AkA_dCLpm1M)
+AC/DC - Highway to Hell (https://www.youtube.com/watch?v=gEPmA3USJdI)
+Kings Of Leon - Use Somebody (Official Video) (https://www.youtube.com/watch?v=gnhXHvRoUd0)
+LADY GAGA FT. BEYONCE - TELEPHONE (LYRICS! on screen) (https://www.youtube.com/watch?v=rQOmZ3UhEXc)
+Total Time is 8:18:25
+16 Aug 2016 00:37:53 : Cipher, general, Wertfuzzy77#0274, ;shuffle
+16 Aug 2016 00:37:53 : Cipher, general, Botfuzzy77#2209, Shuffling songs...
+16 Aug 2016 00:37:55 : Cipher, general, Wertfuzzy77#0274, ;songs
+16 Aug 2016 00:37:55 : Cipher, general, Botfuzzy77#2209, **The Following songs are in the Queue, plus [101] more**
+16 Aug 2016 00:37:55 : Cipher, general, Botfuzzy77#2209, Sweet Home Alabama Lynyrd Skynyrd (https://www.youtube.com/watch?v=-Du-CWASm20)
+Maroon 5 - Moves Like Jagger ft. Christina Aguilera (https://www.youtube.com/watch?v=iEPTlhBmwRg)
+Muse - Uprising [Official Video] (https://www.youtube.com/watch?v=w8KQmps-Sog)
+Steins;Gate OP full ~ Hacking to the Gate (https://www.youtube.com/watch?v=-lkH-uMZVY4)
+Kungs vs Cookin’ on 3 Burners - This Girl (https://www.youtube.com/watch?v=2Y6Nne8RvaA)
+Amadeus - Steins;Gate 0 OP Single - 02.Amadeus (https://www.youtube.com/watch?v=jn5X2PCxVBU)
+Adele - Rolling in the Deep (https://www.youtube.com/watch?v=rYEDA3JcQqw)
+Don McLean- American Pie (with Lyrics) (https://www.youtube.com/watch?v=uAsV5-Hv-7U)
+Imagine Dragons - Radioactive (https://www.youtube.com/watch?v=ktvTqknDobU)
+Def Leppard - Pour Some Sugar On Me (lyrics) (https://www.youtube.com/watch?v=RaG8faaFUMM)
+Total Time is 8:18:25
+16 Aug 2016 00:37:57 : Cipher, general, Calamariela#4119, Spammmm
+16 Aug 2016 00:37:57 : Cipher, general, Wertfuzzy77#0274, ;shuffle
+16 Aug 2016 00:37:57 : Cipher, general, Botfuzzy77#2209, Shuffling songs...
+16 Aug 2016 00:38:00 : Cipher, general, Wertfuzzy77#0274, ;songs
+16 Aug 2016 00:38:00 : Cipher, general, Botfuzzy77#2209, **The Following songs are in the Queue, plus [101] more**
+16 Aug 2016 00:38:01 : Cipher, general, Wertfuzzy77#0274, chill
+16 Aug 2016 00:38:03 : LimitlessMc, mainchat, Okas_Ls_13 (George)#6283, she an admin or high rank?
+16 Aug 2016 00:38:04 : Cipher, general, Calamariela#4119, Oi
+16 Aug 2016 00:38:04 : Cipher, general, Wertfuzzy77#0274, ;shuffle
+16 Aug 2016 00:38:04 : Cipher, general, Botfuzzy77#2209, Shuffling songs...
+16 Aug 2016 00:38:07 : Cipher, general, Wertfuzzy77#0274, ;songs
+16 Aug 2016 00:38:07 : Cipher, general, Botfuzzy77#2209, **The Following songs are in the Queue, plus [101] more**
+16 Aug 2016 00:38:07 : Cipher, general, Botfuzzy77#2209, Alvaro Soler - Sofia (https://www.youtube.com/watch?v=qaZ0oAh4evU)
+Lady Gaga - Bad Romance (https://www.youtube.com/watch?v=qrO4YZeyl0I)
+Murakami Jun - Farewell (STEINS;GATE OST) [Best Song In Anime]{2} (https://www.youtube.com/watch?v=ZBLk_NKc_H8)
+OST Steins;Gate - Promise (Al's Choice) #1 (https://www.youtube.com/watch?v=a-SR26Kuvi8)
+Anata No Eranda Kono Toki Wo-Itao Kanako (https://www.youtube.com/watch?v=q0hdTbqMICw)
+Maroon 5 - Moves Like Jagger ft. Christina Aguilera (https://www.youtube.com/watch?v=iEPTlhBmwRg)
+Adele - Someone Like You (https://www.youtube.com/watch?v=hLQl3WQQoQ0)
+Lady Gaga - Poker Face (https://www.youtube.com/watch?v=bESGLojNYSo)
+Adele - Rolling in the Deep (https://www.youtube.com/watch?v=rYEDA3JcQqw)
+Maroon 5 - Payphone (Explicit) ft. Wiz Khalifa (https://www.youtube.com/watch?v=KRaWnd3LJfs)
+Total Time is 8:18:25
+16 Aug 2016 00:38:09 : Cipher, general, Calamariela#4119, Buttface
+16 Aug 2016 00:38:11 : LimitlessMc, mainchat, RockedYou#4125, princess
+16 Aug 2016 00:38:11 : Cipher, general, Calamariela#4119, Quit
+16 Aug 2016 00:38:13 : Cipher, general, Calamariela#4119, XD
+16 Aug 2016 00:38:16 : LimitlessMc, mainchat, RockedYou#4125, is what she is
+16 Aug 2016 00:38:16 : Cipher, general, Wertfuzzy77#0274, I want to get it in the top 10 atleast xD
+16 Aug 2016 00:38:20 : Cipher, general, Wertfuzzy77#0274, alright fine lol
+16 Aug 2016 00:38:21 : Cipher, general, Calamariela#4119, XD
+16 Aug 2016 00:38:31 : LimitlessMc, mainchat, Wertfuzzy77#0274, ^
+16 Aug 2016 00:39:23 : LimitlessMc, mainchat, RockedYou#4125, Depthy Has super Baller Status
+16 Aug 2016 00:39:46 : LimitlessMc, mainchat, Mystz#8072, co owner
+16 Aug 2016 00:40:43 : Cipher, general, Wertfuzzy77#0274, lol, do you even know anything about starbound xD
+16 Aug 2016 00:40:54 : LimitlessMc, mainchat, Wertfuzzy77#0274, ^
+16 Aug 2016 00:41:14 : LimitlessMc, mainchat, Wertfuzzy77#0274, I thought we decided Depthy was the CEO of Limitless Inc
+16 Aug 2016 00:41:19 : LimitlessMc, mainchat, Wertfuzzy77#0274, with jay owner
+16 Aug 2016 00:41:20 : LimitlessMc, mainchat, Mystz#8072, o yea my b
+16 Aug 2016 00:41:23 : LimitlessMc, mainchat, Mystz#8072, business partners
+16 Aug 2016 00:41:27 : League Of Legends, general, Botfuzzy77#2209, **TheLast1Alive**(Security) is now Online!
+16 Aug 2016 00:41:32 : LimitlessMc, mainchat, Wertfuzzy77#0274, gilly was Chairman I think
+16 Aug 2016 00:41:58 : LimitlessMc, mainchat, Mystz#8072, i just wtb gamemode lmao
+16 Aug 2016 00:42:13 : Cipher, general, Calamariela#4119, Nope!
+16 Aug 2016 00:42:19 : Cipher, general, Wertfuzzy77#0274, lol
+16 Aug 2016 00:42:49 : Cipher, general, Wertfuzzy77#0274, read about it lol http://store.steampowered.com/app/211820/
+16 Aug 2016 00:42:55 : Cipher, general, Wertfuzzy77#0274, how do you even know you want to play it with me xD
+16 Aug 2016 00:43:08 : LimitlessMc, mainchat, Wertfuzzy77#0274, same
+16 Aug 2016 00:43:14 : Cipher, general, Calamariela#4119, Because I will try anything
+16 Aug 2016 00:43:41 : LimitlessMc, mainchat, Mystz#8072, depthy can continue to kill srbr but if i have gm i am happy
+16 Aug 2016 00:43:42 : LimitlessMc, mainchat, Wertfuzzy77#0274, like just to help people who keeps asking me to do things xD im going to continue building my house in survival
+16 Aug 2016 00:43:54 : Cipher, general, Calamariela#4119, Omg this song xD yesss so old
+16 Aug 2016 00:44:02 : Cipher, general, Wertfuzzy77#0274, yeah lol
+16 Aug 2016 00:44:04 : Cipher, general, Wertfuzzy77#0274, rara
+16 Aug 2016 00:44:13 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Stormzzzy**(Popes of The Raw Man) is now Online!
+16 Aug 2016 00:44:16 : Cipher, general, Wertfuzzy77#0274, gaga
+16 Aug 2016 00:44:18 : Cipher, general, Wertfuzzy77#0274, o lala
+16 Aug 2016 00:44:32 : Cipher, general, Calamariela#4119, I don't want your disease xD
+16 Aug 2016 00:44:34 : LimitlessMc, mainchat, Wertfuzzy77#0274, you just want to to do random things xD
+16 Aug 2016 00:44:35 : LimitlessMc, mainchat, Wertfuzzy77#0274, nub
+16 Aug 2016 00:44:50 : League Of Legends, general, Botfuzzy77#2209, **TheLast1Alive**(Security) is now Offline!
+16 Aug 2016 00:45:07 : LimitlessMc, mainchat, Mystz#8072, na is just more satisifying then running around in survival with god
+16 Aug 2016 00:45:12 : LimitlessMc, mainchat, Mystz#8072, not like im going to play srbr forreal either way lmao
+16 Aug 2016 00:45:15 : Cipher, general, Calamariela#4119, Bad romance heh
+16 Aug 2016 00:46:48 : LimitlessMc, mainchat, LilAres#4141, @depthy  halp in voice chat man needs pc persson smarts
+16 Aug 2016 00:46:51 : Cipher, pictures, Wertfuzzy77#0274, These are randomly Generated Structures
+16 Aug 2016 00:46:53 : Cipher, pictures, Wertfuzzy77#0274, @Calamariela ^
+16 Aug 2016 00:47:06 : Cipher, pictures, Wertfuzzy77#0274, Many many different things on many different types of planets
+16 Aug 2016 00:47:06 : LimitlessMc, mainchat, Mystz#8072, le/
+16 Aug 2016 00:47:28 : Cipher, pictures, Wertfuzzy77#0274, I have yet to find one of these tho
+16 Aug 2016 00:47:40 : Cipher, pictures, Wertfuzzy77#0274, havnt really explored many frozen planets lol
+16 Aug 2016 00:47:48 : LimitlessMc, mainchat, depthy#3405, not getting on voicechat
+16 Aug 2016 00:47:50 : LimitlessMc, mainchat, depthy#3405, sorr @LilAres
+16 Aug 2016 00:48:00 : Cipher, pictures, Wertfuzzy77#0274, But the whole game is based off of space exploration
+16 Aug 2016 00:48:12 : LimitlessMc, mainchat, Stormzzzy#3051, can u help me @depthy
+16 Aug 2016 00:48:19 : LimitlessMc, mainchat, depthy#3405, with?
+16 Aug 2016 00:48:33 : LimitlessMc, mainchat, Stormzzzy#3051, that
+16 Aug 2016 00:48:38 : LimitlessMc, mainchat, depthy#3405, ugh type out the details and I'll see what I can do
+16 Aug 2016 00:48:45 : LimitlessMc, mainchat, Stormzzzy#3051, ok
+16 Aug 2016 00:49:22 : Cipher, general, Calamariela#4119, ;song
+16 Aug 2016 00:49:22 : Cipher, general, Botfuzzy77#2209, ```Name: Murakami Jun - Farewell (STEINS;GATE OST) [Best Song In Anime]{2}
+URL: <https://www.youtube.com/watch?v=ZBLk_NKc_H8>
+Time: 0:02:34
+Views: 72,237
+Likes: 555, 99.28%
+Dislikes: 4, 0.72%
+```
+16 Aug 2016 00:49:37 : LimitlessMc, mainchat, Stormzzzy#3051, the adapter is a mad catz wireless gaming adapter, it didn't come with instructions so ive been trying to make it work for about 2 hours now and i have gotten no progress
+16 Aug 2016 00:49:38 : Cipher, general, Calamariela#4119, Si sad songs all from steins gate
+16 Aug 2016 00:49:55 : Cipher, general, Wertfuzzy77#0274, yup lol
+16 Aug 2016 00:50:05 : Cipher, cala, Wertfuzzy77#0274, @Calamariela  need to go check flights, brb
+16 Aug 2016 00:50:11 : LimitlessMc, mainchat, Mystz#8072, prob is isp related shit
+16 Aug 2016 00:50:16 : LimitlessMc, mainchat, Mystz#8072, almost bet
+16 Aug 2016 00:50:47 : Cipher, general, Calamariela#4119, Reuben and I danced to bad romance xD
+16 Aug 2016 00:50:53 : Cipher, general, Calamariela#4119, He was so cute
+16 Aug 2016 00:52:29 : Cipher, general, MGirard#3037, Starbound is fun... presumably. I haven't played much since the 1.0 patch. My friends don't seem interested.
+16 Aug 2016 00:53:40 : Cipher, general, Botfuzzy77#2209, **MGirard**(Grunt) is now Offline!
+16 Aug 2016 00:56:18 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Schauda**(Priests of The Raw Man) is now Online!
+16 Aug 2016 00:57:56 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+16 Aug 2016 01:00:38 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+16 Aug 2016 01:07:59 : Cipher, pictures, Calamariela#4119, Interesting
+16 Aug 2016 01:09:16 : Cipher, cala, Calamariela#4119, Okay
+16 Aug 2016 01:09:25 : Cipher, cala, Calamariela#4119, Sorry I was doing something
+16 Aug 2016 01:12:02 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:14:47 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Dong Ding**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:16:39 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+16 Aug 2016 01:17:23 : My Personal Server, general, Botfuzzy77#2209, **Techni**(Member) is now Online!
+16 Aug 2016 01:20:33 : Gang ;), general, Botfuzzy77#2209, **Olivia**(Staff/Guild Leaders) is now Online!
+16 Aug 2016 01:21:15 : Cipher, pictures, Topheralan#1202, I hear that game has a lot of procedurally generated stuff.
+16 Aug 2016 01:21:44 : Cipher, general, Sir_Blazer#6755, so /guild is back
+16 Aug 2016 01:21:59 : Cipher, general, Sir_Blazer#6755, did @Godfuzzy77  already recreate Cipher?
+16 Aug 2016 01:22:47 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+16 Aug 2016 01:23:18 : Cipher, general, Botfuzzy77#2209, **Calamariela**(Officer) is now Offline!
+16 Aug 2016 01:23:39 : Gang ;), general, Botfuzzy77#2209, **Olivia**(Staff/Guild Leaders) is now Offline!
+16 Aug 2016 01:23:58 : Cipher, general, Botfuzzy77#2209, **Calamariela**(Officer) is now Online!
+16 Aug 2016 01:25:23 : The Pleb Privateers, coding, enragednuke#2565, @rahaun @\//\ @Wertfuzzy77 make sure you sign up for a move-in time, they opened today
+16 Aug 2016 01:25:49 : The Pleb Privateers, coding, enragednuke#2565, also the semester payment is due the 19th
+16 Aug 2016 01:26:33 : Gang ;), general, Botfuzzy77#2209, **xPalkia(lugia)**(Disaster Pokemon) is now Online!
+16 Aug 2016 01:26:46 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:27:26 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:27:29 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:27:39 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:27:49 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:27:59 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:28:09 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:28:16 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:28:19 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:28:29 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:28:39 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:28:49 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:28:59 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:29:09 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:29:19 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:29:29 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:29:39 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:29:49 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:29:59 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:30:09 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:30:19 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:30:24 : My Personal Server, general, Botfuzzy77#2209, **Techni**(Member) is now Offline!
+16 Aug 2016 01:30:29 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:30:39 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:30:49 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:30:57 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Offline!
+16 Aug 2016 01:30:59 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:31:09 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:31:19 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:31:29 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:31:39 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:31:49 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:31:59 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:32:09 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:32:17 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Dong Ding**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:32:19 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:32:29 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:32:39 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:32:49 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:32:59 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:33:09 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:33:19 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:33:29 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:33:39 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:33:49 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:33:59 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:34:09 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:34:19 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:34:29 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:34:39 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:34:47 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **suc killer**(Children of The Raw Man) is now Offline!
+16 Aug 2016 01:34:49 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:34:59 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:35:05 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+16 Aug 2016 01:35:05 : GreenHillGang, general, Botfuzzy77#2209, **Wertfuzzy77**(No Role) is now Online!
+16 Aug 2016 01:35:09 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:35:19 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:35:29 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:35:39 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:35:49 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:35:59 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:36:09 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:36:19 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:36:25 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **suc killer**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:36:29 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:36:39 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:36:49 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:36:59 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:37:09 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:37:19 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:37:29 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:37:39 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:37:49 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:37:59 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:38:09 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:38:19 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:38:29 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:38:39 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:38:49 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:38:59 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:39:09 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:39:19 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:39:29 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:41:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **suc killer**(Children of The Raw Man) is now Offline!
+16 Aug 2016 01:42:23 : Cipher, general, Botfuzzy77#2209, **MGirard**(Grunt) is now Online!
+16 Aug 2016 01:42:41 : Cipher, general, Calamariela#4119, Noooo bot
+16 Aug 2016 01:43:03 : Cipher, general, Calamariela#4119, ;song
+16 Aug 2016 01:43:06 : Gang ;), general, Botfuzzy77#2209, **Olivia**(Staff/Guild Leaders) is now Online!
+16 Aug 2016 01:43:27 : Cipher, general, Calamariela#4119, Oh gawd xD
+16 Aug 2016 01:44:27 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **suc killer**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:44:47 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:46:26 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **suc killer**(Children of The Raw Man) is now Offline!
+16 Aug 2016 01:49:17 : League Of Legends, general, Botfuzzy77#2209, **TheLast1Alive**(Security) is now Online!
+16 Aug 2016 01:51:59 : League Of Legends, general, Botfuzzy77#2209, **TheLast1Alive**(Security) is now Offline!
+16 Aug 2016 01:56:03 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:56:09 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:56:19 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:56:29 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:56:39 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:56:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:57:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:57:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:57:11 : League Of Legends, general, Botfuzzy77#2209, **Anarchy**(Officer) is now Online!
+16 Aug 2016 01:57:19 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:57:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:57:34 : League Of Legends, general, Botfuzzy77#2209, **Anarchy**(Officer) is now Online!
+16 Aug 2016 01:57:40 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:57:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:57:59 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:58:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:58:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:58:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:58:40 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:58:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:58:59 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:59:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:59:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:59:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:59:40 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 01:59:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:00:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:00:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:00:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:00:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:00:41 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:00:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:01:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:01:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:01:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:01:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:01:40 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:01:47 : Cipher, general, Botfuzzy77#2209, **MGirard**(Grunt) is now Online!
+16 Aug 2016 02:01:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:02:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:02:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:02:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:02:22 : LimitlessMc, mainchat, Bringer#7277, rip server
+16 Aug 2016 02:02:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:02:37 : My Personal Server, general, Botfuzzy77#2209, **Techni**(Member) is now Online!
+16 Aug 2016 02:02:40 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:02:50 : League Of Legends, general, Botfuzzy77#2209, **Legit_0reo**(Security) is now Online!
+16 Aug 2016 02:02:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:03:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:03:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:03:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:03:24 : My Personal Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Offline!
+16 Aug 2016 02:03:24 : 02Gaming, general, Botfuzzy77#2209, **LightShadow**(Guide) is now Offline!
+16 Aug 2016 02:03:24 : Temp Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Offline!
+16 Aug 2016 02:03:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:03:40 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:03:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:04:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:04:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:04:16 : LimitlessMc, mainchat, Jay113355#4999, You plug it in
+16 Aug 2016 02:04:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:04:25 : LimitlessMc, mainchat, Zamary#4025, im lost
+16 Aug 2016 02:04:27 : LimitlessMc, mainchat, Zamary#4025, start again
+16 Aug 2016 02:04:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:04:40 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:04:48 : LimitlessMc, mainchat, Mank#0033, por que srbr down
+16 Aug 2016 02:04:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:04:57 : GreenHillGang, general, Botfuzzy77#2209, **Wertfuzzy77**(No Role) is now Online!
+16 Aug 2016 02:04:57 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+16 Aug 2016 02:05:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:05:03 : LimitlessMc, mainchat, Pokken#0986, hard
+16 Aug 2016 02:05:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:05:13 : LimitlessMc, mainchat, Mank#0033, le
+16 Aug 2016 02:05:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:05:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:05:40 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:05:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:05:51 : LimitlessMc, mainchat, AnishaLunarAngel#5926, back up
+16 Aug 2016 02:06:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:06:05 : LimitlessMc, mainchat, MGirard#3037, Okay, I was just flying through a jungle when my skarmory disappeared from under me, nearly killing me. I couldn't throw it back out, so I relogged. Upon relogging, it was replaced by a level 1 marill with 3IVs .
+16 Aug 2016 02:06:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:06:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:06:27 : LimitlessMc, mainchat, Mank#0033, bugz fer deyz
+16 Aug 2016 02:06:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:06:40 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:06:48 : League Of Legends, general, Botfuzzy77#2209, **Legit_0reo**(Security) is now Online!
+16 Aug 2016 02:06:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:06:55 : LimitlessMc, mainchat, depthy#3405, jjay h8s me
+16 Aug 2016 02:07:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:07:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:07:13 : LimitlessMc, mainchat, depthy#3405, he restarted serber just as I found a shiny mr.mime
+16 Aug 2016 02:07:14 : LimitlessMc, mainchat, depthy#3405, kri
+16 Aug 2016 02:07:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:07:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:07:34 : LimitlessMc, mainchat, Mystz#8072, fucking j
+16 Aug 2016 02:07:40 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:07:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:08:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:08:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:08:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:08:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:08:40 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:08:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:08:51 : LimitlessMc, mainchat, Mank#0033, same
+16 Aug 2016 02:09:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:09:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:09:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:09:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:09:40 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:09:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:10:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:10:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:10:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:10:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:10:40 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:10:40 : Cipher, general, Calamariela#4119, ;server
+16 Aug 2016 02:10:41 : Cipher, general, Botfuzzy77#2209, **Server IP**: 23.111.129.82
+16 Aug 2016 02:10:41 : Cipher, general, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 63 players out of 100
+ *Ping*: 135.543 ms
+ *MC Version*: 1.10.2
+16 Aug 2016 02:10:41 : Cipher, general, Botfuzzy77#2209, **Players Online**:
+ *GrayNinja, nightmares212, HockeyBoss9910, _DerpyJess_, OhLiveYa, DarkSoulForever, Burnsy82, LilAres, Kiarigal, ChiranPlayzzMC, NiNjA_1298, MankHD...*
+16 Aug 2016 02:10:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:10:52 : Cipher, general, Sir_Blazer#6755, we can craft ranch blocks again
+16 Aug 2016 02:11:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:11:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:11:15 : Cipher, general, Calamariela#4119, Yayy xD
+16 Aug 2016 02:11:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:11:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:11:40 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:11:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:12:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:12:03 : League Of Legends, general, Botfuzzy77#2209, **Legit_0reo**(Security) is now Offline!
+16 Aug 2016 02:12:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:12:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:12:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:12:40 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:12:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:13:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:13:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:13:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:13:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:13:33 : League Of Legends, general, Botfuzzy77#2209, **Legit_0reo**(Security) is now Online!
+16 Aug 2016 02:13:40 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:13:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:14:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:14:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:14:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:14:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:14:34 : My Personal Server, general, Botfuzzy77#2209, **Techni**(Member) is now Offline!
+16 Aug 2016 02:14:40 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:14:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:15:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:15:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:15:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:15:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:15:33 : League Of Legends, general, Botfuzzy77#2209, **Legit_0reo**(Security) is now Offline!
+16 Aug 2016 02:15:40 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:15:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:15:52 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Stormzzzy**(Popes of The Raw Man) is now Offline!
+16 Aug 2016 02:16:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:16:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:16:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:16:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:16:40 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:16:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:16:51 : LimitlessMc, mainchat, MGirard#3037, Anybody capable of replacing the Skarmory? About level 58, moves were Fly, Spikes, Steel Wing, Roost, it had the Weak Armor hidden ability, and I don't know what nature it was.
+16 Aug 2016 02:17:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:17:07 : LimitlessMc, mainchat, Pokken#0986, dicks hard for harambe
+16 Aug 2016 02:17:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:17:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:17:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:17:33 : LimitlessMc, mainchat, Mank#0033, Pokken: dicks hard for staff
+16 Aug 2016 02:17:38 : LimitlessMc, mainchat, Mank#0033, cuz hes a kiss ass
+16 Aug 2016 02:17:40 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:17:50 : LimitlessMc, mainchat, Pokken#0986, Mank when did you want me to kiss your ass again?
+16 Aug 2016 02:17:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:17:55 : LimitlessMc, mainchat, Pokken#0986, 10am tonight?
+16 Aug 2016 02:18:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:18:04 : LimitlessMc, mainchat, Mank#0033, le
+16 Aug 2016 02:18:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:18:13 : LimitlessMc, mainchat, Pokken#0986, My greninja tounge cant reach spots other tounges cant
+16 Aug 2016 02:18:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:18:26 : LimitlessMc, mainchat, Pokken#0986, lolololol
+16 Aug 2016 02:18:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:18:30 : League Of Legends, general, Botfuzzy77#2209, **Legit_0reo**(Security) is now Online!
+16 Aug 2016 02:18:44 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:18:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:19:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:19:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:19:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:19:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:19:40 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:19:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:20:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:20:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:20:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:20:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:20:40 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:20:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:21:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:21:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:21:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:21:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:21:40 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:21:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:21:52 : League Of Legends, general, Botfuzzy77#2209, **Legit_0reo**(Security) is now Offline!
+16 Aug 2016 02:22:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:22:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:22:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:22:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:22:40 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:22:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:23:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:23:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:23:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:23:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:23:41 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:23:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:24:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:24:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:24:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:24:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:24:40 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:24:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:25:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:25:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:25:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:25:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:25:40 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:25:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:26:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:26:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:26:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:26:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:26:40 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:26:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:27:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:27:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:27:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:27:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:27:40 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:27:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:28:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:28:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:28:21 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:28:31 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:28:40 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:28:51 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:29:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:29:02 : League Of Legends, general, Botfuzzy77#2209, **Legit_0reo**(Security) is now Online!
+16 Aug 2016 02:29:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:29:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:29:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:29:41 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:29:42 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+16 Aug 2016 02:29:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:30:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:30:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:30:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:30:31 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:30:41 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:30:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:31:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:31:02 : League Of Legends, general, Botfuzzy77#2209, **Legit_0reo**(Security) is now Offline!
+16 Aug 2016 02:31:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:31:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:31:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:31:40 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:31:42 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+16 Aug 2016 02:31:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:32:01 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:32:11 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:32:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:32:31 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:32:41 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:32:51 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:33:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:33:11 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:33:21 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:33:25 : LimitlessMc, mainchat, MGirard#3037, When trying to get an admin to replace a pokemon, do I need screenshots of all the separate tabs moves/nature/etc. or just one showing the pokemon?
+16 Aug 2016 02:33:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:33:40 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:33:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:34:01 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:34:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:34:21 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:34:24 : LimitlessMc, mainchat, DonTheBreton#0276, Supposedly, yes. But I'm not sure how you're supposed to have them.
+16 Aug 2016 02:34:26 : LimitlessMc, mainchat, MGirard#3037, Looks like I got lucky and have a screenshot.
+16 Aug 2016 02:34:31 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:34:32 : LimitlessMc, mainchat, MGirard#3037, I randomly took it for another reason.
+16 Aug 2016 02:34:41 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:34:50 : LimitlessMc, mainchat, DonTheBreton#0276, Very fortunate. Now to prove that something happened to it.
+16 Aug 2016 02:34:51 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:35:01 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:35:11 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:35:21 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:35:31 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:35:41 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:35:51 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:36:01 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:36:11 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:36:21 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:36:31 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:36:41 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:36:51 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:37:01 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:37:11 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:37:21 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:37:31 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:37:38 : Cipher, cala, Calamariela#4119, @Godfuzzy77
+16 Aug 2016 02:37:42 : Cipher, cala, Calamariela#4119, @Godfuzzy77
+16 Aug 2016 02:37:42 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:37:50 : Cipher, cala, Calamariela#4119, stop stressing xD
+16 Aug 2016 02:37:51 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:38:01 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:38:11 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:38:17 : Cipher, cala, Calamariela#4119, ;clever should wert stress?
+16 Aug 2016 02:38:19 : Cipher, cala, Botfuzzy77#2209, Do you not want to?
+16 Aug 2016 02:38:21 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:38:26 : Cipher, cala, Calamariela#4119, ...lol
+16 Aug 2016 02:38:31 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:38:41 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:57:55 : My Personal Server, general, Botfuzzy77#2209, **Techni**(Member) is now Offline!
+16 Aug 2016 02:58:15 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+16 Aug 2016 02:58:17 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Children of The Raw Man) is now Online!
+16 Aug 2016 02:59:40 : Cipher, cala, Calamariela#4119, you ok? xD
+16 Aug 2016 03:00:39 : Cipher, general, Botfuzzy77#2209, **MGirard**(Grunt) is now Online!
+16 Aug 2016 03:01:44 : Cipher, cala, Wertfuzzy77#0274, wayyyy better now
+16 Aug 2016 03:01:51 : Cipher, pictures, Wertfuzzy77#0274, Nah, Starbound
+16 Aug 2016 03:01:53 : Cipher, pictures, Wertfuzzy77#0274, Way better
+16 Aug 2016 03:03:20 : Cipher, cala, Calamariela#4119, xD
+16 Aug 2016 03:03:24 : Cipher, cala, Calamariela#4119, hai
+16 Aug 2016 03:03:29 : Cipher, cala, Calamariela#4119, ;join
+16 Aug 2016 03:03:29 : Cipher, cala, Botfuzzy77#2209, Sorry, I'm already connected to a channel
+16 Aug 2016 03:03:32 : Cipher, cala, Calamariela#4119, ....
+16 Aug 2016 03:04:09 : Cipher, cala, Calamariela#4119, get on mcccccc
+16 Aug 2016 03:04:39 : Cipher, cala, Wertfuzzy77#0274, chill xD im still working things out
+16 Aug 2016 03:05:10 : My Personal Server, general, Botfuzzy77#2209, **Techni**(Member) is now Online!
+16 Aug 2016 03:05:15 : League Of Legends, general, Botfuzzy77#2209, **Anarchy**(Officer) is now Online!
+16 Aug 2016 03:05:45 : Cipher, cala, Calamariela#4119, no!
+16 Aug 2016 03:05:46 : Cipher, cala, Calamariela#4119, now
+16 Aug 2016 03:08:37 : League Of Legends, general, Botfuzzy77#2209, **Anarchy**(Officer) is now Offline!
+16 Aug 2016 03:13:32 : Cipher, cala, Calamariela#4119, i will kill you
+16 Aug 2016 03:15:49 : LimitlessMc, mainchat, Pokken#0986, Literally
+16 Aug 2016 03:15:53 : LimitlessMc, mainchat, Pokken#0986, the best ship
+16 Aug 2016 03:15:58 : LimitlessMc, mainchat, Pokken#0986, of my childhood
+16 Aug 2016 03:15:58 : League Of Legends, general, Botfuzzy77#2209, **Anarchy**(Officer) is now Online!
+16 Aug 2016 03:16:00 : LimitlessMc, mainchat, Pokken#0986, right here
+16 Aug 2016 03:16:01 : LimitlessMc, mainchat, Pokken#0986, http://img03.deviantart.net/13d0/i/2016/228/b/5/moving_in_together_by_picolo_kun-dae3zce.jpg
+16 Aug 2016 03:16:47 : LimitlessMc, mainchat, Pokken#0986, I shipped it with more than feminatzis hate trump.
+16 Aug 2016 03:21:17 : LimitlessMc, mainchat, Anarchy#7098, Kys pokken
+16 Aug 2016 03:21:19 : LimitlessMc, mainchat, Anarchy#7098, K thank
+16 Aug 2016 03:21:53 : LimitlessMc, mainchat, Techni#9903, BB & RayRay <3
+16 Aug 2016 03:23:10 : League Of Legends, general, Botfuzzy77#2209, **Anarchy**(Officer) is now Offline!
+16 Aug 2016 03:23:37 : League Of Legends, general, Botfuzzy77#2209, **Anarchy**(Officer) is now Online!
+16 Aug 2016 03:25:27 : My Personal Server, general, Botfuzzy77#2209, **Techni**(Member) is now Offline!
+16 Aug 2016 03:26:18 : League Of Legends, general, Botfuzzy77#2209, **Anarchy**(Officer) is now Offline!
+16 Aug 2016 03:26:54 : League Of Legends, general, Botfuzzy77#2209, **Anarchy**(Officer) is now Online!
+16 Aug 2016 03:27:48 : LimitlessMc, botchat, MountainDewRed#4034, ;image ash greninja
+16 Aug 2016 03:27:49 : LimitlessMc, botchat, Botfuzzy77#2209, http://img04.deviantart.net/c522/i/2016/110/6/4/ash_greninja___greninjash___satoshi_gekkouga_by_alexalan-d9zkkgr.png
+16 Aug 2016 03:28:54 : League Of Legends, general, Botfuzzy77#2209, **Anarchy**(Officer) is now Offline!
+16 Aug 2016 03:31:11 : 02Gaming, general, Botfuzzy77#2209, **LightShadow**(Guide) is now Online!
+16 Aug 2016 03:31:11 : Temp Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Online!
+16 Aug 2016 03:31:11 : My Personal Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Online!
+16 Aug 2016 03:31:35 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Online!
+16 Aug 2016 03:31:35 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Online!
+16 Aug 2016 03:35:19 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+16 Aug 2016 03:35:55 : LimitlessMc, mainchat, Imperfect#4936, Hello is the CS:GO discord
+16 Aug 2016 03:36:24 : LimitlessMc, mainchat, Imperfect#4936, jk
+16 Aug 2016 03:37:17 : LimitlessMc, mainchat, Pokken#0986, @Anarchy no u
+16 Aug 2016 03:38:57 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Offline!
+16 Aug 2016 03:38:57 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Offline!
+16 Aug 2016 03:40:05 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Online!
+16 Aug 2016 03:40:05 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Online!
+16 Aug 2016 03:40:05 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Offline!
+16 Aug 2016 03:40:05 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Offline!
+16 Aug 2016 03:40:17 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Online!
+16 Aug 2016 03:40:17 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Online!
+16 Aug 2016 03:41:26 : Cipher, general, Wertfuzzy77#0274, ;join
+16 Aug 2016 03:41:26 : Cipher, general, Botfuzzy77#2209, Sorry, I'm already connected to a channel
+16 Aug 2016 03:41:29 : Cipher, general, Wertfuzzy77#0274, bet
+16 Aug 2016 03:41:30 : Cipher, general, Wertfuzzy77#0274, ;songs
+16 Aug 2016 03:41:30 : Cipher, general, Botfuzzy77#2209, **The Following songs are in the Queue, plus [72] more**
+16 Aug 2016 03:41:36 : Cipher, general, Wertfuzzy77#0274, ;leave
+16 Aug 2016 03:41:37 : Cipher, general, Wertfuzzy77#0274, ;join
+16 Aug 2016 03:41:37 : Cipher, general, Botfuzzy77#2209, Sorry, I'm already connected to a channel
+16 Aug 2016 03:41:39 : Cipher, general, Wertfuzzy77#0274, ...
+16 Aug 2016 03:41:42 : Cipher, general, Wertfuzzy77#0274, hate you
+16 Aug 2016 03:41:43 : Cipher, general, Wertfuzzy77#0274, ;leave
+16 Aug 2016 03:41:45 : Cipher, general, Wertfuzzy77#0274, ;join
+16 Aug 2016 03:41:49 : Cipher, general, Wertfuzzy77#0274, ;songs
+16 Aug 2016 03:41:49 : Cipher, general, Botfuzzy77#2209, **The Following songs are in the Queue, plus [71] more**
+16 Aug 2016 03:41:49 : Cipher, general, Botfuzzy77#2209, Emotional Ost of the Day(Day 1): Steins;Gate - ''Believe me'' (https://www.youtube.com/watch?v=5rYI2eG3DuQ)
+Sweet Home Alabama Lynyrd Skynyrd (https://www.youtube.com/watch?v=-Du-CWASm20)
+Tom Odell - Magnetised (Official Video) (https://www.youtube.com/watch?v=4fgzu9Fo66Y)
+Ed Sheeran - Lego House [Official Video] (https://www.youtube.com/watch?v=c4BLVznuWnU)
+AC/DC - Thunderstruck (https://www.youtube.com/watch?v=v2AC41dglnM)
+AC/DC - Hells Bells (https://www.youtube.com/watch?v=etAIpkdhU9Q)
+Grace - You Don't Own Me ft. G-Eazy (https://www.youtube.com/watch?v=8SeRU_ZPDkE)
+Ed Sheeran - Thinking Out Loud [Official Video] (https://www.youtube.com/watch?v=lp-EO5I60KA)
+Guns 'n Roses - Welcome to the Jungle lyrics (https://www.youtube.com/watch?v=s_45YMjnIIk)
+Coldplay - Every Teardrop Is a Waterfall (https://www.youtube.com/watch?v=fyMhvkC3A84)
+Total Time is 6:21:04
+16 Aug 2016 03:41:52 : Cipher, general, Wertfuzzy77#0274, ayy
+16 Aug 2016 03:41:52 : Cipher, general, Botfuzzy77#2209, Lmao
+16 Aug 2016 03:42:07 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Offline!
+16 Aug 2016 03:42:11 : Cipher, general, Wertfuzzy77#0274, ;skip
+16 Aug 2016 03:42:11 : Cipher, general, Botfuzzy77#2209, Skipping 2CELLOS - Thunderstruck [OFFICIAL VIDEO]
+16 Aug 2016 03:42:17 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Offline!
+16 Aug 2016 03:42:17 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Offline!
+16 Aug 2016 03:42:30 : Cipher, cala, Calamariela#4119, is it working?
+16 Aug 2016 03:43:51 : Cipher, general, Botfuzzy77#2209, **MGirard**(Grunt) is now Online!
+16 Aug 2016 03:43:51 : Cipher, general, Botfuzzy77#2209, **MGirard**(Grunt) is now Offline!
+16 Aug 2016 03:46:27 : LimitlessMc, botchat, Pokken#0986, IM TRIGGERED
+16 Aug 2016 03:46:28 : LimitlessMc, botchat, Pokken#0986, OMFG
+16 Aug 2016 03:46:30 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Online!
+16 Aug 2016 03:46:30 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Online!
+16 Aug 2016 03:46:36 : LimitlessMc, botchat, Pokken#0986, @MountainDewRed YOU TRIGGER ME
+16 Aug 2016 03:46:40 : Cipher, cala, Wertfuzzy77#0274, no? lol
+16 Aug 2016 03:46:42 : Cipher, cala, Wertfuzzy77#0274, ;relog
+16 Aug 2016 03:46:42 : Cipher, cala, Botfuzzy77#2209, Relogging...

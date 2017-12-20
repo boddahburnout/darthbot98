@@ -1,0 +1,47 @@
+07 Oct 2016 00:06:03 : The Wild Weebs, music, Wertfuzzy77#0274, ;join
+07 Oct 2016 00:06:06 : The Wild Weebs, music, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=qux6PhqbBBU
+07 Oct 2016 00:06:13 : The Wild Weebs, music, Wertfuzzy77#0274, ;loop 120
+07 Oct 2016 00:07:38 : The Wild Weebs, music, Botfuzzy77#2209, Added '*September - Cry For You OFFICIAL UK Video!! DOWNLOAD NOW!!*' **120** more times
+07 Oct 2016 00:29:55 : The Wild Weebs, coding, Wertfuzzy77#0274, ```Select count(Long.empID) =  count(Distinct P.empID)
+From (
+    Select P.empID
+    From Projects P 
+    Intersect 
+    Select E.empID
+    From Employees E
+) as Long, Projects P```
+07 Oct 2016 00:31:28 : The Wild Weebs, coding, Wertfuzzy77#0274, ```SQL
+Select count(Distinct Long.thing) =  count(Distinct P.manufacturer)
+From (
+    Select P.manufacturer as thing
+    From Product P 
+    Intersect 
+    Select C.cname as thing
+    From Company C
+) as Long, Product P
+```
+07 Oct 2016 00:31:55 : The Wild Weebs, coding, Wertfuzzy77#0274, ```SQL
+Select count(Distinct Long.empID) =  count(Distinct P.empID)
+From (
+    Select P.empID
+    From Projects P 
+    Intersect 
+    Select E.empID
+    From Employees E
+) as Long, Projects P```
+07 Oct 2016 00:33:46 : The Wild Weebs, coding, Wertfuzzy77#0274, this one actually works
+07 Oct 2016 00:33:51 : The Wild Weebs, coding, Wertfuzzy77#0274, ```SQL
+Select count(Distinct Long.thing) =  count(Distinct R.B)
+From (
+    Select A as thing
+    From R 
+    Intersect 
+    Select B as thing
+    From S
+) as Long, R```
+07 Oct 2016 00:37:26 : LimitlessMc, mainchat, Pugs#3166, no one is safe on the server
+07 Oct 2016 00:54:27 : Penguins 2, general, ZyroPlayz#3967, hello from the other side
+07 Oct 2016 00:57:49 : LimitlessMc, botchat, Wojo#2833, ;luck
+07 Oct 2016 00:57:50 : LimitlessMc, botchat, Botfuzzy77#2209, Wojo's luck is 39.19 out of 100, which is **Pretty Bad**
+07 Oct 2016 00:57:53 : LimitlessMc, botchat, Wojo#2833, ;rate
+07 Oct 2016 00:57:53 : LimitlessMc, botchat, Botfuzzy77#2209, Wojo is Basically Garbage

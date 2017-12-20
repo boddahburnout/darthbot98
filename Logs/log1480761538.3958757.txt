@@ -1,0 +1,48 @@
+03 Dec 2016 10:39:03 : LimitlessMc, botchat, Lightning#6734, let it sit a minute
+03 Dec 2016 10:39:11 : LimitlessMc, botchat, Lightning#6734, so it loads up everything
+03 Dec 2016 10:39:40 : LimitlessMc, botchat, Lightning#6734, ;join
+03 Dec 2016 10:39:43 : LimitlessMc, botchat, Lightning#6734, ;song
+03 Dec 2016 10:39:44 : LimitlessMc, botchat, Botfuzzy77#2209, No Song Playing, ['NoneType' object has no attribute 'title']
+03 Dec 2016 10:39:52 : LimitlessMc, botchat, Lightning#6734, ;youtube https://www.youtube.com/watch?v=XuwK6vn6lBA
+03 Dec 2016 10:39:54 : LimitlessMc, botchat, Botfuzzy77#2209, Added Chrono Cross OST - Dragon Knight to the queue
+03 Dec 2016 10:40:05 : LimitlessMc, botchat, Lightning#6734, okei i made it work
+03 Dec 2016 10:40:17 : LimitlessMc, botchat, crystal4209#4698, oh this ost
+03 Dec 2016 10:40:32 : LimitlessMc, botchat, Lightning#6734, i concerned my playlist got brekd
+03 Dec 2016 10:40:41 : LimitlessMc, botchat, crystal4209#4698, ;song
+03 Dec 2016 10:40:41 : LimitlessMc, botchat, Botfuzzy77#2209, ```Name: Chrono Cross OST - Dragon Knight
+URL: <https://www.youtube.com/watch?v=XuwK6vn6lBA>
+Time: 0:03:06
+Views: 89,895
+Likes: 268, 98.53%
+Dislikes: 4, 1.47%
+```
+03 Dec 2016 10:40:47 : LimitlessMc, botchat, Lightning#6734, probably because of one song.... lel
+03 Dec 2016 10:41:37 : LimitlessMc, botchat, Lightning#6734, ;youtube https://www.youtube.com/watch?v=ine3_jdQIIs
+03 Dec 2016 10:41:38 : LimitlessMc, botchat, Botfuzzy77#2209, Added Chrono Cross OST - Dead Sea to the queue
+03 Dec 2016 10:42:11 : LimitlessMc, botchat, Lightning#6734, ;youtube https://www.youtube.com/watch?v=OFT6Ox4Wiyc
+03 Dec 2016 10:42:12 : LimitlessMc, botchat, Botfuzzy77#2209, Added Chrono Cross OST - Chronopolis to the queue
+03 Dec 2016 10:42:15 : LimitlessMc, botchat, Lightning#6734, ;songs
+03 Dec 2016 10:42:15 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+03 Dec 2016 10:42:15 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Chrono Cross OST - Dead Sea **Lightning**
+	<https://www.youtube.com/watch?v=ine3_jdQIIs>
+2. Chrono Cross OST - Chronopolis **Lightning**
+	<https://www.youtube.com/watch?v=OFT6Ox4Wiyc>
+Total Time is 0:07:30
+03 Dec 2016 10:42:16 : LimitlessMc, botchat, crystal4209#4698, stapppp
+03 Dec 2016 10:42:27 : LimitlessMc, botchat, Lightning#6734, nu i make good music here lel
+03 Dec 2016 10:42:37 : LimitlessMc, botchat, crystal4209#4698, no
+03 Dec 2016 10:42:49 : LimitlessMc, botchat, Lightning#6734, also i'm gonna use these short songs to test if it's still broken
+03 Dec 2016 10:42:58 : LimitlessMc, botchat, crystal4209#4698, damn it
+03 Dec 2016 10:43:52 : LimitlessMc, botchat, Lightning#6734, wert pls
+03 Dec 2016 10:44:01 : LimitlessMc, botchat, Lightning#6734, fix reliability of song switching D:
+03 Dec 2016 10:44:10 : LimitlessMc, botchat, Lightning#6734, ;skip
+03 Dec 2016 10:44:10 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Chrono Cross OST - Dragon Knight
+03 Dec 2016 10:44:16 : LimitlessMc, botchat, crystal4209#4698, ;youtube https://www.youtube.com/watch?v=qV2Vgt7GK_A
+03 Dec 2016 10:44:17 : LimitlessMc, botchat, Botfuzzy77#2209, Added Fairy Tail - Dragon Force to the queue
+03 Dec 2016 10:44:24 : LimitlessMc, botchat, crystal4209#4698, heheheh
+03 Dec 2016 10:44:44 : LimitlessMc, botchat, Lightning#6734, not even gonna ask
+03 Dec 2016 10:44:53 : LimitlessMc, botchat, crystal4209#4698, shush
+03 Dec 2016 10:45:06 : LimitlessMc, botchat, crystal4209#4698, ;skip
+03 Dec 2016 10:45:07 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Chrono Cross OST - Dragon Knight
+03 Dec 2016 10:45:14 : LimitlessMc, botchat, crystal4209#4698, ;relog
+03 Dec 2016 10:45:14 : LimitlessMc, botchat, Botfuzzy77#2209, Relogging...

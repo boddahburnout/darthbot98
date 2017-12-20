@@ -1,0 +1,99 @@
+07 Apr 2017 16:49:12 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;join
+07 Apr 2017 16:49:13 : LimitlessMc, voice-junk, Botfuzzy77#2209, Connected channel!
+07 Apr 2017 16:49:23 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;Radio Japanese lounge
+07 Apr 2017 16:49:23 : LimitlessMc, voice-junk, Botfuzzy77#2209, **Please choose one of these options**: 
+```py
+Electro Hub        (1136 Songs) https://temp.discord.fm/libraries/electro-hub
+Chill Corner       (733 Songs) https://temp.discord.fm/libraries/chill-corner
+Korean Madness     (386 Songs) https://temp.discord.fm/libraries/korean-madness
+Japanese Lounge    (829 Songs) https://temp.discord.fm/libraries/japanese-lounge
+Classical          (278 Songs) https://temp.discord.fm/libraries/classical
+Retro Renegade     (453 Songs) https://temp.discord.fm/libraries/retro-renegade
+Metal Mix          (556 Songs) https://temp.discord.fm/libraries/metal-mix
+Hip-hop            (434 Songs) https://temp.discord.fm/libraries/hip-hop
+Electro Swing      (340 Songs) https://temp.discord.fm/libraries/electro-swing
+Purely Pop         (329 Songs) https://temp.discord.fm/libraries/purely-pop
+Rock-n-Roll        (640 Songs) https://temp.discord.fm/libraries/rock-n-roll
+Coffee-house Jazz  (523 Songs) https://temp.discord.fm/libraries/coffee-house-jazz```
+Example: `;Radio Purely Pop`
+07 Apr 2017 16:49:29 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;Radio Japanese Lounge
+07 Apr 2017 16:49:30 : LimitlessMc, voice-junk, Botfuzzy77#2209, Now listening to **Japanese Lounge** radio channel
+07 Apr 2017 16:49:38 : LimitlessMc, voice-junk, Wertfuzzy77#0274, oooooooooooooooooooooooo
+07 Apr 2017 16:49:39 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;song
+07 Apr 2017 16:49:39 : LimitlessMc, voice-junk, Botfuzzy77#2209, **Name**: Steins;Gate OP full ~ Hacking to the Gate
+**Requester**: Radio: Japanese Lounge
+**URL**: <https://www.youtube.com/watch?v=-lkH-uMZVY4>
+```py
+Time: 0:04:16
+Views: 2,056,011
+Likes: 8,894, 98.5%
+Dislikes: 135, 1.5%
+Skips: 0/0```
+07 Apr 2017 16:49:48 : LimitlessMc, mainchat, NeverSoberBit#3869, LE
+07 Apr 2017 16:49:56 : LimitlessMc, mainchat, Lightning#6734, 10/10 bants
+07 Apr 2017 16:50:10 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;songs
+07 Apr 2017 16:50:10 : LimitlessMc, voice-junk, Botfuzzy77#2209, **The Following songs are in the Queue**
+07 Apr 2017 16:50:10 : LimitlessMc, voice-junk, Botfuzzy77#2209, 1. MELL - Red fraction **Radio: Japanese Lounge**
+	<https://www.youtube.com/watch?v=AC6REhy5L38>
+2. Naruto Ending 4 **Radio: Japanese Lounge**
+	<https://www.youtube.com/watch?v=wy3UPcWtTOI>
+3. NEW GAME! 「Shake!」 **Radio: Japanese Lounge**
+	<https://www.youtube.com/watch?v=5wCpQHm-MC8>
+4. BACK-ON BLAZE LINE **Radio: Japanese Lounge**
+	<https://www.youtube.com/watch?v=GBy5NdQLM-Y>
+5. Fullmetal Alchemist Brotherhood OP 3 creditless **Radio: Japanese Lounge**
+	<https://www.youtube.com/watch?v=et7oxRRkPEo>
+Total Time is 0:15:03
+07 Apr 2017 16:50:15 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;remove 2
+07 Apr 2017 16:50:16 : LimitlessMc, voice-junk, Botfuzzy77#2209, Removed: Naruto Ending 4
+07 Apr 2017 16:50:18 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;remove 3
+07 Apr 2017 16:50:18 : LimitlessMc, voice-junk, Botfuzzy77#2209, Removed: BACK-ON BLAZE LINE
+07 Apr 2017 16:50:20 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;remove 3
+07 Apr 2017 16:50:20 : LimitlessMc, voice-junk, Botfuzzy77#2209, Removed: Fullmetal Alchemist Brotherhood OP 3 creditless
+07 Apr 2017 16:50:22 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;songs
+07 Apr 2017 16:50:22 : LimitlessMc, voice-junk, Botfuzzy77#2209, **The Following songs are in the Queue**
+07 Apr 2017 16:50:22 : LimitlessMc, voice-junk, Botfuzzy77#2209, 1. MELL - Red fraction **Radio: Japanese Lounge**
+	<https://www.youtube.com/watch?v=AC6REhy5L38>
+2. NEW GAME! 「Shake!」 **Radio: Japanese Lounge**
+	<https://www.youtube.com/watch?v=5wCpQHm-MC8>
+3. Tengen Toppa Gurren Lagann OST - Sorairo Days FULL VERSION **Radio: Japanese Lounge**
+	<https://www.youtube.com/watch?v=aNQvLECht08>
+4. 独りんぼエンヴィー　歌ってみた【そらる】 **Radio: Japanese Lounge**
+	<https://www.youtube.com/watch?v=dz7jIsBLFlQ>
+Total Time is 0:16:41
+07 Apr 2017 16:50:31 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;songs
+07 Apr 2017 16:50:31 : LimitlessMc, voice-junk, Botfuzzy77#2209, **The Following songs are in the Queue**
+07 Apr 2017 16:50:31 : LimitlessMc, voice-junk, Botfuzzy77#2209, 1. MELL - Red fraction **Radio: Japanese Lounge**
+	<https://www.youtube.com/watch?v=AC6REhy5L38>
+2. NEW GAME! 「Shake!」 **Radio: Japanese Lounge**
+	<https://www.youtube.com/watch?v=5wCpQHm-MC8>
+3. Tengen Toppa Gurren Lagann OST - Sorairo Days FULL VERSION **Radio: Japanese Lounge**
+	<https://www.youtube.com/watch?v=aNQvLECht08>
+4. 独りんぼエンヴィー　歌ってみた【そらる】 **Radio: Japanese Lounge**
+	<https://www.youtube.com/watch?v=dz7jIsBLFlQ>
+5. ななひら (Nanahira) - ベィスドロップ・フリークス (Bassdrop Freaks) Long Ver. **Radio: Japanese Lounge**
+	<https://www.youtube.com/watch?v=9Mhkl44ggQU>
+Total Time is 0:21:29
+07 Apr 2017 17:02:56 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;songs
+07 Apr 2017 17:02:56 : LimitlessMc, voice-junk, Botfuzzy77#2209, **The Following songs are in the Queue**
+07 Apr 2017 17:02:57 : LimitlessMc, voice-junk, Botfuzzy77#2209, 1. 独りんぼエンヴィー　歌ってみた【そらる】 **Radio: Japanese Lounge**
+	<https://www.youtube.com/watch?v=dz7jIsBLFlQ>
+2. ななひら (Nanahira) - ベィスドロップ・フリークス (Bassdrop Freaks) Long Ver. **Radio: Japanese Lounge**
+	<https://www.youtube.com/watch?v=9Mhkl44ggQU>
+3. [60fps Full] Tokyo Teddy Bear 東京テディベア - Kagamine Rin 鏡音リン DIVA English lyrics Romaji subtitles PDA **Radio: Japanese Lounge**
+	<https://www.youtube.com/watch?v=LYto1Vhkixg>
+4. Re: Hamatora Opening Full - Sen No Tsubasa lyrics (CC) **Radio: Japanese Lounge**
+	<https://www.youtube.com/watch?v=Ku8oss1pwiA>
+5. Fo'xTails / The LiBERTY - Music Clip **Radio: Japanese Lounge**
+	<https://www.youtube.com/watch?v=gt6kbCvl42o>
+Total Time is 0:18:55
+07 Apr 2017 17:03:00 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;song
+07 Apr 2017 17:03:00 : LimitlessMc, voice-junk, Botfuzzy77#2209, **Name**: Tengen Toppa Gurren Lagann OST - Sorairo Days FULL VERSION
+**Requester**: Radio: Japanese Lounge
+**URL**: <https://www.youtube.com/watch?v=aNQvLECht08>
+```py
+Time: 0:05:38
+Views: 10,992,113
+Likes: 59,557, 98.66%
+Dislikes: 811, 1.34%
+Skips: 0/0```

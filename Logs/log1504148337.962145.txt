@@ -1,0 +1,7 @@
+31 Aug 2017 02:59:09 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, ;ctoggle all
+31 Aug 2017 02:59:19 : Botfuzzy77 Living Quarters, bot-commands, Wertfuzzy77#0274, ;train
+31 Aug 2017 03:00:00 : Botfuzzy77 Living Quarters, general, Wertfuzzy77#0274, ;debug ";ctoggle all".split(";")[1].split(" ")
+31 Aug 2017 03:00:01 : Botfuzzy77 Living Quarters, general, Botfuzzy77#2209, ```py
+['ctoggle', 'all']
+```
+31 Aug 2017 03:00:43 : PokeIslands, general, striker7912#3617, so glade my homes are aok thank you

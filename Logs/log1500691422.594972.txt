@@ -1,0 +1,86 @@
+22 Jul 2017 02:43:44 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 02:43:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 02:43:55 : LimitlessMc, botchat, Botfuzzy77#2209, Bad thing here
+22 Jul 2017 02:43:57 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 02:43:57 : LimitlessMc, botchat, Botfuzzy77#2209, Gold Artifact
+22 Jul 2017 02:44:01 : LimitlessMc, botchat, Wertfuzzy77#0274, wat
+22 Jul 2017 02:44:06 : LimitlessMc, botchat, Wertfuzzy77#0274, thats a 1% chance
+22 Jul 2017 02:44:06 : LimitlessMc, botchat, Fiodor#5640, was 16k one
+22 Jul 2017 02:44:07 : LimitlessMc, botchat, Wertfuzzy77#0274, hax
+22 Jul 2017 02:44:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 02:44:14 : LimitlessMc, botchat, Botfuzzy77#2209, Energy Crystal
+22 Jul 2017 02:44:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 02:44:15 : LimitlessMc, botchat, Botfuzzy77#2209, Slag
+22 Jul 2017 02:44:16 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 02:44:16 : LimitlessMc, botchat, Botfuzzy77#2209, Bad thing here
+22 Jul 2017 02:44:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 02:44:17 : LimitlessMc, botchat, Botfuzzy77#2209, Slag
+22 Jul 2017 02:44:18 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 02:44:19 : LimitlessMc, botchat, Botfuzzy77#2209, Bad thing here
+22 Jul 2017 02:44:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 02:44:20 : LimitlessMc, botchat, Botfuzzy77#2209, Bad thing here
+22 Jul 2017 02:44:21 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 02:44:21 : LimitlessMc, botchat, Botfuzzy77#2209, Common TYPE Gem
+22 Jul 2017 02:44:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 02:44:22 : LimitlessMc, botchat, Botfuzzy77#2209, Slag
+22 Jul 2017 02:44:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 02:44:25 : LimitlessMc, botchat, Botfuzzy77#2209, Slag
+22 Jul 2017 02:44:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 02:44:26 : LimitlessMc, botchat, Botfuzzy77#2209, Bad thing here
+22 Jul 2017 02:44:27 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+22 Jul 2017 02:44:27 : LimitlessMc, botchat, Botfuzzy77#2209, Bad thing here
+22 Jul 2017 02:44:36 : LimitlessMc, botchat, Wertfuzzy77#0274, alight, that should work
+22 Jul 2017 02:44:39 : LimitlessMc, botchat, Wertfuzzy77#0274, ;radio
+22 Jul 2017 02:44:39 : LimitlessMc, botchat, Botfuzzy77#2209, The Bot isnt connected in this server!
+22 Jul 2017 02:44:39 : LimitlessMc, botchat, Botfuzzy77#2209, **Please choose one of these options**: 
+```py
+Electro Hub       https://temp.discord.fm/libraries/electro-hub
+Chill Corner      https://temp.discord.fm/libraries/chill-corner
+Korean Madness    https://temp.discord.fm/libraries/korean-madness
+Japanese Lounge   https://temp.discord.fm/libraries/japanese-lounge
+Classical         https://temp.discord.fm/libraries/classical
+Retro Renegade    https://temp.discord.fm/libraries/retro-renegade
+Metal Mix         https://temp.discord.fm/libraries/metal-mix
+Hip-hop           https://temp.discord.fm/libraries/hip-hop
+Electro Swing     https://temp.discord.fm/libraries/electro-swing
+Purely Pop        https://temp.discord.fm/libraries/purely-pop
+Rock-n-Roll       https://temp.discord.fm/libraries/rock-n-roll
+Coffee-house Jazz https://temp.discord.fm/libraries/coffee-house-jazz```
+Example: `;Radio Purely Pop`
+22 Jul 2017 02:44:39 : LimitlessMc, botchat, Botfuzzy77#2209, Currently listening to the *Metal Mix* radio channel
+22 Jul 2017 02:44:43 : LimitlessMc, botchat, Wertfuzzy77#0274, ;radio Rock-n-roll
+22 Jul 2017 02:44:43 : LimitlessMc, botchat, Botfuzzy77#2209, Now listening to **Rock-n-Roll** radio channel
+22 Jul 2017 02:44:43 : LimitlessMc, botchat, Botfuzzy77#2209, The Bot isnt connected in this server!
+22 Jul 2017 02:44:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+22 Jul 2017 02:44:46 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Nevermore - The River Dragon Has Come [Studio Version - High Quality] by request (Radio Song)
+22 Jul 2017 02:44:46 : LimitlessMc, botchat, Botfuzzy77#2209, The Bot isnt connected in this server!
+22 Jul 2017 02:44:49 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+22 Jul 2017 02:44:49 : LimitlessMc, botchat, Botfuzzy77#2209, The Bot isnt connected in this server!
+22 Jul 2017 02:44:51 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+22 Jul 2017 02:44:51 : LimitlessMc, botchat, Botfuzzy77#2209, The Bot isnt connected in this server!
+22 Jul 2017 02:44:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 02:44:55 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 02:45:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+22 Jul 2017 02:45:01 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping The Cult - She Sells Sanctuary by request (Radio Song)
+22 Jul 2017 02:45:01 : LimitlessMc, botchat, Botfuzzy77#2209, The Bot isnt connected in this server!
+22 Jul 2017 02:45:09 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+22 Jul 2017 02:45:09 : LimitlessMc, botchat, Botfuzzy77#2209, The Bot isnt connected in this server!
+22 Jul 2017 02:45:11 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Jul 2017 02:46:28 : None, Direct Message with Fiodor, Fiodor#5640, ;cd
+22 Jul 2017 02:46:28 : None, Direct Message with Fiodor, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You need to wait 1,540 seconds
+**Gamble**
+You can Gamble right now!
+22 Jul 2017 02:46:28 : None, Direct Message with Fiodor, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You can Train right now!
+**Gamble**
+You can Gamble right now!
+22 Jul 2017 02:46:42 : None, Direct Message with Fiodor, Fiodor#5640, pb
+22 Jul 2017 02:46:46 : None, Direct Message with Fiodor, Fiodor#5640, ;pbs
+22 Jul 2017 02:46:46 : None, Direct Message with Fiodor, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> insane to fight and reveal the boss.
+22 Jul 2017 02:46:49 : None, Direct Message with Fiodor, Botfuzzy77#2209, 

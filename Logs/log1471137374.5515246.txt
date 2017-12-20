@@ -1,0 +1,11 @@
+14 Aug 2016 01:17:01 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+14 Aug 2016 01:17:01 : GreenHillGang, general, Botfuzzy77#2209, **Wertfuzzy77**(No Role) is now Online!
+14 Aug 2016 01:20:12 : League Of Legends, general, Botfuzzy77#2209, **Aethex**(Aethex) is now Offline!
+14 Aug 2016 01:21:24 : My Personal Server, general, Botfuzzy77#2209, **Techni**(Member) is now Online!
+14 Aug 2016 01:22:04 : None, Direct Message with Anarchy, Anarchy#7098, ;debug bot.send_message(list(bot.servers)[list(map(lambda x: x.name, list(bot.servers))).index("Cipher")], "Hello")
+14 Aug 2016 01:22:04 : Cipher, general, Botfuzzy77#2209, Hello
+14 Aug 2016 01:22:05 : None, Direct Message with Anarchy, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x000001F7BAEC0430>
+```
+14 Aug 2016 01:23:10 : Gang ;), general, Botfuzzy77#2209, **TheGoose25**(Staff/Guild Leaders) is now Online!
+14 Aug 2016 01:24:02 : Gang ;), general, Botfuzzy77#2209, **Hiraeth**(Staff/Guild Leaders) is now Offline!

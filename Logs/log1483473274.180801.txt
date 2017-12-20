@@ -1,0 +1,31 @@
+03 Jan 2017 19:54:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+03 Jan 2017 19:54:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;playlist Shelter
+03 Jan 2017 19:54:59 : LimitlessMc, botchat, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+03 Jan 2017 19:55:15 : LimitlessMc, botchat, Wertfuzzy77#0274, @Wolferino I fix
+03 Jan 2017 19:55:34 : LimitlessMc, botchat, Wolferino#8885, ❤
+03 Jan 2017 20:00:29 : Pokemon Mystery Dungeon, general, ChesireKat#7022, YAS i finished the umbreon!
+03 Jan 2017 20:02:28 : Pokemon Mystery Dungeon, bot_chat, DicloniusPony#6564, ^r madoka magica ED magia amalee
+03 Jan 2017 20:02:31 : Pokemon Mystery Dungeon, bot_chat, kat#5385, Enqueued **Madoka Magica ED - "Magia" | ENGLISH ver | AmaLee** to be played. Position in queue: 1 - estimated time until playing: 0:02:33
+03 Jan 2017 20:02:33 : Pokemon Mystery Dungeon, bot_chat, DicloniusPony#6564, ^nope
+03 Jan 2017 20:02:33 : Pokemon Mystery Dungeon, bot_chat, kat#5385, Now playing in Music Room: **Madoka Magica ED - "Magia" | ENGLISH ver | AmaLee**
+03 Jan 2017 20:05:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+03 Jan 2017 20:05:41 : LimitlessMc, botchat, Botfuzzy77#2209, Reloaded all Modules
+03 Jan 2017 20:05:41 : LimitlessMc, botchat, Botfuzzy77#2209, Something went wrong :(
+03 Jan 2017 20:05:41 : LimitlessMc, botchat, Botfuzzy77#2209, NameError: name 'getID' is not defined
+03 Jan 2017 20:05:54 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+03 Jan 2017 20:05:54 : LimitlessMc, botchat, Botfuzzy77#2209, Reloaded all Modules
+03 Jan 2017 20:05:54 : LimitlessMc, botchat, Botfuzzy77#2209, Something went wrong :(
+03 Jan 2017 20:05:55 : LimitlessMc, botchat, Botfuzzy77#2209, NameError: name 'getID' is not defined
+03 Jan 2017 20:06:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;boss A
+03 Jan 2017 20:06:52 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+03 Jan 2017 20:06:52 : LimitlessMc, botchat, Botfuzzy77#2209, Reloaded all Modules
+03 Jan 2017 20:06:52 : LimitlessMc, botchat, Botfuzzy77#2209, Something went wrong :(
+03 Jan 2017 20:06:52 : LimitlessMc, botchat, Botfuzzy77#2209, NameError: name 'getID' is not defined
+03 Jan 2017 20:06:54 : LimitlessMc, botchat, Wertfuzzy77#0274, ;boss A
+03 Jan 2017 20:07:00 : Pokemon Mystery Dungeon, general, Bakafish#8693, noice
+03 Jan 2017 20:07:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+03 Jan 2017 20:07:38 : LimitlessMc, botchat, Botfuzzy77#2209, Reloaded all Modules
+03 Jan 2017 20:07:38 : LimitlessMc, botchat, Botfuzzy77#2209, Something went wrong :(
+03 Jan 2017 20:07:38 : LimitlessMc, botchat, Botfuzzy77#2209, NameError: name 'getID' is not defined
+03 Jan 2017 20:07:45 : LimitlessMc, botchat, Wertfuzzy77#0274, ;relog
+03 Jan 2017 20:07:45 : LimitlessMc, botchat, Botfuzzy77#2209, Relogging...

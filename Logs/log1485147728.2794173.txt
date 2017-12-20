@@ -1,0 +1,2129 @@
+23 Jan 2017 05:02:18 : Unity Of Nirvana, bot_chat, Wertfuzzy77#0274, ;join
+23 Jan 2017 05:02:22 : Unity Of Nirvana, bot_chat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=4B_UYYPb-Gk https://www.youtube.com/watch?v=nf0oXY4nDxE https://www.youtube.com/watch?v=KrZHPOeOxQQ https://www.youtube.com/watch?v=lDK9QqIzhwk https://www.youtube.com/watch?v=vx2u5uUu3DE https://www.youtube.com/watch?v=eFjjO_lhf9c https://www.youtube.com/watch?v=lZD4ezDbbu4 https://www.youtube.com/watch?v=-Du-CWASm20 https://www.youtube.com/watch?v=s5TIulzXoXo
+23 Jan 2017 05:02:24 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Added RUN-DMC - Walk This Way to the queue
+23 Jan 2017 05:02:25 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Added Aerosmith - Dude (Looks Like A Lady) to the queue
+23 Jan 2017 05:02:25 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Added Bon Jovi - You Give Love A Bad Name to the queue
+23 Jan 2017 05:02:26 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Added Bon Jovi - Livin' On A Prayer to the queue
+23 Jan 2017 05:02:26 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Added Bon Jovi - It's My Life to the queue
+23 Jan 2017 05:02:29 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Added Bryan Adams - Summer Of '69 to the queue
+23 Jan 2017 05:02:30 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Added Bruce Springsteen - Born In The U.S.A. to the queue
+23 Jan 2017 05:02:30 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Added Sweet Home Alabama Lynyrd Skynyrd to the queue
+23 Jan 2017 05:02:31 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Added Rascal Flats - Life Is A Highway [WITH LYRICS] to the queue
+23 Jan 2017 05:02:51 : Unity Of Nirvana, bot_chat, Wertfuzzy77#0274, ;playlist Maroon Adele ACDC FUN Eddie Coldplay Dragons Shelter
+23 Jan 2017 05:03:53 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+23 Jan 2017 05:04:26 : Unity Of Nirvana, bot_chat, Wertfuzzy77#0274, ;songs
+23 Jan 2017 05:04:27 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, **The Following songs are in the Queue, plus [31] more**
+23 Jan 2017 05:04:27 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, 1. Aerosmith - Dude (Looks Like A Lady) **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=nf0oXY4nDxE>
+2. Bon Jovi - You Give Love A Bad Name **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=KrZHPOeOxQQ>
+3. Bon Jovi - Livin' On A Prayer **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=lDK9QqIzhwk>
+4. Bon Jovi - It's My Life **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=vx2u5uUu3DE>
+5. Bryan Adams - Summer Of '69 **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=eFjjO_lhf9c>
+6. Bruce Springsteen - Born In The U.S.A. **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=lZD4ezDbbu4>
+7. Sweet Home Alabama Lynyrd Skynyrd **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=-Du-CWASm20>
+8. Rascal Flats - Life Is A Highway [WITH LYRICS] **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=s5TIulzXoXo>
+9. Maroon 5 - Payphone (Explicit) ft. Wiz Khalifa **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=KRaWnd3LJfs>
+10. Maroon 5 - Maps (Explicit) **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=NmugSMBh_iI>
+Total Time is 2:41:42
+23 Jan 2017 05:07:31 : Unity Of Nirvana, bot_chat, Wertfuzzy77#0274, ;skip
+23 Jan 2017 05:07:31 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Skipping Aerosmith - Dude (Looks Like A Lady) by request of the requester
+23 Jan 2017 05:16:48 : Unity Of Nirvana, bot_chat, Crystal4209#4698, also ended up making it @"Our Lord"
+23 Jan 2017 05:17:35 : Unity Of Nirvana, bot_chat, Crystal4209#4698, the name of it is bunnypoptart to :3
+23 Jan 2017 05:21:33 : Unity Of Nirvana, bot_chat, Wertfuzzy77#0274, ```py
+class Music:
+    @commands.command()
+    # Displays Information on the current song
+    async def song():
+
+    # Vote to skip current song
+    async def skip():
+
+    # Add a song using a link
+    async def link():
+
+    # Add a song using keywords
+    async def search():
+
+    # Join your Voice Channel
+    async def join():
+
+    # Displays Information about the current playing song.
+    async def songs():
+
+    # Shuffles the Queue
+    async def shuffle():
+
+    # Loops the current playing song
+    async def loop():
+
+    # Toggles Radio Mode
+    async def radio():
+
+    # Clears the Queue
+    async def clear():
+
+
+
+    # Playlist Stuff
+    async def add
+
+    async def play
+
+    async def make
+
+    async def remove
+
+    async def view```
+23 Jan 2017 05:22:12 : Unity Of Nirvana, bot_chat, Crystal4209#4698, i got promoted to gym leader on the 20/11/2016 then to helper on the 3/12/2016 then to vip on the 25/12/2016 then to moderator on the 31/12/2016
+23 Jan 2017 05:29:08 : Unity Of Nirvana, bot_chat, Wertfuzzy77#0274, I want to play TERA with you! Download the game at http://TERA.enmasse.com/download.
+
+ When you start the game and enter my BuddyUp Code, both of us receive special benefits!
+
+My character: Mysticfuzzy
+Mysticfuzzy's Server: Tempest Reach
+BuddyUp Code: Mysticfuzzy#2375
+
+Download TERA from: http://TERA.enmasse.com/download
+23 Jan 2017 05:33:53 : Unity Of Nirvana, bot_chat, Wertfuzzy77#0274, ;song
+23 Jan 2017 05:33:53 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, **Name**: Rascal Flats - Life Is A Highway [WITH LYRICS]
+**Requester**: Wertfuzzy77
+**URL**: <https://www.youtube.com/watch?v=s5TIulzXoXo>
+```py
+Time: 0:04:49
+Views: 2,478,532
+Likes: 12,110, 97.54%
+Dislikes: 305, 2.46%
+Skips: 0/1```
+23 Jan 2017 05:33:56 : Unity Of Nirvana, bot_chat, Wertfuzzy77#0274, ;loop 3
+23 Jan 2017 05:33:57 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Added '*Rascal Flats - Life Is A Highway [WITH LYRICS]*' **3** more times
+23 Jan 2017 05:37:27 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;train
+23 Jan 2017 05:37:28 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 18 **Vivillon** for 370 XP (90% to beat)
+You **Lost** to a Level 64 **Mamoswine** (28% to beat)
+You **Lost** to a Level 46 **Lileep** (40% to beat)
+You **Lost** to a Level 63 **Jellicent** (29% to beat)
+You **Beat** a Level 17 **Drapion** for 370 XP (90% to beat)
+You **Lost** to a Level 62 **Sunflora** (29% to beat)
+You **Beat** a Level 11 **Armaldo** for 370 XP (90% to beat)
+You **Beat** a Level 27 **Shelgon** for 1164 XP (68% to beat)
+You **Beat** a Level 40 **Pancham** for 1988 XP (46% to beat)
+You **Lost** to a Level 63 **Ditto** (29% to beat)
+You use a **Lucky Egg** to gain more XP!
+You Find a **Pokeloot** worth 2744 XP
+23 Jan 2017 05:37:28 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 9137 XP!
+23 Jan 2017 05:37:32 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;level
+23 Jan 2017 05:37:32 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *MrMudkipKipperten*
+**Level**: 37
+**XP**: 49314/54872
+**Boss Takedowns**: 3
+**Most Dmg in an Attack**: 7129
+23 Jan 2017 05:37:35 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;ranking
+23 Jan 2017 05:37:35 : LimitlessMc, botchat, Botfuzzy77#2209, :first_place: **TherminatorX** Level **54**
+:second_place: **DanTurboX** Level **53**
+:third_place: **Wertfuzzy77** Level **48**
+:medal: jjtwilefc Level 47
+:medal: MoonWolf Level 39
+:medal: MrMudkipKipperten Level 37
+:medal: Crystal4209 Level 35
+:medal: Bakafish Level 31
+:medal: theOnlyJuan Level 30
+:medal: 🌟💖Resolate💖🌟 Level 30
+23 Jan 2017 05:48:57 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;cd
+23 Jan 2017 05:48:57 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 2911 seconds
+23 Jan 2017 05:49:02 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;pokeboss
+23 Jan 2017 05:49:02 : LimitlessMc, botchat, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> hard to fight and reveal the boss.
+23 Jan 2017 05:49:15 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;pokebattle nnnnnnnnnn
+23 Jan 2017 05:49:15 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 41 Boss **Sableye** has appeared in the Hard zone!
+It has 38376 Health.
+23 Jan 2017 05:49:16 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jan 2017 05:49:16 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :x: :x: :white_check_mark: :x: :x: :x: :x:
+23 Jan 2017 05:49:16 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **35** damage
+23 Jan 2017 05:49:16 : LimitlessMc, botchat, Botfuzzy77#2209, Level 41 Boss **Sableye** has 38341 health left.
+23 Jan 2017 05:50:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle iiiiiniiii
+23 Jan 2017 05:50:11 : LimitlessMc, botchat, Botfuzzy77#2209, Level 41 Boss **Sableye** in Hard has 38341 health left.
+23 Jan 2017 05:50:11 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jan 2017 05:50:11 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_n: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i:
+:x: :x: :white_check_mark: :x: :x: :white_check_mark: :x: :x: :x: :x:
+23 Jan 2017 05:50:11 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **111** damage
+23 Jan 2017 05:50:12 : LimitlessMc, botchat, Botfuzzy77#2209, Level 41 Boss **Sableye** has 38230 health left.
+23 Jan 2017 05:50:53 : LimitlessMc, botchat, Crystal4209#4698, ;train
+23 Jan 2017 05:50:53 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 31 **Dewgong** for 1524 XP (56% to beat)
+You **Beat** a Level 16 **Linoone** for 350 XP (90% to beat)
+You **Lost** to a Level 48 **Zangoose** (36% to beat)
+You **Lost** to a Level 40 **Latios** (43% to beat)
+You **Beat** a Level 13 **Natu** for 350 XP (90% to beat)
+You **Beat** a Level 50 **Solrock** for 2275 XP (35% to beat)
+You **Beat** a Level 39 **Lucario** for 1929 XP (44% to beat)
+You **Beat** a Level 13 **Wailord** for 350 XP (90% to beat)
+You **Beat** a Level 16 **Hoopa** for 350 XP (90% to beat)
+You **Beat** a Level 7 **Druddigon** for 350 XP (90% to beat)
+You Find a **Great Pokeloot** worth 6999 XP
+23 Jan 2017 05:50:53 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 14477 XP!
+23 Jan 2017 05:51:14 : LimitlessMc, botchat, Crystal4209#4698, ;pokebattle ggiggngggg
+23 Jan 2017 05:51:15 : LimitlessMc, botchat, Botfuzzy77#2209, Level 41 Boss **Sableye** in Hard has 38230 health left.
+23 Jan 2017 05:51:15 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jan 2017 05:51:15 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_g: :regional_indicator_g: :regional_indicator_i: :regional_indicator_g: :regional_indicator_g: :regional_indicator_n: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g:
+:x: :x: :white_check_mark: :x: :x: :white_check_mark: :white_check_mark: :x: :x: :x:
+23 Jan 2017 05:51:15 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **107** damage
+23 Jan 2017 05:51:15 : LimitlessMc, botchat, Botfuzzy77#2209, Level 41 Boss **Sableye** has 38123 health left.
+23 Jan 2017 06:13:38 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;pokebattleffiffngfff
+23 Jan 2017 06:13:53 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;pokebattle ffiffngfff
+23 Jan 2017 06:13:53 : LimitlessMc, botchat, Botfuzzy77#2209, Level 41 Boss **Sableye** in Hard has 38123 health left.
+23 Jan 2017 06:13:54 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jan 2017 06:13:54 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_f: :regional_indicator_i: :regional_indicator_f: :regional_indicator_f: :regional_indicator_n: :regional_indicator_g: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f:
+:x: :white_check_mark: :white_check_mark: :x: :x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :x:
+23 Jan 2017 06:13:54 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **194** damage
+23 Jan 2017 06:13:54 : LimitlessMc, botchat, Botfuzzy77#2209, Level 41 Boss **Sableye** has 37929 health left.
+23 Jan 2017 06:14:02 : LimitlessMc, botchat, Crystal4209#4698, ;cd
+23 Jan 2017 06:14:02 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 2211 seconds
+23 Jan 2017 06:24:41 : None, Direct Message with TherminatorX, TherminatorX#6644, ;train
+23 Jan 2017 06:24:41 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You **Beat** a Level 106 **Aipom** for 4073 XP (25% to beat)
+You **Beat** a Level 2 **Exeggutor** for 550 XP (90% to beat)
+You **Lost** to a Level 78 **Suicune** (35% to beat)
+You **Beat** a Level 46 **Wigglytuff** for 2211 XP (59% to beat)
+You **Beat** a Level 71 **Bulbasaur** for 3369 XP (38% to beat)
+You **Lost** to a Level 89 **Elgyem** (30% to beat)
+You **Lost** to a Level 92 **Luxray** (29% to beat)
+You **Beat** a Level 48 **Seviper** for 2348 XP (57% to beat)
+You **Lost** to a Level 93 **Stoutland** (29% to beat)
+You **Lost** to a Level 80 **Poliwhirl** (34% to beat)
+You **Beat** a Level 19 **Grumpig** for 550 XP (90% to beat)
+You **Lost** to a Level 69 **Tyrunt** (39% to beat)
+You **Beat** a Level 48 **Unfezant** for 2348 XP (57% to beat)
+You **Lost** to a Level 81 **Feraligatr** (33% to beat)
+You **Lost** to a Level 93 **Fletchling** (29% to beat)
+You use a **Lucky Egg** to gain more XP!
+23 Jan 2017 06:24:41 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You trained for 23173 XP!
+23 Jan 2017 06:25:22 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;pokebattle wfiwwngwfw
+23 Jan 2017 06:25:22 : LimitlessMc, botchat, Botfuzzy77#2209, Level 41 Boss **Sableye** in Hard has 37929 health left.
+23 Jan 2017 06:25:22 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jan 2017 06:25:22 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_f: :regional_indicator_i: :regional_indicator_w: :regional_indicator_w: :regional_indicator_n: :regional_indicator_g: :regional_indicator_w: :regional_indicator_f: :regional_indicator_w:
+:x: :white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :x:
+23 Jan 2017 06:25:22 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+23 Jan 2017 06:25:23 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **489** damage
+23 Jan 2017 06:25:27 : LimitlessMc, botchat, Botfuzzy77#2209, Level 41 Boss **Sableye** has 37440 health left.
+23 Jan 2017 06:32:35 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle BFIWBNGBFB
+23 Jan 2017 06:32:35 : LimitlessMc, botchat, Botfuzzy77#2209, Level 41 Boss **Sableye** in Hard has 37440 health left.
+23 Jan 2017 06:32:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jan 2017 06:32:35 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_b: :regional_indicator_f: :regional_indicator_i: :regional_indicator_w: :regional_indicator_b: :regional_indicator_n: :regional_indicator_g: :regional_indicator_b: :regional_indicator_f: :regional_indicator_b:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :x:
+23 Jan 2017 06:32:35 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+23 Jan 2017 06:32:35 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **777** damage
+23 Jan 2017 06:32:40 : LimitlessMc, botchat, Botfuzzy77#2209, Level 41 Boss **Sableye** has 36663 health left.
+23 Jan 2017 06:35:05 : Unity Of Nirvana, bot_chat, Wertfuzzy77#0274, I sleep now
+23 Jan 2017 06:35:06 : Unity Of Nirvana, bot_chat, Wertfuzzy77#0274, gn
+23 Jan 2017 06:35:18 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ok gn
+23 Jan 2017 06:36:03 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;cd
+23 Jan 2017 06:36:03 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 84 seconds
+23 Jan 2017 06:37:47 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;train
+23 Jan 2017 06:37:48 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 67 **Slugma** (27% to beat)
+You **Lost** to a Level 41 **Gliscor** (45% to beat)
+You **Lost** to a Level 50 **Smeargle** (37% to beat)
+You **Lost** to a Level 5 **Magneton** (90% to beat)
+You **Lost** to a Level 68 **Igglybuff** (27% to beat)
+You **Beat** a Level 16 **Arbok** for 370 XP (90% to beat)
+You **Lost** to a Level 29 **Pidgey** (63% to beat)
+You **Lost** to a Level 13 **Cradily** (90% to beat)
+You **Lost** to a Level 70 **Gardevoir** (26% to beat)
+You **Beat** a Level 8 **Cubone** for 370 XP (90% to beat)
+You Find a **Pokeloot** worth 2744 XP
+23 Jan 2017 06:37:48 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 3484 XP!
+23 Jan 2017 06:48:45 : The Wild Weebs, general, enragednuke#2565, @Tally
+23 Jan 2017 06:49:05 : The Wild Weebs, general, enragednuke#2565, 
+23 Jan 2017 06:49:10 : The Wild Weebs, general, enragednuke#2565, and 118 cb
+23 Jan 2017 06:49:12 : The Wild Weebs, general, enragednuke#2565, g o d b l e s s
+23 Jan 2017 06:58:57 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;leave
+23 Jan 2017 07:03:05 : LimitlessMc, botchat, Crystal4209#4698, ;train
+23 Jan 2017 07:03:05 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 54 **Delibird** for 2400 XP (33% to beat)
+You **Beat** a Level 18 **Electrike** for 360 XP (90% to beat)
+You **Beat** a Level 52 **Huntail** for 2353 XP (34% to beat)
+You **Beat** a Level 28 **Vigoroth** for 1285 XP (64% to beat)
+You **Beat** a Level 18 **Charmeleon** for 360 XP (90% to beat)
+You **Beat** a Level 12 **Tropius** for 360 XP (90% to beat)
+You **Lost** to a Level 33 **Snorlax** (54% to beat)
+You **Lost** to a Level 69 **Manaphy** (26% to beat)
+You **Beat** a Level 1 **Pignite** for 360 XP (90% to beat)
+You **Beat** a Level 55 **Beheeyem** for 2421 XP (32% to beat)
+23 Jan 2017 07:03:05 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 9899 XP!
+23 Jan 2017 07:04:11 : None, Direct Message with TherminatorX, TherminatorX#6644, ;level
+23 Jan 2017 07:04:11 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **Name**: *TherminatorX*
+**Level**: 55
+**XP**: 109839/175616
+**Boss Takedowns**: 29
+**Most Dmg in an Attack**: 64152
+23 Jan 2017 07:04:21 : None, Direct Message with TherminatorX, TherminatorX#6644, ;ranking
+23 Jan 2017 07:04:21 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :first_place: **TherminatorX** Level **55**
+:second_place: **DanTurboX** Level **53**
+:third_place: **Wertfuzzy77** Level **48**
+:medal: jjtwilefc Level 47
+:medal: MoonWolf Level 39
+:medal: MrMudkipKipperten Level 37
+:medal: Crystal4209 Level 36
+:medal: Bakafish Level 31
+:medal: theOnlyJuan Level 30
+:medal: 🌟💖Resolate💖🌟 Level 30
+23 Jan 2017 07:04:30 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokedex
+23 Jan 2017 07:04:30 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your Pokedex is 43.7% complete!
+23 Jan 2017 07:04:43 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokeboss
+23 Jan 2017 07:04:43 : None, Direct Message with TherminatorX, Botfuzzy77#2209, -= **Hard Boss Pokemon** =-
+*Name*: Sableye
+*Health*: 36663/38376 (95.54%)
+*Level*: 41
+Last Combo:
+:regional_indicator_b: :regional_indicator_f: :regional_indicator_i: :regional_indicator_w: :regional_indicator_b: :regional_indicator_n: :regional_indicator_g: :regional_indicator_b: :regional_indicator_f: :regional_indicator_b:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :x:
+23 Jan 2017 07:04:43 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+23 Jan 2017 07:04:43 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Most Damage by **Wertfuzzy77** with **888** damage
+23 Jan 2017 07:04:43 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 2nd most Damage by *MrMudkipKipperten* with *718* damage
+23 Jan 2017 07:04:43 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 3rd most Damage by *Crystal4209* with *107* damage
+23 Jan 2017 07:08:51 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;cd
+23 Jan 2017 07:08:51 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 1737 seconds
+23 Jan 2017 07:24:37 : LimitlessMc, botchat, theOnlyJuan#9357, ;cd
+23 Jan 2017 07:24:37 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You can Train right now!
+23 Jan 2017 07:24:42 : LimitlessMc, botchat, theOnlyJuan#9357, ;train
+23 Jan 2017 07:24:42 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 30 **Whirlipede** (50% to beat)
+You **Lost** to a Level 41 **Mismagius** (36% to beat)
+You **Lost** to a Level 9 **Shaymin** (90% to beat)
+You **Lost** to a Level 35 **Baltoy** (42% to beat)
+You **Beat** a Level 18 **Chingling** for 499 XP (83% to beat)
+You **Lost** to a Level 56 **Woobat** (26% to beat)
+You **Lost** to a Level 49 **Vileplume** (30% to beat)
+You **Lost** to a Level 31 **Mawile** (48% to beat)
+You **Lost** to a Level 8 **Pyroar** (90% to beat)
+You use a **Lucky Egg** to gain more XP!
+23 Jan 2017 07:24:42 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 748 XP!
+23 Jan 2017 07:32:49 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;cd
+23 Jan 2017 07:32:49 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 298 seconds
+23 Jan 2017 07:36:12 : LimitlessMc, mainchat, Crystal4209#4698, man best day cycle iv had so far found 2 greninjas 1 froakie and 1 Frogadier  if it keeps up like that i might be able to find the HA a little bit easier
+23 Jan 2017 07:42:23 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;train
+23 Jan 2017 07:42:23 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 45 **Castform** (41% to beat)
+You **Lost** to a Level 38 **Victini** (48% to beat)
+You **Beat** a Level 44 **Marowak** for 2144 XP (42% to beat)
+You **Beat** a Level 5 **Rufflet** for 370 XP (90% to beat)
+You **Beat** a Level 66 **Lugia** for 2662 XP (28% to beat)
+You **Beat** a Level 56 **Qwilfish** for 2477 XP (33% to beat)
+You **Beat** a Level 33 **Lickitung** for 1625 XP (56% to beat)
+You **Lost** to a Level 30 **Pidgeotto** (61% to beat)
+You **Beat** a Level 20 **Barbaracle** for 370 XP (90% to beat)
+You **Beat** a Level 67 **Lanturn** for 2678 XP (27% to beat)
+You use a **Lucky Egg** to gain more XP!
+23 Jan 2017 07:42:24 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 18489 XP!
+23 Jan 2017 07:46:04 : None, Direct Message with TherminatorX, TherminatorX#6644, ;train
+23 Jan 2017 07:46:04 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You **Lost** to a Level 53 **Aerodactyl** (51% to beat)
+You **Lost** to a Level 105 **Whimsicott** (26% to beat)
+You **Lost** to a Level 78 **Chesnaught** (35% to beat)
+You **Beat** a Level 38 **Volcarona** for 1519 XP (72% to beat)
+You **Beat** a Level 24 **Relicanth** for 550 XP (90% to beat)
+You **Lost** to a Level 93 **Shelmet** (29% to beat)
+You **Lost** to a Level 93 **Kangaskhan** (29% to beat)
+You **Beat** a Level 25 **Electabuzz** for 550 XP (90% to beat)
+You **Beat** a Level 43 **Tyranitar** for 1982 XP (63% to beat)
+You **Beat** a Level 36 **Mesprit** for 1298 XP (76% to beat)
+You **Beat** a Level 6 **Florges** for 550 XP (90% to beat)
+You **Beat** a Level 4 **Mudkip** for 550 XP (90% to beat)
+You **Beat** a Level 55 **Shinx** for 2750 XP (50% to beat)
+You **Beat** a Level 45 **Elgyem** for 2138 XP (61% to beat)
+You **Beat** a Level 47 **Mesprit** for 2281 XP (58% to beat)
+You Find a **Pokeloot** worth 8781 XP
+23 Jan 2017 07:46:04 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You trained for 22949 XP!
+23 Jan 2017 07:46:23 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokedex mesprit
+23 Jan 2017 07:46:23 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You **have** beat a Mesprit
+23 Jan 2017 07:46:32 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokedex uxie
+23 Jan 2017 07:46:33 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You **have** beat a Uxie
+23 Jan 2017 07:46:41 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokedex azelf
+23 Jan 2017 07:46:41 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You have not beat a Azelf
+23 Jan 2017 07:46:53 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokedex azlef
+23 Jan 2017 07:46:53 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You have not beat a Azlef
+23 Jan 2017 07:47:29 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle bfiwdngdfd
+23 Jan 2017 07:47:29 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 41 Boss **Sableye** in Hard has 36663 health left.
+23 Jan 2017 07:47:30 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+23 Jan 2017 07:47:30 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_b: :regional_indicator_f: :regional_indicator_i: :regional_indicator_w: :regional_indicator_d: :regional_indicator_n: :regional_indicator_g: :regional_indicator_d: :regional_indicator_f: :regional_indicator_d:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :x:
+23 Jan 2017 07:47:30 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+23 Jan 2017 07:47:30 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **823** damage
+23 Jan 2017 07:47:34 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 41 Boss **Sableye** has 35840 health left.
+23 Jan 2017 07:49:08 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle bfiwdngefe
+23 Jan 2017 07:49:08 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 41 Boss **Sableye** in Hard has 35840 health left.
+23 Jan 2017 07:49:08 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+23 Jan 2017 07:49:08 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_b: :regional_indicator_f: :regional_indicator_i: :regional_indicator_w: :regional_indicator_d: :regional_indicator_n: :regional_indicator_g: :regional_indicator_e: :regional_indicator_f: :regional_indicator_e:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x:
+23 Jan 2017 07:49:08 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Super Effective! The Boss has switched 1/4 of the Super Effective Moves!
+23 Jan 2017 07:49:08 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **6126** damage
+23 Jan 2017 07:49:13 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 41 Boss **Sableye** has 29714 health left.
+23 Jan 2017 08:25:22 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;cd
+23 Jan 2017 08:25:22 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 1022 seconds
+23 Jan 2017 08:25:30 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;cd
+23 Jan 2017 08:25:30 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 1014 seconds
+23 Jan 2017 08:27:52 : None, Direct Message with TherminatorX, TherminatorX#6644, ;train
+23 Jan 2017 08:27:52 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Please wait 1092 seconds before you can train again.
+23 Jan 2017 08:28:13 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokeboss
+23 Jan 2017 08:28:13 : None, Direct Message with TherminatorX, Botfuzzy77#2209, -= **Hard Boss Pokemon** =-
+*Name*: Sableye
+*Health*: 29714/38376 (77.43%)
+*Level*: 41
+Last Combo:
+:regional_indicator_b: :regional_indicator_f: :regional_indicator_i: :regional_indicator_w: :regional_indicator_d: :regional_indicator_n: :regional_indicator_g: :regional_indicator_e: :regional_indicator_f: :regional_indicator_e:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x:
+23 Jan 2017 08:28:13 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+23 Jan 2017 08:28:13 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Most Damage by **TherminatorX** with **6949** damage
+23 Jan 2017 08:28:13 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 2nd most Damage by *Wertfuzzy77* with *888* damage
+23 Jan 2017 08:28:13 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 3rd most Damage by *MrMudkipKipperten* with *718* damage
+23 Jan 2017 08:28:18 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Assisted by Crystal4209
+23 Jan 2017 08:28:30 : LimitlessMc, mainchat, DicloniusSheep#6564, can someone buy me Slime Rancher? XD
+23 Jan 2017 08:28:32 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle bfiwdngefe
+23 Jan 2017 08:28:32 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 41 Boss **Sableye** in Hard has 29714 health left.
+23 Jan 2017 08:28:32 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+23 Jan 2017 08:28:32 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_b: :regional_indicator_f: :regional_indicator_i: :regional_indicator_w: :regional_indicator_d: :regional_indicator_n: :regional_indicator_g: :regional_indicator_e: :regional_indicator_f: :regional_indicator_e:
+:x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :x:
+23 Jan 2017 08:28:32 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+23 Jan 2017 08:28:32 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **932** damage
+23 Jan 2017 08:28:37 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 41 Boss **Sableye** has 28782 health left.
+23 Jan 2017 08:35:22 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle dfiwdnbeff
+23 Jan 2017 08:35:22 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 41 Boss **Sableye** in Hard has 28782 health left.
+23 Jan 2017 08:35:22 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+23 Jan 2017 08:35:22 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_d: :regional_indicator_f: :regional_indicator_i: :regional_indicator_w: :regional_indicator_d: :regional_indicator_n: :regional_indicator_b: :regional_indicator_e: :regional_indicator_f: :regional_indicator_f:
+:x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x:
+23 Jan 2017 08:35:22 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+23 Jan 2017 08:35:22 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **1017** damage
+23 Jan 2017 08:35:27 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 41 Boss **Sableye** has 27765 health left.
+23 Jan 2017 08:36:26 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;cd
+23 Jan 2017 08:36:26 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 358 seconds
+23 Jan 2017 08:36:31 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;pokeboss
+23 Jan 2017 08:36:31 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Hard Boss Pokemon** =-
+*Name*: Sableye
+*Health*: 27765/38376 (72.35%)
+*Level*: 41
+Last Combo:
+:regional_indicator_d: :regional_indicator_f: :regional_indicator_i: :regional_indicator_w: :regional_indicator_d: :regional_indicator_n: :regional_indicator_b: :regional_indicator_e: :regional_indicator_f: :regional_indicator_f:
+:x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x:
+23 Jan 2017 08:36:31 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jan 2017 08:36:31 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **TherminatorX** with **8898** damage
+23 Jan 2017 08:36:31 : LimitlessMc, botchat, Botfuzzy77#2209, 2nd most Damage by *Wertfuzzy77* with *888* damage
+23 Jan 2017 08:36:31 : LimitlessMc, botchat, Botfuzzy77#2209, 3rd most Damage by *MrMudkipKipperten* with *718* damage
+23 Jan 2017 08:36:31 : LimitlessMc, botchat, Botfuzzy77#2209, Assisted by Crystal4209
+23 Jan 2017 08:36:52 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;pokebattle sfiwdnbefs
+23 Jan 2017 08:36:52 : LimitlessMc, botchat, Botfuzzy77#2209, Level 41 Boss **Sableye** in Hard has 27765 health left.
+23 Jan 2017 08:36:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jan 2017 08:36:53 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_s: :regional_indicator_f: :regional_indicator_i: :regional_indicator_w: :regional_indicator_d: :regional_indicator_n: :regional_indicator_b: :regional_indicator_e: :regional_indicator_f: :regional_indicator_s:
+:x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x:
+23 Jan 2017 08:36:53 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+23 Jan 2017 08:36:53 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **636** damage
+23 Jan 2017 08:36:57 : LimitlessMc, botchat, Botfuzzy77#2209, Level 41 Boss **Sableye** has 27129 health left.
+23 Jan 2017 08:37:41 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle efiwdnbefp
+23 Jan 2017 08:37:41 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 41 Boss **Sableye** in Hard has 27129 health left.
+23 Jan 2017 08:37:41 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+23 Jan 2017 08:37:41 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_e: :regional_indicator_f: :regional_indicator_i: :regional_indicator_w: :regional_indicator_d: :regional_indicator_n: :regional_indicator_b: :regional_indicator_e: :regional_indicator_f: :regional_indicator_p:
+:x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+23 Jan 2017 08:37:41 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Super Effective! The Boss has switched 1/4 of the Super Effective Moves!
+23 Jan 2017 08:37:41 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **9393** damage
+23 Jan 2017 08:37:46 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 41 Boss **Sableye** has 17736 health left.
+23 Jan 2017 08:38:33 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokeboss
+23 Jan 2017 08:38:33 : None, Direct Message with TherminatorX, Botfuzzy77#2209, -= **Hard Boss Pokemon** =-
+*Name*: Sableye
+*Health*: 17736/38376 (46.22%)
+*Level*: 41
+Last Combo:
+:regional_indicator_e: :regional_indicator_f: :regional_indicator_i: :regional_indicator_w: :regional_indicator_d: :regional_indicator_n: :regional_indicator_b: :regional_indicator_e: :regional_indicator_f: :regional_indicator_p:
+:x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+23 Jan 2017 08:38:34 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+23 Jan 2017 08:38:34 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Most Damage by **TherminatorX** with **18291** damage
+23 Jan 2017 08:38:34 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 2nd most Damage by *MrMudkipKipperten* with *1354* damage
+23 Jan 2017 08:38:34 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 3rd most Damage by *Wertfuzzy77* with *888* damage
+23 Jan 2017 08:38:38 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Assisted by Crystal4209
+23 Jan 2017 08:39:56 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle efiwdnbefp
+23 Jan 2017 08:39:56 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 41 Boss **Sableye** in Hard has 17736 health left.
+23 Jan 2017 08:39:56 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+23 Jan 2017 08:39:56 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_e: :regional_indicator_f: :regional_indicator_i: :regional_indicator_w: :regional_indicator_d: :regional_indicator_n: :regional_indicator_b: :regional_indicator_e: :regional_indicator_f: :regional_indicator_p:
+:x: :white_check_mark: :x: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+23 Jan 2017 08:39:56 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+23 Jan 2017 08:39:56 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **890** damage
+23 Jan 2017 08:40:01 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 41 Boss **Sableye** has 16846 health left.
+23 Jan 2017 08:40:19 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle ffbbdnbefp
+23 Jan 2017 08:40:19 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Please wait 72 seconds before you can fight the boss again.
+23 Jan 2017 08:44:52 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle ffnbdnbefp
+23 Jan 2017 08:44:52 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 41 Boss **Sableye** in Hard has 16846 health left.
+23 Jan 2017 08:44:53 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+23 Jan 2017 08:44:53 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_f: :regional_indicator_n: :regional_indicator_b: :regional_indicator_d: :regional_indicator_n: :regional_indicator_b: :regional_indicator_e: :regional_indicator_f: :regional_indicator_p:
+:x: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+23 Jan 2017 08:44:53 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+23 Jan 2017 08:44:53 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **920** damage
+23 Jan 2017 08:44:58 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 41 Boss **Sableye** has 15926 health left.
+23 Jan 2017 08:45:16 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle ffnbdnbepf
+23 Jan 2017 08:45:16 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Please wait 71 seconds before you can fight the boss again.
+23 Jan 2017 08:45:30 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle gfpbdnbepf
+23 Jan 2017 08:45:30 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Please wait 57 seconds before you can fight the boss again.
+23 Jan 2017 09:02:38 : LimitlessMc, mainchat, DicloniusSheep#6564, https://www.youtube.com/watch?v=pNxsJSvPtYQ
+23 Jan 2017 09:02:50 : LimitlessMc, mainchat, DicloniusSheep#6564, @Wertfuzzy77 i stfg you ever buy this we wont ever talk to you again XD
+23 Jan 2017 09:04:26 : LimitlessMc, mainchat, Crystal4209#4698, i will still talk to you @Wertfuzzy77 if you buy it
+23 Jan 2017 09:05:16 : LimitlessMc, mainchat, DicloniusSheep#6564, @Crystal4209 yeah sure XD he'll be ded from never playing games again
+23 Jan 2017 09:05:23 : LimitlessMc, mainchat, Crystal4209#4698, lel
+23 Jan 2017 09:05:41 : LimitlessMc, mainchat, DicloniusSheep#6564, that thing controls all the internet/technical stuff you have in the house, and even your phone
+23 Jan 2017 09:05:51 : LimitlessMc, mainchat, DicloniusSheep#6564, and you can buy it for 3grand XD
+23 Jan 2017 09:06:03 : LimitlessMc, mainchat, DicloniusSheep#6564, totally worth it to have satan spawn in your home every night
+23 Jan 2017 09:06:17 : LimitlessMc, mainchat, Crystal4209#4698, lel
+23 Jan 2017 09:07:09 : LimitlessMc, botchat, Crystal4209#4698, ;train
+23 Jan 2017 09:07:09 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 26 **Patrat** (69% to beat)
+You **Beat** a Level 5 **Thundurus** for 360 XP (90% to beat)
+You **Beat** a Level 19 **Doduo** for 360 XP (90% to beat)
+You **Lost** to a Level 31 **Cobalion** (58% to beat)
+You **Lost** to a Level 33 **Tornadus** (54% to beat)
+You **Lost** to a Level 67 **Rhyperior** (26% to beat)
+You **Beat** a Level 14 **Sandile** for 360 XP (90% to beat)
+You **Lost** to a Level 44 **Milotic** (40% to beat)
+You **Beat** a Level 7 **Rufflet** for 360 XP (90% to beat)
+You **Lost** to a Level 56 **Gulpin** (32% to beat)
+You use a **Lucky Egg** to gain more XP!
+23 Jan 2017 09:07:09 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 2160 XP!
+23 Jan 2017 09:07:42 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;cd
+23 Jan 2017 09:07:42 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You can Train right now!
+23 Jan 2017 09:07:47 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;train
+23 Jan 2017 09:07:47 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 45 **Cacturne** (42% to beat)
+You **Beat** a Level 60 **Skuntank** for 2596 XP (31% to beat)
+You **Lost** to a Level 57 **Stunky** (33% to beat)
+You **Lost** to a Level 35 **Lilligant** (54% to beat)
+You **Lost** to a Level 73 **Nidoran♂** (26% to beat)
+You **Beat** a Level 54 **Electivire** for 2462 XP (35% to beat)
+You **Lost** to a Level 59 **Nidoran♂** (32% to beat)
+You **Lost** to a Level 50 **Pawniard** (38% to beat)
+You **Lost** to a Level 69 **Woobat** (27% to beat)
+You **Lost** to a Level 62 **Magnemite** (30% to beat)
+You **Beat** a Level 19 **Goomy** for 380 XP (90% to beat)
+You use a **Lucky Egg** to gain more XP!
+23 Jan 2017 09:07:47 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 8157 XP!
+23 Jan 2017 09:10:14 : LimitlessMc, mainchat, DicloniusSheep#6564, @Crystal4209 i have a problem and i dont need the internet rn
+23 Jan 2017 09:10:15 : LimitlessMc, mainchat, DicloniusSheep#6564, https://s-media-cache-ak0.pinimg.com/736x/b1/17/73/b11773f710d1587ed725f88d697c1903.jpg
+23 Jan 2017 09:10:20 : LimitlessMc, mainchat, DicloniusSheep#6564, lordy jesus what is this
+23 Jan 2017 09:10:30 : LimitlessMc, mainchat, Crystal4209#4698, lol
+23 Jan 2017 09:10:53 : LimitlessMc, mainchat, DicloniusSheep#6564, who the hell eats meatballs and a hotdog with a egg for breakfast?
+23 Jan 2017 09:11:11 : LimitlessMc, mainchat, Crystal4209#4698, i dont know
+23 Jan 2017 09:11:31 : LimitlessMc, mainchat, DicloniusSheep#6564, WHAT KIND OF SICK PEOPLE ARE THEY
+23 Jan 2017 09:11:56 : LimitlessMc, mainchat, DicloniusSheep#6564, EVERYONE KNOWS YOU MUST EAT EGGS, BACON, CEREAL AND idk, rice XD
+23 Jan 2017 09:12:10 : LimitlessMc, mainchat, Crystal4209#4698, lel
+23 Jan 2017 09:14:07 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle gfpbdnbepf
+23 Jan 2017 09:14:07 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 41 Boss **Sableye** in Hard has 15926 health left.
+23 Jan 2017 09:14:07 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+23 Jan 2017 09:14:07 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_g: :regional_indicator_f: :regional_indicator_p: :regional_indicator_b: :regional_indicator_d: :regional_indicator_n: :regional_indicator_b: :regional_indicator_e: :regional_indicator_p: :regional_indicator_f:
+:x: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :x:
+23 Jan 2017 09:14:07 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its a Critical Strike
+23 Jan 2017 09:14:07 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+23 Jan 2017 09:14:12 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **1525** damage
+23 Jan 2017 09:14:12 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 41 Boss **Sableye** has 14401 health left.
+23 Jan 2017 09:14:16 : None, Direct Message with TherminatorX, TherminatorX#6644, ;train
+23 Jan 2017 09:14:16 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You **Lost** to a Level 33 **Krookodile** (83% to beat)
+You **Beat** a Level 98 **Kangaskhan** for 3956 XP (28% to beat)
+You **Lost** to a Level 41 **Noivern** (67% to beat)
+You **Lost** to a Level 106 **Raichu** (25% to beat)
+You **Lost** to a Level 106 **Lucario** (25% to beat)
+You **Beat** a Level 66 **Bisharp** for 3208 XP (41% to beat)
+You **Beat** a Level 20 **Golbat** for 550 XP (90% to beat)
+You **Lost** to a Level 55 **Hawlucha** (50% to beat)
+You **Beat** a Level 95 **Gothitelle** for 3907 XP (28% to beat)
+You **Beat** a Level 16 **Chingling** for 550 XP (90% to beat)
+You **Lost** to a Level 53 **Aurorus** (51% to beat)
+You **Beat** a Level 13 **Cryogonal** for 550 XP (90% to beat)
+You **Beat** a Level 64 **Trubbish** for 3136 XP (42% to beat)
+You **Lost** to a Level 58 **Wingull** (47% to beat)
+You **Lost** to a Level 1 **Minun** (90% to beat)
+23 Jan 2017 09:14:16 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You trained for 15857 XP!
+23 Jan 2017 09:14:41 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokedex
+23 Jan 2017 09:14:41 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your Pokedex is 44.19% complete!
+23 Jan 2017 09:17:33 : LimitlessMc, mainchat, Crystal4209#4698, :3
+23 Jan 2017 09:21:02 : LimitlessMc, mainchat, DicloniusSheep#6564, https://static1.fjcdn.com/thumbnails/comments/Then+you+need+to+find+something+better+to+do+_182849298c8b7948689559f113c5be0f.jpg
+23 Jan 2017 09:21:06 : LimitlessMc, mainchat, DicloniusSheep#6564, @Crystal4209 ^
+23 Jan 2017 09:21:13 : LimitlessMc, mainchat, Crystal4209#4698, lel
+23 Jan 2017 09:22:40 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;cd
+23 Jan 2017 09:22:40 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 2708 seconds
+23 Jan 2017 09:39:29 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;pokebattle wfiwdnbefw
+23 Jan 2017 09:39:29 : LimitlessMc, botchat, Botfuzzy77#2209, Level 41 Boss **Sableye** in Hard has 14401 health left.
+23 Jan 2017 09:39:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jan 2017 09:39:29 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_f: :regional_indicator_i: :regional_indicator_w: :regional_indicator_d: :regional_indicator_n: :regional_indicator_b: :regional_indicator_e: :regional_indicator_f: :regional_indicator_w:
+:white_check_mark: :white_check_mark: :x: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x:
+23 Jan 2017 09:39:29 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+23 Jan 2017 09:39:29 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **673** damage
+23 Jan 2017 09:39:34 : LimitlessMc, botchat, Botfuzzy77#2209, Level 41 Boss **Sableye** has 13728 health left.
+23 Jan 2017 09:46:39 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;pokeboss wfnndnbefn
+23 Jan 2017 09:46:54 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;pokebattle wfnndnbefn
+23 Jan 2017 09:46:54 : LimitlessMc, botchat, Botfuzzy77#2209, Level 41 Boss **Sableye** in Hard has 13728 health left.
+23 Jan 2017 09:46:55 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jan 2017 09:46:55 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_f: :regional_indicator_n: :regional_indicator_n: :regional_indicator_d: :regional_indicator_n: :regional_indicator_b: :regional_indicator_e: :regional_indicator_f: :regional_indicator_n:
+:white_check_mark: :white_check_mark: :x: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x:
+23 Jan 2017 09:46:55 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+23 Jan 2017 09:46:55 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **673** damage
+23 Jan 2017 09:47:00 : LimitlessMc, botchat, Botfuzzy77#2209, Level 41 Boss **Sableye** has 13055 health left.
+23 Jan 2017 09:57:04 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;cd
+23 Jan 2017 09:57:04 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 643 seconds
+23 Jan 2017 10:00:16 : None, Direct Message with TherminatorX, TherminatorX#6644, ;train
+23 Jan 2017 10:00:16 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Please wait 840 seconds before you can train again.
+23 Jan 2017 10:18:22 : None, Direct Message with TherminatorX, TherminatorX#6644, ;train
+23 Jan 2017 10:18:22 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You **Beat** a Level 64 **Binacle** for 3136 XP (42% to beat)
+You **Lost** to a Level 62 **Makuhita** (44% to beat)
+You **Beat** a Level 105 **Froakie** for 4059 XP (26% to beat)
+You **Lost** to a Level 66 **Sewaddle** (41% to beat)
+You **Beat** a Level 95 **Mienshao** for 3907 XP (28% to beat)
+You **Beat** a Level 107 **Beartic** for 4086 XP (25% to beat)
+You **Lost** to a Level 52 **Spheal** (52% to beat)
+You **Lost** to a Level 54 **Torkoal** (50% to beat)
+You **Beat** a Level 108 **Armaldo** for 4099 XP (25% to beat)
+You **Lost** to a Level 61 **Joltik** (45% to beat)
+You **Lost** to a Level 97 **Chandelure** (28% to beat)
+You **Beat** a Level 8 **Dunsparce** for 550 XP (90% to beat)
+You **Lost** to a Level 106 **Swanna** (25% to beat)
+You **Lost** to a Level 47 **Palpitoad** (58% to beat)
+You **Beat** a Level 29 **Grimer** for 550 XP (90% to beat)
+You use a **Lucky Egg** to gain more XP!
+23 Jan 2017 10:18:22 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You trained for 30580 XP!
+23 Jan 2017 10:19:15 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;cd
+23 Jan 2017 10:19:15 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You can Train right now!
+23 Jan 2017 10:19:21 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;train
+23 Jan 2017 10:19:21 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 52 **Weepinbell** (36% to beat)
+You **Beat** a Level 58 **Chespin** for 2555 XP (32% to beat)
+You **Beat** a Level 2 **Kingdra** for 380 XP (90% to beat)
+You **Beat** a Level 19 **Altaria** for 380 XP (90% to beat)
+You **Lost** to a Level 56 **Seel** (33% to beat)
+You **Lost** to a Level 53 **Manaphy** (35% to beat)
+You **Beat** a Level 18 **Relicanth** for 380 XP (90% to beat)
+You **Lost** to a Level 44 **Lumineon** (43% to beat)
+You **Lost** to a Level 36 **Croagunk** (52% to beat)
+You **Lost** to a Level 69 **Omastar** (27% to beat)
+You **Lost** to a Level 59 **Bellossom** (32% to beat)
+You use a **Lucky Egg** to gain more XP!
+You Find a **Great Pokeloot** worth 8898 XP
+23 Jan 2017 10:19:21 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 14441 XP!
+23 Jan 2017 10:27:49 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;cd
+23 Jan 2017 10:27:49 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 3093 seconds
+23 Jan 2017 10:28:13 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle ifbbdnbefp
+23 Jan 2017 10:28:13 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 41 Boss **Sableye** in Hard has 13055 health left.
+23 Jan 2017 10:28:13 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+23 Jan 2017 10:28:13 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_f: :regional_indicator_b: :regional_indicator_b: :regional_indicator_d: :regional_indicator_n: :regional_indicator_b: :regional_indicator_e: :regional_indicator_f: :regional_indicator_p:
+:x: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+23 Jan 2017 10:28:13 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+23 Jan 2017 10:28:13 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **1183** damage
+23 Jan 2017 10:28:18 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 41 Boss **Sableye** has 11872 health left.
+23 Jan 2017 10:29:52 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle wfsbdnbepf
+23 Jan 2017 10:29:52 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 41 Boss **Sableye** in Hard has 11872 health left.
+23 Jan 2017 10:29:53 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+23 Jan 2017 10:29:53 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_f: :regional_indicator_s: :regional_indicator_b: :regional_indicator_d: :regional_indicator_n: :regional_indicator_b: :regional_indicator_e: :regional_indicator_p: :regional_indicator_f:
+:white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :x:
+23 Jan 2017 10:29:53 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+23 Jan 2017 10:29:53 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **820** damage
+23 Jan 2017 10:29:57 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 41 Boss **Sableye** has 11052 health left.
+23 Jan 2017 10:30:48 : None, Direct Message with TherminatorX, TherminatorX#6644, ;ranking
+23 Jan 2017 10:30:48 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :first_place: **TherminatorX** Level **56**
+:second_place: **DanTurboX** Level **53**
+:third_place: **Wertfuzzy77** Level **48**
+:medal: jjtwilefc Level 47
+:medal: MoonWolf Level 39
+:medal: MrMudkipKipperten Level 38
+:medal: Crystal4209 Level 36
+:medal: Bakafish Level 31
+:medal: theOnlyJuan Level 30
+:medal: 🌟💖Resolate💖🌟 Level 30
+23 Jan 2017 10:31:00 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;level
+23 Jan 2017 10:31:00 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *MrMudkipKipperten*
+**Level**: 38
+**XP**: 39236/59319
+**Boss Takedowns**: 3
+**Most Dmg in an Attack**: 7129
+23 Jan 2017 10:31:53 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle wfwbdnbepf
+23 Jan 2017 10:31:53 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 41 Boss **Sableye** in Hard has 11052 health left.
+23 Jan 2017 10:31:54 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+23 Jan 2017 10:31:54 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_f: :regional_indicator_w: :regional_indicator_b: :regional_indicator_d: :regional_indicator_n: :regional_indicator_b: :regional_indicator_e: :regional_indicator_p: :regional_indicator_f:
+:white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :x:
+23 Jan 2017 10:31:54 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+23 Jan 2017 10:31:54 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **949** damage
+23 Jan 2017 10:31:58 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 41 Boss **Sableye** has 10103 health left.
+23 Jan 2017 10:34:40 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle wfdbdnbepf
+23 Jan 2017 10:34:40 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 41 Boss **Sableye** in Hard has 10103 health left.
+23 Jan 2017 10:34:40 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+23 Jan 2017 10:34:40 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_f: :regional_indicator_d: :regional_indicator_b: :regional_indicator_d: :regional_indicator_n: :regional_indicator_b: :regional_indicator_e: :regional_indicator_p: :regional_indicator_f:
+:white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :x:
+23 Jan 2017 10:34:40 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+23 Jan 2017 10:34:40 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **949** damage
+23 Jan 2017 10:34:45 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 41 Boss **Sableye** has 9154 health left.
+23 Jan 2017 10:37:52 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle wfebdnbepf
+23 Jan 2017 10:37:52 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 41 Boss **Sableye** in Hard has 9154 health left.
+23 Jan 2017 10:37:52 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+23 Jan 2017 10:37:52 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_f: :regional_indicator_e: :regional_indicator_b: :regional_indicator_d: :regional_indicator_n: :regional_indicator_b: :regional_indicator_e: :regional_indicator_p: :regional_indicator_f:
+:white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :x:
+23 Jan 2017 10:37:52 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+23 Jan 2017 10:37:52 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **949** damage
+23 Jan 2017 10:37:57 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 41 Boss **Sableye** has 8205 health left.
+23 Jan 2017 10:44:07 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle wffbdnbepf
+23 Jan 2017 10:44:07 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 41 Boss **Sableye** in Hard has 8205 health left.
+23 Jan 2017 10:44:07 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+23 Jan 2017 10:44:07 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_f: :regional_indicator_f: :regional_indicator_b: :regional_indicator_d: :regional_indicator_n: :regional_indicator_b: :regional_indicator_e: :regional_indicator_p: :regional_indicator_f:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :x:
+23 Jan 2017 10:44:07 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+23 Jan 2017 10:44:07 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **937** damage
+23 Jan 2017 10:44:12 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 41 Boss **Sableye** has 7268 health left.
+23 Jan 2017 10:47:55 : LimitlessMc, botchat, TherminatorX#6644, ;polebattle wffbdnbefp
+23 Jan 2017 10:48:05 : LimitlessMc, botchat, TherminatorX#6644, ;pokebattle wffbdnbefp
+23 Jan 2017 10:48:05 : LimitlessMc, botchat, Botfuzzy77#2209, Level 41 Boss **Sableye** in Hard has 7268 health left.
+23 Jan 2017 10:48:05 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jan 2017 10:48:06 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_f: :regional_indicator_f: :regional_indicator_b: :regional_indicator_d: :regional_indicator_n: :regional_indicator_b: :regional_indicator_e: :regional_indicator_f: :regional_indicator_p:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+23 Jan 2017 10:48:06 : LimitlessMc, botchat, Botfuzzy77#2209, Its a Perfect Combo. The Boss has switched 1/2 of the Super Effective Moves!
+23 Jan 2017 10:48:06 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **22177** damage
+23 Jan 2017 10:48:10 : LimitlessMc, botchat, Botfuzzy77#2209, Level 41 Boss **Sableye** has been defeated!
+23 Jan 2017 10:48:11 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **TherminatorX** with **49590** damage
+23 Jan 2017 10:48:11 : LimitlessMc, botchat, Botfuzzy77#2209, 2nd most Damage by *MrMudkipKipperten* with *2700* damage
+23 Jan 2017 10:48:11 : LimitlessMc, botchat, Botfuzzy77#2209, 3rd most Damage by *Wertfuzzy77* with *888* damage
+23 Jan 2017 10:48:11 : LimitlessMc, botchat, Botfuzzy77#2209, Assisted by Crystal4209
+23 Jan 2017 10:48:20 : LimitlessMc, botchat, TherminatorX#6644, ;level
+23 Jan 2017 10:48:20 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *TherminatorX*
+**Level**: 56
+**XP**: 36369/185193
+**Boss Takedowns**: 30
+**Most Dmg in an Attack**: 64152
+23 Jan 2017 10:49:38 : LimitlessMc, botchat, TherminatorX#6644, ;cd
+23 Jan 2017 10:49:38 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 1724 seconds
+23 Jan 2017 11:43:44 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;join
+23 Jan 2017 11:44:06 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;playlist Maroon Adele ACDC FUN Eddie Coldplay Dragons Shelter
+23 Jan 2017 11:44:28 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;shuffle
+23 Jan 2017 11:44:28 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Shuffling songs...
+23 Jan 2017 11:44:57 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+23 Jan 2017 11:45:33 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ima restart comp
+23 Jan 2017 11:45:37 : Unity Of Nirvana, bot_chat, Third_Worm#4804, gonna try that
+23 Jan 2017 11:46:06 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ok
+23 Jan 2017 11:47:21 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;debug ctx.message.server.get_member_named("Poptart").avatar_url
+23 Jan 2017 11:47:35 : Unity Of Nirvana, bot_chat, Crystal4209#4698, guess i dont have perms :I
+23 Jan 2017 11:47:59 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;song
+23 Jan 2017 11:47:59 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, **Name**: Photograph - Ed Sheeran (Solo Acoustic Guitar Cover) Eddie van der Meer [Request Video #2]
+**Requester**: Crystal4209
+**URL**: <https://www.youtube.com/watch?v=sXUJtMEKHQY>
+```py
+Time: 0:03:13
+Views: 353,440
+Likes: 4,508, 98.97%
+Dislikes: 47, 1.03%
+Skips: 0/0```
+23 Jan 2017 11:49:14 : Unity Of Nirvana, bot_chat, Crystal4209#4698, rip still not working?
+23 Jan 2017 11:49:26 : Unity Of Nirvana, bot_chat, Third_Worm#4804, yup not working
+23 Jan 2017 11:49:42 : Unity Of Nirvana, bot_chat, Crystal4209#4698, hm wonder why
+23 Jan 2017 11:50:03 : Unity Of Nirvana, bot_chat, Crystal4209#4698, do you have the app?
+23 Jan 2017 11:50:35 : Unity Of Nirvana, bot_chat, Third_Worm#4804, cromebook crystal
+23 Jan 2017 11:50:37 : Unity Of Nirvana, bot_chat, Third_Worm#4804, cromebook
+23 Jan 2017 11:50:43 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ofc
+23 Jan 2017 11:50:45 : Unity Of Nirvana, bot_chat, Third_Worm#4804, i can't download discord
+23 Jan 2017 11:50:51 : Unity Of Nirvana, bot_chat, Third_Worm#4804, since i have no windows
+23 Jan 2017 11:50:56 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;-;
+23 Jan 2017 11:50:56 : Unity Of Nirvana, bot_chat, Third_Worm#4804, i already tryed
+23 Jan 2017 11:50:58 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;-;
+23 Jan 2017 11:51:22 : Unity Of Nirvana, bot_chat, Third_Worm#4804, wait if i join
+23 Jan 2017 11:51:29 : Unity Of Nirvana, bot_chat, Third_Worm#4804, i wanna see if you can hear me
+23 Jan 2017 11:51:49 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;-;
+23 Jan 2017 11:51:51 : Unity Of Nirvana, bot_chat, Third_Worm#4804, i'm taking that as a no
+23 Jan 2017 11:51:52 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;-;
+23 Jan 2017 11:52:06 : Unity Of Nirvana, bot_chat, Third_Worm#4804, Waitttt
+23 Jan 2017 11:52:12 : Unity Of Nirvana, bot_chat, Third_Worm#4804, o nvm
+23 Jan 2017 11:52:14 : Unity Of Nirvana, bot_chat, Third_Worm#4804, fock
+23 Jan 2017 11:52:59 : Unity Of Nirvana, general, Botfuzzy77#2209, Welcome @Adam to Unity Of Nirvana!
+23 Jan 2017 11:53:05 : Unity Of Nirvana, general, Crystal4209#4698, welcome
+23 Jan 2017 11:53:44 : Unity Of Nirvana, general, Crystal4209#4698, lel like your tag adam?
+23 Jan 2017 11:53:54 : Unity Of Nirvana, general, Adam#7575, I do, mercí
+23 Jan 2017 11:54:06 : Unity Of Nirvana, general, Crystal4209#4698, new you would like it lel
+23 Jan 2017 11:55:04 : Unity Of Nirvana, general, Crystal4209#4698, yeah as you can see this server is still work in progress but its gonna be the best and more active then the pulse chat
+23 Jan 2017 11:55:15 : Unity Of Nirvana, general, Third_Worm#4804, ima fixing discord atm
+23 Jan 2017 11:55:24 : Unity Of Nirvana, general, Third_Worm#4804, dear lord you changed it again
+23 Jan 2017 11:55:28 : Unity Of Nirvana, general, Third_Worm#4804, Hey Adam
+23 Jan 2017 11:55:35 : Unity Of Nirvana, general, Crystal4209#4698, http://limitlessmc.net/f/viewtopic.php?f=11&t=4332
+23 Jan 2017 11:55:35 : Unity Of Nirvana, general, Botfuzzy77#2209, ** #13710  by Crystal4209 Mon Jan 23, 2017 4:36 am 			**
+ Reply
+------------------------------------
+we all know that i have recently became a moderator on the server, well in the short time spam of me being a mod i have learnt  alot about being it too, sure being staff has its pros and cons but we do it anyway because we love this server. What i want to tell you is what i have picked up from what players have told me or from the way they speak in chat.
+
+<strong>1.</strong>I have seen people asking for elytras and other things that cant be obtained legitimately this is one of the things that are just annoying to see in chat because we already know the answer and we think you should to players cant get an elytra because you cant get into the end and the end is basically disabled because pixelmon has messed with it making it unable to go there and thats the only legit way of getting a elytra and if you ask staff for one you should really know the answer by now let me just say it now "no you cant have a elytra because 1 other players would ask for them 2 they are a mod+ thing to have so you know that if you see us in the wild or a gym you know that we are staff" that is all im gonna say on the subject on the eltra on the the next thing.
+ 
+<strong>2.</strong>I have experienced and seen people ask a question in chat then a minute later for them they start blowing up at staff for not answering there question or something this is bec...
+------------------------------------
+*If you would like to read more, click the link below!*
+http://limitlessmc.net/f/viewtopic.php?f=11&t=4332
+23 Jan 2017 11:55:45 : Unity Of Nirvana, general, Crystal4209#4698, read it :3
+23 Jan 2017 11:55:47 : LimitlessMc, botchat, MoonWolf#8885, ;train
+23 Jan 2017 11:55:47 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 79 **Murkrow** for 2987 XP (25% to beat)
+You **Beat** a Level 53 **Articuno** for 2490 XP (37% to beat)
+You **Beat** a Level 8 **Floatzel** for 400 XP (90% to beat)
+You **Beat** a Level 16 **Murkrow** for 400 XP (90% to beat)
+You **Lost** to a Level 34 **Mamoswine** (58% to beat)
+You **Beat** a Level 12 **Quagsire** for 400 XP (90% to beat)
+You **Lost** to a Level 66 **Gurdurr** (30% to beat)
+You **Beat** a Level 52 **Slurpuff** for 2461 XP (38% to beat)
+You **Lost** to a Level 61 **Musharna** (32% to beat)
+You **Beat** a Level 23 **Turtwig** for 521 XP (86% to beat)
+You **Beat** a Level 1 **Alakazam** for 400 XP (90% to beat)
+You use a **Lucky Egg** to gain more XP!
+You Find a **Pokeloot** worth 3447 XP
+23 Jan 2017 11:55:47 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 18535 XP!
+23 Jan 2017 11:55:50 : LimitlessMc, botchat, MoonWolf#8885, ;join
+23 Jan 2017 11:55:50 : LimitlessMc, botchat, Botfuzzy77#2209, Sorry, I'm already connected to a channel in server Unity Of Nirvana
+23 Jan 2017 11:55:52 : Unity Of Nirvana, general, Third_Worm#4804, i saw a block of text le
+23 Jan 2017 11:56:07 : Unity Of Nirvana, general, Crystal4209#4698, it was bot i deleted it
+23 Jan 2017 11:56:15 : Unity Of Nirvana, general, Crystal4209#4698, dont like it when it does that :L
+23 Jan 2017 11:56:26 : Unity Of Nirvana, general, Third_Worm#4804, ah i see
+23 Jan 2017 11:57:05 : Unity Of Nirvana, general, Crystal4209#4698, also adam ask me or worm if you want your colour changed always happy to
+23 Jan 2017 11:57:52 : Unity Of Nirvana, general, Third_Worm#4804, o i gotta t=introduce y bot 😄
+23 Jan 2017 11:57:59 : Unity Of Nirvana, general, Third_Worm#4804, *introduce the
+23 Jan 2017 11:58:21 : Unity Of Nirvana, general, Third_Worm#4804, @Genos Bea You alive yet?
+23 Jan 2017 11:58:28 : Unity Of Nirvana, general, Third_Worm#4804, fock no you ain't
+23 Jan 2017 11:58:33 : Unity Of Nirvana, general, Third_Worm#4804, tahst my bot -3-
+23 Jan 2017 11:58:35 : Unity Of Nirvana, general, Third_Worm#4804, *thats
+23 Jan 2017 11:58:48 : Unity Of Nirvana, general, Third_Worm#4804, @Juvia How about you?
+23 Jan 2017 11:58:54 : Unity Of Nirvana, general, Third_Worm#4804, and thats crystals
+23 Jan 2017 11:59:12 : None, Direct Message with TherminatorX, TherminatorX#6644, ;train
+23 Jan 2017 11:59:12 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You **Beat** a Level 61 **Munchlax** for 3029 XP (45% to beat)
+You **Beat** a Level 64 **Magnezone** for 3150 XP (43% to beat)
+You **Beat** a Level 24 **Swalot** for 560 XP (90% to beat)
+You **Lost** to a Level 62 **Frillish** (45% to beat)
+You **Beat** a Level 17 **Mankey** for 560 XP (90% to beat)
+You **Beat** a Level 101 **Bibarel** for 4047 XP (27% to beat)
+You **Beat** a Level 7 **Teddiursa** for 560 XP (90% to beat)
+You **Beat** a Level 53 **Munchlax** for 2641 XP (52% to beat)
+You **Beat** a Level 106 **Chesnaught** for 4120 XP (26% to beat)
+You **Beat** a Level 98 **Fraxure** for 4000 XP (28% to beat)
+You **Lost** to a Level 24 **Greninja** (90% to beat)
+You **Beat** a Level 27 **Lopunny** for 560 XP (90% to beat)
+You **Beat** a Level 78 **Darumaka** for 3589 XP (35% to beat)
+You **Lost** to a Level 62 **Latias** (45% to beat)
+You **Lost** to a Level 76 **Steelix** (36% to beat)
+23 Jan 2017 11:59:12 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You trained for 26816 XP!
+23 Jan 2017 11:59:25 : Unity Of Nirvana, general, Crystal4209#4698, juvia is ded at the moment no coding in yet 😛
+23 Jan 2017 11:59:36 : Unity Of Nirvana, general, Third_Worm#4804, it haz code
+23 Jan 2017 11:59:45 : Unity Of Nirvana, general, Third_Worm#4804, cause its over there --->
+23 Jan 2017 11:59:49 : Unity Of Nirvana, general, Crystal4209#4698, lel
+23 Jan 2017 11:59:58 : Unity Of Nirvana, general, Crystal4209#4698, well its ded need wert to teach me
+23 Jan 2017 12:00:25 : Unity Of Nirvana, general, Third_Worm#4804, i'll be taking notes
+23 Jan 2017 12:00:29 : Unity Of Nirvana, general, Crystal4209#4698, also adam we have a puppers chat if you want to post pictures in there
+23 Jan 2017 12:00:34 : Unity Of Nirvana, general, Third_Worm#4804, focking cromebook has all my files ;-;
+23 Jan 2017 12:01:37 : Unity Of Nirvana, general, Crystal4209#4698, grinding bosses for that exp all ;-;
+23 Jan 2017 12:01:54 : Unity Of Nirvana, general, Third_Worm#4804, ima grinding for soul dew
+23 Jan 2017 12:01:59 : Unity Of Nirvana, general, Third_Worm#4804, and lvls
+23 Jan 2017 12:02:22 : Unity Of Nirvana, general, Crystal4209#4698, adam you ok? @Puplord
+23 Jan 2017 12:02:56 : Unity Of Nirvana, general, Adam#7575, *nods*
+23 Jan 2017 12:03:14 : Unity Of Nirvana, general, Adam#7575, just showered and shaved
+23 Jan 2017 12:03:20 : Unity Of Nirvana, general, Crystal4209#4698, ok well ask me anything if you want something on here ok
+23 Jan 2017 12:03:30 : Unity Of Nirvana, general, Adam#7575, okiedoke
+23 Jan 2017 12:03:45 : Unity Of Nirvana, general, Crystal4209#4698, we have also implemented a puppers chat for ya to
+23 Jan 2017 12:03:53 : Unity Of Nirvana, general, Adam#7575, noticed, thank
+23 Jan 2017 12:04:22 : Unity Of Nirvana, general, Crystal4209#4698, no problem this is a chat for everyone to let loose and be themselves
+23 Jan 2017 12:04:49 : Unity Of Nirvana, general, Crystal4209#4698, but its a no judging server either
+23 Jan 2017 12:05:03 : Unity Of Nirvana, general, Third_Worm#4804, bet i fixed my problem
+23 Jan 2017 12:05:05 : Unity Of Nirvana, general, Third_Worm#4804, i bet hard
+23 Jan 2017 12:05:16 : Unity Of Nirvana, general, Third_Worm#4804, ;-;
+23 Jan 2017 12:05:19 : Unity Of Nirvana, general, Crystal4209#4698, no ;-;
+23 Jan 2017 12:05:27 : Unity Of Nirvana, general, Third_Worm#4804, well i gave access for my mic to discord
+23 Jan 2017 12:05:29 : Unity Of Nirvana, general, Third_Worm#4804, again
+23 Jan 2017 12:05:34 : Unity Of Nirvana, general, Third_Worm#4804, and restarted
+23 Jan 2017 12:05:43 : Unity Of Nirvana, general, Third_Worm#4804, and restarted discord twice
+23 Jan 2017 12:06:04 : Unity Of Nirvana, general, Crystal4209#4698, hm..
+23 Jan 2017 12:06:18 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;train
+23 Jan 2017 12:06:18 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, You **Beat** a Level 62 **Azelf** for 2554 XP (29% to beat)
+You **Beat** a Level 53 **Klang** for 2377 XP (33% to beat)
+You **Lost** to a Level 32 **Tentacool** (56% to beat)
+You **Beat** a Level 11 **Voltorb** for 360 XP (90% to beat)
+You **Lost** to a Level 2 **Chandelure** (90% to beat)
+You **Beat** a Level 62 **Nidorino** for 2554 XP (29% to beat)
+You **Lost** to a Level 68 **Excadrill** (26% to beat)
+You **Beat** a Level 12 **Lunatone** for 360 XP (90% to beat)
+You **Beat** a Level 62 **Mankey** for 2554 XP (29% to beat)
+You **Beat** a Level 41 **Meditite** for 2019 XP (43% to beat)
+You Find a **Pokeloot** worth 2533 XP
+23 Jan 2017 12:06:18 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, You trained for 15311 XP!
+23 Jan 2017 12:06:26 : Unity Of Nirvana, bot_chat, Third_Worm#4804, o
+23 Jan 2017 12:06:29 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;train
+23 Jan 2017 12:06:29 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, You **Beat** a Level 29 **Suicune** for 1448 XP (48% to beat)
+You **Beat** a Level 33 **Cascoon** for 1612 XP (42% to beat)
+You **Lost** to a Level 21 **Misdreavus** (66% to beat)
+You **Lost** to a Level 53 **Vanillite** (26% to beat)
+You **Beat** a Level 6 **Camerupt** for 280 XP (90% to beat)
+You **Beat** a Level 18 **Diglett** for 622 XP (77% to beat)
+You **Beat** a Level 14 **Espurr** for 280 XP (90% to beat)
+You **Beat** a Level 17 **Pelipper** for 494 XP (82% to beat)
+You use a **Lucky Egg** to gain more XP!
+You Find a **Pokeloot** worth 1220 XP
+23 Jan 2017 12:06:29 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, You trained for 8324 XP!
+23 Jan 2017 12:06:42 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ooo lvl 62 azelf i beat heck yeah
+23 Jan 2017 12:06:43 : Unity Of Nirvana, bot_chat, Third_Worm#4804, You Beat a Level 62 Azelf
+23 Jan 2017 12:06:49 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ``You Beat a Level 62 Azelf``
+23 Jan 2017 12:06:52 : Unity Of Nirvana, bot_chat, Crystal4209#4698, lel
+23 Jan 2017 12:06:52 : Unity Of Nirvana, bot_chat, Third_Worm#4804, dear lord
+23 Jan 2017 12:06:56 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;level
+23 Jan 2017 12:06:56 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, **Name**: *Crystal4209*
+**Level**: 36
+**XP**: 35695/50653
+**Boss Takedowns**: 6
+**Most Dmg in an Attack**: 4990
+23 Jan 2017 12:07:06 : Unity Of Nirvana, bot_chat, Crystal4209#4698, 30 levels under to XD
+23 Jan 2017 12:07:07 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ``You Beat a Level 29 Suicune``
+23 Jan 2017 12:07:10 : Unity Of Nirvana, bot_chat, Third_Worm#4804, le
+23 Jan 2017 12:07:17 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;ranking
+23 Jan 2017 12:07:17 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, :first_place: **TherminatorX** Level **56**
+:second_place: **DanTurboX** Level **53**
+:third_place: **Wertfuzzy77** Level **48**
+:medal: jjtwilefc Level 47
+:medal: MoonWolf Level 39
+:medal: MrMudkipKipperten Level 38
+:medal: Crystal4209 Level 36
+:medal: Bakafish Level 31
+:medal: theOnlyJuan Level 30
+:medal: 🌟💖Resolate💖🌟 Level 30
+23 Jan 2017 12:07:21 : Unity Of Nirvana, bot_chat, Third_Worm#4804, o
+23 Jan 2017 12:07:24 : Unity Of Nirvana, bot_chat, Third_Worm#4804, i'm behind
+23 Jan 2017 12:07:27 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;level
+23 Jan 2017 12:07:27 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, **Name**: *Third_Worm*
+**Level**: 28
+**XP**: 20521/24389
+**Boss Takedowns**: 3
+**Most Dmg in an Attack**: 4224
+23 Jan 2017 12:07:33 : Unity Of Nirvana, bot_chat, Third_Worm#4804, by two levels
+23 Jan 2017 12:07:34 : Unity Of Nirvana, bot_chat, Third_Worm#4804, fock
+23 Jan 2017 12:07:39 : Unity Of Nirvana, bot_chat, Crystal4209#4698, lel
+23 Jan 2017 12:07:45 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;pokedex
+23 Jan 2017 12:07:45 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Your Pokedex is 24.72% complete!
+23 Jan 2017 12:07:59 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;pokesex
+23 Jan 2017 12:08:02 : Unity Of Nirvana, bot_chat, Crystal4209#4698, XD
+23 Jan 2017 12:08:03 : Unity Of Nirvana, bot_chat, Third_Worm#4804, fock auto correct
+23 Jan 2017 12:08:08 : Unity Of Nirvana, bot_chat, Crystal4209#4698, 
+23 Jan 2017 12:08:11 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;pokesex
+23 Jan 2017 12:08:13 : Unity Of Nirvana, bot_chat, Third_Worm#4804, shit
+23 Jan 2017 12:08:16 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;pokedex
+23 Jan 2017 12:08:16 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Your Pokedex is 12.36% complete!
+23 Jan 2017 12:08:22 : Unity Of Nirvana, bot_chat, Third_Worm#4804, nooo crystal
+23 Jan 2017 12:08:25 : Unity Of Nirvana, bot_chat, Crystal4209#4698, XD
+23 Jan 2017 12:08:38 : Unity Of Nirvana, bot_chat, Crystal4209#4698, had to sorry
+23 Jan 2017 12:08:42 : Unity Of Nirvana, bot_chat, Third_Worm#4804, its fine
+23 Jan 2017 12:09:01 : Unity Of Nirvana, bot_chat, Crystal4209#4698, we all know i had to ok
+23 Jan 2017 12:09:03 : Unity Of Nirvana, bot_chat, Third_Worm#4804, i swear i'ma kill autocorect
+23 Jan 2017 12:09:08 : Unity Of Nirvana, bot_chat, Third_Worm#4804, yes we all know
+23 Jan 2017 12:09:19 : Unity Of Nirvana, bot_chat, Crystal4209#4698, lel
+23 Jan 2017 12:09:38 : Unity Of Nirvana, bot_chat, Third_Worm#4804, https://www.youtube.com/watch?v=XyXwCSnKNjk
+23 Jan 2017 12:09:44 : Unity Of Nirvana, bot_chat, Third_Worm#4804, this is intense af
+23 Jan 2017 12:09:56 : Unity Of Nirvana, bot_chat, Crystal4209#4698, juvia-chan :3
+23 Jan 2017 12:10:04 : Unity Of Nirvana, bot_chat, Third_Worm#4804, FOCKING ADORABLE
+23 Jan 2017 12:10:11 : Unity Of Nirvana, bot_chat, Crystal4209#4698, I KNOW
+23 Jan 2017 12:10:57 : Unity Of Nirvana, bot_chat, Crystal4209#4698, Juvia-chan again :3
+23 Jan 2017 12:11:28 : Unity Of Nirvana, bot_chat, Third_Worm#4804, That one shows off her colors well
+23 Jan 2017 12:11:33 : Unity Of Nirvana, bot_chat, Crystal4209#4698, bunny Juvia-chan :3
+23 Jan 2017 12:11:40 : Unity Of Nirvana, bot_chat, Third_Worm#4804, dear lord
+23 Jan 2017 12:11:55 : Unity Of Nirvana, bot_chat, Crystal4209#4698, that actually happened in the manga...
+23 Jan 2017 12:12:00 : Unity Of Nirvana, bot_chat, Third_Worm#4804, you have no idea what kind of pic i want to paste
+23 Jan 2017 12:12:05 : Unity Of Nirvana, bot_chat, Third_Worm#4804, o really?
+23 Jan 2017 12:12:08 : Unity Of Nirvana, bot_chat, Third_Worm#4804, nice
+23 Jan 2017 12:12:11 : Unity Of Nirvana, bot_chat, Third_Worm#4804, load
+23 Jan 2017 12:12:18 : Unity Of Nirvana, bot_chat, Third_Worm#4804, pls load
+23 Jan 2017 12:12:19 : Unity Of Nirvana, bot_chat, Third_Worm#4804, <img src="https://s-media-cache-ak0.pinimg.com/736x/f9/7d/1d/f97d1dd5d3124ecfa0a319fdbc50f6b0.jpg" alt="Image result for Good pictures of genos"/>
+23 Jan 2017 12:12:27 : Unity Of Nirvana, bot_chat, Third_Worm#4804, LOL
+23 Jan 2017 12:12:32 : Unity Of Nirvana, bot_chat, Crystal4209#4698, XD
+23 Jan 2017 12:12:46 : Unity Of Nirvana, bot_chat, Third_Worm#4804, "Good job Genos"
+23 Jan 2017 12:13:51 : Unity Of Nirvana, bot_chat, Crystal4209#4698, http://static.comicvine.com/uploads/original/12/128535/4696756-5889625872-Lucy-.jpg
+23 Jan 2017 12:14:01 : Unity Of Nirvana, bot_chat, Third_Worm#4804, le
+23 Jan 2017 12:14:02 : Unity Of Nirvana, bot_chat, Crystal4209#4698, this happened like 1st couple episodes..
+23 Jan 2017 12:14:11 : Unity Of Nirvana, bot_chat, Third_Worm#4804, oh dang
+23 Jan 2017 12:14:18 : Unity Of Nirvana, bot_chat, Crystal4209#4698, yeah lel
+23 Jan 2017 12:14:43 : Unity Of Nirvana, bot_chat, Crystal4209#4698, http://s1.tsuki-board.net/pics/figure/big/117970.jpg?t=1383087396
+i actually have this figure irl
+23 Jan 2017 12:14:58 : Unity Of Nirvana, bot_chat, Third_Worm#4804, Oooooo
+23 Jan 2017 12:15:06 : Unity Of Nirvana, bot_chat, Third_Worm#4804, https://www.youtube.com/watch?v=XyXwCSnKNjk literally listen to this
+23 Jan 2017 12:15:22 : Unity Of Nirvana, bot_chat, Third_Worm#4804, I mean
+23 Jan 2017 12:15:34 : Unity Of Nirvana, bot_chat, Third_Worm#4804, We're away's serious
+23 Jan 2017 12:15:38 : Unity Of Nirvana, bot_chat, Third_Worm#4804, 
+23 Jan 2017 12:15:43 : Unity Of Nirvana, bot_chat, Third_Worm#4804, boom easy done
+23 Jan 2017 12:15:54 : Unity Of Nirvana, bot_chat, Crystal4209#4698, lel
+23 Jan 2017 12:16:55 : Unity Of Nirvana, bot_chat, Third_Worm#4804, i have this pic
+23 Jan 2017 12:16:59 : Unity Of Nirvana, bot_chat, Third_Worm#4804, thats still loading
+23 Jan 2017 12:17:08 : Unity Of Nirvana, bot_chat, Crystal4209#4698, https://s-media-cache-ak0.pinimg.com/originals/51/be/e0/51bee0c78b95fb4169602e34b1e66d15.jpg
+should totes recreated this on a skin :3
+23 Jan 2017 12:17:33 : Unity Of Nirvana, bot_chat, Crystal4209#4698, http://pre01.deviantart.net/51de/th/pre/f/2015/168/a/9/lucy_by_serenaheart-d8xoox0.jpg
+23 Jan 2017 12:17:37 : Unity Of Nirvana, bot_chat, Crystal4209#4698, or this one
+23 Jan 2017 12:17:40 : Unity Of Nirvana, bot_chat, Third_Worm#4804, Looks good
+23 Jan 2017 12:17:45 : Unity Of Nirvana, bot_chat, Third_Worm#4804, stop slowing my pic ;-;
+23 Jan 2017 12:17:56 : Unity Of Nirvana, bot_chat, Crystal4209#4698, lel
+23 Jan 2017 12:18:40 : Unity Of Nirvana, bot_chat, Third_Worm#4804, 
+23 Jan 2017 12:18:59 : Unity Of Nirvana, bot_chat, Crystal4209#4698, oo
+23 Jan 2017 12:19:19 : LimitlessMc, botchat, MoonWolf#8885, ;join
+23 Jan 2017 12:19:19 : LimitlessMc, botchat, Botfuzzy77#2209, Sorry, I'm already connected to a channel in server Unity Of Nirvana
+23 Jan 2017 12:19:33 : Unity Of Nirvana, bot_chat, Crystal4209#4698, http://vignette4.wikia.nocookie.net/fairytail/images/a/aa/Lucy_in_bunny_suit.jpg/revision/latest?cb=20101011183633
+23 Jan 2017 12:19:35 : LimitlessMc, botchat, MoonWolf#8885, ;song
+23 Jan 2017 12:19:35 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Maroon 5 - Animals
+**Requester**: Crystal4209
+**URL**: <https://www.youtube.com/watch?v=qpgTC9MDx1o>
+```py
+Time: 0:04:40
+Views: 398,802,686
+Likes: 1,900,443, 94.08%
+Dislikes: 119,624, 5.92%
+Skips: 0/0```
+23 Jan 2017 12:19:37 : LimitlessMc, botchat, MoonWolf#8885, ;songs
+23 Jan 2017 12:19:37 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue, plus [5] more**
+23 Jan 2017 12:19:37 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Adele - Turning Tables (With Lyrics) **Crystal4209**
+	<https://www.youtube.com/watch?v=dx7sLNyIeQk>
+2. Adventure of a Lifetime - Coldplay [Fingerstyle Guitar Cover by Eddie van der Meer] **Crystal4209**
+	<https://www.youtube.com/watch?v=06ucCiEBv74>
+3. Fun.: Some Nights [OFFICIAL VIDEO] **Crystal4209**
+	<https://www.youtube.com/watch?v=qQkBeOisNM0>
+4. Adele - Set Fire To The Rain (Live at The Royal Albert Hall) **Crystal4209**
+	<https://www.youtube.com/watch?v=Ri7-vnrJD3k>
+5. Fun.: Carry On [OFFICIAL VIDEO] **Crystal4209**
+	<https://www.youtube.com/watch?v=q7yCLn-O-Y0>
+6. Maroon 5 - Payphone (Explicit) ft. Wiz Khalifa **Crystal4209**
+	<https://www.youtube.com/watch?v=KRaWnd3LJfs>
+7. Shelter - Porter Robinson & Madeon [Fingerstyle Guitar Cover by Eddie van der Meer] **Crystal4209**
+	<https://www.youtube.com/watch?v=NtOJw5DUrKw>
+8. Demons - Imagine Dragons [Fingerstyle Guitar Cover by Eddie van der Meer] **Crystal4209**
+	<https://www.youtube.com/watch?v=Aci2ZgyFUm8>
+9. AC/DC - Thunderstruck (Official Video) **Crystal4209**
+	<https://www.youtube.com/watch?v=v2AC41dglnM>
+10. Clocks - Coldplay (Cover by Eddie van der Meer) [Facebook Requests #1] **Crystal4209**
+	<https://www.youtube.com/watch?v=-W2vDAmXDQY>
+Total Time is 1:02:39
+23 Jan 2017 12:19:42 : Unity Of Nirvana, bot_chat, Crystal4209#4698, this also happened in the anime and manga XD
+23 Jan 2017 12:19:54 : LimitlessMc, mainchat, MoonWolf#8885, @Crystal4209 Bring back the bot.
+23 Jan 2017 12:19:59 : LimitlessMc, mainchat, Crystal4209#4698, no
+23 Jan 2017 12:20:17 : Unity Of Nirvana, bot_chat, Third_Worm#4804, o-o
+23 Jan 2017 12:20:34 : Unity Of Nirvana, bot_chat, Third_Worm#4804, #GoodSKin
+23 Jan 2017 12:20:43 : LimitlessMc, mainchat, StubbyMuffins#1053, why you leave guild and delete me you nub @Crystal4209
+23 Jan 2017 12:20:47 : Unity Of Nirvana, bot_chat, Crystal4209#4698, shes also been naked a couple times to..
+23 Jan 2017 12:20:55 : LimitlessMc, mainchat, StubbyMuffins#1053, demote ban
+23 Jan 2017 12:20:58 : LimitlessMc, mainchat, Crystal4209#4698, what
+23 Jan 2017 12:21:04 : LimitlessMc, mainchat, Third_Worm#4804, tera
+23 Jan 2017 12:21:10 : LimitlessMc, mainchat, Crystal4209#4698, no i deleted the charecter
+23 Jan 2017 12:21:12 : LimitlessMc, mainchat, Third_Worm#4804, i know its tera
+23 Jan 2017 12:21:18 : LimitlessMc, mainchat, Crystal4209#4698, character*
+23 Jan 2017 12:21:21 : LimitlessMc, mainchat, StubbyMuffins#1053, ban for all
+23 Jan 2017 12:21:25 : Unity Of Nirvana, bot_chat, Third_Worm#4804, O-o
+23 Jan 2017 12:21:25 : LimitlessMc, mainchat, StubbyMuffins#1053, i go on rampage
+23 Jan 2017 12:21:29 : LimitlessMc, mainchat, Crystal4209#4698, no please dont ;-;
+23 Jan 2017 12:21:35 : LimitlessMc, mainchat, Crystal4209#4698, i sorry
+23 Jan 2017 12:21:41 : LimitlessMc, mainchat, Third_Worm#4804, the ruthless rainbow strikes again!
+23 Jan 2017 12:22:04 : LimitlessMc, mainchat, StubbyMuffins#1053, i need to do this dungeons but no one is around
+23 Jan 2017 12:22:08 : LimitlessMc, mainchat, StubbyMuffins#1053, zzzz
+23 Jan 2017 12:22:10 : LimitlessMc, mainchat, Crystal4209#4698, no i deleted the character i wanted to start a new
+23 Jan 2017 12:22:16 : LimitlessMc, mainchat, MoonWolf#8885, @StubbyMuffins What level?
+23 Jan 2017 12:22:21 : LimitlessMc, mainchat, StubbyMuffins#1053, its a level 60 one
+23 Jan 2017 12:22:29 : LimitlessMc, mainchat, StubbyMuffins#1053, argon corpus
+23 Jan 2017 12:22:30 : LimitlessMc, mainchat, MoonWolf#8885, What class are you?
+23 Jan 2017 12:22:33 : LimitlessMc, mainchat, StubbyMuffins#1053, for quest
+23 Jan 2017 12:22:35 : LimitlessMc, mainchat, StubbyMuffins#1053, im a warrior
+23 Jan 2017 12:22:53 : LimitlessMc, mainchat, MoonWolf#8885, I think i could help you.
+23 Jan 2017 12:22:57 : LimitlessMc, mainchat, MoonWolf#8885, Im lvl 59
+23 Jan 2017 12:23:10 : LimitlessMc, mainchat, StubbyMuffins#1053, i hate having to do duneons to do facking story missions
+23 Jan 2017 12:23:24 : LimitlessMc, mainchat, StubbyMuffins#1053, dungeons*
+23 Jan 2017 12:23:38 : Unity Of Nirvana, bot_chat, Crystal4209#4698, https://pbs.twimg.com/profile_images/449135267728064512/geQfBFcE.jpeg
+23 Jan 2017 12:23:40 : Unity Of Nirvana, bot_chat, Crystal4209#4698, :3
+23 Jan 2017 12:23:41 : Unity Of Nirvana, bot_chat, Third_Worm#4804, LOAD
+23 Jan 2017 12:23:49 : Unity Of Nirvana, bot_chat, Third_Worm#4804, noo you slowed again, but that is
+23 Jan 2017 12:23:50 : LimitlessMc, mainchat, StubbyMuffins#1053, im 62 so even if you did it with me idk if you would get exp or items
+23 Jan 2017 12:23:52 : Unity Of Nirvana, bot_chat, Third_Worm#4804, SO CUTE
+23 Jan 2017 12:23:58 : Unity Of Nirvana, bot_chat, Crystal4209#4698, lel
+23 Jan 2017 12:24:13 : Unity Of Nirvana, bot_chat, Third_Worm#4804, also
+23 Jan 2017 12:24:19 : Unity Of Nirvana, bot_chat, Third_Worm#4804, don't ask about the pic
+23 Jan 2017 12:24:20 : Unity Of Nirvana, bot_chat, Third_Worm#4804, le
+23 Jan 2017 12:24:25 : Unity Of Nirvana, bot_chat, Third_Worm#4804, heuheuheu
+23 Jan 2017 12:24:32 : Unity Of Nirvana, bot_chat, Crystal4209#4698, lel oh god
+23 Jan 2017 12:24:46 : Unity Of Nirvana, bot_chat, Third_Worm#4804, its not that bad -3-
+23 Jan 2017 12:24:51 : Unity Of Nirvana, bot_chat, Third_Worm#4804, <img src="http://img07.deviantart.net/669e/i/2015/363/7/0/genos_by_kyoichii-d9lyrlt.png" alt="Image result for Genos"/>
+23 Jan 2017 12:24:55 : Unity Of Nirvana, bot_chat, Third_Worm#4804, just shows my inner worship for this anime
+23 Jan 2017 12:25:00 : Unity Of Nirvana, bot_chat, Crystal4209#4698, lol
+23 Jan 2017 12:25:50 : Unity Of Nirvana, bot_chat, Third_Worm#4804, its perfection
+23 Jan 2017 12:26:40 : Unity Of Nirvana, bot_chat, Crystal4209#4698, http://static.zerochan.net/Gray.Fullbuster.full.2036104.jpg
+23 Jan 2017 12:26:46 : Unity Of Nirvana, bot_chat, Crystal4209#4698, my husbando :3
+23 Jan 2017 12:26:53 : Unity Of Nirvana, bot_chat, Third_Worm#4804, le
+23 Jan 2017 12:27:10 : Unity Of Nirvana, bot_chat, Third_Worm#4804, <img src="http://img05.deviantart.net/f0ed/i/2015/338/a/e/genos___one_punch_man__by_hibarisora-d9j0580.jpg" alt="Image result for Genos"/>
+23 Jan 2017 12:27:11 : Unity Of Nirvana, bot_chat, Third_Worm#4804, come on
+23 Jan 2017 12:27:12 : Unity Of Nirvana, bot_chat, Crystal4209#4698, (hes always shirtless)
+23 Jan 2017 12:27:17 : Unity Of Nirvana, bot_chat, Third_Worm#4804, (dam)
+23 Jan 2017 12:27:20 : LimitlessMc, mainchat, MoonWolf#8885, Just do the matchmaking thing then
+23 Jan 2017 12:27:27 : LimitlessMc, mainchat, StubbyMuffins#1053, ive been
+23 Jan 2017 12:27:30 : Unity Of Nirvana, bot_chat, Crystal4209#4698, (cause hes to cool)
+23 Jan 2017 12:27:31 : LimitlessMc, mainchat, StubbyMuffins#1053, in que for ages
+23 Jan 2017 12:27:50 : Unity Of Nirvana, bot_chat, Crystal4209#4698, (like literally to cool since hes a ice mage :3)
+23 Jan 2017 12:28:05 : Unity Of Nirvana, bot_chat, Third_Worm#4804, (i swear thats a pun)
+23 Jan 2017 12:28:14 : Unity Of Nirvana, bot_chat, Crystal4209#4698, (i swear its not)
+23 Jan 2017 12:28:34 : Unity Of Nirvana, bot_chat, Crystal4209#4698, http://img10.deviantart.net/d4d2/i/2015/327/3/a/ice_arrow___gray_fullbuster_by_ladybakura92-d9g8dge.png
+23 Jan 2017 12:29:10 : Unity Of Nirvana, bot_chat, Crystal4209#4698, http://images5.fanpop.com/image/photos/30200000/Grey-gray-fullbuster-30217648-500-400.jpg
+23 Jan 2017 12:29:18 : Unity Of Nirvana, bot_chat, Crystal4209#4698, god old art style ;-;
+23 Jan 2017 12:29:43 : Unity Of Nirvana, bot_chat, Third_Worm#4804, its still good
+23 Jan 2017 12:30:04 : Unity Of Nirvana, bot_chat, Crystal4209#4698, yeah i miss the old art style but i love the new one to
+23 Jan 2017 12:30:24 : Unity Of Nirvana, bot_chat, Crystal4209#4698, http://img03.deviantart.net/207c/i/2015/082/4/d/fairy_tail_424_gray_fullbuster_by_mansour_s-d8m0igv.png
+23 Jan 2017 12:30:27 : Unity Of Nirvana, bot_chat, Crystal4209#4698, :3
+23 Jan 2017 12:30:39 : Unity Of Nirvana, bot_chat, Third_Worm#4804, oooo
+23 Jan 2017 12:30:42 : Unity Of Nirvana, bot_chat, Crystal4209#4698, demon gray
+23 Jan 2017 12:30:52 : Unity Of Nirvana, bot_chat, Third_Worm#4804, *nods*
+23 Jan 2017 12:31:22 : Unity Of Nirvana, bot_chat, Crystal4209#4698, no actually demon he was turning into one from his magic :#
+23 Jan 2017 12:31:30 : Unity Of Nirvana, bot_chat, Third_Worm#4804, O
+23 Jan 2017 12:31:50 : Unity Of Nirvana, bot_chat, Third_Worm#4804, <img src="https://i.ytimg.com/vi/D-PnRiH7fPg/maxresdefault.jpg" alt="Image result for Saitama"/>
+23 Jan 2017 12:31:51 : Unity Of Nirvana, bot_chat, Third_Worm#4804, Me in everyday life ^
+23 Jan 2017 12:31:55 : Unity Of Nirvana, bot_chat, Crystal4209#4698, you have to watch fairy tail XD
+23 Jan 2017 12:32:00 : Unity Of Nirvana, bot_chat, Third_Worm#4804, i must indeed
+23 Jan 2017 12:32:07 : Unity Of Nirvana, bot_chat, Crystal4209#4698, also this https://i.ytimg.com/vi/9qW-66RMI5Q/hqdefault.jpg
+23 Jan 2017 12:32:16 : Unity Of Nirvana, bot_chat, Crystal4209#4698, gotta love how much juvia tries
+23 Jan 2017 12:32:33 : Unity Of Nirvana, bot_chat, Third_Worm#4804, mhm
+23 Jan 2017 12:33:01 : Unity Of Nirvana, bot_chat, Crystal4209#4698, love it :3
+23 Jan 2017 12:33:06 : Unity Of Nirvana, bot_chat, Crystal4209#4698, also love juvia
+23 Jan 2017 12:33:11 : Unity Of Nirvana, bot_chat, Third_Worm#4804, okei
+23 Jan 2017 12:33:27 : Unity Of Nirvana, bot_chat, Crystal4209#4698, if i was a boy juvia would be my waifu :3
+23 Jan 2017 12:33:51 : Unity Of Nirvana, bot_chat, Third_Worm#4804, *types in saitama*
+23 Jan 2017 12:33:54 : Unity Of Nirvana, bot_chat, Third_Worm#4804, gets this
+23 Jan 2017 12:33:57 : Unity Of Nirvana, bot_chat, Crystal4209#4698, well thats enough of me worshiping the anime/manga
+23 Jan 2017 12:34:20 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ?
+23 Jan 2017 12:34:20 : Unity Of Nirvana, bot_chat, Third_Worm#4804, *Waiting*
+23 Jan 2017 12:34:24 : Unity Of Nirvana, bot_chat, Crystal4209#4698, lel
+23 Jan 2017 12:34:27 : Unity Of Nirvana, bot_chat, Third_Worm#4804, load you piece of
+23 Jan 2017 12:34:40 : Unity Of Nirvana, bot_chat, Third_Worm#4804, <img src="https://1.bp.blogspot.com/-K-47x3wPHkM/VuCVOv66BcI/AAAAAAAAXoA/OAPtSt5gXXM/s1600/Ceasar%2BIan%2BMuyuela%2B2.jpg" alt="Related image"/>
+23 Jan 2017 12:34:45 : Unity Of Nirvana, bot_chat, Third_Worm#4804, the shit?
+23 Jan 2017 12:34:49 : Unity Of Nirvana, bot_chat, Third_Worm#4804, o well
+23 Jan 2017 12:34:54 : Unity Of Nirvana, bot_chat, Third_Worm#4804, i got that in my search
+23 Jan 2017 12:35:05 : Unity Of Nirvana, bot_chat, Third_Worm#4804, and i was like
+23 Jan 2017 12:35:09 : Unity Of Nirvana, bot_chat, Third_Worm#4804, IT CAN SENSE ME
+23 Jan 2017 12:35:14 : Unity Of Nirvana, bot_chat, Third_Worm#4804, *SCREACH*
+23 Jan 2017 12:35:44 : LimitlessMc, mainchat, StubbyMuffins#1053, nvm might be able to solo it just ass raped first boss
+23 Jan 2017 12:36:07 : Unity Of Nirvana, bot_chat, Third_Worm#4804, it actaully has my beas
+23 Jan 2017 12:36:13 : Unity Of Nirvana, bot_chat, Third_Worm#4804, thats on my team
+23 Jan 2017 12:36:50 : Unity Of Nirvana, bot_chat, Crystal4209#4698, lel
+23 Jan 2017 12:37:38 : Unity Of Nirvana, bot_chat, Crystal4209#4698, oh rip puplord ;-;
+23 Jan 2017 12:38:06 : Unity Of Nirvana, bot_chat, Third_Worm#4804, i just found
+23 Jan 2017 12:38:13 : Unity Of Nirvana, bot_chat, Third_Worm#4804, my ultimate trigger picture
+23 Jan 2017 12:38:21 : Unity Of Nirvana, bot_chat, Third_Worm#4804, aw puplord ;-;
+23 Jan 2017 12:38:30 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;-;
+23 Jan 2017 12:38:54 : Unity Of Nirvana, bot_chat, Third_Worm#4804, <img src="http://4.bp.blogspot.com/-sK2hEuD4-58/VmHGYm0reAI/AAAAAAAAAIY/3HhUe9-UnPc/s1600/4.png" alt="Related image"/>
+23 Jan 2017 12:38:56 : Unity Of Nirvana, bot_chat, Third_Worm#4804, this pic triggers the shit out of me
+23 Jan 2017 12:39:03 : Unity Of Nirvana, bot_chat, Third_Worm#4804, why is it doubleing?
+23 Jan 2017 12:39:06 : Unity Of Nirvana, bot_chat, Third_Worm#4804, - .-
+23 Jan 2017 12:39:13 : Unity Of Nirvana, bot_chat, Crystal4209#4698, oh jesus lel
+23 Jan 2017 12:40:27 : Unity Of Nirvana, bot_chat, Third_Worm#4804, my final pic
+23 Jan 2017 12:40:38 : Unity Of Nirvana, bot_chat, Third_Worm#4804, just a figurine i want
+23 Jan 2017 12:40:50 : Unity Of Nirvana, bot_chat, Third_Worm#4804, wow thats taking forever
+23 Jan 2017 12:41:41 : Unity Of Nirvana, bot_chat, Third_Worm#4804, WOW
+23 Jan 2017 12:41:47 : Unity Of Nirvana, bot_chat, Third_Worm#4804, such graphics
+23 Jan 2017 12:41:50 : Unity Of Nirvana, bot_chat, Third_Worm#4804, amiright?
+23 Jan 2017 12:42:08 : Unity Of Nirvana, bot_chat, Crystal4209#4698, lel
+23 Jan 2017 12:42:16 : Unity Of Nirvana, bot_chat, Third_Worm#4804, its fulll
+23 Jan 2017 12:42:21 : Unity Of Nirvana, bot_chat, Third_Worm#4804, come on post it
+23 Jan 2017 12:42:21 : Unity Of Nirvana, bot_chat, Third_Worm#4804, <img src="https://www.metropolis-collectibles.com/images/saitama-xtra-01.jpg" alt="Image result for Saitama"/>
+23 Jan 2017 12:42:25 : Unity Of Nirvana, bot_chat, Third_Worm#4804, SKILL
+23 Jan 2017 12:42:29 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ooo
+23 Jan 2017 12:42:39 : Unity Of Nirvana, bot_chat, Third_Worm#4804, i want all the figurines ;-;
+23 Jan 2017 12:42:50 : Unity Of Nirvana, bot_chat, Third_Worm#4804, give me mihawk as well
+23 Jan 2017 12:42:56 : Unity Of Nirvana, bot_chat, Third_Worm#4804, okei?
+23 Jan 2017 12:42:57 : Unity Of Nirvana, bot_chat, Third_Worm#4804, kthx
+23 Jan 2017 12:43:34 : Unity Of Nirvana, bot_chat, Crystal4209#4698, https://sc01.alicdn.com/kf/HTB1uBfXKFXXXXc_XVXXq6xXFXXXy/Fashion-style-resin-fairy-tail-erza-figure.jpg
+23 Jan 2017 12:43:38 : Unity Of Nirvana, bot_chat, Crystal4209#4698, i want this one :3
+23 Jan 2017 12:43:57 : Unity Of Nirvana, bot_chat, Crystal4209#4698, http://thumbs1.ebaystatic.com/d/l225/m/mAqHe70tEPcsZCy9SAfTAvA.jpg
+23 Jan 2017 12:44:00 : Unity Of Nirvana, bot_chat, Crystal4209#4698, i got this one
+23 Jan 2017 12:44:15 : Unity Of Nirvana, bot_chat, Third_Worm#4804, oo000
+23 Jan 2017 12:44:19 : Unity Of Nirvana, bot_chat, Crystal4209#4698, http://img.amiami.jp/images/product/main/141/FIGURE-005252.jpg
+23 Jan 2017 12:44:22 : Unity Of Nirvana, bot_chat, Crystal4209#4698, i also got this one
+23 Jan 2017 12:44:39 : Unity Of Nirvana, bot_chat, Third_Worm#4804, They all look great!
+23 Jan 2017 12:44:43 : Unity Of Nirvana, bot_chat, Third_Worm#4804, i want them ;-;
+23 Jan 2017 12:44:49 : LimitlessMc, botchat, MoonWolf#8885, jj halp me here.
+23 Jan 2017 12:44:58 : LimitlessMc, botchat, MoonWolf#8885, please do ;leave
+23 Jan 2017 12:45:03 : Unity Of Nirvana, bot_chat, Third_Worm#4804, but i'm saving money for alpha
+23 Jan 2017 12:45:05 : LimitlessMc, botchat, Dankdra#0051, ;train
+23 Jan 2017 12:45:05 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 40 **Giratina** (61% to beat)
+You **Beat** a Level 94 **Yanma** for 3622 XP (26% to beat)
+You **Beat** a Level 21 **Cherubi** for 490 XP (90% to beat)
+You **Lost** to a Level 93 **Feraligatr** (26% to beat)
+You **Lost** to a Level 39 **Conkeldurr** (62% to beat)
+You **Lost** to a Level 85 **Nidorina** (28% to beat)
+You **Beat** a Level 33 **Kakuna** for 1262 XP (74% to beat)
+You **Lost** to a Level 96 **Phantump** (25% to beat)
+You **Beat** a Level 10 **Bayleef** for 490 XP (90% to beat)
+You **Beat** a Level 10 **Lunatone** for 490 XP (90% to beat)
+You **Beat** a Level 9 **Feebas** for 490 XP (90% to beat)
+You **Beat** a Level 6 **Zekrom** for 490 XP (90% to beat)
+You **Beat** a Level 11 **Heracross** for 490 XP (90% to beat)
+23 Jan 2017 12:45:05 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 7824 XP!
+23 Jan 2017 12:45:05 : Unity Of Nirvana, bot_chat, Third_Worm#4804, so no
+23 Jan 2017 12:45:06 : Unity Of Nirvana, bot_chat, Crystal4209#4698, http://cdn.shopify.com/s/files/1/0914/3028/products/fairy-tail-fairy-tail-erza-scarlet-18cm-pvc-figure-19_1024x1024.jpg?v=1467380703
+23 Jan 2017 12:45:10 : Unity Of Nirvana, bot_chat, Third_Worm#4804, o-o
+23 Jan 2017 12:45:11 : Unity Of Nirvana, bot_chat, Crystal4209#4698, i want this one :3
+23 Jan 2017 12:45:13 : LimitlessMc, botchat, MoonWolf#8885, ;cd
+23 Jan 2017 12:45:13 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 635 seconds
+23 Jan 2017 12:45:19 : Unity Of Nirvana, bot_chat, Third_Worm#4804, s-same
+23 Jan 2017 12:45:35 : Unity Of Nirvana, bot_chat, Crystal4209#4698, even if it is revealing my parents wouldnt care :3
+23 Jan 2017 12:45:46 : Unity Of Nirvana, bot_chat, Third_Worm#4804, le
+23 Jan 2017 12:45:50 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ima half afk now
+23 Jan 2017 12:46:00 : Unity Of Nirvana, bot_chat, Third_Worm#4804, but keep talking if you want
+23 Jan 2017 12:46:11 : Unity Of Nirvana, bot_chat, Crystal4209#4698, https://www.otakuhq.com/images/pvc/PVC6422-3.jpg
+23 Jan 2017 12:46:15 : Unity Of Nirvana, bot_chat, Crystal4209#4698, and this one :3
+23 Jan 2017 12:46:21 : Unity Of Nirvana, bot_chat, Third_Worm#4804, o my
+23 Jan 2017 12:46:33 : Unity Of Nirvana, bot_chat, Crystal4209#4698, very revealing lel
+23 Jan 2017 12:47:49 : Unity Of Nirvana, bot_chat, Third_Worm#4804, indeed
+23 Jan 2017 12:47:49 : Unity Of Nirvana, bot_chat, Third_Worm#4804, le
+23 Jan 2017 12:48:15 : Unity Of Nirvana, bot_chat, Crystal4209#4698, but we all know that i dont care :3
+23 Jan 2017 12:48:49 : Unity Of Nirvana, bot_chat, Third_Worm#4804, mhm
+23 Jan 2017 12:49:21 : Unity Of Nirvana, bot_chat, Crystal4209#4698, i also have a pink visa card XD
+23 Jan 2017 12:49:33 : Unity Of Nirvana, bot_chat, Third_Worm#4804, Pft
+23 Jan 2017 12:49:35 : Unity Of Nirvana, bot_chat, Third_Worm#4804, lol
+23 Jan 2017 12:49:48 : Unity Of Nirvana, bot_chat, Crystal4209#4698, like literally pink XD
+23 Jan 2017 12:49:52 : LimitlessMc, mainchat, MoonWolf#8885, Do males shave their stomach?
+23 Jan 2017 12:49:57 : Unity Of Nirvana, bot_chat, Third_Worm#4804, must be pretty
+23 Jan 2017 12:50:13 : Unity Of Nirvana, bot_chat, Crystal4209#4698, it is gotta get a pin in the mail to activate it tho
+23 Jan 2017 12:50:22 : Unity Of Nirvana, bot_chat, Third_Worm#4804, oooo
+23 Jan 2017 12:50:23 : Unity Of Nirvana, bot_chat, Third_Worm#4804, nice
+23 Jan 2017 12:50:35 : Unity Of Nirvana, bot_chat, Crystal4209#4698, the i shall order stuff online lel
+23 Jan 2017 12:51:17 : Unity Of Nirvana, bot_chat, Third_Worm#4804, lol
+23 Jan 2017 12:51:29 : Unity Of Nirvana, bot_chat, Crystal4209#4698, oh i dont think you know my full name yet do you
+23 Jan 2017 12:51:30 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;afk YOUTUBE BOIS
+23 Jan 2017 12:51:30 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Third_Worm is now AFK for reason:
+**YOUTUBE BOIS**
+23 Jan 2017 12:51:34 : Unity Of Nirvana, bot_chat, Crystal4209#4698, lol
+23 Jan 2017 12:51:35 : Unity Of Nirvana, bot_chat, Third_Worm#4804, I don't
+23 Jan 2017 12:51:41 : Unity Of Nirvana, bot_chat, Crystal4209#4698, well i will tell you
+23 Jan 2017 12:51:50 : Unity Of Nirvana, bot_chat, Crystal4209#4698, Crystal Rose Stanley
+23 Jan 2017 12:52:02 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ooooo, You have a very pretty name
+23 Jan 2017 12:52:13 : Unity Of Nirvana, bot_chat, Third_Worm#4804, Crystal Rose is very nice
+23 Jan 2017 12:52:21 : Unity Of Nirvana, bot_chat, Crystal4209#4698, lel my brother wanted my middle name to be flowerheart lel
+23 Jan 2017 12:52:21 : LimitlessMc, mainchat, StubbyMuffins#1053, wut lol
+23 Jan 2017 12:52:28 : LimitlessMc, mainchat, Third_Worm#4804, uh
+23 Jan 2017 12:52:33 : LimitlessMc, mainchat, Third_Worm#4804, i have no idea
+23 Jan 2017 12:52:36 : LimitlessMc, mainchat, Crystal4209#4698, kinda creepy
+23 Jan 2017 12:52:43 : Unity Of Nirvana, bot_chat, Third_Worm#4804, lol
+23 Jan 2017 12:53:18 : Unity Of Nirvana, bot_chat, Crystal4209#4698, so know everyone knows my full name on this server :3
+23 Jan 2017 12:53:32 : Unity Of Nirvana, bot_chat, Third_Worm#4804, Yup!
+23 Jan 2017 12:53:39 : Unity Of Nirvana, bot_chat, Third_Worm#4804, And evrybody knows mine as well
+23 Jan 2017 12:53:41 : Unity Of Nirvana, bot_chat, Crystal4209#4698, i dont really think that they care lel
+23 Jan 2017 12:53:45 : Unity Of Nirvana, bot_chat, Third_Worm#4804, same
+23 Jan 2017 12:54:33 : Unity Of Nirvana, bot_chat, Crystal4209#4698, kinda wish juvia was more coded :L
+23 Jan 2017 12:55:39 : Unity Of Nirvana, bot_chat, Crystal4209#4698, oh god i have to go to the docters tomorrow then do the vacuuming
+23 Jan 2017 12:55:50 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ah
+23 Jan 2017 12:55:56 : Unity Of Nirvana, bot_chat, Third_Worm#4804, Well we'll wait for you
+23 Jan 2017 12:56:00 : Unity Of Nirvana, bot_chat, Crystal4209#4698, lel
+23 Jan 2017 12:56:27 : Unity Of Nirvana, bot_chat, Crystal4209#4698, have to get a referal to go see a doctor for some ADHD medicine
+23 Jan 2017 12:56:34 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;cd
+23 Jan 2017 12:56:35 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 584 seconds
+23 Jan 2017 12:56:50 : Unity Of Nirvana, bot_chat, Third_Worm#4804, o i see
+23 Jan 2017 12:57:03 : Unity Of Nirvana, bot_chat, Crystal4209#4698, yeah i cant focus on stuff for long XD
+23 Jan 2017 12:57:06 : Unity Of Nirvana, bot_chat, Third_Worm#4804, Good luck le
+23 Jan 2017 12:57:11 : Unity Of Nirvana, bot_chat, Third_Worm#4804, you can focus
+23 Jan 2017 12:57:16 : Unity Of Nirvana, bot_chat, Third_Worm#4804, trust me
+23 Jan 2017 12:57:18 : Unity Of Nirvana, bot_chat, Third_Worm#4804, you can
+23 Jan 2017 12:57:19 : Unity Of Nirvana, bot_chat, Crystal4209#4698, on games lel
+23 Jan 2017 12:57:23 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ^le
+23 Jan 2017 12:57:26 : Unity Of Nirvana, bot_chat, Third_Worm#4804, afk now
+23 Jan 2017 12:57:29 : Unity Of Nirvana, bot_chat, Crystal4209#4698, not for school
+23 Jan 2017 12:57:31 : Unity Of Nirvana, bot_chat, Third_Worm#4804, youtube boi's
+23 Jan 2017 12:57:37 : Unity Of Nirvana, bot_chat, Third_Worm#4804, I understand
+23 Jan 2017 12:57:55 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ok you go afk i might eat dinner if its ready XD
+23 Jan 2017 12:58:25 : Unity Of Nirvana, bot_chat, Third_Worm#4804, okei
+23 Jan 2017 13:11:51 : LimitlessMc, botchat, MoonWolf#8885, ;train
+23 Jan 2017 13:11:51 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 44 **Clefairy** (45% to beat)
+You **Beat** a Level 51 **Snubbull** for 2431 XP (39% to beat)
+You **Beat** a Level 53 **Hoothoot** for 2490 XP (37% to beat)
+You **Beat** a Level 16 **Dunsparce** for 400 XP (90% to beat)
+You **Lost** to a Level 38 **Hoppip** (52% to beat)
+You **Beat** a Level 20 **Piplup** for 400 XP (90% to beat)
+You **Beat** a Level 15 **Sunflora** for 400 XP (90% to beat)
+You **Lost** to a Level 52 **Foongus** (38% to beat)
+You **Beat** a Level 4 **Meowstic** for 400 XP (90% to beat)
+You **Beat** a Level 6 **Shuppet** for 400 XP (90% to beat)
+You **Lost** to a Level 65 **Tangela** (30% to beat)
+23 Jan 2017 13:11:51 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 6921 XP!
+23 Jan 2017 13:13:17 : LimitlessMc, mainchat, StubbyMuffins#1053, well i got argon corpus done
+23 Jan 2017 13:13:22 : LimitlessMc, mainchat, StubbyMuffins#1053, now i gotta do other one -.-
+23 Jan 2017 13:17:52 : LimitlessMc, mainchat, MoonWolf#8885, lmao
+23 Jan 2017 13:19:04 : LimitlessMc, mainchat, StubbyMuffins#1053, atleast i should be able to find a pt for second one since im the right level
+23 Jan 2017 13:19:21 : LimitlessMc, mainchat, StubbyMuffins#1053, but man that shit was brutal went through atleast 120+ gold worth of pots
+23 Jan 2017 13:19:29 : LimitlessMc, mainchat, StubbyMuffins#1053, hurt my wallet
+23 Jan 2017 13:31:38 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;song
+23 Jan 2017 13:31:38 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, **Name**: AC/DC - Back In Black (Official Video)
+**Requester**: Crystal4209
+**URL**: <https://www.youtube.com/watch?v=pAgnJDJN4VA>
+```py
+Time: 0:04:15
+Views: 218,453,545
+Likes: 963,655, 96.44%
+Dislikes: 35,564, 3.56%
+Skips: 0/0```
+23 Jan 2017 13:31:44 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;songs
+23 Jan 2017 13:31:44 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Queue is Empty
+23 Jan 2017 13:31:48 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;-;
+23 Jan 2017 13:31:57 : LimitlessMc, mainchat, MoonWolf#8885, 120+gold kek
+23 Jan 2017 13:32:07 : LimitlessMc, mainchat, MoonWolf#8885, i get 170 gold per mission
+23 Jan 2017 13:32:22 : LimitlessMc, botchat, Third_Worm#4804, ;train
+23 Jan 2017 13:32:22 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 31 **Druddigon** for 1535 XP (45% to beat)
+You **Lost** to a Level 37 **Blaziken** (37% to beat)
+You **Beat** a Level 46 **Politoed** for 1947 XP (30% to beat)
+You **Lost** to a Level 29 **Krabby** (48% to beat)
+You **Lost** to a Level 51 **Dialga** (27% to beat)
+You **Beat** a Level 3 **Milotic** for 280 XP (90% to beat)
+You **Lost** to a Level 41 **Claydol** (34% to beat)
+You **Lost** to a Level 42 **Archeops** (33% to beat)
+You use a **Lucky Egg** to gain more XP!
+23 Jan 2017 13:32:22 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 5643 XP!
+23 Jan 2017 13:32:31 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;playlist Maroon Adele ACDC FUN Eddie Coldplay Dragons Shelter
+23 Jan 2017 13:32:35 : LimitlessMc, botchat, Third_Worm#4804, ``You Lost to a Level 51 Dialga``
+23 Jan 2017 13:32:38 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;shuffle
+23 Jan 2017 13:32:38 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Shuffling songs...
+23 Jan 2017 13:32:38 : LimitlessMc, botchat, Third_Worm#4804, sounds legit
+23 Jan 2017 13:32:46 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;songs
+23 Jan 2017 13:32:46 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, **The Following songs are in the Queue, plus [9] more**
+23 Jan 2017 13:32:46 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, 1. Maroon 5 - Maps (Explicit) **Crystal4209**
+	<https://www.youtube.com/watch?v=NmugSMBh_iI>
+2. Adele - Rolling in the Deep **Crystal4209**
+	<https://www.youtube.com/watch?v=rYEDA3JcQqw>
+3. Adele - Set Fire To The Rain (Live at The Royal Albert Hall) **Crystal4209**
+	<https://www.youtube.com/watch?v=Ri7-vnrJD3k>
+4. Adele - Skyfall (Lyric Video) **Crystal4209**
+	<https://www.youtube.com/watch?v=DeumyOzKqgI>
+5. Maroon 5 - Sugar **Crystal4209**
+	<https://www.youtube.com/watch?v=09R8_2nJtjg>
+6. Maroon 5 - Animals **Crystal4209**
+	<https://www.youtube.com/watch?v=qpgTC9MDx1o>
+7. Adele - Someone Like You **Crystal4209**
+	<https://www.youtube.com/watch?v=hLQl3WQQoQ0>
+8. Maroon 5 - Payphone (Explicit) ft. Wiz Khalifa **Crystal4209**
+	<https://www.youtube.com/watch?v=KRaWnd3LJfs>
+9. Adele - Turning Tables (With Lyrics) **Crystal4209**
+	<https://www.youtube.com/watch?v=dx7sLNyIeQk>
+10. AC/DC - Thunderstruck (Official Video) **Crystal4209**
+	<https://www.youtube.com/watch?v=v2AC41dglnM>
+Total Time is 1:22:43
+23 Jan 2017 13:32:49 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;song
+23 Jan 2017 13:32:49 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, **Name**: Maroon 5 - Moves Like Jagger ft. Christina Aguilera
+**Requester**: Crystal4209
+**URL**: <https://www.youtube.com/watch?v=iEPTlhBmwRg>
+```py
+Time: 0:04:39
+Views: 481,626,541
+Likes: 1,570,500, 96.05%
+Dislikes: 64,546, 3.95%
+Skips: 0/0```
+23 Jan 2017 13:33:26 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+23 Jan 2017 13:37:33 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;shuffle
+23 Jan 2017 13:37:33 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Shuffling songs...
+23 Jan 2017 13:37:48 : GetPlebd, weeaboo-chat, Mee6#4876, **Greg** is opgetiefd **GetPlebd**. Doei mongool **Greg**...
+23 Jan 2017 13:37:52 : LimitlessMc, botchat, MoonWolf#8885, ;leave
+23 Jan 2017 13:37:53 : LimitlessMc, botchat, MoonWolf#8885, ;join
+23 Jan 2017 13:37:59 : LimitlessMc, botchat, Crystal4209#4698, oi
+23 Jan 2017 13:38:04 : LimitlessMc, botchat, Crystal4209#4698, no
+23 Jan 2017 13:38:08 : LimitlessMc, botchat, MoonWolf#8885, ;playlist Transistor
+23 Jan 2017 13:38:17 : LimitlessMc, botchat, MoonWolf#8885, ;playlist KenAshcorp
+23 Jan 2017 13:38:33 : LimitlessMc, botchat, MoonWolf#8885, ;shuffle
+23 Jan 2017 13:38:33 : LimitlessMc, botchat, Botfuzzy77#2209, Shuffling songs...
+23 Jan 2017 13:38:42 : LimitlessMc, botchat, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+23 Jan 2017 13:38:43 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;leave
+23 Jan 2017 13:38:44 : LimitlessMc, botchat, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+23 Jan 2017 13:38:45 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;join
+23 Jan 2017 13:38:53 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;playlist Coldplay
+23 Jan 2017 13:38:56 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;shuffle
+23 Jan 2017 13:38:56 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Shuffling songs...
+23 Jan 2017 13:38:56 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+23 Jan 2017 13:39:06 : Unity Of Nirvana, bot_chat, Third_Worm#4804, i can't hear ya
+23 Jan 2017 13:39:07 : Unity Of Nirvana, bot_chat, Third_Worm#4804, le
+23 Jan 2017 13:39:14 : LimitlessMc, botchat, MoonWolf#8885, Hmm So YOU can take the bot when im using it
+23 Jan 2017 13:39:14 : Unity Of Nirvana, bot_chat, Crystal4209#4698, i think we broke it...
+23 Jan 2017 13:39:16 : LimitlessMc, botchat, MoonWolf#8885, but i can't?
+23 Jan 2017 13:39:20 : LimitlessMc, botchat, MoonWolf#8885, *clap clap clap*
+23 Jan 2017 13:39:31 : LimitlessMc, botchat, Crystal4209#4698, you where deafened and muted
+23 Jan 2017 13:39:37 : LimitlessMc, botchat, Crystal4209#4698, why would you need the bot
+23 Jan 2017 13:39:39 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;song
+23 Jan 2017 13:39:39 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, **Name**: Transistor Original Soundtrack - Water Wall
+**Requester**: MoonWolf
+**URL**: <https://www.youtube.com/watch?v=l8SfXhG2zxg>
+```py
+Time: 0:04:26
+Views: 86,743
+Likes: 561, 99.47%
+Dislikes: 3, 0.53%
+Skips: 0/0```
+23 Jan 2017 13:39:41 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;songs
+23 Jan 2017 13:39:41 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Queue is Empty
+23 Jan 2017 13:39:43 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;skip
+23 Jan 2017 13:39:43 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, You need to be in the voice channel!
+23 Jan 2017 13:39:50 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;skip
+23 Jan 2017 13:39:50 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, 1/1 votes to skip
+23 Jan 2017 13:39:50 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Skipping Transistor Original Soundtrack - Water Wall by popular vote.
+23 Jan 2017 13:39:51 : LimitlessMc, botchat, Crystal4209#4698, i took it like hours ago to
+23 Jan 2017 13:39:53 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;song
+23 Jan 2017 13:39:53 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, **Name**: Transistor Original Soundtrack - Water Wall
+**Requester**: MoonWolf
+**URL**: <https://www.youtube.com/watch?v=l8SfXhG2zxg>
+```py
+Time: 0:04:26
+Views: 86,743
+Likes: 561, 99.47%
+Dislikes: 3, 0.53%
+Skips: 0/1```
+23 Jan 2017 13:39:55 : Unity Of Nirvana, bot_chat, Third_Worm#4804, broke
+23 Jan 2017 13:40:02 : LimitlessMc, botchat, Third_Worm#4804, its broken anyways
+23 Jan 2017 13:40:05 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;relog
+23 Jan 2017 13:40:08 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;reload
+23 Jan 2017 13:40:08 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, UNAUTHORIZED
+23 Jan 2017 13:40:11 : Unity Of Nirvana, bot_chat, Third_Worm#4804, fffffffffffffff
+23 Jan 2017 13:40:11 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;-;
+23 Jan 2017 13:40:26 : LimitlessMc, botchat, Crystal4209#4698, thank you for ruining my fun
+23 Jan 2017 13:41:11 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;leave
+23 Jan 2017 13:41:13 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;join
+23 Jan 2017 13:41:17 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;songs
+23 Jan 2017 13:41:17 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Queue is Empty
+23 Jan 2017 13:41:24 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;leave
+23 Jan 2017 13:41:30 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ye broke-
+23 Jan 2017 13:41:32 : Unity Of Nirvana, bot_chat, Third_Worm#4804, o
+23 Jan 2017 13:41:33 : Unity Of Nirvana, bot_chat, Third_Worm#4804, O
+23 Jan 2017 13:41:42 : LimitlessMc, botchat, Third_Worm#4804, ;leave
+23 Jan 2017 13:41:44 : LimitlessMc, botchat, Third_Worm#4804, ;join
+23 Jan 2017 13:41:47 : LimitlessMc, botchat, Third_Worm#4804, ;leave
+23 Jan 2017 13:41:53 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;join
+23 Jan 2017 13:41:57 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;;playlist Maroon Adele ACDC FUN Eddie Coldplay Dragons Shelter
+23 Jan 2017 13:42:01 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;playlist Maroon Adele ACDC FUN Eddie Coldplay Dragons Shelter
+23 Jan 2017 13:42:07 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;shuffle
+23 Jan 2017 13:42:07 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Shuffling songs...
+23 Jan 2017 13:42:09 : Unity Of Nirvana, bot_chat, Crystal4209#4698, wait for it
+23 Jan 2017 13:42:13 : Unity Of Nirvana, bot_chat, Third_Worm#4804, o
+23 Jan 2017 13:42:14 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;songs
+23 Jan 2017 13:42:14 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Queue is Empty
+23 Jan 2017 13:42:16 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;song
+23 Jan 2017 13:42:16 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, **Name**: Transistor Original Soundtrack - Water Wall
+**Requester**: MoonWolf
+**URL**: <https://www.youtube.com/watch?v=l8SfXhG2zxg>
+```py
+Time: 0:04:26
+Views: 86,743
+Likes: 561, 99.47%
+Dislikes: 3, 0.53%
+Skips: 0/1```
+23 Jan 2017 13:42:18 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ffffff
+23 Jan 2017 13:42:18 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;playlist Maroon Adele ACDC FUN Eddie Coldplay Dragons Shelter
+23 Jan 2017 13:42:25 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;songs
+23 Jan 2017 13:42:25 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Queue is Empty
+23 Jan 2017 13:42:26 : LimitlessMc, botchat, Third_Worm#4804, ;join
+23 Jan 2017 13:42:26 : LimitlessMc, botchat, Botfuzzy77#2209, Sorry, I'm already connected to a channel in server Unity Of Nirvana
+23 Jan 2017 13:42:30 : Unity Of Nirvana, bot_chat, Crystal4209#4698, f u bot
+23 Jan 2017 13:42:30 : LimitlessMc, botchat, Third_Worm#4804, fock
+23 Jan 2017 13:42:38 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;leave
+23 Jan 2017 13:42:39 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+23 Jan 2017 13:42:39 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+23 Jan 2017 13:42:44 : Unity Of Nirvana, bot_chat, Third_Worm#4804, o
+23 Jan 2017 13:42:45 : Unity Of Nirvana, bot_chat, Third_Worm#4804, m
+23 Jan 2017 13:42:47 : Unity Of Nirvana, bot_chat, Third_Worm#4804, god
+23 Jan 2017 13:42:50 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;join
+23 Jan 2017 13:43:02 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;songs
+23 Jan 2017 13:43:02 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Queue is Empty
+23 Jan 2017 13:43:02 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;playlist Maroon Adele ACDC FUN Eddie Coldplay Dragons Shelter
+23 Jan 2017 13:43:12 : Unity Of Nirvana, bot_chat, Third_Worm#4804, i'll wait this time
+23 Jan 2017 13:43:13 : Unity Of Nirvana, bot_chat, Crystal4209#4698, it needs to load
+23 Jan 2017 13:43:31 : Unity Of Nirvana, bot_chat, Crystal4209#4698, wert told me its using most of its memory
+23 Jan 2017 13:43:47 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+23 Jan 2017 13:43:51 : Unity Of Nirvana, bot_chat, Crystal4209#4698, 😃
+23 Jan 2017 13:43:54 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;shuffle
+23 Jan 2017 13:43:54 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Shuffling songs...
+23 Jan 2017 13:43:54 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;songs
+23 Jan 2017 13:43:55 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Queue is Empty
+23 Jan 2017 13:43:58 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;-;
+23 Jan 2017 13:43:58 : Unity Of Nirvana, bot_chat, Third_Worm#4804, foc
+23 Jan 2017 13:44:01 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;song
+23 Jan 2017 13:44:01 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, **Name**: Transistor Original Soundtrack - Water Wall
+**Requester**: MoonWolf
+**URL**: <https://www.youtube.com/watch?v=l8SfXhG2zxg>
+```py
+Time: 0:04:26
+Views: 86,743
+Likes: 561, 99.47%
+Dislikes: 3, 0.53%
+Skips: 0/1```
+23 Jan 2017 13:44:13 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ima skip that song over in limitless
+23 Jan 2017 13:44:13 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;leave
+23 Jan 2017 13:44:18 : LimitlessMc, botchat, Third_Worm#4804, ;join
+23 Jan 2017 13:44:21 : LimitlessMc, botchat, Third_Worm#4804, ;song
+23 Jan 2017 13:44:21 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Transistor Original Soundtrack - Water Wall
+**Requester**: MoonWolf
+**URL**: <https://www.youtube.com/watch?v=l8SfXhG2zxg>
+```py
+Time: 0:04:26
+Views: 86,743
+Likes: 561, 99.47%
+Dislikes: 3, 0.53%
+Skips: 0/2```
+23 Jan 2017 13:44:24 : LimitlessMc, botchat, Third_Worm#4804, ;skip
+23 Jan 2017 13:44:24 : LimitlessMc, botchat, Botfuzzy77#2209, 1/2 votes to skip
+23 Jan 2017 13:44:26 : LimitlessMc, botchat, Crystal4209#4698, ;skip
+23 Jan 2017 13:44:26 : LimitlessMc, botchat, Botfuzzy77#2209, 2/2 votes to skip
+23 Jan 2017 13:44:26 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Transistor Original Soundtrack - Water Wall by popular vote.
+23 Jan 2017 13:44:28 : LimitlessMc, botchat, Third_Worm#4804, ;leave
+23 Jan 2017 13:44:39 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;join
+23 Jan 2017 13:44:42 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;playlist Maroon Adele ACDC FUN Eddie Coldplay Dragons Shelter
+23 Jan 2017 13:45:10 : Unity Of Nirvana, bot_chat, Crystal4209#4698, wait for it..
+23 Jan 2017 13:45:26 : Unity Of Nirvana, bot_chat, Third_Worm#4804, im waiting
+23 Jan 2017 13:45:29 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+23 Jan 2017 13:45:35 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ...
+23 Jan 2017 13:45:37 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;songs
+23 Jan 2017 13:45:37 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Queue is Empty
+23 Jan 2017 13:45:38 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;song
+23 Jan 2017 13:45:39 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, **Name**: Transistor Original Soundtrack - Water Wall
+**Requester**: MoonWolf
+**URL**: <https://www.youtube.com/watch?v=l8SfXhG2zxg>
+```py
+Time: 0:04:26
+Views: 86,743
+Likes: 561, 99.47%
+Dislikes: 3, 0.53%
+Skips: 0/1```
+23 Jan 2017 13:45:39 : Unity Of Nirvana, bot_chat, Crystal4209#4698, fuck
+23 Jan 2017 13:45:40 : Unity Of Nirvana, bot_chat, Third_Worm#4804, o
+23 Jan 2017 13:45:41 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ma
+23 Jan 2017 13:45:44 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;leave
+23 Jan 2017 13:45:51 : LimitlessMc, botchat, Third_Worm#4804, hey fornor
+23 Jan 2017 13:45:53 : Unity Of Nirvana, bot_chat, Crystal4209#4698, he broke the bot not us
+23 Jan 2017 13:45:54 : LimitlessMc, botchat, Third_Worm#4804, ;songs
+23 Jan 2017 13:45:54 : LimitlessMc, botchat, Botfuzzy77#2209, Queue is Empty
+23 Jan 2017 13:45:57 : LimitlessMc, botchat, Third_Worm#4804, ;song
+23 Jan 2017 13:45:57 : LimitlessMc, botchat, Botfuzzy77#2209, No Song Playing, ['NoneType' object has no attribute 'channel']
+23 Jan 2017 13:46:00 : LimitlessMc, botchat, MoonWolf#8885, ;join
+23 Jan 2017 13:46:01 : LimitlessMc, botchat, Third_Worm#4804, ;join
+23 Jan 2017 13:46:03 : LimitlessMc, botchat, Third_Worm#4804, ;song
+23 Jan 2017 13:46:04 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Transistor Original Soundtrack - Water Wall
+**Requester**: MoonWolf
+**URL**: <https://www.youtube.com/watch?v=l8SfXhG2zxg>
+```py
+Time: 0:04:26
+Views: 86,743
+Likes: 561, 99.47%
+Dislikes: 3, 0.53%
+Skips: 0/2```
+23 Jan 2017 13:46:05 : LimitlessMc, botchat, MoonWolf#8885, ;playlist Transistor
+23 Jan 2017 13:46:15 : LimitlessMc, botchat, Third_Worm#4804, testing something actually
+23 Jan 2017 13:46:16 : LimitlessMc, botchat, Third_Worm#4804, go on
+23 Jan 2017 13:46:30 : LimitlessMc, botchat, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+23 Jan 2017 13:46:34 : LimitlessMc, botchat, Third_Worm#4804, WAIT
+23 Jan 2017 13:46:35 : LimitlessMc, botchat, MoonWolf#8885, ;songs
+23 Jan 2017 13:46:35 : LimitlessMc, botchat, Botfuzzy77#2209, Queue is Empty
+23 Jan 2017 13:46:36 : LimitlessMc, botchat, MoonWolf#8885, ;skip
+23 Jan 2017 13:46:36 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Transistor Original Soundtrack - Water Wall by request of the requester
+23 Jan 2017 13:46:39 : LimitlessMc, botchat, Third_Worm#4804, I"M CONNECTED?
+23 Jan 2017 13:46:42 : LimitlessMc, botchat, Third_Worm#4804, O SHIT
+23 Jan 2017 13:46:47 : LimitlessMc, botchat, MoonWolf#8885, ?
+23 Jan 2017 13:46:47 : LimitlessMc, botchat, Third_Worm#4804, ;song
+23 Jan 2017 13:46:47 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Transistor Original Soundtrack - Water Wall
+**Requester**: MoonWolf
+**URL**: <https://www.youtube.com/watch?v=l8SfXhG2zxg>
+```py
+Time: 0:04:26
+Views: 86,743
+Likes: 561, 99.47%
+Dislikes: 3, 0.53%
+Skips: 0/2```
+23 Jan 2017 13:46:58 : LimitlessMc, botchat, Third_Worm#4804, o
+23 Jan 2017 13:47:04 : LimitlessMc, botchat, Third_Worm#4804, now i got to get my mic to work
+23 Jan 2017 13:47:11 : LimitlessMc, botchat, Third_Worm#4804, i can hear you yes
+23 Jan 2017 13:47:11 : LimitlessMc, botchat, MoonWolf#8885, ;forceplay https://www.youtube.com/watch?v=l8SfXhG2zxg
+23 Jan 2017 13:47:15 : LimitlessMc, botchat, Crystal4209#4698, can you hear me worm
+23 Jan 2017 13:47:21 : LimitlessMc, botchat, Third_Worm#4804, speak woman
+23 Jan 2017 13:47:24 : LimitlessMc, botchat, Crystal4209#4698, only wert has force play 😛
+23 Jan 2017 13:47:31 : LimitlessMc, botchat, Third_Worm#4804, YES
+23 Jan 2017 13:47:34 : LimitlessMc, botchat, Third_Worm#4804, holy shit your loud
+23 Jan 2017 13:47:43 : LimitlessMc, botchat, Third_Worm#4804, gotta get my mic to work tho
+23 Jan 2017 13:47:45 : LimitlessMc, botchat, Third_Worm#4804, one sec
+23 Jan 2017 13:47:49 : LimitlessMc, botchat, Crystal4209#4698, ofc im load
+23 Jan 2017 13:48:17 : LimitlessMc, botchat, Third_Worm#4804, ima reload discord
+23 Jan 2017 13:48:40 : Unity Of Nirvana, bot_chat, Crystal4209#4698, @Overworm join me in here
+23 Jan 2017 13:48:41 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Third_Worm is afk for reason:
+**YOUTUBE BOIS**
+23 Jan 2017 13:48:53 : Unity Of Nirvana, bot_chat, Crystal4209#4698, lel
+23 Jan 2017 13:48:56 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;afk
+23 Jan 2017 13:48:56 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Third_Worm is no Longer AFK
+23 Jan 2017 13:49:01 : Unity Of Nirvana, bot_chat, Third_Worm#4804, still working on mic
+23 Jan 2017 13:49:49 : Unity Of Nirvana, bot_chat, Third_Worm#4804, *just realized ice checking id gonna take forever
+23 Jan 2017 13:49:56 : Unity Of Nirvana, bot_chat, Third_Worm#4804, *is
+23 Jan 2017 13:50:15 : Unity Of Nirvana, bot_chat, Third_Worm#4804, come on you piece of
+23 Jan 2017 13:50:20 : Unity Of Nirvana, bot_chat, Third_Worm#4804, hurry up ;-;
+23 Jan 2017 13:50:24 : Unity Of Nirvana, bot_chat, Crystal4209#4698, should we add matt to this o-o
+23 Jan 2017 13:50:42 : Unity Of Nirvana, bot_chat, Third_Worm#4804, yes very
+23 Jan 2017 13:50:45 : Unity Of Nirvana, bot_chat, Third_Worm#4804, be much easier
+23 Jan 2017 13:50:48 : Unity Of Nirvana, bot_chat, Third_Worm#4804, to make his shit
+23 Jan 2017 13:50:52 : Unity Of Nirvana, bot_chat, Third_Worm#4804, if hes here
+23 Jan 2017 13:51:05 : Unity Of Nirvana, bot_chat, Crystal4209#4698, k you get a tag for him
+23 Jan 2017 13:51:47 : Unity Of Nirvana, bot_chat, Crystal4209#4698, i dont have him as a friend gotta wait till hes on ;-;
+23 Jan 2017 13:52:27 : Unity Of Nirvana, bot_chat, Third_Worm#4804, alright
+23 Jan 2017 13:52:32 : Unity Of Nirvana, bot_chat, Third_Worm#4804, Now its not focking working
+23 Jan 2017 13:52:38 : Unity Of Nirvana, bot_chat, Third_Worm#4804, *UGH*
+23 Jan 2017 13:52:48 : Unity Of Nirvana, bot_chat, Crystal4209#4698, alright i sent him the invite :3
+23 Jan 2017 13:52:57 : Unity Of Nirvana, bot_chat, Third_Worm#4804, Lovely 😄
+23 Jan 2017 13:53:21 : Unity Of Nirvana, bot_chat, Crystal4209#4698, also sent him a friend request :#
+23 Jan 2017 13:53:26 : Unity Of Nirvana, bot_chat, Crystal4209#4698, :3
+23 Jan 2017 13:53:27 : Unity Of Nirvana, bot_chat, Third_Worm#4804, same
+23 Jan 2017 13:53:54 : Unity Of Nirvana, bot_chat, Third_Worm#4804, i don't get this ;-;
+23 Jan 2017 13:54:09 : Unity Of Nirvana, bot_chat, Crystal4209#4698, o-o tux is online ooo
+23 Jan 2017 13:54:12 : Unity Of Nirvana, bot_chat, Third_Worm#4804, is my mic wokring?
+23 Jan 2017 13:54:15 : Unity Of Nirvana, bot_chat, Third_Worm#4804, *working
+23 Jan 2017 13:54:19 : Unity Of Nirvana, bot_chat, Crystal4209#4698, speak
+23 Jan 2017 13:54:21 : Unity Of Nirvana, bot_chat, Third_Worm#4804, no
+23 Jan 2017 13:54:27 : Unity Of Nirvana, bot_chat, Third_Worm#4804, i would of become green
+23 Jan 2017 13:54:30 : Unity Of Nirvana, bot_chat, Third_Worm#4804, fff
+23 Jan 2017 13:54:39 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;-;
+23 Jan 2017 13:56:07 : Unity Of Nirvana, bot_chat, Third_Worm#4804, now i wait on my phone to charge
+23 Jan 2017 13:56:08 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;-;
+23 Jan 2017 14:03:06 : LimitlessMc, botchat, Third_Worm#4804, ;song
+23 Jan 2017 14:03:06 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Transistor Original Soundtrack - Water Wall
+**Requester**: MoonWolf
+**URL**: <https://www.youtube.com/watch?v=l8SfXhG2zxg>
+```py
+Time: 0:04:26
+Views: 86,743
+Likes: 561, 99.47%
+Dislikes: 3, 0.53%
+Skips: 0/0```
+23 Jan 2017 14:03:09 : LimitlessMc, botchat, Third_Worm#4804, ;songs
+23 Jan 2017 14:03:09 : LimitlessMc, botchat, Botfuzzy77#2209, Queue is Empty
+23 Jan 2017 14:12:45 : LimitlessMc, mainchat, StubbyMuffins#1053, i dont do side missions
+23 Jan 2017 14:12:50 : LimitlessMc, mainchat, StubbyMuffins#1053, i only do story ones so far
+23 Jan 2017 14:13:14 : LimitlessMc, mainchat, StubbyMuffins#1053, and i get 2x gold for each story but i dont like spending money
+23 Jan 2017 14:13:22 : LimitlessMc, mainchat, StubbyMuffins#1053, every gold counts twords somethign i want
+23 Jan 2017 14:15:10 : Unity Of Nirvana, bot_chat, Crystal4209#4698, like 5 second delay for me ;-;
+23 Jan 2017 14:40:34 : LimitlessMc, mainchat, Thoes#2162, Hey @StubbyMuffins
+23 Jan 2017 14:40:36 : LimitlessMc, mainchat, Thoes#2162, virgin
+23 Jan 2017 14:40:37 : LimitlessMc, mainchat, Thoes#2162, ❤
+23 Jan 2017 14:43:35 : Unity Of Nirvana, bot_chat, Third_Worm#4804, @Poptart i'm so sorry
+23 Jan 2017 14:43:40 : Unity Of Nirvana, bot_chat, Third_Worm#4804, i was typing the y in
+23 Jan 2017 14:43:53 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;-;-;-;-;;
+23 Jan 2017 14:44:07 : Unity Of Nirvana, bot_chat, Third_Worm#4804, the y was 82
+23 Jan 2017 14:44:10 : Unity Of Nirvana, bot_chat, Third_Worm#4804, *92
+23 Jan 2017 14:44:20 : Unity Of Nirvana, bot_chat, Third_Worm#4804, i got my armor
+23 Jan 2017 14:44:25 : Unity Of Nirvana, bot_chat, Third_Worm#4804, do you want it?
+23 Jan 2017 14:44:43 : Unity Of Nirvana, bot_chat, Third_Worm#4804, @Poptart wait why no god on?
+23 Jan 2017 14:44:44 : Unity Of Nirvana, bot_chat, Third_Worm#4804, D;
+23 Jan 2017 14:44:57 : Unity Of Nirvana, bot_chat, Third_Worm#4804, Damn you aussie
+23 Jan 2017 14:45:32 : Unity Of Nirvana, bot_chat, Third_Worm#4804, @Poptart Ask Aussie for the elytra
+23 Jan 2017 14:45:45 : Unity Of Nirvana, bot_chat, Third_Worm#4804, for the fishing rod and sword/stuff
+23 Jan 2017 14:45:57 : Unity Of Nirvana, bot_chat, Third_Worm#4804, we can enchant some stuff for now untill wert gets on
+23 Jan 2017 14:47:23 : LimitlessMc, botchat, MoonWolf#8885, ;search Noragami Noratan
+23 Jan 2017 14:52:11 : LimitlessMc, mainchat, StubbyMuffins#1053, sup gay kid lol
+23 Jan 2017 14:54:37 : LimitlessMc, mainchat, Crystal4209#4698, ola jay
+23 Jan 2017 14:57:12 : LimitlessMc, staff, Crystal4209#4698, jay i tped to some cords someone gave me and it landed me in a void i died and all my stuff is gone can you do anything about that or do i have to get all my stuff back by myself?
+23 Jan 2017 14:59:08 : LimitlessMc, botchat, Crystal4209#4698, ;songs
+23 Jan 2017 14:59:08 : LimitlessMc, botchat, Botfuzzy77#2209, Queue is Empty
+23 Jan 2017 14:59:12 : LimitlessMc, botchat, Crystal4209#4698, ;train
+23 Jan 2017 14:59:12 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 53 **Masquerain** (33% to beat)
+You **Beat** a Level 7 **Politoed** for 360 XP (90% to beat)
+You **Lost** to a Level 49 **Marshtomp** (36% to beat)
+You **Beat** a Level 24 **Torterra** for 900 XP (75% to beat)
+You **Beat** a Level 56 **Crawdaunt** for 2442 XP (32% to beat)
+You **Beat** a Level 36 **Houndour** for 1800 XP (50% to beat)
+You **Lost** to a Level 58 **Slowbro** (31% to beat)
+You **Lost** to a Level 32 **Gabite** (56% to beat)
+You **Beat** a Level 46 **Lopunny** for 2191 XP (39% to beat)
+You **Beat** a Level 28 **Baltoy** for 1285 XP (64% to beat)
+You use a **Lucky Egg** to gain more XP!
+You Find a **Pokeloot** worth 2533 XP
+23 Jan 2017 14:59:12 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 16000 XP!
+23 Jan 2017 14:59:28 : LimitlessMc, botchat, Crystal4209#4698, ;pokedex
+23 Jan 2017 14:59:28 : LimitlessMc, botchat, Botfuzzy77#2209, Your Pokedex is 25.22% complete!
+23 Jan 2017 15:06:06 : LimitlessMc, mainchat, Third_Worm#4804, Finally found the dev list
+23 Jan 2017 15:06:11 : LimitlessMc, mainchat, Third_Worm#4804, Feels great
+23 Jan 2017 15:06:50 : LimitlessMc, mainchat, Crystal4209#4698, lel
+23 Jan 2017 15:09:39 : LimitlessMc, staff, Crystal4209#4698, ....
+23 Jan 2017 15:10:15 : LimitlessMc, staff, Third_Worm#4804, Hush child, give the man time
+23 Jan 2017 15:10:31 : LimitlessMc, staff, Crystal4209#4698, okai
+23 Jan 2017 15:13:04 : None, Direct Message with TherminatorX, TherminatorX#6644, ;train
+23 Jan 2017 15:13:05 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You **Beat** a Level 6 **Beautifly** for 560 XP (90% to beat)
+You **Beat** a Level 20 **Amaura** for 560 XP (90% to beat)
+You **Lost** to a Level 80 **Mienshao** (35% to beat)
+You **Beat** a Level 63 **Cottonee** for 3111 XP (44% to beat)
+You **Lost** to a Level 110 **Sylveon** (25% to beat)
+You **Lost** to a Level 91 **Glaceon** (30% to beat)
+You **Beat** a Level 6 **Aerodactyl** for 560 XP (90% to beat)
+You **Lost** to a Level 96 **Gastrodon** (29% to beat)
+You **Lost** to a Level 83 **Regice** (33% to beat)
+You **Beat** a Level 27 **Vaporeon** for 560 XP (90% to beat)
+You **Beat** a Level 95 **Torterra** for 3949 XP (29% to beat)
+You **Beat** a Level 19 **Giratina** for 560 XP (90% to beat)
+You **Beat** a Level 96 **Wurmple** for 3966 XP (29% to beat)
+You **Beat** a Level 23 **Croconaw** for 560 XP (90% to beat)
+You **Beat** a Level 67 **Gloom** for 3259 XP (41% to beat)
+You use a **Lucky Egg** to gain more XP!
+You Find a **Pokeloot** worth 9260 XP
+23 Jan 2017 15:13:05 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You trained for 35728 XP!
+23 Jan 2017 15:19:18 : LimitlessMc, staff, Third_Worm#4804, Personally yes, this was a accident due to the Y not being shared, for your first as mod and being new
+23 Jan 2017 15:19:31 : LimitlessMc, staff, Third_Worm#4804, i think you should, yes, get at least a refund on the enchants
+23 Jan 2017 15:20:00 : LimitlessMc, staff, Bakafish#8693, ouch crystal
+23 Jan 2017 15:20:04 : LimitlessMc, staff, Bakafish#8693, i did it once before
+23 Jan 2017 15:20:06 : LimitlessMc, staff, Bakafish#8693, but was in /v
+23 Jan 2017 15:20:09 : LimitlessMc, staff, Bakafish#8693, so keepinv was on
+23 Jan 2017 15:21:00 : LimitlessMc, mainchat, Bakafish#8693, unsurprisingly the logout kid tries to argue with me instead of make another appeal thread
+23 Jan 2017 15:21:01 : LimitlessMc, mainchat, Bakafish#8693, smh
+23 Jan 2017 15:21:21 : LimitlessMc, botchat, Bakafish#8693, ;train
+23 Jan 2017 15:21:21 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 37 **Blastoise** for 1828 XP (44% to beat)
+You **Beat** a Level 18 **Garbodor** for 330 XP (90% to beat)
+You **Lost** to a Level 62 **Charizard** (26% to beat)
+You **Beat** a Level 48 **Hitmonlee** for 2165 XP (34% to beat)
+You **Beat** a Level 21 **Cloyster** for 707 XP (78% to beat)
+You **Beat** a Level 54 **Clefairy** for 2291 XP (30% to beat)
+You **Lost** to a Level 38 **Petilil** (43% to beat)
+You **Beat** a Level 27 **Grumpig** for 1283 XP (61% to beat)
+You **Lost** to a Level 25 **Pikachu** (66% to beat)
+You use a **Lucky Egg** to gain more XP!
+23 Jan 2017 15:21:21 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 12906 XP!
+23 Jan 2017 15:23:30 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, fitlhy snikkers
+23 Jan 2017 15:27:02 : LimitlessMc, botchat, Third_Worm#4804, ;train
+23 Jan 2017 15:27:03 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 10 **Hoopa** for 290 XP (90% to beat)
+You **Beat** a Level 40 **Kyogre** for 1848 XP (36% to beat)
+You **Beat** a Level 51 **Budew** for 2075 XP (28% to beat)
+You **Beat** a Level 27 **Throh** for 1342 XP (53% to beat)
+You **Lost** to a Level 16 **Durant** (90% to beat)
+You **Beat** a Level 22 **Dragonite** for 988 XP (65% to beat)
+You **Beat** a Level 39 **Trubbish** for 1821 XP (37% to beat)
+You **Lost** to a Level 50 **Swalot** (28% to beat)
+23 Jan 2017 15:27:03 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 8364 XP!
+23 Jan 2017 15:27:16 : LimitlessMc, botchat, Third_Worm#4804, ``You Beat a Level 40 Kyogre``
+23 Jan 2017 15:27:19 : LimitlessMc, botchat, Third_Worm#4804, skill
+23 Jan 2017 15:30:59 : LimitlessMc, staff, Crystal4209#4698, ;-;
+23 Jan 2017 15:33:09 : LimitlessMc, botchat, MoonWolf#8885, ;train
+23 Jan 2017 15:33:09 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 64 **Delibird** (31% to beat)
+You **Lost** to a Level 68 **Pikachu** (29% to beat)
+You **Lost** to a Level 69 **Roselia** (28% to beat)
+You **Beat** a Level 37 **Rhyhorn** for 1837 XP (54% to beat)
+You **Beat** a Level 2 **Vaporeon** for 400 XP (90% to beat)
+You **Beat** a Level 67 **Gabite** for 2805 XP (29% to beat)
+You **Beat** a Level 76 **Lilligant** for 2947 XP (26% to beat)
+You **Beat** a Level 34 **Diggersby** for 1647 XP (58% to beat)
+You **Lost** to a Level 40 **Machoke** (50% to beat)
+You **Beat** a Level 18 **Chansey** for 400 XP (90% to beat)
+You **Lost** to a Level 55 **Tirtouga** (36% to beat)
+23 Jan 2017 15:33:09 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 10036 XP!
+23 Jan 2017 15:39:43 : LimitlessMc, staff, Crystal4209#4698, so no refund?
+23 Jan 2017 15:46:37 : LimitlessMc, staff, Bakafish#8693, jay/admin should be able to help refund in that case
+23 Jan 2017 15:46:41 : LimitlessMc, staff, Bakafish#8693, or lightning
+23 Jan 2017 15:46:56 : LimitlessMc, mainchat, Bakafish#8693, and he goes into "full argument mode"
+23 Jan 2017 15:46:58 : LimitlessMc, mainchat, Bakafish#8693, smh x2
+23 Jan 2017 15:49:47 : LimitlessMc, botchat, MoonWolf#8885, ;pokedex
+23 Jan 2017 15:49:47 : LimitlessMc, botchat, Botfuzzy77#2209, Your Pokedex is 22.85% complete!
+23 Jan 2017 15:51:09 : LimitlessMc, mainchat, Third_Worm#4804, le
+23 Jan 2017 15:51:23 : LimitlessMc, mainchat, Third_Worm#4804, Kinda got a little triggered cause of it
+23 Jan 2017 15:54:39 : GetPlebd, weeaboo-chat, ⎛⎝ Lockpicking ⎠⎞#7794, https://www.youtube.com/watch?v=igomOLwqsV0
+23 Jan 2017 15:55:15 : GetPlebd, weeaboo-chat, Dyknight#2097, http://vignette3.wikia.nocookie.net/tokyoghoul/images/e/eb/Amon%27s_kakuja_head.png/revision/latest/?cb=20161103173226
+23 Jan 2017 15:55:29 : GetPlebd, weeaboo-chat, kawaii clorox desu#9784, Wat
+23 Jan 2017 15:56:47 : LimitlessMc, staff, Bakafish#8693, also can an admin forum ban logout_id next time he rages on me on forums
+23 Jan 2017 15:56:53 : LimitlessMc, staff, Bakafish#8693, it's getting a tad ridiculous
+23 Jan 2017 15:56:54 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, dat is wel mooi
+23 Jan 2017 15:57:04 : GetPlebd, weeaboo-chat, kawaii clorox desu#9784, Wat
+23 Jan 2017 15:57:41 : LimitlessMc, mainchat, Crystal4209#4698, did you see what i posted on the forums?
+23 Jan 2017 16:07:29 : Unity Of Nirvana, general, Third_Worm#4804, Gn crystal
+23 Jan 2017 16:10:28 : LimitlessMc, botchat, Dankdra#0051, ;train
+23 Jan 2017 16:10:29 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 75 **Mewtwo** (32% to beat)
+You **Beat** a Level 43 **Shroomish** for 2108 XP (56% to beat)
+You **Lost** to a Level 58 **Hitmonchan** (42% to beat)
+You **Beat** a Level 18 **Sunkern** for 490 XP (90% to beat)
+You **Lost** to a Level 97 **Blaziken** (25% to beat)
+You **Beat** a Level 33 **Malamar** for 1262 XP (74% to beat)
+You **Lost** to a Level 19 **Wailord** (90% to beat)
+You **Beat** a Level 21 **Chinchou** for 490 XP (90% to beat)
+You **Lost** to a Level 77 **Pidgeot** (31% to beat)
+You **Lost** to a Level 85 **Beheeyem** (28% to beat)
+You **Beat** a Level 4 **Kadabra** for 490 XP (90% to beat)
+You **Beat** a Level 67 **Poliwrath** for 3108 XP (36% to beat)
+You **Lost** to a Level 64 **Salamence** (38% to beat)
+23 Jan 2017 16:10:29 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 7948 XP!
+23 Jan 2017 16:23:32 : LimitlessMc, botchat, Dankdra#0051, ;pokeboss
+23 Jan 2017 16:23:43 : LimitlessMc, botchat, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> hard to fight and reveal the boss.
+23 Jan 2017 16:27:54 : LimitlessMc, botchat, Dankdra#0051, ;pokebattle NNNNNNNNNN
+23 Jan 2017 16:27:54 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 50 Boss **Magnemite** has appeared in the Hard zone!
+It has 40400 Health.
+23 Jan 2017 16:27:54 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jan 2017 16:27:55 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:white_check_mark: :x: :x: :x: :x: :white_check_mark: :x: :x: :x: :x:
+23 Jan 2017 16:27:55 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **103** damage
+23 Jan 2017 16:27:55 : LimitlessMc, botchat, Botfuzzy77#2209, Level 50 Boss **Magnemite** has 40297 health left.
+23 Jan 2017 16:32:04 : LimitlessMc, botchat, Dankdra#0051, ;train
+23 Jan 2017 16:32:04 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 2305 seconds before you can train again.
+23 Jan 2017 16:39:51 : Unity Of Nirvana, general, Crystal4209#4698, Yep good night
+23 Jan 2017 16:40:15 : LimitlessMc, botchat, Crystal4209#4698, ;train
+23 Jan 2017 16:40:15 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 63 **Scraggy** (29% to beat)
+You **Beat** a Level 5 **Corsola** for 370 XP (90% to beat)
+You **Beat** a Level 21 **Pupitar** for 440 XP (88% to beat)
+You **Beat** a Level 32 **Dragalge** for 1560 XP (57% to beat)
+You **Lost** to a Level 29 **Graveler** (63% to beat)
+You **Beat** a Level 71 **Boldore** for 2735 XP (26% to beat)
+You **Lost** to a Level 66 **Beautifly** (28% to beat)
+You **Beat** a Level 14 **Pansage** for 370 XP (90% to beat)
+You **Lost** to a Level 41 **Bagon** (45% to beat)
+You **Lost** to a Level 66 **Kingdra** (28% to beat)
+You use a **Lucky Egg** to gain more XP!
+23 Jan 2017 16:40:15 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 8212 XP!
+23 Jan 2017 16:40:34 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, nice mute bruh
+23 Jan 2017 16:40:57 : Unity Of Nirvana, general, Third_Worm#4804, Have good dreams lol
+23 Jan 2017 16:41:16 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, https://www.youtube.com/watch?v=3GmZBLqdyhk
+23 Jan 2017 16:41:24 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, kijk hoe cool
+23 Jan 2017 16:48:22 : LimitlessMc, botchat, MoonWolf#8885, ;cd
+23 Jan 2017 16:48:22 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You can Train right now!
+23 Jan 2017 16:48:25 : LimitlessMc, botchat, MoonWolf#8885, ;train
+23 Jan 2017 16:48:25 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 22 **Eelektrik** for 400 XP (90% to beat)
+You **Beat** a Level 11 **Azelf** for 400 XP (90% to beat)
+You **Lost** to a Level 61 **Kingdra** (32% to beat)
+You **Beat** a Level 2 **Cranidos** for 400 XP (90% to beat)
+You **Beat** a Level 28 **Machamp** for 1142 XP (71% to beat)
+You **Beat** a Level 4 **Eelektross** for 400 XP (90% to beat)
+You **Beat** a Level 33 **Diggersby** for 1575 XP (60% to beat)
+You **Lost** to a Level 77 **Dialga** (25% to beat)
+You **Lost** to a Level 45 **Cradily** (44% to beat)
+You **Lost** to a Level 62 **Throh** (32% to beat)
+You **Beat** a Level 57 **Swellow** for 2596 XP (35% to beat)
+You use a **Lucky Egg** to gain more XP!
+You Find a **Pokeloot** worth 3447 XP
+You Find an **Ultra Pokeloot** worth 27569 XP
+23 Jan 2017 16:48:25 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 41385 XP!
+23 Jan 2017 16:48:29 : LimitlessMc, botchat, MoonWolf#8885, leggo
+23 Jan 2017 16:51:10 : GetPlebd, weeaboo-chat, ⎛⎝ Lockpicking ⎠⎞#7794, https://www.youtube.com/watch?v=uM523jjrvf4&oref=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DuM523jjrvf4&has_verified=1
+23 Jan 2017 16:51:37 : GetPlebd, weeaboo-chat, ⎛⎝ Lockpicking ⎠⎞#7794, https://www.youtube.com/watch?v=U3vr4El4cmI
+23 Jan 2017 16:51:56 : GetPlebd, weeaboo-chat, ⎛⎝ Lockpicking ⎠⎞#7794, http://kotaku.com/ps4-fans-are-baffled-as-to-why-sony-is-promoting-crappy-1791501018
+23 Jan 2017 17:13:30 : None, Direct Message with TherminatorX, TherminatorX#6644, ;train
+23 Jan 2017 17:13:30 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You **Beat** a Level 7 **Corsola** for 560 XP (90% to beat)
+You **Beat** a Level 10 **Swinub** for 560 XP (90% to beat)
+You **Lost** to a Level 70 **Dedenne** (40% to beat)
+You **Beat** a Level 56 **Whirlipede** for 2800 XP (50% to beat)
+You **Lost** to a Level 108 **Cleffa** (25% to beat)
+You **Beat** a Level 34 **Loudred** for 988 XP (82% to beat)
+You **Beat** a Level 35 **Magnezone** for 1120 XP (80% to beat)
+You **Beat** a Level 3 **Bouffalant** for 560 XP (90% to beat)
+You **Beat** a Level 42 **Metagross** for 1866 XP (66% to beat)
+You **Lost** to a Level 111 **Raticate** (25% to beat)
+You **Beat** a Level 12 **Pinsir** for 560 XP (90% to beat)
+You **Lost** to a Level 77 **Kricketune** (36% to beat)
+You **Lost** to a Level 34 **Tympole** (82% to beat)
+You **Lost** to a Level 106 **Cinccino** (26% to beat)
+You **Beat** a Level 22 **Wigglytuff** for 560 XP (90% to beat)
+You use a **Lucky Egg** to gain more XP!
+You Find a **Pokeloot** worth 9260 XP
+23 Jan 2017 17:13:30 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You trained for 23621 XP!
+23 Jan 2017 17:13:53 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokedex
+23 Jan 2017 17:13:53 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your Pokedex is 46.44% complete!
+23 Jan 2017 17:14:28 : LimitlessMc, mainchat, DicloniusSheep#6564, @Thoes and @Crystal4209 have like the same profile picture if you dont look at them very closely or the name
+23 Jan 2017 17:14:41 : LimitlessMc, mainchat, DicloniusSheep#6564, the fuck is this shit crystal
+23 Jan 2017 17:27:52 : LimitlessMc, staff, Jay113355#4999, Yeah crystal
+23 Jan 2017 17:28:04 : LimitlessMc, staff, Jay113355#4999, We can refund it
+23 Jan 2017 17:28:14 : LimitlessMc, staff, Jay113355#4999, Just give me a list
+23 Jan 2017 17:28:55 : LimitlessMc, staff, Jay113355#4999, I wont be home for 4 hours though
+23 Jan 2017 17:32:22 : None, Direct Message with TherminatorX, TherminatorX#6644, ;train
+23 Jan 2017 17:32:22 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Please wait 2469 seconds before you can train again.
+23 Jan 2017 17:33:27 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;train
+23 Jan 2017 17:33:27 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 4 **Clefairy** for 300 XP (90% to beat)
+You **Lost** to a Level 25 **Pansage** (60% to beat)
+You **Lost** to a Level 30 **Vespiquen** (50% to beat)
+You **Beat** a Level 44 **Octillery** for 1977 XP (34% to beat)
+You **Beat** a Level 1 **Pignite** for 300 XP (90% to beat)
+You **Beat** a Level 14 **Galvantula** for 300 XP (90% to beat)
+You **Beat** a Level 52 **Tentacool** for 2134 XP (28% to beat)
+You **Beat** a Level 58 **Reuniclus** for 2224 XP (25% to beat)
+You **Beat** a Level 38 **Lugia** for 1815 XP (39% to beat)
+You use a **Lucky Egg** to gain more XP!
+23 Jan 2017 17:33:27 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 13575 XP!
+23 Jan 2017 17:33:31 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;level
+23 Jan 2017 17:33:31 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *🌟💖Resolate💖🌟*
+**Level**: 31
+**XP**: 4901/32768
+**Boss Takedowns**: 9
+**Most Dmg in an Attack**: 7624
+23 Jan 2017 17:34:02 : LimitlessMc, botchat, MoonWolf#8885, ;train
+23 Jan 2017 17:34:02 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 863 seconds before you can train again.
+23 Jan 2017 17:41:47 : LimitlessMc, botchat, Bakafish#8693, ;train
+23 Jan 2017 17:41:48 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 23 **Escavalier** (71% to beat)
+You **Beat** a Level 15 **Torkoal** for 330 XP (90% to beat)
+You **Beat** a Level 43 **Bibarel** for 2033 XP (38% to beat)
+You **Beat** a Level 56 **Boldore** for 2327 XP (29% to beat)
+You **Lost** to a Level 54 **Kecleon** (30% to beat)
+You **Beat** a Level 36 **Grovyle** for 1787 XP (45% to beat)
+You **Beat** a Level 49 **Exeggcute** for 2188 XP (33% to beat)
+You **Beat** a Level 62 **Caterpie** for 2421 XP (26% to beat)
+You **Lost** to a Level 61 **Breloom** (27% to beat)
+You Find a **Pokeloot** worth 1966 XP
+23 Jan 2017 17:41:48 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 13052 XP!
+23 Jan 2017 17:54:36 : None, Direct Message with TherminatorX, TherminatorX#6644, ;train
+23 Jan 2017 17:54:36 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Please wait 1134 seconds before you can train again.
+23 Jan 2017 18:08:47 : GetPlebd, weeaboo-chat, Fearleas#5073, http://www.starwars.com/news/the-official-title-for-star-wars-episode-viii-revealed
+23 Jan 2017 18:17:51 : None, Direct Message with TherminatorX, TherminatorX#6644, ;train
+23 Jan 2017 18:17:51 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You **Beat** a Level 52 **Quagsire** for 2584 XP (53% to beat)
+You **Beat** a Level 42 **Sandslash** for 1866 XP (66% to beat)
+You **Beat** a Level 3 **Phanpy** for 560 XP (90% to beat)
+You **Beat** a Level 16 **Deino** for 560 XP (90% to beat)
+You **Beat** a Level 31 **Lickilicky** for 560 XP (90% to beat)
+You **Lost** to a Level 89 **Electrode** (31% to beat)
+You **Beat** a Level 86 **Pangoro** for 3776 XP (32% to beat)
+You **Lost** to a Level 92 **Swellow** (30% to beat)
+You **Beat** a Level 83 **Piplup** for 3710 XP (33% to beat)
+You **Lost** to a Level 92 **Wailmer** (30% to beat)
+You **Beat** a Level 46 **Rattata** for 2191 XP (60% to beat)
+You **Lost** to a Level 44 **Magmar** (63% to beat)
+You **Lost** to a Level 79 **Simisage** (35% to beat)
+You **Beat** a Level 27 **Magnezone** for 560 XP (90% to beat)
+You **Beat** a Level 6 **Zorua** for 560 XP (90% to beat)
+23 Jan 2017 18:17:51 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You trained for 16927 XP!
+23 Jan 2017 18:18:04 : LimitlessMc, mainchat, Wertfuzzy77#0274, @DicloniusSheep seen it already
+23 Jan 2017 18:18:11 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokedex
+23 Jan 2017 18:18:11 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your Pokedex is 47.32% complete!
+23 Jan 2017 18:18:23 : LimitlessMc, mainchat, Wertfuzzy77#0274, The commercial was released like over a month ago :P
+23 Jan 2017 18:18:31 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokedex Heracross
+23 Jan 2017 18:18:31 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You **have** beat a Heracross
+23 Jan 2017 18:18:55 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokedex Froslass
+23 Jan 2017 18:18:55 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You have not beat a Froslass
+23 Jan 2017 18:19:30 : LimitlessMc, mainchat, JenGrl#2637, hi peeps
+23 Jan 2017 18:19:32 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokedex Ponyta
+23 Jan 2017 18:19:33 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You have not beat a Ponyta
+23 Jan 2017 18:19:43 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokedex Umbreon
+23 Jan 2017 18:19:43 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You **have** beat a Umbreon
+23 Jan 2017 18:24:42 : GetPlebd, weeaboo-chat, Ỏ̷͖͈̞̩͎̻̫̫̜͉̠̫͕̭̭̫̫̹̗̹͈̼̠шen☆#1099, .music play turnen
+23 Jan 2017 18:24:43 : GetPlebd, weeaboo-chat, ErisBot#1777, [**Music**] `Ỏ̷͖͈̞̩͎̻̫̫̜͉̠̫͕̭̭̫̫̹̗̹͈̼̠шen☆#1099` has added `Sevn Alias - Turnen (Fissa Anthem) ft. Jairzinho & Kevin (Prod. Project Money)` to the queue. (`02:57`) [`0`]
+23 Jan 2017 18:24:47 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, !add turnen
+23 Jan 2017 18:24:47 : GetPlebd, weeaboo-chat, Ỏ̷͖͈̞̩͎̻̫̫̜͉̠̫͕̭̭̫̫̹̗̹͈̼̠шen☆#1099, .music play concreet
+23 Jan 2017 18:24:48 : GetPlebd, weeaboo-chat, ErisBot#1777, [**Music**] `Ỏ̷͖͈̞̩͎̻̫̫̜͉̠̫͕̭̭̫̫̹̗̹͈̼̠шen☆#1099` has added `SBMG - Concreet ft. Navi (Prod. Kevsonthabeat) - 101Barz Videoclipz` to the queue. (`03:09`) [`0`]
+23 Jan 2017 18:24:50 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, !play
+23 Jan 2017 18:24:58 : GetPlebd, weeaboo-chat, Ỏ̷͖͈̞̩͎̻̫̫̜͉̠̫͕̭̭̫̫̹̗̹͈̼̠шen☆#1099, ,.,.,.,,.
+23 Jan 2017 18:31:11 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, .add
+23 Jan 2017 18:31:24 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, .music add dark souls 3 remix
+23 Jan 2017 18:31:24 : GetPlebd, weeaboo-chat, ErisBot#1777, Command: **music** **<function>** **[args]**
+Description: Play your favorite songs straight from YouTube
+Parameters:
+	**play** [URL/Video Title] - Start playing/play a song from YouTube/SoundCloud
+	**pause** - Pause the current song
+	**volume** [0 - 100] - Changed the volume of the music. _Admin/DJ Overridable_
+	**queue** [Page number] - View the Music queue and select which page
+	**skip** [number] - Vote to skip a song. Requires 40% of undefeaned users to skip
+	**forceskip** - Force skip the song _Admin/DJ Only_
+	**nowplaying** - View what's playing
+	**stop** - Stops the player and completely resets everything _Admin/DJ Only_
+	**verbose [yes/no]** - Should I be a bit more detailed? _Admin/DJ Only_
+Example:
+	_music play https://www.youtube.com/watch?v=dQw4w9WgXcQ_
+
+DJ's can be defined with a role called "DJ"
+23 Jan 2017 18:31:47 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, .add dark souls 3 remix
+23 Jan 2017 18:31:50 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;train
+23 Jan 2017 18:31:50 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 97 seconds before you can train again.
+23 Jan 2017 18:32:08 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, .music play dark souls 3 remix
+23 Jan 2017 18:32:08 : GetPlebd, weeaboo-chat, ErisBot#1777, [**Music**] `I-Like-Pizzja#5222` has added `Dark Souls 3 Abyss Watchers Remix - All For One` to the queue. (`05:28`) [`0`]
+23 Jan 2017 18:32:24 : LimitlessMc, mainchat, DicloniusSheep#6564, hai @JenGrl
+23 Jan 2017 18:32:55 : LimitlessMc, mainchat, JenGrl#2637, sup
+23 Jan 2017 18:33:51 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, .music play soul of cinder
+23 Jan 2017 18:33:52 : GetPlebd, weeaboo-chat, ErisBot#1777, [**Music**] `I-Like-Pizzja#5222` has added `Dark Souls III Soundtrack OST - Soul of Cinder` to the queue. (`05:52`) [`0`]
+23 Jan 2017 18:38:13 : GetPlebd, weeaboo-chat, Ỏ̷͖͈̞̩͎̻̫̫̜͉̠̫͕̭̭̫̫̹̗̹͈̼̠шen☆#1099, .music play soul of cinder music track
+23 Jan 2017 18:38:13 : GetPlebd, weeaboo-chat, ErisBot#1777, [**Music**] `Ỏ̷͖͈̞̩͎̻̫̫̜͉̠̫͕̭̭̫̫̹̗̹͈̼̠шen☆#1099` has added `Dark Souls III Soundtrack OST - Soul of Cinder` to the queue. (`05:52`) [`0`]
+23 Jan 2017 18:42:38 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, https://www.youtube.com/watch?v=3GmZBLqdyhk
+23 Jan 2017 18:42:41 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, https://www.youtube.com/watch?v=3GmZBLqdyhk
+23 Jan 2017 18:42:42 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, https://www.youtube.com/watch?v=3GmZBLqdyhk
+23 Jan 2017 18:42:42 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, https://www.youtube.com/watch?v=3GmZBLqdyhk
+23 Jan 2017 18:42:43 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, https://www.youtube.com/watch?v=3GmZBLqdyhk
+23 Jan 2017 18:42:43 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, https://www.youtube.com/watch?v=3GmZBLqdyhk
+23 Jan 2017 18:42:43 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, https://www.youtube.com/watch?v=3GmZBLqdyhk
+23 Jan 2017 18:42:44 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, https://www.youtube.com/watch?v=3GmZBLqdyhk
+23 Jan 2017 18:42:44 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, https://www.youtube.com/watch?v=3GmZBLqdyhk
+23 Jan 2017 18:42:45 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, https://www.youtube.com/watch?v=3GmZBLqdyhk
+23 Jan 2017 18:42:48 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, https://www.youtube.com/watch?v=3GmZBLqdyhk
+23 Jan 2017 18:42:48 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, https://www.youtube.com/watch?v=3GmZBLqdyhk
+23 Jan 2017 18:42:48 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, https://www.youtube.com/watch?v=3GmZBLqdyhk
+23 Jan 2017 18:42:48 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, https://www.youtube.com/watch?v=3GmZBLqdyhk
+23 Jan 2017 18:43:28 : GetPlebd, weeaboo-chat, Ỏ̷͖͈̞̩͎̻̫̫̜͉̠̫͕̭̭̫̫̹̗̹͈̼̠шen☆#1099, .music play testosteronenbommen\
+23 Jan 2017 18:43:29 : GetPlebd, weeaboo-chat, ErisBot#1777, [**Music**] **Error**: Oops! I couldn't find anything for that!
+23 Jan 2017 18:43:39 : GetPlebd, weeaboo-chat, Ỏ̷͖͈̞̩͎̻̫̫̜͉̠̫͕̭̭̫̫̹̗̹͈̼̠шen☆#1099, .music play testosteronenbommen
+23 Jan 2017 18:43:39 : GetPlebd, weeaboo-chat, ErisBot#1777, [**Music**] **Error**: Oops! I couldn't find anything for that!
+23 Jan 2017 18:43:45 : GetPlebd, weeaboo-chat, Ỏ̷͖͈̞̩͎̻̫̫̜͉̠̫͕̭̭̫̫̹̗̹͈̼̠шen☆#1099, .music play testosteron bom
+23 Jan 2017 18:43:46 : GetPlebd, weeaboo-chat, ErisBot#1777, [**Music**] `Ỏ̷͖͈̞̩͎̻̫̫̜͉̠̫͕̭̭̫̫̹̗̹͈̼̠шen☆#1099` has added `Braz ft. MocroManiac, Fresku, Pietju Bell & Killer Kamal - Testosteronbommen (prod. San Holo)` to the queue. (`04:45`) [`0`]
+23 Jan 2017 18:43:53 : GetPlebd, weeaboo-chat, Ỏ̷͖͈̞̩͎̻̫̫̜͉̠̫͕̭̭̫̫̹̗̹͈̼̠шen☆#1099, .music skip
+23 Jan 2017 18:43:54 : GetPlebd, weeaboo-chat, ErisBot#1777, [**Music**] Skipping `Dark Souls III Soundtrack OST - Soul of Cinder` requested by `Ỏ̷͖͈̞̩͎̻̫̫̜͉̠̫͕̭̭̫̫̹̗̹͈̼̠шen☆`
+23 Jan 2017 18:50:25 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;train
+23 Jan 2017 18:50:26 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 15 **Solosis** for 380 XP (90% to beat)
+You **Beat** a Level 19 **Monferno** for 380 XP (90% to beat)
+You **Beat** a Level 32 **Octillery** for 1543 XP (59% to beat)
+You **Beat** a Level 66 **Charmander** for 2706 XP (28% to beat)
+You **Beat** a Level 20 **Skiddo** for 380 XP (90% to beat)
+You **Beat** a Level 16 **Spinda** for 380 XP (90% to beat)
+You **Lost** to a Level 57 **Dragonite** (33% to beat)
+You **Beat** a Level 16 **Breloom** for 380 XP (90% to beat)
+You **Lost** to a Level 71 **Relicanth** (26% to beat)
+You **Lost** to a Level 32 **Golduck** (59% to beat)
+You **Beat** a Level 55 **Fraxure** for 2487 XP (34% to beat)
+23 Jan 2017 18:50:26 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 8636 XP!
+23 Jan 2017 18:50:52 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;pokedex
+23 Jan 2017 18:50:53 : LimitlessMc, botchat, Botfuzzy77#2209, Your Pokedex is 23.47% complete!
+23 Jan 2017 18:55:01 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;train
+23 Jan 2017 18:55:01 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 28 **Zapdos** for 1383 XP (55% to beat)
+You **Lost** to a Level 49 **Tauros** (31% to beat)
+You **Beat** a Level 8 **Probopass** for 310 XP (90% to beat)
+You **Lost** to a Level 46 **Ducklett** (33% to beat)
+You **Lost** to a Level 57 **Tornadus** (27% to beat)
+You **Lost** to a Level 36 **Cryogonal** (43% to beat)
+You **Lost** to a Level 61 **Exploud** (25% to beat)
+You **Lost** to a Level 32 **Sigilyph** (48% to beat)
+You **Beat** a Level 11 **Espeon** for 310 XP (90% to beat)
+You use a **Lucky Egg** to gain more XP!
+23 Jan 2017 18:55:01 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 3004 XP!
+23 Jan 2017 18:55:14 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;level
+23 Jan 2017 18:55:14 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *🌟💖Resolate💖🌟*
+**Level**: 31
+**XP**: 7905/32768
+**Boss Takedowns**: 9
+**Most Dmg in an Attack**: 7624
+23 Jan 2017 18:55:18 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;ranking
+23 Jan 2017 18:55:19 : LimitlessMc, botchat, Botfuzzy77#2209, :first_place: **TherminatorX** Level **56**
+:second_place: **DanTurboX** Level **53**
+:third_place: **jjtwilefc** Level **49**
+:medal: Wertfuzzy77 Level 48
+:medal: MoonWolf Level 39
+:medal: MrMudkipKipperten Level 38
+:medal: Crystal4209 Level 36
+:medal: Bakafish Level 31
+:medal: 🌟💖Resolate💖🌟 Level 31
+:medal: theOnlyJuan Level 30
+23 Jan 2017 18:55:27 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;pokedex
+23 Jan 2017 18:55:28 : LimitlessMc, botchat, Botfuzzy77#2209, Your Pokedex is 5.62% complete!
+23 Jan 2017 19:03:19 : GetPlebd, weeaboo-chat, Fearleas#5073, https://www.youtube.com/watch?v=1DX7JcEE-pU
+23 Jan 2017 19:03:24 : GetPlebd, weeaboo-chat, Fearleas#5073, https://www.youtube.com/watch?v=mg8hapQ53F8
+23 Jan 2017 19:03:42 : GetPlebd, weeaboo-chat, Fearleas#5073, .music
+23 Jan 2017 19:03:42 : GetPlebd, weeaboo-chat, ErisBot#1777, Command: **music** **<function>** **[args]**
+Description: Play your favorite songs straight from YouTube
+Parameters:
+	**play** [URL/Video Title] - Start playing/play a song from YouTube/SoundCloud
+	**pause** - Pause the current song
+	**volume** [0 - 100] - Changed the volume of the music. _Admin/DJ Overridable_
+	**queue** [Page number] - View the Music queue and select which page
+	**skip** [number] - Vote to skip a song. Requires 40% of undefeaned users to skip
+	**forceskip** - Force skip the song _Admin/DJ Only_
+	**nowplaying** - View what's playing
+	**stop** - Stops the player and completely resets everything _Admin/DJ Only_
+	**verbose [yes/no]** - Should I be a bit more detailed? _Admin/DJ Only_
+Example:
+	_music play https://www.youtube.com/watch?v=dQw4w9WgXcQ_
+
+DJ's can be defined with a role called "DJ"
+23 Jan 2017 19:03:54 : GetPlebd, weeaboo-chat, Fearleas#5073, .music play https://www.youtube.com/watch?v=1DX7JcEE-pU
+23 Jan 2017 19:03:55 : GetPlebd, weeaboo-chat, ErisBot#1777, [**Music**] `Fearleas#5073` has added `Chillouh ft Naffer  Mocromaniac Sjaak - In M'n Space! ( official video )` to the queue. (`04:20`) [`0`]
+23 Jan 2017 19:04:01 : GetPlebd, weeaboo-chat, Ỏ̷͖͈̞̩͎̻̫̫̜͉̠̫͕̭̭̫̫̹̗̹͈̼̠шen☆#1099, .music play https://www.youtube.com/watch?v=7qB2RdB2b6I
+23 Jan 2017 19:04:02 : GetPlebd, weeaboo-chat, ErisBot#1777, [**Music**] `Ỏ̷͖͈̞̩͎̻̫̫̜͉̠̫͕̭̭̫̫̹̗̹͈̼̠шen☆#1099` has added `Sevn Alias - Mandem ft. Jairzinho & JB Scofield (Prod. Esko)` to the queue. (`04:19`) [`0`]
+23 Jan 2017 19:04:16 : GetPlebd, weeaboo-chat, Fearleas#5073, .music play https://www.youtube.com/watch?v=mg8hapQ53F8
+23 Jan 2017 19:04:17 : GetPlebd, weeaboo-chat, ErisBot#1777, [**Music**] `Fearleas#5073` has added `Appa, Sjaak - Wat Is Er?!` to the queue. (`04:47`) [`1`]
+23 Jan 2017 19:06:32 : GetPlebd, weeaboo-chat, Fearleas#5073, .music
+23 Jan 2017 19:06:32 : GetPlebd, weeaboo-chat, ErisBot#1777, Command: **music** **<function>** **[args]**
+Description: Play your favorite songs straight from YouTube
+Parameters:
+	**play** [URL/Video Title] - Start playing/play a song from YouTube/SoundCloud
+	**pause** - Pause the current song
+	**volume** [0 - 100] - Changed the volume of the music. _Admin/DJ Overridable_
+	**queue** [Page number] - View the Music queue and select which page
+	**skip** [number] - Vote to skip a song. Requires 40% of undefeaned users to skip
+	**forceskip** - Force skip the song _Admin/DJ Only_
+	**nowplaying** - View what's playing
+	**stop** - Stops the player and completely resets everything _Admin/DJ Only_
+	**verbose [yes/no]** - Should I be a bit more detailed? _Admin/DJ Only_
+Example:
+	_music play https://www.youtube.com/watch?v=dQw4w9WgXcQ_
+
+DJ's can be defined with a role called "DJ"
+23 Jan 2017 19:06:40 : GetPlebd, weeaboo-chat, Fearleas#5073, .music forceskip
+23 Jan 2017 19:06:40 : GetPlebd, weeaboo-chat, ErisBot#1777, [**Music**] You must be a **DJ** to perform this command!
+23 Jan 2017 19:07:05 : GetPlebd, weeaboo-chat, Fearleas#5073, .music kk bot
+23 Jan 2017 19:07:06 : GetPlebd, weeaboo-chat, ErisBot#1777, Command: **music** **<function>** **[args]**
+Description: Play your favorite songs straight from YouTube
+Parameters:
+	**play** [URL/Video Title] - Start playing/play a song from YouTube/SoundCloud
+	**pause** - Pause the current song
+	**volume** [0 - 100] - Changed the volume of the music. _Admin/DJ Overridable_
+	**queue** [Page number] - View the Music queue and select which page
+	**skip** [number] - Vote to skip a song. Requires 40% of undefeaned users to skip
+	**forceskip** - Force skip the song _Admin/DJ Only_
+	**nowplaying** - View what's playing
+	**stop** - Stops the player and completely resets everything _Admin/DJ Only_
+	**verbose [yes/no]** - Should I be a bit more detailed? _Admin/DJ Only_
+Example:
+	_music play https://www.youtube.com/watch?v=dQw4w9WgXcQ_
+
+DJ's can be defined with a role called "DJ"
+23 Jan 2017 19:15:36 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;cd
+23 Jan 2017 19:15:37 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 2090 seconds
+23 Jan 2017 19:21:50 : None, Direct Message with TherminatorX, TherminatorX#6644, ;train
+23 Jan 2017 19:21:51 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You **Beat** a Level 74 **Croconaw** for 3481 XP (37% to beat)
+You **Beat** a Level 16 **Omastar** for 560 XP (90% to beat)
+You **Beat** a Level 27 **Relicanth** for 560 XP (90% to beat)
+You **Lost** to a Level 69 **Elekid** (40% to beat)
+You **Beat** a Level 7 **Nidoqueen** for 560 XP (90% to beat)
+You **Beat** a Level 100 **Bagon** for 4032 XP (28% to beat)
+You **Lost** to a Level 8 **Cofagrigus** (90% to beat)
+You **Beat** a Level 29 **Ferroseed** for 560 XP (90% to beat)
+You **Beat** a Level 19 **Torterra** for 560 XP (90% to beat)
+You **Lost** to a Level 37 **Purugly** (75% to beat)
+You **Beat** a Level 43 **Scraggy** for 1953 XP (65% to beat)
+You **Beat** a Level 44 **Combusken** for 2036 XP (63% to beat)
+You **Lost** to a Level 38 **Politoed** (73% to beat)
+You **Beat** a Level 104 **Omastar** for 4092 XP (26% to beat)
+You **Beat** a Level 84 **Lotad** for 3733 XP (33% to beat)
+You Find a **Pokeloot** worth 9260 XP
+23 Jan 2017 19:21:51 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You trained for 31387 XP!
+23 Jan 2017 19:23:27 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+23 Jan 2017 19:23:27 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Transistor Original Soundtrack - Water Wall
+**Requester**: MoonWolf
+**URL**: <https://www.youtube.com/watch?v=l8SfXhG2zxg>
+```py
+Time: 0:04:26
+Views: 86,743
+Likes: 561, 99.47%
+Dislikes: 3, 0.53%
+Skips: 0/1```
+23 Jan 2017 19:23:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+23 Jan 2017 19:23:29 : LimitlessMc, botchat, Botfuzzy77#2209, Queue is Empty
+23 Jan 2017 19:23:37 : LimitlessMc, botchat, Third_Worm#4804, its broken
+23 Jan 2017 19:23:42 : LimitlessMc, botchat, Third_Worm#4804, crystal and fornor
+23 Jan 2017 19:23:44 : LimitlessMc, botchat, Wertfuzzy77#0274, ;leave
+23 Jan 2017 19:23:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join

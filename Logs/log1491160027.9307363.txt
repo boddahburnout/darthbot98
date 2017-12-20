@@ -1,0 +1,151 @@
+02 Apr 2017 19:07:53 : LimitlessMc, botchat, Talha_choudhry#5495, ;changeBackground http://wallpapercave.com/wp/Ia5HD7J.jpg
+02 Apr 2017 19:07:53 : LimitlessMc, botchat, Talha_choudhry#5495, ;level
+02 Apr 2017 19:07:56 : LimitlessMc, botchat, Talha_choudhry#5495, ;level
+02 Apr 2017 19:07:58 : LimitlessMc, botchat, Botfuzzy77#2209, Changed Background sucessfully
+02 Apr 2017 19:07:58 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 19:07:59 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 19:08:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 19:08:03 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 19:08:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;types
+02 Apr 2017 19:08:12 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Possible Types ** =-
+:regional_indicator_n: ormal
+:regional_indicator_f: ire
+:regional_indicator_w: ater
+:regional_indicator_g: rass
+:regional_indicator_p: oison
+:regional_indicator_d: ragon
+:regional_indicator_s: teel
+:regional_indicator_e: lectric
+:regional_indicator_b: ug
+:regional_indicator_i: ce
+02 Apr 2017 19:08:14 : LimitlessMc, botchat, Talha_choudhry#5495, ;changeBackground http://wallpapercave.com/wp/Ia5HD7J.jpg
+02 Apr 2017 19:08:14 : LimitlessMc, botchat, Botfuzzy77#2209, Changed Background sucessfully
+02 Apr 2017 19:08:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ;settype Normal
+02 Apr 2017 19:08:17 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Normal type
+02 Apr 2017 19:08:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 19:08:21 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 19:08:25 : LimitlessMc, botchat, Talha_choudhry#5495, ;level
+02 Apr 2017 19:08:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 19:09:02 : LimitlessMc, botchat, Talha_choudhry#5495, ;changeBox 50 50 50
+02 Apr 2017 19:09:18 : LimitlessMc, botchat, Wertfuzzy77#0274, its ;color box [code] no xD
+02 Apr 2017 19:09:20 : LimitlessMc, botchat, Wertfuzzy77#0274, now *
+02 Apr 2017 19:09:27 : LimitlessMc, botchat, Talha_choudhry#5495, Oo
+02 Apr 2017 19:09:36 : LimitlessMc, botchat, Talha_choudhry#5495, ;color box 50 50 50
+02 Apr 2017 19:09:36 : LimitlessMc, botchat, Botfuzzy77#2209, Box Color sucessfully
+02 Apr 2017 19:09:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;color text 200 200 200
+02 Apr 2017 19:09:40 : LimitlessMc, botchat, Botfuzzy77#2209, Text Color sucessfully
+02 Apr 2017 19:09:41 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 19:09:43 : LimitlessMc, botchat, Talha_choudhry#5495, ;level
+02 Apr 2017 19:09:46 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 19:09:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 19:10:04 : LimitlessMc, botchat, Talha_choudhry#5495, ;color titl
+02 Apr 2017 19:10:04 : LimitlessMc, botchat, Botfuzzy77#2209, Invalid option
+Options include:
+;text
+box
+title
+bar <Red> <Green> <Blue>
+ Or use `reset` to reset the custom options back to default.
+02 Apr 2017 19:10:12 : LimitlessMc, botchat, Talha_choudhry#5495, ;color name
+02 Apr 2017 19:10:13 : LimitlessMc, botchat, Botfuzzy77#2209, Invalid option
+Options include:
+;text
+box
+title
+bar <Red> <Green> <Blue>
+ Or use `reset` to reset the custom options back to default.
+02 Apr 2017 19:10:14 : LimitlessMc, botchat, Wertfuzzy77#0274, ;color box 180 230 230
+02 Apr 2017 19:10:14 : LimitlessMc, botchat, Botfuzzy77#2209, Box Color sucessfully
+02 Apr 2017 19:10:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 19:10:28 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 19:10:28 : LimitlessMc, botchat, Talha_choudhry#5495, ;color name 255 255 255
+02 Apr 2017 19:10:28 : LimitlessMc, botchat, Botfuzzy77#2209, Invalid option
+Options include:
+;text
+box
+title
+bar <Red> <Green> <Blue>
+ Or use `reset` to reset the custom options back to default.
+02 Apr 2017 19:10:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ;settype ice
+02 Apr 2017 19:10:37 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Ice type
+02 Apr 2017 19:10:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 19:10:41 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 19:10:46 : LimitlessMc, botchat, Talha_choudhry#5495, ;color title 255 255 255
+02 Apr 2017 19:10:46 : LimitlessMc, botchat, Botfuzzy77#2209, Title Color sucessfully
+02 Apr 2017 19:10:52 : LimitlessMc, botchat, Talha_choudhry#5495, ;level
+02 Apr 2017 19:10:56 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 19:11:08 : LimitlessMc, botchat, Wertfuzzy77#0274, idk if I like those triangles
+02 Apr 2017 19:11:56 : LimitlessMc, botchat, Wertfuzzy77#0274, I think I'm gonna kill em
+02 Apr 2017 19:11:57 : LimitlessMc, botchat, Wertfuzzy77#0274, and replace with a nice type symbol
+02 Apr 2017 19:12:23 : LimitlessMc, botchat, Talha_choudhry#5495, Ehh, it was little cool, but try the symbols
+02 Apr 2017 19:13:14 : LimitlessMc, botchat, Wertfuzzy77#0274, something like one of these by the name
+02 Apr 2017 19:13:17 : LimitlessMc, botchat, Wertfuzzy77#0274, 
+02 Apr 2017 19:13:28 : LimitlessMc, botchat, Talha_choudhry#5495, Yeah
+02 Apr 2017 19:13:48 : LimitlessMc, botchat, Bakafish#8693, ;level
+02 Apr 2017 19:13:50 : LimitlessMc, botchat, Talha_choudhry#5495, That will look awsome
+02 Apr 2017 19:13:51 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 19:13:57 : LimitlessMc, botchat, Wertfuzzy77#0274, local bot
+02 Apr 2017 19:14:01 : LimitlessMc, botchat, Wertfuzzy77#0274, things arent saved
+02 Apr 2017 19:14:09 : LimitlessMc, botchat, Talha_choudhry#5495, Okey
+02 Apr 2017 19:14:21 : LimitlessMc, botchat, Talha_choudhry#5495, .add song
+02 Apr 2017 19:14:25 : LimitlessMc, botchat, Talha_choudhry#5495, .songa
+02 Apr 2017 19:14:28 : LimitlessMc, botchat, Talha_choudhry#5495, .songs
+02 Apr 2017 19:14:28 : LimitlessMc, botchat, LightBot#4090, Queue is Empty
+02 Apr 2017 19:14:36 : LimitlessMc, botchat, Talha_choudhry#5495, .addQueue
+02 Apr 2017 19:14:47 : LimitlessMc, botchat, Talha_choudhry#5495, Wert is there a help guide?
+02 Apr 2017 19:14:47 : LimitlessMc, botchat, Wertfuzzy77#0274, xD you arent even in a voice chat, how are you gonna listen to it
+02 Apr 2017 19:15:02 : LimitlessMc, botchat, Talha_choudhry#5495, Hahaha0
+02 Apr 2017 19:15:08 : LimitlessMc, botchat, Wertfuzzy77#0274, .join
+02 Apr 2017 19:15:22 : LimitlessMc, botchat, Wertfuzzy77#0274, .search Your Lie in April Opening
+02 Apr 2017 19:15:35 : LimitlessMc, botchat, Wertfuzzy77#0274, also, you need to un deafen your self to hear it
+02 Apr 2017 19:15:39 : LimitlessMc, botchat, Wertfuzzy77#0274, the headphones icon
+02 Apr 2017 19:15:50 : LimitlessMc, botchat, Wertfuzzy77#0274, but... it doesnt look like it is playing
+02 Apr 2017 19:15:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+02 Apr 2017 19:15:56 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+02 Apr 2017 19:16:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Your Lie In April Opening
+02 Apr 2017 19:16:02 : LimitlessMc, botchat, Lightning#6734, can you not lol
+02 Apr 2017 19:16:11 : LimitlessMc, botchat, Botfuzzy77#2209, Added Your Lie in April Opening 1 English by [S.B.R.M.P.N.Y] HD creditless to the queue
+02 Apr 2017 19:16:12 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=4ktBIadZ-eo
+02 Apr 2017 19:16:15 : LimitlessMc, botchat, Lightning#6734, music is broke asf for me rn
+02 Apr 2017 19:16:21 : LimitlessMc, botchat, Talha_choudhry#5495, Hahahahahahha
+02 Apr 2017 19:16:21 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+02 Apr 2017 19:16:24 : LimitlessMc, botchat, Wertfuzzy77#0274, pull my code in
+02 Apr 2017 19:16:28 : LimitlessMc, botchat, Wertfuzzy77#0274, its nice and shiny
+02 Apr 2017 19:16:36 : LimitlessMc, botchat, Wertfuzzy77#0274, @Botfuzzy77 you gonna play?
+02 Apr 2017 19:16:37 : LimitlessMc, botchat, Botfuzzy77#2209, Chip chap bubbelbla dududu.
+02 Apr 2017 19:16:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ....
+02 Apr 2017 19:16:43 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+02 Apr 2017 19:16:43 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Your Lie in April Opening 1 English by [S.B.R.M.P.N.Y] HD creditless
+**Requester**: Wertfuzzy77
+**URL**: <https://www.youtube.com/watch?v=4ktBIadZ-eo>
+```py
+Time: 0:01:49
+Views: 559,694
+Likes: 6,442, 98.56%
+Dislikes: 94, 1.44%
+Skips: 0/1```
+02 Apr 2017 19:16:44 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+02 Apr 2017 19:16:45 : LimitlessMc, botchat, Botfuzzy77#2209, Queue is Empty
+02 Apr 2017 19:16:54 : LimitlessMc, botchat, Wertfuzzy77#0274, well then
+02 Apr 2017 19:17:01 : LimitlessMc, botchat, Wertfuzzy77#0274, o forgot
+02 Apr 2017 19:17:02 : LimitlessMc, botchat, Wertfuzzy77#0274, local bot
+02 Apr 2017 19:17:04 : LimitlessMc, botchat, Wertfuzzy77#0274, its weird
+02 Apr 2017 19:17:14 : LimitlessMc, botchat, Wertfuzzy77#0274, no music for my bot rn then xD
+02 Apr 2017 19:17:20 : LimitlessMc, botchat, Talha_choudhry#5495, Hahahahahq
+02 Apr 2017 19:17:36 : LimitlessMc, voice-junk, Talha_choudhry#5495, Helloooo
+02 Apr 2017 19:17:48 : LimitlessMc, botchat, Lightning#6734, i may need to update the ytdl
+02 Apr 2017 19:17:52 : LimitlessMc, voice-junk, Talha_choudhry#5495, Still installing ftb?
+02 Apr 2017 19:18:11 : LimitlessMc, voice-junk, Talha_choudhry#5495, Chilll
+02 Apr 2017 19:18:17 : LimitlessMc, botchat, Wertfuzzy77#0274, I update youtube_dl and discord.py[voice] like every week
+02 Apr 2017 19:18:17 : LimitlessMc, botchat, Lightning#6734, and she shut off o.O?
+02 Apr 2017 19:19:05 : LimitlessMc, voice-junk, Talha_choudhry#5495, Btw gonna pimp up the gym got any suggestion for things i can fix?
+02 Apr 2017 19:19:34 : LimitlessMc, voice-junk, Talha_choudhry#5495, Okey, so you mean its perfect?
+02 Apr 2017 19:19:53 : LimitlessMc, voice-junk, Talha_choudhry#5495, Better then yours?
+02 Apr 2017 19:20:33 : LimitlessMc, voice-junk, Talha_choudhry#5495, Sure why not
+02 Apr 2017 19:21:04 : LimitlessMc, voice-junk, Third_Worm#4804, god no
+02 Apr 2017 19:21:18 : LimitlessMc, botchat, Third_Worm#4804, just realized no music
+02 Apr 2017 19:21:22 : LimitlessMc, botchat, Third_Worm#4804, alll well
+02 Apr 2017 19:21:27 : LimitlessMc, voice-junk, Talha_choudhry#5495, Hhaha
+02 Apr 2017 19:21:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ya, local bot, tinkering with ;level
+02 Apr 2017 19:21:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ^
+02 Apr 2017 19:21:38 : LimitlessMc, botchat, Botfuzzy77#2209, ^

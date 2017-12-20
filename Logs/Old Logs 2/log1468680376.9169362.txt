@@ -1,0 +1,25 @@
+16 Jul 2016 14:46:26 : LimitlessMc , Wertfuzzy77#0274 , ;join
+16 Jul 2016 14:46:37 : LimitlessMc , Wertfuzzy77#0274 , ;playlist Adele
+16 Jul 2016 14:46:41 : LimitlessMc , Botfuzzy77#2209 , Finished Adding songs from playlist(s)
+16 Jul 2016 14:46:51 : LimitlessMc , Resolate#7058 , ;songs
+16 Jul 2016 14:46:52 : LimitlessMc , Botfuzzy77#2209 , The Following songs are in the Queue
+16 Jul 2016 14:46:52 : LimitlessMc , Botfuzzy77#2209 , Adele - Someone Like You (https://www.youtube.com/watch?v=hLQl3WQQoQ0)
+Adele - Set Fire To The Rain (Live at The Royal Albert Hall) (https://www.youtube.com/watch?v=Ri7-vnrJD3k)
+Adele - Hello (https://www.youtube.com/watch?v=YQHsXMglC9A)
+Adele - Rolling in the Deep (https://www.youtube.com/watch?v=rYEDA3JcQqw)
+
+16 Jul 2016 14:47:02 : LimitlessMc , Wertfuzzy77#0274 , ;youtube https://www.youtube.com/watch?v=kffacxfA7G4
+16 Jul 2016 14:47:03 : LimitlessMc , Botfuzzy77#2209 , Sorry, too many people dislike that video. Needs to be above [57.58%] but was [25.0%]
+16 Jul 2016 14:47:05 : LimitlessMc , Wertfuzzy77#0274 , ok good
+16 Jul 2016 14:47:14 : LimitlessMc , Resolate#7058 , lol
+16 Jul 2016 14:47:15 : LimitlessMc , Wertfuzzy77#0274 , xD that 57% dislike tho
+16 Jul 2016 14:47:21 : LimitlessMc , Wertfuzzy77#0274 , like gg
+16 Jul 2016 14:48:28 : LimitlessMc , Wertfuzzy77#0274 , you have any suggestions to add? <@186810646564831232>
+16 Jul 2016 14:49:57 : LimitlessMc , Wertfuzzy77#0274 , ;reload
+16 Jul 2016 14:49:57 : LimitlessMc , Botfuzzy77#2209 , Reloaded all Modules
+16 Jul 2016 14:50:12 : LimitlessMc , Wertfuzzy77#0274 , lol, sure, but i meant about features
+16 Jul 2016 14:50:14 : LimitlessMc , Wertfuzzy77#0274 , ;song
+16 Jul 2016 14:50:14 : LimitlessMc , Botfuzzy77#2209 , No Song Playing
+16 Jul 2016 14:50:16 : LimitlessMc , Wertfuzzy77#0274 , ...
+16 Jul 2016 14:50:17 : LimitlessMc , Wertfuzzy77#0274 , ;relog
+16 Jul 2016 14:50:17 : LimitlessMc , Botfuzzy77#2209 , Relogging...

@@ -1,0 +1,123 @@
+02 Apr 2017 04:05:58 : LimitlessMc, botchat, Wertfuzzy77#0274, fixed xD
+02 Apr 2017 04:06:05 : LimitlessMc, botchat, Wertfuzzy77#0274, starting up again
+02 Apr 2017 04:06:19 : LimitlessMc, botchat, Nerokin#3586, ;level
+02 Apr 2017 04:06:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 04:06:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ew
+02 Apr 2017 04:06:42 : LimitlessMc, botchat, Wertfuzzy77#0274, eh, its trying xD
+02 Apr 2017 04:06:49 : LimitlessMc, botchat, Nerokin#3586, Yep
+02 Apr 2017 04:06:57 : LimitlessMc, botchat, Nerokin#3586, Now the text could be one of two colors
+02 Apr 2017 04:07:00 : LimitlessMc, botchat, Nerokin#3586, white or black
+02 Apr 2017 04:07:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;color
+02 Apr 2017 04:07:10 : LimitlessMc, botchat, Wertfuzzy77#0274, well, text could be any color
+02 Apr 2017 04:07:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ;color a
+02 Apr 2017 04:07:16 : LimitlessMc, botchat, Botfuzzy77#2209, Invalid option
+Options include:
+text_color
+box_color
+title_color
+type_color
+ Or use `reset` to reset the custom options back to default.
+02 Apr 2017 04:07:16 : LimitlessMc, botchat, Nerokin#3586, True
+02 Apr 2017 04:07:21 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 04:07:22 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 04:07:33 : LimitlessMc, botchat, Nerokin#3586, ;color help
+02 Apr 2017 04:07:33 : LimitlessMc, botchat, Botfuzzy77#2209, Invalid option
+Options include:
+text_color
+box_color
+title_color
+type_color
+ Or use `reset` to reset the custom options back to default.
+02 Apr 2017 04:07:43 : LimitlessMc, botchat, Wertfuzzy77#0274, hmmm, I think I need to get the invert of the color palette
+02 Apr 2017 04:07:51 : LimitlessMc, botchat, Wertfuzzy77#0274, cause rn it is pulling colors from the image
+02 Apr 2017 04:07:58 : LimitlessMc, botchat, Wertfuzzy77#0274, I need to reverse em
+02 Apr 2017 04:08:09 : LimitlessMc, botchat, Nerokin#3586, ;color text_color #FFFFFF
+02 Apr 2017 04:08:15 : LimitlessMc, botchat, Wertfuzzy77#0274, rgb code
+02 Apr 2017 04:08:19 : LimitlessMc, botchat, Nerokin#3586, O
+02 Apr 2017 04:08:32 : LimitlessMc, botchat, Nerokin#3586, ;color text_color 255,255,255
+02 Apr 2017 04:08:34 : LimitlessMc, botchat, Wertfuzzy77#0274, ;color box 255 255 255
+02 Apr 2017 04:08:34 : LimitlessMc, botchat, Botfuzzy77#2209, Box Color sucessfully
+02 Apr 2017 04:08:39 : LimitlessMc, botchat, Nerokin#3586, Spaces
+02 Apr 2017 04:08:39 : LimitlessMc, botchat, Wertfuzzy77#0274, o, i have teh help wrong
+02 Apr 2017 04:08:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ya
+02 Apr 2017 04:08:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 04:08:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 04:08:57 : LimitlessMc, botchat, Wertfuzzy77#0274, ;color box 0 0 0
+02 Apr 2017 04:08:57 : LimitlessMc, botchat, Botfuzzy77#2209, Box Color sucessfully
+02 Apr 2017 04:08:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 04:09:00 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 04:09:04 : LimitlessMc, botchat, Nerokin#3586, ;color text_color 255 255 255
+02 Apr 2017 04:09:04 : LimitlessMc, botchat, Botfuzzy77#2209, Invalid option
+Options include:
+text_color
+box_color
+title_color
+type_color
+ Or use `reset` to reset the custom options back to default.
+02 Apr 2017 04:09:08 : LimitlessMc, botchat, Wertfuzzy77#0274, looks like it worms tho
+02 Apr 2017 04:09:09 : LimitlessMc, botchat, Wertfuzzy77#0274, works *
+02 Apr 2017 04:09:15 : LimitlessMc, botchat, Wertfuzzy77#0274, its just `text`
+02 Apr 2017 04:09:18 : LimitlessMc, botchat, Wertfuzzy77#0274, the help is wrong
+02 Apr 2017 04:09:22 : LimitlessMc, botchat, Nerokin#3586, ;color text 255,255,255
+02 Apr 2017 04:09:32 : LimitlessMc, botchat, Nerokin#3586, ;color text 255 255 255
+02 Apr 2017 04:09:32 : LimitlessMc, botchat, Botfuzzy77#2209, Text Color sucessfully
+02 Apr 2017 04:09:36 : LimitlessMc, botchat, Nerokin#3586, ;level
+02 Apr 2017 04:09:40 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 04:09:56 : LimitlessMc, botchat, Wertfuzzy77#0274, the red looks weird xD change the box color
+02 Apr 2017 04:10:21 : LimitlessMc, botchat, Wertfuzzy77#0274, you can also do ;color reset to reset the custom colors back to defaul
+02 Apr 2017 04:10:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 04:10:26 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 04:10:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ;color reset
+02 Apr 2017 04:10:28 : LimitlessMc, botchat, Botfuzzy77#2209, Custom colors reset!
+02 Apr 2017 04:10:31 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 04:10:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 04:10:44 : LimitlessMc, botchat, Nerokin#3586, ;color box  0 0 204
+02 Apr 2017 04:10:44 : LimitlessMc, botchat, Botfuzzy77#2209, Box Color sucessfully
+02 Apr 2017 04:10:51 : LimitlessMc, botchat, Nerokin#3586, ;level
+02 Apr 2017 04:10:53 : LimitlessMc, botchat, Wertfuzzy77#0274, ;color text 30 30 30
+02 Apr 2017 04:10:54 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 04:10:56 : LimitlessMc, botchat, Botfuzzy77#2209, Text Color sucessfully
+02 Apr 2017 04:11:00 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 04:11:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 04:11:11 : LimitlessMc, botchat, Wertfuzzy77#0274, o wait
+02 Apr 2017 04:11:16 : LimitlessMc, botchat, Wertfuzzy77#0274, why I have the default background?
+02 Apr 2017 04:11:17 : LimitlessMc, botchat, Wertfuzzy77#0274, wut
+02 Apr 2017 04:11:27 : LimitlessMc, botchat, Wertfuzzy77#0274, ;changeBackground https://s-media-cache-ak0.pinimg.com/originals/7c/43/6d/7c436db6400b75577f7c9ab7a6968eee.jpg
+02 Apr 2017 04:11:27 : LimitlessMc, botchat, Botfuzzy77#2209, Changed Background sucessfully
+02 Apr 2017 04:11:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 04:11:31 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 04:11:44 : LimitlessMc, botchat, Wertfuzzy77#0274, gj @Botfuzzy77 you got good colors
+02 Apr 2017 04:11:46 : LimitlessMc, botchat, Botfuzzy77#2209, Yes I know.
+02 Apr 2017 04:11:49 : LimitlessMc, botchat, Wertfuzzy77#0274, lol
+02 Apr 2017 04:12:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;color reset
+02 Apr 2017 04:12:01 : LimitlessMc, botchat, Botfuzzy77#2209, Custom colors reset!
+02 Apr 2017 04:12:04 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 04:12:06 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 04:12:13 : LimitlessMc, botchat, Wertfuzzy77#0274, well... all except the text lol
+02 Apr 2017 04:12:18 : LimitlessMc, botchat, Wertfuzzy77#0274, ;color text 20 20 20
+02 Apr 2017 04:12:19 : LimitlessMc, botchat, Botfuzzy77#2209, Text Color sucessfully
+02 Apr 2017 04:12:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 04:12:22 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 04:13:58 : LimitlessMc, botchat, Wertfuzzy77#0274, ;changeBackground https://s-media-cache-ak0.pinimg.com/originals/9e/c6/bb/9ec6bbb3ddcb508393fe400e830ae828.png
+02 Apr 2017 04:13:59 : LimitlessMc, botchat, Botfuzzy77#2209, Changed Background sucessfully
+02 Apr 2017 04:14:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+02 Apr 2017 04:14:03 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 04:14:45 : LimitlessMc, botchat, Nerokin#3586, ;color text 21 63 63
+02 Apr 2017 04:14:45 : LimitlessMc, botchat, Botfuzzy77#2209, Text Color sucessfully
+02 Apr 2017 04:14:48 : LimitlessMc, botchat, Nerokin#3586, ;level
+02 Apr 2017 04:14:51 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 04:15:03 : LimitlessMc, botchat, Nerokin#3586, I swore it was brighter...
+02 Apr 2017 04:15:04 : LimitlessMc, botchat, Nerokin#3586, Guess not
+02 Apr 2017 04:15:17 : The Wild Weebs, general, Wertfuzzy77#0274, https://cdn.discordapp.com/attachments/167343916339822593/297946766085455872/Output.png
+02 Apr 2017 04:15:29 : LimitlessMc, botchat, Nerokin#3586, Oh, used wrong code..
+02 Apr 2017 04:15:42 : LimitlessMc, botchat, Nerokin#3586, ;color text 85 255 255
+02 Apr 2017 04:15:42 : LimitlessMc, botchat, Botfuzzy77#2209, Text Color sucessfully
+02 Apr 2017 04:15:46 : LimitlessMc, botchat, Nerokin#3586, ;level
+02 Apr 2017 04:15:49 : The Wild Weebs, general, Wertfuzzy77#0274, https://cdn.discordapp.com/attachments/167343916339822593/297946340678303744/Output.png
+02 Apr 2017 04:15:49 : LimitlessMc, botchat, Botfuzzy77#2209, 
+02 Apr 2017 04:15:52 : The Wild Weebs, general, Wertfuzzy77#0274, @Tally
+02 Apr 2017 04:15:54 : The Wild Weebs, general, Wertfuzzy77#0274, I did a thing
+02 Apr 2017 04:16:21 : LimitlessMc, botchat, Nerokin#3586, ;color text  85 85 255
+02 Apr 2017 04:16:21 : LimitlessMc, botchat, Botfuzzy77#2209, Text Color sucessfully
+02 Apr 2017 04:16:23 : LimitlessMc, botchat, Nerokin#3586, ;level
+02 Apr 2017 04:16:26 : LimitlessMc, botchat, Botfuzzy77#2209, 

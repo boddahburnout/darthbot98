@@ -1,0 +1,12 @@
+19 Sep 2016 17:49:12 : Cipher, music, Wertfuzzy77#0274, ;join
+19 Sep 2016 17:49:17 : Cipher, music, Wertfuzzy77#0274, ;playlist Kimi
+19 Sep 2016 17:49:21 : Cipher, music, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+19 Sep 2016 17:49:22 : Cipher, music, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=nj53ZVATT4w
+19 Sep 2016 17:49:26 : Cipher, music, Wertfuzzy77#0274, ;songs
+19 Sep 2016 17:49:26 : Cipher, music, Botfuzzy77#2209, **The Following songs are in the Queue**
+19 Sep 2016 17:49:47 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **jolo**(No Role) is now Online!
+19 Sep 2016 17:49:56 : Cipher, music, Wertfuzzy77#0274, ;reload
+19 Sep 2016 17:49:56 : Cipher, music, Botfuzzy77#2209, Reloaded all Modules
+19 Sep 2016 17:49:59 : Cipher, music, Wertfuzzy77#0274, ;playlist Kimi
+19 Sep 2016 17:49:59 : Cipher, music, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+19 Sep 2016 17:50:02 : Cipher, music, Wertfuzzy77#0274, ;relog

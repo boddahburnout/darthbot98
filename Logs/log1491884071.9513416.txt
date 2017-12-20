@@ -1,0 +1,206 @@
+11 Apr 2017 04:14:42 : LimitlessMc, botchat, Lightning#6734, ik wert
+11 Apr 2017 04:14:42 : Pulse, game-chat, JustinOPGamer#9138, ;train
+11 Apr 2017 04:14:42 : Pulse, game-chat, Botfuzzy77#2209, Please wait 1,531 seconds before you can train again.
+11 Apr 2017 04:14:42 : Pulse, game-chat, Botfuzzy77#2209, 
+11 Apr 2017 04:14:42 : Pulse, game-chat, Botfuzzy77#2209, 
+11 Apr 2017 04:14:46 : LimitlessMc, botchat, Lightning#6734, like i said i never updated or messed with that bit
+11 Apr 2017 04:14:46 : Pulse, game-chat, JustinOPGamer#9138, ooo
+11 Apr 2017 04:14:58 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+11 Apr 2017 04:14:58 : LimitlessMc, botchat, Botfuzzy77#2209, Your Score is:
+2142257
+11 Apr 2017 04:15:01 : LimitlessMc, botchat, Lightning#6734, been working on radio updates
+11 Apr 2017 04:15:05 : LimitlessMc, botchat, Crystal4209#4698, ;ranking
+11 Apr 2017 04:15:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio
+11 Apr 2017 04:15:05 : LimitlessMc, botchat, Botfuzzy77#2209, Your Score is:
+3427149
+11 Apr 2017 04:15:05 : LimitlessMc, botchat, Botfuzzy77#2209, **Please choose one of these options**: 
+```py
+Electro Hub        (1144 Songs) https://temp.discord.fm/libraries/electro-hub
+Chill Corner       (744 Songs) https://temp.discord.fm/libraries/chill-corner
+Korean Madness     (386 Songs) https://temp.discord.fm/libraries/korean-madness
+Japanese Lounge    (829 Songs) https://temp.discord.fm/libraries/japanese-lounge
+Classical          (278 Songs) https://temp.discord.fm/libraries/classical
+Retro Renegade     (453 Songs) https://temp.discord.fm/libraries/retro-renegade
+Metal Mix          (556 Songs) https://temp.discord.fm/libraries/metal-mix
+Hip-hop            (434 Songs) https://temp.discord.fm/libraries/hip-hop
+Electro Swing      (341 Songs) https://temp.discord.fm/libraries/electro-swing
+Purely Pop         (329 Songs) https://temp.discord.fm/libraries/purely-pop
+Rock-n-Roll        (640 Songs) https://temp.discord.fm/libraries/rock-n-roll
+Coffee-house Jazz  (522 Songs) https://temp.discord.fm/libraries/coffee-house-jazz```
+Example: `;Radio Purely Pop`
+11 Apr 2017 04:15:06 : LimitlessMc, botchat, Botfuzzy77#2209, Currently listening to the *Purely Pop* radio channel
+11 Apr 2017 04:15:06 : LimitlessMc, botchat, Botfuzzy77#2209, The Bot isnt connected in this server!
+11 Apr 2017 04:15:11 : LimitlessMc, botchat, Crystal4209#4698, er
+11 Apr 2017 04:15:15 : LimitlessMc, botchat, Lightning#6734, yea v fancy
+11 Apr 2017 04:15:29 : Pulse, game-chat, JustinOPGamer#9138, this is a test to see if 2nd bot doesnt have timer
+11 Apr 2017 04:15:30 : Pulse, game-chat, JustinOPGamer#9138, ;train
+11 Apr 2017 04:15:30 : Pulse, game-chat, Botfuzzy77#2209, Please wait 1,480 seconds before you can train again.
+11 Apr 2017 04:15:30 : Pulse, game-chat, Botfuzzy77#2209, Please wait 1,752 seconds before you can train again.
+11 Apr 2017 04:15:32 : LimitlessMc, botchat, Crystal4209#4698, so what does that score thing mean wert?
+11 Apr 2017 04:15:33 : LimitlessMc, botchat, Lightning#6734, need to add a heavy metal radio
+11 Apr 2017 04:15:38 : Pulse, game-chat, JustinOPGamer#9138, nope it does lel
+11 Apr 2017 04:15:50 : LimitlessMc, botchat, Wertfuzzy77#0274, thats whats gonna calculate your new ranking
+11 Apr 2017 04:16:01 : LimitlessMc, botchat, Crystal4209#4698, dont get it
+11 Apr 2017 04:16:04 : LimitlessMc, botchat, Lightning#6734, i do
+11 Apr 2017 04:16:12 : LimitlessMc, botchat, Wertfuzzy77#0274, basically, its all your XP you've gotten so far
+11 Apr 2017 04:16:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ever
+11 Apr 2017 04:16:16 : LimitlessMc, botchat, Wertfuzzy77#0274, in 1 number
+11 Apr 2017 04:16:17 : LimitlessMc, botchat, Crystal4209#4698, ah
+11 Apr 2017 04:16:21 : LimitlessMc, botchat, Lightning#6734, ranking will be based off of score if i'm correct?
+11 Apr 2017 04:16:21 : LimitlessMc, botchat, Crystal4209#4698, ;ranking
+11 Apr 2017 04:16:21 : LimitlessMc, botchat, Botfuzzy77#2209, Your Score is:
+3427149
+11 Apr 2017 04:16:25 : LimitlessMc, botchat, Crystal4209#4698, boi best exp
+11 Apr 2017 04:17:01 : LimitlessMc, botchat, Crystal4209#4698, make this into a box with out icon wert like you did with the lvl up's
+11 Apr 2017 04:17:11 : LimitlessMc, botchat, Crystal4209#4698, just incase multiple people do this
+11 Apr 2017 04:17:15 : LimitlessMc, botchat, Wertfuzzy77#0274, i
+11 Apr 2017 04:17:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ...
+11 Apr 2017 04:17:25 : LimitlessMc, botchat, Wertfuzzy77#0274, I'm killing that list stuff above it
+11 Apr 2017 04:17:32 : LimitlessMc, botchat, Crystal4209#4698, hm
+11 Apr 2017 04:17:34 : LimitlessMc, botchat, JustinOPGamer#9138, lol
+11 Apr 2017 04:17:35 : LimitlessMc, botchat, Wertfuzzy77#0274, and making it into an image with the top 5 level cards
+11 Apr 2017 04:17:48 : LimitlessMc, botchat, Wertfuzzy77#0274, on a nice backdrop
+11 Apr 2017 04:18:01 : LimitlessMc, botchat, Wertfuzzy77#0274, tbh, I havent done it yet, cause I can't find a nice background for it xD
+11 Apr 2017 04:18:04 : LimitlessMc, botchat, JustinOPGamer#9138, ;level
+11 Apr 2017 04:18:05 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 04:18:06 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 04:18:14 : LimitlessMc, botchat, Crystal4209#4698, want me to find a background wert?
+11 Apr 2017 04:18:17 : LimitlessMc, botchat, Wertfuzzy77#0274, sure
+11 Apr 2017 04:18:17 : LimitlessMc, botchat, Crystal4209#4698, i like helping
+11 Apr 2017 04:18:19 : LimitlessMc, botchat, Wertfuzzy77#0274, if you want
+11 Apr 2017 04:18:22 : LimitlessMc, botchat, Crystal4209#4698, theme?
+11 Apr 2017 04:18:26 : LimitlessMc, botchat, JustinOPGamer#9138, just use mine :3
+11 Apr 2017 04:18:40 : LimitlessMc, botchat, Crystal4209#4698, guessing pokemon theme
+11 Apr 2017 04:18:45 : LimitlessMc, botchat, JustinOPGamer#9138, ^^^
+11 Apr 2017 04:18:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug getPlayer(getMember("TherminatorX"))
+11 Apr 2017 04:18:47 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+NameError: name 'getPlayer' is not defined
+```
+11 Apr 2017 04:18:47 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+NameError: name 'getPlayer' is not defined
+```
+11 Apr 2017 04:18:49 : LimitlessMc, botchat, Wertfuzzy77#0274, sure
+11 Apr 2017 04:18:57 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug self.getPlayer(self.getMember("TherminatorX"))
+11 Apr 2017 04:18:57 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+NameError: name 'self' is not defined
+```
+11 Apr 2017 04:18:57 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+NameError: name 'self' is not defined
+```
+11 Apr 2017 04:19:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug self.getPlayer(self.getMember("TherminatorX"))
+11 Apr 2017 04:19:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug self.getPlayer(self.getMember("TherminatorX"))['name']
+11 Apr 2017 04:19:12 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+TypeError: 'coroutine' object is not subscriptable
+```
+11 Apr 2017 04:19:12 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+TypeError: 'coroutine' object is not subscriptable
+```
+11 Apr 2017 04:19:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug self.getPlayer(self.getMember("TherminatorX")).keys()
+11 Apr 2017 04:19:22 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+AttributeError: 'coroutine' object has no attribute 'keys'
+```
+11 Apr 2017 04:19:22 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+AttributeError: 'coroutine' object has no attribute 'keys'
+```
+11 Apr 2017 04:19:25 : LimitlessMc, botchat, Crystal4209#4698, http://wallpapercave.com/wp/DRd73IK.jpg
+11 Apr 2017 04:19:30 : LimitlessMc, botchat, Crystal4209#4698, ^lel
+11 Apr 2017 04:19:30 : LimitlessMc, botchat, JustinOPGamer#9138, i like that
+11 Apr 2017 04:19:56 : LimitlessMc, botchat, Wertfuzzy77#0274, ya, I saw that one, but I want something like a pedestal where I can put the cards
+11 Apr 2017 04:20:03 : LimitlessMc, botchat, Wertfuzzy77#0274, so it looks like that person is the #1
+11 Apr 2017 04:20:06 : LimitlessMc, botchat, JustinOPGamer#9138, ah i help search
+11 Apr 2017 04:20:08 : LimitlessMc, botchat, Crystal4209#4698, ok
+11 Apr 2017 04:20:17 : LimitlessMc, botchat, Wertfuzzy77#0274, no good way to arrange the cards to show that in that image
+11 Apr 2017 04:20:26 : LimitlessMc, botchat, Wertfuzzy77#0274, self.getMember("TherminatorX")
+11 Apr 2017 04:20:33 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug self.getMember("TherminatorX")
+11 Apr 2017 04:20:33 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+None
+```
+11 Apr 2017 04:20:33 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+None
+```
+11 Apr 2017 04:20:39 : LimitlessMc, botchat, Wertfuzzy77#0274, well
+11 Apr 2017 04:20:40 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+11 Apr 2017 04:21:10 : LimitlessMc, botchat, Wertfuzzy77#0274, [x for x in list(bot.get_all_members()) if x.name == "TherminatorX"][0]
+11 Apr 2017 04:21:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ...
+11 Apr 2017 04:21:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug [x for x in list(bot.get_all_members()) if x.name == "TherminatorX"][0]
+11 Apr 2017 04:21:17 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+NameError: name 'bot' is not defined
+```
+11 Apr 2017 04:21:17 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+NameError: name 'bot' is not defined
+```
+11 Apr 2017 04:21:21 : LimitlessMc, botchat, Crystal4209#4698, didnt they have a pedistal in the indigo league?
+11 Apr 2017 04:21:25 : LimitlessMc, botchat, Wertfuzzy77#0274, maybe?
+11 Apr 2017 04:21:26 : LimitlessMc, botchat, Wertfuzzy77#0274, no idea
+11 Apr 2017 04:21:30 : LimitlessMc, botchat, JustinOPGamer#9138, https://cdn.discordapp.com/attachments/279750074257375233/301210088868413440/f9eafc30e03898cea12c2caba3a63342.png
+11 Apr 2017 04:21:34 : LimitlessMc, botchat, JustinOPGamer#9138, whtat about that
+11 Apr 2017 04:21:48 : LimitlessMc, botchat, Wertfuzzy77#0274, maybeeeee
+11 Apr 2017 04:21:52 : LimitlessMc, botchat, Wertfuzzy77#0274, but not exactly what I want
+11 Apr 2017 04:22:00 : LimitlessMc, botchat, Crystal4209#4698, http://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep05_ss01.jpg
+11 Apr 2017 04:22:04 : LimitlessMc, botchat, Crystal4209#4698, could go with that
+11 Apr 2017 04:22:43 : LimitlessMc, botchat, Wertfuzzy77#0274, best idea
+11 Apr 2017 04:22:48 : LimitlessMc, botchat, Wertfuzzy77#0274, 
+11 Apr 2017 04:22:57 : LimitlessMc, botchat, Wertfuzzy77#0274, the top 2-5 become the Bot's elite 4
+11 Apr 2017 04:23:03 : LimitlessMc, botchat, Wertfuzzy77#0274, and the top 1 becomes the champ
+11 Apr 2017 04:23:33 : LimitlessMc, botchat, Crystal4209#4698, http://i483.photobucket.com/albums/rr192/UnapologeticGuy/e4_genvi_zpspi7u6ia0.png
+11 Apr 2017 04:23:35 : LimitlessMc, botchat, Crystal4209#4698, like this?
+11 Apr 2017 04:24:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ya, something like that
+11 Apr 2017 04:24:21 : LimitlessMc, botchat, Wertfuzzy77#0274, I'll have to work on the design
+11 Apr 2017 04:25:04 : LimitlessMc, botchat, JustinOPGamer#9138, i was thinking something like this for top 3
+11 Apr 2017 04:25:06 : LimitlessMc, botchat, JustinOPGamer#9138, https://cdn.discordapp.com/attachments/279750074257375233/301210947002040320/wallpaper__generation_3_by_arkeis_pokemon-d85oq7r.png
+11 Apr 2017 04:25:12 : LimitlessMc, botchat, Wertfuzzy77#0274, top 5 tho
+11 Apr 2017 04:25:19 : LimitlessMc, botchat, Crystal4209#4698, http://img07.deviantart.net/d57b/i/2010/255/3/9/trainer_card___template_v1_2_by_pokemon_league-d1z423d.jpg
+11 Apr 2017 04:25:27 : LimitlessMc, botchat, Crystal4209#4698, search up templates
+11 Apr 2017 04:25:31 : LimitlessMc, botchat, Wertfuzzy77#0274, 
+11 Apr 2017 04:26:03 : LimitlessMc, botchat, Wertfuzzy77#0274, 
+11 Apr 2017 04:26:08 : LimitlessMc, botchat, Wertfuzzy77#0274, can use that
+11 Apr 2017 04:26:09 : LimitlessMc, botchat, Wertfuzzy77#0274, I think
+11 Apr 2017 04:26:13 : LimitlessMc, botchat, Crystal4209#4698, http://orig05.deviantart.net/e96e/f/2007/124/4/c/pokemon_trainer_card_templates_by_ford206.png
+11 Apr 2017 04:26:23 : LimitlessMc, botchat, Crystal4209#4698, ^5
+11 Apr 2017 04:27:19 : LimitlessMc, botchat, JustinOPGamer#9138, ;Setbackground https://cdn.discordapp.com/attachments/279750074257375233/301211507516243968/8f3d8e80db3fb51a1d9614fad72dc21fac1534a6_hq.png
+11 Apr 2017 04:27:30 : LimitlessMc, botchat, JustinOPGamer#9138, rip didnt work i forgot cmd again
+11 Apr 2017 04:27:44 : LimitlessMc, botchat, Wertfuzzy77#0274, .;changebackground
+11 Apr 2017 04:28:03 : LimitlessMc, botchat, JustinOPGamer#9138, thanks
+11 Apr 2017 04:28:10 : LimitlessMc, botchat, JustinOPGamer#9138, ;changebackground https://cdn.discordapp.com/attachments/279750074257375233/301211507516243968/8f3d8e80db3fb51a1d9614fad72dc21fac1534a6_hq.png
+11 Apr 2017 04:28:17 : LimitlessMc, botchat, JustinOPGamer#9138, o-o
+11 Apr 2017 04:28:24 : LimitlessMc, botchat, Wertfuzzy77#0274, .;changeBackground *
+11 Apr 2017 04:28:38 : LimitlessMc, botchat, JustinOPGamer#9138, ;changeBackground https://cdn.discordapp.com/attachments/279750074257375233/301211507516243968/8f3d8e80db3fb51a1d9614fad72dc21fac1534a6_hq.png
+11 Apr 2017 04:28:38 : LimitlessMc, botchat, Botfuzzy77#2209, Changed Background sucessfully
+11 Apr 2017 04:28:38 : LimitlessMc, botchat, Botfuzzy77#2209, Changed Background sucessfully
+11 Apr 2017 04:28:44 : LimitlessMc, botchat, JustinOPGamer#9138, there we go thanks
+11 Apr 2017 04:28:47 : LimitlessMc, botchat, JustinOPGamer#9138, ;level]
+11 Apr 2017 04:28:50 : LimitlessMc, botchat, JustinOPGamer#9138, ;level
+11 Apr 2017 04:28:51 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 04:28:51 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 04:28:56 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+11 Apr 2017 04:28:58 : LimitlessMc, botchat, JustinOPGamer#9138, oo ew
+11 Apr 2017 04:29:00 : LimitlessMc, botchat, Wertfuzzy77#0274, didnt like the image
+11 Apr 2017 04:29:03 : LimitlessMc, botchat, JustinOPGamer#9138, yea
+11 Apr 2017 04:29:08 : LimitlessMc, botchat, Crystal4209#4698, http://orig09.deviantart.net/5b03/f/2010/065/7/7/elite_four_by_janejewel.png
+11 Apr 2017 04:29:49 : LimitlessMc, botchat, Crystal4209#4698, https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS36YHSlB50G_Nzb5tYx6_QMmZCS2JGdQgGYv1QxeOjBHkHjg91
+11 Apr 2017 04:29:54 : LimitlessMc, botchat, Crystal4209#4698, ^that
+11 Apr 2017 04:29:55 : LimitlessMc, botchat, JustinOPGamer#9138, ;changeBackground https://cdn.discordapp.com/attachments/279750074257375233/301212152578965504/thumb-350-733114.png
+11 Apr 2017 04:29:55 : LimitlessMc, botchat, Botfuzzy77#2209, Changed Background sucessfully
+11 Apr 2017 04:29:55 : LimitlessMc, botchat, Botfuzzy77#2209, Changed Background sucessfully
+11 Apr 2017 04:30:08 : LimitlessMc, botchat, JustinOPGamer#9138, ;level
+11 Apr 2017 04:30:09 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 04:30:09 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 04:30:15 : LimitlessMc, botchat, JustinOPGamer#9138, ehh
+11 Apr 2017 04:30:32 : LimitlessMc, botchat, JustinOPGamer#9138, @Wertfuzzy77  anyway i can make the white thing transparent?
+11 Apr 2017 04:30:40 : LimitlessMc, botchat, Wertfuzzy77#0274, its a bad image
+11 Apr 2017 04:30:42 : LimitlessMc, botchat, Wertfuzzy77#0274, so no
+11 Apr 2017 04:30:46 : LimitlessMc, botchat, Wertfuzzy77#0274, try a non-png
+11 Apr 2017 04:30:50 : LimitlessMc, botchat, Wertfuzzy77#0274, they normally work better
+11 Apr 2017 04:32:31 : LimitlessMc, botchat, Crystal4209#4698, https://static.giantbomb.com/uploads/original/9/99864/2608771-maxresdefault.jpg
+11 Apr 2017 04:32:34 : LimitlessMc, botchat, TherminatorX#6644, ;train
+11 Apr 2017 04:32:34 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 04:32:34 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 04:32:34 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 04:32:34 : LimitlessMc, botchat, Botfuzzy77#2209, 
+11 Apr 2017 04:32:38 : LimitlessMc, botchat, TherminatorX#6644, wut
+11 Apr 2017 04:32:41 : LimitlessMc, botchat, TherminatorX#6644, Wert
+11 Apr 2017 04:32:50 : LimitlessMc, botchat, Wertfuzzy77#0274, hush
+11 Apr 2017 04:32:53 : LimitlessMc, botchat, Wertfuzzy77#0274, working
+11 Apr 2017 04:33:07 : LimitlessMc, botchat, Crystal4209#4698, @Wertfuzzy77 http://i1.ytimg.com/vi/G2RmjK82wYY/maxresdefault.jpg
+11 Apr 2017 04:33:12 : LimitlessMc, botchat, Crystal4209#4698, lel
+11 Apr 2017 04:33:26 : LimitlessMc, botchat, Crystal4209#4698, its not centered forget it

@@ -1,0 +1,766 @@
+11 Dec 2016 01:52:52 : LimitlessMc, botchat, Wertfuzzy77#0274, lets try the patch
+11 Dec 2016 01:52:54 : LimitlessMc, botchat, Wertfuzzy77#0274, see if it fixed
+11 Dec 2016 01:52:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+11 Dec 2016 01:53:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;playlist MJackson
+11 Dec 2016 01:53:12 : LimitlessMc, botchat, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+11 Dec 2016 01:53:36 : LimitlessMc, mainchat, Wertfuzzy77#0274, @LightBot make all the icons in the `Icons` folder square
+11 Dec 2016 01:53:37 : LimitlessMc, mainchat, LightBot#4090, Do you like britney spears?
+11 Dec 2016 01:53:41 : LimitlessMc, mainchat, Wertfuzzy77#0274, woops
+11 Dec 2016 01:53:44 : LimitlessMc, mainchat, Wertfuzzy77#0274, @Lightning
+11 Dec 2016 01:53:44 : LimitlessMc, mainchat, AlphaBit#3869, LMAO
+11 Dec 2016 01:53:46 : LimitlessMc, mainchat, crystal4209#4698, lol
+11 Dec 2016 01:53:49 : LimitlessMc, mainchat, Lightning#6734, wut?
+11 Dec 2016 01:53:54 : LimitlessMc, mainchat, Wertfuzzy77#0274, `make all the icons in the Icons folder square`
+11 Dec 2016 01:54:01 : LimitlessMc, mainchat, Lightning#6734, how make square
+11 Dec 2016 01:54:03 : LimitlessMc, mainchat, Wertfuzzy77#0274, otherwise you get weird icons
+11 Dec 2016 01:54:08 : LimitlessMc, mainchat, Lightning#6734, only gud with circlez
+11 Dec 2016 01:54:15 : LimitlessMc, mainchat, Wertfuzzy77#0274, like open photoshop or something
+11 Dec 2016 01:54:19 : LimitlessMc, mainchat, Lightning#6734, O
+11 Dec 2016 01:54:20 : LimitlessMc, mainchat, Wertfuzzy77#0274, and crop it to be a square
+11 Dec 2016 01:54:30 : LimitlessMc, mainchat, Lightning#6734, pretty sure only THAT one is awkward
+11 Dec 2016 01:54:31 : LimitlessMc, mainchat, Wertfuzzy77#0274, otherwise it stretches and makes it look weird
+11 Dec 2016 01:54:52 : LimitlessMc, mainchat, Lightning#6734, but okei i fix
+11 Dec 2016 01:54:54 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+11 Dec 2016 01:54:54 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+11 Dec 2016 01:54:55 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Michael Jackson - Thriller (Lyrics) **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=xIx_HbmRnQY>
+2. Michael Jackson - Billie Jean **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=Zi_XLOBDo_Y>
+3. Michael Jackson - The Way You Make Me Feel (lyrics) **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=4ru6XlZKZDg>
+4. Michael Jackson - Smooth Criminal Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=CBrWNbjw3RA>
+Total Time is 0:20:28
+11 Dec 2016 01:54:57 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio
+11 Dec 2016 01:54:57 : LimitlessMc, botchat, Botfuzzy77#2209, Radio Mode: True
+11 Dec 2016 01:58:44 : LimitlessMc, botchat, ShadowJackyl#0282, skipped so many of my songs :/
+11 Dec 2016 01:58:55 : LimitlessMc, botchat, ShadowJackyl#0282, lol this is why i want a bot 😛
+11 Dec 2016 01:59:00 : LimitlessMc, botchat, Lightning#6734, .relog
+11 Dec 2016 01:59:00 : LimitlessMc, botchat, LightBot#4090, Relogging...
+11 Dec 2016 02:00:20 : LimitlessMc, botchat, ShadowJackyl#0282, ;search curtis lowe
+11 Dec 2016 02:00:21 : LimitlessMc, botchat, Botfuzzy77#2209, Added Lynyrd Skynyrd-The Ballad of Curtis Loew to the queue
+11 Dec 2016 02:00:22 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=71qaX05-ArM
+11 Dec 2016 02:00:47 : LimitlessMc, botchat, Wertfuzzy77#0274, well cause it Mem leaked xD i think this patch fixed it tho
+11 Dec 2016 02:01:12 : LimitlessMc, botchat, ShadowJackyl#0282, no worries lol i have youtube if i really wnna hear somethin 😛
+11 Dec 2016 02:01:35 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+11 Dec 2016 02:01:36 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+11 Dec 2016 02:01:36 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Michael Jackson - Billie Jean **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=Zi_XLOBDo_Y>
+2. Michael Jackson - The Way You Make Me Feel (lyrics) **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=4ru6XlZKZDg>
+3. Michael Jackson - Smooth Criminal Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=CBrWNbjw3RA>
+4. Lynyrd Skynyrd-The Ballad of Curtis Loew **ShadowJackyl**
+	<https://www.youtube.com/watch?v=71qaX05-ArM>
+Total Time is 0:19:22
+11 Dec 2016 02:01:49 : LimitlessMc, botchat, ShadowJackyl#0282, i made a bout but cant get it to connect to discord for some reason
+11 Dec 2016 02:01:52 : LimitlessMc, botchat, ShadowJackyl#0282, bot*
+11 Dec 2016 02:02:09 : LimitlessMc, botchat, Wertfuzzy77#0274, you have to own the server to give the bot access to that server
+11 Dec 2016 02:02:21 : LimitlessMc, botchat, ShadowJackyl#0282, its one i made
+11 Dec 2016 02:02:28 : LimitlessMc, botchat, Wertfuzzy77#0274, the bot or the server?
+11 Dec 2016 02:02:33 : LimitlessMc, botchat, ShadowJackyl#0282, both lol
+11 Dec 2016 02:02:41 : LimitlessMc, botchat, ShadowJackyl#0282, well the bot is kinda premade
+11 Dec 2016 02:02:44 : LimitlessMc, botchat, Wertfuzzy77#0274, how did you make the bot?
+11 Dec 2016 02:03:10 : LimitlessMc, botchat, Wertfuzzy77#0274, cause it should have an invite like
+11 Dec 2016 02:03:14 : LimitlessMc, botchat, Wertfuzzy77#0274, link*
+11 Dec 2016 02:03:16 : LimitlessMc, botchat, Wertfuzzy77#0274, ;invite
+11 Dec 2016 02:03:16 : LimitlessMc, botchat, Botfuzzy77#2209, https://discordapp.com/oauth2/authorize?client_id=187608834381053952&scope=bot&permissions=00000008
+11 Dec 2016 02:03:23 : LimitlessMc, botchat, Wertfuzzy77#0274, something like that
+11 Dec 2016 02:03:38 : LimitlessMc, botchat, ShadowJackyl#0282, ohh in the cmd console?
+11 Dec 2016 02:03:42 : LimitlessMc, botchat, Wertfuzzy77#0274, hmm?
+11 Dec 2016 02:04:03 : LimitlessMc, botchat, ShadowJackyl#0282, when i start it up in the command console somethin like that comes up
+11 Dec 2016 02:04:32 : LimitlessMc, botchat, Wertfuzzy77#0274, ya, thats an invite link
+11 Dec 2016 02:04:42 : LimitlessMc, botchat, ShadowJackyl#0282, how do i copy it?
+11 Dec 2016 02:04:45 : LimitlessMc, botchat, ShadowJackyl#0282, lol
+11 Dec 2016 02:05:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ctrl + m
+11 Dec 2016 02:05:36 : LimitlessMc, botchat, ShadowJackyl#0282, kk brb
+11 Dec 2016 02:07:18 : LimitlessMc, mainchat, crystal4209#4698, brb gotta hang out washing
+11 Dec 2016 02:07:37 : LimitlessMc, botchat, ShadowJackyl#0282, bot requies code grant?
+11 Dec 2016 02:07:56 : LimitlessMc, botchat, Wertfuzzy77#0274, ?
+11 Dec 2016 02:08:06 : LimitlessMc, botchat, ShadowJackyl#0282, ill google it
+11 Dec 2016 02:08:44 : LimitlessMc, botchat, ShadowJackyl#0282, nvm
+11 Dec 2016 02:08:47 : LimitlessMc, botchat, ShadowJackyl#0282, i got it i think
+11 Dec 2016 02:08:51 : LimitlessMc, botchat, ShadowJackyl#0282, brb again
+11 Dec 2016 02:10:12 : LimitlessMc, botchat, ShadowJackyl#0282, ok i got it to join
+11 Dec 2016 02:10:19 : LimitlessMc, botchat, ShadowJackyl#0282, now how do i make it go to a channel?
+11 Dec 2016 02:10:21 : LimitlessMc, botchat, ShadowJackyl#0282, lol
+11 Dec 2016 02:11:32 : LimitlessMc, botchat, ShadowJackyl#0282, got that too
+11 Dec 2016 02:12:48 : LimitlessMc, botchat, Wertfuzzy77#0274, i have no idea how your bot works xD
+11 Dec 2016 02:13:03 : LimitlessMc, botchat, Wertfuzzy77#0274, I only know my bot cause i coded all the cmds it does
+11 Dec 2016 02:13:44 : LimitlessMc, botchat, ShadowJackyl#0282, ima use this one to learn the basics
+11 Dec 2016 02:13:57 : LimitlessMc, botchat, Wertfuzzy77#0274, what language is it in?
+11 Dec 2016 02:14:04 : LimitlessMc, botchat, ShadowJackyl#0282, english
+11 Dec 2016 02:14:07 : LimitlessMc, botchat, Lightning#6734, LMAO
+11 Dec 2016 02:14:09 : LimitlessMc, botchat, ShadowJackyl#0282, lol
+11 Dec 2016 02:14:12 : LimitlessMc, botchat, Wertfuzzy77#0274, lol, obvs xD
+11 Dec 2016 02:14:13 : LimitlessMc, botchat, Lightning#6734, coding language you pleb
+11 Dec 2016 02:14:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ^
+11 Dec 2016 02:14:15 : LimitlessMc, botchat, Botfuzzy77#2209, ^
+11 Dec 2016 02:14:16 : LimitlessMc, botchat, AlphaBit#3869, kappa
+11 Dec 2016 02:14:31 : LimitlessMc, botchat, ShadowJackyl#0282, oreintal flavored noodles 😃
+11 Dec 2016 02:14:36 : LimitlessMc, botchat, Lightning#6734, BOI
+11 Dec 2016 02:14:41 : LimitlessMc, botchat, Wertfuzzy77#0274, @Lightning the icon again is ugly
+11 Dec 2016 02:14:42 : LimitlessMc, botchat, Wertfuzzy77#0274, fix
+11 Dec 2016 02:14:42 : LimitlessMc, botchat, AlphaBit#3869, probs coffee
+11 Dec 2016 02:14:43 : LimitlessMc, botchat, Wertfuzzy77#0274, fix
+11 Dec 2016 02:14:44 : LimitlessMc, botchat, Wertfuzzy77#0274, fix
+11 Dec 2016 02:14:45 : LimitlessMc, botchat, Wertfuzzy77#0274, fix
+11 Dec 2016 02:14:57 : LimitlessMc, botchat, Lightning#6734, @LightBot  i don't have photoshop
+11 Dec 2016 02:14:58 : LimitlessMc, botchat, LightBot#4090, I do.
+11 Dec 2016 02:15:03 : LimitlessMc, botchat, Lightning#6734, i'm glad u do ya cunt
+11 Dec 2016 02:15:07 : LimitlessMc, botchat, Lightning#6734, giv
+11 Dec 2016 02:15:10 : LimitlessMc, botchat, Wertfuzzy77#0274, LOL
+11 Dec 2016 02:15:34 : LimitlessMc, botchat, Lightning#6734, they all square when i downloaded em tho
+11 Dec 2016 02:15:38 : LimitlessMc, botchat, Wertfuzzy77#0274, lies
+11 Dec 2016 02:15:41 : LimitlessMc, botchat, ShadowJackyl#0282, im jk obejt oriented lang foo' mlg pawnd rekt ftw kappa
+11 Dec 2016 02:15:52 : LimitlessMc, botchat, Lightning#6734, e m g
+11 Dec 2016 02:15:53 : LimitlessMc, botchat, Wertfuzzy77#0274, ;image wut
+11 Dec 2016 02:15:54 : LimitlessMc, botchat, Botfuzzy77#2209, http://dawgpoundnation.com/wp-content/uploads/2014/06/Wut-babka.jpg
+11 Dec 2016 02:15:59 : LimitlessMc, botchat, Lightning#6734, ayy
+11 Dec 2016 02:15:59 : LimitlessMc, botchat, Botfuzzy77#2209, Lmao
+11 Dec 2016 02:15:59 : LimitlessMc, botchat, LightBot#4090, Lmao
+11 Dec 2016 02:16:03 : LimitlessMc, botchat, ShadowJackyl#0282, xD
+11 Dec 2016 02:16:16 : LimitlessMc, botchat, Lightning#6734, enyway
+11 Dec 2016 02:16:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gif wut
+11 Dec 2016 02:16:20 : LimitlessMc, botchat, Botfuzzy77#2209, https://media2.giphy.com/media/Ghu975i9uzFjq/200_s.gif
+11 Dec 2016 02:16:28 : LimitlessMc, botchat, Lightning#6734, cody is it coded in C++ java MIRC or python?
+11 Dec 2016 02:16:46 : LimitlessMc, botchat, Wertfuzzy77#0274, how about you just give us the link to the bot code and we can tell you xD
+11 Dec 2016 02:16:53 : LimitlessMc, botchat, Lightning#6734, dat works too XD
+11 Dec 2016 02:16:58 : LimitlessMc, botchat, ShadowJackyl#0282, python
+11 Dec 2016 02:17:01 : LimitlessMc, botchat, Lightning#6734, o
+11 Dec 2016 02:17:02 : LimitlessMc, botchat, ShadowJackyl#0282, lol yea
+11 Dec 2016 02:17:05 : LimitlessMc, botchat, Lightning#6734, ez
+11 Dec 2016 02:17:08 : LimitlessMc, botchat, ShadowJackyl#0282, juss ask the right question
+11 Dec 2016 02:17:11 : LimitlessMc, botchat, ShadowJackyl#0282, geez
+11 Dec 2016 02:17:13 : LimitlessMc, botchat, Lightning#6734, we did
+11 Dec 2016 02:17:13 : LimitlessMc, botchat, ShadowJackyl#0282, lol
+11 Dec 2016 02:17:15 : LimitlessMc, botchat, Lightning#6734, twice
+11 Dec 2016 02:17:23 : LimitlessMc, botchat, ShadowJackyl#0282, im juss a simple country folk
+11 Dec 2016 02:17:35 : LimitlessMc, botchat, Lightning#6734, u slo
+11 Dec 2016 02:17:35 : LimitlessMc, botchat, ShadowJackyl#0282, i dont know bout these do dads or whatnot
+11 Dec 2016 02:17:36 : LimitlessMc, botchat, Lightning#6734, le
+11 Dec 2016 02:17:45 : LimitlessMc, botchat, Wertfuzzy77#0274, oh, is it Rapptz's Bot?
+11 Dec 2016 02:17:54 : LimitlessMc, botchat, ShadowJackyl#0282, if it dont work kick it till it does
+11 Dec 2016 02:21:55 : LimitlessMc, botchat, ShadowJackyl#0282, http://i62.photobucket.com/albums/h82/VinR1/68lw5d4.jpg
+11 Dec 2016 02:22:38 : LimitlessMc, botchat, ShadowJackyl#0282, idk why but this picture makes me laugh everytime
+11 Dec 2016 02:23:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+11 Dec 2016 02:23:43 : LimitlessMc, botchat, Botfuzzy77#2209, No Song Playing, [non-empty format string passed to object.__format__]
+11 Dec 2016 02:23:48 : LimitlessMc, botchat, Wertfuzzy77#0274, well then
+11 Dec 2016 02:23:54 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+11 Dec 2016 02:23:55 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+11 Dec 2016 02:23:55 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Lynyrd Skynyrd - Free Bird (Live August 21st, 1976) **Radio**
+	<https://www.youtube.com/watch?v=fuZyMx2NXZM>
+Total Time is 0:13:58
+11 Dec 2016 02:24:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;playlists
+11 Dec 2016 02:24:03 : LimitlessMc, botchat, Botfuzzy77#2209, AnimeOpenings[14], Perri[2], 2015OP&EN[25], GAGA[3], SteinsGate[13], Animenz[3], Old[9], TnDbRn[0], nicky[2], MJackson[5], Akinci[12], Cala[21], ACDC[5], Blunt[3], Adele[5], WEEB2[3], Kimi[4], 2Cellos[5], Maroon[5], FUN[3], GnR[5], Katy[3], Dragons[4], Coldplay[5], Bringer[1], Amagi[1], WEEB[4], Train[3], Sheeran[6]
+11 Dec 2016 02:24:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Space Oddity
+11 Dec 2016 02:24:12 : LimitlessMc, botchat, Botfuzzy77#2209, Added Space Oddity to the queue
+11 Dec 2016 02:24:12 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=KaOC9danxNo
+11 Dec 2016 02:24:21 : LimitlessMc, mainchat, Lightning#6734, @StubbyMuffins  Get on pleb
+11 Dec 2016 02:24:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Space oddity David Bowie
+11 Dec 2016 02:24:49 : LimitlessMc, botchat, Botfuzzy77#2209, Added David Bowie Space Oddity  Lyrics to the queue
+11 Dec 2016 02:24:49 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=9_M3uw29U1U
+11 Dec 2016 02:24:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+11 Dec 2016 02:24:55 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+11 Dec 2016 02:24:55 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Lynyrd Skynyrd - Free Bird (Live August 21st, 1976) **Radio**
+	<https://www.youtube.com/watch?v=fuZyMx2NXZM>
+2. Space Oddity **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=KaOC9danxNo>
+3. David Bowie Space Oddity  Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=9_M3uw29U1U>
+Total Time is 0:24:42
+11 Dec 2016 02:24:58 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 2
+11 Dec 2016 02:24:58 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: Space Oddity
+11 Dec 2016 02:25:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 1
+11 Dec 2016 02:25:01 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: Lynyrd Skynyrd - Free Bird (Live August 21st, 1976)
+11 Dec 2016 02:25:07 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+11 Dec 2016 02:25:07 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Lynyrd Skynyrd - Freebird - 7/2/1977 - Oakland Coliseum Stadium (Official)
+11 Dec 2016 02:25:14 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+11 Dec 2016 02:25:14 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+11 Dec 2016 02:25:14 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Pink Floyd - Comfortably numb **Radio**
+	<https://www.youtube.com/watch?v=_FrOQC-zEog>
+Total Time is 0:06:54
+11 Dec 2016 02:25:26 : LimitlessMc, mainchat, Lightning#6734, @StubbyMuffins Pleb git on srbr
+11 Dec 2016 02:25:36 : LimitlessMc, mainchat, Wertfuzzy77#0274, oi @Lightning all the icons make me want to kms
+11 Dec 2016 02:25:44 : LimitlessMc, mainchat, Lightning#6734, u fix them then o-o
+11 Dec 2016 02:25:51 : LimitlessMc, mainchat, Wertfuzzy77#0274, give me the ones you have
+11 Dec 2016 02:25:54 : LimitlessMc, mainchat, Lightning#6734, okei
+11 Dec 2016 02:25:56 : LimitlessMc, mainchat, Wertfuzzy77#0274, i fix
+11 Dec 2016 02:35:40 : LimitlessMc, mainchat, crystal4209#4698, gtg have to go wash the dogs
+11 Dec 2016 02:40:06 : LimitlessMc, staff, Bringer#7277, @Jay113355  join chat
+11 Dec 2016 02:40:43 : LimitlessMc, mainchat, xPalkia(lugia)#8149, Yo what the fuck is this "frontier " i scrolled up to see
+11 Dec 2016 02:41:10 : LimitlessMc, mainchat, Lightning#6734, ruler's brianchild
+11 Dec 2016 02:47:58 : LimitlessMc, mainchat, Lightning#6734, .relog
+11 Dec 2016 02:47:58 : LimitlessMc, mainchat, LightBot#4090, Relogging...
+11 Dec 2016 02:49:11 : LimitlessMc, botchat, Lightning#6734, thx wert
+11 Dec 2016 02:50:19 : LimitlessMc, botchat, ShadowJackyl#0282, ;search hey you
+11 Dec 2016 02:50:21 : LimitlessMc, botchat, Botfuzzy77#2209, Added Pink Floyd - "Hey You" to the queue
+11 Dec 2016 02:50:21 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=TFjmvfRvjTc
+11 Dec 2016 02:50:43 : LimitlessMc, botchat, ShadowJackyl#0282, ;songs
+11 Dec 2016 02:50:43 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+11 Dec 2016 02:50:43 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Best of 70s Rock - Greatest 70s Rock songs - 70s rock hits Collection **Radio**
+	<https://www.youtube.com/watch?v=PO5iNsVsPeM>
+2. Pink Floyd - "Hey You" **ShadowJackyl**
+	<https://www.youtube.com/watch?v=TFjmvfRvjTc>
+Total Time is 2:06:38
+11 Dec 2016 02:50:55 : LimitlessMc, botchat, ShadowJackyl#0282, this one is worth hearing twice
+11 Dec 2016 02:51:13 : LimitlessMc, botchat, ShadowJackyl#0282, ;search carry on my wayward son
+11 Dec 2016 02:51:15 : LimitlessMc, botchat, Botfuzzy77#2209, Added Kansas - Carry On Wayward Son to the queue
+11 Dec 2016 02:51:15 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=2X_2IdybTV0
+11 Dec 2016 02:51:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 1
+11 Dec 2016 02:51:24 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: Best of 70s Rock - Greatest 70s Rock songs - 70s rock hits Collection
+11 Dec 2016 02:51:29 : LimitlessMc, botchat, ShadowJackyl#0282, ;search dust in the wind
+11 Dec 2016 02:51:31 : LimitlessMc, botchat, Botfuzzy77#2209, Added Kansas - Dust in the Wind (Official Video) to the queue
+11 Dec 2016 02:51:31 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=tH2w6Oxx0kQ
+11 Dec 2016 02:51:54 : LimitlessMc, botchat, ShadowJackyl#0282, ;search blue october hate me
+11 Dec 2016 02:51:56 : LimitlessMc, botchat, Botfuzzy77#2209, Added Blue October - Hate Me to the queue
+11 Dec 2016 02:51:57 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=dDxgSvJINlU
+11 Dec 2016 03:06:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+11 Dec 2016 03:06:01 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+11 Dec 2016 03:06:01 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Pink Floyd - "Hey You" **ShadowJackyl**
+	<https://www.youtube.com/watch?v=TFjmvfRvjTc>
+2. Kansas - Carry On Wayward Son **ShadowJackyl**
+	<https://www.youtube.com/watch?v=2X_2IdybTV0>
+3. Kansas - Dust in the Wind (Official Video) **ShadowJackyl**
+	<https://www.youtube.com/watch?v=tH2w6Oxx0kQ>
+4. Blue October - Hate Me **ShadowJackyl**
+	<https://www.youtube.com/watch?v=dDxgSvJINlU>
+Total Time is 0:17:35
+11 Dec 2016 03:06:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+11 Dec 2016 03:06:11 : LimitlessMc, botchat, Botfuzzy77#2209, ```Name: Pink Floyd : Top 20 best songs of all time
+URL: <https://www.youtube.com/watch?v=6ZovCEofMeo>
+Time: 1:59:59
+Views: 2,063,157
+Likes: 6,435, 91.8%
+Dislikes: 575, 8.2%
+```
+11 Dec 2016 03:06:15 : LimitlessMc, botchat, Wertfuzzy77#0274, well then
+11 Dec 2016 03:06:16 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+11 Dec 2016 03:06:16 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Pink Floyd : Top 20 best songs of all time
+11 Dec 2016 03:12:54 : LimitlessMc, botchat, Lightning#6734, .relog
+11 Dec 2016 03:12:54 : LimitlessMc, botchat, LightBot#4090, Relogging...
+11 Dec 2016 03:15:04 : LimitlessMc, mainchat, DicloniusPony#6564, how do i get a invitation to invite someone to this server?
+11 Dec 2016 03:18:05 : LimitlessMc, mainchat, Userman#8272, in this chat or in the minecraft server?
+11 Dec 2016 03:21:14 : LimitlessMc, mainchat, AlphaBit#3869, i crashed lul
+11 Dec 2016 03:21:32 : LimitlessMc, mainchat, Userman#8272, srbr ded
+11 Dec 2016 03:21:53 : LimitlessMc, mainchat, Lightning#6734, rip
+11 Dec 2016 03:21:55 : LimitlessMc, botchat, AlphaBit#3869, ;server
+11 Dec 2016 03:22:04 : LimitlessMc, mainchat, Nickyking#5687, gg
+11 Dec 2016 03:22:04 : LimitlessMc, botchat, AlphaBit#3869, rip
+11 Dec 2016 03:22:04 : LimitlessMc, mainchat, Nickyking#5687, server crash
+11 Dec 2016 03:22:05 : LimitlessMc, botchat, Botfuzzy77#2209, *Server is Down :(*
+11 Dec 2016 03:22:05 : LimitlessMc, mainchat, AlphaBit#3869, lo
+11 Dec 2016 03:22:15 : LimitlessMc, mainchat, Lightning#6734, #blamemystz
+11 Dec 2016 03:22:30 : LimitlessMc, mainchat, AlphaBit#3869, mysty pls
+11 Dec 2016 03:22:33 : LimitlessMc, botchat, AlphaBit#3869, ;server
+11 Dec 2016 03:22:43 : LimitlessMc, botchat, Botfuzzy77#2209, *Server is Down :(*
+11 Dec 2016 03:22:45 : LimitlessMc, mainchat, Lightning#6734, jay hep
+11 Dec 2016 03:22:47 : LimitlessMc, mainchat, Lightning#6734, srbr ded
+11 Dec 2016 03:23:04 : LimitlessMc, botchat, Wertfuzzy77#0274, ayy, its Kei
+11 Dec 2016 03:23:05 : LimitlessMc, botchat, Lightning#6734, .srbr
+11 Dec 2016 03:23:06 : LimitlessMc, botchat, LightBot#4090, Dont Be Lazy, Type .server
+11 Dec 2016 03:23:08 : LimitlessMc, botchat, Lightning#6734, :c
+11 Dec 2016 03:23:08 : LimitlessMc, botchat, Wertfuzzy77#0274, good ol new icons
+11 Dec 2016 03:23:10 : LimitlessMc, botchat, AlphaBit#3869, ;srbr
+11 Dec 2016 03:23:10 : LimitlessMc, botchat, Botfuzzy77#2209, Dont Be Lazy, Type ;server
+11 Dec 2016 03:23:18 : LimitlessMc, mainchat, AlphaBit#3869, http://limitlessmc.net/f/viewtopic.php?f=11&t=3363&p=10128&hilit=Admin#p10128
+11 Dec 2016 03:23:18 : LimitlessMc, mainchat, Botfuzzy77#2209, **Mystz 4 Admin**
+#10050 by Flamenightblitz
+ Fri Jun 24, 2016 9:46 pm 
+------------------------------------
+I was friends with Mystz for as long as iv'e been on this server, and he was by far my favorite moderator up with Rachel. So I want to see Mystz as an <span class="posthilit">admin</span> to this server because iv'e seen how active he is and some of the commands he isn't allowed to use therefore I wish to make a poll and maybe get Mystz recognized.
+11 Dec 2016 03:23:18 : LimitlessMc, mainchat, LightBot#4090, **Mystz 4 Admin**
+#10050 by Flamenightblitz
+ Fri Jun 24, 2016 9:46 pm 
+------------------------------------
+I was friends with Mystz for as long as iv'e been on this server, and he was by far my favorite moderator up with Rachel. So I want to see Mystz as an <span class="posthilit">admin</span> to this server because iv'e seen how active he is and some of the commands he isn't allowed to use therefore I wish to make a poll and maybe get Mystz recognized.
+11 Dec 2016 03:23:23 : LimitlessMc, mainchat, AlphaBit#3869, best
+11 Dec 2016 03:23:34 : LimitlessMc, botchat, ShadowJackyl#0282, 0.0_s
+11 Dec 2016 03:23:45 : LimitlessMc, botchat, AlphaBit#3869, ;server
+11 Dec 2016 03:23:54 : LimitlessMc, botchat, Wertfuzzy77#0274, also, apparently Botfuzzy is 2254 lines of code exactly
+11 Dec 2016 03:23:54 : LimitlessMc, botchat, Botfuzzy77#2209, *Server is Down :(*
+11 Dec 2016 03:23:58 : LimitlessMc, botchat, Wertfuzzy77#0274, with 431 lines of comments
+11 Dec 2016 03:24:08 : LimitlessMc, botchat, Lightning#6734, hep
+11 Dec 2016 03:24:22 : LimitlessMc, botchat, AlphaBit#3869, console pls
+11 Dec 2016 03:24:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ;server
+11 Dec 2016 03:24:36 : LimitlessMc, botchat, Wertfuzzy77#0274, how crash?
+11 Dec 2016 03:24:36 : LimitlessMc, botchat, Botfuzzy77#2209, *Server is Down :(*
+11 Dec 2016 03:24:42 : LimitlessMc, mainchat, Lightning#6734, lul
+11 Dec 2016 03:24:53 : LimitlessMc, botchat, Lightning#6734, mystz kill
+11 Dec 2016 03:24:57 : LimitlessMc, botchat, Lightning#6734, idk
+11 Dec 2016 03:25:10 : LimitlessMc, botchat, Wertfuzzy77#0274, I can blame mystz
+11 Dec 2016 03:25:16 : LimitlessMc, botchat, Wertfuzzy77#0274, seems reasonable
+11 Dec 2016 03:25:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+11 Dec 2016 03:25:19 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+11 Dec 2016 03:25:19 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Behind Blue Eyes (Official Video) - Limp Bizkit **Radio**
+	<https://www.youtube.com/watch?v=gOzc8JGkg0o>
+Total Time is 0:04:27
+11 Dec 2016 03:25:29 : LimitlessMc, botchat, Wertfuzzy77#0274, apparently we using radio now
+11 Dec 2016 03:25:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+11 Dec 2016 03:25:30 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+11 Dec 2016 03:25:30 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Behind Blue Eyes (Official Video) - Limp Bizkit **Radio**
+	<https://www.youtube.com/watch?v=gOzc8JGkg0o>
+Total Time is 0:04:27
+11 Dec 2016 03:25:33 : LimitlessMc, botchat, Wertfuzzy77#0274, ...
+11 Dec 2016 03:25:37 : LimitlessMc, botchat, Wertfuzzy77#0274, not what i meant
+11 Dec 2016 03:25:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;playlists
+11 Dec 2016 03:25:40 : LimitlessMc, botchat, Botfuzzy77#2209, AnimeOpenings[14], Perri[2], 2015OP&EN[25], GAGA[3], SteinsGate[13], Animenz[3], Old[9], TnDbRn[0], nicky[2], MJackson[5], Akinci[12], Cala[21], ACDC[5], Blunt[3], Adele[5], WEEB2[3], Kimi[4], 2Cellos[5], Maroon[5], FUN[3], GnR[5], Katy[3], Dragons[4], Coldplay[5], Bringer[1], Amagi[1], WEEB[4], Train[3], Sheeran[6]
+11 Dec 2016 03:25:40 : LimitlessMc, botchat, AlphaBit#3869, my game's still frozen
+11 Dec 2016 03:25:43 : LimitlessMc, botchat, AlphaBit#3869, ;server
+11 Dec 2016 03:25:44 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+11 Dec 2016 03:25:44 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 1 players out of 100
+ *Ping*: 116.331 ms
+ *MC Version*: 1.10.2
+11 Dec 2016 03:25:44 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *Nickymon...*
+11 Dec 2016 03:25:48 : LimitlessMc, botchat, Wertfuzzy77#0274, o, its up
+11 Dec 2016 03:25:50 : LimitlessMc, mainchat, Nickyking#5687, 1st
+11 Dec 2016 03:25:50 : LimitlessMc, botchat, Lightning#6734, iz alive!
+11 Dec 2016 03:25:52 : LimitlessMc, botchat, Wertfuzzy77#0274, ;playlist GnR
+11 Dec 2016 03:26:01 : LimitlessMc, botchat, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+11 Dec 2016 03:26:10 : LimitlessMc, mainchat, Lightning#6734, 1st only counts in yt comments
+11 Dec 2016 03:26:26 : LimitlessMc, botchat, ShadowJackyl#0282, ;luck
+11 Dec 2016 03:26:26 : LimitlessMc, botchat, Botfuzzy77#2209, ShadowJackyl's luck is 82.66 out of 100, which is **AMAZING**
+11 Dec 2016 03:26:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ;luck
+11 Dec 2016 03:26:29 : LimitlessMc, botchat, Botfuzzy77#2209, Wertfuzzy77's luck is 81.83 out of 100, which is **AMAZING**
+11 Dec 2016 03:26:32 : LimitlessMc, botchat, Wertfuzzy77#0274, gg
+11 Dec 2016 03:26:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Space Oddity David Bowie
+11 Dec 2016 03:26:47 : LimitlessMc, botchat, Botfuzzy77#2209, Added David Bowie Space Oddity  Lyrics to the queue
+11 Dec 2016 03:26:47 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=9_M3uw29U1U
+11 Dec 2016 03:26:54 : LimitlessMc, botchat, AlphaBit#3869, ;luck
+11 Dec 2016 03:26:54 : LimitlessMc, botchat, Botfuzzy77#2209, AlphaBit's luck is 83.0 out of 100, which is **AMAZING**
+11 Dec 2016 03:26:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+11 Dec 2016 03:26:55 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+11 Dec 2016 03:26:55 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Behind Blue Eyes (Official Video) - Limp Bizkit **Radio**
+	<https://www.youtube.com/watch?v=gOzc8JGkg0o>
+2. Sweet Child O' Mine with Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=hklMn0YDvUU>
+3. guns and roses - knocking on heavens door lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=xw6bbTxbTds>
+4. November Rain lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=aDLrrwWxejM>
+5. Guns 'n Roses - Welcome to the Jungle lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=s_45YMjnIIk>
+6. Guns N' Roses - Paradise City (lyrics) HD **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=As_Yk5sW0Pw>
+7. David Bowie Space Oddity  Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=9_M3uw29U1U>
+Total Time is 0:41:47
+11 Dec 2016 03:26:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;shuffle
+11 Dec 2016 03:26:59 : LimitlessMc, botchat, Botfuzzy77#2209, Shuffling songs...
+11 Dec 2016 03:27:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+11 Dec 2016 03:27:01 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+11 Dec 2016 03:27:01 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Sweet Child O' Mine with Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=hklMn0YDvUU>
+2. Guns N' Roses - Paradise City (lyrics) HD **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=As_Yk5sW0Pw>
+3. Behind Blue Eyes (Official Video) - Limp Bizkit **Radio**
+	<https://www.youtube.com/watch?v=gOzc8JGkg0o>
+4. guns and roses - knocking on heavens door lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=xw6bbTxbTds>
+5. David Bowie Space Oddity  Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=9_M3uw29U1U>
+6. Guns 'n Roses - Welcome to the Jungle lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=s_45YMjnIIk>
+7. November Rain lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=aDLrrwWxejM>
+Total Time is 0:41:47
+11 Dec 2016 03:27:09 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 3
+11 Dec 2016 03:27:09 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: Behind Blue Eyes (Official Video) - Limp Bizkit
+11 Dec 2016 03:27:21 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+11 Dec 2016 03:27:21 : LimitlessMc, botchat, Botfuzzy77#2209, ```Name: Limp Bizkit - Behind Blue Eyes - Lyrics
+URL: <https://www.youtube.com/watch?v=8IEQpfA528M>
+Time: 0:04:30
+Views: 5,902,800
+Likes: 44,523, 97.87%
+Dislikes: 967, 2.13%
+```
+11 Dec 2016 03:27:37 : LimitlessMc, botchat, Wertfuzzy77#0274, oh dear, Mem leaks are real
+11 Dec 2016 03:27:39 : LimitlessMc, botchat, ShadowJackyl#0282, ;search freebird
+11 Dec 2016 03:27:42 : LimitlessMc, botchat, Botfuzzy77#2209, Added Lynyrd Skynyrd-Free bird to the queue
+11 Dec 2016 03:27:42 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=np0solnL1XY
+11 Dec 2016 03:27:49 : LimitlessMc, botchat, ShadowJackyl#0282, WOO!
+11 Dec 2016 03:28:00 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+11 Dec 2016 03:28:01 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+11 Dec 2016 03:28:01 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Sweet Child O' Mine with Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=hklMn0YDvUU>
+2. Guns N' Roses - Paradise City (lyrics) HD **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=As_Yk5sW0Pw>
+3. guns and roses - knocking on heavens door lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=xw6bbTxbTds>
+4. David Bowie Space Oddity  Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=9_M3uw29U1U>
+5. Guns 'n Roses - Welcome to the Jungle lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=s_45YMjnIIk>
+6. November Rain lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=aDLrrwWxejM>
+7. Lynyrd Skynyrd-Free bird **ShadowJackyl**
+	<https://www.youtube.com/watch?v=np0solnL1XY>
+Total Time is 0:46:22
+11 Dec 2016 03:29:04 : LimitlessMc, mainchat, crystal4209#4698, back
+11 Dec 2016 03:30:29 : LimitlessMc, mainchat, Wertfuzzy77#0274, wb
+11 Dec 2016 03:32:47 : LimitlessMc, mainchat, AlphaBit#3869, uhh
+11 Dec 2016 03:32:55 : LimitlessMc, mainchat, AlphaBit#3869, why
+11 Dec 2016 03:32:59 : LimitlessMc, mainchat, AlphaBit#3869, im not in game
+11 Dec 2016 03:33:03 : LimitlessMc, mainchat, AlphaBit#3869, client's still frozen
+11 Dec 2016 03:33:06 : LimitlessMc, mainchat, AlphaBit#3869, whats happening
+11 Dec 2016 03:33:51 : LimitlessMc, mainchat, AlphaBit#3869, df is happening
+11 Dec 2016 03:33:56 : LimitlessMc, mainchat, AlphaBit#3869, reee
+11 Dec 2016 03:34:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ;help MusicPlayer
+11 Dec 2016 03:34:25 : LimitlessMc, botchat, Botfuzzy77#2209, ```
+Commands:
+  search         Searches for a song
+  clear          Clears the Queue
+  playlist       Adds songs from a predefined playlist to the songs list
+  viewplaylist   Views the songs of a playlists
+  skip           Skips the Current song
+  song           Returns information about the current playing song
+  extendplaylist Extends a custom playlist
+  desc           Decription of the Current playing song
+  Radio          Toggles Radio Mode
+  shuffle        Shuffles the songs in the Queue
+  loop           Plays the current song again
+  leave          Leaves the Join chat
+  songs          Prints the songs in the queue
+  makeplaylist   Makes a custom playlist for the bot to save
+  youtube        Adds a Song for the Bot to Play
+  playlists      Shows all the current playlists
+  join           Joins the Voice channel you are currently in
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+11 Dec 2016 03:34:45 : LimitlessMc, mainchat, Lightning#6734, REEEEeee
+11 Dec 2016 03:35:56 : LimitlessMc, botchat, ShadowJackyl#0282, ;search don't stop believing
+11 Dec 2016 03:35:59 : LimitlessMc, botchat, Botfuzzy77#2209, Added Journey - Don't Stop Believing Lyrics to the queue
+11 Dec 2016 03:35:59 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=KCy7lLQwToI
+11 Dec 2016 03:36:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;desc
+11 Dec 2016 03:36:01 : LimitlessMc, botchat, Botfuzzy77#2209, Current Song Description:
+Guns N' Roses - Paradise City (lyrics)
+
+Remember to like and add to your favorites and subscribe!!!
+
+(I do not own this song)
+
+Thanks for watching :D
+
+Find me on Twitter at: https://twitter.com/#!/wcmaster24
+11 Dec 2016 03:36:14 : LimitlessMc, mainchat, Lightning#6734, @Jay113355  help lol
+11 Dec 2016 03:36:23 : LimitlessMc, mainchat, Wertfuzzy77#0274, ;image Jay save us
+11 Dec 2016 03:36:25 : LimitlessMc, mainchat, Botfuzzy77#2209, https://s-media-cache-ak0.pinimg.com/564x/f5/eb/38/f5eb38fcff627e215fe973a4544107bc.jpg
+11 Dec 2016 03:36:33 : LimitlessMc, mainchat, Wertfuzzy77#0274, lol
+11 Dec 2016 03:36:36 : LimitlessMc, mainchat, AlphaBit#3869, whats happening :I
+11 Dec 2016 03:36:44 : LimitlessMc, mainchat, Wertfuzzy77#0274, idk, what is happening?
+11 Dec 2016 03:36:48 : LimitlessMc, mainchat, Lightning#6734, everything
+11 Dec 2016 03:37:11 : LimitlessMc, mainchat, Wertfuzzy77#0274, and nothing?
+11 Dec 2016 03:37:23 : LimitlessMc, mainchat, AlphaBit#3869, probably something
+11 Dec 2016 03:37:27 : LimitlessMc, mainchat, Lightning#6734, everything went crazy
+11 Dec 2016 03:37:29 : LimitlessMc, mainchat, Lightning#6734, wert hep
+11 Dec 2016 03:37:35 : LimitlessMc, mainchat, Wertfuzzy77#0274, ;gif crazy
+11 Dec 2016 03:37:36 : LimitlessMc, mainchat, Botfuzzy77#2209, https://media2.giphy.com/media/IjjqQvfFpSSxG/200_s.gif
+11 Dec 2016 03:37:55 : LimitlessMc, mainchat, Wertfuzzy77#0274, when a gif isnt actually a gif...
+11 Dec 2016 03:38:02 : LimitlessMc, botchat, ShadowJackyl#0282, ;search where everybody knows your name
+11 Dec 2016 03:38:03 : LimitlessMc, botchat, Botfuzzy77#2209, Added Cheers intro song to the queue
+11 Dec 2016 03:38:03 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=h-mi0r0LpXo
+11 Dec 2016 03:38:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+11 Dec 2016 03:38:13 : LimitlessMc, botchat, Botfuzzy77#2209, ```Name: Guns N' Roses - Paradise City (lyrics) HD
+URL: <https://www.youtube.com/watch?v=As_Yk5sW0Pw>
+Time: 0:06:53
+Views: 2,028,715
+Likes: 7,913, 98.3%
+Dislikes: 137, 1.7%
+```
+11 Dec 2016 03:38:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+11 Dec 2016 03:38:15 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+11 Dec 2016 03:38:15 : LimitlessMc, botchat, Botfuzzy77#2209, 1. guns and roses - knocking on heavens door lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=xw6bbTxbTds>
+2. David Bowie Space Oddity  Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=9_M3uw29U1U>
+3. Guns 'n Roses - Welcome to the Jungle lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=s_45YMjnIIk>
+4. November Rain lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=aDLrrwWxejM>
+5. Lynyrd Skynyrd-Free bird **ShadowJackyl**
+	<https://www.youtube.com/watch?v=np0solnL1XY>
+6. Journey - Don't Stop Believing Lyrics **ShadowJackyl**
+	<https://www.youtube.com/watch?v=KCy7lLQwToI>
+7. Cheers intro song **ShadowJackyl**
+	<https://www.youtube.com/watch?v=h-mi0r0LpXo>
+Total Time is 0:40:00
+11 Dec 2016 03:38:21 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 1
+11 Dec 2016 03:38:21 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: guns and roses - knocking on heavens door lyrics
+11 Dec 2016 03:39:12 : LimitlessMc, mainchat, Lightning#6734, wert hep make staff tower
+11 Dec 2016 03:39:27 : LimitlessMc, mainchat, Wertfuzzy77#0274, what is?
+11 Dec 2016 03:39:53 : LimitlessMc, mainchat, Lightning#6734, jack jockey ontop of user xD
+11 Dec 2016 03:40:09 : LimitlessMc, mainchat, Lightning#6734, making tower of staff xD
+11 Dec 2016 03:40:52 : LimitlessMc, mainchat, AlphaBit#3869, jay jockey is weird
+11 Dec 2016 03:41:02 : LimitlessMc, mainchat, AlphaBit#3869, 
+11 Dec 2016 03:41:03 : LimitlessMc, mainchat, Wertfuzzy77#0274, debuggin my bot tho
+11 Dec 2016 03:41:06 : LimitlessMc, mainchat, AlphaBit#3869, well acts weird
+11 Dec 2016 03:41:08 : LimitlessMc, mainchat, Wertfuzzy77#0274, think i fixed the mem leaks
+11 Dec 2016 03:42:24 : LimitlessMc, mainchat, AlphaBit#3869, uhh
+11 Dec 2016 03:42:30 : LimitlessMc, mainchat, AlphaBit#3869, crash
+11 Dec 2016 03:42:39 : LimitlessMc, staff, Userman#8272, yep
+11 Dec 2016 03:42:44 : LimitlessMc, botchat, AlphaBit#3869, ;server
+11 Dec 2016 03:42:53 : LimitlessMc, botchat, Botfuzzy77#2209, *Server is Down :(*
+11 Dec 2016 03:42:54 : LimitlessMc, botchat, AlphaBit#3869, rip srbr
+11 Dec 2016 03:43:10 : LimitlessMc, mainchat, Nickyking#5687, crash
+11 Dec 2016 03:43:13 : LimitlessMc, mainchat, Wertfuzzy77#0274, gj people
+11 Dec 2016 03:43:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;shuffle
+11 Dec 2016 03:43:24 : LimitlessMc, mainchat, Nickyking#5687, R.i.p Server
+11 Dec 2016 03:43:25 : LimitlessMc, botchat, Botfuzzy77#2209, Shuffling songs...
+11 Dec 2016 03:43:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+11 Dec 2016 03:43:28 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+11 Dec 2016 03:43:28 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Guns 'n Roses - Welcome to the Jungle lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=s_45YMjnIIk>
+2. November Rain lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=aDLrrwWxejM>
+3. Journey - Don't Stop Believing Lyrics **ShadowJackyl**
+	<https://www.youtube.com/watch?v=KCy7lLQwToI>
+4. Lynyrd Skynyrd-Free bird **ShadowJackyl**
+	<https://www.youtube.com/watch?v=np0solnL1XY>
+5. Cheers intro song **ShadowJackyl**
+	<https://www.youtube.com/watch?v=h-mi0r0LpXo>
+Total Time is 0:29:10
+11 Dec 2016 03:43:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;shuffle
+11 Dec 2016 03:43:30 : LimitlessMc, botchat, Botfuzzy77#2209, Shuffling songs...
+11 Dec 2016 03:43:33 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+11 Dec 2016 03:43:33 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+11 Dec 2016 03:43:33 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Cheers intro song **ShadowJackyl**
+	<https://www.youtube.com/watch?v=h-mi0r0LpXo>
+2. Guns 'n Roses - Welcome to the Jungle lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=s_45YMjnIIk>
+3. Lynyrd Skynyrd-Free bird **ShadowJackyl**
+	<https://www.youtube.com/watch?v=np0solnL1XY>
+4. Journey - Don't Stop Believing Lyrics **ShadowJackyl**
+	<https://www.youtube.com/watch?v=KCy7lLQwToI>
+5. November Rain lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=aDLrrwWxejM>
+Total Time is 0:29:10
+11 Dec 2016 03:43:34 : LimitlessMc, mainchat, AlphaBit#3869, srbr crashed when i crashed lol
+11 Dec 2016 03:43:42 : LimitlessMc, mainchat, AlphaBit#3869, #BlameObama
+11 Dec 2016 03:43:53 : LimitlessMc, staff, Userman#8272, sometimes thats me
+11 Dec 2016 03:43:58 : LimitlessMc, mainchat, Wertfuzzy77#0274, We gonna have to start blaming trump soon
+11 Dec 2016 03:44:04 : LimitlessMc, mainchat, AlphaBit#3869, ye
+11 Dec 2016 03:44:05 : LimitlessMc, mainchat, Lightning#6734, lul
+11 Dec 2016 03:44:19 : LimitlessMc, mainchat, AlphaBit#3869, welp anyways imma get ready for school
+11 Dec 2016 03:44:22 : LimitlessMc, mainchat, AlphaBit#3869, cy@
+11 Dec 2016 03:44:25 : LimitlessMc, mainchat, Wertfuzzy77#0274, Or can we still blame Obama for not doing enough to prevent Trump from being President?
+11 Dec 2016 03:44:29 : LimitlessMc, mainchat, Lightning#6734, bai elpha
+11 Dec 2016 03:44:33 : LimitlessMc, mainchat, Wertfuzzy77#0274, bai alpha
+11 Dec 2016 03:44:36 : LimitlessMc, mainchat, AlphaBit#3869, gonna start playing full time next week
+11 Dec 2016 03:44:38 : LimitlessMc, mainchat, Bringer#7277, later
+11 Dec 2016 03:44:41 : LimitlessMc, mainchat, Lightning#6734, uu goody
+11 Dec 2016 03:44:42 : LimitlessMc, mainchat, Bringer#7277, kool
+11 Dec 2016 03:44:42 : LimitlessMc, mainchat, crystal4209#4698, bai
+11 Dec 2016 03:44:45 : LimitlessMc, mainchat, Nickyking#5687, bai
+11 Dec 2016 03:44:51 : LimitlessMc, mainchat, Lightning#6734, put elphabet back in /staff
+11 Dec 2016 03:44:55 : LimitlessMc, mainchat, AlphaBit#3869, no
+11 Dec 2016 03:45:00 : LimitlessMc, mainchat, Lightning#6734, i do now okei?
+11 Dec 2016 03:45:03 : LimitlessMc, botchat, Bringer#7277, ;luck
+11 Dec 2016 03:45:03 : LimitlessMc, botchat, Botfuzzy77#2209, Bringer's luck is 70.89 out of 100, which is **Pretty Good**
+11 Dec 2016 03:45:03 : LimitlessMc, mainchat, AlphaBit#3869, ninjamod never be in staff
+11 Dec 2016 03:45:05 : LimitlessMc, mainchat, AlphaBit#3869, okei
+11 Dec 2016 03:45:14 : LimitlessMc, botchat, ShadowJackyl#0282, ;luck
+11 Dec 2016 03:45:14 : LimitlessMc, botchat, Botfuzzy77#2209, ShadowJackyl's luck is 56.1 out of 100, which is **Not Bad**
+11 Dec 2016 03:45:27 : LimitlessMc, mainchat, AlphaBit#3869, okay cy@ on fri
+11 Dec 2016 03:45:34 : LimitlessMc, mainchat, AlphaBit#3869, asshats
+11 Dec 2016 03:45:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;luck
+11 Dec 2016 03:45:38 : LimitlessMc, botchat, Botfuzzy77#2209, Wertfuzzy77's luck is 0.02 out of 100, which is **Completly Horrible**
+11 Dec 2016 03:45:40 : LimitlessMc, mainchat, Lightning#6734, hatass
+11 Dec 2016 03:45:43 : LimitlessMc, botchat, Wertfuzzy77#0274, OMG
+11 Dec 2016 03:45:55 : LimitlessMc, botchat, Bringer#7277, lmao
+11 Dec 2016 03:46:03 : LimitlessMc, mainchat, Nick"Ace"Wilde#3503, hatass?
+11 Dec 2016 03:46:05 : LimitlessMc, botchat, Lightning#6734, .luck
+11 Dec 2016 03:46:05 : LimitlessMc, botchat, LightBot#4090, Lightning's luck is 45.6 out of 100, which is **Not Bad**
+11 Dec 2016 03:46:09 : LimitlessMc, botchat, Lightning#6734, okei
+11 Dec 2016 03:46:13 : LimitlessMc, botchat, Wertfuzzy77#0274, but liek actually, 0.02
+11 Dec 2016 03:46:14 : LimitlessMc, botchat, Wertfuzzy77#0274, wow
+11 Dec 2016 03:46:15 : LimitlessMc, botchat, Wertfuzzy77#0274, gg
+11 Dec 2016 03:46:15 : LimitlessMc, botchat, Bringer#7277, mines bette
+11 Dec 2016 03:46:17 : LimitlessMc, botchat, Bringer#7277, r
+11 Dec 2016 03:46:18 : LimitlessMc, botchat, Lightning#6734, ;luck
+11 Dec 2016 03:46:18 : LimitlessMc, botchat, Botfuzzy77#2209, Lightning's luck is 33.51 out of 100, which is **Pretty Bad**
+11 Dec 2016 03:46:22 : LimitlessMc, botchat, Lightning#6734, rip lel
+11 Dec 2016 03:46:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ```Wertfuzzy77's luck is 0.02 out of 100, which is Completly Horrible```
+11 Dec 2016 03:46:35 : LimitlessMc, botchat, Wertfuzzy77#0274, gonna save that
+11 Dec 2016 03:46:41 : LimitlessMc, mainchat, crystal4209#4698, too hot
+11 Dec 2016 03:46:44 : LimitlessMc, botchat, Wertfuzzy77#0274, Thats the lowest Ive ever seen
+11 Dec 2016 03:46:45 : LimitlessMc, botchat, Lightning#6734, possible to actually get 0?
+11 Dec 2016 03:46:48 : LimitlessMc, botchat, Wertfuzzy77#0274, yes
+11 Dec 2016 03:46:56 : LimitlessMc, botchat, Lightning#6734, oh damn should have special msg for that
+11 Dec 2016 03:47:01 : LimitlessMc, botchat, Wertfuzzy77#0274, prob
+11 Dec 2016 03:47:18 : LimitlessMc, botchat, Lightning#6734, 100 for me is diff  from urs unless i didn't save it
+11 Dec 2016 03:47:23 : LimitlessMc, botchat, ShadowJackyl#0282, this song makes me think of this erver
+11 Dec 2016 03:47:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug 1 / 100 /10 /10 * 4
+11 Dec 2016 03:47:25 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+0.0004
+```
+11 Dec 2016 03:47:33 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug 0.0004 * 100
+11 Dec 2016 03:47:34 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+0.04
+```
+11 Dec 2016 03:47:42 : LimitlessMc, botchat, Wertfuzzy77#0274, its a .04% chance to get exactly 0
+11 Dec 2016 03:47:51 : LimitlessMc, botchat, Wertfuzzy77#0274, same for exactly 100
+11 Dec 2016 03:51:04 : LimitlessMc, botchat, Wertfuzzy77#0274, hmm, should I photoshop santa hats onto all my icons?
+11 Dec 2016 04:08:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio
+11 Dec 2016 04:08:40 : LimitlessMc, botchat, Botfuzzy77#2209, Radio Mode: False
+11 Dec 2016 04:08:43 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio
+11 Dec 2016 04:08:43 : LimitlessMc, botchat, Botfuzzy77#2209, Radio Mode: True
+11 Dec 2016 04:08:45 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+11 Dec 2016 04:08:45 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+11 Dec 2016 04:08:45 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Metallica - Nothing else matter lyrics **Radio**
+	<https://www.youtube.com/watch?v=x7bIbVlIqEc>
+Total Time is 0:06:37
+11 Dec 2016 04:13:49 : LimitlessMc, mainchat, Dob the Unicorn#1316, Dob has arrived
+11 Dec 2016 04:14:07 : LimitlessMc, mainchat, Wertfuzzy77#0274, Hola
+11 Dec 2016 04:14:14 : LimitlessMc, botchat, ShadowJackyl#0282, ;search ppap
+11 Dec 2016 04:14:16 : LimitlessMc, botchat, Botfuzzy77#2209, Added PIKOTARO - PPAP (Pen Pineapple Apple Pen) (Long Version) [Official Video] to the queue
+11 Dec 2016 04:14:16 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=Ct6BUPvE2sM
+11 Dec 2016 04:14:18 : LimitlessMc, botchat, Wertfuzzy77#0274, why tho
+11 Dec 2016 04:14:19 : LimitlessMc, mainchat, Dob the Unicorn#1316, Hallo ._.
+11 Dec 2016 04:14:24 : LimitlessMc, botchat, ShadowJackyl#0282, lol
+11 Dec 2016 04:15:00 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+11 Dec 2016 04:15:00 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+11 Dec 2016 04:15:00 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Metallica - Nothing else matter lyrics **Radio**
+	<https://www.youtube.com/watch?v=x7bIbVlIqEc>
+2. PIKOTARO - PPAP (Pen Pineapple Apple Pen) (Long Version) [Official Video] **ShadowJackyl**
+	<https://www.youtube.com/watch?v=Ct6BUPvE2sM>
+Total Time is 0:09:11
+11 Dec 2016 04:15:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;shuffle
+11 Dec 2016 04:15:05 : LimitlessMc, botchat, Botfuzzy77#2209, Shuffling songs...
+11 Dec 2016 04:15:07 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+11 Dec 2016 04:15:07 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+11 Dec 2016 04:15:08 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Metallica - Nothing else matter lyrics **Radio**
+	<https://www.youtube.com/watch?v=x7bIbVlIqEc>
+2. PIKOTARO - PPAP (Pen Pineapple Apple Pen) (Long Version) [Official Video] **ShadowJackyl**
+	<https://www.youtube.com/watch?v=Ct6BUPvE2sM>
+Total Time is 0:09:11
+11 Dec 2016 04:15:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ;shuffle
+11 Dec 2016 04:15:10 : LimitlessMc, botchat, Botfuzzy77#2209, Shuffling songs...
+11 Dec 2016 04:15:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+11 Dec 2016 04:15:12 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+11 Dec 2016 04:15:12 : LimitlessMc, botchat, Botfuzzy77#2209, 1. PIKOTARO - PPAP (Pen Pineapple Apple Pen) (Long Version) [Official Video] **ShadowJackyl**
+	<https://www.youtube.com/watch?v=Ct6BUPvE2sM>
+2. Metallica - Nothing else matter lyrics **Radio**
+	<https://www.youtube.com/watch?v=x7bIbVlIqEc>
+Total Time is 0:09:11
+11 Dec 2016 04:16:21 : LimitlessMc, mainchat, Dob the Unicorn#1316, Nope
+11 Dec 2016 04:16:22 : LimitlessMc, mainchat, Dob the Unicorn#1316, XD
+11 Dec 2016 04:16:48 : LimitlessMc, botchat, Wertfuzzy77#0274, can we not
+11 Dec 2016 04:16:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+11 Dec 2016 04:16:50 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping PIKOTARO - PPAP (Pen Pineapple Apple Pen) (Long Version) [Official Video]
+11 Dec 2016 04:16:58 : LimitlessMc, botchat, ShadowJackyl#0282, awe
+11 Dec 2016 04:17:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+11 Dec 2016 04:17:01 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+11 Dec 2016 04:17:01 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Guns N' Roses - Don't cry with lyrics **Radio**
+	<https://www.youtube.com/watch?v=346buRwtrOU>
+Total Time is 0:04:52
+11 Dec 2016 04:17:03 : LimitlessMc, botchat, Dob the Unicorn#1316, Ty
+11 Dec 2016 04:17:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Kiss the Rain
+11 Dec 2016 04:17:16 : LimitlessMc, botchat, Botfuzzy77#2209, Added Yiruma, (이루마) - Kiss the Rain to the queue
+11 Dec 2016 04:17:16 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=imGaOIm5HOk
+11 Dec 2016 04:17:18 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search River flows in you
+11 Dec 2016 04:17:23 : LimitlessMc, botchat, Botfuzzy77#2209, Added Yiruma, (이루마) - River Flows in You to the queue
+11 Dec 2016 04:17:23 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=7maJOI3QMu0
+11 Dec 2016 04:17:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Animenz My Dearest
+11 Dec 2016 04:17:31 : LimitlessMc, botchat, Botfuzzy77#2209, Added My Dearest - Guilty Crown (Opening 1) [Piano Tutorial] (Synthesia) // Animenz to the queue
+11 Dec 2016 04:17:31 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=cPd4rZ2vCCw
+11 Dec 2016 04:17:33 : LimitlessMc, botchat, ShadowJackyl#0282, /search we need a hero power rangers
+11 Dec 2016 04:17:46 : LimitlessMc, botchat, ShadowJackyl#0282, lol fail
+11 Dec 2016 04:17:59 : LimitlessMc, botchat, ShadowJackyl#0282, ;search we need a hero power rangers
+11 Dec 2016 04:18:03 : LimitlessMc, botchat, Botfuzzy77#2209, Added Power Rangers Redux - We Need A Hero(2012) to the queue
+11 Dec 2016 04:18:03 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=fPdwgItMotg
+11 Dec 2016 04:18:16 : LimitlessMc, botchat, ShadowJackyl#0282, meh its the new vers :/
+11 Dec 2016 04:18:36 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+11 Dec 2016 04:18:36 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+11 Dec 2016 04:18:36 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Guns N' Roses - Don't cry with lyrics **Radio**
+	<https://www.youtube.com/watch?v=346buRwtrOU>
+2. Yiruma, (이루마) - Kiss the Rain **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=imGaOIm5HOk>
+3. Yiruma, (이루마) - River Flows in You **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=7maJOI3QMu0>
+4. My Dearest - Guilty Crown (Opening 1) [Piano Tutorial] (Synthesia) // Animenz **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=cPd4rZ2vCCw>
+5. Power Rangers Redux - We Need A Hero(2012) **ShadowJackyl**
+	<https://www.youtube.com/watch?v=fPdwgItMotg>
+Total Time is 0:24:11
+11 Dec 2016 04:18:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;shuffle
+11 Dec 2016 04:18:40 : LimitlessMc, botchat, Botfuzzy77#2209, Shuffling songs...
+11 Dec 2016 04:18:41 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+11 Dec 2016 04:18:41 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+11 Dec 2016 04:18:42 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Yiruma, (이루마) - River Flows in You **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=7maJOI3QMu0>
+2. Guns N' Roses - Don't cry with lyrics **Radio**
+	<https://www.youtube.com/watch?v=346buRwtrOU>
+3. Power Rangers Redux - We Need A Hero(2012) **ShadowJackyl**
+	<https://www.youtube.com/watch?v=fPdwgItMotg>
+4. My Dearest - Guilty Crown (Opening 1) [Piano Tutorial] (Synthesia) // Animenz **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=cPd4rZ2vCCw>
+5. Yiruma, (이루마) - Kiss the Rain **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=imGaOIm5HOk>
+Total Time is 0:24:11
+11 Dec 2016 04:18:51 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 2
+11 Dec 2016 04:18:51 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: Guns N' Roses - Don't cry with lyrics
+11 Dec 2016 04:24:14 : LimitlessMc, botchat, ShadowJackyl#0282, will ur bot play the sound from videos?
+11 Dec 2016 04:24:28 : LimitlessMc, botchat, ShadowJackyl#0282, ;search high on tem flakes
+11 Dec 2016 04:24:34 : LimitlessMc, botchat, Wertfuzzy77#0274, ;image wut
+11 Dec 2016 04:24:36 : LimitlessMc, botchat, Botfuzzy77#2209, http://dawgpoundnation.com/wp-content/uploads/2014/06/Wut-babka.jpg
+11 Dec 2016 04:24:58 : LimitlessMc, botchat, Wertfuzzy77#0274, it doesnt play anything except the sound from videos xD
+11 Dec 2016 04:25:13 : LimitlessMc, botchat, Dob the Unicorn#1316, ._.
+11 Dec 2016 04:25:24 : LimitlessMc, botchat, Dob the Unicorn#1316, Just youtube?
+11 Dec 2016 04:25:46 : LimitlessMc, botchat, Dob the Unicorn#1316, Or videos in general?
+11 Dec 2016 04:26:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ?
+11 Dec 2016 04:26:17 : LimitlessMc, botchat, Wertfuzzy77#0274, andddd out of memory
+11 Dec 2016 04:26:21 : LimitlessMc, botchat, Wertfuzzy77#0274, kys @Botfuzzy77
+11 Dec 2016 04:26:21 : LimitlessMc, botchat, Botfuzzy77#2209, Okai :I.
+11 Dec 2016 04:26:21 : LimitlessMc, botchat, ShadowJackyl#0282, in general
+11 Dec 2016 04:27:18 : LimitlessMc, botchat, ShadowJackyl#0282, ;youtube https://www.youtube.com/watch?v=qb2df5tI00E
+11 Dec 2016 04:27:22 : LimitlessMc, botchat, Dob the Unicorn#1316, Can't people abuse that then?
+11 Dec 2016 04:27:29 : LimitlessMc, botchat, ShadowJackyl#0282, it dont work
+11 Dec 2016 04:27:35 : LimitlessMc, botchat, ShadowJackyl#0282, but u should watch that
+11 Dec 2016 04:27:41 : LimitlessMc, botchat, Dob the Unicorn#1316, Seen it
+11 Dec 2016 04:27:54 : LimitlessMc, botchat, Wertfuzzy77#0274, abuse what?
+11 Dec 2016 04:27:56 : LimitlessMc, botchat, Dob the Unicorn#1316, ._. It kind of sucks
+11 Dec 2016 04:28:10 : LimitlessMc, botchat, ShadowJackyl#0282, lol idk what to think about it
+11 Dec 2016 04:28:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+11 Dec 2016 04:28:19 : LimitlessMc, botchat, Botfuzzy77#2209, ```Name: Power Rangers Redux - We Need A Hero(2012)
+URL: <https://www.youtube.com/watch?v=fPdwgItMotg>
+Time: 0:05:38
+Views: 121,044
+Likes: 594, 97.86%
+Dislikes: 13, 2.14%
+```
+11 Dec 2016 04:28:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+11 Dec 2016 04:28:23 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+11 Dec 2016 04:28:23 : LimitlessMc, botchat, Botfuzzy77#2209, 1. My Dearest - Guilty Crown (Opening 1) [Piano Tutorial] (Synthesia) // Animenz **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=cPd4rZ2vCCw>
+2. Yiruma, (이루마) - Kiss the Rain **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=imGaOIm5HOk>
+Total Time is 0:10:11
+11 Dec 2016 04:28:41 : LimitlessMc, botchat, Wertfuzzy77#0274, I'm out of Mem 😄
+11 Dec 2016 04:28:51 : LimitlessMc, botchat, Wertfuzzy77#0274, think i can fix tho
+11 Dec 2016 04:29:05 : LimitlessMc, botchat, Wertfuzzy77#0274, after these songs end
+11 Dec 2016 04:29:06 : LimitlessMc, botchat, Wertfuzzy77#0274, i fix
+11 Dec 2016 04:29:20 : LimitlessMc, botchat, ShadowJackyl#0282, is anyone else a lil laggy?
+11 Dec 2016 04:32:06 : LimitlessMc, botchat, Wertfuzzy77#0274, nope
+11 Dec 2016 04:32:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ayy guilty crown
+11 Dec 2016 04:33:11 : LimitlessMc, botchat, Wertfuzzy77#0274, never watched the anime, but its soundtrack is 10/10
+11 Dec 2016 04:34:29 : LimitlessMc, mainchat, Jay113355#4999, ;sever
+11 Dec 2016 04:34:56 : LimitlessMc, mainchat, Wertfuzzy77#0274, #sever
+11 Dec 2016 04:40:07 : LimitlessMc, mainchat, Dob the Unicorn#1316, ._.
+11 Dec 2016 04:45:28 : LimitlessMc, mainchat, Lightning#6734, srbr
+11 Dec 2016 04:46:16 : LimitlessMc, mainchat, Dob the Unicorn#1316, Dob
+11 Dec 2016 04:48:19 : LimitlessMc, mainchat, Fox#3735, @Lightning congratz on admin pleb
+11 Dec 2016 04:48:31 : LimitlessMc, mainchat, Lightning#6734, o ty ty
+11 Dec 2016 04:48:38 : LimitlessMc, mainchat, Dob the Unicorn#1316, ._. Rip moosic
+11 Dec 2016 04:49:03 : LimitlessMc, mainchat, Dob the Unicorn#1316, Lel Lightning you're popular af ._.
+11 Dec 2016 04:50:55 : LimitlessMc, mainchat, Lightning#6734, ye ik
+11 Dec 2016 04:51:53 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio
+11 Dec 2016 04:51:53 : LimitlessMc, botchat, Botfuzzy77#2209, Radio Mode: False
+11 Dec 2016 04:51:56 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio
+11 Dec 2016 04:51:56 : LimitlessMc, botchat, Botfuzzy77#2209, Radio Mode: True
+11 Dec 2016 04:51:58 : LimitlessMc, botchat, Wertfuzzy77#0274, ...?
+11 Dec 2016 04:52:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ;relog
+11 Dec 2016 04:52:10 : LimitlessMc, botchat, Botfuzzy77#2209, Relogging...

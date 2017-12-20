@@ -1,0 +1,47 @@
+18 Jan 2017 03:31:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle hard
+18 Jan 2017 03:31:18 : LimitlessMc, botchat, Botfuzzy77#2209, You are not a high enough level to be in this area!
+18 Jan 2017 03:31:18 : LimitlessMc, botchat, Botfuzzy77#2209, You need to be atleast Level 45
+18 Jan 2017 03:31:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle medium
+18 Jan 2017 03:31:24 : LimitlessMc, botchat, Botfuzzy77#2209, Please use a Combination of **8** Types. `;types`
+18 Jan 2017 03:31:48 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle easy nnnnn
+18 Jan 2017 03:31:48 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 9 Boss **Cherrim** has appeared in the easy zone!
+It has 2502 Health.
+18 Jan 2017 03:31:48 : LimitlessMc, botchat, Botfuzzy77#2209, 
+18 Jan 2017 03:31:49 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:white_check_mark: :x: :x: :x: :x:
+18 Jan 2017 03:31:49 : LimitlessMc, botchat, Botfuzzy77#2209, *Low level boss penalty...*
+18 Jan 2017 03:31:49 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **8** damage
+18 Jan 2017 03:31:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+18 Jan 2017 03:31:55 : LimitlessMc, botchat, Botfuzzy77#2209, Level 9 Boss **Cherrim** has 2494 health left.
+18 Jan 2017 03:31:55 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 67 **Ariados** (26% to beat)
+You **Beat** a Level 49 **Togetic** for 1138 XP (36% to beat)
+You **Beat** a Level 7 **Altaria** for 180 XP (90% to beat)
+You **Beat** a Level 13 **Azurill** for 180 XP (90% to beat)
+You **Lost** to a Level 62 **Clawitzer** (29% to beat)
+You **Beat** a Level 60 **Shinx** for 1260 XP (30% to beat)
+You **Beat** a Level 14 **Vaporeon** for 180 XP (90% to beat)
+You **Beat** a Level 10 **Poliwag** for 180 XP (90% to beat)
+You **Lost** to a Level 4 **Butterfree** (90% to beat)
+You **Lost** to a Level 23 **Tauros** (78% to beat)
+You Find a **Pokeloot** worth 5066 XP
+You Find a **Great Pokeloot** worth 17730 XP
+18 Jan 2017 03:31:55 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 20848 XP!
+18 Jan 2017 03:32:03 : LimitlessMc, botchat, Wertfuzzy77#0274, also, pokeloots stack now
+18 Jan 2017 03:32:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+18 Jan 2017 03:32:10 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 37
+**XP**: 20299/54872
+**Boss Takedowns**: 18
+**Most Dmg in an Attack**: 7181
+18 Jan 2017 03:32:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+18 Jan 2017 03:32:53 : LimitlessMc, staff, Jay113355#4999, GitLabs has been around forever
+18 Jan 2017 03:33:02 : LimitlessMc, staff, Jay113355#4999, its an open source github
+18 Jan 2017 03:33:10 : LimitlessMc, staff, Wertfuzzy77#0274, fair enough
+18 Jan 2017 03:33:14 : LimitlessMc, staff, Wertfuzzy77#0274, but why not use Github?
+18 Jan 2017 03:33:53 : LimitlessMc, staff, Jay113355#4999, It has free private repos and CI intagration
+18 Jan 2017 03:34:05 : LimitlessMc, staff, Jay113355#4999, and more permissions
+18 Jan 2017 03:34:12 : LimitlessMc, staff, Wertfuzzy77#0274, alright
+18 Jan 2017 03:34:20 : LimitlessMc, staff, Jay113355#4999, + you can run it on your own servers
+18 Jan 2017 03:34:23 : LimitlessMc, staff, Jay113355#4999, for free
+18 Jan 2017 03:34:27 : LimitlessMc, staff, Jay113355#4999, unlike github
+18 Jan 2017 03:34:42 : LimitlessMc, staff, Wertfuzzy77#0274, what do you mean run it on your own servers?

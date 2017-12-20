@@ -1,0 +1,49 @@
+24 Jul 2016 22:10:48 : Cipher, general, Wertfuzzy77#0274, ;join
+24 Jul 2016 22:11:07 : Cipher, music, Wertfuzzy77#0274, ;playlist Perri Adele Blunt
+24 Jul 2016 22:11:13 : Cipher, music, Wertfuzzy77#0274, ;viewplaylist Perri
+24 Jul 2016 22:11:19 : Cipher, music, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+24 Jul 2016 22:11:28 : Cipher, music, Wertfuzzy77#0274, ;viewplaylist Perri
+24 Jul 2016 22:11:58 : Cipher, music, Akincifenwa#5072, ;playlist Trending2
+24 Jul 2016 22:12:09 : Cipher, music, Akincifenwa#5072, ;songs
+24 Jul 2016 22:12:09 : Cipher, music, Botfuzzy77#2209, **The Following songs are in the Queue**
+24 Jul 2016 22:12:09 : Cipher, music, Botfuzzy77#2209, Christina Perri - A Thousand Years [Official Music Video] (https://www.youtube.com/watch?v=rtOvBOTyX00)
+Adele - Turning Tables (With Lyrics) (https://www.youtube.com/watch?v=dx7sLNyIeQk)
+Adele - Skyfall (Lyric Video) (https://www.youtube.com/watch?v=DeumyOzKqgI)
+Adele - Someone Like You (https://www.youtube.com/watch?v=hLQl3WQQoQ0)
+Adele - Set Fire To The Rain (Live at The Royal Albert Hall) (https://www.youtube.com/watch?v=Ri7-vnrJD3k)
+Adele - Rolling in the Deep (https://www.youtube.com/watch?v=rYEDA3JcQqw)
+James Blunt - Goodbye My Lover [OFFICIAL VIDEO] (https://www.youtube.com/watch?v=wVyggTKDcOE)
+James Blunt - 1973 (Video) (https://www.youtube.com/watch?v=uWeqeQkjLto)
+James Blunt - You're Beautiful (Video) (https://www.youtube.com/watch?v=oofSnsGkops)
+Julian Perretta - Miracle (https://www.youtube.com/watch?v=GQ0X7_rv38s)
+Total Time is 0:40:34
+24 Jul 2016 22:12:20 : Cipher, music, Wertfuzzy77#0274, ;shuffle
+24 Jul 2016 22:12:20 : Cipher, music, Botfuzzy77#2209, Shuffling songs...
+24 Jul 2016 22:12:31 : Cipher, music, Wertfuzzy77#0274, it didnt like Trending2
+24 Jul 2016 22:12:33 : Cipher, music, Akincifenwa#5072, is there a limit in the queue
+24 Jul 2016 22:12:37 : Cipher, music, Wertfuzzy77#0274, nope
+24 Jul 2016 22:12:49 : Cipher, music, Akincifenwa#5072, again the sam problem?
+24 Jul 2016 22:12:58 : Cipher, music, Wertfuzzy77#0274, ya, some video isnt available
+24 Jul 2016 22:13:13 : Cipher, music, Wertfuzzy77#0274, `DownloadError: ERROR: YouTube said: This video is available in Andorra....`
+24 Jul 2016 22:13:21 : Cipher, music, Akincifenwa#5072, tf i did worldwide on yt settings
+24 Jul 2016 22:13:29 : Cipher, music, Akincifenwa#5072, andorra wtf
+24 Jul 2016 22:13:37 : Cipher, music, Wertfuzzy77#0274, many other names
+24 Jul 2016 22:13:51 : Cipher, music, Akincifenwa#5072, but i cant change to usa
+24 Jul 2016 22:14:01 : Cipher, music, Wertfuzzy77#0274, `Andorra, United Arab Emirates, Afghanistan, Antigua and Barbuda, Anguilla, Albania, Armenia, Angola, Antarctica, Argentina, American Samoa, Austria, Australia, Aruba, Åland Islands, Azerbaijan, Bosnia and Herzegovina, Barbados, Bangladesh, Belgium, Burkina Faso, Bulgaria, Bahrain, Burundi, Benin, Saint Barthélemy, Bermuda, Brunei Darussalam, Bolivia, Plurinational State of, Bonaire, Sint Eustatius and Saba, Brazil, Bahamas, Bhutan, Bouvet Island, Botswana, Belarus, Belize, Cocos (Keeling) Islands, Congo, the Democratic Republic of the, Central African Republic, Congo, Switzerland, Côte d'Ivoire, Cook Islands, Chile, Cameroon, China, Colombia, Costa Rica, Cuba, Cape Verde, Curaçao, Christmas Island, Cyprus, Czech Republic, Djibouti, Denmark, Dominica, Dominican Republic, Algeria, Ecuador, Estonia, Egypt, Western Sahara, Eritrea, Spain, Ethiopia, Finland, Fiji, Falkland Islands (Malvinas), Micronesia, Federated States of, Faroe Islands, France, Gabon, United Kingdom, Grenada, Georgia, French Guiana, Guernsey, Ghana, Gibraltar, Greenland, Gambia, Guinea, Guadeloupe, Equatorial Guinea, Greece, South Georgia and the South Sandwich Islands, Guatemala, Guam, Guinea-Bissau, Guyana, Hong Kong, Heard Island and McDonald Islands, Honduras, Croatia, Haiti, Hungary, Indonesia, Ireland, Israel, Isle of Man, India, British Indian Ocean Territory, Iraq, Iran, Islamic Republic of, Iceland, Italy, Jersey, Jamaica, Jordan, Japan, Kenya, Kyrgyzstan, Cambodia, Kiribati, Comoros, Saint Kitts and Nevis, Korea, Democratic People's Republic of, Korea, Republic of, Kuwait, Cayman Islands, Kazakhstan, Lao People's Democratic Republic, Lebanon, Saint Lucia, Liechtenstein, Sri Lanka, Liberia, Lesotho...`
+24 Jul 2016 22:14:05 : Cipher, music, Wertfuzzy77#0274, many
+24 Jul 2016 22:14:06 : Cipher, music, Wertfuzzy77#0274, many
+24 Jul 2016 22:14:07 : Cipher, music, Wertfuzzy77#0274, names
+24 Jul 2016 22:14:12 : Cipher, music, Akincifenwa#5072, but not america
+24 Jul 2016 22:14:29 : Cipher, music, Wertfuzzy77#0274, `United States Minor Outlying Islands`LOL
+24 Jul 2016 22:14:34 : Cipher, music, Wertfuzzy77#0274, not the main US tho
+24 Jul 2016 22:14:39 : Cipher, music, Akincifenwa#5072, ...
+24 Jul 2016 22:14:47 : Cipher, music, Wertfuzzy77#0274, hilarious
+24 Jul 2016 22:14:49 : Cipher, music, Akincifenwa#5072, i cant change the settings to usa
+24 Jul 2016 22:14:53 : Cipher, music, Wertfuzzy77#0274, rip
+24 Jul 2016 22:14:58 : Cipher, music, Akincifenwa#5072, because usa is not available..
+24 Jul 2016 22:15:01 : Cipher, music, Wertfuzzy77#0274, ;viewplaylist Blunt
+24 Jul 2016 22:15:07 : Cipher, music, Akincifenwa#5072, canada also not
+24 Jul 2016 22:15:14 : Cipher, music, Akincifenwa#5072, uk is available...
+24 Jul 2016 22:15:38 : LimitlessMc, mainchat, Botfuzzy77#2209, **keemknome**(No Role) is now Online!
+24 Jul 2016 22:15:40 : Cipher, music, Wertfuzzy77#0274, ;relog
+24 Jul 2016 22:15:41 : Cipher, music, Botfuzzy77#2209, Relogging...

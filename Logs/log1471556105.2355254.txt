@@ -1,0 +1,18 @@
+18 Aug 2016 21:35:12 : Cipher, general, Wertfuzzy77#0274, ;join
+18 Aug 2016 21:35:22 : Cipher, general, Wertfuzzy77#0274, ;playlist Amagi Amagi Amagi Amagi Amagi Amagi
+18 Aug 2016 21:35:30 : Cipher, general, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+18 Aug 2016 21:36:39 : Cipher, bot_land, Wertfuzzy77#0274, ;debug discord.Emoji()
+18 Aug 2016 21:36:39 : Cipher, bot_land, Botfuzzy77#2209, ```py
+AttributeError: module 'discord' has no attribute 'Emoji'
+```
+18 Aug 2016 21:37:10 : The Pleb Privateers, general, enragednuke#2565, @Wertfuzzy77 did u do your move-in time
+18 Aug 2016 21:37:20 : The Pleb Privateers, general, Wertfuzzy77#0274, not yet, going to set it tonight
+18 Aug 2016 21:37:23 : The Pleb Privateers, general, Wertfuzzy77#0274, going to be on sunday tho
+18 Aug 2016 21:37:27 : The Pleb Privateers, general, enragednuke#2565, gud
+18 Aug 2016 21:37:30 : The Pleb Privateers, general, enragednuke#2565, same
+18 Aug 2016 21:37:36 : The Pleb Privateers, general, enragednuke#2565, i think im 10-10:30
+18 Aug 2016 21:37:53 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Online!
+18 Aug 2016 21:38:13 : The Pleb Privateers, general, Wertfuzzy77#0274, maybe even like 11:30-12:00
+18 Aug 2016 21:39:44 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Stormzzzy**(Popes of The Raw Man) is now Online!
+18 Aug 2016 21:40:24 : Cipher, bot_land, Wertfuzzy77#0274, ;relog
+18 Aug 2016 21:40:25 : Cipher, bot_land, Botfuzzy77#2209, Relogging...

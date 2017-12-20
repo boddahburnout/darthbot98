@@ -1,0 +1,374 @@
+03 Mar 2017 21:01:53 : The Wild Weebs, general, Tally#2764, But then you have to keep track of all of them
+03 Mar 2017 21:02:41 : The Wild Weebs, general, Wertfuzzy77#0274, what you mean? just have a master data structure they all add to, split the document into 5 parts, and have 5 different threads just iterate through one and add to the structute
+03 Mar 2017 21:02:47 : The Wild Weebs, general, Wertfuzzy77#0274, structure *
+03 Mar 2017 21:03:06 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokemon Celebi
+03 Mar 2017 21:03:07 : LimitlessMc, botchat, Botfuzzy77#2209, ***Celebi***
+03 Mar 2017 21:03:07 : LimitlessMc, botchat, Botfuzzy77#2209, 
+03 Mar 2017 21:03:07 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Page**: <http://pixelmonmod.com/wiki/index.php?title=celebi>
+**Bulbapedia Page**: <http://bulbapedia.bulbagarden.net/wiki/celebi>
+**Pokemon DB**: <http://pokemondb.net/pokedex/celebi>
+**Smogon**: <http://www.smogon.com/dex/bw/pokemon/celebi>
+03 Mar 2017 21:03:09 : LimitlessMc, botchat, Wertfuzzy77#0274, there
+03 Mar 2017 21:03:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokemon Charizard
+03 Mar 2017 21:03:13 : LimitlessMc, botchat, Botfuzzy77#2209, ***Charizard***
+03 Mar 2017 21:03:13 : LimitlessMc, botchat, Botfuzzy77#2209, 
+03 Mar 2017 21:03:13 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Page**: <http://pixelmonmod.com/wiki/index.php?title=charizard>
+**Bulbapedia Page**: <http://bulbapedia.bulbagarden.net/wiki/charizard>
+**Pokemon DB**: <http://pokemondb.net/pokedex/charizard>
+**Smogon**: <http://www.smogon.com/dex/bw/pokemon/charizard>
+03 Mar 2017 21:03:18 : LimitlessMc, botchat, Wertfuzzy77#0274, @TherminatorX
+03 Mar 2017 21:03:22 : LimitlessMc, botchat, Wertfuzzy77#0274, what think?
+03 Mar 2017 21:03:39 : The Wild Weebs, general, enragednuke#2565, considering just reading the lines is taking 5 years nik
+03 Mar 2017 21:03:49 : The Wild Weebs, general, enragednuke#2565, splitting it will be just as long before yyou can even start'
+03 Mar 2017 21:04:30 : The Wild Weebs, general, Tally#2764, Is your code now shit run time Dylan?
+03 Mar 2017 21:04:58 : The Wild Weebs, general, Wertfuzzy77#0274, well, I'm done messing with my bot, guess I should start the project
+03 Mar 2017 21:05:09 : The Wild Weebs, general, Tally#2764, Yeah this project isn't nice
+03 Mar 2017 21:05:20 : The Wild Weebs, general, Tally#2764, The 5.7 million lines of text suck
+03 Mar 2017 21:07:26 : The Wild Weebs, general, enragednuke#2565, welp
+03 Mar 2017 21:07:31 : The Wild Weebs, general, enragednuke#2565, i found the part that m,akes it take forever
+03 Mar 2017 21:07:40 : The Wild Weebs, general, enragednuke#2565, just parsed 500k lines in less than 2 seconds
+03 Mar 2017 21:07:47 : The Wild Weebs, general, enragednuke#2565, `if pair not in pairs:`
+03 Mar 2017 21:07:52 : The Wild Weebs, general, enragednuke#2565, apparently
+03 Mar 2017 21:07:55 : The Wild Weebs, general, enragednuke#2565, extremely taxing
+03 Mar 2017 21:09:17 : The Wild Weebs, general, enragednuke#2565, ```py
+for i in [0,1]:
+  if pair[i] not in known_links:
+    known_links.append(pair[i])
+    unique_links += 1
+```
+03 Mar 2017 21:09:18 : The Wild Weebs, general, enragednuke#2565, also taxing
+03 Mar 2017 21:11:15 : The Wild Weebs, general, Tally#2764, But we need to read it like per line
+03 Mar 2017 21:12:03 : The Wild Weebs, general, enragednuke#2565, it is perl ine
+03 Mar 2017 21:12:10 : The Wild Weebs, general, enragednuke#2565, my problem was that I had manual checking for duplicate pairs
+03 Mar 2017 21:12:19 : The Wild Weebs, general, Tally#2764, I mean look at the forum posed for p3
+03 Mar 2017 21:12:21 : The Wild Weebs, general, enragednuke#2565, which, when you have 10000 pairs in an array
+03 Mar 2017 21:12:23 : The Wild Weebs, general, enragednuke#2565, takes fucking forever
+03 Mar 2017 21:12:29 : The Wild Weebs, general, enragednuke#2565, ?
+03 Mar 2017 21:12:35 : The Wild Weebs, general, enragednuke#2565, wtf are you even talking about
+03 Mar 2017 21:12:55 : The Wild Weebs, general, Tally#2764, There is a forum for questions next to p3 on moodle
+03 Mar 2017 21:13:02 : The Wild Weebs, general, enragednuke#2565, yes
+03 Mar 2017 21:13:11 : The Wild Weebs, general, Tally#2764, And in one he professor says something about checking perline
+03 Mar 2017 21:13:28 : The Wild Weebs, general, enragednuke#2565, yes..
+03 Mar 2017 21:13:32 : The Wild Weebs, general, enragednuke#2565, i didnt say i removed that..
+03 Mar 2017 21:14:14 : The Wild Weebs, general, Tally#2764, Oh so are you saying the per line isn't the problem but the checking
+03 Mar 2017 21:14:21 : The Wild Weebs, general, enragednuke#2565, right
+03 Mar 2017 21:14:24 : The Wild Weebs, general, enragednuke#2565, the duplicaate checking
+03 Mar 2017 21:14:29 : The Wild Weebs, general, enragednuke#2565, on arrays with multiple thusand things in it
+03 Mar 2017 21:14:31 : The Wild Weebs, general, enragednuke#2565, doesnt bode well
+03 Mar 2017 21:14:54 : The Wild Weebs, general, Tally#2764, I think we use dictionaries
+03 Mar 2017 21:15:03 : The Wild Weebs, general, enragednuke#2565, it doesnt matter what lol
+03 Mar 2017 21:15:12 : The Wild Weebs, general, enragednuke#2565, if anything dictionaries are *more* taxzing
+03 Mar 2017 21:15:43 : The Wild Weebs, general, Tally#2764, True
+03 Mar 2017 21:16:07 : The Wild Weebs, general, Tally#2764, He said something about how we terminate when checking each line
+03 Mar 2017 21:17:09 : The Wild Weebs, general, Tally#2764, 
+03 Mar 2017 21:17:27 : The Wild Weebs, general, Tally#2764, Using some wrong termination for last line read
+03 Mar 2017 21:18:07 : The Wild Weebs, general, enragednuke#2565, aka "you suck at dealing with lines that aren't in the correct format"
+03 Mar 2017 21:18:12 : The Wild Weebs, general, enragednuke#2565, i.e. the last line which is blank
+03 Mar 2017 21:19:08 : The Wild Weebs, general, Tally#2764, But we don't even make it to last line
+03 Mar 2017 21:19:32 : The Wild Weebs, general, enragednuke#2565, so that post doesn't correlate to your problem then?
+03 Mar 2017 21:19:42 : The Wild Weebs, general, Tally#2764, I mean alex posted it
+03 Mar 2017 21:19:52 : The Wild Weebs, general, Tally#2764, And he professor responded with that
+03 Mar 2017 21:20:10 : The Wild Weebs, general, enragednuke#2565, the professor could just misinterpret the situation?
+03 Mar 2017 21:20:13 : The Wild Weebs, general, enragednuke#2565, i dont know your problem
+03 Mar 2017 21:20:29 : The Wild Weebs, general, Tally#2764, Just that our parser runs for longer than 3 hours
+03 Mar 2017 21:20:55 : The Wild Weebs, general, Tally#2764, He asked what is peoples average run time for parsing and that ours is going on 3 hours
+03 Mar 2017 21:21:03 : The Wild Weebs, general, Tally#2764, And that was the professors response
+03 Mar 2017 21:21:24 : The Wild Weebs, general, Tally#2764, Alex asked another question but I don't think the professor has seen it yet
+03 Mar 2017 21:24:50 : The Wild Weebs, general, Tally#2764, Hasn't*
+03 Mar 2017 21:25:49 : The Wild Weebs, general, enragednuke#2565, has was correct
+03 Mar 2017 21:25:49 : The Wild Weebs, general, enragednuke#2565, lol
+03 Mar 2017 21:38:35 : The Wild Weebs, general, Tally#2764, Oh wow I need sleep
+03 Mar 2017 21:39:12 : The Wild Weebs, general, Tally#2764, Literally once the parser is fixed I think mine and alex will be done
+03 Mar 2017 21:39:19 : The Wild Weebs, general, Tally#2764, But we can't work on it till after work
+03 Mar 2017 21:49:53 : LimitlessMc, botchat, theOnlyJuan#9357, <:galacticHYPE:171281913145720832>
+03 Mar 2017 21:49:57 : LimitlessMc, botchat, theOnlyJuan#9357, ;cd
+03 Mar 2017 21:49:57 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You can Train right now!
+**Gamble**
+You can Gamble right now!
+03 Mar 2017 21:50:02 : LimitlessMc, botchat, theOnlyJuan#9357, ;train
+03 Mar 2017 21:50:02 : LimitlessMc, botchat, Botfuzzy77#2209, You *Lost* to a Level 17 **Sigilyph** (41% to beat)
+You *Lost* to a Level 18 **Totodile** (38% to beat)
+You **Beat** a Level 11 **Cobalion** for 41 XP (63% to beat)
+You *Lost* to a Level 21 **Bouffalant** (33% to beat)
+You *Lost* to a Level 20 **Beartic** (35% to beat)
+03 Mar 2017 21:50:02 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 41 (+ 4) XP
+03 Mar 2017 21:52:24 : LimitlessMc, mainchat, Third_Worm#4804, @MattRuc i own Snapchat now, give me name
+03 Mar 2017 21:52:43 : LimitlessMc, botchat, KidKraft#7732, ;train
+03 Mar 2017 21:52:43 : LimitlessMc, botchat, Botfuzzy77#2209, You *Lost* to a Level 32 **Pidgeot** (29% to beat)
+You *Lost* to a Level 34 **Timburr** (27% to beat)
+You *Lost* to a Level 24 **Rhydon** (39% to beat)
+You **Beat** a Level 30 **Anorith** for 301 XP (31% to beat)
+You **Beat** a Level 17 **Ledian** for 97 XP (55% to beat)
+You **Beat** a Level 27 **Nidorino** for 244 XP (35% to beat)
+You use an **EXP share** to gain more XP! (+ 321)
+You Find a **Pokeloot** worth 201 XP
+03 Mar 2017 21:52:43 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 1164 (+ 0) XP
+03 Mar 2017 21:52:43 : LimitlessMc, botchat, Botfuzzy77#2209, You Have Leveled up from **19** to **20**!
+03 Mar 2017 21:56:49 : LimitlessMc, botchat, TherminatorX#6644, @Wertfuzzy77 noice
+03 Mar 2017 21:57:00 : LimitlessMc, botchat, Wertfuzzy77#0274, thanks
+03 Mar 2017 21:57:06 : LimitlessMc, mainchat, Third_Worm#4804, Huh
+03 Mar 2017 21:57:15 : LimitlessMc, mainchat, Third_Worm#4804, Someone find his user for me
+03 Mar 2017 21:57:25 : LimitlessMc, botchat, TherminatorX#6644, ;train
+03 Mar 2017 21:57:25 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 28 **Igglybuff** for 262 XP (33% to beat)
+You *Lost* to a Level 25 **Cleffa** (38% to beat)
+You *Lost* to a Level 36 **Emolga** (26% to beat)
+You *Lost* to a Level 37 **Ursaring** (25% to beat)
+You *Lost* to a Level 30 **Mew** (31% to beat)
+You **Beat** a Level 16 **Wigglytuff** for 86 XP (59% to beat)
+03 Mar 2017 21:57:25 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 348 (+ 73) XP
+03 Mar 2017 22:17:44 : LimitlessMc, mainchat, MattRuc#5481, hahah its mattruc1991
+03 Mar 2017 22:20:40 : LimitlessMc, mainchat, Third_Worm#4804, Tyttytyty
+03 Mar 2017 22:22:05 : LimitlessMc, mainchat, Third_Worm#4804, Um
+03 Mar 2017 22:22:16 : LimitlessMc, mainchat, Third_Worm#4804, It didn't come up @MattRuc
+03 Mar 2017 22:22:21 : LimitlessMc, mainchat, Talha_Choudhry#5495, Third your too hyped for nothing le
+03 Mar 2017 22:22:37 : LimitlessMc, mainchat, Third_Worm#4804, - 3- tal
+03 Mar 2017 22:22:44 : LimitlessMc, mainchat, Third_Worm#4804, How are you? Lol
+03 Mar 2017 22:22:49 : LimitlessMc, mainchat, Talha_Choudhry#5495, Haha, was sup?
+03 Mar 2017 22:23:15 : LimitlessMc, mainchat, Third_Worm#4804, Not much, tired, you? Ps, ty for askinf
+03 Mar 2017 22:24:13 : LimitlessMc, mainchat, Third_Worm#4804, oh I see! Should I say good night now?
+03 Mar 2017 22:24:56 : LimitlessMc, mainchat, Talha_Choudhry#5495, Ehh, not sure, going to netflix a little before so haha
+03 Mar 2017 22:26:49 : LimitlessMc, mainchat, Third_Worm#4804, I'm being a nerd
+03 Mar 2017 22:27:01 : LimitlessMc, mainchat, Third_Worm#4804, The badass of the badass nerds
+03 Mar 2017 22:29:31 : LimitlessMc, mainchat, Third_Worm#4804, Mhm
+03 Mar 2017 22:42:28 : LimitlessMc, mainchat, MattRuc#5481, wwwatttt it hsould its on my youtube channel on the bottom right of banner @Third_Worm
+03 Mar 2017 22:42:46 : LimitlessMc, botchat, TherminatorX#6644, ;cd
+03 Mar 2017 22:42:46 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You need to wait 879 seconds
+**Gamble**
+You can Gamble right now!
+03 Mar 2017 22:42:56 : LimitlessMc, mainchat, Third_Worm#4804, I hope its on mobile
+03 Mar 2017 22:43:00 : LimitlessMc, mainchat, Third_Worm#4804, But ty
+03 Mar 2017 22:48:12 : LimitlessMc, mainchat, Jay113355#4999, *Wispers loudly* They dont suspect a thing
+03 Mar 2017 22:50:49 : LimitlessMc, mainchat, Third_Worm#4804, Wut
+03 Mar 2017 22:50:49 : LimitlessMc, mainchat, LightBot#4090, Hek
+03 Mar 2017 22:51:37 : LimitlessMc, mainchat, Third_Worm#4804, @MattRuc now add me as a friend
+03 Mar 2017 22:54:55 : LimitlessMc, mainchat, MattRuc#5481, ahaha kk
+03 Mar 2017 22:55:28 : The Wild Weebs, general, enragednuke#2565, @tala
+03 Mar 2017 22:55:35 : The Wild Weebs, general, enragednuke#2565, @Tally wtf is the raandom surfer factor
+03 Mar 2017 22:55:44 : The Wild Weebs, general, Tally#2764, What
+03 Mar 2017 22:55:49 : The Wild Weebs, general, enragednuke#2565, "Explore initialization of PageRank scores and the need for the random-surfer factor."
+03 Mar 2017 22:55:52 : The Wild Weebs, general, enragednuke#2565, is part of our project
+03 Mar 2017 22:56:18 : The Wild Weebs, general, Tally#2764, Yeah do remember reading that
+03 Mar 2017 22:56:30 : The Wild Weebs, general, Tally#2764, No clue cause we couldn't even get a page rank
+03 Mar 2017 23:05:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+03 Mar 2017 23:05:19 : LimitlessMc, botchat, Botfuzzy77#2209, You *Lost* to a Level 46 **Scyther** (29% to beat)
+You **Beat** a Level 38 **Bouffalant** for 482 XP (35% to beat)
+You **Beat** a Level 18 **Umbreon** for 109 XP (75% to beat)
+You **Beat** a Level 19 **Grimer** for 121 XP (71% to beat)
+You *Lost* to a Level 39 **Meganium** (34% to beat)
+You **Beat** a Level 26 **Carnivine** for 226 XP (51% to beat)
+You *Lost* to a Level 44 **Gligar** (30% to beat)
+You **Beat** a Level 32 **Ferroseed** for 342 XP (42% to beat)
+You use an **EXP share** to gain more XP! (+ 640)
+You Find a **Pokeloot** worth 549 XP
+03 Mar 2017 23:05:19 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 2469 (+ 246) XP
+03 Mar 2017 23:10:18 : The Wild Weebs, general, Wertfuzzy77#0274, ```('index\n', 12.78119477044617)
+('United_States_09d4\n', 1.0238925038641826)
+('Geographic_coordinate_system\n', 0.8276094232564)
+('Biography\n', 0.7014787921353364)
+('2007\n', 0.6005271763485488)
+('France\n', 0.4333694951988848)
+('2008\n', 0.38119037525949095)
+('Biological_classification\n', 0.3806227253104211)
+('United_Kingdom_5ad7\n', 0.3775940454848496)
+('Music_genre\n', 0.3712346468186803)
+('Record_label\n', 0.3673115993607412)
+('England\n', 0.331885705239876)
+('2006\n', 0.3282271373825907)
+('Canada\n', 0.2851586792825164)
+('2005\n', 0.2636449403427384)
+('Internet_Movie_Database_7ea7\n', 0.26129685538701225)
+('Binomial_nomenclature\n', 0.2480175151140685)
+('India\n', 0.230079303597317)
+('Australia\n', 0.2285951083623312)
+('Personal_name\n', 0.22833800833079634)
+('Germany\n', 0.22040416310603117)
+('Departments_of_France_f3ab\n', 0.2157700514017219)
+('Studio_album\n', 0.20931966285398676)
+('Village\n', 0.1998505892738711)
+('2004\n', 0.19651204686784177)
+('Football_%28soccer%29\n', 0.1918815939511837)
+('Japan\n', 0.19166609123150577)
+('Record_producer\n', 0.18466119285856325)
+('English_language\n', 0.16702418010080983)
+('Politician\n', 0.16163998195876872)
+('Conservation_status\n', 0.1615531707172767)
+('2003\n', 0.1605685657283037)
+('Animal\n', 0.1421421685037094)
+('Population_density\n', 0.14203587682176325)
+('2001\n', 0.1413703461879845)
+('London\n', 0.14062403316405184)
+('Europe\n', 0.1394255596730272)
+('Italy\n', 0.1381711850626011)
+('World_War_II_d045\n', 0.1366109542809277)
+('Website\n', 0.13606334063498948)
+('Album\n', 0.1354759852818967)
+('Romania\n', 0.13375543615265573)
+('2002\n', 0.1331699563877548)
+('Metre\n', 0.13311197359496185)
+('Wiktionary\n', 0.130891640713168)
+('Time_zone\n', 0.12298322985937596)
+('1999\n', 0.12290946214165276)
+('2000\n', 0.12251483433982731)
+('Public_domain\n', 0.11972712122456686)
+('Plant\n', 0.11630062590563783)
+```
+03 Mar 2017 23:11:39 : LimitlessMc, botchat, Crystal4209#4698, ;train
+03 Mar 2017 23:11:39 : LimitlessMc, botchat, Botfuzzy77#2209, You *Lost* to a Level 21 **Unfezant** (50% to beat)
+You *Lost* to a Level 22 **Togekiss** (47% to beat)
+You **Beat** a Level 15 **Kabutops** for 76 XP (70% to beat)
+You *Lost* to a Level 17 **Spinda** (61% to beat)
+You **Beat** a Level 26 **Dodrio** for 226 XP (40% to beat)
+You **Beat** a Level 20 **Klink** for 134 XP (52% to beat)
+03 Mar 2017 23:11:39 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 436 (+ 43) XP
+03 Mar 2017 23:11:52 : LimitlessMc, botchat, Crystal4209#4698, ;server
+03 Mar 2017 23:11:52 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+03 Mar 2017 23:11:52 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 14 players out of 150
+ *Ping*: 129.322 ms
+ *MC Version*: 1.10.2
+03 Mar 2017 23:11:52 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.1
+03 Mar 2017 23:11:53 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *Beyond, TurboX3dan, Red_Dragon_333, faithfull, KomaruNaegi, brightborn, WhealyKid, Aberlure, Shadow2hel, Headhuntersz, AnimatedAlex, xojessxox3...*
+03 Mar 2017 23:11:58 : The Wild Weebs, general, Wertfuzzy77#0274, ```index 118979
+United_States_09d4 17287
+2007 13356
+Geographic_coordinate_system 12101
+2008 9501
+2006 7702
+Biography 7234
+2005 6572
+United_Kingdom_5ad7 6295
+France 5871
+Music_genre 5649
+England 5468
+Record_label 5457
+2004 4841
+Population_density 4711
+Canada 4547
+Germany 4413
+Biological_classification 4293
+Area 4261
+Internet_Movie_Database_7ea7 4178
+Square_mile 3914
+Time_zone 3874
+Metre 3828
+Elevation 3761
+Australia 3700
+2003 3638
+Japan 3406
+List_of_countries 3369
+2001 3260
+Square_kilometer 3257
+World_War_II_d045 3185
+Record_producer 3173
+2002 3129
+Website 3045
+English_language 3013
+Binomial_nomenclature 3004
+Italy 3001
+2000 2948
+India 2886
+London 2835
+Foot_%28unit_of_length%29 2833
+Population 2820
+1999 2766
+Football_%28soccer%29 2747
+Census 2743
+Europe 2544
+January_31 2517
+Studio_album 2460
+County_seat 2395
+1998 2379
+```
+03 Mar 2017 23:12:54 : LimitlessMc, botchat, Nerokin#3586, ;server
+03 Mar 2017 23:12:55 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+03 Mar 2017 23:12:55 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 14 players out of 150
+ *Ping*: 132.352 ms
+ *MC Version*: 1.10.2
+03 Mar 2017 23:12:56 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.1
+03 Mar 2017 23:12:56 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *WhealyKid, RaptorGamingDK, brightborn, Red_Dragon_333, TurboX3dan, KomaruNaegi, Headhuntersz, Beyond, faithfull, Aberlure, Shadow2hel, xojessxox3...*
+03 Mar 2017 23:13:04 : LimitlessMc, botchat, Nerokin#3586, ;conch Has the server died yet?
+03 Mar 2017 23:13:04 : LimitlessMc, botchat, Botfuzzy77#2209, *Ask again later*
+03 Mar 2017 23:13:04 : LimitlessMc, botchat, Botfuzzy77#2209, The Conch has Spoken!
+03 Mar 2017 23:13:16 : LimitlessMc, botchat, Nerokin#3586, ;conch Has the server died yet?
+03 Mar 2017 23:13:16 : LimitlessMc, botchat, Botfuzzy77#2209, *Better not tell you now*
+03 Mar 2017 23:13:16 : LimitlessMc, botchat, Botfuzzy77#2209, The Conch has Spoken!
+03 Mar 2017 23:14:34 : LimitlessMc, staffchat, Limitlessmc.net#0000, Jay pushed to branch [master](https://gitlab.com/limitlessmc.net/JayCore/commits/master) of [limitlessmc\.net/JayCore](https://gitlab.com/limitlessmc.net/JayCore) ([Compare changes](https://gitlab.com/limitlessmc.net/JayCore/compare/05ade8d811e375c3b95b54d777e6852126a1577e...47958a7f09b012ad1f2c66abae023814eef0906f))
+03 Mar 2017 23:16:39 : LimitlessMc, mainchat, Crystal4209#4698, good morning everyone!
+03 Mar 2017 23:23:47 : LimitlessMc, mainchat, Jay113355#4999, mornin
+03 Mar 2017 23:28:12 : LimitlessMc, mainchat, Third_Worm#4804, Good morning
+03 Mar 2017 23:34:22 : LimitlessMc, mainchat, Third_Worm#4804, @DonTheBreton I love your icon
+04 Mar 2017 00:16:36 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;train
+04 Mar 2017 00:16:36 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 7 **Feraligatr** for 17 XP (57% to beat)
+You *Lost* to a Level 7 **Entei** (57% to beat)
+You *Lost* to a Level 11 **Swanna** (36% to beat)
+04 Mar 2017 00:16:37 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 17 (+ 1) XP
+04 Mar 2017 00:19:41 : The Wild Weebs, general, Tally#2764, What is that?
+04 Mar 2017 00:20:34 : The Wild Weebs, general, Wertfuzzy77#0274, death itself
+04 Mar 2017 00:21:35 : LimitlessMc, botchat, TherminatorX#6644, ;train
+04 Mar 2017 00:21:36 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 10 **Farfetch'd** for 34 XP (90% to beat)
+You *Lost* to a Level 23 **Bulbasaur** (41% to beat)
+You **Beat** a Level 11 **Shroomish** for 41 XP (86% to beat)
+You **Beat** a Level 29 **Spewpa** for 281 XP (32% to beat)
+You *Lost* to a Level 17 **Gulpin** (55% to beat)
+You **Beat** a Level 33 **Mareep** for 364 XP (28% to beat)
+You use an **EXP share** to gain more XP! (+ 360)
+You Find a **Pokeloot** worth 201 XP
+04 Mar 2017 00:21:36 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 1281 (+ 269) XP
+04 Mar 2017 00:23:54 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokedex
+04 Mar 2017 00:23:54 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your Pokedex is 98.89% complete!
+04 Mar 2017 00:24:18 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokedex Bidoof
+04 Mar 2017 00:24:19 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You **have** beat a Bidoof
+04 Mar 2017 00:24:36 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokedex Zubat
+04 Mar 2017 00:24:36 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You **have** beat a Zubat
+04 Mar 2017 00:27:45 : Cipher, cala, Calamariela#4119, xD
+04 Mar 2017 00:27:50 : Cipher, cala, Calamariela#4119, wanna play mc?
+04 Mar 2017 00:27:59 : Cipher, cala, Wertfuzzy77#0274, sorry xD I wish, busy working
+04 Mar 2017 00:28:41 : Cipher, cala, Calamariela#4119, nuuuuu
+04 Mar 2017 00:29:05 : Cipher, cala, Wertfuzzy77#0274, been working for several hours now xD no fun again
+04 Mar 2017 00:29:40 : Cipher, cala, Calamariela#4119, don is playing his new game
+04 Mar 2017 00:29:48 : Cipher, cala, Wertfuzzy77#0274, I wish I was playing xD
+04 Mar 2017 00:29:53 : Cipher, cala, Calamariela#4119, damn just gotta watch xD
+04 Mar 2017 00:30:34 : Cipher, cala, Wertfuzzy77#0274, I'll make it up to you this weekend xD don't anything to do
+04 Mar 2017 00:31:17 : Cipher, music, Wertfuzzy77#0274, ;join
+04 Mar 2017 00:31:18 : Cipher, music, Botfuzzy77#2209, Connected channel!
+04 Mar 2017 00:31:38 : Cipher, music, Wertfuzzy77#0274, ;youtube
+04 Mar 2017 00:31:40 : Cipher, music, Wertfuzzy77#0274, ;recommend
+04 Mar 2017 00:31:40 : Cipher, music, Botfuzzy77#2209, Recommend Songs to play: True
+04 Mar 2017 00:31:46 : Cipher, music, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=uNNl3C0qvKg
+04 Mar 2017 00:31:54 : Cipher, music, Botfuzzy77#2209, Added Elton John - Rocket Man to the queue
+04 Mar 2017 00:33:51 : Cipher, cala, Calamariela#4119, okayyyy
+04 Mar 2017 00:34:13 : Cipher, cala, Wertfuzzy77#0274, I wanna talk too this weekend xD if we can
+04 Mar 2017 00:34:15 : Cipher, cala, Wertfuzzy77#0274, like voice
+04 Mar 2017 00:34:44 : LimitlessMc, botchat, theOnlyJuan#9357, ;train
+04 Mar 2017 00:34:44 : LimitlessMc, botchat, Botfuzzy77#2209, You *Lost* to a Level 25 **Kadabra** (28% to beat)
+You **Beat** a Level 23 **Regirock** for 177 XP (30% to beat)
+You **Beat** a Level 10 **Miltank** for 34 XP (70% to beat)
+You **Beat** a Level 16 **Sylveon** for 86 XP (43% to beat)
+You **Beat** a Level 12 **Huntail** for 49 XP (58% to beat)
+04 Mar 2017 00:34:45 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 346 (+ 34) XP
+04 Mar 2017 00:35:06 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;cd
+04 Mar 2017 00:35:07 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You need to wait 2,490 seconds
+**Gamble**
+You can Gamble right now!
+04 Mar 2017 00:35:30 : Cipher, cala, Calamariela#4119, haah nah cant
+04 Mar 2017 00:35:39 : Cipher, cala, Wertfuzzy77#0274, rip xD
+04 Mar 2017 00:36:25 : Cipher, cala, Calamariela#4119, ya sorry
+04 Mar 2017 00:36:38 : Cipher, cala, Wertfuzzy77#0274, sometime next week?
+04 Mar 2017 00:36:44 : Cipher, cala, Calamariela#4119, ya
+04 Mar 2017 00:37:02 : Cipher, cala, Calamariela#4119, well imma get off
+04 Mar 2017 00:37:19 : Cipher, cala, Wertfuzzy77#0274, this gn? or should I text you when I finish working?
+04 Mar 2017 00:37:31 : Cipher, cala, Calamariela#4119, when will you be finished?
+04 Mar 2017 00:37:44 : Cipher, cala, Wertfuzzy77#0274, prob before 10 or 11 ish
+04 Mar 2017 00:37:45 : Cipher, cala, Wertfuzzy77#0274, hopefully

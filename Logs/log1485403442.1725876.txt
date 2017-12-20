@@ -1,0 +1,53 @@
+26 Jan 2017 04:04:10 : LimitlessMc, botchat, TherminatorX#6644, Err
+26 Jan 2017 04:04:14 : LimitlessMc, botchat, TherminatorX#6644, No DM?
+26 Jan 2017 04:04:18 : LimitlessMc, botchat, Wertfuzzy77#0274, relogging him
+26 Jan 2017 04:04:24 : LimitlessMc, botchat, TherminatorX#6644, Ah
+26 Jan 2017 04:04:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle nnnnnnnnnn
+26 Jan 2017 04:04:26 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 61 Boss **Sudowoodo** has appeared in the Hard zone!
+It has 87687 Health.
+26 Jan 2017 04:04:26 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Jan 2017 04:04:27 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :x: :x: :x: :x: :x: :x: :white_check_mark:
+26 Jan 2017 04:04:27 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+26 Jan 2017 04:04:27 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **71** damage
+26 Jan 2017 04:04:32 : LimitlessMc, botchat, Botfuzzy77#2209, Level 61 Boss **Sudowoodo** has 87616 health left.
+26 Jan 2017 04:04:33 : LimitlessMc, botchat, Wertfuzzy77#0274, ^ rival bonus
+26 Jan 2017 04:04:41 : LimitlessMc, botchat, TherminatorX#6644, Yee
+26 Jan 2017 04:07:12 : LimitlessMc, botchat, Wertfuzzy77#0274, also, just changed the way `slightly effective works`
+26 Jan 2017 04:07:26 : LimitlessMc, botchat, Wertfuzzy77#0274, it now does (corrent Number) / (total moves / 2)
+26 Jan 2017 04:07:52 : LimitlessMc, botchat, Wertfuzzy77#0274, so getting 3/5 right would be a 6/5 multiplier, instead of a flat 2
+26 Jan 2017 04:08:15 : LimitlessMc, botchat, Wertfuzzy77#0274, so it ranges from 1 - 2 x multipler based off of how many you get
+26 Jan 2017 04:10:12 : LimitlessMc, botchat, Wertfuzzy77#0274, and, level 20s or lower arent effected by low level boss penalty, so they can fight anything in easy
+26 Jan 2017 04:10:34 : LimitlessMc, botchat, Wertfuzzy77#0274, because before, if you were level 15 or something, and a level 4 boss spawned in easy, you would get a penalty
+26 Jan 2017 04:13:45 : LimitlessMc, botchat, TherminatorX#6644, And man did that suck
+26 Jan 2017 04:14:32 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+26 Jan 2017 04:14:32 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 45
+26 Jan 2017 04:14:32 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Jan 2017 04:14:32 : LimitlessMc, botchat, Botfuzzy77#2209, **XP**: 25497/97336
+**Boss Takedowns**: 20
+**Most Dmg in an Attack**: 7794
+26 Jan 2017 04:14:34 : LimitlessMc, botchat, TopBee#3869, ;pokeboss
+26 Jan 2017 04:14:34 : LimitlessMc, botchat, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> medium to fight and reveal the boss.
+26 Jan 2017 04:14:36 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamble 10000
+26 Jan 2017 04:14:36 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained back your offering and more!
+26 Jan 2017 04:14:37 : LimitlessMc, botchat, TopBee#3869, ;level
+26 Jan 2017 04:14:37 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Mr. AlphaMeeseeks*
+**Level**: 20
+26 Jan 2017 04:14:37 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Jan 2017 04:14:38 : LimitlessMc, botchat, Botfuzzy77#2209, **XP**: 1052/9261
+**Boss Takedowns**: 5
+**Most Dmg in an Attack**: 3591
+26 Jan 2017 04:14:39 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+26 Jan 2017 04:14:39 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 45
+26 Jan 2017 04:14:40 : LimitlessMc, botchat, Botfuzzy77#2209, 
+26 Jan 2017 04:14:44 : LimitlessMc, botchat, Botfuzzy77#2209, **XP**: 25497/97336
+**Boss Takedowns**: 20
+**Most Dmg in an Attack**: 7794
+26 Jan 2017 04:14:56 : LimitlessMc, botchat, TopBee#3869, ;summon 23
+26 Jan 2017 04:14:58 : LimitlessMc, botchat, TopBee#3869, le
+26 Jan 2017 04:14:58 : LimitlessMc, botchat, TopBee#3869, ke
+26 Jan 2017 04:15:15 : LimitlessMc, botchat, TopBee#3869, ;hep
+26 Jan 2017 04:15:15 : LimitlessMc, botchat, Botfuzzy77#2209, Dont Be Lazy, Type ;help

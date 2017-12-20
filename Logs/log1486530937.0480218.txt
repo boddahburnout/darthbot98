@@ -1,0 +1,2513 @@
+08 Feb 2017 05:15:52 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle
+08 Feb 2017 05:15:52 : LimitlessMc, botchat, Botfuzzy77#2209, Please use a Combination of **10** Types. `;types`
+08 Feb 2017 05:15:54 : LimitlessMc, botchat, TherminatorX#6644, I find it ironic that you're playing that song with all these restarts XP
+08 Feb 2017 05:15:56 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle iiiiiiiiii
+08 Feb 2017 05:15:56 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 73 Boss **Reuniclus** has appeared in the Hard zone!
+It has 99,462 Health.
+08 Feb 2017 05:15:56 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Feb 2017 05:15:56 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i:
+:x: :x: :x: :x: :x: :x: :x: :x: :x: :x:
+08 Feb 2017 05:15:57 : LimitlessMc, botchat, Botfuzzy77#2209, Its a Critical Strike
+Rival Bonus!
+Your moves did **1** damage
+Your gained **1** XP
+08 Feb 2017 05:15:58 : LimitlessMc, botchat, Botfuzzy77#2209, Level 73 Boss **Reuniclus** has 99,461 health left.
+08 Feb 2017 05:16:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+08 Feb 2017 05:16:06 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+08 Feb 2017 05:16:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokeboss
+08 Feb 2017 05:16:12 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Hard Boss Pokemon** =-
+*Name*: Reuniclus
+*Health*: 99,461/99462 (100.0%)
+*Level*: 73
+Last Combo:
+:regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i:
+:x: :x: :x: :x: :x: :x: :x: :x: :x: :x:
+08 Feb 2017 05:16:12 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Feb 2017 05:16:12 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **Wertfuzzy77** with **1** damage
+08 Feb 2017 05:16:13 : LimitlessMc, botchat, Wertfuzzy77#0274, 😛
+08 Feb 2017 05:16:15 : LimitlessMc, botchat, Wertfuzzy77#0274, there we go
+08 Feb 2017 05:16:28 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;help
+08 Feb 2017 05:16:28 : None, Direct Message with MrMudkipKipperten, Botfuzzy77#2209, ```
+A Bot whose sole Purpose is to serve Wertfuzzy77! Version 0.15.1.3
+(Created by Wertfuzzy77)
+
+FlavorTexts:
+  lmgtfy         Returns a Link to a "Let me Google That For You" Page
+  kys            
+  rps            Allows the player to play Rock, Paper, Scissors with the Bot...
+  fml            Returns a Random Post from fmylife.com
+  choose         Chooses from a set of things
+  likes          Adds Emotion
+  kiss           Adds Emotion
+  wyr            
+  funify         Funifies a given text input
+  hug            Adds Emotion
+  slap           Adds Emotion
+  conch          Ask the Magic Conch a Question
+  image          Returns the First Found Image on Google Images for this Input
+  gif            Returns the First Found Image on Google Images for this Input
+  loves          Adds Emotion
+  hates          Adds Emotion
+  rate           Rates the Player
+  luck           Returns the Player's Luck
+  kill           Adds Emotion
+Games:
+  pokebattle     Fights a Pokemon Boss
+  pokeboss       Displays Boss Info
+  pokedex        
+  lookup         Displays your Current Information
+  ranking        
+  level          Displays your Current Information
+  pokehelp       Pokemon Battle Sim Help
+  settype        
+  gamble         
+  cd             Shows your Cooldowns
+  types          
+  train          Fights Pokemon for XP
+MusicPlayer:
+  song           Returns information about the current playing song
+  desc           Decription of the Current playing song
+  extendplaylist Extends a custom playlist
+  music          Returns the current status of the Music Bot
+  shuffle        
+  makeplaylist   Makes a custom playlist for the bot to save
+  skip           Skips the Current song
+  Radio          Toggles Radio Mode
+  youtube        Adds a Song for the Bot to Play
+  loop           Plays the current song again
+  clear          Clears the Queue
+  viewplaylist   Views the songs of a playlists
+  search         Searches for a song
+```
+08 Feb 2017 05:16:28 : None, Direct Message with MrMudkipKipperten, Botfuzzy77#2209, ```
+  playlist       Adds songs from a predefined playlist to the songs list
+  remove         removes a song from a queue by index
+  leave          Leaves the Join chat
+  join           Joins the Voice channel you are currently in
+  songs          Prints the songs in the queue
+  playlists      Shows all the current playlists
+StaffCmds:
+  tempmute       
+  unmuteall      Unmutes ALL muted players
+  unmute         
+  mutelist       
+  mute           
+​No Category:
+  ev             
+  joined         Says when a member joined.
+  help           Shows this message.
+  feedback       Returns a link to a Google Forums, where you can leave feedb...
+  invite         Returns a Link to the Invite URL for this bot
+  source         Returns a link to the source code for this bot
+  pokemon        Returns Links to Pokemon pages
+  afk            Sets you as AFK, and the Bot will auto Reply for you with th...
+  server         Returns Information on the Limitless MC server!
+  status         Returns the Status of the Bot, along with Additional Informa...
+  changeIcon     
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+08 Feb 2017 05:16:30 : LimitlessMc, botchat, TherminatorX#6644, ;pokeboss bbbbbbbbbbbbbbb
+08 Feb 2017 05:16:30 : LimitlessMc, botchat, Botfuzzy77#2209, wut
+08 Feb 2017 05:16:39 : LimitlessMc, botchat, TherminatorX#6644, wut
+08 Feb 2017 05:16:52 : LimitlessMc, botchat, TherminatorX#6644, ;pokebattle bbbbbbbbbbbbbbb
+08 Feb 2017 05:16:53 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 96 Boss **Mareep** has appeared in the Insane zone!
+It has 187,200 Health.
+08 Feb 2017 05:16:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Feb 2017 05:16:53 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b:
+:x: :x: :x: :x: :x: :x: :x: :x: :x: :x: :x: :x: :x: :x: :x:
+08 Feb 2017 05:16:53 : LimitlessMc, botchat, Botfuzzy77#2209, Its a Critical Strike
+Rival Bonus!
+Your moves did **1** damage
+Your gained **1** XP
+08 Feb 2017 05:16:53 : LimitlessMc, botchat, Botfuzzy77#2209, Level 96 Boss **Mareep** has 187,199 health left.
+08 Feb 2017 05:17:03 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;pokehelp
+08 Feb 2017 05:17:03 : LimitlessMc, botchat, Botfuzzy77#2209, Welcome to the **Pokemon Battle Sim**!
+Here you fight together against Pokemon Bosses. There are 4 areas, *Easy*, *Medium*, *Hard* and *Insane*.	
+To fight a boss, you use the command `;pokebattle`, a set of moves you will fight the boss with, and a location you want to fight in. (The bot will default to the area best suited for you level if left blank)
+An example of this is the following:
+`;pokebattle ngfse easy`
+which means you will be fighting the easy boss with battle combo of Normal, Grass, Fire, Steel, and Electric.
+You can use any combination of the 10 moves which can be found on `;types`
+08 Feb 2017 05:17:30 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;cd
+08 Feb 2017 05:17:30 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You can Train right now!
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+08 Feb 2017 05:17:33 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;train
+08 Feb 2017 05:17:33 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 31 **Ekans** for 909 XP (75% to beat)
+You *Lost* to a Level 74 **Ledyba** (31% to beat)
+You **Beat** a Level 86 **Mew** for 2,732 XP (27% to beat)
+You *Lost* to a Level 75 **Wailmer** (31% to beat)
+You *Lost* to a Level 65 **Beheeyem** (36% to beat)
+You **Beat** a Level 75 **Shroomish** for 2,581 XP (31% to beat)
+You **Beat** a Level 24 **Honedge** for 376 XP (90% to beat)
+You *Lost* to a Level 63 **Liepard** (37% to beat)
+You **Beat** a Level 35 **Musharna** for 1,235 XP (67% to beat)
+You **Beat** a Level 45 **Cloyster** for 1,796 XP (52% to beat)
+You *Lost* to a Level 67 **Scraggy** (35% to beat)
+You **Beat** a Level 60 **Typhlosion** for 2,287 XP (39% to beat)
+You **Beat** a Level 24 **Abomasnow** for 376 XP (90% to beat)
+You use a **Lucky Egg** to gain more XP!
+08 Feb 2017 05:17:33 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 18,438 XP!
+08 Feb 2017 05:17:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+08 Feb 2017 05:17:37 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 71 **Sunflora** for 2,783 XP (42% to beat)
+You **Beat** a Level 44 **Yanma** for 1,497 XP (69% to beat)
+You **Beat** a Level 49 **Axew** for 1,842 XP (62% to beat)
+You *Lost* to a Level 54 **Flaaffy** (56% to beat)
+You *Lost* to a Level 110 **Swampert** (27% to beat)
+You *Lost* to a Level 77 **Chansey** (39% to beat)
+You *Lost* to a Level 37 **Sandshrew** (82% to beat)
+You *Lost* to a Level 87 **Skuntank** (35% to beat)
+You **Beat** a Level 59 **Wailmer** for 2,357 XP (51% to beat)
+You **Beat** a Level 77 **Regigigas** for 2,947 XP (39% to beat)
+You *Lost* to a Level 111 **Zebstrika** (27% to beat)
+You **Beat** a Level 30 **Victini** for 488 XP (90% to beat)
+You **Beat** a Level 89 **Geodude** for 3,207 XP (34% to beat)
+You *Lost* to a Level 112 **Magmar** (27% to beat)
+You *Lost* to a Level 88 **Quilladin** (34% to beat)
+You **Beat** a Level 31 **Poochyena** for 488 XP (90% to beat)
+You Find a **Pokeloot** worth 5,959 XP
+08 Feb 2017 05:17:37 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 21,568 XP!
+08 Feb 2017 05:17:57 : LimitlessMc, botchat, TherminatorX#6644, ;pokedex list
+08 Feb 2017 05:18:10 : LimitlessMc, botchat, TherminatorX#6644, ...
+08 Feb 2017 05:18:28 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokedex
+08 Feb 2017 05:18:28 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your Pokedex is 84.64% complete!
+08 Feb 2017 05:18:35 : LimitlessMc, botchat, MrMudkipKipperten#8916, Whats prestige?
+08 Feb 2017 05:18:35 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokedex list
+08 Feb 2017 05:19:46 : LimitlessMc, botchat, TherminatorX#6644, It lets you restart after you reach a high level, but you have an extra star thing by your name
+08 Feb 2017 05:19:52 : LimitlessMc, botchat, TherminatorX#6644, Or something like that
+08 Feb 2017 05:19:56 : LimitlessMc, botchat, MrMudkipKipperten#8916, oh cool
+08 Feb 2017 05:19:59 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;pokeboss
+08 Feb 2017 05:19:59 : LimitlessMc, botchat, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> medium to fight and reveal the boss.
+08 Feb 2017 05:20:05 : Pokemon Mystery Dungeon, poke_battles, DicloniusPonyta#6564, ;train
+08 Feb 2017 05:20:05 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You must be Level 5 to use ;train
+08 Feb 2017 05:20:07 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;pokebattle
+08 Feb 2017 05:20:07 : LimitlessMc, botchat, Botfuzzy77#2209, Please use a Combination of **8** Types. `;types`
+08 Feb 2017 05:20:10 : Pokemon Mystery Dungeon, poke_battles, DicloniusPonyta#6564, ;level
+08 Feb 2017 05:20:10 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Name**: *DicloniusPony*
+**Level**: 0
+**Prestige**: 0
+08 Feb 2017 05:20:10 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+08 Feb 2017 05:20:10 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **XP**: 0/1
+**Boss Takedowns**: 0
+**Most Dmg in an Attack**: 0
+08 Feb 2017 05:20:13 : Pokemon Mystery Dungeon, poke_battles, DicloniusPonyta#6564, fun
+08 Feb 2017 05:20:15 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;pokebattle iiiiiiii
+08 Feb 2017 05:20:15 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 44 Boss **Riolu** has appeared in the Medium zone!
+It has 41,800 Health.
+08 Feb 2017 05:20:16 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Feb 2017 05:20:16 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i:
+:x: :x: :x: :x: :x: :x: :x: :x:
+08 Feb 2017 05:20:16 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+Your moves did **1** damage
+Your gained **1** XP
+08 Feb 2017 05:20:16 : LimitlessMc, botchat, Botfuzzy77#2209, Level 44 Boss **Riolu** has 41,799 health left.
+08 Feb 2017 05:20:42 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;ranking
+08 Feb 2017 05:20:42 : LimitlessMc, botchat, Botfuzzy77#2209, :first_place: **TherminatorX** Level **80**
+:second_place: **Wertfuzzy77** Level **61**
+:third_place: **DanTurboX** Level **55**
+:medal: MoonWolf Level 55
+:medal: jjtwilefc Level 53
+:medal: Crystal4209 Level 52
+:medal: MrMudkipKipperten Level 47
+:medal: theOnlyJuan Level 45
+:medal: Bakafish Level 38
+:medal: 🌟💖Resolate💖🌟 Level 33
+08 Feb 2017 05:20:56 : LimitlessMc, botchat, TherminatorX#6644, I am insane
+08 Feb 2017 05:21:00 : LimitlessMc, botchat, Wertfuzzy77#0274, si
+08 Feb 2017 05:21:01 : LimitlessMc, botchat, TherminatorX#6644, 😁
+08 Feb 2017 05:21:40 : LimitlessMc, botchat, TherminatorX#6644, Did you remove ;pokedex list btw?
+08 Feb 2017 05:24:31 : LimitlessMc, botchat, TherminatorX#6644, Because that's not DMing me
+08 Feb 2017 05:24:55 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;pokedex list
+08 Feb 2017 05:27:40 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokeboss
+08 Feb 2017 05:27:40 : None, Direct Message with TherminatorX, Botfuzzy77#2209, -= **Insane Boss Pokemon** =-
+*Name*: Mareep
+*Health*: 187,199/187200 (100.0%)
+*Level*: 96
+Last Combo:
+:regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b:
+:x: :x: :x: :x: :x: :x: :x: :x: :x: :x: :x: :x: :x: :x: :x:
+08 Feb 2017 05:27:40 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+08 Feb 2017 05:27:40 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Most Damage by **TherminatorX** with **1** damage
+08 Feb 2017 05:29:10 : LimitlessMc, botchat, TherminatorX#6644, ;pokedex
+08 Feb 2017 05:29:10 : LimitlessMc, botchat, Botfuzzy77#2209, Your Pokedex is 84.64% complete!
+08 Feb 2017 05:29:23 : LimitlessMc, botchat, TherminatorX#6644, ;pokedex Wurmple
+08 Feb 2017 05:29:23 : LimitlessMc, botchat, Botfuzzy77#2209, You **have** beat a Wurmple
+08 Feb 2017 05:29:23 : LimitlessMc, botchat, theOnlyJuan#9357, ;cd
+08 Feb 2017 05:29:23 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You can Train right now!
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+08 Feb 2017 05:29:32 : LimitlessMc, botchat, theOnlyJuan#9357, ;train
+08 Feb 2017 05:29:32 : LimitlessMc, botchat, Botfuzzy77#2209, You *Lost* to a Level 78 **Honchkrow** (28% to beat)
+You *Lost* to a Level 74 **Turtwig** (30% to beat)
+You *Lost* to a Level 60 **Makuhita** (37% to beat)
+You **Beat** a Level 37 **Onix** for 1,410 XP (60% to beat)
+You *Lost* to a Level 87 **Numel** (25% to beat)
+You *Lost* to a Level 52 **Oddish** (43% to beat)
+You *Lost* to a Level 76 **Lumineon** (29% to beat)
+You **Beat** a Level 46 **Helioptile** for 1,839 XP (48% to beat)
+You **Beat** a Level 33 **Glameow** for 1,145 XP (68% to beat)
+You *Lost* to a Level 86 **Mareep** (26% to beat)
+You *Lost* to a Level 74 **Chansey** (30% to beat)
+You **Beat** a Level 66 **Beautifly** for 2,372 XP (34% to beat)
+You Find a **Pokeloot** worth 2,434 XP
+You Find a **Ultra Pokeloot** worth 11,681 XP
+08 Feb 2017 05:29:32 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 18,935 XP!
+08 Feb 2017 05:29:57 : LimitlessMc, botchat, TherminatorX#6644, So it's just ;pokedex list that's still broken
+08 Feb 2017 05:30:08 : LimitlessMc, botchat, theOnlyJuan#9357, ;pokedex
+08 Feb 2017 05:30:08 : LimitlessMc, botchat, Botfuzzy77#2209, Your Pokedex is 42.45% complete!
+08 Feb 2017 05:30:14 : LimitlessMc, botchat, theOnlyJuan#9357, ;pokedex list
+08 Feb 2017 05:30:23 : LimitlessMc, botchat, theOnlyJuan#9357, Yea it brek
+08 Feb 2017 05:32:27 : LimitlessMc, botchat, TherminatorX#6644, We know what we must do
+08 Feb 2017 05:33:11 : LimitlessMc, botchat, TherminatorX#6644, @Wertfuzzy77 
+@Wertfuzzy77
+@Wertfuzzy77
+08 Feb 2017 05:33:20 : LimitlessMc, botchat, TherminatorX#6644, We summon thee!
+08 Feb 2017 05:33:39 : LimitlessMc, botchat, Wertfuzzy77#0274, its not broken, you guys have just beat too many pokemon and the message its trying to send is too big
+08 Feb 2017 05:33:45 : LimitlessMc, botchat, Wertfuzzy77#0274, ill fix that later
+08 Feb 2017 05:33:57 : LimitlessMc, botchat, TherminatorX#6644, Lol
+08 Feb 2017 05:34:44 : LimitlessMc, botchat, TherminatorX#6644, All the Pokes!
+08 Feb 2017 05:35:07 : LimitlessMc, botchat, TherminatorX#6644, Wait, it's too big even at just 42%?
+08 Feb 2017 05:35:13 : LimitlessMc, botchat, TherminatorX#6644, Sweet Arceus
+08 Feb 2017 05:35:22 : LimitlessMc, botchat, TherminatorX#6644, How big is mine???
+08 Feb 2017 05:37:32 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;train
+08 Feb 2017 05:37:32 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You *Lost* to a Level 108 **Horsea** (37% to beat)
+You **Beat** a Level 133 **Piplup** for 4,475 XP (30% to beat)
+You **Beat** a Level 128 **Grotle** for 4,400 XP (31% to beat)
+You *Lost* to a Level 121 **Corphish** (33% to beat)
+You *Lost* to a Level 132 **Empoleon** (30% to beat)
+You *Lost* to a Level 68 **Litwick** (58% to beat)
+You *Lost* to a Level 57 **Pidgeotto** (70% to beat)
+You **Beat** a Level 54 **Dustox** for 1,659 XP (74% to beat)
+You *Lost* to a Level 126 **Bellossom** (31% to beat)
+You *Lost* to a Level 57 **Fletchling** (70% to beat)
+You **Beat** a Level 128 **Wurmple** for 4,400 XP (31% to beat)
+You *Lost* to a Level 122 **Munchlax** (32% to beat)
+You *Lost* to a Level 159 **Aron** (25% to beat)
+You *Lost* to a Level 93 **Amaura** (43% to beat)
+You **Beat** a Level 52 **Purugly** for 1,476 XP (76% to beat)
+You *Lost* to a Level 110 **Granbull** (36% to beat)
+You *Lost* to a Level 116 **Lilligant** (34% to beat)
+You **Beat** a Level 133 **Piloswine** for 4,475 XP (30% to beat)
+You **Beat** a Level 153 **Lileep** for 4,726 XP (26% to beat)
+You *Lost* to a Level 144 **Staraptor** (27% to beat)
+You *Lost* to a Level 143 **Hitmonlee** (27% to beat)
+You Find a **Pokeloot** worth 13,287 XP
+08 Feb 2017 05:37:32 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You trained for 38,898 XP!
+08 Feb 2017 05:37:42 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;level
+08 Feb 2017 05:37:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **Name**: *TherminatorX*
+**Level**: 80
+**Prestige**: 0
+08 Feb 2017 05:37:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+08 Feb 2017 05:37:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, **XP**: 201,070.0/531,441
+**Boss Takedowns**: 46
+**Most Dmg in an Attack**: 91,091
+08 Feb 2017 05:38:14 : LimitlessMc, botchat, TherminatorX#6644, What  level does prestige kick in at?
+08 Feb 2017 06:09:25 : LimitlessMc, botchat, TherminatorX#6644, ...
+08 Feb 2017 06:10:03 : LimitlessMc, botchat, TherminatorX#6644, 30m later, Wert still unresponsive
+08 Feb 2017 06:13:16 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;cd
+08 Feb 2017 06:13:16 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 257 seconds
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+08 Feb 2017 06:17:17 : LimitlessMc, botchat, Wertfuzzy77#0274, 42% of the pokes is like 300 something pokes
+08 Feb 2017 06:17:49 : LimitlessMc, botchat, Wertfuzzy77#0274, so yeah, too many, but I can work on making it split into multiple messages
+08 Feb 2017 06:18:30 : LimitlessMc, botchat, Wertfuzzy77#0274, also, prestige will be multiple different times, first 5 prestiges will be level 50, then next 5 is 80
+08 Feb 2017 06:18:42 : LimitlessMc, botchat, Wertfuzzy77#0274, then as many as you want after at level 100
+08 Feb 2017 06:19:13 : LimitlessMc, botchat, Wertfuzzy77#0274, prestige isnt actually implemented yet, I just set up the backend and had it display in ;level
+08 Feb 2017 06:19:27 : LimitlessMc, botchat, Wertfuzzy77#0274, ill work on getting you able to actually prestige, and start over again later
+08 Feb 2017 06:19:31 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;train
+08 Feb 2017 06:19:31 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You **Beat** a Level 77 **Meganium** for 2,947 XP (39% to beat)
+You *Lost* to a Level 61 **Slowbro** (50% to beat)
+You **Beat** a Level 47 **Snubbull** for 1,713 XP (64% to beat)
+You *Lost* to a Level 98 **Chansey** (31% to beat)
+You *Lost* to a Level 99 **Mewtwo** (30% to beat)
+You **Beat** a Level 44 **Wobbuffet** for 1,497 XP (69% to beat)
+You *Lost* to a Level 84 **Farfetch'd** (36% to beat)
+You **Beat** a Level 76 **Bergmite** for 2,921 XP (40% to beat)
+You *Lost* to a Level 45 **Ledyba** (67% to beat)
+You **Beat** a Level 118 **Vullaby** for 3,618 XP (25% to beat)
+You *Lost* to a Level 54 **Terrakion** (56% to beat)
+You **Beat** a Level 37 **Doduo** for 857 XP (82% to beat)
+You *Lost* to a Level 60 **Hypno** (50% to beat)
+You **Beat** a Level 40 **Flaaffy** for 1,159 XP (76% to beat)
+You **Beat** a Level 45 **Machoke** for 1,572 XP (67% to beat)
+You *Lost* to a Level 110 **Lilligant** (27% to beat)
+You use a **Lucky Egg** to gain more XP!
+You Find a **Pokeloot** worth 5,959 XP
+You Find a **Ultra Pokeloot** worth 28,600 XP
+08 Feb 2017 06:19:31 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You Have Leveled up from **61** to **62**!
+08 Feb 2017 06:19:31 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, You trained for 54,219 XP!
+08 Feb 2017 06:23:18 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;train
+08 Feb 2017 06:23:18 : LimitlessMc, botchat, Botfuzzy77#2209, You *Lost* to a Level 76 **Gliscor** (30% to beat)
+You *Lost* to a Level 38 **Servine** (61% to beat)
+You **Beat** a Level 24 **Shedinja** for 376 XP (90% to beat)
+You **Beat** a Level 46 **Shiftry** for 1,839 XP (51% to beat)
+You *Lost* to a Level 85 **Avalugg** (27% to beat)
+You *Lost* to a Level 61 **Lileep** (38% to beat)
+You **Beat** a Level 71 **Krookodile** for 2,515 XP (33% to beat)
+You **Beat** a Level 50 **Vanilluxe** for 1,992 XP (47% to beat)
+You **Beat** a Level 45 **Pidove** for 1,796 XP (52% to beat)
+You *Lost* to a Level 82 **Kricketune** (28% to beat)
+You **Beat** a Level 73 **Wynaut** for 2,549 XP (32% to beat)
+You **Beat** a Level 89 **Rhyhorn** for 2,767 XP (26% to beat)
+You **Beat** a Level 89 **Rampardos** for 2,767 XP (26% to beat)
+You use a **Lucky Egg** to gain more XP!
+You Find a **Pokeloot** worth 2,765 XP
+08 Feb 2017 06:23:18 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 27,667 XP!
+08 Feb 2017 06:23:36 : LimitlessMc, botchat, MrMudkipKipperten#8916, Will the pokedex reset after restige?
+08 Feb 2017 06:32:10 : LimitlessMc, mainchat, DicloniusPonyta#6564, https://images.discordapp.net/.eJwNyMsNwyAMANBdGAADKb9sgwgiURMbYUc9VN29ubzD-6p7nmpVu8jgFWA7uNLcNAvN0pvuRP1sZRysK11QRErdr4bC4KIJMXnrH7J7BZOfSjEuNuWQncnB2wVufCN9UA_s6vcHC24i_A.0Sv80WZ0xPf3haDcEmhcvBLBCD8?width=704&height=429
+08 Feb 2017 06:32:13 : LimitlessMc, mainchat, DicloniusPonyta#6564, im a failure at art ;-;
+08 Feb 2017 06:32:18 : LimitlessMc, mainchat, DicloniusPonyta#6564, i couldn't zoom in or do anything
+08 Feb 2017 06:32:23 : LimitlessMc, mainchat, DicloniusPonyta#6564, damn other art program ;/
+08 Feb 2017 06:35:22 : LimitlessMc, botchat, MoonWolf#8885, ;train
+08 Feb 2017 06:35:22 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 67 **Duskull** for 2,594 XP (41% to beat)
+You *Lost* to a Level 80 **Granbull** (34% to beat)
+You *Lost* to a Level 69 **Castform** (39% to beat)
+You **Beat** a Level 60 **Vanillite** for 2,383 XP (45% to beat)
+You **Beat** a Level 30 **Simipour** for 440 XP (90% to beat)
+You **Beat** a Level 38 **Fearow** for 1,215 XP (72% to beat)
+You *Lost* to a Level 32 **Terrakion** (85% to beat)
+You *Lost* to a Level 45 **Donphan** (61% to beat)
+You **Beat** a Level 40 **Yamask** for 1,375 XP (68% to beat)
+You *Lost* to a Level 69 **Golett** (39% to beat)
+You *Lost* to a Level 85 **Exeggcute** (32% to beat)
+You *Lost* to a Level 105 **Minun** (26% to beat)
+You *Lost* to a Level 88 **Ninetales** (31% to beat)
+You **Beat** a Level 82 **Amoonguss** for 2,924 XP (33% to beat)
+You **Beat** a Level 40 **Ledian** for 1,375 XP (68% to beat)
+You use a **Lucky Egg** to gain more XP!
+You Find a **Pokeloot** worth 4,391 XP
+08 Feb 2017 06:35:22 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 22,850 XP!
+08 Feb 2017 06:35:32 : LimitlessMc, botchat, MoonWolf#8885, ;level
+08 Feb 2017 06:35:33 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *MoonWolf*
+**Level**: 55
+**Prestige**: 0
+08 Feb 2017 06:35:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Feb 2017 06:35:33 : LimitlessMc, botchat, Botfuzzy77#2209, **XP**: 96,715/175,616
+**Boss Takedowns**: 12
+**Most Dmg in an Attack**: 11,485
+08 Feb 2017 06:35:39 : LimitlessMc, botchat, MoonWolf#8885, ;gamble 30000
+08 Feb 2017 06:35:39 : LimitlessMc, botchat, Botfuzzy77#2209, You have lost your offering...
+08 Feb 2017 06:35:39 : LimitlessMc, botchat, Botfuzzy77#2209, You are exhausted from Gambling...
+08 Feb 2017 06:38:51 : LimitlessMc, botchat, TherminatorX#6644, ;train
+08 Feb 2017 06:38:51 : LimitlessMc, botchat, Botfuzzy77#2209, You *Lost* to a Level 109 **Zweilous** (36% to beat)
+You *Lost* to a Level 137 **Charmeleon** (29% to beat)
+You **Beat** a Level 62 **Magmortar** for 2,270 XP (64% to beat)
+You **Beat** a Level 58 **Togetic** for 1,986 XP (68% to beat)
+You **Beat** a Level 104 **Snorlax** for 3,938 XP (38% to beat)
+You **Beat** a Level 42 **Archen** for 640 XP (90% to beat)
+You *Lost* to a Level 83 **Riolu** (48% to beat)
+You *Lost* to a Level 85 **Shiftry** (47% to beat)
+You **Beat** a Level 66 **Scyther** for 2,521 XP (60% to beat)
+You **Beat** a Level 57 **Castform** for 1,908 XP (70% to beat)
+You *Lost* to a Level 53 **Staraptor** (75% to beat)
+You *Lost* to a Level 118 **Purrloin** (33% to beat)
+You *Lost* to a Level 65 **Regice** (61% to beat)
+You **Beat** a Level 80 **Ursaring** for 3,200 XP (50% to beat)
+You *Lost* to a Level 116 **Volcanion** (34% to beat)
+You **Beat** a Level 40 **Swellow** for 640 XP (90% to beat)
+You *Lost* to a Level 64 **Larvesta** (62% to beat)
+You *Lost* to a Level 84 **Buneary** (47% to beat)
+You *Lost* to a Level 138 **Beartic** (28% to beat)
+You *Lost* to a Level 147 **Zigzagoon** (27% to beat)
+You *Lost* to a Level 147 **Mawile** (27% to beat)
+You Find a **Pokeloot** worth 13,287 XP
+You Find a **Ultra Pokeloot** worth 63,773 XP
+08 Feb 2017 06:38:51 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 83,535 XP!
+08 Feb 2017 06:39:05 : LimitlessMc, botchat, TherminatorX#6644, ;gamble
+08 Feb 2017 06:39:05 : LimitlessMc, botchat, Botfuzzy77#2209, You need to gamble atleast 33,216 XP
+08 Feb 2017 06:39:27 : LimitlessMc, botchat, TherminatorX#6644, ;gamble 67000
+08 Feb 2017 06:39:27 : LimitlessMc, botchat, Botfuzzy77#2209, You have lost your offering...
+08 Feb 2017 06:44:03 : LimitlessMc, botchat, theOnlyJuan#9357, Rip
+08 Feb 2017 06:44:07 : LimitlessMc, botchat, theOnlyJuan#9357, ;cd
+08 Feb 2017 06:44:07 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You can Train right now!
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+08 Feb 2017 06:44:12 : LimitlessMc, botchat, theOnlyJuan#9357, ;train
+08 Feb 2017 06:44:12 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 40 **Burmy** for 1,575 XP (56% to beat)
+You **Beat** a Level 23 **Volbeat** for 360 XP (90% to beat)
+You *Lost* to a Level 81 **Woobat** (27% to beat)
+You *Lost* to a Level 74 **Archeops** (30% to beat)
+You **Beat** a Level 58 **Lileep** for 2,203 XP (38% to beat)
+You *Lost* to a Level 53 **Scizor** (42% to beat)
+You *Lost* to a Level 58 **Swampert** (38% to beat)
+You *Lost* to a Level 73 **Boldore** (30% to beat)
+You *Lost* to a Level 72 **Litwick** (31% to beat)
+You *Lost* to a Level 44 **Furret** (51% to beat)
+You **Beat** a Level 37 **Raticate** for 1,410 XP (60% to beat)
+You **Beat** a Level 49 **Watchog** for 1,946 XP (45% to beat)
+You use a **Lucky Egg** to gain more XP!
+08 Feb 2017 06:44:12 : LimitlessMc, botchat, Botfuzzy77#2209, You Have Leveled up from **45** to **46**!
+08 Feb 2017 06:44:12 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 11,241 XP!
+08 Feb 2017 06:44:19 : LimitlessMc, botchat, theOnlyJuan#9357, ;level
+08 Feb 2017 06:44:19 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *theOnlyJuan*
+**Level**: 46
+**Prestige**: 0
+08 Feb 2017 06:44:19 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Feb 2017 06:44:19 : LimitlessMc, botchat, Botfuzzy77#2209, **XP**: 10,477/103,823
+**Boss Takedowns**: 5
+**Most Dmg in an Attack**: 13,069
+08 Feb 2017 06:44:25 : LimitlessMc, botchat, theOnlyJuan#9357, ;gamble
+08 Feb 2017 06:44:25 : LimitlessMc, botchat, Botfuzzy77#2209, You need to gamble atleast 6,489 XP
+08 Feb 2017 06:44:43 : LimitlessMc, botchat, theOnlyJuan#9357, ;gamble 10000
+08 Feb 2017 06:44:43 : LimitlessMc, botchat, Botfuzzy77#2209, You have lost your offering...
+08 Feb 2017 06:44:43 : LimitlessMc, botchat, Botfuzzy77#2209, You are exhausted from Gambling...
+08 Feb 2017 06:44:46 : LimitlessMc, botchat, theOnlyJuan#9357, Rip
+08 Feb 2017 06:45:14 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;cd
+08 Feb 2017 06:45:14 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 2,284 seconds
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+08 Feb 2017 06:48:38 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle ddddddddddddddd
+08 Feb 2017 06:48:38 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** in Insane has 187,199 health left.
+08 Feb 2017 06:48:38 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+08 Feb 2017 06:48:38 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d:
+:x: :x: :x: :x: :x: :x: :x: :x: :x: :x: :x: :x: :x: :x: :x:
+08 Feb 2017 06:48:39 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Rival Bonus!
+Your moves did **1** damage
+Your gained **1** XP
+08 Feb 2017 06:48:39 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** has 187,198 health left.
+08 Feb 2017 06:58:52 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;cd
+08 Feb 2017 06:58:52 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 1,466 seconds
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+08 Feb 2017 07:05:27 : nein, general, shuck#1142, ;playlist
+08 Feb 2017 07:05:28 : nein, general, Botfuzzy77#2209, The Bot isnt connected in this server!
+08 Feb 2017 07:05:33 : nein, general, shuck#1142, ;join
+08 Feb 2017 07:05:33 : nein, general, Botfuzzy77#2209, You are not connected to a voice channel!
+08 Feb 2017 07:05:43 : nein, general, shuck#1142, ;join
+08 Feb 2017 07:05:43 : nein, general, Botfuzzy77#2209, Connected channel!
+08 Feb 2017 07:05:50 : nein, general, shuck#1142, ;playlist
+08 Feb 2017 07:05:50 : nein, general, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+08 Feb 2017 07:06:43 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;cd
+08 Feb 2017 07:06:43 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 995 seconds
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+08 Feb 2017 07:06:55 : nein, general, shuck#1142, Does pokebattle work?
+08 Feb 2017 07:06:59 : Pokemon Mystery Dungeon, general, AnishaLunarAngel#5926, wee
+08 Feb 2017 07:06:59 : nein, general, shuck#1142, ;pokebattle
+08 Feb 2017 07:06:59 : nein, general, Botfuzzy77#2209, Please use a Combination of **5** Types. `;types`
+08 Feb 2017 07:07:11 : nein, general, shuck#1142, ;pokebattle ggggg
+08 Feb 2017 07:07:11 : nein, general, Botfuzzy77#2209, A Level 9 Boss **Clauncher** has appeared in the Easy zone!
+It has 5,681 Health.
+08 Feb 2017 07:07:11 : nein, general, Botfuzzy77#2209, 
+08 Feb 2017 07:07:11 : nein, general, Botfuzzy77#2209, :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g:
+:x: :x: :white_check_mark: :x: :x:
+08 Feb 2017 07:07:11 : nein, general, Botfuzzy77#2209, Its a Critical Strike
+Rival Bonus!
+Your moves did **18** damage
+Your gained **1** XP
+08 Feb 2017 07:07:11 : nein, general, Botfuzzy77#2209, Level 9 Boss **Clauncher** has 5,663 health left.
+08 Feb 2017 07:07:32 : nein, general, shuck#1142, ;pokebattle fffff
+08 Feb 2017 07:07:32 : nein, general, Botfuzzy77#2209, Please wait 70 seconds before you can fight the boss again.
+08 Feb 2017 07:07:36 : nein, general, shuck#1142, Urgh
+08 Feb 2017 07:08:24 : nein, general, Dankdra#0051, Woke me up at 7am ._.
+08 Feb 2017 07:08:29 : nein, general, Dankdra#0051, Kys
+08 Feb 2017 07:15:40 : LimitlessMc, staffchat, Crystal4209#4698, My mum got in a car accident with me in it as a baby my car seat wasnt attached properly and i was slipping seat between seat and the crash resulted in my head being full of glass still got the scar til this day hide it with a fringe
+08 Feb 2017 07:15:55 : Pokemon Mystery Dungeon, general, DicloniusPonyta#6564, REEEEEEEEEEEEEEEEE
+08 Feb 2017 07:20:50 : LimitlessMc, staffchat, Crystal4209#4698, Then when i was little i cut my finger with a knife and it was a deep cut was bleeding everywhere i was calm about it then mum took me to the hospital
+08 Feb 2017 07:21:16 : LimitlessMc, staffchat, Crystal4209#4698, Oh i got another one when i was little i had caught both my hands on fire
+08 Feb 2017 07:21:32 : LimitlessMc, staffchat, Crystal4209#4698, Got tons of storys
+08 Feb 2017 07:22:00 : LimitlessMc, mainchat, Crystal4209#4698, Good afternoon everyone
+08 Feb 2017 07:22:52 : LimitlessMc, staffchat, Jay113355#4999, me busting my head open on the corner of a cabnet is still the wost thing that ever happend to me
+08 Feb 2017 07:23:12 : LimitlessMc, mainchat, MrMudkipKipperten#8916, hia
+08 Feb 2017 07:23:17 : LimitlessMc, mainchat, Jay113355#4999, Good night everyone
+08 Feb 2017 07:23:40 : LimitlessMc, mainchat, MrMudkipKipperten#8916, night jay
+08 Feb 2017 07:24:44 : nein, general, shuck#1142, I have to get up at half past 6 bruh
+08 Feb 2017 07:24:51 : nein, general, LolopFace#5646, Lol
+08 Feb 2017 07:24:59 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle eeeeeeeeeeeeeee
+08 Feb 2017 07:24:59 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** in Insane has 187,198 health left.
+08 Feb 2017 07:24:59 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+08 Feb 2017 07:24:59 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e:
+:x: :x: :x: :x: :x: :x: :x: :x: :x: :x: :x: :x: :x: :x: :x:
+08 Feb 2017 07:24:59 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Rival Bonus!
+Your moves did **1** damage
+Your gained **1** XP
+08 Feb 2017 07:24:59 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** has 187,197 health left.
+08 Feb 2017 07:24:59 : nein, general, shuck#1142, ;pokebattle pppee
+08 Feb 2017 07:24:59 : nein, general, Botfuzzy77#2209, Level 9 Boss **Clauncher** in Easy has 5,663 health left.
+08 Feb 2017 07:25:00 : nein, general, Botfuzzy77#2209, 
+08 Feb 2017 07:25:00 : nein, general, Botfuzzy77#2209, :regional_indicator_p: :regional_indicator_p: :regional_indicator_p: :regional_indicator_e: :regional_indicator_e:
+:x: :x: :x: :x: :x:
+08 Feb 2017 07:25:00 : nein, general, Botfuzzy77#2209, Rival Bonus!
+Your moves did **1** damage
+Your gained **1** XP
+08 Feb 2017 07:25:00 : nein, general, Botfuzzy77#2209, Level 9 Boss **Clauncher** has 5,662 health left.
+08 Feb 2017 07:25:00 : LimitlessMc, mainchat, Crystal4209#4698, Oh night jay
+08 Feb 2017 07:25:14 : nein, general, LolopFace#5646, How do you do that??
+08 Feb 2017 07:25:21 : nein, general, shuck#1142, Magic
+08 Feb 2017 07:25:27 : nein, general, shuck#1142, ;kms
+08 Feb 2017 07:25:28 : nein, general, Botfuzzy77#2209, Nu, I be sad then ;-;
+08 Feb 2017 07:25:32 : None, Direct Message with TherminatorX, TherminatorX#6644, ;cd
+08 Feb 2017 07:25:33 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **Battle**
+You need to wait 57 seconds
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 799 seconds
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+08 Feb 2017 07:25:34 : nein, general, shuck#1142, ^
+08 Feb 2017 07:25:34 : nein, general, Botfuzzy77#2209, ^
+08 Feb 2017 07:25:41 : LimitlessMc, mainchat, Crystal4209#4698, Well ima get off then in again later lel
+08 Feb 2017 07:25:48 : nein, general, shuck#1142, <
+08 Feb 2017 07:25:52 : nein, general, shuck#1142, >
+08 Feb 2017 07:25:58 : nein, general, shuck#1142, V
+08 Feb 2017 07:26:02 : nein, general, shuck#1142, v
+08 Feb 2017 07:26:17 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle fffffffffffffff
+08 Feb 2017 07:26:18 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Please wait 12 seconds before you can fight the boss again.
+08 Feb 2017 07:26:40 : nein, general, shuck#1142, ;what type is clauncher?
+08 Feb 2017 07:27:00 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle fffffffffffffff
+08 Feb 2017 07:27:00 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** in Insane has 187,197 health left.
+08 Feb 2017 07:27:00 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+08 Feb 2017 07:27:00 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f:
+:x: :white_check_mark: :x: :x: :x: :x: :x: :x: :x: :x: :x: :x: :x: :x: :x:
+08 Feb 2017 07:27:00 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Rival Bonus!
+Your moves did **107** damage
+Your gained **10** XP
+08 Feb 2017 07:27:00 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** has 187,090 health left.
+08 Feb 2017 07:27:14 : nein, general, shuck#1142, ;pokebattle ffgff
+08 Feb 2017 07:27:14 : nein, general, Botfuzzy77#2209, Level 9 Boss **Clauncher** in Easy has 5,662 health left.
+08 Feb 2017 07:27:14 : nein, general, Botfuzzy77#2209, 
+08 Feb 2017 07:27:14 : nein, general, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_f: :regional_indicator_g: :regional_indicator_f: :regional_indicator_f:
+:white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark:
+08 Feb 2017 07:27:14 : nein, general, Botfuzzy77#2209, Its Super Effective! The Boss has switched 1/4 of the Super Effective Moves!
+Rival Bonus!
+Your moves did **235** damage
+Your gained **23** XP
+08 Feb 2017 07:27:14 : nein, general, Botfuzzy77#2209, Level 9 Boss **Clauncher** has 5,427 health left.
+08 Feb 2017 07:27:19 : nein, general, shuck#1142, Bruh
+08 Feb 2017 07:27:22 : nein, general, shuck#1142, Sweat
+08 Feb 2017 07:27:58 : nein, general, shuck#1142, ;types
+08 Feb 2017 07:27:58 : nein, general, Botfuzzy77#2209, -= **Possible Types ** =-
+:regional_indicator_n: ormal
+:regional_indicator_f: ire
+:regional_indicator_w: ater
+:regional_indicator_g: rass
+:regional_indicator_p: oison
+:regional_indicator_d: ragon
+:regional_indicator_s: teel
+:regional_indicator_e: lectric
+:regional_indicator_b: ug
+:regional_indicator_i: ce
+08 Feb 2017 07:28:39 : nein, general, shuck#1142, ;pokebattle ffgif
+08 Feb 2017 07:28:39 : nein, general, Botfuzzy77#2209, Please wait 6 seconds before you can fight the boss again.
+08 Feb 2017 07:28:43 : nein, general, shuck#1142, Kys
+08 Feb 2017 07:28:52 : nein, general, shuck#1142, ;pokebattle ffgif
+08 Feb 2017 07:28:52 : nein, general, Botfuzzy77#2209, Level 9 Boss **Clauncher** in Easy has 5,427 health left.
+08 Feb 2017 07:28:52 : nein, general, Botfuzzy77#2209, 
+08 Feb 2017 07:28:52 : nein, general, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_f: :regional_indicator_g: :regional_indicator_i: :regional_indicator_f:
+:white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark:
+08 Feb 2017 07:28:52 : nein, general, Botfuzzy77#2209, Its Super Effective! The Boss has switched 1/4 of the Super Effective Moves!
+Rival Bonus!
+Your moves did **344** damage
+Your gained **34** XP
+08 Feb 2017 07:28:52 : nein, general, Botfuzzy77#2209, Level 9 Boss **Clauncher** has 5,083 health left.
+08 Feb 2017 07:29:01 : nein, general, shuck#1142, Wait it changes?
+08 Feb 2017 07:29:35 : nein, general, LolopFace#5646, ;pokebattle
+08 Feb 2017 07:29:35 : nein, general, Botfuzzy77#2209, Please use a Combination of **5** Types. `;types`
+08 Feb 2017 07:29:35 : nein, general, shuck#1142, Kill meh
+08 Feb 2017 07:29:51 : nein, general, LolopFace#5646, ;pokebattle
+08 Feb 2017 07:29:51 : nein, general, Botfuzzy77#2209, Please use a Combination of **5** Types. `;types`
+08 Feb 2017 07:30:26 : nein, general, LolopFace#5646, ;pokebattle ;water ;rock ;steel ;grass ;ground
+08 Feb 2017 07:30:26 : nein, general, Botfuzzy77#2209, The Available Locations are easy, medium, hard, insane
+08 Feb 2017 07:30:35 : nein, general, LolopFace#5646, ;easy
+08 Feb 2017 07:30:56 : nein, general, LolopFace#5646, ;pokebattle ;water ;rock ;steel ;grass ;ground ;easy
+08 Feb 2017 07:30:56 : nein, general, Botfuzzy77#2209, The Available Locations are easy, medium, hard, insane
+08 Feb 2017 07:31:10 : nein, general, LolopFace#5646, ;pokebattle ;water ;rock ;steel ;grass ;ground easy
+08 Feb 2017 07:31:11 : nein, general, Botfuzzy77#2209, The Available Locations are easy, medium, hard, insane
+08 Feb 2017 07:31:14 : LimitlessMc, botchat, Crystal4209#4698, ;train
+08 Feb 2017 07:31:14 : LimitlessMc, botchat, Botfuzzy77#2209, You *Lost* to a Level 51 **Kakuna** (50% to beat)
+You **Beat** a Level 46 **Sunflora** for 1,808 XP (56% to beat)
+You *Lost* to a Level 52 **Beheeyem** (50% to beat)
+You **Beat** a Level 103 **Deerling** for 3,109 XP (25% to beat)
+You *Lost* to a Level 103 **Swadloon** (25% to beat)
+You *Lost* to a Level 90 **Illumise** (28% to beat)
+You *Lost* to a Level 80 **Deoxys** (32% to beat)
+You **Beat** a Level 31 **Golett** for 670 XP (83% to beat)
+You **Beat** a Level 82 **Murkrow** for 2,840 XP (31% to beat)
+You **Beat** a Level 49 **Aron** for 1,952 XP (53% to beat)
+You **Beat** a Level 36 **Breloom** for 1,155 XP (72% to beat)
+You **Beat** a Level 100 **Diggersby** for 3,078 XP (26% to beat)
+You *Lost* to a Level 28 **Sigilyph** (90% to beat)
+You *Lost* to a Level 103 **Teddiursa** (25% to beat)
+08 Feb 2017 07:31:14 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 14,612 XP!
+08 Feb 2017 07:31:27 : nein, general, LolopFace#5646, ;pokebattle ;water ;rock ;steel ;grass ;ground location easy
+08 Feb 2017 07:31:27 : nein, general, Botfuzzy77#2209, The Available Locations are easy, medium, hard, insane
+08 Feb 2017 07:31:30 : nein, general, LolopFace#5646, Wow
+08 Feb 2017 07:31:32 : nein, general, LolopFace#5646, How do you
+08 Feb 2017 07:31:45 : LimitlessMc, mainchat, Crystal4209#4698, REEEEEEEEEEEEEEEEEEE
+08 Feb 2017 07:33:42 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle gfggggggggggggg
+08 Feb 2017 07:33:42 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** in Insane has 187,090 health left.
+08 Feb 2017 07:33:43 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+08 Feb 2017 07:33:43 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_g: :regional_indicator_f: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g:
+:x: :white_check_mark: :x: :x: :white_check_mark: :x: :x: :white_check_mark: :white_check_mark: :x: :x: :white_check_mark: :x: :x: :x:
+08 Feb 2017 07:33:43 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its a Critical Strike
+Rival Bonus!
+Your moves did **1,438** damage
+Your gained **143** XP
+08 Feb 2017 07:33:43 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** has 185,652 health left.
+08 Feb 2017 07:33:53 : None, Direct Message with TherminatorX, TherminatorX#6644, ;settype grass
+08 Feb 2017 07:33:53 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You are now a Grass type
+08 Feb 2017 07:33:57 : None, Direct Message with TherminatorX, TherminatorX#6644, ;cd
+08 Feb 2017 07:33:57 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **Battle**
+You need to wait 76 seconds
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 294 seconds
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+08 Feb 2017 07:34:13 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;cd
+08 Feb 2017 07:34:13 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You can Train right now!
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+08 Feb 2017 07:34:16 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;train
+08 Feb 2017 07:34:16 : LimitlessMc, botchat, Botfuzzy77#2209, You *Lost* to a Level 72 **Zygarde** (32% to beat)
+You *Lost* to a Level 55 **Volbeat** (42% to beat)
+You **Beat** a Level 38 **Foongus** for 1,434 XP (61% to beat)
+You **Beat** a Level 40 **Azurill** for 1,551 XP (58% to beat)
+You **Beat** a Level 37 **Shellos** for 1,371 XP (63% to beat)
+You **Beat** a Level 28 **Krabby** for 604 XP (83% to beat)
+You **Beat** a Level 62 **Mawile** for 2,334 XP (37% to beat)
+You *Lost* to a Level 75 **Charmeleon** (31% to beat)
+You **Beat** a Level 24 **Heatran** for 376 XP (90% to beat)
+You *Lost* to a Level 90 **Octillery** (26% to beat)
+You **Beat** a Level 34 **Clauncher** for 1,161 XP (69% to beat)
+You *Lost* to a Level 84 **Sandile** (27% to beat)
+You *Lost* to a Level 49 **Growlithe** (47% to beat)
+08 Feb 2017 07:34:16 : LimitlessMc, botchat, Botfuzzy77#2209, You Have Leveled up from **47** to **48**!
+08 Feb 2017 07:34:16 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 8,831 XP!
+08 Feb 2017 07:34:59 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle ifiigiiggiigiii
+08 Feb 2017 07:35:00 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Please wait 13 seconds before you can fight the boss again.
+08 Feb 2017 07:35:17 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle ifiigiiggiigiii
+08 Feb 2017 07:35:17 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** in Insane has 185,652 health left.
+08 Feb 2017 07:35:17 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+08 Feb 2017 07:35:17 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_f: :regional_indicator_i: :regional_indicator_i: :regional_indicator_g: :regional_indicator_i: :regional_indicator_i: :regional_indicator_g: :regional_indicator_g: :regional_indicator_i: :regional_indicator_i: :regional_indicator_g: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i:
+:x: :white_check_mark: :x: :x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :x: :x: :white_check_mark: :white_check_mark: :x: :x:
+08 Feb 2017 07:35:17 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Rival Bonus!
+STAB bonus damage for Grass type (4x)
+Your moves did **1,025** damage
+Your gained **102** XP
+08 Feb 2017 07:35:17 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** has 184,627 health left.
+08 Feb 2017 07:37:20 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle nfnnginggnnginn
+08 Feb 2017 07:37:20 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** in Insane has 184,627 health left.
+08 Feb 2017 07:37:21 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+08 Feb 2017 07:37:21 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_f: :regional_indicator_n: :regional_indicator_n: :regional_indicator_g: :regional_indicator_i: :regional_indicator_n: :regional_indicator_g: :regional_indicator_g: :regional_indicator_n: :regional_indicator_n: :regional_indicator_g: :regional_indicator_i: :regional_indicator_n: :regional_indicator_n:
+:x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x:
+08 Feb 2017 07:37:21 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+Rival Bonus!
+STAB bonus damage for Grass type (4x)
+Your moves did **3,020** damage
+Your gained **302** XP
+08 Feb 2017 07:37:21 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** has 181,607 health left.
+08 Feb 2017 07:39:07 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle pnfpgipggnnginp
+08 Feb 2017 07:39:07 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** in Insane has 181,607 health left.
+08 Feb 2017 07:39:07 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+08 Feb 2017 07:39:08 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_p: :regional_indicator_n: :regional_indicator_f: :regional_indicator_p: :regional_indicator_g: :regional_indicator_i: :regional_indicator_p: :regional_indicator_g: :regional_indicator_g: :regional_indicator_n: :regional_indicator_n: :regional_indicator_g: :regional_indicator_i: :regional_indicator_n: :regional_indicator_p:
+:white_check_mark: :x: :x: :white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x:
+08 Feb 2017 07:39:08 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+Rival Bonus!
+STAB bonus damage for Grass type (4x)
+Your moves did **3,423** damage
+Your gained **342** XP
+08 Feb 2017 07:39:08 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** has 178,184 health left.
+08 Feb 2017 07:40:02 : LimitlessMc, botchat, TherminatorX#6644, ;cd
+08 Feb 2017 07:40:02 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 36 seconds
+**Train** (*Note: Must be Level 5 to use ;train*)
+You can Train right now!
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+08 Feb 2017 07:40:11 : LimitlessMc, botchat, TherminatorX#6644, ;train
+08 Feb 2017 07:40:11 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 45 **Anorith** for 711 XP (88% to beat)
+You *Lost* to a Level 127 **Spheal** (31% to beat)
+You **Beat** a Level 48 **Slowbro** for 1,066 XP (83% to beat)
+You *Lost* to a Level 149 **Stunfisk** (26% to beat)
+You **Beat** a Level 156 **Piplup** for 4,758 XP (25% to beat)
+You **Beat** a Level 60 **Snivy** for 2,133 XP (66% to beat)
+You **Beat** a Level 140 **Golett** for 4,571 XP (28% to beat)
+You **Beat** a Level 104 **Gulpin** for 3,938 XP (38% to beat)
+You *Lost* to a Level 92 **Metapod** (43% to beat)
+You *Lost* to a Level 150 **Darumaka** (26% to beat)
+You **Beat** a Level 133 **Staryu** for 4,475 XP (30% to beat)
+You *Lost* to a Level 124 **Tympole** (32% to beat)
+You **Beat** a Level 104 **Tyrunt** for 3,938 XP (38% to beat)
+You **Beat** a Level 40 **Banette** for 640 XP (90% to beat)
+You *Lost* to a Level 151 **Zoroark** (26% to beat)
+You **Beat** a Level 49 **Pancham** for 1,175 XP (81% to beat)
+You **Beat** a Level 117 **Metagross** for 4,211 XP (34% to beat)
+You *Lost* to a Level 69 **Caterpie** (57% to beat)
+You *Lost* to a Level 141 **Munna** (28% to beat)
+You *Lost* to a Level 79 **Eelektrik** (50% to beat)
+You **Beat** a Level 80 **Palkia** for 3,200 XP (50% to beat)
+You Find a **Pokeloot** worth 13,287 XP
+08 Feb 2017 07:40:11 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 48,103 XP!
+08 Feb 2017 07:40:31 : LimitlessMc, botchat, TherminatorX#6644, ;gamble 36000
+08 Feb 2017 07:40:32 : LimitlessMc, botchat, Botfuzzy77#2209, You have lost your offering...
+08 Feb 2017 07:40:32 : LimitlessMc, botchat, Botfuzzy77#2209, You are exhausted from Gambling...
+08 Feb 2017 07:41:04 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle pnfpgisggnngins
+08 Feb 2017 07:41:04 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** in Insane has 178,184 health left.
+08 Feb 2017 07:41:04 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+08 Feb 2017 07:41:04 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_p: :regional_indicator_n: :regional_indicator_f: :regional_indicator_p: :regional_indicator_g: :regional_indicator_i: :regional_indicator_s: :regional_indicator_g: :regional_indicator_g: :regional_indicator_n: :regional_indicator_n: :regional_indicator_g: :regional_indicator_i: :regional_indicator_n: :regional_indicator_s:
+:white_check_mark: :x: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+08 Feb 2017 07:41:05 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+Rival Bonus!
+STAB bonus damage for Grass type (4x)
+Your moves did **6,662** damage
+Your gained **666** XP
+08 Feb 2017 07:41:05 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** has 171,522 health left.
+08 Feb 2017 07:41:40 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle pfnpgisggnngins
+08 Feb 2017 07:41:40 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Please wait 55 seconds before you can fight the boss again.
+08 Feb 2017 07:42:25 : None, Direct Message with TherminatorX, TherminatorX#6644, ;cd
+08 Feb 2017 07:42:25 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **Battle**
+You need to wait 10 seconds
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 3,466 seconds
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You need to wait 7 seconds
+08 Feb 2017 07:42:45 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;pokebattle pfnpgisggnngins
+08 Feb 2017 07:42:46 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 96 Boss **Mareep** in Insane has 171,522 health left.
+08 Feb 2017 07:42:46 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+08 Feb 2017 07:42:46 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_p: :regional_indicator_f: :regional_indicator_n: :regional_indicator_p: :regional_indicator_g: :regional_indicator_i: :regional_indicator_s: :regional_indicator_g: :regional_indicator_g: :regional_indicator_n: :regional_indicator_n: :regional_indicator_g: :regional_indicator_i: :regional_indicator_n: :regional_indicator_s:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+08 Feb 2017 07:42:46 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its a Perfect Combo. The Boss has switched 1/2 of the Super Effective Moves!
+Rival Bonus!
+STAB bonus damage for Grass type (4x)
+Your moves did **58,336** damage
+Your gained **5,833** XP
+08 Feb 2017 07:42:46 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Level 96 Boss **Mareep** has 113,186 health left.
+08 Feb 2017 07:43:07 : Pokemon Mystery Dungeon, poke_battles, TherminatorX#6644, ;pokeboss
+08 Feb 2017 07:43:07 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, -= **Insane Boss Pokemon** =-
+*Name*: Mareep
+*Health*: 113,186/187200 (60.46%)
+*Level*: 96
+Last Combo:
+:regional_indicator_p: :regional_indicator_f: :regional_indicator_n: :regional_indicator_p: :regional_indicator_g: :regional_indicator_i: :regional_indicator_s: :regional_indicator_g: :regional_indicator_g: :regional_indicator_n: :regional_indicator_n: :regional_indicator_g: :regional_indicator_i: :regional_indicator_n: :regional_indicator_s:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+08 Feb 2017 07:43:07 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+08 Feb 2017 07:43:07 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Most Damage by **TherminatorX** with **74,014** damage
+08 Feb 2017 07:43:47 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle pfnpgisggnngins
+08 Feb 2017 07:43:47 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Please wait 29 seconds before you can fight the boss again.
+08 Feb 2017 07:44:55 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle pfnpgisggnngins
+08 Feb 2017 07:44:55 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** in Insane has 113,186 health left.
+08 Feb 2017 07:44:55 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+08 Feb 2017 07:44:55 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_p: :regional_indicator_f: :regional_indicator_n: :regional_indicator_p: :regional_indicator_g: :regional_indicator_i: :regional_indicator_s: :regional_indicator_g: :regional_indicator_g: :regional_indicator_n: :regional_indicator_n: :regional_indicator_g: :regional_indicator_i: :regional_indicator_n: :regional_indicator_s:
+:x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :x: :x: :white_check_mark: :white_check_mark: :x: :x: :x: :white_check_mark:
+08 Feb 2017 07:44:56 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+Rival Bonus!
+STAB bonus damage for Grass type (1x)
+Your moves did **1,403** damage
+Your gained **140** XP
+08 Feb 2017 07:44:56 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** has 111,783 health left.
+08 Feb 2017 08:35:30 : LimitlessMc, botchat, Crystal4209#4698, ;train
+08 Feb 2017 08:35:30 : LimitlessMc, botchat, Botfuzzy77#2209, You *Lost* to a Level 37 **Hitmontop** (70% to beat)
+You **Beat** a Level 75 **Rhyperior** for 2,717 XP (34% to beat)
+You *Lost* to a Level 45 **Dedenne** (57% to beat)
+You *Lost* to a Level 56 **Toxicroak** (46% to beat)
+You *Lost* to a Level 79 **Trubbish** (32% to beat)
+You *Lost* to a Level 36 **Doublade** (72% to beat)
+You *Lost* to a Level 43 **Galvantula** (60% to beat)
+You *Lost* to a Level 96 **Shinx** (27% to beat)
+You *Lost* to a Level 96 **Lickilicky** (27% to beat)
+You *Lost* to a Level 94 **Meowth** (27% to beat)
+You **Beat** a Level 46 **Alomomola** for 1,808 XP (56% to beat)
+You *Lost* to a Level 66 **Nidoran♂** (39% to beat)
+You *Lost* to a Level 95 **Sealeo** (27% to beat)
+You *Lost* to a Level 98 **Anorith** (26% to beat)
+You use a **Lucky Egg** to gain more XP!
+08 Feb 2017 08:35:30 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 6,787 XP!
+08 Feb 2017 08:36:27 : LimitlessMc, mainchat, Crystal4209#4698, aussie why you leave xD
+08 Feb 2017 08:37:49 : LimitlessMc, mainchat, AussieAge#6629, Crashed
+08 Feb 2017 08:37:59 : LimitlessMc, mainchat, Crystal4209#4698, ah ok
+08 Feb 2017 08:38:21 : LimitlessMc, mainchat, AussieAge#6629, Stupid memory issues
+08 Feb 2017 08:39:35 : LimitlessMc, mainchat, Crystal4209#4698, sucks
+08 Feb 2017 08:49:11 : LimitlessMc, mainchat, AussieAge#6629, Now getting a error servers r down wtf
+08 Feb 2017 08:49:25 : LimitlessMc, mainchat, Crystal4209#4698, o.o server isnt down tho
+08 Feb 2017 08:49:36 : LimitlessMc, mainchat, AussieAge#6629, I know
+08 Feb 2017 08:55:58 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;train
+08 Feb 2017 08:55:58 : LimitlessMc, botchat, Botfuzzy77#2209, You *Lost* to a Level 54 **Hypno** (44% to beat)
+You *Lost* to a Level 91 **Mienfoo** (26% to beat)
+You **Beat** a Level 81 **Chimecho** for 2,702 XP (29% to beat)
+You *Lost* to a Level 62 **Wigglytuff** (38% to beat)
+You *Lost* to a Level 56 **Mightyena** (42% to beat)
+You *Lost* to a Level 56 **Boldore** (42% to beat)
+You **Beat** a Level 25 **Lombre** for 384 XP (90% to beat)
+You **Beat** a Level 38 **Silcoon** for 1,414 XP (63% to beat)
+You *Lost* to a Level 43 **Venonat** (55% to beat)
+You *Lost* to a Level 28 **Entei** (85% to beat)
+You *Lost* to a Level 74 **Probopass** (32% to beat)
+You *Lost* to a Level 77 **Feebas** (31% to beat)
+You *Lost* to a Level 56 **Manaphy** (42% to beat)
+You Find a **Pokeloot** worth 2,942 XP
+08 Feb 2017 08:55:58 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 7,442 XP!
+08 Feb 2017 09:23:25 : LimitlessMc, mainchat, Crystal4209#4698, ooo haiii @Wertfuzzy77
+08 Feb 2017 09:23:40 : LimitlessMc, botchat, Crystal4209#4698, ;train
+08 Feb 2017 09:23:40 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 710 seconds before you can train again.
+08 Feb 2017 09:51:42 : LimitlessMc, mainchat, Crystal4209#4698, oooo haiii @Adam
+08 Feb 2017 09:52:57 : LimitlessMc, mainchat, Adam#7575, haiiiiiiii @Crystal4209
+08 Feb 2017 09:53:23 : LimitlessMc, staffchat, Crystal4209#4698, @Jay113355 would you do me a favour and tell me why you appointed me to staff kinda need to it for my student council and house captian speech
+08 Feb 2017 09:53:29 : LimitlessMc, mainchat, Crystal4209#4698, how are you?
+08 Feb 2017 09:53:38 : LimitlessMc, botchat, Crystal4209#4698, ;train
+08 Feb 2017 09:53:38 : LimitlessMc, botchat, Botfuzzy77#2209, You *Lost* to a Level 81 **Nincada** (32% to beat)
+You **Beat** a Level 63 **Sewaddle** for 2,443 XP (41% to beat)
+You **Beat** a Level 81 **Vanilluxe** for 2,824 XP (32% to beat)
+You **Beat** a Level 48 **Maractus** for 1,906 XP (54% to beat)
+You **Beat** a Level 35 **Amoonguss** for 1,069 XP (74% to beat)
+You **Beat** a Level 69 **Gloom** for 2,592 XP (37% to beat)
+You *Lost* to a Level 69 **Tropius** (37% to beat)
+You *Lost* to a Level 81 **Tornadus** (32% to beat)
+You **Beat** a Level 53 **Charmander** for 2,119 XP (49% to beat)
+You **Beat** a Level 35 **Heliolisk** for 1,069 XP (74% to beat)
+You *Lost* to a Level 45 **Walrein** (57% to beat)
+You *Lost* to a Level 92 **Tyrunt** (28% to beat)
+You *Lost* to a Level 46 **Hitmontop** (56% to beat)
+You *Lost* to a Level 53 **Electrike** (49% to beat)
+You use a **Lucky Egg** to gain more XP!
+You Find a **Pokeloot** worth 3,722 XP
+08 Feb 2017 09:53:38 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 24,755 XP!
+08 Feb 2017 09:53:43 : LimitlessMc, mainchat, Adam#7575, fuck i was about to ask you that first
+08 Feb 2017 09:53:49 : LimitlessMc, mainchat, Adam#7575, good! day off today, going on a date tonight
+08 Feb 2017 09:53:56 : LimitlessMc, mainchat, Crystal4209#4698, ooo nice
+08 Feb 2017 09:54:34 : LimitlessMc, mainchat, Crystal4209#4698, well hope you have a amazing day today and that your date goes well
+08 Feb 2017 09:55:28 : LimitlessMc, mainchat, Adam#7575, bless you
+08 Feb 2017 09:55:33 : LimitlessMc, mainchat, Adam#7575, hows justin
+08 Feb 2017 09:55:35 : LimitlessMc, mainchat, Crystal4209#4698, :3
+08 Feb 2017 09:55:45 : LimitlessMc, mainchat, Crystal4209#4698, dunno wait
+08 Feb 2017 09:55:53 : LimitlessMc, mainchat, Crystal4209#4698, why are you saying that
+08 Feb 2017 09:56:31 : LimitlessMc, mainchat, Crystal4209#4698, scary ;-;
+08 Feb 2017 09:56:58 : LimitlessMc, mainchat, Adam#7575, 😉
+08 Feb 2017 09:57:07 : LimitlessMc, mainchat, Crystal4209#4698, god
+08 Feb 2017 09:57:13 : LimitlessMc, mainchat, Adam#7575, WE KNOW
+08 Feb 2017 09:57:17 : LimitlessMc, mainchat, Crystal4209#4698, anyway im dreading friday still ;-;
+08 Feb 2017 09:57:23 : LimitlessMc, mainchat, Adam#7575, why??
+08 Feb 2017 09:57:39 : LimitlessMc, mainchat, Crystal4209#4698, dissecting a sheep heart
+08 Feb 2017 09:57:50 : LimitlessMc, mainchat, Adam#7575, the ventricles are gross
+08 Feb 2017 09:57:55 : LimitlessMc, mainchat, Adam#7575, little tubey things
+08 Feb 2017 09:57:56 : LimitlessMc, mainchat, Adam#7575, uhg
+08 Feb 2017 09:57:57 : LimitlessMc, mainchat, Crystal4209#4698, and its in the morning to
+08 Feb 2017 09:58:05 : LimitlessMc, mainchat, Adam#7575, lick it
+08 Feb 2017 09:58:13 : LimitlessMc, mainchat, Crystal4209#4698, eww no
+08 Feb 2017 09:58:32 : LimitlessMc, mainchat, Crystal4209#4698, hm to bad sam isnt here..
+08 Feb 2017 09:58:33 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;cd
+08 Feb 2017 09:58:33 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You can Train right now!
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+08 Feb 2017 09:58:36 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;train
+08 Feb 2017 09:58:36 : LimitlessMc, botchat, Botfuzzy77#2209, You *Lost* to a Level 74 **Starly** (32% to beat)
+You *Lost* to a Level 47 **Ampharos** (51% to beat)
+You **Beat** a Level 51 **Victreebel** for 2,032 XP (47% to beat)
+You *Lost* to a Level 83 **Doduo** (28% to beat)
+You *Lost* to a Level 64 **Spearow** (37% to beat)
+You **Beat** a Level 28 **Seel** for 548 XP (85% to beat)
+You *Lost* to a Level 81 **Hippowdon** (29% to beat)
+You *Lost* to a Level 47 **Bronzor** (51% to beat)
+You **Beat** a Level 69 **Weedle** for 2,504 XP (34% to beat)
+You *Lost* to a Level 40 **Smeargle** (60% to beat)
+You **Beat** a Level 37 **Trapinch** for 1,349 XP (64% to beat)
+You *Lost* to a Level 60 **Panpour** (40% to beat)
+You **Beat** a Level 59 **Gligar** for 2,277 XP (40% to beat)
+08 Feb 2017 09:58:36 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 8,710 XP!
+08 Feb 2017 09:58:48 : LimitlessMc, mainchat, Adam#7575, yeah she'd be getting off that i just said lick it
+08 Feb 2017 09:59:04 : LimitlessMc, mainchat, Adam#7575, she'll be here in 4-5 hours
+08 Feb 2017 09:59:11 : LimitlessMc, mainchat, Crystal4209#4698, no i mean i was gonna get you to read some stuff but i need her on for that
+08 Feb 2017 09:59:20 : LimitlessMc, mainchat, Adam#7575, you sick little perv you
+08 Feb 2017 09:59:21 : LimitlessMc, mainchat, Crystal4209#4698, 3 hours adam
+08 Feb 2017 09:59:31 : LimitlessMc, mainchat, Crystal4209#4698, what i aint a perv
+08 Feb 2017 09:59:39 : LimitlessMc, mainchat, Crystal4209#4698, far from it
+08 Feb 2017 10:00:14 : LimitlessMc, mainchat, Crystal4209#4698, alright well i need to think of what homework i have
+08 Feb 2017 10:00:15 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;pokebattel gggggggg
+08 Feb 2017 10:00:33 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;pokebattle gggggggg
+08 Feb 2017 10:00:33 : LimitlessMc, botchat, Botfuzzy77#2209, Level 44 Boss **Riolu** in Medium has 41,799 health left.
+08 Feb 2017 10:00:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Feb 2017 10:00:33 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g:
+:x: :white_check_mark: :x: :x: :x: :x: :x: :x:
+08 Feb 2017 10:00:33 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+Your moves did **68** damage
+Your gained **6** XP
+08 Feb 2017 10:00:33 : LimitlessMc, botchat, Botfuzzy77#2209, Level 44 Boss **Riolu** has 41,731 health left.
+08 Feb 2017 10:00:38 : LimitlessMc, mainchat, Adam#7575, mate you so are
+08 Feb 2017 10:00:45 : LimitlessMc, mainchat, Adam#7575, oo what dya have to do?
+08 Feb 2017 10:01:18 : LimitlessMc, mainchat, Crystal4209#4698, math , student council and house captian speech to do and something else
+08 Feb 2017 10:01:20 : LimitlessMc, mainchat, Crystal4209#4698, oh humanities
+08 Feb 2017 10:01:55 : LimitlessMc, mainchat, Adam#7575, now math math i can help with
+08 Feb 2017 10:01:59 : LimitlessMc, mainchat, Adam#7575, i used to tutor people like you
+08 Feb 2017 10:01:59 : LimitlessMc, mainchat, Crystal4209#4698, week 2 and im already busy with homework xD
+08 Feb 2017 10:02:07 : LimitlessMc, mainchat, Crystal4209#4698, nah its ok
+08 Feb 2017 10:02:12 : LimitlessMc, mainchat, Crystal4209#4698, its naplan math
+08 Feb 2017 10:02:39 : LimitlessMc, mainchat, Crystal4209#4698, naplan is different for each country i think
+08 Feb 2017 10:03:06 : LimitlessMc, mainchat, Adam#7575, math is math but if you're fine with it cool 😛
+08 Feb 2017 10:03:13 : LimitlessMc, mainchat, Adam#7575, so when is justin coming to see you
+08 Feb 2017 10:03:18 : LimitlessMc, mainchat, Adam#7575, and does sam have a new miles yet
+08 Feb 2017 10:03:22 : LimitlessMc, mainchat, Crystal4209#4698, fffftttt
+08 Feb 2017 10:03:22 : LimitlessMc, mainchat, Adam#7575, missing out on all the gossip
+08 Feb 2017 10:03:33 : LimitlessMc, mainchat, Crystal4209#4698, what is wrong with you
+08 Feb 2017 10:03:44 : LimitlessMc, mainchat, Adam#7575, i ask myself the same question every day
+08 Feb 2017 10:04:08 : LimitlessMc, mainchat, Crystal4209#4698, 1. me and justin are just friends
+2. no sam doesnt have a "new miles" yet
+08 Feb 2017 10:04:43 : LimitlessMc, mainchat, Crystal4209#4698, plus there isnt gossip lel
+08 Feb 2017 10:05:41 : LimitlessMc, mainchat, Adam#7575, 'just friends'
+GIRL I'VE BEEN THERE YOU THINK THIS IS MY FIRST MINECRAFT RELATIONSHIP RODEO
+08 Feb 2017 10:05:54 : LimitlessMc, mainchat, Crystal4209#4698, ..
+08 Feb 2017 10:06:15 : LimitlessMc, mainchat, Adam#7575, is aussie a responsible dad
+08 Feb 2017 10:06:23 : LimitlessMc, mainchat, Crystal4209#4698, fftttt
+08 Feb 2017 10:06:30 : LimitlessMc, mainchat, Crystal4209#4698, what hes only sams dad xd
+08 Feb 2017 10:06:36 : LimitlessMc, mainchat, Crystal4209#4698, :3
+08 Feb 2017 10:06:39 : LimitlessMc, mainchat, Adam#7575, and hows your experimentation with sam going
+08 Feb 2017 10:06:43 : LimitlessMc, mainchat, Adam#7575, its okay to have these feelings
+08 Feb 2017 10:06:46 : LimitlessMc, mainchat, Adam#7575, completely normal
+08 Feb 2017 10:06:51 : LimitlessMc, mainchat, Adam#7575, we all love you and support you
+08 Feb 2017 10:07:13 : LimitlessMc, mainchat, Crystal4209#4698, what ``experimentation with sam``
+08 Feb 2017 10:07:47 : LimitlessMc, mainchat, Adam#7575, i heard things in the discord last night
+08 Feb 2017 10:07:51 : LimitlessMc, mainchat, Adam#7575, or the night before
+08 Feb 2017 10:08:04 : LimitlessMc, mainchat, Crystal4209#4698, what do you mean
+08 Feb 2017 10:08:27 : LimitlessMc, mainchat, Crystal4209#4698, we are just messing around alot no experiments "yet"
+08 Feb 2017 10:10:42 : LimitlessMc, mainchat, Crystal4209#4698, ;-; got hit in the leg and foot in sport
+08 Feb 2017 10:10:49 : LimitlessMc, mainchat, Crystal4209#4698, gonna get a bruise ;-;
+08 Feb 2017 10:11:22 : LimitlessMc, mainchat, Crystal4209#4698, gonna chill in voice while doing homework seems cool
+08 Feb 2017 10:12:59 : LimitlessMc, mainchat, Crystal4209#4698, adam come chill with me
+08 Feb 2017 10:17:20 : LimitlessMc, mainchat, Crystal4209#4698, omg im so smart (not)
+08 Feb 2017 10:17:41 : LimitlessMc, mainchat, Adam#7575, in a bit
+08 Feb 2017 10:17:47 : LimitlessMc, mainchat, Crystal4209#4698, alright
+08 Feb 2017 10:18:29 : LimitlessMc, mainchat, Crystal4209#4698, oo easy naplan work
+08 Feb 2017 10:30:15 : LimitlessMc, mainchat, Crystal4209#4698, quick what divisible by both 5 and 8
+08 Feb 2017 10:30:25 : LimitlessMc, mainchat, Crystal4209#4698, and it has to be a small number
+08 Feb 2017 10:38:30 : LimitlessMc, mainchat, Adam#7575, smallest is 40
+08 Feb 2017 10:44:08 : LimitlessMc, mainchat, Crystal4209#4698, i know
+08 Feb 2017 10:44:13 : LimitlessMc, mainchat, Crystal4209#4698, found it out already
+08 Feb 2017 10:44:45 : LimitlessMc, mainchat, Crystal4209#4698, mum is kinda mad at me because i said i could do my own speech :L
+08 Feb 2017 10:44:51 : LimitlessMc, mainchat, Crystal4209#4698, she wanted to help me
+08 Feb 2017 10:47:01 : LimitlessMc, botchat, Crystal4209#4698, ;cd
+08 Feb 2017 10:47:01 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 397 seconds
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+08 Feb 2017 10:49:22 : LimitlessMc, mainchat, Crystal4209#4698, what is divisible by both 9 and 7 an is the smallest number @Adam
+08 Feb 2017 10:55:06 : nein, general, Dankdra#0051, ;train
+08 Feb 2017 10:55:06 : nein, general, Botfuzzy77#2209, You **Beat** a Level 30 **Abomasnow** for 494 XP (88% to beat)
+You **Beat** a Level 42 **Gogoat** for 1,564 XP (63% to beat)
+You *Lost* to a Level 100 **Machop** (26% to beat)
+You **Beat** a Level 29 **Happiny** for 424 XP (90% to beat)
+You **Beat** a Level 81 **Pidgeotto** for 2,852 XP (32% to beat)
+You **Beat** a Level 36 **Venomoth** for 1,118 XP (73% to beat)
+You *Lost* to a Level 72 **Pansear** (36% to beat)
+You **Beat** a Level 47 **Delphox** for 1,849 XP (56% to beat)
+You **Beat** a Level 57 **Hawlucha** for 2,268 XP (46% to beat)
+You *Lost* to a Level 105 **Murkrow** (25% to beat)
+You **Beat** a Level 29 **Girafarig** for 424 XP (90% to beat)
+You **Beat** a Level 53 **Bellsprout** for 2,120 XP (50% to beat)
+You **Beat** a Level 86 **Pansear** for 2,933 XP (30% to beat)
+You **Beat** a Level 72 **Omanyte** for 2,679 XP (36% to beat)
+You use a **Lucky Egg** to gain more XP!
+You Find a **Pokeloot** worth 3,937 XP
+08 Feb 2017 10:55:06 : nein, general, Botfuzzy77#2209, You trained for 32,025 XP!
+08 Feb 2017 10:55:11 : nein, general, Dankdra#0051, ;level
+08 Feb 2017 10:55:11 : nein, general, Botfuzzy77#2209, **Name**: *jjtwilefc*
+**Level**: 53
+**Prestige**: 0
+08 Feb 2017 10:55:11 : nein, general, Botfuzzy77#2209, 
+08 Feb 2017 10:55:11 : nein, general, Botfuzzy77#2209, **XP**: 32,025/157,464
+**Boss Takedowns**: 20
+**Most Dmg in an Attack**: 13,861
+08 Feb 2017 10:55:14 : LimitlessMc, mainchat, Crystal4209#4698, nvm
+08 Feb 2017 10:55:54 : nein, general, shuck#1142, ;pokebattle figif
+08 Feb 2017 10:55:54 : nein, general, Botfuzzy77#2209, Level 9 Boss **Clauncher** in Easy has 5,083 health left.
+08 Feb 2017 10:55:54 : nein, general, Botfuzzy77#2209, 
+08 Feb 2017 10:55:54 : nein, general, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_i: :regional_indicator_g: :regional_indicator_i: :regional_indicator_f:
+:white_check_mark: :x: :white_check_mark: :x: :white_check_mark:
+08 Feb 2017 10:55:54 : nein, general, Botfuzzy77#2209, Its a Critical Strike
+Its Sort-Of Effective
+Rival Bonus!
+Your moves did **80** damage
+Your gained **8** XP
+08 Feb 2017 10:55:54 : nein, general, Botfuzzy77#2209, Level 9 Boss **Clauncher** has 5,003 health left.
+08 Feb 2017 10:56:01 : nein, general, shuck#1142, ;train
+08 Feb 2017 10:56:01 : nein, general, Botfuzzy77#2209, You *Lost* to a Level 8 **Porygon** (31% to beat)
+You *Lost* to a Level 5 **Zapdos** (50% to beat)
+08 Feb 2017 10:56:01 : nein, general, Botfuzzy77#2209, You trained for 0 XP!
+08 Feb 2017 10:56:15 : nein, general, shuck#1142, Hello
+08 Feb 2017 10:56:15 : nein, general, Botfuzzy77#2209, *From The Other Side*
+08 Feb 2017 10:56:23 : nein, general, shuck#1142, ;kms
+08 Feb 2017 10:56:23 : nein, general, Botfuzzy77#2209, Good :)
+08 Feb 2017 10:56:29 : nein, general, shuck#1142, 😮
+08 Feb 2017 10:56:42 : nein, general, shuck#1142, ;train
+08 Feb 2017 10:56:42 : nein, general, Botfuzzy77#2209, Please wait 3,559 seconds before you can train again.
+08 Feb 2017 11:00:44 : LimitlessMc, botchat, Crystal4209#4698, ;cd
+08 Feb 2017 11:00:44 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You can Train right now!
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+08 Feb 2017 11:00:47 : LimitlessMc, botchat, Crystal4209#4698, ;train
+08 Feb 2017 11:00:47 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 82 **Garchomp** for 2,840 XP (31% to beat)
+You *Lost* to a Level 62 **Glameow** (41% to beat)
+You **Beat** a Level 93 **Venusaur** for 2,996 XP (27% to beat)
+You **Beat** a Level 43 **Excadrill** for 1,644 XP (60% to beat)
+You *Lost* to a Level 66 **Chimchar** (39% to beat)
+You *Lost* to a Level 57 **Dedenne** (45% to beat)
+You *Lost* to a Level 62 **Metagross** (41% to beat)
+You *Lost* to a Level 43 **Surskit** (60% to beat)
+You **Beat** a Level 27 **Kingler** for 416 XP (90% to beat)
+You *Lost* to a Level 97 **Combusken** (26% to beat)
+You **Beat** a Level 102 **Cofagrigus** for 3,099 XP (25% to beat)
+You *Lost* to a Level 42 **Reuniclus** (61% to beat)
+You *Lost* to a Level 61 **Froslass** (42% to beat)
+You *Lost* to a Level 51 **Hitmontop** (50% to beat)
+08 Feb 2017 11:00:47 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 10,995 XP!
+08 Feb 2017 11:02:31 : LimitlessMc, mainchat, Crystal4209#4698, hm maybe me getting my calculator will help a bit xD
+08 Feb 2017 11:04:30 : nein, general, Dankdra#0051, Hello
+08 Feb 2017 11:04:31 : nein, general, Botfuzzy77#2209, *From The Other Side*
+08 Feb 2017 11:04:45 : nein, general, Dankdra#0051, ;pokeboss
+08 Feb 2017 11:04:45 : nein, general, Botfuzzy77#2209, -= **Hard Boss Pokemon** =-
+*Name*: Reuniclus
+*Health*: 99,461/99462 (100.0%)
+*Level*: 73
+Last Combo:
+:regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i:
+:x: :x: :x: :x: :x: :x: :x: :x: :x: :x:
+08 Feb 2017 11:04:46 : nein, general, Botfuzzy77#2209, 
+08 Feb 2017 11:04:46 : nein, general, Botfuzzy77#2209, Most Damage by **Wertfuzzy77** with **1** damage
+08 Feb 2017 11:04:58 : nein, general, Dankdra#0051, ;pokebattle NNNNNNNNNN
+08 Feb 2017 11:04:58 : nein, general, Botfuzzy77#2209, Level 73 Boss **Reuniclus** in Hard has 99,461 health left.
+08 Feb 2017 11:04:58 : nein, general, Botfuzzy77#2209, 
+08 Feb 2017 11:04:58 : nein, general, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :x: :x: :x: :x: :x: :x: :x:
+08 Feb 2017 11:04:58 : nein, general, Botfuzzy77#2209, Your moves did **0** damage
+Your gained **1** XP
+08 Feb 2017 11:04:58 : nein, general, Botfuzzy77#2209, Level 73 Boss **Reuniclus** has 99,461 health left.
+08 Feb 2017 11:05:11 : LimitlessMc, mainchat, Nick"Ace"Wilde#3503, @Crystal4209  yo
+08 Feb 2017 11:05:17 : LimitlessMc, mainchat, Nick"Ace"Wilde#3503, good
+08 Feb 2017 11:05:19 : LimitlessMc, mainchat, Nick"Ace"Wilde#3503, you?
+08 Feb 2017 11:05:27 : LimitlessMc, mainchat, Nick"Ace"Wilde#3503, ahhh
+08 Feb 2017 11:05:41 : LimitlessMc, mainchat, Nick"Ace"Wilde#3503, welp im off to play warframe
+08 Feb 2017 11:06:52 : LimitlessMc, mainchat, Adam#7575, @Crystal4209 45
+08 Feb 2017 11:07:05 : LimitlessMc, mainchat, Adam#7575, wait
+08 Feb 2017 11:07:06 : LimitlessMc, mainchat, Adam#7575, no
+08 Feb 2017 11:07:06 : LimitlessMc, mainchat, Crystal4209#4698, i already know adam
+08 Feb 2017 11:07:08 : LimitlessMc, mainchat, Adam#7575, thats 9 and 5
+08 Feb 2017 11:07:12 : LimitlessMc, mainchat, Crystal4209#4698, yeah
+08 Feb 2017 11:07:16 : LimitlessMc, mainchat, Adam#7575, 63
+08 Feb 2017 11:07:28 : LimitlessMc, mainchat, Crystal4209#4698, smallest number is 45
+08 Feb 2017 11:07:38 : LimitlessMc, mainchat, Crystal4209#4698, wait
+08 Feb 2017 11:07:39 : LimitlessMc, mainchat, Adam#7575, 7 doesnt go into 45
+08 Feb 2017 11:07:44 : LimitlessMc, mainchat, Crystal4209#4698, i skipped that question
+08 Feb 2017 11:07:52 : LimitlessMc, mainchat, Crystal4209#4698, was a different question i did
+08 Feb 2017 11:16:48 : LimitlessMc, mainchat, Crystal4209#4698, officially gave up on math for one day again lel
+08 Feb 2017 11:26:05 : LimitlessMc, mainchat, Crystal4209#4698, should check the forums while im on
+08 Feb 2017 11:28:20 : LimitlessMc, mainchat, Crystal4209#4698, no ban appeals from my bans yet :L
+08 Feb 2017 11:32:11 : LimitlessMc, mainchat, Third_Worm#4804, Make it in 30
+08 Feb 2017 11:32:24 : LimitlessMc, mainchat, Crystal4209#4698, make what?
+08 Feb 2017 11:32:50 : LimitlessMc, mainchat, Third_Worm#4804, Me getting up in 3 hours
+08 Feb 2017 11:33:06 : LimitlessMc, mainchat, Crystal4209#4698, that was 2 hours ago tho..
+08 Feb 2017 11:33:13 : LimitlessMc, mainchat, Third_Worm#4804, I know
+08 Feb 2017 11:33:16 : LimitlessMc, mainchat, Crystal4209#4698, also ADAM GET IN VOICE YA NUB
+08 Feb 2017 11:33:17 : LimitlessMc, mainchat, Third_Worm#4804, Add 30
+08 Feb 2017 11:33:40 : LimitlessMc, mainchat, Crystal4209#4698, alright
+08 Feb 2017 11:33:54 : LimitlessMc, mainchat, Third_Worm#4804, +licking a sheep heart is disgusting
+08 Feb 2017 11:34:14 : LimitlessMc, mainchat, Third_Worm#4804, No idea why I would get off that
+08 Feb 2017 11:34:35 : LimitlessMc, mainchat, Crystal4209#4698, cause its freaken adam what do you expect
+08 Feb 2017 11:34:58 : LimitlessMc, mainchat, Adam#7575, licking in general
+08 Feb 2017 11:35:03 : LimitlessMc, mainchat, Crystal4209#4698, ffftttt
+08 Feb 2017 11:35:05 : LimitlessMc, mainchat, Third_Worm#4804, Did you dissect a frog_?
+08 Feb 2017 11:35:08 : LimitlessMc, mainchat, Adam#7575, anything i say anything even mildly sexual it gets pinned
+08 Feb 2017 11:35:10 : LimitlessMc, mainchat, Third_Worm#4804, Um no
+08 Feb 2017 11:35:17 : LimitlessMc, mainchat, Third_Worm#4804, You see
+08 Feb 2017 11:35:27 : LimitlessMc, mainchat, Third_Worm#4804, You must say it in voicw
+08 Feb 2017 11:35:35 : LimitlessMc, mainchat, Third_Worm#4804, For me to get off
+08 Feb 2017 11:35:39 : LimitlessMc, mainchat, Adam#7575, 😉
+08 Feb 2017 11:35:51 : LimitlessMc, mainchat, Crystal4209#4698, no worm year 7 dissected a shrimp and fish the smell was the thing that made me want to vomit so i got out of it
+08 Feb 2017 11:36:04 : LimitlessMc, mainchat, Crystal4209#4698, then now year 9 is a sheeps heart
+08 Feb 2017 11:36:18 : LimitlessMc, mainchat, Third_Worm#4804, Ah I dissected a frog
+08 Feb 2017 11:36:26 : LimitlessMc, mainchat, Adam#7575, i did a lambs heart
+08 Feb 2017 11:36:40 : LimitlessMc, mainchat, Crystal4209#4698, lamb or sheeps heart adam
+08 Feb 2017 11:36:54 : LimitlessMc, mainchat, Third_Worm#4804, Lamb is baby sheep
+08 Feb 2017 11:37:04 : LimitlessMc, mainchat, Crystal4209#4698, yeah i know
+08 Feb 2017 11:37:09 : LimitlessMc, mainchat, Crystal4209#4698, ;-; rip adam left me
+08 Feb 2017 11:37:58 : LimitlessMc, mainchat, Crystal4209#4698, ;-; worm you made me so sad today
+08 Feb 2017 11:38:09 : LimitlessMc, mainchat, Third_Worm#4804, Ohyeah
+08 Feb 2017 11:38:14 : LimitlessMc, mainchat, Crystal4209#4698, very sad
+08 Feb 2017 11:38:25 : LimitlessMc, mainchat, Crystal4209#4698, i screamed and was about to cry in class
+08 Feb 2017 11:38:26 : LimitlessMc, mainchat, Third_Worm#4804, I was so surprised it happened
+08 Feb 2017 11:38:38 : LimitlessMc, mainchat, Crystal4209#4698, i wanted to be apart of it ;-;
+08 Feb 2017 11:38:38 : LimitlessMc, mainchat, Third_Worm#4804, I had to get it out ;-;
+08 Feb 2017 11:38:51 : LimitlessMc, mainchat, Crystal4209#4698, i saw the messages in freaken class tho
+08 Feb 2017 11:39:09 : LimitlessMc, mainchat, Third_Worm#4804, I know
+08 Feb 2017 11:39:17 : LimitlessMc, mainchat, Third_Worm#4804, ;-; so sorry
+08 Feb 2017 11:39:57 : LimitlessMc, mainchat, Crystal4209#4698, my friends were like what the fuck crystal its just your online friends you can always talk to them later i was like THIS DOESNT HAPPEN THO
+08 Feb 2017 11:39:59 : LimitlessMc, mainchat, Crystal4209#4698, lel
+08 Feb 2017 11:40:07 : LimitlessMc, mainchat, Third_Worm#4804, ^^^^^
+08 Feb 2017 11:40:13 : LimitlessMc, mainchat, Third_Worm#4804, ;-;
+08 Feb 2017 11:40:28 : LimitlessMc, mainchat, Crystal4209#4698, then my teacher looked up at me and laughed
+08 Feb 2017 11:40:35 : LimitlessMc, mainchat, Crystal4209#4698, because i screamed xD
+08 Feb 2017 11:40:42 : LimitlessMc, mainchat, Crystal4209#4698, he thought someone scared me
+08 Feb 2017 11:40:47 : LimitlessMc, mainchat, Third_Worm#4804, Wow
+08 Feb 2017 11:40:55 : LimitlessMc, mainchat, Crystal4209#4698, yep
+08 Feb 2017 11:41:55 : LimitlessMc, mainchat, Crystal4209#4698, and i will tell you something in voice when you get on
+08 Feb 2017 11:42:03 : LimitlessMc, mainchat, Crystal4209#4698, that i cant say in here lel
+08 Feb 2017 11:42:19 : LimitlessMc, mainchat, Third_Worm#4804, Wait
+08 Feb 2017 11:42:26 : LimitlessMc, mainchat, Third_Worm#4804, Now I'm in
+08 Feb 2017 11:56:19 : LimitlessMc, mainchat, Third_Worm#4804, Lol
+08 Feb 2017 11:56:40 : LimitlessMc, mainchat, Third_Worm#4804, You saw
+08 Feb 2017 11:56:46 : LimitlessMc, mainchat, Third_Worm#4804, His thingy
+08 Feb 2017 11:56:55 : LimitlessMc, mainchat, Third_Worm#4804, That sounds wrong
+08 Feb 2017 11:57:45 : LimitlessMc, mainchat, Third_Worm#4804, Ima a perv
+08 Feb 2017 11:57:50 : LimitlessMc, mainchat, Third_Worm#4804, Def a perv
+08 Feb 2017 11:58:43 : LimitlessMc, mainchat, Third_Worm#4804, "New miles"
+08 Feb 2017 11:58:47 : LimitlessMc, mainchat, Third_Worm#4804, Adaaaaaaaam
+08 Feb 2017 11:59:15 : LimitlessMc, mainchat, Third_Worm#4804, o-o
+08 Feb 2017 11:59:50 : LimitlessMc, mainchat, Third_Worm#4804, You said you saw his thingy
+08 Feb 2017 11:59:58 : LimitlessMc, mainchat, Third_Worm#4804, Auto wrong in my mind
+08 Feb 2017 12:00:11 : LimitlessMc, mainchat, Third_Worm#4804, @Crystal4209 in voice ._.
+08 Feb 2017 12:00:28 : LimitlessMc, mainchat, Third_Worm#4804, Ooooooooo
+08 Feb 2017 12:04:03 : LimitlessMc, mainchat, Third_Worm#4804, @Adam How are you?
+08 Feb 2017 12:07:29 : LimitlessMc, mainchat, Third_Worm#4804, @Adam kinda
+08 Feb 2017 12:09:29 : LimitlessMc, botchat, Crystal4209#4698, ;train
+08 Feb 2017 12:09:29 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 66 **Groudon** for 2,521 XP (39% to beat)
+You *Lost* to a Level 91 **Scrafty** (28% to beat)
+You *Lost* to a Level 51 **Delibird** (50% to beat)
+You **Beat** a Level 37 **Fearow** for 1,236 XP (70% to beat)
+You **Beat** a Level 43 **Marshtomp** for 1,644 XP (60% to beat)
+You **Beat** a Level 26 **Pachirisu** for 416 XP (90% to beat)
+You **Beat** a Level 41 **Pansear** for 1,521 XP (63% to beat)
+You **Beat** a Level 28 **Ferroseed** for 416 XP (90% to beat)
+You *Lost* to a Level 44 **Dewgong** (59% to beat)
+You *Lost* to a Level 51 **Gligar** (50% to beat)
+You **Beat** a Level 63 **Cubchoo** for 2,443 XP (41% to beat)
+You *Lost* to a Level 85 **Onix** (30% to beat)
+You *Lost* to a Level 65 **Dewgong** (40% to beat)
+You **Beat** a Level 84 **Pansage** for 2,872 XP (30% to beat)
+You use a **Lucky Egg** to gain more XP!
+08 Feb 2017 12:09:29 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 19,603 XP!
+08 Feb 2017 12:21:14 : LimitlessMc, mainchat, Third_Worm#4804, Crysttttalll
+08 Feb 2017 12:21:23 : LimitlessMc, mainchat, Third_Worm#4804, OH GOD
+08 Feb 2017 12:21:33 : LimitlessMc, mainchat, Crystal4209#4698, xD
+08 Feb 2017 12:21:59 : LimitlessMc, mainchat, Third_Worm#4804, He's braking up cause of my internet ;-;
+08 Feb 2017 12:22:01 : LimitlessMc, mainchat, Crystal4209#4698, <--- not keeping a straight face
+08 Feb 2017 12:22:11 : LimitlessMc, mainchat, Crystal4209#4698, he braking up for me to
+08 Feb 2017 12:24:16 : LimitlessMc, mainchat, Third_Worm#4804, @Adam "better internet"
+08 Feb 2017 12:31:34 : LimitlessMc, mainchat, Third_Worm#4804, Gotta get read
+08 Feb 2017 12:33:14 : LimitlessMc, botchat, Crystal4209#4698, ;kiss @Adam
+08 Feb 2017 12:33:14 : LimitlessMc, botchat, Botfuzzy77#2209, :kissing_heart: *Crystal4209 Kissed @Adam* :kissing_heart:
+08 Feb 2017 12:40:16 : LimitlessMc, botchat, Crystal4209#4698, ;kiss @Third_Worm
+08 Feb 2017 12:40:16 : LimitlessMc, botchat, Botfuzzy77#2209, :kissing_heart: *Crystal4209 Kissed @Third_Worm* :kissing_heart:
+08 Feb 2017 12:40:18 : LimitlessMc, botchat, Crystal4209#4698, :3
+08 Feb 2017 12:40:42 : LimitlessMc, botchat, Third_Worm#4804, ;kiss @Crystal4209
+08 Feb 2017 12:40:42 : LimitlessMc, botchat, Botfuzzy77#2209, :kissing_heart: *Third_Worm Kissed @Crystal4209* :kissing_heart:
+08 Feb 2017 12:40:47 : LimitlessMc, botchat, Third_Worm#4804, See ya
+08 Feb 2017 12:41:06 : LimitlessMc, botchat, Crystal4209#4698, see ya
+08 Feb 2017 12:46:59 : LimitlessMc, mainchat, Third_Worm#4804, @Crystal4209 like on the bus I'm in the car
+08 Feb 2017 12:47:26 : LimitlessMc, mainchat, Third_Worm#4804, Y'all are terrible on speaker
+08 Feb 2017 12:47:43 : LimitlessMc, mainchat, Third_Worm#4804, @ruleroftri since I can't hear ya, go to sleep
+08 Feb 2017 12:48:01 : LimitlessMc, mainchat, Third_Worm#4804, I hear mumble mumble
+08 Feb 2017 12:48:14 : LimitlessMc, mainchat, Third_Worm#4804, Gtg now for real
+08 Feb 2017 12:48:19 : LimitlessMc, mainchat, Third_Worm#4804, Love ya
+08 Feb 2017 12:48:21 : LimitlessMc, mainchat, Crystal4209#4698, alright bai
+08 Feb 2017 12:48:23 : LimitlessMc, mainchat, Crystal4209#4698, love ya
+08 Feb 2017 12:48:46 : LimitlessMc, mainchat, Third_Worm#4804, Quick phone
+08 Feb 2017 12:49:25 : LimitlessMc, mainchat, Crystal4209#4698, xD
+08 Feb 2017 12:51:19 : LimitlessMc, mainchat, Crystal4209#4698, why am i getting  basically a birds and a bees lecture xD
+08 Feb 2017 12:53:26 : LimitlessMc, mainchat, Nick"Ace"Wilde#3503, @ruleroftri you got steam?
+08 Feb 2017 12:53:36 : LimitlessMc, mainchat, Nick"Ace"Wilde#3503, dl warframe den
+08 Feb 2017 12:53:44 : LimitlessMc, mainchat, Nick"Ace"Wilde#3503, plsss
+08 Feb 2017 12:54:01 : LimitlessMc, mainchat, Nick"Ace"Wilde#3503, i dont like it on ps4 cuz im not as far as i am on pc
+08 Feb 2017 12:54:18 : LimitlessMc, mainchat, Nick"Ace"Wilde#3503, ahhh
+08 Feb 2017 12:54:19 : LimitlessMc, mainchat, Nick"Ace"Wilde#3503, ok
+08 Feb 2017 12:54:31 : LimitlessMc, mainchat, Nick"Ace"Wilde#3503, im only mastery2
+08 Feb 2017 12:54:41 : LimitlessMc, mainchat, Nick"Ace"Wilde#3503, i havent played since 15
+08 Feb 2017 12:54:46 : LimitlessMc, mainchat, Nick"Ace"Wilde#3503, 2k15
+08 Feb 2017 12:54:55 : LimitlessMc, mainchat, Nick"Ace"Wilde#3503, .-.
+08 Feb 2017 12:55:04 : LimitlessMc, mainchat, Nick"Ace"Wilde#3503, ...
+08 Feb 2017 12:56:22 : LimitlessMc, mainchat, Nick"Ace"Wilde#3503, ,-,
+08 Feb 2017 12:56:30 : LimitlessMc, mainchat, Nick"Ace"Wilde#3503, the heck
+08 Feb 2017 12:56:32 : LimitlessMc, mainchat, Nick"Ace"Wilde#3503, adam
+08 Feb 2017 12:56:34 : LimitlessMc, mainchat, Nick"Ace"Wilde#3503, chill
+08 Feb 2017 12:58:08 : LimitlessMc, mainchat, Nick"Ace"Wilde#3503, ugughghghg
+08 Feb 2017 12:58:18 : LimitlessMc, mainchat, Nick"Ace"Wilde#3503, .
+08 Feb 2017 12:58:21 : LimitlessMc, mainchat, Nick"Ace"Wilde#3503, boio
+08 Feb 2017 12:58:50 : LimitlessMc, mainchat, Nick"Ace"Wilde#3503, the reason i said pc warframe is that i want the dual ichors
+08 Feb 2017 12:59:20 : LimitlessMc, mainchat, Nick"Ace"Wilde#3503, like bad ass blades that infect enemies
+08 Feb 2017 12:59:24 : LimitlessMc, mainchat, Nick"Ace"Wilde#3503, dual weild
+08 Feb 2017 12:59:29 : LimitlessMc, mainchat, Nick"Ace"Wilde#3503, wield
+08 Feb 2017 12:59:39 : LimitlessMc, mainchat, ruleroftri#6648, How would me joining help you?
+08 Feb 2017 13:00:06 : LimitlessMc, mainchat, Nick"Ace"Wilde#3503, it would make things go faster
+08 Feb 2017 13:00:16 : LimitlessMc, mainchat, Nick"Ace"Wilde#3503, plus you know i can hear you right?
+08 Feb 2017 13:00:37 : LimitlessMc, mainchat, Nick"Ace"Wilde#3503, .
+08 Feb 2017 13:02:54 : LimitlessMc, mainchat, Third_Worm#4804, I mean
+08 Feb 2017 13:02:59 : LimitlessMc, mainchat, Third_Worm#4804, Phone number lol
+08 Feb 2017 13:03:09 : LimitlessMc, mainchat, Crystal4209#4698, worm the fanfiction xD
+08 Feb 2017 13:03:14 : LimitlessMc, mainchat, Third_Worm#4804, Using my data lol
+08 Feb 2017 13:03:16 : LimitlessMc, mainchat, ruleroftri#6648, What are you on about worm?
+08 Feb 2017 13:03:20 : LimitlessMc, mainchat, Third_Worm#4804, Send it to me
+08 Feb 2017 13:03:26 : LimitlessMc, mainchat, Crystal4209#4698, THE FANFICTION
+08 Feb 2017 13:04:07 : LimitlessMc, staffchat, Adam#7575, you got tiddies
+08 Feb 2017 13:04:30 : LimitlessMc, staffchat, Crystal4209#4698, ....
+08 Feb 2017 13:04:35 : LimitlessMc, staffchat, Crystal4209#4698, stop being a perv
+08 Feb 2017 13:04:41 : LimitlessMc, staffchat, Adam#7575, NEVER
+08 Feb 2017 13:05:33 : LimitlessMc, mainchat, Crystal4209#4698, im not a slut....
+08 Feb 2017 13:05:47 : LimitlessMc, mainchat, Crystal4209#4698, i wont do that ;-;
+08 Feb 2017 13:06:14 : LimitlessMc, mainchat, Crystal4209#4698, ima christian not a slut ;-;
+08 Feb 2017 13:06:50 : LimitlessMc, mainchat, Crystal4209#4698, already out boi
+08 Feb 2017 13:07:32 : LimitlessMc, mainchat, Third_Worm#4804, I'll take that as a no ;-;
+08 Feb 2017 13:07:39 : LimitlessMc, mainchat, ruleroftri#6648, You missed out worm
+08 Feb 2017 13:07:57 : LimitlessMc, mainchat, Third_Worm#4804, Okay okay
+08 Feb 2017 13:08:01 : LimitlessMc, mainchat, ruleroftri#6648, Me and Adam gave Crystal the best advice to getting on student council
+08 Feb 2017 13:08:07 : LimitlessMc, mainchat, Third_Worm#4804, Oh
+08 Feb 2017 13:08:16 : LimitlessMc, mainchat, Third_Worm#4804, Now its showing the messages
+08 Feb 2017 13:08:40 : LimitlessMc, mainchat, Third_Worm#4804, Fucking data
+08 Feb 2017 13:08:46 : LimitlessMc, mainchat, ruleroftri#6648, We said to use her feminine whiles to change the student council's mind, since politics loves corruption
+08 Feb 2017 13:09:12 : LimitlessMc, mainchat, ruleroftri#6648, 10/10 plan can't fail
+08 Feb 2017 13:09:15 : LimitlessMc, mainchat, Third_Worm#4804, Lol
+08 Feb 2017 13:09:26 : LimitlessMc, mainchat, Third_Worm#4804, So ima leave now
+08 Feb 2017 13:09:32 : LimitlessMc, mainchat, ruleroftri#6648, Nuuuuuu
+08 Feb 2017 13:09:42 : LimitlessMc, mainchat, Third_Worm#4804, Unlike crystal, I don't murder my data
+08 Feb 2017 13:09:47 : LimitlessMc, mainchat, ruleroftri#6648, How am I supposed to not get any sleep now?
+08 Feb 2017 13:09:56 : LimitlessMc, mainchat, Third_Worm#4804, + my phone is at 3
+08 Feb 2017 13:10:16 : LimitlessMc, mainchat, ruleroftri#6648, @Third_Worm discord won't burn your data unless you are on voice chat or videos
+08 Feb 2017 13:10:32 : LimitlessMc, mainchat, Third_Worm#4804, No no
+08 Feb 2017 13:10:35 : LimitlessMc, mainchat, ruleroftri#6648, Text chat is near nothing
+08 Feb 2017 13:10:38 : LimitlessMc, mainchat, Third_Worm#4804, My mom does that
+08 Feb 2017 13:10:43 : LimitlessMc, mainchat, Third_Worm#4804, But I get blamed
+08 Feb 2017 13:10:53 : LimitlessMc, mainchat, Third_Worm#4804, Do ima get off now
+08 Feb 2017 13:11:02 : LimitlessMc, mainchat, Third_Worm#4804, See y'all, love ya
+08 Feb 2017 13:11:03 : LimitlessMc, mainchat, ruleroftri#6648, 😦
+08 Feb 2017 13:12:26 : LimitlessMc, mainchat, Third_Worm#4804, Or you can make a join.me
+08 Feb 2017 13:12:37 : LimitlessMc, mainchat, Third_Worm#4804, And I can join :D
+08 Feb 2017 13:12:56 : LimitlessMc, mainchat, ruleroftri#6648, You couldn't hear me last time, and that text chat was terrible
+08 Feb 2017 13:13:47 : LimitlessMc, mainchat, Third_Worm#4804, Then I can't talk
+08 Feb 2017 13:13:49 : LimitlessMc, mainchat, Third_Worm#4804, ;-;
+08 Feb 2017 13:21:34 : LimitlessMc, mainchat, Crystal4209#4698, ;-; everyone left me
+08 Feb 2017 13:22:29 : LimitlessMc, mainchat, Crystal4209#4698, everyones so mean
+08 Feb 2017 13:22:49 : LimitlessMc, mainchat, Crystal4209#4698, couldnt wait for me to finish dinner before leaving me in voice chat ROOOOD
+08 Feb 2017 13:22:55 : LimitlessMc, mainchat, Lightning#6734, REEEEEE
+08 Feb 2017 13:23:06 : LimitlessMc, mainchat, Crystal4209#4698, REEEEEEEEEEEEEEEEEEE
+08 Feb 2017 13:23:14 : LimitlessMc, mainchat, Kahuna_#4321, sounds like a personal problem, Crystal.
+08 Feb 2017 13:23:21 : LimitlessMc, mainchat, Crystal4209#4698, what does?
+08 Feb 2017 13:23:30 : LimitlessMc, mainchat, Crystal4209#4698, oh nah there just butts
+08 Feb 2017 13:23:37 : LimitlessMc, mainchat, Kahuna_#4321, Nope.
+08 Feb 2017 13:23:41 : LimitlessMc, mainchat, Lightning#6734, Ass
+08 Feb 2017 13:23:41 : LimitlessMc, mainchat, Kahuna_#4321, Definitely a personal problem.
+08 Feb 2017 13:23:48 : LimitlessMc, mainchat, Crystal4209#4698, they are asses
+08 Feb 2017 13:23:57 : LimitlessMc, botchat, Kahuna_#4321, ;train
+08 Feb 2017 13:23:57 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 15 **Pachirisu** for 384 XP (80% to beat)
+You **Beat** a Level 47 **Heatran** for 1,429 XP (25% to beat)
+You **Beat** a Level 34 **Reuniclus** for 1,242 XP (35% to beat)
+You *Lost* to a Level 47 **Yveltal** (25% to beat)
+You *Lost* to a Level 34 **Talonflame** (35% to beat)
+You *Lost* to a Level 45 **Lopunny** (26% to beat)
+You **Beat** a Level 13 **Jirachi** for 192 XP (90% to beat)
+08 Feb 2017 13:23:57 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 3,247 XP!
+08 Feb 2017 13:23:58 : LimitlessMc, mainchat, Lightning#6734, much ass
+08 Feb 2017 13:24:03 : LimitlessMc, botchat, Kahuna_#4321, gg
+08 Feb 2017 13:24:04 : LimitlessMc, mainchat, Crystal4209#4698, thats why they left me
+08 Feb 2017 13:24:21 : LimitlessMc, mainchat, Crystal4209#4698, i was eating dinner plus they were being pervy
+08 Feb 2017 13:24:32 : LimitlessMc, mainchat, Crystal4209#4698, also lightning i got a book from adam for you
+08 Feb 2017 13:24:42 : LimitlessMc, botchat, Crystal4209#4698, ;train
+08 Feb 2017 13:24:42 : LimitlessMc, botchat, Botfuzzy77#2209, You *Lost* to a Level 80 **Elgyem** (32% to beat)
+You *Lost* to a Level 100 **Nidorino** (26% to beat)
+You *Lost* to a Level 74 **Heracross** (35% to beat)
+You **Beat** a Level 70 **Marshtomp** for 2,614 XP (37% to beat)
+You **Beat** a Level 38 **Drilbur** for 1,313 XP (68% to beat)
+You *Lost* to a Level 72 **Lotad** (36% to beat)
+You *Lost* to a Level 89 **Hydreigon** (29% to beat)
+You **Beat** a Level 48 **Stunky** for 1,906 XP (54% to beat)
+You *Lost* to a Level 100 **Barboach** (26% to beat)
+You *Lost* to a Level 70 **Cubone** (37% to beat)
+You *Lost* to a Level 37 **Wurmple** (70% to beat)
+You **Beat** a Level 30 **Mesprit** for 554 XP (86% to beat)
+You *Lost* to a Level 72 **Paras** (36% to beat)
+You *Lost* to a Level 93 **Solrock** (27% to beat)
+You use a **Lucky Egg** to gain more XP!
+You Find a **Ultra Pokeloot** worth 17,866 XP
+08 Feb 2017 13:24:42 : LimitlessMc, botchat, Botfuzzy77#2209, You Have Leveled up from **52** to **53**!
+08 Feb 2017 13:24:42 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 24,469 XP!
+08 Feb 2017 13:24:44 : LimitlessMc, mainchat, Lightning#6734, o dear
+08 Feb 2017 13:24:52 : LimitlessMc, mainchat, Crystal4209#4698, FANFICTION
+08 Feb 2017 13:24:58 : LimitlessMc, mainchat, Lightning#6734, plsno
+08 Feb 2017 13:25:04 : LimitlessMc, mainchat, Crystal4209#4698, about
+08 Feb 2017 13:25:11 : LimitlessMc, mainchat, Crystal4209#4698, you
+08 Feb 2017 13:25:13 : LimitlessMc, mainchat, Crystal4209#4698, and
+08 Feb 2017 13:25:15 : LimitlessMc, mainchat, Crystal4209#4698, aussie
+08 Feb 2017 13:25:17 : LimitlessMc, mainchat, Lightning#6734, am concern
+08 Feb 2017 13:25:33 : LimitlessMc, mainchat, Crystal4209#4698, all adams fanfic btw
+08 Feb 2017 13:25:38 : LimitlessMc, botchat, MoonWolf#8885, ;train
+08 Feb 2017 13:25:38 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 48 **Bunnelby** for 1,879 XP (57% to beat)
+You *Lost* to a Level 76 **Munna** (36% to beat)
+You *Lost* to a Level 39 **Sunflora** (70% to beat)
+You **Beat** a Level 48 **Mankey** for 1,879 XP (57% to beat)
+You *Lost* to a Level 82 **Steelix** (33% to beat)
+You *Lost* to a Level 101 **Excadrill** (27% to beat)
+You *Lost* to a Level 71 **Qwilfish** (38% to beat)
+You **Beat** a Level 32 **Grumpig** for 618 XP (85% to beat)
+You **Beat** a Level 53 **Trapinch** for 2,116 XP (51% to beat)
+You *Lost* to a Level 66 **Amaura** (41% to beat)
+You *Lost* to a Level 105 **Sigilyph** (26% to beat)
+You *Lost* to a Level 99 **Electrike** (27% to beat)
+You *Lost* to a Level 100 **Shedinja** (27% to beat)
+You *Lost* to a Level 57 **Beartic** (48% to beat)
+You *Lost* to a Level 102 **Florges** (26% to beat)
+You use a **Lucky Egg** to gain more XP!
+You Find a **Pokeloot** worth 4,391 XP
+08 Feb 2017 13:25:38 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 14,129 XP!
+08 Feb 2017 13:25:56 : LimitlessMc, botchat, Crystal4209#4698, ;rankings
+08 Feb 2017 13:26:00 : LimitlessMc, botchat, Crystal4209#4698, ;ranking
+08 Feb 2017 13:26:00 : LimitlessMc, botchat, Botfuzzy77#2209, :first_place: **TherminatorX** Level **80**
+:second_place: **Wertfuzzy77** Level **62**
+:third_place: **DanTurboX** Level **55**
+:medal: MoonWolf Level 55
+:medal: jjtwilefc Level 53
+:medal: Crystal4209 Level 53
+:medal: MrMudkipKipperten Level 48
+:medal: theOnlyJuan Level 46
+:medal: Bakafish Level 38
+:medal: 🌟💖Resolate💖🌟 Level 33
+08 Feb 2017 13:26:21 : LimitlessMc, mainchat, Crystal4209#4698, need to get in voice to read it tho need a reaction
+08 Feb 2017 13:26:51 : LimitlessMc, mainchat, Lightning#6734, am eatin
+08 Feb 2017 13:27:06 : LimitlessMc, mainchat, Lightning#6734, i mayb join aftr i eat
+08 Feb 2017 13:27:14 : LimitlessMc, mainchat, Crystal4209#4698, i might be in bed....
+08 Feb 2017 13:27:29 : LimitlessMc, mainchat, Crystal4209#4698, there @Adam a snapchat from me
+08 Feb 2017 13:27:46 : LimitlessMc, mainchat, Crystal4209#4698, oh shit you opened it
+08 Feb 2017 13:27:53 : LimitlessMc, mainchat, Crystal4209#4698, spooky o.o
+08 Feb 2017 13:30:59 : LimitlessMc, mainchat, Crystal4209#4698, hmm might go sleep no friends to talk to
+08 Feb 2017 13:31:22 : LimitlessMc, mainchat, Crystal4209#4698, since all of them are asses
+08 Feb 2017 13:36:47 : LimitlessMc, mainchat, Crystal4209#4698, alright i need to head off
+08 Feb 2017 14:04:45 : LimitlessMc, botchat, Crystal4209#4698, ;train
+08 Feb 2017 14:04:46 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 1,196 seconds before you can train again.
+08 Feb 2017 14:04:52 : LimitlessMc, botchat, Crystal4209#4698, Obooo
+08 Feb 2017 14:08:11 : LimitlessMc, mainchat, Red_Dragon_333#4168, Hi
+08 Feb 2017 14:22:40 : LimitlessMc, mainchat, Red_Dragon_333#4168, I am lonely
+08 Feb 2017 14:23:08 : LimitlessMc, mainchat, Red_Dragon_333#4168, If anyone is on goe in voicechat i come after i eat
+08 Feb 2017 14:37:52 : LimitlessMc, botchat, Red_Dragon_333#4168, :youtube https://www.youtube.com/watch?v=1-xGerv5FOk
+08 Feb 2017 14:38:02 : LimitlessMc, botchat, Red_Dragon_333#4168, ;youtube https://www.youtube.com/watch?v=1-xGerv5FOk
+08 Feb 2017 14:38:04 : LimitlessMc, botchat, Botfuzzy77#2209, Added Alan Walker - Alone to the queue
+08 Feb 2017 14:38:42 : LimitlessMc, botchat, Red_Dragon_333#4168, ;youtube https://www.youtube.com/watch?v=60ItHLz5WEA
+08 Feb 2017 14:38:44 : LimitlessMc, botchat, Botfuzzy77#2209, Added Alan Walker - Faded to the queue
+08 Feb 2017 14:38:46 : LimitlessMc, botchat, Red_Dragon_333#4168, ;loop
+08 Feb 2017 14:38:47 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*Alan Walker - Alone*' **1** more times
+08 Feb 2017 14:41:44 : LimitlessMc, botchat, Red_Dragon_333#4168, ;youtube https://www.youtube.com/watch?v=2i2khp_npdE
+08 Feb 2017 14:41:45 : LimitlessMc, botchat, Botfuzzy77#2209, Added Alan Walker - Sing Me To Sleep to the queue
+08 Feb 2017 15:07:46 : LimitlessMc, botchat, Kahuna_#4321, ;train
+08 Feb 2017 15:07:46 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 16 **Stunfisk** for 480 XP (75% to beat)
+You **Beat** a Level 25 **Shroomish** for 998 XP (48% to beat)
+You **Beat** a Level 38 **Omanyte** for 1,313 XP (31% to beat)
+You *Lost* to a Level 36 **Lapras** (33% to beat)
+You *Lost* to a Level 35 **Palpitoad** (34% to beat)
+You **Beat** a Level 45 **Landorus** for 1,408 XP (26% to beat)
+You **Beat** a Level 22 **Aromatisse** for 872 XP (54% to beat)
+You Find a **Pokeloot** worth 391 XP
+You Find a **Ultra Pokeloot** worth 1,876 XP
+08 Feb 2017 15:07:46 : LimitlessMc, botchat, Botfuzzy77#2209, You Have Leveled up from **24** to **25**!
+08 Feb 2017 15:07:47 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 7,026 XP!
+08 Feb 2017 15:07:50 : LimitlessMc, botchat, Kahuna_#4321, ._.
+08 Feb 2017 15:07:51 : LimitlessMc, botchat, Kahuna_#4321, nice.
+08 Feb 2017 15:07:57 : LimitlessMc, botchat, Kahuna_#4321, 25 more levels
+08 Feb 2017 15:07:59 : LimitlessMc, botchat, Kahuna_#4321, for hardmode
+08 Feb 2017 15:08:03 : LimitlessMc, botchat, Kahuna_#4321, ;pokeboss
+08 Feb 2017 15:08:03 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Medium Boss Pokemon** =-
+*Name*: Riolu
+*Health*: 41,731/41800 (99.83%)
+*Level*: 44
+Last Combo:
+:regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g:
+:x: :white_check_mark: :x: :x: :x: :x: :x: :x:
+08 Feb 2017 15:08:03 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Feb 2017 15:08:03 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **MrMudkipKipperten** with **69** damage
+08 Feb 2017 15:08:14 : LimitlessMc, botchat, Kahuna_#4321, ;pokeboss wgwwwwww
+08 Feb 2017 15:08:14 : LimitlessMc, botchat, Botfuzzy77#2209, wut
+08 Feb 2017 15:08:22 : LimitlessMc, botchat, Kahuna_#4321, ;pokebattle wgwwwwww
+08 Feb 2017 15:08:22 : LimitlessMc, botchat, Botfuzzy77#2209, Level 44 Boss **Riolu** in Medium has 41,731 health left.
+08 Feb 2017 15:08:22 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Feb 2017 15:08:22 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_g: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w:
+:x: :white_check_mark: :x: :x: :x: :x: :x: :x:
+08 Feb 2017 15:08:22 : LimitlessMc, botchat, Botfuzzy77#2209, Its a Critical Strike
+Your moves did **57** damage
+Your gained **5** XP
+08 Feb 2017 15:08:22 : LimitlessMc, botchat, Botfuzzy77#2209, Level 44 Boss **Riolu** has 41,674 health left.
+08 Feb 2017 15:12:47 : LimitlessMc, botchat, Kahuna_#4321, ;pokebattle sgssssss
+08 Feb 2017 15:12:47 : LimitlessMc, botchat, Botfuzzy77#2209, Level 44 Boss **Riolu** in Medium has 41,674 health left.
+08 Feb 2017 15:12:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Feb 2017 15:12:47 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_s: :regional_indicator_g: :regional_indicator_s: :regional_indicator_s: :regional_indicator_s: :regional_indicator_s: :regional_indicator_s: :regional_indicator_s:
+:x: :white_check_mark: :x: :white_check_mark: :x: :x: :x: :x:
+08 Feb 2017 15:12:47 : LimitlessMc, botchat, Botfuzzy77#2209, Its a Critical Strike
+Your moves did **101** damage
+Your gained **10** XP
+08 Feb 2017 15:12:47 : LimitlessMc, botchat, Botfuzzy77#2209, Level 44 Boss **Riolu** has 41,573 health left.
+08 Feb 2017 15:12:49 : LimitlessMc, botchat, Kahuna_#4321, ok
+08 Feb 2017 15:12:54 : LimitlessMc, botchat, Kahuna_#4321, ;level
+08 Feb 2017 15:12:54 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *PostalOffice*
+**Level**: 25
+**Prestige**: 0
+08 Feb 2017 15:12:54 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Feb 2017 15:12:54 : LimitlessMc, botchat, Botfuzzy77#2209, **XP**: 3,675/17,576
+**Boss Takedowns**: 2
+**Most Dmg in an Attack**: 23,152
+08 Feb 2017 15:13:06 : LimitlessMc, botchat, Kahuna_#4321, ;settype steal
+08 Feb 2017 15:13:06 : LimitlessMc, botchat, Botfuzzy77#2209, You must pick a type from ;types
+08 Feb 2017 15:13:08 : LimitlessMc, botchat, Kahuna_#4321, ;settype steel
+08 Feb 2017 15:13:09 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Steel type
+08 Feb 2017 15:13:15 : LimitlessMc, botchat, Kahuna_#4321, i suck at spelling
+08 Feb 2017 15:13:37 : LimitlessMc, botchat, Kahuna_#4321, ;pokebattle pgpspppp
+08 Feb 2017 15:13:37 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 41 seconds before you can fight the boss again.
+08 Feb 2017 15:13:39 : LimitlessMc, botchat, Kahuna_#4321, .
+08 Feb 2017 15:14:19 : LimitlessMc, botchat, Kahuna_#4321, ;pokebattle pgpspppp
+08 Feb 2017 15:14:19 : LimitlessMc, botchat, Botfuzzy77#2209, Level 44 Boss **Riolu** in Medium has 41,573 health left.
+08 Feb 2017 15:14:19 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Feb 2017 15:14:20 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_p: :regional_indicator_g: :regional_indicator_p: :regional_indicator_s: :regional_indicator_p: :regional_indicator_p: :regional_indicator_p: :regional_indicator_p:
+:x: :white_check_mark: :x: :white_check_mark: :x: :x: :x: :x:
+08 Feb 2017 15:14:20 : LimitlessMc, botchat, Botfuzzy77#2209, STAB bonus damage for Steel type (1x)
+Your moves did **76** damage
+Your gained **7** XP
+08 Feb 2017 15:14:20 : LimitlessMc, botchat, Botfuzzy77#2209, Level 44 Boss **Riolu** has 41,497 health left.
+08 Feb 2017 15:14:22 : LimitlessMc, botchat, Kahuna_#4321, .
+08 Feb 2017 15:15:39 : LimitlessMc, botchat, Kahuna_#4321, ;pokebattle ngnsnnnn
+08 Feb 2017 15:15:39 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 11 seconds before you can fight the boss again.
+08 Feb 2017 15:15:41 : LimitlessMc, botchat, Kahuna_#4321, OK.
+08 Feb 2017 15:15:53 : LimitlessMc, botchat, Kahuna_#4321, ;settype normal
+08 Feb 2017 15:15:53 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Normal type
+08 Feb 2017 15:15:56 : LimitlessMc, botchat, Kahuna_#4321, ;pokebattle ngnsnnnn
+08 Feb 2017 15:15:56 : LimitlessMc, botchat, Botfuzzy77#2209, Level 44 Boss **Riolu** in Medium has 41,497 health left.
+08 Feb 2017 15:15:56 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Feb 2017 15:15:56 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_g: :regional_indicator_n: :regional_indicator_s: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :white_check_mark: :white_check_mark: :white_check_mark: :x: :x: :x: :x:
+08 Feb 2017 15:15:56 : LimitlessMc, botchat, Botfuzzy77#2209, STAB bonus damage for Normal type (1x)
+Your moves did **119** damage
+Your gained **11** XP
+08 Feb 2017 15:16:00 : LimitlessMc, botchat, Botfuzzy77#2209, Level 44 Boss **Riolu** has 41,378 health left.
+08 Feb 2017 15:47:09 : LimitlessMc, botchat, theOnlyJuan#9357, ;cd
+08 Feb 2017 15:47:09 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You can Train right now!
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+08 Feb 2017 15:47:13 : LimitlessMc, botchat, theOnlyJuan#9357, ;train
+08 Feb 2017 15:47:13 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 56 **Chingling** for 2,168 XP (41% to beat)
+You *Lost* to a Level 89 **Tauros** (25% to beat)
+You *Lost* to a Level 44 **Magneton** (52% to beat)
+You *Lost* to a Level 79 **Electabuzz** (29% to beat)
+You **Beat** a Level 91 **Cradily** for 2,749 XP (25% to beat)
+You *Lost* to a Level 26 **Terrakion** (88% to beat)
+You *Lost* to a Level 77 **Quagsire** (29% to beat)
+You **Beat** a Level 27 **Victini** for 545 XP (85% to beat)
+You **Beat** a Level 37 **Yanmega** for 1,392 XP (62% to beat)
+You *Lost* to a Level 39 **Shiftry** (58% to beat)
+You *Lost* to a Level 28 **Pansage** (82% to beat)
+You *Lost* to a Level 75 **Yanma** (30% to beat)
+You *Lost* to a Level 52 **Registeel** (44% to beat)
+08 Feb 2017 15:47:13 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 6,854 XP!
+08 Feb 2017 15:47:42 : LimitlessMc, botchat, theOnlyJuan#9357, Lost to registeel, noo thats the last regi I needed
+08 Feb 2017 15:47:50 : LimitlessMc, botchat, theOnlyJuan#9357, ;pokeboss
+08 Feb 2017 15:47:50 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Medium Boss Pokemon** =-
+*Name*: Riolu
+*Health*: 41,378/41800 (98.99%)
+*Level*: 44
+Last Combo:
+:regional_indicator_n: :regional_indicator_g: :regional_indicator_n: :regional_indicator_s: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :white_check_mark: :white_check_mark: :white_check_mark: :x: :x: :x: :x:
+08 Feb 2017 15:47:50 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Feb 2017 15:47:50 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **Kahuna_** with **353** damage
+08 Feb 2017 15:47:50 : LimitlessMc, botchat, Botfuzzy77#2209, 2nd most Damage by *MrMudkipKipperten* with *69* damage
+08 Feb 2017 15:48:06 : LimitlessMc, botchat, theOnlyJuan#9357, ;pokebattle egnseeee
+08 Feb 2017 15:48:07 : LimitlessMc, botchat, Botfuzzy77#2209, Level 44 Boss **Riolu** in Medium has 41,378 health left.
+08 Feb 2017 15:48:07 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Feb 2017 15:48:07 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_e: :regional_indicator_g: :regional_indicator_n: :regional_indicator_s: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e:
+:x: :white_check_mark: :white_check_mark: :white_check_mark: :x: :x: :x: :x:
+08 Feb 2017 15:48:07 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **173** damage
+Your gained **17** XP
+08 Feb 2017 15:48:07 : LimitlessMc, botchat, Botfuzzy77#2209, Level 44 Boss **Riolu** has 41,205 health left.
+08 Feb 2017 15:48:17 : LimitlessMc, botchat, theOnlyJuan#9357, ;gamble
+08 Feb 2017 15:48:17 : LimitlessMc, botchat, Botfuzzy77#2209, You need to gamble atleast 6,489 XP
+08 Feb 2017 15:48:25 : LimitlessMc, botchat, theOnlyJuan#9357, ;gamble 7000
+08 Feb 2017 15:48:25 : LimitlessMc, botchat, Botfuzzy77#2209, You have lost your offering...
+08 Feb 2017 15:48:28 : LimitlessMc, botchat, theOnlyJuan#9357, Rip
+08 Feb 2017 15:48:31 : LimitlessMc, botchat, theOnlyJuan#9357, ;level
+08 Feb 2017 15:48:32 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *theOnlyJuan*
+**Level**: 46
+**Prestige**: 0
+08 Feb 2017 15:48:32 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Feb 2017 15:48:32 : LimitlessMc, botchat, Botfuzzy77#2209, **XP**: 348/103,823
+**Boss Takedowns**: 5
+**Most Dmg in an Attack**: 13,069
+08 Feb 2017 15:49:49 : LimitlessMc, botchat, Kahuna_#4321, ;pokeboss
+08 Feb 2017 15:49:49 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Medium Boss Pokemon** =-
+*Name*: Riolu
+*Health*: 41,205/41800 (98.58%)
+*Level*: 44
+Last Combo:
+:regional_indicator_e: :regional_indicator_g: :regional_indicator_n: :regional_indicator_s: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e:
+:x: :white_check_mark: :white_check_mark: :white_check_mark: :x: :x: :x: :x:
+08 Feb 2017 15:49:49 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Feb 2017 15:49:49 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **Kahuna_** with **353** damage
+08 Feb 2017 15:49:49 : LimitlessMc, botchat, Botfuzzy77#2209, 2nd most Damage by *theOnlyJuan* with *173* damage
+08 Feb 2017 15:49:49 : LimitlessMc, botchat, Botfuzzy77#2209, 3rd most Damage by *MrMudkipKipperten* with *69* damage
+08 Feb 2017 15:50:12 : LimitlessMc, botchat, Kahuna_#4321, ;pokebattle ignsiiii
+08 Feb 2017 15:50:12 : LimitlessMc, botchat, Botfuzzy77#2209, Level 44 Boss **Riolu** in Medium has 41,205 health left.
+08 Feb 2017 15:50:12 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Feb 2017 15:50:12 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_g: :regional_indicator_n: :regional_indicator_s: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i:
+:x: :white_check_mark: :white_check_mark: :white_check_mark: :x: :x: :x: :x:
+08 Feb 2017 15:50:12 : LimitlessMc, botchat, Botfuzzy77#2209, STAB bonus damage for Normal type (1x)
+Your moves did **88** damage
+Your gained **8** XP
+08 Feb 2017 15:50:12 : LimitlessMc, botchat, Botfuzzy77#2209, Level 44 Boss **Riolu** has 41,117 health left.
+08 Feb 2017 15:51:13 : LimitlessMc, mainchat, theOnlyJuan#9357, Lol everyone just need someone to talk to. And I'm just here in class like , "all these people need to shut up. Its too early" 😂
+08 Feb 2017 15:51:36 : LimitlessMc, botchat, theOnlyJuan#9357, ;cd
+08 Feb 2017 15:51:36 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 3,337 seconds
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+08 Feb 2017 15:51:50 : LimitlessMc, botchat, theOnlyJuan#9357, ;pokebattle wgnswwww
+08 Feb 2017 15:51:50 : LimitlessMc, botchat, Botfuzzy77#2209, Level 44 Boss **Riolu** in Medium has 41,117 health left.
+08 Feb 2017 15:51:51 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Feb 2017 15:51:51 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_g: :regional_indicator_n: :regional_indicator_s: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w:
+:x: :white_check_mark: :white_check_mark: :white_check_mark: :x: :x: :x: :x:
+08 Feb 2017 15:51:51 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **147** damage
+Your gained **14** XP
+08 Feb 2017 15:51:51 : LimitlessMc, botchat, Botfuzzy77#2209, Level 44 Boss **Riolu** has 40,970 health left.
+08 Feb 2017 15:51:57 : LimitlessMc, botchat, theOnlyJuan#9357, ;types
+08 Feb 2017 15:51:57 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Possible Types ** =-
+:regional_indicator_n: ormal
+:regional_indicator_f: ire
+:regional_indicator_w: ater
+:regional_indicator_g: rass
+:regional_indicator_p: oison
+:regional_indicator_d: ragon
+:regional_indicator_s: teel
+:regional_indicator_e: lectric
+:regional_indicator_b: ug
+:regional_indicator_i: ce
+08 Feb 2017 15:52:12 : LimitlessMc, botchat, theOnlyJuan#9357, ;cd
+08 Feb 2017 15:52:12 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 69 seconds
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 3,302 seconds
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+08 Feb 2017 15:54:50 : LimitlessMc, botchat, Kahuna_#4321, already tried w
+08 Feb 2017 15:55:10 : LimitlessMc, botchat, Kahuna_#4321, ;pokebattle fgnsffff
+08 Feb 2017 15:55:10 : LimitlessMc, botchat, Botfuzzy77#2209, Level 44 Boss **Riolu** in Medium has 40,970 health left.
+08 Feb 2017 15:55:10 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Feb 2017 15:55:10 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_g: :regional_indicator_n: :regional_indicator_s: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f:
+:x: :white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :x: :x:
+08 Feb 2017 15:55:10 : LimitlessMc, botchat, Botfuzzy77#2209, STAB bonus damage for Normal type (1x)
+Your moves did **104** damage
+Your gained **10** XP
+08 Feb 2017 15:55:10 : LimitlessMc, botchat, Botfuzzy77#2209, Level 44 Boss **Riolu** has 40,866 health left.
+08 Feb 2017 15:58:37 : LimitlessMc, mainchat, Jay113355#4999, Rood
+08 Feb 2017 16:07:09 : Pokemon Mystery Dungeon, general, Ser_Smiles#5107, Woot woot
+08 Feb 2017 16:09:45 : LimitlessMc, mainchat, Kahuna_#4321, gg
+08 Feb 2017 16:17:04 : LimitlessMc, botchat, MoonWolf#8885, ;train
+08 Feb 2017 16:17:04 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 51 **Archeops** for 2,027 XP (53% to beat)
+You **Beat** a Level 32 **Mienshao** for 618 XP (85% to beat)
+You **Beat** a Level 41 **Jellicent** for 1,448 XP (67% to beat)
+You *Lost* to a Level 97 **Greninja** (28% to beat)
+You **Beat** a Level 51 **Haunter** for 2,027 XP (53% to beat)
+You **Beat** a Level 92 **Kadabra** for 3,084 XP (29% to beat)
+You *Lost* to a Level 51 **Pansear** (53% to beat)
+You *Lost* to a Level 80 **Krokorok** (34% to beat)
+You *Lost* to a Level 67 **Heracross** (41% to beat)
+You *Lost* to a Level 85 **Seismitoad** (32% to beat)
+You **Beat** a Level 51 **Vaporeon** for 2,027 XP (53% to beat)
+You **Beat** a Level 36 **Gastrodon** for 1,038 XP (76% to beat)
+You *Lost* to a Level 80 **Marill** (34% to beat)
+You *Lost* to a Level 94 **Shroomish** (29% to beat)
+You **Beat** a Level 34 **Ferroseed** for 841 XP (80% to beat)
+08 Feb 2017 16:17:04 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 13,110 XP!
+08 Feb 2017 16:17:10 : LimitlessMc, botchat, MoonWolf#8885, ;level
+08 Feb 2017 16:17:10 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *MoonWolf*
+**Level**: 55
+**Prestige**: 0
+08 Feb 2017 16:17:10 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Feb 2017 16:17:10 : LimitlessMc, botchat, Botfuzzy77#2209, **XP**: 93,954/175,616
+**Boss Takedowns**: 12
+**Most Dmg in an Attack**: 11,485
+08 Feb 2017 16:17:13 : LimitlessMc, botchat, MoonWolf#8885, ;gamble 93954
+08 Feb 2017 16:17:13 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained back your offering and more!
+08 Feb 2017 16:17:13 : LimitlessMc, botchat, Botfuzzy77#2209, You Have Leveled up from **55** to **56**!
+08 Feb 2017 16:17:23 : LimitlessMc, botchat, MoonWolf#8885, ;image Yeah boi
+08 Feb 2017 16:17:24 : LimitlessMc, botchat, Botfuzzy77#2209, https://i.ytimg.com/vi/0mHNQJxMKVI/maxresdefault.jpg
+08 Feb 2017 16:24:07 : nein, general, shuck#1142, ;pokebattle fgfin
+08 Feb 2017 16:24:07 : nein, general, Botfuzzy77#2209, Level 9 Boss **Clauncher** in Easy has 5,003 health left.
+08 Feb 2017 16:24:07 : nein, general, Botfuzzy77#2209, 
+08 Feb 2017 16:24:07 : nein, general, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_g: :regional_indicator_f: :regional_indicator_i: :regional_indicator_n:
+:white_check_mark: :x: :x: :x: :x:
+08 Feb 2017 16:24:07 : nein, general, Botfuzzy77#2209, Rival Bonus!
+Your moves did **8** damage
+Your gained **1** XP
+08 Feb 2017 16:24:07 : nein, general, Botfuzzy77#2209, Level 9 Boss **Clauncher** has 4,995 health left.
+08 Feb 2017 16:24:19 : nein, general, shuck#1142, bruh how does this work?
+08 Feb 2017 16:24:21 : nein, general, shuck#1142, ;train
+08 Feb 2017 16:24:21 : nein, general, Botfuzzy77#2209, You *Lost* to a Level 7 **Gorebyss** (35% to beat)
+You **Beat** a Level 2 **Hawlucha** for 40 XP (90% to beat)
+You Find a **Pokeloot** worth 6 XP
+08 Feb 2017 16:24:22 : nein, general, Botfuzzy77#2209, You trained for 46 XP!
+08 Feb 2017 16:24:32 : nein, general, shuck#1142, ;level
+08 Feb 2017 16:24:32 : nein, general, Botfuzzy77#2209, **Name**: *shuck*
+**Level**: 5
+**Prestige**: 0
+08 Feb 2017 16:24:32 : nein, general, Botfuzzy77#2209, 
+08 Feb 2017 16:24:32 : nein, general, Botfuzzy77#2209, **XP**: 114/216
+**Boss Takedowns**: 0
+**Most Dmg in an Attack**: 344
+08 Feb 2017 16:24:54 : nein, general, shuck#1142, ;join
+08 Feb 2017 16:24:54 : nein, general, Botfuzzy77#2209, Reconnected channel!
+08 Feb 2017 16:25:02 : nein, general, shuck#1142, ;search written in the stars
+08 Feb 2017 16:25:04 : nein, general, Botfuzzy77#2209, Added Tinie Tempah - Written In The Stars ft. Eric Turner to the queue
+08 Feb 2017 16:25:04 : nein, general, Botfuzzy77#2209, https://www.youtube.com/watch?v=YgFyi74DVjc
+08 Feb 2017 16:25:08 : nein, general, shuck#1142, ;search no regrets
+08 Feb 2017 16:25:09 : nein, general, Botfuzzy77#2209, Added MAGIC! - No Regrets to the queue
+08 Feb 2017 16:25:09 : nein, general, Botfuzzy77#2209, https://www.youtube.com/watch?v=_UAh245xaac
+08 Feb 2017 16:25:17 : nein, general, shuck#1142, ;search till i collapse
+08 Feb 2017 16:25:19 : nein, general, Botfuzzy77#2209, Added Eminem - Till I Collapse [HD] to the queue
+08 Feb 2017 16:25:19 : nein, general, Botfuzzy77#2209, https://www.youtube.com/watch?v=ytQ5CYE1VZw
+08 Feb 2017 16:25:20 : nein, general, shuck#1142, ;songs
+08 Feb 2017 16:25:20 : nein, general, Botfuzzy77#2209, **The Following songs are in the Queue**
+08 Feb 2017 16:25:20 : nein, general, Botfuzzy77#2209, 1. MAGIC! - No Regrets **shuck**
+	<https://www.youtube.com/watch?v=_UAh245xaac>
+2. Eminem - Till I Collapse [HD] **shuck**
+	<https://www.youtube.com/watch?v=ytQ5CYE1VZw>
+Total Time is 0:09:00
+08 Feb 2017 16:25:25 : nein, general, shuck#1142, ;remove 1
+08 Feb 2017 16:25:25 : nein, general, Botfuzzy77#2209, Removed: MAGIC! - No Regrets
+08 Feb 2017 16:26:14 : nein, general, shuck#1142, ;seach nelly no regrets
+08 Feb 2017 16:26:37 : nein, general, shuck#1142, ;search i need a doctor
+08 Feb 2017 16:26:38 : nein, general, Botfuzzy77#2209, Added Dr. Dre - I Need A Doctor (Explicit) ft. Eminem, Skylar Grey to the queue
+08 Feb 2017 16:26:38 : nein, general, Botfuzzy77#2209, https://www.youtube.com/watch?v=VA770wpLX-Q
+08 Feb 2017 16:26:58 : nein, general, shuck#1142, ;search chiddy bang mind your manners
+08 Feb 2017 16:26:59 : nein, general, Botfuzzy77#2209, Added Chiddy Bang - Mind Your Manners [LYRIC VIDEO] to the queue
+08 Feb 2017 16:27:00 : nein, general, Botfuzzy77#2209, https://www.youtube.com/watch?v=nKyRBCW-Rcg
+08 Feb 2017 16:27:12 : nein, general, shuck#1142, ;search chiddy bang oposite of adult
+08 Feb 2017 16:27:13 : nein, general, Botfuzzy77#2209, Added Chiddy Bang - Opposite of Adult to the queue
+08 Feb 2017 16:27:13 : nein, general, Botfuzzy77#2209, https://www.youtube.com/watch?v=yzkDyASsJRo
+08 Feb 2017 16:27:30 : nein, general, shuck#1142, ;search owl city good time
+08 Feb 2017 16:27:32 : nein, general, Botfuzzy77#2209, Added Owl City & Carly Rae Jepsen - Good Time to the queue
+08 Feb 2017 16:27:32 : nein, general, Botfuzzy77#2209, https://www.youtube.com/watch?v=H7HmzwI67ec
+08 Feb 2017 16:27:54 : nein, general, shuck#1142, @Fat Dankdra
+08 Feb 2017 16:30:34 : LimitlessMc, mainchat, Red_Dragon_333#4168, hey jay
+08 Feb 2017 16:33:50 : nein, general, shuck#1142, @TheLegend27
+08 Feb 2017 16:33:57 : nein, general, shuck#1142, ;song
+08 Feb 2017 16:33:57 : nein, general, Botfuzzy77#2209, **Name**: Dr. Dre - I Need A Doctor (Explicit) ft. Eminem, Skylar Grey
+**Requester**: shuck
+**URL**: <https://www.youtube.com/watch?v=VA770wpLX-Q>
+```py
+Time: 0:07:37
+Views: 272,526,715
+Likes: 1,358,854, 96.81%
+Dislikes: 44,818, 3.19%
+Skips: 0/0```
+08 Feb 2017 16:38:25 : nein, general, shuck#1142, ;pokebattle hdfiuhsdf
+08 Feb 2017 16:38:25 : nein, general, Botfuzzy77#2209, Please use a Combination of **5** Types. `;types`
+08 Feb 2017 16:38:41 : nein, general, shuck#1142, ;pokebattle nnnnn
+08 Feb 2017 16:38:41 : nein, general, Botfuzzy77#2209, Level 9 Boss **Clauncher** in Easy has 4,995 health left.
+08 Feb 2017 16:38:41 : nein, general, Botfuzzy77#2209, 
+08 Feb 2017 16:38:41 : nein, general, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :x: :x:
+08 Feb 2017 16:38:41 : nein, general, Botfuzzy77#2209, Rival Bonus!
+Your moves did **1** damage
+Your gained **1** XP
+08 Feb 2017 16:38:41 : nein, general, Botfuzzy77#2209, Level 9 Boss **Clauncher** has 4,994 health left.
+08 Feb 2017 16:39:51 : nein, general, shuck#1142, ;skip
+08 Feb 2017 16:39:51 : nein, general, Botfuzzy77#2209, Skipping Dr. Dre - I Need A Doctor (Explicit) ft. Eminem, Skylar Grey by request of the requester
+08 Feb 2017 16:39:56 : nein, general, shuck#1142, ;song
+08 Feb 2017 16:39:56 : nein, general, Botfuzzy77#2209, **Name**: Chiddy Bang - Mind Your Manners [LYRIC VIDEO]
+**Requester**: shuck
+**URL**: <https://www.youtube.com/watch?v=nKyRBCW-Rcg>
+```py
+Time: 0:03:17
+Views: 5,857,606
+Likes: 31,431, 97.86%
+Dislikes: 687, 2.14%
+Skips: 0/0```
+08 Feb 2017 16:45:36 : LimitlessMc, botchat, Red_Dragon_333#4168, ;youtube  https://www.youtube.com/watch?v=9qoqcEB6_D8
+08 Feb 2017 16:45:36 : LimitlessMc, botchat, Botfuzzy77#2209, You need to be in the voice channel!
+08 Feb 2017 16:45:48 : LimitlessMc, botchat, Red_Dragon_333#4168, ;youtube https://www.youtube.com/watch?v=9qoqcEB6_D8
+08 Feb 2017 16:45:49 : LimitlessMc, botchat, Botfuzzy77#2209, Sorry, that video is too long, it must be under [20.0] minutes!
+08 Feb 2017 16:46:00 : LimitlessMc, botchat, Red_Dragon_333#4168, lol
+08 Feb 2017 16:46:03 : nein, general, shuck#1142, ;skip
+08 Feb 2017 16:46:03 : nein, general, Botfuzzy77#2209, Skipping Chiddy Bang - Opposite of Adult by request of the requester
+08 Feb 2017 16:50:48 : LimitlessMc, botchat, Red_Dragon_333#4168, ;youtube https://www.youtube.com/watch?v=ELD2AwFN9Nc&t=19s
+08 Feb 2017 16:50:50 : LimitlessMc, botchat, Botfuzzy77#2209, Added The Netherlands welcomes Trump in his own words to the queue
+08 Feb 2017 16:53:14 : LimitlessMc, botchat, theOnlyJuan#9357, ;cd
+08 Feb 2017 16:53:14 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You can Train right now!
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+08 Feb 2017 16:53:18 : LimitlessMc, botchat, theOnlyJuan#9357, ;train
+08 Feb 2017 16:53:18 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 67 **Staryu** for 2,416 XP (34% to beat)
+You *Lost* to a Level 50 **Bulbasaur** (46% to beat)
+You **Beat** a Level 39 **Ampharos** for 1,509 XP (58% to beat)
+You **Beat** a Level 42 **Zekrom** for 1,664 XP (54% to beat)
+You **Beat** a Level 45 **Relicanth** for 1,799 XP (51% to beat)
+You **Beat** a Level 38 **Ledyba** for 1,452 XP (60% to beat)
+You *Lost* to a Level 42 **Florges** (54% to beat)
+You **Beat** a Level 89 **Shieldon** for 2,728 XP (25% to beat)
+You *Lost* to a Level 44 **Illumise** (52% to beat)
+You *Lost* to a Level 84 **Pidove** (27% to beat)
+You *Lost* to a Level 57 **Druddigon** (40% to beat)
+You **Beat** a Level 26 **Mantyke** for 424 XP (88% to beat)
+You **Beat** a Level 51 **Blitzle** for 2,020 XP (45% to beat)
+You Find a **Pokeloot** worth 2,596 XP
+08 Feb 2017 16:53:19 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 16,608 XP!
+08 Feb 2017 16:54:03 : LimitlessMc, mainchat, Dasher#6390, what the heck
+08 Feb 2017 16:54:06 : LimitlessMc, mainchat, Dasher#6390, happened
+08 Feb 2017 16:54:12 : LimitlessMc, mainchat, Dasher#6390, in the fuzzy channel
+08 Feb 2017 16:54:12 : LimitlessMc, botchat, theOnlyJuan#9357, ;pokebattle pgnspfpp
+08 Feb 2017 16:54:12 : LimitlessMc, botchat, Botfuzzy77#2209, Level 44 Boss **Riolu** in Medium has 40,866 health left.
+08 Feb 2017 16:54:13 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Feb 2017 16:54:13 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_p: :regional_indicator_g: :regional_indicator_n: :regional_indicator_s: :regional_indicator_p: :regional_indicator_f: :regional_indicator_p: :regional_indicator_p:
+:x: :white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :x: :x:
+08 Feb 2017 16:54:13 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **265** damage
+Your gained **26** XP
+08 Feb 2017 16:54:13 : LimitlessMc, botchat, Botfuzzy77#2209, Level 44 Boss **Riolu** has 40,601 health left.
+08 Feb 2017 16:54:21 : LimitlessMc, mainchat, DicloniusPonyta#6564, @Wertfuzzy77 rate this song. its only 1 minute
+08 Feb 2017 16:54:22 : LimitlessMc, mainchat, DicloniusPonyta#6564, https://www.youtube.com/watch?v=-3ffX_FGiG0
+08 Feb 2017 16:54:53 : LimitlessMc, mainchat, Dasher#6390, 3 seconds into it, and im already sad
+08 Feb 2017 16:54:55 : LimitlessMc, mainchat, Dasher#6390, nope
+08 Feb 2017 16:54:58 : LimitlessMc, mainchat, Dasher#6390, not doing it
+08 Feb 2017 16:55:02 : LimitlessMc, mainchat, DicloniusPonyta#6564, XD
+08 Feb 2017 16:55:10 : LimitlessMc, mainchat, DicloniusPonyta#6564, wert loves sad stuff
+08 Feb 2017 16:55:11 : LimitlessMc, mainchat, Dasher#6390, wait
+08 Feb 2017 16:55:15 : LimitlessMc, mainchat, Dasher#6390, 5 seconds
+08 Feb 2017 16:55:28 : LimitlessMc, mainchat, DicloniusPonyta#6564, its a really good song
+08 Feb 2017 16:56:05 : LimitlessMc, mainchat, Red_Dragon_333#4168, lol$
+08 Feb 2017 16:56:10 : LimitlessMc, mainchat, Red_Dragon_333#4168, i did put it in
+08 Feb 2017 16:57:58 : LimitlessMc, mainchat, Red_Dragon_333#4168, https://www.youtube.com/watch?v=FBtzAYgNFk4
+08 Feb 2017 17:27:05 : LimitlessMc, botchat, Kahuna_#4321, ;types
+08 Feb 2017 17:27:05 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Possible Types ** =-
+:regional_indicator_n: ormal
+:regional_indicator_f: ire
+:regional_indicator_w: ater
+:regional_indicator_g: rass
+:regional_indicator_p: oison
+:regional_indicator_d: ragon
+:regional_indicator_s: teel
+:regional_indicator_e: lectric
+:regional_indicator_b: ug
+:regional_indicator_i: ce
+08 Feb 2017 17:27:12 : LimitlessMc, botchat, Kahuna_#4321, ;pokebattle dgnsdfdd
+08 Feb 2017 17:27:12 : LimitlessMc, botchat, Botfuzzy77#2209, Level 44 Boss **Riolu** in Medium has 40,601 health left.
+08 Feb 2017 17:27:12 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Feb 2017 17:27:13 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_d: :regional_indicator_g: :regional_indicator_n: :regional_indicator_s: :regional_indicator_d: :regional_indicator_f: :regional_indicator_d: :regional_indicator_d:
+:x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark:
+08 Feb 2017 17:27:13 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+STAB bonus damage for Normal type (1x)
+Your moves did **542** damage
+Your gained **54** XP
+08 Feb 2017 17:27:13 : LimitlessMc, botchat, Botfuzzy77#2209, Level 44 Boss **Riolu** has 40,059 health left.
+08 Feb 2017 17:27:45 : LimitlessMc, mainchat, Wertfuzzy77#0274, @DicloniusPonyta japanese version please
+08 Feb 2017 17:27:50 : LimitlessMc, mainchat, Wertfuzzy77#0274, only listen to proper weeb music
+08 Feb 2017 17:28:30 : Cipher, music, Wertfuzzy77#0274, ;join
+08 Feb 2017 17:28:30 : Cipher, music, Botfuzzy77#2209, Connected channel!
+08 Feb 2017 17:28:41 : Cipher, music, Wertfuzzy77#0274, ;playlist Dragons Coldplay
+08 Feb 2017 17:28:47 : Cipher, music, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+08 Feb 2017 17:29:04 : LimitlessMc, mainchat, DicloniusPonyta#6564, i like this girls voice tho
+08 Feb 2017 17:29:23 : LimitlessMc, mainchat, DicloniusPonyta#6564, and i cant find the right same lyrics cause everyone translates the song differently
+08 Feb 2017 17:29:31 : LimitlessMc, mainchat, Wertfuzzy77#0274, sux
+08 Feb 2017 17:29:34 : LimitlessMc, mainchat, Wertfuzzy77#0274, jap only 😛
+08 Feb 2017 17:29:42 : Cipher, music, Wertfuzzy77#0274, ;shuffle
+08 Feb 2017 17:29:42 : Cipher, music, Botfuzzy77#2209, Shuffling songs...
+08 Feb 2017 17:31:58 : LimitlessMc, mainchat, DicloniusPonyta#6564, you're being a weeb
+08 Feb 2017 17:33:26 : Cipher, music, Wertfuzzy77#0274, ;clear
+08 Feb 2017 17:33:26 : Cipher, music, Botfuzzy77#2209, Cleared Queue!
+08 Feb 2017 17:34:10 : Cipher, music, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=s5TIulzXoXo
+08 Feb 2017 17:37:22 : Cipher, music, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=hHRNSeuvzlM
+08 Feb 2017 17:37:23 : Cipher, music, Botfuzzy77#2209, Added Dream On by Aerosmith lyrics to the queue
+08 Feb 2017 17:37:38 : Cipher, music, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=5UFFa1HbFfA
+08 Feb 2017 17:37:39 : Cipher, music, Botfuzzy77#2209, Added Aerosmith Walk This Way Lyrics to the queue
+08 Feb 2017 17:38:23 : LimitlessMc, mainchat, Kahuna_#4321, guys its already spring
+08 Feb 2017 17:38:26 : LimitlessMc, mainchat, Kahuna_#4321, the "groundhog" lied.
+08 Feb 2017 17:40:14 : Cipher, music, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=JBfjU3_XOaA
+08 Feb 2017 17:40:15 : Cipher, music, Botfuzzy77#2209, Added Creedence Clearwater Revival - Fortunate Son - Music Video to the queue
+08 Feb 2017 17:41:10 : Cipher, music, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=kqXSBe-qMGo
+08 Feb 2017 17:41:11 : Cipher, music, Botfuzzy77#2209, Added Van Morrison - Brown Eyed Girl (Original Version) to the queue
+08 Feb 2017 17:41:17 : Cipher, music, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=-Du-CWASm20
+08 Feb 2017 17:41:17 : Cipher, music, Botfuzzy77#2209, Added Sweet Home Alabama Lynyrd Skynyrd to the queue
+08 Feb 2017 17:42:04 : Cipher, music, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=PdLIerfXuZ4 ttps://www.youtube.com/watch?v=1GAKOLOnfV4
+08 Feb 2017 17:42:05 : Cipher, music, Botfuzzy77#2209, Added The Who - Who Are You? to the queue
+08 Feb 2017 17:42:21 : Cipher, music, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=hQo1HIcSVtg
+08 Feb 2017 17:42:21 : Cipher, music, Botfuzzy77#2209, Added Boys Are Back In Town Thin Lizzy to the queue
+08 Feb 2017 17:42:30 : Cipher, music, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=1GAKOLOnfV4
+08 Feb 2017 17:42:30 : Cipher, music, Botfuzzy77#2209, Added Elton John - Rocket Man to the queue
+08 Feb 2017 17:42:46 : Cipher, music, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=Lo2qQmj0_h4
+08 Feb 2017 17:42:46 : Cipher, music, Botfuzzy77#2209, Added AC/DC - You Shook Me All Night Long to the queue
+08 Feb 2017 17:43:55 : Cipher, music, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=np0solnL1XY
+08 Feb 2017 17:43:56 : Cipher, music, Botfuzzy77#2209, Added Lynyrd Skynyrd-Free bird to the queue
+08 Feb 2017 17:45:42 : Cipher, music, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=rMbATaj7Il8
+08 Feb 2017 17:45:42 : Cipher, music, Botfuzzy77#2209, Added Steppenwolf - Born To Be Wild to the queue
+08 Feb 2017 17:46:47 : Cipher, music, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=iC8oP4Z_xPw
+08 Feb 2017 17:46:48 : Cipher, music, Botfuzzy77#2209, Added Joan Jett - I Love Rock 'n' Roll to the queue
+08 Feb 2017 17:46:57 : Cipher, music, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=qKggnBh2Mdw
+08 Feb 2017 17:46:57 : Cipher, music, Botfuzzy77#2209, Added AC/DC - Highway to Hell to the queue
+08 Feb 2017 17:48:06 : Cipher, music, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=A_MjCqQoLLA
+08 Feb 2017 17:48:07 : Cipher, music, Botfuzzy77#2209, Added The Beatles - Hey Jude to the queue
+08 Feb 2017 17:48:08 : Cipher, music, Wertfuzzy77#0274, ;shuffle
+08 Feb 2017 17:48:08 : Cipher, music, Botfuzzy77#2209, Shuffling songs...
+08 Feb 2017 17:48:11 : Cipher, music, Wertfuzzy77#0274, ;sonogs
+08 Feb 2017 17:48:14 : Cipher, music, Wertfuzzy77#0274, ;songs
+08 Feb 2017 17:48:14 : Cipher, music, Botfuzzy77#2209, **The Following songs are in the Queue**
+08 Feb 2017 17:48:14 : Cipher, music, Botfuzzy77#2209, 1. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+2. AC/DC - Highway to Hell **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=qKggnBh2Mdw>
+3. Steppenwolf - Born To Be Wild **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=rMbATaj7Il8>
+4. The Beatles - Hey Jude **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=A_MjCqQoLLA>
+5. Joan Jett - I Love Rock 'n' Roll **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=iC8oP4Z_xPw>
+6. Elton John - Rocket Man **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=1GAKOLOnfV4>
+7. AC/DC - You Shook Me All Night Long **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=Lo2qQmj0_h4>
+8. Lynyrd Skynyrd-Free bird **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=np0solnL1XY>
+9. Boys Are Back In Town Thin Lizzy **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=hQo1HIcSVtg>
+10. Sweet Home Alabama Lynyrd Skynyrd **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=-Du-CWASm20>
+Total Time is 0:49:20
+08 Feb 2017 17:49:01 : LimitlessMc, mainchat, Wertfuzzy77#0274, ... there is snow outside, and we are expected to get like 8 inches of snow tomorrow...
+08 Feb 2017 17:49:06 : LimitlessMc, mainchat, Wertfuzzy77#0274, totally spring
+08 Feb 2017 17:49:15 : Rangers of insanity, general, Wertfuzzy77#0274, spooky icon
+08 Feb 2017 17:50:54 : LimitlessMc, mainchat, Third_Worm#4804, @Adam when I get home, read that to me
+08 Feb 2017 17:53:41 : Rangers of insanity, general, StubbyMuffins#1053, hades from ff7
+08 Feb 2017 17:59:08 : LimitlessMc, mainchat, Third_Worm#4804, Okay I'm home @Adam
+08 Feb 2017 17:59:27 : LimitlessMc, mainchat, Third_Worm#4804, Where you wanna read it at?
+08 Feb 2017 17:59:28 : Rangers of insanity, general, Wertfuzzy77#0274, "elin archer" ayyy, more Lolis
+08 Feb 2017 17:59:37 : LimitlessMc, mainchat, Adam#7575, about to go on my date
+08 Feb 2017 17:59:54 : LimitlessMc, mainchat, Third_Worm#4804, Go on that date then
+08 Feb 2017 18:00:00 : LimitlessMc, mainchat, Third_Worm#4804, I can wait
+08 Feb 2017 18:00:04 : LimitlessMc, mainchat, Adam#7575, ITS BEEN A YEAR HOW DO SPEAK PRETTY GIRL TO
+08 Feb 2017 18:00:10 : Rangers of insanity, weeb, Wertfuzzy77#0274, #StubbyMarriedALoli #TheUltimateWeebDream
+08 Feb 2017 18:00:30 : LimitlessMc, mainchat, Third_Worm#4804, Don't worry
+08 Feb 2017 18:00:32 : LimitlessMc, mainchat, Wertfuzzy77#0274, first you open your mouth
+08 Feb 2017 18:00:34 : LimitlessMc, mainchat, Wertfuzzy77#0274, and use words
+08 Feb 2017 18:00:40 : LimitlessMc, mainchat, Third_Worm#4804, Your instinct will help ya
+08 Feb 2017 18:02:16 : Rangers of insanity, general, StubbyMuffins#1053, lol
+08 Feb 2017 18:11:47 : LimitlessMc, mainchat, Lightning#6734, Words
+08 Feb 2017 18:14:17 : LimitlessMc, mainchat, Kahuna_#4321, Wert. there is no snow outside and it feels liek spring.
+08 Feb 2017 18:14:19 : LimitlessMc, mainchat, Kahuna_#4321, -like
+08 Feb 2017 18:14:43 : LimitlessMc, mainchat, Lightning#6734, Ew
+08 Feb 2017 18:14:54 : Cipher, music, Wertfuzzy77#0274, ;loop
+08 Feb 2017 18:14:55 : Cipher, music, Botfuzzy77#2209, Added '*Elton John - Rocket Man*' **1** more times
+08 Feb 2017 18:15:08 : LimitlessMc, mainchat, Wertfuzzy77#0274, lucky you
+08 Feb 2017 18:15:33 : LimitlessMc, mainchat, Third_Worm#4804, Minecraft or random shit?
+08 Feb 2017 18:16:06 : LimitlessMc, mainchat, Lightning#6734, So i may have surgery
+08 Feb 2017 18:16:09 : LimitlessMc, mainchat, Wertfuzzy77#0274, 
+08 Feb 2017 18:16:18 : LimitlessMc, mainchat, Wertfuzzy77#0274, thats no bueno 😮 @Lightning
+08 Feb 2017 18:16:35 : LimitlessMc, mainchat, Third_Worm#4804, @Lightning that's not good, why?
+08 Feb 2017 18:16:46 : LimitlessMc, mainchat, Lightning#6734, If it keeps me from hurting it is bueno
+08 Feb 2017 18:16:54 : LimitlessMc, mainchat, Lightning#6734, And appendix issues
+08 Feb 2017 18:17:23 : LimitlessMc, mainchat, Third_Worm#4804, I see, I hope,if you do it, it goes well
+08 Feb 2017 18:17:32 : LimitlessMc, mainchat, Lightning#6734, Mee too
+08 Feb 2017 18:29:21 : LimitlessMc, mainchat, DicloniusPonyta#6564, REEEEEEEEEEEEEEEeeeeeeeeeeeeeee
+08 Feb 2017 18:39:15 : LimitlessMc, mainchat, DicloniusPonyta#6564, https://www.youtube.com/watch?v=rnS-05XoXs4
+08 Feb 2017 18:39:19 : LimitlessMc, mainchat, DicloniusPonyta#6564, @Wertfuzzy77 ^
+08 Feb 2017 18:39:25 : LimitlessMc, mainchat, Red_Dragon_333#4168, pony
+08 Feb 2017 18:39:29 : LimitlessMc, mainchat, Red_Dragon_333#4168, come voice
+08 Feb 2017 18:43:25 : LimitlessMc, mainchat, DicloniusPonyta#6564, np
+08 Feb 2017 18:43:26 : LimitlessMc, mainchat, DicloniusPonyta#6564, no
+08 Feb 2017 18:43:33 : LimitlessMc, mainchat, DicloniusPonyta#6564, i am hanging with the cool kids
+08 Feb 2017 18:44:46 : nein, general, shuck#1142, ;youtube https://www.youtube.com/watch?v=YgFyi74DVjc
+08 Feb 2017 18:44:47 : nein, general, Botfuzzy77#2209, Added Tinie Tempah - Written In The Stars ft. Eric Turner to the queue
+08 Feb 2017 18:45:06 : nein, general, shuck#1142, ;youtube https://www.youtube.com/watch?v=ytQ5CYE1VZw
+08 Feb 2017 18:45:07 : nein, general, Botfuzzy77#2209, Added Eminem - Till I Collapse [HD] to the queue
+08 Feb 2017 18:45:28 : nein, general, shuck#1142, ;youtube https://www.youtube.com/watch?v=H7HmzwI67ec
+08 Feb 2017 18:45:29 : nein, general, Botfuzzy77#2209, Added Owl City & Carly Rae Jepsen - Good Time to the queue
+08 Feb 2017 18:45:34 : nein, general, shuck#1142, ;search no regrets nelly
+08 Feb 2017 18:45:36 : nein, general, Botfuzzy77#2209, Added No Regrets (Full Version)- Nelly Furtado with Lyrics to the queue
+08 Feb 2017 18:45:36 : nein, general, Botfuzzy77#2209, https://www.youtube.com/watch?v=nsKzqF_5QHY
+08 Feb 2017 18:45:59 : nein, general, shuck#1142, ;search no regrets
+08 Feb 2017 18:46:00 : nein, general, Botfuzzy77#2209, Added MAGIC! - No Regrets to the queue
+08 Feb 2017 18:46:00 : nein, general, Botfuzzy77#2209, https://www.youtube.com/watch?v=_UAh245xaac
+08 Feb 2017 18:46:05 : nein, general, shuck#1142, ;songs
+08 Feb 2017 18:46:05 : nein, general, Botfuzzy77#2209, **The Following songs are in the Queue**
+08 Feb 2017 18:46:05 : nein, general, Botfuzzy77#2209, 1. Eminem - Till I Collapse [HD] **shuck**
+	<https://www.youtube.com/watch?v=ytQ5CYE1VZw>
+2. Owl City & Carly Rae Jepsen - Good Time **shuck**
+	<https://www.youtube.com/watch?v=H7HmzwI67ec>
+3. No Regrets (Full Version)- Nelly Furtado with Lyrics **shuck**
+	<https://www.youtube.com/watch?v=nsKzqF_5QHY>
+4. MAGIC! - No Regrets **shuck**
+	<https://www.youtube.com/watch?v=_UAh245xaac>
+Total Time is 0:16:02
+08 Feb 2017 18:46:10 : nein, general, shuck#1142, ;remove 3
+08 Feb 2017 18:46:11 : nein, general, Botfuzzy77#2209, Removed: No Regrets (Full Version)- Nelly Furtado with Lyrics
+08 Feb 2017 18:46:14 : nein, general, shuck#1142, ;remove 3
+08 Feb 2017 18:46:14 : nein, general, Botfuzzy77#2209, Removed: MAGIC! - No Regrets
+08 Feb 2017 18:46:20 : nein, general, shuck#1142, ;seach magic ozwald
+08 Feb 2017 18:46:42 : nein, general, shuck#1142, ;search magic magic ozwald bozwald
+08 Feb 2017 18:46:48 : nein, general, Botfuzzy77#2209, Added A Night to Remember - OZWALD BOZWALD - (official music video) to the queue
+08 Feb 2017 18:46:48 : nein, general, Botfuzzy77#2209, https://www.youtube.com/watch?v=jhVPu1T4jv8
+08 Feb 2017 18:47:05 : nein, general, shuck#1142, ;search no regrets daffy
+08 Feb 2017 18:47:07 : nein, general, Botfuzzy77#2209, Added Dappy - No Regrets (Lyrics). to the queue
+08 Feb 2017 18:47:07 : nein, general, Botfuzzy77#2209, https://www.youtube.com/watch?v=1_eg4MAQKzU
+08 Feb 2017 18:47:22 : nein, general, shuck#1142, ;search magic
+08 Feb 2017 18:47:23 : nein, general, Botfuzzy77#2209, Added Best magic show in the world 2016 - Best magic trick ever to the queue
+08 Feb 2017 18:47:23 : nein, general, Botfuzzy77#2209, https://www.youtube.com/watch?v=W8A2X12KODU
+08 Feb 2017 18:47:28 : nein, general, shuck#1142, ;songs
+08 Feb 2017 18:47:28 : nein, general, Botfuzzy77#2209, **The Following songs are in the Queue**
+08 Feb 2017 18:47:28 : nein, general, Botfuzzy77#2209, 1. Eminem - Till I Collapse [HD] **shuck**
+	<https://www.youtube.com/watch?v=ytQ5CYE1VZw>
+2. Owl City & Carly Rae Jepsen - Good Time **shuck**
+	<https://www.youtube.com/watch?v=H7HmzwI67ec>
+3. A Night to Remember - OZWALD BOZWALD - (official music video) **shuck**
+	<https://www.youtube.com/watch?v=jhVPu1T4jv8>
+4. Dappy - No Regrets (Lyrics). **shuck**
+	<https://www.youtube.com/watch?v=1_eg4MAQKzU>
+5. Best magic show in the world 2016 - Best magic trick ever **shuck**
+	<https://www.youtube.com/watch?v=W8A2X12KODU>
+Total Time is 0:28:04
+08 Feb 2017 18:47:33 : nein, general, shuck#1142, ;remove 5
+08 Feb 2017 18:47:33 : nein, general, Botfuzzy77#2209, Removed: Best magic show in the world 2016 - Best magic trick ever
+08 Feb 2017 18:47:59 : nein, general, shuck#1142, ;songs
+08 Feb 2017 18:47:59 : nein, general, Botfuzzy77#2209, **The Following songs are in the Queue**
+08 Feb 2017 18:47:59 : nein, general, Botfuzzy77#2209, 1. Eminem - Till I Collapse [HD] **shuck**
+	<https://www.youtube.com/watch?v=ytQ5CYE1VZw>
+2. Owl City & Carly Rae Jepsen - Good Time **shuck**
+	<https://www.youtube.com/watch?v=H7HmzwI67ec>
+3. A Night to Remember - OZWALD BOZWALD - (official music video) **shuck**
+	<https://www.youtube.com/watch?v=jhVPu1T4jv8>
+4. Dappy - No Regrets (Lyrics). **shuck**
+	<https://www.youtube.com/watch?v=1_eg4MAQKzU>
+Total Time is 0:16:10
+08 Feb 2017 18:48:05 : nein, general, shuck#1142, ;remove 3
+08 Feb 2017 18:48:05 : nein, general, Botfuzzy77#2209, Removed: A Night to Remember - OZWALD BOZWALD - (official music video)
+08 Feb 2017 18:48:08 : nein, general, shuck#1142, ;youtube https://www.youtube.com/watch?v=O3sSxrQDuSI
+08 Feb 2017 18:48:48 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokeboss
+08 Feb 2017 18:48:48 : None, Direct Message with TherminatorX, Botfuzzy77#2209, -= **Insane Boss Pokemon** =-
+*Name*: Mareep
+*Health*: 111,783/187200 (59.71%)
+*Level*: 96
+Last Combo:
+:regional_indicator_p: :regional_indicator_f: :regional_indicator_n: :regional_indicator_p: :regional_indicator_g: :regional_indicator_i: :regional_indicator_s: :regional_indicator_g: :regional_indicator_g: :regional_indicator_n: :regional_indicator_n: :regional_indicator_g: :regional_indicator_i: :regional_indicator_n: :regional_indicator_s:
+:x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :x: :x: :white_check_mark: :white_check_mark: :x: :x: :x: :white_check_mark:
+08 Feb 2017 18:48:48 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+08 Feb 2017 18:48:48 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Most Damage by **TherminatorX** with **75,417** damage
+08 Feb 2017 18:49:02 : None, Direct Message with TherminatorX, TherminatorX#6644, ;train
+08 Feb 2017 18:49:02 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You **Beat** a Level 60 **Magmortar** for 2,133 XP (66% to beat)
+You *Lost* to a Level 62 **Bastiodon** (64% to beat)
+You *Lost* to a Level 133 **Archen** (30% to beat)
+You **Beat** a Level 44 **Tentacool** for 640 XP (90% to beat)
+You *Lost* to a Level 135 **Seviper** (29% to beat)
+You *Lost* to a Level 133 **Mew** (30% to beat)
+You **Beat** a Level 41 **Venomoth** for 640 XP (90% to beat)
+You **Beat** a Level 60 **Kabutops** for 2,133 XP (66% to beat)
+You **Beat** a Level 143 **Porygon2** for 4,609 XP (27% to beat)
+You *Lost* to a Level 125 **Avalugg** (32% to beat)
+You **Beat** a Level 48 **Beldum** for 1,066 XP (83% to beat)
+You *Lost* to a Level 135 **Flygon** (29% to beat)
+You *Lost* to a Level 73 **Froakie** (54% to beat)
+You **Beat** a Level 55 **Sandslash** for 1,745 XP (72% to beat)
+You **Beat** a Level 61 **Metang** for 2,203 XP (65% to beat)
+You *Lost* to a Level 130 **Machoke** (30% to beat)
+You **Beat** a Level 83 **Delcatty** for 3,315 XP (48% to beat)
+You *Lost* to a Level 62 **Manectric** (64% to beat)
+You *Lost* to a Level 106 **Ludicolo** (37% to beat)
+You **Beat** a Level 113 **Horsea** for 4,134 XP (35% to beat)
+You *Lost* to a Level 142 **Espurr** (28% to beat)
+You use a **Lucky Egg** to gain more XP!
+08 Feb 2017 18:49:02 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You trained for 33,927 XP!
+08 Feb 2017 18:49:10 : None, Direct Message with TherminatorX, TherminatorX#6644, ;level
+08 Feb 2017 18:49:10 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **Name**: *TherminatorX*
+**Level**: 80
+**Prestige**: 0
+08 Feb 2017 18:49:10 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+08 Feb 2017 18:49:10 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **XP**: 271,175.0/531,441
+**Boss Takedowns**: 46
+**Most Dmg in an Attack**: 91,091
+08 Feb 2017 18:49:22 : LimitlessMc, mainchat, Red_Dragon_333#4168, where?
+08 Feb 2017 18:49:29 : None, Direct Message with TherminatorX, TherminatorX#6644, ;gamble 67000
+08 Feb 2017 18:49:29 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You have gained back your offering and more!
+08 Feb 2017 18:49:36 : None, Direct Message with TherminatorX, TherminatorX#6644, ;level
+08 Feb 2017 18:49:36 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **Name**: *TherminatorX*
+**Level**: 80
+**Prestige**: 0
+08 Feb 2017 18:49:36 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+08 Feb 2017 18:49:36 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **XP**: 371,675.0/531,441
+**Boss Takedowns**: 46
+**Most Dmg in an Attack**: 91,091
+08 Feb 2017 18:49:50 : None, Direct Message with TherminatorX, TherminatorX#6644, ;gamble 67000
+08 Feb 2017 18:49:50 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You have lost your offering...
+08 Feb 2017 18:49:57 : None, Direct Message with TherminatorX, TherminatorX#6644, ;gamble 67000
+08 Feb 2017 18:49:57 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You have lost your offering...
+08 Feb 2017 18:50:05 : LimitlessMc, botchat, Red_Dragon_333#4168, ;pokebattle easy
+08 Feb 2017 18:50:05 : LimitlessMc, botchat, Botfuzzy77#2209, Please use a Combination of **5** Types. `;types`
+08 Feb 2017 18:50:08 : None, Direct Message with TherminatorX, TherminatorX#6644, ;gamble
+08 Feb 2017 18:50:08 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You need to gamble atleast 33,216 XP
+08 Feb 2017 18:50:15 : None, Direct Message with TherminatorX, TherminatorX#6644, ;level
+08 Feb 2017 18:50:15 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **Name**: *TherminatorX*
+**Level**: 80
+**Prestige**: 0
+08 Feb 2017 18:50:15 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+08 Feb 2017 18:50:15 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **XP**: 237,675.0/531,441
+**Boss Takedowns**: 46
+**Most Dmg in an Attack**: 91,091
+08 Feb 2017 18:50:25 : None, Direct Message with TherminatorX, TherminatorX#6644, ;gamble 67000
+08 Feb 2017 18:50:25 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You have lost your offering...
+08 Feb 2017 18:50:28 : None, Direct Message with TherminatorX, TherminatorX#6644, ;gamble 67000
+08 Feb 2017 18:50:29 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You have gained back your offering and more!
+08 Feb 2017 18:50:30 : LimitlessMc, botchat, Red_Dragon_333#4168, ;pokebattle nfpig
+08 Feb 2017 18:50:30 : LimitlessMc, botchat, Botfuzzy77#2209, Level 9 Boss **Clauncher** in Easy has 4,994 health left.
+08 Feb 2017 18:50:31 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Feb 2017 18:50:31 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_f: :regional_indicator_p: :regional_indicator_i: :regional_indicator_g:
+:x: :x: :x: :x: :x:
+08 Feb 2017 18:50:31 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **0** damage
+Your gained **1** XP
+08 Feb 2017 18:50:31 : LimitlessMc, botchat, Botfuzzy77#2209, Level 9 Boss **Clauncher** has 4,994 health left.
+08 Feb 2017 18:50:35 : None, Direct Message with TherminatorX, TherminatorX#6644, ;level
+08 Feb 2017 18:50:35 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **Name**: *TherminatorX*
+**Level**: 80
+**Prestige**: 0
+08 Feb 2017 18:50:35 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+08 Feb 2017 18:50:35 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **XP**: 271,175.0/531,441
+**Boss Takedowns**: 46
+**Most Dmg in an Attack**: 91,091
+08 Feb 2017 18:50:46 : None, Direct Message with TherminatorX, TherminatorX#6644, ;gamble 67000
+08 Feb 2017 18:50:46 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You have lost your offering...
+08 Feb 2017 18:50:46 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You are exhausted from Gambling...
+08 Feb 2017 18:50:51 : None, Direct Message with TherminatorX, TherminatorX#6644, ;gamble 67000
+08 Feb 2017 18:50:51 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Please wait 115 seconds before you can gamble again.
+08 Feb 2017 18:50:57 : None, Direct Message with TherminatorX, TherminatorX#6644, ;cd
+08 Feb 2017 18:50:57 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 3,486 seconds
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You need to wait 109 seconds
+08 Feb 2017 18:51:53 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle gfnggisggnngggs
+08 Feb 2017 18:51:53 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** in Insane has 111,783 health left.
+08 Feb 2017 18:52:23 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+08 Feb 2017 18:52:23 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_g: :regional_indicator_f: :regional_indicator_n: :regional_indicator_g: :regional_indicator_g: :regional_indicator_i: :regional_indicator_s: :regional_indicator_g: :regional_indicator_g: :regional_indicator_n: :regional_indicator_n: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_s:
+:x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :x: :x: :white_check_mark: :white_check_mark: :x: :x: :x: :white_check_mark:
+08 Feb 2017 18:52:23 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its a Critical Strike
+Its Sort-Of Effective
+Rival Bonus!
+STAB bonus damage for Grass type (1x)
+Your moves did **3,631** damage
+Your gained **363** XP
+08 Feb 2017 18:52:23 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** has 108,152 health left.
+08 Feb 2017 18:52:24 : None, Direct Message with TherminatorX, TherminatorX#6644, ;cd
+08 Feb 2017 18:52:24 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **Battle**
+You need to wait 89 seconds
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 3,398 seconds
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You need to wait 22 seconds
+08 Feb 2017 18:53:58 : Rangers of insanity, bot, TheChad🐵#1660, rps S
+08 Feb 2017 18:54:14 : Rangers of insanity, bot, TheChad🐵#1660, ;rps S
+08 Feb 2017 18:54:14 : Rangers of insanity, bot, Botfuzzy77#2209, You throw :v:
+I throw :raised_back_of_hand:
+08 Feb 2017 18:54:14 : Rangers of insanity, bot, Botfuzzy77#2209, **You Win!**
+08 Feb 2017 18:54:47 : LimitlessMc, botchat, Red_Dragon_333#4168, 🎚
+08 Feb 2017 18:54:56 : LimitlessMc, botchat, Red_Dragon_333#4168, ;level
+08 Feb 2017 18:54:57 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Red_Dragon_333*
+**Level**: 5
+**Prestige**: 0
+08 Feb 2017 18:54:57 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Feb 2017 18:54:57 : LimitlessMc, botchat, Botfuzzy77#2209, **XP**: 8/216
+**Boss Takedowns**: 0
+**Most Dmg in an Attack**: 63
+08 Feb 2017 18:55:05 : LimitlessMc, botchat, Red_Dragon_333#4168, ;train
+08 Feb 2017 18:55:05 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 7 **Garbodor** for 257 XP (35% to beat)
+You **Beat** a Level 2 **Foongus** for 40 XP (90% to beat)
+08 Feb 2017 18:55:05 : LimitlessMc, botchat, Botfuzzy77#2209, You Have Leveled up from **5** to **6**!
+08 Feb 2017 18:55:05 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 297 XP!
+08 Feb 2017 18:55:14 : LimitlessMc, botchat, Red_Dragon_333#4168, ;level
+08 Feb 2017 18:55:14 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Red_Dragon_333*
+**Level**: 6
+**Prestige**: 0
+08 Feb 2017 18:55:14 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Feb 2017 18:55:14 : LimitlessMc, botchat, Botfuzzy77#2209, **XP**: 89/343
+**Boss Takedowns**: 0
+**Most Dmg in an Attack**: 63
+08 Feb 2017 18:55:20 : LimitlessMc, botchat, Red_Dragon_333#4168, ;train
+08 Feb 2017 18:55:20 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 3,586 seconds before you can train again.
+08 Feb 2017 18:55:24 : LimitlessMc, botchat, Red_Dragon_333#4168, ;cs
+08 Feb 2017 18:55:27 : LimitlessMc, botchat, Red_Dragon_333#4168, ;cd
+08 Feb 2017 18:55:27 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 3,578 seconds
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+08 Feb 2017 18:56:31 : LimitlessMc, botchat, Red_Dragon_333#4168, http://steamcommunity.com/profiles/76561198335184684/
+08 Feb 2017 18:57:50 : None, Direct Message with TherminatorX, TherminatorX#6644, ;gamble 67000
+08 Feb 2017 18:57:50 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You have gained back your offering and more!
+08 Feb 2017 18:58:01 : None, Direct Message with TherminatorX, TherminatorX#6644, ;level
+08 Feb 2017 18:58:01 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **Name**: *TherminatorX*
+**Level**: 80
+**Prestige**: 0
+08 Feb 2017 18:58:02 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+08 Feb 2017 18:58:02 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **XP**: 305,038.0/531,441
+**Boss Takedowns**: 46
+**Most Dmg in an Attack**: 91,091
+08 Feb 2017 18:58:51 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle ifnigisiinniiis
+08 Feb 2017 18:58:51 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** in Insane has 108,152 health left.
+08 Feb 2017 18:58:51 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+08 Feb 2017 18:58:51 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_f: :regional_indicator_n: :regional_indicator_i: :regional_indicator_g: :regional_indicator_i: :regional_indicator_s: :regional_indicator_i: :regional_indicator_i: :regional_indicator_n: :regional_indicator_n: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_s:
+:x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :x: :white_check_mark: :white_check_mark: :x: :x: :x: :white_check_mark:
+08 Feb 2017 18:58:51 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+Rival Bonus!
+STAB bonus damage for Grass type (1x)
+Your moves did **1,547** damage
+Your gained **154** XP
+08 Feb 2017 18:58:51 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** has 106,605 health left.
+08 Feb 2017 18:59:11 : None, Direct Message with TherminatorX, TherminatorX#6644, ;settype normal
+08 Feb 2017 18:59:11 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You are now a Normal type
+08 Feb 2017 19:02:23 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle nfnigisnnnnnnns
+08 Feb 2017 19:02:23 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** in Insane has 106,605 health left.
+08 Feb 2017 19:02:23 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+08 Feb 2017 19:02:23 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_f: :regional_indicator_n: :regional_indicator_i: :regional_indicator_g: :regional_indicator_i: :regional_indicator_s: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_s:
+:x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :x: :white_check_mark: :white_check_mark: :x: :x: :x: :white_check_mark:
+08 Feb 2017 19:02:23 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+Rival Bonus!
+STAB bonus damage for Normal type (3x)
+Your moves did **2,122** damage
+Your gained **212** XP
+08 Feb 2017 19:02:24 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** has 104,483 health left.
+08 Feb 2017 19:03:19 : Rangers of insanity, bot, Wertfuzzy77#0274, gj
+08 Feb 2017 19:03:22 : Rangers of insanity, bot, Wertfuzzy77#0274, ;level
+08 Feb 2017 19:03:22 : Rangers of insanity, bot, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 62
+**Prestige**: 0
+08 Feb 2017 19:03:22 : Rangers of insanity, bot, Botfuzzy77#2209, 
+08 Feb 2017 19:03:22 : Rangers of insanity, bot, Botfuzzy77#2209, **XP**: 24,465.0/250,047
+**Boss Takedowns**: 21
+**Most Dmg in an Attack**: 35,084
+08 Feb 2017 19:04:03 : None, Direct Message with TherminatorX, TherminatorX#6644, ;cd
+08 Feb 2017 19:04:03 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 2,700 seconds
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+08 Feb 2017 19:04:34 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle pfnigisppnnppps
+08 Feb 2017 19:04:34 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** in Insane has 104,483 health left.
+08 Feb 2017 19:04:35 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+08 Feb 2017 19:04:35 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_p: :regional_indicator_f: :regional_indicator_n: :regional_indicator_i: :regional_indicator_g: :regional_indicator_i: :regional_indicator_s: :regional_indicator_p: :regional_indicator_p: :regional_indicator_n: :regional_indicator_n: :regional_indicator_p: :regional_indicator_p: :regional_indicator_p: :regional_indicator_s:
+:x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :x: :white_check_mark: :white_check_mark: :white_check_mark: :x: :x: :white_check_mark:
+08 Feb 2017 19:04:35 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+Rival Bonus!
+STAB bonus damage for Normal type (3x)
+Your moves did **2,441** damage
+Your gained **244** XP
+08 Feb 2017 19:04:35 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** has 102,042 health left.
+08 Feb 2017 19:05:40 : nein, general, shuck#1142, ;song
+08 Feb 2017 19:05:40 : nein, general, Botfuzzy77#2209, **Name**: Dappy - No Regrets (Lyrics).
+**Requester**: shuck
+**URL**: <https://www.youtube.com/watch?v=1_eg4MAQKzU>
+```py
+Time: 0:04:06
+Views: 181,735
+Likes: 734, 96.2%
+Dislikes: 29, 3.8%
+Skips: 0/0```
+08 Feb 2017 19:05:47 : nein, general, shuck#1142, ;skip
+08 Feb 2017 19:05:47 : nein, general, Botfuzzy77#2209, Skipping Dappy - No Regrets (Lyrics). by request of the requester
+08 Feb 2017 19:05:50 : nein, general, shuck#1142, ;song
+08 Feb 2017 19:05:50 : nein, general, Botfuzzy77#2209, **Name**: Dappy - No Regrets (Lyrics).
+**Requester**: shuck
+**URL**: <https://www.youtube.com/watch?v=1_eg4MAQKzU>
+```py
+Time: 0:04:06
+Views: 181,735
+Likes: 734, 96.2%
+Dislikes: 29, 3.8%
+Skips: 0/0```
+08 Feb 2017 19:05:52 : None, Direct Message with TherminatorX, TherminatorX#6644, ;cd
+08 Feb 2017 19:05:52 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **Battle**
+You need to wait 13 seconds
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 2,590 seconds
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+08 Feb 2017 19:05:54 : nein, general, shuck#1142, ;skip
+08 Feb 2017 19:05:55 : nein, general, Botfuzzy77#2209, Skipping Dappy - No Regrets (Lyrics). by request of the requester
+08 Feb 2017 19:06:29 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle sfnigisssnnpsss
+08 Feb 2017 19:06:29 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** in Insane has 102,042 health left.
+08 Feb 2017 19:06:30 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+08 Feb 2017 19:06:30 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_s: :regional_indicator_f: :regional_indicator_n: :regional_indicator_i: :regional_indicator_g: :regional_indicator_i: :regional_indicator_s: :regional_indicator_s: :regional_indicator_s: :regional_indicator_n: :regional_indicator_n: :regional_indicator_p: :regional_indicator_s: :regional_indicator_s: :regional_indicator_s:
+:x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :x: :white_check_mark: :white_check_mark: :white_check_mark: :x: :x: :white_check_mark:
+08 Feb 2017 19:06:30 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+Rival Bonus!
+STAB bonus damage for Normal type (3x)
+Your moves did **2,288** damage
+Your gained **228** XP
+08 Feb 2017 19:06:31 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** has 99,754 health left.
+08 Feb 2017 19:10:08 : Rangers of insanity, bot, TheChad🐵#1660, ;level
+08 Feb 2017 19:10:08 : Rangers of insanity, bot, Botfuzzy77#2209, **Name**: *TheChad🐵*
+**Level**: 5
+**Prestige**: 0
+08 Feb 2017 19:10:08 : Rangers of insanity, bot, Botfuzzy77#2209, 
+08 Feb 2017 19:10:08 : Rangers of insanity, bot, Botfuzzy77#2209, **XP**: 0/216
+**Boss Takedowns**: 0
+**Most Dmg in an Attack**: 0
+08 Feb 2017 19:10:14 : Rangers of insanity, bot, TheChad🐵#1660, #Flex
+08 Feb 2017 19:10:39 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle wfniguswwnpwws
+08 Feb 2017 19:10:39 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Please use a Combination of **15** Types. `;types`
+08 Feb 2017 19:10:46 : Rangers of insanity, general, TheChad🐵#1660, @StubbyMuffins
+08 Feb 2017 19:10:57 : Rangers of insanity, general, StubbyMuffins#1053, lol
+08 Feb 2017 19:11:05 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle wfnigiswwnpwws
+08 Feb 2017 19:11:05 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Please use a Combination of **15** Types. `;types`
+08 Feb 2017 19:11:24 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle wfnigiswwnnpwws
+08 Feb 2017 19:11:24 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** in Insane has 99,754 health left.
+08 Feb 2017 19:11:24 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+08 Feb 2017 19:11:25 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_f: :regional_indicator_n: :regional_indicator_i: :regional_indicator_g: :regional_indicator_i: :regional_indicator_s: :regional_indicator_w: :regional_indicator_w: :regional_indicator_n: :regional_indicator_n: :regional_indicator_p: :regional_indicator_w: :regional_indicator_w: :regional_indicator_s:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :x: :x: :white_check_mark:
+08 Feb 2017 19:11:25 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+Rival Bonus!
+STAB bonus damage for Normal type (3x)
+Your moves did **3,245** damage
+Your gained **324** XP
+08 Feb 2017 19:11:25 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** has 96,509 health left.
+08 Feb 2017 19:15:11 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle fwnigiswbnnpbbs
+08 Feb 2017 19:15:11 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** in Insane has 96,509 health left.
+08 Feb 2017 19:15:11 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+08 Feb 2017 19:15:11 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_w: :regional_indicator_n: :regional_indicator_i: :regional_indicator_g: :regional_indicator_i: :regional_indicator_s: :regional_indicator_w: :regional_indicator_b: :regional_indicator_n: :regional_indicator_n: :regional_indicator_p: :regional_indicator_b: :regional_indicator_b: :regional_indicator_s:
+:x: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :x: :x: :white_check_mark:
+08 Feb 2017 19:15:11 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+Rival Bonus!
+STAB bonus damage for Normal type (3x)
+Your moves did **2,746** damage
+Your gained **274** XP
+08 Feb 2017 19:15:11 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** has 93,763 health left.
+08 Feb 2017 19:17:55 : The Wild Weebs, general, enragednuke#2565, > mfw I missed a call from CA
+08 Feb 2017 19:17:56 : The Wild Weebs, general, enragednuke#2565, <:err:268999123011633154>
+08 Feb 2017 19:18:35 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle fwnigiswdnnpdds
+08 Feb 2017 19:18:35 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** in Insane has 93,763 health left.
+08 Feb 2017 19:18:35 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+08 Feb 2017 19:18:35 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_w: :regional_indicator_n: :regional_indicator_i: :regional_indicator_g: :regional_indicator_i: :regional_indicator_s: :regional_indicator_w: :regional_indicator_d: :regional_indicator_n: :regional_indicator_n: :regional_indicator_p: :regional_indicator_d: :regional_indicator_d: :regional_indicator_s:
+:x: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :x: :x: :white_check_mark:
+08 Feb 2017 19:18:36 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+Rival Bonus!
+STAB bonus damage for Normal type (3x)
+Your moves did **2,898** damage
+Your gained **289** XP
+08 Feb 2017 19:18:36 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** has 90,865 health left.
+08 Feb 2017 19:20:53 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle fwnigiswennpees
+08 Feb 2017 19:20:53 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** in Insane has 90,865 health left.
+08 Feb 2017 19:20:53 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+08 Feb 2017 19:20:54 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_w: :regional_indicator_n: :regional_indicator_i: :regional_indicator_g: :regional_indicator_i: :regional_indicator_s: :regional_indicator_w: :regional_indicator_e: :regional_indicator_n: :regional_indicator_n: :regional_indicator_p: :regional_indicator_e: :regional_indicator_e: :regional_indicator_s:
+:x: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :x: :x: :white_check_mark:
+08 Feb 2017 19:20:54 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+Rival Bonus!
+STAB bonus damage for Normal type (3x)
+Your moves did **3,051** damage
+Your gained **305** XP
+08 Feb 2017 19:20:54 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** has 87,814 health left.
+08 Feb 2017 19:21:36 : LimitlessMc, botchat, Wertfuzzy77#0274, @TherminatorX
+08 Feb 2017 19:21:39 : LimitlessMc, botchat, Wertfuzzy77#0274, 
+08 Feb 2017 19:21:47 : LimitlessMc, botchat, Wertfuzzy77#0274, New train xp
+08 Feb 2017 19:22:02 : LimitlessMc, botchat, Wertfuzzy77#0274, The yellow one is the XP requirement to level up by level
+08 Feb 2017 19:22:12 : LimitlessMc, botchat, Wertfuzzy77#0274, Green on is old train xp
+08 Feb 2017 19:22:15 : LimitlessMc, botchat, TherminatorX#6644, This what's planned?
+08 Feb 2017 19:22:17 : LimitlessMc, botchat, Wertfuzzy77#0274, Blue is new
+08 Feb 2017 19:22:22 : LimitlessMc, botchat, Wertfuzzy77#0274, yes
+08 Feb 2017 19:22:28 : LimitlessMc, botchat, Wertfuzzy77#0274, its a nerf on XP for ;train
+08 Feb 2017 19:22:52 : LimitlessMc, botchat, TherminatorX#6644, Mkay, was hoping you weren't about to restart
+08 Feb 2017 19:22:59 : LimitlessMc, botchat, Wertfuzzy77#0274, nah, not rn
+08 Feb 2017 19:23:06 : LimitlessMc, botchat, Wertfuzzy77#0274, still working on it
+08 Feb 2017 19:23:19 : LimitlessMc, botchat, Wertfuzzy77#0274, also, gonna boost XP for bosses to counter balance xp drop for train
+08 Feb 2017 19:23:34 : LimitlessMc, botchat, Wertfuzzy77#0274, and make it slightly randomized
+08 Feb 2017 19:24:09 : LimitlessMc, botchat, TherminatorX#6644, Green is undoubtedly OP compared to the rest
+08 Feb 2017 19:24:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ya
+08 Feb 2017 19:24:30 : LimitlessMc, botchat, Wertfuzzy77#0274, Purple is the new XP for train without pokeloots
+08 Feb 2017 19:24:32 : LimitlessMc, botchat, Wertfuzzy77#0274, on average
+08 Feb 2017 19:24:45 : LimitlessMc, botchat, Wertfuzzy77#0274, just to see how much a difference it makes
+08 Feb 2017 19:25:50 : LimitlessMc, botchat, Wertfuzzy77#0274, lets see if its close estimate
+08 Feb 2017 19:25:51 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cd
+08 Feb 2017 19:25:51 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You can Train right now!
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+08 Feb 2017 19:26:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+08 Feb 2017 19:26:02 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 62
+**Prestige**: 0
+08 Feb 2017 19:26:02 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Feb 2017 19:26:02 : LimitlessMc, botchat, Botfuzzy77#2209, **XP**: 24,465.0/250,047
+**Boss Takedowns**: 21
+**Most Dmg in an Attack**: 35,084
+08 Feb 2017 19:26:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug 62^2 * 20
+08 Feb 2017 19:26:13 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+22
+```
+08 Feb 2017 19:26:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug math.pow(62, 2) * 20
+08 Feb 2017 19:26:24 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+76880.0
+```
+08 Feb 2017 19:26:29 : LimitlessMc, botchat, TherminatorX#6644, And x^3 is just there for reference?
+08 Feb 2017 19:26:32 : LimitlessMc, botchat, Wertfuzzy77#0274, says 76k xp on average
+08 Feb 2017 19:26:38 : LimitlessMc, botchat, Wertfuzzy77#0274, x^3 is the XP scaling for leveling up 😛
+08 Feb 2017 19:26:45 : LimitlessMc, botchat, TherminatorX#6644, Ah
+08 Feb 2017 19:26:49 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+08 Feb 2017 19:26:49 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 79 **Ditto** for 3,013 XP (39% to beat)
+You *Lost* to a Level 93 **Aegislash** (33% to beat)
+You *Lost* to a Level 68 **Bidoof** (45% to beat)
+You **Beat** a Level 55 **Snubbull** for 2,164 XP (56% to beat)
+You **Beat** a Level 60 **Lillipup** for 2,397 XP (51% to beat)
+You *Lost* to a Level 93 **Oshawott** (33% to beat)
+You *Lost* to a Level 58 **Petilil** (53% to beat)
+You *Lost* to a Level 36 **Cofagrigus** (86% to beat)
+You *Lost* to a Level 92 **Lilligant** (33% to beat)
+You *Lost* to a Level 81 **Larvesta** (38% to beat)
+You **Beat** a Level 52 **Rattata** for 2,003 XP (59% to beat)
+You *Lost* to a Level 50 **Claydol** (62% to beat)
+You **Beat** a Level 57 **Registeel** for 2,262 XP (54% to beat)
+You *Lost* to a Level 104 **Drowzee** (29% to beat)
+You **Beat** a Level 120 **Beartic** for 3,678 XP (25% to beat)
+You *Lost* to a Level 99 **Chesnaught** (31% to beat)
+You **Beat** a Level 102 **Breloom** for 3,452 XP (30% to beat)
+You use a **Lucky Egg** to gain more XP!
+You Find a **Pokeloot** worth 6,252 XP
+08 Feb 2017 19:26:49 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 34,705 XP!
+08 Feb 2017 19:27:09 : LimitlessMc, botchat, Wertfuzzy77#0274, said, i should have gotten 76k xp from train on average
+08 Feb 2017 19:27:21 : LimitlessMc, botchat, Wertfuzzy77#0274, o, didnt even take into account lucky egg
+08 Feb 2017 19:28:02 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle fwnigiswfnnpffs
+08 Feb 2017 19:28:03 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** in Insane has 87,814 health left.
+08 Feb 2017 19:28:03 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+08 Feb 2017 19:28:03 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_w: :regional_indicator_n: :regional_indicator_i: :regional_indicator_g: :regional_indicator_i: :regional_indicator_s: :regional_indicator_w: :regional_indicator_f: :regional_indicator_n: :regional_indicator_n: :regional_indicator_p: :regional_indicator_f: :regional_indicator_f: :regional_indicator_s:
+:x: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+08 Feb 2017 19:28:03 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Its Sort-Of Effective
+Rival Bonus!
+STAB bonus damage for Normal type (3x)
+Your moves did **4,038** damage
+Your gained **403** XP
+08 Feb 2017 19:28:03 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 96 Boss **Mareep** has 83,776 health left.
+08 Feb 2017 19:28:32 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle wfnigiswfnnpffs
+08 Feb 2017 19:28:32 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Please wait 61 seconds before you can fight the boss again.
+08 Feb 2017 19:28:43 : None, Direct Message with TherminatorX, TherminatorX#6644, ;settype fire
+08 Feb 2017 19:28:43 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You are now a Fire type
+08 Feb 2017 19:28:56 : LimitlessMc, botchat, TherminatorX#6644, ;cd
+08 Feb 2017 19:28:56 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 37 seconds
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 1,206 seconds
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+08 Feb 2017 19:29:23 : LimitlessMc, botchat, TherminatorX#6644, ;pokeboss
+08 Feb 2017 19:29:23 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Insane Boss Pokemon** =-
+*Name*: Mareep
+*Health*: 83,776/187200 (44.75%)
+*Level*: 96
+Last Combo:
+:regional_indicator_f: :regional_indicator_w: :regional_indicator_n: :regional_indicator_i: :regional_indicator_g: :regional_indicator_i: :regional_indicator_s: :regional_indicator_w: :regional_indicator_f: :regional_indicator_n: :regional_indicator_n: :regional_indicator_p: :regional_indicator_f: :regional_indicator_f: :regional_indicator_s:
+:x: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+08 Feb 2017 19:29:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Feb 2017 19:29:23 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **TherminatorX** with **103,424** damage
+08 Feb 2017 19:29:39 : LimitlessMc, botchat, Wertfuzzy77#0274, close
+08 Feb 2017 19:29:41 : LimitlessMc, botchat, TherminatorX#6644, *cracks knuckles*
+08 Feb 2017 19:29:49 : LimitlessMc, botchat, TherminatorX#6644, ;cd
+08 Feb 2017 19:29:49 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 1,154 seconds
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+08 Feb 2017 19:29:53 : LimitlessMc, botchat, TherminatorX#6644, ;pokebattle wfnigiswfnnpffs
+08 Feb 2017 19:29:54 : LimitlessMc, botchat, Botfuzzy77#2209, Level 96 Boss **Mareep** in Insane has 83,776 health left.
+08 Feb 2017 19:29:54 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Feb 2017 19:29:54 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_f: :regional_indicator_n: :regional_indicator_i: :regional_indicator_g: :regional_indicator_i: :regional_indicator_s: :regional_indicator_w: :regional_indicator_f: :regional_indicator_n: :regional_indicator_n: :regional_indicator_p: :regional_indicator_f: :regional_indicator_f: :regional_indicator_s:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+08 Feb 2017 19:29:54 : LimitlessMc, botchat, Botfuzzy77#2209, Its a Critical Strike
+Its a Perfect Combo. The Boss has switched 1/2 of the Super Effective Moves!
+Rival Bonus!
+STAB bonus damage for Fire type (4x)
+Your moves did **157,849** damage
+Your gained **15,784** XP
+08 Feb 2017 19:29:54 : LimitlessMc, botchat, Botfuzzy77#2209, Level 96 Boss **Mareep** has been defeated!
+08 Feb 2017 19:29:57 : LimitlessMc, botchat, Wertfuzzy77#0274, also, what is most interesting is low levels
+08 Feb 2017 19:29:59 : LimitlessMc, botchat, Wertfuzzy77#0274, gg
+08 Feb 2017 19:30:00 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **TherminatorX** with **261,273** damage
+08 Feb 2017 19:30:01 : LimitlessMc, botchat, Wertfuzzy77#0274, crit
+08 Feb 2017 19:30:01 : LimitlessMc, botchat, Botfuzzy77#2209, You Have Leveled up from **80** to **81**!
+08 Feb 2017 19:30:06 : LimitlessMc, botchat, TherminatorX#6644, Wth
+08 Feb 2017 19:30:14 : LimitlessMc, botchat, Wertfuzzy77#0274, mucho damage xd
+08 Feb 2017 19:30:20 : LimitlessMc, botchat, TherminatorX#6644, 158k dmg
+08 Feb 2017 19:30:25 : LimitlessMc, botchat, Wertfuzzy77#0274, hax
+08 Feb 2017 19:30:27 : LimitlessMc, botchat, TherminatorX#6644, I am a monster
+08 Feb 2017 19:30:30 : LimitlessMc, botchat, Wertfuzzy77#0274, well, you had 4 STAB xD
+08 Feb 2017 19:30:41 : LimitlessMc, botchat, Wertfuzzy77#0274, 
+08 Feb 2017 19:30:47 : LimitlessMc, botchat, Wertfuzzy77#0274, look at the difference in training on low levels
+08 Feb 2017 19:30:53 : LimitlessMc, botchat, Wertfuzzy77#0274, green is old train
+08 Feb 2017 19:30:58 : LimitlessMc, botchat, Wertfuzzy77#0274, yellow is XP needed...
+08 Feb 2017 19:31:14 : LimitlessMc, botchat, Wertfuzzy77#0274, on average, you got more XP than needed to level up xD
+08 Feb 2017 19:31:28 : LimitlessMc, botchat, TherminatorX#6644, So multi leveling
+08 Feb 2017 19:32:18 : LimitlessMc, botchat, TherminatorX#6644, Man, these perfect crits tho
+08 Feb 2017 19:32:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug 10/6
+08 Feb 2017 19:32:29 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+1.6666666666666667
+```
+08 Feb 2017 19:32:30 : LimitlessMc, botchat, TherminatorX#6644, Why so often?
+08 Feb 2017 19:32:40 : LimitlessMc, botchat, Wertfuzzy77#0274, 1.66x multiplier to XP gain with attacking
+08 Feb 2017 19:32:48 : LimitlessMc, botchat, Wertfuzzy77#0274, dont know, you just getting lucky
+08 Feb 2017 19:32:50 : LimitlessMc, botchat, Wertfuzzy77#0274, its completly random
+08 Feb 2017 19:32:57 : nein, general, shuck#1142, @Fat Dankdra outside of gym done
+08 Feb 2017 19:32:58 : LimitlessMc, botchat, TherminatorX#6644, ;level
+08 Feb 2017 19:32:58 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *TherminatorX*
+**Level**: 81
+**Prestige**: 0
+08 Feb 2017 19:32:58 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Feb 2017 19:32:58 : LimitlessMc, botchat, Botfuzzy77#2209, **XP**: 16,051.0/551,368
+**Boss Takedowns**: 47
+**Most Dmg in an Attack**: 157,849
+08 Feb 2017 19:33:14 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+        if random.random() < 0.10:
+            m += "Its a Critical Strike\n"
+            Total_Damage = Total_Damage * 2```
+08 Feb 2017 19:34:30 : LimitlessMc, botchat, TherminatorX#6644, Random rolls between 0 and 1 then?
+08 Feb 2017 19:34:36 : LimitlessMc, botchat, Wertfuzzy77#0274, si
+08 Feb 2017 19:34:50 : LimitlessMc, botchat, TherminatorX#6644, With steps of .01?
+08 Feb 2017 19:34:58 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug random.random()
+08 Feb 2017 19:34:58 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+0.32133214064050386
+```
+08 Feb 2017 19:35:00 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug random.random()
+08 Feb 2017 19:35:00 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+0.06651518477858642
+```
+08 Feb 2017 19:35:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug random.random()
+08 Feb 2017 19:35:01 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+0.53726238999957
+```
+08 Feb 2017 19:35:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug random.random()
+08 Feb 2017 19:35:02 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+0.12725982818615467
+```
+08 Feb 2017 19:35:03 : LimitlessMc, botchat, TherminatorX#6644, Oh
+08 Feb 2017 19:35:09 : LimitlessMc, botchat, Wertfuzzy77#0274, actually random xD
+08 Feb 2017 19:35:38 : LimitlessMc, botchat, TherminatorX#6644, ;debug random.random()
+08 Feb 2017 19:35:47 : LimitlessMc, botchat, TherminatorX#6644, *sigh*
+08 Feb 2017 19:36:00 : LimitlessMc, botchat, TherminatorX#6644, Still no dice function

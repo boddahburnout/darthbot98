@@ -1,0 +1,598 @@
+04 Jan 2017 00:26:55 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, @Giovanni actually kys
+04 Jan 2017 00:26:56 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Stawp.
+04 Jan 2017 00:27:04 : None, Direct Message with TherminatorX, TherminatorX#6644, ;help
+04 Jan 2017 00:27:04 : Pokemon Mystery Dungeon, general, Third_Worm#4804, talk pls
+04 Jan 2017 00:27:04 : None, Direct Message with TherminatorX, Botfuzzy77#2209, ```
+  help           Shows this message.
+  feedback       Returns a link to a Google Forums, where you can leave feedb...
+  status         Returns the Status of the Bot, along with Additional Informa...
+  server         Returns Information on the Limitless MC server!
+  source         Returns a link to the source code for this bot
+  invite         Returns a Link to the Invite URL for this bot
+  joined         Says when a member joined.
+  ev             
+  pokemon        Returns Links to Pokemon pages
+  afk            Sets you as AFK, and the Bot will auto Reply for you with th...
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+04 Jan 2017 00:27:19 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle SSSSS
+04 Jan 2017 00:27:20 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, A Boss gardevoir has appeared!
+It has 310 Health.
+04 Jan 2017 00:27:20 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 00:27:20 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_s: :regional_indicator_s: :regional_indicator_s: :regional_indicator_s: :regional_indicator_s:
+:white_check_mark: :x: :x: :x: :x:
+04 Jan 2017 00:27:20 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 6 damage
+04 Jan 2017 00:27:20 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss gardevoir has 304 health left.
+04 Jan 2017 00:27:26 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, snaky
+04 Jan 2017 00:27:55 : Pokemon Mystery Dungeon, general, Saba#2249, pfft
+04 Jan 2017 00:27:56 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle SEEEE
+04 Jan 2017 00:27:56 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss gardevoir has 304 health left.
+04 Jan 2017 00:27:57 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 00:27:57 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_s: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e:
+:white_check_mark: :x: :x: :white_check_mark: :x:
+04 Jan 2017 00:27:57 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 12 damage
+04 Jan 2017 00:27:57 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss gardevoir has 292 health left.
+04 Jan 2017 00:28:04 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, seeee???
+04 Jan 2017 00:28:07 : Pokemon Mystery Dungeon, general, Saba#2249, Baka started to do poke battles in the Limitless botchat
+04 Jan 2017 00:28:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ;invite
+04 Jan 2017 00:28:10 : LimitlessMc, botchat, Botfuzzy77#2209, https://discordapp.com/oauth2/authorize?client_id=187608834381053952&scope=bot&permissions=00000008
+04 Jan 2017 00:28:49 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle SFFEF
+04 Jan 2017 00:28:49 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 31 seconds before you can fight the boss again.
+04 Jan 2017 00:28:52 : Pokemon Mystery Dungeon, general, Third_Worm#4804, oh lol
+04 Jan 2017 00:29:06 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle SFFEF
+04 Jan 2017 00:29:06 : LimitlessMc, mainchat, Third_Worm#4804, oh hi guys
+04 Jan 2017 00:29:07 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 51 seconds before you can fight the boss again.
+04 Jan 2017 00:29:10 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle SPPEP
+04 Jan 2017 00:29:10 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 10 seconds before you can fight the boss again.
+04 Jan 2017 00:29:19 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle SPPEP
+04 Jan 2017 00:29:19 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 1 seconds before you can fight the boss again.
+04 Jan 2017 00:29:21 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle SPPEP
+04 Jan 2017 00:29:21 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss gardevoir has 292 health left.
+04 Jan 2017 00:29:21 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 00:29:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_s: :regional_indicator_p: :regional_indicator_p: :regional_indicator_e: :regional_indicator_p:
+:white_check_mark: :white_check_mark: :x: :white_check_mark: :x:
+04 Jan 2017 00:29:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Critical Strike!
+04 Jan 2017 00:29:24 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 28 damage
+04 Jan 2017 00:29:24 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, fancy
+04 Jan 2017 00:29:24 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss gardevoir has 264 health left.
+04 Jan 2017 00:29:38 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle SPFEF
+04 Jan 2017 00:29:38 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 19 seconds before you can fight the boss again.
+04 Jan 2017 00:29:41 : LimitlessMc, mainchat, AnishaLunarAngel#5926, ...
+04 Jan 2017 00:29:44 : The Wild Weebs, general, enragednuke#2565, https://twitter.com/JagexKieren/status/816364324088414208
+04 Jan 2017 00:29:51 : LimitlessMc, mainchat, ChesireKat#7022, ...
+04 Jan 2017 00:30:09 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle SPFEF
+04 Jan 2017 00:30:09 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss gardevoir has 264 health left.
+04 Jan 2017 00:30:09 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 00:30:09 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_s: :regional_indicator_p: :regional_indicator_f: :regional_indicator_e: :regional_indicator_f:
+:white_check_mark: :white_check_mark: :x: :white_check_mark: :x:
+04 Jan 2017 00:30:09 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Critical Strike!
+04 Jan 2017 00:30:10 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 26 damage
+04 Jan 2017 00:30:11 : The Wester Narcs, general, NarcoticMile#6198, ;join
+04 Jan 2017 00:30:11 : LimitlessMc, mainchat, AnishaLunarAngel#5926, o-o....
+04 Jan 2017 00:30:14 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss gardevoir has 238 health left.
+04 Jan 2017 00:30:18 : LimitlessMc, mainchat, ChesireKat#7022, oh god worm is talking and idk what she is saying ;-;
+04 Jan 2017 00:30:26 : LimitlessMc, mainchat, AnishaLunarAngel#5926, same xD
+04 Jan 2017 00:30:30 : LimitlessMc, mainchat, ChesireKat#7022, lol
+04 Jan 2017 00:30:32 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle SPDED
+04 Jan 2017 00:30:32 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 53 seconds before you can fight the boss again.
+04 Jan 2017 00:30:33 : The Wester Narcs, general, NarcoticMile#6198, ;playlist
+04 Jan 2017 00:30:33 : The Wester Narcs, general, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+04 Jan 2017 00:30:40 : The Wester Narcs, general, Wertfuzzy77#0274, gj
+04 Jan 2017 00:30:40 : LimitlessMc, mainchat, ChesireKat#7022, all i can hear is raffe
+04 Jan 2017 00:30:40 : The Wester Narcs, general, NarcoticMile#6198, XD
+04 Jan 2017 00:31:00 : LimitlessMc, mainchat, AnishaLunarAngel#5926, for once, someone's microphone works too well
+04 Jan 2017 00:31:01 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, should have been SPEED
+04 Jan 2017 00:31:05 : LimitlessMc, mainchat, ChesireKat#7022, lel
+04 Jan 2017 00:31:06 : The Wester Narcs, botchat, NarcoticMile#6198, ;search through fire and flames
+04 Jan 2017 00:31:07 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, lol
+04 Jan 2017 00:31:08 : LimitlessMc, botchat, Saba#2249, you are still quiet as hell worm
+04 Jan 2017 00:31:18 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle SPDED
+04 Jan 2017 00:31:18 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 7 seconds before you can fight the boss again.
+04 Jan 2017 00:31:18 : LimitlessMc, mainchat, ChesireKat#7022, welp
+04 Jan 2017 00:31:31 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle SPDED
+04 Jan 2017 00:31:31 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss gardevoir has 238 health left.
+04 Jan 2017 00:31:32 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 00:31:32 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_s: :regional_indicator_p: :regional_indicator_d: :regional_indicator_e: :regional_indicator_d:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x:
+04 Jan 2017 00:31:32 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Super Effective!
+04 Jan 2017 00:31:32 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 31 damage
+04 Jan 2017 00:31:36 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss gardevoir has 207 health left.
+04 Jan 2017 00:31:41 : The Wester Narcs, botchat, NarcoticMile#6198, ;help
+04 Jan 2017 00:31:41 : The Wester Narcs, botchat, Botfuzzy77#2209, ```
+  help           Shows this message.
+  feedback       Returns a link to a Google Forums, where you can leave feedb...
+  status         Returns the Status of the Bot, along with Additional Informa...
+  server         Returns Information on the Limitless MC server!
+  source         Returns a link to the source code for this bot
+  invite         Returns a Link to the Invite URL for this bot
+  joined         Says when a member joined.
+  ev             
+  pokemon        Returns Links to Pokemon pages
+  afk            Sets you as AFK, and the Bot will auto Reply for you with th...
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+04 Jan 2017 00:32:08 : The Wester Narcs, botchat, Wertfuzzy77#0274, Thats my bad xD I didnt get the right module to run music correct
+04 Jan 2017 00:32:14 : LimitlessMc, botchat, StarwinnerCraft#0288, ;pokebattle wwww
+04 Jan 2017 00:32:14 : LimitlessMc, botchat, Botfuzzy77#2209, Please use a Combination of **5** Types to Fight the Boss: (**N**)ormal, (**F**)ire, (**W**)ater, (**G**)rass, (**P**)oison, (**D**)ragon, (**S**)teel, (**E**)lectric, (**B**)ug, or (**I**)ce.
+ Ex 'GSEBI' or 'DPGDB'
+04 Jan 2017 00:32:15 : The Wester Narcs, botchat, NarcoticMile#6198, lol
+04 Jan 2017 00:32:15 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, fancy
+04 Jan 2017 00:32:18 : LimitlessMc, mainchat, ChesireKat#7022, &preparefortrouble
+04 Jan 2017 00:32:23 : LimitlessMc, botchat, StarwinnerCraft#0288, ;pokebattle fffff
+04 Jan 2017 00:32:23 : LimitlessMc, botchat, Botfuzzy77#2209, Please use a Combination of **5** Types to Fight the Boss: (**N**)ormal, (**F**)ire, (**W**)ater, (**G**)rass, (**P**)oison, (**D**)ragon, (**S**)teel, (**E**)lectric, (**B**)ug, or (**I**)ce.
+ Ex 'GSEBI' or 'DPGDB'
+04 Jan 2017 00:32:24 : The Wester Narcs, botchat, NarcoticMile#6198, ;leave
+04 Jan 2017 00:32:25 : LimitlessMc, mainchat, AnishaLunarAngel#5926, Oh yeah...
+04 Jan 2017 00:32:27 : LimitlessMc, mainchat, AnishaLunarAngel#5926, one sec...
+04 Jan 2017 00:32:28 : LimitlessMc, mainchat, Third_Worm#4804, ;-;
+04 Jan 2017 00:32:32 : LimitlessMc, mainchat, AnishaLunarAngel#5926, I will log on to get you one
+04 Jan 2017 00:32:37 : LimitlessMc, mainchat, Third_Worm#4804, no
+04 Jan 2017 00:32:38 : LimitlessMc, mainchat, AnishaLunarAngel#5926, who was that again?
+04 Jan 2017 00:32:38 : LimitlessMc, mainchat, ChesireKat#7022, &dismissed
+04 Jan 2017 00:32:39 : LimitlessMc, mainchat, Team Rocket#9944, I bid you fairwell :wave:
+04 Jan 2017 00:32:40 : LimitlessMc, botchat, Wertfuzzy77#0274, needs to be Caps
+04 Jan 2017 00:32:41 : LimitlessMc, mainchat, Third_Worm#4804, lol miles
+04 Jan 2017 00:32:47 : LimitlessMc, botchat, Wertfuzzy77#0274, well, I could change that
+04 Jan 2017 00:32:58 : LimitlessMc, mainchat, ChesireKat#7022, wow raffe
+04 Jan 2017 00:33:03 : LimitlessMc, mainchat, AnishaLunarAngel#5926, Who was it that I was getting a scyther for?
+04 Jan 2017 00:33:13 : LimitlessMc, mainchat, ChesireKat#7022, hate is directed towards rafef
+04 Jan 2017 00:33:17 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle SPDEI
+04 Jan 2017 00:33:18 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss gardevoir has 207 health left.
+04 Jan 2017 00:33:18 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 00:33:18 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_s: :regional_indicator_p: :regional_indicator_d: :regional_indicator_e: :regional_indicator_i:
+:white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark:
+04 Jan 2017 00:33:18 : LimitlessMc, mainchat, ChesireKat#7022, lel
+04 Jan 2017 00:33:18 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Super Effective!
+04 Jan 2017 00:33:18 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 46 damage
+04 Jan 2017 00:33:22 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, aw
+04 Jan 2017 00:33:22 : LimitlessMc, mainchat, ChesireKat#7022, name typo
+04 Jan 2017 00:33:23 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss gardevoir has 161 health left.
+04 Jan 2017 00:33:25 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, would have gotten 5x
+04 Jan 2017 00:33:25 : LimitlessMc, mainchat, ChesireKat#7022, ill leave it
+04 Jan 2017 00:33:36 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle SPFEI
+04 Jan 2017 00:33:36 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 0 seconds before you can fight the boss again.
+04 Jan 2017 00:33:39 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, LOL
+04 Jan 2017 00:33:39 : The Wester Narcs, general, Botfuzzy77#2209, Welcome @ChesireKat to The Wester Narcs!
+04 Jan 2017 00:33:40 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ...
+04 Jan 2017 00:33:43 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle SPFEI
+04 Jan 2017 00:33:44 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss gardevoir has 161 health left.
+04 Jan 2017 00:33:44 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 00:33:44 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_s: :regional_indicator_p: :regional_indicator_f: :regional_indicator_e: :regional_indicator_i:
+:white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark:
+04 Jan 2017 00:33:44 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Super Effective!
+04 Jan 2017 00:33:44 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 37 damage
+04 Jan 2017 00:33:49 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss gardevoir has 124 health left.
+04 Jan 2017 00:33:52 : LimitlessMc, mainchat, Third_Worm#4804, Ah yeah
+04 Jan 2017 00:33:54 : The Wester Narcs, general, ChesireKat#7022, O.o
+04 Jan 2017 00:33:59 : LimitlessMc, mainchat, Third_Worm#4804, JAy if you see my pms
+04 Jan 2017 00:34:00 : LimitlessMc, mainchat, Third_Worm#4804, *jay
+04 Jan 2017 00:34:04 : The Wester Narcs, general, NarcoticMile#6198, ayee
+04 Jan 2017 00:34:05 : The Wester Narcs, general, Wertfuzzy77#0274, Spooky
+04 Jan 2017 00:34:06 : Pokemon Mystery Dungeon, bot_chat, DicloniusPony#6564, ;rate
+04 Jan 2017 00:34:06 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, DicloniusPony is Basically Garbage
+04 Jan 2017 00:34:09 : Pokemon Mystery Dungeon, bot_chat, DicloniusPony#6564, true
+04 Jan 2017 00:34:11 : LimitlessMc, mainchat, Third_Worm#4804, Raffe was the one i was talking about
+04 Jan 2017 00:34:16 : Pokemon Mystery Dungeon, bot_chat, DicloniusPony#6564, ;luck
+04 Jan 2017 00:34:16 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, DicloniusPony's luck is 36.39 out of 100, which is **Pretty Bad**
+04 Jan 2017 00:34:16 : LimitlessMc, mainchat, AnishaLunarAngel#5926, Hello? I owed a False swipe scyther to someone, who was that?
+04 Jan 2017 00:34:21 : LimitlessMc, mainchat, Third_Worm#4804, ^
+04 Jan 2017 00:34:21 : LimitlessMc, mainchat, Botfuzzy77#2209, ^
+04 Jan 2017 00:34:23 : LimitlessMc, mainchat, Third_Worm#4804, saba
+04 Jan 2017 00:34:33 : LimitlessMc, mainchat, AnishaLunarAngel#5926, ty
+04 Jan 2017 00:34:50 : The Wester Narcs, general, ChesireKat#7022, whats the picture of?
+04 Jan 2017 00:35:06 : The Wester Narcs, general, Wertfuzzy77#0274, I think its a bird
+04 Jan 2017 00:35:16 : The Wester Narcs, general, ChesireKat#7022, ewwww can you demote me plz
+04 Jan 2017 00:35:28 : The Wester Narcs, general, ChesireKat#7022, i dont wanna be gaming crew
+04 Jan 2017 00:35:35 : The Wester Narcs, general, ChesireKat#7022, ill stick with ponyta
+04 Jan 2017 00:35:38 : The Wester Narcs, general, ChesireKat#7022, thanks
+04 Jan 2017 00:35:51 : The Wester Narcs, general, NarcoticMile#6198, lel
+04 Jan 2017 00:35:55 : Pokemon Mystery Dungeon, general, DicloniusPony#6564, someone joined?
+04 Jan 2017 00:35:56 : The Wester Narcs, general, ChesireKat#7022, XD
+04 Jan 2017 00:35:58 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle SPPEI
+04 Jan 2017 00:35:58 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss gardevoir has 124 health left.
+04 Jan 2017 00:35:58 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 00:35:59 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_s: :regional_indicator_p: :regional_indicator_p: :regional_indicator_e: :regional_indicator_i:
+:white_check_mark: :white_check_mark: :x: :white_check_mark: :x:
+04 Jan 2017 00:35:59 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Critical Strike!
+04 Jan 2017 00:35:59 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 22 damage
+04 Jan 2017 00:36:03 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, rip
+04 Jan 2017 00:36:04 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss gardevoir has 102 health left.
+04 Jan 2017 00:36:15 : Pokemon Mystery Dungeon, general, ChesireKat#7022, yes
+04 Jan 2017 00:36:21 : Pokemon Mystery Dungeon, general, ChesireKat#7022, dragonite
+04 Jan 2017 00:36:23 : Pokemon Mystery Dungeon, general, DicloniusPony#6564, im going afk, gonna eat XD
+04 Jan 2017 00:36:24 : Pokemon Mystery Dungeon, general, ChesireKat#7022, is chill
+04 Jan 2017 00:36:26 : Pokemon Mystery Dungeon, general, ChesireKat#7022, lel
+04 Jan 2017 00:36:28 : Pokemon Mystery Dungeon, general, ChesireKat#7022, okei
+04 Jan 2017 00:36:35 : Pokemon Mystery Dungeon, general, DicloniusPony#6564, take care of the server babi
+04 Jan 2017 00:36:42 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle SPEED
+04 Jan 2017 00:36:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss gardevoir has 102 health left.
+04 Jan 2017 00:36:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 00:36:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_s: :regional_indicator_p: :regional_indicator_e: :regional_indicator_e: :regional_indicator_d:
+:white_check_mark: :white_check_mark: :x: :white_check_mark: :x:
+04 Jan 2017 00:36:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Critical Strike!
+04 Jan 2017 00:36:43 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 30 damage
+04 Jan 2017 00:36:43 : The Wester Narcs, general, NarcoticMile#6198, there
+04 Jan 2017 00:36:45 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, lol
+04 Jan 2017 00:36:46 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, xD
+04 Jan 2017 00:36:47 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss gardevoir has 72 health left.
+04 Jan 2017 00:37:16 : Pokemon Mystery Dungeon, general, ChesireKat#7022, okei
+04 Jan 2017 00:37:23 : The Wester Narcs, general, Wertfuzzy77#0274, ;tempmute ChesireKat 120
+04 Jan 2017 00:37:24 : The Wester Narcs, general, Botfuzzy77#2209, Something went Wrong: Forbidden
+04 Jan 2017 00:37:24 : The Wester Narcs, general, Botfuzzy77#2209, Muted ChesireKat
+04 Jan 2017 00:37:26 : The Wester Narcs, general, Wertfuzzy77#0274, ;-;
+04 Jan 2017 00:37:30 : The Wester Narcs, general, ChesireKat#7022, lmao
+04 Jan 2017 00:37:32 : The Wester Narcs, general, ChesireKat#7022, XD
+04 Jan 2017 00:37:48 : LimitlessMc, botchat, StarwinnerCraft#0288, ;server
+04 Jan 2017 00:37:49 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+04 Jan 2017 00:37:49 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 22 players out of 100
+ *Ping*: 129.812 ms
+ *MC Version*: 1.10.2
+04 Jan 2017 00:37:49 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.0
+04 Jan 2017 00:37:49 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *Third_Worm, NeverendingTori, ElectroMaster700, tms3000, burrtoelow, Jabulla, Raffe2003, ruleroftri, GetRekdM8, OhFlimzy, KoNekoBoo, dragonboy194...*
+04 Jan 2017 00:37:51 : Pokemon Mystery Dungeon, poke_battles, AnishaLunarAngel#5926, ;pokebattle SPIEI
+04 Jan 2017 00:37:51 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss gardevoir has 72 health left.
+04 Jan 2017 00:37:52 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 00:37:52 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_s: :regional_indicator_p: :regional_indicator_i: :regional_indicator_e: :regional_indicator_i:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x:
+04 Jan 2017 00:37:52 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Super Effective!
+04 Jan 2017 00:37:52 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 35 damage
+04 Jan 2017 00:37:53 : The Wester Narcs, general, ChesireKat#7022, i cant stop laughing ty @NarcoticMile  :3
+04 Jan 2017 00:37:54 : The Wester Narcs, general, NarcoticMile#6198, ok hold on
+04 Jan 2017 00:37:55 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, gj
+04 Jan 2017 00:37:57 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss gardevoir has 37 health left.
+04 Jan 2017 00:38:04 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle SPIEF
+04 Jan 2017 00:38:04 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss gardevoir has 37 health left.
+04 Jan 2017 00:38:04 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 00:38:04 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_s: :regional_indicator_p: :regional_indicator_i: :regional_indicator_e: :regional_indicator_f:
+:white_check_mark: :white_check_mark: :white_check_mark: :x: :x:
+04 Jan 2017 00:38:04 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Critical Strike!
+04 Jan 2017 00:38:04 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 23 damage
+04 Jan 2017 00:38:05 : The Wild Weebs, general, enragednuke#2565, @Pook @Tally there's a lot of negative feedback about the requirement being raised to 96 so I think it's gonna get lowered a bit. Probably down to 60-75-90 is where I think they'll compromise for (this scenario happened with Cerberus, it was announced at 81 slayer, risen to 95 becaause of elitists, then dropped to 91 because the majority got pissed at high 95 req)
+04 Jan 2017 00:38:07 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, rip
+04 Jan 2017 00:38:09 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss gardevoir has 14 health left.
+04 Jan 2017 00:38:25 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle SPIPP
+04 Jan 2017 00:38:25 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 22 seconds before you can fight the boss again.
+04 Jan 2017 00:38:30 : The Wester Narcs, general, ChesireKat#7022, lel now try wert
+04 Jan 2017 00:38:58 : The Wester Narcs, general, ChesireKat#7022, ;tempmute ChesireKat
+04 Jan 2017 00:38:58 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle SPINS
+04 Jan 2017 00:38:59 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss gardevoir has 14 health left.
+04 Jan 2017 00:38:59 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 00:38:59 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_s: :regional_indicator_p: :regional_indicator_i: :regional_indicator_n: :regional_indicator_s:
+:white_check_mark: :white_check_mark: :white_check_mark: :x: :x:
+04 Jan 2017 00:38:59 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Critical Strike!
+04 Jan 2017 00:38:59 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 20 damage
+04 Jan 2017 00:39:01 : The Wester Narcs, general, ChesireKat#7022, O.o
+04 Jan 2017 00:39:03 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, le
+04 Jan 2017 00:39:04 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss gardevoir has been defeated!
+04 Jan 2017 00:39:04 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Most Damage by **Bakafish** with **152** damage
+04 Jan 2017 00:39:04 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 2nd most Damage by *Wertfuzzy77* with *129* damage
+04 Jan 2017 00:39:04 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 3nd most Damage by *Wertfuzzy77* with *129* damage
+04 Jan 2017 00:39:08 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, lol wut
+04 Jan 2017 00:39:12 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, wat
+04 Jan 2017 00:39:15 : The Wester Narcs, general, NarcoticMile#6198, ;tempmute CherireKat 10
+04 Jan 2017 00:39:15 : The Wester Narcs, general, Botfuzzy77#2209, Something went Wrong: InvalidArgument
+04 Jan 2017 00:39:15 : The Wester Narcs, general, Botfuzzy77#2209, Muted CherireKat
+04 Jan 2017 00:39:15 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, why am i there 2x
+04 Jan 2017 00:39:17 : The Wester Narcs, general, NarcoticMile#6198, hmmm
+04 Jan 2017 00:39:21 : The Wester Narcs, general, ChesireKat#7022, ;tempmute ChesireKat 420
+04 Jan 2017 00:39:21 : The Wester Narcs, general, Botfuzzy77#2209, Something went Wrong: Forbidden
+04 Jan 2017 00:39:21 : The Wester Narcs, general, Botfuzzy77#2209, Muted ChesireKat
+04 Jan 2017 00:39:22 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, you awesome
+04 Jan 2017 00:39:24 : The Wester Narcs, general, ChesireKat#7022, lel
+04 Jan 2017 00:39:24 : The Wester Narcs, general, Botfuzzy77#2209, Something went Wrong: Forbidden
+04 Jan 2017 00:39:24 : The Wester Narcs, general, Botfuzzy77#2209, Unmuted ChesireKat
+04 Jan 2017 00:39:25 : The Wester Narcs, general, Botfuzzy77#2209, Something went Wrong: InvalidArgument
+04 Jan 2017 00:39:26 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, apparently xD
+04 Jan 2017 00:39:26 : The Wester Narcs, general, Botfuzzy77#2209, Unmuted CherireKat
+04 Jan 2017 00:39:28 : The Wester Narcs, general, NarcoticMile#6198, wait
+04 Jan 2017 00:39:29 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;reload
+04 Jan 2017 00:39:31 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Reloaded all Modules
+04 Jan 2017 00:39:34 : The Wester Narcs, general, ChesireKat#7022, cherire?
+04 Jan 2017 00:39:36 : The Wester Narcs, general, ChesireKat#7022, O.o
+04 Jan 2017 00:39:40 : The Wester Narcs, general, NarcoticMile#6198, i dont think i gave it administative thingys
+04 Jan 2017 00:39:41 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, now he has more HP, and the combos are better
+04 Jan 2017 00:39:42 : LimitlessMc, botchat, Bakafish#8693, ;pokebattle NNNNN
+04 Jan 2017 00:39:42 : LimitlessMc, botchat, Botfuzzy77#2209, A Boss tangrowth has appeared!
+It has 432 Health.
+04 Jan 2017 00:39:43 : LimitlessMc, botchat, Botfuzzy77#2209, 
+04 Jan 2017 00:39:43 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :x: :x:
+04 Jan 2017 00:39:43 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did 4 damage
+04 Jan 2017 00:39:43 : LimitlessMc, botchat, Botfuzzy77#2209, Boss tangrowth has 428 health left.
+04 Jan 2017 00:39:51 : LimitlessMc, botchat, Bakafish#8693, ;pokebattle IIIII
+04 Jan 2017 00:39:51 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 112 seconds before you can fight the boss again.
+04 Jan 2017 00:40:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle FFFFF
+04 Jan 2017 00:40:01 : LimitlessMc, botchat, Botfuzzy77#2209, Boss tangrowth has 428 health left.
+04 Jan 2017 00:40:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+04 Jan 2017 00:40:01 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f:
+:x: :x: :white_check_mark: :x: :x:
+04 Jan 2017 00:40:01 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did 10 damage
+04 Jan 2017 00:40:01 : LimitlessMc, botchat, Botfuzzy77#2209, Boss tangrowth has 418 health left.
+04 Jan 2017 00:40:03 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle NNNNN
+04 Jan 2017 00:40:04 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 100 seconds before you can fight the boss again.
+04 Jan 2017 00:40:07 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, tangrowth
+04 Jan 2017 00:40:09 : The Wester Narcs, general, ChesireKat#7022, lel bot takes over
+04 Jan 2017 00:40:10 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ya, i saw
+04 Jan 2017 00:40:26 : The Wester Narcs, general, NarcoticMile#6198, oml
+04 Jan 2017 00:40:27 : The Wester Narcs, general, ChesireKat#7022, ;tempmute ChesireKat 420
+04 Jan 2017 00:40:27 : The Wester Narcs, general, Botfuzzy77#2209, Something went Wrong: Forbidden
+04 Jan 2017 00:40:27 : The Wester Narcs, general, Botfuzzy77#2209, Muted ChesireKat
+04 Jan 2017 00:40:28 : Pokemon Mystery Dungeon, general, AnishaLunarAngel#5926, I hep too
+04 Jan 2017 00:40:31 : The Wester Narcs, general, NarcoticMile#6198, XD
+04 Jan 2017 00:40:39 : The Wester Narcs, general, ChesireKat#7022, O.o
+04 Jan 2017 00:40:44 : The Wester Narcs, general, ChesireKat#7022, i is not mute
+04 Jan 2017 00:40:44 : Pokemon Mystery Dungeon, poke_battles, AnishaLunarAngel#5926, need less cooldown
+04 Jan 2017 00:40:46 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle BBFBB
+04 Jan 2017 00:40:47 : Pokemon Mystery Dungeon, poke_battles, AnishaLunarAngel#5926, like 30 seconds
+04 Jan 2017 00:40:47 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 57 seconds before you can fight the boss again.
+04 Jan 2017 00:40:53 : Pokemon Mystery Dungeon, poke_battles, AnishaLunarAngel#5926, or 40
+04 Jan 2017 00:41:02 : The Wester Narcs, general, ChesireKat#7022, ;tempmute Botfuzzy77 420
+04 Jan 2017 00:41:02 : The Wester Narcs, general, Botfuzzy77#2209, Something went Wrong: Forbidden
+04 Jan 2017 00:41:02 : The Wester Narcs, general, Botfuzzy77#2209, Muted Botfuzzy77
+04 Jan 2017 00:41:05 : The Wester Narcs, general, ChesireKat#7022, lel
+04 Jan 2017 00:41:05 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle BIFIB
+04 Jan 2017 00:41:05 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 38 seconds before you can fight the boss again.
+04 Jan 2017 00:41:06 : LimitlessMc, botchat, StarwinnerCraft#0288, ;pokebattle wwwww
+04 Jan 2017 00:41:06 : LimitlessMc, botchat, Botfuzzy77#2209, Boss tangrowth has 418 health left.
+04 Jan 2017 00:41:07 : LimitlessMc, botchat, Botfuzzy77#2209, 
+04 Jan 2017 00:41:07 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w:
+:x: :x: :x: :x: :x:
+04 Jan 2017 00:41:07 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did 4 damage
+04 Jan 2017 00:41:07 : LimitlessMc, botchat, Botfuzzy77#2209, Boss tangrowth has 414 health left.
+04 Jan 2017 00:41:10 : Pokemon Mystery Dungeon, poke_battles, AnishaLunarAngel#5926, ;pokebattle BEFNI
+04 Jan 2017 00:41:10 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss tangrowth has 414 health left.
+04 Jan 2017 00:41:10 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 00:41:10 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_b: :regional_indicator_e: :regional_indicator_f: :regional_indicator_n: :regional_indicator_i:
+:x: :x: :white_check_mark: :x: :x:
+04 Jan 2017 00:41:10 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 9 damage
+04 Jan 2017 00:41:10 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss tangrowth has 405 health left.
+04 Jan 2017 00:41:14 : Pokemon Mystery Dungeon, general, ChesireKat#7022, ^
+04 Jan 2017 00:41:14 : Pokemon Mystery Dungeon, general, Botfuzzy77#2209, ^
+04 Jan 2017 00:41:26 : The Wester Narcs, general, Third_Worm#4804, ew
+04 Jan 2017 00:41:27 : The Wester Narcs, general, NarcoticMile#6198, ;clean
+04 Jan 2017 00:41:27 : The Wester Narcs, general, Third_Worm#4804, no
+04 Jan 2017 00:41:31 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle IIFIB
+04 Jan 2017 00:41:31 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 12 seconds before you can fight the boss again.
+04 Jan 2017 00:41:35 : Pokemon Mystery Dungeon, poke_battles, AnishaLunarAngel#5926, ;pokebattle EBFIN
+04 Jan 2017 00:41:35 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 96 seconds before you can fight the boss again.
+04 Jan 2017 00:41:39 : The Wester Narcs, general, Third_Worm#4804, my colors boi
+04 Jan 2017 00:41:42 : The Wester Narcs, general, Third_Worm#4804, <_<
+04 Jan 2017 00:41:45 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle IIFIB
+04 Jan 2017 00:41:45 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss tangrowth has 405 health left.
+04 Jan 2017 00:41:45 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 00:41:46 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_i: :regional_indicator_f: :regional_indicator_i: :regional_indicator_b:
+:x: :x: :white_check_mark: :x: :x:
+04 Jan 2017 00:41:46 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 7 damage
+04 Jan 2017 00:41:46 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss tangrowth has 398 health left.
+04 Jan 2017 00:41:49 : The Wester Narcs, general, Third_Worm#4804, *hisss*
+04 Jan 2017 00:41:55 : The Wester Narcs, general, ruleroftri#6648, Color has to be yellow if co owner
+04 Jan 2017 00:42:02 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle GGFGG
+04 Jan 2017 00:42:02 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss tangrowth has 398 health left.
+04 Jan 2017 00:42:03 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 00:42:03 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_g: :regional_indicator_g: :regional_indicator_f: :regional_indicator_g: :regional_indicator_g:
+:x: :white_check_mark: :white_check_mark: :x: :x:
+04 Jan 2017 00:42:03 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 14 damage
+04 Jan 2017 00:42:03 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss tangrowth has 384 health left.
+04 Jan 2017 00:42:06 : The Wester Narcs, general, Third_Worm#4804, Then make me a diffrent role
+04 Jan 2017 00:42:14 : The Wester Narcs, general, Third_Worm#4804, oh wait
+04 Jan 2017 00:42:14 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle PGFPP
+04 Jan 2017 00:42:14 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 92 seconds before you can fight the boss again.
+04 Jan 2017 00:42:19 : The Wester Narcs, general, Third_Worm#4804, i think i can do it
+04 Jan 2017 00:42:22 : The Wester Narcs, general, ChesireKat#7022, @NarcoticMile  can i be colored black
+04 Jan 2017 00:42:22 : Pokemon Mystery Dungeon, poke_battles, AnishaLunarAngel#5926, ;pokebattle NGFEN
+04 Jan 2017 00:42:22 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 48 seconds before you can fight the boss again.
+04 Jan 2017 00:42:23 : The Wester Narcs, general, ChesireKat#7022, ?
+04 Jan 2017 00:42:29 : The Wester Narcs, general, Third_Worm#4804, oh you have to
+04 Jan 2017 00:42:41 : The Wester Narcs, general, ChesireKat#7022, we cant edit our own roles
+04 Jan 2017 00:42:46 : The Wester Narcs, general, ChesireKat#7022, thank :3
+04 Jan 2017 00:43:01 : The Wester Narcs, general, ChesireKat#7022, black is my new fav role color
+04 Jan 2017 00:43:07 : The Wester Narcs, general, ChesireKat#7022, XD
+04 Jan 2017 00:43:25 : The Wester Narcs, general, Third_Worm#4804, No both purple ew
+04 Jan 2017 00:43:32 : The Wester Narcs, general, Third_Worm#4804, change my role
+04 Jan 2017 00:43:38 : The Wester Narcs, general, ChesireKat#7022, then it goes the queen rank
+04 Jan 2017 00:43:43 : The Wester Narcs, general, ChesireKat#7022, then co owner
+04 Jan 2017 00:43:45 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle DGFDD
+04 Jan 2017 00:43:45 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please wait 1 seconds before you can fight the boss again.
+04 Jan 2017 00:43:46 : The Wester Narcs, general, ChesireKat#7022, then the kat
+04 Jan 2017 00:43:50 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle DGFDD
+04 Jan 2017 00:43:50 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss tangrowth has 384 health left.
+04 Jan 2017 00:43:50 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 00:43:51 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_d: :regional_indicator_g: :regional_indicator_f: :regional_indicator_d: :regional_indicator_d:
+:x: :white_check_mark: :white_check_mark: :x: :x:
+04 Jan 2017 00:43:51 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 10 damage
+04 Jan 2017 00:43:51 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss tangrowth has 374 health left.
+04 Jan 2017 00:43:52 : The Wester Narcs, general, ChesireKat#7022, ah!
+04 Jan 2017 00:43:54 : The Wester Narcs, general, ChesireKat#7022, newwww
+04 Jan 2017 00:43:57 : The Wester Narcs, general, ChesireKat#7022, purple
+04 Jan 2017 00:44:07 : The Wester Narcs, general, ChesireKat#7022, miles! whats going on lol
+04 Jan 2017 00:44:15 : The Wester Narcs, general, ChesireKat#7022, want me to fix?
+04 Jan 2017 00:44:16 : The Wester Narcs, general, ChesireKat#7022, XD
+04 Jan 2017 00:44:41 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle EGFEE
+04 Jan 2017 00:44:41 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss tangrowth has 374 health left.
+04 Jan 2017 00:44:41 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 00:44:41 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_e: :regional_indicator_g: :regional_indicator_f: :regional_indicator_e: :regional_indicator_e:
+:x: :white_check_mark: :white_check_mark: :x: :x:
+04 Jan 2017 00:44:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 14 damage
+04 Jan 2017 00:44:42 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss tangrowth has 360 health left.
+04 Jan 2017 00:44:43 : The Wester Narcs, general, NarcoticMile#6198, holdon
+04 Jan 2017 00:44:48 : The Wester Narcs, general, ChesireKat#7022, O.o
+04 Jan 2017 00:45:06 : Pokemon Mystery Dungeon, poke_battles, AnishaLunarAngel#5926, ;pokebattle NGFEN
+04 Jan 2017 00:45:06 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss tangrowth has 360 health left.
+04 Jan 2017 00:45:06 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 00:45:06 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_g: :regional_indicator_f: :regional_indicator_e: :regional_indicator_n:
+:x: :white_check_mark: :white_check_mark: :x: :x:
+04 Jan 2017 00:45:07 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 15 damage
+04 Jan 2017 00:45:07 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss tangrowth has 345 health left.
+04 Jan 2017 00:45:25 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, need a combo
+04 Jan 2017 00:45:48 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, getting 3 right does 2x damage, getting 4 does 5x and all 5 does 10x
+04 Jan 2017 00:46:06 : The Wester Narcs, general, ChesireKat#7022, can you give the kat role admin perms i kinda want to see whatsookines you have concocted lel
+04 Jan 2017 00:46:10 : The Wester Narcs, general, Third_Worm#4804, no
+04 Jan 2017 00:46:15 : The Wester Narcs, general, ChesireKat#7022, wow
+04 Jan 2017 00:46:17 : The Wester Narcs, general, ChesireKat#7022, rood
+04 Jan 2017 00:46:19 : The Wester Narcs, general, Third_Worm#4804, le
+04 Jan 2017 00:46:21 : The Wester Narcs, general, Botfuzzy77#2209, Something went Wrong: Forbidden
+04 Jan 2017 00:46:22 : The Wester Narcs, general, Botfuzzy77#2209, Unmuted ChesireKat
+04 Jan 2017 00:46:25 : The Wester Narcs, general, ChesireKat#7022, rekt
+04 Jan 2017 00:46:50 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle A
+04 Jan 2017 00:46:50 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please use a Combination of **5** Types to Fight the Boss: (**N**)ormal, (**F**)ire, (**W**)ater, (**G**)rass, (**P**)oison, (**D**)ragon, (**S**)teel, (**E**)lectric, (**B**)ug, or (**I**)ce.
+ Ex 'GSEBI' or 'DPGDB'
+04 Jan 2017 00:46:55 : The Wester Narcs, general, Botfuzzy77#2209, Welcome @FacePalmTree to The Wester Narcs!
+04 Jan 2017 00:47:04 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle SGFSS
+04 Jan 2017 00:47:05 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss tangrowth has 345 health left.
+04 Jan 2017 00:47:05 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 00:47:05 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_s: :regional_indicator_g: :regional_indicator_f: :regional_indicator_s: :regional_indicator_s:
+:x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+04 Jan 2017 00:47:05 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Super Effective! The Boss has switched 1 of the Super Effective Moves!
+04 Jan 2017 00:47:05 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 115 damage
+04 Jan 2017 00:47:10 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss tangrowth has 230 health left.
+04 Jan 2017 00:47:17 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, 115 Dmg
+04 Jan 2017 00:47:18 : Power Of Them All, general, Third_Worm#4804, boom
+04 Jan 2017 00:47:18 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, fancy
+04 Jan 2017 00:47:19 : Power Of Them All, general, Third_Worm#4804, easy
+04 Jan 2017 00:47:20 : Power Of Them All, general, ChesireKat#7022, okei
+04 Jan 2017 00:47:22 : Power Of Them All, general, ChesireKat#7022, wtf
+04 Jan 2017 00:47:24 : The Wester Narcs, general, ChesireKat#7022, eww
+04 Jan 2017 00:47:25 : The Wester Narcs, general, Third_Worm#4804, look at name and icon
+04 Jan 2017 00:47:27 : The Wester Narcs, general, Third_Worm#4804, boi easy
+04 Jan 2017 00:47:27 : The Wester Narcs, general, Botfuzzy77#2209, Something went Wrong: Forbidden
+04 Jan 2017 00:47:28 : The Wester Narcs, general, Botfuzzy77#2209, Unmuted ChesireKat
+04 Jan 2017 00:47:31 : Power Of Them All, general, Third_Worm#4804, *hissss*
+04 Jan 2017 00:47:31 : Power Of Them All, general, ChesireKat#7022, XD
+04 Jan 2017 00:47:36 : Power Of Them All, general, ChesireKat#7022, lel ban me
+04 Jan 2017 00:47:40 : Power Of Them All, general, ChesireKat#7022, *hisssssssssss*
+04 Jan 2017 00:48:03 : Power Of Them All, general, Botfuzzy77#2209, Something went Wrong: Forbidden
+04 Jan 2017 00:48:03 : Power Of Them All, general, Botfuzzy77#2209, Unmuted Botfuzzy77
+04 Jan 2017 00:48:05 : Power Of Them All, general, ruleroftri#6648, @I AM KAT!!! you want power or you want color?
+04 Jan 2017 00:48:07 : Pokemon Mystery Dungeon, general, Saba#2249, Gj Anisha you crashed the server when you logged in lol
+04 Jan 2017 00:48:11 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, ;pokebattle PGFSS
+04 Jan 2017 00:48:11 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss tangrowth has 230 health left.
+04 Jan 2017 00:48:11 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 00:48:12 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_p: :regional_indicator_g: :regional_indicator_f: :regional_indicator_s: :regional_indicator_s:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+04 Jan 2017 00:48:12 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its a Critical Strike and Its Super Effective! The Boss has switched 1 of the Super Effective Moves!
+04 Jan 2017 00:48:12 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 275 damage
+04 Jan 2017 00:48:14 : Pokemon Mystery Dungeon, poke_battles, Bakafish#8693, nice
+04 Jan 2017 00:48:16 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss tangrowth has been defeated!
+04 Jan 2017 00:48:17 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Most Damage by **Bakafish** with **296** damage
+04 Jan 2017 00:48:17 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 2nd most Damage by *Wertfuzzy77* with *153* damage
+04 Jan 2017 00:48:17 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 3nd most Damage by *Wertfuzzy77* with *153* damage
+04 Jan 2017 00:48:19 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, actually hax
+04 Jan 2017 00:48:27 : Power Of Them All, general, ChesireKat#7022, i dont care about power on this abysmal server color please
+04 Jan 2017 00:48:37 : Power Of Them All, general, ChesireKat#7022, or ban
+04 Jan 2017 00:48:39 : Power Of Them All, general, ChesireKat#7022, lel
+04 Jan 2017 00:48:48 : Power Of Them All, general, ruleroftri#6648, It should work now
+04 Jan 2017 00:48:50 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, Well, then again, you had a 1/50 chance to getting that xD
+04 Jan 2017 00:48:52 : Power Of Them All, general, ChesireKat#7022, thank
+04 Jan 2017 00:48:53 : Power Of Them All, general, ruleroftri#6648, Try saying something
+04 Jan 2017 00:48:58 : Power Of Them All, general, Third_Worm#4804, Mmm
+04 Jan 2017 00:49:00 : Power Of Them All, general, Third_Worm#4804, yes
+04 Jan 2017 00:49:04 : Power Of Them All, general, Third_Worm#4804, power...
+04 Jan 2017 00:49:10 : Power Of Them All, general, ruleroftri#6648, Overworm
+04 Jan 2017 00:49:11 : Power Of Them All, general, ChesireKat#7022, worm is spooking me
+04 Jan 2017 00:49:26 : Power Of Them All, general, Third_Worm#4804, boom
+04 Jan 2017 00:49:29 : Power Of Them All, general, Third_Worm#4804, better
+04 Jan 2017 00:49:34 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle HHHHH
+04 Jan 2017 00:49:35 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Please use a Combination of **5** Types to Fight the Boss: (**N**)ormal, (**F**)ire, (**W**)ater, (**G**)rass, (**P**)oison, (**D**)ragon, (**S**)teel, (**E**)lectric, (**B**)ug, or (**I**)ce.
+ Ex 'GSEBI' or 'DPGDB'
+04 Jan 2017 00:49:40 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle NNNNN
+04 Jan 2017 00:49:40 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss tangrowth has -45 health left.
+04 Jan 2017 00:49:41 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 00:49:41 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :x: :x:
+04 Jan 2017 00:49:41 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 5 damage
+04 Jan 2017 00:49:41 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss tangrowth has been defeated!
+04 Jan 2017 00:49:44 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, wut
+04 Jan 2017 00:49:45 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Most Damage by **Bakafish** with **296** damage
+04 Jan 2017 00:49:45 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 2nd most Damage by *Wertfuzzy77* with *158* damage
+04 Jan 2017 00:49:45 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 3nd most Damage by *Wertfuzzy77* with *158* damage
+04 Jan 2017 00:49:57 : Power Of Them All, general, NarcoticMile#6198, welcome @FacePalmTree
+04 Jan 2017 00:50:00 : Power Of Them All, general, ChesireKat#7022, lel @Ruleroftri  i really hope you or wert set op the perms
+04 Jan 2017 00:50:13 : Power Of Them All, general, NarcoticMile#6198, its me Tits4Skins
+04 Jan 2017 00:50:29 : Power Of Them All, general, ruleroftri#6648, I'm working on perms, if miles get power to set perms, GG
+04 Jan 2017 00:50:52 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle NNNNN
+04 Jan 2017 00:50:52 : Power Of Them All, general, ChesireKat#7022, lel i mean if worm was trusted to set them up *hissssssssssssssssss*
+04 Jan 2017 00:50:52 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss tangrowth has -50 health left.
+04 Jan 2017 00:50:52 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 00:50:52 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :x: :x:
+04 Jan 2017 00:50:52 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 4 damage
+04 Jan 2017 00:50:53 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss tangrowth has been defeated!
+04 Jan 2017 00:50:53 : Power Of Them All, general, ChesireKat#7022, nah
+04 Jan 2017 00:50:55 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ...
+04 Jan 2017 00:50:56 : Power Of Them All, general, ChesireKat#7022, noty
+04 Jan 2017 00:50:57 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Most Damage by **Bakafish** with **296** damage
+04 Jan 2017 00:50:57 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 2nd most Damage by *Wertfuzzy77* with *162* damage
+04 Jan 2017 00:50:58 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 3nd most Damage by *Wertfuzzy77* with *162* damage
+04 Jan 2017 00:51:02 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;reload
+04 Jan 2017 00:51:02 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Something went wrong :(
+04 Jan 2017 00:51:02 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, SyntaxError: invalid syntax (Games.py, line 189)
+04 Jan 2017 00:51:13 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;reload
+04 Jan 2017 00:51:13 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Something went wrong :(
+04 Jan 2017 00:51:13 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, SyntaxError: invalid syntax (Games.py, line 194)
+04 Jan 2017 00:51:24 : Power Of Them All, general, ruleroftri#6648, I've been working on the roles so far, we got miles' friends in the gaming crew, got the mods, I'm only temp co owner till everything is settup
+04 Jan 2017 00:51:24 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;reload
+04 Jan 2017 00:51:25 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Reloaded all Modules
+04 Jan 2017 00:51:41 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;reload
+04 Jan 2017 00:51:43 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Reloaded all Modules
+04 Jan 2017 00:51:49 : Power Of Them All, general, ChesireKat#7022, did he give you owner ship to set it up?
+04 Jan 2017 00:51:51 : Power Of Them All, general, Third_Worm#4804, ?
+04 Jan 2017 00:51:57 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle NNNNN
+04 Jan 2017 00:51:57 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, A Boss **cloyster** has appeared!
+It has 276 Health.
+04 Jan 2017 00:51:57 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 00:51:58 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :x: :x:
+04 Jan 2017 00:51:58 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 4 damage
+04 Jan 2017 00:51:58 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss cloyster has 272 health left.
+04 Jan 2017 00:52:01 : Power Of Them All, general, Third_Worm#4804, *shrugs*
+04 Jan 2017 00:52:02 : Power Of Them All, general, ChesireKat#7022, @Ruleroftri
+04 Jan 2017 00:52:05 : Power Of Them All, general, Third_Worm#4804, nope
+04 Jan 2017 00:52:10 : Power Of Them All, general, Third_Worm#4804, def not
+04 Jan 2017 00:52:15 : Power Of Them All, general, ruleroftri#6648, I have full power to mess with stuff
+04 Jan 2017 00:52:17 : Power Of Them All, general, Third_Worm#4804, @Ruleroftri he did
+04 Jan 2017 00:52:21 : Power Of Them All, general, Third_Worm#4804, not me
+04 Jan 2017 00:52:27 : Power Of Them All, general, Third_Worm#4804, *whistles*
+04 Jan 2017 00:52:34 : Power Of Them All, general, ChesireKat#7022, when you look at roles are any blured out?
+04 Jan 2017 00:52:44 : Power Of Them All, general, Third_Worm#4804, .3.
+04 Jan 2017 00:52:48 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;boss
+04 Jan 2017 00:53:06 : Power Of Them All, general, ruleroftri#6648, The roles seem fine to me, pretty sure the powers are correct to what they are set to for now
+04 Jan 2017 00:53:15 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;reload
+04 Jan 2017 00:53:19 : Power Of Them All, general, ChesireKat#7022, im just tryin to see if your owner
+04 Jan 2017 00:53:19 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Reloaded all Modules
+04 Jan 2017 00:53:23 : Power Of Them All, general, ruleroftri#6648, I'm not
+04 Jan 2017 00:53:24 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;boss
+04 Jan 2017 00:53:33 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle NNNNN
+04 Jan 2017 00:53:33 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, A Boss **furret** has appeared!
+It has 926 Health.
+04 Jan 2017 00:53:33 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 00:53:33 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :x: :x:
+04 Jan 2017 00:53:34 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 5 damage
+04 Jan 2017 00:53:34 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss furret has 921 health left.
+04 Jan 2017 00:53:45 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, wow, thats alot of HP
+04 Jan 2017 00:53:45 : Power Of Them All, general, ruleroftri#6648, I have admin powers
+04 Jan 2017 00:53:55 : Power Of Them All, general, ChesireKat#7022, O.o
+04 Jan 2017 00:53:56 : Power Of Them All, general, ChesireKat#7022, well
+04 Jan 2017 00:54:03 : Power Of Them All, general, ruleroftri#6648, I can do all I need
+04 Jan 2017 00:54:06 : Power Of Them All, general, Third_Worm#4804, same
+04 Jan 2017 00:54:08 : Power Of Them All, general, Third_Worm#4804, wee
+04 Jan 2017 00:54:29 : Power Of Them All, general, ChesireKat#7022, wish you guys good luck this place is nice
+04 Jan 2017 00:55:04 : Power Of Them All, general, ruleroftri#6648, I just get mad when miles sets stuff up so I can't edit something and then goes "What I didn't... Oh yeah, I did"
+04 Jan 2017 00:57:11 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;reload
+04 Jan 2017 00:57:13 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Reloaded all Modules
+04 Jan 2017 00:57:29 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, ;pokebattle NNNNN
+04 Jan 2017 00:57:29 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, A Boss **hitmontop** has appeared!
+It has 469 Health.
+04 Jan 2017 00:57:30 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, 
+04 Jan 2017 00:57:30 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :white_check_mark: :x: :white_check_mark: :white_check_mark:
+04 Jan 2017 00:57:30 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Its Sort-Of Effective
+04 Jan 2017 00:57:30 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Your moves did 39 damage
+04 Jan 2017 00:57:34 : Pokemon Mystery Dungeon, poke_battles, Wertfuzzy77#0274, well
+04 Jan 2017 00:57:35 : Pokemon Mystery Dungeon, poke_battles, Botfuzzy77#2209, Boss hitmontop has 430 health left.

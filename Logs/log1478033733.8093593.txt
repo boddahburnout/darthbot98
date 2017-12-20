@@ -1,0 +1,189 @@
+01 Nov 2016 20:55:42 : LimitlessMc, staff, Wertfuzzy77#0274, ;server
+01 Nov 2016 20:55:43 : LimitlessMc, staff, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+01 Nov 2016 20:55:43 : LimitlessMc, staff, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 21 players out of 200
+ *Ping*: 144.089 ms
+ *MC Version*: 1.10.2
+01 Nov 2016 20:55:43 : LimitlessMc, staff, Botfuzzy77#2209, **Players Online**:
+ *JannottiX, Spankster216, _BeefBoy, Wormneff, XtDiomedes, talhachoudhry, Omed, SKiiiiNG, LegendaryFaze, FAmayham, apefar02, ShuckDuckmc...*
+01 Nov 2016 20:55:46 : LimitlessMc, mainchat, Lightning#6734, cri
+01 Nov 2016 20:55:47 : LimitlessMc, staff, Wertfuzzy77#0274, there we go
+01 Nov 2016 20:55:47 : LimitlessMc, mainchat, Resolate#7058, rip
+01 Nov 2016 20:55:51 : LimitlessMc, mainchat, Wertfuzzy77#0274, ;join
+01 Nov 2016 20:55:52 : LimitlessMc, mainchat, Wertfuzzy77#0274, ;playlists
+01 Nov 2016 20:55:52 : LimitlessMc, mainchat, Botfuzzy77#2209, test[1], Sheeran[6], WEEB2[3], FUN[3], GAGA[3], Akinci[12], Train[3], 2Cellos[5], ACDC[5], Adele[5], Cala[21], Blunt[3], GnR[5], WEEB[4], SteinsGate[13], nicky[2], MJackson[5], Kimi[4], AIDS[0], Bringer[1], Maroon[5], Coldplay[5], Animenz[3], Perri[2], Old[9], Amagi[1], Dragons[4], Katy[3], AnimeOpenings[14]
+01 Nov 2016 20:55:54 : LimitlessMc, mainchat, Wertfuzzy77#0274, pick one
+01 Nov 2016 20:56:00 : LimitlessMc, mainchat, Lightning#6734, ACDC
+01 Nov 2016 20:56:04 : LimitlessMc, mainchat, Wertfuzzy77#0274, good choice
+01 Nov 2016 20:56:06 : LimitlessMc, mainchat, Wertfuzzy77#0274, ;playlist ACDC
+01 Nov 2016 20:56:11 : LimitlessMc, mainchat, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+01 Nov 2016 20:56:25 : LimitlessMc, mainchat, Lightning#6734, ahh nothin like good ol rock music ;D
+01 Nov 2016 20:56:32 : LimitlessMc, mainchat, Wertfuzzy77#0274, might lag a little, cause im running it local
+01 Nov 2016 20:56:32 : LimitlessMc, staff, Jay113355#4999, digitalocean?
+01 Nov 2016 20:56:34 : LimitlessMc, mainchat, Wertfuzzy77#0274, but should still work
+01 Nov 2016 20:56:38 : LimitlessMc, staff, Wertfuzzy77#0274, ya
+01 Nov 2016 20:56:44 : LimitlessMc, mainchat, Lightning#6734, i play along with my guitar now o-o
+01 Nov 2016 20:56:47 : LimitlessMc, staff, Wertfuzzy77#0274, got like $35 free
+01 Nov 2016 20:56:47 : LimitlessMc, staff, Jay113355#4999, Yeah, their cool
+01 Nov 2016 20:56:49 : LimitlessMc, staff, Wertfuzzy77#0274, so why not
+01 Nov 2016 20:56:59 : LimitlessMc, mainchat, Wertfuzzy77#0274, do it
+01 Nov 2016 20:57:27 : LimitlessMc, mainchat, Lightning#6734, must put new strings on :L
+01 Nov 2016 20:57:30 : LimitlessMc, staff, Wertfuzzy77#0274, I can host it there until like late spring
+01 Nov 2016 20:57:40 : LimitlessMc, staff, Wertfuzzy77#0274, then i need to find another way to host it, or actually start paying for it
+01 Nov 2016 20:57:46 : LimitlessMc, mainchat, Wertfuzzy77#0274, sux
+01 Nov 2016 20:57:47 : LimitlessMc, mainchat, Wertfuzzy77#0274, ;songs
+01 Nov 2016 20:57:47 : LimitlessMc, mainchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+01 Nov 2016 20:57:47 : LimitlessMc, mainchat, Botfuzzy77#2209, 1. AC/DC - Highway to Hell
+	<https://www.youtube.com/watch?v=gEPmA3USJdI>
+2. AC/DC - Thunderstruck
+	<https://www.youtube.com/watch?v=v2AC41dglnM>
+3. AC/DC - Rock' n Roll Train
+	<https://www.youtube.com/watch?v=LdRxXID_b28>
+4. AC/DC - Back In Black
+	<https://www.youtube.com/watch?v=pAgnJDJN4VA>
+Total Time is 0:18:13
+01 Nov 2016 20:57:56 : LimitlessMc, mainchat, Wertfuzzy77#0274, feel free to add more songs with the ;search cmd
+01 Nov 2016 20:57:57 : LimitlessMc, staff, Jay113355#4999, I need to expand my digital ocean stuff
+01 Nov 2016 20:58:01 : LimitlessMc, mainchat, Wertfuzzy77#0274, ;help search
+01 Nov 2016 20:58:01 : LimitlessMc, mainchat, Botfuzzy77#2209, ```
+;search [Pinput...]
+
+```
+01 Nov 2016 20:58:09 : LimitlessMc, mainchat, Wertfuzzy77#0274, lol, worst help ever
+01 Nov 2016 20:58:13 : LimitlessMc, mainchat, Wertfuzzy77#0274, I need to document my methods xD
+01 Nov 2016 20:58:13 : LimitlessMc, staff, Jay113355#4999, i was looking into the storeage thing they just added
+01 Nov 2016 20:58:19 : LimitlessMc, mainchat, Lightning#6734, ye lol
+01 Nov 2016 20:58:27 : LimitlessMc, staff, Jay113355#4999, it would be a good place to put a minecraft world if its fast enough
+01 Nov 2016 20:58:34 : LimitlessMc, staff, Jay113355#4999, as you can expand it
+01 Nov 2016 20:58:52 : LimitlessMc, mainchat, Wertfuzzy77#0274, basically
+01 Nov 2016 20:58:57 : LimitlessMc, mainchat, Wertfuzzy77#0274, ;search ACDC TNT
+01 Nov 2016 20:58:59 : LimitlessMc, mainchat, Botfuzzy77#2209, Added TNT AC/DC with lyrics to the queue
+01 Nov 2016 20:58:59 : LimitlessMc, mainchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=pR30knJs4Xk
+01 Nov 2016 20:59:06 : LimitlessMc, mainchat, Wertfuzzy77#0274, its like a youtube search
+01 Nov 2016 20:59:23 : LimitlessMc, mainchat, Wertfuzzy77#0274, it just adds the first video it finds searching youtube with those keywords
+01 Nov 2016 20:59:33 : LimitlessMc, mainchat, Lightning#6734, oh cool
+01 Nov 2016 20:59:41 : LimitlessMc, mainchat, Wertfuzzy77#0274, ;songs
+01 Nov 2016 20:59:42 : LimitlessMc, mainchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+01 Nov 2016 20:59:44 : LimitlessMc, mainchat, Botfuzzy77#2209, 1. AC/DC - Highway to Hell
+	<https://www.youtube.com/watch?v=gEPmA3USJdI>
+2. AC/DC - Thunderstruck
+	<https://www.youtube.com/watch?v=v2AC41dglnM>
+3. AC/DC - Rock' n Roll Train
+	<https://www.youtube.com/watch?v=LdRxXID_b28>
+4. AC/DC - Back In Black
+	<https://www.youtube.com/watch?v=pAgnJDJN4VA>
+5. TNT AC/DC with lyrics
+	<https://www.youtube.com/watch?v=pR30knJs4Xk>
+Total Time is 0:21:48
+01 Nov 2016 20:59:45 : LimitlessMc, mainchat, theOnlyJuan#9357, Pretty sweet
+01 Nov 2016 20:59:51 : LimitlessMc, mainchat, Wertfuzzy77#0274, yeah its cool
+01 Nov 2016 20:59:56 : LimitlessMc, mainchat, Wertfuzzy77#0274, been my project for a whiel now xD
+01 Nov 2016 20:59:59 : LimitlessMc, mainchat, Wertfuzzy77#0274, while*
+01 Nov 2016 21:00:24 : LimitlessMc, mainchat, theOnlyJuan#9357, U majoring in compsci or just hobby
+01 Nov 2016 21:00:30 : LimitlessMc, staff, Wertfuzzy77#0274, yeah, its pretty nice and easy to use/access
+01 Nov 2016 21:00:38 : LimitlessMc, mainchat, Wertfuzzy77#0274, Im a CS major
+01 Nov 2016 21:01:15 : LimitlessMc, mainchat, theOnlyJuan#9357, I'm doing mechanical engineering rn but I know a little java from hs lol
+01 Nov 2016 21:01:28 : LimitlessMc, mainchat, Wertfuzzy77#0274, Well, i spent maybe 2 years on java?
+01 Nov 2016 21:01:39 : LimitlessMc, mainchat, Wertfuzzy77#0274, + an internship last summer on it
+01 Nov 2016 21:01:44 : LimitlessMc, mainchat, Wertfuzzy77#0274, but the bot is in python
+01 Nov 2016 21:01:51 : LimitlessMc, mainchat, Lightning#6734, thunderstruck is gonna kill my fingers XD
+01 Nov 2016 21:01:52 : LimitlessMc, mainchat, Wertfuzzy77#0274, which is liek 10x better than any language ever
+01 Nov 2016 21:02:39 : LimitlessMc, staff, Wertfuzzy77#0274, also, have a free app
+01 Nov 2016 21:02:45 : LimitlessMc, staff, Wertfuzzy77#0274, so i can use the console from my phone now
+01 Nov 2016 21:03:02 : LimitlessMc, staff, Wertfuzzy77#0274, still getting used to a linux cmd line tho
+01 Nov 2016 21:03:13 : LimitlessMc, staff, Wertfuzzy77#0274, dont really know how to get around yet, but working on ir
+01 Nov 2016 21:03:15 : LimitlessMc, staff, Wertfuzzy77#0274, it*
+01 Nov 2016 21:03:29 : LimitlessMc, mainchat, Wertfuzzy77#0274, ;playlists
+01 Nov 2016 21:03:32 : LimitlessMc, mainchat, Botfuzzy77#2209, test[1], Sheeran[6], WEEB2[3], FUN[3], GAGA[3], Akinci[12], Train[3], 2Cellos[5], ACDC[5], Adele[5], Cala[21], Blunt[3], GnR[5], WEEB[4], SteinsGate[13], nicky[2], MJackson[5], Kimi[4], AIDS[0], Bringer[1], Maroon[5], Coldplay[5], Animenz[3], Perri[2], Old[9], Amagi[1], Dragons[4], Katy[3], AnimeOpenings[14]
+01 Nov 2016 21:03:37 : LimitlessMc, mainchat, Wertfuzzy77#0274, lets mix it around a bit
+01 Nov 2016 21:03:40 : LimitlessMc, mainchat, Wertfuzzy77#0274, pick another one
+01 Nov 2016 21:03:51 : LimitlessMc, mainchat, Lightning#6734, lets see what bringer has lel
+01 Nov 2016 21:04:02 : LimitlessMc, mainchat, Wertfuzzy77#0274, ;viewplaylist Bringer
+01 Nov 2016 21:04:05 : LimitlessMc, mainchat, Lightning#6734, inb4 its weeb shit
+01 Nov 2016 21:04:17 : LimitlessMc, mainchat, Jay113355#4999, Guys, #botchat
+01 Nov 2016 21:04:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;viewplaylist Bringer
+01 Nov 2016 21:05:09 : LimitlessMc, mainchat, Lightning#6734, lul
+01 Nov 2016 21:05:15 : LimitlessMc, mainchat, Wertfuzzy77#0274, oh
+01 Nov 2016 21:05:17 : LimitlessMc, mainchat, Wertfuzzy77#0274, and shelter
+01 Nov 2016 21:05:21 : LimitlessMc, mainchat, Wertfuzzy77#0274, and Animenz
+01 Nov 2016 21:05:23 : LimitlessMc, mainchat, Lightning#6734, you gotta let me play thunderstruck
+01 Nov 2016 21:05:33 : LimitlessMc, mainchat, Wertfuzzy77#0274, oh, and SteinsGate xD
+01 Nov 2016 21:05:35 : LimitlessMc, mainchat, Wertfuzzy77#0274, there alot of weeb stuff
+01 Nov 2016 21:05:36 : LimitlessMc, mainchat, Bringer#7277, lol
+01 Nov 2016 21:05:37 : LimitlessMc, botchat, theOnlyJuan#9357, #kickedoutofmainchatbyjay lel
+01 Nov 2016 21:05:41 : LimitlessMc, mainchat, Bringer#7277, hey wert
+01 Nov 2016 21:05:44 : LimitlessMc, mainchat, Wertfuzzy77#0274, hey
+01 Nov 2016 21:05:46 : LimitlessMc, mainchat, Wertfuzzy77#0274, im alive
+01 Nov 2016 21:05:53 : LimitlessMc, mainchat, Lightning#6734, #admin wert
+01 Nov 2016 21:05:57 : LimitlessMc, mainchat, Bringer#7277, i see what happened to you
+01 Nov 2016 21:06:01 : LimitlessMc, mainchat, Wertfuzzy77#0274, i died
+01 Nov 2016 21:06:08 : LimitlessMc, mainchat, Wertfuzzy77#0274, and now im alive
+01 Nov 2016 21:06:09 : LimitlessMc, mainchat, Bringer#7277, i cry
+01 Nov 2016 21:06:10 : LimitlessMc, mainchat, Lightning#6734, admin bringer and wert
+01 Nov 2016 21:06:12 : LimitlessMc, mainchat, Wertfuzzy77#0274, pretty simple
+01 Nov 2016 21:06:20 : LimitlessMc, mainchat, Bringer#7277, lol
+01 Nov 2016 21:06:33 : LimitlessMc, mainchat, Wertfuzzy77#0274, i dont even knwo whats in Weeb2
+01 Nov 2016 21:06:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;viewplaylist WEEB2
+01 Nov 2016 21:06:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ew
+01 Nov 2016 21:06:52 : LimitlessMc, mainchat, Bringer#7277, so are you coming back to the server?
+01 Nov 2016 21:06:58 : LimitlessMc, mainchat, Wertfuzzy77#0274, once i get MC to work
+01 Nov 2016 21:07:06 : LimitlessMc, mainchat, Wertfuzzy77#0274, ive given up for today tho
+01 Nov 2016 21:07:06 : LimitlessMc, mainchat, Bringer#7277, ok kool
+01 Nov 2016 21:07:11 : LimitlessMc, mainchat, Wertfuzzy77#0274, it being mean
+01 Nov 2016 21:07:14 : LimitlessMc, mainchat, Bringer#7277, lol
+01 Nov 2016 21:07:16 : LimitlessMc, mainchat, Lightning#6734, emg botfuzzy is perple!
+01 Nov 2016 21:07:23 : LimitlessMc, mainchat, Lightning#6734, nu jay whai
+01 Nov 2016 21:07:31 : LimitlessMc, mainchat, Lightning#6734, o-o i liked orange
+01 Nov 2016 21:07:31 : LimitlessMc, mainchat, Bringer#7277, lol
+01 Nov 2016 21:07:32 : LimitlessMc, mainchat, Wertfuzzy77#0274, Bot has to stay blue xD
+01 Nov 2016 21:08:05 : LimitlessMc, mainchat, theOnlyJuan#9357, All u guys went orange for a sec then changed back
+01 Nov 2016 21:08:10 : LimitlessMc, mainchat, Wertfuzzy77#0274, ya
+01 Nov 2016 21:08:13 : LimitlessMc, mainchat, Wertfuzzy77#0274, Jay doing things
+01 Nov 2016 21:08:14 : LimitlessMc, mainchat, Lightning#6734, jay messin with colours lel
+01 Nov 2016 21:08:17 : LimitlessMc, mainchat, Bringer#7277, lol
+01 Nov 2016 21:08:31 : LimitlessMc, mainchat, theOnlyJuan#9357, I was like wtf
+01 Nov 2016 21:09:30 : LimitlessMc, mainchat, Wertfuzzy77#0274, we add Kimi to playlist
+01 Nov 2016 21:09:34 : LimitlessMc, botchat, Wertfuzzy77#0274, ;playlist Kimi
+01 Nov 2016 21:09:53 : LimitlessMc, botchat, Resolate#7058, ;viewplaylist Kimi
+01 Nov 2016 21:09:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+01 Nov 2016 21:09:56 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+01 Nov 2016 21:09:56 : LimitlessMc, botchat, Botfuzzy77#2209, 1. AC/DC - Rock' n Roll Train
+	<https://www.youtube.com/watch?v=LdRxXID_b28>
+2. AC/DC - Back In Black
+	<https://www.youtube.com/watch?v=pAgnJDJN4VA>
+3. TNT AC/DC with lyrics
+	<https://www.youtube.com/watch?v=pR30knJs4Xk>
+Total Time is 0:12:12
+01 Nov 2016 21:09:59 : LimitlessMc, botchat, Wertfuzzy77#0274, .....?????????????????/
+01 Nov 2016 21:10:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;viewplaylist Bringer
+01 Nov 2016 21:11:06 : LimitlessMc, mainchat, Lightning#6734, ma fingers..
+01 Nov 2016 21:11:09 : LimitlessMc, mainchat, Lightning#6734, all the pain rn
+01 Nov 2016 21:11:22 : LimitlessMc, mainchat, Wertfuzzy77#0274, @Bringer your playlist is banned xD
+01 Nov 2016 21:11:25 : LimitlessMc, mainchat, Wertfuzzy77#0274, `youtube_dl.utils.DownloadError: ERROR: Zp7h9o8OCFY: YouTube said: This video contains content from WMG, who has blocked it on copyright grounds.`
+01 Nov 2016 21:11:30 : LimitlessMc, mainchat, Wertfuzzy77#0274, rip
+01 Nov 2016 21:11:32 : LimitlessMc, mainchat, Resolate#7058, xD
+01 Nov 2016 21:11:33 : LimitlessMc, mainchat, Lightning#6734, D:
+01 Nov 2016 21:11:51 : LimitlessMc, mainchat, Bringer#7277, lmao
+01 Nov 2016 21:11:59 : LimitlessMc, mainchat, Wertfuzzy77#0274, thats ok tho, i have the json file where its stored
+01 Nov 2016 21:12:00 : LimitlessMc, mainchat, Wertfuzzy77#0274, https://www.youtube.com/watch?v=Zp7h9o8OCFY
+01 Nov 2016 21:12:05 : LimitlessMc, mainchat, Lightning#6734, restart??
+01 Nov 2016 21:12:05 : LimitlessMc, mainchat, Wertfuzzy77#0274, thats the playlist
+01 Nov 2016 21:12:06 : LimitlessMc, mainchat, Bringer#7277, nice
+01 Nov 2016 21:12:16 : LimitlessMc, mainchat, Bringer#7277, idk
+01 Nov 2016 21:12:20 : LimitlessMc, mainchat, Wertfuzzy77#0274, https://www.youtube.com/watch?v=a-UbR0HMCYY
+01 Nov 2016 21:12:24 : LimitlessMc, mainchat, Wertfuzzy77#0274, ayyy
+01 Nov 2016 21:12:25 : LimitlessMc, mainchat, Wertfuzzy77#0274, new game
+01 Nov 2016 21:12:31 : LimitlessMc, mainchat, Bringer#7277, must be
+01 Nov 2016 21:12:38 : LimitlessMc, mainchat, Wertfuzzy77#0274, why thats in a playlist called 'test'
+01 Nov 2016 21:12:39 : LimitlessMc, mainchat, Bringer#7277, ??
+01 Nov 2016 21:12:40 : LimitlessMc, mainchat, Wertfuzzy77#0274, i have no idea
+01 Nov 2016 21:13:00 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+01 Nov 2016 21:13:00 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+01 Nov 2016 21:13:00 : LimitlessMc, botchat, Botfuzzy77#2209, 1. AC/DC - Back In Black
+	<https://www.youtube.com/watch?v=pAgnJDJN4VA>
+2. TNT AC/DC with lyrics
+	<https://www.youtube.com/watch?v=pR30knJs4Xk>
+Total Time is 0:07:50
+01 Nov 2016 21:13:54 : LimitlessMc, mainchat, Wertfuzzy77#0274, need to relog him for a sec
+01 Nov 2016 21:13:55 : LimitlessMc, mainchat, Wertfuzzy77#0274, ;relog
+01 Nov 2016 21:13:55 : LimitlessMc, mainchat, Botfuzzy77#2209, Relogging...

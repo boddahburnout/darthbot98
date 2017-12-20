@@ -1,0 +1,22 @@
+15 Aug 2017 19:12:16 : Legacy Craft, general, DJ_Phatzo#8045, anyone here enjoy D&D?
+15 Aug 2017 19:12:56 : Achievement Heaven, ah-general, happydoglizardman#3072, how u doing yall
+15 Aug 2017 19:13:00 : LimitlessMc, botchat, Bakafish#8693, ;train
+15 Aug 2017 19:13:02 : LimitlessMc, botchat, Botfuzzy77#2209, 
+15 Aug 2017 19:13:02 : LimitlessMc, botchat, Botfuzzy77#2209, 
+15 Aug 2017 19:13:23 : Botfuzzy77 Living Quarters, bot-testing_grounds, Wertfuzzy77#0274, ;broadcast a
+15 Aug 2017 19:13:31 : Botfuzzy77 Living Quarters, bot-testing_grounds, Wertfuzzy77#0274, ;broadcast how are you
+15 Aug 2017 19:13:49 : Botfuzzy77 Living Quarters, bot-testing_grounds, Wertfuzzy77#0274, ;debug ctx.message.author.id
+15 Aug 2017 19:13:50 : Botfuzzy77 Living Quarters, bot-testing_grounds, Botfuzzy77#2209, ```py
+134441036905840640
+```
+15 Aug 2017 19:14:18 : Botfuzzy77 Living Quarters, bot-testing_grounds, Wertfuzzy77#0274, ;debug bot.servers
+15 Aug 2017 19:14:18 : Botfuzzy77 Living Quarters, bot-testing_grounds, Botfuzzy77#2209, ```py
+dict_values([<discord.server.Server object at 0x7f6efacb5dc8>, <discord.server.Server object at 0x7f6efbbc5b40>, <discord.server.Server object at 0x7f6efacb8048>, <discord.server.Server object at 0x7f6efbb7b708>, <discord.server.Server object at 0x7f6efbb7b8b8>, <discord.server.Server object at 0x7f6efacb5a68>, <discord.server.Server object at 0x7f6efbb7b7e0>, <discord.server.Server object at 0x7f6efacb5ea0>, <discord.server.Server object at 0x7f6efacb53a8>, <discord.server.Server object at 0x7f6efbb7bcf0>, <discord.server.Server object at 0x7f6efbb7b558>, <discord.server.Server object at 0x7f6efacb52d0>, <discord.server.Server object at 0x7f6efacb5558>, <discord.server.Server object at 0x7f6efacb5c18>, <discord.server.Server object at 0x7f6efbb7bdc8>, <discord.server.Server object at 0x7f6efacb5630>, <discord.server.Server object at 0x7f6efacb5120>, <discord.server.Server object at 0x7f6efbb7ba68>, <discord.server.Server object at 0x7f6efacb5990>, <discord.server.Server object at 0x7f6efacb5708>, <discord.server.Server object at 0x7f6efbb7b990>, <discord.server.Server object at 0x7f6efacb5480>, <discord.server.Server object at 0x7f6efacb57e0>, <discord.server.Server object at 0x7f6efacb5048>, <discord.server.Server object at 0x7f6efbb7bb40>, <discord.server.Server object at 0x7f6efbb7bea0>, <discord.server.Server object at 0x7f6efacb51f8>, <discord.server.Server object at 0x7f6efacb5cf0>, <discord.server.Server object at 0x7f6efbb7b480>, <discord.server.Server object at 0x7f6efbb7b630>, <discord.server.Server object at 0x7f6efbb7b3a8>, <discord.server.Server object at 0x7f6efacb5b40>, <discord.server.Server object at 0x7f6efbb7bc18>, <discord.server.Server object at 0x7f6efacb58b8>])
+```
+15 Aug 2017 19:14:46 : Botfuzzy77 Living Quarters, bot-testing_grounds, Wertfuzzy77#0274, ;debug [print(x.name) for x in bot.servers]
+15 Aug 2017 19:14:46 : Botfuzzy77 Living Quarters, bot-testing_grounds, Botfuzzy77#2209, ```py
+[None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+```
+15 Aug 2017 19:16:55 : PokeIslands, staff, ShadowZekrom ~Zane~#2042, lol
+15 Aug 2017 19:22:22 : Botfuzzy77 Living Quarters, bot-testing_grounds, Wertfuzzy77#0274, ;relog
+15 Aug 2017 19:22:22 : Botfuzzy77 Living Quarters, bot-testing_grounds, Botfuzzy77#2209, Relogging...

@@ -1,0 +1,26 @@
+25 Jun 2016 17:12:26 : Cipher , Botfuzzy77#7098 , Wut
+25 Jun 2016 17:12:29 : LimitlessMc , Wertfuzzy77#0274 , sync should work now
+25 Jun 2016 17:12:44 : Cipher , Nerokin#3586 , <@!134441036905840640> Can you ban the bots?
+25 Jun 2016 17:12:53 : Cipher , Botfuzzy77#7098 , Muted Nerokin
+25 Jun 2016 17:12:58 : Cipher , Allianths#4161 , lol
+25 Jun 2016 17:12:58 : LimitlessMc , Akuraizu#8280 , !sync Akuraizu
+25 Jun 2016 17:12:59 : Cipher , Wertfuzzy77#0274 , !mute Nerokin
+25 Jun 2016 17:13:04 : LimitlessMc , Akuraizu#8280 , !sync
+25 Jun 2016 17:13:04 : Cipher , Wertfuzzy77#0274 , ew
+25 Jun 2016 17:13:05 : Cipher , Botfuzzy77#7098 , Muted Nerokin
+25 Jun 2016 17:13:08 : LimitlessMc , Akuraizu#8280 , ' -'
+25 Jun 2016 17:13:09 : Cipher , Nerokin#3586 , Brb
+25 Jun 2016 17:13:09 : Cipher , Wertfuzzy77#0274 , he didnt respond
+25 Jun 2016 17:13:21 : Cipher , Botfuzzy77#7098 , Unmuted Nerokin
+25 Jun 2016 17:14:21 : Cipher , Wertfuzzy77#0274 , !debug ctx
+25 Jun 2016 17:14:22 : Cipher , Botfuzzy77#2209 , ```py
+<discord.ext.commands.context.Context object at 0x000001F5221C48B8>
+```
+25 Jun 2016 17:14:30 : Cipher , Wertfuzzy77#0274 , !debug ctx.message.server.name
+25 Jun 2016 17:14:30 : Cipher , Botfuzzy77#2209 , ```py
+Cipher
+```
+25 Jun 2016 17:14:42 : Cipher , Allianths#4161 , <discord.ext.commands.context.Context object at 0x000001F5221C48B8>
+25 Jun 2016 17:14:46 : Cipher , Botfuzzy77#7098 , Relogging...
+25 Jun 2016 17:15:27 : Cipher , Wertfuzzy77#0274 , !relog
+25 Jun 2016 17:15:27 : Cipher , Botfuzzy77#2209 , Relogging...

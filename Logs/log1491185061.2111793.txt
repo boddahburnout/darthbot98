@@ -1,0 +1,17 @@
+03 Apr 2017 02:04:30 : OblivionEvolved, general, Wertfuzzy77#0274, working on that xD
+03 Apr 2017 02:04:35 : OblivionEvolved, general, Wertfuzzy77#0274, ;ark
+03 Apr 2017 02:04:35 : OblivionEvolved, general, Botfuzzy77#2209, Online on the server: StubbyMuffins, StubbyMuffins
+03 Apr 2017 02:04:35 : OblivionEvolved, general, Botfuzzy77#2209, https://arkservers.net/banner/192.154.224.19:27015/banner.png?nocache=2485308
+03 Apr 2017 02:04:37 : OblivionEvolved, general, Wertfuzzy77#0274, ugh
+03 Apr 2017 02:04:53 : OblivionEvolved, general, StubbyMuffins#1053, atleast its doing someting
+03 Apr 2017 02:05:13 : OblivionEvolved, general, Wertfuzzy77#0274, ;debug BeautifulSoup(requests.get("https://arkservers.net/server/192.154.224.19:27015").text, "html.parser").find(id = 'server_players').select('tr')
+03 Apr 2017 02:06:01 : OblivionEvolved, general, Wertfuzzy77#0274, ;debug [x.find('th') for x in BeautifulSoup(requests.get("https://arkservers.net/server/192.154.224.19:27015").text, "html.parser").find(id = 'server_players').select('tr')]
+03 Apr 2017 02:06:04 : OblivionEvolved, general, Wertfuzzy77#0274, ...
+03 Apr 2017 02:06:07 : OblivionEvolved, general, Wertfuzzy77#0274, why does it work here
+03 Apr 2017 02:06:13 : OblivionEvolved, general, Wertfuzzy77#0274, ;debug [x.find('th').text for x in BeautifulSoup(requests.get("https://arkservers.net/server/192.154.224.19:27015").text, "html.parser").find(id = 'server_players').select('tr')]
+03 Apr 2017 02:06:16 : OblivionEvolved, general, Wertfuzzy77#0274, ugh
+03 Apr 2017 02:06:20 : OblivionEvolved, general, Wertfuzzy77#0274, useless @Oblivion Bot
+03 Apr 2017 02:06:21 : OblivionEvolved, general, Botfuzzy77#2209, What is useless?
+03 Apr 2017 02:06:24 : OblivionEvolved, general, Wertfuzzy77#0274, @Oblivion Bot you are useless
+03 Apr 2017 02:06:25 : OblivionEvolved, general, Botfuzzy77#2209, Oh, thank you.
+03 Apr 2017 02:06:33 : OblivionEvolved, general, StubbyMuffins#1053, such a sweetheart he is

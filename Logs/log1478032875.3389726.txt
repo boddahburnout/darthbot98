@@ -1,0 +1,11 @@
+01 Nov 2016 20:41:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+01 Nov 2016 20:41:33 : LimitlessMc, botchat, Wertfuzzy77#0274, ;playlists
+01 Nov 2016 20:41:33 : LimitlessMc, botchat, Botfuzzy77#2209, FUN[3], Kimi[4], GAGA[3], Old[9], Dragons[4], MJackson[5], Katy[3], Maroon[5], Amagi[1], Perri[2], AIDS[0], WEEB2[3], SteinsGate[13], GnR[5], Shelter[1], Adele[5], nicky[2], Coldplay[5], 2Cellos[5], Cala[21], AnimeOpenings[17], Bringer[1], Animenz[3], Blunt[3], Sheeran[6], ACDC[5], WEEB[4], Akinci[12], Train[3], test[1]
+01 Nov 2016 20:41:41 : LimitlessMc, botchat, Wertfuzzy77#0274, ;playlist MJackson
+01 Nov 2016 20:41:42 : LimitlessMc, mainchat, Jay113355#4999, oh, im turning off the halloween voting perks in a few minutes
+01 Nov 2016 20:41:46 : LimitlessMc, botchat, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+01 Nov 2016 20:42:03 : LimitlessMc, staff, Wertfuzzy77#0274, alright, i have console open now, so lets see what happens
+01 Nov 2016 20:42:12 : LimitlessMc, staff, Wertfuzzy77#0274, ;debug MinecraftServer.lookup('mc.limitless.net').query(25560)
+01 Nov 2016 20:45:10 : LimitlessMc, staff, Wertfuzzy77#0274, ?
+01 Nov 2016 20:45:10 : LimitlessMc, staff, Wertfuzzy77#0274, nothing on the console
+01 Nov 2016 20:45:10 : LimitlessMc, mainchat, Lightning#6734, emg jay

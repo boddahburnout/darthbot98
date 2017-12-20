@@ -1,0 +1,20 @@
+08 Jul 2016 02:02:08 : Cipher , Wertfuzzy77#0274 , ;mute Roy210
+08 Jul 2016 02:02:08 : Cipher , Botfuzzy77#2209 , Muted Roy210
+08 Jul 2016 02:02:10 : Cipher , Wertfuzzy77#0274 , ;mutelist
+08 Jul 2016 02:02:10 : Cipher , Botfuzzy77#2209 , Muted Players in this Channel...
+08 Jul 2016 02:02:11 : Cipher , Botfuzzy77#2209 , Someone, Meep, Roy210
+08 Jul 2016 02:02:13 : Cipher , Wertfuzzy77#0274 , ;unmuteall
+08 Jul 2016 02:02:17 : Cipher , Wertfuzzy77#0274 , rip
+08 Jul 2016 02:02:40 : Cipher , Wertfuzzy77#0274 , ;mutelist
+08 Jul 2016 02:02:40 : Cipher , Botfuzzy77#2209 , Muted Players in this Channel...
+08 Jul 2016 02:02:44 : Cipher , Wertfuzzy77#0274 , ...?
+08 Jul 2016 02:02:49 : Cipher , Wertfuzzy77#0274 , ;mute Meep
+08 Jul 2016 02:02:50 : Cipher , Botfuzzy77#2209 , Muted Meep
+08 Jul 2016 02:02:54 : Cipher , Wertfuzzy77#0274 , ;mute Someone
+08 Jul 2016 02:02:54 : Cipher , Botfuzzy77#2209 , Muted Someone
+08 Jul 2016 02:02:57 : Cipher , Wertfuzzy77#0274 , ;mutelist
+08 Jul 2016 02:02:57 : Cipher , Botfuzzy77#2209 , Muted Players in this Channel...
+08 Jul 2016 02:02:57 : Cipher , Botfuzzy77#2209 , Someone, Meep
+08 Jul 2016 02:02:59 : Cipher , Wertfuzzy77#0274 , ;unmuteall
+08 Jul 2016 02:03:13 : Cipher , Wertfuzzy77#0274 , ;relog
+08 Jul 2016 02:03:13 : Cipher , Botfuzzy77#2209 , Relogging...

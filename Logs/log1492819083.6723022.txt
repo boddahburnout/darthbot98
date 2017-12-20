@@ -1,0 +1,993 @@
+21 Apr 2017 23:58:07 : LimitlessMc, botchat, Crystal4209#4698, what
+21 Apr 2017 23:58:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+21 Apr 2017 23:58:16 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+21 Apr 2017 23:58:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lookup Third_Worm
+21 Apr 2017 23:58:22 : LimitlessMc, botchat, Botfuzzy77#2209, 
+21 Apr 2017 23:58:27 : LimitlessMc, botchat, Wertfuzzy77#0274, THERE WE GO
+21 Apr 2017 23:58:30 : LimitlessMc, botchat, Wertfuzzy77#0274, useless @Botfuzzy77
+21 Apr 2017 23:58:30 : LimitlessMc, botchat, Botfuzzy77#2209, What is useless?
+21 Apr 2017 23:58:34 : LimitlessMc, botchat, Wertfuzzy77#0274, you are @Botfuzzy77
+21 Apr 2017 23:58:35 : LimitlessMc, botchat, Botfuzzy77#2209, Why?
+21 Apr 2017 23:58:37 : LimitlessMc, botchat, Crystal4209#4698, ;search assassination classroom opening 1
+21 Apr 2017 23:58:39 : LimitlessMc, botchat, Botfuzzy77#2209, Added Assassination Classroom Opening 1 to the queue
+21 Apr 2017 23:58:40 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=hMYhMnRxj-0
+21 Apr 2017 23:58:43 : LimitlessMc, botchat, Wertfuzzy77#0274, @Botfuzzy77 cause you take forever to do anything useful
+21 Apr 2017 23:58:45 : LimitlessMc, botchat, Botfuzzy77#2209, Okay, go to sleep. Sweet dreams.
+21 Apr 2017 23:58:48 : LimitlessMc, botchat, Wertfuzzy77#0274, ...
+21 Apr 2017 23:58:52 : LimitlessMc, botchat, Crystal4209#4698, ;train
+21 Apr 2017 23:58:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+21 Apr 2017 23:58:54 : LimitlessMc, botchat, Botfuzzy77#2209, 
+21 Apr 2017 23:59:00 : LimitlessMc, botchat, StarwinnerCraft#0288, ;songs?
+21 Apr 2017 23:59:00 : LimitlessMc, botchat, Crystal4209#4698, ;level
+21 Apr 2017 23:59:03 : LimitlessMc, botchat, StarwinnerCraft#0288, ;songs
+21 Apr 2017 23:59:03 : LimitlessMc, botchat, Botfuzzy77#2209, 
+21 Apr 2017 23:59:03 : LimitlessMc, botchat, Botfuzzy77#2209, Queue is Empty
+21 Apr 2017 23:59:28 : LimitlessMc, botchat, StarwinnerCraft#0288, ;skip
+21 Apr 2017 23:59:28 : LimitlessMc, botchat, Botfuzzy77#2209, 1/2 votes to skip
+21 Apr 2017 23:59:31 : LimitlessMc, botchat, Crystal4209#4698, weeb!
+21 Apr 2017 23:59:34 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;recommend
+21 Apr 2017 23:59:34 : LimitlessMc, voice-junk, Botfuzzy77#2209, Recommend Songs to play: True
+21 Apr 2017 23:59:43 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;songs
+21 Apr 2017 23:59:44 : LimitlessMc, voice-junk, Botfuzzy77#2209, Queue is Empty
+21 Apr 2017 23:59:47 : LimitlessMc, voice-junk, Wertfuzzy77#0274, hmmmmmmmmmm
+21 Apr 2017 23:59:47 : LimitlessMc, voice-junk, StarwinnerCraft#0288, umm what is this
+21 Apr 2017 23:59:57 : LimitlessMc, voice-junk, Wertfuzzy77#0274, did you try ;song
+21 Apr 2017 23:59:59 : LimitlessMc, voice-junk, Crystal4209#4698, 10/10 opening
+22 Apr 2017 00:00:01 : LimitlessMc, voice-junk, StarwinnerCraft#0288, yeah
+22 Apr 2017 00:00:02 : LimitlessMc, voice-junk, StarwinnerCraft#0288, ;song
+22 Apr 2017 00:00:02 : LimitlessMc, voice-junk, Botfuzzy77#2209, **Name**: Assassination Classroom Opening 1
+**Requester**: Crystal4209
+**URL**: <https://www.youtube.com/watch?v=hMYhMnRxj-0>
+```py
+Time: 0:01:30
+Views: 1,875,154
+Likes: 15,603, 98.72%
+Dislikes: 202, 1.28%
+Skips: 1/2```
+22 Apr 2017 00:00:08 : LimitlessMc, voice-junk, Wertfuzzy77#0274, well
+22 Apr 2017 00:00:13 : LimitlessMc, voice-junk, Wertfuzzy77#0274, thats what it is xD
+22 Apr 2017 00:00:27 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;recommend
+22 Apr 2017 00:00:27 : LimitlessMc, voice-junk, Botfuzzy77#2209, Recommend Songs to play: False
+22 Apr 2017 00:00:54 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=fAQBTU1vXS0
+22 Apr 2017 00:00:55 : LimitlessMc, voice-junk, Botfuzzy77#2209, Added DEAMN - Drive My Car to the queue
+22 Apr 2017 00:00:59 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;recommend
+22 Apr 2017 00:00:59 : LimitlessMc, voice-junk, Botfuzzy77#2209, Recommend Songs to play: True
+22 Apr 2017 00:01:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+22 Apr 2017 00:01:17 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 00:01:20 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 00:02:16 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;afk homework
+22 Apr 2017 00:02:16 : LimitlessMc, voice-junk, Botfuzzy77#2209, Wertfuzzy77 is now AFK for reason:
+**homework**
+22 Apr 2017 00:09:25 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, o
+22 Apr 2017 00:16:25 : LimitlessMc, botchat, StarwinnerCraft#0288, ;train
+22 Apr 2017 00:16:28 : LimitlessMc, botchat, Bakafish#8693, ;train
+22 Apr 2017 00:16:28 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 00:16:30 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 00:16:31 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 00:16:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 00:16:40 : LimitlessMc, botchat, StarwinnerCraft#0288, thats some sick training for me there
+22 Apr 2017 00:18:22 : LimitlessMc, botchat, Bakafish#8693, ^
+22 Apr 2017 00:18:22 : LimitlessMc, botchat, Botfuzzy77#2209, ^
+22 Apr 2017 00:20:21 : LimitlessMc, mainchat, Crystal4209#4698, @Third_Worm join voice
+22 Apr 2017 00:21:03 : LimitlessMc, voice-junk, Third_Worm#4804, Hullo
+22 Apr 2017 00:21:32 : LimitlessMc, voice-junk, Third_Worm#4804, @Crystal4209 ^
+22 Apr 2017 00:27:21 : LimitlessMc, voice-junk, Third_Worm#4804, Mhm @Jay113355
+22 Apr 2017 00:27:26 : LimitlessMc, voice-junk, Third_Worm#4804, yeah.
+22 Apr 2017 00:28:36 : LimitlessMc, botchat, StarwinnerCraft#0288, ;train
+22 Apr 2017 00:28:36 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 1,075 seconds before you can train again.
+22 Apr 2017 00:28:39 : LimitlessMc, botchat, StarwinnerCraft#0288, wat
+22 Apr 2017 00:28:41 : LimitlessMc, voice-junk, Third_Worm#4804, @Jay113355 jay that makes me renember
+22 Apr 2017 00:28:47 : LimitlessMc, botchat, StarwinnerCraft#0288, wut
+22 Apr 2017 00:32:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug sorted([(x['Name'], int(time.time() - x['Time'])) for x in json.load(open('Players.json', 'r')).values() if x.get("Time", 0) + 3600 > time.time()], key = lambda x: x[1])
+22 Apr 2017 00:32:42 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+[('Bakafish', 969), ('StarwinnerCraft', 976), ('Wertfuzzy77', 1882), ('Crystal4209', 2018), ('JustinOPGamer', 2444), ('theOnlyJuan', 3097)]
+```
+22 Apr 2017 00:32:58 : LimitlessMc, botchat, Wertfuzzy77#0274, ayy, 6 people have used my game in the last hour
+22 Apr 2017 00:33:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;server
+22 Apr 2017 00:33:02 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+22 Apr 2017 00:33:02 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 9 players out of 150
+ *Ping*: 116.282 ms
+ *MC Version*: 1.10.2
+22 Apr 2017 00:33:03 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.3
+22 Apr 2017 00:33:03 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *Chimera1737, Fiodor, StarwinnerCraft, Bakafish, Cryotrees, Third_Worm, JustinOPGamer, crystal4209, zayden...*
+22 Apr 2017 00:33:14 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+22 Apr 2017 00:33:16 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 00:33:18 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 00:33:19 : LimitlessMc, botchat, TherminatorX#6644, ;train
+22 Apr 2017 00:33:22 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 00:33:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 00:33:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug sorted([(x['Name'], int(time.time() - x['Time'])) for x in json.load(open('Players.json', 'r')).values() if x.get("Time", 0) + 3600 > time.time()], key = lambda x: x[1])
+22 Apr 2017 00:33:26 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+[('TherminatorX', 3), ('Wertfuzzy77', 8), ('Bakafish', 1013), ('StarwinnerCraft', 1020), ('Crystal4209', 2062), ('JustinOPGamer', 2488), ('theOnlyJuan', 3141)]
+```
+22 Apr 2017 00:33:30 : LimitlessMc, botchat, Wertfuzzy77#0274, make that 7
+22 Apr 2017 00:34:39 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug .sorted(["{}: {} seconds ago".format(x['Name'], int(time.time() - x['Time'])) for x in json.load(open('Players.json', 'r')).values() if x.get("Time", 0) + 3600 > time.time()], key = lambda x: x[1])
+22 Apr 2017 00:34:39 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+22 Apr 2017 00:34:43 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug sorted(["{}: {} seconds ago".format(x['Name'], int(time.time() - x['Time'])) for x in json.load(open('Players.json', 'r')).values() if x.get("Time", 0) + 3600 > time.time()], key = lambda x: x[1])
+22 Apr 2017 00:34:43 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+['Bakafish: 1090 seconds ago', 'Wertfuzzy77: 85 seconds ago', 'TherminatorX: 80 seconds ago', 'theOnlyJuan: 3219 seconds ago', 'Crystal4209: 2140 seconds ago', 'StarwinnerCraft: 1098 seconds ago', 'JustinOPGamer: 2566 seconds ago']
+```
+22 Apr 2017 00:34:46 : LimitlessMc, botchat, Wertfuzzy77#0274, 😄
+22 Apr 2017 00:34:49 : LimitlessMc, botchat, StarwinnerCraft#0288, hmm?
+22 Apr 2017 00:34:58 : LimitlessMc, botchat, StarwinnerCraft#0288, ;train
+22 Apr 2017 00:34:58 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 693 seconds before you can train again.
+22 Apr 2017 00:35:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug "\n".join(sorted(["{}: {} seconds ago".format(x['Name'], int(time.time() - x['Time'])) for x in json.load(open('Players.json', 'r')).values() if x.get("Time", 0) + 3600 > time.time()], key = lambda x: x[1]))
+22 Apr 2017 00:35:10 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+Bakafish: 1117 seconds ago
+Wertfuzzy77: 112 seconds ago
+TherminatorX: 107 seconds ago
+theOnlyJuan: 3245 seconds ago
+Crystal4209: 2166 seconds ago
+StarwinnerCraft: 1124 seconds ago
+JustinOPGamer: 2592 seconds ago
+```
+22 Apr 2017 00:35:21 : LimitlessMc, botchat, TherminatorX#6644, Now sort the results by time :P
+22 Apr 2017 00:35:33 : LimitlessMc, botchat, Wertfuzzy77#0274, I did xD but its sorting by name now, cause I made it a string
+22 Apr 2017 00:35:35 : LimitlessMc, botchat, Wertfuzzy77#0274, ughhhh
+22 Apr 2017 00:35:46 : LimitlessMc, botchat, TherminatorX#6644, Uhhh
+22 Apr 2017 00:35:54 : RooberBoobers, kinkyroleplay, ComradeBismuth#5997, Meanwhile, Gutsy looked down at the Opals around her. They seemed fascinated by her rounded tummy, now having fully digested it's meal. One of them squished a hand against the soft red skin, drawing back as it emitted a gurgle.
+22 Apr 2017 00:36:31 : LimitlessMc, botchat, TherminatorX#6644, Bwttcsj doesn't look alpabetical to me...
+22 Apr 2017 00:36:37 : RooberBoobers, kinkyroleplay, navy#8336, (( where did the opals come from fdj ))
+22 Apr 2017 00:36:41 : RooberBoobers, kinkyroleplay, ComradeBismuth#5997, Gutsy sighed. "What am I gonna do with you now?" She still wasn't hungry.
+22 Apr 2017 00:37:01 : RooberBoobers, kinkyroleplay, ComradeBismuth#5997, ((Shatira apparently had a box of them))
+22 Apr 2017 00:37:14 : RooberBoobers, kinkyroleplay, navy#8336, (( oh- ))
+22 Apr 2017 00:37:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug "\n".join(["{}: {} seconds ago".format(x['Name'], int(time.time() - x['Time'])) for x in sorted(json.load(open('Players.json', 'r')).values(), key = lambda x: x[1]) if x.get("Time", 0) + 3600 > time.time()])
+22 Apr 2017 00:37:15 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+KeyError: 1
+```
+22 Apr 2017 00:37:17 : LimitlessMc, botchat, Wertfuzzy77#0274, hmm
+22 Apr 2017 00:37:23 : LimitlessMc, botchat, Wertfuzzy77#0274, sorry, sorting by the 2nd letter
+22 Apr 2017 00:37:34 : LimitlessMc, botchat, TherminatorX#6644, ....
+22 Apr 2017 00:38:17 : LimitlessMc, botchat, TherminatorX#6644, Why the second and not the first?
+22 Apr 2017 00:38:36 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+key = lambda x: x[1]```
+22 Apr 2017 00:39:08 : LimitlessMc, botchat, Wertfuzzy77#0274, its x[1] used to be the time variable, but when I made it a string, it made it sort by the 2nd letter
+22 Apr 2017 00:39:11 : RooberBoobers, kinkyroleplay, Collin#5120, Mmphie looked at Gutsy and sighed. She wondered how many gems had been digested and killed for her pleasure. Shatira was no better. "Huh..."
+22 Apr 2017 00:39:13 : LimitlessMc, botchat, Wertfuzzy77#0274, cause [1] = 2nd
+22 Apr 2017 00:39:14 : LimitlessMc, botchat, TherminatorX#6644, So 0 would be the first letter?
+22 Apr 2017 00:39:16 : LimitlessMc, botchat, Wertfuzzy77#0274, si
+22 Apr 2017 00:39:41 : LimitlessMc, botchat, Wertfuzzy77#0274, I basically had this ("NAME HERE", TIME)
+22 Apr 2017 00:39:51 : LimitlessMc, botchat, Wertfuzzy77#0274, so ("NAME HERE", TIME)[1] = TIME
+22 Apr 2017 00:40:07 : LimitlessMc, botchat, Wertfuzzy77#0274, but ("NAME HERE: TIME")[1] = 'A'
+22 Apr 2017 00:40:32 : LimitlessMc, botchat, Wertfuzzy77#0274, its getting too complicated to do on 1 line xD
+22 Apr 2017 00:40:36 : LimitlessMc, botchat, Wertfuzzy77#0274, i need to make an actual method
+22 Apr 2017 00:40:40 : RooberBoobers, kinkyroleplay, ComradeBismuth#5997, Gutsy looked up at @Mmphie "Ummm...do you want something?"
+22 Apr 2017 00:40:54 : LimitlessMc, botchat, TherminatorX#6644, Oh no, what a tragedy?
+22 Apr 2017 00:40:54 : LimitlessMc, botchat, Crystal4209#4698, ;train
+22 Apr 2017 00:40:56 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 00:40:58 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 00:41:17 : RooberBoobers, kinkyroleplay, Collin#5120, Mmphie shook her head and stepped back. "No."
+22 Apr 2017 00:41:34 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug "\n".join(sorted(["{}: {} seconds ago".format(x['Name'], int(time.time() - x['Time'])) for x in json.load(open('Players.json', 'r')).values() if x.get("Time", 0) + 3600 > time.time()], key = lambda x: x.split(" ")[1])
+22 Apr 2017 00:41:34 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+SyntaxError: unexpected EOF while parsing (<string>, line 1)
+```
+22 Apr 2017 00:41:52 : LimitlessMc, botchat, Crystal4209#4698, ;pbs
+22 Apr 2017 00:41:52 : LimitlessMc, botchat, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> hard to fight and reveal the boss.
+22 Apr 2017 00:41:58 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug "\n".join(sorted(["{}: {} seconds ago".format(x['Name'], int(time.time() - x['Time'])) for x in json.load(open('Players.json', 'r')).values() if x.get("Time", 0) + 3600 > time.time()], key = lambda x: x.split(" ")[1]))
+22 Apr 2017 00:41:58 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+Bakafish: 1525 seconds ago
+StarwinnerCraft: 1532 seconds ago
+JustinOPGamer: 3000 seconds ago
+TherminatorX: 515 seconds ago
+Wertfuzzy77: 519 seconds ago
+Crystal4209: 59 seconds ago
+```
+22 Apr 2017 00:41:58 : LimitlessMc, botchat, Crystal4209#4698, ;pbt iiiiiiiiii
+22 Apr 2017 00:42:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 00:42:03 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 00:42:04 : LimitlessMc, botchat, TherminatorX#6644, ;pbt bbbbbbbb
+22 Apr 2017 00:42:05 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 00:42:07 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 00:42:33 : LimitlessMc, botchat, Wertfuzzy77#0274, LOL its now sorting by the string of a number
+22 Apr 2017 00:42:37 : LimitlessMc, botchat, Wertfuzzy77#0274, so 11111111 > 5
+22 Apr 2017 00:42:40 : LimitlessMc, botchat, Wertfuzzy77#0274, < *
+22 Apr 2017 00:42:43 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+22 Apr 2017 00:42:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug "\n".join(sorted(["{}: {} seconds ago".format(x['Name'], int(time.time() - x['Time'])) for x in json.load(open('Players.json', 'r')).values() if x.get("Time", 0) + 3600 > time.time()], key = lambda x: int(x.split(" ")[1])))
+22 Apr 2017 00:42:55 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+TherminatorX: 48 seconds ago
+Crystal4209: 52 seconds ago
+Wertfuzzy77: 577 seconds ago
+Bakafish: 1582 seconds ago
+StarwinnerCraft: 1589 seconds ago
+JustinOPGamer: 3057 seconds ago
+```
+22 Apr 2017 00:42:57 : LimitlessMc, botchat, Wertfuzzy77#0274, THERE
+22 Apr 2017 00:42:59 : LimitlessMc, botchat, Wertfuzzy77#0274, happy
+22 Apr 2017 00:43:11 : LimitlessMc, botchat, Crystal4209#4698, ;pbt sisisssssi
+22 Apr 2017 00:43:13 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 00:43:16 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 00:43:27 : LimitlessMc, botchat, TherminatorX#6644, Nicely done going sir
+22 Apr 2017 00:43:30 : LimitlessMc, botchat, Crystal4209#4698, ;settype steel
+22 Apr 2017 00:43:30 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Steel type
+22 Apr 2017 00:43:36 : LimitlessMc, botchat, Crystal4209#4698, ;settype ice
+22 Apr 2017 00:43:37 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Ice type
+22 Apr 2017 00:43:45 : LimitlessMc, voice-junk, Jay113355#4999, http://prntscr.com/ezcpjk
+22 Apr 2017 00:43:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug "`"+"\n".join(sorted(["**{}**: *{}* seconds ago".format(x['Name'], int(time.time() - x['Time'])) for x in json.load(open('Players.json', 'r')).values() if x.get("Time", 0) + 3600 > time.time()], key = lambda x: int(x.split(" ")[1])))
+22 Apr 2017 00:43:59 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+ValueError: invalid literal for int() with base 10: '*112*'
+```
+22 Apr 2017 00:44:09 : LimitlessMc, botchat, Wertfuzzy77#0274, wut
+22 Apr 2017 00:44:14 : LimitlessMc, botchat, Wertfuzzy77#0274, o
+22 Apr 2017 00:44:25 : LimitlessMc, botchat, Crystal4209#4698, ;cd
+22 Apr 2017 00:44:25 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You need to wait 1,593 seconds
+**Gamble**
+You can Gamble right now!
+22 Apr 2017 00:44:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug "`"+"\n".join(sorted(["**{}**: {} seconds ago".format(x['Name'], int(time.time() - x['Time'])) for x in json.load(open('Players.json', 'r')).values() if x.get("Time", 0) + 3600 > time.time()], key = lambda x: int(x.split(" ")[1])))
+22 Apr 2017 00:44:40 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+`**Crystal4209**: 63 seconds ago
+**TherminatorX**: 153 seconds ago
+**Wertfuzzy77**: 682 seconds ago
+**Bakafish**: 1687 seconds ago
+**StarwinnerCraft**: 1694 seconds ago
+**JustinOPGamer**: 3162 seconds ago
+```
+22 Apr 2017 00:44:41 : LimitlessMc, botchat, Crystal4209#4698, ;cd
+22 Apr 2017 00:44:41 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You need to wait 1,577 seconds
+**Gamble**
+You can Gamble right now!
+22 Apr 2017 00:44:44 : LimitlessMc, botchat, Crystal4209#4698, ;pbs
+22 Apr 2017 00:44:46 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 00:44:54 : LimitlessMc, botchat, Crystal4209#4698, ;pbt pipipppppi
+22 Apr 2017 00:44:56 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 00:44:57 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 00:45:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug "`" +"\n".join(sorted(["{}: {} seconds ago".format(x['Name'], int(time.time() - x['Time'])) for x in json.load(open('Players.json', 'r')).values() if x.get("Time", 0) + 3600 > time.time()], key = lambda x: int(x.split(" ")[1])))
+22 Apr 2017 00:45:11 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+`Crystal4209: 13 seconds ago
+TherminatorX: 184 seconds ago
+Wertfuzzy77: 712 seconds ago
+Bakafish: 1718 seconds ago
+StarwinnerCraft: 1725 seconds ago
+JustinOPGamer: 3193 seconds ago
+```
+22 Apr 2017 00:45:13 : LimitlessMc, botchat, Wertfuzzy77#0274, hmmmm
+22 Apr 2017 00:45:35 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug "\n".join(sorted(["{}: {} seconds ago".format(x['Name'], int(time.time() - x['Time'])) for x in json.load(open('Players.json', 'r')).values() if x.get("Time", 0) + 3600 > time.time()], key = lambda x: int(x.split(" ")[1]))) + "```\n```"
+22 Apr 2017 00:45:35 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+Crystal4209: 37 seconds ago
+TherminatorX: 208 seconds ago
+Wertfuzzy77: 737 seconds ago
+Bakafish: 1742 seconds ago
+StarwinnerCraft: 1750 seconds ago
+JustinOPGamer: 3218 seconds ago```
+```
+```
+22 Apr 2017 00:45:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ugh
+22 Apr 2017 00:45:39 : LimitlessMc, botchat, Wertfuzzy77#0274, useless
+22 Apr 2017 00:46:10 : LimitlessMc, botchat, Crystal4209#4698, ;cd
+22 Apr 2017 00:46:10 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You need to wait 1,488 seconds
+**Gamble**
+You can Gamble right now!
+22 Apr 2017 00:46:21 : LimitlessMc, botchat, Crystal4209#4698, ;pbt gigigggggi
+22 Apr 2017 00:46:28 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 00:46:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 00:46:35 : LimitlessMc, botchat, StarwinnerCraft#0288, ;train
+22 Apr 2017 00:46:36 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 00:46:37 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 00:46:56 : LimitlessMc, botchat, Crystal4209#4698, ;cd
+22 Apr 2017 00:46:56 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 34 seconds
+**Train**
+You need to wait 1,442 seconds
+**Gamble**
+You can Gamble right now!
+22 Apr 2017 00:47:09 : LimitlessMc, botchat, StarwinnerCraft#0288, ;cd
+22 Apr 2017 00:47:09 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You need to wait 1,768 seconds
+**Gamble**
+You can Gamble right now!
+22 Apr 2017 00:47:15 : LimitlessMc, botchat, StarwinnerCraft#0288, whoa gamble
+22 Apr 2017 00:47:42 : LimitlessMc, voice-junk, Third_Worm#4804, i send pic is that okay @Jay113355 ?
+22 Apr 2017 00:47:51 : LimitlessMc, voice-junk, Jay113355#4999, https://limitlessmc.net/img/2017/04/
+22 Apr 2017 00:47:59 : LimitlessMc, voice-junk, Third_Worm#4804, or not
+22 Apr 2017 00:48:00 : LimitlessMc, voice-junk, Third_Worm#4804, aw
+22 Apr 2017 00:48:02 : LimitlessMc, botchat, Crystal4209#4698, ;pbt gigibbbbbi
+22 Apr 2017 00:48:05 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 00:48:08 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 00:48:30 : LimitlessMc, voice-junk, Crystal4209#4698, tbh its pretty small, but its fine
+22 Apr 2017 00:48:48 : LimitlessMc, voice-junk, Crystal4209#4698, considering all that time spent on it
+22 Apr 2017 00:49:37 : LimitlessMc, botchat, Crystal4209#4698, ;cd
+22 Apr 2017 00:49:37 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You need to wait 1,281 seconds
+**Gamble**
+You can Gamble right now!
+22 Apr 2017 00:49:49 : LimitlessMc, botchat, Crystal4209#4698, ;pbt gigidbdddi
+22 Apr 2017 00:49:55 : LimitlessMc, botchat, KidKraft#7732, ;train
+22 Apr 2017 00:49:55 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 00:49:57 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 00:50:00 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 00:50:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 00:50:17 : LimitlessMc, botchat, KidKraft#7732, ;level
+22 Apr 2017 00:50:21 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 00:50:53 : LimitlessMc, mainchat, KidKraft#7732, Hey guys
+22 Apr 2017 00:50:59 : LimitlessMc, mainchat, KidKraft#7732, It's been awhile
+22 Apr 2017 00:51:04 : LimitlessMc, mainchat, Third_Worm#4804, It has been awhile
+22 Apr 2017 00:51:08 : LimitlessMc, mainchat, Third_Worm#4804, Where you been bud?
+22 Apr 2017 00:51:25 : LimitlessMc, mainchat, KidKraft#7732, School stuff and angry parents
+22 Apr 2017 00:51:40 : LimitlessMc, voice-junk, Wertfuzzy77#0274, I like this one
+22 Apr 2017 00:52:03 : LimitlessMc, mainchat, Third_Worm#4804, Sounds like my usual day
+22 Apr 2017 00:52:05 : LimitlessMc, mainchat, KidKraft#7732, Plus whenever I get on I can't move 10 blocks without freezing for a second and still can't fix it
+22 Apr 2017 00:52:09 : LimitlessMc, mainchat, KidKraft#7732, Lol
+22 Apr 2017 00:52:11 : LimitlessMc, botchat, Crystal4209#4698, ;pbt gigigbgdgi
+22 Apr 2017 00:52:14 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 00:52:15 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 00:53:13 : RooberBoobers, kinkyroleplay, ComradeBismuth#5997, Gutsy stared back at @Mmphie , then shrugged and focused her attention back onto the Opal, who were now crowding around her plump gut, rubbing their fingers over the soft skin.
+22 Apr 2017 00:53:13 : LimitlessMc, voice-junk, Third_Worm#4804, "little bit"
+22 Apr 2017 00:53:28 : LimitlessMc, voice-junk, Third_Worm#4804, Good luck @Jay113355
+22 Apr 2017 00:54:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+22 Apr 2017 00:54:17 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Ed Sheeran - Shape Of You // Launchpad Cover/Remix by request (Radio Song)
+22 Apr 2017 00:54:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+22 Apr 2017 00:54:20 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+22 Apr 2017 00:54:20 : LimitlessMc, botchat, Botfuzzy77#2209, 1. iMeiden - Party **Radio: iMeiden - Atmosphere**
+	<https://www.youtube.com/watch?v=xLF0r_aNt_s>
+2. iMeiden - Contrail **Radio: Tridun - With You**
+	<https://www.youtube.com/watch?v=gtth7Bv4jec>
+3. iMeiden - Contrail **Radio: Tridun - With You**
+	<https://www.youtube.com/watch?v=gtth7Bv4jec>
+4. TOP 10 Best Launchpad Covers of 2016 **Radio: Ed Sheeran - Shape Of You // Launchpad Cover/Remix**
+	<https://www.youtube.com/watch?v=zGEXqHyjJeE>
+Total Time is 0:16:59
+22 Apr 2017 00:55:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=l-Ne6HjoCqY
+22 Apr 2017 00:55:08 : LimitlessMc, botchat, Wertfuzzy77#0274, ;clear
+22 Apr 2017 00:55:10 : LimitlessMc, botchat, Botfuzzy77#2209, Cleared Queue!
+22 Apr 2017 00:55:52 : RooberBoobers, kinkyroleplay, ComradeBismuth#5997, She felt a pang of guilt, seeing the Opals so enamoured with her fat. Still, she thought, maybe that'd make it easier to eat them.
+22 Apr 2017 00:56:10 : RooberBoobers, kinkyroleplay, Tic-Tat-Purl#4152, "aww, I think they like you!"
+22 Apr 2017 00:57:12 : RooberBoobers, kinkyroleplay, Collin#5120, Mmphie watched silently as the *ARMLESS* Opals poked their possible murderer and consumer.
+22 Apr 2017 00:57:34 : RooberBoobers, kinkyroleplay, ComradeBismuth#5997, "Maybe I should wait until I get back to my Sapphire.." Gutsy murmured to herself, ignoring Shatira's comment.
+22 Apr 2017 00:58:38 : RooberBoobers, kinkyroleplay, Tic-Tat-Purl#4152, "I think I'll keep this one intact." *Holds up a blue cheeping opal*
+22 Apr 2017 00:58:43 : RooberBoobers, kinkyrubiestalk, navy#8336, hh
+22 Apr 2017 00:58:53 : RooberBoobers, kinkyroleplay, ComradeBismuth#5997, Also her Opals weren't armless, and those that were simply lay their heads against Gutsy's stomach, listing with awe at her belly gurgles.
+22 Apr 2017 00:59:29 : RooberBoobers, kinkyroleplay, ComradeBismuth#5997, Gusty grabbed them back. "Nope nope you said you were giving them away"
+22 Apr 2017 00:59:52 : RooberBoobers, kinkyroleplay, Collin#5120, Mmphie really wanted to tie up Gutsy. But in a painful fashion, one that would help her keep the larger Ruby in check.
+22 Apr 2017 01:00:19 : RooberBoobers, kinkyroleplay, Tic-Tat-Purl#4152, "this one wouldn't let go of my leg tho"
+22 Apr 2017 01:01:22 : RooberBoobers, kinkyrubiestalk, navy#8336, i ship gummphy
+22 Apr 2017 01:01:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+22 Apr 2017 01:01:30 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+22 Apr 2017 01:01:30 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Ludovico Einaudi - Una Mattina (Intouchables) - Piano Tutorial by PlutaX - Synthesia **Radio: Kiss the Rain - Yiruma [Piano Tutorial] (Synthesia)**
+	<https://www.youtube.com/watch?v=YzOkbpdPHqg>
+2. Yiruma - River Flows in you (Piano tutorial Synthesia) 100% speed **Radio: Kiss the Rain - Yiruma [Piano Tutorial] (Synthesia)**
+	<https://www.youtube.com/watch?v=9mb95pQq5SM>
+3. Fur Elise - Ludwig van Beethoven [Piano Tutorial] (Synthesia) **Radio: Kiss the Rain - Yiruma [Piano Tutorial] (Synthesia)**
+	<https://www.youtube.com/watch?v=WvWuco54FHg>
+4. Fur Elise - Ludwig van Beethoven [Piano Tutorial] (Synthesia) **Radio: Kiss the Rain - Yiruma [Piano Tutorial] (Synthesia)**
+	<https://www.youtube.com/watch?v=WvWuco54FHg>
+Total Time is 0:12:26
+22 Apr 2017 01:01:33 : RooberBoobers, kinkyroleplay, ComradeBismuth#5997, Gutsy felt uncomfortable around Mmphie, so she stood up with the Opals in arms. "Well you certainly let go of her".
+22 Apr 2017 01:01:33 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+22 Apr 2017 01:01:33 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Kiss the Rain - Yiruma [Piano Tutorial] (Synthesia) by request of the requester
+22 Apr 2017 01:01:38 : LimitlessMc, voice-junk, JustinOPGamer#9138, hello @Jay113355
+22 Apr 2017 01:02:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;forceplay  https://www.youtube.com/watch?v=WvWuco54FHg
+22 Apr 2017 01:02:04 : RooberBoobers, kinkyroleplay, ComradeBismuth#5997, She decided now was the time to move for Her Sapphire's place
+22 Apr 2017 01:02:09 : LimitlessMc, botchat, Crystal4209#4698, ;cd
+22 Apr 2017 01:02:09 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You need to wait 529 seconds
+**Gamble**
+You can Gamble right now!
+22 Apr 2017 01:02:11 : LimitlessMc, botchat, Crystal4209#4698, ;pbs
+22 Apr 2017 01:02:13 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 01:02:25 : LimitlessMc, botchat, Crystal4209#4698, ;pbt gigiwbwdwi
+22 Apr 2017 01:02:27 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 01:02:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 01:02:44 : RooberBoobers, kinkyroleplay, Collin#5120, Mmphie scooted closer to Gutsy just to make her feel even more uncomfortable. She smiled widely.
+22 Apr 2017 01:02:46 : RooberBoobers, kinkyroleplay, ComradeBismuth#5997, And walked away
+22 Apr 2017 01:03:11 : RooberBoobers, kinkyroleplay, Tic-Tat-Purl#4152, "I'm keeping this one. I shall name her berry"
+22 Apr 2017 01:03:28 : RooberBoobers, kinkyroleplay, navy#8336, (( berry bee benson ))
+22 Apr 2017 01:03:39 : RooberBoobers, kinkyroleplay, Tic-Tat-Purl#4152, XD
+22 Apr 2017 01:03:41 : RooberBoobers, kinkyroleplay, ComradeBismuth#5997, Gutsy walked away faster. She wanted nothing to do with either of them. "Fine fine, you can keep her"
+22 Apr 2017 01:04:27 : RooberBoobers, kinkyroleplay, ComradeBismuth#5997, She dropped the Opal Shatira had held, "just make sure not to traumatise them with your shard fetish"
+22 Apr 2017 01:05:10 : LimitlessMc, botchat, Crystal4209#4698, ;cd
+22 Apr 2017 01:05:11 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You need to wait 348 seconds
+**Gamble**
+You can Gamble right now!
+22 Apr 2017 01:05:22 : LimitlessMc, botchat, Crystal4209#4698, ;pbt giginbwdni
+22 Apr 2017 01:05:24 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 01:05:26 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 01:05:37 : RooberBoobers, kinkyroleplay, Tic-Tat-Purl#4152, *picks up berry in my mouth and trots away happily*
+22 Apr 2017 01:05:50 : LimitlessMc, voice-junk, Crystal4209#4698, see ya
+22 Apr 2017 01:06:16 : LimitlessMc, mainchat, Crystal4209#4698, bai
+22 Apr 2017 01:06:18 : RooberBoobers, kinkyroleplay, ComradeBismuth#5997, Gutsy walked away further until she was out of sight
+22 Apr 2017 01:06:46 : LimitlessMc, botchat, Crystal4209#4698, ;cd
+22 Apr 2017 01:06:46 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You need to wait 252 seconds
+**Gamble**
+You can Gamble right now!
+22 Apr 2017 01:06:59 : LimitlessMc, botchat, Crystal4209#4698, ;pbt gigisbwdsi
+22 Apr 2017 01:07:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 01:07:02 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 01:10:00 : LimitlessMc, botchat, Crystal4209#4698, ;pbt gigifbwdfi
+22 Apr 2017 01:10:03 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 01:10:05 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 01:10:14 : LimitlessMc, botchat, Crystal4209#4698, @Wertfuzzy77 😄
+22 Apr 2017 01:10:14 : LimitlessMc, botchat, Botfuzzy77#2209, Wertfuzzy77 is afk for reason:
+**homework**
+22 Apr 2017 01:10:16 : RooberBoobers, kinkyrubiestalk, navy#8336, **g uess whos drawing navy vore por n**
+22 Apr 2017 01:10:23 : LimitlessMc, botchat, StarwinnerCraft#0288, ;train
+22 Apr 2017 01:10:23 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 374 seconds before you can train again.
+22 Apr 2017 01:10:27 : LimitlessMc, botchat, Crystal4209#4698, ;cd
+22 Apr 2017 01:10:27 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 38 seconds
+**Train**
+You need to wait 31 seconds
+**Gamble**
+You can Gamble right now!
+22 Apr 2017 01:10:53 : RooberBoobers, kinkyrubiestalk, ComradeBismuth#5997, You?
+22 Apr 2017 01:11:05 : RooberBoobers, kinkyrubiestalk, navy#8336, h ow d you guess
+22 Apr 2017 01:12:14 : RooberBoobers, kinkyrubiestalk, ComradeBismuth#5997, Dunno I'm omnipotent?
+22 Apr 2017 01:12:25 : RooberBoobers, kinkyrubiestalk, navy#8336, lmao
+22 Apr 2017 01:20:02 : LimitlessMc, botchat, Crystal4209#4698, ;cd
+22 Apr 2017 01:20:02 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You can Train right now!
+**Gamble**
+You can Gamble right now!
+22 Apr 2017 01:20:04 : LimitlessMc, botchat, Crystal4209#4698, ;train
+22 Apr 2017 01:20:05 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 01:20:07 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 01:20:09 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 01:20:44 : LimitlessMc, botchat, Crystal4209#4698, ;pbs
+22 Apr 2017 01:20:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 01:20:59 : LimitlessMc, botchat, Crystal4209#4698, ;pbt gigifbwdfi
+22 Apr 2017 01:21:00 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 01:21:02 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 01:21:58 : LimitlessMc, botchat, Crystal4209#4698, ;search assassination classroom opening 1-4
+22 Apr 2017 01:21:59 : LimitlessMc, botchat, Botfuzzy77#2209, Added [1080p with lyrics] Assassination Classroom all openings (1-4) to the queue
+22 Apr 2017 01:21:59 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=rNinP_es_XI
+22 Apr 2017 01:21:59 : LimitlessMc, botchat, Botfuzzy77#2209, Sorry, couldnt find anything :(
+22 Apr 2017 01:22:15 : LimitlessMc, botchat, Crystal4209#4698, ;youtube https://www.youtube.com/watch?v=rNinP_es_XI
+22 Apr 2017 01:22:16 : LimitlessMc, botchat, Botfuzzy77#2209, Added [1080p with lyrics] Assassination Classroom all openings (1-4) to the queue
+22 Apr 2017 01:22:31 : LimitlessMc, botchat, Crystal4209#4698, ;song
+22 Apr 2017 01:22:31 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Fur Elise - Ludwig van Beethoven [Piano Tutorial] (Synthesia)
+**Requester**: Wertfuzzy77
+**URL**: <https://www.youtube.com/watch?v=WvWuco54FHg>
+```py
+Time: 0:02:53
+Views: 10,346,094
+Likes: 71,929, 97.7%
+Dislikes: 1,697, 2.3%
+Skips: 0/1```
+22 Apr 2017 01:22:38 : LimitlessMc, botchat, Crystal4209#4698, ;skip
+22 Apr 2017 01:22:38 : LimitlessMc, botchat, Botfuzzy77#2209, 1/1 votes to skip
+22 Apr 2017 01:22:38 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Fur Elise - Ludwig van Beethoven [Piano Tutorial] (Synthesia) by popular vote.
+22 Apr 2017 01:22:42 : LimitlessMc, botchat, Crystal4209#4698, ;song
+22 Apr 2017 01:22:42 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Fur Elise - Ludwig van Beethoven [Piano Tutorial] (Synthesia)
+**Requester**: Wertfuzzy77
+**URL**: <https://www.youtube.com/watch?v=WvWuco54FHg>
+```py
+Time: 0:02:53
+Views: 10,346,094
+Likes: 71,929, 97.7%
+Dislikes: 1,697, 2.3%
+Skips: 0/1```
+22 Apr 2017 01:22:46 : LimitlessMc, botchat, Crystal4209#4698, .........
+22 Apr 2017 01:23:02 : LimitlessMc, botchat, Crystal4209#4698, ;leab
+22 Apr 2017 01:23:05 : LimitlessMc, botchat, Crystal4209#4698, ;leave
+22 Apr 2017 01:23:29 : LimitlessMc, botchat, Crystal4209#4698, ;pbs
+22 Apr 2017 01:23:32 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 01:23:42 : LimitlessMc, botchat, Crystal4209#4698, ;pbt ppgifbppfp
+22 Apr 2017 01:23:45 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 01:23:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 01:24:51 : LimitlessMc, voice-junk, Jay113355#4999, I have his elevator music stuck in my head
+22 Apr 2017 01:25:16 : LimitlessMc, voice-junk, Crystal4209#4698, lol carl has good taste in music
+22 Apr 2017 01:25:28 : LimitlessMc, voice-junk, Jay113355#4999, Pm him a youtube link
+22 Apr 2017 01:26:35 : LimitlessMc, voice-junk, Crystal4209#4698, erm ok
+22 Apr 2017 01:26:42 : LimitlessMc, voice-junk, Crystal4209#4698, pmed him a link
+22 Apr 2017 01:26:45 : LimitlessMc, voice-junk, JustinOPGamer#9138, *poke*
+22 Apr 2017 01:28:07 : LimitlessMc, voice-junk, Jay113355#4999, Did he accept it?
+22 Apr 2017 01:28:55 : LimitlessMc, voice-junk, Jay113355#4999, did it start with https:// ?
+22 Apr 2017 01:29:00 : LimitlessMc, voice-junk, Jay113355#4999, it requires the full link
+22 Apr 2017 01:29:14 : LimitlessMc, voice-junk, Crystal4209#4698, yes it started with https://
+22 Apr 2017 01:29:34 : LimitlessMc, voice-junk, Jay113355#4999, was it youtu.be or youtube.com
+22 Apr 2017 01:29:51 : LimitlessMc, voice-junk, Crystal4209#4698, youtube.com
+22 Apr 2017 01:29:57 : LimitlessMc, voice-junk, Jay113355#4999, with the www. ?
+22 Apr 2017 01:30:04 : LimitlessMc, voice-junk, Crystal4209#4698, yep
+22 Apr 2017 01:30:08 : LimitlessMc, voice-junk, Jay113355#4999, strange
+22 Apr 2017 01:30:15 : Pulse, game-chat, JustinOPGamer#9138, ;train
+22 Apr 2017 01:30:15 : Pulse, game-chat, Botfuzzy77#2209, 
+22 Apr 2017 01:30:15 : LimitlessMc, voice-junk, Crystal4209#4698, i can give you the link
+22 Apr 2017 01:30:15 : LimitlessMc, voice-junk, Jay113355#4999, he only requires that your connected
+22 Apr 2017 01:30:19 : Pulse, game-chat, Botfuzzy77#2209, 
+22 Apr 2017 01:30:24 : LimitlessMc, voice-junk, Jay113355#4999, to music
+22 Apr 2017 01:30:26 : LimitlessMc, voice-junk, Crystal4209#4698, https://www.youtube.com/watch?v=qyXTgqJtoGM
+22 Apr 2017 01:30:41 : LimitlessMc, voice-junk, Crystal4209#4698, choose the most basic of music..
+22 Apr 2017 01:30:54 : LimitlessMc, voice-junk, Crystal4209#4698, oh
+22 Apr 2017 01:31:15 : LimitlessMc, voice-junk, Jay113355#4999, Hes running localy
+22 Apr 2017 01:31:22 : LimitlessMc, voice-junk, Jay113355#4999, else the audio wouldnt be this bad
+22 Apr 2017 01:32:15 : LimitlessMc, voice-junk, Crystal4209#4698, i like the elevator music better, very soothing
+22 Apr 2017 01:32:38 : LimitlessMc, voice-junk, Jay113355#4999, >. >
+22 Apr 2017 01:32:52 : LimitlessMc, voice-junk, Crystal4209#4698, ?
+22 Apr 2017 01:33:42 : LimitlessMc, voice-junk, Crystal4209#4698, wait did it read the link from here?
+22 Apr 2017 01:34:27 : LimitlessMc, voice-junk, JustinOPGamer#9138, yes
+22 Apr 2017 01:34:34 : LimitlessMc, voice-junk, JustinOPGamer#9138, i heard pokemon song for a sec
+22 Apr 2017 01:34:52 : LimitlessMc, voice-junk, Crystal4209#4698, i had also pmed the bot the song justin..
+22 Apr 2017 01:34:59 : LimitlessMc, voice-junk, JustinOPGamer#9138, Oooo
+22 Apr 2017 01:35:02 : LimitlessMc, voice-junk, JustinOPGamer#9138, fancy
+22 Apr 2017 01:35:13 : LimitlessMc, voice-junk, JustinOPGamer#9138, try it just in here then
+22 Apr 2017 01:35:21 : LimitlessMc, voice-junk, JustinOPGamer#9138, For science!
+22 Apr 2017 01:36:07 : LimitlessMc, voice-junk, Crystal4209#4698, but when i put the link in here i worked
+22 Apr 2017 01:36:26 : LimitlessMc, voice-junk, Crystal4209#4698, so lets try this again
+22 Apr 2017 01:36:39 : LimitlessMc, voice-junk, Crystal4209#4698, hey it worked 😄
+22 Apr 2017 01:36:47 : LimitlessMc, voice-junk, Crystal4209#4698, the weeb songs!!!
+22 Apr 2017 01:37:01 : LimitlessMc, voice-junk, Jay113355#4999, No it didnt read the link from here
+22 Apr 2017 01:37:04 : LimitlessMc, voice-junk, Jay113355#4999, i sent it to him
+22 Apr 2017 01:37:26 : LimitlessMc, voice-junk, Crystal4209#4698, ah, i tried again with this link pming him said it worked
+22 Apr 2017 01:37:40 : LimitlessMc, voice-junk, Jay113355#4999, Yeah
+22 Apr 2017 01:37:51 : LimitlessMc, voice-junk, Jay113355#4999, Let me move him to the server so the audio is better
+22 Apr 2017 01:37:59 : LimitlessMc, voice-junk, Crystal4209#4698, ok
+22 Apr 2017 01:40:08 : LimitlessMc, voice-junk, Jay113355#4999, /hello
+22 Apr 2017 01:40:08 : LimitlessMc, voice-junk, Carl#2678, Hello everyone!
+22 Apr 2017 01:40:54 : LimitlessMc, voice-junk, Crystal4209#4698, hello carl!
+22 Apr 2017 01:41:40 : LimitlessMc, voice-junk, JustinOPGamer#9138, @Carl  is smartbot on?
+22 Apr 2017 01:41:44 : LimitlessMc, voice-junk, JustinOPGamer#9138, rip nope
+22 Apr 2017 01:42:31 : LimitlessMc, voice-junk, Jay113355#4999, EW
+22 Apr 2017 01:42:43 : LimitlessMc, voice-junk, Jay113355#4999, Hell no cleverbot is never touching carl
+22 Apr 2017 01:42:48 : LimitlessMc, voice-junk, Crystal4209#4698, xD
+22 Apr 2017 01:42:50 : LimitlessMc, voice-junk, JustinOPGamer#9138, XD
+22 Apr 2017 01:43:56 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;train
+22 Apr 2017 01:43:58 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 01:44:00 : LimitlessMc, botchat, Botfuzzy77#2209, 
+22 Apr 2017 01:44:17 : LimitlessMc, voice-junk, Jay113355#4999, anyone can pm him a song..
+22 Apr 2017 01:44:21 : LimitlessMc, voice-junk, Jay113355#4999, anyday now
+22 Apr 2017 01:44:25 : RooberBoobers, kinkyrubiestalk, navy#8336, t he lineart isnt going well
+22 Apr 2017 01:44:45 : LimitlessMc, voice-junk, JustinOPGamer#9138, @Jay113355  what do i say to him?
+22 Apr 2017 01:44:52 : LimitlessMc, voice-junk, Third_Worm#4804, like a youtube link?
+22 Apr 2017 01:44:54 : LimitlessMc, voice-junk, Jay113355#4999, just send him a youtube link
+22 Apr 2017 01:44:55 : LimitlessMc, voice-junk, Crystal4209#4698, watching a youtube vid hang on
+22 Apr 2017 01:44:56 : LimitlessMc, botchat, Third_Worm#4804, ;songs
+22 Apr 2017 01:44:56 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+22 Apr 2017 01:44:56 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Ludovico Einaudi - Una Mattina (Intouchables) - Piano Tutorial by PlutaX - Synthesia **Radio: Kiss the Rain - Yiruma [Piano Tutorial] (Synthesia)**
+	<https://www.youtube.com/watch?v=YzOkbpdPHqg>
+2. Yiruma - River Flows in you (Piano tutorial Synthesia) 100% speed **Radio: Kiss the Rain - Yiruma [Piano Tutorial] (Synthesia)**
+	<https://www.youtube.com/watch?v=9mb95pQq5SM>
+3. Fur Elise - Ludwig van Beethoven [Piano Tutorial] (Synthesia) **Radio: Kiss the Rain - Yiruma [Piano Tutorial] (Synthesia)**
+	<https://www.youtube.com/watch?v=WvWuco54FHg>
+4. Fur Elise - Ludwig van Beethoven [Piano Tutorial] (Synthesia) **Radio: Kiss the Rain - Yiruma [Piano Tutorial] (Synthesia)**
+	<https://www.youtube.com/watch?v=WvWuco54FHg>
+5. [1080p with lyrics] Assassination Classroom all openings (1-4) **Crystal4209**
+	<https://www.youtube.com/watch?v=rNinP_es_XI>
+6. [1080p with lyrics] Assassination Classroom all openings (1-4) **Crystal4209**
+	<https://www.youtube.com/watch?v=rNinP_es_XI>
+Total Time is 0:24:32
+22 Apr 2017 01:45:08 : LimitlessMc, voice-junk, Jay113355#4999, its not a hard consept
+22 Apr 2017 01:45:20 : LimitlessMc, voice-junk, Crystal4209#4698, even i can do it 😄
+22 Apr 2017 01:45:38 : LimitlessMc, voice-junk, JustinOPGamer#9138, @Jay113355  i pmed him a link
+22 Apr 2017 01:45:54 : LimitlessMc, voice-junk, Jay113355#4999, what was the link
+22 Apr 2017 01:45:59 : LimitlessMc, voice-junk, JustinOPGamer#9138, https://www.youtube.com/watch?v=NrI-UBIB8Jk
+22 Apr 2017 01:46:05 : LimitlessMc, voice-junk, Jay113355#4999, send him it again
+22 Apr 2017 01:46:09 : LimitlessMc, mainchat, Crystal4209#4698, @Light your getting your wish 😄 https://www.youtube.com/watch?v=pKHD2BsvQJ0&t=45s
+22 Apr 2017 01:46:21 : LimitlessMc, voice-junk, JustinOPGamer#9138, there ya go
+22 Apr 2017 01:47:28 : RooberBoobers, kinkyroleplay, Tic-Tat-Purl#4152, @Mmphie @Mmphie @Mmphie
+22 Apr 2017 01:48:26 : LimitlessMc, voice-junk, Wertfuzzy77#0274, is there a queue? or does it just play songs its given?
+22 Apr 2017 01:48:31 : LimitlessMc, mainchat, Lightning#6734, ?
+22 Apr 2017 01:49:13 : LimitlessMc, mainchat, Crystal4209#4698, arceus boi
+22 Apr 2017 01:49:17 : LimitlessMc, mainchat, Lightning#6734, WOO
+22 Apr 2017 01:49:22 : LimitlessMc, mainchat, Crystal4209#4698, 😄
+22 Apr 2017 01:49:32 : LimitlessMc, mainchat, Lightning#6734, kneel before the god of pokemanz
+22 Apr 2017 01:49:37 : LimitlessMc, mainchat, Lightning#6734, *kneels*
+22 Apr 2017 01:49:41 : LimitlessMc, voice-junk, Jay113355#4999, Its going to have a queue per person
+22 Apr 2017 01:49:54 : LimitlessMc, voice-junk, Jay113355#4999, and play one from each person
+22 Apr 2017 01:50:02 : LimitlessMc, voice-junk, Wertfuzzy77#0274, alright
+22 Apr 2017 01:50:05 : LimitlessMc, voice-junk, Wertfuzzy77#0274, sounds interesting
+22 Apr 2017 01:50:06 : LimitlessMc, voice-junk, Jay113355#4999, then continute
+22 Apr 2017 01:50:17 : LimitlessMc, voice-junk, Jay113355#4999, also discord has packet loss
+22 Apr 2017 01:50:24 : LimitlessMc, voice-junk, Jay113355#4999, thats why its gliching like that
+22 Apr 2017 01:50:30 : LimitlessMc, voice-junk, Jay113355#4999, Does your bot do that?
+22 Apr 2017 01:50:31 : LimitlessMc, voice-junk, Wertfuzzy77#0274, never glitches for me?
+22 Apr 2017 01:50:32 : LimitlessMc, voice-junk, Wertfuzzy77#0274, no
+22 Apr 2017 01:50:36 : LimitlessMc, voice-junk, Jay113355#4999, Oh
+22 Apr 2017 01:50:38 : LimitlessMc, voice-junk, Wertfuzzy77#0274, not anymore atleast
+22 Apr 2017 01:50:44 : LimitlessMc, voice-junk, Wertfuzzy77#0274, that happened when I ran from local
+22 Apr 2017 01:50:51 : LimitlessMc, voice-junk, Wertfuzzy77#0274, bad ping
+22 Apr 2017 01:51:04 : LimitlessMc, voice-junk, Wertfuzzy77#0274, or mem/cpu spikes
+22 Apr 2017 01:51:10 : LimitlessMc, voice-junk, Wertfuzzy77#0274, but that never happens on the cloud
+22 Apr 2017 01:51:13 : RooberBoobers, kinkyrubiestalk, TopDroppy#6475, cries
+22 Apr 2017 01:51:15 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;status
+22 Apr 2017 01:51:16 : LimitlessMc, voice-junk, Botfuzzy77#2209, ```UpTime: 1:53:11.400000s
+Total Messages: 306
+Servers Joined: 15
+CPU usage: 0.0%
+Memory usage: 50.3%
+```
+22 Apr 2017 01:51:18 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, rip
+22 Apr 2017 01:51:42 : LimitlessMc, voice-junk, Jay113355#4999, So does carl have that for you
+22 Apr 2017 01:51:48 : LimitlessMc, voice-junk, Jay113355#4999, or am i having packet loss
+22 Apr 2017 01:52:09 : RooberBoobers, kinkyrubiestalk, Tic-Tat-Purl#4152, I'm gonna draw that tiny opal
+22 Apr 2017 01:52:14 : LimitlessMc, voice-junk, Jay113355#4999, Does the song speed up / slowdown / pause for a second
+22 Apr 2017 01:52:17 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, tiny opal?
+22 Apr 2017 01:52:18 : LimitlessMc, voice-junk, Jay113355#4999, for you
+22 Apr 2017 01:52:31 : RooberBoobers, kinkyrubiestalk, Tic-Tat-Purl#4152, From the kink chat
+22 Apr 2017 01:52:33 : LimitlessMc, voice-junk, Wertfuzzy77#0274, currently, nah, no glictches
+22 Apr 2017 01:52:36 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, o rip
+22 Apr 2017 01:52:42 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, whippy's character?
+22 Apr 2017 01:52:44 : LimitlessMc, voice-junk, Wertfuzzy77#0274, oi @Third_Worm
+22 Apr 2017 01:52:50 : LimitlessMc, voice-junk, Wertfuzzy77#0274, get a new song
+22 Apr 2017 01:52:51 : LimitlessMc, voice-junk, Wertfuzzy77#0274, you nub
+22 Apr 2017 01:52:57 : LimitlessMc, voice-junk, Third_Worm#4804, no
+22 Apr 2017 01:53:01 : LimitlessMc, voice-junk, Third_Worm#4804, never
+22 Apr 2017 01:53:02 : LimitlessMc, voice-junk, Third_Worm#4804, brb
+22 Apr 2017 01:53:12 : LimitlessMc, voice-junk, JustinOPGamer#9138, dont u dare do it wert
+22 Apr 2017 01:53:13 : LimitlessMc, voice-junk, Wertfuzzy77#0274, anyway to skip songs?
+22 Apr 2017 01:53:15 : RooberBoobers, kinkyrubiestalk, Tic-Tat-Purl#4152, No, one of the opals that I was throwing around at people
+22 Apr 2017 01:53:18 : LimitlessMc, voice-junk, Jay113355#4999, not for you
+22 Apr 2017 01:53:20 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, o XD
+22 Apr 2017 01:53:22 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;-;
+22 Apr 2017 01:53:26 : LimitlessMc, voice-junk, JustinOPGamer#9138, wert let the min play xD
+22 Apr 2017 01:53:30 : LimitlessMc, voice-junk, Jay113355#4999, not yet anyway
+22 Apr 2017 01:53:30 : LimitlessMc, voice-junk, Wertfuzzy77#0274, even I was nice and made server admins have access to forceskip
+22 Apr 2017 01:53:34 : LimitlessMc, voice-junk, Wertfuzzy77#0274, 😄
+22 Apr 2017 01:53:43 : LimitlessMc, voice-junk, Jay113355#4999, It will have a way to skip
+22 Apr 2017 01:53:49 : LimitlessMc, voice-junk, Jay113355#4999, just not yet
+22 Apr 2017 01:53:51 : LimitlessMc, voice-junk, Third_Worm#4804, hold
+22 Apr 2017 01:53:56 : LimitlessMc, voice-junk, Third_Worm#4804, did my one punch play?
+22 Apr 2017 01:53:57 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+22 Apr 2017 01:53:59 : LimitlessMc, voice-junk, Wertfuzzy77#0274, playing
+22 Apr 2017 01:54:04 : LimitlessMc, voice-junk, Third_Worm#4804, thats attack on titan
+22 Apr 2017 01:54:06 : LimitlessMc, voice-junk, JustinOPGamer#9138, no this is AOT nub
+22 Apr 2017 01:54:07 : LimitlessMc, voice-junk, Wertfuzzy77#0274, oh
+22 Apr 2017 01:54:10 : LimitlessMc, voice-junk, Third_Worm#4804, mines next
+22 Apr 2017 01:54:12 : LimitlessMc, voice-junk, JustinOPGamer#9138, @Wertfuzzy77  get ur anime right
+22 Apr 2017 01:54:12 : LimitlessMc, voice-junk, Third_Worm#4804, 😄
+22 Apr 2017 01:54:12 : LimitlessMc, voice-junk, Botfuzzy77#2209, Wertfuzzy77 is afk for reason:
+**homework**
+22 Apr 2017 01:54:14 : LimitlessMc, voice-junk, Wertfuzzy77#0274, same action anime junk
+22 Apr 2017 01:54:16 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;afk
+22 Apr 2017 01:54:16 : LimitlessMc, voice-junk, Botfuzzy77#2209, Wertfuzzy77 is no Longer AFK
+22 Apr 2017 01:54:22 : LimitlessMc, voice-junk, Wertfuzzy77#0274, this one is punch
+22 Apr 2017 01:54:59 : RooberBoobers, shatira, Tic-Tat-Purl#4152, -now has a tiny opal friend(Berry)
+22 Apr 2017 01:55:12 : LimitlessMc, voice-junk, Wertfuzzy77#0274, I'm curious as to how you are implementing all this music stuff, but carl is in java xD
+22 Apr 2017 01:55:16 : LimitlessMc, voice-junk, Wertfuzzy77#0274, botfuzzy is in python
+22 Apr 2017 01:55:35 : LimitlessMc, voice-junk, JustinOPGamer#9138, ^ its bc jay is a god
+22 Apr 2017 01:55:40 : LimitlessMc, voice-junk, Wertfuzzy77#0274, wut
+22 Apr 2017 01:55:59 : LimitlessMc, voice-junk, JustinOPGamer#9138, Jay codes what he wants when he wants in any language
+22 Apr 2017 01:56:06 : LimitlessMc, voice-junk, Wertfuzzy77#0274, I mean, I can code in java too
+22 Apr 2017 01:56:14 : LimitlessMc, voice-junk, Wertfuzzy77#0274, I just didnt
+22 Apr 2017 01:56:16 : LimitlessMc, voice-junk, JustinOPGamer#9138, but is ur bot in java nu
+22 Apr 2017 01:56:23 : LimitlessMc, voice-junk, Third_Worm#4804, wert
+22 Apr 2017 01:56:24 : LimitlessMc, voice-junk, Wertfuzzy77#0274, python > java tho
+22 Apr 2017 01:56:25 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ?
+22 Apr 2017 01:56:29 : LimitlessMc, voice-junk, Third_Worm#4804, listen carefully
+22 Apr 2017 01:56:30 : LimitlessMc, voice-junk, JustinOPGamer#9138, no
+22 Apr 2017 01:56:34 : LimitlessMc, voice-junk, Third_Worm#4804, this is how to play a song
+22 Apr 2017 01:56:38 : LimitlessMc, voice-junk, Wertfuzzy77#0274, java old school
+22 Apr 2017 01:56:40 : LimitlessMc, voice-junk, Third_Worm#4804, you go the msges
+22 Apr 2017 01:56:44 : LimitlessMc, voice-junk, Third_Worm#4804, and type carl
+22 Apr 2017 01:56:50 : LimitlessMc, voice-junk, Third_Worm#4804, and paste a youtube link in
+22 Apr 2017 01:56:53 : LimitlessMc, voice-junk, JustinOPGamer#9138, @Wertfuzzy77  java has more things that it can do if u code it right
+22 Apr 2017 01:56:58 : LimitlessMc, voice-junk, Third_Worm#4804, and if it says successfully loaded
+22 Apr 2017 01:57:00 : LimitlessMc, voice-junk, Third_Worm#4804, your good
+22 Apr 2017 01:57:01 : LimitlessMc, voice-junk, Third_Worm#4804, 😄
+22 Apr 2017 01:57:17 : LimitlessMc, voice-junk, Wertfuzzy77#0274, well, ya, but its old school xD it takes more work to do things than it needs to
+22 Apr 2017 01:57:38 : LimitlessMc, voice-junk, Wertfuzzy77#0274, I spend 2 years on java, and then moved to python because its more flexible
+22 Apr 2017 01:57:49 : LimitlessMc, voice-junk, Third_Worm#4804, . _.
+22 Apr 2017 01:57:52 : LimitlessMc, voice-junk, Third_Worm#4804, who did it
+22 Apr 2017 01:57:59 : LimitlessMc, voice-junk, Third_Worm#4804, whofuckingdidit
+22 Apr 2017 01:58:09 : LimitlessMc, voice-junk, Crystal4209#4698, shhhh
+22 Apr 2017 01:58:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ;leave
+22 Apr 2017 01:58:26 : LimitlessMc, voice-junk, Third_Worm#4804, ;-;
+22 Apr 2017 01:58:27 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+22 Apr 2017 01:58:27 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+22 Apr 2017 01:58:58 : LimitlessMc, voice-junk, Jay113355#4999, java is more flexable
+22 Apr 2017 01:59:08 : LimitlessMc, voice-junk, Jay113355#4999, python is good too though
+22 Apr 2017 01:59:18 : LimitlessMc, voice-junk, Wertfuzzy77#0274, both are good for different things
+22 Apr 2017 01:59:26 : LimitlessMc, voice-junk, Jay113355#4999, python has lots of libs
+22 Apr 2017 01:59:40 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ya, you can do a lot of things with 1-3 lines that you can't do in java
+22 Apr 2017 01:59:40 : LimitlessMc, voice-junk, Jay113355#4999, java for me i code faster and smarter
+22 Apr 2017 01:59:47 : LimitlessMc, voice-junk, Wertfuzzy77#0274, but java has more control on what you can do
+22 Apr 2017 02:00:01 : LimitlessMc, voice-junk, JustinOPGamer#9138, ^
+22 Apr 2017 02:00:02 : LimitlessMc, voice-junk, Botfuzzy77#2209, ^
+22 Apr 2017 02:00:09 : LimitlessMc, voice-junk, JustinOPGamer#9138, @Botfuzzy77  thank
+22 Apr 2017 02:00:10 : LimitlessMc, voice-junk, Botfuzzy77#2209, You.
+22 Apr 2017 02:00:13 : LimitlessMc, voice-junk, JustinOPGamer#9138, le
+22 Apr 2017 02:00:41 : LimitlessMc, voice-junk, Third_Worm#4804, g-guys
+22 Apr 2017 02:00:48 : LimitlessMc, voice-junk, Crystal4209#4698, 😄
+22 Apr 2017 02:00:56 : LimitlessMc, voice-junk, Third_Worm#4804, h-help
+22 Apr 2017 02:01:25 : LimitlessMc, voice-junk, Crystal4209#4698, oh yeah i accidently put in 2 of the same songs
+22 Apr 2017 02:01:27 : LimitlessMc, voice-junk, Wertfuzzy77#0274, idk, I still like python better, it drops all the formality and it has little things that make it nice to work with
+22 Apr 2017 02:01:36 : LimitlessMc, voice-junk, Crystal4209#4698, my hero academia opening 1..
+22 Apr 2017 02:01:54 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=djV11Xbc914
+22 Apr 2017 02:01:55 : LimitlessMc, botchat, Botfuzzy77#2209, Added a-ha - Take On Me (Official Video) to the queue
+22 Apr 2017 02:01:56 : LimitlessMc, botchat, Wertfuzzy77#0274, ;recommend
+22 Apr 2017 02:01:56 : LimitlessMc, botchat, Botfuzzy77#2209, Recommend Songs to play: True
+22 Apr 2017 02:05:11 : LimitlessMc, voice-junk, Third_Worm#4804, so who put this one in
+22 Apr 2017 02:05:52 : LimitlessMc, voice-junk, Crystal4209#4698, wb jay
+22 Apr 2017 02:05:55 : LimitlessMc, voice-junk, Crystal4209#4698, i did 😄
+22 Apr 2017 02:05:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+22 Apr 2017 02:05:59 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Alphaville - Forever Young ~Official Video
+**Requester**: Radio: a-ha - Take On Me (Official Video)
+**URL**: <https://www.youtube.com/watch?v=t1TcDHrkQYg>
+```py
+Time: 0:03:38
+Views: 171,105,460
+Likes: 564,728, 97.09%
+Dislikes: 16,914, 2.91%
+Skips: 0/0```
+22 Apr 2017 02:06:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+22 Apr 2017 02:06:02 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+22 Apr 2017 02:06:02 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Rick Astley - Never Gonna Give You Up **Radio: a-ha - Take On Me (Official Video)**
+	<https://www.youtube.com/watch?v=dQw4w9WgXcQ>
+2. Europe - The Final Countdown (Official Video) **Radio: a-ha - Take On Me (Official Video)**
+	<https://www.youtube.com/watch?v=9jK-NcRmVcw>
+3. Europe - The Final Countdown (Official Video) **Radio: a-ha - Take On Me (Official Video)**
+	<https://www.youtube.com/watch?v=9jK-NcRmVcw>
+4. Cyndi Lauper - Girls Just Want To Have Fun (Official Video) **Radio: a-ha - Take On Me (Official Video)**
+	<https://www.youtube.com/watch?v=PIb6AZdTr-A>
+5. Modern Talking - You're My Heart, You're My Soul **Radio: Alphaville - Forever Young ~Official Video**
+	<https://www.youtube.com/watch?v=4kHl4FoK1Ys>
+Total Time is 0:21:04
+22 Apr 2017 02:06:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 1
+22 Apr 2017 02:06:05 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: Rick Astley - Never Gonna Give You Up
+22 Apr 2017 02:06:15 : LimitlessMc, voice-junk, Third_Worm#4804, @Jay113355
+22 Apr 2017 02:06:18 : LimitlessMc, voice-junk, Third_Worm#4804, h-help
+22 Apr 2017 02:06:25 : LimitlessMc, voice-junk, Crystal4209#4698, xD
+22 Apr 2017 02:06:25 : LimitlessMc, voice-junk, Jay113355#4999, ?
+22 Apr 2017 02:06:55 : LimitlessMc, voice-junk, Third_Worm#4804, she put in
+22 Apr 2017 02:06:57 : LimitlessMc, voice-junk, Third_Worm#4804, so many songs
+22 Apr 2017 02:07:05 : LimitlessMc, voice-junk, Crystal4209#4698, is there a way to remove some songs?
+22 Apr 2017 02:07:16 : LimitlessMc, voice-junk, Jay113355#4999, - .-
+22 Apr 2017 02:08:05 : LimitlessMc, voice-junk, JustinOPGamer#9138, -_-
+22 Apr 2017 02:08:14 : LimitlessMc, botchat, Wertfuzzy77#0274, s;kip
+22 Apr 2017 02:08:16 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+22 Apr 2017 02:08:16 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Alphaville - Forever Young ~Official Video by request (Radio Song)
+22 Apr 2017 02:08:21 : LimitlessMc, botchat, Wertfuzzy77#0274, ;shuffle
+22 Apr 2017 02:08:21 : LimitlessMc, botchat, Botfuzzy77#2209, Shuffling songs...
+22 Apr 2017 02:08:50 : LimitlessMc, voice-junk, Third_Worm#4804, @cryotrees
+22 Apr 2017 02:09:18 : LimitlessMc, voice-junk, cryotrees#9463, ?
+22 Apr 2017 02:09:22 : LimitlessMc, voice-junk, cryotrees#9463, na wasn't me
+22 Apr 2017 02:09:22 : LimitlessMc, voice-junk, Third_Worm#4804, Put in
+22 Apr 2017 02:09:25 : LimitlessMc, voice-junk, Third_Worm#4804, Some
+22 Apr 2017 02:09:28 : LimitlessMc, voice-junk, cryotrees#9463, oh?
+22 Apr 2017 02:09:29 : LimitlessMc, voice-junk, Third_Worm#4804, Songs
+22 Apr 2017 02:09:31 : LimitlessMc, voice-junk, Third_Worm#4804, Oh yes
+22 Apr 2017 02:09:31 : LimitlessMc, voice-junk, cryotrees#9463, nah
+22 Apr 2017 02:09:33 : LimitlessMc, voice-junk, Third_Worm#4804, aw
+22 Apr 2017 02:09:41 : LimitlessMc, voice-junk, Third_Worm#4804, rip i'm too lazy to
+22 Apr 2017 02:11:04 : LimitlessMc, voice-junk, Third_Worm#4804, !
+22 Apr 2017 02:11:07 : LimitlessMc, voice-junk, Third_Worm#4804, wtf
+22 Apr 2017 02:11:33 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug "\n".join(sorted(["{}: {} seconds ago".format(x['Name'], int(time.time() - x['Time'])) for x in json.load(open('Players.json', 'r')).values() if x.get("Time", 0) + 3600 > time.time()], key = lambda x: int(x.split(" ")[1])))
+22 Apr 2017 02:11:33 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+MrMudkipKipperten: 1653 seconds ago
+JustinOPGamer: 2473 seconds ago
+Crystal4209: 2866 seconds ago
+```
+22 Apr 2017 02:11:45 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;-;
+22 Apr 2017 02:11:46 : LimitlessMc, voice-junk, Jay113355#4999, I moved the voice server
+22 Apr 2017 02:11:48 : LimitlessMc, voice-junk, Wertfuzzy77#0274, why my music go rip
+22 Apr 2017 02:11:49 : LimitlessMc, voice-junk, Wertfuzzy77#0274, mean
+22 Apr 2017 02:11:52 : LimitlessMc, voice-junk, Crystal4209#4698, lel
+22 Apr 2017 02:11:53 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;leave
+22 Apr 2017 02:11:54 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;join
+22 Apr 2017 02:11:55 : LimitlessMc, voice-junk, Botfuzzy77#2209, Connected channel!
+22 Apr 2017 02:12:03 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=FTQbiNvZqaY
+22 Apr 2017 02:12:04 : LimitlessMc, voice-junk, Botfuzzy77#2209, Added Toto - Africa to the queue
+22 Apr 2017 02:12:13 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;recommend
+22 Apr 2017 02:12:13 : LimitlessMc, voice-junk, Botfuzzy77#2209, Recommend Songs to play: True
+22 Apr 2017 02:12:24 : LimitlessMc, voice-junk, Jay113355#4999, Where is your bot in the world Wert?
+22 Apr 2017 02:12:29 : LimitlessMc, voice-junk, Wertfuzzy77#0274, NYC
+22 Apr 2017 02:12:31 : LimitlessMc, voice-junk, Jay113355#4999, Yeah
+22 Apr 2017 02:12:40 : LimitlessMc, voice-junk, Jay113355#4999, So West should be better for both our bots
+22 Apr 2017 02:12:57 : LimitlessMc, voice-junk, Third_Worm#4804, I'm not gonna be the only one adding songs for this
+22 Apr 2017 02:12:59 : LimitlessMc, voice-junk, Wertfuzzy77#0274, east..?
+22 Apr 2017 02:13:02 : LimitlessMc, voice-junk, Jay113355#4999, us-west336
+22 Apr 2017 02:13:08 : LimitlessMc, voice-junk, JustinOPGamer#9138, @Third_Worm  i aded one 😄
+22 Apr 2017 02:13:09 : LimitlessMc, voice-junk, Jay113355#4999, wait
+22 Apr 2017 02:13:33 : LimitlessMc, voice-junk, Jay113355#4999, So it needs to be east then?
+22 Apr 2017 02:13:40 : LimitlessMc, voice-junk, Third_Worm#4804, i added two
+22 Apr 2017 02:13:41 : LimitlessMc, voice-junk, Wertfuzzy77#0274, well, my bot would be best in east
+22 Apr 2017 02:13:43 : LimitlessMc, voice-junk, Wertfuzzy77#0274, idk about yours
+22 Apr 2017 02:13:46 : LimitlessMc, voice-junk, Jay113355#4999, Yeah
+22 Apr 2017 02:13:50 : LimitlessMc, voice-junk, Jay113355#4999, i got that messed up
+22 Apr 2017 02:13:53 : LimitlessMc, voice-junk, Wertfuzzy77#0274, 😛
+22 Apr 2017 02:13:54 : LimitlessMc, voice-junk, Third_Worm#4804, @Jay113355 Was that song earlier teh actual song or glitching out?
+22 Apr 2017 02:13:54 : LimitlessMc, voice-junk, Jay113355#4999, switching again
+22 Apr 2017 02:14:00 : LimitlessMc, voice-junk, Wertfuzzy77#0274, rip
+22 Apr 2017 02:14:09 : LimitlessMc, voice-junk, Third_Worm#4804, *gets songs ready*
+22 Apr 2017 02:14:10 : LimitlessMc, voice-junk, Jay113355#4999, gliching since we moved voice servers
+22 Apr 2017 02:14:13 : LimitlessMc, voice-junk, Third_Worm#4804, gotcha
+22 Apr 2017 02:14:20 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;leave
+22 Apr 2017 02:14:22 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;join
+22 Apr 2017 02:14:22 : LimitlessMc, voice-junk, Botfuzzy77#2209, Connected channel!
+22 Apr 2017 02:14:28 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;search toto africa
+22 Apr 2017 02:14:29 : LimitlessMc, voice-junk, Botfuzzy77#2209, Added Toto - Africa to the queue
+22 Apr 2017 02:14:31 : LimitlessMc, voice-junk, Botfuzzy77#2209, https://www.youtube.com/watch?v=FTQbiNvZqaY
+22 Apr 2017 02:14:36 : LimitlessMc, voice-junk, Wertfuzzy77#0274, perfect
+22 Apr 2017 02:14:49 : LimitlessMc, voice-junk, Wertfuzzy77#0274, I need like a ;rejoin
+22 Apr 2017 02:14:53 : LimitlessMc, voice-junk, Jay113355#4999, my ping is back to the 50s
+22 Apr 2017 02:15:09 : LimitlessMc, voice-junk, Jay113355#4999, us-east32
+22 Apr 2017 02:15:15 : LimitlessMc, voice-junk, Wertfuzzy77#0274, mine is like 12
+22 Apr 2017 02:15:34 : LimitlessMc, voice-junk, Jay113355#4999, Does your music stop when i change the location like tht?
+22 Apr 2017 02:15:37 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ya
+22 Apr 2017 02:15:52 : LimitlessMc, voice-junk, Jay113355#4999, carl just speeds the song up to 50x
+22 Apr 2017 02:16:00 : LimitlessMc, voice-junk, Wertfuzzy77#0274, wut
+22 Apr 2017 02:16:03 : LimitlessMc, voice-junk, Jay113355#4999, idk
+22 Apr 2017 02:16:04 : RooberBoobers, kinkyrubiestalk, navy#8336, succ me like you do
+22 Apr 2017 02:16:10 : RooberBoobers, kinkyrubiestalk, navy#8336, sususucc me like you do
+22 Apr 2017 02:16:12 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, o boi
+22 Apr 2017 02:16:16 : LimitlessMc, voice-junk, Wertfuzzy77#0274, nah, fuzzy just drops out
+22 Apr 2017 02:16:16 : RooberBoobers, kinkyrubiestalk, navy#8336, (like you do-)
+22 Apr 2017 02:16:31 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, its been like a month and no one has even wanted her XD
+22 Apr 2017 02:16:34 : LimitlessMc, voice-junk, Wertfuzzy77#0274, it still says he is speaking tho
+22 Apr 2017 02:16:38 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, **i might just give her away**
+22 Apr 2017 02:16:42 : LimitlessMc, voice-junk, Wertfuzzy77#0274, so maybe it would pop back
+22 Apr 2017 02:16:43 : LimitlessMc, voice-junk, Jay113355#4999, So far carl has no packet loss now
+22 Apr 2017 02:16:47 : LimitlessMc, voice-junk, Wertfuzzy77#0274, thats good
+22 Apr 2017 02:17:01 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+22 Apr 2017 02:17:23 : LimitlessMc, voice-junk, Wertfuzzy77#0274, depends on how you do stuff with youtube, keep an eye out on memory usage, my queue used to eat a lot of memory
+22 Apr 2017 02:17:40 : RooberBoobers, kinkyrubiestalk, Tic-Tat-Purl#4152, It's cute
+22 Apr 2017 02:18:03 : RooberBoobers, kinkyrubiestalk, navy#8336, it,s garnet
+22 Apr 2017 02:18:04 : LimitlessMc, voice-junk, Jay113355#4999, 80MB
+22 Apr 2017 02:18:11 : LimitlessMc, voice-junk, Wertfuzzy77#0274, how many songs tho?
+22 Apr 2017 02:18:12 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, cottoncandy sheep
+22 Apr 2017 02:18:18 : LimitlessMc, voice-junk, Jay113355#4999, 15
+22 Apr 2017 02:18:18 : LimitlessMc, voice-junk, Third_Worm#4804, i added 3
+22 Apr 2017 02:18:20 : LimitlessMc, voice-junk, Third_Worm#4804, o-o
+22 Apr 2017 02:18:24 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, i miss cottoncandy garnet DX
+22 Apr 2017 02:18:24 : LimitlessMc, voice-junk, Third_Worm#4804, crystal
+22 Apr 2017 02:18:24 : LimitlessMc, voice-junk, Crystal4209#4698, i added 2
+22 Apr 2017 02:18:26 : LimitlessMc, voice-junk, Third_Worm#4804, k
+22 Apr 2017 02:18:29 : LimitlessMc, voice-junk, Jay113355#4999, It doesnt load them right away
+22 Apr 2017 02:18:32 : LimitlessMc, voice-junk, Wertfuzzy77#0274, thats not bad
+22 Apr 2017 02:18:34 : LimitlessMc, voice-junk, Jay113355#4999, wth are you doing?
+22 Apr 2017 02:18:39 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ya, mine only laods the first 5 or so
+22 Apr 2017 02:18:40 : LimitlessMc, voice-junk, Crystal4209#4698, who added this one
+22 Apr 2017 02:18:43 : LimitlessMc, voice-junk, Wertfuzzy77#0274, loads *
+22 Apr 2017 02:18:43 : LimitlessMc, voice-junk, Third_Worm#4804, me
+22 Apr 2017 02:18:59 : LimitlessMc, voice-junk, Third_Worm#4804, i addef firework, thousand years and right round
+22 Apr 2017 02:19:21 : LimitlessMc, voice-junk, Jay113355#4999, carl lost like 5 packets out of 2k
+22 Apr 2017 02:19:24 : LimitlessMc, voice-junk, Jay113355#4999, So thats fixed
+22 Apr 2017 02:20:00 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+22 Apr 2017 02:20:04 : LimitlessMc, voice-junk, Wertfuzzy77#0274, bot is 157/21k
+22 Apr 2017 02:20:14 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=Hkr98q6CwUQ
+22 Apr 2017 02:20:15 : LimitlessMc, botchat, Botfuzzy77#2209, Added Coldplay & Bastille - Viva la Pompeii (Mashup) to the queue
+22 Apr 2017 02:20:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug "\n".join(sorted(["{}: {} seconds ago".format(x['Name'], int(time.time() - x['Time'])) for x in json.load(open('Players.json', 'r')).values() if x.get("Time", 0) + 3600 > time.time()], key = lambda x: int(x.split(" ")[1])))
+22 Apr 2017 02:20:19 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+MrMudkipKipperten: 2179 seconds ago
+JustinOPGamer: 2999 seconds ago
+Crystal4209: 3392 seconds ago
+```
+22 Apr 2017 02:20:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug "\n".join(sorted(["{}: {} seconds ago".format(x['Name'], int(time.time() - x['Time'])) for x in json.load(open('Players.json', 'r')).values() if x.get("Time", 0) + 86400 > time.time()], key = lambda x: int(x.split(" ")[1])))
+22 Apr 2017 02:20:46 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+ValueError: invalid literal for int() with base 10: 'Really)Head'
+```
+22 Apr 2017 02:20:46 : LimitlessMc, voice-junk, Jay113355#4999, Hmm
+22 Apr 2017 02:21:01 : LimitlessMc, voice-junk, Jay113355#4999, My packets are getting backed up and then dropped
+22 Apr 2017 02:21:15 : LimitlessMc, voice-junk, Jay113355#4999, Packet waiting times
+22 Apr 2017 02:22:01 : LimitlessMc, voice-junk, Third_Worm#4804, i didn't add this
+22 Apr 2017 02:22:03 : LimitlessMc, voice-junk, Third_Worm#4804, @Crystal4209
+22 Apr 2017 02:22:24 : LimitlessMc, voice-junk, Crystal4209#4698, 😄
+22 Apr 2017 02:22:38 : LimitlessMc, voice-junk, JustinOPGamer#9138, glad my songs still havnt come up ;/
+22 Apr 2017 02:22:39 : LimitlessMc, voice-junk, Third_Worm#4804, knew it
+22 Apr 2017 02:22:46 : LimitlessMc, voice-junk, Third_Worm#4804, not random apparently
+22 Apr 2017 02:22:49 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug "\n".join(sorted(["{}: {} seconds ago".format(x['Name'].replace(" ", ""), int(time.time() - x['Time'])) for x in json.load(open('Players.json', 'r')).values() if x.get("Time", 0) + 86400 > time.time()], key = lambda x: int(x.split(" ")[1])))
+22 Apr 2017 02:22:49 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+MrMudkipKipperten: 2329 seconds ago
+JustinOPGamer: 3149 seconds ago
+Crystal4209: 3542 seconds ago
+KidKraft: 5548 seconds ago
+StarwinnerCraft: 5771 seconds ago
+TherminatorX: 6042 seconds ago
+Wertfuzzy77: 6571 seconds ago
+Bakafish: 7576 seconds ago
+theOnlyJuan: 9704 seconds ago
+Third_Worm: 10419 seconds ago
+darthkota: 48627 seconds ago
+(NotReally)HeadModAlphaBit: 48821 seconds ago
+Lightning: 50730 seconds ago
+Dasher: 82087 seconds ago
+```
+22 Apr 2017 02:22:54 : LimitlessMc, voice-junk, Third_Worm#4804, goes in the order we did it
+22 Apr 2017 02:22:56 : LimitlessMc, voice-junk, Crystal4209#4698, #BestSongInTheWorld
+22 Apr 2017 02:22:59 : LimitlessMc, voice-junk, Third_Worm#4804, mine or hers should be next
+22 Apr 2017 02:23:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug "\n".join(sorted(["{:30s}: {} seconds ago".format(x['Name'].replace(" ", ""), int(time.time() - x['Time'])) for x in json.load(open('Players.json', 'r')).values() if x.get("Time", 0) + 86400 > time.time()], key = lambda x: int(x.split(" ")[1])))
+22 Apr 2017 02:23:26 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+ValueError: invalid literal for int() with base 10: ''
+```
+22 Apr 2017 02:23:34 : LimitlessMc, voice-junk, Crystal4209#4698, feel like dancing now :L
+22 Apr 2017 02:23:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug "\n".join(sorted(["{:30s}: {} seconds ago".format(x['Name'].replace(" ", ""), int(time.time() - x['Time'])) for x in json.load(open('Players.json', 'r')).values() if x.get("Time", 0) + 86400 > time.time()], key = lambda x: int(x.split(" ")[-3])))
+22 Apr 2017 02:23:46 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+MrMudkipKipperten             : 2386 seconds ago
+JustinOPGamer                 : 3206 seconds ago
+Crystal4209                   : 3599 seconds ago
+KidKraft                      : 5605 seconds ago
+StarwinnerCraft               : 5828 seconds ago
+TherminatorX                  : 6099 seconds ago
+Wertfuzzy77                   : 6628 seconds ago
+Bakafish                      : 7633 seconds ago
+theOnlyJuan                   : 9761 seconds ago
+Third_Worm                    : 10475 seconds ago
+darthkota                     : 48684 seconds ago
+(NotReally)HeadModAlphaBit    : 48878 seconds ago
+Lightning                     : 50787 seconds ago
+Dasher                        : 82144 seconds ago
+```
+22 Apr 2017 02:23:56 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug "\n".join(sorted(["{:30s}{} seconds ago".format(x['Name'].replace(" ", ""), int(time.time() - x['Time'])) for x in json.load(open('Players.json', 'r')).values() if x.get("Time", 0) + 86400 > time.time()], key = lambda x: int(x.split(" ")[-3])))
+22 Apr 2017 02:23:56 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+MrMudkipKipperten             2396 seconds ago
+JustinOPGamer                 3216 seconds ago
+Crystal4209                   3609 seconds ago
+KidKraft                      5615 seconds ago
+StarwinnerCraft               5838 seconds ago
+TherminatorX                  6109 seconds ago
+Wertfuzzy77                   6638 seconds ago
+Bakafish                      7643 seconds ago
+theOnlyJuan                   9771 seconds ago
+Third_Worm                    10485 seconds ago
+darthkota                     48694 seconds ago
+(NotReally)HeadModAlphaBit    48888 seconds ago
+Lightning                     50797 seconds ago
+Dasher                        82154 seconds ago
+```
+22 Apr 2017 02:24:22 : LimitlessMc, voice-junk, Third_Worm#4804, i am dancing
+22 Apr 2017 02:24:33 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug "\n".join(sorted(["{:30s}{} minutes ago".format(x['Name'].replace(" ", ""), int(time.time() - x['Time'])/60) for x in json.load(open('Players.json', 'r')).values() if x.get("Time", 0) + 86400 > time.time()], key = lambda x: int(x.split(" ")[-3])))
+22 Apr 2017 02:24:33 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+ValueError: invalid literal for int() with base 10: '847.2333333333333'
+```
+22 Apr 2017 02:24:44 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug "\n".join(sorted(["{:30s}{} minutes ago".format(x['Name'].replace(" ", ""), int(int(time.time() - x['Time'])/60)) for x in json.load(open('Players.json', 'r')).values() if x.get("Time", 0) + 86400 > time.time()], key = lambda x: int(x.split(" ")[-3])))
+22 Apr 2017 02:24:44 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+MrMudkipKipperten             40 minutes ago
+JustinOPGamer                 54 minutes ago
+Crystal4209                   60 minutes ago
+KidKraft                      94 minutes ago
+StarwinnerCraft               98 minutes ago
+TherminatorX                  102 minutes ago
+Wertfuzzy77                   111 minutes ago
+Bakafish                      128 minutes ago
+theOnlyJuan                   163 minutes ago
+Third_Worm                    175 minutes ago
+darthkota                     812 minutes ago
+(NotReally)HeadModAlphaBit    815 minutes ago
+Lightning                     847 minutes ago
+Dasher                        1370 minutes ago
+```
+22 Apr 2017 02:25:00 : LimitlessMc, voice-junk, Jay113355#4999, yeah anyone else notice discord causing parts of the song to drop
+22 Apr 2017 02:25:03 : LimitlessMc, voice-junk, Wertfuzzy77#0274, #DancingOnMyOwn?
+22 Apr 2017 02:25:12 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;search Dancing on my own, calum
+22 Apr 2017 02:25:14 : LimitlessMc, voice-junk, Botfuzzy77#2209, Added Calum Scott - Dancing On My Own to the queue
+22 Apr 2017 02:25:15 : LimitlessMc, voice-junk, Botfuzzy77#2209, https://www.youtube.com/watch?v=q31tGyBJhRY
+22 Apr 2017 02:25:27 : LimitlessMc, voice-junk, JustinOPGamer#9138, @Jay113355  yes
+22 Apr 2017 02:25:53 : LimitlessMc, voice-junk, JustinOPGamer#9138, sometimes it drops a small peice also my songs still havnt played and i did them like 20 mins ago
+22 Apr 2017 02:25:57 : LimitlessMc, voice-junk, Crystal4209#4698, ye
+22 Apr 2017 02:26:07 : LimitlessMc, voice-junk, Jay113355#4999, blame crystal
+22 Apr 2017 02:26:10 : LimitlessMc, voice-junk, Third_Worm#4804, 20 minutes ago?
+22 Apr 2017 02:26:12 : LimitlessMc, voice-junk, JustinOPGamer#9138, yes
+22 Apr 2017 02:26:18 : LimitlessMc, voice-junk, JustinOPGamer#9138, well after bot relogge
+22 Apr 2017 02:26:34 : LimitlessMc, voice-junk, Third_Worm#4804, @Crystal4209 You put in..two correct?
+22 Apr 2017 02:26:39 : LimitlessMc, voice-junk, Crystal4209#4698, ye
+22 Apr 2017 02:26:43 : LimitlessMc, voice-junk, JustinOPGamer#9138, ;/
+22 Apr 2017 02:26:45 : LimitlessMc, voice-junk, Third_Worm#4804, @JustinOPGamer How many?
+22 Apr 2017 02:26:48 : LimitlessMc, voice-junk, JustinOPGamer#9138, 1
+22 Apr 2017 02:26:52 : LimitlessMc, voice-junk, Crystal4209#4698, all start and something else
+22 Apr 2017 02:27:17 : LimitlessMc, voice-junk, Third_Worm#4804, ..
+22 Apr 2017 02:27:21 : LimitlessMc, voice-junk, Third_Worm#4804, thats three @Crystal4209
+22 Apr 2017 02:27:23 : LimitlessMc, voice-junk, Third_Worm#4804, lol
+22 Apr 2017 02:27:29 : LimitlessMc, voice-junk, JustinOPGamer#9138, ....
+22 Apr 2017 02:27:53 : LimitlessMc, voice-junk, Crystal4209#4698, its 2 actually see https://www.youtube.com/watch?v=WF-qG_JAiOg
+22 Apr 2017 02:28:09 : LimitlessMc, voice-junk, Crystal4209#4698, its the name of the song xD
+22 Apr 2017 02:28:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ;leave
+22 Apr 2017 02:28:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+22 Apr 2017 02:28:26 : LimitlessMc, botchat, Botfuzzy77#2209, UNAUTHORIZED
+22 Apr 2017 02:28:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ...
+22 Apr 2017 02:28:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ;relog
+22 Apr 2017 02:28:29 : LimitlessMc, botchat, Botfuzzy77#2209, Relogging...

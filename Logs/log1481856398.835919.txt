@@ -1,0 +1,452 @@
+16 Dec 2016 02:46:52 : LimitlessMc, botchat, Wertfuzzy77#0274, and fix 😄
+16 Dec 2016 02:46:56 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+16 Dec 2016 02:47:09 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Hightway to Hell Original
+16 Dec 2016 02:47:11 : LimitlessMc, botchat, Botfuzzy77#2209, Added AC/DC : Highway to hell (Full song) to the queue
+16 Dec 2016 02:47:11 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=k_jCu_u28Ig
+16 Dec 2016 02:47:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Stairway to Heaven
+16 Dec 2016 02:47:25 : LimitlessMc, botchat, Botfuzzy77#2209, Added Stairway to Heaven Led Zeppelin Lyrics to the queue
+16 Dec 2016 02:47:25 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=qHFxncb1gRY
+16 Dec 2016 02:47:32 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+16 Dec 2016 02:47:32 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+16 Dec 2016 02:47:32 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Stairway to Heaven Led Zeppelin Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=qHFxncb1gRY>
+Total Time is 0:08:02
+16 Dec 2016 02:47:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;musicdebug "hello"
+16 Dec 2016 02:47:40 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+hello
+```
+16 Dec 2016 02:47:42 : LimitlessMc, botchat, Wertfuzzy77#0274, cool
+16 Dec 2016 02:47:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;musicdebug self.queue
+16 Dec 2016 02:47:50 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+[(<ProcessPlayer(Thread-12, initial daemon)>, 'Wertfuzzy77')]
+```
+16 Dec 2016 02:47:53 : LimitlessMc, botchat, Wertfuzzy77#0274, fancy
+16 Dec 2016 02:48:06 : LimitlessMc, botchat, ChesireKat#7022, XD
+16 Dec 2016 02:48:07 : LimitlessMc, botchat, Wertfuzzy77#0274, ;clear
+16 Dec 2016 02:48:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ;musicdebug self.queue
+16 Dec 2016 02:48:15 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+[(<ProcessPlayer(Thread-12, initial daemon)>, 'Wertfuzzy77')]
+```
+16 Dec 2016 02:49:00 : LimitlessMc, botchat, Wertfuzzy77#0274, ;musicdebug self.player
+16 Dec 2016 02:49:00 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+<ProcessPlayer(Thread-11, started daemon 139636316960512)>
+```
+16 Dec 2016 02:49:07 : LimitlessMc, botchat, Wertfuzzy77#0274, ;musicdebug self.player.volume
+16 Dec 2016 02:49:08 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+0.6
+```
+16 Dec 2016 02:49:11 : LimitlessMc, botchat, Wertfuzzy77#0274, fancy
+16 Dec 2016 02:49:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ;musicdebug self.player.volume = 1
+16 Dec 2016 02:49:17 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+16 Dec 2016 02:49:19 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+16 Dec 2016 02:49:33 : LimitlessMc, botchat, ChesireKat#7022, ?
+16 Dec 2016 02:49:39 : LimitlessMc, botchat, Wertfuzzy77#0274, ;musicdebug self.player.volume(1)
+16 Dec 2016 02:49:39 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+TypeError: 'float' object is not callable
+```
+16 Dec 2016 02:49:48 : LimitlessMc, botchat, Wertfuzzy77#0274, ;musicdebug self.player.volume.set(1)
+16 Dec 2016 02:49:48 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+AttributeError: 'float' object has no attribute 'set'
+```
+16 Dec 2016 02:49:52 : LimitlessMc, botchat, Wertfuzzy77#0274, didnt think so
+16 Dec 2016 02:50:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;music
+16 Dec 2016 02:50:11 : LimitlessMc, botchat, Botfuzzy77#2209, Version: 0.4.3
+Queue Length: 1
+Radio Mode: False
+Connected Channel: 🎧 Fuzzy Music
+Song Playing: AC/DC : Highway to hell (Full song)
+16 Dec 2016 02:51:27 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio
+16 Dec 2016 02:51:27 : LimitlessMc, botchat, Botfuzzy77#2209, Radio Mode: True
+16 Dec 2016 02:51:31 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+16 Dec 2016 02:51:31 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+16 Dec 2016 02:51:31 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Jimmy Page: How Stairway to Heaven was written - BBC News **Radio**
+	<https://www.youtube.com/watch?v=DDo4CA13LbY>
+Total Time is 0:08:16
+16 Dec 2016 02:51:38 : The Developers, general, panaw#8080, x.x
+16 Dec 2016 02:51:38 : The Developers, general, panaw#8080, http://prntscr.com/dk0gfn
+16 Dec 2016 02:51:45 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Tears in heaven
+16 Dec 2016 02:51:47 : LimitlessMc, botchat, Botfuzzy77#2209, Added [Lyrics] Tears In Heaven -  Eric Clapton to the queue
+16 Dec 2016 02:51:47 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=b6t4Zs5Yq_k
+16 Dec 2016 02:51:52 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 1
+16 Dec 2016 02:51:52 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: Jimmy Page: How Stairway to Heaven was written - BBC News
+16 Dec 2016 02:51:54 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+16 Dec 2016 02:51:54 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+16 Dec 2016 02:51:55 : LimitlessMc, botchat, Botfuzzy77#2209, 1. [Lyrics] Tears In Heaven -  Eric Clapton **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=b6t4Zs5Yq_k>
+Total Time is 0:04:32
+16 Dec 2016 02:59:39 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+16 Dec 2016 02:59:39 : LimitlessMc, botchat, Botfuzzy77#2209, Queue is Empty
+16 Dec 2016 02:59:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+16 Dec 2016 02:59:46 : LimitlessMc, botchat, Botfuzzy77#2209, Queue is Empty
+16 Dec 2016 02:59:48 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio
+16 Dec 2016 02:59:48 : LimitlessMc, botchat, Botfuzzy77#2209, Radio Mode: False
+16 Dec 2016 02:59:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio
+16 Dec 2016 02:59:50 : LimitlessMc, botchat, Botfuzzy77#2209, Radio Mode: True
+16 Dec 2016 02:59:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+16 Dec 2016 02:59:55 : LimitlessMc, botchat, Botfuzzy77#2209, Queue is Empty
+16 Dec 2016 02:59:57 : LimitlessMc, botchat, Wertfuzzy77#0274, ?
+16 Dec 2016 03:00:54 : LimitlessMc, botchat, Wertfuzzy77#0274, ;musicdebug self.useQueue()
+16 Dec 2016 03:01:04 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+16 Dec 2016 03:01:04 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+16 Dec 2016 03:01:04 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Extreme - More Than Words **Radio**
+	<https://www.youtube.com/watch?v=UrIiLvg58SY>
+Total Time is 0:04:17
+16 Dec 2016 03:01:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ayy, we did a thing
+16 Dec 2016 03:01:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;loop
+16 Dec 2016 03:01:51 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*[Lyrics] Tears In Heaven -  Eric Clapton*' **1** more times
+16 Dec 2016 03:01:52 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 2
+16 Dec 2016 03:01:52 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: Extreme - More Than Words
+16 Dec 2016 03:06:29 : The Developers, general, [Pkmn]Jyn♥ᴰᶦˢᵃᵛᵒʷᵉᵈ🎶#8114, Hai?
+16 Dec 2016 03:10:47 : The Developers, general, panaw#8080, hai
+16 Dec 2016 03:11:33 : The Developers, general, [Pkmn]Jyn♥ᴰᶦˢᵃᵛᵒʷᵉᵈ🎶#8114, Hai
+16 Dec 2016 03:13:46 : Pulse, mainchat, Lightning#6734, ya boy did it
+16 Dec 2016 03:13:47 : LimitlessMc, botchat, ChesireKat#7022, ;song
+16 Dec 2016 03:13:47 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Tears in Heaven - Eric Clapton (Memorial ao seu filho)
+**Requester**: Radio
+**URL**: <https://www.youtube.com/watch?v=-guOG8wDCTg>
+```py
+Time: 0:03:36
+Views: 464,281
+Likes: 242, 92.72%
+Dislikes: 19, 7.28%```
+16 Dec 2016 03:13:53 : LimitlessMc, botchat, ChesireKat#7022, ;skip
+16 Dec 2016 03:13:53 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Tears in Heaven - Eric Clapton (Memorial ao seu filho) by request (Radio Song)
+16 Dec 2016 03:14:02 : LimitlessMc, botchat, ChesireKat#7022, ;songs
+16 Dec 2016 03:14:02 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+16 Dec 2016 03:14:02 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Honors Led Zeppelin 2012 - Escalera al cielo (subtitulado en español) **Radio**
+	<https://www.youtube.com/watch?v=EDv7xD0p_Os>
+Total Time is 0:07:01
+16 Dec 2016 03:14:14 : Pulse, mainchat, crystal4209#4698, did what
+16 Dec 2016 03:14:21 : Pulse, mainchat, Lightning#6734, i passed
+16 Dec 2016 03:14:24 : LimitlessMc, botchat, ChesireKat#7022, ;search nightcore the wolf
+16 Dec 2016 03:14:26 : LimitlessMc, botchat, Botfuzzy77#2209, Added Nightcore - The Wolf to the queue
+16 Dec 2016 03:14:26 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=ldNK9xWfCmI
+16 Dec 2016 03:14:30 : Pulse, mainchat, crystal4209#4698, nice
+16 Dec 2016 03:14:32 : LimitlessMc, botchat, ChesireKat#7022, ;skip
+16 Dec 2016 03:14:32 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Tears in heaven Subtitulado al español by request (Radio Song)
+16 Dec 2016 03:14:37 : LimitlessMc, botchat, ChesireKat#7022, ;song
+16 Dec 2016 03:14:37 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Honors Led Zeppelin 2012 - Escalera al cielo (subtitulado en español)
+**Requester**: Radio
+**URL**: <https://www.youtube.com/watch?v=EDv7xD0p_Os>
+```py
+Time: 0:07:01
+Views: 3,250,625
+Likes: 14,697, 97.44%
+Dislikes: 386, 2.56%```
+16 Dec 2016 03:14:43 : LimitlessMc, botchat, ChesireKat#7022, i cri lol
+16 Dec 2016 03:14:46 : LimitlessMc, botchat, ChesireKat#7022, ;songs
+16 Dec 2016 03:14:46 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+16 Dec 2016 03:14:47 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Nightcore - The Wolf **ChesireKat**
+	<https://www.youtube.com/watch?v=ldNK9xWfCmI>
+Total Time is 0:03:52
+16 Dec 2016 03:14:51 : LimitlessMc, botchat, ChesireKat#7022, ;skip
+16 Dec 2016 03:14:51 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Honors Led Zeppelin 2012 - Escalera al cielo (subtitulado en español) by request (Radio Song)
+16 Dec 2016 03:14:57 : LimitlessMc, botchat, ChesireKat#7022, ;loop 2
+16 Dec 2016 03:14:57 : Pulse, mainchat, Lightning#6734, ahh what to do with my life now o.O
+16 Dec 2016 03:14:58 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*Nightcore - The Wolf*' **2** more times
+16 Dec 2016 03:15:20 : Pulse, mainchat, crystal4209#4698, you could help me ev train for the battle frontier
+16 Dec 2016 03:15:47 : Pulse, mainchat, crystal4209#4698, i mean in already breeding for the natures just need to ev train
+16 Dec 2016 03:16:04 : Pulse, mainchat, Lightning#6734, once you get the team yeah i'll help ya
+16 Dec 2016 03:16:22 : Pulse, mainchat, crystal4209#4698, thanks
+16 Dec 2016 03:16:44 : Pulse, mainchat, crystal4209#4698, i mean espeon is done just need to ev train and lvl up
+16 Dec 2016 03:17:10 : Pulse, mainchat, Lightning#6734, i need to breed/train a few pokes for baka and toph
+16 Dec 2016 03:17:18 : Pulse, mainchat, crystal4209#4698, ok
+16 Dec 2016 03:17:31 : Pulse, mainchat, Lightning#6734, gotta take my place as champ y'kno lol
+16 Dec 2016 03:17:42 : Pulse, mainchat, crystal4209#4698, yeah lol
+16 Dec 2016 03:18:52 : Pulse, mainchat, crystal4209#4698, are ya getting on?
+16 Dec 2016 03:19:10 : Pulse, mainchat, Lightning#6734, yeah wil in a bit i'm gonna eat n shower first
+16 Dec 2016 03:19:25 : Pulse, mainchat, crystal4209#4698, ok
+16 Dec 2016 03:33:28 : The Wild Weebs, weeb, Tally#2764, @Nubs (CS311)
+16 Dec 2016 03:33:34 : The Wild Weebs, weeb, Tally#2764, are you guys studying for 311
+16 Dec 2016 03:33:35 : The Wild Weebs, weeb, Tally#2764, ?
+16 Dec 2016 03:34:34 : LimitlessMc, botchat, ChesireKat#7022, ;song
+16 Dec 2016 03:34:35 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: 「Nightcore」→ Never Gonna Catch Me
+**Requester**: Radio
+**URL**: <https://www.youtube.com/watch?v=_0hh08lW8w8>
+```py
+Time: 0:02:54
+Views: 68,673
+Likes: 1,895, 98.75%
+Dislikes: 24, 1.25%```
+16 Dec 2016 03:35:01 : LimitlessMc, botchat, ChesireKat#7022, ;search nightcore never gonna catch me
+16 Dec 2016 03:35:02 : LimitlessMc, botchat, Botfuzzy77#2209, Added 「Nightcore」→ Never Gonna Catch Me to the queue
+16 Dec 2016 03:35:03 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=_0hh08lW8w8
+16 Dec 2016 03:35:07 : LimitlessMc, botchat, ChesireKat#7022, ;songs
+16 Dec 2016 03:35:07 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+16 Dec 2016 03:35:07 : LimitlessMc, botchat, Botfuzzy77#2209, 1. 「Nightcore」→ Alan Walker - Alone【Lyrics】 **Radio**
+	<https://www.youtube.com/watch?v=VUDUadG3S5Q>
+2. 「Nightcore」→ Never Gonna Catch Me **ChesireKat**
+	<https://www.youtube.com/watch?v=_0hh08lW8w8>
+Total Time is 0:05:10
+16 Dec 2016 03:35:14 : LimitlessMc, botchat, ChesireKat#7022, ;skip
+16 Dec 2016 03:35:14 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping 「Nightcore」→ Feel Like This by request (Radio Song)
+16 Dec 2016 03:35:18 : LimitlessMc, botchat, ChesireKat#7022, ;skip
+16 Dec 2016 03:35:18 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping 「Nightcore」→ Alan Walker - Alone【Lyrics】 by request (Radio Song)
+16 Dec 2016 03:35:26 : LimitlessMc, botchat, ChesireKat#7022, ;loop 3
+16 Dec 2016 03:35:27 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*「Nightcore」→ Never Gonna Catch Me*' **3** more times
+16 Dec 2016 03:35:55 : The Wild Weebs, weeb, enragednuke#2565, NOPE
+16 Dec 2016 03:35:58 : The Wild Weebs, weeb, enragednuke#2565, U WANNA KNOW WHAT IM DOING
+16 Dec 2016 03:36:07 : The Wild Weebs, weeb, enragednuke#2565, 
+16 Dec 2016 03:36:07 : The Wild Weebs, weeb, enragednuke#2565, dead
+16 Dec 2016 03:36:08 : The Wild Weebs, weeb, enragednuke#2565, MYTHIC
+16 Dec 2016 03:36:09 : The Wild Weebs, weeb, enragednuke#2565, GUARM
+16 Dec 2016 03:36:13 : The Wild Weebs, weeb, Tally#2764, nice
+16 Dec 2016 03:36:25 : The Wild Weebs, weeb, Tally#2764, i got 59 mil on runescape 😄
+16 Dec 2016 03:36:32 : The Wild Weebs, weeb, Tally#2764, i bought a bunch of shit yesterdya
+16 Dec 2016 03:36:36 : The Wild Weebs, weeb, Tally#2764, now at 55mil
+16 Dec 2016 03:44:01 : LimitlessMc, botchat, ChesireKat#7022, ;loop 6
+16 Dec 2016 03:44:02 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*「Nightcore」→ Never Gonna Catch Me*' **6** more times
+16 Dec 2016 03:52:15 : LimitlessMc, botchat, NarcoticMile#6198, omg
+16 Dec 2016 03:52:19 : LimitlessMc, botchat, NarcoticMile#6198, so manny
+16 Dec 2016 03:52:26 : LimitlessMc, botchat, ChesireKat#7022, 😄
+16 Dec 2016 03:52:29 : LimitlessMc, botchat, ChesireKat#7022, ;songs
+16 Dec 2016 03:52:30 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+16 Dec 2016 03:52:30 : LimitlessMc, botchat, Botfuzzy77#2209, 1. 「Nightcore」→ Never Gonna Catch Me **ChesireKat**
+	<https://www.youtube.com/watch?v=_0hh08lW8w8>
+2. 「Nightcore」→ Never Gonna Catch Me **ChesireKat**
+	<https://www.youtube.com/watch?v=_0hh08lW8w8>
+3. 「Nightcore」→ Never Gonna Catch Me **ChesireKat**
+	<https://www.youtube.com/watch?v=_0hh08lW8w8>
+4. 「Nightcore」→ Never Gonna Catch Me **ChesireKat**
+	<https://www.youtube.com/watch?v=_0hh08lW8w8>
+5. 「Nightcore」→ Into You || Lyrics ✗ **Radio**
+	<https://www.youtube.com/watch?v=xxZt1YGPHqA>
+Total Time is 0:14:58
+16 Dec 2016 03:54:48 : LimitlessMc, botchat, NarcoticMile#6198, have a feeling yu gonna kill some one
+16 Dec 2016 03:57:32 : The Developers, general, panaw#8080, ```diff
+ Red Text
+```
+16 Dec 2016 03:57:35 : The Developers, general, panaw#8080, oh is ee
+16 Dec 2016 03:57:41 : The Developers, general, panaw#8080, ```diff
+- Red Text
+```
+16 Dec 2016 03:57:43 : The Developers, general, panaw#8080, kms
+16 Dec 2016 03:57:45 : The Developers, general, panaw#8080, brb
+16 Dec 2016 03:58:15 : The Developers, general, Nadeko#0312, Don't use a bot for that :3
+16 Dec 2016 04:02:44 : The Developers, general, panaw#8080, im not lol
+16 Dec 2016 04:02:50 : The Developers, general, panaw#8080, just adding it in the welcome
+16 Dec 2016 04:02:51 : The Developers, general, panaw#8080, x3
+16 Dec 2016 04:23:26 : Pulse, mainchat, AlphaBit#3869, alphaweeb>headweeb
+16 Dec 2016 04:23:33 : Pulse, botchat, AlphaBit#3869, .srbr
+16 Dec 2016 04:23:34 : Pulse, botchat, LightBot#4090, Dont Be Lazy, Type .server
+16 Dec 2016 04:23:37 : Pulse, mainchat, crystal4209#4698, 
+16 Dec 2016 04:23:37 : Pulse, botchat, AlphaBit#3869, .server
+16 Dec 2016 04:23:38 : Pulse, botchat, LightBot#4090, **Server IP**: mc.limitlessmc.net
+16 Dec 2016 04:23:38 : Pulse, botchat, LightBot#4090, **Server Status**
+ *Online Players*: 14 players out of 100
+ *Ping*: 129.519 ms
+ *MC Version*: 1.10.2
+16 Dec 2016 04:23:38 : Pulse, botchat, LightBot#4090, **Players Online**:
+ *Cody_Kinard, crystal4209, TheCrazyMage, allianths, Skyd_, Bakafish, Myalo, Omega_Cirno, Jabulla, Chesire_Kat, MattRuc, Nickymon...*
+16 Dec 2016 04:24:00 : Pulse, mainchat, AlphaBit#3869, lo
+16 Dec 2016 04:24:03 : Pulse, mainchat, NarcoticMile#6198, lololol
+16 Dec 2016 04:24:07 : Pulse, mainchat, Lightning#6734, i'll deal with him...
+16 Dec 2016 04:24:21 : Pulse, mainchat, crystal4209#4698, i got proof for everything
+16 Dec 2016 04:24:24 : Pulse, mainchat, Lightning#6734, this is getting rediculous
+16 Dec 2016 04:24:31 : Pulse, mainchat, crystal4209#4698, because i screenshot things
+16 Dec 2016 04:24:43 : Pulse, mainchat, Lightning#6734, an hey alpha
+16 Dec 2016 04:26:41 : The Wild Weebs, weeb, Wertfuzzy77#0274, http://www.digitaltrends.com/home/gatebox-azuma-hikari-virtual-assistant-news/
+16 Dec 2016 04:26:54 : The Wild Weebs, weeb, Wertfuzzy77#0274, For all the weebs everywhere
+16 Dec 2016 04:28:48 : The Wild Weebs, weeb, Tally#2764, hell yes
+16 Dec 2016 04:28:49 : The Wild Weebs, weeb, Tally#2764, wanty
+16 Dec 2016 04:28:52 : The Wild Weebs, weeb, Tally#2764, for my waifu
+16 Dec 2016 04:29:13 : The Wild Weebs, weeb, Wertfuzzy77#0274, same
+16 Dec 2016 04:30:01 : Pulse, mainchat, Wertfuzzy77#0274, http://www.digitaltrends.com/home/gatebox-azuma-hikari-virtual-assistant-news/
+16 Dec 2016 04:30:04 : Pulse, mainchat, Wertfuzzy77#0274, For all the weebs
+16 Dec 2016 04:30:23 : Pulse, mainchat, NarcoticMile#6198, lolol
+16 Dec 2016 04:30:28 : Pulse, mainchat, ChesireKat#7022, XD
+16 Dec 2016 04:30:30 : Pulse, mainchat, crystal4209#4698, and are you one of them?
+16 Dec 2016 04:30:45 : Pulse, mainchat, Wertfuzzy77#0274, ofc, me wants
+16 Dec 2016 04:30:53 : Pulse, mainchat, NarcoticMile#6198, wet buy me one
+16 Dec 2016 04:30:56 : Pulse, mainchat, Wertfuzzy77#0274, watch the video, its adorable
+16 Dec 2016 04:31:38 : Pulse, mainchat, AlphaBit#3869, whola
+16 Dec 2016 04:32:21 : Pulse, mainchat, ChesireKat#7022, yea i need that
+16 Dec 2016 04:33:53 : Pulse, mainchat, crystal4209#4698, awww i want one
+16 Dec 2016 04:34:12 : Pulse, mainchat, AlphaBit#3869, weebsu
+16 Dec 2016 04:36:12 : Pulse, mainchat, Wertfuzzy77#0274, `Designed by Taro Minoboshi, who is known for working on Konami’s Love Plus dating sim game series, the Azuma Hikari character is 20 years-old, according to her own website, and enjoys watching anime and eating donuts, but isn’t a fan of insects. Her dream is to become a heroine for anyone working hard. Keeping people company, in any fashion at all, is where Hikari will be best put to work.`
+16 Dec 2016 04:36:18 : Pulse, mainchat, Wertfuzzy77#0274, basically for weeb
+16 Dec 2016 04:37:25 : Pulse, mainchat, crystal4209#4698, lol still want one
+16 Dec 2016 04:37:35 : Pulse, mainchat, Wertfuzzy77#0274, same
+16 Dec 2016 04:38:49 : Pulse, mainchat, crystal4209#4698, im proud to be a weeb
+16 Dec 2016 04:45:14 : Pulse, mainchat, Wertfuzzy77#0274, also same
+16 Dec 2016 04:51:55 : Pulse, mainchat, AlphaBit#3869, welp
+16 Dec 2016 04:52:11 : Pulse, mainchat, AlphaBit#3869, probs gonna binge watch one piece from start
+16 Dec 2016 04:52:16 : Pulse, mainchat, AlphaBit#3869, lo
+16 Dec 2016 04:52:29 : Pulse, mainchat, NarcoticMile#6198, samee
+16 Dec 2016 04:54:25 : LimitlessMc, mainchat, Botfuzzy77#2209, Welcome @half to LimitlessMc!
+16 Dec 2016 04:54:26 : LimitlessMc, mainchat, Gerald#7099, ​A meowth welcome to @half
+16 Dec 2016 04:57:54 : LimitlessMc, mainchat, half#2769, oh thank you 😄
+16 Dec 2016 04:59:28 : LimitlessMc, mainchat, AlphaBit#3869, hep
+16 Dec 2016 04:59:29 : LimitlessMc, mainchat, AlphaBit#3869, hep
+16 Dec 2016 04:59:57 : LimitlessMc, mainchat, AlphaBit#3869, HEO
+16 Dec 2016 05:00:00 : Pulse, mainchat, crystal4209#4698, gl
+16 Dec 2016 05:00:38 : LimitlessMc, mainchat, Lightning#6734, o i hep
+16 Dec 2016 05:00:47 : LimitlessMc, mainchat, AlphaBit#3869, remove yer statues lo
+16 Dec 2016 05:01:25 : LimitlessMc, mainchat, Lightning#6734, le i did
+16 Dec 2016 05:05:59 : The Developers, general, Nadeko#0312, Oh xD
+16 Dec 2016 05:06:15 : Pulse, mainchat, ChesireKat#7022, XD feels good just catch mew
+16 Dec 2016 05:07:05 : LimitlessMc, botchat, ChesireKat#7022, O.o how did you know
+16 Dec 2016 05:07:23 : LimitlessMc, botchat, ChesireKat#7022, ;search nigthcore never gonna catch me
+16 Dec 2016 05:07:26 : LimitlessMc, botchat, Botfuzzy77#2209, Added 「Nightcore」→ Never Gonna Catch Me to the queue
+16 Dec 2016 05:07:26 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=_0hh08lW8w8
+16 Dec 2016 05:07:28 : LimitlessMc, botchat, ChesireKat#7022, ;songs
+16 Dec 2016 05:07:28 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+16 Dec 2016 05:07:29 : LimitlessMc, botchat, Botfuzzy77#2209, 1. 「Nightcore」→ Bang Bang (Switching Vocals) || Mystic Messenger **Radio**
+	<https://www.youtube.com/watch?v=o05j4V4e9M0>
+2. 「Nightcore」→ Never Gonna Catch Me **ChesireKat**
+	<https://www.youtube.com/watch?v=_0hh08lW8w8>
+Total Time is 0:05:37
+16 Dec 2016 05:07:36 : LimitlessMc, botchat, ChesireKat#7022, ;remove 1
+16 Dec 2016 05:07:36 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: 「Nightcore」→ Bang Bang (Switching Vocals) || Mystic Messenger
+16 Dec 2016 05:07:41 : LimitlessMc, botchat, ChesireKat#7022, ;skip
+16 Dec 2016 05:07:41 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping 「Nightcore」→ Human/Jar Of Hearts (Switching Vocals) MASHUP || Undertale by request (Radio Song)
+16 Dec 2016 05:07:43 : The Developers, general, [Pᴋᴍɴ]Jyn♥ᴰᶦˢᵃᵛᵒʷᵉᵈ#8114, I'm back
+16 Dec 2016 05:07:50 : LimitlessMc, botchat, ChesireKat#7022, ;loop 10
+16 Dec 2016 05:07:51 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*「Nightcore」→ Never Gonna Catch Me*' **10** more times
+16 Dec 2016 05:08:01 : The Developers, general, Nadeko#0312, You're late
+16 Dec 2016 05:08:13 : The Developers, general, [Pᴋᴍɴ]Jyn♥ᴰᶦˢᵃᵛᵒʷᵉᵈ#8114, No I had to um...
+16 Dec 2016 05:08:22 : The Developers, general, panaw#8080, bruh someone having sex with a bot in my discord KMS
+16 Dec 2016 05:08:25 : The Developers, general, panaw#8080, so much CRINGE
+16 Dec 2016 05:08:29 : The Developers, general, [Pᴋᴍɴ]Jyn♥ᴰᶦˢᵃᵛᵒʷᵉᵈ#8114, I had to go eat
+16 Dec 2016 05:08:30 : The Developers, general, Nadeko#0312, Lemme see
+16 Dec 2016 05:08:36 : The Developers, general, Nadeko#0312, @panaw
+16 Dec 2016 05:08:49 : The Developers, general, panaw#8080, http://prntscr.com/dk1c2e
+16 Dec 2016 05:09:02 : LimitlessMc, mainchat, Wertfuzzy77#0274, xD Broken Statute, rip
+16 Dec 2016 05:09:02 : The Developers, general, Nadeko#0312, XD
+16 Dec 2016 05:09:03 : The Developers, general, panaw#8080, http://prntscr.com/dk1c4u
+16 Dec 2016 05:09:06 : The Developers, general, GenericInternetRapper#8525, Anime people having sex...
+16 Dec 2016 05:09:08 : The Developers, general, panaw#8080, DEAD
+16 Dec 2016 05:09:20 : The Developers, general, Nadeko#0312, I'm cheesed xD
+16 Dec 2016 05:09:26 : Pulse, mainchat, Wertfuzzy77#0274, isnt one piece like several hundred episodes
+16 Dec 2016 05:09:28 : The Developers, general, panaw#8080, bruhh im like wtf
+16 Dec 2016 05:09:41 : The Developers, general, GenericInternetRapper#8525, https://www.youtube.com/watch?v=SZIhIs1I3ZE
+16 Dec 2016 05:09:50 : The Developers, general, GenericInternetRapper#8525, wtf is this shit
+16 Dec 2016 05:09:52 : The Wild Weebs, weeb, Wertfuzzy77#0274, ?source
+16 Dec 2016 05:09:56 : The Wild Weebs, weeb, Wertfuzzy77#0274, ?help
+16 Dec 2016 05:09:59 : The Developers, general, Nadeko#0312, Dunno :3
+16 Dec 2016 05:10:28 : The Wild Weebs, weeb, Wertfuzzy77#0274, ?commands
+16 Dec 2016 05:10:35 : The Developers, general, [Pᴋᴍɴ]Jyn♥ᴰᶦˢᵃᵛᵒʷᵉᵈ#8114, I'm Watching A Video :3
+16 Dec 2016 05:10:41 : Pulse, mainchat, AlphaBit#3869, 768 atm
+16 Dec 2016 05:10:45 : Pulse, mainchat, AlphaBit#3869, i have 1-623
+16 Dec 2016 05:10:48 : Pulse, mainchat, Wertfuzzy77#0274, well then
+16 Dec 2016 05:11:03 : Pulse, mainchat, Wertfuzzy77#0274, I would assume like 95% of it is filler eps
+16 Dec 2016 05:11:04 : Pulse, mainchat, Wertfuzzy77#0274, not worth
+16 Dec 2016 05:11:20 : Pulse, mainchat, Wertfuzzy77#0274, rather watch an A+ 24 episode show
+16 Dec 2016 05:11:23 : The Developers, general, GenericInternetRapper#8525, Apparently...
+16 Dec 2016 05:11:30 : Pulse, mainchat, AlphaBit#3869, probs gonna skip a lot of eps
+16 Dec 2016 05:11:34 : The Developers, general, GenericInternetRapper#8525, The math teacher is a pervert that grabs the student's boob.
+16 Dec 2016 05:11:39 : The Developers, general, [Pᴋᴍɴ]Jyn♥ᴰᶦˢᵃᵛᵒʷᵉᵈ#8114, D
+16 Dec 2016 05:11:41 : The Developers, general, [Pᴋᴍɴ]Jyn♥ᴰᶦˢᵃᵛᵒʷᵉᵈ#8114, XD
+16 Dec 2016 05:11:43 : The Developers, general, GenericInternetRapper#8525, paedophilia at its finest
+16 Dec 2016 05:11:43 : LimitlessMc, botchat, NarcoticMile#6198, omg this song over and over
+16 Dec 2016 05:11:53 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+16 Dec 2016 05:11:53 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+16 Dec 2016 05:11:53 : LimitlessMc, botchat, Botfuzzy77#2209, 1. 「Nightcore」→ Never Gonna Catch Me **ChesireKat**
+	<https://www.youtube.com/watch?v=_0hh08lW8w8>
+2. 「Nightcore」→ Never Gonna Catch Me **ChesireKat**
+	<https://www.youtube.com/watch?v=_0hh08lW8w8>
+3. 「Nightcore」→ Never Gonna Catch Me **ChesireKat**
+	<https://www.youtube.com/watch?v=_0hh08lW8w8>
+4. 「Nightcore」→ Never Gonna Catch Me **ChesireKat**
+	<https://www.youtube.com/watch?v=_0hh08lW8w8>
+5. 「Nightcore」→ Never Gonna Catch Me **ChesireKat**
+	<https://www.youtube.com/watch?v=_0hh08lW8w8>
+6. 「Nightcore」→ Never Gonna Catch Me **ChesireKat**
+	<https://www.youtube.com/watch?v=_0hh08lW8w8>
+7. 「Nightcore」→ Never Gonna Catch Me **ChesireKat**
+	<https://www.youtube.com/watch?v=_0hh08lW8w8>
+8. 「Nightcore」→ Never Gonna Catch Me **ChesireKat**
+	<https://www.youtube.com/watch?v=_0hh08lW8w8>
+9. 「Nightcore」→ Never Gonna Catch Me **ChesireKat**
+	<https://www.youtube.com/watch?v=_0hh08lW8w8>
+10. 「Nightcore」→ Bad Hero (LFZ Remix) **Radio**
+	<https://www.youtube.com/watch?v=KWmShaIIF0I>
+Total Time is 0:31:21
+16 Dec 2016 05:11:56 : LimitlessMc, botchat, Wertfuzzy77#0274, well then
+16 Dec 2016 05:11:59 : LimitlessMc, botchat, ChesireKat#7022, 😄
+16 Dec 2016 05:12:05 : LimitlessMc, botchat, ChesireKat#7022, i like this one
+16 Dec 2016 05:12:09 : The Developers, general, panaw#8080, oh shit
+16 Dec 2016 05:12:10 : The Developers, general, panaw#8080, http://prntscr.com/dk1csn
+16 Dec 2016 05:12:12 : The Developers, general, panaw#8080, rejected
+16 Dec 2016 05:12:16 : The Developers, general, panaw#8080, by a fucking bot
+16 Dec 2016 05:12:17 : LimitlessMc, botchat, Wertfuzzy77#0274, So i have yet to properly study
+16 Dec 2016 05:12:17 : The Developers, general, panaw#8080, x.x
+16 Dec 2016 05:12:26 : LimitlessMc, botchat, ChesireKat#7022, rip
+16 Dec 2016 05:12:28 : LimitlessMc, botchat, ChesireKat#7022, 😛
+16 Dec 2016 05:12:32 : LimitlessMc, botchat, ChesireKat#7022, @Wertfuzzy77
+16 Dec 2016 05:12:32 : LimitlessMc, botchat, Wertfuzzy77#0274, been procrastinating for the last few hours
+16 Dec 2016 05:12:34 : LimitlessMc, mainchat, Lightning#6734, yep
+16 Dec 2016 05:12:35 : The Developers, general, GenericInternetRapper#8525, Dyno is a whore.
+16 Dec 2016 05:12:35 : LimitlessMc, botchat, Wertfuzzy77#0274, ;afk
+16 Dec 2016 05:12:38 : LimitlessMc, botchat, Wertfuzzy77#0274, hmm
+16 Dec 2016 05:12:39 : The Developers, general, GenericInternetRapper#8525, Don't worry.
+16 Dec 2016 05:12:39 : LimitlessMc, mainchat, Lightning#6734, i fixed tho lel
+16 Dec 2016 05:12:42 : LimitlessMc, botchat, ChesireKat#7022, O.o
+16 Dec 2016 05:12:49 : LimitlessMc, botchat, ChesireKat#7022, isnt it supposed to say ur afk
+16 Dec 2016 05:12:52 : LimitlessMc, botchat, Wertfuzzy77#0274, it is
+16 Dec 2016 05:12:53 : LimitlessMc, botchat, ChesireKat#7022, if i mention you?
+16 Dec 2016 05:12:56 : LimitlessMc, botchat, Wertfuzzy77#0274, it got a key error
+16 Dec 2016 05:12:57 : The Developers, general, panaw#8080, lmfaoo
+16 Dec 2016 05:12:58 : LimitlessMc, botchat, ChesireKat#7022, broke
+16 Dec 2016 05:13:14 : LimitlessMc, botchat, Wertfuzzy77#0274, ;afk
+16 Dec 2016 05:13:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;afk Reason
+16 Dec 2016 05:13:20 : LimitlessMc, botchat, Botfuzzy77#2209, Wertfuzzy77 is now AFK for reason:
+**Reason**
+16 Dec 2016 05:13:21 : The Developers, general, [Pᴋᴍɴ]Jyn♥ᴰᶦˢᵃᵛᵒʷᵉᵈ#8114, xD
+16 Dec 2016 05:13:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ;afk
+16 Dec 2016 05:13:22 : LimitlessMc, botchat, Botfuzzy77#2209, Wertfuzzy77 is no Longer AFK
+16 Dec 2016 05:13:25 : LimitlessMc, botchat, ChesireKat#7022, ;-; zigzagsloth is starting to creep me out
+16 Dec 2016 05:13:27 : LimitlessMc, botchat, Wertfuzzy77#0274, interesting
+16 Dec 2016 05:13:29 : LimitlessMc, botchat, ChesireKat#7022, go afk
+16 Dec 2016 05:13:34 : LimitlessMc, botchat, Wertfuzzy77#0274, ;afk test
+16 Dec 2016 05:13:34 : LimitlessMc, botchat, Botfuzzy77#2209, Wertfuzzy77 is now AFK for reason:
+**test**
+16 Dec 2016 05:13:36 : LimitlessMc, botchat, ChesireKat#7022, @Wertfuzzy77  test 😛
+16 Dec 2016 05:13:36 : LimitlessMc, botchat, Botfuzzy77#2209, Wertfuzzy77 is afk for reason:
+**test**
+16 Dec 2016 05:13:37 : LimitlessMc, botchat, Wertfuzzy77#0274, @Wertfuzzy77
+16 Dec 2016 05:13:37 : LimitlessMc, botchat, Botfuzzy77#2209, Wertfuzzy77 is afk for reason:
+**test**
+16 Dec 2016 05:13:40 : LimitlessMc, botchat, ChesireKat#7022, there we go
+16 Dec 2016 05:13:43 : LimitlessMc, botchat, Wertfuzzy77#0274, weird
+16 Dec 2016 05:13:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ;afk
+16 Dec 2016 05:13:47 : LimitlessMc, botchat, Botfuzzy77#2209, Wertfuzzy77 is no Longer AFK
+16 Dec 2016 05:13:49 : LimitlessMc, botchat, ChesireKat#7022, i guess you where afk to long?
+16 Dec 2016 05:13:55 : LimitlessMc, botchat, Wertfuzzy77#0274, shouldnt make a diff
+16 Dec 2016 05:14:00 : LimitlessMc, botchat, ChesireKat#7022, spooky
+16 Dec 2016 05:14:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+16 Dec 2016 05:14:02 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+16 Dec 2016 05:14:02 : LimitlessMc, botchat, Botfuzzy77#2209, 1. 「Nightcore」→ Never Gonna Catch Me **ChesireKat**
+	<https://www.youtube.com/watch?v=_0hh08lW8w8>
+2. 「Nightcore」→ Never Gonna Catch Me **ChesireKat**
+	<https://www.youtube.com/watch?v=_0hh08lW8w8>
+3. 「Nightcore」→ Never Gonna Catch Me **ChesireKat**
+	<https://www.youtube.com/watch?v=_0hh08lW8w8>
+4. 「Nightcore」→ Never Gonna Catch Me **ChesireKat**
+	<https://www.youtube.com/watch?v=_0hh08lW8w8>
+5. 「Nightcore」→ Never Gonna Catch Me **ChesireKat**
+	<https://www.youtube.com/watch?v=_0hh08lW8w8>
+6. 「Nightcore」→ Never Gonna Catch Me **ChesireKat**
+	<https://www.youtube.com/watch?v=_0hh08lW8w8>
+7. 「Nightcore」→ Never Gonna Catch Me **ChesireKat**
+	<https://www.youtube.com/watch?v=_0hh08lW8w8>
+8. 「Nightcore」→ Never Gonna Catch Me **ChesireKat**
+	<https://www.youtube.com/watch?v=_0hh08lW8w8>
+9. 「Nightcore」→ Bad Hero (LFZ Remix) **Radio**
+	<https://www.youtube.com/watch?v=KWmShaIIF0I>
+Total Time is 0:28:27
+16 Dec 2016 05:14:08 : LimitlessMc, botchat, ChesireKat#7022, 😄
+16 Dec 2016 05:14:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Never gonna give you up
+16 Dec 2016 05:14:15 : LimitlessMc, botchat, Botfuzzy77#2209, Added Rick Astley Never gonna give you up lyrics!!! to the queue
+16 Dec 2016 05:14:15 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=6_b7RDuLwcI
+16 Dec 2016 05:14:20 : LimitlessMc, botchat, ChesireKat#7022, ;remove 2
+16 Dec 2016 05:14:26 : LimitlessMc, botchat, ChesireKat#7022, ;remove 3
+16 Dec 2016 05:14:29 : LimitlessMc, botchat, ChesireKat#7022, ;remove 4
+16 Dec 2016 05:14:32 : LimitlessMc, botchat, ChesireKat#7022, ;remove 5
+16 Dec 2016 05:14:36 : LimitlessMc, botchat, ChesireKat#7022, ;remove 6
+16 Dec 2016 05:14:36 : LimitlessMc, botchat, Botfuzzy77#2209, You must be the requester of the song to remove it from queue!
+16 Dec 2016 05:14:38 : LimitlessMc, mainchat, AlphaBit#3869, fuk im still crashing
+16 Dec 2016 05:14:40 : LimitlessMc, mainchat, AlphaBit#3869, ;-;
+16 Dec 2016 05:14:40 : LimitlessMc, botchat, Wertfuzzy77#0274, wow, the spam is real

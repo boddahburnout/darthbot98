@@ -1,0 +1,48 @@
+13 Jul 2016 19:30:03 : Cipher , Wertfuzzy77#0274 , ;join
+13 Jul 2016 19:30:09 : Cipher , Wertfuzzy77#0274 , ;playlist Maroon
+13 Jul 2016 19:30:14 : Cipher , Botfuzzy77#2209 , Finished Adding songs from playlist(s)
+13 Jul 2016 19:30:20 : Cipher , Wertfuzzy77#0274 , ;songs
+13 Jul 2016 19:30:20 : Cipher , Botfuzzy77#2209 , The Following songs are in the Queue
+13 Jul 2016 19:30:20 : Cipher , Botfuzzy77#2209 , Maroon 5 - Moves Like Jagger ft. Christina Aguilera (https://www.youtube.com/watch?v=iEPTlhBmwRg)
+Maroon 5 - Payphone (Explicit) ft. Wiz Khalifa (https://www.youtube.com/watch?v=KRaWnd3LJfs)
+Maroon 5 - Sugar (https://www.youtube.com/watch?v=09R8_2nJtjg)
+Maroon 5 - Maps (Explicit) (https://www.youtube.com/watch?v=NmugSMBh_iI)
+
+13 Jul 2016 19:30:29 : Cipher , Wertfuzzy77#0274 , ;shuffle
+13 Jul 2016 19:30:29 : Cipher , Botfuzzy77#2209 , Shuffling songs...
+13 Jul 2016 19:30:31 : Cipher , Wertfuzzy77#0274 , ;songs
+13 Jul 2016 19:30:31 : Cipher , Botfuzzy77#2209 , The Following songs are in the Queue
+13 Jul 2016 19:30:31 : Cipher , Botfuzzy77#2209 , Maroon 5 - Payphone (Explicit) ft. Wiz Khalifa (https://www.youtube.com/watch?v=KRaWnd3LJfs)
+Maroon 5 - Sugar (https://www.youtube.com/watch?v=09R8_2nJtjg)
+Maroon 5 - Maps (Explicit) (https://www.youtube.com/watch?v=NmugSMBh_iI)
+Maroon 5 - Moves Like Jagger ft. Christina Aguilera (https://www.youtube.com/watch?v=iEPTlhBmwRg)
+
+13 Jul 2016 19:30:44 : Cipher , Wertfuzzy77#0274 , ;join
+13 Jul 2016 19:30:44 : Cipher , Botfuzzy77#2209 , Sorry, I'm already connected to a channel
+13 Jul 2016 19:31:05 : Cipher , Wertfuzzy77#0274 , ;skip
+13 Jul 2016 19:31:05 : Cipher , Botfuzzy77#2209 , Skipping Maroon 5 - Animals
+13 Jul 2016 19:31:17 : Cipher , Wertfuzzy77#0274 , yaaaaa
+13 Jul 2016 19:31:18 : Cipher , Wertfuzzy77#0274 , no crash
+13 Jul 2016 19:31:20 : Cipher , Wertfuzzy77#0274 , ;songs
+13 Jul 2016 19:31:20 : Cipher , Botfuzzy77#2209 , The Following songs are in the Queue
+13 Jul 2016 19:31:20 : Cipher , Botfuzzy77#2209 , Maroon 5 - Sugar (https://www.youtube.com/watch?v=09R8_2nJtjg)
+Maroon 5 - Maps (Explicit) (https://www.youtube.com/watch?v=NmugSMBh_iI)
+Maroon 5 - Moves Like Jagger ft. Christina Aguilera (https://www.youtube.com/watch?v=iEPTlhBmwRg)
+
+13 Jul 2016 19:32:05 : Cipher , Jabulla#3761 , <@!180158716895690752>  You ded man?
+13 Jul 2016 19:34:12 : LimitlessMc , xPalkia(lugia)#8149 , rip server again?
+13 Jul 2016 19:48:51 : The Pleb Privateers , enragednuke#2565 , so rank did still matter
+13 Jul 2016 19:49:35 : LimitlessMc , Botfuzzy77#2209 , Welcome <@178524531575619584> to LimitlessMc!
+13 Jul 2016 19:50:23 : LimitlessMc , Stigma#4078 , Yo fellas im having troubles on launching the client
+13 Jul 2016 19:50:33 : LimitlessMc , Stigma#4078 , this shit crashes
+13 Jul 2016 19:53:39 : Cipher , Wertfuzzy77#0274 , ;song
+13 Jul 2016 19:53:39 : Cipher , Botfuzzy77#2209 , ```Name: Maroon 5 - Moves Like Jagger ft. Christina Aguilera
+URL: <https://www.youtube.com/watch?v=iEPTlhBmwRg>
+Views: 431,158,239
+Likes: 1,408,424, 96.15%
+Dislikes: 56,389, 3.85%
+```
+13 Jul 2016 19:53:43 : Cipher , Wertfuzzy77#0274 , ;songs
+13 Jul 2016 19:53:43 : Cipher , Botfuzzy77#2209 , Queue is Empty
+13 Jul 2016 19:53:46 : Cipher , Wertfuzzy77#0274 , ;relog
+13 Jul 2016 19:53:46 : Cipher , Botfuzzy77#2209 , Relogging...

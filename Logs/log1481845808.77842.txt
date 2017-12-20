@@ -1,0 +1,1033 @@
+15 Dec 2016 23:50:16 : LimitlessMc, botchat, Wertfuzzy77#0274, fixed some of the crashes
+15 Dec 2016 23:50:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ;jon
+15 Dec 2016 23:50:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+15 Dec 2016 23:50:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=gFtb3EtjEic
+15 Dec 2016 23:50:27 : LimitlessMc, botchat, Botfuzzy77#2209, Added Andy Williams - It's The Most Wonderful Time Of The Year to the queue
+15 Dec 2016 23:50:35 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio
+15 Dec 2016 23:50:35 : LimitlessMc, botchat, Botfuzzy77#2209, Radio Mode: True
+15 Dec 2016 23:50:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+15 Dec 2016 23:50:40 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+15 Dec 2016 23:50:40 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Feliz Navidad **Radio**
+	<https://www.youtube.com/watch?v=ihW56Xa3XGQ>
+Total Time is 0:03:03
+15 Dec 2016 23:50:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search The Banana boat song
+15 Dec 2016 23:50:52 : LimitlessMc, botchat, Botfuzzy77#2209, Added Banana Boat song to the queue
+15 Dec 2016 23:50:52 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=LVUcz6wPrCs
+15 Dec 2016 23:50:56 : LimitlessMc, botchat, Wertfuzzy77#0274, 😛
+15 Dec 2016 23:51:00 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 1
+15 Dec 2016 23:51:00 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: Feliz Navidad
+15 Dec 2016 23:53:07 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+15 Dec 2016 23:53:07 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Banana Boat song
+**Requester**: Wertfuzzy77
+**URL**: <https://www.youtube.com/watch?v=LVUcz6wPrCs>
+```py
+Time: 0:03:00
+Views: 4,191,577
+Likes: 17,219, 96.06%
+Dislikes: 707, 3.94%```
+15 Dec 2016 23:53:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ;loop 2
+15 Dec 2016 23:53:11 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*Banana Boat song*' **2** more times
+16 Dec 2016 00:01:34 : LimitlessMc, botchat, Wertfuzzy77#0274, ;loop
+16 Dec 2016 00:01:35 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*Banana Boat song*' **1** more times
+16 Dec 2016 00:05:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+16 Dec 2016 00:05:22 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Harry Belafonte - Jump in the line
+**Requester**: Radio
+**URL**: <https://www.youtube.com/watch?v=e2BWd2S-vA0>
+```py
+Time: 0:03:53
+Views: 600,585
+Likes: 3,802, 97.29%
+Dislikes: 106, 2.71%```
+16 Dec 2016 00:05:33 : LimitlessMc, botchat, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=LVUcz6wPrCs
+16 Dec 2016 00:05:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ;loop 10
+16 Dec 2016 00:05:37 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*Banana Boat song*' **10** more times
+16 Dec 2016 00:17:33 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=gFtb3EtjEic
+16 Dec 2016 00:17:34 : LimitlessMc, botchat, Botfuzzy77#2209, Added Andy Williams - It's The Most Wonderful Time Of The Year to the queue
+16 Dec 2016 00:35:31 : LimitlessMc, botchat, Third_Worm#4804, .join
+16 Dec 2016 00:35:31 : LimitlessMc, botchat, LightBot#4090, Sorry, I'm already connected to a channel in server LimitlessMc
+16 Dec 2016 00:35:49 : LimitlessMc, botchat, Third_Worm#4804, *sigh*
+16 Dec 2016 00:35:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ayy, the phantom music bot bug
+16 Dec 2016 00:35:55 : LimitlessMc, botchat, Third_Worm#4804, Lol
+16 Dec 2016 00:35:57 : LimitlessMc, botchat, Wertfuzzy77#0274, gotta love it
+16 Dec 2016 00:36:01 : LimitlessMc, botchat, Wertfuzzy77#0274, .reload
+16 Dec 2016 00:36:02 : LimitlessMc, botchat, LightBot#4090, Reloaded all Modules
+16 Dec 2016 00:36:03 : LimitlessMc, botchat, Wertfuzzy77#0274, there
+16 Dec 2016 00:36:08 : LimitlessMc, botchat, Third_Worm#4804, .jlin
+16 Dec 2016 00:36:11 : LimitlessMc, botchat, Third_Worm#4804, .join
+16 Dec 2016 00:36:15 : LimitlessMc, botchat, Third_Worm#4804, Thanks
+16 Dec 2016 00:36:18 : LimitlessMc, botchat, Wertfuzzy77#0274, np
+16 Dec 2016 00:36:23 : LimitlessMc, botchat, Wertfuzzy77#0274, I know how to fix my own bow 😉
+16 Dec 2016 00:36:47 : LimitlessMc, botchat, Third_Worm#4804, .search Feel Invincible Skillet
+16 Dec 2016 00:36:49 : LimitlessMc, botchat, Third_Worm#4804, Lol
+16 Dec 2016 00:36:50 : LimitlessMc, botchat, LightBot#4090, Added Skillet: Feel Invincible (Lyrics) to the queue
+16 Dec 2016 00:36:50 : LimitlessMc, botchat, LightBot#4090, https://www.youtube.com/watch?v=Sf9NSd_2avA
+16 Dec 2016 00:36:54 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+16 Dec 2016 00:36:54 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Banana Boat song
+**Requester**: Wertfuzzy77
+**URL**: <https://www.youtube.com/watch?v=LVUcz6wPrCs>
+```py
+Time: 0:03:00
+Views: 4,191,577
+Likes: 17,219, 96.06%
+Dislikes: 707, 3.94%```
+16 Dec 2016 00:36:58 : LimitlessMc, botchat, Wertfuzzy77#0274, 😛
+16 Dec 2016 00:37:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+16 Dec 2016 00:37:01 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+16 Dec 2016 00:37:01 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Harry Belafonte  Day-O ( Banana Boat ) **Radio**
+	<https://www.youtube.com/watch?v=iMTNT_BzkdA>
+2. Andy Williams - It's The Most Wonderful Time Of The Year **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=gFtb3EtjEic>
+Total Time is 0:05:58
+16 Dec 2016 00:37:06 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 1
+16 Dec 2016 00:37:06 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: Harry Belafonte  Day-O ( Banana Boat )
+16 Dec 2016 00:37:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+16 Dec 2016 00:37:10 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Banana Boat song by request of the requester
+16 Dec 2016 00:37:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ive listened to this like 15 times in a row now... enough
+16 Dec 2016 00:37:32 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+16 Dec 2016 00:37:33 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Andy Williams - It's The Most Wonderful Time Of The Year
+**Requester**: Wertfuzzy77
+**URL**: <https://www.youtube.com/watch?v=gFtb3EtjEic>
+```py
+Time: 0:02:32
+Views: 16,557,964
+Likes: 33,779, 96.26%
+Dislikes: 1,311, 3.74%```
+16 Dec 2016 00:37:34 : LimitlessMc, botchat, Wertfuzzy77#0274, 😄
+16 Dec 2016 00:37:36 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+16 Dec 2016 00:37:36 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+16 Dec 2016 00:37:37 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Nat King Cole - Chestnuts roasting on an open fire **Radio**
+	<https://www.youtube.com/watch?v=dhzxQCTCI3E>
+Total Time is 0:03:10
+16 Dec 2016 00:37:42 : LimitlessMc, botchat, Third_Worm#4804, Heh
+16 Dec 2016 00:38:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=mN7LW0Y00kE
+16 Dec 2016 00:38:04 : LimitlessMc, botchat, Botfuzzy77#2209, Added Dean Martin - Let it Snow! to the queue
+16 Dec 2016 00:38:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=J-8VCL4uSUc
+16 Dec 2016 00:38:23 : LimitlessMc, botchat, Botfuzzy77#2209, Added Train - Shake up Christmas to the queue
+16 Dec 2016 00:38:39 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=nZ6yQgBvuoI
+16 Dec 2016 00:38:40 : LimitlessMc, botchat, Botfuzzy77#2209, Added "Have Yourself a Merry Little Christmas" by Frank Sinatra to the queue
+16 Dec 2016 00:39:00 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=z1rYmzQ8C9Q
+16 Dec 2016 00:39:00 : LimitlessMc, botchat, Botfuzzy77#2209, Added Coldplay - Christmas Lights to the queue
+16 Dec 2016 00:39:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=sSoUAAxA5wU
+16 Dec 2016 00:39:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=6bbuBubZ1yE
+16 Dec 2016 00:39:38 : LimitlessMc, botchat, Botfuzzy77#2209, Added Idina Menzel & Michael Bublé - Baby It's Cold Outside to the queue
+16 Dec 2016 00:40:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=_6xNuUEnh2g
+16 Dec 2016 00:40:21 : LimitlessMc, botchat, Botfuzzy77#2209, Added BRENDA LEE - ROCKIN AROUND THE CHRISTMAS TREE to the queue
+16 Dec 2016 00:40:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=SnA52s7qceM
+16 Dec 2016 00:40:38 : LimitlessMc, botchat, Botfuzzy77#2209, Added Michael Bublé - Santa Claus Is Coming To Town [Official Music Video] to the queue
+16 Dec 2016 00:40:49 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=rnEqv8WcVq8
+16 Dec 2016 00:40:50 : LimitlessMc, botchat, Botfuzzy77#2209, Added Sam Smith - Have Yourself A Merry Little Christmas to the queue
+16 Dec 2016 00:41:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=aQzlJRjXSGY
+16 Dec 2016 00:41:06 : LimitlessMc, botchat, Botfuzzy77#2209, Added FRANK SINATRA - LET IT SNOW,LET IT SNOW,LET IT SNOW to the queue
+16 Dec 2016 00:41:10 : LimitlessMc, botchat, Third_Worm#4804, .search War of change amv One piece
+16 Dec 2016 00:41:17 : LimitlessMc, botchat, LightBot#4090, Added One piece AMV - War of change [Thousand Foot Krutch] to the queue
+16 Dec 2016 00:41:17 : LimitlessMc, botchat, LightBot#4090, https://www.youtube.com/watch?v=R_XL8TlDAr4
+16 Dec 2016 00:41:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=hfquW-m_UdU
+16 Dec 2016 00:41:47 : LimitlessMc, botchat, Botfuzzy77#2209, Added Mr. Grinch Lyrics performed by Thurl Ravenscroft to the queue
+16 Dec 2016 00:42:33 : LimitlessMc, botchat, Wertfuzzy77#0274, ;shuffle
+16 Dec 2016 00:42:33 : LimitlessMc, botchat, Botfuzzy77#2209, Shuffling songs...
+16 Dec 2016 00:42:35 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+16 Dec 2016 00:42:35 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+16 Dec 2016 00:42:35 : LimitlessMc, botchat, Botfuzzy77#2209, 1. "Have Yourself a Merry Little Christmas" by Frank Sinatra **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=nZ6yQgBvuoI>
+2. Coldplay - Christmas Lights **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=z1rYmzQ8C9Q>
+3. Michael Bublé - Santa Claus Is Coming To Town [Official Music Video] **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=SnA52s7qceM>
+4. Sam Smith - Have Yourself A Merry Little Christmas **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=rnEqv8WcVq8>
+5. Train - Shake up Christmas **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=J-8VCL4uSUc>
+6. BRENDA LEE - ROCKIN AROUND THE CHRISTMAS TREE **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=_6xNuUEnh2g>
+7. Mr. Grinch Lyrics performed by Thurl Ravenscroft **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=hfquW-m_UdU>
+8. Idina Menzel & Michael Bublé - Baby It's Cold Outside **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=6bbuBubZ1yE>
+9. Dean Martin - Let it Snow! **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=mN7LW0Y00kE>
+10. FRANK SINATRA - LET IT SNOW,LET IT SNOW,LET IT SNOW **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=aQzlJRjXSGY>
+Total Time is 0:30:41
+16 Dec 2016 00:42:40 : LimitlessMc, botchat, Wertfuzzy77#0274, perfect
+16 Dec 2016 00:42:57 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug bot.messages
+16 Dec 2016 00:43:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug bot
+16 Dec 2016 00:43:05 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+<discord.ext.commands.bot.Bot object at 0x7f5daf31e630>
+```
+16 Dec 2016 00:43:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug list(bot.messages)[:10]
+16 Dec 2016 00:43:25 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+[<discord.message.Message object at 0x7f5da6b5aec8>, <discord.message.Message object at 0x7f5da69c5130>, <discord.message.Message object at 0x7f5da69c5218>, <discord.message.Message object at 0x7f5da69c5300>, <discord.message.Message object at 0x7f5da48b7130>, <discord.message.Message object at 0x7f5da48b73e8>, <discord.message.Message object at 0x7f5da48b7300>, <discord.message.Message object at 0x7f5da48b75b8>, <discord.message.Message object at 0x7f5da48b74d0>, <discord.message.Message object at 0x7f5da48b76a0>]
+```
+16 Dec 2016 00:43:28 : LimitlessMc, botchat, Wertfuzzy77#0274, hmmm
+16 Dec 2016 00:44:21 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug [x.text if x.id == '259118042309591050' for x in list(bot.messages)]
+16 Dec 2016 00:44:21 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+16 Dec 2016 00:44:23 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+16 Dec 2016 00:44:38 : LimitlessMc, botchat, Third_Worm#4804, .search This Is War
+16 Dec 2016 00:44:42 : LimitlessMc, botchat, LightBot#4090, Added Thirty Seconds To Mars - This Is War to the queue
+16 Dec 2016 00:44:42 : LimitlessMc, botchat, LightBot#4090, https://www.youtube.com/watch?v=Zcps2fJKuAI
+16 Dec 2016 00:44:47 : LimitlessMc, botchat, Third_Worm#4804, Eh
+16 Dec 2016 00:46:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug [x.contents if x.id == '259118042309591050' for x in list(bot.messages)]
+16 Dec 2016 00:46:38 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+16 Dec 2016 00:47:33 : LimitlessMc, mainchat, Boob#2637, I'm not here
+16 Dec 2016 00:48:06 : LimitlessMc, botchat, Third_Worm#4804, .search Gravity papa roach
+16 Dec 2016 00:48:08 : LimitlessMc, botchat, LightBot#4090, Added papa roach gravity to the queue
+16 Dec 2016 00:48:08 : LimitlessMc, botchat, LightBot#4090, https://www.youtube.com/watch?v=TYtjuH4QB1c
+16 Dec 2016 00:48:21 : LimitlessMc, botchat, Third_Worm#4804, Eh
+16 Dec 2016 00:48:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debut bot.send_typing()
+16 Dec 2016 00:48:39 : LimitlessMc, mainchat, Boob#2637, Idk where I am
+16 Dec 2016 00:48:48 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug bot.send_typing(ctx.message.channel)
+16 Dec 2016 00:48:48 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+None
+```
+16 Dec 2016 00:48:54 : LimitlessMc, botchat, Wertfuzzy77#0274, 😮
+16 Dec 2016 00:48:55 : LimitlessMc, botchat, Wertfuzzy77#0274, it works
+16 Dec 2016 00:49:03 : LimitlessMc, botchat, Wertfuzzy77#0274, fancy
+16 Dec 2016 00:49:22 : LimitlessMc, mainchat, Wertfuzzy77#0274, ;image Doctor Who, I dont know where I am
+16 Dec 2016 00:49:23 : LimitlessMc, mainchat, Botfuzzy77#2209, http://pm1.narvii.com/5814/6a4db12a1f92f821df6b4ac58cdd4ac96eb6ebc4_hq.jpg
+16 Dec 2016 00:49:33 : The Developers, general, ❤Neko❤#0394, http://hentaiweeb.com/
+16 Dec 2016 00:50:01 : LimitlessMc, mainchat, Wertfuzzy77#0274, ;gif Doctor Who, I dont know where I am
+16 Dec 2016 00:50:02 : LimitlessMc, mainchat, Botfuzzy77#2209, http://images6.fanpop.com/image/photos/34700000/I-Don-t-Know-Where-I-Am-the-doctor-and-clara-34713163-245-300.gif
+16 Dec 2016 00:50:28 : LimitlessMc, botchat, Third_Worm#4804, Oh dear
+16 Dec 2016 00:50:30 : LimitlessMc, mainchat, Wertfuzzy77#0274, <.< Thats not even the right Clara
+16 Dec 2016 00:50:39 : LimitlessMc, mainchat, Boob#2637, My shoulder hurts really bad
+16 Dec 2016 00:50:43 : LimitlessMc, mainchat, Wertfuzzy77#0274, rip
+16 Dec 2016 00:50:46 : LimitlessMc, botchat, Third_Worm#4804, Is my connection ok? Hold on
+16 Dec 2016 00:50:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+16 Dec 2016 00:50:59 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Coldplay - Christmas Lights
+**Requester**: Wertfuzzy77
+**URL**: <https://www.youtube.com/watch?v=z1rYmzQ8C9Q>
+```py
+Time: 0:04:30
+Views: 33,520,658
+Likes: 137,191, 98.04%
+Dislikes: 2,745, 1.96%```
+16 Dec 2016 00:51:15 : LimitlessMc, botchat, Third_Worm#4804, Ah better
+16 Dec 2016 00:51:18 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+16 Dec 2016 00:51:18 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Michael Bublé - Santa Claus Is Coming To Town [Official Music Video]
+**Requester**: Wertfuzzy77
+**URL**: <https://www.youtube.com/watch?v=SnA52s7qceM>
+```py
+Time: 0:01:46
+Views: 9,258,376
+Likes: 31,173, 97.77%
+Dislikes: 712, 2.23%```
+16 Dec 2016 00:51:22 : LimitlessMc, mainchat, Boob#2637, I'll probably leave here early and go home. It hurts to turn my head too.
+16 Dec 2016 00:51:32 : LimitlessMc, botchat, Third_Worm#4804, .search Amen halestorm
+16 Dec 2016 00:51:38 : LimitlessMc, mainchat, Wertfuzzy77#0274, sounds like a good plan
+16 Dec 2016 00:51:58 : LimitlessMc, botchat, Third_Worm#4804, ...?
+16 Dec 2016 00:51:59 : LimitlessMc, mainchat, Boob#2637, I think I pulled a muscle
+16 Dec 2016 00:52:06 : LimitlessMc, botchat, Third_Worm#4804, .songs
+16 Dec 2016 00:52:06 : LimitlessMc, botchat, LightBot#4090, Queue is Empty
+16 Dec 2016 00:52:28 : LimitlessMc, botchat, Third_Worm#4804, .search Amen halestorm
+16 Dec 2016 00:52:30 : LimitlessMc, botchat, LightBot#4090, Added Halestorm-AMEN (Lyrics) to the queue
+16 Dec 2016 00:52:30 : LimitlessMc, botchat, LightBot#4090, https://www.youtube.com/watch?v=PQ2NbH6now4
+16 Dec 2016 00:52:35 : LimitlessMc, botchat, Third_Worm#4804, There we go
+16 Dec 2016 00:52:39 : LimitlessMc, mainchat, Boob#2637, Reached too far trying to get the oil out of the cabinet above the stove
+16 Dec 2016 00:53:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug bot.purge_from(ctx.message.channel, limit=2, check=lambda x: x.author.name == "Botfuzzy77")
+16 Dec 2016 00:53:30 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+[]
+```
+16 Dec 2016 00:53:36 : LimitlessMc, botchat, Wertfuzzy77#0274, well then
+16 Dec 2016 00:53:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug lambda x: x.author.name == "Botfuzzy77"
+16 Dec 2016 00:53:42 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+<function <lambda> at 0x7f5d86891ea0>
+```
+16 Dec 2016 00:53:48 : LimitlessMc, botchat, Wertfuzzy77#0274, alright
+16 Dec 2016 00:53:49 : LimitlessMc, botchat, Wertfuzzy77#0274, cool
+16 Dec 2016 00:54:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug bot.purge_from(ctx.message.channel, limit=100, check=lambda x: x.author.name == "Botfuzzy77")
+16 Dec 2016 00:54:22 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+[<discord.message.Message object at 0x7f5d8686d6a0>, <discord.message.Message object at 0x7f5d8686d870>, <discord.message.Message object at 0x7f5d86860218>, <discord.message.Message object at 0x7f5d868604d0>, <discord.message.Message object at 0x7f5d86860b28>, <discord.message.Message object at 0x7f5d86847218>, <discord.message.Message object at 0x7f5d86847870>, <discord.message.Message object at 0x7f5d86847c10>, <discord.message.Message object at 0x7f5d86847cf8>, <discord.message.Message object at 0x7f5d86836130>, <discord.message.Message object at 0x7f5d86836218>, <discord.message.Message object at 0x7f5d868363e8>, <discord.message.Message object at 0x7f5d868365b8>, <discord.message.Message object at 0x7f5d86836a40>, <discord.message.Message object at 0x7f5d86836c10>, <discord.message.Message object at 0x7f5d86836de0>, <discord.message.Message object at 0x7f5d8683b048>, <discord.message.Message object at 0x7f5d8683b218>, <discord.message.Message object at 0x7f5d8683b4d0>, <discord.message.Message object at 0x7f5d8683b6a0>, <discord.message.Message object at 0x7f5d8683b870>, <discord.message.Message object at 0x7f5d8683ba40>, <discord.message.Message object at 0x7f5d8683bcf8>, <discord.message.Message object at 0x7f5d8683bde0>, <discord.message.Message object at 0x7f5d86834130>, <discord.message.Message object at 0x7f5d868343e8>, <discord.message.Message object at 0x7f5d868345b8>, <discord.message.Message object at 0x7f5d86834788>, <discord.message.Message object at 0x7f5d86834870>, <discord.message.Message object at 0x7f5d86834b28>]
+```
+16 Dec 2016 00:54:24 : LimitlessMc, botchat, Wertfuzzy77#0274, o
+16 Dec 2016 00:54:26 : LimitlessMc, botchat, Wertfuzzy77#0274, we did a thing
+16 Dec 2016 00:54:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ayy, I made a ;clean
+16 Dec 2016 00:54:43 : LimitlessMc, botchat, Third_Worm#4804, ooo
+16 Dec 2016 00:54:43 : LimitlessMc, botchat, Wertfuzzy77#0274, gg
+16 Dec 2016 00:54:53 : LimitlessMc, botchat, Third_Worm#4804, Nice gg
+16 Dec 2016 00:54:58 : LimitlessMc, botchat, Wertfuzzy77#0274, I really should be studying for finals .-.
+16 Dec 2016 00:55:08 : LimitlessMc, botchat, Third_Worm#4804, You should
+16 Dec 2016 00:55:11 : LimitlessMc, botchat, Wertfuzzy77#0274, prob
+16 Dec 2016 00:55:20 : LimitlessMc, botchat, Third_Worm#4804, While listening to music
+16 Dec 2016 00:55:25 : LimitlessMc, botchat, Third_Worm#4804, Like me
+16 Dec 2016 00:55:27 : LimitlessMc, botchat, Wertfuzzy77#0274, ;afk Thinking about Studying for Finals
+16 Dec 2016 00:55:27 : LimitlessMc, botchat, Botfuzzy77#2209, Wertfuzzy77 is now AFK for reason:
+**Thinking about Studying for Finals**
+16 Dec 2016 00:55:38 : LimitlessMc, botchat, Third_Worm#4804, Alright
+16 Dec 2016 00:55:59 : LimitlessMc, botchat, Third_Worm#4804, .search Dope
+16 Dec 2016 00:56:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+16 Dec 2016 00:56:01 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Train - Shake up Christmas
+**Requester**: Wertfuzzy77
+**URL**: <https://www.youtube.com/watch?v=J-8VCL4uSUc>
+```py
+Time: 0:04:01
+Views: 60,458,109
+Likes: 277,634, 97.61%
+Dislikes: 6,789, 2.39%```
+16 Dec 2016 00:56:19 : LimitlessMc, botchat, Third_Worm#4804, .songs
+16 Dec 2016 00:56:19 : LimitlessMc, botchat, LightBot#4090, Queue is Empty
+16 Dec 2016 00:56:26 : LimitlessMc, botchat, Third_Worm#4804, .search Dope
+16 Dec 2016 00:56:40 : LimitlessMc, botchat, Third_Worm#4804, Alright I'll wait
+16 Dec 2016 00:57:12 : LimitlessMc, botchat, Third_Worm#4804, .search Dope
+16 Dec 2016 00:57:21 : LimitlessMc, botchat, Third_Worm#4804, Kay
+16 Dec 2016 00:57:44 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+16 Dec 2016 00:57:46 : LimitlessMc, mainchat, Boob#2637, Am I blocked from uploading pics?
+16 Dec 2016 00:57:46 : LimitlessMc, botchat, Wertfuzzy77#0274, .music
+16 Dec 2016 00:57:53 : LimitlessMc, mainchat, Wertfuzzy77#0274, dont think so>
+16 Dec 2016 00:57:58 : LimitlessMc, botchat, Wertfuzzy77#0274, .status
+16 Dec 2016 00:57:58 : LimitlessMc, botchat, LightBot#4090, UpTime: 3:35:30.100000s
+16 Dec 2016 00:58:00 : LimitlessMc, botchat, LightBot#4090, Total Messages: 795
+16 Dec 2016 00:58:00 : LimitlessMc, botchat, LightBot#4090, Servers Joined: 3
+16 Dec 2016 00:58:14 : LimitlessMc, mainchat, Boob#2637, Hmm
+16 Dec 2016 00:58:15 : LimitlessMc, botchat, Wertfuzzy77#0274, .status
+16 Dec 2016 00:58:15 : LimitlessMc, botchat, LightBot#4090, UpTime: 3:35:47.300000s
+16 Dec 2016 00:58:16 : LimitlessMc, botchat, LightBot#4090, Total Messages: 797
+16 Dec 2016 00:58:16 : LimitlessMc, botchat, LightBot#4090, Servers Joined: 3
+16 Dec 2016 00:58:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ;status
+16 Dec 2016 00:58:25 : LimitlessMc, botchat, Botfuzzy77#2209, UpTime: 1:08:16.900000s
+16 Dec 2016 00:58:25 : LimitlessMc, botchat, Botfuzzy77#2209, Total Messages: 147
+16 Dec 2016 00:58:26 : LimitlessMc, botchat, Botfuzzy77#2209, Servers Joined: 11
+16 Dec 2016 00:58:51 : LimitlessMc, botchat, Third_Worm#4804, .search Dope map
+16 Dec 2016 00:58:55 : LimitlessMc, botchat, Wertfuzzy77#0274, @Botfuzzy77 how are you?
+16 Dec 2016 00:58:56 : LimitlessMc, botchat, LightBot#4090, Added DOPE MAP part 67 to the queue
+16 Dec 2016 00:58:56 : LimitlessMc, botchat, LightBot#4090, https://www.youtube.com/watch?v=gI0TSNcSpXI
+16 Dec 2016 00:58:56 : LimitlessMc, botchat, Botfuzzy77#2209, Fine.
+16 Dec 2016 00:59:03 : LimitlessMc, mainchat, NarcoticMile#6198, hey boob ready for another run
+16 Dec 2016 00:59:06 : LimitlessMc, mainchat, Boob#2637, Maybe my phone is being pudgy
+16 Dec 2016 00:59:07 : LimitlessMc, botchat, Third_Worm#4804, Wait
+16 Dec 2016 00:59:09 : LimitlessMc, botchat, Third_Worm#4804, Ugh
+16 Dec 2016 00:59:12 : LimitlessMc, mainchat, NarcoticMile#6198, later tonight
+16 Dec 2016 00:59:14 : LimitlessMc, mainchat, Boob#2637, I'm not home
+16 Dec 2016 00:59:15 : LimitlessMc, botchat, Third_Worm#4804, .search Dope
+16 Dec 2016 00:59:17 : LimitlessMc, mainchat, NarcoticMile#6198, oh ok
+16 Dec 2016 00:59:24 : LimitlessMc, mainchat, Boob#2637, Probably not
+16 Dec 2016 00:59:28 : LimitlessMc, mainchat, NarcoticMile#6198, awh
+16 Dec 2016 00:59:29 : LimitlessMc, mainchat, NarcoticMile#6198, ok
+16 Dec 2016 00:59:36 : LimitlessMc, botchat, Third_Worm#4804, .leave
+16 Dec 2016 00:59:41 : LimitlessMc, mainchat, Boob#2637, My shoulder hurts really bad.... I wanna cry
+16 Dec 2016 00:59:43 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+16 Dec 2016 00:59:43 : LimitlessMc, mainchat, crystal4209#4698, i have been talking
+16 Dec 2016 00:59:43 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+16 Dec 2016 00:59:43 : LimitlessMc, botchat, Botfuzzy77#2209, 1. BRENDA LEE - ROCKIN AROUND THE CHRISTMAS TREE **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=_6xNuUEnh2g>
+2. Mr. Grinch Lyrics performed by Thurl Ravenscroft **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=hfquW-m_UdU>
+3. Idina Menzel & Michael Bublé - Baby It's Cold Outside **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=6bbuBubZ1yE>
+4. Dean Martin - Let it Snow! **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=mN7LW0Y00kE>
+5. FRANK SINATRA - LET IT SNOW,LET IT SNOW,LET IT SNOW **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=aQzlJRjXSGY>
+Total Time is 0:13:53
+16 Dec 2016 00:59:50 : LimitlessMc, mainchat, ruleroftri#6648, oh wow, i couldnt hear any of it
+16 Dec 2016 00:59:58 : LimitlessMc, mainchat, crystal4209#4698, well rip then
+16 Dec 2016 01:00:12 : LimitlessMc, botchat, Wertfuzzy77#0274, eh
+16 Dec 2016 01:00:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+16 Dec 2016 01:00:13 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping BRENDA LEE - ROCKIN AROUND THE CHRISTMAS TREE by request of the requester
+16 Dec 2016 01:00:20 : LimitlessMc, botchat, Wertfuzzy77#0274, better
+16 Dec 2016 01:00:21 : LimitlessMc, mainchat, Boob#2637, Did u mute yourself again Crystal?
+16 Dec 2016 01:00:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+16 Dec 2016 01:00:22 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Mr. Grinch Lyrics performed by Thurl Ravenscroft
+**Requester**: Wertfuzzy77
+**URL**: <https://www.youtube.com/watch?v=hfquW-m_UdU>
+```py
+Time: 0:03:02
+Views: 1,655,749
+Likes: 7,515, 96.35%
+Dislikes: 285, 3.65%```
+16 Dec 2016 01:00:25 : LimitlessMc, mainchat, crystal4209#4698, no
+16 Dec 2016 01:00:27 : LimitlessMc, botchat, Third_Worm#4804, Mhm
+16 Dec 2016 01:00:55 : LimitlessMc, mainchat, NarcoticMile#6198, worm
+16 Dec 2016 01:01:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;funify Mr. Grinch
+16 Dec 2016 01:01:04 : LimitlessMc, botchat, Botfuzzy77#2209, Mr.. GrRiiNCHh
+16 Dec 2016 01:01:04 : LimitlessMc, mainchat, crystal4209#4698, it was not worm
+16 Dec 2016 01:01:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;funify Mr. Grinch
+16 Dec 2016 01:01:13 : LimitlessMc, botchat, Botfuzzy77#2209, mMR.% gGRRiNncch
+16 Dec 2016 01:01:15 : LimitlessMc, botchat, Third_Worm#4804, Lol
+16 Dec 2016 01:01:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ;funify Mr. Grinch
+16 Dec 2016 01:01:17 : LimitlessMc, botchat, Botfuzzy77#2209, Mrr. gGRiNcHH
+16 Dec 2016 01:01:20 : LimitlessMc, mainchat, crystal4209#4698, oh lol
+16 Dec 2016 01:01:28 : LimitlessMc, botchat, NarcoticMile#6198, WORMMM
+16 Dec 2016 01:01:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ;funify Mr. Grinch
+16 Dec 2016 01:01:28 : LimitlessMc, botchat, Botfuzzy77#2209, MmR^R.. gRriNch
+16 Dec 2016 01:01:32 : LimitlessMc, botchat, Wertfuzzy77#0274, ;loop
+16 Dec 2016 01:01:32 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*Mr. Grinch Lyrics performed by Thurl Ravenscroft*' **1** more times
+16 Dec 2016 01:01:44 : LimitlessMc, botchat, Wertfuzzy77#0274, ;funify Mr. Grinch
+16 Dec 2016 01:01:44 : LimitlessMc, botchat, Botfuzzy77#2209, MR.. gRi4INnCH
+16 Dec 2016 01:01:50 : LimitlessMc, botchat, crystal4209#4698, ;song
+16 Dec 2016 01:01:50 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Mr. Grinch Lyrics performed by Thurl Ravenscroft
+**Requester**: Wertfuzzy77
+**URL**: <https://www.youtube.com/watch?v=hfquW-m_UdU>
+```py
+Time: 0:03:02
+Views: 1,655,749
+Likes: 7,515, 96.35%
+Dislikes: 285, 3.65%```
+16 Dec 2016 01:01:57 : LimitlessMc, botchat, Wertfuzzy77#0274, ;funify Mr. Grinch
+16 Dec 2016 01:01:57 : LimitlessMc, botchat, Botfuzzy77#2209, MR&. gGrIINCH
+16 Dec 2016 01:02:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;funify Mr. Grinch
+16 Dec 2016 01:02:11 : LimitlessMc, botchat, Botfuzzy77#2209, mmRr.. Gr7rINch
+16 Dec 2016 01:02:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ;funify Mr. Grinch
+16 Dec 2016 01:02:23 : LimitlessMc, botchat, Botfuzzy77#2209, mMrr.. ggRRInNccHh
+16 Dec 2016 01:02:41 : LimitlessMc, botchat, Wertfuzzy77#0274, ;funify Mr. Grinch
+16 Dec 2016 01:02:41 : LimitlessMc, botchat, Botfuzzy77#2209, mmr. G1gRIinNc}ch
+16 Dec 2016 01:04:25 : LimitlessMc, botchat, ChesireKat#7022, YAS!  love this one
+16 Dec 2016 01:04:58 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+16 Dec 2016 01:04:59 : LimitlessMc, botchat, Wertfuzzy77#0274, wb
+16 Dec 2016 01:05:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;loop
+16 Dec 2016 01:05:03 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*Mr. Grinch Lyrics performed by Thurl Ravenscroft*' **1** more times
+16 Dec 2016 01:05:04 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+16 Dec 2016 01:05:05 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Mr. Grinch Lyrics performed by Thurl Ravenscroft
+**Requester**: Wertfuzzy77
+**URL**: <https://www.youtube.com/watch?v=hfquW-m_UdU>
+```py
+Time: 0:03:02
+Views: 1,655,749
+Likes: 7,515, 96.35%
+Dislikes: 285, 3.65%```
+16 Dec 2016 01:05:07 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+16 Dec 2016 01:05:07 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+16 Dec 2016 01:05:07 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Mr. Grinch Lyrics performed by Thurl Ravenscroft **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=hfquW-m_UdU>
+2. Idina Menzel & Michael Bublé - Baby It's Cold Outside **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=6bbuBubZ1yE>
+3. Dean Martin - Let it Snow! **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=mN7LW0Y00kE>
+4. FRANK SINATRA - LET IT SNOW,LET IT SNOW,LET IT SNOW **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=aQzlJRjXSGY>
+Total Time is 0:11:49
+16 Dec 2016 01:05:31 : LimitlessMc, botchat, NarcoticMile#6198, no more grinch
+16 Dec 2016 01:05:35 : LimitlessMc, botchat, NarcoticMile#6198, please XD
+16 Dec 2016 01:06:50 : LimitlessMc, botchat, Wertfuzzy77#0274, all da grinch
+16 Dec 2016 01:07:02 : LimitlessMc, botchat, Wertfuzzy77#0274, Its Christmas, which makes you the grinch for not wanting more
+16 Dec 2016 01:07:13 : Pulse, mainchat, NarcoticMile#6198, 
+16 Dec 2016 01:07:26 : LimitlessMc, botchat, Wertfuzzy77#0274, good ol 39 & 1/2 foot pole
+16 Dec 2016 01:08:35 : LimitlessMc, botchat, NarcoticMile#6198, please no more
+16 Dec 2016 01:08:37 : LimitlessMc, botchat, NarcoticMile#6198, please
+16 Dec 2016 01:08:42 : LimitlessMc, botchat, NarcoticMile#6198, ;skip
+16 Dec 2016 01:08:42 : LimitlessMc, botchat, Botfuzzy77#2209, 1/2 votes to skip
+16 Dec 2016 01:08:44 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+16 Dec 2016 01:08:45 : LimitlessMc, botchat, NarcoticMile#6198, nuuu
+16 Dec 2016 01:08:52 : LimitlessMc, botchat, NarcoticMile#6198, please how long is this song
+16 Dec 2016 01:08:52 : LimitlessMc, botchat, Wertfuzzy77#0274, #VoteToSkip
+16 Dec 2016 01:08:55 : LimitlessMc, botchat, NarcoticMile#6198, looped for
+16 Dec 2016 01:08:58 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+16 Dec 2016 01:08:59 : LimitlessMc, botchat, NarcoticMile#6198, ;song
+16 Dec 2016 01:08:59 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Mr. Grinch Lyrics performed by Thurl Ravenscroft
+**Requester**: Wertfuzzy77
+**URL**: <https://www.youtube.com/watch?v=hfquW-m_UdU>
+```py
+Time: 0:03:02
+Views: 1,655,749
+Likes: 7,515, 96.35%
+Dislikes: 285, 3.65%```
+16 Dec 2016 01:08:59 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Mr. Grinch Lyrics performed by Thurl Ravenscroft
+**Requester**: Wertfuzzy77
+**URL**: <https://www.youtube.com/watch?v=hfquW-m_UdU>
+```py
+Time: 0:03:02
+Views: 1,655,749
+Likes: 7,515, 96.35%
+Dislikes: 285, 3.65%```
+16 Dec 2016 01:09:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+16 Dec 2016 01:09:01 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+16 Dec 2016 01:09:01 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Idina Menzel & Michael Bublé - Baby It's Cold Outside **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=6bbuBubZ1yE>
+2. Dean Martin - Let it Snow! **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=mN7LW0Y00kE>
+3. FRANK SINATRA - LET IT SNOW,LET IT SNOW,LET IT SNOW **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=aQzlJRjXSGY>
+Total Time is 0:08:47
+16 Dec 2016 01:09:05 : LimitlessMc, botchat, Wertfuzzy77#0274, this last 1
+16 Dec 2016 01:09:15 : LimitlessMc, botchat, NarcoticMile#6198, thank godddddddddd
+16 Dec 2016 01:09:21 : LimitlessMc, botchat, Wertfuzzy77#0274, .;loop
+16 Dec 2016 01:09:23 : LimitlessMc, botchat, NarcoticMile#6198, wtf
+16 Dec 2016 01:09:25 : LimitlessMc, botchat, NarcoticMile#6198, really
+16 Dec 2016 01:09:29 : LimitlessMc, botchat, NarcoticMile#6198, no
+16 Dec 2016 01:09:34 : LimitlessMc, botchat, NarcoticMile#6198, screw off wert XD
+16 Dec 2016 01:09:36 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+16 Dec 2016 01:10:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Baby its cold outside
+16 Dec 2016 01:10:22 : LimitlessMc, botchat, Botfuzzy77#2209, Added Idina Menzel Ft.  Michael Bublé - Baby It's Cold Outside (Lyrics) to the queue
+16 Dec 2016 01:10:22 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=hnH_RGyzbSU
+16 Dec 2016 01:10:29 : LimitlessMc, botchat, Wertfuzzy77#0274, nu dont wnt that one
+16 Dec 2016 01:10:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+16 Dec 2016 01:10:30 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+16 Dec 2016 01:10:30 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Dean Martin - Let it Snow! **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=mN7LW0Y00kE>
+2. FRANK SINATRA - LET IT SNOW,LET IT SNOW,LET IT SNOW **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=aQzlJRjXSGY>
+3. Idina Menzel Ft.  Michael Bublé - Baby It's Cold Outside (Lyrics) **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=hnH_RGyzbSU>
+Total Time is 0:07:33
+16 Dec 2016 01:10:32 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 3
+16 Dec 2016 01:10:32 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: Idina Menzel Ft.  Michael Bublé - Baby It's Cold Outside (Lyrics)
+16 Dec 2016 01:10:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Baby its cold outside, Original
+16 Dec 2016 01:10:43 : LimitlessMc, botchat, Botfuzzy77#2209, Added Baby it's cold outside to the queue
+16 Dec 2016 01:10:43 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=7MFJ7ie_yGU
+16 Dec 2016 01:10:50 : LimitlessMc, botchat, Wertfuzzy77#0274, hmm?
+16 Dec 2016 01:10:52 : LimitlessMc, botchat, Wertfuzzy77#0274, maybe?
+16 Dec 2016 01:10:53 : LimitlessMc, botchat, Wertfuzzy77#0274, no idea
+16 Dec 2016 01:11:16 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=3qFK5YFvTYE
+16 Dec 2016 01:11:16 : LimitlessMc, botchat, Botfuzzy77#2209, Added Baby its Cold Outside - Dean Martin to the queue
+16 Dec 2016 01:11:18 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+16 Dec 2016 01:11:18 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+16 Dec 2016 01:11:18 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Dean Martin - Let it Snow! **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=mN7LW0Y00kE>
+2. FRANK SINATRA - LET IT SNOW,LET IT SNOW,LET IT SNOW **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=aQzlJRjXSGY>
+3. Baby it's cold outside **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=7MFJ7ie_yGU>
+4. Baby its Cold Outside - Dean Martin **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=3qFK5YFvTYE>
+Total Time is 0:11:34
+16 Dec 2016 01:11:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 3
+16 Dec 2016 01:11:20 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: Baby it's cold outside
+16 Dec 2016 01:11:21 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+16 Dec 2016 01:11:21 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Idina Menzel & Michael Bublé - Baby It's Cold Outside by request of the requester
+16 Dec 2016 01:12:42 : LimitlessMc, botchat, ChesireKat#7022, O.o
+16 Dec 2016 01:12:50 : LimitlessMc, botchat, ChesireKat#7022, a mew spawned but i was gone
+16 Dec 2016 01:13:16 : LimitlessMc, botchat, ChesireKat#7022, i was in the jungle...... im hopeing it spawned near someone else
+16 Dec 2016 01:13:34 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+16 Dec 2016 01:14:02 : Pulse, mainchat, crystal4209#4698, lel
+16 Dec 2016 01:14:15 : LimitlessMc, botchat, ChesireKat#7022, yea  ;-;
+16 Dec 2016 01:15:20 : Pulse, mainchat, Wertfuzzy77#0274, oi, why is my role `Wert Weeb` I want to be `Head Weeb`
+16 Dec 2016 01:15:26 : Pulse, mainchat, Wertfuzzy77#0274, @Lightning
+16 Dec 2016 01:15:33 : Pulse, mainchat, Wertfuzzy77#0274, @Lightning
+16 Dec 2016 01:15:34 : Pulse, mainchat, Wertfuzzy77#0274, @Lightning
+16 Dec 2016 01:15:34 : Pulse, mainchat, Wertfuzzy77#0274, @Lightning
+16 Dec 2016 01:15:34 : Pulse, mainchat, Wertfuzzy77#0274, @Lightning
+16 Dec 2016 01:15:34 : Pulse, mainchat, Wertfuzzy77#0274, @Lightning
+16 Dec 2016 01:15:35 : Pulse, mainchat, Wertfuzzy77#0274, @Lightning
+16 Dec 2016 01:15:47 : Pulse, mainchat, Wertfuzzy77#0274, @kami-sama fix my role, thank
+16 Dec 2016 01:15:48 : Pulse, mainchat, Third_Worm#4804, Lol
+16 Dec 2016 01:16:03 : Pulse, mainchat, ChesireKat#7022, @Solaire
+16 Dec 2016 01:16:07 : Pulse, mainchat, ChesireKat#7022, check his rank
+16 Dec 2016 01:16:09 : Pulse, mainchat, ChesireKat#7022, 😛
+16 Dec 2016 01:16:25 : Pulse, mainchat, Wertfuzzy77#0274, kys @alphaButt
+16 Dec 2016 01:16:33 : Pulse, mainchat, ChesireKat#7022, XD
+16 Dec 2016 01:16:33 : Pulse, mainchat, Third_Worm#4804, Lol
+16 Dec 2016 01:16:40 : Pulse, mainchat, NarcoticMile#6198, lel
+16 Dec 2016 01:18:07 : LimitlessMc, botchat, ChesireKat#7022, this song scares me
+16 Dec 2016 01:18:13 : LimitlessMc, botchat, ChesireKat#7022, that guy is so rapey
+16 Dec 2016 01:18:53 : LimitlessMc, botchat, Wertfuzzy77#0274, ?
+16 Dec 2016 01:18:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+16 Dec 2016 01:18:55 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Lady Gaga - Joseph Gordon-Levitt Baby It's Cold Outside
+**Requester**: Radio
+**URL**: <https://www.youtube.com/watch?v=ZtoW4aV-CIc>
+```py
+Time: 0:03:14
+Views: 6,647,943
+Likes: 55,502, 97.64%
+Dislikes: 1,340, 2.36%```
+16 Dec 2016 01:19:08 : LimitlessMc, botchat, Wertfuzzy77#0274, which song?
+16 Dec 2016 01:19:35 : LimitlessMc, botchat, ChesireKat#7022, cold outside O.o
+16 Dec 2016 01:19:42 : LimitlessMc, botchat, ChesireKat#7022, shes like i gotta go
+16 Dec 2016 01:19:51 : LimitlessMc, botchat, ChesireKat#7022, and he is like nah >:)
+16 Dec 2016 01:19:55 : LimitlessMc, botchat, ChesireKat#7022, spooky
+16 Dec 2016 01:19:57 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+16 Dec 2016 01:20:03 : Pulse, mainchat, crystal4209#4698, lol the spam wert
+16 Dec 2016 01:20:08 : LimitlessMc, botchat, Wertfuzzy77#0274, Its cold outside tho 😉
+16 Dec 2016 01:21:02 : LimitlessMc, botchat, ChesireKat#7022, ;-;  i think at one point he said your lips are so delicious that brings it out of the relm of friendly concern
+16 Dec 2016 01:21:16 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+16 Dec 2016 01:21:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+16 Dec 2016 01:21:55 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Mariah Carey: All I Want For Christmas Is You (Duet with Michael Bublé)
+**Requester**: Radio
+**URL**: <https://www.youtube.com/watch?v=AFvRf8PfpKw>
+```py
+Time: 0:04:47
+Views: 10,598,945
+Likes: 44,048, 97.31%
+Dislikes: 1,218, 2.69%```
+16 Dec 2016 01:22:16 : LimitlessMc, botchat, Wertfuzzy77#0274, 👏
+16 Dec 2016 01:22:59 : Pulse, mainchat, Lightning#6734, im in class u fucks :L
+16 Dec 2016 01:23:17 : Pulse, mainchat, crystal4209#4698, lel
+16 Dec 2016 01:23:37 : Pulse, mainchat, Wertfuzzy77#0274, ❤ thank @Lightning
+16 Dec 2016 01:24:46 : Pulse, mainchat, NarcoticMile#6198, lol the love
+16 Dec 2016 01:26:37 : LimitlessMc, botchat, ChesireKat#7022, so i heard yelling downstairs i go down because i thought they were roasting my sister.............nah they were amazed at my brothers toes...... tbh his big toe is longer than my thumb
+16 Dec 2016 01:26:47 : LimitlessMc, botchat, ChesireKat#7022, so while spooky not that amazing XD
+16 Dec 2016 01:27:01 : LimitlessMc, botchat, Wertfuzzy77#0274, that tad strange
+16 Dec 2016 01:27:06 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+16 Dec 2016 01:27:06 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Mariah Carey Performs "All I Want For Christmas Is You” | Divas Holiday
+**Requester**: Radio
+**URL**: <https://www.youtube.com/watch?v=xB1HD8PQR48>
+```py
+Time: 0:04:48
+Views: 197,613
+Likes: 2,551, 96.01%
+Dislikes: 106, 3.99%```
+16 Dec 2016 01:27:09 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+16 Dec 2016 01:27:09 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+16 Dec 2016 01:27:09 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Mariah Carey - O Holy Night - Live @ Beacon Theater 12/5/2016 **Radio**
+	<https://www.youtube.com/watch?v=_UOJ2k11YVE>
+Total Time is 0:04:01
+16 Dec 2016 01:27:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+16 Dec 2016 01:27:12 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Mariah Carey Performs "All I Want For Christmas Is You” | Divas Holiday by request (Radio Song)
+16 Dec 2016 01:27:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+16 Dec 2016 01:27:17 : LimitlessMc, botchat, Botfuzzy77#2209, Queue is Empty
+16 Dec 2016 01:27:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+16 Dec 2016 01:27:19 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+16 Dec 2016 01:27:20 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Mariah Carey - O Holy Night **Radio**
+	<https://www.youtube.com/watch?v=BEJmP8T07JU>
+Total Time is 0:04:47
+16 Dec 2016 01:27:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+16 Dec 2016 01:27:23 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Mariah Carey - O Holy Night - Live @ Beacon Theater 12/5/2016 by request (Radio Song)
+16 Dec 2016 01:27:39 : LimitlessMc, botchat, ChesireKat#7022, yea i think he is not human now O.o
+16 Dec 2016 01:27:44 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+16 Dec 2016 01:27:54 : LimitlessMc, botchat, ChesireKat#7022, 😛
+16 Dec 2016 01:27:57 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=pVLmZMjxfjw
+16 Dec 2016 01:27:57 : LimitlessMc, botchat, Botfuzzy77#2209, Added Eiffel 65 - Blue (KNY Factory Remix) to the queue
+16 Dec 2016 01:28:00 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+16 Dec 2016 01:28:00 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Mariah Carey - O Holy Night by request (Radio Song)
+16 Dec 2016 01:28:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+16 Dec 2016 01:28:11 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: O Holy Night - Serena Sang Higher Note than Mariah Carey's Version
+**Requester**: Radio
+**URL**: <https://www.youtube.com/watch?v=q749xF4K8NQ>
+```py
+Time: 0:05:08
+Views: 8,682,595
+Likes: 61,930, 88.18%
+Dislikes: 8,299, 11.82%```
+16 Dec 2016 01:28:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+16 Dec 2016 01:28:13 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping O Holy Night - Serena Sang Higher Note than Mariah Carey's Version by request (Radio Song)
+16 Dec 2016 01:28:15 : LimitlessMc, botchat, ChesireKat#7022, ty
+16 Dec 2016 01:28:18 : LimitlessMc, botchat, ChesireKat#7022, O.o
+16 Dec 2016 01:28:20 : LimitlessMc, botchat, Wertfuzzy77#0274, 0.o
+16 Dec 2016 01:28:23 : LimitlessMc, botchat, ChesireKat#7022, yea!
+16 Dec 2016 01:28:30 : LimitlessMc, botchat, ChesireKat#7022, this is so christmas
+16 Dec 2016 01:28:33 : LimitlessMc, botchat, ChesireKat#7022, !
+16 Dec 2016 01:28:35 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+16 Dec 2016 01:28:39 : LimitlessMc, botchat, ChesireKat#7022, 😛
+16 Dec 2016 01:28:44 : LimitlessMc, botchat, ChesireKat#7022, keep it on plz?
+16 Dec 2016 01:28:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ofc
+16 Dec 2016 01:28:48 : LimitlessMc, botchat, Wertfuzzy77#0274, i added it
+16 Dec 2016 01:28:49 : The Wild Weebs, weeb, Tally#2764, @Nubs (CS311)  did we learn arc feedback for 311
+16 Dec 2016 01:28:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+16 Dec 2016 01:28:50 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Eiffel 65 - Blue (KNY Factory Remix)
+**Requester**: Wertfuzzy77
+**URL**: <https://www.youtube.com/watch?v=pVLmZMjxfjw>
+```py
+Time: 0:04:12
+Views: 151,570,036
+Likes: 1,266,138, 97.56%
+Dislikes: 31,723, 2.44%```
+16 Dec 2016 01:28:50 : LimitlessMc, botchat, ChesireKat#7022, ❤
+16 Dec 2016 01:28:57 : LimitlessMc, botchat, ChesireKat#7022, but you skipped so many
+16 Dec 2016 01:28:59 : The Wild Weebs, weeb, Tally#2764, or feedback arc
+16 Dec 2016 01:29:05 : LimitlessMc, botchat, ChesireKat#7022, and nobody adds stuff but you 😛
+16 Dec 2016 01:29:27 : LimitlessMc, botchat, ChesireKat#7022, idk how to add stuff also i dont think your bot would even listen to me ;-;
+16 Dec 2016 01:29:45 : The Wild Weebs, weeb, Wertfuzzy77#0274, what is this feedback arc, I didnt think 311 had any arcs, thought there was just 1 main story
+16 Dec 2016 01:29:57 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+16 Dec 2016 01:30:00 : LimitlessMc, botchat, Wertfuzzy77#0274, ;help youtube
+16 Dec 2016 01:30:00 : LimitlessMc, botchat, Botfuzzy77#2209, ```
+;youtube [links...]
+
+Adds a Song for the Bot to Play
+
+```
+16 Dec 2016 01:30:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;help search
+16 Dec 2016 01:30:02 : LimitlessMc, botchat, Botfuzzy77#2209, ```
+;search [Pinput...]
+
+Searches for a song
+
+```
+16 Dec 2016 01:30:14 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Im blue
+16 Dec 2016 01:30:15 : LimitlessMc, botchat, Botfuzzy77#2209, Added Eiffel 65 - Blue (Da Ba Dee) (Original Video with subtitles) to the queue
+16 Dec 2016 01:30:15 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=68ugkg9RePc
+16 Dec 2016 01:30:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+16 Dec 2016 01:30:20 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+16 Dec 2016 01:30:20 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Diplo - Revolution (SEAN&BOBO REMIX) **Radio**
+	<https://www.youtube.com/watch?v=ntLop32pYd0>
+2. Eiffel 65 - Blue (Da Ba Dee) (Original Video with subtitles) **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=68ugkg9RePc>
+Total Time is 0:08:00
+16 Dec 2016 01:30:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 1
+16 Dec 2016 01:30:23 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: Diplo - Revolution (SEAN&BOBO REMIX)
+16 Dec 2016 01:30:27 : LimitlessMc, botchat, ChesireKat#7022, me and your  bot have a love hate relationship i love the music it plays it hates me and everything to do with me
+16 Dec 2016 01:30:28 : The Wild Weebs, weeb, Tally#2764, its not kanon
+16 Dec 2016 01:30:41 : LimitlessMc, botchat, Wertfuzzy77#0274, ;luck
+16 Dec 2016 01:30:41 : LimitlessMc, botchat, Botfuzzy77#2209, Wertfuzzy77's luck is 92.29 out of 100, which is **AMAZING**
+16 Dec 2016 01:30:43 : The Wild Weebs, weeb, Tally#2764, canon
+16 Dec 2016 01:30:43 : LimitlessMc, botchat, Wertfuzzy77#0274, 😮
+16 Dec 2016 01:30:47 : The Wild Weebs, weeb, Tally#2764, cannon
+16 Dec 2016 01:30:50 : LimitlessMc, botchat, ChesireKat#7022, ;luck
+16 Dec 2016 01:30:50 : LimitlessMc, botchat, Botfuzzy77#2209, ChesireKat's luck is 90.53 out of 100, which is **AMAZING**
+16 Dec 2016 01:30:54 : The Wild Weebs, weeb, Tally#2764, ckannon
+16 Dec 2016 01:30:54 : LimitlessMc, botchat, ChesireKat#7022, !
+16 Dec 2016 01:30:55 : LimitlessMc, botchat, ChesireKat#7022, yas
+16 Dec 2016 01:31:02 : LimitlessMc, botchat, ChesireKat#7022, things are looking up!
+16 Dec 2016 01:31:16 : The Wild Weebs, weeb, Wertfuzzy77#0274, fair enough, anything interesting in the arc? or can i just skip it
+16 Dec 2016 01:31:21 : LimitlessMc, botchat, ChesireKat#7022, mind if i add a song?
+16 Dec 2016 01:31:32 : LimitlessMc, botchat, Wertfuzzy77#0274, go for it
+16 Dec 2016 01:31:43 : LimitlessMc, botchat, ChesireKat#7022, 😄
+16 Dec 2016 01:31:48 : The Wild Weebs, weeb, Tally#2764, im gonna go with skip it
+16 Dec 2016 01:31:53 : LimitlessMc, botchat, ChesireKat#7022, ;youtube nightcore the wolf
+16 Dec 2016 01:31:53 : LimitlessMc, botchat, Botfuzzy77#2209, Not a Valid Link, Please only use URLs from youtube.com
+16 Dec 2016 01:31:55 : The Wild Weebs, weeb, Tally#2764, but you may miss major information
+16 Dec 2016 01:31:56 : LimitlessMc, botchat, ChesireKat#7022, i cri
+16 Dec 2016 01:31:59 : LimitlessMc, botchat, ChesireKat#7022, search?
+16 Dec 2016 01:32:08 : LimitlessMc, botchat, ChesireKat#7022, ;search nightcore the wolf
+16 Dec 2016 01:32:09 : LimitlessMc, botchat, Botfuzzy77#2209, Added Nightcore~ The Wolf to the queue
+16 Dec 2016 01:32:09 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=9JgjeLBBSq4
+16 Dec 2016 01:32:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ya
+16 Dec 2016 01:32:13 : LimitlessMc, botchat, ChesireKat#7022, yas!
+16 Dec 2016 01:32:18 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+16 Dec 2016 01:32:18 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Eiffel 65 - Blue (KNY Factory Remix) by request of the requester
+16 Dec 2016 01:32:21 : LimitlessMc, botchat, Wertfuzzy77#0274, ;loop
+16 Dec 2016 01:32:22 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*Eiffel 65 - Blue (Da Ba Dee) (Original Video with subtitles)*' **1** more times
+16 Dec 2016 01:32:29 : LimitlessMc, botchat, ChesireKat#7022, XD
+16 Dec 2016 01:32:39 : The Wild Weebs, weeb, Wertfuzzy77#0274, hmm, maybe should skip
+16 Dec 2016 01:32:57 : The Wild Weebs, weeb, Wertfuzzy77#0274, is it just character arcs? or does it progress the story?
+16 Dec 2016 01:33:10 : LimitlessMc, botchat, ChesireKat#7022, feels bad XD at this point the server takes second to listening to music
+16 Dec 2016 01:33:12 : The Wild Weebs, weeb, enragednuke#2565, what the fuck are you two talking about
+16 Dec 2016 01:33:18 : The Wild Weebs, weeb, Tally#2764, possible major progression
+16 Dec 2016 01:33:19 : LimitlessMc, botchat, Wertfuzzy77#0274, same
+16 Dec 2016 01:33:23 : The Wild Weebs, weeb, enragednuke#2565, ?????????????????????
+16 Dec 2016 01:33:24 : The Wild Weebs, weeb, Tally#2764, but could be utter garbage too
+16 Dec 2016 01:33:41 : LimitlessMc, botchat, ChesireKat#7022, lol
+16 Dec 2016 01:33:51 : The Wild Weebs, weeb, enragednuke#2565, what
+16 Dec 2016 01:33:51 : The Wild Weebs, weeb, enragednuke#2565, the
+16 Dec 2016 01:33:51 : The Wild Weebs, weeb, enragednuke#2565, fuck
+16 Dec 2016 01:33:52 : The Wild Weebs, weeb, enragednuke#2565, is
+16 Dec 2016 01:33:52 : The Wild Weebs, weeb, enragednuke#2565, arc
+16 Dec 2016 01:34:10 : The Wild Weebs, weeb, Tally#2764, feedback arc
+16 Dec 2016 01:34:13 : The Wild Weebs, weeb, Wertfuzzy77#0274, ^
+16 Dec 2016 01:34:14 : The Wild Weebs, weeb, Botfuzzy77#2209, ^
+16 Dec 2016 01:34:18 : The Wild Weebs, weeb, Wertfuzzy77#0274, for 311
+16 Dec 2016 01:34:29 : The Wild Weebs, weeb, enragednuke#2565, ffs
+16 Dec 2016 01:34:34 : The Wild Weebs, weeb, enragednuke#2565, im just ignore ur dumb ass
+16 Dec 2016 01:34:36 : The Wild Weebs, weeb, enragednuke#2565, fuk u
+16 Dec 2016 01:34:41 : The Wild Weebs, weeb, Wertfuzzy77#0274, I would rate it like 7/10 but havent seen the arc yet, so could change
+16 Dec 2016 01:34:45 : The Wild Weebs, weeb, enragednuke#2565, DIE
+16 Dec 2016 01:34:46 : The Wild Weebs, weeb, enragednuke#2565, DIE
+16 Dec 2016 01:34:46 : The Wild Weebs, weeb, enragednuke#2565, DIE
+16 Dec 2016 01:34:46 : The Wild Weebs, weeb, enragednuke#2565, DIOE
+16 Dec 2016 01:34:46 : The Wild Weebs, weeb, enragednuke#2565, DIEW;OEUJFEWA
+16 Dec 2016 01:34:47 : The Wild Weebs, weeb, enragednuke#2565, GDFWHG
+16 Dec 2016 01:34:47 : The Wild Weebs, weeb, enragednuke#2565, GHR
+16 Dec 2016 01:34:47 : The Wild Weebs, weeb, enragednuke#2565, EWG
+16 Dec 2016 01:34:47 : The Wild Weebs, weeb, enragednuke#2565, FEQ
+16 Dec 2016 01:34:47 : The Wild Weebs, weeb, enragednuke#2565, EGF
+16 Dec 2016 01:34:55 : The Wild Weebs, weeb, enragednuke#2565, W
+16 Dec 2016 01:34:58 : The Wild Weebs, weeb, Tally#2764, no but actually it is a thing for 311
+16 Dec 2016 01:35:04 : The Wild Weebs, weeb, Tally#2764, its in the practice exam
+16 Dec 2016 01:35:12 : The Wild Weebs, weeb, enragednuke#2565, what question
+16 Dec 2016 01:35:16 : The Wild Weebs, weeb, Wertfuzzy77#0274, ^
+16 Dec 2016 01:35:16 : The Wild Weebs, weeb, Botfuzzy77#2209, ^
+16 Dec 2016 01:35:26 : The Wild Weebs, weeb, Tally#2764, ummmmmmmmmm
+16 Dec 2016 01:35:32 : The Wild Weebs, weeb, Tally#2764, 4.4
+16 Dec 2016 01:35:40 : The Wild Weebs, weeb, Tally#2764, its a reduction problem
+16 Dec 2016 01:36:17 : The Wild Weebs, weeb, enragednuke#2565, ```In this problem we investigate the feedback arc-set problem which
+generalizes the topological ordering. Given a directed graph (which may contain cycles), the goal
+in feedback arc-set is to find an ordering of the vertices that minimizes the number of back edges.
+```
+16 Dec 2016 01:36:18 : The Wild Weebs, weeb, enragednuke#2565, u dumb?
+16 Dec 2016 01:36:56 : The Developers, general, Nadeko#0312, 
+16 Dec 2016 01:37:10 : LimitlessMc, botchat, ChesireKat#7022, you just chilling or are you doing homework?
+16 Dec 2016 01:37:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;afk Studying for Final, If I dont come back on my tomorrow, i died
+16 Dec 2016 01:37:12 : LimitlessMc, botchat, Botfuzzy77#2209, Wertfuzzy77 is now AFK for reason:
+**Studying for Final, If I dont come back on my tomorrow, i died**
+16 Dec 2016 01:37:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;afk Studying for Final, If I dont come back on by tomorrow, i died
+16 Dec 2016 01:37:24 : LimitlessMc, botchat, Botfuzzy77#2209, Wertfuzzy77 is now AFK for reason:
+**Studying for Final, If I dont come back on by tomorrow, i died**
+16 Dec 2016 01:37:25 : LimitlessMc, botchat, ChesireKat#7022, that awnsers it
+16 Dec 2016 01:37:27 : LimitlessMc, botchat, ChesireKat#7022, XD
+16 Dec 2016 01:37:28 : LimitlessMc, botchat, ChesireKat#7022, 😛
+16 Dec 2016 01:37:38 : LimitlessMc, botchat, ChesireKat#7022, O.o died
+16 Dec 2016 01:37:45 : LimitlessMc, botchat, Wertfuzzy77#0274, hai, finals can kill
+16 Dec 2016 01:39:49 : LimitlessMc, botchat, Wertfuzzy77#0274, spooky
+16 Dec 2016 01:42:09 : The Wild Weebs, weeb, Tally#2764, what
+16 Dec 2016 01:42:24 : The Wild Weebs, weeb, Tally#2764, shhhhhhhhhhhhhhh
+16 Dec 2016 01:42:28 : The Wild Weebs, weeb, Tally#2764, i dont get it
+16 Dec 2016 01:43:55 : LimitlessMc, mainchat, Jabulla#3761, That would be nice yeah, it does seem pretty frequent.
+16 Dec 2016 01:44:13 : LimitlessMc, botchat, ChesireKat#7022, XD
+16 Dec 2016 01:44:14 : LimitlessMc, botchat, ChesireKat#7022, rip
+16 Dec 2016 01:44:22 : LimitlessMc, botchat, ChesireKat#7022, ill send help
+16 Dec 2016 01:44:28 : The Wild Weebs, weeb, Wertfuzzy77#0274, `feedback arc-set is to find an ordering of the vertices that minimizes the number of back edges.`
+16 Dec 2016 01:44:32 : The Developers, general, ❤Neko❤#0394, https://www.roblox.com/games/8377997/The-Conquerors-3
+16 Dec 2016 01:44:39 : The Wild Weebs, weeb, Tally#2764, ...........
+16 Dec 2016 01:44:41 : The Wild Weebs, weeb, Tally#2764, im dumb okay
+16 Dec 2016 01:44:49 : The Wild Weebs, weeb, Wertfuzzy77#0274, 😛
+16 Dec 2016 01:44:53 : LimitlessMc, botchat, ChesireKat#7022, just shoot a cyan blye flare into the sky and ill send help XD
+16 Dec 2016 01:45:25 : LimitlessMc, botchat, ChesireKat#7022, narc!
+16 Dec 2016 01:45:28 : LimitlessMc, botchat, ChesireKat#7022, welcome
+16 Dec 2016 01:45:30 : LimitlessMc, botchat, NarcoticMile#6198, whats wrong
+16 Dec 2016 01:45:34 : LimitlessMc, botchat, ChesireKat#7022, to the land of the anti social
+16 Dec 2016 01:45:36 : LimitlessMc, botchat, ChesireKat#7022, 😄
+16 Dec 2016 01:45:40 : LimitlessMc, botchat, NarcoticMile#6198, lol
+16 Dec 2016 01:45:42 : LimitlessMc, botchat, NarcoticMile#6198, wdym
+16 Dec 2016 01:45:59 : LimitlessMc, botchat, ChesireKat#7022, i dont talk to other people 😛
+16 Dec 2016 01:46:07 : LimitlessMc, botchat, NarcoticMile#6198, lol ok
+16 Dec 2016 01:46:11 : LimitlessMc, botchat, ChesireKat#7022, in here we just listen to music XD
+16 Dec 2016 01:46:14 : LimitlessMc, botchat, ChesireKat#7022, anti social
+16 Dec 2016 01:46:19 : LimitlessMc, botchat, ChesireKat#7022, btw servers up
+16 Dec 2016 01:46:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;server
+16 Dec 2016 01:46:24 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+16 Dec 2016 01:46:24 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 7 players out of 100
+ *Ping*: 116.135 ms
+ *MC Version*: 1.10.2
+16 Dec 2016 01:46:25 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *Myalo, ruleroftri, Chesire_Kat, Fiodor, Jabulla, Jay113355, crystal4209...*
+16 Dec 2016 01:46:27 : LimitlessMc, botchat, Wertfuzzy77#0274, true
+16 Dec 2016 01:46:28 : LimitlessMc, botchat, NarcoticMile#6198, cool
+16 Dec 2016 01:46:39 : LimitlessMc, botchat, NarcoticMile#6198, 👌
+16 Dec 2016 01:46:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+16 Dec 2016 01:46:42 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+16 Dec 2016 01:46:42 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Nightcore - Senbonzakura (Violin Cover) **Radio**
+	<https://www.youtube.com/watch?v=h5beVotiYww>
+Total Time is 0:02:38
+16 Dec 2016 01:46:51 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search I am the Doctor
+16 Dec 2016 01:46:56 : LimitlessMc, botchat, Botfuzzy77#2209, Added Doctor Who - 11th Doctor Theme "I am the Doctor!" to the queue
+16 Dec 2016 01:46:56 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=9kSf8w28Fs4
+16 Dec 2016 01:47:02 : LimitlessMc, botchat, ChesireKat#7022, ;search raise your kappa
+16 Dec 2016 01:47:04 : LimitlessMc, botchat, Botfuzzy77#2209, Added Raise your Kappa! (Forsen edition, cancer music) to the queue
+16 Dec 2016 01:47:04 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=BpHSm0KcW7o
+16 Dec 2016 01:47:06 : LimitlessMc, botchat, ChesireKat#7022, O.o
+16 Dec 2016 01:47:07 : LimitlessMc, botchat, ChesireKat#7022, 😛
+16 Dec 2016 01:47:10 : LimitlessMc, botchat, NarcoticMile#6198, img
+16 Dec 2016 01:47:12 : LimitlessMc, botchat, Wertfuzzy77#0274, great
+16 Dec 2016 01:47:14 : LimitlessMc, botchat, ChesireKat#7022, XD
+16 Dec 2016 01:47:15 : The Wild Weebs, weeb, Tally#2764, okay now solve the reduction
+16 Dec 2016 01:47:16 : LimitlessMc, botchat, ChesireKat#7022, lmao
+16 Dec 2016 01:47:17 : The Wild Weebs, weeb, Tally#2764, 4.4
+16 Dec 2016 01:47:17 : The Developers, general, Nadeko#0312, @2JJ1 Bb
+16 Dec 2016 01:47:19 : The Wild Weebs, weeb, Tally#2764, do it
+16 Dec 2016 01:47:25 : The Wild Weebs, weeb, Tally#2764, cause i dont get it
+16 Dec 2016 01:47:49 : LimitlessMc, botchat, ChesireKat#7022, someone showed me that song and im kinda addicted to it i listen to it at least once a day O.o
+16 Dec 2016 01:47:50 : LimitlessMc, botchat, NarcoticMile#6198, ;song
+16 Dec 2016 01:47:50 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Nightcore~ Child of light
+**Requester**: Radio
+**URL**: <https://www.youtube.com/watch?v=b4cT9JwKA8Q>
+```py
+Time: 0:02:47
+Views: 394,711
+Likes: 4,436, 98.73%
+Dislikes: 57, 1.27%```
+16 Dec 2016 01:48:18 : LimitlessMc, botchat, NarcoticMile#6198, downloading a gsme rn o the music is laggy som ima leave and come back once its done
+16 Dec 2016 01:48:20 : The Wild Weebs, weeb, Tally#2764, @Nubs (CS311)
+16 Dec 2016 01:48:37 : The Wild Weebs, weeb, enragednuke#2565, raiding
+16 Dec 2016 01:48:43 : The Wild Weebs, weeb, Wertfuzzy77#0274, same
+16 Dec 2016 01:49:11 : The Wild Weebs, weeb, Wertfuzzy77#0274, actually just have no idea how to solve 4.4
+16 Dec 2016 01:49:23 : The Wild Weebs, weeb, Tally#2764, okay good
+16 Dec 2016 01:49:31 : The Wild Weebs, weeb, Tally#2764, as long as im not alone
+16 Dec 2016 01:49:59 : The Wild Weebs, weeb, Wertfuzzy77#0274, ofc, a class that fails together scales together
+16 Dec 2016 01:50:00 : The Developers, general, ❤Neko❤#0394, didldo nub
+16 Dec 2016 01:52:17 : LimitlessMc, botchat, Wertfuzzy77#0274, doctor who 😄
+16 Dec 2016 01:52:18 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+16 Dec 2016 01:52:18 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Doctor Who - 11th Doctor Theme "I am the Doctor!"
+**Requester**: Wertfuzzy77
+**URL**: <https://www.youtube.com/watch?v=9kSf8w28Fs4>
+```py
+Time: 0:05:54
+Views: 2,604,638
+Likes: 19,591, 97.26%
+Dislikes: 551, 2.74%```
+16 Dec 2016 01:52:21 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+16 Dec 2016 01:52:21 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+16 Dec 2016 01:52:22 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Raise your Kappa! (Forsen edition, cancer music) **ChesireKat**
+	<https://www.youtube.com/watch?v=BpHSm0KcW7o>
+Total Time is 0:04:18
+16 Dec 2016 01:52:26 : LimitlessMc, botchat, Wertfuzzy77#0274, 😢
+16 Dec 2016 01:52:35 : LimitlessMc, botchat, ChesireKat#7022, yes! the next song is so good!
+16 Dec 2016 01:52:41 : LimitlessMc, botchat, Wertfuzzy77#0274, i skip ok
+16 Dec 2016 01:52:50 : LimitlessMc, botchat, ChesireKat#7022, no not my song plz
+16 Dec 2016 01:52:51 : LimitlessMc, botchat, ChesireKat#7022, ;-;
+16 Dec 2016 01:53:24 : LimitlessMc, botchat, ChesireKat#7022, ;song
+16 Dec 2016 01:53:24 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Doctor Who - 11th Doctor Theme "I am the Doctor!"
+**Requester**: Wertfuzzy77
+**URL**: <https://www.youtube.com/watch?v=9kSf8w28Fs4>
+```py
+Time: 0:05:54
+Views: 2,604,638
+Likes: 19,591, 97.26%
+Dislikes: 551, 2.74%```
+16 Dec 2016 01:53:28 : LimitlessMc, botchat, ChesireKat#7022, O.o
+16 Dec 2016 01:54:14 : The Developers, general, ❤Neko❤#0394, http://prntscr.com/dk01gs
+16 Dec 2016 01:57:41 : The Developers, general, Nadeko#0312, 20:57:11.239 - CURL error (curl_easy_perform): Timeout was reached (28)
+16 Dec 2016 01:58:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+16 Dec 2016 01:58:11 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Raise your Kappa! (Forsen edition, cancer music)
+**Requester**: ChesireKat
+**URL**: <https://www.youtube.com/watch?v=BpHSm0KcW7o>
+```py
+Time: 0:04:18
+Views: 5,513,605
+Likes: 46,695, 96.16%
+Dislikes: 1,864, 3.84%```
+16 Dec 2016 01:58:15 : LimitlessMc, botchat, ChesireKat#7022, yas!
+16 Dec 2016 01:58:20 : LimitlessMc, botchat, ChesireKat#7022, beatiful
+16 Dec 2016 01:58:48 : LimitlessMc, botchat, ChesireKat#7022, mew needs jungle hills to spawn doesnt it ;-;
+16 Dec 2016 01:58:53 : LimitlessMc, botchat, Wertfuzzy77#0274, can we not
+16 Dec 2016 01:58:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+16 Dec 2016 01:58:55 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+16 Dec 2016 01:58:55 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Daler Mehndi - Tunak Tunak Tun Video **Radio**
+	<https://www.youtube.com/watch?v=vTIIMJ9tUc8>
+Total Time is 0:04:16
+16 Dec 2016 01:59:05 : LimitlessMc, botchat, ChesireKat#7022, just wait a bit longer 😛
+16 Dec 2016 01:59:42 : LimitlessMc, botchat, ChesireKat#7022, 😛 you can skip if you want
+16 Dec 2016 02:00:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+16 Dec 2016 02:00:22 : LimitlessMc, botchat, Botfuzzy77#2209, 1/1 votes to skip
+16 Dec 2016 02:00:23 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Raise your Kappa! (Forsen edition, cancer music) by popular vote.
+16 Dec 2016 02:00:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Birthday cake remix
+16 Dec 2016 02:00:39 : LimitlessMc, botchat, Botfuzzy77#2209, Added Rihanna Feat. Chris Brown - Birthday Cake (Remix) - New 2012 - [With Lyrics] - [High Quality] to the queue
+16 Dec 2016 02:00:39 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=YxE75Otag1M
+16 Dec 2016 02:00:42 : LimitlessMc, botchat, Wertfuzzy77#0274, no
+16 Dec 2016 02:00:58 : LimitlessMc, botchat, ChesireKat#7022, ;skip
+16 Dec 2016 02:00:58 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Daler Mehndi - Tunak Tunak Tun Video by request (Radio Song)
+16 Dec 2016 02:01:06 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=jDXQN-gnLRo
+16 Dec 2016 02:01:06 : LimitlessMc, botchat, Botfuzzy77#2209, Added Birthday Cake Punjabi Remix - Mickey Singh Feat. Amar Sandhu OFFICIAL MUSIC VIDEO (2013) to the queue
+16 Dec 2016 02:01:08 : LimitlessMc, botchat, Wertfuzzy77#0274, LOL
+16 Dec 2016 02:01:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+16 Dec 2016 02:01:10 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: HEYYEYAAEYAAAEYAEYAA
+**Requester**: Radio
+**URL**: <https://www.youtube.com/watch?v=ZZ5LpwO-An4>
+```py
+Time: 0:02:07
+Views: 83,618,564
+Likes: 972,251, 96.84%
+Dislikes: 31,741, 3.16%```
+16 Dec 2016 02:01:13 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+16 Dec 2016 02:01:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ;loop
+16 Dec 2016 02:01:18 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*HEYYEYAAEYAAAEYAEYAA*' **1** more times
+16 Dec 2016 02:01:41 : LimitlessMc, botchat, Wertfuzzy77#0274, 11/10 song
+16 Dec 2016 02:01:48 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+16 Dec 2016 02:01:49 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+16 Dec 2016 02:01:49 : LimitlessMc, botchat, Botfuzzy77#2209, 1. HEYYEYAAEYAAAEYAEYAA **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=ZZ5LpwO-An4>
+2. Rihanna Feat. Chris Brown - Birthday Cake (Remix) - New 2012 - [With Lyrics] - [High Quality] **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=YxE75Otag1M>
+3. Birthday Cake Punjabi Remix - Mickey Singh Feat. Amar Sandhu OFFICIAL MUSIC VIDEO (2013) **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=jDXQN-gnLRo>
+Total Time is 0:09:39
+16 Dec 2016 02:01:53 : LimitlessMc, botchat, Wertfuzzy77#0274, lremove 2
+16 Dec 2016 02:01:56 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 2
+16 Dec 2016 02:01:56 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: Rihanna Feat. Chris Brown - Birthday Cake (Remix) - New 2012 - [With Lyrics] - [High Quality]
+16 Dec 2016 02:02:08 : LimitlessMc, botchat, Wertfuzzy77#0274, @Botfuzzy77 what you think about this song?
+16 Dec 2016 02:02:09 : LimitlessMc, botchat, Botfuzzy77#2209, I mean, you are trolling me right?
+16 Dec 2016 02:02:13 : LimitlessMc, botchat, Wertfuzzy77#0274, LOL
+16 Dec 2016 02:02:14 : LimitlessMc, botchat, Wertfuzzy77#0274, it knows
+16 Dec 2016 02:02:26 : LimitlessMc, botchat, Wertfuzzy77#0274, Im scared, my bot has become sentient
+16 Dec 2016 02:05:52 : LimitlessMc, botchat, ChesireKat#7022, XD yea
+16 Dec 2016 02:06:09 : LimitlessMc, botchat, ChesireKat#7022, ;afk i think its wwe downstairs right now O.o
+16 Dec 2016 02:06:09 : LimitlessMc, botchat, Botfuzzy77#2209, ChesireKat is now AFK for reason:
+**i think its wwe downstairs right now O.o**
+16 Dec 2016 02:06:15 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+16 Dec 2016 02:06:36 : The Developers, general, panaw#8080, http://prntscr.com/dk04qm i have a bad feeling the discord im making is gonna be shit
+16 Dec 2016 02:06:36 : The Developers, general, panaw#8080, x.x
+16 Dec 2016 02:06:50 : The Developers, general, Nadeko#0312, :3 No
+16 Dec 2016 02:09:48 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Highway to Hell Original
+16 Dec 2016 02:09:50 : LimitlessMc, botchat, Botfuzzy77#2209, Added AC/DC : Highway to hell (Full song) to the queue
+16 Dec 2016 02:09:50 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=k_jCu_u28Ig
+16 Dec 2016 02:09:51 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+16 Dec 2016 02:09:51 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Mickey Singh - Hold Me (Official Music Video) 4K by request (Radio Song)
+16 Dec 2016 02:09:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+16 Dec 2016 02:09:55 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Mickey Singh - Phone (Official Music Video) 4K by request (Radio Song)
+16 Dec 2016 02:14:20 : LimitlessMc, botchat, ChesireKat#7022, YAS! i love this song
+16 Dec 2016 02:14:23 : LimitlessMc, botchat, ChesireKat#7022, :3
+16 Dec 2016 02:14:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=k_jCu_u28Ig
+16 Dec 2016 02:14:38 : LimitlessMc, botchat, Botfuzzy77#2209, Added AC/DC : Highway to hell (Full song) to the queue
+16 Dec 2016 02:14:39 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 1
+16 Dec 2016 02:14:39 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: AC/DC - Hells Bells (from Live At Donington)
+16 Dec 2016 02:14:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+16 Dec 2016 02:14:42 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping AC/DC - Highway to Hell Live At Donington 1991 by request (Radio Song)
+16 Dec 2016 02:14:45 : LimitlessMc, botchat, ChesireKat#7022, i cri
+16 Dec 2016 02:14:46 : LimitlessMc, botchat, Wertfuzzy77#0274, original version is better
+16 Dec 2016 02:14:51 : LimitlessMc, botchat, ChesireKat#7022, 😄
+16 Dec 2016 02:14:54 : LimitlessMc, botchat, Wertfuzzy77#0274, ;loop 5
+16 Dec 2016 02:14:55 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*AC/DC : Highway to hell (Full song)*' **5** more times
+16 Dec 2016 02:15:16 : LimitlessMc, botchat, ChesireKat#7022, tbh i just love music.............any song XD
+16 Dec 2016 02:15:54 : LimitlessMc, botchat, NarcoticMile#6198, ;loop 7
+16 Dec 2016 02:15:55 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*AC/DC : Highway to hell (Full song)*' **7** more times
+16 Dec 2016 02:15:59 : LimitlessMc, botchat, NarcoticMile#6198, lele
+16 Dec 2016 02:16:14 : LimitlessMc, botchat, NarcoticMile#6198, ;loop 14
+16 Dec 2016 02:16:15 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*AC/DC : Highway to hell (Full song)*' **14** more times
+16 Dec 2016 02:16:18 : LimitlessMc, botchat, NarcoticMile#6198, lelelelele
+16 Dec 2016 02:16:29 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+16 Dec 2016 02:26:35 : LimitlessMc, botchat, NarcoticMile#6198, still goin eh
+16 Dec 2016 02:26:43 : LimitlessMc, botchat, ChesireKat#7022, XD yep
+16 Dec 2016 02:26:57 : LimitlessMc, botchat, NarcoticMile#6198, ;loop 20
+16 Dec 2016 02:26:58 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*AC/DC : Highway to hell (Full song)*' **20** more times
+16 Dec 2016 02:27:08 : LimitlessMc, botchat, ChesireKat#7022, lmao
+16 Dec 2016 02:27:25 : LimitlessMc, botchat, NarcoticMile#6198, reveng for the grinch song playin over and over
+16 Dec 2016 02:28:06 : LimitlessMc, botchat, Wertfuzzy77#0274, love this song tho
+16 Dec 2016 02:28:23 : LimitlessMc, botchat, ChesireKat#7022, yea XD not really revenge for anything
+16 Dec 2016 02:28:24 : LimitlessMc, botchat, ChesireKat#7022, 😛
+16 Dec 2016 02:28:32 : LimitlessMc, botchat, ChesireKat#7022, also he could remove it
+16 Dec 2016 02:28:33 : LimitlessMc, botchat, ChesireKat#7022, O.o
+16 Dec 2016 02:28:45 : LimitlessMc, botchat, ChesireKat#7022, to me music is music which is good 😛
+16 Dec 2016 02:30:11 : LimitlessMc, botchat, NarcoticMile#6198, yeah guess youre right
+16 Dec 2016 02:30:21 : LimitlessMc, botchat, Wertfuzzy77#0274, #;loop 100
+16 Dec 2016 02:30:26 : LimitlessMc, botchat, ChesireKat#7022, of course i am im me
+16 Dec 2016 02:30:29 : LimitlessMc, botchat, ChesireKat#7022, 😛
+16 Dec 2016 02:32:18 : LimitlessMc, botchat, ChesireKat#7022, hey wert any idea why it doesnt give me a notification when you type?
+16 Dec 2016 02:32:30 : LimitlessMc, botchat, ChesireKat#7022, it does for everyone else on every other server XD
+16 Dec 2016 02:34:34 : LimitlessMc, botchat, Wertfuzzy77#0274, ?
+16 Dec 2016 02:35:23 : LimitlessMc, botchat, ChesireKat#7022, when people type it does a little boop loop sound and then gives me a popup
+16 Dec 2016 02:35:26 : LimitlessMc, botchat, ChesireKat#7022, but not you
+16 Dec 2016 02:39:32 : LimitlessMc, botchat, Wertfuzzy77#0274, no idea
+16 Dec 2016 02:39:45 : LimitlessMc, botchat, ChesireKat#7022, ! it worked that time
+16 Dec 2016 02:40:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ?
+16 Dec 2016 02:40:06 : LimitlessMc, botchat, Wertfuzzy77#0274, weird
+16 Dec 2016 02:40:17 : LimitlessMc, botchat, ChesireKat#7022, i think its fixed XD
+16 Dec 2016 02:40:21 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+16 Dec 2016 02:40:21 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue, plus [30] more**
+16 Dec 2016 02:40:21 : LimitlessMc, botchat, Botfuzzy77#2209, 1. AC/DC : Highway to hell (Full song) **NarcoticMile**
+	<https://www.youtube.com/watch?v=k_jCu_u28Ig>
+2. AC/DC : Highway to hell (Full song) **NarcoticMile**
+	<https://www.youtube.com/watch?v=k_jCu_u28Ig>
+3. AC/DC : Highway to hell (Full song) **NarcoticMile**
+	<https://www.youtube.com/watch?v=k_jCu_u28Ig>
+4. AC/DC : Highway to hell (Full song) **NarcoticMile**
+	<https://www.youtube.com/watch?v=k_jCu_u28Ig>
+5. AC/DC : Highway to hell (Full song) **NarcoticMile**
+	<https://www.youtube.com/watch?v=k_jCu_u28Ig>
+6. AC/DC : Highway to hell (Full song) **NarcoticMile**
+	<https://www.youtube.com/watch?v=k_jCu_u28Ig>
+7. AC/DC : Highway to hell (Full song) **NarcoticMile**
+	<https://www.youtube.com/watch?v=k_jCu_u28Ig>
+8. AC/DC : Highway to hell (Full song) **NarcoticMile**
+	<https://www.youtube.com/watch?v=k_jCu_u28Ig>
+9. AC/DC : Highway to hell (Full song) **NarcoticMile**
+	<https://www.youtube.com/watch?v=k_jCu_u28Ig>
+10. AC/DC : Highway to hell (Full song) **NarcoticMile**
+	<https://www.youtube.com/watch?v=k_jCu_u28Ig>
+Total Time is 2:22:32
+16 Dec 2016 02:40:25 : LimitlessMc, botchat, Wertfuzzy77#0274, too many
+16 Dec 2016 02:40:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ;clear
+16 Dec 2016 02:40:31 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+16 Dec 2016 02:40:31 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue, plus [30] more**
+16 Dec 2016 02:40:31 : LimitlessMc, botchat, Botfuzzy77#2209, 1. AC/DC : Highway to hell (Full song) **NarcoticMile**
+	<https://www.youtube.com/watch?v=k_jCu_u28Ig>
+2. AC/DC : Highway to hell (Full song) **NarcoticMile**
+	<https://www.youtube.com/watch?v=k_jCu_u28Ig>
+3. AC/DC : Highway to hell (Full song) **NarcoticMile**
+	<https://www.youtube.com/watch?v=k_jCu_u28Ig>
+4. AC/DC : Highway to hell (Full song) **NarcoticMile**
+	<https://www.youtube.com/watch?v=k_jCu_u28Ig>
+5. AC/DC : Highway to hell (Full song) **NarcoticMile**
+	<https://www.youtube.com/watch?v=k_jCu_u28Ig>
+6. AC/DC : Highway to hell (Full song) **NarcoticMile**
+	<https://www.youtube.com/watch?v=k_jCu_u28Ig>
+7. AC/DC : Highway to hell (Full song) **NarcoticMile**
+	<https://www.youtube.com/watch?v=k_jCu_u28Ig>
+8. AC/DC : Highway to hell (Full song) **NarcoticMile**
+	<https://www.youtube.com/watch?v=k_jCu_u28Ig>
+9. AC/DC : Highway to hell (Full song) **NarcoticMile**
+	<https://www.youtube.com/watch?v=k_jCu_u28Ig>
+10. AC/DC : Highway to hell (Full song) **NarcoticMile**
+	<https://www.youtube.com/watch?v=k_jCu_u28Ig>
+Total Time is 2:22:32
+16 Dec 2016 02:40:33 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+16 Dec 2016 02:40:36 : LimitlessMc, botchat, Wertfuzzy77#0274, that didnt work
+16 Dec 2016 02:40:52 : LimitlessMc, botchat, Wertfuzzy77#0274, ;help clear
+16 Dec 2016 02:40:52 : LimitlessMc, botchat, Botfuzzy77#2209, ```
+;clear
+
+Clears the Queue
+
+```
+16 Dec 2016 02:43:31 : LimitlessMc, botchat, Wertfuzzy77#0274, ;relog
+16 Dec 2016 02:43:31 : LimitlessMc, botchat, Botfuzzy77#2209, Relogging...

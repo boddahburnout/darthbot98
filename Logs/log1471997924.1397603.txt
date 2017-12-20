@@ -1,0 +1,37 @@
+24 Aug 2016 00:18:55 : PassionMC, botchat, Wertfuzzy77#0274, ;config Set Welcome False
+24 Aug 2016 00:19:08 : PassionMC, botchat, Mystz#8072, ;debug
+24 Aug 2016 00:19:20 : PassionMC, botchat, Wertfuzzy77#0274, hep
+24 Aug 2016 00:19:25 : PassionMC, botchat, Mystz#8072, wat need
+24 Aug 2016 00:19:38 : PassionMC, botchat, Wertfuzzy77#0274, `discord.ext.commands.errors.CommandInvokeError: Command raised an exception: KeyError: 'PassionMC'`
+24 Aug 2016 00:19:53 : PassionMC, botchat, Wertfuzzy77#0274, basically, im learning JSON, and it hates me
+24 Aug 2016 00:19:59 : PassionMC, general, D3NSH1N#8702, How do you get in the list?
+24 Aug 2016 00:20:22 : PassionMC, botchat, Wertfuzzy77#0274, ;debug config Set TESTING 1
+24 Aug 2016 00:20:23 : PassionMC, botchat, Botfuzzy77#2209, ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+24 Aug 2016 00:20:27 : PassionMC, botchat, Wertfuzzy77#0274, woops
+24 Aug 2016 00:20:27 : PassionMC, general, D3NSH1N#8702, Also, @Wertfuzzy77  idk wtf you did to the bot but now the Join/Leave messages stay and dont dissapear lol
+24 Aug 2016 00:20:35 : PassionMC, botchat, Wertfuzzy77#0274, ;config Set TESTING 1
+24 Aug 2016 00:20:46 : PassionMC, general, Wertfuzzy77#0274, nah, i reloged him
+24 Aug 2016 00:20:50 : PassionMC, general, Wertfuzzy77#0274, so he didnt delete
+24 Aug 2016 00:20:56 : PassionMC, general, D3NSH1N#8702, o
+24 Aug 2016 00:21:00 : PassionMC, general, Botfuzzy77#2209, **Mank**(Admins) is now Online!
+24 Aug 2016 00:21:02 : PassionMC, general, Wertfuzzy77#0274, cause they are on a timer
+24 Aug 2016 00:21:10 : PassionMC, general, Wertfuzzy77#0274, so if i kill him while that timer is running
+24 Aug 2016 00:21:10 : PassionMC, general, D3NSH1N#8702, ye got it
+24 Aug 2016 00:21:12 : PassionMC, general, Wertfuzzy77#0274, it never deletes
+24 Aug 2016 00:21:15 : PassionMC, general, D3NSH1N#8702, It freezes
+24 Aug 2016 00:21:17 : PassionMC, general, D3NSH1N#8702, mhm
+24 Aug 2016 00:21:20 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+24 Aug 2016 00:21:20 : PassionMC, general, Botfuzzy77#2209, **Topheralan**(No Role) is now Online!
+24 Aug 2016 00:21:33 : LimitlessMc, mainchat, Mank#0033, lol why would that guy leave for me
+24 Aug 2016 00:21:50 : PassionMC, botchat, Wertfuzzy77#0274, ;debug CONFIG["Chocolate"]
+24 Aug 2016 00:21:50 : PassionMC, botchat, Botfuzzy77#2209, ```py
+KeyError: 'Chocolate'
+```
+24 Aug 2016 00:21:53 : PassionMC, general, Botfuzzy77#2209, **Dudubidu**(No Role) is now Offline!
+24 Aug 2016 00:21:53 : Cipher, general, Botfuzzy77#2209, **Dudubidu**(Grunt) is now Offline!
+24 Aug 2016 00:21:54 : PassionMC, botchat, Wertfuzzy77#0274, why no work
+24 Aug 2016 00:22:04 : PassionMC, botchat, Wertfuzzy77#0274, but the playlists one works ;-;
+24 Aug 2016 00:24:14 : PassionMC, botchat, Wertfuzzy77#0274, ;relog
+24 Aug 2016 00:24:14 : PassionMC, botchat, Botfuzzy77#2209, Relogging...

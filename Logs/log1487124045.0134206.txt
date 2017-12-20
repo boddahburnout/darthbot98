@@ -1,0 +1,162 @@
+15 Feb 2017 02:01:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+15 Feb 2017 02:01:39 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+15 Feb 2017 02:01:41 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio
+15 Feb 2017 02:01:41 : LimitlessMc, botchat, Botfuzzy77#2209, Please choose one of these options: 
+Electro Hub
+Chill Corner
+Korean Madness
+Japanese Lounge
+Classical
+Retro Renegade
+Metal Mix
+Hip-hop
+Electro Swing
+Purely Pop
+Rock-n-Roll
+Coffee-house Jazz
+Example: `;Radio Purely Pop`
+15 Feb 2017 02:01:45 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio a
+15 Feb 2017 02:01:46 : LimitlessMc, botchat, Botfuzzy77#2209, Please choose one of these options: 
+Electro Hub
+Chill Corner
+Korean Madness
+Japanese Lounge
+Classical
+Retro Renegade
+Metal Mix
+Hip-hop
+Electro Swing
+Purely Pop
+Rock-n-Roll
+Coffee-house Jazz
+Example: `;Radio Purely Pop`
+15 Feb 2017 02:01:56 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio Electro Hub
+15 Feb 2017 02:01:56 : LimitlessMc, botchat, Botfuzzy77#2209, Radio Mode: True
+15 Feb 2017 02:02:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio
+15 Feb 2017 02:02:01 : LimitlessMc, botchat, Botfuzzy77#2209, Please choose one of these options: 
+Electro Hub
+Chill Corner
+Korean Madness
+Japanese Lounge
+Classical
+Retro Renegade
+Metal Mix
+Hip-hop
+Electro Swing
+Purely Pop
+Rock-n-Roll
+Coffee-house Jazz
+Example: `;Radio Purely Pop`
+15 Feb 2017 02:02:08 : LimitlessMc, botchat, Wertfuzzy77#0274, ooooooooooooooooooooooooooooooooooooo
+15 Feb 2017 02:02:08 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+15 Feb 2017 02:02:08 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Porter Robinson & Madeon - Shelter (Official Audio)
+**Requester**: Radio: Electro Hub
+**URL**: <https://www.youtube.com/watch?v=HQnC1UHBvWA>
+```py
+Time: 0:03:38
+Views: 9,383,692
+Likes: 127,663, 99.08%
+Dislikes: 1,191, 0.92%
+Skips: 0/1```
+15 Feb 2017 02:02:26 : LimitlessMc, botchat, Wertfuzzy77#0274, GOD TIER RADIO
+15 Feb 2017 02:02:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+15 Feb 2017 02:02:30 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+15 Feb 2017 02:02:30 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Mako - Let Go Of The Wheel [Exclusive] **Radio: Electro Hub**
+	<https://www.youtube.com/watch?v=G798z-mziZ4>
+Total Time is 0:04:01
+15 Feb 2017 02:03:57 : LimitlessMc, botchat, Wertfuzzy77#0274, IT FOUND SHELTER
+15 Feb 2017 02:04:01 : LimitlessMc, botchat, Wertfuzzy77#0274, I DIDNT EVEN ASK IT TO
+15 Feb 2017 02:04:14 : LimitlessMc, botchat, Wertfuzzy77#0274, thanks @Botfuzzy77
+15 Feb 2017 02:04:16 : LimitlessMc, mainchat, Tgamer101#2795, eww
+15 Feb 2017 02:04:59 : LimitlessMc, mainchat, Wertfuzzy77#0274, Its on radio mode
+15 Feb 2017 02:05:06 : LimitlessMc, mainchat, Wertfuzzy77#0274, so it will continually play songs
+15 Feb 2017 02:05:11 : LimitlessMc, mainchat, Tgamer101#2795, NOyce
+15 Feb 2017 02:05:15 : LimitlessMc, mainchat, Wertfuzzy77#0274, you can change the radio station with ;Radio
+15 Feb 2017 02:05:16 : LimitlessMc, mainchat, brightborn#8961, night everyone
+15 Feb 2017 02:05:19 : LimitlessMc, mainchat, Wertfuzzy77#0274, night
+15 Feb 2017 02:05:23 : LimitlessMc, mainchat, Tgamer101#2795, ;radio
+15 Feb 2017 02:05:26 : LimitlessMc, mainchat, Wertfuzzy77#0274, in #botchat
+15 Feb 2017 02:05:28 : LimitlessMc, mainchat, Tgamer101#2795, oh
+15 Feb 2017 02:05:31 : LimitlessMc, mainchat, Wertfuzzy77#0274, and Capital R
+15 Feb 2017 02:05:32 : LimitlessMc, mainchat, Wertfuzzy77#0274, its weird
+15 Feb 2017 02:05:33 : LimitlessMc, mainchat, Tgamer101#2795, yeh
+15 Feb 2017 02:05:43 : LimitlessMc, botchat, Tgamer101#2795, ;Radio
+15 Feb 2017 02:05:43 : LimitlessMc, botchat, Botfuzzy77#2209, Please choose one of these options: 
+Electro Hub
+Chill Corner
+Korean Madness
+Japanese Lounge
+Classical
+Retro Renegade
+Metal Mix
+Hip-hop
+Electro Swing
+Purely Pop
+Rock-n-Roll
+Coffee-house Jazz
+Example: `;Radio Purely Pop`
+15 Feb 2017 02:06:19 : LimitlessMc, botchat, Tgamer101#2795, ;Radio Rock-n-Roll
+15 Feb 2017 02:06:19 : LimitlessMc, botchat, Botfuzzy77#2209, Currently listening to the Electro Hub radio channel
+15 Feb 2017 02:06:19 : LimitlessMc, botchat, Botfuzzy77#2209, Radio Mode: True
+15 Feb 2017 02:06:26 : LimitlessMc, botchat, Tgamer101#2795, wut
+15 Feb 2017 02:06:26 : LimitlessMc, botchat, LightBot#4090, Hek
+15 Feb 2017 02:06:29 : LimitlessMc, botchat, Wertfuzzy77#0274, working on the prints, they weird
+15 Feb 2017 02:06:31 : LimitlessMc, botchat, Wertfuzzy77#0274, but it worked
+15 Feb 2017 02:06:34 : LimitlessMc, botchat, Tgamer101#2795, yej
+15 Feb 2017 02:06:34 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 1
+15 Feb 2017 02:06:34 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: Tesla Boy - 1991 (Original Mix)
+15 Feb 2017 02:06:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+15 Feb 2017 02:06:37 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+15 Feb 2017 02:06:38 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Streetlight Manifesto - The blonde lead the blind **Radio: Rock-n-Roll**
+	<https://www.youtube.com/watch?v=0-Pr3TNI14g>
+Total Time is 0:04:49
+15 Feb 2017 02:06:39 : LimitlessMc, botchat, Tgamer101#2795, preet cool
+15 Feb 2017 02:06:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+15 Feb 2017 02:06:42 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Mako - Let Go Of The Wheel [Exclusive] by request (Radio Song)
+15 Feb 2017 02:06:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+15 Feb 2017 02:06:47 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+15 Feb 2017 02:06:47 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Survivor - Eye Of The Tiger **Radio: Rock-n-Roll**
+	<https://www.youtube.com/watch?v=btPJPFnesV4>
+Total Time is 0:04:11
+15 Feb 2017 02:06:51 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+15 Feb 2017 02:06:51 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Streetlight Manifesto - The blonde lead the blind by request (Radio Song)
+15 Feb 2017 02:07:14 : LimitlessMc, botchat, Wertfuzzy77#0274, just needs some cleaning up
+15 Feb 2017 02:07:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+15 Feb 2017 02:07:15 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+15 Feb 2017 02:07:15 : LimitlessMc, botchat, Botfuzzy77#2209, 1. RATATAT - CREAM ON CHROME **Radio: Rock-n-Roll**
+	<https://www.youtube.com/watch?v=xlcywgEMuGI>
+Total Time is 0:03:56
+15 Feb 2017 02:07:32 : Unity Of Nirvana, general, MattRuc#5481, hahah yea wurt told me i HAD to get a picture @#SHIP_CrystalBit
+15 Feb 2017 02:09:06 : LimitlessMc, mainchat, Tgamer101#2795, fuzzy are u allowed to put a certain song
+15 Feb 2017 02:09:11 : LimitlessMc, mainchat, Tgamer101#2795, ???
+15 Feb 2017 02:09:50 : LimitlessMc, mainchat, Wertfuzzy77#0274, ofc
+15 Feb 2017 02:09:59 : LimitlessMc, mainchat, Wertfuzzy77#0274, .;youtube and ;search
+15 Feb 2017 02:10:03 : LimitlessMc, mainchat, Wertfuzzy77#0274, youtube for links
+15 Feb 2017 02:10:15 : LimitlessMc, mainchat, Wertfuzzy77#0274, and search for key words, and have my code search for a songfor you
+15 Feb 2017 02:10:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Highway to Hell Original
+15 Feb 2017 02:10:26 : LimitlessMc, botchat, Botfuzzy77#2209, Added AC/DC : Highway to hell (Full song) to the queue
+15 Feb 2017 02:10:26 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=k_jCu_u28Ig
+15 Feb 2017 02:10:33 : LimitlessMc, botchat, Wertfuzzy77#0274, like that
+15 Feb 2017 02:10:34 : LimitlessMc, botchat, Tgamer101#2795, ;search
+15 Feb 2017 02:10:34 : LimitlessMc, botchat, Botfuzzy77#2209, You need to be in the voice channel!
+15 Feb 2017 02:10:46 : LimitlessMc, botchat, Tgamer101#2795, ;search
+15 Feb 2017 02:10:48 : LimitlessMc, botchat, Wertfuzzy77#0274, and give it key words
+15 Feb 2017 02:10:48 : LimitlessMc, botchat, Botfuzzy77#2209, Added Stephen Miller, You're Invited To Tell Lies On The Late Show to the queue
+15 Feb 2017 02:10:48 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=9F3tKTvaLT4
+15 Feb 2017 02:10:59 : LimitlessMc, botchat, Tgamer101#2795, lol
+15 Feb 2017 02:11:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+15 Feb 2017 02:11:02 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+15 Feb 2017 02:11:02 : LimitlessMc, botchat, Botfuzzy77#2209, 1. RATATAT - CREAM ON CHROME **Radio: Rock-n-Roll**
+	<https://www.youtube.com/watch?v=xlcywgEMuGI>
+2. AC/DC : Highway to hell (Full song) **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=k_jCu_u28Ig>
+3. Stephen Miller, You're Invited To Tell Lies On The Late Show **Tgamer101**
+	<https://www.youtube.com/watch?v=9F3tKTvaLT4>
+Total Time is 0:14:58
+15 Feb 2017 02:11:04 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 3
+15 Feb 2017 02:11:04 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: Stephen Miller, You're Invited To Tell Lies On The Late Show
+15 Feb 2017 02:11:06 : LimitlessMc, botchat, Tgamer101#2795, ;search megalovania
+15 Feb 2017 02:11:07 : LimitlessMc, botchat, Botfuzzy77#2209, Added Undertale OST - Megalovania Extended to the queue
+15 Feb 2017 02:11:07 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=B2jVbSI9H4o
+15 Feb 2017 02:11:22 : LimitlessMc, botchat, Tgamer101#2795, ooo
+15 Feb 2017 02:11:23 : LimitlessMc, botchat, Wertfuzzy77#0274, need to kill bot for a sec

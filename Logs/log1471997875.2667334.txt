@@ -1,0 +1,9 @@
+24 Aug 2016 00:18:06 : PassionMC, botchat, Wertfuzzy77#0274, ;config Set Welcome False
+24 Aug 2016 00:18:10 : PassionMC, botchat, Wertfuzzy77#0274, ;debug CONFIG[ctx.message.server.name]
+24 Aug 2016 00:18:10 : PassionMC, botchat, Botfuzzy77#2209, ```py
+KeyError: 'PassionMC'
+```
+24 Aug 2016 00:18:16 : PassionMC, general, Botfuzzy77#2209, **Dudubidu**(No Role) is now Online!
+24 Aug 2016 00:18:16 : Cipher, general, Botfuzzy77#2209, **Dudubidu**(Grunt) is now Online!
+24 Aug 2016 00:18:42 : PassionMC, botchat, Wertfuzzy77#0274, ;relog
+24 Aug 2016 00:18:42 : PassionMC, botchat, Botfuzzy77#2209, Relogging...

@@ -1,0 +1,803 @@
+20 Jan 2017 02:41:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+20 Jan 2017 02:41:36 : LimitlessMc, botchat, Crystal4209#4698, but i cant because its not of you :3
+20 Jan 2017 02:41:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=WDlODNJkvAE
+20 Jan 2017 02:41:43 : LimitlessMc, botchat, Botfuzzy77#2209, Sorry, that video has too little views to be Trustworthy. Needs [8,000] but has [989]
+20 Jan 2017 02:41:54 : LimitlessMc, botchat, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=WDlODNJkvAE
+20 Jan 2017 02:41:55 : LimitlessMc, botchat, MoonWolf#8885, 1,300 hrs of terraria..
+20 Jan 2017 02:41:58 : LimitlessMc, botchat, MoonWolf#8885, im impresed
+20 Jan 2017 02:42:49 : LimitlessMc, botchat, MoonWolf#8885, I started playing when hallow armor was the best.
+20 Jan 2017 02:42:51 : LimitlessMc, botchat, MoonWolf#8885, http://prntscr.com/dxwo9n
+20 Jan 2017 02:43:26 : LimitlessMc, botchat, MoonWolf#8885, Look... csgo is great
+20 Jan 2017 02:43:30 : LimitlessMc, botchat, MoonWolf#8885, if you play iwth 4 friends
+20 Jan 2017 02:43:31 : LimitlessMc, botchat, MoonWolf#8885, xD
+20 Jan 2017 02:43:42 : LimitlessMc, botchat, MoonWolf#8885, If you play solo, get ready for salt and toxicity.
+20 Jan 2017 02:44:06 : LimitlessMc, botchat, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=FcvVPuJVKcs
+20 Jan 2017 02:44:25 : LimitlessMc, botchat, MoonWolf#8885, ;search Dancing WIth Myself
+20 Jan 2017 02:44:27 : LimitlessMc, botchat, Botfuzzy77#2209, Added Billy Idol - Dancing With Myself (2001 Digital Remaster) to the queue
+20 Jan 2017 02:44:27 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=wGxDsaTHjrQ
+20 Jan 2017 02:44:37 : LimitlessMc, botchat, MoonWolf#8885, ;skip
+20 Jan 2017 02:44:37 : LimitlessMc, botchat, Botfuzzy77#2209, 1/2 votes to skip
+20 Jan 2017 02:44:45 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+20 Jan 2017 02:44:45 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping All Of Billy Joel's Greatest Hits Played At Once by request of the requester
+20 Jan 2017 02:45:15 : special server :3, general, Crystal4209#4698, @Wertfuzzy77 what should i code my bot in?
+20 Jan 2017 02:45:20 : special server :3, general, Wertfuzzy77#0274, Python
+20 Jan 2017 02:45:43 : Pokemon Mystery Dungeon, general, AnishaLunarAngel#5926, This chat is dead....
+20 Jan 2017 02:46:07 : Pokemon Mystery Dungeon, general, Wertfuzzy77#0274, ;kill chat
+20 Jan 2017 02:46:07 : Pokemon Mystery Dungeon, general, Botfuzzy77#2209, :skull: *Wertfuzzy77 Killed chat* :skull:
+20 Jan 2017 02:46:10 : Pokemon Mystery Dungeon, general, Wertfuzzy77#0274, yw
+20 Jan 2017 02:46:13 : Pokemon Mystery Dungeon, general, Wertfuzzy77#0274, i killed it for you
+20 Jan 2017 02:46:38 : LimitlessMc, botchat, MoonWolf#8885, brb 10 mins
+20 Jan 2017 02:46:49 : Pokemon Mystery Dungeon, general, AnishaLunarAngel#5926, ....
+20 Jan 2017 02:46:58 : Pokemon Mystery Dungeon, general, AnishaLunarAngel#5926, damn
+20 Jan 2017 02:47:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=oerZ1cYE-Qk
+20 Jan 2017 02:47:14 : Pokemon Mystery Dungeon, general, AnishaLunarAngel#5926, as if it weren't dead enough...
+20 Jan 2017 02:47:47 : Pokemon Mystery Dungeon, general, AnishaLunarAngel#5926, @Ponyta
+20 Jan 2017 02:48:08 : Pokemon Mystery Dungeon, general, AnishaLunarAngel#5926, :c
+20 Jan 2017 02:48:21 : special server :3, general, Crystal4209#4698, https://github.com/Rapptz/discord.py so how do i use this link?
+20 Jan 2017 02:48:49 : special server :3, general, Wertfuzzy77#0274, https://www.sublimetext.com/3
+20 Jan 2017 02:49:06 : special server :3, general, Wertfuzzy77#0274, https://www.python.org/downloads/
+20 Jan 2017 02:49:43 : special server :3, general, Wertfuzzy77#0274, https://pypi.python.org/pypi/pip/
+20 Jan 2017 02:49:49 : special server :3, general, Crystal4209#4698, with the sublime one which download ;-;
+20 Jan 2017 02:51:29 : special server :3, general, Wertfuzzy77#0274, ;debug ctx.message.server.member()
+20 Jan 2017 02:51:29 : special server :3, general, Botfuzzy77#2209, ```py
+AttributeError: 'Server' object has no attribute 'member'
+```
+20 Jan 2017 02:51:41 : special server :3, general, Wertfuzzy77#0274, ;debug ctx.message.server.get_all_members()
+20 Jan 2017 02:51:42 : special server :3, general, Botfuzzy77#2209, ```py
+AttributeError: 'Server' object has no attribute 'get_all_members'
+```
+20 Jan 2017 02:51:45 : special server :3, general, Crystal4209#4698, ;-; which python download i noob
+20 Jan 2017 02:51:46 : special server :3, general, Wertfuzzy77#0274, ;debug ctx.message.server.get_members()
+20 Jan 2017 02:51:46 : special server :3, general, Botfuzzy77#2209, ```py
+AttributeError: 'Server' object has no attribute 'get_members'
+```
+20 Jan 2017 02:51:52 : special server :3, general, Wertfuzzy77#0274, ;debug ctx.message.server.all_members()
+20 Jan 2017 02:51:52 : special server :3, general, Botfuzzy77#2209, ```py
+AttributeError: 'Server' object has no attribute 'all_members'
+```
+20 Jan 2017 02:52:17 : special server :3, general, Wertfuzzy77#0274, ;debug ctx.message.server.members
+20 Jan 2017 02:52:17 : special server :3, general, Botfuzzy77#2209, ```py
+dict_values([<discord.member.Member object at 0x7f2455660488>, <discord.member.Member object at 0x7f2455660268>, <discord.member.Member object at 0x7f24556601e0>, <discord.member.Member object at 0x7f24556602f0>, <discord.member.Member object at 0x7f2455660378>, <discord.member.Member object at 0x7f2455660400>])
+```
+20 Jan 2017 02:52:27 : special server :3, general, Wertfuzzy77#0274, ;debug [x.name for x in ctx.message.server.members]
+20 Jan 2017 02:52:27 : special server :3, general, Botfuzzy77#2209, ```py
+['RobotWorm_TheFourth', 'Botfuzzy77', 'Wertfuzzy77', 'Crystal4209', 'Third_Worm', 'CrystalBot4209']
+```
+20 Jan 2017 02:53:04 : special server :3, general, Wertfuzzy77#0274, ctx.message.server.features
+20 Jan 2017 02:53:07 : special server :3, general, Crystal4209#4698, ``python which download``
+20 Jan 2017 02:53:15 : special server :3, general, Wertfuzzy77#0274, ;debug ctx.message.server.features
+20 Jan 2017 02:53:15 : special server :3, general, Botfuzzy77#2209, ```py
+[]
+```
+20 Jan 2017 02:56:04 : Pokemon Mystery Dungeon, general, DicloniusSheep#6564, hm?
+20 Jan 2017 02:58:56 : Pokemon Mystery Dungeon, general, DicloniusSheep#6564, @Scyther
+20 Jan 2017 03:01:11 : None, Direct Message with TherminatorX, TherminatorX#6644, ;train
+20 Jan 2017 03:01:11 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You **Lost** to a Level 89 **Rhydon** (26% to beat)
+You **Beat** a Level 9 **Mew** for 470 XP (90% to beat)
+You **Beat** a Level 15 **Bagon** for 470 XP (90% to beat)
+You **Beat** a Level 15 **Watchog** for 470 XP (90% to beat)
+You **Lost** to a Level 51 **Musharna** (46% to beat)
+You **Lost** to a Level 70 **Sableye** (33% to beat)
+You **Beat** a Level 18 **Munna** for 470 XP (90% to beat)
+You **Beat** a Level 87 **Dustox** for 3430 XP (27% to beat)
+You **Beat** a Level 53 **Carnivine** for 2616 XP (44% to beat)
+You **Lost** to a Level 44 **Sunkern** (53% to beat)
+You **Lost** to a Level 70 **Rapidash** (33% to beat)
+You **Beat** a Level 26 **Garbodor** for 470 XP (90% to beat)
+You **Lost** to a Level 91 **Cresselia** (25% to beat)
+20 Jan 2017 03:01:11 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You trained for 8396 XP!
+20 Jan 2017 03:01:14 : LimitlessMc, botchat, MoonWolf#8885, That guy
+20 Jan 2017 03:01:22 : LimitlessMc, botchat, MoonWolf#8885, looks like the guy from Big Fat Liar
+20 Jan 2017 03:04:52 : Pokemon Mystery Dungeon, general, TherminatorX#6644, (Scyther wants to revive the chat)
+20 Jan 2017 03:08:19 : LimitlessMc, botchat, Crystal4209#4698, afk
+20 Jan 2017 03:08:32 : LimitlessMc, botchat, Wertfuzzy77#0274, ;afk
+20 Jan 2017 03:10:55 : LimitlessMc, mainchat, ChesireKat#7022, https://cdn.discordapp.com/attachments/228347599113945089/271838858981801989/ringandbracelet.png
+20 Jan 2017 03:11:13 : LimitlessMc, mainchat, ChesireKat#7022, ring and bracelet @Lightning
+20 Jan 2017 03:11:22 : LimitlessMc, mainchat, Lightning#6734, eyy
+20 Jan 2017 03:11:49 : LimitlessMc, mainchat, Lightning#6734, savage lookin asf
+20 Jan 2017 03:11:51 : LimitlessMc, mainchat, ChesireKat#7022, now to find someone else to attempt to draw
+20 Jan 2017 03:12:14 : LimitlessMc, mainchat, ChesireKat#7022, yea im happy that even tho i fucked up alot you still have the savage no fucks given expression
+20 Jan 2017 03:12:14 : LimitlessMc, mainchat, Lightning#6734, w8 brb
+20 Jan 2017 03:12:29 : LimitlessMc, mainchat, Lightning#6734, gotta roast this kid for being ignorant in my dev server sec
+20 Jan 2017 03:12:34 : LimitlessMc, mainchat, ChesireKat#7022, Xd
+20 Jan 2017 03:12:34 : LimitlessMc, botchat, MoonWolf#8885, ;afk World Of Tanks
+20 Jan 2017 03:12:34 : LimitlessMc, botchat, Botfuzzy77#2209, MoonWolf is now AFK for reason:
+**World Of Tanks**
+20 Jan 2017 03:17:02 : LimitlessMc, botchat, MoonWolf#8885, @Wertfuzzy77 Its this a mod or the alpha 16?
+20 Jan 2017 03:17:02 : LimitlessMc, botchat, MoonWolf#8885, http://prntscr.com/dxwxoj
+20 Jan 2017 03:17:14 : LimitlessMc, botchat, Wertfuzzy77#0274, Alpha
+20 Jan 2017 03:17:19 : LimitlessMc, botchat, MoonWolf#8885, Daaamn
+20 Jan 2017 03:17:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ya, they made a fancy world
+20 Jan 2017 03:17:49 : LimitlessMc, botchat, Wertfuzzy77#0274, some of those icons look like mod added settlements tho
+20 Jan 2017 03:17:55 : LimitlessMc, botchat, MoonWolf#8885, Probably.
+20 Jan 2017 03:37:39 : LimitlessMc, mainchat, Lightning#6734, LOL i made this moron cry
+20 Jan 2017 03:38:00 : LimitlessMc, mainchat, DicloniusSheep#6564, https://images.discordapp.net/.eJwNyMsNwyAMANBdGAATyjfbIIJI1MRG2FEPVXdvLu_wvuqep1rVLjJ4BdgOrjQ3zUKz9KY7UT9bGQfrShcUkVL3q6Ew2GhCTH7xD9m6YPJTS3I-WpNy8CG_nIMb30gf1AO7-v0BCski-Q.wJmbg-7CiFneaaZlC9ASosncmS8
+20 Jan 2017 03:38:21 : LimitlessMc, mainchat, Lightning#6734, can't stop lol'ing rn
+20 Jan 2017 03:41:04 : LimitlessMc, botchat, Crystal4209#4698, im not gonna talk since i have to get back to what ever im doing which is not on the comp
+20 Jan 2017 03:41:35 : LimitlessMc, botchat, Crystal4209#4698, but i shall be back after i plant my plant thingy
+20 Jan 2017 03:41:45 : LimitlessMc, mainchat, ChesireKat#7022, XD
+20 Jan 2017 03:41:50 : LimitlessMc, mainchat, ChesireKat#7022, how did you do that
+20 Jan 2017 03:41:56 : LimitlessMc, botchat, Crystal4209#4698, ;afk plant thingy
+20 Jan 2017 03:41:57 : LimitlessMc, botchat, Botfuzzy77#2209, Crystal4209 is now AFK for reason:
+**plant thingy**
+20 Jan 2017 03:42:41 : Pokemon Mystery Dungeon, general, AnishaLunarAngel#5926, hi o-o
+20 Jan 2017 03:45:17 : LimitlessMc, botchat, Wertfuzzy77#0274, plant thingy?
+20 Jan 2017 03:45:19 : LimitlessMc, botchat, Wertfuzzy77#0274, thats a new one
+20 Jan 2017 03:50:59 : LimitlessMc, botchat, Crystal4209#4698, lel
+20 Jan 2017 03:57:02 : None, Direct Message with TherminatorX, TherminatorX#6644, ;train
+20 Jan 2017 03:57:02 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Please wait 249 seconds before you can train again.
+20 Jan 2017 04:03:47 : LimitlessMc, botchat, TherminatorX#6644, Aaaand still beta bot
+20 Jan 2017 04:05:03 : LimitlessMc, botchat, Crystal4209#4698, ;train
+20 Jan 2017 04:05:03 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 37 **Sableye** (41% to beat)
+You **Beat** a Level 20 **Unown** for 697 XP (77% to beat)
+You **Lost** to a Level 49 **Shellos** (31% to beat)
+You **Lost** to a Level 44 **Rufflet** (35% to beat)
+You **Beat** a Level 40 **Electabuzz** for 1898 XP (38% to beat)
+You **Lost** to a Level 16 **Druddigon** (90% to beat)
+You **Beat** a Level 13 **Glalie** for 310 XP (90% to beat)
+You **Beat** a Level 35 **Slugma** for 1727 XP (44% to beat)
+You **Beat** a Level 56 **Crobat** for 2241 XP (27% to beat)
+You use a **Lucky Egg** to gain more XP!
+20 Jan 2017 04:05:03 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 10309 XP!
+20 Jan 2017 04:08:29 : LimitlessMc, mainchat, Lightning#6734, he came at me with some bs
+20 Jan 2017 04:08:39 : LimitlessMc, mainchat, Lightning#6734, trying to flame me about my coding for a game that I FIXED
+20 Jan 2017 04:08:46 : LimitlessMc, mainchat, Lightning#6734, sayin i made it worse
+20 Jan 2017 04:08:53 : LimitlessMc, mainchat, Lightning#6734, started calling me names n stuff
+20 Jan 2017 04:09:06 : LimitlessMc, mainchat, Lightning#6734, so i just flat out roasted the dude so hard he started crying in voicechat
+20 Jan 2017 04:09:27 : LimitlessMc, mainchat, ChesireKat#7022, XD
+20 Jan 2017 04:12:09 : LimitlessMc, mainchat, TherminatorX#6644, Nyeh
+20 Jan 2017 04:19:40 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;train
+20 Jan 2017 04:19:40 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 17 **Mantyke** for 320 XP (90% to beat)
+You **Beat** a Level 45 **Hitmontop** for 2062 XP (35% to beat)
+You **Lost** to a Level 27 **Bronzong** (59% to beat)
+You **Beat** a Level 61 **Golduck** for 2360 XP (26% to beat)
+You **Beat** a Level 17 **Emolga** for 320 XP (90% to beat)
+You **Beat** a Level 24 **Dragalge** for 1066 XP (66% to beat)
+You **Lost** to a Level 24 **Parasect** (66% to beat)
+You **Lost** to a Level 59 **Golbat** (27% to beat)
+You **Beat** a Level 4 **Uxie** for 320 XP (90% to beat)
+20 Jan 2017 04:19:40 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 6448 XP!
+20 Jan 2017 04:20:31 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+20 Jan 2017 04:20:31 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 50 **Lucario** for 2464 XP (44% to beat)
+You **Beat** a Level 12 **Pidgey** for 440 XP (90% to beat)
+You **Lost** to a Level 52 **Arbok** (42% to beat)
+You **Beat** a Level 3 **Carvanha** for 440 XP (90% to beat)
+You **Beat** a Level 16 **Aegislash** for 440 XP (90% to beat)
+You **Beat** a Level 38 **Lairon** for 1852 XP (57% to beat)
+You **Beat** a Level 4 **Chimecho** for 440 XP (90% to beat)
+You **Lost** to a Level 84 **Kricketune** (26% to beat)
+You **Lost** to a Level 72 **Gardevoir** (30% to beat)
+You **Beat** a Level 8 **Murkrow** for 440 XP (90% to beat)
+You **Beat** a Level 80 **Vivillon** for 3190 XP (27% to beat)
+You **Beat** a Level 52 **Rampardos** for 2538 XP (42% to beat)
+You Find a **Great Pokeloot** worth 13669 XP
+20 Jan 2017 04:20:31 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 25913 XP!
+20 Jan 2017 04:20:34 : LimitlessMc, botchat, Wertfuzzy77#0274, 😄
+20 Jan 2017 04:20:43 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+20 Jan 2017 04:20:43 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 44
+**XP**: 83428/91125
+**Boss Takedowns**: 20
+**Most Dmg in an Attack**: 10542
+20 Jan 2017 04:20:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+20 Jan 2017 04:20:46 : LimitlessMc, botchat, Botfuzzy77#2209, :first_place: **DanTurboX** Level **48**
+:second_place: **TherminatorX** Level **47**
+:third_place: **jjtwilefc** Level **46**
+:medal: Wertfuzzy77 Level 44
+:medal: MoonWolf Level 35
+:medal: MrMudkipKipperten Level 32
+:medal: Bakafish Level 31
+:medal: Crystal4209 Level 30
+:medal: 🌟💖Resolate💖🌟 Level 29
+:medal: theOnlyJuan Level 25
+20 Jan 2017 04:20:48 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebos
+20 Jan 2017 04:20:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokeboss
+20 Jan 2017 04:20:50 : LimitlessMc, botchat, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> hard to fight and reveal the boss.
+20 Jan 2017 04:20:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle nnnnnnnnnnnn
+20 Jan 2017 04:20:55 : LimitlessMc, botchat, Botfuzzy77#2209, Please use a Combination of **15** Types. `;types`
+20 Jan 2017 04:21:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle nnnnnnnnnnnnnnnn
+20 Jan 2017 04:21:03 : LimitlessMc, botchat, Botfuzzy77#2209, Please use a Combination of **15** Types. `;types`
+20 Jan 2017 04:21:07 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle nnnnnnnnnnnnnnnnn
+20 Jan 2017 04:21:07 : LimitlessMc, botchat, Botfuzzy77#2209, Please use a Combination of **15** Types. `;types`
+20 Jan 2017 04:21:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle nnnnnnnnnnnnnnn
+20 Jan 2017 04:21:11 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 71 Boss **Butterfree** has appeared in the Hard zone!
+It has 89815 Health.
+20 Jan 2017 04:21:11 : LimitlessMc, botchat, Botfuzzy77#2209, 
+20 Jan 2017 04:21:11 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :x: :x: :x: :x: :x: :white_check_mark: :x: :x: :x: :x: :x: :x:
+20 Jan 2017 04:21:11 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **39** damage
+20 Jan 2017 04:21:11 : LimitlessMc, botchat, Botfuzzy77#2209, Level 71 Boss **Butterfree** has 89776 health left.
+20 Jan 2017 04:21:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;-;
+20 Jan 2017 04:21:24 : LimitlessMc, botchat, Wertfuzzy77#0274, 89k hp
+20 Jan 2017 04:21:26 : LimitlessMc, botchat, Wertfuzzy77#0274, send help
+20 Jan 2017 04:23:36 : The Wild Weebs, general, enragednuke#2565, @Tally R A I D ?
+20 Jan 2017 04:23:38 : The Wild Weebs, general, enragednuke#2565, lol
+20 Jan 2017 04:23:52 : The Wild Weebs, general, Tally#2764, mike isnt on
+20 Jan 2017 04:23:56 : The Wild Weebs, general, Tally#2764, but im down if he is
+20 Jan 2017 04:25:39 : LimitlessMc, botchat, Crystal4209#4698, ;afk
+20 Jan 2017 04:25:39 : LimitlessMc, botchat, Botfuzzy77#2209, Crystal4209 is no Longer AFK
+20 Jan 2017 04:25:48 : LimitlessMc, botchat, Crystal4209#4698, ;pokebattle GGGGGGGG
+20 Jan 2017 04:25:49 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 36 Boss **Silcoon** has appeared in the Medium zone!
+It has 35388 Health.
+20 Jan 2017 04:25:49 : LimitlessMc, botchat, Botfuzzy77#2209, 
+20 Jan 2017 04:25:49 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g:
+:x: :x: :x: :x: :x: :x: :x: :x:
+20 Jan 2017 04:25:49 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **0** damage
+20 Jan 2017 04:25:49 : LimitlessMc, botchat, Botfuzzy77#2209, Level 36 Boss **Silcoon** has 35388 health left.
+20 Jan 2017 04:26:27 : LimitlessMc, botchat, Crystal4209#4698, ;cd
+20 Jan 2017 04:26:27 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 52 seconds
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 2317 seconds
+20 Jan 2017 04:27:01 : LimitlessMc, botchat, Crystal4209#4698, ;cd
+20 Jan 2017 04:27:01 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 18 seconds
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 2282 seconds
+20 Jan 2017 04:27:17 : LimitlessMc, botchat, Crystal4209#4698, ;pokebattle IIIIIIII
+20 Jan 2017 04:27:17 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 2 seconds before you can fight the boss again.
+20 Jan 2017 04:27:36 : LimitlessMc, botchat, Crystal4209#4698, ;pokebattle IIIIIIII
+20 Jan 2017 04:27:36 : LimitlessMc, botchat, Botfuzzy77#2209, Level 36 Boss **Silcoon** in Medium has 35388 health left.
+20 Jan 2017 04:27:36 : LimitlessMc, botchat, Botfuzzy77#2209, 
+20 Jan 2017 04:27:37 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i:
+:white_check_mark: :x: :x: :x: :white_check_mark: :x: :x: :x:
+20 Jan 2017 04:27:37 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **62** damage
+20 Jan 2017 04:27:37 : LimitlessMc, botchat, Botfuzzy77#2209, Level 36 Boss **Silcoon** has 35326 health left.
+20 Jan 2017 04:29:20 : LimitlessMc, botchat, Wertfuzzy77#0274, http://orig08.deviantart.net/4d08/f/2016/066/3/3/rimworld_by_jimmyagent007-d9u922y.png
+20 Jan 2017 04:29:58 : LimitlessMc, botchat, Crystal4209#4698, ;cd
+20 Jan 2017 04:29:58 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 2106 seconds
+20 Jan 2017 04:30:09 : LimitlessMc, botchat, Crystal4209#4698, ;pokebattle Igggiggg
+20 Jan 2017 04:30:10 : LimitlessMc, botchat, Botfuzzy77#2209, Level 36 Boss **Silcoon** in Medium has 35326 health left.
+20 Jan 2017 04:30:10 : LimitlessMc, botchat, Botfuzzy77#2209, 
+20 Jan 2017 04:30:10 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_i: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g:
+:white_check_mark: :x: :x: :x: :white_check_mark: :x: :x: :x:
+20 Jan 2017 04:30:10 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **58** damage
+20 Jan 2017 04:30:10 : LimitlessMc, botchat, Botfuzzy77#2209, Level 36 Boss **Silcoon** has 35268 health left.
+20 Jan 2017 04:30:52 : The Wild Weebs, general, Tally#2764, mike said nah
+20 Jan 2017 04:30:58 : special server :3, general, Crystal4209#4698, so with this https://pypi.python.org/pypi/pip/ what am i suppose to do?
+20 Jan 2017 04:35:25 : The Wild Weebs, general, enragednuke#2565, NEVER RAIDING EVER AGAIN
+20 Jan 2017 04:35:26 : The Wild Weebs, general, enragednuke#2565, REEEEEE
+20 Jan 2017 04:35:39 : The Wild Weebs, general, Wertfuzzy77#0274, rip
+20 Jan 2017 04:35:51 : LimitlessMc, botchat, Crystal4209#4698, ;pokebattle IbbbIbbb
+20 Jan 2017 04:35:51 : LimitlessMc, botchat, Botfuzzy77#2209, Level 36 Boss **Silcoon** in Medium has 35268 health left.
+20 Jan 2017 04:35:51 : LimitlessMc, botchat, Botfuzzy77#2209, 
+20 Jan 2017 04:35:51 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_i: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b:
+:white_check_mark: :x: :x: :x: :white_check_mark: :x: :x: :x:
+20 Jan 2017 04:35:51 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **79** damage
+20 Jan 2017 04:35:51 : LimitlessMc, botchat, Botfuzzy77#2209, Level 36 Boss **Silcoon** has 35189 health left.
+20 Jan 2017 04:37:44 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle iiiiiiiiniiiiii
+20 Jan 2017 04:37:44 : LimitlessMc, botchat, Botfuzzy77#2209, Level 71 Boss **Butterfree** in Hard has 89776 health left.
+20 Jan 2017 04:37:45 : LimitlessMc, botchat, Botfuzzy77#2209, 
+20 Jan 2017 04:37:45 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_n: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i:
+:x: :x: :x: :x: :x: :x: :x: :x: :white_check_mark: :x: :x: :x: :x: :x: :white_check_mark:
+20 Jan 2017 04:37:45 : LimitlessMc, mainchat, DicloniusSheep#6564, XD
+20 Jan 2017 04:37:45 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **102** damage
+20 Jan 2017 04:37:45 : LimitlessMc, botchat, Botfuzzy77#2209, Level 71 Boss **Butterfree** has 89674 health left.
+20 Jan 2017 04:38:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=FvibuxGwxEY
+20 Jan 2017 04:41:09 : LimitlessMc, botchat, Crystal4209#4698, look at what someone has done to the secret room in the pokecenter ;-;4
+20 Jan 2017 04:43:54 : LimitlessMc, mainchat, Crystal4209#4698, is this acceptable i know who did it since they said it in pm chat
+20 Jan 2017 04:56:48 : special server :3, general, Crystal4209#4698, so what pip thing do i need to download theres 2 ;-;
+20 Jan 2017 05:04:53 : Pokemon Mystery Dungeon, general, AnishaLunarAngel#5926, @Ponyta  Ponyyyyyyyyyyyyyyyy I need you on Pixel harmony qwq I need a higher rank in our town to unclaim land..
+20 Jan 2017 05:05:31 : Pokemon Mystery Dungeon, general, DicloniusSheep#6564, XD
+20 Jan 2017 05:05:45 : Pokemon Mystery Dungeon, general, DicloniusSheep#6564, i can give you admin rank
+20 Jan 2017 05:05:59 : Pokemon Mystery Dungeon, general, AnishaLunarAngel#5926, or like executive.. is what they call it I think xD
+20 Jan 2017 05:06:05 : Pokemon Mystery Dungeon, general, AnishaLunarAngel#5926, but I wanna show you the place I am making
+20 Jan 2017 05:06:17 : Pokemon Mystery Dungeon, general, AnishaLunarAngel#5926, and I want to know if you'd like to join me in making buildings there owo
+20 Jan 2017 05:06:33 : Pokemon Mystery Dungeon, general, AnishaLunarAngel#5926, like an actual town
+20 Jan 2017 05:11:51 : Pokemon Mystery Dungeon, general, DicloniusSheep#6564, yeah go aheadXD
+20 Jan 2017 05:12:11 : LimitlessMc, botchat, Crystal4209#4698, ;pokebattle IsssIsss
+20 Jan 2017 05:12:11 : LimitlessMc, botchat, Botfuzzy77#2209, Level 36 Boss **Silcoon** in Medium has 35189 health left.
+20 Jan 2017 05:12:11 : LimitlessMc, botchat, Botfuzzy77#2209, 
+20 Jan 2017 05:12:11 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_s: :regional_indicator_s: :regional_indicator_s: :regional_indicator_i: :regional_indicator_s: :regional_indicator_s: :regional_indicator_s:
+:white_check_mark: :x: :x: :x: :white_check_mark: :x: :x: :white_check_mark:
+20 Jan 2017 05:12:11 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **113** damage
+20 Jan 2017 05:12:11 : LimitlessMc, botchat, Botfuzzy77#2209, Level 36 Boss **Silcoon** has 35076 health left.
+20 Jan 2017 05:12:20 : Pokemon Mystery Dungeon, general, DicloniusSheep#6564, im too busy to play mc lately, cause it takes forever to load plus lots of lag
+20 Jan 2017 05:13:06 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokeboss
+20 Jan 2017 05:13:06 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Hard Boss Pokemon** =-
+*Name*: Butterfree
+*Health*: 89674/89815 (99.84%)
+*Level*: 71
+Last Combo:
+:regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_n: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i:
+:x: :x: :x: :x: :x: :x: :x: :x: :white_check_mark: :x: :x: :x: :x: :x: :white_check_mark:
+20 Jan 2017 05:13:06 : LimitlessMc, botchat, Botfuzzy77#2209, 
+20 Jan 2017 05:13:06 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **Wertfuzzy77** with **141** damage
+20 Jan 2017 05:13:21 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle ffffffffnfffffi
+20 Jan 2017 05:13:21 : LimitlessMc, botchat, Botfuzzy77#2209, Level 71 Boss **Butterfree** in Hard has 89674 health left.
+20 Jan 2017 05:13:22 : LimitlessMc, botchat, Botfuzzy77#2209, 
+20 Jan 2017 05:13:22 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_n: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_i:
+:x: :x: :x: :x: :x: :x: :x: :x: :white_check_mark: :x: :x: :x: :x: :x: :white_check_mark:
+20 Jan 2017 05:13:22 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **97** damage
+20 Jan 2017 05:13:22 : LimitlessMc, botchat, Botfuzzy77#2209, Level 71 Boss **Butterfree** has 89577 health left.
+20 Jan 2017 05:14:07 : LimitlessMc, botchat, Crystal4209#4698, ;pokebattle idddidds
+20 Jan 2017 05:14:07 : LimitlessMc, botchat, Botfuzzy77#2209, Level 36 Boss **Silcoon** in Medium has 35076 health left.
+20 Jan 2017 05:14:07 : LimitlessMc, botchat, Botfuzzy77#2209, 
+20 Jan 2017 05:14:08 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d: :regional_indicator_i: :regional_indicator_d: :regional_indicator_d: :regional_indicator_s:
+:white_check_mark: :x: :x: :x: :white_check_mark: :x: :x: :white_check_mark:
+20 Jan 2017 05:14:08 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **108** damage
+20 Jan 2017 05:14:08 : LimitlessMc, botchat, Botfuzzy77#2209, Level 36 Boss **Silcoon** has 34968 health left.
+20 Jan 2017 05:14:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+20 Jan 2017 05:14:47 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 44
+**XP**: 83447/91125
+**Boss Takedowns**: 20
+**Most Dmg in an Attack**: 10542
+20 Jan 2017 05:14:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+20 Jan 2017 05:14:50 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 341 seconds before you can train again.
+20 Jan 2017 05:14:52 : LimitlessMc, botchat, Crystal4209#4698, ;level
+20 Jan 2017 05:14:52 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Crystal4209*
+**Level**: 31
+**XP**: 17181/32768
+**Boss Takedowns**: 6
+**Most Dmg in an Attack**: 4990
+20 Jan 2017 05:14:58 : LimitlessMc, botchat, Crystal4209#4698, ;ranking
+20 Jan 2017 05:14:58 : LimitlessMc, botchat, Botfuzzy77#2209, :first_place: **DanTurboX** Level **48**
+:second_place: **TherminatorX** Level **47**
+:third_place: **jjtwilefc** Level **46**
+:medal: Wertfuzzy77 Level 44
+:medal: MoonWolf Level 35
+:medal: MrMudkipKipperten Level 32
+:medal: Crystal4209 Level 31
+:medal: Bakafish Level 31
+:medal: 🌟💖Resolate💖🌟 Level 29
+:medal: theOnlyJuan Level 25
+20 Jan 2017 05:15:26 : LimitlessMc, botchat, Crystal4209#4698, ;cd
+20 Jan 2017 05:15:26 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 12 seconds
+**Train** (*Note: Must be Level 10 to use ;train*)
+You can Train right now!
+20 Jan 2017 05:15:29 : LimitlessMc, botchat, Crystal4209#4698, ;train
+20 Jan 2017 05:15:29 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 39 **Hawlucha** for 1867 XP (39% to beat)
+You **Beat** a Level 27 **Emolga** for 1320 XP (57% to beat)
+You **Lost** to a Level 35 **Regirock** (44% to beat)
+You **Beat** a Level 40 **Phantump** for 1898 XP (38% to beat)
+You **Beat** a Level 1 **Ledian** for 310 XP (90% to beat)
+You **Beat** a Level 2 **Oshawott** for 310 XP (90% to beat)
+You **Lost** to a Level 44 **Teddiursa** (35% to beat)
+You **Lost** to a Level 28 **Teddiursa** (55% to beat)
+You **Beat** a Level 4 **Spritzee** for 310 XP (90% to beat)
+20 Jan 2017 05:15:29 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 6015 XP!
+20 Jan 2017 05:15:48 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokedex
+20 Jan 2017 05:15:48 : LimitlessMc, botchat, Botfuzzy77#2209, Your Pokedex is 13.86% complete!
+20 Jan 2017 05:15:52 : LimitlessMc, botchat, Crystal4209#4698, ;pokedex
+20 Jan 2017 05:15:52 : LimitlessMc, botchat, Botfuzzy77#2209, Your Pokedex is 10.86% complete!
+20 Jan 2017 05:19:02 : LimitlessMc, botchat, Crystal4209#4698, ;cd
+20 Jan 2017 05:19:02 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 3387 seconds
+20 Jan 2017 05:19:16 : LimitlessMc, botchat, Crystal4209#4698, ;pokebattle iwwwiwws
+20 Jan 2017 05:19:16 : LimitlessMc, botchat, Botfuzzy77#2209, Level 36 Boss **Silcoon** in Medium has 34968 health left.
+20 Jan 2017 05:19:16 : LimitlessMc, botchat, Botfuzzy77#2209, 
+20 Jan 2017 05:19:16 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_i: :regional_indicator_w: :regional_indicator_w: :regional_indicator_s:
+:white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :x: :x: :white_check_mark:
+20 Jan 2017 05:19:17 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+20 Jan 2017 05:19:17 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **273** damage
+20 Jan 2017 05:19:21 : LimitlessMc, botchat, Botfuzzy77#2209, Level 36 Boss **Silcoon** has 34695 health left.
+20 Jan 2017 05:19:35 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokeboss
+20 Jan 2017 05:19:35 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Hard Boss Pokemon** =-
+*Name*: Butterfree
+*Health*: 89577/89815 (99.74%)
+*Level*: 71
+Last Combo:
+:regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_n: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_i:
+:x: :x: :x: :x: :x: :x: :x: :x: :white_check_mark: :x: :x: :x: :x: :x: :white_check_mark:
+20 Jan 2017 05:19:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+20 Jan 2017 05:19:35 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **Wertfuzzy77** with **238** damage
+20 Jan 2017 05:19:49 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle ggggggggngggggi
+20 Jan 2017 05:19:49 : LimitlessMc, botchat, Botfuzzy77#2209, Level 71 Boss **Butterfree** in Hard has 89577 health left.
+20 Jan 2017 05:19:49 : LimitlessMc, botchat, Botfuzzy77#2209, 
+20 Jan 2017 05:19:49 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_n: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_g: :regional_indicator_i:
+:x: :x: :x: :x: :x: :x: :x: :x: :white_check_mark: :white_check_mark: :x: :x: :x: :x: :white_check_mark:
+20 Jan 2017 05:19:49 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **117** damage
+20 Jan 2017 05:19:49 : LimitlessMc, botchat, Botfuzzy77#2209, Level 71 Boss **Butterfree** has 89460 health left.
+20 Jan 2017 05:20:36 : None, Direct Message with TherminatorX, TherminatorX#6644, ;train
+20 Jan 2017 05:20:36 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You **Lost** to a Level 12 **Mime jr.** (90% to beat)
+You **Beat** a Level 92 **Poliwhirl** for 3499 XP (25% to beat)
+You **Beat** a Level 46 **Aegislash** for 2298 XP (51% to beat)
+You **Lost** to a Level 52 **Klefki** (45% to beat)
+You **Lost** to a Level 5 **Lickitung** (90% to beat)
+You **Lost** to a Level 90 **Pancham** (26% to beat)
+You **Beat** a Level 93 **Spoink** for 3512 XP (25% to beat)
+You **Beat** a Level 2 **Pumpkaboo** for 470 XP (90% to beat)
+You **Lost** to a Level 82 **Manaphy** (28% to beat)
+You **Beat** a Level 16 **Anorith** for 470 XP (90% to beat)
+You **Lost** to a Level 39 **Spoink** (60% to beat)
+You **Beat** a Level 57 **Raichu** for 2762 XP (41% to beat)
+You **Lost** to a Level 92 **Magby** (25% to beat)
+You use a **Lucky Egg** to gain more XP!
+20 Jan 2017 05:20:36 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You trained for 19516 XP!
+20 Jan 2017 05:20:39 : LimitlessMc, botchat, Crystal4209#4698, ;cd
+20 Jan 2017 05:20:39 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 12 seconds
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 3290 seconds
+20 Jan 2017 05:20:53 : LimitlessMc, botchat, Crystal4209#4698, ;pokebattle Iwpwipps
+20 Jan 2017 05:20:53 : LimitlessMc, botchat, Botfuzzy77#2209, Level 36 Boss **Silcoon** in Medium has 34695 health left.
+20 Jan 2017 05:20:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+20 Jan 2017 05:20:53 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_w: :regional_indicator_p: :regional_indicator_w: :regional_indicator_i: :regional_indicator_p: :regional_indicator_p: :regional_indicator_s:
+:white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :x: :x: :white_check_mark:
+20 Jan 2017 05:20:53 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+20 Jan 2017 05:20:53 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **307** damage
+20 Jan 2017 05:20:58 : LimitlessMc, botchat, Botfuzzy77#2209, Level 36 Boss **Silcoon** has 34388 health left.
+20 Jan 2017 05:20:59 : LimitlessMc, botchat, Crystal4209#4698, ;types
+20 Jan 2017 05:21:00 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Possible Types ** =-
+:regional_indicator_n: ormal
+:regional_indicator_f: ire
+:regional_indicator_w: ater
+:regional_indicator_g: rass
+:regional_indicator_p: oison
+:regional_indicator_d: ragon
+:regional_indicator_s: teel
+:regional_indicator_e: lectric
+:regional_indicator_b: ug
+:regional_indicator_i: ce
+20 Jan 2017 05:23:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cd
+20 Jan 2017 05:23:19 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 10 to use ;train*)
+You can Train right now!
+20 Jan 2017 05:23:21 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+20 Jan 2017 05:23:21 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 16 **Emboar** for 440 XP (90% to beat)
+You **Lost** to a Level 67 **Pansear** (32% to beat)
+You **Beat** a Level 38 **Pinsir** for 1852 XP (57% to beat)
+You **Lost** to a Level 84 **Honedge** (26% to beat)
+You **Beat** a Level 54 **Typhlosion** for 2607 XP (40% to beat)
+You **Beat** a Level 44 **Seedot** for 2200 XP (50% to beat)
+You **Lost** to a Level 67 **Natu** (32% to beat)
+You **Lost** to a Level 87 **Arbok** (25% to beat)
+You **Beat** a Level 12 **Slurpuff** for 440 XP (90% to beat)
+You **Lost** to a Level 62 **Ledyba** (35% to beat)
+You **Lost** to a Level 60 **Dewgong** (36% to beat)
+You **Lost** to a Level 84 **Typhlosion** (26% to beat)
+You Find an **Masterball Pokeloot** worth 91126 XP
+20 Jan 2017 05:23:21 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 98665 XP!
+20 Jan 2017 05:23:28 : LimitlessMc, botchat, Crystal4209#4698, hacks
+20 Jan 2017 05:23:48 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+20 Jan 2017 05:23:48 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 45
+**XP**: 90996/97336
+**Boss Takedowns**: 20
+**Most Dmg in an Attack**: 10542
+20 Jan 2017 05:23:58 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+20 Jan 2017 05:23:58 : LimitlessMc, botchat, Botfuzzy77#2209, :first_place: **DanTurboX** Level **48**
+:second_place: **TherminatorX** Level **47**
+:third_place: **jjtwilefc** Level **46**
+:medal: Wertfuzzy77 Level 45
+:medal: MoonWolf Level 35
+:medal: MrMudkipKipperten Level 32
+:medal: Crystal4209 Level 31
+:medal: Bakafish Level 31
+:medal: 🌟💖Resolate💖🌟 Level 29
+:medal: theOnlyJuan Level 25
+20 Jan 2017 05:24:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cd ssssssssngssssi
+20 Jan 2017 05:24:13 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 3549 seconds
+20 Jan 2017 05:24:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle ssssssssngssssi
+20 Jan 2017 05:24:23 : LimitlessMc, botchat, Botfuzzy77#2209, Level 71 Boss **Butterfree** in Hard has 89460 health left.
+20 Jan 2017 05:24:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+20 Jan 2017 05:24:23 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_s: :regional_indicator_s: :regional_indicator_s: :regional_indicator_s: :regional_indicator_s: :regional_indicator_s: :regional_indicator_s: :regional_indicator_s: :regional_indicator_n: :regional_indicator_g: :regional_indicator_s: :regional_indicator_s: :regional_indicator_s: :regional_indicator_s: :regional_indicator_i:
+:x: :x: :x: :x: :x: :white_check_mark: :x: :x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :x: :x: :white_check_mark:
+20 Jan 2017 05:24:24 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **248** damage
+20 Jan 2017 05:24:24 : LimitlessMc, botchat, Botfuzzy77#2209, Level 71 Boss **Butterfree** has 89212 health left.
+20 Jan 2017 05:24:32 : LimitlessMc, botchat, Crystal4209#4698, ;pokebattle iwewiees
+20 Jan 2017 05:24:32 : LimitlessMc, botchat, Botfuzzy77#2209, Level 36 Boss **Silcoon** in Medium has 34388 health left.
+20 Jan 2017 05:24:32 : LimitlessMc, botchat, Botfuzzy77#2209, 
+20 Jan 2017 05:24:32 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_w: :regional_indicator_e: :regional_indicator_w: :regional_indicator_i: :regional_indicator_e: :regional_indicator_e: :regional_indicator_s:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :x: :white_check_mark:
+20 Jan 2017 05:24:32 : LimitlessMc, botchat, Botfuzzy77#2209, Its a Critical Strike
+20 Jan 2017 05:24:32 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+20 Jan 2017 05:24:37 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **942** damage
+20 Jan 2017 05:24:37 : LimitlessMc, botchat, Botfuzzy77#2209, Level 36 Boss **Silcoon** has 33446 health left.
+20 Jan 2017 05:25:58 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cd
+20 Jan 2017 05:25:58 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 3443 seconds
+20 Jan 2017 05:26:01 : LimitlessMc, botchat, Crystal4209#4698, /cd
+20 Jan 2017 05:26:03 : LimitlessMc, botchat, Crystal4209#4698, ;cd
+20 Jan 2017 05:26:03 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 4 seconds
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 2966 seconds
+20 Jan 2017 05:26:16 : LimitlessMc, botchat, Crystal4209#4698, ;pokebattle iwewiffs
+20 Jan 2017 05:26:16 : LimitlessMc, botchat, Botfuzzy77#2209, Level 36 Boss **Silcoon** in Medium has 33446 health left.
+20 Jan 2017 05:26:16 : LimitlessMc, botchat, Botfuzzy77#2209, 
+20 Jan 2017 05:26:16 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_w: :regional_indicator_e: :regional_indicator_w: :regional_indicator_i: :regional_indicator_f: :regional_indicator_f: :regional_indicator_s:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark:
+20 Jan 2017 05:26:16 : LimitlessMc, botchat, Botfuzzy77#2209, Its Super Effective! The Boss has switched 1/4 of the Super Effective Moves!
+20 Jan 2017 05:26:17 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **3151** damage
+20 Jan 2017 05:26:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle wwwwwswwngwswwi
+20 Jan 2017 05:26:21 : LimitlessMc, botchat, Botfuzzy77#2209, Level 36 Boss **Silcoon** has 30295 health left.
+20 Jan 2017 05:26:21 : LimitlessMc, botchat, Botfuzzy77#2209, Level 71 Boss **Butterfree** in Hard has 89212 health left.
+20 Jan 2017 05:26:21 : LimitlessMc, botchat, Botfuzzy77#2209, 
+20 Jan 2017 05:26:21 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_w: :regional_indicator_s: :regional_indicator_w: :regional_indicator_w: :regional_indicator_n: :regional_indicator_g: :regional_indicator_w: :regional_indicator_s: :regional_indicator_w: :regional_indicator_w: :regional_indicator_i:
+:x: :x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :x: :x: :white_check_mark:
+20 Jan 2017 05:26:22 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+20 Jan 2017 05:26:26 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **872** damage
+20 Jan 2017 05:26:27 : LimitlessMc, botchat, Botfuzzy77#2209, Level 71 Boss **Butterfree** has 88340 health left.
+20 Jan 2017 05:26:37 : LimitlessMc, botchat, Crystal4209#4698, ;types
+20 Jan 2017 05:26:38 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Possible Types ** =-
+:regional_indicator_n: ormal
+:regional_indicator_f: ire
+:regional_indicator_w: ater
+:regional_indicator_g: rass
+:regional_indicator_p: oison
+:regional_indicator_d: ragon
+:regional_indicator_s: teel
+:regional_indicator_e: lectric
+:regional_indicator_b: ug
+:regional_indicator_i: ce
+20 Jan 2017 05:28:13 : LimitlessMc, botchat, Crystal4209#4698, gibsdwpef
+20 Jan 2017 05:28:29 : LimitlessMc, botchat, Crystal4209#4698, ;cd
+20 Jan 2017 05:28:29 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 2819 seconds
+20 Jan 2017 05:28:47 : LimitlessMc, botchat, Crystal4209#4698, ;pokebattle iwewinfs
+20 Jan 2017 05:28:47 : LimitlessMc, botchat, Botfuzzy77#2209, Level 36 Boss **Silcoon** in Medium has 30295 health left.
+20 Jan 2017 05:28:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+20 Jan 2017 05:28:47 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_w: :regional_indicator_e: :regional_indicator_w: :regional_indicator_i: :regional_indicator_n: :regional_indicator_f: :regional_indicator_s:
+:white_check_mark: :x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark:
+20 Jan 2017 05:28:47 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+20 Jan 2017 05:28:47 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **328** damage
+20 Jan 2017 05:28:52 : LimitlessMc, botchat, Botfuzzy77#2209, Level 36 Boss **Silcoon** has 29967 health left.
+20 Jan 2017 05:29:07 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cd
+20 Jan 2017 05:29:07 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 3254 seconds
+20 Jan 2017 05:29:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle eewweswengeseei
+20 Jan 2017 05:29:29 : LimitlessMc, botchat, Botfuzzy77#2209, Level 71 Boss **Butterfree** in Hard has 88340 health left.
+20 Jan 2017 05:29:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+20 Jan 2017 05:29:29 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_e: :regional_indicator_e: :regional_indicator_w: :regional_indicator_w: :regional_indicator_e: :regional_indicator_s: :regional_indicator_w: :regional_indicator_e: :regional_indicator_n: :regional_indicator_g: :regional_indicator_e: :regional_indicator_s: :regional_indicator_e: :regional_indicator_e: :regional_indicator_i:
+:x: :white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :x: :white_check_mark: :white_check_mark:
+20 Jan 2017 05:29:29 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+20 Jan 2017 05:29:29 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **1040** damage
+20 Jan 2017 05:29:34 : LimitlessMc, botchat, Botfuzzy77#2209, Level 71 Boss **Butterfree** has 87300 health left.
+20 Jan 2017 05:29:47 : LimitlessMc, botchat, Crystal4209#4698, ;song
+20 Jan 2017 05:29:47 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Billy Joel   Live at Wembley 1984
+**Requester**: Wertfuzzy77
+**URL**: <https://www.youtube.com/watch?v=FvibuxGwxEY>
+```py
+Time: 1:44:39
+Views: 181,415
+Likes: 796, 97.07%
+Dislikes: 24, 2.93%
+Skips: 0/2```
+20 Jan 2017 05:30:29 : LimitlessMc, botchat, Crystal4209#4698, ;pokebattle ipewpnfs
+20 Jan 2017 05:30:29 : LimitlessMc, botchat, Botfuzzy77#2209, Level 36 Boss **Silcoon** in Medium has 29967 health left.
+20 Jan 2017 05:30:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+20 Jan 2017 05:30:29 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_p: :regional_indicator_e: :regional_indicator_w: :regional_indicator_p: :regional_indicator_n: :regional_indicator_f: :regional_indicator_s:
+:white_check_mark: :x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark:
+20 Jan 2017 05:30:29 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+20 Jan 2017 05:30:29 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **430** damage
+20 Jan 2017 05:30:34 : LimitlessMc, botchat, Botfuzzy77#2209, Level 36 Boss **Silcoon** has 29537 health left.
+20 Jan 2017 05:34:39 : LimitlessMc, botchat, Crystal4209#4698, ;cd
+20 Jan 2017 05:34:39 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 2450 seconds
+20 Jan 2017 05:34:53 : LimitlessMc, botchat, Crystal4209#4698, ;pokebattle idewdnfs
+20 Jan 2017 05:34:53 : LimitlessMc, botchat, Botfuzzy77#2209, Level 36 Boss **Silcoon** in Medium has 29537 health left.
+20 Jan 2017 05:34:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+20 Jan 2017 05:34:53 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_d: :regional_indicator_e: :regional_indicator_w: :regional_indicator_d: :regional_indicator_n: :regional_indicator_f: :regional_indicator_s:
+:white_check_mark: :x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark:
+20 Jan 2017 05:34:53 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+20 Jan 2017 05:34:53 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **430** damage
+20 Jan 2017 05:34:58 : LimitlessMc, botchat, Botfuzzy77#2209, Level 36 Boss **Silcoon** has 29107 health left.
+20 Jan 2017 05:42:44 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=h5EofwRzit0
+20 Jan 2017 05:42:45 : LimitlessMc, botchat, Botfuzzy77#2209, Added Daft Punk - Get Lucky (Full Video) to the queue
+20 Jan 2017 05:42:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokeboss
+20 Jan 2017 05:42:47 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Hard Boss Pokemon** =-
+*Name*: Butterfree
+*Health*: 87300/89815 (97.2%)
+*Level*: 71
+Last Combo:
+:regional_indicator_e: :regional_indicator_e: :regional_indicator_w: :regional_indicator_w: :regional_indicator_e: :regional_indicator_s: :regional_indicator_w: :regional_indicator_e: :regional_indicator_n: :regional_indicator_g: :regional_indicator_e: :regional_indicator_s: :regional_indicator_e: :regional_indicator_e: :regional_indicator_i:
+:x: :white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :x: :white_check_mark: :white_check_mark:
+20 Jan 2017 05:42:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+20 Jan 2017 05:42:47 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **Wertfuzzy77** with **2515** damage
+20 Jan 2017 05:42:58 : LimitlessMc, botchat, Wertfuzzy77#0274, ;musicdebug self.useQueue()
+20 Jan 2017 05:43:07 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=h5EofwRzit0
+20 Jan 2017 05:43:08 : LimitlessMc, botchat, Botfuzzy77#2209, Added Daft Punk - Get Lucky (Full Video) to the queue
+20 Jan 2017 05:43:34 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle DEWEDSWDNGDSDEI
+20 Jan 2017 05:43:34 : LimitlessMc, botchat, Botfuzzy77#2209, Level 71 Boss **Butterfree** in Hard has 87300 health left.
+20 Jan 2017 05:43:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+20 Jan 2017 05:43:35 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_d: :regional_indicator_e: :regional_indicator_w: :regional_indicator_e: :regional_indicator_d: :regional_indicator_s: :regional_indicator_w: :regional_indicator_d: :regional_indicator_n: :regional_indicator_g: :regional_indicator_d: :regional_indicator_s: :regional_indicator_d: :regional_indicator_e: :regional_indicator_i:
+:white_check_mark: :white_check_mark: :white_check_mark: :x: :x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+20 Jan 2017 05:43:35 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+20 Jan 2017 05:43:35 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **1248** damage
+20 Jan 2017 05:43:39 : LimitlessMc, botchat, Botfuzzy77#2209, Level 71 Boss **Butterfree** has 86052 health left.
+20 Jan 2017 05:45:57 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cd
+20 Jan 2017 05:45:57 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 2244 seconds
+20 Jan 2017 05:45:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle DEWWBSWBNGDSDEI
+20 Jan 2017 05:45:59 : LimitlessMc, botchat, Botfuzzy77#2209, Level 71 Boss **Butterfree** in Hard has 86052 health left.
+20 Jan 2017 05:46:00 : LimitlessMc, botchat, Botfuzzy77#2209, 
+20 Jan 2017 05:46:00 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_d: :regional_indicator_e: :regional_indicator_w: :regional_indicator_w: :regional_indicator_b: :regional_indicator_s: :regional_indicator_w: :regional_indicator_b: :regional_indicator_n: :regional_indicator_g: :regional_indicator_d: :regional_indicator_s: :regional_indicator_d: :regional_indicator_e: :regional_indicator_i:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+20 Jan 2017 05:46:00 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+20 Jan 2017 05:46:02 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **1159** damage
+20 Jan 2017 05:46:02 : LimitlessMc, botchat, Botfuzzy77#2209, Level 71 Boss **Butterfree** has 84893 health left.
+20 Jan 2017 05:46:33 : LimitlessMc, botchat, Crystal4209#4698, ;pokebattle ibewbnfs
+20 Jan 2017 05:46:33 : LimitlessMc, botchat, Botfuzzy77#2209, Level 36 Boss **Silcoon** in Medium has 29107 health left.
+20 Jan 2017 05:46:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+20 Jan 2017 05:46:33 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_b: :regional_indicator_e: :regional_indicator_w: :regional_indicator_b: :regional_indicator_n: :regional_indicator_f: :regional_indicator_s:
+:white_check_mark: :x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark:
+20 Jan 2017 05:46:33 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+20 Jan 2017 05:46:33 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **430** damage
+20 Jan 2017 05:46:38 : LimitlessMc, botchat, Botfuzzy77#2209, Level 36 Boss **Silcoon** has 28677 health left.
+20 Jan 2017 05:47:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cd
+20 Jan 2017 05:47:42 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 2139 seconds
+20 Jan 2017 05:47:48 : LimitlessMc, botchat, Crystal4209#4698, ;cd
+20 Jan 2017 05:47:48 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 20 seconds
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 1661 seconds
+20 Jan 2017 05:47:57 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle DEWWPSWPNGDSDEI
+20 Jan 2017 05:47:57 : LimitlessMc, botchat, Botfuzzy77#2209, Level 71 Boss **Butterfree** in Hard has 84893 health left.
+20 Jan 2017 05:47:58 : LimitlessMc, botchat, Botfuzzy77#2209, 
+20 Jan 2017 05:47:58 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_d: :regional_indicator_e: :regional_indicator_w: :regional_indicator_w: :regional_indicator_p: :regional_indicator_s: :regional_indicator_w: :regional_indicator_p: :regional_indicator_n: :regional_indicator_g: :regional_indicator_d: :regional_indicator_s: :regional_indicator_d: :regional_indicator_e: :regional_indicator_i:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+20 Jan 2017 05:47:58 : LimitlessMc, botchat, Botfuzzy77#2209, Its a Perfect Combo. The Boss has switched 1/2 of the Super Effective Moves!
+20 Jan 2017 05:47:58 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **35084** damage
+20 Jan 2017 05:48:02 : LimitlessMc, botchat, Crystal4209#4698, hacks
+20 Jan 2017 05:48:02 : LimitlessMc, botchat, Botfuzzy77#2209, Level 71 Boss **Butterfree** has 49809 health left.
+20 Jan 2017 05:48:09 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokeboss
+20 Jan 2017 05:48:09 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Hard Boss Pokemon** =-
+*Name*: Butterfree
+*Health*: 49809/89815 (55.46%)
+*Level*: 71
+Last Combo:
+:regional_indicator_d: :regional_indicator_e: :regional_indicator_w: :regional_indicator_w: :regional_indicator_p: :regional_indicator_s: :regional_indicator_w: :regional_indicator_p: :regional_indicator_n: :regional_indicator_g: :regional_indicator_d: :regional_indicator_s: :regional_indicator_d: :regional_indicator_e: :regional_indicator_i:
+:white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark:
+20 Jan 2017 05:48:09 : LimitlessMc, botchat, Botfuzzy77#2209, 
+20 Jan 2017 05:48:09 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **Wertfuzzy77** with **40006** damage
+20 Jan 2017 05:48:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+20 Jan 2017 05:48:19 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 45
+**XP**: 94297/97336
+**Boss Takedowns**: 20
+**Most Dmg in an Attack**: 35084
+20 Jan 2017 05:48:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cd
+20 Jan 2017 05:48:23 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 70 seconds
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 2098 seconds
+20 Jan 2017 05:48:26 : LimitlessMc, botchat, Crystal4209#4698, ;cd
+20 Jan 2017 05:48:26 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 1622 seconds
+20 Jan 2017 05:48:42 : LimitlessMc, botchat, Crystal4209#4698, ;pokebattle isewsnfs
+20 Jan 2017 05:48:42 : LimitlessMc, botchat, Botfuzzy77#2209, Level 36 Boss **Silcoon** in Medium has 28677 health left.
+20 Jan 2017 05:48:42 : LimitlessMc, botchat, Botfuzzy77#2209, 
+20 Jan 2017 05:48:42 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_s: :regional_indicator_e: :regional_indicator_w: :regional_indicator_s: :regional_indicator_n: :regional_indicator_f: :regional_indicator_s:
+:white_check_mark: :x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :white_check_mark:
+20 Jan 2017 05:48:43 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+20 Jan 2017 05:48:43 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **389** damage
+20 Jan 2017 05:48:47 : LimitlessMc, botchat, Botfuzzy77#2209, Level 36 Boss **Silcoon** has 28288 health left.
+20 Jan 2017 05:48:49 : LimitlessMc, botchat, Crystal4209#4698, ;level
+20 Jan 2017 05:48:49 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Crystal4209*
+**Level**: 31
+**XP**: 23747/32768
+**Boss Takedowns**: 6
+**Most Dmg in an Attack**: 4990
+20 Jan 2017 05:49:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+20 Jan 2017 05:49:28 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 45
+**XP**: 94297/97336
+**Boss Takedowns**: 20
+**Most Dmg in an Attack**: 35084
+20 Jan 2017 05:49:54 : LimitlessMc, botchat, Crystal4209#4698, ;cd
+20 Jan 2017 05:49:54 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 23 seconds
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 1535 seconds
+20 Jan 2017 05:49:59 : LimitlessMc, botchat, Crystal4209#4698, ;pokedex
+20 Jan 2017 05:49:59 : LimitlessMc, botchat, Botfuzzy77#2209, Your Pokedex is 10.86% complete!
+20 Jan 2017 05:51:26 : The Wild Weebs, general, enragednuke#2565, @Tally "The clickzone of potions in raids has been increased, you should now find them easier to pick up."
+20 Jan 2017 05:51:28 : The Wild Weebs, general, enragednuke#2565, GOD BLESS
+20 Jan 2017 05:51:48 : The Wild Weebs, general, Tally#2764, lol when a game company listens to its players
+20 Jan 2017 05:51:56 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokedex
+20 Jan 2017 05:51:56 : LimitlessMc, botchat, Botfuzzy77#2209, Your Pokedex is 14.48% complete!
+20 Jan 2017 05:52:04 : The Wild Weebs, general, enragednuke#2565, there's a lot of plaayyer suggested updates in this last patch
+20 Jan 2017 05:52:21 : None, Direct Message with TherminatorX, TherminatorX#6644, ;train
+20 Jan 2017 05:52:21 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Please wait 1695 seconds before you can train again.
+20 Jan 2017 05:52:26 : LimitlessMc, botchat, Crystal4209#4698, 18:35:04] [Client thread/INFO]: [CHAT] Welcome TehCrystalRose To the server!
+[18:35:04] [Client thread/INFO]: [CHAT] [Trainer] DerpyGamer112: selling moltres shrine msg me
+[18:35:04] [Client thread/INFO]: [CHAT] BlackShadow21 has just earned the achievement [Getting Wood]
+[18:35:04] [Client thread/INFO]: [CHAT] [Info] New to the mod? Check out this small tutorial [Pixelmon_tutorial]
+[18:35:04] [Client thread/INFO]: [CHAT] [Server] The world is being saved..
+[18:35:05] [Client thread/INFO]: [CHAT] [Server] Save complete!
+[18:35:07] [Client thread/INFO]: [CHAT] [Trainer] Jasyul: YES my pokemon evold
+[18:35:11] [Client thread/INFO]: [CHAT] [Trainer] superbchip599: yessssssssss
+[18:35:12] [Client thread/INFO]: [CHAT] [Trainer] SkellyTheKing: into magikarp
+[18:35:14] [Client thread/INFO]: [CHAT] QCKLU joined the game
+[18:35:18] [Client thread/INFO]: [CHAT] [PokeMaster] Survivra has kicked superbchip599 for I said less "s"
+[18:35:18] [Client thread/INFO]: [CHAT] superbchip599 left the game
+[18:35:32] [Client thread/INFO]: [CHAT] [Donator] Zempyre: Selling Larvestas you slumdogs
+[18:35:33] [Client thread/INFO]: [CHAT] [VIP] MGvV: i come online, first think i c is som1 get kicked lol
+[18:35:39] [Client thread/INFO]: [CHAT] [Trainer] BalancePorridge: Is anyone near a savanna?
+[18:35:45] [Client thread/INFO]: [CHAT] [Donator] Zempyre: @BalancePorridge
+[18:35:47] [Client thread/INFO]: [CHAT] [Trainer] blackhand95: Anyone can team
+[18:35:47] [Client thread/INFO]: [CHAT] [Trainer] DerpyGamer112: selling moltres shrine msg me
+[18:35:49] [Client thread/INFO]: [CHAT] [Donator] Zempyre: want tp?
+[18:35:49] [Client thread/INFO]: [CHAT] TehCrystalRose has just earned the achievement [Taking Inventory]
+[18:35:59] [Client thread/INFO]: [CHAT] [Trainer] BalancePorridge: yes please
+[18:36:05] [Client thread/INFO]: [CHAT] [Trainer] DerpyGamer112: selling moltres shrine msg me
+20 Jan 2017 05:52:30 : LimitlessMc, botchat, Crystal4209#4698, no welcome for me ;-;
+20 Jan 2017 05:53:05 : LimitlessMc, botchat, Crystal4209#4698, i have logs for everything
+20 Jan 2017 05:53:10 : LimitlessMc, botchat, Wertfuzzy77#0274, xD why tho
+20 Jan 2017 05:53:36 : LimitlessMc, botchat, Crystal4209#4698, cause to prove a point that i never got welcomed when i first joined the server
+20 Jan 2017 05:53:52 : LimitlessMc, botchat, Crystal4209#4698, the only thing that welcomed me was the server its self no one else
+20 Jan 2017 05:54:17 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+20 Jan 2017 05:54:38 : LimitlessMc, botchat, Crystal4209#4698, then again the only staff on at the time was surv...
+20 Jan 2017 05:56:21 : LimitlessMc, botchat, Crystal4209#4698, ;afk protection
+20 Jan 2017 05:56:21 : LimitlessMc, botchat, Botfuzzy77#2209, Crystal4209 is now AFK for reason:
+**protection**
+20 Jan 2017 05:56:34 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gif wat
+20 Jan 2017 05:56:35 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/what-social-media-hashtags-HN5GohNhPQQ00
+20 Jan 2017 05:58:50 : LimitlessMc, botchat, Wertfuzzy77#0274, Alright, I go watch assassination classroom now
+20 Jan 2017 05:58:54 : LimitlessMc, botchat, Wertfuzzy77#0274, ;afk anime needs me
+20 Jan 2017 05:58:54 : LimitlessMc, botchat, Botfuzzy77#2209, Wertfuzzy77 is now AFK for reason:
+**anime needs me**
+20 Jan 2017 06:01:56 : LimitlessMc, botchat, Crystal4209#4698, noo dont leave me
+20 Jan 2017 06:07:48 : LimitlessMc, botchat, DanTurboX#4833, ;train
+20 Jan 2017 06:07:49 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 70 **Meowth** for 3154 XP (34% to beat)
+You **Beat** a Level 5 **Delcatty** for 480 XP (90% to beat)
+You **Beat** a Level 94 **Charmander** for 3574 XP (25% to beat)
+You **Lost** to a Level 58 **Magmar** (41% to beat)
+You **Lost** to a Level 27 **Camerupt** (88% to beat)
+You **Beat** a Level 29 **Altaria** for 827 XP (82% to beat)
+You **Lost** to a Level 75 **Abra** (32% to beat)
+You **Lost** to a Level 51 **Torterra** (47% to beat)
+You **Beat** a Level 24 **Kingler** for 480 XP (90% to beat)
+You **Lost** to a Level 86 **Timburr** (27% to beat)
+You **Beat** a Level 57 **Jolteon** for 2778 XP (42% to beat)
+You **Lost** to a Level 53 **Vullaby** (45% to beat)
+You **Beat** a Level 21 **Tornadus** for 480 XP (90% to beat)
+20 Jan 2017 06:07:49 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 11773 XP!
+20 Jan 2017 06:08:00 : LimitlessMc, botchat, DanTurboX#4833, ;level
+20 Jan 2017 06:08:00 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *DanTurboX*
+**Level**: 48
+**XP**: 49460/117649
+**Boss Takedowns**: 19
+**Most Dmg in an Attack**: 12623
+20 Jan 2017 06:08:05 : LimitlessMc, botchat, Crystal4209#4698, ;train
+20 Jan 2017 06:08:05 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 444 seconds before you can train again.
+20 Jan 2017 06:08:18 : LimitlessMc, botchat, DanTurboX#4833, ;ranking
+20 Jan 2017 06:08:18 : LimitlessMc, botchat, Botfuzzy77#2209, :first_place: **DanTurboX** Level **48**
+:second_place: **TherminatorX** Level **47**
+:third_place: **jjtwilefc** Level **46**
+:medal: Wertfuzzy77 Level 45
+:medal: MoonWolf Level 35
+:medal: MrMudkipKipperten Level 32
+:medal: Crystal4209 Level 31
+:medal: Bakafish Level 31
+:medal: 🌟💖Resolate💖🌟 Level 29
+:medal: theOnlyJuan Level 25
+20 Jan 2017 06:10:54 : Pokemon Mystery Dungeon, general, AnishaLunarAngel#5926, qwq am I executive or whatever yet tho?
+20 Jan 2017 06:11:16 : Pokemon Mystery Dungeon, general, AnishaLunarAngel#5926, I still can't unclaim..
+20 Jan 2017 06:11:42 : Pokemon Mystery Dungeon, general, AnishaLunarAngel#5926, I mean.. I can wait.. I'd just like to know when you can..
+20 Jan 2017 06:15:25 : LimitlessMc, botchat, Crystal4209#4698, ;afk
+20 Jan 2017 06:15:25 : LimitlessMc, botchat, Botfuzzy77#2209, Crystal4209 is no Longer AFK
+20 Jan 2017 06:15:27 : LimitlessMc, botchat, Crystal4209#4698, /c
+20 Jan 2017 06:15:28 : LimitlessMc, botchat, Crystal4209#4698, ;cd
+20 Jan 2017 06:15:29 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 10 to use ;train*)
+You need to wait 0 seconds

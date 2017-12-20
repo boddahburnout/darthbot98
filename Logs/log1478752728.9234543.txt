@@ -1,0 +1,250 @@
+10 Nov 2016 04:38:53 : LimitlessMc, botchat, Wertfuzzy77#0274, and starting up
+10 Nov 2016 04:38:57 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+10 Nov 2016 04:39:04 : LimitlessMc, botchat, Wertfuzzy77#0274, ;help search
+10 Nov 2016 04:39:04 : LimitlessMc, botchat, Botfuzzy77#2209, ```
+;search [Pinput...]
+
+```
+10 Nov 2016 04:39:12 : LimitlessMc, botchat, medicDemon236#8022, too many songs stuffed into that bot I bet
+10 Nov 2016 04:39:17 : LimitlessMc, botchat, Wertfuzzy77#0274, do ;search <Keywords>
+10 Nov 2016 04:39:19 : LimitlessMc, botchat, Wertfuzzy77#0274, like
+10 Nov 2016 04:39:31 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Greatest Hits of all time
+10 Nov 2016 04:39:36 : LimitlessMc, botchat, Botfuzzy77#2209, Added Biggest Football Hits Ever to the queue
+10 Nov 2016 04:39:37 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=v-1MQ0Cnbhs
+10 Nov 2016 04:39:37 : LimitlessMc, botchat, theOnlyJuan#9357, ;search digimon theme song
+10 Nov 2016 04:39:39 : LimitlessMc, botchat, Botfuzzy77#2209, Added digimon theme song - full version to the queue
+10 Nov 2016 04:39:39 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=MJvpOrzcGbI
+10 Nov 2016 04:39:43 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+10 Nov 2016 04:39:43 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Biggest Football Hits Ever
+10 Nov 2016 04:39:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+10 Nov 2016 04:39:50 : LimitlessMc, botchat, Botfuzzy77#2209, ```Name: digimon theme song - full version
+URL: <https://www.youtube.com/watch?v=MJvpOrzcGbI>
+Time: 0:02:59
+Views: 3,979,063
+Likes: 15,675, 93.68%
+Dislikes: 1,057, 6.32%
+```
+10 Nov 2016 04:40:03 : LimitlessMc, botchat, Wertfuzzy77#0274, or if you have a specifc video you want
+10 Nov 2016 04:40:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;help youtube
+10 Nov 2016 04:40:06 : LimitlessMc, botchat, Botfuzzy77#2209, ```
+;youtube [links...]
+
+Adds a Song for the Bot to Play
+
+```
+10 Nov 2016 04:40:29 : LimitlessMc, botchat, theOnlyJuan#9357, Havent heard this opening theme in a while
+10 Nov 2016 04:40:45 : LimitlessMc, botchat, medicDemon236#8022, ;youtube [https://youtu.be/tW82Ftg_5iw]
+10 Nov 2016 04:40:56 : LimitlessMc, botchat, Wertfuzzy77#0274, no [ lol
+10 Nov 2016 04:41:06 : LimitlessMc, botchat, Wertfuzzy77#0274, just the link will do
+10 Nov 2016 04:41:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+10 Nov 2016 04:41:11 : LimitlessMc, botchat, Botfuzzy77#2209, Queue is Empty
+10 Nov 2016 04:41:16 : LimitlessMc, botchat, Wertfuzzy77#0274, doesnt work if you edit it
+10 Nov 2016 04:41:26 : LimitlessMc, botchat, medicDemon236#8022, damn okay give me a sec lol
+10 Nov 2016 04:41:38 : LimitlessMc, botchat, medicDemon236#8022, ;youtube https://youtu.be/tW82Ftg_5iw
+10 Nov 2016 04:41:39 : LimitlessMc, botchat, Botfuzzy77#2209, Added Lugia's Song Remix to the queue
+10 Nov 2016 04:41:41 : LimitlessMc, botchat, Wertfuzzy77#0274, there
+10 Nov 2016 04:41:43 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+10 Nov 2016 04:41:43 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+10 Nov 2016 04:41:43 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Lugia's Song Remix
+	<https://youtu.be/tW82Ftg_5iw>
+Total Time is 0:05:40
+10 Nov 2016 04:41:53 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+10 Nov 2016 04:41:54 : LimitlessMc, botchat, Botfuzzy77#2209, ```Name: digimon theme song - full version
+URL: <https://www.youtube.com/watch?v=MJvpOrzcGbI>
+Time: 0:02:59
+Views: 3,979,063
+Likes: 15,675, 93.68%
+Dislikes: 1,057, 6.32%
+```
+10 Nov 2016 04:41:56 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+10 Nov 2016 04:41:56 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping digimon theme song - full version
+10 Nov 2016 04:42:08 : LimitlessMc, botchat, theOnlyJuan#9357, ;loop 2
+10 Nov 2016 04:42:14 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*Lugia's Song Remix*' **2** more times
+10 Nov 2016 04:42:31 : LimitlessMc, botchat, theOnlyJuan#9357, ;songs
+10 Nov 2016 04:42:31 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+10 Nov 2016 04:42:31 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Lugia's Song Remix
+	<https://youtu.be/tW82Ftg_5iw>
+2. Lugia's Song Remix
+	<https://youtu.be/tW82Ftg_5iw>
+Total Time is 0:11:20
+10 Nov 2016 04:43:19 : LimitlessMc, botchat, theOnlyJuan#9357, ;rps S
+10 Nov 2016 04:43:19 : LimitlessMc, botchat, Botfuzzy77#2209, You throw :v:
+I throw :v:
+10 Nov 2016 04:43:20 : LimitlessMc, botchat, Botfuzzy77#2209, Its a Tie, we both put :v:
+10 Nov 2016 04:43:39 : LimitlessMc, botchat, Lightning#6734, 'rps R
+10 Nov 2016 04:43:42 : LimitlessMc, botchat, Lightning#6734, ;rps R
+10 Nov 2016 04:43:42 : LimitlessMc, botchat, Botfuzzy77#2209, You throw :right_facing_fist:
+I throw :v:
+10 Nov 2016 04:43:43 : LimitlessMc, botchat, Botfuzzy77#2209, **You Win!**
+10 Nov 2016 04:44:37 : LimitlessMc, botchat, medicDemon236#8022, ;youtube https://youtu.be/sN9jC-_j3zc
+10 Nov 2016 04:44:38 : LimitlessMc, botchat, Botfuzzy77#2209, Added SizzleBird - Imagine to the queue
+10 Nov 2016 04:45:02 : LimitlessMc, botchat, medicDemon236#8022, ;rps
+10 Nov 2016 04:45:03 : LimitlessMc, botchat, Botfuzzy77#2209, You need to put in either (R)ock, (P)aper, or (S)cissors
+10 Nov 2016 04:45:32 : LimitlessMc, botchat, medicDemon236#8022, seems like a fun game lol
+10 Nov 2016 04:48:06 : LimitlessMc, botchat, medicDemon236#8022, ;skip
+10 Nov 2016 04:48:06 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Lugia's Song Remix
+10 Nov 2016 04:48:28 : LimitlessMc, botchat, medicDemon236#8022, ;skip
+10 Nov 2016 04:48:28 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Lugia's Song Remix
+10 Nov 2016 05:15:57 : LimitlessMc, botchat, theOnlyJuan#9357, ;song
+10 Nov 2016 05:15:58 : LimitlessMc, botchat, Botfuzzy77#2209, ```Name: SizzleBird - Imagine
+URL: <https://youtu.be/sN9jC-_j3zc>
+Time: 0:03:33
+Views: 902,662
+Likes: 16,539, 99.09%
+Dislikes: 152, 0.91%
+```
+10 Nov 2016 05:18:39 : LimitlessMc, botchat, medicDemon236#8022, ;loop
+10 Nov 2016 05:18:40 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*SizzleBird - Imagine*' **1** more times
+10 Nov 2016 05:28:09 : LimitlessMc, botchat, medicDemon236#8022, ;loop
+10 Nov 2016 05:28:10 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*SizzleBird - Imagine*' **1** more times
+10 Nov 2016 05:32:12 : The Wild Weebs, general, enragednuke#2565, ?boss AAAAAAAAAA
+10 Nov 2016 05:32:12 : The Wild Weebs, general, enragedrobo#6009, ***A powerful new strength appears...***
+10 Nov 2016 05:32:12 : The Wild Weebs, general, enragedrobo#6009, A **Tishlaveer** stands before you...
+Health: 100.0% (60124 / 60124)
+
+Your moves were... :x: :x: :x: :x: :x: :x: :x: :white_check_mark: :x: :x:
+You deal **328** damage to the boss!
+10 Nov 2016 06:06:09 : The Wild Weebs, general, enragednuke#2565, ?boss BBBBBBBABB
+10 Nov 2016 06:06:09 : The Wild Weebs, general, enragedrobo#6009, A **Tishlaveer** stands before you...
+Health: 99.4% (59796 / 60124)
+
+Your moves were... :x: :x: :x: :x: :white_check_mark: :x: :x: :white_check_mark: :x: :x:
+You deal **731** damage to the boss!
+10 Nov 2016 06:06:12 : LimitlessMc, botchat, medicDemon236#8022, ;youtube https://www.youtube.com/playlist?list=FLFpR3EEmI7ZrGg6d2MVsQnQ
+10 Nov 2016 06:06:12 : LimitlessMc, botchat, Botfuzzy77#2209, Not a Valid Link, Please only use URLs from youtube.com
+10 Nov 2016 06:06:38 : LimitlessMc, botchat, medicDemon236#8022, ;youtube https://youtu.be/BQX9x6P5w7k?list=FLFpR3EEmI7ZrGg6d2MVsQnQ
+10 Nov 2016 06:07:06 : LimitlessMc, botchat, medicDemon236#8022, ;youtube https://youtu.be/BQX9x6P5w7k
+10 Nov 2016 06:07:07 : LimitlessMc, botchat, Botfuzzy77#2209, Added Warsongs - Flash Funk (Marshmello Remix) [League of Legends Music] to the queue
+10 Nov 2016 06:07:53 : LimitlessMc, botchat, medicDemon236#8022, ;youtube https://youtu.be/5kBS3fJkhkk
+10 Nov 2016 06:07:54 : LimitlessMc, botchat, Botfuzzy77#2209, Added The Dirty Code & Skyknock ft. Bettina - Find Me Again to the queue
+10 Nov 2016 06:08:21 : LimitlessMc, botchat, medicDemon236#8022, ;youtube https://youtu.be/7LtPmnrmE1c
+10 Nov 2016 06:08:22 : LimitlessMc, botchat, Botfuzzy77#2209, Added 【Electro House】Lensko - Cetus to the queue
+10 Nov 2016 06:21:49 : LimitlessMc, botchat, medicDemon236#8022, ;youtube https://youtu.be/7LtPmnrmE1c
+10 Nov 2016 06:21:49 : LimitlessMc, botchat, Botfuzzy77#2209, Added 【Electro House】Lensko - Cetus to the queue
+10 Nov 2016 06:56:32 : LimitlessMc, botchat, medicDemon236#8022, ;youtube https://youtu.be/7LtPmnrmE1c
+10 Nov 2016 06:56:33 : LimitlessMc, botchat, Botfuzzy77#2209, Added 【Electro House】Lensko - Cetus to the queue
+10 Nov 2016 06:57:35 : LimitlessMc, botchat, theOnlyJuan#9357, U know u can just loop it multiple times right? With ;loop #
+10 Nov 2016 06:57:43 : LimitlessMc, botchat, theOnlyJuan#9357, ;songs
+10 Nov 2016 06:57:43 : LimitlessMc, botchat, Botfuzzy77#2209, Queue is Empty
+10 Nov 2016 06:58:11 : LimitlessMc, botchat, theOnlyJuan#9357, ;afk sleepz 😴
+10 Nov 2016 06:58:11 : LimitlessMc, botchat, Botfuzzy77#2209, theOnlyJuan is now AFK for reason:
+**sleepz 😴**
+10 Nov 2016 07:02:29 : LimitlessMc, botchat, medicDemon236#8022, ;youtube https://youtu.be/7LtPmnrmE1c
+10 Nov 2016 07:02:30 : LimitlessMc, botchat, Botfuzzy77#2209, Added 【Electro House】Lensko - Cetus to the queue
+10 Nov 2016 09:04:07 : Penguins 2, general, Young mom#1962, election was rigged #trumpislizard
+10 Nov 2016 11:05:23 : Team Harmony, botchat, D3NSH1N#8702, ;server passion.mcserver.ws
+10 Nov 2016 11:05:24 : Team Harmony, botchat, Botfuzzy77#2209, **Server IP**: passion.mcserver.ws
+10 Nov 2016 11:05:24 : Team Harmony, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 0 players out of 80
+ *Ping*: 122.303 ms
+ *MC Version*: 1.10.2
+10 Nov 2016 11:05:24 : Team Harmony, botchat, Botfuzzy77#2209, *Server is Down :(*
+10 Nov 2016 13:53:14 : LimitlessMc, mainchat, Botfuzzy77#2209, Welcome @kurama to LimitlessMc!
+10 Nov 2016 14:07:37 : Team Harmony, botchat, D3NSH1N#8702, ;server passion.mcserver.ws
+10 Nov 2016 14:07:38 : Team Harmony, botchat, Botfuzzy77#2209, **Server IP**: passion.mcserver.ws
+10 Nov 2016 14:07:38 : Team Harmony, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 0 players out of 80
+ *Ping*: 125.577 ms
+ *MC Version*: 1.10.2
+10 Nov 2016 14:07:38 : Team Harmony, botchat, Botfuzzy77#2209, *Server is Down :(*
+10 Nov 2016 15:12:08 : Penguins 2, general, SurvivraInHellAKASchool#7191, Well sorry but America is the most stupid country I had ever seen
+10 Nov 2016 15:25:21 : Penguins 2, general, xPalkia(lugia)#8149, Bitch
+10 Nov 2016 16:07:45 : GetPlebd, weeaboo-chat, Ỏ̷͖͈̞̩͎̻̫̫̜͉̠̫͕̭̭̫̫̹̗̹͈̼̠шen☆#1099, ey bois
+10 Nov 2016 17:22:52 : LimitlessMc, botchat, Gilles#3169, ;server
+10 Nov 2016 17:22:53 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+10 Nov 2016 17:22:53 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 16 players out of 200
+ *Ping*: 150.173 ms
+ *MC Version*: 1.10.2
+10 Nov 2016 17:22:53 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *_BeefBoy, Frostguy, Elena_J, FearlessFalconX, apefar02, xBABYGIRLx, jjtwilefc, FAmayham, ShuckDuckmc, sonurtoichi, Bringer0fDeath7, Wormneff...*
+10 Nov 2016 17:25:15 : LimitlessMc, botchat, Joker#3619, ;songs
+10 Nov 2016 17:25:15 : LimitlessMc, botchat, Botfuzzy77#2209, Queue is Empty
+10 Nov 2016 17:37:15 : The Wild Weebs, general, enragednuke#2565, /o/
+10 Nov 2016 17:55:59 : The Wild Weebs, general, enragednuke#2565, ?train
+10 Nov 2016 17:55:59 : The Wild Weebs, general, enragedrobo#6009, You begin training...
+
+You didn't benefit much from basic training...
+
+You begin fighting some monsters in the forest...
+You *lost* to a Lv. **121** **Soldier** (Chance: **21.088%**)
+You *beat* a Lv. **33** **Peon** (EXP: +**49.5**) (Chance: **100%**)
+You *beat* a Lv. **53** **Soldier** (EXP: +**318**) (Chance: **49.864%**)
+You *lost* to a Lv. **68** **Captain** (Chance: **38.264%**)
+You *beat* a Lv. **31** **Peon** (EXP: +**46.5**) (Chance: **100%**)
+You *lost* to a Lv. **117** **General** (Chance: **12.085%**)
+You *lost* to a Lv. **61** **Captain** (Chance: **39.266%**)
+You *lost* to a Lv. **124** **Soldier** (Chance: **18.663%**)
+You *lost* to a Lv. **112** **General** (Chance: **13.889%**)
+You *lost* to a Lv. **45** **King** (Chance: **2.539%**)
+
+You gained **3870** XP!
+10 Nov 2016 17:56:04 : The Wild Weebs, general, enragednuke#2565, ?summary
+10 Nov 2016 17:56:04 : The Wild Weebs, general, enragedrobo#6009, @凛
+
+**Level 48** (52887 EXP)
+Gamble: **Up!**
+Boss: **Up!**
+Train: **59** minutes
+Grace: **Up!**
+10 Nov 2016 17:56:09 : The Wild Weebs, general, enragednuke#2565, ?gamble 52887
+10 Nov 2016 17:56:09 : The Wild Weebs, general, enragedrobo#6009, The black magic courses through you. You gain a portion of your remaining level.
+10 Nov 2016 17:56:11 : The Wild Weebs, general, enragednuke#2565, asd
+10 Nov 2016 17:56:11 : The Wild Weebs, general, enragedrobo#6009, **:up: | Level Up!**
+10 Nov 2016 17:56:12 : The Wild Weebs, general, enragedrobo#6009, 
+10 Nov 2016 17:56:15 : The Wild Weebs, general, enragednuke#2565, ?summary
+10 Nov 2016 17:56:15 : The Wild Weebs, general, enragedrobo#6009, @凛
+
+**Level 49** (67277 EXP)
+Gamble: **Up!**
+Boss: **Up!**
+Train: **59** minutes
+Grace: **Up!**
+10 Nov 2016 17:56:18 : The Wild Weebs, general, enragednuke#2565, ?gamble 67277
+10 Nov 2016 17:56:19 : The Wild Weebs, general, enragedrobo#6009, The black magic refreshes you. You can use ?train again.
+10 Nov 2016 17:56:21 : The Wild Weebs, general, enragednuke#2565, ?train
+10 Nov 2016 17:56:21 : The Wild Weebs, general, enragedrobo#6009, You begin training...
+
+You didn't benefit much from basic training...
+
+You begin fighting some monsters in the forest...
+You *beat* a Lv. **68** **Soldier** (EXP: +**408**) (Chance: **48.121%**)
+You *lost* to a Lv. **63** **General** (Chance: **24.49%**)
+You *lost* to a Lv. **111** **Soldier** (Chance: **29.988%**)
+You *lost* to a Lv. **133** **Soldier** (Chance: **13.265%**)
+You *beat* a Lv. **64** **General** (EXP: +**768.0**) (Chance: **24.414%**)
+You *beat* a Lv. **103** **Captain** (EXP: +**772.5**) (Chance: **27.855%**)
+You *lost* to a Lv. **67** **General** (Chance: **24.157%**)
+You *beat* a Lv. **37** **Peon** (EXP: +**55.5**) (Chance: **100%**)
+You *lost* to a Lv. **111** **Soldier** (Chance: **29.988%**)
+
+You gained **5532** XP!
+10 Nov 2016 17:56:23 : The Wild Weebs, general, enragednuke#2565, ?summary
+10 Nov 2016 17:56:23 : The Wild Weebs, general, enragedrobo#6009, @凛
+
+**Level 49** (72899 EXP)
+Gamble: **Up!**
+Boss: **Up!**
+Train: **59** minutes
+Grace: **Up!**
+10 Nov 2016 17:56:28 : The Wild Weebs, general, enragednuke#2565, ?gamble 72899
+10 Nov 2016 17:56:28 : The Wild Weebs, general, enragedrobo#6009, The black magic refreshes you. You can use ?train again.
+10 Nov 2016 17:56:31 : The Wild Weebs, general, enragednuke#2565, ?train
+10 Nov 2016 17:56:31 : The Wild Weebs, general, enragedrobo#6009, You begin training...
+
+You didn't benefit much from basic training...
+
+You begin fighting some monsters in the forest...
+You *beat* a Lv. **57** **Soldier** (EXP: +**342**) (Chance: **49.667%**)
+
+You gained **3870** XP!
+10 Nov 2016 17:56:33 : The Wild Weebs, general, enragednuke#2565, ?summary
+10 Nov 2016 17:56:33 : The Wild Weebs, general, enragedrobo#6009, @凛
+
+**Level 49** (76859 EXP)
+Gamble: **Up!**
+Boss: **Up!**
+Train: **59** minutes
+Grace: **Up!**
+10 Nov 2016 17:56:37 : The Wild Weebs, general, enragednuke#2565, ?gamble 76859
+10 Nov 2016 17:56:37 : The Wild Weebs, general, enragedrobo#6009, You feel the dark magic choke you. You do not dare try again for **2 minutes**

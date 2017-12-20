@@ -1,0 +1,13 @@
+03 Mar 2017 20:53:00 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokemon Jirachi
+03 Mar 2017 20:53:14 : The Wild Weebs, general, enragednuke#2565, i'd rather you not use my code as a basis for yours if that's what you're doing though
+03 Mar 2017 20:53:14 : LimitlessMc, botchat, Botfuzzy77#2209, ***Jirachi***
+03 Mar 2017 20:53:14 : LimitlessMc, botchat, Botfuzzy77#2209, 
+03 Mar 2017 20:53:14 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Page**: <http://pixelmonmod.com/wiki/index.php?title=jirachi>
+**Bulbapedia Page**: <http://bulbapedia.bulbagarden.net/wiki/jirachi>
+**Pokemon DB**: <http://pokemondb.net/pokedex/jirachi>
+**Smogon**: <http://www.smogon.com/dex/bw/pokemon/jirachi>
+03 Mar 2017 20:53:32 : LimitlessMc, botchat, Wertfuzzy77#0274, hmmm, little slow
+03 Mar 2017 20:53:41 : The Wild Weebs, general, Tally#2764, I know
+03 Mar 2017 20:53:58 : The Wild Weebs, general, Tally#2764, I just used the idea of line at a time
+03 Mar 2017 20:54:18 : The Wild Weebs, general, Tally#2764, Instead of using .read()
+03 Mar 2017 20:55:08 : The Wild Weebs, general, Tally#2764, But that makes our parser run for so long

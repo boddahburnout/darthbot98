@@ -1,0 +1,163 @@
+25 Apr 2017 15:59:52 : LimitlessMc, botchat, TherminatorX#6644, Is there any difference in how you're making it post vs how commands make it post?
+25 Apr 2017 15:59:53 : LimitlessMc, botchat, Wertfuzzy77#0274, no
+25 Apr 2017 15:59:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pb SSSSSSSS
+25 Apr 2017 15:59:57 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 16:00:02 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 16:00:04 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 16:00:26 : LimitlessMc, botchat, Wertfuzzy77#0274, well, the image
+25 Apr 2017 16:00:30 : LimitlessMc, botchat, Wertfuzzy77#0274, don't have that
+25 Apr 2017 16:00:33 : LimitlessMc, botchat, TherminatorX#6644, Hmm
+25 Apr 2017 16:01:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug bot.send_message(ctx.message.channel, embed=discord.Embed(title='Current Queue', description="Hello\n" + "❌🇫🇧", colour=0x8989E5).set_author(name=ctx.message.author.name, icon_url=ctx.message.author.avatar_url).set_thumbnail(url="http://i.imgur.com/IIPexUB.jpg")
+25 Apr 2017 16:01:19 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+SyntaxError: unexpected EOF while parsing (<string>, line 1)
+```
+25 Apr 2017 16:01:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug bot.send_message(ctx.message.channel, embed=discord.Embed(title='Current Queue', description="Hello\n" + "❌🇫🇧", colour=0x8989E5).set_author(name=ctx.message.author.name, icon_url=ctx.message.author.avatar_url).set_thumbnail(url="http://i.imgur.com/IIPexUB.jpg"))
+25 Apr 2017 16:01:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 16:01:29 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7fe05cb9ea40>
+```
+25 Apr 2017 16:01:42 : LimitlessMc, botchat, Wertfuzzy77#0274, well
+25 Apr 2017 16:01:44 : LimitlessMc, botchat, Wertfuzzy77#0274, still works
+25 Apr 2017 16:01:45 : LimitlessMc, botchat, TherminatorX#6644, Hmm
+25 Apr 2017 16:02:15 : LimitlessMc, botchat, TherminatorX#6644, Have you gone on the botter support server?
+25 Apr 2017 16:02:16 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug bot.send_message(ctx.message.channel, embed=discord.Embed(title='Current Queue', description="Hello\n" + "❌🇫🇧" + "\ntest", colour=0x8989E5).set_author(name=ctx.message.author.name, icon_url=ctx.message.author.avatar_url).set_thumbnail(url="http://i.imgur.com/IIPexUB.jpg"))
+25 Apr 2017 16:02:19 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 16:02:19 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7fe05c1e7218>
+```
+25 Apr 2017 16:03:47 : RooberBoobers, kinkyrubiestalk, navy#8336, r i p
+25 Apr 2017 16:04:10 : RooberBoobers, kinkyroleplay, navy#8336, cogs cant even hide his boner
+25 Apr 2017 16:04:16 : RooberBoobers, kinkyroleplay, navy#8336, the door is made of glass
+25 Apr 2017 16:05:05 : RooberBoobers, kinkyroleplay, dick van lick#7498, lmao rip cogsworth
+25 Apr 2017 16:05:15 : LimitlessMc, botchat, TherminatorX#6644, ;pbs
+25 Apr 2017 16:05:15 : LimitlessMc, botchat, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> hard to fight and reveal the boss.
+25 Apr 2017 16:05:22 : RooberBoobers, kinkyroleplay, dick van lick#7498, lumiere's always gonna try to get that pendulum now lmao
+25 Apr 2017 16:05:30 : RooberBoobers, kinkyroleplay, dick van lick#7498, wait
+25 Apr 2017 16:05:30 : LimitlessMc, botchat, TherminatorX#6644, ;pbt bbbbbbbbbb
+25 Apr 2017 16:05:32 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 16:05:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 16:05:37 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 16:05:46 : RooberBoobers, kinkyroleplay, dick van lick#7498, does that mean that his penis is just always showing
+25 Apr 2017 16:05:52 : RooberBoobers, kinkyroleplay, dick van lick#7498, jesus
+25 Apr 2017 16:06:03 : LimitlessMc, botchat, TherminatorX#6644, Uh
+25 Apr 2017 16:07:19 : RooberBoobers, kinkyroleplay, navy#8336, yeah basically
+25 Apr 2017 16:07:35 : RooberBoobers, kinkyroleplay, navy#8336, ~~when he turns into a human at the end of the movie his dick hangs out~~
+25 Apr 2017 16:07:55 : RooberBoobers, kinkyrubiestalk, navy#8336, i love my gf
+25 Apr 2017 16:08:16 : RooberBoobers, kinkyroleplay, dick van lick#7498, think of the children
+25 Apr 2017 16:08:42 : RooberBoobers, kinkyroleplay, dick van lick#7498, no wonder why the frisky bastard lumiere hangs out with him so much lmao
+25 Apr 2017 16:09:54 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, i love my wif
+25 Apr 2017 16:10:07 : RooberBoobers, kinkyrubiestalk, navy#8336, gasp
+25 Apr 2017 16:10:51 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, tahts adorable
+25 Apr 2017 16:11:04 : RooberBoobers, kinkyroleplay, navy#8336, h ot
+25 Apr 2017 16:11:32 : RooberBoobers, kinkyrubiestalk, navy#8336, n O
+25 Apr 2017 16:11:38 : RooberBoobers, kinkyrubiestalk, navy#8336, youre the cute on e-
+25 Apr 2017 16:11:49 : RooberBoobers, kinkyroleplay, dick van lick#7498, he should throw a towel over it or something i mean geez
+25 Apr 2017 16:12:16 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, *li es*
+25 Apr 2017 16:12:26 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, you give me a cuteness overload-
+25 Apr 2017 16:13:32 : RooberBoobers, kinkyrubiestalk, navy#8336, but
+25 Apr 2017 16:13:35 : RooberBoobers, kinkyrubiestalk, navy#8336, have you seen
+25 Apr 2017 16:13:38 : RooberBoobers, kinkyrubiestalk, navy#8336, your chub-
+25 Apr 2017 16:13:47 : RooberBoobers, kinkyroleplay, navy#8336, kinky
+25 Apr 2017 16:24:30 : LimitlessMc, mainchat, Lastshadow#5809, I woke up so pissed all my other emotion are numb
+25 Apr 2017 16:24:44 : LimitlessMc, mainchat, Lastshadow#5809, I think someone fucked with my medication
+25 Apr 2017 16:25:48 : LimitlessMc, mainchat, Lastshadow#5809, I nearly yelled at my classmates to "Shut the fuck up"
+25 Apr 2017 16:25:59 : LimitlessMc, mainchat, Lastshadow#5809, >.<
+25 Apr 2017 16:26:35 : LimitlessMc, mainchat, Lastshadow#5809, I had to flee my classroom to not blowup on those fucking immature bastards
+25 Apr 2017 16:26:59 : LimitlessMc, mainchat, Lastshadow#5809, Do they have to talk every second of the day
+25 Apr 2017 16:27:34 : LimitlessMc, mainchat, Lastshadow#5809, Maybe I should sow their mouths shut so they stop giving people heaches
+25 Apr 2017 16:28:17 : LimitlessMc, mainchat, Lastshadow#5809, Or maybe u should be seriously blunt to them and make them feel likebana shit
+25 Apr 2017 16:28:22 : LimitlessMc, mainchat, Lastshadow#5809, That sounds better
+25 Apr 2017 16:29:06 : LimitlessMc, mainchat, Lastshadow#5809, Wtf is with my phone combining words
+25 Apr 2017 16:29:12 : LimitlessMc, mainchat, Lastshadow#5809, Or making them up?
+25 Apr 2017 16:30:35 : LimitlessMc, mainchat, Lastshadow#5809, Wtf is wrong with me, why am I so hellbent on making my classmates feel miserable
+25 Apr 2017 16:31:53 : LimitlessMc, mainchat, Lastshadow#5809, Am I being ignored again
+25 Apr 2017 16:31:55 : LimitlessMc, mainchat, Lastshadow#5809, Great
+25 Apr 2017 16:33:23 : LimitlessMc, mainchat, Lean#1524, that's some srs shit right there lol
+25 Apr 2017 16:34:04 : LimitlessMc, mainchat, Lastshadow#5809, I don't like being angry
+25 Apr 2017 16:34:11 : LimitlessMc, mainchat, Lastshadow#5809, And that makes me angry
+25 Apr 2017 16:34:18 : LimitlessMc, mainchat, Lastshadow#5809, Wtf is wrong with me
+25 Apr 2017 16:34:42 : LimitlessMc, mainchat, Lean#1524, lolwat
+25 Apr 2017 16:35:15 : LimitlessMc, mainchat, Lastshadow#5809, :-;
+25 Apr 2017 16:35:22 : LimitlessMc, mainchat, Lastshadow#5809, Definitely meds
+25 Apr 2017 16:35:29 : LimitlessMc, mainchat, Lightning#6734, you be okei cheer up kiddo
+25 Apr 2017 16:35:51 : LimitlessMc, mainchat, Lastshadow#5809, Yeah, I'll be okay after I fucking punch a few people for no reason
+25 Apr 2017 16:36:00 : LimitlessMc, mainchat, Lightning#6734, OR
+25 Apr 2017 16:36:11 : LimitlessMc, mainchat, Lightning#6734, you could not punch people and still be okay
+25 Apr 2017 16:36:20 : LimitlessMc, mainchat, Lastshadow#5809, How tf
+25 Apr 2017 16:36:28 : LimitlessMc, mainchat, Lightning#6734, mind over matter
+25 Apr 2017 16:36:59 : LimitlessMc, mainchat, Lastshadow#5809, But, that does nothing, everyone still ignores me and let's me suffer
+25 Apr 2017 16:37:12 : LimitlessMc, mainchat, Lastshadow#5809, Because "nothings wrong"
+25 Apr 2017 16:37:25 : LimitlessMc, botchat, TherminatorX#6644, ;pbt mbbbbbbbbbb
+25 Apr 2017 16:37:25 : LimitlessMc, botchat, Botfuzzy77#2209, **Hard Boss Pokemon**
+Level 72 Boss **Beautifly** in Hard has 58,103 health left.
+:regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b:
+:x: :x: :x: :white_check_mark: :x: :x: :x: :x: :x: :x:
+Rival Bonus!
+Your moves did **61** damage
+Level 72 Boss **Beautifly** has 58,042 health left.
+25 Apr 2017 16:37:28 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 16:37:32 : LimitlessMc, mainchat, Lastshadow#5809, I have suffered for fucking years
+25 Apr 2017 16:37:38 : LimitlessMc, mainchat, Lastshadow#5809, Years!!!!
+25 Apr 2017 16:37:44 : LimitlessMc, mainchat, Lastshadow#5809, Because no one cared
+25 Apr 2017 16:37:46 : LimitlessMc, mainchat, Lightning#6734, join the club
+25 Apr 2017 16:38:07 : LimitlessMc, mainchat, Lightning#6734, over time you'll learn to just ignore alot of it
+25 Apr 2017 16:38:20 : LimitlessMc, mainchat, Lastshadow#5809, I'm surprised I have not yelled at people yet
+25 Apr 2017 16:38:22 : LimitlessMc, mainchat, Lightning#6734, ofc it'll stil be there just be a little easier to deal with
+25 Apr 2017 16:38:50 : LimitlessMc, mainchat, Lastshadow#5809, Some one fucked with my mood swing medicine
+25 Apr 2017 16:38:57 : LimitlessMc, mainchat, Lastshadow#5809, And anxiety
+25 Apr 2017 16:39:25 : LimitlessMc, mainchat, Lastshadow#5809, Or my depression has taken form as anger today
+25 Apr 2017 16:39:48 : LimitlessMc, mainchat, Lightning#6734, that tends to happen
+25 Apr 2017 16:40:26 : LimitlessMc, mainchat, Lastshadow#5809, Well, fuck me, let's hope it survive the school day without yelling at my classmates
+25 Apr 2017 16:41:02 : LimitlessMc, mainchat, Lightning#6734, Gl
+25 Apr 2017 16:43:25 : LimitlessMc, mainchat, Lastshadow#5809, There is one other possible cause of this anger
+25 Apr 2017 16:43:31 : LimitlessMc, mainchat, Lastshadow#5809, .  .  .
+25 Apr 2017 16:43:35 : LimitlessMc, mainchat, Lastshadow#5809, A trigger
+25 Apr 2017 16:43:59 : LimitlessMc, mainchat, Lastshadow#5809, But it would have to be a trigger I do not know yet
+25 Apr 2017 16:44:31 : LimitlessMc, mainchat, Lastshadow#5809, I have one trigger, that just makes all my emotion just shut down
+25 Apr 2017 16:45:05 : LimitlessMc, mainchat, Lastshadow#5809, Aka I essentially go into shock for the rest of the day
+25 Apr 2017 16:45:40 : LimitlessMc, mainchat, Lastshadow#5809, The guy who activates that trigger is in jail now though
+25 Apr 2017 16:45:54 : LimitlessMc, mainchat, Lastshadow#5809, He...... hit me everyday
+25 Apr 2017 16:45:58 : LimitlessMc, mainchat, Lastshadow#5809, For 3 years
+25 Apr 2017 16:46:11 : LimitlessMc, mainchat, Lastshadow#5809, And 1 time with a knife
+25 Apr 2017 16:46:56 : LimitlessMc, mainchat, Lastshadow#5809, Anyway fight or flight/freeze takes over when I see him
+25 Apr 2017 16:47:42 : LimitlessMc, mainchat, Lastshadow#5809, I think my reaction is fight, because me emotions go numb, so I can hurt someone with no remorse
+25 Apr 2017 16:48:24 : LimitlessMc, mainchat, Lastshadow#5809, If I saw hit today, I would not hesitate to stabb that bastard
+25 Apr 2017 16:49:12 : LimitlessMc, mainchat, Lastshadow#5809, And this is the part of me I hide from the world
+25 Apr 2017 16:49:16 : LimitlessMc, mainchat, Lastshadow#5809, ._.
+25 Apr 2017 16:50:11 : LimitlessMc, mainchat, Lastshadow#5809, I'm talking to myself ain't I
+25 Apr 2017 16:50:18 : LimitlessMc, mainchat, Lastshadow#5809, Well ain't the first time
+25 Apr 2017 16:52:01 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, but
+25 Apr 2017 16:52:07 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug self.bot.say("\N{REGIONAL INDICATOR SYMBOL LETTER H}")
+25 Apr 2017 16:52:07 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+NameError: name 'self' is not defined
+```
+25 Apr 2017 16:52:10 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, have you read
+25 Apr 2017 16:52:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug bot.say("\N{REGIONAL INDICATOR SYMBOL LETTER H}")
+25 Apr 2017 16:52:13 : LimitlessMc, botchat, Botfuzzy77#2209, 🇭
+25 Apr 2017 16:52:13 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7fe0665d76a0>
+```
+25 Apr 2017 16:52:14 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, your posts
+25 Apr 2017 16:52:16 : LimitlessMc, botchat, Wertfuzzy77#0274, oooooooooo
+25 Apr 2017 16:52:24 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, they're fuckign adorable-
+25 Apr 2017 16:52:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug bot.say("\N{REGIONAL INDICATOR SYMBOL LETTER D}")
+25 Apr 2017 16:52:24 : LimitlessMc, botchat, Botfuzzy77#2209, 🇩
+25 Apr 2017 16:52:24 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7fe0665d7cf8>
+```
+25 Apr 2017 16:52:33 : LimitlessMc, mainchat, Lastshadow#5809, @Light how do I use lightbot? I need music to calm down
+25 Apr 2017 16:52:37 : LimitlessMc, mainchat, Lastshadow#5809, Plz
+25 Apr 2017 16:52:45 : LimitlessMc, mainchat, Lastshadow#5809, I don't like being pissed
+25 Apr 2017 16:52:51 : LimitlessMc, mainchat, Lightning#6734, use .join then .search or .youtube (link)
+25 Apr 2017 16:53:00 : LimitlessMc, voice-junk, Lastshadow#5809, .join
+25 Apr 2017 16:53:10 : LimitlessMc, mainchat, Lightning#6734, lightbots commands function with the . instead of ;
+25 Apr 2017 16:53:20 : LimitlessMc, mainchat, Lastshadow#5809, Didn't work....
+25 Apr 2017 16:53:25 : LimitlessMc, mainchat, Lastshadow#5809, .join didnt
+25 Apr 2017 16:53:28 : RooberBoobers, kinkyroleplay, dick van lick#7498, https://www.youtube.com/watch?v=_0heN3U_rus&t=72s
+25 Apr 2017 16:53:29 : LimitlessMc, mainchat, Lightning#6734, sec may need to restart her
+25 Apr 2017 16:53:50 : RooberBoobers, kinkyroleplay, dick van lick#7498, **he touches the pendulum**
+25 Apr 2017 16:53:55 : LimitlessMc, mainchat, Lastshadow#5809, Carl doesn't work for mobile :(
+25 Apr 2017 16:54:00 : LimitlessMc, mainchat, Lightning#6734, rip
+25 Apr 2017 16:54:05 : LimitlessMc, mainchat, Lightning#6734, she joined
+25 Apr 2017 16:54:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;relog

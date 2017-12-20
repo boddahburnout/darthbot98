@@ -1,0 +1,913 @@
+07 May 2017 03:32:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+07 May 2017 03:32:30 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+07 May 2017 03:32:32 : LimitlessMc, botchat, Wertfuzzy77#0274, ;music
+07 May 2017 03:32:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 03:32:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;radio
+07 May 2017 03:32:41 : LimitlessMc, botchat, Botfuzzy77#2209, **Please choose one of these options**: 
+```py
+Electro Hub       https://temp.discord.fm/libraries/electro-hub
+Chill Corner      https://temp.discord.fm/libraries/chill-corner
+Korean Madness    https://temp.discord.fm/libraries/korean-madness
+Japanese Lounge   https://temp.discord.fm/libraries/japanese-lounge
+Classical         https://temp.discord.fm/libraries/classical
+Retro Renegade    https://temp.discord.fm/libraries/retro-renegade
+Metal Mix         https://temp.discord.fm/libraries/metal-mix
+Hip-hop           https://temp.discord.fm/libraries/hip-hop
+Electro Swing     https://temp.discord.fm/libraries/electro-swing
+Purely Pop        https://temp.discord.fm/libraries/purely-pop
+Rock-n-Roll       https://temp.discord.fm/libraries/rock-n-roll
+Coffee-house Jazz https://temp.discord.fm/libraries/coffee-house-jazz```
+Example: `;Radio Purely Pop`
+07 May 2017 03:32:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ;radio Classical
+07 May 2017 03:32:47 : LimitlessMc, botchat, Botfuzzy77#2209, Now listening to **Classical** radio channel
+07 May 2017 03:33:06 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+07 May 2017 03:33:12 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 03:33:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+07 May 2017 03:33:21 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 03:33:48 : LimitlessMc, botchat, Wertfuzzy77#0274, ;music
+07 May 2017 03:33:54 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 03:35:25 : LimitlessMc, mainchat, Wertfuzzy77#0274, **Safari Event**
+This Sunday, May 7th at 1PM EST
+Lots of Shiny Pokemon and Legendary Pokemon!
+07 May 2017 03:35:47 : LimitlessMc, mainchat, Wertfuzzy77#0274, 
+07 May 2017 03:39:07 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+07 May 2017 03:39:07 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Zoltán Kodály, Sonata in B minor for solo cello, Op.8, mvt. III, performed by Sebastian Bäverstam by request (Radio Song)
+07 May 2017 03:39:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ;server
+07 May 2017 03:39:24 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+07 May 2017 03:39:24 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 10 players out of 100
+ *Ping*: 111.877 ms
+ *MC Version*: 1.10.2
+07 May 2017 03:39:24 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 2.0
+07 May 2017 03:39:24 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *darthkota98, AlphaLucario, Yellow_fr3ak, razar_sly12, FearlessFalconX, fugarwe, HalloweenGodess, Nekupe, PurrkourMania, Shadowfire1217...*
+07 May 2017 03:42:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;status
+07 May 2017 03:42:06 : LimitlessMc, botchat, Botfuzzy77#2209, ```UpTime: 0:09:48.200000s
+Total Messages: 12
+Servers Joined: 19
+CPU usage: 33.3%
+Memory usage: 41.0%
+```
+07 May 2017 03:43:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+07 May 2017 03:43:03 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Camille Saint-Saëns - Danse Macabre by request (Radio Song)
+07 May 2017 03:43:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ;radio off
+07 May 2017 03:43:17 : LimitlessMc, botchat, Botfuzzy77#2209, Radio mode OFF
+07 May 2017 03:43:18 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+07 May 2017 03:43:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 03:43:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;recommend
+07 May 2017 03:43:26 : LimitlessMc, botchat, Botfuzzy77#2209, Recommend Songs to play: True
+07 May 2017 03:43:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ;music
+07 May 2017 03:43:31 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 03:43:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+07 May 2017 03:43:41 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 03:48:51 : LimitlessMc, botchat, Wertfuzzy77#0274, ;loop 3
+07 May 2017 03:48:52 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*Chopin - Nocturne op.9 No.2*' **3** more times
+07 May 2017 03:58:35 : LimitlessMc, botchat, TherminatorX#6644, ;train
+07 May 2017 03:58:37 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 03:58:41 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 03:58:51 : LimitlessMc, botchat, TherminatorX#6644, you know what *isn't* faster Wert?
+07 May 2017 03:59:04 : LimitlessMc, botchat, TherminatorX#6644, Limitless pokemon commands :P
+07 May 2017 03:59:16 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pbs
+07 May 2017 03:59:16 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> hard to fight and reveal the boss.
+07 May 2017 03:59:21 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pbt bbbbbbbbbb
+07 May 2017 03:59:24 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 03:59:26 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 03:59:30 : None, Direct Message with TherminatorX, TherminatorX#6644, ;settype bug
+07 May 2017 03:59:30 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You are now a Bug type
+07 May 2017 04:04:08 : LimitlessMc, botchat, Wertfuzzy77#0274, I mean, things in embeds are slow on this server cause jay enabled whatever content filter
+07 May 2017 04:04:17 : LimitlessMc, botchat, Wertfuzzy77#0274, and embeds are harder to filter
+07 May 2017 04:04:20 : LimitlessMc, botchat, Wertfuzzy77#0274, so it takes longer
+07 May 2017 04:04:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+07 May 2017 04:04:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 04:04:31 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 04:09:22 : LimitlessMc, botchat, TherminatorX#6644, ;train
+07 May 2017 04:09:22 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 1,159 seconds before you can train again.
+07 May 2017 04:09:49 : LimitlessMc, botchat, TherminatorX#6644, Ah, that explains it then
+07 May 2017 04:10:55 : LimitlessMc, botchat, TherminatorX#6644, Can confirm PM pokebattle works now though, so I'll probally be using that when I see song stuff begin to fill chat
+07 May 2017 04:14:01 : LimitlessMc, botchat, Wertfuzzy77#0274, alright 😛
+07 May 2017 04:14:31 : LimitlessMc, botchat, Wertfuzzy77#0274, ;radio
+07 May 2017 04:14:31 : LimitlessMc, botchat, Botfuzzy77#2209, **Please choose one of these options**: 
+```py
+Electro Hub       https://temp.discord.fm/libraries/electro-hub
+Chill Corner      https://temp.discord.fm/libraries/chill-corner
+Korean Madness    https://temp.discord.fm/libraries/korean-madness
+Japanese Lounge   https://temp.discord.fm/libraries/japanese-lounge
+Classical         https://temp.discord.fm/libraries/classical
+Retro Renegade    https://temp.discord.fm/libraries/retro-renegade
+Metal Mix         https://temp.discord.fm/libraries/metal-mix
+Hip-hop           https://temp.discord.fm/libraries/hip-hop
+Electro Swing     https://temp.discord.fm/libraries/electro-swing
+Purely Pop        https://temp.discord.fm/libraries/purely-pop
+Rock-n-Roll       https://temp.discord.fm/libraries/rock-n-roll
+Coffee-house Jazz https://temp.discord.fm/libraries/coffee-house-jazz```
+Example: `;Radio Purely Pop`
+07 May 2017 04:14:39 : LimitlessMc, botchat, Wertfuzzy77#0274, ;radio Japanese lounge
+07 May 2017 04:14:39 : LimitlessMc, botchat, Botfuzzy77#2209, Now listening to **Japanese Lounge** radio channel
+07 May 2017 04:14:41 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+07 May 2017 04:14:42 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Wolfgang Amadeus Mozart - Piano Concerto No. 21 - Andante by request (Radio Song)
+07 May 2017 04:14:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+07 May 2017 04:14:50 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 04:14:53 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+07 May 2017 04:14:55 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 04:14:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;clear
+07 May 2017 04:14:59 : LimitlessMc, botchat, Botfuzzy77#2209, Cleared Queue!
+07 May 2017 04:15:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+07 May 2017 04:15:02 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Erik Satie - Gymnopédie No.1 by request (Radio Song)
+07 May 2017 04:15:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+07 May 2017 04:15:15 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 04:15:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+07 May 2017 04:15:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 04:17:27 : LimitlessMc, botchat, Wertfuzzy77#0274, ;radio rock-n-roll
+07 May 2017 04:17:27 : LimitlessMc, botchat, Botfuzzy77#2209, Now listening to **Rock-n-Roll** radio channel
+07 May 2017 04:17:31 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+07 May 2017 04:17:31 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping スガシカオ「ココニイルコト」 by request (Radio Song)
+07 May 2017 04:17:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+07 May 2017 04:17:41 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 04:17:43 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+07 May 2017 04:17:49 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 04:18:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+07 May 2017 04:18:20 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Oasis - Supersonic by request (Radio Song)
+07 May 2017 04:18:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ;music
+07 May 2017 04:18:28 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 04:18:35 : LimitlessMc, botchat, Wertfuzzy77#0274, ;recommend
+07 May 2017 04:18:35 : LimitlessMc, botchat, Botfuzzy77#2209, Recommend Songs to play: False
+07 May 2017 04:23:04 : LimitlessMc, botchat, Wertfuzzy77#0274, ;music
+07 May 2017 04:23:09 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 04:24:48 : None, Direct Message with TherminatorX, TherminatorX#6644, ;train
+07 May 2017 04:24:48 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Please wait 233 seconds before you can train again.
+07 May 2017 04:25:24 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pbt ddbddddddb
+07 May 2017 04:25:26 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 04:25:28 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 04:26:44 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pbt eebedeeedb
+07 May 2017 04:26:46 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 04:26:47 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 04:27:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+if A == 0:
+     doCommand()
+```
+07 May 2017 04:27:26 : LimitlessMc, botchat, Wertfuzzy77#0274, @darth kota
+07 May 2017 04:27:43 : LimitlessMc, botchat, darth kota#9446, ohhhhh
+07 May 2017 04:28:18 : LimitlessMc, botchat, darth kota#9446, i tried the if a== o: part i missed the docommand part
+07 May 2017 04:29:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+if A == 0:
+     doCommand()
+else:
+    doSomethingElse()
+```
+07 May 2017 04:30:39 : LimitlessMc, botchat, Wertfuzzy77#0274, and like more indepth things like
+07 May 2017 04:31:13 : LimitlessMc, botchat, darth kota#9446, a = 1
+if a == 1:
+    docommand(print("Test")
+07 May 2017 04:31:19 : LimitlessMc, botchat, darth kota#9446, what i break
+07 May 2017 04:31:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+Good_Values = [1, 2, 4, 8, 16]
+if A in GoodValues:
+    print("We found a good value")
+```
+07 May 2017 04:31:34 : LimitlessMc, botchat, Wertfuzzy77#0274, xD you don't need the doCommend() thing
+07 May 2017 04:31:39 : LimitlessMc, botchat, Wertfuzzy77#0274, that was example cmd
+07 May 2017 04:31:43 : LimitlessMc, botchat, darth kota#9446, lel
+07 May 2017 04:31:48 : LimitlessMc, botchat, darth kota#9446, face smash
+07 May 2017 04:31:51 : LimitlessMc, botchat, Wertfuzzy77#0274, your thing would be like
+07 May 2017 04:31:51 : LimitlessMc, botchat, darth kota#9446, XD
+07 May 2017 04:32:09 : LimitlessMc, botchat, darth kota#9446, oh it worked
+07 May 2017 04:32:14 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+a = 1
+if a == 1:
+    print("Test")
+```
+07 May 2017 04:32:21 : LimitlessMc, botchat, darth kota#9446, i must have had i typo before
+07 May 2017 04:32:27 : LimitlessMc, botchat, darth kota#9446, thats what i tryied
+07 May 2017 04:32:27 : LimitlessMc, botchat, Wertfuzzy77#0274, maybe forgot the :
+07 May 2017 04:32:35 : LimitlessMc, botchat, darth kota#9446, i dont think so
+07 May 2017 04:33:14 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pbt ffbfdfffdb
+07 May 2017 04:33:16 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 04:33:21 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 04:33:29 : LimitlessMc, botchat, darth kota#9446, a = 1
+if a == 1:
+    print("Test")
+else
+    print("darth's a nub")
+07 May 2017 04:33:37 : LimitlessMc, botchat, darth kota#9446, correct right?
+07 May 2017 04:34:05 : LimitlessMc, botchat, darth kota#9446, even though a cant be anything else then 1 XD
+07 May 2017 04:34:11 : LimitlessMc, botchat, darth kota#9446, yet....
+07 May 2017 04:34:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ya, that should only say `Test`
+07 May 2017 04:34:54 : LimitlessMc, botchat, darth kota#9446, oh i forgot a : on else
+07 May 2017 04:35:04 : LimitlessMc, botchat, Wertfuzzy77#0274, 😛
+07 May 2017 04:35:06 : LimitlessMc, botchat, Wertfuzzy77#0274, always the :
+07 May 2017 04:35:15 : LimitlessMc, botchat, darth kota#9446, lel
+07 May 2017 04:35:49 : LimitlessMc, botchat, darth kota#9446, a good cmd to run on desktop for this?
+07 May 2017 04:38:54 : LimitlessMc, botchat, darth kota#9446, for loop looks hard X.X
+07 May 2017 04:40:31 : LimitlessMc, botchat, Wertfuzzy77#0274, not really a cmd
+07 May 2017 04:40:54 : LimitlessMc, botchat, Wertfuzzy77#0274, you have to download python, but then you can use cmd prompt to run a python terminal
+07 May 2017 04:41:03 : LimitlessMc, botchat, darth kota#9446, ahhh
+07 May 2017 04:41:15 : LimitlessMc, botchat, darth kota#9446, how to for loop if not cmd then?
+07 May 2017 04:41:38 : LimitlessMc, botchat, Wertfuzzy77#0274, hmmm?
+07 May 2017 04:42:10 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pbt ggbgdfgfdb
+07 May 2017 04:42:12 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 04:42:14 : LimitlessMc, botchat, darth kota#9446, oh nevermind
+07 May 2017 04:42:18 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 04:42:19 : LimitlessMc, botchat, darth kota#9446, i get it
+07 May 2017 04:42:39 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pbs
+07 May 2017 04:42:42 : LimitlessMc, botchat, darth kota#9446, https://www.youtube.com/watch?v=IcwO2cMVMJc baka trolling me wtsoner and sun XD
+07 May 2017 04:42:45 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 04:42:49 : None, Direct Message with TherminatorX, TherminatorX#6644, ;train
+07 May 2017 04:42:51 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 04:42:53 : LimitlessMc, mainchat, Crystal4209#4698, @Wertfuzzy77 boooo that's Monday 1AM for me
+07 May 2017 04:42:53 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 04:43:01 : LimitlessMc, mainchat, Wertfuzzy77#0274, sux
+07 May 2017 04:43:20 : LimitlessMc, botchat, darth kota#9446, im looking at some for loop stuff and ouch
+07 May 2017 04:43:20 : LimitlessMc, mainchat, Crystal4209#4698, I never get to join the safari event
+07 May 2017 04:43:30 : LimitlessMc, botchat, Wertfuzzy77#0274, thats normal baka behavior for you tho xD
+07 May 2017 04:43:32 : LimitlessMc, mainchat, Crystal4209#4698, It's biased to time zones 😛
+07 May 2017 04:43:36 : LimitlessMc, mainchat, Wertfuzzy77#0274, prob
+07 May 2017 04:43:36 : LimitlessMc, botchat, darth kota#9446, yeah XD
+07 May 2017 04:43:51 : LimitlessMc, mainchat, Wertfuzzy77#0274, Its biased to whatever time I'm willing to get up on sundays 😛
+07 May 2017 04:43:57 : LimitlessMc, botchat, darth kota#9446, then a wild faze appeared
+07 May 2017 04:44:06 : LimitlessMc, mainchat, Crystal4209#4698, Get up early then
+07 May 2017 04:44:12 : LimitlessMc, mainchat, Crystal4209#4698, And why sunday
+07 May 2017 04:44:18 : LimitlessMc, mainchat, Crystal4209#4698, Why not Saturday
+07 May 2017 04:44:25 : LimitlessMc, mainchat, Wertfuzzy77#0274, cause tourneys on saturday
+07 May 2017 04:44:30 : LimitlessMc, mainchat, Crystal4209#4698, Boo
+07 May 2017 04:44:36 : LimitlessMc, mainchat, Wertfuzzy77#0274, and safari was always sunday morning
+07 May 2017 04:44:54 : LimitlessMc, mainchat, Wertfuzzy77#0274, except its sunday early afternoon now xD cause I lazy and like sleep
+07 May 2017 04:44:54 : LimitlessMc, botchat, darth kota#9446, questioned in conserned tone and encouraged the troll fish XD
+07 May 2017 04:45:04 : LimitlessMc, mainchat, Crystal4209#4698, Nub
+07 May 2017 04:45:17 : LimitlessMc, botchat, darth kota#9446, untill she produced a wither le
+07 May 2017 04:45:19 : LimitlessMc, botchat, Crystal4209#4698, ;train
+07 May 2017 04:45:26 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 04:45:28 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 04:45:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+07 May 2017 04:45:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 04:45:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;loop4
+07 May 2017 04:45:40 : LimitlessMc, mainchat, Crystal4209#4698, It's still biased
+07 May 2017 04:45:41 : LimitlessMc, botchat, Wertfuzzy77#0274, ;loop 4
+07 May 2017 04:45:42 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*The Joker- Steve Miller Band*' **4** more times
+07 May 2017 04:45:47 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pbt iibidfifdb
+07 May 2017 04:45:52 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 04:45:54 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 04:45:57 : LimitlessMc, botchat, Wertfuzzy77#0274, also @Crystal4209 I completly rewrote the music code
+07 May 2017 04:46:05 : LimitlessMc, botchat, Wertfuzzy77#0274, so its much smoother and will crash a lot less
+07 May 2017 04:46:09 : LimitlessMc, botchat, Wertfuzzy77#0274, and added little things like
+07 May 2017 04:46:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;music
+07 May 2017 04:46:13 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 04:46:35 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+07 May 2017 04:46:36 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pbt nibndfifdb
+07 May 2017 04:46:36 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Please wait 18 seconds before you can fight the boss again.
+07 May 2017 04:46:41 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 04:46:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ;shuffle
+07 May 2017 04:46:47 : LimitlessMc, botchat, Botfuzzy77#2209, Shuffled songs!
+07 May 2017 04:46:48 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+07 May 2017 04:46:50 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 04:46:54 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pbt nibndfifdb
+07 May 2017 04:46:56 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 04:46:58 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 04:46:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;shuffle
+07 May 2017 04:46:59 : LimitlessMc, botchat, Botfuzzy77#2209, Shuffled songs!
+07 May 2017 04:47:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+07 May 2017 04:47:05 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 04:50:55 : LimitlessMc, botchat, darth kota#9446, ;search summer of 69
+07 May 2017 04:50:55 : LimitlessMc, botchat, Botfuzzy77#2209, Turn off Radio mode first! (`;Radio off`)
+07 May 2017 04:51:01 : LimitlessMc, botchat, darth kota#9446, 😦
+07 May 2017 04:51:18 : LimitlessMc, botchat, darth kota#9446, i dont want to break the music for one song
+07 May 2017 04:53:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=9f06QZCVUHg
+07 May 2017 04:53:25 : LimitlessMc, botchat, darth kota#9446, ^ this guy right her *vip*
+07 May 2017 04:53:29 : LimitlessMc, botchat, darth kota#9446, there
+07 May 2017 04:53:36 : LimitlessMc, botchat, darth kota#9446, here*
+07 May 2017 04:56:41 : LimitlessMc, botchat, darth kota#9446, the code im used to is like this
+07 May 2017 04:56:53 : LimitlessMc, botchat, darth kota#9446, :LBl 1
+07 May 2017 04:57:01 : LimitlessMc, botchat, Wertfuzzy77#0274, that looks ugly
+07 May 2017 04:57:12 : LimitlessMc, botchat, darth kota#9446, :disp "hello world"
+07 May 2017 04:57:27 : LimitlessMc, botchat, Wertfuzzy77#0274, xD thats like assembly
+07 May 2017 04:57:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ew
+07 May 2017 04:57:33 : LimitlessMc, botchat, darth kota#9446, :pause
+07 May 2017 04:57:39 : LimitlessMc, botchat, darth kota#9446, :goto 1
+07 May 2017 04:58:09 : LimitlessMc, botchat, darth kota#9446, what i thought myself as a 10 year old 😛
+07 May 2017 04:59:23 : LimitlessMc, mainchat, TherminatorX#6644, Bias tends to get results
+07 May 2017 04:59:53 : LimitlessMc, botchat, darth kota#9446, that would spam hello world forever untill someone issued a command break
+07 May 2017 05:00:08 : LimitlessMc, mainchat, TherminatorX#6644, In this case, it's a bias towards maximum member participation
+07 May 2017 05:00:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ya, looks like an extended forloop
+07 May 2017 05:00:31 : LimitlessMc, botchat, Wertfuzzy77#0274, in python, that would be
+07 May 2017 05:01:31 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+while True:
+    print("Hello")
+    time.sleep(1)
+```
+07 May 2017 05:01:51 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pbt nibndfifdb
+07 May 2017 05:01:53 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:01:55 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:02:01 : LimitlessMc, botchat, darth kota#9446, thats a loop?
+07 May 2017 05:02:11 : LimitlessMc, botchat, Wertfuzzy77#0274, well, its a while loop
+07 May 2017 05:02:13 : LimitlessMc, botchat, darth kota#9446, an infinate while loop
+07 May 2017 05:02:18 : LimitlessMc, botchat, Wertfuzzy77#0274, ya
+07 May 2017 05:02:22 : LimitlessMc, botchat, darth kota#9446, i read about that
+07 May 2017 05:02:31 : LimitlessMc, mainchat, Wertfuzzy77#0274, nonsense
+07 May 2017 05:02:34 : LimitlessMc, mainchat, Wertfuzzy77#0274, bias towards me
+07 May 2017 05:02:48 : LimitlessMc, mainchat, Wertfuzzy77#0274, this is the most convient time for me xD so thats the time its at
+07 May 2017 05:02:52 : LimitlessMc, botchat, Wertfuzzy77#0274, is v useful
+07 May 2017 05:03:01 : LimitlessMc, botchat, Wertfuzzy77#0274, normally not used with just `True` lol
+07 May 2017 05:03:28 : LimitlessMc, botchat, darth kota#9446, x = 1
+if x == 1:
+    print ("string 1")
+else:
+    print ("string 2")
+     so how to input that here?
+07 May 2017 05:03:44 : LimitlessMc, botchat, Wertfuzzy77#0274, input what?
+07 May 2017 05:04:03 : LimitlessMc, botchat, darth kota#9446, how do i incorperate a while loop into that
+07 May 2017 05:04:29 : LimitlessMc, botchat, Wertfuzzy77#0274, hmmm
+07 May 2017 05:04:42 : LimitlessMc, botchat, Wertfuzzy77#0274, have you learned about lists yet?
+07 May 2017 05:04:54 : LimitlessMc, botchat, darth kota#9446, no idea what they are
+07 May 2017 05:05:03 : LimitlessMc, botchat, Wertfuzzy77#0274, Example
+07 May 2017 05:05:08 : LimitlessMc, botchat, Wertfuzzy77#0274, x = [1, 2, 3, 4, 5]
+07 May 2017 05:05:10 : LimitlessMc, botchat, darth kota#9446, @Botfuzzy77 tell me your secrets
+07 May 2017 05:05:10 : LimitlessMc, botchat, Botfuzzy77#2209, I'm Fine.
+07 May 2017 05:05:13 : LimitlessMc, botchat, Wertfuzzy77#0274, x is now a list of 5 things
+07 May 2017 05:05:24 : LimitlessMc, botchat, darth kota#9446, ohhhhhh okay i have seen
+07 May 2017 05:06:13 : LimitlessMc, botchat, darth kota#9446, list the code i learned exept less comlicated
+07 May 2017 05:06:16 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+x = [1, 2, 3, 4, 5]
+
+for value in x:
+    if x >= 3:
+        print("Bigger than 3")
+    else:
+        print("Smaller than 3")
+```
+07 May 2017 05:06:32 : LimitlessMc, botchat, Wertfuzzy77#0274, that is a nice way to go through a list
+07 May 2017 05:06:40 : LimitlessMc, botchat, Wertfuzzy77#0274, for loops can be used for multiple things
+07 May 2017 05:07:13 : LimitlessMc, botchat, darth kota#9446, i used loops in almost every program i ever wrote
+07 May 2017 05:07:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ya, put most loops are just go from this code section to this code section
+07 May 2017 05:07:41 : LimitlessMc, botchat, Wertfuzzy77#0274, or do this x times
+07 May 2017 05:07:49 : LimitlessMc, botchat, Wertfuzzy77#0274, but in python, you can loop through elements in a list
+07 May 2017 05:08:02 : LimitlessMc, botchat, Wertfuzzy77#0274, basically, run this code for every thing in this list
+07 May 2017 05:08:12 : LimitlessMc, botchat, darth kota#9446, like the lbl and goto command
+07 May 2017 05:08:43 : LimitlessMc, botchat, darth kota#9446, the list thing is kinda a new concept
+07 May 2017 05:08:53 : LimitlessMc, botchat, darth kota#9446, rip darth
+07 May 2017 05:08:56 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+Smaller than 3
+Smaller than 3
+Bigger than 3
+Bigger than 3
+Bigger than 3```
+07 May 2017 05:09:00 : LimitlessMc, botchat, Wertfuzzy77#0274, that is what my code outputs
+07 May 2017 05:09:36 : LimitlessMc, botchat, darth kota#9446, 3 isnt greater then 3
+07 May 2017 05:09:45 : LimitlessMc, botchat, Wertfuzzy77#0274, ya xD thats cause I did >=
+07 May 2017 05:09:45 : LimitlessMc, botchat, darth kota#9446, my life is a lie now
+07 May 2017 05:09:53 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+x = [1, 2, 3, 4, 5]
+
+for value in x:
+    if value >= 3:
+        print("Bigger than or equal to 3")
+    else:
+        print("Smaller than 3")```
+07 May 2017 05:09:59 : LimitlessMc, botchat, Wertfuzzy77#0274, Smaller than 3
+Smaller than 3
+Bigger than or equal to 3
+Bigger than or equal to 3
+Bigger than or equal to 3
+07 May 2017 05:10:00 : LimitlessMc, botchat, Wertfuzzy77#0274, there
+07 May 2017 05:10:03 : LimitlessMc, botchat, Wertfuzzy77#0274, that better xD
+07 May 2017 05:13:06 : LimitlessMc, botchat, Wertfuzzy77#0274, Some things about lists
+07 May 2017 05:13:45 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+07 May 2017 05:13:45 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Rush - Tom Sawyer by request (Radio Song)
+07 May 2017 05:13:55 : LimitlessMc, botchat, darth kota#9446, hold on i want to translate that program into the lang ik
+07 May 2017 05:14:02 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+07 May 2017 05:14:10 : LimitlessMc, botchat, darth kota#9446, what is that black box
+07 May 2017 05:14:15 : LimitlessMc, botchat, darth kota#9446, english pls
+07 May 2017 05:14:23 : LimitlessMc, botchat, Wertfuzzy77#0274, thats a cmd prompt
+07 May 2017 05:15:42 : LimitlessMc, botchat, Wertfuzzy77#0274, also, I find you translating python into a more understandable language amusing xD
+07 May 2017 05:15:57 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pbt nibnnfifnb
+07 May 2017 05:15:57 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, @Lewdie start rapping
+07 May 2017 05:15:58 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:16:00 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:16:06 : LimitlessMc, botchat, Wertfuzzy77#0274, cause python is normally looked at as "not a real langauge" because it is basically english
+07 May 2017 05:17:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+x = [1, 2, 3, 4, 5]
+
+for value in x:
+    print("My Number is...")
+    print(value)
+    if value >= 3:
+        print("This number is Bigger than or equal to 3")
+    else:
+        print("This number is Smaller than 3")
+```
+07 May 2017 05:17:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+My Number is...
+1
+This number is Smaller than 3
+My Number is...
+2
+This number is Smaller than 3
+My Number is...
+3
+This number is Bigger than or equal to 3
+My Number is...
+4
+This number is Bigger than or equal to 3
+My Number is...
+5
+This number is Bigger than or equal to 3```
+07 May 2017 05:18:16 : LimitlessMc, botchat, Wertfuzzy77#0274, added some more prints so you can see what is happening
+07 May 2017 05:18:19 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;skip
+07 May 2017 05:18:19 : LimitlessMc, voice-junk, Botfuzzy77#2209, Skipping The Crickets - I Fought The Law by request (Radio Song)
+07 May 2017 05:18:24 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;song
+07 May 2017 05:18:26 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+07 May 2017 05:18:31 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;skip
+07 May 2017 05:18:31 : LimitlessMc, voice-junk, Botfuzzy77#2209, Skipping The Hollies- Long Cool Woman (In A Black Dress) (5.1HD Audio) by request (Radio Song)
+07 May 2017 05:18:36 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;song
+07 May 2017 05:18:38 : LimitlessMc, voice-junk, Botfuzzy77#2209, 
+07 May 2017 05:19:29 : LimitlessMc, botchat, Wertfuzzy77#0274, also, how can you translate lists into a language that doenst have lists?
+07 May 2017 05:19:34 : LimitlessMc, botchat, TherminatorX#6644, Do you mean Bash?
+07 May 2017 05:19:40 : LimitlessMc, botchat, TherminatorX#6644, :P
+07 May 2017 05:19:46 : LimitlessMc, botchat, Wertfuzzy77#0274, It does look like bash
+07 May 2017 05:20:12 : LimitlessMc, botchat, TherminatorX#6644, As in "not a real language, basically English"
+07 May 2017 05:20:20 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+07 May 2017 05:20:31 : LimitlessMc, botchat, Wertfuzzy77#0274, no, the langauge he is talking about, with the :goto and stuff
+07 May 2017 05:20:40 : LimitlessMc, botchat, TherminatorX#6644, Mhm
+07 May 2017 05:20:49 : LimitlessMc, botchat, Wertfuzzy77#0274, ;music
+07 May 2017 05:20:56 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 05:21:04 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cycle
+07 May 2017 05:21:04 : LimitlessMc, botchat, Botfuzzy77#2209, Cycle Mode: True
+07 May 2017 05:21:05 : LimitlessMc, mainchat, TherminatorX#6644, Lol
+07 May 2017 05:21:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;recommend
+07 May 2017 05:21:05 : LimitlessMc, botchat, Botfuzzy77#2209, Recommend Songs to play: True
+07 May 2017 05:21:07 : LimitlessMc, botchat, Wertfuzzy77#0274, ;music
+07 May 2017 05:21:09 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 05:21:12 : LimitlessMc, botchat, darth kota#9446, 1->A
+:lbl 1
+A+1->A
+:if A = 3
+:goto 3
+:if A > 3
+:goto 2
+if A < 3 
+:disp A
+:disp "Bigger than 3"
+:pause
+:goto 1
+:lbl 2
+:disp A
+:disp "smaller then 3"
+:pause
+:goto 1
+:lbl 3 
+:disp A
+:disp "is = to 3"
+:pause
+:goto 1
+07 May 2017 05:21:13 : LimitlessMc, botchat, Wertfuzzy77#0274, Look I made it look nice 😄
+07 May 2017 05:21:14 : LimitlessMc, botchat, Wertfuzzy77#0274, ew
+07 May 2017 05:21:17 : LimitlessMc, botchat, Wertfuzzy77#0274, wut
+07 May 2017 05:21:17 : LimitlessMc, botchat, Wertfuzzy77#0274, is
+07 May 2017 05:21:18 : LimitlessMc, botchat, Wertfuzzy77#0274, that
+07 May 2017 05:21:19 : LimitlessMc, botchat, Wertfuzzy77#0274, kms
+07 May 2017 05:21:20 : LimitlessMc, botchat, darth kota#9446, some thing like that
+07 May 2017 05:21:28 : LimitlessMc, botchat, darth kota#9446, XD
+07 May 2017 05:21:30 : LimitlessMc, botchat, Wertfuzzy77#0274, that looks terrible xD how can you read that
+07 May 2017 05:21:32 : LimitlessMc, mainchat, TherminatorX#6644, I was trying to make you seem considerate of others
+07 May 2017 05:21:33 : LimitlessMc, botchat, Wertfuzzy77#0274, ;recommend
+07 May 2017 05:21:33 : LimitlessMc, botchat, Botfuzzy77#2209, Recommend Songs to play: False
+07 May 2017 05:21:34 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cycle
+07 May 2017 05:21:34 : LimitlessMc, botchat, Botfuzzy77#2209, Cycle Mode: False
+07 May 2017 05:21:41 : LimitlessMc, botchat, Wertfuzzy77#0274, I mean, yes its logical
+07 May 2017 05:21:44 : LimitlessMc, botchat, Wertfuzzy77#0274, you can follow it
+07 May 2017 05:21:50 : LimitlessMc, botchat, Wertfuzzy77#0274, but if I took a quick glace at that
+07 May 2017 05:21:55 : LimitlessMc, botchat, Wertfuzzy77#0274, I have no idea what it does
+07 May 2017 05:22:07 : LimitlessMc, mainchat, Wertfuzzy77#0274, nonsense
+07 May 2017 05:22:09 : LimitlessMc, mainchat, Wertfuzzy77#0274, I a nub
+07 May 2017 05:22:18 : LimitlessMc, mainchat, TherminatorX#6644, Shhh
+07 May 2017 05:22:29 : LimitlessMc, mainchat, TherminatorX#6644, Don't tell the normies
+07 May 2017 05:22:41 : LimitlessMc, botchat, darth kota#9446, Slightly bulky but it can tell when 3 = 3 XD
+07 May 2017 05:22:53 : LimitlessMc, botchat, Wertfuzzy77#0274, just slightly xD
+07 May 2017 05:23:03 : LimitlessMc, botchat, Wertfuzzy77#0274, your coding language is outdated 😛
+07 May 2017 05:23:14 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pbt pibnpfifnb
+07 May 2017 05:23:15 : LimitlessMc, botchat, darth kota#9446, Nope not at all
+07 May 2017 05:23:16 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:23:17 : LimitlessMc, botchat, darth kota#9446, tXD
+07 May 2017 05:23:18 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:23:21 : LimitlessMc, botchat, Wertfuzzy77#0274, welcome to 2017, the land of javascript and python
+07 May 2017 05:23:34 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pbs
+07 May 2017 05:23:35 : LimitlessMc, botchat, darth kota#9446, kms
+07 May 2017 05:23:37 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:23:44 : LimitlessMc, botchat, Wertfuzzy77#0274, let me ask you a question
+07 May 2017 05:23:49 : LimitlessMc, botchat, Wertfuzzy77#0274, if I changed 1 line of your code
+07 May 2017 05:24:02 : LimitlessMc, botchat, Wertfuzzy77#0274, how long would it take you to find out what it does now
+07 May 2017 05:24:13 : LimitlessMc, botchat, darth kota#9446, not too long its short
+07 May 2017 05:24:33 : LimitlessMc, botchat, darth kota#9446, id read it in cronologicle order
+07 May 2017 05:25:02 : LimitlessMc, botchat, darth kota#9446, line by line id run the program in my head sort of
+07 May 2017 05:25:35 : LimitlessMc, botchat, darth kota#9446, ive wrote programs that took up entire notebook pages
+07 May 2017 05:25:42 : LimitlessMc, botchat, darth kota#9446, in that
+07 May 2017 05:25:56 : LimitlessMc, botchat, Wertfuzzy77#0274, thats ineffcient tho xD
+07 May 2017 05:26:07 : LimitlessMc, botchat, Wertfuzzy77#0274, like what took you 25 lines, would take me 3
+07 May 2017 05:26:10 : LimitlessMc, botchat, darth kota#9446, ^ i wrote a program for doodling in that
+07 May 2017 05:26:20 : LimitlessMc, botchat, darth kota#9446, that saved pics to list
+07 May 2017 05:26:28 : LimitlessMc, botchat, darth kota#9446, pixel by pixel
+07 May 2017 05:26:45 : LimitlessMc, botchat, darth kota#9446, and recalled them that way too
+07 May 2017 05:26:51 : LimitlessMc, botchat, Wertfuzzy77#0274, sounds like a mess 😛
+07 May 2017 05:26:57 : LimitlessMc, botchat, Wertfuzzy77#0274, plus you are limitles to numerical things
+07 May 2017 05:27:00 : LimitlessMc, botchat, Wertfuzzy77#0274, limited *
+07 May 2017 05:27:19 : LimitlessMc, botchat, darth kota#9446, this is true and a limited list size
+07 May 2017 05:27:28 : LimitlessMc, botchat, TherminatorX#6644, Wert, are you BASHing people's code?
+07 May 2017 05:27:58 : LimitlessMc, botchat, darth kota#9446, pics with many pixels would trash the program and only save a portion of the program
+07 May 2017 05:28:02 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+07 May 2017 05:28:22 : LimitlessMc, botchat, darth kota#9446, even with data over flow into list 2
+07 May 2017 05:28:28 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pbt pibnpfifnb
+07 May 2017 05:28:31 : LimitlessMc, botchat, Wertfuzzy77#0274, also, dictionaries in python are the main thing
+07 May 2017 05:28:34 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:28:35 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:28:53 : LimitlessMc, botchat, Wertfuzzy77#0274, ```py
+COLORS = {
+    'easy' : 0xeb8c00,
+    'medium' : 0xe0301e,
+    'hard' : 0xa32020,
+    'insane' : 0x602320,
+    'xp' : 0x8989E5,
+    'level' : 0x4A4AD7,
+    'train' : 0x2F972F,
+    'gamble' : 0x800080,
+    'ranking' : 0xFFD700,
+    'xpLoss': 0x000000
+}```
+07 May 2017 05:28:54 : LimitlessMc, botchat, darth kota#9446, webster?
+07 May 2017 05:28:56 : LimitlessMc, botchat, Wertfuzzy77#0274, something like this
+07 May 2017 05:28:57 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+07 May 2017 05:28:58 : LimitlessMc, botchat, Wertfuzzy77#0274, no
+07 May 2017 05:29:01 : LimitlessMc, botchat, darth kota#9446, lel
+07 May 2017 05:29:12 : LimitlessMc, botchat, Wertfuzzy77#0274, you can define a variable to contain a bunch of pointers
+07 May 2017 05:29:19 : LimitlessMc, botchat, Wertfuzzy77#0274, for example, that one named COLORS
+07 May 2017 05:29:19 : LimitlessMc, botchat, darth kota#9446, its like a transaltor?
+07 May 2017 05:29:22 : LimitlessMc, botchat, Wertfuzzy77#0274, sort of
+07 May 2017 05:29:37 : LimitlessMc, botchat, Wertfuzzy77#0274, if you did COLORS['easy'] it would return you 0xeb8c00
+07 May 2017 05:29:45 : LimitlessMc, botchat, Wertfuzzy77#0274, basically a look-up table
+07 May 2017 05:30:18 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pbt pibnpfipnb
+07 May 2017 05:30:23 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:30:26 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:30:34 : LimitlessMc, botchat, darth kota#9446, 0xeb8c00 looks like something you would see on a pc that bluescreened because it tried to download all of the porn on the internet.....
+07 May 2017 05:30:35 : OblivionEvolved, mainchat, DareDevin#7086, my mic isn't working
+07 May 2017 05:30:42 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+07 May 2017 05:30:51 : LimitlessMc, botchat, Wertfuzzy77#0274, thats the color for the easy bosses
+07 May 2017 05:30:54 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pbs easy
+07 May 2017 05:30:54 : LimitlessMc, botchat, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> easy to fight and reveal the boss.
+07 May 2017 05:31:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pb IIIII easy
+07 May 2017 05:31:08 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 05:31:11 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 05:31:11 : LimitlessMc, botchat, Wertfuzzy77#0274, its that color on the side bar written in hex
+07 May 2017 05:31:18 : LimitlessMc, botchat, Wertfuzzy77#0274, that orange yellow color
+07 May 2017 05:31:21 : LimitlessMc, botchat, darth kota#9446, ahhh
+07 May 2017 05:31:39 : LimitlessMc, botchat, TherminatorX#6644, I think you mean 0xeb00b5, kota
+07 May 2017 05:31:41 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug json.load(open('Resc/Players.json', 'r'))['292484423658766346']['name']
+07 May 2017 05:31:41 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+KeyError: 'name'
+```
+07 May 2017 05:31:49 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug json.load(open('Resc/Players.json', 'r'))['292484423658766346']['Name']
+07 May 2017 05:31:49 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+darth kota
+```
+07 May 2017 05:31:52 : LimitlessMc, botchat, Wertfuzzy77#0274, 😛
+07 May 2017 05:31:57 : LimitlessMc, botchat, Wertfuzzy77#0274, more dictionary stuff
+07 May 2017 05:32:08 : LimitlessMc, botchat, darth kota#9446, XD @TherminatorX
+07 May 2017 05:32:11 : LimitlessMc, botchat, Wertfuzzy77#0274, except thats a dictionary in a dictionary xD
+07 May 2017 05:32:27 : RooberBoobers, kinkydrawings, Despair#6475, snorts
+07 May 2017 05:32:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug json.load(open('Resc/Players.json', 'r'))['292484423658766346']['Pokemon'][1]
+07 May 2017 05:32:40 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+Heatmor
+```
+07 May 2017 05:32:41 : LimitlessMc, botchat, darth kota#9446, when you thesauruas the word dictionary
+07 May 2017 05:32:52 : LimitlessMc, botchat, Wertfuzzy77#0274, or how about a List in a Dictionary in a Dictionary in a .json file
+07 May 2017 05:33:31 : LimitlessMc, botchat, darth kota#9446, inception lel
+07 May 2017 05:33:33 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pbt sibnsfipnb
+07 May 2017 05:33:34 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:33:36 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:33:51 : LimitlessMc, botchat, Wertfuzzy77#0274, thats what python is v good for tho
+07 May 2017 05:34:00 : LimitlessMc, botchat, Wertfuzzy77#0274, list and dict manipulation
+07 May 2017 05:34:15 : LimitlessMc, botchat, darth kota#9446, john the ripper? XD
+07 May 2017 05:34:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+07 May 2017 05:34:31 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 05:34:42 : LimitlessMc, botchat, Wertfuzzy77#0274, also, you can't make objects in your langauge right?
+07 May 2017 05:35:05 : LimitlessMc, botchat, darth kota#9446, i can make pictures that look like some object
+07 May 2017 05:35:16 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pbt wibnwfipnb
+07 May 2017 05:35:19 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:35:23 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:35:23 : LimitlessMc, botchat, Wertfuzzy77#0274, xD thats not what i mean
+07 May 2017 05:35:26 : LimitlessMc, botchat, darth kota#9446, lel
+07 May 2017 05:35:48 : LimitlessMc, botchat, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id]
+07 May 2017 05:35:48 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+Connected Channel: 🎧 Fuzzy Music
+Queue Length: 5
+**Radio Mode Enabled**
+ - Adding songs is disabled and songs will be added from the selected radio station.
+
+```
+07 May 2017 05:35:52 : LimitlessMc, botchat, Wertfuzzy77#0274, um
+07 May 2017 05:35:54 : LimitlessMc, botchat, Wertfuzzy77#0274, hmm
+07 May 2017 05:36:05 : LimitlessMc, botchat, Wertfuzzy77#0274, I forgot I made that string method for that class xD
+07 May 2017 05:36:11 : LimitlessMc, botchat, darth kota#9446, the fuzz is busted ?
+07 May 2017 05:36:14 : LimitlessMc, botchat, Wertfuzzy77#0274, nah
+07 May 2017 05:36:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].queue
+07 May 2017 05:36:23 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+There are **5** songs in the Queue
+
+**1**. Def Leppard - Rock of Ages [HD]
+Requested By: **Radio: Rock-n-Roll**
+https://www.youtube.com/watch?v=uXFxPN7Sqxo
+
+**2**. The Rolling Stones- Miss You
+Requested By: **Radio: Rock-n-Roll**
+https://www.youtube.com/watch?v=KuRxXRuAz-I
+
+**3**. Billy Joel - A Matter of Trust (Audio)
+Requested By: **Radio: Rock-n-Roll**
+https://www.youtube.com/watch?v=-fGHuwWMZ1w
+
+**4**. R.E.M.-Losing My Religion(With Lyrics) *in the descript...
+Requested By: **Radio: Rock-n-Roll**
+https://www.youtube.com/watch?v=FQ2yXWi0ppw
+
+**5**. RATATAT - ABRASIVE
+Requested By: **Radio: Rock-n-Roll**
+https://www.youtube.com/watch?v=f7wkRET0hbo
+
+Queue Length: 0:20:38
+```
+07 May 2017 05:36:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;musicdebug self.serverPlayers[ctx.message.server.id].server
+07 May 2017 05:36:30 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+LimitlessMc
+```
+07 May 2017 05:36:38 : LimitlessMc, botchat, Wertfuzzy77#0274, eh, anyways
+07 May 2017 05:36:40 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pbt bibnbfipnb
+07 May 2017 05:36:42 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:36:48 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:36:48 : LimitlessMc, botchat, Wertfuzzy77#0274, the `serverPlayers` variable there
+07 May 2017 05:36:58 : LimitlessMc, botchat, TherminatorX#6644, ;pbs
+07 May 2017 05:37:04 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 05:37:10 : LimitlessMc, botchat, Wertfuzzy77#0274, is a dictionary that points from server IDs to my own created Server Music Player Objects
+07 May 2017 05:37:28 : LimitlessMc, botchat, Wertfuzzy77#0274, showing off are you 😉 @TherminatorX
+07 May 2017 05:37:35 : LimitlessMc, botchat, TherminatorX#6644, Letting you know how close I currently am to beating the boss
+07 May 2017 05:37:43 : LimitlessMc, botchat, Wertfuzzy77#0274, it would be a shame
+07 May 2017 05:37:44 : LimitlessMc, botchat, TherminatorX#6644, So you don't relog on me
+07 May 2017 05:37:45 : LimitlessMc, botchat, Wertfuzzy77#0274, if...
+07 May 2017 05:37:47 : LimitlessMc, botchat, Wertfuzzy77#0274, I
+07 May 2017 05:37:51 : LimitlessMc, botchat, darth kota#9446, XD
+07 May 2017 05:37:52 : LimitlessMc, botchat, Wertfuzzy77#0274, suddenly
+07 May 2017 05:37:53 : LimitlessMc, botchat, Wertfuzzy77#0274, had
+07 May 2017 05:37:56 : LimitlessMc, botchat, Wertfuzzy77#0274, to......
+07 May 2017 05:37:58 : LimitlessMc, botchat, Wertfuzzy77#0274, LOL
+07 May 2017 05:37:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+07 May 2017 05:38:03 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 05:38:03 : LimitlessMc, botchat, darth kota#9446, XD
+07 May 2017 05:38:10 : LimitlessMc, botchat, Wertfuzzy77#0274, this song opening
+07 May 2017 05:38:12 : LimitlessMc, botchat, Wertfuzzy77#0274, 10/10
+07 May 2017 05:38:15 : LimitlessMc, botchat, darth kota#9446, same
+07 May 2017 05:38:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+07 May 2017 05:38:27 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 05:38:43 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 5
+07 May 2017 05:38:44 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: Rush - Tom Sawyer
+07 May 2017 05:38:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+07 May 2017 05:38:49 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+07 May 2017 05:38:50 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 05:38:52 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 05:39:06 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pbt dibndfipnb
+07 May 2017 05:39:08 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:39:14 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:39:30 : LimitlessMc, botchat, darth kota#9446, #shetalkstoangles and #wishyouwerehere
+07 May 2017 05:39:44 : LimitlessMc, botchat, darth kota#9446, *angels
+07 May 2017 05:40:00 : LimitlessMc, botchat, TherminatorX#6644, Lol, was going to comment on that
+07 May 2017 05:40:19 : LimitlessMc, botchat, TherminatorX#6644, Ooo, RATATAT
+07 May 2017 05:40:20 : LimitlessMc, botchat, darth kota#9446, i hope it was acute comment
+07 May 2017 05:41:01 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pbt eibnefipnb
+07 May 2017 05:41:03 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:41:05 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:41:22 : LimitlessMc, botchat, darth kota#9446, 2017 programming goes to classes to learn about classes
+07 May 2017 05:41:49 : LimitlessMc, botchat, TherminatorX#6644, Indeed
+07 May 2017 05:41:54 : LimitlessMc, botchat, Wertfuzzy77#0274, wut
+07 May 2017 05:41:58 : LimitlessMc, botchat, Wertfuzzy77#0274, people go to class?
+07 May 2017 05:42:00 : LimitlessMc, botchat, Wertfuzzy77#0274, 😛
+07 May 2017 05:42:10 : LimitlessMc, botchat, darth kota#9446, changes name to *dead kota*
+07 May 2017 05:42:18 : LimitlessMc, botchat, TherminatorX#6644, Well some people just don't have class
+07 May 2017 05:42:31 : LimitlessMc, botchat, darth kota#9446, ./nick darth kota deadkota
+07 May 2017 05:42:36 : LimitlessMc, botchat, TherminatorX#6644, Like you, Wert
+07 May 2017 05:42:37 : LimitlessMc, botchat, Wertfuzzy77#0274, also, I self taught myself python xD they don't teach it at my school
+07 May 2017 05:42:51 : LimitlessMc, botchat, Wertfuzzy77#0274, unfortunatly
+07 May 2017 05:43:16 : LimitlessMc, botchat, Wertfuzzy77#0274, would have been nice to be taught it, but eh, its not so different from other languages I've been taight
+07 May 2017 05:43:19 : LimitlessMc, botchat, Wertfuzzy77#0274, taught*
+07 May 2017 05:43:26 : LimitlessMc, botchat, darth kota#9446, i heard java is better
+07 May 2017 05:43:34 : LimitlessMc, botchat, Wertfuzzy77#0274, java is universal
+07 May 2017 05:43:35 : LimitlessMc, botchat, Wertfuzzy77#0274, also
+07 May 2017 05:43:39 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pbt fibnfiNPb
+07 May 2017 05:43:39 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Please use a Combination of **10** Types. `;types`
+07 May 2017 05:43:44 : LimitlessMc, botchat, Wertfuzzy77#0274, thats exactly what a java fanboy would say 😉
+07 May 2017 05:44:03 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pbt fibnffiNPb
+07 May 2017 05:44:05 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:44:09 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:44:11 : LimitlessMc, botchat, darth kota#9446, i might be you dont know me XD :p
+07 May 2017 05:44:31 : LimitlessMc, botchat, darth kota#9446, i dont play minecraft
+07 May 2017 05:44:33 : LimitlessMc, botchat, darth kota#9446, XD
+07 May 2017 05:44:44 : LimitlessMc, botchat, Wertfuzzy77#0274, psh, java is the epitome of object oriented language
+07 May 2017 05:44:49 : LimitlessMc, botchat, Wertfuzzy77#0274, you don't know any ool xD
+07 May 2017 05:44:57 : LimitlessMc, botchat, TherminatorX#6644, Then why are you here if you don't play MC?
+07 May 2017 05:45:12 : LimitlessMc, botchat, darth kota#9446, shhhh you will blow my cover
+07 May 2017 05:45:18 : LimitlessMc, botchat, darth kota#9446, oh wait....
+07 May 2017 05:45:21 : LimitlessMc, botchat, TherminatorX#6644, 😛
+07 May 2017 05:45:55 : LimitlessMc, botchat, TherminatorX#6644, *sits in the dark with his BASH waifu pillow*
+07 May 2017 05:46:14 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gif your waifu
+07 May 2017 05:46:14 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/metal-gear-solid-5-8cNJwhMRckmaY
+07 May 2017 05:46:15 : LimitlessMc, botchat, Crystal4209#4698, Hm cool
+07 May 2017 05:46:31 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gif waifu
+07 May 2017 05:46:31 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/girl-smile-wink-rVCeDgUd8w30k
+07 May 2017 05:46:36 : LimitlessMc, mainchat, Crystal4209#4698, Is to late
+07 May 2017 05:46:40 : LimitlessMc, botchat, darth kota#9446, i tried to make a mc mod once it loaded its a really good way to exit your client if your to lazy to disconect and exit your self XD
+07 May 2017 05:47:01 : LimitlessMc, botchat, Wertfuzzy77#0274, I've never gotten into MC modding
+07 May 2017 05:47:17 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pbt gibngfipnb
+07 May 2017 05:47:19 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:47:20 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:47:21 : LimitlessMc, botchat, Wertfuzzy77#0274, but I've gotten away from java now xD moved to python
+07 May 2017 05:47:27 : LimitlessMc, botchat, Wertfuzzy77#0274, so little late for me 😛
+07 May 2017 05:47:31 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gif waifu
+07 May 2017 05:47:32 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/girl-smile-wink-rVCeDgUd8w30k
+07 May 2017 05:47:36 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gif waifu
+07 May 2017 05:47:37 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/girl-smile-wink-rVCeDgUd8w30k
+07 May 2017 05:47:39 : LimitlessMc, botchat, Wertfuzzy77#0274, ...
+07 May 2017 05:47:42 : LimitlessMc, botchat, Wertfuzzy77#0274, find me a diff one @Botfuzzy77
+07 May 2017 05:47:43 : LimitlessMc, botchat, Botfuzzy77#2209, Yes.
+07 May 2017 05:47:44 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gif waifu
+07 May 2017 05:47:45 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/girl-smile-wink-rVCeDgUd8w30k
+07 May 2017 05:47:51 : LimitlessMc, botchat, Wertfuzzy77#0274, kyys @Botfuzzy77
+07 May 2017 05:47:52 : LimitlessMc, botchat, Botfuzzy77#2209, Who's there?
+07 May 2017 05:47:58 : LimitlessMc, botchat, Wertfuzzy77#0274, @Botfuzzy77 your face
+07 May 2017 05:47:58 : LimitlessMc, botchat, TherminatorX#6644, LOL
+07 May 2017 05:47:59 : LimitlessMc, botchat, Botfuzzy77#2209, That's not very nice.
+07 May 2017 05:48:09 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gif your waifu
+07 May 2017 05:48:09 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/C79RKZ7nOcK8U
+07 May 2017 05:48:15 : LimitlessMc, botchat, darth kota#9446, i made a pistol mod and appearntly the recoil is so bad it will blow your charature straight off any mc world he was in XD
+07 May 2017 05:48:17 : LimitlessMc, botchat, Wertfuzzy77#0274, LOL
+07 May 2017 05:48:19 : LimitlessMc, botchat, Wertfuzzy77#0274, that gif
+07 May 2017 05:48:25 : LimitlessMc, botchat, Crystal4209#4698, Gimme my waifu wert
+07 May 2017 05:48:28 : LimitlessMc, botchat, darth kota#9446, XD
+07 May 2017 05:48:56 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gif my waifu
+07 May 2017 05:48:56 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/p3-Azj42khq31R04
+07 May 2017 05:49:07 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gif my waifu
+07 May 2017 05:49:07 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/kat-dennings-replies-5ever-voMuivHlyOhva
+07 May 2017 05:49:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gif my waifu
+07 May 2017 05:49:12 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/to-aru-majutsu-no-index-misaka-mikoto-my-waifu-GxZ4F8s9VTAUE
+07 May 2017 05:49:22 : LimitlessMc, botchat, darth kota#9446, i just love my waffles
+07 May 2017 05:49:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gif waffles
+07 May 2017 05:49:30 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/iphone-cRBRQf8syLUyY
+07 May 2017 05:49:35 : LimitlessMc, botchat, TherminatorX#6644, ;gif my waffles
+07 May 2017 05:49:36 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/netflix-l3q2yduGGBLUDwdJS
+07 May 2017 05:49:37 : LimitlessMc, botchat, darth kota#9446, XD
+07 May 2017 05:49:44 : LimitlessMc, botchat, darth kota#9446, lmao
+07 May 2017 05:49:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gif waifu waffles
+07 May 2017 05:49:48 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/funny-waifu-S79BgJyhWiac0
+07 May 2017 05:50:02 : LimitlessMc, botchat, darth kota#9446, vr?
+07 May 2017 05:50:04 : LimitlessMc, botchat, Wertfuzzy77#0274, no plz
+07 May 2017 05:50:06 : LimitlessMc, botchat, Wertfuzzy77#0274, dont
+07 May 2017 05:50:09 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+07 May 2017 05:50:11 : LimitlessMc, botchat, Wertfuzzy77#0274, waifu
+07 May 2017 05:50:20 : LimitlessMc, botchat, Crystal4209#4698, ;gif nico nico ni
+07 May 2017 05:50:21 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/frida-kahlo-cartas-diego-rivera-amor-2SxPFS0I68AAo
+07 May 2017 05:50:21 : LimitlessMc, botchat, darth kota#9446, XD
+07 May 2017 05:50:29 : LimitlessMc, botchat, TherminatorX#6644, Hek
+07 May 2017 05:50:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gif nico nico nii
+07 May 2017 05:50:39 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/tmfu-press-s2ekIucoH5clO
+07 May 2017 05:50:46 : LimitlessMc, botchat, Crystal4209#4698, This thing bamboozled me
+07 May 2017 05:50:46 : LimitlessMc, botchat, darth kota#9446, what part of the internet XD
+07 May 2017 05:50:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gif weeb
+07 May 2017 05:50:55 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/idc-hneA8odFYOvxS
+07 May 2017 05:51:00 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pbt gibngfipnb
+07 May 2017 05:51:02 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:51:04 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:51:05 : LimitlessMc, botchat, Wertfuzzy77#0274, wat
+07 May 2017 05:51:14 : LimitlessMc, botchat, Crystal4209#4698, ;gif boop the snoot
+07 May 2017 05:51:15 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/great-snoots-booping-b2TaOfltin9ug
+07 May 2017 05:51:36 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pbt ggbngfipnb
+07 May 2017 05:51:37 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Please wait 27 seconds before you can fight the boss again.
+07 May 2017 05:51:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gif fite me
+07 May 2017 05:51:38 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/fite-2g81uCFgK2Y48
+07 May 2017 05:51:48 : LimitlessMc, botchat, Wertfuzzy77#0274, lol
+07 May 2017 05:52:03 : LimitlessMc, botchat, darth kota#9446, temple run?
+07 May 2017 05:52:14 : LimitlessMc, botchat, Crystal4209#4698, ;gif German shepherd licking peanut butter of a spoon
+07 May 2017 05:52:15 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/spoon-11LXVOawHLLov6
+07 May 2017 05:52:21 : LimitlessMc, botchat, Wertfuzzy77#0274, LOL
+07 May 2017 05:52:26 : LimitlessMc, botchat, Crystal4209#4698, ..
+07 May 2017 05:52:33 : LimitlessMc, botchat, Wertfuzzy77#0274, sam is now a german shephard
+07 May 2017 05:52:34 : LimitlessMc, botchat, Wertfuzzy77#0274, gg
+07 May 2017 05:52:50 : LimitlessMc, botchat, TherminatorX#6644, It kept the spoon at least
+07 May 2017 05:52:53 : LimitlessMc, botchat, Crystal4209#4698, Wut
+07 May 2017 05:52:58 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gif sam and dean
+07 May 2017 05:52:58 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/supernatural-fireworks-4th-of-july-4PVWwjlyVc9Ww
+07 May 2017 05:53:02 : LimitlessMc, botchat, darth kota#9446, ;gif rip me
+07 May 2017 05:53:02 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/rip-me-tINarsrsgIN1u
+07 May 2017 05:53:14 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pbt ggbngfipnb
+07 May 2017 05:53:14 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gif hmph
+07 May 2017 05:53:14 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/pgtips-l0HlGd1H6XkdlfjZS
+07 May 2017 05:53:16 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:53:18 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:53:22 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:53:24 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:53:27 : LimitlessMc, botchat, darth kota#9446, villagers? XD
+07 May 2017 05:53:31 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pbs
+07 May 2017 05:53:31 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 68 Boss **Vanilluxe** has been defeated!
+07 May 2017 05:53:31 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Please use ;pokebattle <moves> hard to fight and reveal a new boss.
+07 May 2017 05:53:32 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gif real like doodles
+07 May 2017 05:53:32 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/doodle-n2Kgw21pcfFJe
+07 May 2017 05:53:33 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:53:37 : LimitlessMc, botchat, Wertfuzzy77#0274, woops
+07 May 2017 05:53:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gif real life doodles
+07 May 2017 05:53:46 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/kermit-bluestaplestudios-6p1PPTROBlu1y
+07 May 2017 05:53:47 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pbt bbbbbbbbbb
+07 May 2017 05:53:50 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:53:53 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:53:59 : None, Direct Message with TherminatorX, TherminatorX#6644, ;train
+07 May 2017 05:54:05 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:54:07 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:54:09 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+07 May 2017 05:54:15 : LimitlessMc, botchat, darth kota#9446, ;gif wertfuzzy77
+07 May 2017 05:54:30 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+07 May 2017 05:54:32 : LimitlessMc, botchat, Wertfuzzy77#0274, anyways
+07 May 2017 05:54:33 : LimitlessMc, botchat, Wertfuzzy77#0274, anime time
+07 May 2017 05:54:37 : LimitlessMc, botchat, Wertfuzzy77#0274, bai everyone
+07 May 2017 05:54:42 : LimitlessMc, botchat, Wertfuzzy77#0274, see you tomorrow for safari games
+07 May 2017 05:54:42 : LimitlessMc, botchat, darth kota#9446, damn i was hoping it would grab something randy
+07 May 2017 05:54:44 : LimitlessMc, botchat, Wertfuzzy77#0274, prob
+07 May 2017 05:54:53 : LimitlessMc, botchat, darth kota#9446, i wont be there
+07 May 2017 05:59:26 : LimitlessMc, botchat, darth kota#9446, x = 1
+if x == 1:
+    print ("string 1")
+else:
+    print ("string 2")
+test = x + 1
+print (test)
+07 May 2017 05:59:46 : LimitlessMc, botchat, darth kota#9446, i did a thing papa wert will be proud
+07 May 2017 06:00:29 : LimitlessMc, botchat, darth kota#9446, ;search cemetary gates
+07 May 2017 06:00:29 : LimitlessMc, botchat, Botfuzzy77#2209, Turn off Radio mode first! (`;Radio off`)
+07 May 2017 06:00:36 : LimitlessMc, botchat, darth kota#9446, ;radio off
+07 May 2017 06:00:36 : LimitlessMc, botchat, Botfuzzy77#2209, Radio mode OFF
+07 May 2017 06:00:54 : LimitlessMc, botchat, darth kota#9446, ;search cemetary gates
+07 May 2017 06:00:56 : LimitlessMc, botchat, Botfuzzy77#2209, Added Cemetery Gates - Pantera (HQ Audio) to the queue
+07 May 2017 06:00:56 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=1OYw7FPB7CE
+07 May 2017 06:01:10 : LimitlessMc, botchat, darth kota#9446, ;search she talks to angels
+07 May 2017 06:01:11 : LimitlessMc, botchat, Botfuzzy77#2209, Added black crowes - she talks to angels to the queue
+07 May 2017 06:01:11 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=8_5U0M9ErGA
+07 May 2017 06:01:22 : LimitlessMc, botchat, darth kota#9446, ;search with you were here
+07 May 2017 06:01:24 : LimitlessMc, botchat, Botfuzzy77#2209, Added Pink Floyd - Wish You Were Here to the queue
+07 May 2017 06:01:26 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=IXdNnw99-Ic
+07 May 2017 06:01:45 : LimitlessMc, botchat, darth kota#9446, ;search i remember you skid row
+07 May 2017 06:01:47 : LimitlessMc, botchat, Botfuzzy77#2209, Added Skid Row - I Remember You to the queue
+07 May 2017 06:01:47 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=ivFYVAntpw0
+07 May 2017 06:02:45 : LimitlessMc, botchat, darth kota#9446, #botfuzzyfordominance
+07 May 2017 06:03:09 : LimitlessMc, botchat, darth kota#9446, ;search freebird
+07 May 2017 06:03:11 : LimitlessMc, botchat, Botfuzzy77#2209, Added Lynyrd Skynyrd-Free bird to the queue
+07 May 2017 06:03:11 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=np0solnL1XY
+07 May 2017 06:03:43 : LimitlessMc, botchat, darth kota#9446, nuuuuuuu
+07 May 2017 06:04:16 : LimitlessMc, botchat, darth kota#9446, ;reconnect
+07 May 2017 06:04:58 : LimitlessMc, botchat, darth kota#9446, ;leave
+07 May 2017 06:05:04 : LimitlessMc, botchat, darth kota#9446, ;join
+07 May 2017 06:05:04 : LimitlessMc, botchat, Botfuzzy77#2209, Sorry, I'm already connected to a channel
+07 May 2017 06:05:20 : LimitlessMc, botchat, darth kota#9446, well fuck
+07 May 2017 06:05:38 : LimitlessMc, botchat, darth kota#9446, rip botfuzzy 2017
+07 May 2017 06:05:51 : LimitlessMc, botchat, darth kota#9446, ;join
+07 May 2017 06:05:51 : LimitlessMc, botchat, Botfuzzy77#2209, Sorry, I'm already connected to a channel
+07 May 2017 06:05:56 : LimitlessMc, botchat, darth kota#9446, ;leave
+07 May 2017 06:06:09 : LimitlessMc, botchat, darth kota#9446, k
+07 May 2017 06:19:19 : memes, general, Void#8062, I BRING THE MEGADETH
+07 May 2017 06:21:20 : LimitlessMc, botchat, TherminatorX#6644, ;cd
+07 May 2017 06:21:20 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train**
+You need to wait 169 seconds
+**Gamble**
+You can Gamble right now!
+07 May 2017 06:21:26 : LimitlessMc, botchat, TherminatorX#6644, ;level
+07 May 2017 06:21:28 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 06:22:07 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+07 May 2017 06:22:07 : LimitlessMc, botchat, Botfuzzy77#2209, Sorry, I'm already connected to a channel
+07 May 2017 06:22:09 : LimitlessMc, botchat, Wertfuzzy77#0274, hmmmmmmm
+07 May 2017 06:22:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ;leave
+07 May 2017 06:22:31 : LimitlessMc, botchat, Wertfuzzy77#0274, helloooo @Botfuzzy77
+07 May 2017 06:22:32 : LimitlessMc, botchat, Botfuzzy77#2209, How are you?
+07 May 2017 06:24:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+07 May 2017 06:24:19 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 06:24:33 : Pulse, game-chat, Wertfuzzy77#0274, ;ranking
+07 May 2017 06:24:33 : Pulse, game-chat, Botfuzzy77#2209, 
+07 May 2017 06:24:38 : LimitlessMc, botchat, darth kota#9446, @Wertfuzzy77 x = 1
+if x == 1:
+    print ("string 1")
+else:
+    print ("string 2")
+test = x + 1
+print (test)
+07 May 2017 06:24:51 : LimitlessMc, botchat, Wertfuzzy77#0274, that would print
+07 May 2017 06:24:58 : LimitlessMc, botchat, Wertfuzzy77#0274, `string 1
+2`
+07 May 2017 06:25:05 : LimitlessMc, botchat, darth kota#9446, yep 😃
+07 May 2017 06:25:12 : LimitlessMc, botchat, darth kota#9446, i did it
+07 May 2017 06:25:19 : LimitlessMc, botchat, Wertfuzzy77#0274, you could also just have done print(x+1) 😛
+07 May 2017 06:25:31 : LimitlessMc, botchat, darth kota#9446, ....
+07 May 2017 06:25:39 : LimitlessMc, botchat, darth kota#9446, ..................................................................................
+07 May 2017 06:25:42 : LimitlessMc, botchat, Wertfuzzy77#0274, you don't need to defind a var for everything xD
+07 May 2017 06:25:54 : LimitlessMc, botchat, Wertfuzzy77#0274, ;relog
+07 May 2017 06:25:54 : LimitlessMc, botchat, Botfuzzy77#2209, Relogging...

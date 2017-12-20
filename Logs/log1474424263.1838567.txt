@@ -1,0 +1,56 @@
+21 Sep 2016 02:18:04 : Cipher, bot_land, Wertfuzzy77#0274, ;join
+21 Sep 2016 02:18:11 : Cipher, bot_land, Wertfuzzy77#0274, ;search Kimi no na wa song complication
+21 Sep 2016 02:18:13 : Cipher, bot_land, Botfuzzy77#2209, https://www.youtube.com/watch?v=X2kGaP7N2VA
+21 Sep 2016 02:18:42 : The Wild Weeaboos, general, \//\#7946, ;help musicplayer
+21 Sep 2016 02:18:42 : The Wild Weeaboos, general, Botfuzzy77#2209, No command called "musicplayer" found.
+21 Sep 2016 02:18:51 : The Wild Weeaboos, general, \//\#7946, ;help MusicPlayer
+21 Sep 2016 02:18:51 : The Wild Weeaboos, general, Botfuzzy77#2209, ```
+Commands:
+  playlist       Adds songs from a predefined playlist to the songs list
+  playlists      
+  extendplaylist Extends a custom playlist
+  makeplaylist   Makes a custom playlist for the bot to save
+  desc           Decription of the Current playing song
+  join           Joins the Voice channel you are currently in
+  shuffle        Shuffles the songs in the Queue
+  skip           Skips the Current song
+  viewplaylist   Views the songs of a playlists
+  songs          Prints the songs in the queue
+  search         
+  youtube        Adds a Song for the Bot to Play
+  leave          Leaves the Join chat
+  song           Returns information about the current playing song
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+21 Sep 2016 02:19:11 : The Wild Weeaboos, general, Wertfuzzy77#0274, ;leave
+21 Sep 2016 02:19:13 : The Wild Weeaboos, general, Wertfuzzy77#0274, ;join
+21 Sep 2016 02:19:26 : The Wild Weeaboos, general, Wertfuzzy77#0274, ;search sound of silence
+21 Sep 2016 02:19:28 : The Wild Weeaboos, general, Botfuzzy77#2209, https://www.youtube.com/watch?v=u9Dg-g7t2l4
+21 Sep 2016 02:19:28 : The Wild Weeaboos, general, Botfuzzy77#2209, Added Disturbed  - The Sound Of Silence [Official Music Video] to the queue
+21 Sep 2016 02:19:40 : The Wild Weeaboos, general, Wertfuzzy77#0274, ;song
+21 Sep 2016 02:19:41 : The Wild Weeaboos, general, Botfuzzy77#2209, ```Name: Disturbed  - The Sound Of Silence [Official Music Video]
+URL: <https://www.youtube.com/watch?v=u9Dg-g7t2l4>
+Time: 0:04:19
+Views: 105,475,048
+Likes: 907,611, 96.12%
+Dislikes: 36,612, 3.88%
+```
+21 Sep 2016 02:19:55 : The Wild Weeaboos, general, Wertfuzzy77#0274, ;search sound of silence Simon
+21 Sep 2016 02:19:56 : The Wild Weeaboos, general, Botfuzzy77#2209, https://www.youtube.com/watch?v=4zLfCnGVeL4
+21 Sep 2016 02:19:56 : The Wild Weeaboos, general, Botfuzzy77#2209, Added The Sound of Silence (Original Version from 1964) to the queue
+21 Sep 2016 02:19:59 : The Wild Weeaboos, general, Wertfuzzy77#0274, ;skip
+21 Sep 2016 02:19:59 : The Wild Weeaboos, general, Botfuzzy77#2209, Skipping Disturbed  - The Sound Of Silence [Official Music Video]
+21 Sep 2016 02:20:16 : The Wild Weeaboos, general, \//\#7946, ;search darude
+21 Sep 2016 02:20:21 : The Wild Weeaboos, general, Botfuzzy77#2209, https://www.youtube.com/watch?v=y6120QOlsfU
+21 Sep 2016 02:20:21 : The Wild Weeaboos, general, Botfuzzy77#2209, Added Darude - Sandstorm to the queue
+21 Sep 2016 02:20:31 : The Wild Weeaboos, general, Wertfuzzy77#0274, ;songs
+21 Sep 2016 02:20:32 : The Wild Weeaboos, general, Botfuzzy77#2209, **The Following songs are in the Queue**
+21 Sep 2016 02:20:32 : The Wild Weeaboos, general, Botfuzzy77#2209, 1. Darude - Sandstorm
+	<https://www.youtube.com/watch?v=y6120QOlsfU>
+Total Time is 0:03:52
+21 Sep 2016 02:20:51 : The Wild Weeaboos, general, \//\#7946, ;search never gonna hit those notes
+21 Sep 2016 02:21:11 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Stormzzzy**(Popes of The Raw Man) is now Online!
+21 Sep 2016 02:22:04 : The Wild Weeaboos, general, Wertfuzzy77#0274, ;relog
+21 Sep 2016 02:22:04 : The Wild Weeaboos, general, Botfuzzy77#2209, Relogging...

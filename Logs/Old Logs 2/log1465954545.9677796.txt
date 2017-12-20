@@ -1,0 +1,111 @@
+15 Jun 2016 01:35:48 : LimitlessMc , Wertfuzzy77#0274 , !help
+15 Jun 2016 01:35:49 : LimitlessMc , Gerald#7099 , 
+Hello, I am Gerald, the channel Bot. I can do many things, I can even be extended by plugins (weehee).
+
+Current commands: (note that arguments in <> are required, those in [] not)
+  - !clean  : lets me purge messages, options below
+    - !clean lets me purge the last 50 messages
+    - !clean <number> does the same for n messages (no maximum :P)
+    - !clean infinite removes messages until !kill, even the end of the channel doesn't seem like the limit
+    - !clean images deletes any message containing either a link to a jpg, !meme or an attachment
+    - !clean <string> removes every message containing the string
+    - !clean @someone cleans @someones messages in the last 100
+  - <@158641216311787520> (<@!158641216311787520>)  : Talk with me :)
+  - !help (!info) : Prints the help
+  - !kill : Kills me and lets me (hopefully) respawn instantly
+  - !ping (!pong) : Ping Pong
+  - !invite : Add me to your server
+  - !dropbox <secret> : Register Dropbox. Go to http://ultramc.org:8087/dropbox/authorize
+  - !id <beginning of name> : Outputs their internal id
+  - !serverid : Prints this server's id
+  - !channelid : Let me output the id of thid channel
+  - !roleids : Lists all roles with their ids
+  - !mention <role name> : Mentions everyone in that role
+  - !permissions <username> : Lists all permissions the spefific user has in this channel
+  - !meme <text you wanna write> : Generate a funny image
+  - !play <name> : Plays a specific song from soundcloud
+  - !youtube <name> : Plays a specific song from youtube. Can also be a url
+  - !twitch <name> : Streams from twitch.tv
+  - !pause : Pauses playback
+  - !stop : Stops playback and empties the queue
+  - !queue : Prints the current queue
+  - !shufflequeue : Shuffles the queue
+  - !flushqueue : Empties the queue
+  - !skip : Skips the current song
+  - !replay : Adds the current playing song to the queue
+  - !webplayer : Outputs your personal webplayer url
+15 Jun 2016 01:35:50 : LimitlessMc , Gerald#7099 , 
+  - !resetsecret : Resets your webplayer secret in case you lost it
+  - !stats  : Outputs which users wrote the most in this channel
+  - !words  : Outputs which users wrote the most words in this channel
+  - !topwords  : Sends the most common words in this channel
+  - !suspicious  : NSA-like who should be tracked a bit more :)
+  - !weblog  : The channel's weblog for easy search in the browser
+  - !punchcard  : The channel's punchcard - when are people active in here
+  - !rate [@mention] : outputs my rating for a user
+  - !luck [@mention] : outputs the luck of a user today
+  - !nowelcome  : Disables the welcome message for this server
+  - !dowelcome  : Enables the welcome message again
+15 Jun 2016 01:35:58 : LimitlessMc , Wertfuzzy77#0274 , !mute Gerald
+15 Jun 2016 01:35:58 : LimitlessMc , Botfuzzy77#2926 , Muted Gerald
+15 Jun 2016 01:36:01 : LimitlessMc , Wertfuzzy77#0274 , go away gerald
+15 Jun 2016 01:36:03 : LimitlessMc , Wertfuzzy77#0274 , !help
+15 Jun 2016 01:36:05 : (MUTED PLAYER)-LimitlessMc , Gerald#7099 , 
+Hello, I am Gerald, the channel Bot. I can do many things, I can even be extended by plugins (weehee).
+
+Current commands: (note that arguments in <> are required, those in [] not)
+  - !clean  : lets me purge messages, options below
+    - !clean lets me purge the last 50 messages
+    - !clean <number> does the same for n messages (no maximum :P)
+    - !clean infinite removes messages until !kill, even the end of the channel doesn't seem like the limit
+    - !clean images deletes any message containing either a link to a jpg, !meme or an attachment
+    - !clean <string> removes every message containing the string
+    - !clean @someone cleans @someones messages in the last 100
+  - <@158641216311787520> (<@!158641216311787520>)  : Talk with me :)
+  - !help (!info) : Prints the help
+  - !kill : Kills me and lets me (hopefully) respawn instantly
+  - !ping (!pong) : Ping Pong
+  - !invite : Add me to your server
+  - !dropbox <secret> : Register Dropbox. Go to http://ultramc.org:8087/dropbox/authorize
+  - !id <beginning of name> : Outputs their internal id
+  - !serverid : Prints this server's id
+  - !channelid : Let me output the id of thid channel
+  - !roleids : Lists all roles with their ids
+  - !mention <role name> : Mentions everyone in that role
+  - !permissions <username> : Lists all permissions the spefific user has in this channel
+  - !meme <text you wanna write> : Generate a funny image
+  - !play <name> : Plays a specific song from soundcloud
+  - !youtube <name> : Plays a specific song from youtube. Can also be a url
+  - !twitch <name> : Streams from twitch.tv
+  - !pause : Pauses playback
+  - !stop : Stops playback and empties the queue
+  - !queue : Prints the current queue
+  - !shufflequeue : Shuffles the queue
+  - !flushqueue : Empties the queue
+  - !skip : Skips the current song
+  - !replay : Adds the current playing song to the queue
+  - !webplayer : Outputs your personal webplayer url
+15 Jun 2016 01:36:05 : (MUTED PLAYER)-LimitlessMc , Gerald#7099 , 
+  - !resetsecret : Resets your webplayer secret in case you lost it
+  - !stats  : Outputs which users wrote the most in this channel
+  - !words  : Outputs which users wrote the most words in this channel
+  - !topwords  : Sends the most common words in this channel
+  - !suspicious  : NSA-like who should be tracked a bit more :)
+  - !weblog  : The channel's weblog for easy search in the browser
+  - !punchcard  : The channel's punchcard - when are people active in here
+  - !rate [@mention] : outputs my rating for a user
+  - !luck [@mention] : outputs the luck of a user today
+  - !nowelcome  : Disables the welcome message for this server
+  - !dowelcome  : Enables the welcome message again
+15 Jun 2016 01:36:07 : LimitlessMc , Wertfuzzy77#0274 , gg
+15 Jun 2016 01:49:22 : Cipher , Wertfuzzy77#0274 , !pokemon Regice
+15 Jun 2016 01:49:22 : Cipher , Botfuzzy77#2926 , Pixelmon Page: http://pixelmonmod.com/wiki/index.php?title=Regice
+15 Jun 2016 01:49:22 : Cipher , Botfuzzy77#2926 , Bulbapedia Page: http://bulbapedia.bulbagarden.net/wiki/Regice
+15 Jun 2016 01:49:22 : Cipher , Botfuzzy77#2926 , Pokemon DB: http://pokemondb.net/pokedex/Regice
+15 Jun 2016 01:49:22 : Cipher , Botfuzzy77#2926 , Smogon: http://www.smogon.com/dex/bw/pokemon/Regice
+15 Jun 2016 02:06:12 : LimitlessMc , GioHyzero(Lugia)#8149 , Dark get on da server
+15 Jun 2016 02:07:37 : LimitlessMc , Nalk Xulk Uk Eht#7098 , !kiss <@151163520120127488>
+15 Jun 2016 02:07:37 : LimitlessMc , Botfuzzy77#2926 , :heart: *Nalk Xulk Uk Eht Kissed <@151163520120127488>* :heart:
+15 Jun 2016 02:08:21 : LimitlessMc , Nalk Xulk Uk Eht#7098 , looks like foreign lenguage to me.
+15 Jun 2016 02:09:06 : LimitlessMc , Nalk Xulk Uk Eht#7098 , !meme hep me.
+15 Jun 2016 02:09:09 : (MUTED PLAYER)-LimitlessMc , Gerald#7099 , http://i.imgflip.com/15uv5r.jpg

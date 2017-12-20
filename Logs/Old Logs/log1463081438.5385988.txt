@@ -1,0 +1,263 @@
+Wertfuzzy77#0274, !pokemon Ranch+Block
+Botfuzzy77#2926, Pixelmon Page: http://pixelmonmod.com/wiki/index.php?title=Ranch+Block
+Botfuzzy77#2926, Bulbapedia Page: http://bulbapedia.bulbagarden.net/wiki/Ranch+Block
+Botfuzzy77#2926, Pokemon DB: http://pokemondb.net/pokedex/Ranch+Block
+Botfuzzy77#2926, Smogon: http://www.smogon.com/dex/bw/pokemon/Ranch+Block
+Wertfuzzy77#0274, !pokemon superpower
+Botfuzzy77#2926, Pixelmon Page: http://pixelmonmod.com/wiki/index.php?title=superpower
+Botfuzzy77#2926, Bulbapedia Page: http://bulbapedia.bulbagarden.net/wiki/superpower
+Botfuzzy77#2926, Pokemon DB: http://pokemondb.net/pokedex/superpower
+Botfuzzy77#2926, Smogon: http://www.smogon.com/dex/bw/pokemon/superpower
+Wertfuzzy77#0274, !pokemon Celebi
+Botfuzzy77#2926, Pixelmon Page: http://pixelmonmod.com/wiki/index.php?title=Celebi
+Botfuzzy77#2926, Bulbapedia Page: http://bulbapedia.bulbagarden.net/wiki/Celebi
+Botfuzzy77#2926, Pokemon DB: http://pokemondb.net/pokedex/Celebi
+Botfuzzy77#2926, Smogon: http://www.smogon.com/dex/bw/pokemon/Celebi
+Wertfuzzy77#0274, this thing my fav
+Wertfuzzy77#0274, http://limitlessmc.net/f/viewtopic.php?f=11&t=3188
+Botfuzzy77#2926, **
+Team Magma Generals Voting
+**
+
+#9585 by ruleroftri
+ Sat Apr 30, 2016 7:01 pm 
+		
+Vote for the 3 people who will become generals, which are basically those in charge of building and have a higher chain of command in team magma, top 3 voted become generals. Please do not vote if you are not in Team Magma.
+Wertfuzzy77#0274, auto parses Limitless URLs
+Wertfuzzy77#0274, !pokemon Rhyperior
+Botfuzzy77#2926, Pixelmon Page: http://pixelmonmod.com/wiki/index.php?title=Rhyperior
+Botfuzzy77#2926, Bulbapedia Page: http://bulbapedia.bulbagarden.net/wiki/Rhyperior
+Botfuzzy77#2926, Pokemon DB: http://pokemondb.net/pokedex/Rhyperior
+Botfuzzy77#2926, Smogon: http://www.smogon.com/dex/bw/pokemon/Rhyperior
+Wertfuzzy77#0274, !pokemon metagross
+Botfuzzy77#2926, Pixelmon Page: http://pixelmonmod.com/wiki/index.php?title=metagross
+Botfuzzy77#2926, Bulbapedia Page: http://bulbapedia.bulbagarden.net/wiki/metagross
+Botfuzzy77#2926, Pokemon DB: http://pokemondb.net/pokedex/metagross
+Botfuzzy77#2926, Smogon: http://www.smogon.com/dex/bw/pokemon/metagross
+Botfuzzy77#2926, Welcome <@180412091969044480> to LimitlessMc!
+Wertfuzzy77#0274, welcome
+IamLucario#1027, is this linked to server chat as well?
+Wertfuzzy77#0274, nah
+Roy210#7098, I wish
+Wertfuzzy77#0274, ^
+Wertfuzzy77#0274, !pokemon Krookodile
+Botfuzzy77#2926, Pixelmon Page: http://pixelmonmod.com/wiki/index.php?title=Krookodile
+Botfuzzy77#2926, Bulbapedia Page: http://bulbapedia.bulbagarden.net/wiki/Krookodile
+Botfuzzy77#2926, Pokemon DB: http://pokemondb.net/pokedex/Krookodile
+Botfuzzy77#2926, Smogon: http://www.smogon.com/dex/bw/pokemon/Krookodile
+Botfuzzy77#2926, Welcome <@176197055746670593> to LimitlessMC Cipher!
+TheLast1Alive#7757, Gay 
+TheLast1Alive#7757, Nopls 
+TheLast1Alive#7757, Can't get rid of me hahahahaa 
+TheLast1Alive#7757, This chat so boring 
+Wertfuzzy77#0274, lol, y it say it here
+Wertfuzzy77#0274, garbage bot
+Wertfuzzy77#0274, go home
+Wertfuzzy77#0274, !debug ctx.author
+Botfuzzy77#2926, ```py
+AttributeError: 'Context' object has no attribute 'author'
+```
+Wertfuzzy77#0274, !debug ctx.channel
+Botfuzzy77#2926, ```py
+AttributeError: 'Context' object has no attribute 'channel'
+```
+Wertfuzzy77#0274, !debug ctx.message
+Botfuzzy77#2926, ```py
+<discord.message.Message object at 0x000001B2F1C5EBF8>
+```
+Roy210#7098, Tf
+Wertfuzzy77#0274, shhh
+Wertfuzzy77#0274, !debug ctx.message.server
+Botfuzzy77#2926, ```py
+LimitlessMC Cipher
+```
+Wertfuzzy77#0274, !debug ctx.message.server.channel
+Botfuzzy77#2926, ```py
+AttributeError: 'Server' object has no attribute 'channel'
+```
+Wertfuzzy77#0274, !debug ctx.message.server.channels
+Botfuzzy77#2926, ```py
+dict_values([<discord.channel.Channel object at 0x000001B2F1B416D8>, <discord.channel.Channel object at 0x000001B2F1B41940>])
+```
+Wertfuzzy77#0274, !debug ctx.message.server.channels[0]
+Botfuzzy77#2926, ```py
+TypeError: 'dict_values' object does not support indexing
+```
+Wertfuzzy77#0274, :/
+Roy210#7098, Okei?
+Wertfuzzy77#0274, !debug ctx.message.server.channels(1)
+Botfuzzy77#2926, ```py
+TypeError: 'dict_values' object is not callable
+```
+Wertfuzzy77#0274, :/
+Wertfuzzy77#0274, hep
+Wertfuzzy77#0274, !debug ctx.message.server.channels{0}
+Botfuzzy77#2926, ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+Wertfuzzy77#0274, ;o
+Wertfuzzy77#0274, rip
+Wertfuzzy77#0274, i fix one sec
+Roy210#7098, !!debug ctx.channel
+Botfuzzy77#2926, Sorry <@151163520120127488>, I cant talk right here, it isnt safe, but visit me in #botchat
+Roy210#7098, Shit
+Roy210#7098, !debug ctx.channel
+Botfuzzy77#2926, Sorry <@151163520120127488>, I cant talk right here, it isnt safe, but visit me in #botchat
+Wertfuzzy77#0274, you no have perms for it
+Roy210#7098, !debug ctx.channel
+Botfuzzy77#2926, ```py
+AttributeError: 'Context' object has no attribute 'channel'
+```
+Roy210#7098, Lelelelel
+Roy210#7098, It work
+Roy210#7098, I think
+Wertfuzzy77#0274, ya
+Wertfuzzy77#0274, but you  dont know how it worksor what is does
+Roy210#7098, !debug ctx.message
+Botfuzzy77#2926, ```py
+<discord.message.Message object at 0x000001B2F1C60938>
+```
+Roy210#7098, Le
+Wertfuzzy77#0274, !debug ctx.message.context
+Botfuzzy77#2926, ```py
+AttributeError: 'Message' object has no attribute 'context'
+```
+Wertfuzzy77#0274, !debug ctx.message.content
+Botfuzzy77#2926, ```py
+!debug ctx.message.content
+```
+Wertfuzzy77#0274, !debug ctx.message.author.mention
+Botfuzzy77#2926, ```py
+<@134441036905840640>
+```
+Wertfuzzy77#0274, ew lol
+Wertfuzzy77#0274, !debug ctx.message.channel
+Botfuzzy77#2926, ```py
+botchat
+```
+Roy210#7098, !debug ctx.message.channel
+Botfuzzy77#2926, ```py
+botchat
+```
+Roy210#7098, Le
+Roy210#7098, !debug
+Wertfuzzy77#0274, !debug ctx.message.author.channel
+Botfuzzy77#2926, ```py
+AttributeError: 'Member' object has no attribute 'channel'
+```
+Wertfuzzy77#0274, :/
+Roy210#7098, !debug ctx.author
+Botfuzzy77#2926, ```py
+AttributeError: 'Context' object has no attribute 'author'
+```
+Roy210#7098, ...
+Wertfuzzy77#0274, !debug ctx.message.author.server
+Botfuzzy77#2926, ```py
+LimitlessMc
+```
+Wertfuzzy77#0274, !debug ctx.message.author.server.channels
+Botfuzzy77#2926, ```py
+dict_values([<discord.channel.Channel object at 0x000001B2F1B41780>, <discord.channel.Channel object at 0x000001B2F1B41710>, <discord.channel.Channel object at 0x000001B2F1B41748>, <discord.channel.Channel object at 0x000001B2F1B417F0>, <discord.channel.Channel object at 0x000001B2F1B417B8>])
+```
+Wertfuzzy77#0274, ew
+Sir_Blazer#6755, !pokemon umbreon
+Botfuzzy77#2926, Pixelmon Page: http://pixelmonmod.com/wiki/index.php?title=umbreon
+Botfuzzy77#2926, Bulbapedia Page: http://bulbapedia.bulbagarden.net/wiki/umbreon
+Botfuzzy77#2926, Pokemon DB: http://pokemondb.net/pokedex/umbreon
+Botfuzzy77#2926, Smogon: http://www.smogon.com/dex/bw/pokemon/umbreon
+Sir_Blazer#6755, >:D
+Roy210#7098, !debug ctx.message.author.channels
+Botfuzzy77#2926, ```py
+AttributeError: 'Member' object has no attribute 'channels'
+```
+Wertfuzzy77#0274, cool right
+Sir_Blazer#6755, yeh
+Wertfuzzy77#0274, need to go Author -> server -> Channels
+Wertfuzzy77#0274, !debug ctx.message.author.server.channels[0]
+Botfuzzy77#2926, ```py
+TypeError: 'dict_values' object does not support indexing
+```
+Wertfuzzy77#0274, nub
+Wertfuzzy77#0274, go home bot
+Roy210#7098, !debug ctx.message.author.server. channels
+Botfuzzy77#2926, ```py
+dict_values([<discord.channel.Channel object at 0x000001B2F1B41780>, <discord.channel.Channel object at 0x000001B2F1B41710>, <discord.channel.Channel object at 0x000001B2F1B41748>, <discord.channel.Channel object at 0x000001B2F1B417F0>, <discord.channel.Channel object at 0x000001B2F1B417B8>])
+```
+Roy210#7098, Rude
+Roy210#7098, Teach me how to debug okei
+Wertfuzzy77#0274, !debug ctx.message.author.server.channels.1
+Botfuzzy77#2926, ```py
+SyntaxError: unexpected EOF while parsing (<string>, line 1)
+```
+Wertfuzzy77#0274, !debug ctx.message.author.server.channels
+Botfuzzy77#2926, ```py
+dict_values([<discord.channel.Channel object at 0x000001B2F1B41780>, <discord.channel.Channel object at 0x000001B2F1B41710>, <discord.channel.Channel object at 0x000001B2F1B41748>, <discord.channel.Channel object at 0x000001B2F1B417F0>, <discord.channel.Channel object at 0x000001B2F1B417B8>])
+```
+Wertfuzzy77#0274, once i figure it out :/
+Roy210#7098, Lelel
+Wertfuzzy77#0274, !debug lamda x: ctx.message.author.server.channels
+Botfuzzy77#2926, ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+Wertfuzzy77#0274, :/
+Wertfuzzy77#0274, !debug for x in ctx.message.author.server.channels: x
+Botfuzzy77#2926, ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+Wertfuzzy77#0274, :/
+Wertfuzzy77#0274, !debug for x in ctx.message.author.server.channels:{x}
+Botfuzzy77#2926, ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+Wertfuzzy77#0274, ::::??????????
+Wertfuzzy77#0274, !debug for x in ctx.message.author.server.channels:
+    await bot.say(x)
+Botfuzzy77#2926, ```py
+SyntaxError: invalid syntax (<string>, line 1)
+```
+Wertfuzzy77#0274, :/
+Wertfuzzy77#0274, !debug ctx.message.author.server.channels()
+Botfuzzy77#2926, ```py
+TypeError: 'dict_values' object is not callable
+```
+Roy210#7098, !debug botfuzzy77
+Botfuzzy77#2926, ```py
+NameError: name 'botfuzzy77' is not defined
+```
+Wertfuzzy77#0274, !debug Botfuzzy77
+Botfuzzy77#2926, ```py
+NameError: name 'Botfuzzy77' is not defined
+```
+Wertfuzzy77#0274, :/
+Roy210#7098, !hack botfuzzy77
+Roy210#7098, It no work
+Roy210#7098, !hack botfuzzy77
+Roy210#7098, It no work
+Wertfuzzy77#0274, !debug lambda x: ctx.message.author.server.channels
+Botfuzzy77#2926, ```py
+<function <lambda> at 0x000001B2F1C359D8>
+```
+Wertfuzzy77#0274, !debug (lambda x: ctx.message.author.server.channels)[0]
+Botfuzzy77#2926, ```py
+TypeError: 'function' object is not subscriptable
+```
+Wertfuzzy77#0274, aw
+Wertfuzzy77#0274, !debug (lambda x: ctx.message.author.server.channels)(1)
+Botfuzzy77#2926, ```py
+NameError: name 'ctx' is not defined
+```
+Wertfuzzy77#0274, wut
+Wertfuzzy77#0274, !debug ctx.message.channel
+Botfuzzy77#2926, ```py
+general
+```
+Wertfuzzy77#0274, !debug ctx.message.channel.id
+Botfuzzy77#2926, ```py
+174395437330071552
+```
+Wertfuzzy77#0274, !debug ctx.message.server.name
+Botfuzzy77#2926, ```py
+LimitlessMC Cipher
+```
+Wertfuzzy77#0274, !relog
+Botfuzzy77#2926, Relogging...

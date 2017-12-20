@@ -1,0 +1,77 @@
+16 Jul 2016 14:54:03 : LimitlessMc , Wertfuzzy77#0274 , ;join
+16 Jul 2016 14:54:07 : LimitlessMc , Wertfuzzy77#0274 , ;playlist Adele
+16 Jul 2016 14:54:11 : LimitlessMc , Botfuzzy77#2209 , Finished Adding songs from playlist(s)
+16 Jul 2016 14:54:15 : LimitlessMc , Wertfuzzy77#0274 , ;song
+16 Jul 2016 14:54:15 : LimitlessMc , Botfuzzy77#2209 , ```Name: Adele - Hello
+URL: <https://www.youtube.com/watch?v=YQHsXMglC9A>
+Time: 0:06:07
+Views: 1,634,527,049
+Likes: 10,277,682, 95.21%
+Dislikes: 516,602, 4.79%
+```
+16 Jul 2016 14:54:23 : LimitlessMc , Wertfuzzy77#0274 , added time
+16 Jul 2016 14:54:42 : LimitlessMc , Resolate#7058 , ;help
+16 Jul 2016 14:54:42 : LimitlessMc , Botfuzzy77#2209 , ```
+  joined      Says when a member joined.
+  status      Returns the Status of the Bot, along with Additional Information
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+16 Jul 2016 14:55:32 : LimitlessMc , Wertfuzzy77#0274 , ;playlist Maroon Sheeran
+16 Jul 2016 14:55:39 : LimitlessMc , Wertfuzzy77#0274 , you want me to make a playlist for you?
+16 Jul 2016 14:55:41 : LimitlessMc , Botfuzzy77#2209 , Finished Adding songs from playlist(s)
+16 Jul 2016 14:55:57 : LimitlessMc , Resolate#7058 , Nah, I'm fine, Thanks tho
+16 Jul 2016 14:55:57 : LimitlessMc , Wertfuzzy77#0274 , if you give me a list of youtube videos, i can manually add em in
+16 Jul 2016 14:56:00 : LimitlessMc , Wertfuzzy77#0274 , k
+16 Jul 2016 14:56:06 : LimitlessMc , Wertfuzzy77#0274 , ;shuffle
+16 Jul 2016 14:56:06 : LimitlessMc , Botfuzzy77#2209 , Shuffling songs...
+16 Jul 2016 14:56:07 : LimitlessMc , Wertfuzzy77#0274 , ;songs
+16 Jul 2016 14:56:08 : LimitlessMc , Botfuzzy77#2209 , The Following songs are in the Queue, plus [5] more
+16 Jul 2016 14:56:08 : LimitlessMc , Botfuzzy77#2209 , Maroon 5 - Moves Like Jagger ft. Christina Aguilera (https://www.youtube.com/watch?v=iEPTlhBmwRg)
+Maroon 5 - Payphone (Explicit) ft. Wiz Khalifa (https://www.youtube.com/watch?v=KRaWnd3LJfs)
+Adele - Someone Like You (https://www.youtube.com/watch?v=hLQl3WQQoQ0)
+Ed Sheeran - The A Team [Official Video] (https://www.youtube.com/watch?v=UAWcs5H-qgQ)
+Adele - Set Fire To The Rain (Live at The Royal Albert Hall) (https://www.youtube.com/watch?v=Ri7-vnrJD3k)
+Maroon 5 - Maps (Explicit) (https://www.youtube.com/watch?v=NmugSMBh_iI)
+Adele - Rolling in the Deep (https://www.youtube.com/watch?v=rYEDA3JcQqw)
+Ed Sheeran - I See Fire (Music Video) (https://www.youtube.com/watch?v=2fngvQS_PmQ)
+Ed Sheeran - Photograph (Official Music Video) (https://www.youtube.com/watch?v=nSDgHBxUbVQ)
+Adele - Turning Tables (With Lyrics) (https://www.youtube.com/watch?v=dx7sLNyIeQk)
+
+16 Jul 2016 14:57:09 : LimitlessMc , Wertfuzzy77#0274 , ;playlists
+16 Jul 2016 14:57:10 : LimitlessMc , Botfuzzy77#2209 , Sheeran, Adele, WEEB, Maroon
+16 Jul 2016 14:58:45 : LimitlessMc , Resolate#7058 , About the features, I can't think of anything apart from ;epicness for FlavorTexts
+16 Jul 2016 14:58:53 : LimitlessMc , Wertfuzzy77#0274 , what would it do?
+16 Jul 2016 14:59:11 : LimitlessMc , Wertfuzzy77#0274 , ;remove 1
+16 Jul 2016 14:59:12 : LimitlessMc , Botfuzzy77#2209 , Removed: Maroon 5 - Moves Like Jagger ft. Christina Aguilera
+16 Jul 2016 14:59:47 : LimitlessMc , Wertfuzzy77#0274 , another random number?
+16 Jul 2016 15:00:17 : LimitlessMc , Resolate#7058 , Sorry, I can't think of much else xD
+16 Jul 2016 15:01:02 : Cipher , ItzFuzeM8#0498 , hey
+16 Jul 2016 15:03:05 : LimitlessMc , Resolate#7058 , Maybe, A command which shows a link to a describtion of an item?
+16 Jul 2016 15:03:49 : LimitlessMc , Wertfuzzy77#0274 , like ?
+16 Jul 2016 15:03:57 : Cipher , Calamariela#4119 , Look its fuze
+16 Jul 2016 15:03:57 : LimitlessMc , Wertfuzzy77#0274 , ;pokemon Master_Ball
+16 Jul 2016 15:03:57 : LimitlessMc , Botfuzzy77#2209 , Pixelmon Page: http://pixelmonmod.com/wiki/index.php?title=Master_Ball
+16 Jul 2016 15:03:58 : LimitlessMc , Botfuzzy77#2209 , Bulbapedia Page: http://bulbapedia.bulbagarden.net/wiki/Master_Ball
+16 Jul 2016 15:03:58 : LimitlessMc , Botfuzzy77#2209 , Pokemon DB: http://pokemondb.net/pokedex/Master_Ball
+16 Jul 2016 15:03:58 : LimitlessMc , Botfuzzy77#2209 , Smogon: http://www.smogon.com/dex/bw/pokemon/Master_Ball
+16 Jul 2016 15:03:59 : Cipher , Calamariela#4119 , Hai
+16 Jul 2016 15:04:14 : LimitlessMc , Wertfuzzy77#0274 , ^ that>
+16 Jul 2016 15:04:16 : LimitlessMc , Wertfuzzy77#0274 , ? *
+16 Jul 2016 15:04:39 : LimitlessMc , Resolate#7058 , Yeah, didn't know it worked with ;pokemon
+16 Jul 2016 15:04:58 : LimitlessMc , Wertfuzzy77#0274 , pokemon literally takes what you say and throws it on the end of those URLs
+16 Jul 2016 15:05:06 : LimitlessMc , Wertfuzzy77#0274 , ;pokemon COMPLETLY_WRONG_THING
+16 Jul 2016 15:05:07 : LimitlessMc , Botfuzzy77#2209 , Pixelmon Page: http://pixelmonmod.com/wiki/index.php?title=COMPLETLY_WRONG_THING
+16 Jul 2016 15:05:07 : LimitlessMc , Botfuzzy77#2209 , Bulbapedia Page: http://bulbapedia.bulbagarden.net/wiki/COMPLETLY_WRONG_THING
+16 Jul 2016 15:05:07 : LimitlessMc , Botfuzzy77#2209 , Pokemon DB: http://pokemondb.net/pokedex/COMPLETLY_WRONG_THING
+16 Jul 2016 15:05:07 : LimitlessMc , Botfuzzy77#2209 , Smogon: http://www.smogon.com/dex/bw/pokemon/COMPLETLY_WRONG_THING
+16 Jul 2016 15:05:11 : LimitlessMc , Wertfuzzy77#0274 , ^ see lol
+16 Jul 2016 15:05:13 : LimitlessMc , Resolate#7058 , xD
+16 Jul 2016 15:05:26 : LimitlessMc , Wertfuzzy77#0274 , ;ship
+16 Jul 2016 15:05:28 : LimitlessMc , Wertfuzzy77#0274 , ;skip
+16 Jul 2016 15:05:28 : LimitlessMc , Botfuzzy77#2209 , Skipping Ed Sheeran - The A Team [Official Video]
+16 Jul 2016 15:05:35 : LimitlessMc , Wertfuzzy77#0274 , ....
+16 Jul 2016 15:05:40 : LimitlessMc , Wertfuzzy77#0274 , ;shutdown
+16 Jul 2016 15:05:40 : LimitlessMc , Botfuzzy77#2209 , Ok :(
+16 Jul 2016 15:05:40 : LimitlessMc , Botfuzzy77#2209 , Gooodbye cruel world

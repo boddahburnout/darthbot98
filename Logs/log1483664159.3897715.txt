@@ -1,0 +1,80 @@
+06 Jan 2017 00:56:13 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;pokebattle nnnnn
+06 Jan 2017 00:56:13 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, A Level 0 Boss **Absol** has appeared!
+It has 0 Health.
+06 Jan 2017 00:56:14 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, 
+06 Jan 2017 00:56:14 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :x: :x:
+06 Jan 2017 00:56:14 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Your moves did 0 damage
+06 Jan 2017 00:56:14 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Level 0 Boss **Absol** has been defeated!
+06 Jan 2017 00:56:17 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;summon 1
+06 Jan 2017 00:56:18 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Most Damage by **Wertfuzzy77** with **0** damage
+06 Jan 2017 00:56:19 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Please wait for the current boss to be defeated before you summon a new one!
+06 Jan 2017 00:56:24 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;summon 1
+06 Jan 2017 00:56:30 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, A Level 1 boss has been summoned
+06 Jan 2017 00:56:34 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;pokebattle nnnnn
+06 Jan 2017 00:56:34 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, A Level 1 Boss **Lunatone** has appeared!
+It has 769 Health.
+06 Jan 2017 00:56:34 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, 
+06 Jan 2017 00:56:34 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :x: :x:
+06 Jan 2017 00:56:34 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Rival Bonus!
+06 Jan 2017 00:56:35 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Your moves did 0 damage
+06 Jan 2017 00:56:35 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Level 1 Boss **Lunatone** has 769 health left.
+06 Jan 2017 00:56:39 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;pokeboss
+06 Jan 2017 00:56:39 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, -= **Boss Pokemon** =-
+*Name*: Lunatone
+*Health*: 769/769 (100.0%)
+*Level*: 1
+Last Combo:
+:regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :x: :x:
+06 Jan 2017 00:56:40 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, 
+06 Jan 2017 00:56:40 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Most Damage by **Wertfuzzy77** with **0** damage
+06 Jan 2017 00:57:12 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, @Mareanie hep me kill this
+06 Jan 2017 00:57:18 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, need to test XP giving
+06 Jan 2017 00:57:32 : LimitlessMc, botchat, Wertfuzzy77#0274, ;c
+06 Jan 2017 00:57:33 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cd
+06 Jan 2017 00:57:33 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+06 Jan 2017 00:57:33 : LimitlessMc, botchat, Botfuzzy77#2209, You need to wait 32 seconds
+06 Jan 2017 00:57:33 : LimitlessMc, botchat, Botfuzzy77#2209, **Train**
+06 Jan 2017 00:57:33 : LimitlessMc, botchat, Botfuzzy77#2209, You can Train right now!
+06 Jan 2017 00:57:35 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+06 Jan 2017 00:57:35 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 19 **Amaura** (50% to beat)
+You **Beat** a Level 20 **Sneasel** for 498 XP (47% to beat)
+You **Beat** a Level 25 **Gengar** for 589 XP (38% to beat)
+You **Lost** to a Level 28 **Barbaracle** (33% to beat)
+You **Beat** a Level 10 **Magneton** for 190 XP (80% to beat)
+You **Lost** to a Level 32 **Cascoon** (29% to beat)
+06 Jan 2017 00:57:38 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 1277 XP!
+06 Jan 2017 00:57:41 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+06 Jan 2017 00:57:42 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 20
+**XP**: 278.59145299145166/9261
+06 Jan 2017 00:57:45 : LimitlessMc, botchat, Wertfuzzy77#0274, ayy, level 20
+06 Jan 2017 00:57:54 : LimitlessMc, botchat, Saba#2249, jesus wert
+06 Jan 2017 00:57:59 : LimitlessMc, botchat, Saba#2249, Fighting the bot like mad
+06 Jan 2017 00:58:04 : LimitlessMc, botchat, Wertfuzzy77#0274, testing things
+06 Jan 2017 00:58:07 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cd
+06 Jan 2017 00:58:07 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+06 Jan 2017 00:58:07 : LimitlessMc, botchat, Botfuzzy77#2209, You can battle right now!
+06 Jan 2017 00:58:07 : LimitlessMc, botchat, Botfuzzy77#2209, **Train**
+06 Jan 2017 00:58:07 : LimitlessMc, botchat, Botfuzzy77#2209, You need to wait 1170 seconds
+06 Jan 2017 00:58:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle iiiii
+06 Jan 2017 00:58:10 : LimitlessMc, botchat, Botfuzzy77#2209, Level 1 Boss **Lunatone** has 769 health left.
+06 Jan 2017 00:58:12 : LimitlessMc, botchat, Botfuzzy77#2209, 
+06 Jan 2017 00:58:13 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i:
+:x: :x: :white_check_mark: :x: :x:
+06 Jan 2017 00:58:13 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+06 Jan 2017 00:58:13 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did 1 damage
+06 Jan 2017 00:58:13 : LimitlessMc, botchat, Botfuzzy77#2209, Level 1 Boss **Lunatone** has 768 health left.
+06 Jan 2017 00:58:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ayy, 1 damage
+06 Jan 2017 00:58:20 : LimitlessMc, mainchat, ChesireKat#7022, @Lightning  hes tryin to get the noods
+06 Jan 2017 00:58:24 : LimitlessMc, mainchat, Adam#7575, arent we all
+06 Jan 2017 00:58:34 : LimitlessMc, mainchat, ChesireKat#7022, not me
+06 Jan 2017 00:58:44 : LimitlessMc, mainchat, Adam#7575, 'im not like other girls'
+06 Jan 2017 00:58:47 : LimitlessMc, mainchat, Adam#7575, 'send me dogs instead'
+06 Jan 2017 00:58:49 : LimitlessMc, mainchat, ChesireKat#7022, only ponys
+06 Jan 2017 00:58:51 : LimitlessMc, mainchat, ChesireKat#7022, 😄
+06 Jan 2017 00:59:05 : LimitlessMc, mainchat, ChesireKat#7022, nah how so?
+06 Jan 2017 00:59:17 : LimitlessMc, mainchat, ChesireKat#7022, lmao not here in canada
+06 Jan 2017 00:59:22 : LimitlessMc, mainchat, ChesireKat#7022, or there in japan

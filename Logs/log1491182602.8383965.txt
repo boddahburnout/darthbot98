@@ -1,0 +1,19 @@
+03 Apr 2017 01:23:32 : OblivionEvolved, general, Wertfuzzy77#0274, testing the new disabled feature now
+03 Apr 2017 01:23:37 : OblivionEvolved, general, Wertfuzzy77#0274, ;pokeboss
+03 Apr 2017 01:23:37 : OblivionEvolved, general, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> medium to fight and reveal the boss.
+03 Apr 2017 01:23:39 : OblivionEvolved, general, Wertfuzzy77#0274, hmmmm
+03 Apr 2017 01:23:46 : OblivionEvolved, general, Wertfuzzy77#0274, lies @Oblivion Bot
+03 Apr 2017 01:23:47 : OblivionEvolved, general, Botfuzzy77#2209, Truth.
+03 Apr 2017 01:24:22 : OblivionEvolved, general, Nerokin#3586, Hallo @Oblivion Bot
+03 Apr 2017 01:24:23 : OblivionEvolved, general, Botfuzzy77#2209, Wie gehts?
+03 Apr 2017 01:24:26 : OblivionEvolved, general, StubbyMuffins#1053, lol
+03 Apr 2017 01:24:30 : OblivionEvolved, general, Wertfuzzy77#0274, ;debug ctx.message.server.id not in [297612236753469440]
+03 Apr 2017 01:24:30 : OblivionEvolved, general, Botfuzzy77#2209, ```py
+True
+```
+03 Apr 2017 01:24:40 : OblivionEvolved, general, Wertfuzzy77#0274, ;debug ctx.message.server.id not in ['297612236753469440']
+03 Apr 2017 01:24:40 : OblivionEvolved, general, Botfuzzy77#2209, ```py
+False
+```
+03 Apr 2017 01:24:42 : OblivionEvolved, general, Wertfuzzy77#0274, dumb...

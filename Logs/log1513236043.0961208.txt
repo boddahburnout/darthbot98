@@ -1,0 +1,76 @@
+14 Dec 2017 07:20:52 : FAM, videos-and-music, darth kota#9446, ;join
+14 Dec 2017 07:20:52 : FAM, videos-and-music, darthbot98#5182, Connected channel!
+14 Dec 2017 07:21:05 : FAM, videos-and-music, darth kota#9446, ;recommend
+14 Dec 2017 07:22:13 : FAM, videos-and-music, darth kota#9446, ;reload
+14 Dec 2017 07:22:13 : FAM, videos-and-music, darthbot98#5182, Reloaded
+14 Dec 2017 07:22:19 : FAM, videos-and-music, darth kota#9446, ;recommen
+14 Dec 2017 07:22:22 : FAM, videos-and-music, darth kota#9446, ;recommend
+14 Dec 2017 07:22:22 : FAM, videos-and-music, darthbot98#5182, The Bot isnt connected in this server!
+14 Dec 2017 07:22:25 : FAM, videos-and-music, darth kota#9446, ;joim
+14 Dec 2017 07:22:29 : FAM, videos-and-music, darth kota#9446, ;join
+14 Dec 2017 07:22:29 : FAM, videos-and-music, darthbot98#5182, Reconnected channel!
+14 Dec 2017 07:22:35 : FAM, videos-and-music, darth kota#9446, ;recommend
+14 Dec 2017 07:23:47 : FAM, videos-and-music, darth kota#9446, ;reload
+14 Dec 2017 07:23:47 : FAM, videos-and-music, darthbot98#5182, Reloaded
+14 Dec 2017 07:23:52 : FAM, videos-and-music, darth kota#9446, ;join
+14 Dec 2017 07:23:52 : FAM, videos-and-music, darthbot98#5182, Reconnected channel!
+14 Dec 2017 07:24:01 : FAM, videos-and-music, darth kota#9446, ;recommend
+14 Dec 2017 07:24:50 : FAM, videos-and-music, darth kota#9446, ;reload
+14 Dec 2017 07:24:50 : FAM, videos-and-music, darthbot98#5182, Something went wrong :(
+14 Dec 2017 07:24:50 : FAM, videos-and-music, darthbot98#5182, SyntaxError: invalid syntax (Music.py, line 276)
+14 Dec 2017 07:25:02 : FAM, videos-and-music, darth kota#9446, ;reload
+14 Dec 2017 07:25:02 : FAM, videos-and-music, darthbot98#5182, Reloaded
+14 Dec 2017 07:25:09 : FAM, videos-and-music, darth kota#9446, ;join
+14 Dec 2017 07:25:10 : FAM, videos-and-music, darthbot98#5182, Reconnected channel!
+14 Dec 2017 07:25:16 : FAM, videos-and-music, darth kota#9446, ;recommend
+14 Dec 2017 07:25:17 : FAM, videos-and-music, darthbot98#5182, Please add a song with ;search first
+14 Dec 2017 07:29:53 : FAM, videos-and-music, darth kota#9446, ;reload
+14 Dec 2017 07:29:53 : FAM, videos-and-music, darthbot98#5182, Reloaded
+14 Dec 2017 07:29:56 : FAM, videos-and-music, darth kota#9446, ;join
+14 Dec 2017 07:29:56 : FAM, videos-and-music, darthbot98#5182, Reconnected channel!
+14 Dec 2017 07:30:00 : FAM, videos-and-music, darth kota#9446, ;recommend
+14 Dec 2017 07:30:41 : FAM, videos-and-music, darth kota#9446, ;reloadf
+14 Dec 2017 07:30:45 : FAM, videos-and-music, darth kota#9446, ;reload
+14 Dec 2017 07:30:45 : FAM, videos-and-music, darthbot98#5182, Reloaded
+14 Dec 2017 07:30:50 : FAM, videos-and-music, darth kota#9446, ;join
+14 Dec 2017 07:30:50 : FAM, videos-and-music, darthbot98#5182, Reconnected channel!
+14 Dec 2017 07:31:00 : FAM, videos-and-music, darth kota#9446, ;recomend
+14 Dec 2017 07:31:08 : FAM, videos-and-music, darth kota#9446, ;recommend
+14 Dec 2017 07:33:11 : FAM, videos-and-music, darth kota#9446, ;reload
+14 Dec 2017 07:33:12 : FAM, videos-and-music, darthbot98#5182, Reloaded
+14 Dec 2017 07:33:20 : FAM, videos-and-music, darth kota#9446, ;recomend
+14 Dec 2017 07:33:24 : FAM, videos-and-music, darth kota#9446, ;recommend
+14 Dec 2017 07:33:24 : FAM, videos-and-music, darthbot98#5182, The Bot isnt connected in this server!
+14 Dec 2017 07:33:28 : FAM, videos-and-music, darth kota#9446, ;join
+14 Dec 2017 07:33:29 : FAM, videos-and-music, darthbot98#5182, Reconnected channel!
+14 Dec 2017 07:33:31 : FAM, videos-and-music, darth kota#9446, ;recommend
+14 Dec 2017 07:34:49 : FAM, videos-and-music, darth kota#9446, ;reload
+14 Dec 2017 07:34:49 : FAM, videos-and-music, darthbot98#5182, Reloaded
+14 Dec 2017 07:34:53 : FAM, videos-and-music, darth kota#9446, ;join
+14 Dec 2017 07:34:53 : FAM, videos-and-music, darthbot98#5182, Reconnected channel!
+14 Dec 2017 07:34:59 : FAM, videos-and-music, darth kota#9446, ;recommend
+14 Dec 2017 07:36:04 : FAM, videos-and-music, darth kota#9446, ;reload
+14 Dec 2017 07:36:05 : FAM, videos-and-music, darthbot98#5182, Reloaded
+14 Dec 2017 07:36:11 : FAM, videos-and-music, darth kota#9446, ;join
+14 Dec 2017 07:36:11 : FAM, videos-and-music, darthbot98#5182, Reconnected channel!
+14 Dec 2017 07:36:16 : FAM, videos-and-music, darth kota#9446, ;recommend
+14 Dec 2017 07:38:54 : FAM, videos-and-music, darth kota#9446, ;reload
+14 Dec 2017 07:38:55 : FAM, videos-and-music, darthbot98#5182, Reloaded
+14 Dec 2017 07:38:59 : FAM, videos-and-music, darth kota#9446, ;join
+14 Dec 2017 07:38:59 : FAM, videos-and-music, darthbot98#5182, Reconnected channel!
+14 Dec 2017 07:39:05 : FAM, videos-and-music, darth kota#9446, ;recommend
+14 Dec 2017 07:39:06 : FAM, videos-and-music, darthbot98#5182, Please add a song with ;search first
+14 Dec 2017 07:39:31 : FAM, videos-and-music, darth kota#9446, ;search sad but true
+14 Dec 2017 07:39:35 : FAM, videos-and-music, darthbot98#5182, Added Metallica - Sad But True Lyrics (HD) to the queue
+14 Dec 2017 07:39:35 : FAM, videos-and-music, darthbot98#5182, https://www.youtube.com/watch?v=O_4OfD-wmGs
+14 Dec 2017 07:42:21 : FAM, videos-and-music, darth kota#9446, ;presence
+14 Dec 2017 07:42:21 : FAM, videos-and-music, darthbot98#5182, I am now playing
+14 Dec 2017 07:45:39 : FAM, videos-and-music, darth kota#9446, ;reload
+14 Dec 2017 07:45:39 : FAM, videos-and-music, Mee6#4876, GG @darth kota, you just advanced to **level 10** !
+14 Dec 2017 07:45:39 : FAM, videos-and-music, darthbot98#5182, Reloaded
+14 Dec 2017 07:45:50 : FAM, videos-and-music, darth kota#9446, ;join
+14 Dec 2017 07:45:50 : FAM, videos-and-music, darthbot98#5182, Reconnected channel!
+14 Dec 2017 07:45:57 : FAM, videos-and-music, darth kota#9446, ;search simple man
+14 Dec 2017 07:46:00 : FAM, videos-and-music, darthbot98#5182, Added Simple Man - Lynyrd Skynyrd - Lyrics HD to the queue
+14 Dec 2017 07:46:00 : FAM, videos-and-music, darthbot98#5182, https://www.youtube.com/watch?v=sMmTkKz60W8
+14 Dec 2017 08:03:25 : FAM, off-topic, darth kota#9446, ;relog

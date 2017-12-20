@@ -1,0 +1,1040 @@
+14 Jan 2017 05:44:02 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;trivia
+14 Jan 2017 05:44:11 : None, Direct Message with TherminatorX, TherminatorX#6644, ;summon 16
+14 Jan 2017 05:44:11 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Please wait for the current boss to be defeated before you summon a new one!
+14 Jan 2017 05:44:15 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;trivia
+14 Jan 2017 05:44:16 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Lets play the Text game
+14 Jan 2017 05:44:16 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Next Question in 5 Seconds
+14 Jan 2017 05:44:17 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;trivia
+14 Jan 2017 05:44:18 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Already playing a game, wait for that one to finish.
+14 Jan 2017 05:44:18 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;trivia
+14 Jan 2017 05:44:18 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Already playing a game, wait for that one to finish.
+14 Jan 2017 05:44:20 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;trivia
+14 Jan 2017 05:44:20 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Already playing a game, wait for that one to finish.
+14 Jan 2017 05:44:20 : None, Direct Message with TherminatorX, TherminatorX#6644, ;pokebattle penis
+14 Jan 2017 05:44:20 : None, Direct Message with TherminatorX, Botfuzzy77#2209, A Level 0 Boss **Rhyhorn** has appeared!
+It has 0 Health.
+14 Jan 2017 05:44:20 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+14 Jan 2017 05:44:20 : None, Direct Message with TherminatorX, Botfuzzy77#2209, :regional_indicator_p: :regional_indicator_e: :regional_indicator_n: :regional_indicator_i: :regional_indicator_s:
+:x: :x: :x: :x: :x:
+14 Jan 2017 05:44:20 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Your moves did **0** damage
+14 Jan 2017 05:44:20 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;trivia
+14 Jan 2017 05:44:20 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Level 0 Boss **Rhyhorn** has been defeated!
+14 Jan 2017 05:44:21 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Already playing a game, wait for that one to finish.
+14 Jan 2017 05:44:22 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;trivia
+14 Jan 2017 05:44:22 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Question 1
+14 Jan 2017 05:44:23 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Already playing a game, wait for that one to finish.
+14 Jan 2017 05:44:23 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Which Pokemon is This?
+**Legends say this Pokémon confounded opponents
+with its swift movements.**
+14 Jan 2017 05:44:23 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, You have Thirty seconds to submit an answer using ;ans [Your Answer]...
+	        
+
+**Note:** If you know it and want to save it for the end, be wary that it may not recognize some answers if multiple are simultaneous!
+14 Jan 2017 05:44:24 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;trivia;trivia;trivia;trivia;trivia;trivia;trivia;trivia;trivia
+14 Jan 2017 05:44:25 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Most Damage by **TherminatorX** with **0** damage
+14 Jan 2017 05:44:27 : None, Direct Message with TherminatorX, TherminatorX#6644, ;summon 16
+14 Jan 2017 05:44:28 : None, Direct Message with TherminatorX, Botfuzzy77#2209, A Level 16 boss has been summoned
+14 Jan 2017 05:44:33 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;ans kys
+14 Jan 2017 05:44:40 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, lmao
+14 Jan 2017 05:44:45 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;help
+14 Jan 2017 05:44:45 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, ```
+A Bot for the Limitless MC Server Discord! Version 0.14.2.6
+(Created by Wertfuzzy77)
+
+FlavorTexts:
+  kys            
+  kiss           Adds Emotion
+  wyr            
+  fml            Returns a Random Post from fmylife.com
+  funify         Funifies a given text input
+  choose         Chooses from a set of things
+  hug            Adds Emotion
+  kill           Adds Emotion
+  conch          Ask the Magic Conch a Question
+  luck           Returns the Player's Luck
+  lmgtfy         Returns a Link to a "Let me Google That For You" Page
+  rate           Rates the Player
+  image          Returns the First Found Image on Google Images for this Input
+  rps            Allows the player to play Rock, Paper, Scissors with the Bot...
+  slap           Adds Emotion
+  gif            Returns the First Found Image on Google Images for this Input
+Games:
+  pokebattle     Fights a Pokemon Boss using a combination of 10 total moves ...
+  pokehelp       Pokemon Battle Sim Help
+  lookup         Displays your Current Information
+  pokeboss       Displays Boss Info
+  level          Displays your Current Information
+  trivia         
+  summon         Summons a Boss of your Level or a Level below yours
+  train          Fights Pokemon for XP
+  ranking        
+  types          
+  cd             Shows your Cooldowns
+MusicPlayer:
+  clear          Clears the Queue
+  viewplaylist   Views the songs of a playlists
+  songs          Prints the songs in the queue
+  leave          Leaves the Join chat
+  music          Returns the current status of the Music Bot
+  Radio          Toggles Radio Mode
+  youtube        Adds a Song for the Bot to Play
+  search         Searches for a song
+  join           Joins the Voice channel you are currently in
+  makeplaylist   Makes a custom playlist for the bot to save
+  song           Returns information about the current playing song
+  playlist       Adds songs from a predefined playlist to the songs list
+  extendplaylist Extends a custom playlist
+```
+14 Jan 2017 05:44:45 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, ```
+  desc           Decription of the Current playing song
+  remove         removes a song from a queue by index
+  loop           Plays the current song again
+  playlists      Shows all the current playlists
+  skip           Skips the Current song
+  shuffle        Shuffles the songs in the Queue
+StaffCmds:
+  mute           
+  unmute         
+  unmuteall      Unmutes ALL muted players
+  mutelist       
+  tempmute       
+​No Category:
+  ev             
+  afk            Sets you as AFK, and the Bot will auto Reply for you with th...
+  joined         Says when a member joined.
+  pokemon        Returns Links to Pokemon pages
+  source         Returns a link to the source code for this bot
+  feedback       Returns a link to a Google Forums, where you can leave feedb...
+  help           Shows this message.
+  server         Returns Information on the Limitless MC server!
+  invite         Returns a Link to the Invite URL for this bot
+  status         Returns the Status of the Bot, along with Additional Informa...
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+14 Jan 2017 05:44:51 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;help
+14 Jan 2017 05:44:51 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, ```
+A Bot for the Limitless MC Server Discord! Version 0.14.2.6
+(Created by Wertfuzzy77)
+
+FlavorTexts:
+  kys            
+  kiss           Adds Emotion
+  wyr            
+  fml            Returns a Random Post from fmylife.com
+  funify         Funifies a given text input
+  choose         Chooses from a set of things
+  hug            Adds Emotion
+  kill           Adds Emotion
+  conch          Ask the Magic Conch a Question
+  luck           Returns the Player's Luck
+  lmgtfy         Returns a Link to a "Let me Google That For You" Page
+  rate           Rates the Player
+  image          Returns the First Found Image on Google Images for this Input
+  rps            Allows the player to play Rock, Paper, Scissors with the Bot...
+  slap           Adds Emotion
+  gif            Returns the First Found Image on Google Images for this Input
+Games:
+  pokebattle     Fights a Pokemon Boss using a combination of 10 total moves ...
+  pokehelp       Pokemon Battle Sim Help
+  lookup         Displays your Current Information
+  pokeboss       Displays Boss Info
+  level          Displays your Current Information
+  trivia         
+  summon         Summons a Boss of your Level or a Level below yours
+  train          Fights Pokemon for XP
+  ranking        
+  types          
+  cd             Shows your Cooldowns
+MusicPlayer:
+  clear          Clears the Queue
+  viewplaylist   Views the songs of a playlists
+  songs          Prints the songs in the queue
+  leave          Leaves the Join chat
+  music          Returns the current status of the Music Bot
+  Radio          Toggles Radio Mode
+  youtube        Adds a Song for the Bot to Play
+  search         Searches for a song
+  join           Joins the Voice channel you are currently in
+  makeplaylist   Makes a custom playlist for the bot to save
+  song           Returns information about the current playing song
+  playlist       Adds songs from a predefined playlist to the songs list
+  extendplaylist Extends a custom playlist
+```
+14 Jan 2017 05:44:52 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, ```
+  desc           Decription of the Current playing song
+  remove         removes a song from a queue by index
+  loop           Plays the current song again
+  playlists      Shows all the current playlists
+  skip           Skips the Current song
+  shuffle        Shuffles the songs in the Queue
+StaffCmds:
+  mute           
+  unmute         
+  unmuteall      Unmutes ALL muted players
+  mutelist       
+  tempmute       
+​No Category:
+  ev             
+  afk            Sets you as AFK, and the Bot will auto Reply for you with th...
+  joined         Says when a member joined.
+  pokemon        Returns Links to Pokemon pages
+  source         Returns a link to the source code for this bot
+  feedback       Returns a link to a Google Forums, where you can leave feedb...
+  help           Shows this message.
+  server         Returns Information on the Limitless MC server!
+  invite         Returns a Link to the Invite URL for this bot
+  status         Returns the Status of the Bot, along with Additional Informa...
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+14 Jan 2017 05:44:53 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;help
+14 Jan 2017 05:44:53 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, ```
+A Bot for the Limitless MC Server Discord! Version 0.14.2.6
+(Created by Wertfuzzy77)
+
+FlavorTexts:
+  kys            
+  kiss           Adds Emotion
+  wyr            
+  fml            Returns a Random Post from fmylife.com
+  funify         Funifies a given text input
+  choose         Chooses from a set of things
+  hug            Adds Emotion
+  kill           Adds Emotion
+  conch          Ask the Magic Conch a Question
+  luck           Returns the Player's Luck
+  lmgtfy         Returns a Link to a "Let me Google That For You" Page
+  rate           Rates the Player
+  image          Returns the First Found Image on Google Images for this Input
+  rps            Allows the player to play Rock, Paper, Scissors with the Bot...
+  slap           Adds Emotion
+  gif            Returns the First Found Image on Google Images for this Input
+Games:
+  pokebattle     Fights a Pokemon Boss using a combination of 10 total moves ...
+  pokehelp       Pokemon Battle Sim Help
+  lookup         Displays your Current Information
+  pokeboss       Displays Boss Info
+  level          Displays your Current Information
+  trivia         
+  summon         Summons a Boss of your Level or a Level below yours
+  train          Fights Pokemon for XP
+  ranking        
+  types          
+  cd             Shows your Cooldowns
+MusicPlayer:
+  clear          Clears the Queue
+  viewplaylist   Views the songs of a playlists
+  songs          Prints the songs in the queue
+  leave          Leaves the Join chat
+  music          Returns the current status of the Music Bot
+  Radio          Toggles Radio Mode
+  youtube        Adds a Song for the Bot to Play
+  search         Searches for a song
+  join           Joins the Voice channel you are currently in
+  makeplaylist   Makes a custom playlist for the bot to save
+  song           Returns information about the current playing song
+  playlist       Adds songs from a predefined playlist to the songs list
+  extendplaylist Extends a custom playlist
+```
+14 Jan 2017 05:44:53 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, ```
+  desc           Decription of the Current playing song
+  remove         removes a song from a queue by index
+  loop           Plays the current song again
+  playlists      Shows all the current playlists
+  skip           Skips the Current song
+  shuffle        Shuffles the songs in the Queue
+StaffCmds:
+  mute           
+  unmute         
+  unmuteall      Unmutes ALL muted players
+  mutelist       
+  tempmute       
+​No Category:
+  ev             
+  afk            Sets you as AFK, and the Bot will auto Reply for you with th...
+  joined         Says when a member joined.
+  pokemon        Returns Links to Pokemon pages
+  source         Returns a link to the source code for this bot
+  feedback       Returns a link to a Google Forums, where you can leave feedb...
+  help           Shows this message.
+  server         Returns Information on the Limitless MC server!
+  invite         Returns a Link to the Invite URL for this bot
+  status         Returns the Status of the Bot, along with Additional Informa...
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+14 Jan 2017 05:44:55 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;help
+14 Jan 2017 05:44:55 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, ```
+A Bot for the Limitless MC Server Discord! Version 0.14.2.6
+(Created by Wertfuzzy77)
+
+FlavorTexts:
+  kys            
+  kiss           Adds Emotion
+  wyr            
+  fml            Returns a Random Post from fmylife.com
+  funify         Funifies a given text input
+  choose         Chooses from a set of things
+  hug            Adds Emotion
+  kill           Adds Emotion
+  conch          Ask the Magic Conch a Question
+  luck           Returns the Player's Luck
+  lmgtfy         Returns a Link to a "Let me Google That For You" Page
+  rate           Rates the Player
+  image          Returns the First Found Image on Google Images for this Input
+  rps            Allows the player to play Rock, Paper, Scissors with the Bot...
+  slap           Adds Emotion
+  gif            Returns the First Found Image on Google Images for this Input
+Games:
+  pokebattle     Fights a Pokemon Boss using a combination of 10 total moves ...
+  pokehelp       Pokemon Battle Sim Help
+  lookup         Displays your Current Information
+  pokeboss       Displays Boss Info
+  level          Displays your Current Information
+  trivia         
+  summon         Summons a Boss of your Level or a Level below yours
+  train          Fights Pokemon for XP
+  ranking        
+  types          
+  cd             Shows your Cooldowns
+MusicPlayer:
+  clear          Clears the Queue
+  viewplaylist   Views the songs of a playlists
+  songs          Prints the songs in the queue
+  leave          Leaves the Join chat
+  music          Returns the current status of the Music Bot
+  Radio          Toggles Radio Mode
+  youtube        Adds a Song for the Bot to Play
+  search         Searches for a song
+  join           Joins the Voice channel you are currently in
+  makeplaylist   Makes a custom playlist for the bot to save
+  song           Returns information about the current playing song
+  playlist       Adds songs from a predefined playlist to the songs list
+  extendplaylist Extends a custom playlist
+```
+14 Jan 2017 05:44:56 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, ```
+  desc           Decription of the Current playing song
+  remove         removes a song from a queue by index
+  loop           Plays the current song again
+  playlists      Shows all the current playlists
+  skip           Skips the Current song
+  shuffle        Shuffles the songs in the Queue
+StaffCmds:
+  mute           
+  unmute         
+  unmuteall      Unmutes ALL muted players
+  mutelist       
+  tempmute       
+​No Category:
+  ev             
+  afk            Sets you as AFK, and the Bot will auto Reply for you with th...
+  joined         Says when a member joined.
+  pokemon        Returns Links to Pokemon pages
+  source         Returns a link to the source code for this bot
+  feedback       Returns a link to a Google Forums, where you can leave feedb...
+  help           Shows this message.
+  server         Returns Information on the Limitless MC server!
+  invite         Returns a Link to the Invite URL for this bot
+  status         Returns the Status of the Bot, along with Additional Informa...
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+14 Jan 2017 05:44:58 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;help
+14 Jan 2017 05:44:58 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, ```
+A Bot for the Limitless MC Server Discord! Version 0.14.2.6
+(Created by Wertfuzzy77)
+
+FlavorTexts:
+  kys            
+  kiss           Adds Emotion
+  wyr            
+  fml            Returns a Random Post from fmylife.com
+  funify         Funifies a given text input
+  choose         Chooses from a set of things
+  hug            Adds Emotion
+  kill           Adds Emotion
+  conch          Ask the Magic Conch a Question
+  luck           Returns the Player's Luck
+  lmgtfy         Returns a Link to a "Let me Google That For You" Page
+  rate           Rates the Player
+  image          Returns the First Found Image on Google Images for this Input
+  rps            Allows the player to play Rock, Paper, Scissors with the Bot...
+  slap           Adds Emotion
+  gif            Returns the First Found Image on Google Images for this Input
+Games:
+  pokebattle     Fights a Pokemon Boss using a combination of 10 total moves ...
+  pokehelp       Pokemon Battle Sim Help
+  lookup         Displays your Current Information
+  pokeboss       Displays Boss Info
+  level          Displays your Current Information
+  trivia         
+  summon         Summons a Boss of your Level or a Level below yours
+  train          Fights Pokemon for XP
+  ranking        
+  types          
+  cd             Shows your Cooldowns
+MusicPlayer:
+  clear          Clears the Queue
+  viewplaylist   Views the songs of a playlists
+  songs          Prints the songs in the queue
+  leave          Leaves the Join chat
+  music          Returns the current status of the Music Bot
+  Radio          Toggles Radio Mode
+  youtube        Adds a Song for the Bot to Play
+  search         Searches for a song
+  join           Joins the Voice channel you are currently in
+  makeplaylist   Makes a custom playlist for the bot to save
+  song           Returns information about the current playing song
+  playlist       Adds songs from a predefined playlist to the songs list
+  extendplaylist Extends a custom playlist
+```
+14 Jan 2017 05:44:58 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, ```
+  desc           Decription of the Current playing song
+  remove         removes a song from a queue by index
+  loop           Plays the current song again
+  playlists      Shows all the current playlists
+  skip           Skips the Current song
+  shuffle        Shuffles the songs in the Queue
+StaffCmds:
+  mute           
+  unmute         
+  unmuteall      Unmutes ALL muted players
+  mutelist       
+  tempmute       
+​No Category:
+  ev             
+  afk            Sets you as AFK, and the Bot will auto Reply for you with th...
+  joined         Says when a member joined.
+  pokemon        Returns Links to Pokemon pages
+  source         Returns a link to the source code for this bot
+  feedback       Returns a link to a Google Forums, where you can leave feedb...
+  help           Shows this message.
+  server         Returns Information on the Limitless MC server!
+  invite         Returns a Link to the Invite URL for this bot
+  status         Returns the Status of the Bot, along with Additional Informa...
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+14 Jan 2017 05:45:02 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;help
+14 Jan 2017 05:45:02 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, ```
+A Bot for the Limitless MC Server Discord! Version 0.14.2.6
+(Created by Wertfuzzy77)
+
+FlavorTexts:
+  kys            
+  kiss           Adds Emotion
+  wyr            
+  fml            Returns a Random Post from fmylife.com
+  funify         Funifies a given text input
+  choose         Chooses from a set of things
+  hug            Adds Emotion
+  kill           Adds Emotion
+  conch          Ask the Magic Conch a Question
+  luck           Returns the Player's Luck
+  lmgtfy         Returns a Link to a "Let me Google That For You" Page
+  rate           Rates the Player
+  image          Returns the First Found Image on Google Images for this Input
+  rps            Allows the player to play Rock, Paper, Scissors with the Bot...
+  slap           Adds Emotion
+  gif            Returns the First Found Image on Google Images for this Input
+Games:
+  pokebattle     Fights a Pokemon Boss using a combination of 10 total moves ...
+  pokehelp       Pokemon Battle Sim Help
+  lookup         Displays your Current Information
+  pokeboss       Displays Boss Info
+  level          Displays your Current Information
+  trivia         
+  summon         Summons a Boss of your Level or a Level below yours
+  train          Fights Pokemon for XP
+  ranking        
+  types          
+  cd             Shows your Cooldowns
+MusicPlayer:
+  clear          Clears the Queue
+  viewplaylist   Views the songs of a playlists
+  songs          Prints the songs in the queue
+  leave          Leaves the Join chat
+  music          Returns the current status of the Music Bot
+  Radio          Toggles Radio Mode
+  youtube        Adds a Song for the Bot to Play
+  search         Searches for a song
+  join           Joins the Voice channel you are currently in
+  makeplaylist   Makes a custom playlist for the bot to save
+  song           Returns information about the current playing song
+  playlist       Adds songs from a predefined playlist to the songs list
+  extendplaylist Extends a custom playlist
+```
+14 Jan 2017 05:45:02 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, ```
+  desc           Decription of the Current playing song
+  remove         removes a song from a queue by index
+  loop           Plays the current song again
+  playlists      Shows all the current playlists
+  skip           Skips the Current song
+  shuffle        Shuffles the songs in the Queue
+StaffCmds:
+  mute           
+  unmute         
+  unmuteall      Unmutes ALL muted players
+  mutelist       
+  tempmute       
+​No Category:
+  ev             
+  afk            Sets you as AFK, and the Bot will auto Reply for you with th...
+  joined         Says when a member joined.
+  pokemon        Returns Links to Pokemon pages
+  source         Returns a link to the source code for this bot
+  feedback       Returns a link to a Google Forums, where you can leave feedb...
+  help           Shows this message.
+  server         Returns Information on the Limitless MC server!
+  invite         Returns a Link to the Invite URL for this bot
+  status         Returns the Status of the Bot, along with Additional Informa...
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+14 Jan 2017 05:45:04 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;help
+14 Jan 2017 05:45:04 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, ```
+A Bot for the Limitless MC Server Discord! Version 0.14.2.6
+(Created by Wertfuzzy77)
+
+FlavorTexts:
+  kys            
+  kiss           Adds Emotion
+  wyr            
+  fml            Returns a Random Post from fmylife.com
+  funify         Funifies a given text input
+  choose         Chooses from a set of things
+  hug            Adds Emotion
+  kill           Adds Emotion
+  conch          Ask the Magic Conch a Question
+  luck           Returns the Player's Luck
+  lmgtfy         Returns a Link to a "Let me Google That For You" Page
+  rate           Rates the Player
+  image          Returns the First Found Image on Google Images for this Input
+  rps            Allows the player to play Rock, Paper, Scissors with the Bot...
+  slap           Adds Emotion
+  gif            Returns the First Found Image on Google Images for this Input
+Games:
+  pokebattle     Fights a Pokemon Boss using a combination of 10 total moves ...
+  pokehelp       Pokemon Battle Sim Help
+  lookup         Displays your Current Information
+  pokeboss       Displays Boss Info
+  level          Displays your Current Information
+  trivia         
+  summon         Summons a Boss of your Level or a Level below yours
+  train          Fights Pokemon for XP
+  ranking        
+  types          
+  cd             Shows your Cooldowns
+MusicPlayer:
+  clear          Clears the Queue
+  viewplaylist   Views the songs of a playlists
+  songs          Prints the songs in the queue
+  leave          Leaves the Join chat
+  music          Returns the current status of the Music Bot
+  Radio          Toggles Radio Mode
+  youtube        Adds a Song for the Bot to Play
+  search         Searches for a song
+  join           Joins the Voice channel you are currently in
+  makeplaylist   Makes a custom playlist for the bot to save
+  song           Returns information about the current playing song
+  playlist       Adds songs from a predefined playlist to the songs list
+  extendplaylist Extends a custom playlist
+```
+14 Jan 2017 05:45:04 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, ```
+  desc           Decription of the Current playing song
+  remove         removes a song from a queue by index
+  loop           Plays the current song again
+  playlists      Shows all the current playlists
+  skip           Skips the Current song
+  shuffle        Shuffles the songs in the Queue
+StaffCmds:
+  mute           
+  unmute         
+  unmuteall      Unmutes ALL muted players
+  mutelist       
+  tempmute       
+​No Category:
+  ev             
+  afk            Sets you as AFK, and the Bot will auto Reply for you with th...
+  joined         Says when a member joined.
+  pokemon        Returns Links to Pokemon pages
+  source         Returns a link to the source code for this bot
+  feedback       Returns a link to a Google Forums, where you can leave feedb...
+  help           Shows this message.
+  server         Returns Information on the Limitless MC server!
+  invite         Returns a Link to the Invite URL for this bot
+  status         Returns the Status of the Bot, along with Additional Informa...
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+14 Jan 2017 05:45:17 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, (have the help command dm the user)
+14 Jan 2017 05:45:18 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;ev
+14 Jan 2017 05:45:24 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;desc
+14 Jan 2017 05:45:29 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;leave
+14 Jan 2017 05:45:33 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;search
+14 Jan 2017 05:45:33 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, I am not connected to a Voice Chat!
+14 Jan 2017 05:45:35 : Pokemon Mystery Dungeon, bot_chat, Crystal4209#4698, *cough* minecraft *cough*
+14 Jan 2017 05:45:39 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;ev Celebi
+14 Jan 2017 05:45:40 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, **Celebi**
+```py
+speed 0
+special-defense 0
+special-attack 0
+defense 0
+attack 0
+hp 3```
+14 Jan 2017 05:45:44 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;conch
+14 Jan 2017 05:45:50 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;help ev
+14 Jan 2017 05:45:50 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, ```
+;ev [playerInput...]
+
+```
+14 Jan 2017 05:45:50 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;luck
+14 Jan 2017 05:45:50 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, ChesireKat's luck is 57.74 out of 100, which is **Not Bad**
+14 Jan 2017 05:45:55 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;luck
+14 Jan 2017 05:45:56 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, TherminatorX's luck is 28.41 out of 100, which is **Pretty Bad**
+14 Jan 2017 05:45:58 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;luck
+14 Jan 2017 05:45:58 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Wertfuzzy77's luck is 93.79 out of 100, which is **AMAZING**
+14 Jan 2017 05:46:05 : Pokemon Mystery Dungeon, bot_chat, Crystal4209#4698, ;luck
+14 Jan 2017 05:46:05 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Crystal4209's luck is 86.95 out of 100, which is **AMAZING**
+14 Jan 2017 05:46:10 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;rate  @Batman (Lunala)
+14 Jan 2017 05:46:10 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, TherminatorX is Basically Garbage
+14 Jan 2017 05:46:13 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, :3
+14 Jan 2017 05:46:24 : Pokemon Mystery Dungeon, bot_chat, Crystal4209#4698, ;rate
+14 Jan 2017 05:46:24 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Crystal4209 is Basically Garbage
+14 Jan 2017 05:46:24 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, lmao
+14 Jan 2017 05:46:41 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, XD
+14 Jan 2017 05:46:43 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, yea
+14 Jan 2017 05:46:50 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, play minecraft 😛
+14 Jan 2017 05:46:53 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ik
+14 Jan 2017 05:46:56 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, is crazy
+14 Jan 2017 05:46:59 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, (everyone is garbage except for wert, it's built into the code)
+14 Jan 2017 05:47:02 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, im not playing shit
+14 Jan 2017 05:47:20 : Pokemon Mystery Dungeon, bot_chat, Crystal4209#4698, ;rate
+14 Jan 2017 05:47:20 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Crystal4209 is Basically Garbage
+14 Jan 2017 05:47:24 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;rate
+14 Jan 2017 05:47:24 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Wertfuzzy77 is actually the best person to ever exist
+14 Jan 2017 05:47:28 : Pokemon Mystery Dungeon, bot_chat, Crystal4209#4698, ....
+14 Jan 2017 05:47:35 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, (see my comment)
+14 Jan 2017 05:47:57 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;join
+14 Jan 2017 05:48:01 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, wert ur bot is broke
+14 Jan 2017 05:48:07 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, no output
+14 Jan 2017 05:48:13 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, so many ;rates
+14 Jan 2017 05:48:16 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, no output
+14 Jan 2017 05:48:17 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, nope
+14 Jan 2017 05:48:19 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;rate
+14 Jan 2017 05:48:19 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Wertfuzzy77 is actually the best person to ever exist
+14 Jan 2017 05:48:20 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, i see none
+14 Jan 2017 05:48:24 : Pokemon Mystery Dungeon, bot_chat, Crystal4209#4698, ;rate
+14 Jan 2017 05:48:24 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Crystal4209 is Basically Garbage
+14 Jan 2017 05:48:27 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;rate
+14 Jan 2017 05:48:27 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Wertfuzzy77 is actually the best person to ever exist
+14 Jan 2017 05:48:28 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;rate
+14 Jan 2017 05:48:28 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Wertfuzzy77 is actually the best person to ever exist
+14 Jan 2017 05:48:29 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;rate
+14 Jan 2017 05:48:29 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Wertfuzzy77 is actually the best person to ever exist
+14 Jan 2017 05:48:32 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, -.-
+14 Jan 2017 05:48:35 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, >:D
+14 Jan 2017 05:48:37 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;funify Wertfuzzy77 is actually the best person to ever exist
+14 Jan 2017 05:48:37 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, weerRtFuUZzZYy(777 iisS AActTUaaLLLyy Thhee b_eEsT PERrSSooN tTOO EvveRR Ee1XxiiSStT
+14 Jan 2017 05:48:53 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;funnify spoopy
+14 Jan 2017 05:49:03 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, 😄
+14 Jan 2017 05:49:08 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;funnnnnnnify spoopy
+14 Jan 2017 05:49:38 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;funify Spooky
+14 Jan 2017 05:49:38 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, SPOo&KKy5Y
+14 Jan 2017 05:49:40 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;help needs to be in dm
+14 Jan 2017 05:49:40 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, No command called "needs" found.
+14 Jan 2017 05:49:47 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;funify Spooky
+14 Jan 2017 05:49:47 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, sSppoOOkKy
+14 Jan 2017 05:49:48 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;funify Spooky
+14 Jan 2017 05:49:48 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, spoOkY
+14 Jan 2017 05:49:50 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;funify Spooky
+14 Jan 2017 05:49:50 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, SPPOokkYY
+14 Jan 2017 05:49:58 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:49:59 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:50:00 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:50:02 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;funify food
+14 Jan 2017 05:50:02 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, FfOoo;D
+14 Jan 2017 05:50:02 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:50:03 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;help join
+14 Jan 2017 05:50:03 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, ```
+;join
+
+Joins the Voice channel you are currently in
+
+```
+14 Jan 2017 05:50:03 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:50:04 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:50:04 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:50:05 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:50:06 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;join
+14 Jan 2017 05:50:06 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:50:07 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:50:09 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:50:09 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:50:10 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:50:11 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:50:12 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:50:15 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:50:15 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;join
+14 Jan 2017 05:50:27 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;help join
+14 Jan 2017 05:50:27 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, ```
+;join
+
+Joins the Voice channel you are currently in
+
+```
+14 Jan 2017 05:50:29 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;join
+14 Jan 2017 05:50:31 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;leave
+14 Jan 2017 05:50:33 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, (no perms to join?)
+14 Jan 2017 05:50:34 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, @Giovanni toaster?
+14 Jan 2017 05:50:34 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, I love toast.
+14 Jan 2017 05:50:34 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;fuckoff
+14 Jan 2017 05:50:45 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, @Giovanni  wanna die?
+14 Jan 2017 05:50:46 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Bring it!
+14 Jan 2017 05:50:49 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, okei
+14 Jan 2017 05:50:50 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, :3
+14 Jan 2017 05:50:53 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, XD
+14 Jan 2017 05:50:54 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, nah
+14 Jan 2017 05:51:01 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, it will haz a stroke
+14 Jan 2017 05:51:02 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, and die
+14 Jan 2017 05:51:05 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, (is the bot allowed to join general?)
+14 Jan 2017 05:51:06 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, feels bad
+14 Jan 2017 05:51:14 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;join
+14 Jan 2017 05:51:32 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, lmao
+14 Jan 2017 05:51:32 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ; search for dat music
+14 Jan 2017 05:51:38 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, say please
+14 Jan 2017 05:51:51 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, say please
+14 Jan 2017 05:51:53 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, :3
+14 Jan 2017 05:51:58 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, english
+14 Jan 2017 05:52:00 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;search booty store
+14 Jan 2017 05:52:02 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added Your Favorite Martian-Booty Store to the queue
+14 Jan 2017 05:52:02 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, https://www.youtube.com/watch?v=_C3nDnJf1G4
+14 Jan 2017 05:52:07 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, say it like you mean it :3
+14 Jan 2017 05:52:23 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;youtube https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:52:24 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio to the queue
+14 Jan 2017 05:52:30 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;clear
+14 Jan 2017 05:52:31 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Cleared Queue!
+14 Jan 2017 05:52:34 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;songs
+14 Jan 2017 05:52:34 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Queue is Empty
+14 Jan 2017 05:52:35 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;youtube https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:52:36 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio to the queue
+14 Jan 2017 05:52:44 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;youtube https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:52:45 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio to the queue
+14 Jan 2017 05:52:49 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;youtube https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:52:49 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio to the queue
+14 Jan 2017 05:52:50 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, v
+14 Jan 2017 05:52:50 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;youtube https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:52:51 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio to the queue
+14 Jan 2017 05:52:51 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;youtube https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:52:52 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio to the queue
+14 Jan 2017 05:52:52 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;youtube https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:52:53 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;youtube https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:52:53 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio to the queue
+14 Jan 2017 05:52:53 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;youtube https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:52:54 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio to the queue
+14 Jan 2017 05:52:54 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;youtube https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:52:54 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio to the queue
+14 Jan 2017 05:52:55 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;youtube https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:52:55 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, v
+14 Jan 2017 05:52:56 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio to the queue
+14 Jan 2017 05:52:59 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;youtube https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:52:59 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;youtube https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:53:00 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio to the queue
+14 Jan 2017 05:53:00 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio to the queue
+14 Jan 2017 05:53:01 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;youtube https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:53:02 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio to the queue
+14 Jan 2017 05:53:02 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;youtube https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:53:03 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;youtube https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:53:04 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio to the queue
+14 Jan 2017 05:53:04 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;youtube https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:53:05 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio to the queue
+14 Jan 2017 05:53:05 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;youtube https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:53:06 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio to the queue
+14 Jan 2017 05:53:06 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;youtube https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:53:07 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio to the queue
+14 Jan 2017 05:53:07 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ;youtube https://www.youtube.com/watch?v=WhPvJOnHotE
+14 Jan 2017 05:53:08 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio to the queue
+14 Jan 2017 05:53:40 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;songs
+14 Jan 2017 05:53:40 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, **The Following songs are in the Queue, plus [7] more**
+14 Jan 2017 05:53:40 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, 1. Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio **ChesireKat**
+	<https://www.youtube.com/watch?v=WhPvJOnHotE>
+2. Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio **ChesireKat**
+	<https://www.youtube.com/watch?v=WhPvJOnHotE>
+3. Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio **ChesireKat**
+	<https://www.youtube.com/watch?v=WhPvJOnHotE>
+4. Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio **ChesireKat**
+	<https://www.youtube.com/watch?v=WhPvJOnHotE>
+5. Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio **ChesireKat**
+	<https://www.youtube.com/watch?v=WhPvJOnHotE>
+6. Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio **ChesireKat**
+	<https://www.youtube.com/watch?v=WhPvJOnHotE>
+7. Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio **ChesireKat**
+	<https://www.youtube.com/watch?v=WhPvJOnHotE>
+8. Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio **ChesireKat**
+	<https://www.youtube.com/watch?v=WhPvJOnHotE>
+9. Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio **ChesireKat**
+	<https://www.youtube.com/watch?v=WhPvJOnHotE>
+10. Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio **ChesireKat**
+	<https://www.youtube.com/watch?v=WhPvJOnHotE>
+Total Time is 1:02:54
+14 Jan 2017 05:54:07 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, @Batman (Lunala)  boi send pics or it didnt happen
+14 Jan 2017 05:54:16 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, banned
+14 Jan 2017 05:54:32 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, (pretty sure everyone muted the bot)
+14 Jan 2017 05:54:42 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;clear
+14 Jan 2017 05:54:42 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Cleared Queue!
+14 Jan 2017 05:54:49 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, -.- am in so many chats
+14 Jan 2017 05:54:51 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=jbsaZMG9w30
+14 Jan 2017 05:55:20 : Pokemon Mystery Dungeon, bot_chat, ChesireKat#7022, ewwwwwwwwwwwwwww
+14 Jan 2017 05:55:47 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=ZDuLq545U90
+14 Jan 2017 05:56:13 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, (it wants your soul)
+14 Jan 2017 05:56:51 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;song
+14 Jan 2017 05:56:51 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, **Name**: Spice And Wolf Original Soundtrack 2 Full
+**Requester**: Wertfuzzy77
+**URL**: <https://www.youtube.com/watch?v=ZDuLq545U90>
+```py
+Time: 1:07:54
+Views: 139,017
+Likes: 1,596, 99.44%
+Dislikes: 9, 0.56%```
+14 Jan 2017 05:58:19 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;search bonetrousle
+14 Jan 2017 05:58:22 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added Undertale Song - Bonetrousle Remix - The Living Tombstone to the queue
+14 Jan 2017 05:58:22 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, https://www.youtube.com/watch?v=V-mrCVDL9G4
+14 Jan 2017 05:58:32 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ...
+14 Jan 2017 06:02:28 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=eJInGGAPZgI
+14 Jan 2017 06:03:01 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, @Giovanni (Are you a toaster?)
+14 Jan 2017 06:03:02 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Yes.
+14 Jan 2017 06:03:41 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;banne  @Batman (Lunala)
+14 Jan 2017 06:05:09 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, (guessing Kat is messaging in MC)
+14 Jan 2017 06:05:39 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;song
+14 Jan 2017 06:05:39 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, **Name**: My Soul, your Beats! - Angel Beats! OP [Piano]
+**Requester**: Wertfuzzy77
+**URL**: <https://www.youtube.com/watch?v=eJInGGAPZgI>
+```py
+Time: 0:04:16
+Views: 6,619,896
+Likes: 77,977, 99.43%
+Dislikes: 448, 0.57%```
+14 Jan 2017 06:05:46 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;songs
+14 Jan 2017 06:05:46 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, **The Following songs are in the Queue**
+14 Jan 2017 06:05:46 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, 1. Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio **ChesireKat**
+	<https://www.youtube.com/watch?v=WhPvJOnHotE>
+2. Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio **ChesireKat**
+	<https://www.youtube.com/watch?v=WhPvJOnHotE>
+3. Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio **ChesireKat**
+	<https://www.youtube.com/watch?v=WhPvJOnHotE>
+4. Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio **ChesireKat**
+	<https://www.youtube.com/watch?v=WhPvJOnHotE>
+5. Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio **ChesireKat**
+	<https://www.youtube.com/watch?v=WhPvJOnHotE>
+6. Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio **ChesireKat**
+	<https://www.youtube.com/watch?v=WhPvJOnHotE>
+7. Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio **ChesireKat**
+	<https://www.youtube.com/watch?v=WhPvJOnHotE>
+8. Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio **ChesireKat**
+	<https://www.youtube.com/watch?v=WhPvJOnHotE>
+9. Undertale Song - Bonetrousle Remix - The Living Tombstone **TherminatorX**
+	<https://www.youtube.com/watch?v=V-mrCVDL9G4>
+Total Time is 0:33:12
+14 Jan 2017 06:06:01 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;clear
+14 Jan 2017 06:06:01 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Cleared Queue!
+14 Jan 2017 06:06:11 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;songs
+14 Jan 2017 06:06:11 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, **The Following songs are in the Queue**
+14 Jan 2017 06:06:11 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, 1. Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio **ChesireKat**
+	<https://www.youtube.com/watch?v=WhPvJOnHotE>
+2. Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio **ChesireKat**
+	<https://www.youtube.com/watch?v=WhPvJOnHotE>
+3. Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio **ChesireKat**
+	<https://www.youtube.com/watch?v=WhPvJOnHotE>
+4. Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio **ChesireKat**
+	<https://www.youtube.com/watch?v=WhPvJOnHotE>
+Total Time is 0:14:48
+14 Jan 2017 06:06:26 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;clear
+14 Jan 2017 06:06:26 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Cleared Queue!
+14 Jan 2017 06:06:33 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;songs
+14 Jan 2017 06:06:33 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, **The Following songs are in the Queue**
+14 Jan 2017 06:06:33 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, 1. Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio **ChesireKat**
+	<https://www.youtube.com/watch?v=WhPvJOnHotE>
+2. Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio **ChesireKat**
+	<https://www.youtube.com/watch?v=WhPvJOnHotE>
+Total Time is 0:07:24
+14 Jan 2017 06:06:37 : LimitlessMc, mainchat, DicloniusPony#6564, http://move.loveisover.me/foolfuuka/boards/u/image/1420/24/1420249881685.png
+14 Jan 2017 06:06:42 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;clear
+14 Jan 2017 06:06:42 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Cleared Queue!
+14 Jan 2017 06:06:52 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;songs
+14 Jan 2017 06:06:52 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Queue is Empty
+14 Jan 2017 06:06:58 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;song
+14 Jan 2017 06:06:58 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, **Name**: Ra Ra RasPutin animation 720 1080 HD Version @slocband @paceaudio
+**Requester**: ChesireKat
+**URL**: <https://www.youtube.com/watch?v=WhPvJOnHotE>
+```py
+Time: 0:03:42
+Views: 3,418,326
+Likes: 52,971, 97.26%
+Dislikes: 1,493, 2.74%```
+14 Jan 2017 06:07:04 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=eJInGGAPZgI
+14 Jan 2017 06:07:08 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;loop 20
+14 Jan 2017 06:07:08 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added '*My Soul, your Beats! - Angel Beats! OP [Piano]*' **20** more times
+14 Jan 2017 06:07:13 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;search broken heart's delight
+14 Jan 2017 06:07:32 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, (won't even search)
+14 Jan 2017 06:07:58 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;search basket case
+14 Jan 2017 06:08:00 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, Added Green Day - Basket Case [Official Music Video] to the queue
+14 Jan 2017 06:08:00 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, https://www.youtube.com/watch?v=NUTGr5t3MoY
+14 Jan 2017 06:08:31 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, (why didn't it search for broken heart's delight?)
+14 Jan 2017 06:09:12 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, @Batman (Lunala) (does it not like search if there's a special character?)
+14 Jan 2017 06:09:32 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;search broken heart's delight
+14 Jan 2017 06:09:55 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, (it don't wurk, fuzzy)
+14 Jan 2017 06:11:29 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, (you mean control middle clicking the chest?)
+14 Jan 2017 06:12:48 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;songs
+14 Jan 2017 06:12:48 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, **The Following songs are in the Queue, plus [10] more**
+14 Jan 2017 06:12:48 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, 1. My Soul, your Beats! - Angel Beats! OP [Piano] **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=eJInGGAPZgI>
+2. My Soul, your Beats! - Angel Beats! OP [Piano] **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=eJInGGAPZgI>
+3. My Soul, your Beats! - Angel Beats! OP [Piano] **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=eJInGGAPZgI>
+4. My Soul, your Beats! - Angel Beats! OP [Piano] **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=eJInGGAPZgI>
+5. My Soul, your Beats! - Angel Beats! OP [Piano] **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=eJInGGAPZgI>
+6. My Soul, your Beats! - Angel Beats! OP [Piano] **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=eJInGGAPZgI>
+7. My Soul, your Beats! - Angel Beats! OP [Piano] **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=eJInGGAPZgI>
+8. My Soul, your Beats! - Angel Beats! OP [Piano] **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=eJInGGAPZgI>
+9. My Soul, your Beats! - Angel Beats! OP [Piano] **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=eJInGGAPZgI>
+10. My Soul, your Beats! - Angel Beats! OP [Piano] **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=eJInGGAPZgI>
+Total Time is 1:24:17
+14 Jan 2017 06:13:01 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;clear
+14 Jan 2017 06:13:30 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;clear
+14 Jan 2017 06:13:53 : None, Direct Message with TherminatorX, TherminatorX#6644, ;song
+14 Jan 2017 06:13:54 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **Name**: My Soul, your Beats! - Angel Beats! OP [Piano]
+**Requester**: Wertfuzzy77
+**URL**: <https://www.youtube.com/watch?v=eJInGGAPZgI>
+```py
+Time: 0:04:16
+Views: 6,619,896
+Likes: 77,977, 99.43%
+Dislikes: 448, 0.57%```
+14 Jan 2017 06:14:00 : None, Direct Message with TherminatorX, TherminatorX#6644, ;clear
+14 Jan 2017 06:14:10 : None, Direct Message with TherminatorX, TherminatorX#6644, ;help
+14 Jan 2017 06:14:10 : None, Direct Message with TherminatorX, Botfuzzy77#2209, ```
+A Bot for the Limitless MC Server Discord! Version 0.14.2.6
+(Created by Wertfuzzy77)
+
+FlavorTexts:
+  kys            
+  kiss           Adds Emotion
+  wyr            
+  fml            Returns a Random Post from fmylife.com
+  funify         Funifies a given text input
+  choose         Chooses from a set of things
+  hug            Adds Emotion
+  kill           Adds Emotion
+  conch          Ask the Magic Conch a Question
+  luck           Returns the Player's Luck
+  lmgtfy         Returns a Link to a "Let me Google That For You" Page
+  rate           Rates the Player
+  image          Returns the First Found Image on Google Images for this Input
+  rps            Allows the player to play Rock, Paper, Scissors with the Bot...
+  slap           Adds Emotion
+  gif            Returns the First Found Image on Google Images for this Input
+Games:
+  pokebattle     Fights a Pokemon Boss using a combination of 10 total moves ...
+  pokehelp       Pokemon Battle Sim Help
+  lookup         Displays your Current Information
+  pokeboss       Displays Boss Info
+  level          Displays your Current Information
+  trivia         
+  summon         Summons a Boss of your Level or a Level below yours
+  train          Fights Pokemon for XP
+  ranking        
+  types          
+  cd             Shows your Cooldowns
+MusicPlayer:
+  clear          Clears the Queue
+  viewplaylist   Views the songs of a playlists
+  songs          Prints the songs in the queue
+  leave          Leaves the Join chat
+  music          Returns the current status of the Music Bot
+  Radio          Toggles Radio Mode
+  youtube        Adds a Song for the Bot to Play
+  search         Searches for a song
+  join           Joins the Voice channel you are currently in
+  makeplaylist   Makes a custom playlist for the bot to save
+  song           Returns information about the current playing song
+  playlist       Adds songs from a predefined playlist to the songs list
+  extendplaylist Extends a custom playlist
+```
+14 Jan 2017 06:14:10 : None, Direct Message with TherminatorX, Botfuzzy77#2209, ```
+  desc           Decription of the Current playing song
+  remove         removes a song from a queue by index
+  loop           Plays the current song again
+  playlists      Shows all the current playlists
+  skip           Skips the Current song
+  shuffle        Shuffles the songs in the Queue
+StaffCmds:
+  mute           
+  unmute         
+  unmuteall      Unmutes ALL muted players
+  mutelist       
+  tempmute       
+​No Category:
+  ev             
+  afk            Sets you as AFK, and the Bot will auto Reply for you with th...
+  joined         Says when a member joined.
+  pokemon        Returns Links to Pokemon pages
+  source         Returns a link to the source code for this bot
+  feedback       Returns a link to a Google Forums, where you can leave feedb...
+  help           Shows this message.
+  server         Returns Information on the Limitless MC server!
+  invite         Returns a Link to the Invite URL for this bot
+  status         Returns the Status of the Bot, along with Additional Informa...
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+14 Jan 2017 06:14:24 : None, Direct Message with TherminatorX, TherminatorX#6644, ;remove
+14 Jan 2017 06:14:32 : None, Direct Message with TherminatorX, TherminatorX#6644, ;search
+14 Jan 2017 06:14:35 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Added We Trained Like Superheroes For 30 Days to the queue
+14 Jan 2017 06:14:35 : None, Direct Message with TherminatorX, Botfuzzy77#2209, https://www.youtube.com/watch?v=okM3OYaBQGg
+14 Jan 2017 06:14:48 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;clear
+14 Jan 2017 06:14:55 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=Pi8xsZXibIc
+14 Jan 2017 06:14:58 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;songs
+14 Jan 2017 06:14:58 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, **The Following songs are in the Queue, plus [11] more**
+14 Jan 2017 06:14:58 : Pokemon Mystery Dungeon, bot_chat, Botfuzzy77#2209, 1. My Soul, your Beats! - Angel Beats! OP [Piano] **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=eJInGGAPZgI>
+2. My Soul, your Beats! - Angel Beats! OP [Piano] **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=eJInGGAPZgI>
+3. My Soul, your Beats! - Angel Beats! OP [Piano] **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=eJInGGAPZgI>
+4. My Soul, your Beats! - Angel Beats! OP [Piano] **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=eJInGGAPZgI>
+5. My Soul, your Beats! - Angel Beats! OP [Piano] **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=eJInGGAPZgI>
+6. My Soul, your Beats! - Angel Beats! OP [Piano] **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=eJInGGAPZgI>
+7. My Soul, your Beats! - Angel Beats! OP [Piano] **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=eJInGGAPZgI>
+8. My Soul, your Beats! - Angel Beats! OP [Piano] **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=eJInGGAPZgI>
+9. My Soul, your Beats! - Angel Beats! OP [Piano] **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=eJInGGAPZgI>
+10. My Soul, your Beats! - Angel Beats! OP [Piano] **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=eJInGGAPZgI>
+Total Time is 1:33:53
+14 Jan 2017 06:15:03 : Pokemon Mystery Dungeon, bot_chat, Wertfuzzy77#0274, ;clear
+14 Jan 2017 06:15:25 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, (ur bot is ded)
+14 Jan 2017 06:15:42 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, ;clear
+14 Jan 2017 06:15:59 : Pokemon Mystery Dungeon, bot_chat, TherminatorX#6644, (mostly dead, is slightly alive)

@@ -1,0 +1,8 @@
+24 Aug 2016 00:25:22 : PassionMC, botchat, Wertfuzzy77#0274, ;config Set TESTING 1
+24 Aug 2016 00:25:29 : PassionMC, botchat, Wertfuzzy77#0274, ;debug CONFIG
+24 Aug 2016 00:25:29 : PassionMC, botchat, Botfuzzy77#2209, ```py
+{'PassionMC': '1'}
+```
+24 Aug 2016 00:25:31 : PassionMC, botchat, Wertfuzzy77#0274, ayy
+24 Aug 2016 00:25:31 : PassionMC, botchat, Botfuzzy77#2209, Lmao
+24 Aug 2016 00:26:32 : PassionMC, botchat, Wertfuzzy77#0274, ;relog

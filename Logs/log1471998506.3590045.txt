@@ -1,0 +1,31 @@
+24 Aug 2016 00:28:35 : PassionMC, general, D3NSH1N#8702, Can we get a papi role for last1? thank
+24 Aug 2016 00:28:36 : PassionMC, botchat, Wertfuzzy77#0274, ;config Set Welcome False
+24 Aug 2016 00:28:41 : PassionMC, general, TheLast1Alive#7757, Ye Papi
+24 Aug 2016 00:28:51 : PassionMC, botchat, Wertfuzzy77#0274, ;debug CONFIG
+24 Aug 2016 00:28:51 : PassionMC, botchat, Botfuzzy77#2209, ```py
+{'PassionMC': {'Welcome': 'False'}}
+```
+24 Aug 2016 00:28:53 : PassionMC, botchat, Wertfuzzy77#0274, ayy
+24 Aug 2016 00:28:53 : PassionMC, botchat, Botfuzzy77#2209, Lmao
+24 Aug 2016 00:28:59 : PassionMC, botchat, Wertfuzzy77#0274, we did it
+24 Aug 2016 00:29:15 : PassionMC, botchat, Wertfuzzy77#0274, ;config Set Online True
+24 Aug 2016 00:29:21 : PassionMC, botchat, Wertfuzzy77#0274, ;debug Config
+24 Aug 2016 00:29:21 : PassionMC, botchat, Botfuzzy77#2209, ```py
+NameError: name 'Config' is not defined
+```
+24 Aug 2016 00:29:24 : PassionMC, botchat, Wertfuzzy77#0274, ;debug CONFIG
+24 Aug 2016 00:29:24 : PassionMC, botchat, Botfuzzy77#2209, ```py
+{'PassionMC': {'Welcome': 'False', 'Online': 'True'}}
+```
+24 Aug 2016 00:29:41 : PassionMC, botchat, Wertfuzzy77#0274, ;debug CONFIG[ctx.message.server.name]
+24 Aug 2016 00:29:41 : PassionMC, botchat, Botfuzzy77#2209, ```py
+{'Welcome': 'False', 'Online': 'True'}
+```
+24 Aug 2016 00:30:13 : PassionMC, general, D3NSH1N#8702, TheLast1Alive(Papi) is now Online!
+24 Aug 2016 00:30:19 : PassionMC, general, TheLast1Alive#7757, Same
+24 Aug 2016 00:30:28 : PassionMC, general, D3NSH1N#8702, @Wertfuzzy77  timer froze or too long
+24 Aug 2016 00:30:36 : PassionMC, general, Wertfuzzy77#0274, also relog
+24 Aug 2016 00:30:43 : PassionMC, general, D3NSH1N#8702, kek
+24 Aug 2016 00:30:44 : PassionMC, general, Wertfuzzy77#0274, working on him rn
+24 Aug 2016 00:31:18 : PassionMC, botchat, Wertfuzzy77#0274, ;relog
+24 Aug 2016 00:31:18 : PassionMC, botchat, Botfuzzy77#2209, Relogging...

@@ -1,0 +1,421 @@
+05 Oct 2016 19:58:04 : The Wild Weebs, music, Wertfuzzy77#0274, ;join
+05 Oct 2016 19:58:07 : The Wild Weebs, music, Wertfuzzy77#0274, ;playlist AnimeOpenings AnimeOpenings AnimeOpenings AnimeOpenings
+05 Oct 2016 19:58:56 : The Wild Weebs, music, Wertfuzzy77#0274, ;song
+05 Oct 2016 19:58:57 : The Wild Weebs, music, Botfuzzy77#2209, ```Name: ERASED | Boku Dake ga Inai Machi OP Full | Re:Re: - Asian Kung-Fu Generation
+URL: <https://www.youtube.com/watch?v=7814WeR0Xzo>
+Time: 0:03:49
+Views: 297,776
+Likes: 2,524, 98.59%
+Dislikes: 36, 1.41%
+```
+05 Oct 2016 19:59:05 : The Wild Weebs, music, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+05 Oct 2016 20:03:26 : The Wild Weebs, music, enragednuke#2565, ;song
+05 Oct 2016 20:03:26 : The Wild Weebs, music, Botfuzzy77#2209, ```Name: New Game! - Opening Full [HD]
+URL: <https://www.youtube.com/watch?v=Eewtawmdl78>
+Time: 0:03:53
+Views: 532
+Likes: 5, 100.0%
+Dislikes: 0, 0.0%
+```
+05 Oct 2016 20:03:27 : The Wild Weebs, music, enragednuke#2565, god bless
+05 Oct 2016 20:03:51 : The Wild Weebs, music, enragednuke#2565, holy fucking lag
+05 Oct 2016 20:03:51 : The Wild Weebs, music, enragednuke#2565, lOL
+05 Oct 2016 20:03:52 : The Wild Weebs, music, enragednuke#2565, LOL
+05 Oct 2016 20:03:54 : The Wild Weebs, music, enragednuke#2565, @Wertfuzzy77
+05 Oct 2016 20:03:57 : The Wild Weebs, music, enragednuke#2565, nice bot lag
+05 Oct 2016 20:03:58 : The Wild Weebs, music, enragednuke#2565, xd
+05 Oct 2016 20:03:59 : The Wild Weebs, music, Wertfuzzy77#0274, go home
+05 Oct 2016 20:04:03 : The Wild Weebs, music, Wertfuzzy77#0274, it happens
+05 Oct 2016 20:04:06 : The Wild Weebs, music, Wertfuzzy77#0274, blame #UmassWifi
+05 Oct 2016 20:05:11 : The Wild Weebs, music, Wertfuzzy77#0274, oh, wow even my game is lagging now
+05 Oct 2016 20:05:21 : The Wild Weebs, music, Wertfuzzy77#0274, thanks wifi
+05 Oct 2016 20:07:01 : The Wild Weebs, music, enragednuke#2565, cant wait to get bacj
+05 Oct 2016 20:07:02 : The Wild Weebs, music, enragednuke#2565, LUL
+05 Oct 2016 20:07:12 : The Wild Weebs, music, enragednuke#2565, i should just raid from work
+05 Oct 2016 20:07:45 : The Wild Weebs, music, Wertfuzzy77#0274, do it
+05 Oct 2016 20:15:22 : The Wild Weebs, coding, enragednuke#2565, ```
+algorithm prob4
+FOR node in G
+  record all edges, don't include duplicates
+endFOR
+sort edges by their weight in descending order, place in variable L
+FOR edge in L (going down the list from top)
+  IF removing the edge will not disconnect the graph
+    add edge to group E'
+  endIF
+  remove edge from L
+endFOR
+```
+05 Oct 2016 20:15:32 : The Wild Weebs, coding, enragednuke#2565, @Wertfuzzy77 @Tally  does that look right?
+05 Oct 2016 20:16:39 : The Wild Weebs, coding, Wertfuzzy77#0274, what is
+05 Oct 2016 20:16:43 : The Wild Weebs, coding, enragednuke#2565, or rather
+05 Oct 2016 20:16:45 : The Wild Weebs, coding, enragednuke#2565, ```
+algorithm prob4
+  FOR node in G
+    record all edges, don't include duplicates
+  endFOR
+  
+  sort edges by their weight in descending order, place in variable L
+
+  FOR edge in L (going down the list from top)
+    IF removing the edge will not disconnect the graph
+      add edge to group E'
+    endIF
+    remove edge from L
+  endFOR
+endalgorithm
+```
+05 Oct 2016 20:16:47 : The Wild Weebs, coding, enragednuke#2565, for problem #4
+05 Oct 2016 20:16:49 : The Wild Weebs, coding, enragednuke#2565, on the homework
+05 Oct 2016 20:17:01 : The Wild Weebs, coding, enragednuke#2565, basically the goal
+05 Oct 2016 20:17:15 : The Wild Weebs, coding, enragednuke#2565, is to find the largest set of edges (based on weight, not number of edges)
+05 Oct 2016 20:17:19 : The Wild Weebs, coding, enragednuke#2565, that will not disconnect a graph
+05 Oct 2016 20:17:20 : The Wild Weebs, coding, Wertfuzzy77#0274, I shoudl prob start the homework lol
+05 Oct 2016 20:17:22 : The Wild Weebs, coding, enragednuke#2565, when you remove them
+05 Oct 2016 20:17:53 : The Wild Weebs, coding, Wertfuzzy77#0274, looks annoying
+05 Oct 2016 20:18:00 : The Wild Weebs, coding, Wertfuzzy77#0274, put it in python
+05 Oct 2016 20:18:01 : The Wild Weebs, coding, enragednuke#2565, *wiggles finger*
+05 Oct 2016 20:18:03 : The Wild Weebs, coding, enragednuke#2565, you're in annoying
+05 Oct 2016 20:18:04 : The Wild Weebs, coding, enragednuke#2565, fuck
+05 Oct 2016 20:18:06 : The Wild Weebs, coding, enragednuke#2565, one job
+05 Oct 2016 20:18:07 : The Wild Weebs, coding, enragednuke#2565, oNE JOB
+05 Oct 2016 20:18:27 : The Wild Weebs, coding, Wertfuzzy77#0274, Well, i guess im in the annoying now
+05 Oct 2016 20:18:28 : The Wild Weebs, coding, Wertfuzzy77#0274, help
+05 Oct 2016 20:18:29 : The Wild Weebs, coding, Wertfuzzy77#0274, save me
+05 Oct 2016 20:18:34 : The Wild Weebs, coding, enragednuke#2565, rekt
+05 Oct 2016 20:18:44 : The Wild Weebs, coding, enragednuke#2565, im gonna say that to rahaun next time he says soemthing like that
+05 Oct 2016 20:18:46 : The Wild Weebs, coding, enragednuke#2565, and see what he says
+05 Oct 2016 20:18:50 : The Wild Weebs, coding, enragednuke#2565, "you're in (adjective)
+05 Oct 2016 20:18:59 : The Wild Weebs, coding, enragednuke#2565, instead of "you're (adjective)
+05 Oct 2016 20:19:09 : The Wild Weebs, coding, Wertfuzzy77#0274, do it
+05 Oct 2016 20:20:30 : The Wild Weebs, coding, Wertfuzzy77#0274, um
+05 Oct 2016 20:20:36 : The Wild Weebs, coding, Wertfuzzy77#0274, wanna explain #4 in english
+05 Oct 2016 20:20:47 : The Wild Weebs, coding, enragednuke#2565, hold on
+05 Oct 2016 20:20:49 : The Wild Weebs, coding, enragednuke#2565, what was the algorithm
+05 Oct 2016 20:20:52 : The Wild Weebs, coding, enragednuke#2565, that we used in disucssion
+05 Oct 2016 20:20:57 : The Wild Weebs, coding, Wertfuzzy77#0274, which
+05 Oct 2016 20:21:00 : The Wild Weebs, coding, enragednuke#2565, that was like "list edges shortest -> longest"
+05 Oct 2016 20:21:04 : The Wild Weebs, coding, enragednuke#2565, then pick from tat list
+05 Oct 2016 20:21:25 : The Wild Weebs, coding, Wertfuzzy77#0274, was which ever one Joe wanted to use
+05 Oct 2016 20:21:31 : The Wild Weebs, coding, enragednuke#2565, not Prim
+05 Oct 2016 20:21:33 : The Wild Weebs, coding, enragednuke#2565, or Dijkstra
+05 Oct 2016 20:21:35 : The Wild Weebs, coding, enragednuke#2565, the third one
+05 Oct 2016 20:21:40 : The Wild Weebs, coding, enragednuke#2565, i cant remember it
+05 Oct 2016 20:21:44 : The Wild Weebs, coding, Wertfuzzy77#0274, where we added the distance?
+05 Oct 2016 20:21:46 : The Wild Weebs, coding, enragednuke#2565, no
+05 Oct 2016 20:21:49 : The Wild Weebs, coding, enragednuke#2565, that was Dijkstra
+05 Oct 2016 20:21:57 : The Wild Weebs, coding, enragednuke#2565, it was the other formula we used alongside Prim
+05 Oct 2016 20:21:59 : The Wild Weebs, coding, enragednuke#2565, in like question 4
+05 Oct 2016 20:22:17 : The Wild Weebs, coding, Wertfuzzy77#0274, was like Kristoph or something
+05 Oct 2016 20:22:20 : The Wild Weebs, coding, enragednuke#2565, mmm
+05 Oct 2016 20:22:27 : The Wild Weebs, coding, enragednuke#2565, i think it started with Kr
+05 Oct 2016 20:22:30 : The Wild Weebs, coding, enragednuke#2565, but i dont think the rest is right
+05 Oct 2016 20:22:34 : The Wild Weebs, coding, enragednuke#2565, @Tally
+05 Oct 2016 20:22:34 : The Wild Weebs, coding, enragednuke#2565, @Tally
+05 Oct 2016 20:22:35 : The Wild Weebs, coding, enragednuke#2565, @Tally
+05 Oct 2016 20:22:35 : The Wild Weebs, coding, enragednuke#2565, @Tally
+05 Oct 2016 20:22:36 : The Wild Weebs, coding, enragednuke#2565, @Tally @Tally
+05 Oct 2016 20:22:46 : The Wild Weebs, coding, enragednuke#2565, pingpingpingpingping
+05 Oct 2016 20:23:02 : The Wild Weebs, music, Wertfuzzy77#0274, ;help
+05 Oct 2016 20:23:02 : The Wild Weebs, music, Botfuzzy77#2209, ```
+  source         Returns a link to the source code for this bot
+  fml            Returns a Random Post from fmylife.com
+  server         Returns Information on the Limitless MC server!
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+05 Oct 2016 20:23:19 : The Wild Weebs, coding, Wertfuzzy77#0274, @Tally
+05 Oct 2016 20:23:22 : The Wild Weebs, coding, Wertfuzzy77#0274, ;kys
+05 Oct 2016 20:23:22 : The Wild Weebs, coding, Botfuzzy77#2209, Im Sorry, That goes against my programming
+05 Oct 2016 20:23:32 : The Wild Weebs, coding, enragednuke#2565, found it
+05 Oct 2016 20:23:35 : The Wild Weebs, coding, enragednuke#2565, Kruskal's
+05 Oct 2016 20:23:36 : The Wild Weebs, coding, Wertfuzzy77#0274, ;kill "@Tally in a blazing fire"
+05 Oct 2016 20:23:36 : The Wild Weebs, coding, Botfuzzy77#2209, :skull: *Wertfuzzy77 Killed @Tally in a blazing fire* :skull:
+05 Oct 2016 20:24:11 : The Wild Weebs, coding, enragednuke#2565, apparently that last question is 8 lol
+05 Oct 2016 20:24:19 : The Wild Weebs, coding, enragednuke#2565, the one chris said was 18
+05 Oct 2016 20:24:25 : The Wild Weebs, coding, Wertfuzzy77#0274, rip
+05 Oct 2016 20:24:34 : The Wild Weebs, coding, enragednuke#2565, makes sense
+05 Oct 2016 20:24:39 : The Wild Weebs, coding, enragednuke#2565, just imagine removing the 100 egdes
+05 Oct 2016 20:24:44 : The Wild Weebs, coding, enragednuke#2565, and then picking one of the 1 edges
+05 Oct 2016 20:24:46 : The Wild Weebs, coding, enragednuke#2565, to remove the cycle
+05 Oct 2016 20:24:54 : The Wild Weebs, coding, enragednuke#2565, there are 8 of the 1 weight edges
+05 Oct 2016 20:24:55 : The Wild Weebs, coding, Wertfuzzy77#0274, yeah makes sense
+05 Oct 2016 20:24:59 : The Wild Weebs, coding, enragednuke#2565, so you get 8 different variations
+05 Oct 2016 20:25:18 : The Wild Weebs, coding, Wertfuzzy77#0274, Still dont get #4
+05 Oct 2016 20:25:21 : The Wild Weebs, coding, Wertfuzzy77#0274, what does it want
+05 Oct 2016 20:25:54 : The Wild Weebs, coding, enragednuke#2565, the highest total weight of the edges such that removing the edges won't disconnect the graph
+05 Oct 2016 20:26:07 : The Wild Weebs, coding, enragednuke#2565, so in a square you can remove one edge
+05 Oct 2016 20:26:16 : The Wild Weebs, coding, enragednuke#2565, whichever is the highest weight egde would be the one you remove
+05 Oct 2016 20:26:19 : The Wild Weebs, coding, enragednuke#2565, and that's the E' they want
+05 Oct 2016 20:26:38 : The Wild Weebs, coding, enragednuke#2565, it's kinda the opposite of a MST
+05 Oct 2016 20:26:40 : The Wild Weebs, coding, Wertfuzzy77#0274, `the highest total weight of the edges such that removing the edges won't disconnect the graph` Thats all i needed
+05 Oct 2016 20:26:42 : The Wild Weebs, coding, Wertfuzzy77#0274, thanks
+05 Oct 2016 20:26:51 : The Wild Weebs, coding, enragednuke#2565, lol
+05 Oct 2016 20:27:20 : The Wild Weebs, coding, enragednuke#2565, my algorithm is akin to a reverse Kruskal's algorithm
+05 Oct 2016 20:27:23 : LimitlessMc, botchat, Resolate#7058, ;server
+05 Oct 2016 20:27:23 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: 23.111.129.82
+05 Oct 2016 20:27:24 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 44 players out of 2000
+ *Ping*: 207.147 ms
+ *MC Version*: 1.10.2
+05 Oct 2016 20:27:24 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *KingHydra, Omed, DarkWolf_Knight_, ShrimpyMiner, TROLL, Pleasuringly, KawaiiOrange, ElCubanoLoco, Epiaz, serinMC, Topheralan, SunSilverGOD...*
+05 Oct 2016 20:27:56 : The Wild Weebs, coding, Wertfuzzy77#0274, like why do they have to put everything in Mathematic Notion... really annoying, just make it in english please
+05 Oct 2016 20:28:04 : The Wild Weebs, music, enragednuke#2565, DansGame
+05 Oct 2016 20:29:08 : The Wild Weebs, coding, Wertfuzzy77#0274, LOL the Sum symbol = '= P'
+05 Oct 2016 20:29:58 : The Wild Weebs, coding, Wertfuzzy77#0274, yeah, your algor. makes sense
+05 Oct 2016 20:29:59 : LimitlessMc, mainchat, NorthOfTime#1507, I should really talk in here sometimes too.
+05 Oct 2016 20:30:11 : LimitlessMc, mainchat, NorthOfTime#1507, Try to make chat as toxic as possi le everywhere.
+05 Oct 2016 20:30:16 : The Wild Weebs, coding, enragednuke#2565, xd
+05 Oct 2016 20:31:58 : LimitlessMc, mainchat, MelvZz#6815, You're not wanted ^
+05 Oct 2016 20:32:06 : The Wild Weebs, coding, Wertfuzzy77#0274, question
+05 Oct 2016 20:32:17 : The Wild Weebs, coding, Wertfuzzy77#0274, which is the correct list you are returning? L or E?
+05 Oct 2016 20:37:26 : LimitlessMc, mainchat, Harambe#3735, ^
+05 Oct 2016 20:37:36 : LimitlessMc, mainchat, Harambe#3735, @NorthOfTime get on
+05 Oct 2016 20:38:00 : LimitlessMc, mainchat, Harambe#3735, @Jay113355 Toph wants noodz for birthday should i send?
+05 Oct 2016 20:39:23 : The Wild Weebs, coding, Wertfuzzy77#0274, ```Algor Start
+    For every Node in Graph G
+        Append all non-Duplicate edges to Var E
+    End For
+    sort E by weight in Descending order
+    For edge in E
+        Test If Removing the edge will not disconnect the graph
+            Add the edge to Var R (which will be the list of Returned Edges)
+        End If
+    End For
+    Return R
+End Algor```
+05 Oct 2016 20:39:26 : The Wild Weebs, coding, Wertfuzzy77#0274, This is what i have
+05 Oct 2016 20:53:37 : LimitlessMc, mainchat, NorthOfTime#1507, I cant. Its almost 11 and I need to be up at 6 for work at 7.
+05 Oct 2016 20:53:48 : The Wild Weebs, coding, enragednuke#2565, im not returning shit lol
+05 Oct 2016 20:54:32 : Penguins 2, general, xPalkia(lugia)#8149, Fuck you making me jealous you can play csgo
+05 Oct 2016 20:54:49 : The Wild Weebs, coding, enragednuke#2565, now I am
+05 Oct 2016 20:54:52 : The Wild Weebs, coding, enragednuke#2565, ```
+algorithm prob4
+  FOR node in G
+    record all edges, don't include duplicates
+  endFOR
+  
+  sort edges by their weight in descending order, place in variable L
+
+  FOR edge in L (going down the list from top)
+    IF removing the edge will not disconnect the graph 
+      (alternate wording: make sure there still exists a path between the two nodes you removed an edge between)
+      add edge to group E'
+    endIF
+    remove edge from L
+  endFOR
+  return the resulting E' (also known as F)
+endalgorithm
+```
+05 Oct 2016 20:55:01 : Penguins 2, general, Young mom#1962, 10/10 english
+05 Oct 2016 20:55:12 : The Wild Weebs, coding, enragednuke#2565, got #5 too btw
+05 Oct 2016 20:55:14 : The Wild Weebs, coding, enragednuke#2565, super ez
+05 Oct 2016 20:55:45 : The Wild Weebs, coding, enragednuke#2565, @Nubs (CS311) I got stuff for #4 / #5: https://gist.github.com/enragednuke/045a6aa7162847074f3b28a9bf856e2c
+05 Oct 2016 20:55:58 : Penguins 2, general, xPalkia(lugia)#8149, Idc
+05 Oct 2016 20:56:07 : Penguins 2, general, xPalkia(lugia)#8149, I need new pc or bleach
+05 Oct 2016 20:56:13 : Penguins 2, general, xPalkia(lugia)#8149, I have clorox
+05 Oct 2016 20:56:43 : Penguins 2, general, Young mom#1962, U and your fuckin clorox
+05 Oct 2016 20:56:49 : Penguins 2, general, Young mom#1962, Ill leave u to it then
+05 Oct 2016 20:57:19 : The Wild Weebs, coding, enragednuke#2565, other than proof of correctness
+05 Oct 2016 20:57:22 : The Wild Weebs, coding, enragednuke#2565, cause idk how to do that
+05 Oct 2016 20:57:25 : The Wild Weebs, coding, enragednuke#2565, for #4
+05 Oct 2016 20:57:25 : The Wild Weebs, coding, enragednuke#2565, lol
+05 Oct 2016 20:57:56 : Penguins 2, general, xPalkia(lugia)#8149, 
+05 Oct 2016 20:58:13 : Penguins 2, general, xPalkia(lugia)#8149, Live photo of bleach
+05 Oct 2016 20:58:16 : Penguins 2, general, xPalkia(lugia)#8149, Who wants some
+05 Oct 2016 20:58:24 : Penguins 2, general, xPalkia(lugia)#8149, Enough for everyone!!!
+05 Oct 2016 20:58:28 : Penguins 2, general, Young mom#1962, "Coming live from palki house"
+05 Oct 2016 20:58:38 : Penguins 2, general, xPalkia(lugia)#8149, ;]
+05 Oct 2016 20:58:46 : The Wild Weebs, coding, Wertfuzzy77#0274, ```The first portion of the algo runs in O(n^2)``` I have O(N+E)
+05 Oct 2016 20:59:01 : Penguins 2, general, Young mom#1962, Stream yourself too pls
+05 Oct 2016 20:59:05 : Penguins 2, general, Young mom#1962, And link
+05 Oct 2016 20:59:07 : Penguins 2, general, Young mom#1962, Lele
+05 Oct 2016 20:59:16 : Penguins 2, general, xPalkia(lugia)#8149, I muted discord notifs because you cunts spammed me at school
+05 Oct 2016 20:59:17 : The Wild Weebs, coding, Wertfuzzy77#0274, and the third part as `O(N + N(Log(N))`
+05 Oct 2016 20:59:22 : Penguins 2, general, Young mom#1962, XD
+05 Oct 2016 20:59:24 : Penguins 2, general, xPalkia(lugia)#8149, The app is muted
+05 Oct 2016 20:59:28 : Penguins 2, general, xPalkia(lugia)#8149, Bbl
+05 Oct 2016 20:59:30 : Penguins 2, general, Young mom#1962, Alrighty then
+05 Oct 2016 20:59:33 : LimitlessMc, mainchat, NorthOfTime#1507, @Harambe#3735 hey how did cloning my mew go?
+05 Oct 2016 20:59:54 : Penguins 2, general, Young mom#1962, I and survs have our #yaoi so we dont need u
+05 Oct 2016 21:05:52 : The Wild Weebs, coding, enragednuke#2565, the worst possible run time for the first part is when every node is connected
+05 Oct 2016 21:05:54 : The Wild Weebs, coding, enragednuke#2565, aka n^2
+05 Oct 2016 21:06:04 : The Wild Weebs, coding, enragednuke#2565, when the edges = # of nodes
+05 Oct 2016 21:06:12 : The Wild Weebs, coding, enragednuke#2565, or # nodes - 1 really but that equalizes
+05 Oct 2016 21:07:36 : The Wild Weebs, coding, enragednuke#2565, also the worst run time for the calculation to see if it's still connected is actually just n
+05 Oct 2016 21:07:38 : The Wild Weebs, coding, enragednuke#2565, so mine is off a bit
+05 Oct 2016 21:07:49 : The Wild Weebs, coding, Wertfuzzy77#0274, isnt n^2 = n +E if every node is connected to every other node
+05 Oct 2016 21:08:01 : The Wild Weebs, coding, enragednuke#2565, i mean
+05 Oct 2016 21:08:07 : The Wild Weebs, coding, enragednuke#2565, it's (n-1) edges per node
+05 Oct 2016 21:08:10 : The Wild Weebs, coding, enragednuke#2565, so
+05 Oct 2016 21:08:39 : The Wild Weebs, coding, enragednuke#2565, for n nodes it's n^2-n
+05 Oct 2016 21:08:42 : The Wild Weebs, coding, enragednuke#2565, or O(n2)
+05 Oct 2016 21:08:50 : The Wild Weebs, coding, Wertfuzzy77#0274, eh, they really the same in that case then
+05 Oct 2016 21:08:55 : The Wild Weebs, coding, enragednuke#2565, pretty much
+05 Oct 2016 21:09:03 : The Wild Weebs, coding, Wertfuzzy77#0274, ill just put O(n^2) cause it says in Poly time
+05 Oct 2016 21:09:08 : The Wild Weebs, coding, Wertfuzzy77#0274, ;image Poly time
+05 Oct 2016 21:09:15 : The Wild Weebs, coding, Botfuzzy77#2209, http://www.batilimited.com/uploads/products/large/152015znJKhN5aztIlam1Jo1m4lk3mMuDIT3vB.JPG
+05 Oct 2016 21:09:19 : The Wild Weebs, coding, enragednuke#2565, i should modify mine to be O(n^2) total
+05 Oct 2016 21:09:45 : LimitlessMc, mainchat, Harambe#3735, ditto
+05 Oct 2016 21:09:54 : LimitlessMc, mainchat, Harambe#3735, @NorthOfTime
+05 Oct 2016 21:09:59 : The Wild Weebs, coding, Wertfuzzy77#0274, lol, then the longest run time in this is just getting the egdes
+05 Oct 2016 21:10:03 : The Wild Weebs, coding, Wertfuzzy77#0274, edges*
+05 Oct 2016 21:10:10 : LimitlessMc, mainchat, NorthOfTime#1507, Can I have it?
+05 Oct 2016 21:10:16 : LimitlessMc, mainchat, Harambe#3735, i guess
+05 Oct 2016 21:10:22 : LimitlessMc, mainchat, Harambe#3735, ill give you both later
+05 Oct 2016 21:10:31 : LimitlessMc, mainchat, NorthOfTime#1507, Im sorry boo. I was hoping youd get mewtwo.
+05 Oct 2016 21:10:39 : LimitlessMc, mainchat, Harambe#3735, i got two from my mew
+05 Oct 2016 21:10:42 : LimitlessMc, mainchat, Harambe#3735, lol
+05 Oct 2016 21:10:46 : LimitlessMc, mainchat, NorthOfTime#1507, Whatre the ivs on ditters?
+05 Oct 2016 21:10:49 : The Wild Weebs, coding, Wertfuzzy77#0274, Can we say that we have access to E in W(V,E,W)
+05 Oct 2016 21:10:52 : The Wild Weebs, coding, enragednuke#2565, the "runtime" is like 2n^2 + nlogn
+05 Oct 2016 21:10:53 : LimitlessMc, mainchat, Harambe#3735, idk havent check
+05 Oct 2016 21:10:56 : LimitlessMc, mainchat, Harambe#3735, prob shit
+05 Oct 2016 21:10:56 : The Wild Weebs, coding, Wertfuzzy77#0274, ya
+05 Oct 2016 21:10:57 : The Wild Weebs, coding, enragednuke#2565, but that reduces to O(n^2)
+05 Oct 2016 21:11:13 : LimitlessMc, mainchat, NorthOfTime#1507, K. I gotta get that 3iv back from craig the fucker.
+05 Oct 2016 21:11:58 : LimitlessMc, mainchat, Harambe#3735, lmao alright see you later
+05 Oct 2016 21:20:05 : The Wild Weebs, coding, Tally#2764, it was kruskal
+05 Oct 2016 21:20:05 : The Wild Weebs, coding, enragednuke#2565, n
+05 Oct 2016 21:20:07 : The Wild Weebs, coding, Wertfuzzy77#0274, go home
+05 Oct 2016 21:20:10 : The Wild Weebs, coding, enragednuke#2565, thank you dumbass
+05 Oct 2016 21:20:13 : The Wild Weebs, coding, enragednuke#2565, we already figured that out
+05 Oct 2016 21:20:18 : The Wild Weebs, coding, Wertfuzzy77#0274, ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+05 Oct 2016 21:20:27 : The Wild Weebs, coding, enragednuke#2565, i posted my #4/#5 if you scroll up
+05 Oct 2016 21:20:30 : The Wild Weebs, coding, enragednuke#2565, it's a github gist link
+05 Oct 2016 21:20:45 : The Wild Weebs, coding, Tally#2764, 4 is just a min spanning tree algorithm
+05 Oct 2016 21:20:59 : The Wild Weebs, coding, Tally#2764, and you return the parts not added to the tree
+05 Oct 2016 21:21:30 : The Wild Weebs, coding, enragednuke#2565, right
+05 Oct 2016 21:21:32 : The Wild Weebs, coding, enragednuke#2565, that's what I wrote
+05 Oct 2016 21:21:33 : The Wild Weebs, coding, enragednuke#2565, lol
+05 Oct 2016 21:21:46 : The Wild Weebs, coding, enragednuke#2565, well
+05 Oct 2016 21:21:49 : The Wild Weebs, coding, enragednuke#2565, is it though?
+05 Oct 2016 21:21:52 : The Wild Weebs, coding, enragednuke#2565, are we 100% sure on that?
+05 Oct 2016 21:22:05 : The Wild Weebs, coding, enragednuke#2565, it sounds right but
+05 Oct 2016 21:22:16 : The Wild Weebs, coding, Tally#2764, it works
+05 Oct 2016 21:22:19 : The Wild Weebs, coding, Tally#2764, like really well
+05 Oct 2016 21:22:29 : The Wild Weebs, coding, Tally#2764, me and alex figured it out
+05 Oct 2016 21:23:01 : The Wild Weebs, coding, enragednuke#2565, i mean it's not like it's the most complex thing ever lol
+05 Oct 2016 21:23:18 : The Wild Weebs, coding, Tally#2764, nope
+05 Oct 2016 21:23:23 : The Wild Weebs, coding, Tally#2764, but it works so i dont care
+05 Oct 2016 21:23:24 : The Wild Weebs, coding, Tally#2764, lol
+05 Oct 2016 21:24:16 : The Wild Weebs, coding, enragednuke#2565, i dig it
+05 Oct 2016 21:24:23 : The Wild Weebs, coding, enragednuke#2565, well
+05 Oct 2016 21:24:34 : The Wild Weebs, coding, enragednuke#2565, it's more that i trust it more than the custom algorithm i wrote
+05 Oct 2016 21:24:56 : The Wild Weebs, coding, enragednuke#2565, though i jsut ran it against a few diff graphs and it returns the same thing
+05 Oct 2016 21:26:56 : The Wild Weebs, coding, enragednuke#2565, so like this then @Tally 
+```
+algorithm prob4
+  FOR node in G
+    record all edges, don't include duplicates
+  endFOR
+  
+  sort edges by their weight in ascending order, place in variable L
+
+  FOR edge in L (going down the list from top)
+    IF adding the edge does not create a cycle
+      remove the edge from L
+    endIF
+  endFOR
+  return the remaining edges in L
+endalgorithm
+```
+05 Oct 2016 21:27:18 : The Wild Weebs, coding, enragednuke#2565, what did you say for the run-time?
+05 Oct 2016 21:27:20 : The Wild Weebs, coding, Tally#2764, yeah its al reliant on that sort
+05 Oct 2016 21:27:26 : The Wild Weebs, coding, enragednuke#2565, or rather what's the runtime of kruskal's
+05 Oct 2016 21:27:28 : The Wild Weebs, coding, enragednuke#2565, lol
+05 Oct 2016 21:27:29 : The Wild Weebs, coding, Tally#2764, run time is ummmmmm
+05 Oct 2016 21:27:32 : The Wild Weebs, coding, Tally#2764, yes it is
+05 Oct 2016 21:27:33 : The Wild Weebs, coding, Tally#2764, lol
+05 Oct 2016 21:27:34 : The Wild Weebs, coding, enragednuke#2565, time to google
+05 Oct 2016 21:27:43 : The Wild Weebs, coding, Tally#2764, its like mlog(n)
+05 Oct 2016 21:27:46 : The Wild Weebs, coding, Tally#2764, or some shit
+05 Oct 2016 21:27:50 : The Wild Weebs, coding, Wertfuzzy77#0274, I like the idea of Reverse Min spanning tree
+05 Oct 2016 21:27:51 : The Wild Weebs, coding, enragednuke#2565, O(E log E)
+05 Oct 2016 21:27:56 : The Wild Weebs, coding, enragednuke#2565, lol
+05 Oct 2016 21:27:57 : The Wild Weebs, coding, Tally#2764, yeah that
+05 Oct 2016 21:27:58 : The Wild Weebs, coding, Wertfuzzy77#0274, returning what is left over
+05 Oct 2016 21:28:19 : The Wild Weebs, coding, enragednuke#2565, i like just stealing kruskal's
+05 Oct 2016 21:28:26 : The Wild Weebs, coding, enragednuke#2565, and just using the leftovers
+05 Oct 2016 21:28:27 : The Wild Weebs, coding, enragednuke#2565, lol
+05 Oct 2016 21:28:33 : The Wild Weebs, coding, enragednuke#2565, seems very scummy but legitimate
+05 Oct 2016 21:29:55 : The Wild Weebs, coding, Wertfuzzy77#0274, ```Yes, it is always the same path. The Way a Min Spanning tree is it checks if a given Edge V is less than a Edge W, if this is true, then Edge V is added onto the MST. As long as w(V) < w(W) it doesnt matter if both sides have +1 or +100 or even -100, as long as the relationship between them is the same, it doesnt matter how the weights change.```
+05 Oct 2016 21:32:30 : The Wild Weebs, coding, enragednuke#2565, "same path" then mentions "min spanning tree"
+05 Oct 2016 21:32:33 : The Wild Weebs, coding, enragednuke#2565, bruh a MST is not a path
+05 Oct 2016 21:32:50 : The Wild Weebs, coding, Wertfuzzy77#0274, sux
+05 Oct 2016 21:33:09 : The Wild Weebs, coding, enragednuke#2565, @Tally u goin to career fair tomorrow?
+05 Oct 2016 21:33:46 : The Wild Weebs, coding, Tally#2764, nope
+05 Oct 2016 21:33:49 : The Wild Weebs, coding, Tally#2764, i dont have any shit
+05 Oct 2016 21:34:11 : The Wild Weebs, coding, Tally#2764, i dont have any of my shit
+05 Oct 2016 21:34:14 : The Wild Weebs, coding, enragednuke#2565, xddddddd
+05 Oct 2016 21:34:16 : The Wild Weebs, coding, Tally#2764, so im not going
+05 Oct 2016 21:34:22 : The Wild Weebs, coding, enragednuke#2565, feelsbadman
+05 Oct 2016 21:34:31 : The Wild Weebs, coding, enragednuke#2565, it is
+05 Oct 2016 21:34:34 : The Wild Weebs, coding, enragednuke#2565, we got an email about it today
+05 Oct 2016 21:34:46 : The Wild Weebs, coding, Wertfuzzy77#0274, ;leave
+05 Oct 2016 21:34:47 : The Wild Weebs, coding, Wertfuzzy77#0274, ;join
+05 Oct 2016 21:34:59 : The Wild Weebs, coding, Wertfuzzy77#0274, ;song
+05 Oct 2016 21:35:00 : The Wild Weebs, coding, Botfuzzy77#2209, ```Name: Clannad After Story Op (Full)
+URL: <https://www.youtube.com/watch?v=m76lKsM_jaU>
+Time: 0:04:54
+Views: 2,277,339
+Likes: 13,103, 98.52%
+Dislikes: 197, 1.48%
+```
+05 Oct 2016 21:35:07 : The Wild Weebs, coding, enragednuke#2565, "minutes"
+05 Oct 2016 21:35:08 : The Wild Weebs, coding, enragednuke#2565, hello
+05 Oct 2016 21:35:09 : The Wild Weebs, coding, Botfuzzy77#2209, *From The Other Side*
+05 Oct 2016 21:35:11 : The Wild Weebs, coding, enragednuke#2565, it's
+05 Oct 2016 21:35:11 : The Wild Weebs, coding, enragednuke#2565, fucking
+05 Oct 2016 21:35:11 : The Wild Weebs, coding, enragednuke#2565, 5:30pm
+05 Oct 2016 21:35:16 : The Wild Weebs, coding, enragednuke#2565, it's been SEVEN HOURS
+05 Oct 2016 21:35:23 : The Wild Weebs, coding, enragednuke#2565, 10
+05 Oct 2016 21:35:23 : The Wild Weebs, coding, enragednuke#2565, 10
+05 Oct 2016 21:35:25 : The Wild Weebs, coding, enragednuke#2565, 10:10
+05 Oct 2016 21:35:32 : The Wild Weebs, coding, enragednuke#2565, Hello, 
+
+The CICS Career & Internship Fair is tomorrow, Thursday, 10/6. Print out lots of resumes, dust off your professional attire, and come meet representatives from our industrial affiliate member companies! 
+
+Need a CICS T-shirt, sweatshirt, or hat? We’ll also be selling CICS swag in the CS Building atrium from 10 am to 3 pm. 
+
+Kerry 
+
+-----------------
+
+CICS CAREER & INTERNSHIP FAIR 
+
+College of Information and Computer Sciences Career Fair  
+Thursday, October 6, 2016 
+10 am to 3 pm, CS 150/151 
+
+Undergraduate and graduate students from computing and computing engineering disciplines will have the opportunity to talk with recruiters at CICS’s popular annual career fair. Companies attending include: Amazon, Cisco, EMC, Facebook, Google, HP Enterprise, Liberty Mutual, MassMutual, Optum, TripAdvisor, Wayfair, and ViaSat. Bring your resume! Business professional attire recommended.
+05 Oct 2016 21:35:38 : The Wild Weebs, coding, enragednuke#2565, LUL
+05 Oct 2016 21:35:59 : The Wild Weebs, coding, enragednuke#2565, me too
+05 Oct 2016 21:36:05 : The Wild Weebs, coding, enragednuke#2565, the CICS shirt?
+05 Oct 2016 21:36:13 : The Wild Weebs, coding, enragednuke#2565, whatever the fuck it is
+05 Oct 2016 21:36:22 : The Wild Weebs, coding, enragednuke#2565, ur mom is a sweatshirt
+05 Oct 2016 21:36:48 : The Wild Weebs, coding, enragednuke#2565, ?
+05 Oct 2016 21:36:50 : The Wild Weebs, coding, enragednuke#2565, o
+05 Oct 2016 21:36:51 : The Wild Weebs, coding, enragednuke#2565, lol
+05 Oct 2016 21:37:04 : The Wild Weebs, coding, Wertfuzzy77#0274, ;song
+05 Oct 2016 21:37:04 : The Wild Weebs, coding, Botfuzzy77#2209, ```Name: Clannad After Story Op (Full)
+URL: <https://www.youtube.com/watch?v=m76lKsM_jaU>
+Time: 0:04:54
+Views: 2,277,339
+Likes: 13,103, 98.52%
+Dislikes: 197, 1.48%
+```
+05 Oct 2016 21:37:08 : The Wild Weebs, coding, Wertfuzzy77#0274, ;skip
+05 Oct 2016 21:37:08 : The Wild Weebs, coding, Botfuzzy77#2209, Skipping Clannad After Story Op (Full)
+05 Oct 2016 21:37:14 : The Wild Weebs, coding, Wertfuzzy77#0274, ;song
+05 Oct 2016 21:37:14 : The Wild Weebs, coding, Botfuzzy77#2209, ```Name: Clannad After Story Op (Full)
+URL: <https://www.youtube.com/watch?v=m76lKsM_jaU>
+Time: 0:04:54
+Views: 2,277,339
+Likes: 13,103, 98.52%
+Dislikes: 197, 1.48%
+```
+05 Oct 2016 21:37:16 : The Wild Weebs, coding, Wertfuzzy77#0274, ;relog
+05 Oct 2016 21:37:16 : The Wild Weebs, coding, Botfuzzy77#2209, Relogging...

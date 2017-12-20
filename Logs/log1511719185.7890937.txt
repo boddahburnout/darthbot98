@@ -1,0 +1,247 @@
+26 Nov 2017 18:54:37 : FAM, off-topic, darth kota#9446, @WafflesTheWaffle  im going to make a command that changes what darth bot is  playing with
+27 Nov 2017 00:01:15 : FAM, game-chat, WafflesTheWaffle#4121, http://store.steampowered.com/app/654880/Dream_Daddy_A_Dad_Dating_Simulator/ @Psykopomp
+27 Nov 2017 00:36:12 : None, Direct Message with darth kota, darth kota#9446, ;status
+27 Nov 2017 00:36:15 : None, Direct Message with darth kota, darthbot98#5182, 
+27 Nov 2017 00:40:36 : None, Direct Message with darth kota, darth kota#9446, ;source
+27 Nov 2017 00:40:36 : None, Direct Message with darth kota, darthbot98#5182, https://github.com/77Wertfuzzy77/Botfuzzy77
+27 Nov 2017 00:58:06 : FAM, off-topic, darth kota#9446, async def presence(self, playing : str):
+    await bot.change_presence(game=discord.Game(name='{}'.format(playing)))
+    await bot.say('I am now playing {}'.format(playing)
+27 Nov 2017 00:58:12 : FAM, off-topic, darth kota#9446, Done I think
+27 Nov 2017 01:10:08 : FAM, main, Mee6#4876, @Astolfo, Welcome to **FAM** ! <:PCMR:382251419685617674>
+27 Nov 2017 01:10:20 : FAM, off-topic, WafflesTheWaffle#4121, ?radio
+27 Nov 2017 01:10:20 : FAM, off-topic, Astolfo#0628, 
+27 Nov 2017 01:10:46 : FAM, off-topic, WafflesTheWaffle#4121, ?radio
+27 Nov 2017 01:10:46 : FAM, off-topic, Astolfo#0628, 
+27 Nov 2017 01:10:59 : FAM, off-topic, WafflesTheWaffle#4121, ?radio
+27 Nov 2017 01:10:59 : FAM, off-topic, Astolfo#0628, 
+27 Nov 2017 01:11:04 : FAM, main, Mee6#4876, This faggot: **Astolfo** just left our server.
+27 Nov 2017 01:11:18 : FAM, main, Mee6#4876, @Astolfo, Welcome to **FAM** ! <:PCMR:382251419685617674>
+27 Nov 2017 01:11:22 : FAM, off-topic, WafflesTheWaffle#4121, ?radio
+27 Nov 2017 01:11:22 : FAM, off-topic, Astolfo#0628, 
+27 Nov 2017 01:11:31 : FAM, off-topic, WafflesTheWaffle#4121, ?help
+27 Nov 2017 01:11:31 : FAM, off-topic, Astolfo#0628, 
+27 Nov 2017 01:11:48 : FAM, off-topic, WafflesTheWaffle#4121, ?radio
+27 Nov 2017 01:11:52 : FAM, off-topic, Astolfo#0628, Type the number of the station you want to stream.
+27 Nov 2017 01:14:01 : FAM, off-topic, WafflesTheWaffle#4121, 245
+27 Nov 2017 01:14:01 : FAM, off-topic, Astolfo#0628, 
+27 Nov 2017 01:14:10 : FAM, off-topic, WafflesTheWaffle#4121, ?raldio
+27 Nov 2017 01:14:13 : FAM, off-topic, WafflesTheWaffle#4121, ?radio
+27 Nov 2017 01:14:17 : FAM, off-topic, Astolfo#0628, Type the number of the station you want to stream.
+27 Nov 2017 01:14:20 : FAM, off-topic, WafflesTheWaffle#4121, 1
+27 Nov 2017 01:14:21 : FAM, off-topic, Astolfo#0628, 
+27 Nov 2017 01:14:21 : FAM, off-topic, Astolfo#0628, 
+27 Nov 2017 01:14:22 : FAM, off-topic, Astolfo#0628, 
+27 Nov 2017 01:14:34 : FAM, main, Mee6#4876, This faggot: **Astolfo** just left our server.
+27 Nov 2017 01:17:07 : FAM, main, Mee6#4876, @Pandora Radio, Welcome to **FAM** ! <:PCMR:382251419685617674>
+27 Nov 2017 01:17:33 : FAM, main, Mee6#4876, @Radio Haru, Welcome to **FAM** ! <:PCMR:382251419685617674>
+27 Nov 2017 01:18:17 : FAM, off-topic, WafflesTheWaffle#4121, P!play
+27 Nov 2017 01:18:17 : FAM, off-topic, Pandora Radio#4131, :warning: :warning: :warning: **IMPORTANT NOTICE** :warning: :warning: :warning:
+If you live in the U.S., this is probably going to be the most important decision you'll make for the internet. Remember a couple months ago when the FCC was aiming to get rid of net neutrality? Well it's becoming a reality. On December 14th, the FCC will be voting on whether to repeal net neutrality entirely, and it's up to you to stop them. Please, help us save net neutrality! Follow the instructions at the bottom of this link to find out how to stop this and learn more about net neutrality. <https://www.theverge.com/2017/11/15/16658162/fcc-net-neutrality-grim-november>
+27 Nov 2017 01:18:18 : FAM, off-topic, Pandora Radio#4131, 
+27 Nov 2017 01:19:25 : FAM, off-topic, WafflesTheWaffle#4121, >help
+27 Nov 2017 01:19:25 : FAM, off-topic, Radio Haru#3960, ```prolog
+
+[Commands]-> [Information]
+
+
+[Help]-----> Shows this output.
+[Stats]----> Shows the stats of Radio Haru.
+[Ping]-----> Pong!
+[Play]-----> Play Radio Haru.
+[Song]-----> Shows the currently playing song.
+[Stop]-----> Stop Radio Haru.
+[Invite]---> Get the invitation link to add the bot.
+[Support]--> Get the invitation link to the support guild.
+[Website]--> Link to the Radio Haru website.
+[Donate]---> Link to Patreon.```
+27 Nov 2017 01:19:36 : FAM, off-topic, WafflesTheWaffle#4121, >play
+27 Nov 2017 01:19:46 : FAM, off-topic, WafflesTheWaffle#4121, play
+27 Nov 2017 01:19:50 : FAM, off-topic, WafflesTheWaffle#4121, >help
+27 Nov 2017 01:19:50 : FAM, off-topic, Radio Haru#3960, ```prolog
+
+[Commands]-> [Information]
+
+
+[Help]-----> Shows this output.
+[Stats]----> Shows the stats of Radio Haru.
+[Ping]-----> Pong!
+[Play]-----> Play Radio Haru.
+[Song]-----> Shows the currently playing song.
+[Stop]-----> Stop Radio Haru.
+[Invite]---> Get the invitation link to add the bot.
+[Support]--> Get the invitation link to the support guild.
+[Website]--> Link to the Radio Haru website.
+[Donate]---> Link to Patreon.```
+27 Nov 2017 01:19:54 : FAM, off-topic, WafflesTheWaffle#4121, >play
+27 Nov 2017 01:19:57 : FAM, off-topic, WafflesTheWaffle#4121, > play
+27 Nov 2017 01:20:00 : FAM, off-topic, WafflesTheWaffle#4121, >play
+27 Nov 2017 01:20:41 : FAM, off-topic, WafflesTheWaffle#4121, >play
+27 Nov 2017 01:20:49 : FAM, off-topic, Radio Haru#3960, :green_heart: **Playing Radio Haru!**
+27 Nov 2017 01:21:27 : FAM, off-topic, Pandora Radio#4131, 
+27 Nov 2017 01:22:34 : FAM, off-topic, WafflesTheWaffle#4121, ?play
+27 Nov 2017 01:22:43 : FAM, off-topic, WafflesTheWaffle#4121, P!play
+27 Nov 2017 01:22:43 : FAM, off-topic, Pandora Radio#4131, 
+27 Nov 2017 01:23:01 : FAM, off-topic, WafflesTheWaffle#4121, P!dislike
+27 Nov 2017 01:23:01 : FAM, off-topic, Pandora Radio#4131, 
+27 Nov 2017 01:23:01 : FAM, off-topic, Pandora Radio#4131, 
+27 Nov 2017 01:23:17 : FAM, off-topic, WafflesTheWaffle#4121, P!dislike
+27 Nov 2017 01:23:18 : FAM, off-topic, Pandora Radio#4131, 
+27 Nov 2017 01:23:18 : FAM, off-topic, Pandora Radio#4131, 
+27 Nov 2017 01:23:18 : FAM, off-topic, Pandora Radio#4131, 
+27 Nov 2017 01:23:22 : FAM, off-topic, WafflesTheWaffle#4121, P!dislike
+27 Nov 2017 01:23:22 : FAM, off-topic, Pandora Radio#4131, 
+27 Nov 2017 01:23:22 : FAM, off-topic, Pandora Radio#4131, 
+27 Nov 2017 01:23:26 : FAM, off-topic, WafflesTheWaffle#4121, P!dislike
+27 Nov 2017 01:23:26 : FAM, off-topic, Pandora Radio#4131, 
+27 Nov 2017 01:23:26 : FAM, off-topic, Pandora Radio#4131, 
+27 Nov 2017 01:24:58 : FAM, main, Mee6#4876, @Aqua, Welcome to **FAM** ! <:PCMR:382251419685617674>
+27 Nov 2017 01:25:28 : FAM, main, Mee6#4876, @PepeBot, Welcome to **FAM** ! <:PCMR:382251419685617674>
+27 Nov 2017 01:26:00 : FAM, off-topic, WafflesTheWaffle#4121, aqua radio
+27 Nov 2017 01:26:12 : FAM, off-topic, WafflesTheWaffle#4121, a>radio
+27 Nov 2017 01:26:16 : FAM, off-topic, WafflesTheWaffle#4121, aqua help
+27 Nov 2017 01:26:29 : FAM, off-topic, Aqua#1781, Radio Commands:
+
+`*radio on` — turns the radio on
+`*radio off` — turns the radio off
+27 Nov 2017 01:26:40 : FAM, off-topic, Aqua#1781, @WafflesTheWaffle This command is on cooldown, please wait **1 seconds** before using it again.
+27 Nov 2017 01:26:42 : FAM, off-topic, WafflesTheWaffle#4121, *radio on
+27 Nov 2017 01:26:46 : FAM, off-topic, Aqua#1781, 
+27 Nov 2017 01:26:47 : FAM, off-topic, Pandora Radio#4131, 
+27 Nov 2017 01:27:08 : FAM, off-topic, WafflesTheWaffle#4121, aqua radio on
+27 Nov 2017 01:27:30 : FAM, off-topic, WafflesTheWaffle#4121, pepe help
+27 Nov 2017 01:27:30 : FAM, off-topic, PepeBot#1172, 
+27 Nov 2017 01:27:34 : FAM, off-topic, WafflesTheWaffle#4121, pepe fun
+27 Nov 2017 01:27:34 : FAM, off-topic, PepeBot#1172, 
+27 Nov 2017 01:27:37 : FAM, off-topic, Aqua#1781, @WafflesTheWaffle, I'm already playing in this channel
+27 Nov 2017 01:27:37 : FAM, off-topic, Aqua#1781, <:awoo:362656705391230981> @WafflesTheWaffle, I could not connect to your current voice channel
+27 Nov 2017 01:27:42 : FAM, off-topic, WafflesTheWaffle#4121, you stupid nigger
+27 Nov 2017 01:27:47 : FAM, off-topic, WafflesTheWaffle#4121, aqua radio on
+27 Nov 2017 01:28:06 : FAM, main, Mee6#4876, This faggot: **Radio Haru** just left our server.
+27 Nov 2017 01:28:35 : FAM, off-topic, Aqua#1781, <:awoo:362656705391230981> @WafflesTheWaffle, I could not connect to your current voice channel
+27 Nov 2017 01:28:44 : FAM, main, Mee6#4876, This faggot: **Aqua** just left our server.
+27 Nov 2017 01:30:12 : FAM, main, Mee6#4876, @Astolfo, Welcome to **FAM** ! <:PCMR:382251419685617674>
+27 Nov 2017 01:30:19 : FAM, off-topic, WafflesTheWaffle#4121, ?radio
+27 Nov 2017 01:30:22 : FAM, off-topic, Astolfo#0628, Type the number of the station you want to stream.
+27 Nov 2017 01:30:29 : FAM, off-topic, WafflesTheWaffle#4121, 10
+27 Nov 2017 01:30:31 : FAM, off-topic, Astolfo#0628, 
+27 Nov 2017 01:30:31 : FAM, off-topic, Astolfo#0628, 
+27 Nov 2017 01:31:06 : FAM, off-topic, WafflesTheWaffle#4121, ?radio
+27 Nov 2017 01:31:09 : FAM, off-topic, Astolfo#0628, Type the number of the station you want to stream.
+27 Nov 2017 01:31:19 : FAM, off-topic, WafflesTheWaffle#4121, 13
+27 Nov 2017 01:31:20 : FAM, off-topic, Astolfo#0628, 
+27 Nov 2017 01:31:55 : FAM, off-topic, WafflesTheWaffle#4121, ?helpo
+27 Nov 2017 01:31:56 : FAM, off-topic, WafflesTheWaffle#4121, ?help
+27 Nov 2017 01:31:56 : FAM, off-topic, Astolfo#0628, 
+27 Nov 2017 01:32:18 : FAM, off-topic, WafflesTheWaffle#4121, ?playnext
+27 Nov 2017 01:32:18 : FAM, off-topic, Astolfo#0628, 
+27 Nov 2017 01:32:21 : FAM, off-topic, WafflesTheWaffle#4121, ?next
+27 Nov 2017 01:32:25 : FAM, off-topic, WafflesTheWaffle#4121, ?skip
+27 Nov 2017 01:32:25 : FAM, off-topic, Astolfo#0628, 
+27 Nov 2017 01:32:25 : FAM, off-topic, Astolfo#0628, 
+27 Nov 2017 01:32:45 : FAM, off-topic, WafflesTheWaffle#4121, ?radio classic rock
+27 Nov 2017 01:32:54 : FAM, off-topic, WafflesTheWaffle#4121, ?radio rock
+27 Nov 2017 01:32:54 : FAM, off-topic, Astolfo#0628, Type the number of the station you want to stream.
+27 Nov 2017 01:33:04 : FAM, off-topic, WafflesTheWaffle#4121, 8
+27 Nov 2017 01:33:04 : FAM, off-topic, Astolfo#0628, 
+27 Nov 2017 01:33:10 : FAM, off-topic, WafflesTheWaffle#4121, ?radio rock
+27 Nov 2017 01:33:24 : FAM, off-topic, WafflesTheWaffle#4121, ?radio rock
+27 Nov 2017 01:33:36 : FAM, off-topic, Astolfo#0628, Type the number of the station you want to stream.
+27 Nov 2017 01:34:00 : FAM, off-topic, WafflesTheWaffle#4121, 34
+27 Nov 2017 01:34:00 : FAM, off-topic, Astolfo#0628, 
+27 Nov 2017 01:34:04 : FAM, off-topic, WafflesTheWaffle#4121, ?radio rock
+27 Nov 2017 01:34:18 : FAM, off-topic, WafflesTheWaffle#4121, ?skip
+27 Nov 2017 01:34:19 : FAM, off-topic, Astolfo#0628, Type the number of the station you want to stream.
+27 Nov 2017 01:34:22 : FAM, off-topic, WafflesTheWaffle#4121, ?skip
+27 Nov 2017 01:34:22 : FAM, off-topic, Astolfo#0628, 
+27 Nov 2017 01:34:24 : FAM, off-topic, WafflesTheWaffle#4121, ?reset
+27 Nov 2017 01:34:24 : FAM, off-topic, Astolfo#0628, 
+27 Nov 2017 01:34:28 : FAM, off-topic, WafflesTheWaffle#4121, 6
+27 Nov 2017 01:34:36 : FAM, off-topic, WafflesTheWaffle#4121, ?skip
+27 Nov 2017 01:35:03 : FAM, off-topic, Astolfo#0628, Type the number of the station you want to stream.
+27 Nov 2017 01:35:03 : FAM, off-topic, Astolfo#0628, 
+27 Nov 2017 01:35:03 : FAM, off-topic, Astolfo#0628, 
+27 Nov 2017 01:35:03 : FAM, off-topic, Astolfo#0628, 
+27 Nov 2017 01:35:03 : FAM, off-topic, Astolfo#0628, 
+27 Nov 2017 01:35:08 : FAM, off-topic, Astolfo#0628, 
+27 Nov 2017 01:35:08 : FAM, off-topic, Astolfo#0628, 
+27 Nov 2017 01:35:38 : FAM, off-topic, WafflesTheWaffle#4121, ?musicroom
+27 Nov 2017 01:35:38 : FAM, off-topic, Astolfo#0628, 
+27 Nov 2017 01:35:48 : FAM, off-topic, Astolfo#0628, Type the number of the station you want to stream.
+27 Nov 2017 01:35:48 : FAM, off-topic, Astolfo#0628, 
+27 Nov 2017 01:37:33 : FAM, off-topic, WafflesTheWaffle#4121, ?musicroom help
+27 Nov 2017 01:37:34 : FAM, off-topic, Astolfo#0628, 
+27 Nov 2017 01:37:49 : FAM, off-topic, WafflesTheWaffle#4121, ?musicroom enable
+27 Nov 2017 01:37:49 : FAM, off-topic, Astolfo#0628, 
+27 Nov 2017 01:38:56 : FAM, off-topic, WafflesTheWaffle#4121, ?musicroom set Mans Radio
+27 Nov 2017 01:38:56 : FAM, off-topic, Astolfo#0628, 
+27 Nov 2017 01:39:28 : FAM, videos-and-music, WafflesTheWaffle#4121, ?musicroom settxt videos-and-music
+27 Nov 2017 01:39:28 : FAM, videos-and-music, Astolfo#0628, 
+27 Nov 2017 01:39:40 : FAM, videos-and-music, WafflesTheWaffle#4121, ?musicroom set Mans Radio
+27 Nov 2017 01:39:40 : FAM, videos-and-music, Astolfo#0628, 
+27 Nov 2017 01:40:04 : FAM, videos-and-music, WafflesTheWaffle#4121, ?musicroom set Radio
+27 Nov 2017 01:40:04 : FAM, videos-and-music, Astolfo#0628, 
+27 Nov 2017 01:40:10 : FAM, videos-and-music, WafflesTheWaffle#4121, Musicroom set MansRadio
+27 Nov 2017 01:40:15 : FAM, videos-and-music, WafflesTheWaffle#4121, ?musicroom set mansradio
+27 Nov 2017 01:40:15 : FAM, videos-and-music, Astolfo#0628, 
+27 Nov 2017 01:40:33 : FAM, videos-and-music, Astolfo#0628, 
+27 Nov 2017 01:40:51 : FAM, videos-and-music, WafflesTheWaffle#4121, ?leavecleanup
+27 Nov 2017 01:40:51 : FAM, videos-and-music, Astolfo#0628, I have removed a total of **0** songs from users that left the voice channel!
+27 Nov 2017 01:41:08 : FAM, videos-and-music, WafflesTheWaffle#4121, ?join
+27 Nov 2017 01:41:08 : FAM, videos-and-music, Astolfo#0628, 
+27 Nov 2017 01:41:18 : FAM, videos-and-music, WafflesTheWaffle#4121, no you havent..
+27 Nov 2017 01:41:37 : FAM, videos-and-music, WafflesTheWaffle#4121, you cheeky cunt
+27 Nov 2017 01:41:59 : FAM, main, Mee6#4876, This faggot: **Pandora Radio** just left our server.
+27 Nov 2017 01:42:04 : FAM, main, Mee6#4876, This faggot: **PepeBot** just left our server.
+27 Nov 2017 01:47:27 : FAM, off-topic, Astolfo#0628, Disconnected due to being all alone...
+27 Nov 2017 01:54:32 : FAM, videos-and-music, WafflesTheWaffle#4121, ?radio
+27 Nov 2017 01:54:35 : FAM, videos-and-music, Astolfo#0628, Type the number of the station you want to stream.
+27 Nov 2017 01:54:45 : FAM, videos-and-music, WafflesTheWaffle#4121, ?radio rock
+27 Nov 2017 01:55:17 : FAM, videos-and-music, WafflesTheWaffle#4121, ?radio rock
+27 Nov 2017 01:55:24 : FAM, videos-and-music, WafflesTheWaffle#4121, ?radio
+27 Nov 2017 01:55:28 : FAM, videos-and-music, Astolfo#0628, Type the number of the station you want to stream.
+27 Nov 2017 01:55:28 : FAM, videos-and-music, WafflesTheWaffle#4121, ?RADIO ROCK
+27 Nov 2017 01:55:28 : FAM, videos-and-music, Astolfo#0628, 
+27 Nov 2017 01:55:31 : FAM, videos-and-music, Astolfo#0628, Type the number of the station you want to stream.
+27 Nov 2017 01:55:39 : FAM, videos-and-music, WafflesTheWaffle#4121, ?radio rock
+27 Nov 2017 01:55:39 : FAM, videos-and-music, Astolfo#0628, 
+27 Nov 2017 01:55:39 : FAM, videos-and-music, Astolfo#0628, 
+27 Nov 2017 01:55:47 : FAM, videos-and-music, WafflesTheWaffle#4121, ?radio rock
+27 Nov 2017 01:56:16 : FAM, videos-and-music, Astolfo#0628, Type the number of the station you want to stream.
+27 Nov 2017 01:56:23 : FAM, videos-and-music, WafflesTheWaffle#4121, 5
+27 Nov 2017 01:57:03 : FAM, videos-and-music, Astolfo#0628, Type the number of the station you want to stream.
+27 Nov 2017 01:57:06 : FAM, videos-and-music, Astolfo#0628, 
+27 Nov 2017 01:57:06 : FAM, videos-and-music, Astolfo#0628, 
+27 Nov 2017 01:57:49 : FAM, videos-and-music, Astolfo#0628, Type the number of the station you want to stream.
+27 Nov 2017 01:58:36 : FAM, videos-and-music, Astolfo#0628, Type the number of the station you want to stream.
+27 Nov 2017 02:03:20 : FAM, videos-and-music, Astolfo#0628, Music will be back in a bit! Bot is restarting!
+27 Nov 2017 02:04:47 : FAM, videos-and-music, Astolfo#0628, 
+27 Nov 2017 02:06:50 : FAM, videos-and-music, xReloaded#3785, ?radio
+27 Nov 2017 02:06:51 : FAM, videos-and-music, Astolfo#0628, Type the number of the station you want to stream.
+27 Nov 2017 02:07:52 : FAM, videos-and-music, xReloaded#3785, ?radio rock
+27 Nov 2017 02:07:55 : FAM, videos-and-music, Astolfo#0628, Type the number of the station you want to stream.
+27 Nov 2017 02:08:11 : FAM, videos-and-music, xReloaded#3785, ?radio rap
+27 Nov 2017 02:08:11 : FAM, videos-and-music, Astolfo#0628, 
+27 Nov 2017 02:08:12 : FAM, videos-and-music, Astolfo#0628, Type the number of the station you want to stream.
+27 Nov 2017 02:08:40 : FAM, videos-and-music, xReloaded#3785, ?radio rap
+27 Nov 2017 02:08:41 : FAM, videos-and-music, Astolfo#0628, Type the number of the station you want to stream.
+27 Nov 2017 02:12:19 : FAM, off-topic, darth kota#9446, ;kill @WafflesTheWaffle
+27 Nov 2017 02:12:19 : FAM, off-topic, darthbot98#5182, :skull: *darth kota Killed @WafflesTheWaffle* :skull:
+27 Nov 2017 03:03:32 : FAM, main, Mee6#4876, This faggot: **Astolfo** just left our server.
+27 Nov 2017 03:06:50 : FAM, main, Mee6#4876, @Astolfo, Welcome to **FAM** ! <:PCMR:382251419685617674>
+27 Nov 2017 03:07:52 : FAM, videos-and-music, WafflesTheWaffle#4121, ?musicroom enable
+27 Nov 2017 03:07:52 : FAM, videos-and-music, Astolfo#0628, 
+27 Nov 2017 03:07:58 : FAM, videos-and-music, Astolfo#0628, 
+27 Nov 2017 03:08:03 : FAM, videos-and-music, Astolfo#0628, 
+27 Nov 2017 03:08:15 : FAM, videos-and-music, WafflesTheWaffle#4121, ?musicroom settxt videos-and-music
+27 Nov 2017 03:08:15 : FAM, videos-and-music, Astolfo#0628, 
+27 Nov 2017 03:08:19 : FAM, videos-and-music, WafflesTheWaffle#4121, ?radio
+27 Nov 2017 03:08:20 : FAM, videos-and-music, Astolfo#0628, Type the number of the station you want to stream.
+27 Nov 2017 03:08:32 : FAM, videos-and-music, WafflesTheWaffle#4121, ?radio rock
+27 Nov 2017 03:08:39 : FAM, videos-and-music, Astolfo#0628, Type the number of the station you want to stream.
+27 Nov 2017 03:08:43 : FAM, videos-and-music, WafflesTheWaffle#4121, 4
+27 Nov 2017 03:08:44 : FAM, videos-and-music, Astolfo#0628, 
+27 Nov 2017 03:08:45 : FAM, videos-and-music, Astolfo#0628, 
+27 Nov 2017 03:42:21 : FAM, videos-and-music, Astolfo#0628, Disconnected due to being all alone...
+27 Nov 2017 06:13:27 : FAM, videos-and-music, Little Light#0413, https://www.rabb.it/DeenaCicoria412
+27 Nov 2017 13:44:00 : FAM, videos-and-music, WafflesTheWaffle#4121, i would like to collaborate

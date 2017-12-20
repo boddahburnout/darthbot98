@@ -1,0 +1,69 @@
+07 May 2017 03:09:18 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+07 May 2017 03:09:18 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+07 May 2017 03:09:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;server
+07 May 2017 03:09:20 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+07 May 2017 03:09:20 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 9 players out of 100
+ *Ping*: 126.747 ms
+ *MC Version*: 1.10.2
+07 May 2017 03:09:20 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 2.0
+07 May 2017 03:09:20 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *AlphaLucario, razar_sly12, darthkota98, fugarwe, Nekupe, FearlessFalconX, Shadowfire1217, jigglypuff01, PurrkourMania...*
+07 May 2017 03:09:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=oerZ1cYE-Qk
+07 May 2017 03:09:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ;loop 10
+07 May 2017 03:09:30 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*Billy Joel - Live at Bonnaroo 2015 (Full Concert) (HD)*' **10** more times
+07 May 2017 03:09:33 : LimitlessMc, botchat, Wertfuzzy77#0274, ;recommend
+07 May 2017 03:09:33 : LimitlessMc, botchat, Botfuzzy77#2209, Recommend Songs to play: True
+07 May 2017 03:09:35 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cycle
+07 May 2017 03:09:35 : LimitlessMc, botchat, Botfuzzy77#2209, Cycle Mode: True
+07 May 2017 03:09:36 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio
+07 May 2017 03:09:39 : LimitlessMc, botchat, Wertfuzzy77#0274, ;radio
+07 May 2017 03:09:39 : LimitlessMc, botchat, Botfuzzy77#2209, **Please choose one of these options**: 
+```py
+Electro Hub        (1198 Songs) https://temp.discord.fm/libraries/electro-hub
+Chill Corner       (758 Songs) https://temp.discord.fm/libraries/chill-corner
+Korean Madness     (394 Songs) https://temp.discord.fm/libraries/korean-madness
+Japanese Lounge    (2 Songs) https://temp.discord.fm/libraries/japanese-lounge
+Classical          (2 Songs) https://temp.discord.fm/libraries/classical
+Retro Renegade     (2 Songs) https://temp.discord.fm/libraries/retro-renegade
+Metal Mix          (2 Songs) https://temp.discord.fm/libraries/metal-mix
+Hip-hop            (2 Songs) https://temp.discord.fm/libraries/hip-hop
+Electro Swing      (2 Songs) https://temp.discord.fm/libraries/electro-swing
+Purely Pop         (2 Songs) https://temp.discord.fm/libraries/purely-pop
+Rock-n-Roll        (2 Songs) https://temp.discord.fm/libraries/rock-n-roll
+Coffee-house Jazz  (2 Songs) https://temp.discord.fm/libraries/coffee-house-jazz```
+Example: `;Radio Purely Pop`
+07 May 2017 03:09:42 : LimitlessMc, botchat, Wertfuzzy77#0274, yaa
+07 May 2017 03:09:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ;music
+07 May 2017 03:09:49 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 03:09:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cycle
+07 May 2017 03:09:59 : LimitlessMc, botchat, Botfuzzy77#2209, Cycle Mode: False
+07 May 2017 03:10:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+07 May 2017 03:10:02 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 03:10:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;music
+07 May 2017 03:10:05 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 03:11:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;musicdebug RADIO_OPTIONS
+07 May 2017 03:11:03 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+[{'id': 'electro-hub', 'name': 'Electro Hub', 'manager': 'Francis', 'colorClass': 'red darken-1'}, {'id': 'chill-corner', 'name': 'Chill Corner', 'manager': 'TwoDog', 'colorClass': 'blue-grey darken-1'}, {'id': 'korean-madness', 'name': 'Korean Madness', 'manager': 'SirBlooky', 'colorClass': 'green'}, {'id': 'japanese-lounge', 'name': 'Japanese Lounge', 'manager': 'Weeajew', 'colorClass': 'pink lighten-2'}, {'id': 'classical', 'name': 'Classical', 'manager': 'Luminaryfive', 'colorClass': 'orange'}, {'id': 'retro-renegade', 'name': 'Retro Renegade', 'manager': 'Roadcrosser', 'colorClass': 'teal lighten-4'}, {'id': 'metal-mix', 'name': 'Metal Mix', 'manager': 'Rinzler', 'colorClass': 'black'}, {'id': 'hip-hop', 'name': 'Hip-hop', 'manager': '#ZounceX', 'colorClass': 'blue darken-4'}, {'id': 'electro-swing', 'name': 'Electro Swing', 'manager': 'GroovyUnicyclist', 'colorClass': 'purple darken-2'}, {'id': 'purely-pop', 'name': 'Purely Pop', 'manager': 'TwoDog', 'colorClass': 'purple'}, {'id': 'rock-n-roll', 'name': 'Rock-n-Roll', 'manager': 'Peach', 'colorClass': 'red'}, {'id': 'coffee-house-jazz', 'name': 'Coffee-house Jazz', 'manager': 'Luminaryfive', 'colorClass': 'blue darken-1'}]
+```
+07 May 2017 03:11:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;musicdebug RADIO_PRINT
+07 May 2017 03:11:30 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+**Please choose one of these options**: 
+```py
+Electro Hub        (1198 Songs) https://temp.discord.fm/libraries/electro-hub
+Chill Corner       (758 Songs) https://temp.discord.fm/libraries/chill-corner
+Korean Madness     (394 Songs) https://temp.discord.fm/libraries/korean-madness
+Japanese Lounge    (2 Songs) https://temp.discord.fm/libraries/japanese-lounge
+Classical          (2 Songs) https://temp.discord.fm/libraries/classical
+Retro Renegade     (2 Songs) https://temp.discord.fm/libraries/retro-renegade
+Metal Mix          (2 Songs) https://temp.discord.fm/libraries/metal-mix
+Hip-hop            (2 Songs) https://temp.discord.fm/libraries/hip-hop
+Electro Swing      (2 Songs) https://temp.discord.fm/libraries/electro-swing
+Purely Pop         (2 Songs) https://temp.discord.fm/libraries/purely-pop
+Rock-n-Roll        (2 Songs) https://temp.discord.fm/libraries/rock-n-roll
+Coffee-house Jazz  (2 Songs) https://temp.discord.fm/libraries/coffee-house-jazz```
+Example: `;Radio Purely Pop`
+```
+07 May 2017 03:16:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;radio Chill Corner
+07 May 2017 03:16:05 : LimitlessMc, botchat, Botfuzzy77#2209, Now listening to **Chill Corner** radio channel
+07 May 2017 03:16:07 : LimitlessMc, botchat, Wertfuzzy77#0274, ;clear

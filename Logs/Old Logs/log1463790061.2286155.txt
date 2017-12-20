@@ -1,0 +1,45 @@
+Wertfuzzy77#0274, http://limitlessmc.net/f/viewtopic.php?f=20&t=3206
+Botfuzzy77#2926, **
+Computer died
+**
+
+#9631 by Roy210
+ Sun May 08, 2016 9:02 pm 
+		
+Well as the title said, my computer ran into some trouble, it turns on but doesn't actually fully start up but anyways I will not be able to play for a while till it gets fixed, maybe 1 to 2 weeks, I sad <img alt=":(" src="./images/smilies/icon_e_sad.gif" title="Sad"/>
+
+BTW: congratulations ruler on getting mod!  <img alt=";)" src="./images/smilies/icon_e_wink.gif" title="Wink"/>
+Userman#8272, what are you trying to do?
+Wertfuzzy77#0274, remove <img alt=";)" src="./images/smilies/icon_e_wink.gif" title="Wink"/> and replace with ";)"
+Wertfuzzy77#0274, it says it is working on my end :/
+Wertfuzzy77#0274, but something is going wrong
+Wertfuzzy77#0274, and it isnt removing it
+Userman#8272, are you using regex to find and replace?
+Wertfuzzy77#0274, ```
+py
+def cleanLine(line):
+    print('cleaning')
+    if('<span style="font-weight: bold">' in line):
+        line = line.replace('<span style="font-weight: bold">', '')
+        line = "**" + line + "**"
+    print(line)
+    line = line.replace('<img alt=";)" src="./images/smilies/icon_e_wink.gif" title="Wink"/>', ';)')
+    line = line.replace('<img alt=":(" src="./images/smilies/icon_e_sad.gif" title="Sad"/>', ':(')
+    print(line)
+    return line
+```
+Wertfuzzy77#0274, simple replace
+Wertfuzzy77#0274, bold works just fine
+Wertfuzzy77#0274, http://limitlessmc.net/f/viewtopic.php?f=20&t=3206
+Botfuzzy77#2926, **
+Computer died
+**
+
+#9631 by Roy210
+ Sun May 08, 2016 9:02 pm 
+		
+Well as the title said, my computer ran into some trouble, it turns on but doesn't actually fully start up but anyways I will not be able to play for a while till it gets fixed, maybe 1 to 2 weeks, I sad <img alt=":(" src="./images/smilies/icon_e_sad.gif" title="Sad"/>
+
+BTW: congratulations ruler on getting mod!  <img alt=";)" src="./images/smilies/icon_e_wink.gif" title="Wink"/>
+Wertfuzzy77#0274, :/
+Wertfuzzy77#0274, !relog

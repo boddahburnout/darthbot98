@@ -1,0 +1,35 @@
+23 Aug 2016 18:10:31 : None, Direct Message with Akinci, Akinci#5072, ;forceplay https://www.youtube.com/watch?v=37KEy0iReTM
+23 Aug 2016 18:10:31 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+23 Aug 2016 18:10:44 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=nPvuNsRccVw
+23 Aug 2016 18:10:45 : None, Direct Message with Akinci, Akinci#5072, ;forceplay https://www.youtube.com/watch?v=37KEy0iReTM
+23 Aug 2016 18:10:46 : PassionMC, general, Botfuzzy77#2209, **Dudubidu**(No Role) is now Offline!
+23 Aug 2016 18:10:46 : Cipher, general, Botfuzzy77#2209, **Dudubidu**(Grunt) is now Offline!
+23 Aug 2016 18:10:47 : LimitlessMc, botchat, Botfuzzy77#2209, Added Thread-8 to the queue
+23 Aug 2016 18:10:50 : LimitlessMc, botchat, Wertfuzzy77#0274, well then
+23 Aug 2016 18:10:51 : PassionMC, general, Botfuzzy77#2209, **Mystz**(Owners) is now Offline!
+23 Aug 2016 18:10:54 : LimitlessMc, botchat, Akinci#5072, Lol
+23 Aug 2016 18:11:02 : LimitlessMc, botchat, Akinci#5072, ;songs
+23 Aug 2016 18:11:02 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+23 Aug 2016 18:11:02 : LimitlessMc, botchat, Botfuzzy77#2209, Infected Mushroom - Can't Stop (https://www.youtube.com/watch?v=37KEy0iReTM)
+Total Time is 0:07:24
+23 Aug 2016 18:11:14 : LimitlessMc, botchat, Wertfuzzy77#0274, is name not a thing lol
+23 Aug 2016 18:11:39 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug self.voice.create_ytdl_player("https://www.youtube.com/watch?v=nPvuNsRccVw")
+23 Aug 2016 18:11:39 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+NameError: name 'self' is not defined
+```
+23 Aug 2016 18:11:41 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+23 Aug 2016 18:11:47 : LimitlessMc, botchat, Resolate#7058, I miss the weeb songs xD
+23 Aug 2016 18:12:03 : LimitlessMc, botchat, Impasta Snake#1447, ;youtube https://www.youtube.com/watch?v=Hz0IIg1Sbx0
+23 Aug 2016 18:12:03 : LimitlessMc, botchat, Akinci#5072, ;playlist WEBB WEEB2
+23 Aug 2016 18:12:04 : LimitlessMc, botchat, Botfuzzy77#2209, Added Thread-11 to the queue
+23 Aug 2016 18:12:06 : LimitlessMc, botchat, Wertfuzzy77#0274, ah, its `title`
+23 Aug 2016 18:12:07 : Penguins, general, Survivra#7191, ;server
+23 Aug 2016 18:12:10 : Penguins, general, Botfuzzy77#2209, *Server is Down :(*
+23 Aug 2016 18:12:15 : LimitlessMc, botchat, Akinci#5072, ;songs
+23 Aug 2016 18:12:15 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+23 Aug 2016 18:12:16 : LimitlessMc, botchat, Botfuzzy77#2209, Infected Mushroom - Can't Stop (https://www.youtube.com/watch?v=37KEy0iReTM)
+Emotional OST Collection: Tears After a Cloudy Weather (https://www.youtube.com/watch?v=Hz0IIg1Sbx0)
+Total Time is 0:09:05
+23 Aug 2016 18:12:17 : LimitlessMc, mainchat, Survivra#7191, Crash again? :/
+23 Aug 2016 18:12:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ;relog
+23 Aug 2016 18:12:25 : LimitlessMc, botchat, Botfuzzy77#2209, Relogging...

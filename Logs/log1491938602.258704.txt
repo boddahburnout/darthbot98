@@ -1,0 +1,11 @@
+11 Apr 2017 19:23:25 : LimitlessMc, botchat, Lightning#6734, ```css
+f ctx.message.author.id is not 226028320104382464:
+        return
+    else:
+        await bot.say("Relogging...")
+        LOG.close()
+        await bot.logout()        
+        Popen("Start_Botfuzzy77")
+```
+11 Apr 2017 19:23:36 : LimitlessMc, botchat, Lightning#6734, :L
+11 Apr 2017 19:23:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;relog

@@ -1,0 +1,118 @@
+20 Jan 2017 02:29:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+20 Jan 2017 02:29:26 : LimitlessMc, mainchat, TherminatorX#6644, Rip Sheepy
+20 Jan 2017 02:29:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=Ds7CtCSjZqk
+20 Jan 2017 02:29:33 : LimitlessMc, botchat, Wertfuzzy77#0274, ;reload
+20 Jan 2017 02:29:33 : LimitlessMc, botchat, Botfuzzy77#2209, UNAUTHORIZED
+20 Jan 2017 02:29:39 : LimitlessMc, botchat, MoonWolf#8885, ;train
+20 Jan 2017 02:29:39 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 35 **Boldore** (51% to beat)
+You **Beat** a Level 9 **Beheeyem** for 360 XP (90% to beat)
+You **Beat** a Level 49 **Yanma** for 2277 XP (36% to beat)
+You **Lost** to a Level 54 **Magmortar** (33% to beat)
+You **Beat** a Level 25 **Flygon** for 1008 XP (72% to beat)
+You **Lost** to a Level 70 **Musharna** (25% to beat)
+You **Lost** to a Level 25 **Pignite** (72% to beat)
+You **Lost** to a Level 33 **Eelektross** (54% to beat)
+You **Lost** to a Level 71 **Ponyta** (25% to beat)
+You **Lost** to a Level 61 **Kyurem** (29% to beat)
+20 Jan 2017 02:29:39 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 3645 XP!
+20 Jan 2017 02:29:47 : LimitlessMc, botchat, Crystal4209#4698, ;train
+20 Jan 2017 02:29:47 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 60 **Linoone** (25% to beat)
+You **Beat** a Level 32 **Rampardos** for 1598 XP (48% to beat)
+You **Lost** to a Level 50 **Bastiodon** (31% to beat)
+You **Lost** to a Level 32 **Walrein** (48% to beat)
+You **Beat** a Level 17 **Gulpin** for 310 XP (90% to beat)
+You **Lost** to a Level 43 **Hawlucha** (36% to beat)
+You **Beat** a Level 35 **Makuhita** for 1727 XP (44% to beat)
+You **Beat** a Level 9 **Pichu** for 310 XP (90% to beat)
+You **Lost** to a Level 32 **Torchic** (48% to beat)
+You use a **Lucky Egg** to gain more XP!
+You Find a **Pokeloot** worth 1639 XP
+20 Jan 2017 02:29:47 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 7556 XP!
+20 Jan 2017 02:29:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug ctx.message.author.id
+20 Jan 2017 02:29:50 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+134441036905840640
+```
+20 Jan 2017 02:29:57 : LimitlessMc, botchat, MoonWolf#8885, Holy crystal
+20 Jan 2017 02:30:08 : LimitlessMc, botchat, MoonWolf#8885, you get more robotic every sec
+20 Jan 2017 02:30:14 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug ctx.message.author.id == "134441036905840640"
+20 Jan 2017 02:30:14 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+True
+```
+20 Jan 2017 02:30:17 : LimitlessMc, botchat, Crystal4209#4698, ;-;
+20 Jan 2017 02:30:22 : LimitlessMc, botchat, Crystal4209#4698, i reload discord
+20 Jan 2017 02:30:36 : LimitlessMc, botchat, MoonWolf#8885, Now that crystal its gone
+20 Jan 2017 02:30:39 : LimitlessMc, botchat, MoonWolf#8885, we can make out wert
+20 Jan 2017 02:30:44 : LimitlessMc, mainchat, Wertfuzzy77#0274, I think you mean, Video Games, Video Games, and Video Games
+20 Jan 2017 02:30:56 : LimitlessMc, botchat, MoonWolf#8885, ;muteme
+20 Jan 2017 02:31:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;tempmute MoonWolf
+20 Jan 2017 02:31:06 : LimitlessMc, botchat, Wertfuzzy77#0274, ;tempmute MoonWolf 5
+20 Jan 2017 02:31:06 : LimitlessMc, botchat, Botfuzzy77#2209, Something went Wrong: Forbidden
+20 Jan 2017 02:31:06 : LimitlessMc, botchat, Botfuzzy77#2209, Muted MoonWolf
+20 Jan 2017 02:31:09 : LimitlessMc, botchat, MoonWolf#8885, asd
+20 Jan 2017 02:31:11 : LimitlessMc, botchat, MoonWolf#8885, Kappa
+20 Jan 2017 02:31:11 : LimitlessMc, botchat, Botfuzzy77#2209, Something went Wrong: Forbidden
+20 Jan 2017 02:31:12 : LimitlessMc, botchat, Botfuzzy77#2209, Unmuted MoonWolf
+20 Jan 2017 02:31:23 : LimitlessMc, botchat, MoonWolf#8885, Did it really muted me?
+20 Jan 2017 02:31:38 : LimitlessMc, botchat, MoonWolf#8885, ;image Klappa
+20 Jan 2017 02:31:40 : LimitlessMc, botchat, Botfuzzy77#2209, https://i.ytimg.com/vi/ytyWiK7YnJ0/maxresdefault.jpg
+20 Jan 2017 02:31:53 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mute Moonwolf
+20 Jan 2017 02:31:53 : LimitlessMc, botchat, Botfuzzy77#2209, Something went Wrong: InvalidArgument
+20 Jan 2017 02:31:56 : LimitlessMc, botchat, MoonWolf#8885, asd
+20 Jan 2017 02:32:00 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mute MoonWolf
+20 Jan 2017 02:32:00 : LimitlessMc, botchat, Botfuzzy77#2209, Something went Wrong: Forbidden
+20 Jan 2017 02:32:04 : LimitlessMc, botchat, MoonWolf#8885, :v
+20 Jan 2017 02:32:18 : LimitlessMc, botchat, MoonWolf#8885, What isn't wrong with it*
+20 Jan 2017 02:32:25 : LimitlessMc, mainchat, DicloniusSheep#6564, i wish
+20 Jan 2017 02:32:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug True
+20 Jan 2017 02:32:47 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+True
+```
+20 Jan 2017 02:32:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ev Pikachu
+20 Jan 2017 02:33:00 : LimitlessMc, botchat, Botfuzzy77#2209, **Pikachu**
+```py
+speed 2
+special-defense 0
+special-attack 0
+defense 0
+attack 0
+hp 0```
+20 Jan 2017 02:33:04 : LimitlessMc, botchat, MoonWolf#8885, lmao
+20 Jan 2017 02:33:10 : LimitlessMc, botchat, MoonWolf#8885, ;pokeboss
+20 Jan 2017 02:33:10 : LimitlessMc, botchat, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> medium to fight and reveal the boss.
+20 Jan 2017 02:33:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;afk Stable!
+20 Jan 2017 02:33:19 : LimitlessMc, botchat, Botfuzzy77#2209, Wertfuzzy77 is now AFK for reason:
+**Stable!**
+20 Jan 2017 02:33:26 : LimitlessMc, botchat, MoonWolf#8885, ;setpokemon Regigigas
+20 Jan 2017 02:33:26 : LimitlessMc, botchat, Botfuzzy77#2209, You must have beat that pokemon in ;train to become it!
+20 Jan 2017 02:33:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ;invite
+20 Jan 2017 02:33:29 : LimitlessMc, botchat, Botfuzzy77#2209, https://discordapp.com/oauth2/authorize?client_id=187608834381053952&scope=bot&permissions=00000008
+20 Jan 2017 02:33:34 : LimitlessMc, botchat, Wertfuzzy77#0274, ;souse
+20 Jan 2017 02:33:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ;source
+20 Jan 2017 02:33:37 : LimitlessMc, botchat, Botfuzzy77#2209, https://github.com/77Wertfuzzy77/Botfuzzy77
+20 Jan 2017 02:33:42 : LimitlessMc, botchat, MoonWolf#8885, Souse
+20 Jan 2017 02:33:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ;server
+20 Jan 2017 02:33:47 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+20 Jan 2017 02:33:47 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 14 players out of 100
+ *Ping*: 125.852 ms
+ *MC Version*: 1.10.2
+20 Jan 2017 02:33:47 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.1
+20 Jan 2017 02:33:47 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *crystal4209, Mining_Zoroark, AussieAge, gamedevtree, Sabakunokage, CaptainChunk, jackshack88, Brixxx, trist246, Temperestre, Skyd_, Tristan...*
+20 Jan 2017 02:33:50 : LimitlessMc, botchat, MoonWolf#8885, That chicken has a good souse mate
+20 Jan 2017 02:33:52 : LimitlessMc, botchat, MoonWolf#8885, Kappa
+20 Jan 2017 02:34:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;changeIcon
+20 Jan 2017 02:34:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;changeIcon
+20 Jan 2017 02:34:34 : LimitlessMc, botchat, MoonWolf#8885, ;image WutFace
+20 Jan 2017 02:34:35 : LimitlessMc, botchat, Botfuzzy77#2209, https://yt3.ggpht.com/-pFQFWA1fuaw/AAAAAAAAAAI/AAAAAAAAAAA/zNlAn_guAhc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg
+20 Jan 2017 02:34:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;changeIcon
+20 Jan 2017 02:34:41 : LimitlessMc, botchat, Wertfuzzy77#0274, ;changeIcon
+20 Jan 2017 02:34:43 : LimitlessMc, botchat, Wertfuzzy77#0274, ;changeIcon
+20 Jan 2017 02:34:45 : LimitlessMc, botchat, Wertfuzzy77#0274, ;changeIcon
+20 Jan 2017 02:34:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ;changeIcon
+20 Jan 2017 02:34:52 : LimitlessMc, botchat, Wertfuzzy77#0274, ;changeIcon
+20 Jan 2017 02:34:55 : LimitlessMc, botchat, MoonWolf#8885, I hate dota...
+20 Jan 2017 02:35:05 : LimitlessMc, botchat, MoonWolf#8885, No i mean
+20 Jan 2017 02:35:09 : LimitlessMc, botchat, MoonWolf#8885, 200mb patches
+20 Jan 2017 02:35:11 : LimitlessMc, botchat, MoonWolf#8885, every hour

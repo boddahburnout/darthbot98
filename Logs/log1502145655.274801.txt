@@ -1,0 +1,440 @@
+07 Aug 2017 22:41:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lookup Crystal4209
+07 Aug 2017 22:41:15 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 Aug 2017 22:41:21 : LimitlessMc, botchat, Wertfuzzy77#0274, hmmmmmmmmmmmm
+07 Aug 2017 22:41:27 : LimitlessMc, botchat, Wertfuzzy77#0274, me thinks I broke it
+07 Aug 2017 22:42:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lookupTherminatorX
+07 Aug 2017 22:42:09 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lookup TherminatorX
+07 Aug 2017 22:42:12 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 Aug 2017 22:42:15 : LimitlessMc, botchat, Wertfuzzy77#0274, o
+07 Aug 2017 22:42:17 : LimitlessMc, botchat, Wertfuzzy77#0274, it no break
+07 Aug 2017 22:42:18 : LimitlessMc, botchat, Wertfuzzy77#0274, gg
+07 Aug 2017 22:42:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+07 Aug 2017 22:42:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 Aug 2017 22:44:41 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug self.totalXPTo(90)
+07 Aug 2017 22:44:41 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+16768800
+```
+07 Aug 2017 22:45:18 : LimitlessMc, botchat, Wertfuzzy77#0274, @TherminatorX I fix okei
+07 Aug 2017 22:45:38 : LimitlessMc, botchat, Wertfuzzy77#0274, and I also balanced re-balanced prestige, so you and crystal both got some XP back
+07 Aug 2017 22:45:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;prestige
+07 Aug 2017 22:45:56 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 Aug 2017 22:46:57 : Achievement Heaven, general, GamerKatland#1817, lol hi bacon i was afk
+07 Aug 2017 22:47:00 : Achievement Heaven, general, GamerKatland#1817, @DahBaconLord
+07 Aug 2017 22:48:04 : Achievement Heaven, general, DahBaconLord#9853, hi
+07 Aug 2017 22:48:22 : OblivionEvolved, mainchat, StubbyMuffins#1053, lel
+07 Aug 2017 22:48:22 : Achievement Heaven, general, GamerKatland#1817, hi
+07 Aug 2017 22:48:29 : OblivionEvolved, mainchat, StubbyMuffins#1053, its a transponder
+07 Aug 2017 22:48:33 : OblivionEvolved, mainchat, StubbyMuffins#1053, that glitched
+07 Aug 2017 22:48:42 : LimitlessMc, botchat, Wertfuzzy77#0274, also reset largest damage for everyone
+07 Aug 2017 22:49:57 : Achievement Heaven, general, Tiger Mobile#6176, Hi
+07 Aug 2017 22:53:16 : Achievement Heaven, general, GamerKatland#1817, hi
+07 Aug 2017 22:53:55 : Achievement Heaven, general, Tiger Mobile#6176, Sooo
+07 Aug 2017 22:54:03 : Achievement Heaven, general, GamerKatland#1817, so
+07 Aug 2017 22:54:09 : Achievement Heaven, general, Tiger Mobile#6176, So
+07 Aug 2017 22:54:25 : Achievement Heaven, general, Tiger Mobile#6176, I'm a bit bored
+07 Aug 2017 22:55:13 : Achievement Heaven, general, Tiger Mobile#6176, And sleeping is more boredom why I hate time zones
+07 Aug 2017 22:56:50 : Achievement Heaven, general, Tiger Mobile#6176, Any ideas before I start listening to music lok
+07 Aug 2017 22:56:52 : Achievement Heaven, general, Tiger Mobile#6176, Lol
+07 Aug 2017 22:57:16 : Achievement Heaven, general, Tiger Mobile#6176, When u want autocorrect to do something but nothing
+07 Aug 2017 22:57:44 : Achievement Heaven, general, Tiger Mobile#6176, Then when u want autocorrect to do nothing but it does something
+07 Aug 2017 22:57:51 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug 100 * 15 * 2 * 25 * 1.25 * 1.08 * 1.08 * 125 / 100 * 8 / 15
+07 Aug 2017 22:57:51 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+72900.0
+```
+07 Aug 2017 22:58:26 : Achievement Heaven, general, GamerKatland#1817, lol
+07 Aug 2017 22:58:36 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug 100 * 2 * 25 * 1.25 * 1.08 * 8
+07 Aug 2017 22:58:36 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+54000.0
+```
+07 Aug 2017 22:59:06 : Achievement Heaven, general, Tiger Mobile#6176, Any ideas ? Of like something to watch or that ?
+07 Aug 2017 22:59:08 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug 100 * 2 * 25 * 1.25 * 1.08 * 8* 1.08* 1.08* 1.08
+07 Aug 2017 22:59:08 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+68024.44800000002
+```
+07 Aug 2017 23:00:18 : Achievement Heaven, general, DormantSolice#5007, sure
+07 Aug 2017 23:00:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug 45 * 2 * 25 * 1.25 * 1.08 * 8 * 1.08
+07 Aug 2017 23:00:22 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+26244.0
+```
+07 Aug 2017 23:00:35 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug 45 * 2 * 25 * 1.25 * 1.08 * 8 * 1.08 * 1.25
+07 Aug 2017 23:00:36 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+32805.0
+```
+07 Aug 2017 23:01:22 : LimitlessMc, rules_and_info, Carl#2678, boop
+07 Aug 2017 23:03:19 : Achievement Heaven, general, DormantSolice#5007, watch C: The Money of Soul and Posibility Control
+07 Aug 2017 23:03:25 : Achievement Heaven, general, DormantSolice#5007, thats the full name
+07 Aug 2017 23:03:44 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug 100 / 2 / 50 * 100
+07 Aug 2017 23:03:44 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+100.0
+```
+07 Aug 2017 23:03:58 : Achievement Heaven, general, DormantSolice#5007, or hamatora the animation
+07 Aug 2017 23:04:06 : Achievement Heaven, general, Tiger Mobile#6176, K very long name lol
+07 Aug 2017 23:04:22 : Achievement Heaven, general, DormantSolice#5007, or "Hand shakers" if you want your eyes to burn and get a headache from the artstyle
+07 Aug 2017 23:04:37 : Achievement Heaven, general, DormantSolice#5007, its like mostly very bright and light colors
+07 Aug 2017 23:04:48 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug 100 / 2 / 20 * 100
+07 Aug 2017 23:04:48 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+250.0
+```
+07 Aug 2017 23:04:54 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug 100 / 2 / 100 * 100
+07 Aug 2017 23:04:55 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+50.0
+```
+07 Aug 2017 23:04:56 : Achievement Heaven, general, DormantSolice#5007, or the K-Project series
+07 Aug 2017 23:05:04 : Achievement Heaven, general, Tiger Mobile#6176, Lol
+07 Aug 2017 23:05:05 : Achievement Heaven, general, DormantSolice#5007, 2 seasons atm and 1 movie
+07 Aug 2017 23:05:16 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug 50 / 2 / 100 * 100
+07 Aug 2017 23:05:16 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+25.0
+```
+07 Aug 2017 23:05:25 : Achievement Heaven, general, DormantSolice#5007, or katanagatari
+07 Aug 2017 23:05:29 : Achievement Heaven, general, DormantSolice#5007, 40+ minute long episodes
+07 Aug 2017 23:06:17 : Achievement Heaven, general, DormantSolice#5007, or Mekakucity Actors
+07 Aug 2017 23:06:47 : LimitlessMc, botchat, Bakafish#8693, ;train
+07 Aug 2017 23:06:48 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 Aug 2017 23:06:49 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 Aug 2017 23:06:55 : LimitlessMc, botchat, Bakafish#8693, fastbot
+07 Aug 2017 23:07:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+07 Aug 2017 23:07:02 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 Aug 2017 23:07:03 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 Aug 2017 23:07:04 : Achievement Heaven, general, DormantSolice#5007, i have a 100+ list of anime that ive either watched or going to watch :<
+07 Aug 2017 23:07:11 : LimitlessMc, botchat, Wertfuzzy77#0274, I fixing a lot of things 😄
+07 Aug 2017 23:07:17 : LimitlessMc, botchat, Wertfuzzy77#0274, and making someone new and cool 😛
+07 Aug 2017 23:07:21 : LimitlessMc, botchat, Wertfuzzy77#0274, thing *
+07 Aug 2017 23:09:32 : LimitlessMc, botchat, Wertfuzzy77#0274, ```
+Prestige 1 - 10
+Prestige 2 - 10
+Prestige 3 - 10
+Prestige 4 - 10
+Prestige 5 - 100
+Prestige 6 - 50
+Prestige 7 - 50
+Prestige 8 - 50
+Prestige 9 - 50
+Prestige 10 - 200
+
+Level 10 - 5
+Level 20 - 10
+Level 50 - 15
+Level 80 - 25
+Level 100- 50
+
+Pokedex 10% - 5
+Pokedex 20% - 5
+Pokedex 30% - 10
+Pokedex 40% - 10
+Pokedex 50% - 25
+Pokedex 60% - 20
+Pokedex 70% - 20```
+07 Aug 2017 23:09:36 : LimitlessMc, botchat, Wertfuzzy77#0274, sneak Peak 😛
+07 Aug 2017 23:10:41 : LimitlessMc, mainchat, AlphaBit#3869, How big is the modpack?
+07 Aug 2017 23:11:10 : LimitlessMc, mainchat, AlphaBit#3869, On phone and cant check
+07 Aug 2017 23:11:42 : LimitlessMc, mainchat, Crystal4209#4698, Oh hey Carl's back
+07 Aug 2017 23:12:10 : LimitlessMc, botchat, AlphaBit#3869, ;train
+07 Aug 2017 23:12:11 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 Aug 2017 23:12:12 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 Aug 2017 23:12:54 : LimitlessMc, botchat, Crystal4209#4698, @Wertfuzzy77 I never got up to 100...
+07 Aug 2017 23:13:23 : LimitlessMc, botchat, Crystal4209#4698, ;lv
+07 Aug 2017 23:13:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 Aug 2017 23:13:30 : LimitlessMc, botchat, Wertfuzzy77#0274, 
+07 Aug 2017 23:13:35 : LimitlessMc, mainchat, Bakafish#8693, ^
+07 Aug 2017 23:13:41 : LimitlessMc, botchat, Crystal4209#4698, Oh
+07 Aug 2017 23:13:56 : LimitlessMc, botchat, Wertfuzzy77#0274, basically, I made the prestige from 4-5 easier
+07 Aug 2017 23:14:09 : LimitlessMc, botchat, Wertfuzzy77#0274, so instead of needing 90 for that, you only need lv 50
+07 Aug 2017 23:14:15 : LimitlessMc, botchat, Wertfuzzy77#0274, and I gave you and Therm XP back
+07 Aug 2017 23:14:20 : LimitlessMc, botchat, Wertfuzzy77#0274, as you were the only 2 to get that far
+07 Aug 2017 23:14:23 : LimitlessMc, botchat, Wertfuzzy77#0274, but anyways
+07 Aug 2017 23:14:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ;afk dinner
+07 Aug 2017 23:14:26 : LimitlessMc, botchat, Botfuzzy77#2209, Wertfuzzy77 is now AFK for reason:
+**dinner**
+07 Aug 2017 23:14:34 : LimitlessMc, mainchat, AlphaBit#3869, Yey
+07 Aug 2017 23:14:41 : LimitlessMc, botchat, Wertfuzzy77#0274, and I'll be making for changes and fixes for lv 100 people, but I should have fixed most of it
+07 Aug 2017 23:14:50 : LimitlessMc, botchat, Crystal4209#4698, K
+07 Aug 2017 23:15:04 : LimitlessMc, botchat, Wertfuzzy77#0274, but you can go ahead and prestige if you want to
+07 Aug 2017 23:17:00 : LimitlessMc, mainchat, Crystal4209#4698, Should add carl music again
+07 Aug 2017 23:17:41 : LimitlessMc, botchat, Crystal4209#4698, Nah I was kinda getting bored of the pokebattling thing so taking a break of it
+07 Aug 2017 23:22:43 : LimitlessMc, mainchat, Jay113355#4999, Carl exposed a flaw in the setup
+07 Aug 2017 23:22:53 : LimitlessMc, mainchat, Jay113355#4999, he cant connect to the server via the IP
+07 Aug 2017 23:23:12 : LimitlessMc, mainchat, Jay113355#4999, thanks to him i now know why
+07 Aug 2017 23:23:22 : LimitlessMc, mainchat, Jay113355#4999, some of you were having a hard time with it
+07 Aug 2017 23:24:21 : LimitlessMc, mainchat, Lightning#6734, ya done found a thing
+07 Aug 2017 23:25:12 : LimitlessMc, mainchat, Crystal4209#4698, I see
+07 Aug 2017 23:35:02 : LimitlessMc, botchat, Crystal4209#4698, ;join
+07 Aug 2017 23:35:03 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+07 Aug 2017 23:35:21 : LimitlessMc, botchat, Crystal4209#4698, ;search pokemon sun and moon opening 1 english
+07 Aug 2017 23:35:23 : LimitlessMc, botchat, Botfuzzy77#2209, Added Pokemon Sun and Moon Theme song English Version to the queue
+07 Aug 2017 23:35:23 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=C8xTUu_w12g
+07 Aug 2017 23:35:37 : LimitlessMc, botchat, Crystal4209#4698, ;recycled
+07 Aug 2017 23:35:43 : LimitlessMc, botchat, Crystal4209#4698, ;loop 5
+07 Aug 2017 23:35:44 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*Pokemon Sun and Moon Theme song English Version*' **5** more times
+07 Aug 2017 23:37:30 : LimitlessMc, botchat, Crystal4209#4698, ;recommend
+07 Aug 2017 23:37:30 : LimitlessMc, botchat, Botfuzzy77#2209, Recommend Songs to play: True
+07 Aug 2017 23:38:12 : LimitlessMc, botchat, Crystal4209#4698, ;songs
+07 Aug 2017 23:38:13 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 Aug 2017 23:38:20 : LimitlessMc, botchat, Crystal4209#4698, ;recommend
+07 Aug 2017 23:38:20 : LimitlessMc, botchat, Botfuzzy77#2209, Recommend Songs to play: False
+07 Aug 2017 23:38:26 : LimitlessMc, botchat, Crystal4209#4698, ;search believer
+07 Aug 2017 23:38:28 : LimitlessMc, botchat, Botfuzzy77#2209, Added Imagine Dragons - Believer to the queue
+07 Aug 2017 23:38:29 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=7wtfhZwyrcc
+07 Aug 2017 23:38:35 : LimitlessMc, botchat, Crystal4209#4698, ;search thunder
+07 Aug 2017 23:38:36 : LimitlessMc, botchat, Botfuzzy77#2209, Added Imagine Dragons - Thunder to the queue
+07 Aug 2017 23:38:37 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=fKopy74weus
+07 Aug 2017 23:38:43 : LimitlessMc, botchat, Crystal4209#4698, ;recommend
+07 Aug 2017 23:38:43 : LimitlessMc, botchat, Botfuzzy77#2209, Recommend Songs to play: True
+07 Aug 2017 23:47:12 : Shiny Edits, shiny-suggestions, Cln2005#2934, 
+07 Aug 2017 23:47:13 : Shiny Edits, shiny-suggestions, Cln2005#2934, 
+07 Aug 2017 23:47:14 : Shiny Edits, shiny-suggestions, Cln2005#2934, 
+07 Aug 2017 23:56:53 : Shiny Edits, general, Brady#1128, ;level
+07 Aug 2017 23:56:54 : Shiny Edits, general, Botfuzzy77#2209, 
+07 Aug 2017 23:56:57 : Shiny Edits, general, Brady#1128, 🤔
+07 Aug 2017 23:57:00 : Shiny Edits, general, Brady#1128, Sexy
+07 Aug 2017 23:57:40 : Shiny Edits, general, Brady#1128, ;pokehelp;
+08 Aug 2017 00:01:23 : Shiny Edits, general, Brady#1128, ;pokehelp
+08 Aug 2017 00:01:23 : Shiny Edits, general, Botfuzzy77#2209, 
+08 Aug 2017 00:04:38 : Shiny Edits, general, Brady#1128, ;types
+08 Aug 2017 00:04:38 : Shiny Edits, general, Botfuzzy77#2209, -= **Possible Types ** =-
+:regional_indicator_n: ormal
+:regional_indicator_f: ire
+:regional_indicator_w: ater
+:regional_indicator_g: rass
+:regional_indicator_p: oison
+:regional_indicator_d: ragon
+:regional_indicator_s: teel
+:regional_indicator_e: lectric
+:regional_indicator_b: ug
+:regional_indicator_i: ce
+08 Aug 2017 00:04:42 : LimitlessMc, botchat, Crystal4209#4698, ;train
+08 Aug 2017 00:04:43 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Aug 2017 00:04:45 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Aug 2017 00:04:55 : LimitlessMc, botchat, Crystal4209#4698, ;prestige confirm
+08 Aug 2017 00:04:56 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Aug 2017 00:04:58 : Shiny Edits, general, Brady#1128, ;pokebattle tackle
+08 Aug 2017 00:04:58 : Shiny Edits, general, Botfuzzy77#2209, 
+08 Aug 2017 00:05:10 : Shiny Edits, general, Brady#1128, ;pokebattle normal fire water grass electric
+08 Aug 2017 00:05:10 : Shiny Edits, general, Botfuzzy77#2209, 
+08 Aug 2017 00:05:19 : Shiny Edits, general, Brady#1128, ;pokebattle easy
+08 Aug 2017 00:05:19 : Shiny Edits, general, Botfuzzy77#2209, 
+08 Aug 2017 00:05:39 : Shiny Edits, general, Brady#1128, ;pokebattle normal fire water grass electric easy]\
+08 Aug 2017 00:05:39 : Shiny Edits, general, Botfuzzy77#2209, 
+08 Aug 2017 00:05:46 : Shiny Edits, general, Brady#1128, ;pokebattle normal fire water grass electric easy
+08 Aug 2017 00:05:46 : Shiny Edits, general, Botfuzzy77#2209, 
+08 Aug 2017 00:05:50 : LimitlessMc, botchat, Crystal4209#4698, ;songs
+08 Aug 2017 00:05:52 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Aug 2017 00:06:10 : Shiny Edits, general, Brady#1128, ;pokebattle ngfse easy
+08 Aug 2017 00:06:11 : Shiny Edits, general, Botfuzzy77#2209, 
+08 Aug 2017 00:06:11 : Shiny Edits, general, Botfuzzy77#2209, 
+08 Aug 2017 00:06:58 : LimitlessMc, botchat, Crystal4209#4698, ;lv
+08 Aug 2017 00:07:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Aug 2017 00:07:02 : Shiny Edits, general, Brady#1128, ;pokebattle fffff easy
+08 Aug 2017 00:07:03 : Shiny Edits, general, Botfuzzy77#2209, 
+08 Aug 2017 00:07:11 : Shiny Edits, general, Brady#1128, ;pokebattle fffff easy
+08 Aug 2017 00:07:12 : Shiny Edits, general, Botfuzzy77#2209, 
+08 Aug 2017 00:07:12 : Shiny Edits, general, Botfuzzy77#2209, 
+08 Aug 2017 00:07:52 : Shiny Edits, shiny-suggestions, Brady#1128, dats 1 sexy beast
+08 Aug 2017 00:08:43 : Shiny Edits, general, Brady#1128, ;pokebattle fffff easy
+08 Aug 2017 00:08:43 : Shiny Edits, general, Botfuzzy77#2209, 
+08 Aug 2017 00:08:43 : Shiny Edits, general, Botfuzzy77#2209, 
+08 Aug 2017 00:08:49 : Shiny Edits, general, Brady#1128, ;level
+08 Aug 2017 00:08:50 : Shiny Edits, general, Botfuzzy77#2209, 
+08 Aug 2017 00:08:57 : Shiny Edits, general, Brady#1128, ;pokehelp
+08 Aug 2017 00:08:57 : Shiny Edits, general, Botfuzzy77#2209, 
+08 Aug 2017 00:09:24 : Shiny Edits, general, Brady#1128, ;train
+08 Aug 2017 00:09:24 : Shiny Edits, general, Botfuzzy77#2209, 
+08 Aug 2017 00:09:25 : Shiny Edits, general, Botfuzzy77#2209, 
+08 Aug 2017 00:09:36 : Shiny Edits, general, Brady#1128, ;level
+08 Aug 2017 00:09:36 : Shiny Edits, general, Botfuzzy77#2209, 
+08 Aug 2017 00:09:39 : Shiny Edits, general, Brady#1128, ;train
+08 Aug 2017 00:09:39 : Shiny Edits, general, Botfuzzy77#2209, Please wait 1,786 seconds before you can train again.
+08 Aug 2017 00:11:37 : LimitlessMc, botchat, Crystal4209#4698, ;skip
+08 Aug 2017 00:11:37 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Ed Sheeran - Thinking Out Loud [Official Video] by request (Radio Song)
+08 Aug 2017 00:11:43 : LimitlessMc, botchat, Crystal4209#4698, ;skip
+08 Aug 2017 00:11:43 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Imagine Dragons - Walking The Wire (Audio) by request (Radio Song)
+08 Aug 2017 00:13:13 : LimitlessMc, botchat, TherminatorX#6644, ;train
+08 Aug 2017 00:13:15 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Aug 2017 00:13:16 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Aug 2017 00:13:25 : LimitlessMc, botchat, TherminatorX#6644, ;lv
+08 Aug 2017 00:13:28 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Aug 2017 00:13:37 : LimitlessMc, botchat, TherminatorX#6644, @Wertfuzzy77
+08 Aug 2017 00:13:37 : LimitlessMc, botchat, Botfuzzy77#2209, Wertfuzzy77 is afk for reason:
+**dinner**
+08 Aug 2017 00:14:09 : LimitlessMc, botchat, TherminatorX#6644, It's still broke XD
+08 Aug 2017 00:18:57 : LimitlessMc, botchat, Star#0288, ;train
+08 Aug 2017 00:18:59 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Aug 2017 00:19:00 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Aug 2017 00:19:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Aug 2017 00:19:04 : LimitlessMc, botchat, Star#0288, ;mine
+08 Aug 2017 00:19:05 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Aug 2017 00:19:06 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Aug 2017 00:22:58 : LimitlessMc, botchat, TherminatorX#6644, ;cd
+08 Aug 2017 00:22:59 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Aug 2017 00:23:44 : LimitlessMc, botchat, TherminatorX#6644, ;ranking
+08 Aug 2017 00:23:45 : LimitlessMc, botchat, Botfuzzy77#2209, 
+08 Aug 2017 00:27:36 : LimitlessMc, botchat, Wertfuzzy77#0274, ;afk
+08 Aug 2017 00:27:36 : LimitlessMc, botchat, Botfuzzy77#2209, Wertfuzzy77 is no Longer AFK
+08 Aug 2017 00:27:43 : LimitlessMc, botchat, Wertfuzzy77#0274, working on it
+08 Aug 2017 00:37:35 : Achievement Heaven, bot-channel, A Fluffy Fox#4730, Yui hug tiger
+08 Aug 2017 00:37:35 : Achievement Heaven, bot-channel, Yui (ユイ)#2222, _**A Fluffy Fox** hugs @Tiger Mobile... That's 9 hugs now!_
+08 Aug 2017 00:37:54 : Achievement Heaven, bot-channel, A Fluffy Fox#4730, Yui kill small
+08 Aug 2017 00:37:54 : Achievement Heaven, bot-channel, Yui (ユイ)#2222, 
+08 Aug 2017 00:38:09 : LimitlessMc, mainchat, TheLast1Alive#7757, ayo may I suggest the  tinkers mod and the chisel mod for the modpack
+08 Aug 2017 00:39:18 : LimitlessMc, mainchat, TherminatorX#6644, You may not suggest Tinkers
+08 Aug 2017 00:39:29 : LimitlessMc, mainchat, Lightning#6734, suggest away
+08 Aug 2017 00:39:46 : LimitlessMc, mainchat, ηєяσкιη#3586, Then I'll suggest Tinkers Construct, PlusTiC, and TiC Addons
+08 Aug 2017 00:40:17 : LimitlessMc, mainchat, TherminatorX#6644, ...have any of you evem looked at the current mod list
+08 Aug 2017 00:41:31 : LimitlessMc, mainchat, ηєяσкιη#3586, Yes
+08 Aug 2017 00:41:35 : Achievement Heaven, general, happydoglizardman#3072, hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+08 Aug 2017 00:41:35 : LimitlessMc, mainchat, ηєяσкιη#3586, Maybe
+08 Aug 2017 00:41:36 : Achievement Heaven, general, happydoglizardman#3072, lol
+08 Aug 2017 00:41:46 : LimitlessMc, mainchat, Lightning#6734, Perhaps.
+08 Aug 2017 00:41:48 : Achievement Heaven, general, happydoglizardman#3072, how u doing people
+08 Aug 2017 00:42:02 : LimitlessMc, mainchat, ηєяσкιη#3586, Yes
+08 Aug 2017 00:46:02 : Achievement Heaven, general, DeMadViper#5977, Everyone! Im not going to do an @mention but #BlameKat is not trending!
+08 Aug 2017 00:46:29 : LimitlessMc, mainchat, Wertfuzzy77#0274, Tinkers ^ yes plz
+08 Aug 2017 00:46:33 : LimitlessMc, mainchat, TheLast1Alive#7757, ^^
+08 Aug 2017 00:50:23 : LimitlessMc, mainchat, ηєяσкιη#3586, And PlusTiC for more parts with exiting materials
+08 Aug 2017 00:52:48 : Achievement Heaven, general, GamerKatland#1817, no its #BlameMaddog
+08 Aug 2017 00:53:00 : Achievement Heaven, general, GamerKatland#1817, we good happydoglizardman
+08 Aug 2017 01:01:20 : Shiny Edits, shiny-suggestions, Cln2005#2934, reallyy
+08 Aug 2017 01:01:29 : Shiny Edits, general, Brady#1128, ;train
+08 Aug 2017 01:01:29 : Shiny Edits, shiny-suggestions, ShadowZekrom ~Zane~#2042, https://www.twitch.tv/pixelzane
+08 Aug 2017 01:01:30 : Shiny Edits, general, Botfuzzy77#2209, 
+08 Aug 2017 01:01:30 : Shiny Edits, general, Botfuzzy77#2209, 
+08 Aug 2017 01:01:34 : Shiny Edits, shiny-suggestions, ShadowZekrom ~Zane~#2042, STARTING SUUN
+08 Aug 2017 01:01:56 : Shiny Edits, general, Brady#1128, ;level
+08 Aug 2017 01:01:57 : Shiny Edits, general, Botfuzzy77#2209, 
+08 Aug 2017 01:02:19 : Shiny Edits, general, Brady#1128, ;pokebattle fffff easy
+08 Aug 2017 01:02:19 : Shiny Edits, general, Botfuzzy77#2209, 
+08 Aug 2017 01:02:20 : Shiny Edits, general, Botfuzzy77#2209, 
+08 Aug 2017 01:02:31 : Shiny Edits, shiny-suggestions, Cln2005#2934, Perfect
+08 Aug 2017 01:04:54 : Shiny Edits, general, Brady#1128, ;train
+08 Aug 2017 01:04:55 : Shiny Edits, general, Botfuzzy77#2209, Please wait 1,595 seconds before you can train again.
+08 Aug 2017 01:05:04 : Shiny Edits, general, ShadowZekrom ~Zane~#2042, https://www.twitch.tv/pixelzane
+08 Aug 2017 01:05:07 : Shiny Edits, general, ShadowZekrom ~Zane~#2042, GETTING STARTED SOON
+08 Aug 2017 01:05:15 : Shiny Edits, general, ShadowZekrom ~Zane~#2042, STREAMING FO4, GET HYPED
+08 Aug 2017 01:05:32 : Shiny Edits, general, Cln2005#2934, perfect
+08 Aug 2017 01:06:20 : Shiny Edits, general, Cln2005#2934, type one if you agree
+08 Aug 2017 01:06:24 : Shiny Edits, general, ShadowZekrom ~Zane~#2042, One
+08 Aug 2017 01:06:25 : Shiny Edits, general, ShadowZekrom ~Zane~#2042, 1
+08 Aug 2017 01:06:26 : Shiny Edits, general, ShadowZekrom ~Zane~#2042, 1
+08 Aug 2017 01:06:26 : Shiny Edits, general, ShadowZekrom ~Zane~#2042, 1
+08 Aug 2017 01:06:26 : Shiny Edits, general, ShadowZekrom ~Zane~#2042, 1
+08 Aug 2017 01:06:26 : Shiny Edits, general, ShadowZekrom ~Zane~#2042, 1
+08 Aug 2017 01:06:26 : Shiny Edits, general, ShadowZekrom ~Zane~#2042, 1
+08 Aug 2017 01:06:29 : Shiny Edits, general, dragonbro0803#0985, 1
+08 Aug 2017 01:06:33 : Shiny Edits, general, Cln2005#2934, 1
+08 Aug 2017 01:06:33 : Shiny Edits, general, Brady#1128, 1
+08 Aug 2017 01:06:33 : Shiny Edits, general, Brady#1128, 1
+08 Aug 2017 01:06:34 : Shiny Edits, general, Brady#1128, 1
+08 Aug 2017 01:06:34 : Shiny Edits, general, Brady#1128, 1
+08 Aug 2017 01:06:34 : Shiny Edits, general, Brady#1128, 1
+08 Aug 2017 01:06:34 : Shiny Edits, general, Brady#1128, 1
+08 Aug 2017 01:06:35 : Shiny Edits, general, Brady#1128, 1
+08 Aug 2017 01:06:35 : Shiny Edits, general, Brady#1128, 1
+08 Aug 2017 01:06:35 : Shiny Edits, general, dragonbro0803#0985, its over 9000
+08 Aug 2017 01:06:35 : Shiny Edits, general, Brady#1128, 1
+08 Aug 2017 01:06:35 : Shiny Edits, general, Brady#1128, 1
+08 Aug 2017 01:06:41 : LimitlessMc, mainchat, Wertfuzzy77#0274, ^
+08 Aug 2017 01:06:43 : Shiny Edits, general, Brady#1128, 1
+08 Aug 2017 01:06:43 : Shiny Edits, general, Brady#1128, 1
+08 Aug 2017 01:06:43 : Shiny Edits, general, Brady#1128, 1
+08 Aug 2017 01:06:43 : Shiny Edits, general, Brady#1128, 1
+08 Aug 2017 01:06:44 : Shiny Edits, general, Brady#1128, 1
+08 Aug 2017 01:06:44 : Shiny Edits, general, Brady#1128, 1
+08 Aug 2017 01:06:45 : Shiny Edits, general, Brady#1128, 1
+08 Aug 2017 01:06:46 : Shiny Edits, general, Brady#1128, 1
+08 Aug 2017 01:06:46 : Shiny Edits, general, Brady#1128, 1
+08 Aug 2017 01:06:47 : Shiny Edits, general, Brady#1128, 1
+08 Aug 2017 01:06:47 : Shiny Edits, general, Cln2005#2934, 1
+08 Aug 2017 01:06:48 : Shiny Edits, general, Cln2005#2934, 1
+08 Aug 2017 01:06:48 : Shiny Edits, general, Cln2005#2934, 1
+08 Aug 2017 01:06:49 : Shiny Edits, general, Cln2005#2934, 1
+08 Aug 2017 01:06:49 : Shiny Edits, general, Cln2005#2934, 1
+08 Aug 2017 01:06:50 : Shiny Edits, general, Cln2005#2934, 1
+08 Aug 2017 01:06:50 : Shiny Edits, general, Cln2005#2934, 1
+08 Aug 2017 01:06:50 : Shiny Edits, general, Cln2005#2934, 1
+08 Aug 2017 01:06:50 : Shiny Edits, general, Cln2005#2934, 11
+08 Aug 2017 01:06:51 : Shiny Edits, general, Cln2005#2934, 1
+08 Aug 2017 01:06:53 : Shiny Edits, general, Brady#1128, 1
+08 Aug 2017 01:06:53 : Shiny Edits, general, Brady#1128, 1
+08 Aug 2017 01:06:54 : Shiny Edits, general, Brady#1128, 1
+08 Aug 2017 01:06:54 : Shiny Edits, general, Brady#1128, 1
+08 Aug 2017 01:06:54 : Shiny Edits, general, Brady#1128, 1
+08 Aug 2017 01:06:54 : Shiny Edits, general, Brady#1128, 1
+08 Aug 2017 01:06:58 : Shiny Edits, general, Cln2005#2934, 1
+08 Aug 2017 01:06:58 : Shiny Edits, general, Cln2005#2934, 1
+08 Aug 2017 01:06:58 : Shiny Edits, general, Cln2005#2934, 1
+08 Aug 2017 01:06:58 : Shiny Edits, general, Cln2005#2934, 1
+08 Aug 2017 01:06:59 : Shiny Edits, general, Cln2005#2934, 1
+08 Aug 2017 01:06:59 : Shiny Edits, general, Cln2005#2934, 11
+08 Aug 2017 01:06:59 : Shiny Edits, general, Cln2005#2934, 1111
+08 Aug 2017 01:07:00 : Shiny Edits, general, Cln2005#2934, 1
+08 Aug 2017 01:07:00 : Shiny Edits, general, Cln2005#2934, 1
+08 Aug 2017 01:07:00 : Shiny Edits, general, Cln2005#2934, 1
+08 Aug 2017 01:07:08 : Shiny Edits, general, Cln2005#2934, 1
+08 Aug 2017 01:07:09 : Shiny Edits, general, Brady#1128, 11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+08 Aug 2017 01:07:09 : Shiny Edits, general, Cln2005#2934, 1
+08 Aug 2017 01:07:10 : Shiny Edits, general, Cln2005#2934, 1
+08 Aug 2017 01:07:10 : Shiny Edits, general, Cln2005#2934, 1
+08 Aug 2017 01:07:10 : Shiny Edits, general, Cln2005#2934, 1
+08 Aug 2017 01:07:11 : Shiny Edits, general, Cln2005#2934, 1
+08 Aug 2017 01:07:20 : Shiny Edits, general, Brady#1128, 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+08 Aug 2017 01:07:22 : Shiny Edits, general, Brady#1128, 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+08 Aug 2017 01:07:22 : Shiny Edits, general, Brady#1128, 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+08 Aug 2017 01:07:23 : Shiny Edits, general, Brady#1128, 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+08 Aug 2017 01:07:24 : Shiny Edits, general, Brady#1128, 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+08 Aug 2017 01:07:24 : Shiny Edits, general, Brady#1128, 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+08 Aug 2017 01:07:25 : Shiny Edits, general, Brady#1128, 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+08 Aug 2017 01:07:25 : Shiny Edits, general, Brady#1128, 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+08 Aug 2017 01:07:26 : Shiny Edits, general, Brady#1128, 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+08 Aug 2017 01:07:26 : Shiny Edits, general, Brady#1128, 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+08 Aug 2017 01:07:30 : Shiny Edits, general, Brady#1128, 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+08 Aug 2017 01:07:30 : Shiny Edits, general, Brady#1128, 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+08 Aug 2017 01:07:37 : Shiny Edits, general, dragonbro0803#0985, holy moly
+08 Aug 2017 01:07:40 : Shiny Edits, general, Cln2005#2934, Mewtwo=nightmare
+08 Aug 2017 01:07:54 : Shiny Edits, general, Cln2005#2934, type one if you agree
+08 Aug 2017 01:08:12 : LimitlessMc, mainchat, Wertfuzzy77#0274, I only need 2 things to play with, I want to play with RF power, and I want an Inv Manager like Applied Energistics or Refined Storage
+08 Aug 2017 01:08:32 : Shiny Edits, general, dragonbro0803#0985, NIghtmare fuel
+08 Aug 2017 01:08:41 : Shiny Edits, general, Cln2005#2934, 11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111]1`1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+08 Aug 2017 01:09:14 : Shiny Edits, general, dragonbro0803#0985, not again
+08 Aug 2017 01:09:20 : Shiny Edits, general, Brady#1128, 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+08 Aug 2017 01:09:20 : Shiny Edits, general, Brady#1128, 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+08 Aug 2017 01:09:21 : Shiny Edits, general, Brady#1128, 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+08 Aug 2017 01:09:21 : Shiny Edits, general, Brady#1128, 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+08 Aug 2017 01:09:21 : Shiny Edits, general, Brady#1128, 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+08 Aug 2017 01:09:22 : Shiny Edits, general, Brady#1128, 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+08 Aug 2017 01:09:23 : Shiny Edits, general, Brady#1128, 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+08 Aug 2017 01:09:25 : Shiny Edits, general, ShadowZekrom ~Zane~#2042, GET HYPED BOI'S
+08 Aug 2017 01:09:26 : Shiny Edits, general, Brady#1128, Worth
+08 Aug 2017 01:09:27 : Shiny Edits, general, Cln2005#2934, 
+08 Aug 2017 01:09:28 : Shiny Edits, general, Cln2005#2934, 
+08 Aug 2017 01:09:28 : Shiny Edits, general, Cln2005#2934, 
+08 Aug 2017 01:09:29 : Shiny Edits, general, Cln2005#2934, 
+08 Aug 2017 01:09:30 : Shiny Edits, general, Cln2005#2934, 
+08 Aug 2017 01:09:31 : Shiny Edits, general, Cln2005#2934, 
+08 Aug 2017 01:09:33 : Shiny Edits, general, ShadowZekrom ~Zane~#2042, STREAM
+08 Aug 2017 01:09:34 : Shiny Edits, general, ShadowZekrom ~Zane~#2042, IS
+08 Aug 2017 01:09:35 : Shiny Edits, general, ShadowZekrom ~Zane~#2042, STARTING
+08 Aug 2017 01:09:36 : Shiny Edits, general, ShadowZekrom ~Zane~#2042, SOON
+08 Aug 2017 01:09:44 : Shiny Edits, general, dragonbro0803#0985, WHAT ARE YOU STREAMINNNNNNN
+08 Aug 2017 01:09:46 : Shiny Edits, general, Brady#1128, SHIT SHIT IS REAL ZANE IS SHIT
+08 Aug 2017 01:09:49 : Shiny Edits, general, Brady#1128, :/
+08 Aug 2017 01:10:02 : Shiny Edits, general, ShadowZekrom ~Zane~#2042, *exactly what happened when fallout 4 actuallt first came out*
+08 Aug 2017 01:10:02 : Shiny Edits, general, dragonbro0803#0985, Are you streaming moon
+08 Aug 2017 01:10:27 : Shiny Edits, general, Brady#1128, 11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+08 Aug 2017 01:10:31 : Shiny Edits, general, dragonbro0803#0985, >.<
+08 Aug 2017 01:10:35 : Shiny Edits, general, Brady#1128, 11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+08 Aug 2017 01:10:36 : Shiny Edits, general, Brady#1128, 11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+08 Aug 2017 01:10:37 : Shiny Edits, general, Brady#1128, 11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+08 Aug 2017 01:10:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ;status
+08 Aug 2017 01:10:38 : Shiny Edits, general, Brady#1128, 11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+08 Aug 2017 01:10:38 : Shiny Edits, general, Brady#1128, 11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+08 Aug 2017 01:10:38 : LimitlessMc, botchat, Botfuzzy77#2209, ```UpTime: 2:29:42.100000s
+Total Messages: 291
+Servers Joined: 29
+CPU usage: 1.1%
+Memory usage: 44.0%
+```
+08 Aug 2017 01:10:42 : Shiny Edits, general, Cln2005#2934, Stop Pls
+08 Aug 2017 01:10:44 : Shiny Edits, general, dragonbro0803#0985, jesus christ
+08 Aug 2017 01:10:46 : Shiny Edits, general, Brady#1128, I like bidoof the most :I
+08 Aug 2017 01:10:57 : LimitlessMc, botchat, Wertfuzzy77#0274, ;relog
+08 Aug 2017 01:10:57 : LimitlessMc, botchat, Botfuzzy77#2209, Relogging...

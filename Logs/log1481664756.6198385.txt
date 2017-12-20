@@ -1,0 +1,89 @@
+13 Dec 2016 21:32:38 : LimitlessMc, mainchat, NarcoticMile#6198, nice
+13 Dec 2016 21:32:56 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+13 Dec 2016 21:33:04 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube Your Lie in April Opening
+13 Dec 2016 21:33:05 : LimitlessMc, botchat, Botfuzzy77#2209, Not a Valid Link, Please only use URLs from youtube.com
+13 Dec 2016 21:33:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Your Lie in April Opening
+13 Dec 2016 21:33:18 : LimitlessMc, botchat, Botfuzzy77#2209, Added YOUR LIE IN APRIL JAPANESE LYRICS (Hikaru Nara Goose House) to the queue
+13 Dec 2016 21:33:18 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=1prZmb5r6kI
+13 Dec 2016 21:33:23 : LimitlessMc, botchat, NarcoticMile#6198, yay
+13 Dec 2016 21:33:25 : LimitlessMc, botchat, NarcoticMile#6198, it works
+13 Dec 2016 21:33:29 : LimitlessMc, botchat, Wertfuzzy77#0274, well no
+13 Dec 2016 21:33:32 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio
+13 Dec 2016 21:33:32 : LimitlessMc, botchat, Botfuzzy77#2209, Radio Mode: True
+13 Dec 2016 21:33:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+13 Dec 2016 21:33:38 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+13 Dec 2016 21:33:38 : LimitlessMc, botchat, Botfuzzy77#2209, 1. No Game No Life Opening Full **Radio**
+	<https://www.youtube.com/watch?v=CaksNlNniis>
+Total Time is 0:04:40
+13 Dec 2016 21:33:43 : LimitlessMc, botchat, Wertfuzzy77#0274, hmm
+13 Dec 2016 21:33:49 : LimitlessMc, botchat, NarcoticMile#6198, oo thats studder
+13 Dec 2016 21:33:51 : LimitlessMc, botchat, NarcoticMile#6198, yep
+13 Dec 2016 21:34:06 : LimitlessMc, botchat, NarcoticMile#6198, ahh
+13 Dec 2016 21:34:08 : LimitlessMc, botchat, Wertfuzzy77#0274, dont worry about it, the real bot doesnt lag
+13 Dec 2016 21:34:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=1prZmb5r6kI
+13 Dec 2016 21:34:19 : LimitlessMc, botchat, NarcoticMile#6198, omg
+13 Dec 2016 21:34:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+13 Dec 2016 21:34:21 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+13 Dec 2016 21:34:21 : LimitlessMc, botchat, Botfuzzy77#2209, 1. No Game No Life Opening Full **Radio**
+	<https://www.youtube.com/watch?v=CaksNlNniis>
+Total Time is 0:04:40
+13 Dec 2016 21:34:22 : LimitlessMc, botchat, NarcoticMile#6198, over and over
+13 Dec 2016 21:34:25 : LimitlessMc, botchat, Wertfuzzy77#0274, hmm, still no crash
+13 Dec 2016 21:34:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 1
+13 Dec 2016 21:34:29 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: No Game No Life Opening Full
+13 Dec 2016 21:34:32 : LimitlessMc, botchat, NarcoticMile#6198, brbr
+13 Dec 2016 21:34:35 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+13 Dec 2016 21:34:35 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+13 Dec 2016 21:34:35 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Nanairo Symphony [HD] w/ English & Japanese Lyrics **Radio**
+	<https://www.youtube.com/watch?v=dzdLuy85G3o>
+Total Time is 0:04:27
+13 Dec 2016 21:34:39 : LimitlessMc, botchat, Wertfuzzy77#0274, hmmmmmmmmmmmm
+13 Dec 2016 21:34:48 : LimitlessMc, botchat, Wertfuzzy77#0274, guess it just hates that 1 song?
+13 Dec 2016 21:35:06 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=CaksNlNniis
+13 Dec 2016 21:35:07 : LimitlessMc, botchat, Botfuzzy77#2209, Added No Game No Life Opening Full to the queue
+13 Dec 2016 21:35:09 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 1
+13 Dec 2016 21:35:09 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: Nanairo Symphony [HD] w/ English & Japanese Lyrics
+13 Dec 2016 21:35:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+13 Dec 2016 21:35:20 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+Name: YOUR LIE IN APRIL JAPANESE LYRICS (Hikaru Nara Goose House)
+URL: <https://www.youtube.com/watch?v=1prZmb5r6kI>
+Time: 0:03:58
+Views: 2,159,419
+Likes: 19,181, 98.77%
+Dislikes: 239, 1.23%
+```
+13 Dec 2016 21:35:32 : LimitlessMc, botchat, Wertfuzzy77#0274, someone try ;skip
+13 Dec 2016 21:35:35 : LimitlessMc, botchat, Wertfuzzy77#0274, besides me
+13 Dec 2016 21:36:09 : LimitlessMc, botchat, Wertfuzzy77#0274, interesting
+13 Dec 2016 21:36:13 : LimitlessMc, botchat, Wertfuzzy77#0274, nothing happened xD
+13 Dec 2016 21:36:41 : LimitlessMc, botchat, NarcoticMile#6198, ow
+13 Dec 2016 21:36:47 : LimitlessMc, botchat, NarcoticMile#6198, oww that hurt
+13 Dec 2016 21:36:49 : LimitlessMc, botchat, NarcoticMile#6198, wert
+13 Dec 2016 21:36:50 : LimitlessMc, botchat, Wertfuzzy77#0274, I trying to make vote to skip
+13 Dec 2016 21:36:57 : LimitlessMc, botchat, Wertfuzzy77#0274, apparently its not working xD
+13 Dec 2016 21:37:36 : LimitlessMc, botchat, Wertfuzzy77#0274, ;help skip
+13 Dec 2016 21:37:36 : LimitlessMc, botchat, Botfuzzy77#2209, ```
+;skip
+
+Skips the Current song
+
+```
+13 Dec 2016 21:37:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+13 Dec 2016 21:37:42 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping YOUR LIE IN APRIL JAPANESE LYRICS (Hikaru Nara Goose House)
+13 Dec 2016 21:37:44 : LimitlessMc, botchat, Wertfuzzy77#0274, wut
+13 Dec 2016 21:37:51 : LimitlessMc, botchat, Wertfuzzy77#0274, wutt
+13 Dec 2016 21:37:58 : LimitlessMc, botchat, Wertfuzzy77#0274, someone try skip again?
+13 Dec 2016 21:38:18 : LimitlessMc, botchat, Wertfuzzy77#0274, oh wait
+13 Dec 2016 21:38:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ya, try it again actually
+13 Dec 2016 21:38:29 : LimitlessMc, botchat, Wertfuzzy77#0274, cry
+13 Dec 2016 21:38:35 : LimitlessMc, botchat, Wertfuzzy77#0274, try it again?
+13 Dec 2016 21:38:42 : LimitlessMc, botchat, Wertfuzzy77#0274, @Botfuzzy77 kys
+13 Dec 2016 21:38:44 : LimitlessMc, botchat, Botfuzzy77#2209, Mitä olis pitänyt.
+13 Dec 2016 21:38:48 : LimitlessMc, botchat, Wertfuzzy77#0274, yes
+13 Dec 2016 21:38:53 : LimitlessMc, botchat, Wertfuzzy77#0274, @NarcoticMile you try it
+13 Dec 2016 21:39:10 : LimitlessMc, botchat, NarcoticMile#6198, ;skip
+13 Dec 2016 21:39:20 : LimitlessMc, botchat, NarcoticMile#6198, plz bot :*(
+13 Dec 2016 21:39:20 : LimitlessMc, botchat, Wertfuzzy77#0274, v confused
+13 Dec 2016 21:40:15 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+13 Dec 2016 21:40:16 : LimitlessMc, botchat, Wertfuzzy77#0274, ;relog
+13 Dec 2016 21:40:16 : LimitlessMc, botchat, Botfuzzy77#2209, Relogging...

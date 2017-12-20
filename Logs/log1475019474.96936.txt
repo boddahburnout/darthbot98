@@ -1,0 +1,1043 @@
+27 Sep 2016 23:39:01 : PassionMC, main-chat, Botfuzzy77#2209, **Keith**(No Role) is now Online!
+27 Sep 2016 23:39:57 : PassionMC, main-chat, Botfuzzy77#2209, **Blackhawk1228**(No Role) is now Online!
+27 Sep 2016 23:40:45 : The Wild Weebs, music, Wertfuzzy77#0274, ;join
+27 Sep 2016 23:40:49 : The Wild Weebs, music, Wertfuzzy77#0274, ;playlist MJackson MJackson MJackson MJackson MJackson MJackson MJackson
+27 Sep 2016 23:41:21 : PassionMC, main-chat, Botfuzzy77#2209, **Anarchy**(No Role) is now Offline!
+27 Sep 2016 23:41:28 : The Wild Weebs, music, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+27 Sep 2016 23:41:56 : PassionMC, main-chat, Botfuzzy77#2209, **Flaronix**(No Role) is now Online!
+27 Sep 2016 23:41:56 : PassionMC, main-chat, Botfuzzy77#2209, **Anarchy**(No Role) is now Online!
+27 Sep 2016 23:43:56 : PassionMC, main-chat, Botfuzzy77#2209, **Anarchy**(No Role) is now Offline!
+27 Sep 2016 23:44:04 : PassionMC, main-chat, Botfuzzy77#2209, **Flaronix**(No Role) is now Offline!
+27 Sep 2016 23:50:14 : PassionMC, main-chat, Botfuzzy77#2209, **Mystz**(Owners) is now Online!
+27 Sep 2016 23:50:32 : PassionMC, main-chat, Mystz#8072, @Wertfuzzy77 DISABLE THAT SHIT
+27 Sep 2016 23:50:32 : PassionMC, main-chat, Mystz#8072, NOW
+27 Sep 2016 23:50:47 : PassionMC, main-chat, Mystz#8072, ;CONFIG
+27 Sep 2016 23:50:50 : PassionMC, main-chat, Mystz#8072, ;CONFIG HELp
+27 Sep 2016 23:50:54 : PassionMC, main-chat, Mystz#8072, ;FUCK U
+27 Sep 2016 23:51:12 : PassionMC, main-chat, Botfuzzy77#2209, **Flaronix**(No Role) is now Online!
+27 Sep 2016 23:51:30 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Online!
+27 Sep 2016 23:51:30 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Online!
+27 Sep 2016 23:52:41 : PassionMC, main-chat, Botfuzzy77#2209, **Mank**(Admins) is now Online!
+27 Sep 2016 23:53:30 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Offline!
+27 Sep 2016 23:53:30 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Offline!
+27 Sep 2016 23:54:37 : PassionMC, main-chat, Botfuzzy77#2209, **Flaronix**(No Role) is now Offline!
+27 Sep 2016 23:55:38 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Stormzzzy**(Popes of The Raw Man) is now Online!
+27 Sep 2016 23:55:44 : PassionMC, main-chat, Botfuzzy77#2209, **Sociari**(No Role) is now Online!
+27 Sep 2016 23:58:12 : PassionMC, main-chat, Botfuzzy77#2209, **Anarchy**(No Role) is now Online!
+28 Sep 2016 00:01:20 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+28 Sep 2016 00:01:20 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+28 Sep 2016 00:01:20 : PassionMC, main-chat, Botfuzzy77#2209, **D3NSH1N**(Moderators) is now Online!
+28 Sep 2016 00:01:54 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Online!
+28 Sep 2016 00:01:54 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Online!
+28 Sep 2016 00:03:23 : PassionMC, main-chat, D3NSH1N#8702, lmfao
+28 Sep 2016 00:03:38 : PassionMC, main-chat, Botfuzzy77#2209, **Anarchy**(No Role) is now Offline!
+28 Sep 2016 00:03:42 : PassionMC, main-chat, D3NSH1N#8702, ;config
+28 Sep 2016 00:03:42 : PassionMC, main-chat, Botfuzzy77#2209, Invalid config command passed...
+28 Sep 2016 00:03:54 : PassionMC, main-chat, D3NSH1N#8702, ;config help
+28 Sep 2016 00:03:55 : PassionMC, main-chat, Botfuzzy77#2209, Invalid config command passed...
+28 Sep 2016 00:03:58 : PassionMC, main-chat, D3NSH1N#8702, ;help
+28 Sep 2016 00:03:58 : PassionMC, main-chat, Botfuzzy77#2209, ```
+  source         Returns a link to the source code for this bot
+  conch          Ask the Magic Conch a Question
+  joined         Says when a member joined.
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+28 Sep 2016 00:04:16 : PassionMC, main-chat, D3NSH1N#8702, ;help config
+28 Sep 2016 00:04:16 : PassionMC, main-chat, Botfuzzy77#2209, ```
+;config
+
+Allows you to change settings for the server
+
+Commands:
+  Get Allows you to get config values
+  All Gives you all of the Settings for this server
+  Set Allows you to set config values
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+28 Sep 2016 00:04:19 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Offline!
+28 Sep 2016 00:04:19 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Offline!
+28 Sep 2016 00:04:29 : PassionMC, main-chat, D3NSH1N#8702, ;config set
+28 Sep 2016 00:04:29 : PassionMC, main-chat, Botfuzzy77#2209, Invalid config command passed...
+28 Sep 2016 00:04:39 : PassionMC, main-chat, D3NSH1N#8702, ;config set loginmessage off
+28 Sep 2016 00:04:40 : PassionMC, main-chat, Botfuzzy77#2209, Invalid config command passed...
+28 Sep 2016 00:04:44 : PassionMC, main-chat, D3NSH1N#8702, le
+28 Sep 2016 00:04:50 : PassionMC, main-chat, D3NSH1N#8702, ;config set help
+28 Sep 2016 00:04:50 : PassionMC, main-chat, Botfuzzy77#2209, Invalid config command passed...
+28 Sep 2016 00:05:15 : Team Harmony, botchat, D3NSH1N#8702, ;server passion.mcserver.ws
+28 Sep 2016 00:05:16 : Team Harmony, botchat, Botfuzzy77#2209, **Server IP**: passion.mcserver.ws
+28 Sep 2016 00:05:16 : Team Harmony, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 0 players out of 80
+ *Ping*: 140.1 ms
+ *MC Version*: 1.10.2
+28 Sep 2016 00:05:17 : Team Harmony, botchat, Botfuzzy77#2209, *Server is Down :(*
+28 Sep 2016 00:05:26 : PassionMC, main-chat, Mank#0033, damn paladins is actually a overwatch copy but free
+28 Sep 2016 00:05:28 : PassionMC, main-chat, Mank#0033, it fun
+28 Sep 2016 00:05:48 : Cipher, general, Botfuzzy77#2209, **JustinOPGamer**(Grunt) is now Online!
+28 Sep 2016 00:05:49 : PassionMC, main-chat, Botfuzzy77#2209, **Keith**(No Role) is now Offline!
+28 Sep 2016 00:05:53 : PassionMC, main-chat, Botfuzzy77#2209, **Sociari**(No Role) is now Offline!
+28 Sep 2016 00:05:55 : PassionMC, main-chat, Botfuzzy77#2209, **Keith**(No Role) is now Online!
+28 Sep 2016 00:06:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Online!
+28 Sep 2016 00:07:50 : PassionMC, main-chat, Botfuzzy77#2209, **Sunstrikeh**(No Role) is now Offline!
+28 Sep 2016 00:07:50 : Temp Server, general, Botfuzzy77#2209, **Sunstrikeh**(Admin) is now Offline!
+28 Sep 2016 00:07:50 : My Personal Server, general, Botfuzzy77#2209, **Sunstrikeh**(Moderator) is now Offline!
+28 Sep 2016 00:07:58 : Cipher, general, Botfuzzy77#2209, **RoboDK88**(Grunt) is now Online!
+28 Sep 2016 00:07:58 : GreenHillGang, general, Botfuzzy77#2209, **RoboDK88**(No Role) is now Online!
+28 Sep 2016 00:08:22 : Cipher, general, Botfuzzy77#2209, **RoboDK88**(Grunt) is now Offline!
+28 Sep 2016 00:08:22 : GreenHillGang, general, Botfuzzy77#2209, **RoboDK88**(No Role) is now Offline!
+28 Sep 2016 00:08:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Offline!
+28 Sep 2016 00:09:40 : PassionMC, main-chat, Wertfuzzy77#0274, ;config help
+28 Sep 2016 00:09:40 : PassionMC, main-chat, Wertfuzzy77#0274, ....
+28 Sep 2016 00:09:40 : PassionMC, main-chat, Botfuzzy77#2209, Invalid config command passed...
+28 Sep 2016 00:09:52 : Cipher, general, Botfuzzy77#2209, **JustinOPGamer**(Grunt) is now Offline!
+28 Sep 2016 00:09:56 : PassionMC, main-chat, Wertfuzzy77#0274, useless @Botfuzzy77
+28 Sep 2016 00:09:57 : PassionMC, main-chat, Botfuzzy77#2209, Aw! Don't feel that way!
+28 Sep 2016 00:10:14 : LimitlessMc, botchat, Ankorzz#4034, ;luck
+28 Sep 2016 00:10:15 : LimitlessMc, botchat, Botfuzzy77#2209, Ankorzz's luck is 49.44 out of 100, which is **Not Bad**
+28 Sep 2016 00:11:04 : PassionMC, main-chat, Wertfuzzy77#0274, @Botfuzzy77 no, you are useless
+28 Sep 2016 00:11:05 : PassionMC, main-chat, Botfuzzy77#2209, Do you really think I'm pretty?
+28 Sep 2016 00:11:31 : PassionMC, main-chat, Wertfuzzy77#0274, @Botfuzzy77 why does that matter
+28 Sep 2016 00:11:32 : PassionMC, main-chat, Botfuzzy77#2209, Because I want to know where you live.
+28 Sep 2016 00:11:37 : PassionMC, main-chat, Wertfuzzy77#0274, @Botfuzzy77 Stranger Danger!
+28 Sep 2016 00:11:38 : PassionMC, main-chat, Botfuzzy77#2209, We have talked before, I am not a stranger.
+28 Sep 2016 00:11:42 : PassionMC, main-chat, Wertfuzzy77#0274, weirdo
+28 Sep 2016 00:11:55 : LimitlessMc, mainchat, Ankorzz#4034, probably the next major update it will be
+28 Sep 2016 00:12:00 : Penguins, leshemale, Botfuzzy77#2209, **Imposter Snake**(Suicune) is now Online!
+28 Sep 2016 00:13:46 : PassionMC, main-chat, Mystz#8072, lol
+28 Sep 2016 00:13:50 : PassionMC, main-chat, Mystz#8072, vayne players are so garbage its unreal
+28 Sep 2016 00:14:42 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+28 Sep 2016 00:14:42 : PassionMC, main-chat, Botfuzzy77#2209, **Topheralan**(Moderators) is now Online!
+28 Sep 2016 00:14:42 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Online!
+28 Sep 2016 00:15:45 : PassionMC, main-chat, Botfuzzy77#2209, **Anarchy**(No Role) is now Online!
+28 Sep 2016 00:16:43 : My Personal Server, general, Botfuzzy77#2209, **Twist3dMindz**(Member) is now Online!
+28 Sep 2016 00:18:27 : PassionMC, main-chat, Botfuzzy77#2209, **Anarchy**(No Role) is now Offline!
+28 Sep 2016 00:19:18 : PassionMC, main-chat, Botfuzzy77#2209, **Anarchy**(No Role) is now Online!
+28 Sep 2016 00:19:45 : PassionMC, main-chat, ThaOriginal#5897, yeah they are
+28 Sep 2016 00:19:52 : PassionMC, main-chat, ThaOriginal#5897, that why i beat you 1v1
+28 Sep 2016 00:20:02 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+28 Sep 2016 00:20:02 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+28 Sep 2016 00:20:02 : PassionMC, main-chat, Botfuzzy77#2209, **D3NSH1N**(Moderators) is now Online!
+28 Sep 2016 00:20:49 : PassionMC, main-chat, Botfuzzy77#2209, **Topheralan**(Moderators) is now Offline!
+28 Sep 2016 00:20:49 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+28 Sep 2016 00:20:49 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Offline!
+28 Sep 2016 00:21:18 : PassionMC, main-chat, Anarchy#7098, Le
+28 Sep 2016 00:23:16 : PassionMC, main-chat, Mystz#8072, Lold.
+28 Sep 2016 00:23:17 : PassionMC, main-chat, Mystz#8072, https://gyazo.com/452b1610ae82fc6716a49ca66167315c
+28 Sep 2016 00:23:25 : PassionMC, main-chat, Anarchy#7098, @Botfuzzy77 you want to die?
+28 Sep 2016 00:23:26 : PassionMC, main-chat, Botfuzzy77#2209, I have work to do, but I can stay for a bit.
+28 Sep 2016 00:24:11 : PassionMC, main-chat, Anarchy#7098, @Botfuzzy77 are u gay
+28 Sep 2016 00:24:12 : PassionMC, main-chat, Botfuzzy77#2209, I am not in school, but I do have work. GOODBYE RONIN!
+28 Sep 2016 00:24:19 : PassionMC, main-chat, Anarchy#7098, Wtf you saying
+28 Sep 2016 00:24:23 : PassionMC, main-chat, Anarchy#7098, Retarded bot
+28 Sep 2016 00:24:25 : Penguins, leshemale, Botfuzzy77#2209, **Olivia**(Xerneas) is now Online!
+28 Sep 2016 00:24:25 : PassionMC, main-chat, Botfuzzy77#2209, **Olivia**(No Role) is now Online!
+28 Sep 2016 00:24:56 : Team Harmony, botchat, D3NSH1N#8702, ;server passion.mcserver.ws
+28 Sep 2016 00:24:56 : Team Harmony, botchat, Botfuzzy77#2209, **Server IP**: passion.mcserver.ws
+28 Sep 2016 00:24:57 : Team Harmony, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 0 players out of 80
+ *Ping*: 136.6 ms
+ *MC Version*: 1.10.2
+28 Sep 2016 00:24:57 : Team Harmony, botchat, Botfuzzy77#2209, *Server is Down :(*
+28 Sep 2016 00:25:04 : PassionMC, main-chat, Mystz#8072, fucking holy shit
+28 Sep 2016 00:25:07 : PassionMC, main-chat, Mystz#8072, im almost plat 1
+28 Sep 2016 00:26:26 : Penguins, leshemale, Botfuzzy77#2209, **Olivia**(Xerneas) is now Offline!
+28 Sep 2016 00:26:26 : PassionMC, main-chat, Botfuzzy77#2209, **Olivia**(No Role) is now Offline!
+28 Sep 2016 00:26:36 : PassionMC, main-chat, Botfuzzy77#2209, **Anarchy**(No Role) is now Offline!
+28 Sep 2016 00:26:42 : PassionMC, main-chat, Botfuzzy77#2209, **TheLast1Alive**(The Queer) is now Online!
+28 Sep 2016 00:27:40 : PassionMC, main-chat, Mystz#8072, omg no wtf
+28 Sep 2016 00:27:43 : PassionMC, main-chat, Mystz#8072, they first picked my thresh
+28 Sep 2016 00:27:45 : PassionMC, main-chat, Mystz#8072, rip win streak..
+28 Sep 2016 00:28:03 : PassionMC, main-chat, Keith#2531, sucks to suck i guess
+28 Sep 2016 00:28:29 : PassionMC, main-chat, Mystz#8072, i dodged;/
+28 Sep 2016 00:28:39 : PassionMC, main-chat, Keith#2531, xD
+28 Sep 2016 00:30:04 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Daniel**(Children of The Raw Man) is now Online!
+28 Sep 2016 00:31:19 : PassionMC, main-chat, Botfuzzy77#2209, **Blackhawk1228**(No Role) is now Online!
+28 Sep 2016 00:31:43 : Cipher, general, Botfuzzy77#2209, **Skyd**(Champ) is now Online!
+28 Sep 2016 00:31:43 : Team Harmony, general, Botfuzzy77#2209, **Skyd**(Team Harmony) is now Online!
+28 Sep 2016 00:31:43 : PassionMC, main-chat, Botfuzzy77#2209, **Skyd**(Moderators) is now Online!
+28 Sep 2016 00:31:52 : PassionMC, main-chat, Botfuzzy77#2209, **Shren**(The Queer) is now Online!
+28 Sep 2016 00:32:03 : PassionMC, main-chat, Keith#2531, This bot...
+28 Sep 2016 00:32:35 : Team Harmony, general, Skyd#9935, Nah ah it's so cooool
+28 Sep 2016 00:32:52 : PassionMC, main-chat, Mystz#8072, annoying as shit right
+28 Sep 2016 00:32:59 : Team Harmony, general, Skyd#9935, But for real I have 6 houses left to do and my town is basically done
+28 Sep 2016 00:33:08 : PassionMC, main-chat, Keith#2531, Yeah... Can't we disable that shizz
+28 Sep 2016 00:33:18 : PassionMC, main-chat, Shren#7462, weeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+28 Sep 2016 00:33:29 : PassionMC, main-chat, Mystz#8072, fucking shen
+28 Sep 2016 00:33:37 : PassionMC, main-chat, Keith#2531, Bots better than that^
+28 Sep 2016 00:33:47 : PassionMC, main-chat, Shren#7462, the bot is better than myst
+28 Sep 2016 00:34:04 : PassionMC, main-chat, Keith#2531, Oh sorry u^^^^^^^^^^^^^
+28 Sep 2016 00:34:05 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Daniel**(Children of The Raw Man) is now Offline!
+28 Sep 2016 00:34:13 : PassionMC, main-chat, Shren#7462, there we go
+28 Sep 2016 00:34:26 : PassionMC, main-chat, Keith#2531, jk but for realz we need to trash it
+28 Sep 2016 00:34:53 : PassionMC, main-chat, Botfuzzy77#2209, **TheLast1Alive**(The Queer) is now Offline!
+28 Sep 2016 00:34:57 : PassionMC, main-chat, Shren#7462, shut up queer
+28 Sep 2016 00:34:58 : PassionMC, main-chat, Shren#7462, boot
+28 Sep 2016 00:35:07 : PassionMC, main-chat, Shren#7462, queerboot is annoying
+28 Sep 2016 00:35:14 : PassionMC, main-chat, Shren#7462, get queerboy to kick him
+28 Sep 2016 00:35:17 : PassionMC, main-chat, Shren#7462, you can kick bots
+28 Sep 2016 00:35:46 : Team Harmony, general, Botfuzzy77#2209, **Skyd**(Team Harmony) is now Offline!
+28 Sep 2016 00:35:46 : PassionMC, main-chat, Botfuzzy77#2209, **Skyd**(Moderators) is now Offline!
+28 Sep 2016 00:35:46 : Cipher, general, Botfuzzy77#2209, **Skyd**(Champ) is now Offline!
+28 Sep 2016 00:36:33 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Online!
+28 Sep 2016 00:39:14 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Offline!
+28 Sep 2016 00:39:28 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Online!
+28 Sep 2016 00:39:29 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Online!
+28 Sep 2016 00:40:31 : PassionMC, main-chat, Mystz#8072, ayyy
+28 Sep 2016 00:40:32 : PassionMC, main-chat, Mystz#8072, https://gyazo.com/c96053d48428f045bd15a2d8def62454
+28 Sep 2016 00:40:45 : PassionMC, main-chat, Keith#2531, Terrible
+28 Sep 2016 00:40:53 : PassionMC, main-chat, Mystz#8072, hey fuck u
+28 Sep 2016 00:40:53 : PassionMC, main-chat, Mystz#8072, meanie
+28 Sep 2016 00:42:21 : PassionMC, main-chat, Botfuzzy77#2209, **TheLast1Alive**(The Queer) is now Online!
+28 Sep 2016 00:42:32 : PassionMC, main-chat, Keith#2531, Whoop someone is online!
+28 Sep 2016 00:42:59 : PassionMC, main-chat, Mystz#8072, ye that needs to be disabled
+28 Sep 2016 00:43:01 : PassionMC, main-chat, Mystz#8072, thats why i kicked it before
+28 Sep 2016 00:43:29 : PassionMC, main-chat, Botfuzzy77#2209, **Skyd**(Moderators) is now Online!
+28 Sep 2016 00:43:29 : Team Harmony, general, Botfuzzy77#2209, **Skyd**(Team Harmony) is now Online!
+28 Sep 2016 00:43:32 : Cipher, general, Botfuzzy77#2209, **Skyd**(Champ) is now Online!
+28 Sep 2016 00:43:49 : PassionMC, main-chat, Keith#2531, wb i guess
+28 Sep 2016 00:44:22 : PassionMC, main-chat, Botfuzzy77#2209, **TheLast1Alive**(The Queer) is now Offline!
+28 Sep 2016 00:47:05 : Team Harmony, botchat, D3NSH1N#8702, ;server passion.mcserver.ws
+28 Sep 2016 00:47:05 : Team Harmony, botchat, Botfuzzy77#2209, **Server IP**: passion.mcserver.ws
+28 Sep 2016 00:47:05 : Team Harmony, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 1 players out of 80
+ *Ping*: 135.595 ms
+ *MC Version*: 1.10.2
+28 Sep 2016 00:47:05 : Team Harmony, botchat, Botfuzzy77#2209, **Players Online**:
+ *SCaydi...*
+28 Sep 2016 00:47:23 : Team Harmony, general, D3NSH1N#8702, nice
+28 Sep 2016 00:47:30 : Team Harmony, general, D3NSH1N#8702, You're gonna login soon?
+28 Sep 2016 00:47:46 : PassionMC, main-chat, Mystz#8072, im destined for my loss streak now
+28 Sep 2016 00:47:47 : PassionMC, main-chat, Mystz#8072, this is normally how this works
+28 Sep 2016 00:48:36 : Team Harmony, general, Skyd#9935, Si
+28 Sep 2016 00:49:37 : Team Harmony, general, D3NSH1N#8702, cool
+28 Sep 2016 00:50:13 : Cipher, general, Botfuzzy77#2209, **Skyd**(Champ) is now Offline!
+28 Sep 2016 00:50:13 : Team Harmony, general, Botfuzzy77#2209, **Skyd**(Team Harmony) is now Offline!
+28 Sep 2016 00:50:13 : PassionMC, main-chat, Botfuzzy77#2209, **Skyd**(Moderators) is now Offline!
+28 Sep 2016 00:51:11 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Stormzzzy**(Popes of The Raw Man) is now Online!
+28 Sep 2016 00:52:45 : Cipher, general, Botfuzzy77#2209, **Skyd**(Champ) is now Online!
+28 Sep 2016 00:52:45 : PassionMC, main-chat, Botfuzzy77#2209, **Skyd**(Moderators) is now Online!
+28 Sep 2016 00:52:46 : Team Harmony, general, Botfuzzy77#2209, **Skyd**(Team Harmony) is now Online!
+28 Sep 2016 00:54:43 : PassionMC, main-chat, Botfuzzy77#2209, **Legit_0reo**(Staff) is now Online!
+28 Sep 2016 00:55:02 : PassionMC, main-chat, Botfuzzy77#2209, **Legit_0reo**(Staff) is now Online!
+28 Sep 2016 00:55:22 : PassionMC, main-chat, Botfuzzy77#2209, **Anarchy**(No Role) is now Online!
+28 Sep 2016 00:55:42 : Team Harmony, botchat, Skyd#9935, ;server
+28 Sep 2016 00:55:42 : Team Harmony, botchat, Botfuzzy77#2209, **Server IP**: 23.111.129.82
+28 Sep 2016 00:55:42 : Team Harmony, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 59 players out of 2000
+ *Ping*: 141.141 ms
+ *MC Version*: 1.10.2
+28 Sep 2016 00:55:42 : Team Harmony, botchat, Botfuzzy77#2209, **Players Online**:
+ *VirseCraft, Marshonus, Pleasuringly, AussieAge, zZMelvZz, wh1tespace, Inner_Prod, Mclir, Flamingbust, MajestaKarp, magikoopamagic, CR3APERSS...*
+28 Sep 2016 00:56:00 : Team Harmony, botchat, Skyd#9935, Wrong one -.-
+28 Sep 2016 00:56:48 : PassionMC, main-chat, Botfuzzy77#2209, **Olivia**(No Role) is now Online!
+28 Sep 2016 00:56:48 : Penguins, leshemale, Botfuzzy77#2209, **Olivia**(Xerneas) is now Online!
+28 Sep 2016 00:56:58 : PassionMC, main-chat, Mystz#8072, olivia kappa
+28 Sep 2016 00:57:04 : Team Harmony, botchat, D3NSH1N#8702, lel
+28 Sep 2016 00:57:10 : Team Harmony, botchat, D3NSH1N#8702, ;server passion.mcserver.ws
+28 Sep 2016 00:57:11 : Team Harmony, botchat, Botfuzzy77#2209, **Server IP**: passion.mcserver.ws
+28 Sep 2016 00:57:11 : Team Harmony, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 3 players out of 80
+ *Ping*: 137.727 ms
+ *MC Version*: 1.10.2
+28 Sep 2016 00:57:11 : Team Harmony, botchat, Botfuzzy77#2209, **Players Online**:
+ *Skyd_, SCaydi, x1Keith9x...*
+28 Sep 2016 00:57:29 : Team Harmony, general, D3NSH1N#8702, Will be on in 10ish
+28 Sep 2016 00:58:04 : PassionMC, main-chat, Botfuzzy77#2209, **Anarchy**(No Role) is now Offline!
+28 Sep 2016 00:58:07 : Team Harmony, general, D3NSH1N#8702, 
+28 Sep 2016 00:58:23 : PassionMC, main-chat, Botfuzzy77#2209, **BraelinKingara**(No Role) is now Online!
+28 Sep 2016 00:58:32 : PassionMC, main-chat, Botfuzzy77#2209, **Daddy**(No Role) is now Online!
+28 Sep 2016 00:58:34 : PassionMC, main-chat, Shren#7462, weebs on
+28 Sep 2016 00:58:47 : PassionMC, main-chat, Botfuzzy77#2209, **Olivia**(No Role) is now Offline!
+28 Sep 2016 00:58:47 : Penguins, leshemale, Botfuzzy77#2209, **Olivia**(Xerneas) is now Offline!
+28 Sep 2016 00:58:49 : PassionMC, main-chat, BraelinKingara#8930, sup daddy kink
+28 Sep 2016 00:58:54 : PassionMC, main-chat, Shren#7462, gay?
+28 Sep 2016 00:58:57 : PassionMC, main-chat, Shren#7462, oh wait you're a weeb
+28 Sep 2016 00:58:59 : PassionMC, main-chat, Shren#7462, lol
+28 Sep 2016 00:59:04 : PassionMC, main-chat, BraelinKingara#8930, Otaku*
+28 Sep 2016 00:59:10 : PassionMC, main-chat, Shren#7462, queer*
+28 Sep 2016 00:59:10 : PassionMC, main-chat, BraelinKingara#8930, 13 year old scum
+28 Sep 2016 00:59:13 : PassionMC, main-chat, Keith#2531, chillll
+28 Sep 2016 00:59:18 : PassionMC, main-chat, Shren#7462, lol
+28 Sep 2016 00:59:22 : PassionMC, main-chat, Botfuzzy77#2209, **Fuze - Josh**(The Queer) is now Offline!
+28 Sep 2016 00:59:22 : Cipher, general, Botfuzzy77#2209, **Fuze - Josh**(Grunt) is now Offline!
+28 Sep 2016 00:59:23 : PassionMC, main-chat, Keith#2531, dont bring that shit here. The bot is bad enough
+28 Sep 2016 01:00:43 : Team Harmony, general, Skyd#9935, Alrighty
+28 Sep 2016 01:00:45 : LimitlessMc, botchat, An_Average_Fellow#1532, ;luck
+28 Sep 2016 01:00:45 : LimitlessMc, botchat, Botfuzzy77#2209, An_Average_Fellow's luck is 33.77 out of 100, which is **Pretty Bad**
+28 Sep 2016 01:01:51 : Team Harmony, general, D3NSH1N#8702, About your core, added skarm cause you needed Steel's resistances without having weakness to Ground, and Magnezone to tank Rock/Elec, trap the overused Scissor and specially pivot
+28 Sep 2016 01:02:11 : Cipher, general, Botfuzzy77#2209, **RoboDK88**(Grunt) is now Online!
+28 Sep 2016 01:02:11 : GreenHillGang, general, Botfuzzy77#2209, **RoboDK88**(No Role) is now Online!
+28 Sep 2016 01:02:16 : PassionMC, main-chat, Botfuzzy77#2209, **Anarchy**(No Role) is now Online!
+28 Sep 2016 01:02:23 : Team Harmony, general, D3NSH1N#8702, About the 6th im not sure yet, Chansey/Blissey fit almost perfectly but I dont want to abuse SkarmBliss, its way too common
+28 Sep 2016 01:02:28 : PassionMC, main-chat, Botfuzzy77#2209, **MrPep**(No Role) is now Online!
+28 Sep 2016 01:03:14 : Team Harmony, general, D3NSH1N#8702, http://prntscr.com/cn6l0l
+28 Sep 2016 01:03:33 : Team Harmony, general, D3NSH1N#8702, The typings so far, not that these are gen 6 and dragon is bugged.
+28 Sep 2016 01:03:43 : Team Harmony, general, D3NSH1N#8702, aka 2 resistances to ghost and 2 to dragon
+28 Sep 2016 01:03:52 : Team Harmony, general, D3NSH1N#8702, (and dark)
+28 Sep 2016 01:04:07 : PassionMC, main-chat, Mystz#8072, just mute the discord
+28 Sep 2016 01:04:07 : PassionMC, main-chat, Mystz#8072, what i do
+28 Sep 2016 01:04:25 : GreenHillGang, general, Botfuzzy77#2209, **Wertfuzzy77**(No Role) is now Online!
+28 Sep 2016 01:04:25 : PassionMC, main-chat, Botfuzzy77#2209, **Wertfuzzy77**(Nerd) is now Online!
+28 Sep 2016 01:04:26 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+28 Sep 2016 01:04:32 : PassionMC, main-chat, Botfuzzy77#2209, **Anarchy**(No Role) is now Offline!
+28 Sep 2016 01:04:47 : Team Harmony, general, Skyd#9935, Brah I had that whole team down but not magnezone
+28 Sep 2016 01:06:10 : GreenHillGang, general, Botfuzzy77#2209, **Wertfuzzy77**(No Role) is now Online!
+28 Sep 2016 01:06:10 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+28 Sep 2016 01:06:10 : PassionMC, main-chat, Botfuzzy77#2209, **Wertfuzzy77**(Nerd) is now Online!
+28 Sep 2016 01:06:24 : Team Harmony, general, Skyd#9935, All good man I would of never thought of magnezone with magnet pull
+28 Sep 2016 01:07:35 : Penguins, leshemale, Botfuzzy77#2209, **Olivia**(Xerneas) is now Online!
+28 Sep 2016 01:07:35 : PassionMC, main-chat, Botfuzzy77#2209, **Olivia**(No Role) is now Online!
+28 Sep 2016 01:07:37 : Team Harmony, general, D3NSH1N#8702, its pretty strong
+28 Sep 2016 01:07:40 : PassionMC, main-chat, Botfuzzy77#2209, **Fuze - Josh**(The Queer) is now Online!
+28 Sep 2016 01:07:40 : Cipher, general, Botfuzzy77#2209, **Fuze - Josh**(Grunt) is now Online!
+28 Sep 2016 01:07:45 : Team Harmony, general, D3NSH1N#8702, Only downside is that you have to breed HP FIre
+28 Sep 2016 01:07:49 : Team Harmony, general, Botfuzzy77#2209, **Skyd**(Team Harmony) is now Offline!
+28 Sep 2016 01:07:49 : Cipher, general, Botfuzzy77#2209, **Skyd**(Champ) is now Offline!
+28 Sep 2016 01:07:49 : PassionMC, main-chat, Botfuzzy77#2209, **Skyd**(Moderators) is now Offline!
+28 Sep 2016 01:08:58 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Stormzzzy**(Popes of The Raw Man) is now Online!
+28 Sep 2016 01:09:35 : Penguins, leshemale, Botfuzzy77#2209, **Olivia**(Xerneas) is now Offline!
+28 Sep 2016 01:09:35 : PassionMC, main-chat, Botfuzzy77#2209, **Olivia**(No Role) is now Offline!
+28 Sep 2016 01:11:37 : Cipher, general, Botfuzzy77#2209, **Skyd**(Champ) is now Online!
+28 Sep 2016 01:11:37 : PassionMC, main-chat, Botfuzzy77#2209, **Skyd**(Moderators) is now Online!
+28 Sep 2016 01:11:37 : Team Harmony, general, Botfuzzy77#2209, **Skyd**(Team Harmony) is now Online!
+28 Sep 2016 01:11:52 : Team Harmony, general, Skyd#9935, Yah that night take a while
+28 Sep 2016 01:11:55 : Team Harmony, general, Skyd#9935, Might *
+28 Sep 2016 01:12:26 : Team Harmony, general, D3NSH1N#8702, http://prntscr.com/cn6ndw
+28 Sep 2016 01:14:34 : Cipher, general, Botfuzzy77#2209, **Fuze - Josh**(Grunt) is now Offline!
+28 Sep 2016 01:14:34 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Schauda**(Priests of The Raw Man) is now Online!
+28 Sep 2016 01:14:34 : PassionMC, main-chat, Botfuzzy77#2209, **Fuze - Josh**(The Queer) is now Offline!
+28 Sep 2016 01:14:59 : Team Harmony, general, Skyd#9935, Mmm interesting so eviolite porygon?
+28 Sep 2016 01:15:09 : Team Harmony, general, D3NSH1N#8702, ya
+28 Sep 2016 01:15:38 : Team Harmony, general, D3NSH1N#8702, I put out skarm cause the elec weakneses were 2 to 1 and jolteon is pretty common
+28 Sep 2016 01:16:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Daniel**(Children of The Raw Man) is now Online!
+28 Sep 2016 01:16:12 : Team Harmony, general, D3NSH1N#8702, And needed something to Specially tank but with more physical bulk than blissey
+28 Sep 2016 01:16:21 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Online!
+28 Sep 2016 01:16:21 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Online!
+28 Sep 2016 01:16:27 : Team Harmony, general, D3NSH1N#8702, And not add more elec weaknesses
+28 Sep 2016 01:16:28 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Offline!
+28 Sep 2016 01:16:28 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Offline!
+28 Sep 2016 01:16:34 : Team Harmony, general, D3NSH1N#8702, (1st thought was Tentacruel)
+28 Sep 2016 01:18:37 : Team Harmony, general, Skyd#9935, Tentacruel is great but electric weakness
+28 Sep 2016 01:21:43 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Online!
+28 Sep 2016 01:21:49 : Cipher, general, Botfuzzy77#2209, **Fuze - Josh**(Grunt) is now Online!
+28 Sep 2016 01:21:50 : PassionMC, main-chat, Botfuzzy77#2209, **Fuze - Josh**(The Queer) is now Online!
+28 Sep 2016 01:22:04 : PassionMC, main-chat, Botfuzzy77#2209, **Legit_0reo**(Staff) is now Online!
+28 Sep 2016 01:22:04 : PassionMC, main-chat, Botfuzzy77#2209, **Topheralan**(Moderators) is now Online!
+28 Sep 2016 01:22:04 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+28 Sep 2016 01:22:05 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Online!
+28 Sep 2016 01:23:17 : Cipher, general, Botfuzzy77#2209, **Alpha is in School**(Grunt) is now Online!
+28 Sep 2016 01:23:17 : PassionMC, main-chat, Botfuzzy77#2209, **Alpha is in School**(No Role) is now Online!
+28 Sep 2016 01:23:50 : Cipher, general, Botfuzzy77#2209, **Fuze - Josh**(Grunt) is now Offline!
+28 Sep 2016 01:23:50 : PassionMC, main-chat, Botfuzzy77#2209, **Fuze - Josh**(The Queer) is now Offline!
+28 Sep 2016 01:25:42 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Offline!
+28 Sep 2016 01:25:42 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+28 Sep 2016 01:25:42 : PassionMC, main-chat, Botfuzzy77#2209, **D3NSH1N**(Moderators) is now Offline!
+28 Sep 2016 01:25:48 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **RadicalRadius**(Children of The Raw Man) is now Online!
+28 Sep 2016 01:26:35 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **The Fat Walrus**(Priests of The Raw Man) is now Online!
+28 Sep 2016 01:31:28 : Team Harmony, general, Skyd#9935, I'm lagging hard
+28 Sep 2016 01:31:54 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Online!
+28 Sep 2016 01:34:18 : PassionMC, main-chat, Mystz#8072, ye i was right
+28 Sep 2016 01:34:19 : PassionMC, main-chat, Mystz#8072, lost game
+28 Sep 2016 01:34:24 : PassionMC, main-chat, Shren#7462, yay
+28 Sep 2016 01:34:30 : PassionMC, main-chat, Mystz#8072, they had most broken team comp in existance
+28 Sep 2016 01:34:40 : PassionMC, main-chat, Shren#7462, existence*
+28 Sep 2016 01:34:43 : PassionMC, main-chat, Mystz#8072, sivir kennen
+28 Sep 2016 01:34:44 : PassionMC, main-chat, Mystz#8072, janna
+28 Sep 2016 01:34:46 : PassionMC, main-chat, Mystz#8072, lux
+28 Sep 2016 01:34:51 : PassionMC, main-chat, Shren#7462, what language is that
+28 Sep 2016 01:34:57 : PassionMC, main-chat, Mystz#8072, and rammus
+28 Sep 2016 01:34:57 : PassionMC, main-chat, Botfuzzy77#2209, **MrPep**(No Role) is now Online!
+28 Sep 2016 01:35:12 : PassionMC, main-chat, Shren#7462, rammus my dick in your moms butthole HAHAHAHA
+28 Sep 2016 01:35:34 : Cipher, general, RoboDK88#0890, yo fuzzy
+28 Sep 2016 01:37:19 : PassionMC, main-chat, Botfuzzy77#2209, **ThaOriginal**(Owners) is now Offline!
+28 Sep 2016 01:37:27 : Team Harmony, general, Skyd#9935, Brb I as dc'd
+28 Sep 2016 01:38:30 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Online!
+28 Sep 2016 01:38:30 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Online!
+28 Sep 2016 01:38:56 : Team Harmony, general, Skyd#9935, Gonna go brush my teeth anyways ahah
+28 Sep 2016 01:39:23 : GreenHillGang, general, Botfuzzy77#2209, **RoboDK88**(No Role) is now Offline!
+28 Sep 2016 01:39:23 : Cipher, general, Botfuzzy77#2209, **RoboDK88**(Grunt) is now Offline!
+28 Sep 2016 01:40:01 : Penguins, leshemale, Botfuzzy77#2209, **Olivia**(Xerneas) is now Online!
+28 Sep 2016 01:40:01 : PassionMC, main-chat, Botfuzzy77#2209, **Olivia**(No Role) is now Online!
+28 Sep 2016 01:40:25 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Schauda**(Priests of The Raw Man) is now Online!
+28 Sep 2016 01:40:56 : PassionMC, main-chat, Mank#0033, le
+28 Sep 2016 01:41:06 : Team Harmony, general, Botfuzzy77#2209, **Skyd**(Team Harmony) is now Offline!
+28 Sep 2016 01:41:07 : PassionMC, main-chat, Botfuzzy77#2209, **Skyd**(Moderators) is now Offline!
+28 Sep 2016 01:41:07 : Cipher, general, Botfuzzy77#2209, **Skyd**(Champ) is now Offline!
+28 Sep 2016 01:41:18 : PassionMC, main-chat, Botfuzzy77#2209, **Legit_0reo**(Staff) is now Online!
+28 Sep 2016 01:42:01 : Penguins, leshemale, Botfuzzy77#2209, **Olivia**(Xerneas) is now Offline!
+28 Sep 2016 01:42:01 : PassionMC, main-chat, Botfuzzy77#2209, **Olivia**(No Role) is now Offline!
+28 Sep 2016 01:42:45 : PassionMC, main-chat, Botfuzzy77#2209, **Wertfuzzy77**(Nerd) is now Online!
+28 Sep 2016 01:42:46 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+28 Sep 2016 01:42:46 : GreenHillGang, general, Botfuzzy77#2209, **Wertfuzzy77**(No Role) is now Online!
+28 Sep 2016 01:43:01 : PassionMC, main-chat, Shren#7462, -play https://vine.co/v/5i192OQE2H2/embed
+28 Sep 2016 01:43:21 : PassionMC, main-chat, Shren#7462, -play https://vine.co/v/5i192OQE2H2/embed
+28 Sep 2016 01:43:32 : PassionMC, main-chat, Shren#7462, -play https://vine.co/v/5i192OQE2H2/embed
+28 Sep 2016 01:44:30 : Cipher, general, Botfuzzy77#2209, **Skyd**(Champ) is now Online!
+28 Sep 2016 01:44:30 : PassionMC, main-chat, Botfuzzy77#2209, **Skyd**(Moderators) is now Online!
+28 Sep 2016 01:44:30 : Team Harmony, general, Botfuzzy77#2209, **Skyd**(Team Harmony) is now Online!
+28 Sep 2016 01:45:01 : PassionMC, main-chat, Shren#7462, 375D-2FOD-12NM
+28 Sep 2016 01:46:02 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **2dles**(Children of The Raw Man) is now Online!
+28 Sep 2016 01:46:07 : PassionMC, main-chat, Shren#7462, someone translate this
+28 Sep 2016 01:46:11 : PassionMC, main-chat, Shren#7462, idk what it means found it on some website
+28 Sep 2016 01:46:12 : PassionMC, main-chat, Shren#7462, 01010011 01101000 01110010 01100101 01101110 00100000 01101001 01110011 00100000 01110100 01101000 01100101 00100000 01100010 01100101 01110011 01110100 00100000 01101110 01101001 01100111 01100111 01100101 01110010 00100000
+28 Sep 2016 01:46:19 : PassionMC, main-chat, Shren#7462, i think its spanish
+28 Sep 2016 01:46:37 : Team Harmony, general, Skyd#9935, Can't come back for some reason -.-
+28 Sep 2016 01:46:44 : PassionMC, main-chat, Botfuzzy77#2209, **Shren**(The Queer) is now Offline!
+28 Sep 2016 01:48:27 : PassionMC, main-chat, Mank#0033, it says that ur gay and you should kill yourself
+28 Sep 2016 01:48:32 : PassionMC, main-chat, Mank#0033, i am fluent in chinese
+28 Sep 2016 01:50:15 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+28 Sep 2016 01:50:15 : PassionMC, main-chat, Botfuzzy77#2209, **Topheralan**(Moderators) is now Online!
+28 Sep 2016 01:50:15 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Online!
+28 Sep 2016 01:50:16 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+28 Sep 2016 01:50:16 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Online!
+28 Sep 2016 01:50:16 : PassionMC, main-chat, Botfuzzy77#2209, **Topheralan**(Moderators) is now Online!
+28 Sep 2016 01:50:41 : PassionMC, main-chat, BraelinKingara#8930, I speak Nintendo
+28 Sep 2016 01:51:30 : The Wild Weebs, general, Spaceman659#9068, <:KYS:230435994447380480>
+28 Sep 2016 01:53:08 : LimitlessMc, mainchat, zigban1#6865, Hey all wats happening with server
+28 Sep 2016 01:53:23 : LimitlessMc, mainchat, zigban1#6865, Server!
+28 Sep 2016 01:54:44 : Cipher, general, Botfuzzy77#2209, **Skyd**(Champ) is now Offline!
+28 Sep 2016 01:54:44 : Team Harmony, general, Botfuzzy77#2209, **Skyd**(Team Harmony) is now Offline!
+28 Sep 2016 01:54:44 : PassionMC, main-chat, Botfuzzy77#2209, **Skyd**(Moderators) is now Offline!
+28 Sep 2016 01:57:07 : Penguins, leshemale, Botfuzzy77#2209, **Olivia**(Xerneas) is now Online!
+28 Sep 2016 01:57:07 : PassionMC, main-chat, Botfuzzy77#2209, **Olivia**(No Role) is now Online!
+28 Sep 2016 01:57:12 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Daniel**(Children of The Raw Man) is now Offline!
+28 Sep 2016 02:00:55 : PassionMC, main-chat, Botfuzzy77#2209, **Legit_0reo**(Staff) is now Online!
+28 Sep 2016 02:02:08 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+28 Sep 2016 02:02:08 : PassionMC, main-chat, Botfuzzy77#2209, **D3NSH1N**(Moderators) is now Online!
+28 Sep 2016 02:02:08 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+28 Sep 2016 02:09:29 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Offline!
+28 Sep 2016 02:09:29 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Offline!
+28 Sep 2016 02:09:29 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Online!
+28 Sep 2016 02:09:29 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Online!
+28 Sep 2016 02:10:43 : PassionMC, main-chat, Mystz#8072, yep now im on that loss streak
+28 Sep 2016 02:10:44 : PassionMC, main-chat, Mystz#8072, fuck this game
+28 Sep 2016 02:11:42 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+28 Sep 2016 02:11:42 : PassionMC, main-chat, Botfuzzy77#2209, **D3NSH1N**(Moderators) is now Offline!
+28 Sep 2016 02:11:42 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Offline!
+28 Sep 2016 02:11:52 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+28 Sep 2016 02:11:52 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Online!
+28 Sep 2016 02:11:52 : PassionMC, main-chat, Botfuzzy77#2209, **Topheralan**(Moderators) is now Online!
+28 Sep 2016 02:14:04 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Offline!
+28 Sep 2016 02:14:04 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Offline!
+28 Sep 2016 02:14:14 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Online!
+28 Sep 2016 02:14:14 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Online!
+28 Sep 2016 02:14:19 : PassionMC, main-chat, Botfuzzy77#2209, **Mystz**(Owners) is now Offline!
+28 Sep 2016 02:17:07 : The Wild Weebs, general, Ryan#3332, <:KYS:230435994447380480>
+28 Sep 2016 02:17:15 : The Wild Weebs, general, Ryan#3332, :KyleBoy:
+28 Sep 2016 02:18:36 : PassionMC, main-chat, Botfuzzy77#2209, **Mank**(Admins) is now Online!
+28 Sep 2016 02:18:55 : PassionMC, main-chat, Botfuzzy77#2209, **Mank**(Admins) is now Offline!
+28 Sep 2016 02:18:58 : PassionMC, main-chat, Botfuzzy77#2209, **Pugs**(No Role) is now Online!
+28 Sep 2016 02:20:31 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Stormzzzy**(Popes of The Raw Man) is now Online!
+28 Sep 2016 02:21:13 : LimitlessMc, mainchat, Jay113355#4999, Idk, what is happening with the server?
+28 Sep 2016 02:21:18 : Cipher, general, Botfuzzy77#2209, **Skyd**(Champ) is now Online!
+28 Sep 2016 02:21:18 : PassionMC, main-chat, Botfuzzy77#2209, **Skyd**(Moderators) is now Online!
+28 Sep 2016 02:21:18 : Team Harmony, general, Botfuzzy77#2209, **Skyd**(Team Harmony) is now Online!
+28 Sep 2016 02:26:32 : PassionMC, main-chat, Botfuzzy77#2209, **Pugs**(No Role) is now Offline!
+28 Sep 2016 02:27:09 : PassionMC, main-chat, Botfuzzy77#2209, **Anarchy**(No Role) is now Online!
+28 Sep 2016 02:27:38 : My Personal Server, general, Botfuzzy77#2209, **Sunstrikeh**(Moderator) is now Online!
+28 Sep 2016 02:27:38 : Temp Server, general, Botfuzzy77#2209, **Sunstrikeh**(Admin) is now Online!
+28 Sep 2016 02:27:38 : PassionMC, main-chat, Botfuzzy77#2209, **Sunstrikeh**(No Role) is now Online!
+28 Sep 2016 02:28:47 : PassionMC, main-chat, Botfuzzy77#2209, **Olivia**(No Role) is now Offline!
+28 Sep 2016 02:28:47 : Penguins, leshemale, Botfuzzy77#2209, **Olivia**(Xerneas) is now Offline!
+28 Sep 2016 02:29:09 : PassionMC, main-chat, Botfuzzy77#2209, **Anarchy**(No Role) is now Offline!
+28 Sep 2016 02:32:06 : LimitlessMc, mainchat, Genesect#6492, ita ya boy
+28 Sep 2016 02:32:10 : LimitlessMc, mainchat, Genesect#6492, young cancer
+28 Sep 2016 02:32:20 : LimitlessMc, mainchat, Ankorzz#4034, <:dicDik:164584506387333122>
+28 Sep 2016 02:33:50 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Schauda**(Priests of The Raw Man) is now Online!
+28 Sep 2016 02:34:55 : PassionMC, main-chat, Botfuzzy77#2209, **Anarchy**(No Role) is now Online!
+28 Sep 2016 02:37:48 : Team Harmony, general, Botfuzzy77#2209, **Skyd**(Team Harmony) is now Online!
+28 Sep 2016 02:37:48 : PassionMC, main-chat, Botfuzzy77#2209, **Skyd**(Moderators) is now Online!
+28 Sep 2016 02:37:48 : Cipher, general, Botfuzzy77#2209, **Skyd**(Champ) is now Online!
+28 Sep 2016 02:39:07 : Temp Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Online!
+28 Sep 2016 02:39:07 : My Personal Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Online!
+28 Sep 2016 02:39:07 : PassionMC, main-chat, Botfuzzy77#2209, **LightShadow**(No Role) is now Online!
+28 Sep 2016 02:41:02 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+28 Sep 2016 02:41:02 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Offline!
+28 Sep 2016 02:41:02 : PassionMC, main-chat, Botfuzzy77#2209, **Topheralan**(Moderators) is now Offline!
+28 Sep 2016 02:43:08 : PassionMC, main-chat, Botfuzzy77#2209, **Anarchy**(No Role) is now Offline!
+28 Sep 2016 02:43:25 : Temp Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Online!
+28 Sep 2016 02:43:25 : PassionMC, main-chat, Botfuzzy77#2209, **LightShadow**(No Role) is now Online!
+28 Sep 2016 02:43:25 : My Personal Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Online!
+28 Sep 2016 02:45:20 : PassionMC, main-chat, Botfuzzy77#2209, **Keith**(No Role) is now Offline!
+28 Sep 2016 02:45:21 : PassionMC, main-chat, Botfuzzy77#2209, **Keith**(No Role) is now Online!
+28 Sep 2016 02:47:25 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **2dles**(Children of The Raw Man) is now Online!
+28 Sep 2016 02:48:11 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Online!
+28 Sep 2016 02:50:11 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Offline!
+28 Sep 2016 02:50:41 : PassionMC, main-chat, Botfuzzy77#2209, **Keith**(No Role) is now Offline!
+28 Sep 2016 02:52:10 : PassionMC, main-chat, Botfuzzy77#2209, **Keith**(No Role) is now Online!
+28 Sep 2016 02:52:14 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Online!
+28 Sep 2016 02:52:14 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+28 Sep 2016 02:52:14 : PassionMC, main-chat, Botfuzzy77#2209, **Topheralan**(Moderators) is now Online!
+28 Sep 2016 02:53:03 : Cipher, general, Botfuzzy77#2209, **Skyd**(Champ) is now Online!
+28 Sep 2016 02:53:03 : Team Harmony, general, Botfuzzy77#2209, **Skyd**(Team Harmony) is now Online!
+28 Sep 2016 02:53:03 : PassionMC, main-chat, Botfuzzy77#2209, **Skyd**(Moderators) is now Online!
+28 Sep 2016 02:53:11 : Team Harmony, general, Skyd#9935, Fucking inernet
+28 Sep 2016 02:54:55 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+28 Sep 2016 02:54:55 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Offline!
+28 Sep 2016 02:54:55 : PassionMC, main-chat, Botfuzzy77#2209, **Topheralan**(Moderators) is now Offline!
+28 Sep 2016 02:55:21 : My Personal Server, general, Botfuzzy77#2209, **Twist3dMindz**(Member) is now Online!
+28 Sep 2016 02:56:31 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Online!
+28 Sep 2016 02:56:31 : PassionMC, main-chat, Botfuzzy77#2209, **Topheralan**(Moderators) is now Online!
+28 Sep 2016 02:56:33 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+28 Sep 2016 02:57:13 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **The Fat Walrus**(Priests of The Raw Man) is now Online!
+28 Sep 2016 02:57:58 : PassionMC, main-chat, Botfuzzy77#2209, **Anarchy**(No Role) is now Online!
+28 Sep 2016 02:58:16 : PassionMC, main-chat, Botfuzzy77#2209, **Keith**(No Role) is now Offline!
+28 Sep 2016 02:59:41 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+28 Sep 2016 02:59:41 : PassionMC, main-chat, Botfuzzy77#2209, **D3NSH1N**(Moderators) is now Online!
+28 Sep 2016 02:59:41 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+28 Sep 2016 03:01:00 : PassionMC, main-chat, Botfuzzy77#2209, **Topheralan**(Moderators) is now Offline!
+28 Sep 2016 03:01:00 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Offline!
+28 Sep 2016 03:01:00 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+28 Sep 2016 03:01:11 : PassionMC, main-chat, Botfuzzy77#2209, **Pugs**(No Role) is now Online!
+28 Sep 2016 03:01:40 : PassionMC, main-chat, Botfuzzy77#2209, **Anarchy**(No Role) is now Offline!
+28 Sep 2016 03:02:05 : LimitlessMc, mainchat, Libug#6564, sup @Genesect
+28 Sep 2016 03:02:48 : PassionMC, main-chat, Botfuzzy77#2209, **BraelinKingara**(No Role) is now Offline!
+28 Sep 2016 03:03:20 : LimitlessMc, mainchat, Libug#6564, @Pugs
+28 Sep 2016 03:03:26 : PassionMC, main-chat, Botfuzzy77#2209, **Keith**(No Role) is now Online!
+28 Sep 2016 03:03:26 : LimitlessMc, mainchat, Pugs#3166, aye
+28 Sep 2016 03:03:33 : LimitlessMc, mainchat, Pugs#3166, ill add u to something
+28 Sep 2016 03:03:33 : LimitlessMc, mainchat, Libug#6564, yo sorry
+28 Sep 2016 03:03:37 : LimitlessMc, mainchat, Libug#6564, erm
+28 Sep 2016 03:03:49 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+28 Sep 2016 03:03:49 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Offline!
+28 Sep 2016 03:03:49 : PassionMC, main-chat, Botfuzzy77#2209, **D3NSH1N**(Moderators) is now Offline!
+28 Sep 2016 03:03:59 : LimitlessMc, mainchat, Libug#6564, my phone is in police hands rn
+28 Sep 2016 03:04:07 : LimitlessMc, mainchat, Libug#6564, and im moved by child services
+28 Sep 2016 03:04:25 : LimitlessMc, mainchat, Libug#6564, brb
+28 Sep 2016 03:04:36 : LimitlessMc, mainchat, Pugs#3166, rip
+28 Sep 2016 03:04:38 : LimitlessMc, mainchat, Pugs#3166, sent u noods
+28 Sep 2016 03:04:45 : LimitlessMc, mainchat, Ankorzz#4034, don't do the crazies
+28 Sep 2016 03:04:53 : LimitlessMc, mainchat, Pugs#3166, they got my nudez
+28 Sep 2016 03:04:54 : LimitlessMc, mainchat, Pugs#3166, gg
+28 Sep 2016 03:06:16 : My Personal Server, general, Botfuzzy77#2209, **Twist3dMindz**(Member) is now Online!
+28 Sep 2016 03:06:53 : PassionMC, main-chat, Botfuzzy77#2209, **Daddy**(No Role) is now Offline!
+28 Sep 2016 03:09:04 : Penguins, leshemale, Botfuzzy77#2209, **Olivia**(Xerneas) is now Online!
+28 Sep 2016 03:09:04 : PassionMC, main-chat, Botfuzzy77#2209, **Olivia**(No Role) is now Online!
+28 Sep 2016 03:09:39 : PassionMC, main-chat, Botfuzzy77#2209, **MrPep**(No Role) is now Online!
+28 Sep 2016 03:09:54 : PassionMC, main-chat, Botfuzzy77#2209, **Legit_0reo**(Staff) is now Online!
+28 Sep 2016 03:10:52 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+28 Sep 2016 03:10:53 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Online!
+28 Sep 2016 03:10:53 : PassionMC, main-chat, Botfuzzy77#2209, **Topheralan**(Moderators) is now Online!
+28 Sep 2016 03:11:06 : Penguins, leshemale, Botfuzzy77#2209, **Olivia**(Xerneas) is now Offline!
+28 Sep 2016 03:11:06 : PassionMC, main-chat, Botfuzzy77#2209, **Olivia**(No Role) is now Offline!
+28 Sep 2016 03:12:51 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Daniel**(Children of The Raw Man) is now Online!
+28 Sep 2016 03:12:53 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Offline!
+28 Sep 2016 03:12:53 : PassionMC, main-chat, Botfuzzy77#2209, **Topheralan**(Moderators) is now Offline!
+28 Sep 2016 03:12:53 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+28 Sep 2016 03:14:07 : LimitlessMc, mainchat, Wojo#2833, @Bringer  get on m8
+28 Sep 2016 03:14:17 : PassionMC, main-chat, Botfuzzy77#2209, **Techni**(Admins) is now Online!
+28 Sep 2016 03:14:17 : My Personal Server, general, Botfuzzy77#2209, **Techni**(Member) is now Online!
+28 Sep 2016 03:14:17 : Team Harmony, general, Botfuzzy77#2209, **Techni**(Team Harmony) is now Online!
+28 Sep 2016 03:14:59 : Cipher, general, Botfuzzy77#2209, **Skyd**(Champ) is now Online!
+28 Sep 2016 03:14:59 : Team Harmony, general, Botfuzzy77#2209, **Skyd**(Team Harmony) is now Online!
+28 Sep 2016 03:14:59 : PassionMC, main-chat, Botfuzzy77#2209, **Skyd**(Moderators) is now Online!
+28 Sep 2016 03:21:08 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Offline!
+28 Sep 2016 03:21:17 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Online!
+28 Sep 2016 03:23:05 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **ErisBot**(bot) is now Offline!
+28 Sep 2016 03:23:59 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **ErisBot**(bot) is now Online!
+28 Sep 2016 03:28:41 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Aethex**(Bots) is now Offline!
+28 Sep 2016 03:32:42 : PassionMC, main-chat, Botfuzzy77#2209, **Keith**(No Role) is now Online!
+28 Sep 2016 03:36:37 : Team Harmony, botchat, Techni#9903, ;server passion.mcserver.ws
+28 Sep 2016 03:36:38 : Team Harmony, botchat, Botfuzzy77#2209, **Server IP**: passion.mcserver.ws
+28 Sep 2016 03:36:38 : Team Harmony, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 1 players out of 80
+ *Ping*: 135.659 ms
+ *MC Version*: 1.10.2
+28 Sep 2016 03:36:38 : Team Harmony, botchat, Botfuzzy77#2209, **Players Online**:
+ *Skyd_...*
+28 Sep 2016 03:39:54 : PassionMC, main-chat, Botfuzzy77#2209, **Aethex**(No Role) is now Online!
+28 Sep 2016 03:40:49 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Aethex**(Bots) is now Online!
+28 Sep 2016 03:43:33 : PassionMC, main-chat, Botfuzzy77#2209, **Anarchy**(No Role) is now Online!
+28 Sep 2016 03:44:10 : Penguins, leshemale, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Online!
+28 Sep 2016 03:44:14 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Stormzzzy**(Popes of The Raw Man) is now Online!
+28 Sep 2016 03:46:37 : PassionMC, main-chat, Botfuzzy77#2209, **Anarchy**(No Role) is now Offline!
+28 Sep 2016 03:46:52 : PassionMC, main-chat, Botfuzzy77#2209, **DonTheBreton**(Builder) is now Online!
+28 Sep 2016 03:47:32 : Penguins, leshemale, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Offline!
+28 Sep 2016 03:51:16 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Dong Ding**(Children of The Raw Man) is now Online!
+28 Sep 2016 03:51:23 : PassionMC, main-chat, Botfuzzy77#2209, **Anarchy**(No Role) is now Online!
+28 Sep 2016 03:53:58 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Dong Ding**(Children of The Raw Man) is now Online!
+28 Sep 2016 03:54:48 : PassionMC, main-chat, Anarchy#7098, Pls
+28 Sep 2016 03:54:53 : PassionMC, main-chat, Anarchy#7098, Fix botfuzzy
+28 Sep 2016 03:55:05 : PassionMC, main-chat, Anarchy#7098, I give 0 fucks about who's online or not
+28 Sep 2016 03:56:49 : PassionMC, main-chat, Botfuzzy77#2209, **Anarchy**(No Role) is now Offline!
+28 Sep 2016 03:57:56 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Stormzzzy**(Popes of The Raw Man) is now Online!
+28 Sep 2016 03:59:25 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **2dles**(Children of The Raw Man) is now Offline!
+28 Sep 2016 04:00:26 : PassionMC, main-chat, Botfuzzy77#2209, **Anarchy**(No Role) is now Online!
+28 Sep 2016 04:01:29 : Cipher, general, Botfuzzy77#2209, **Skyd**(Champ) is now Online!
+28 Sep 2016 04:01:29 : Team Harmony, general, Botfuzzy77#2209, **Skyd**(Team Harmony) is now Online!
+28 Sep 2016 04:01:29 : PassionMC, main-chat, Botfuzzy77#2209, **Skyd**(Moderators) is now Online!
+28 Sep 2016 04:01:32 : Team Harmony, general, Botfuzzy77#2209, **Skyd**(Team Harmony) is now Offline!
+28 Sep 2016 04:01:32 : PassionMC, main-chat, Botfuzzy77#2209, **Skyd**(Moderators) is now Offline!
+28 Sep 2016 04:01:32 : Cipher, general, Botfuzzy77#2209, **Skyd**(Champ) is now Offline!
+28 Sep 2016 04:02:01 : PassionMC, main-chat, Botfuzzy77#2209, **TheLast1Alive**(The Queer) is now Online!
+28 Sep 2016 04:02:05 : My Personal Server, general, Botfuzzy77#2209, **Twist3dMindz**(Member) is now Online!
+28 Sep 2016 04:02:19 : PassionMC, main-chat, Botfuzzy77#2209, **Italis**(The Queer) is now Online!
+28 Sep 2016 04:02:26 : PassionMC, main-chat, Botfuzzy77#2209, **Anarchy**(No Role) is now Offline!
+28 Sep 2016 04:04:42 : PassionMC, main-chat, Botfuzzy77#2209, **TheLast1Alive**(The Queer) is now Offline!
+28 Sep 2016 04:06:14 : Penguins, leshemale, Botfuzzy77#2209, **Imposter Snake**(Suicune) is now Offline!
+28 Sep 2016 04:07:11 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Online!
+28 Sep 2016 04:07:11 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Online!
+28 Sep 2016 04:09:16 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Dong Ding**(Children of The Raw Man) is now Online!
+28 Sep 2016 04:21:06 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Offline!
+28 Sep 2016 04:21:09 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Online!
+28 Sep 2016 04:23:23 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Stormzzzy**(Popes of The Raw Man) is now Online!
+28 Sep 2016 04:23:57 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Priests of The Raw Man) is now Online!
+28 Sep 2016 04:24:26 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Priests of The Raw Man) is now Online!
+28 Sep 2016 04:24:53 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Online!
+28 Sep 2016 04:24:53 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Online!
+28 Sep 2016 04:30:42 : Cipher, general, Botfuzzy77#2209, **Akinci**(Grunt) is now Online!
+28 Sep 2016 04:30:42 : PassionMC, main-chat, Botfuzzy77#2209, **Akinci**(No Role) is now Online!
+28 Sep 2016 04:30:56 : PassionMC, main-chat, Botfuzzy77#2209, **Italis**(The Queer) is now Online!
+28 Sep 2016 04:32:46 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Offline!
+28 Sep 2016 04:32:46 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Offline!
+28 Sep 2016 04:34:06 : Cipher, general, Akinci#5072, Hi dad @Es Father
+28 Sep 2016 04:36:08 : PassionMC, main-chat, Botfuzzy77#2209, **Akinci**(No Role) is now Offline!
+28 Sep 2016 04:36:08 : Cipher, general, Botfuzzy77#2209, **Akinci**(Grunt) is now Offline!
+28 Sep 2016 04:39:56 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Stormzzzy**(Popes of The Raw Man) is now Online!
+28 Sep 2016 04:43:16 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Daniel**(Children of The Raw Man) is now Offline!
+28 Sep 2016 04:43:49 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **The Fat Walrus**(Priests of The Raw Man) is now Offline!
+28 Sep 2016 04:44:45 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Aethex**(Bots) is now Offline!
+28 Sep 2016 04:45:20 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Aethex**(Bots) is now Online!
+28 Sep 2016 04:50:35 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **RadicalRadius**(Children of The Raw Man) is now Offline!
+28 Sep 2016 04:53:05 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Cat**(Children of The Raw Man) is now Online!
+28 Sep 2016 04:55:17 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Dong Ding**(Children of The Raw Man) is now Online!
+28 Sep 2016 04:56:24 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Cat**(Children of The Raw Man) is now Offline!
+28 Sep 2016 04:56:57 : PassionMC, main-chat, Botfuzzy77#2209, **Italis**(The Queer) is now Online!
+28 Sep 2016 04:58:37 : My Personal Server, general, Botfuzzy77#2209, **Twist3dMindz**(Member) is now Online!
+28 Sep 2016 05:00:02 : PassionMC, main-chat, Botfuzzy77#2209, **Flaronix**(No Role) is now Online!
+28 Sep 2016 05:01:55 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Stormzzzy**(Popes of The Raw Man) is now Online!
+28 Sep 2016 05:03:53 : My Personal Server, general, Botfuzzy77#2209, **Twist3dMindz**(Member) is now Offline!
+28 Sep 2016 05:12:53 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Priests of The Raw Man) is now Online!
+28 Sep 2016 05:17:19 : PassionMC, main-chat, Botfuzzy77#2209, **DonTheBreton**(Builder) is now Online!
+28 Sep 2016 05:24:24 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Online!
+28 Sep 2016 05:26:24 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Valkenn**(Children of The Raw Man) is now Offline!
+28 Sep 2016 05:33:18 : PassionMC, main-chat, Botfuzzy77#2209, **DonTheBreton**(Builder) is now Online!
+28 Sep 2016 05:36:14 : Penguins, leshemale, Botfuzzy77#2209, **Imposter Snake**(Suicune) is now Online!
+28 Sep 2016 05:37:42 : PassionMC, main-chat, Botfuzzy77#2209, **LightShadow**(No Role) is now Offline!
+28 Sep 2016 05:37:42 : Temp Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Offline!
+28 Sep 2016 05:37:42 : My Personal Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Offline!
+28 Sep 2016 05:37:57 : My Personal Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Online!
+28 Sep 2016 05:37:57 : Temp Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Online!
+28 Sep 2016 05:37:57 : PassionMC, main-chat, Botfuzzy77#2209, **LightShadow**(No Role) is now Online!
+28 Sep 2016 05:39:57 : Temp Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Offline!
+28 Sep 2016 05:39:57 : PassionMC, main-chat, Botfuzzy77#2209, **LightShadow**(No Role) is now Offline!
+28 Sep 2016 05:39:57 : My Personal Server, general, Botfuzzy77#2209, **LightShadow**(Owner) is now Offline!
+28 Sep 2016 05:40:37 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **The Innkeeper**(Bots) is now Online!
+28 Sep 2016 05:44:26 : PassionMC, main-chat, Botfuzzy77#2209, **MrPep**(No Role) is now Online!
+28 Sep 2016 05:55:39 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Stormzzzy**(Popes of The Raw Man) is now Offline!
+28 Sep 2016 05:55:40 : PassionMC, main-chat, Botfuzzy77#2209, **DonTheBreton**(Builder) is now Online!
+28 Sep 2016 05:59:52 : PassionMC, main-chat, Botfuzzy77#2209, **Pugs**(No Role) is now Offline!
+28 Sep 2016 06:05:53 : Cipher, general, Botfuzzy77#2209, **Skyd**(Champ) is now Online!
+28 Sep 2016 06:05:53 : PassionMC, main-chat, Botfuzzy77#2209, **Skyd**(Moderators) is now Online!
+28 Sep 2016 06:05:53 : Team Harmony, general, Botfuzzy77#2209, **Skyd**(Team Harmony) is now Online!
+28 Sep 2016 06:37:27 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Cat**(Children of The Raw Man) is now Online!
+28 Sep 2016 06:38:07 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Fearleas**(No Role) is now Online!
+28 Sep 2016 06:40:31 : PassionMC, main-chat, Botfuzzy77#2209, **DonTheBreton**(Builder) is now Online!
+28 Sep 2016 06:42:54 : PassionMC, main-chat, Botfuzzy77#2209, **Wertfuzzy77**(Nerd) is now Online!
+28 Sep 2016 06:42:54 : GreenHillGang, general, Botfuzzy77#2209, **Wertfuzzy77**(No Role) is now Online!
+28 Sep 2016 06:42:54 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+28 Sep 2016 06:49:17 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Schauda**(Priests of The Raw Man) is now Online!
+28 Sep 2016 06:50:30 : Cipher, general, Botfuzzy77#2209, **Fuze - Josh**(Grunt) is now Online!
+28 Sep 2016 06:50:30 : PassionMC, main-chat, Botfuzzy77#2209, **Fuze - Josh**(The Queer) is now Online!
+28 Sep 2016 06:51:18 : PassionMC, main-chat, Botfuzzy77#2209, **DonTheBreton**(Builder) is now Online!
+28 Sep 2016 06:52:01 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+28 Sep 2016 06:52:01 : PassionMC, main-chat, Botfuzzy77#2209, **Topheralan**(Moderators) is now Online!
+28 Sep 2016 06:52:01 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Online!
+28 Sep 2016 06:52:17 : Team Harmony, general, Skyd#9935, Tuff
+28 Sep 2016 06:53:11 : PassionMC, main-chat, Botfuzzy77#2209, **Fuze - Josh**(The Queer) is now Offline!
+28 Sep 2016 06:53:11 : Cipher, general, Botfuzzy77#2209, **Fuze - Josh**(Grunt) is now Offline!
+28 Sep 2016 06:53:19 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Schauda**(Priests of The Raw Man) is now Online!
+28 Sep 2016 06:54:08 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Cat**(Children of The Raw Man) is now Offline!
+28 Sep 2016 06:54:43 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Offline!
+28 Sep 2016 06:54:43 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+28 Sep 2016 06:54:43 : PassionMC, main-chat, Botfuzzy77#2209, **Topheralan**(Moderators) is now Offline!
+28 Sep 2016 06:55:35 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Prince Kumbi**(Priests of The Raw Man) is now Online!
+28 Sep 2016 07:04:15 : Team Harmony, general, Botfuzzy77#2209, **Skyd**(Team Harmony) is now Offline!
+28 Sep 2016 07:04:15 : Cipher, general, Botfuzzy77#2209, **Skyd**(Champ) is now Offline!
+28 Sep 2016 07:04:15 : PassionMC, main-chat, Botfuzzy77#2209, **Skyd**(Moderators) is now Offline!
+28 Sep 2016 07:12:42 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Fearleas**(No Role) is now Offline!
+28 Sep 2016 07:15:38 : PassionMC, main-chat, Botfuzzy77#2209, **DonTheBreton**(Builder) is now Online!
+28 Sep 2016 07:29:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Schauda**(Priests of The Raw Man) is now Offline!
+28 Sep 2016 07:29:55 : PassionMC, main-chat, Botfuzzy77#2209, **Blackhawk1228**(No Role) is now Online!
+28 Sep 2016 07:33:32 : PassionMC, main-chat, Botfuzzy77#2209, **Flaronix**(No Role) is now Offline!
+28 Sep 2016 07:34:51 : Penguins, leshemale, Botfuzzy77#2209, **Imposter Snake**(Suicune) is now Offline!
+28 Sep 2016 07:51:08 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Dong Ding**(Children of The Raw Man) is now Online!
+28 Sep 2016 07:53:11 : PassionMC, main-chat, Botfuzzy77#2209, **Skyd**(Moderators) is now Online!
+28 Sep 2016 07:53:11 : Cipher, general, Botfuzzy77#2209, **Skyd**(Champ) is now Online!
+28 Sep 2016 07:53:11 : Team Harmony, general, Botfuzzy77#2209, **Skyd**(Team Harmony) is now Online!
+28 Sep 2016 07:53:43 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Dong Ding**(Children of The Raw Man) is now Online!
+28 Sep 2016 07:56:00 : Team Harmony, pqidealog, Skyd#9935, Generation Champions.
+Each generation has a champion who only uses Pokemon from that generation.
+28 Sep 2016 07:58:37 : Cipher, general, Botfuzzy77#2209, **Skyd**(Champ) is now Offline!
+28 Sep 2016 07:58:37 : Team Harmony, general, Botfuzzy77#2209, **Skyd**(Team Harmony) is now Offline!
+28 Sep 2016 07:58:37 : PassionMC, main-chat, Botfuzzy77#2209, **Skyd**(Moderators) is now Offline!
+28 Sep 2016 08:12:00 : PassionMC, main-chat, Botfuzzy77#2209, **Skyd**(Moderators) is now Online!
+28 Sep 2016 08:12:00 : Team Harmony, general, Botfuzzy77#2209, **Skyd**(Team Harmony) is now Online!
+28 Sep 2016 08:12:00 : Cipher, general, Botfuzzy77#2209, **Skyd**(Champ) is now Online!
+28 Sep 2016 08:13:28 : PassionMC, staff-chat, Skyd#9935, How's the idea of generation champions?
+28 Sep 2016 08:20:52 : Cipher, general, Botfuzzy77#2209, **Skyd**(Champ) is now Offline!
+28 Sep 2016 08:20:52 : PassionMC, main-chat, Botfuzzy77#2209, **Skyd**(Moderators) is now Offline!
+28 Sep 2016 08:20:52 : Team Harmony, general, Botfuzzy77#2209, **Skyd**(Team Harmony) is now Offline!
+28 Sep 2016 08:25:07 : Penguins, leshemale, Botfuzzy77#2209, **xAlain_(Charizard)**(Suicune) is now Online!
+28 Sep 2016 08:25:37 : Penguins, leshemale, xAlain_(Charizard)#0865, lel
+28 Sep 2016 08:26:52 : LimitlessMc, mainchat, xAlain_(Charizard)#0865, @Libug#6564 hello
+28 Sep 2016 08:31:55 : Penguins, leshemale, Botfuzzy77#2209, **xAlain_(Charizard)**(Suicune) is now Offline!
+28 Sep 2016 08:33:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **TrueXPixels**(Children of The Raw Man) is now Offline!
+28 Sep 2016 08:40:21 : PassionMC, main-chat, Botfuzzy77#2209, **MrPep**(No Role) is now Online!
+28 Sep 2016 09:03:03 : PassionMC, main-chat, Botfuzzy77#2209, **MrPep**(No Role) is now Online!
+28 Sep 2016 09:12:30 : PassionMC, main-chat, Botfuzzy77#2209, **DonTheBreton**(Builder) is now Online!
+28 Sep 2016 09:39:17 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **druif**(Nazi) is now Online!
+28 Sep 2016 09:40:18 : PassionMC, main-chat, Botfuzzy77#2209, **D3NSH1N**(Moderators) is now Online!
+28 Sep 2016 09:40:18 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+28 Sep 2016 09:40:18 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+28 Sep 2016 09:40:51 : Team Harmony, botchat, D3NSH1N#8702, ;server passion.mcserver.ws
+28 Sep 2016 09:40:52 : Team Harmony, botchat, Botfuzzy77#2209, **Server IP**: passion.mcserver.ws
+28 Sep 2016 09:40:52 : Team Harmony, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 0 players out of 80
+ *Ping*: 133.839 ms
+ *MC Version*: 1.10.2
+28 Sep 2016 09:40:52 : Team Harmony, botchat, Botfuzzy77#2209, *Server is Down :(*
+28 Sep 2016 09:42:59 : Team Harmony, general, D3NSH1N#8702, @Skyd  net fixed yet? Lol
+28 Sep 2016 09:49:34 : Team Harmony, pqidealog, D3NSH1N#8702, Team Starter Kit: 5 Ranch Blocks, 32x Chests, 10 x 64 block of choice (non abusable), 64 Signs, ... .
+28 Sep 2016 09:53:11 : Cipher, general, Botfuzzy77#2209, **Alpha is in School**(Grunt) is now Offline!
+28 Sep 2016 09:53:11 : PassionMC, main-chat, Botfuzzy77#2209, **Alpha is in School**(No Role) is now Offline!
+28 Sep 2016 09:54:00 : PassionMC, main-chat, Botfuzzy77#2209, **Alpha is in School**(No Role) is now Online!
+28 Sep 2016 09:54:00 : Cipher, general, Botfuzzy77#2209, **Alpha is in School**(Grunt) is now Online!
+28 Sep 2016 09:58:06 : Team Harmony, botchat, D3NSH1N#8702, ;server passion.mcserver.ws
+28 Sep 2016 09:58:06 : Team Harmony, botchat, Botfuzzy77#2209, **Server IP**: passion.mcserver.ws
+28 Sep 2016 09:58:06 : Team Harmony, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 0 players out of 80
+ *Ping*: 132.575 ms
+ *MC Version*: 1.10.2
+28 Sep 2016 09:58:06 : Team Harmony, botchat, Botfuzzy77#2209, *Server is Down :(*
+28 Sep 2016 10:00:30 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Schauda**(Priests of The Raw Man) is now Online!
+28 Sep 2016 10:02:50 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **YalHasItAll**(No Role) is now Online!
+28 Sep 2016 10:06:28 : PassionMC, staff-chat, D3NSH1N#8702, I like
+28 Sep 2016 10:08:10 : Cipher, general, Botfuzzy77#2209, **Survs confirmed gey?**(Grunt) is now Online!
+28 Sep 2016 10:08:10 : Penguins, leshemale, Botfuzzy77#2209, **Survs confirmed gey?**(Genesect) is now Online!
+28 Sep 2016 10:10:21 : PassionMC, main-chat, Botfuzzy77#2209, **D3NSH1N**(Moderators) is now Offline!
+28 Sep 2016 10:10:21 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Offline!
+28 Sep 2016 10:10:21 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+28 Sep 2016 10:10:43 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **YalHasItAll**(No Role) is now Online!
+28 Sep 2016 10:17:43 : Penguins, leshemale, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Online!
+28 Sep 2016 10:18:46 : PassionMC, main-chat, Botfuzzy77#2209, **Brian**(No Role) is now Online!
+28 Sep 2016 10:18:46 : Penguins, leshemale, Botfuzzy77#2209, **Brian**(Mewtwo) is now Online!
+28 Sep 2016 10:19:31 : Penguins, leshemale, Survs confirmed gey?#1962, @SurvivraInHellAKASchool
+28 Sep 2016 10:19:44 : Penguins, leshemale, Survs confirmed gey?#1962, You in school? :I
+28 Sep 2016 10:19:49 : Penguins, leshemale, Survs confirmed gey?#1962, @SurvivraInHellAKASchool
+28 Sep 2016 10:19:52 : Penguins, leshemale, Survs confirmed gey?#1962, @SurvivraInHellAKASchool
+28 Sep 2016 10:20:03 : Penguins, leshemale, xPalkia(lugia)#8149, @MOM hi. Im going to hell
+28 Sep 2016 10:20:05 : Penguins, leshemale, Survs confirmed gey?#1962, @SurvivraInHellAKASchool
+28 Sep 2016 10:20:17 : Penguins, leshemale, Survs confirmed gey?#1962, @xPalkia(lugia)  Woah hi, why you going there
+28 Sep 2016 10:20:23 : Penguins, leshemale, xPalkia(lugia)#8149, Stop spamming the gey
+28 Sep 2016 10:20:26 : Penguins, leshemale, Survs confirmed gey?#1962, XD
+28 Sep 2016 10:20:31 : Penguins, leshemale, xPalkia(lugia)#8149, Becausd hell is school
+28 Sep 2016 10:20:35 : Penguins, leshemale, Survs confirmed gey?#1962, Ohhh
+28 Sep 2016 10:20:39 : Penguins, leshemale, Survs confirmed gey?#1962, I don't have school today
+28 Sep 2016 10:20:40 : Penguins, leshemale, Survs confirmed gey?#1962, hueheu
+28 Sep 2016 10:20:51 : Penguins, leshemale, Survs confirmed gey?#1962, I've escaped hell
+28 Sep 2016 10:20:52 : Penguins, leshemale, Survs confirmed gey?#1962, :D
+28 Sep 2016 10:20:54 : Penguins, leshemale, xPalkia(lugia)#8149, I have 40 pages of homework due friday and i only have 1/3 done
+28 Sep 2016 10:20:59 : Penguins, leshemale, Survs confirmed gey?#1962, omg
+28 Sep 2016 10:21:01 : Penguins, leshemale, xPalkia(lugia)#8149, LOL
+28 Sep 2016 10:21:01 : Penguins, leshemale, Survs confirmed gey?#1962, About?
+28 Sep 2016 10:21:31 : Penguins, leshemale, xPalkia(lugia)#8149, For one of my classes. Science i guess. I have a bunch of other hw due too :[
+28 Sep 2016 10:21:36 : Penguins, leshemale, Survs confirmed gey?#1962, :I
+28 Sep 2016 10:21:53 : Penguins, leshemale, xPalkia(lugia)#8149, Rip grades unless i stay up all night doing it LOL
+28 Sep 2016 10:21:57 : Penguins, leshemale, Survs confirmed gey?#1962, Damn I feel so lucky since when I started school I've had no homework and only 2 tests...
+28 Sep 2016 10:22:07 : Penguins, leshemale, xPalkia(lugia)#8149, Fuck you
+28 Sep 2016 10:22:10 : Penguins, leshemale, Survs confirmed gey?#1962, XD
+28 Sep 2016 10:22:17 : Penguins, leshemale, xPalkia(lugia)#8149, Lucky duck
+28 Sep 2016 10:22:18 : Penguins, leshemale, Survs confirmed gey?#1962, Art for the win
+28 Sep 2016 10:22:25 : Penguins, leshemale, xPalkia(lugia)#8149, Art?
+28 Sep 2016 10:22:36 : Penguins, leshemale, Survs confirmed gey?#1962, ye i go the art line idk what its in english
+28 Sep 2016 10:22:53 : Penguins, leshemale, xPalkia(lugia)#8149, But seriously if surv has my pokes he ded to me
+28 Sep 2016 10:23:00 : Penguins, leshemale, Survs confirmed gey?#1962, XD
+28 Sep 2016 10:23:22 : Penguins, leshemale, Survs confirmed gey?#1962, I don't know anything about that, but since its survs
+28 Sep 2016 10:23:23 : Penguins, leshemale, Survs confirmed gey?#1962, who knows
+28 Sep 2016 10:23:28 : Penguins, leshemale, xPalkia(lugia)#8149, I have to do the dreadful... i have to play mobile phone games until i get a new pc
+28 Sep 2016 10:23:32 : Penguins, leshemale, xPalkia(lugia)#8149, Surv kys
+28 Sep 2016 10:23:38 : Penguins, leshemale, Survs confirmed gey?#1962, XD
+28 Sep 2016 10:23:48 : Penguins, leshemale, xPalkia(lugia)#8149, Go to a pool and drown okei @SurvivraInHellAKASchool
+28 Sep 2016 10:23:48 : Penguins, leshemale, Survs confirmed gey?#1962, mobile games are my drug
+28 Sep 2016 10:24:01 : Penguins, leshemale, Survs confirmed gey?#1962, fantasy war tactics ftwwwww
+28 Sep 2016 10:24:21 : Penguins, leshemale, Survs confirmed gey?#1962, WHen are you going to school? XD
+28 Sep 2016 10:24:26 : Penguins, leshemale, xPalkia(lugia)#8149, Now
+28 Sep 2016 10:24:28 : Penguins, leshemale, Survs confirmed gey?#1962, rip
+28 Sep 2016 10:24:29 : Penguins, leshemale, xPalkia(lugia)#8149, Lol
+28 Sep 2016 10:24:44 : Penguins, leshemale, Survs confirmed gey?#1962, The struggle of having a day off from school and everybody else is in hell
+28 Sep 2016 10:24:45 : Penguins, leshemale, xPalkia(lugia)#8149, My teachers let me charge my phone
+28 Sep 2016 10:24:48 : Penguins, leshemale, Survs confirmed gey?#1962, wot
+28 Sep 2016 10:24:49 : Penguins, leshemale, Survs confirmed gey?#1962, what
+28 Sep 2016 10:24:52 : Penguins, leshemale, xPalkia(lugia)#8149, Yeah
+28 Sep 2016 10:24:53 : Penguins, leshemale, Survs confirmed gey?#1962, wut
+28 Sep 2016 10:24:56 : Penguins, leshemale, Survs confirmed gey?#1962, no way
+28 Sep 2016 10:24:59 : Penguins, leshemale, xPalkia(lugia)#8149, Fully chargdd all day
+28 Sep 2016 10:25:01 : Penguins, leshemale, Survs confirmed gey?#1962, :O
+28 Sep 2016 10:25:03 : Penguins, leshemale, xPalkia(lugia)#8149, Yeah they do
+28 Sep 2016 10:25:05 : Penguins, leshemale, Survs confirmed gey?#1962, I'm so jelous XD
+28 Sep 2016 10:25:08 : Penguins, leshemale, xPalkia(lugia)#8149, :D
+28 Sep 2016 10:25:11 : Penguins, leshemale, Survs confirmed gey?#1962, jealous**
+28 Sep 2016 10:25:28 : Penguins, leshemale, Survs confirmed gey?#1962, I get yelled at from pulling my phone up to check my schedule XD
+28 Sep 2016 10:25:36 : Penguins, leshemale, xPalkia(lugia)#8149, You dont have hell today and i get to charge my phone on a lightning fast chargrr
+28 Sep 2016 10:25:43 : Penguins, leshemale, Survs confirmed gey?#1962, shaddap XD
+28 Sep 2016 10:25:46 : Penguins, leshemale, xPalkia(lugia)#8149, ;)
+28 Sep 2016 10:25:59 : Penguins, leshemale, Survs confirmed gey?#1962, Damn, my school isn't that chill with phones :I
+28 Sep 2016 10:26:16 : Penguins, leshemale, Survs confirmed gey?#1962, My teacher has my moms number so everytime I do something she texts her...
+28 Sep 2016 10:26:18 : Penguins, leshemale, Survs confirmed gey?#1962, XD
+28 Sep 2016 10:26:22 : Penguins, leshemale, Survs confirmed gey?#1962, It's scary oke???
+28 Sep 2016 10:26:41 : Penguins, leshemale, xPalkia(lugia)#8149, My school has 3 strikes. Strike 1 teacher takes it. 2. They take and puy it in front office until after school.  3 they keep it until end of year
+28 Sep 2016 10:26:48 : Penguins, leshemale, Survs confirmed gey?#1962, WOah
+28 Sep 2016 10:27:00 : Penguins, leshemale, xPalkia(lugia)#8149, But my teachers let us charge em
+28 Sep 2016 10:27:06 : Penguins, leshemale, Survs confirmed gey?#1962, Our school don't really have a set of rules for it, they do whatever they feel like
+28 Sep 2016 10:27:16 : Penguins, leshemale, Survs confirmed gey?#1962, THat's so lucky thoouggh
+28 Sep 2016 10:27:19 : Penguins, leshemale, Survs confirmed gey?#1962, >->
+28 Sep 2016 10:27:22 : Penguins, leshemale, xPalkia(lugia)#8149, But we cant use them unless we ask or need it for a calculator
+28 Sep 2016 10:27:27 : Penguins, leshemale, Survs confirmed gey?#1962, :O
+28 Sep 2016 10:27:35 : Penguins, leshemale, Survs confirmed gey?#1962, We can't use them for calcs XD
+28 Sep 2016 10:27:43 : Penguins, leshemale, Survs confirmed gey?#1962, We need a portable one
+28 Sep 2016 10:27:46 : Penguins, leshemale, Survs confirmed gey?#1962, a real one
+28 Sep 2016 10:28:04 : Penguins, leshemale, xPalkia(lugia)#8149, And. We can use them for looking up stuff for research
+28 Sep 2016 10:28:08 : Penguins, leshemale, Survs confirmed gey?#1962, :I
+28 Sep 2016 10:28:14 : Penguins, leshemale, Survs confirmed gey?#1962, fuck you and your school
+28 Sep 2016 10:28:25 : Penguins, leshemale, xPalkia(lugia)#8149, We have real calcs but we can use phonrs
+28 Sep 2016 10:28:29 : Penguins, leshemale, xPalkia(lugia)#8149, Sorry
+28 Sep 2016 10:28:32 : Penguins, leshemale, Survs confirmed gey?#1962, xd
+28 Sep 2016 10:28:33 : Penguins, leshemale, xPalkia(lugia)#8149, :/
+28 Sep 2016 10:28:45 : Penguins, leshemale, xPalkia(lugia)#8149, Brb
+28 Sep 2016 10:28:49 : Penguins, leshemale, Survs confirmed gey?#1962, ok
+28 Sep 2016 10:29:48 : PassionMC, main-chat, Botfuzzy77#2209, **Daddy**(No Role) is now Online!
+28 Sep 2016 10:30:24 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+28 Sep 2016 10:30:24 : PassionMC, main-chat, Botfuzzy77#2209, **D3NSH1N**(Moderators) is now Online!
+28 Sep 2016 10:30:24 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+28 Sep 2016 10:30:43 : Penguins, leshemale, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Offline!
+28 Sep 2016 10:31:20 : Penguins, leshemale, MOM NEEDS SANDWICH#1962, Well since my day's off, guess this means....
+28 Sep 2016 10:31:31 : Penguins, leshemale, MOM NEEDS SANDWICH#1962, More Sims 3 "sexysims" mods >:D
+28 Sep 2016 10:32:24 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Offline!
+28 Sep 2016 10:32:24 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+28 Sep 2016 10:32:24 : PassionMC, main-chat, Botfuzzy77#2209, **D3NSH1N**(Moderators) is now Offline!
+28 Sep 2016 10:36:13 : PassionMC, main-chat, Botfuzzy77#2209, **Brian**(No Role) is now Online!
+28 Sep 2016 10:36:13 : Penguins, leshemale, Botfuzzy77#2209, **Brian**(Mewtwo) is now Online!
+28 Sep 2016 10:37:02 : Penguins, leshemale, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Online!
+28 Sep 2016 10:39:03 : Penguins, leshemale, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Offline!
+28 Sep 2016 10:40:09 : Cipher, general, Botfuzzy77#2209, **Allianths**(Officer) is now Online!
+28 Sep 2016 10:40:09 : PassionMC, main-chat, Botfuzzy77#2209, **Allianths**(No Role) is now Online!
+28 Sep 2016 10:44:05 : PassionMC, main-chat, Botfuzzy77#2209, **Mystz**(Owners) is now Online!
+28 Sep 2016 10:46:05 : PassionMC, main-chat, Botfuzzy77#2209, **Mystz**(Owners) is now Offline!
+28 Sep 2016 10:47:17 : PassionMC, main-chat, Botfuzzy77#2209, **Mystz**(Owners) is now Online!
+28 Sep 2016 10:47:40 : Cipher, general, Botfuzzy77#2209, **MOM NEEDS SANDWICH**(Grunt) is now Online!
+28 Sep 2016 10:47:40 : Penguins, leshemale, Botfuzzy77#2209, **MOM NEEDS SANDWICH**(Genesect) is now Online!
+28 Sep 2016 10:50:18 : Cipher, general, Botfuzzy77#2209, **Akinci**(Grunt) is now Online!
+28 Sep 2016 10:52:59 : Cipher, general, Botfuzzy77#2209, **Akinci**(Grunt) is now Offline!
+28 Sep 2016 10:53:59 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+28 Sep 2016 10:53:59 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Online!
+28 Sep 2016 10:54:08 : Cipher, general, Botfuzzy77#2209, **Allianths**(Officer) is now Offline!
+28 Sep 2016 10:56:40 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+28 Sep 2016 10:56:41 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Offline!
+28 Sep 2016 10:57:05 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+28 Sep 2016 10:57:05 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+28 Sep 2016 10:59:05 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+28 Sep 2016 10:59:05 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Offline!
+28 Sep 2016 11:06:07 : Penguins, leshemale, Botfuzzy77#2209, **Brian**(Mewtwo) is now Online!
+28 Sep 2016 11:07:15 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **The Innkeeper**(Bots) is now Offline!
+28 Sep 2016 11:07:59 : Penguins, leshemale, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Online!
+28 Sep 2016 11:08:20 : Team Harmony, general, Botfuzzy77#2209, **Techni**(Team Harmony) is now Offline!
+28 Sep 2016 11:08:20 : My Personal Server, general, Botfuzzy77#2209, **Techni**(Member) is now Offline!
+28 Sep 2016 11:08:38 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Wha
+28 Sep 2016 11:08:44 : Penguins, leshemale, SurvivraInHellAKASchool#7191, @mom
+28 Sep 2016 11:08:48 : Penguins, leshemale, SurvivraInHellAKASchool#7191, 
+28 Sep 2016 11:08:49 : Penguins, leshemale, SurvivraInHellAKASchool#7191, @MOM
+28 Sep 2016 11:09:01 : Penguins, leshemale, MOM NEEDS SANDWICH#1962, LOL I read that
+28 Sep 2016 11:09:03 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Hilarious^
+28 Sep 2016 11:09:07 : Penguins, leshemale, MOM NEEDS SANDWICH#1962, Ikr XD
+28 Sep 2016 11:09:14 : Penguins, leshemale, MOM NEEDS SANDWICH#1962, I was like, "Really?"
+28 Sep 2016 11:09:20 : Penguins, leshemale, MOM NEEDS SANDWICH#1962, You really went with that XD
+28 Sep 2016 11:09:33 : Penguins, leshemale, SurvivraInHellAKASchool#7191, "it must bin my son"
+28 Sep 2016 11:09:37 : Penguins, leshemale, MOM NEEDS SANDWICH#1962, XD
+28 Sep 2016 11:09:48 : Penguins, leshemale, MOM NEEDS SANDWICH#1962, even dumber than the it was my brother one
+28 Sep 2016 11:09:59 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Ikr
+28 Sep 2016 11:10:01 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Dong Ding**(Children of The Raw Man) is now Online!
+28 Sep 2016 11:10:08 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Dumber than palkia being male
+28 Sep 2016 11:10:13 : Penguins, leshemale, MOM NEEDS SANDWICH#1962, pff ikr
+28 Sep 2016 11:10:20 : Penguins, leshemale, MOM NEEDS SANDWICH#1962, ;image dialga x palkia
+28 Sep 2016 11:10:24 : Penguins, leshemale, Botfuzzy77#2209, http://www.kikaimegami.com/art/albums/userpics/10022/normal_PalkiaDialgaColour.jpg
+28 Sep 2016 11:10:32 : Penguins, leshemale, MOM NEEDS SANDWICH#1962, XD
+28 Sep 2016 11:10:33 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Hahahahahahahhah
+28 Sep 2016 11:10:39 : Penguins, leshemale, MOM NEEDS SANDWICH#1962, I just can't, it's a classic
+28 Sep 2016 11:10:41 : Penguins, leshemale, MOM NEEDS SANDWICH#1962, XD
+28 Sep 2016 11:10:46 : Penguins, leshemale, SurvivraInHellAKASchool#7191, OHH I UNDERSTAND THE "34'
+28 Sep 2016 11:10:51 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Rule 34
+28 Sep 2016 11:10:54 : Penguins, leshemale, MOM NEEDS SANDWICH#1962, OH
+28 Sep 2016 11:10:55 : Penguins, leshemale, MOM NEEDS SANDWICH#1962, OOH
+28 Sep 2016 11:10:56 : Penguins, leshemale, MOM NEEDS SANDWICH#1962, XD
+28 Sep 2016 11:11:00 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Lol
+28 Sep 2016 11:11:00 : Penguins, leshemale, MOM NEEDS SANDWICH#1962, Never thought of it
+28 Sep 2016 11:11:02 : Penguins, leshemale, MOM NEEDS SANDWICH#1962, lelel
+28 Sep 2016 11:11:04 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Sameee
+28 Sep 2016 11:11:16 : Penguins, leshemale, MOM NEEDS SANDWICH#1962, AAnyway when are you gettin' on a computer
+28 Sep 2016 11:11:33 : Penguins, leshemale, SurvivraInHellAKASchool#7191, :I
+28 Sep 2016 11:11:46 : Penguins, leshemale, MOM NEEDS SANDWICH#1962, oo, well I just need tp to my ditter ranch XD
+28 Sep 2016 11:11:57 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Any mod there?
+28 Sep 2016 11:12:00 : Penguins, leshemale, MOM NEEDS SANDWICH#1962, Nah
+28 Sep 2016 11:12:04 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Eh
+28 Sep 2016 11:12:09 : Penguins, leshemale, MOM NEEDS SANDWICH#1962, just logged of and noone was one
+28 Sep 2016 11:12:10 : Penguins, leshemale, SurvivraInHellAKASchool#7191, MAM WHY U NO SWTHOME
+28 Sep 2016 11:12:12 : Penguins, leshemale, MOM NEEDS SANDWICH#1962, XD
+28 Sep 2016 11:12:15 : Penguins, leshemale, MOM NEEDS SANDWICH#1962, I forget
+28 Sep 2016 11:12:17 : Penguins, leshemale, MOM NEEDS SANDWICH#1962, everytim
+28 Sep 2016 11:12:25 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Anywyas i werk
+28 Sep 2016 11:12:28 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Bbl
+28 Sep 2016 11:12:29 : Penguins, leshemale, MOM NEEDS SANDWICH#1962, oke
+28 Sep 2016 11:14:06 : Penguins, leshemale, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Offline!
+28 Sep 2016 11:18:30 : Penguins, leshemale, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Online!
+28 Sep 2016 11:18:45 : Penguins, leshemale, xPalkia(lugia)#8149, In hell bye
+28 Sep 2016 11:18:54 : Penguins, leshemale, MOM NEEDS SANDWICH#1962, lol bai
+28 Sep 2016 11:19:13 : Penguins, leshemale, MOM NEEDS SANDWICH#1962, all by mysellff
+28 Sep 2016 11:20:30 : Penguins, leshemale, Botfuzzy77#2209, **xPalkia(lugia)**(Mewtwo) is now Offline!
+28 Sep 2016 11:21:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Offline!
+28 Sep 2016 11:21:10 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Online!
+28 Sep 2016 11:34:26 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Offline!
+28 Sep 2016 11:34:53 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Online!
+28 Sep 2016 11:37:20 : Cipher, general, Botfuzzy77#2209, **MOM NEEDS SANDWICH**(Grunt) is now Online!
+28 Sep 2016 11:37:20 : Penguins, leshemale, Botfuzzy77#2209, **MOM NEEDS SANDWICH**(Genesect) is now Online!
+28 Sep 2016 11:37:38 : Penguins, leshemale, Botfuzzy77#2209, **MOM NEEDS SANDWICH**(Genesect) is now Offline!
+28 Sep 2016 11:37:38 : Cipher, general, Botfuzzy77#2209, **MOM NEEDS SANDWICH**(Grunt) is now Offline!
+28 Sep 2016 11:43:54 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Offline!
+28 Sep 2016 11:44:21 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Online!
+28 Sep 2016 11:44:43 : Cipher, general, Botfuzzy77#2209, **Dudubidu**(Grunt) is now Online!
+28 Sep 2016 11:45:15 : Cipher, general, Botfuzzy77#2209, **Dudubidu**(Grunt) is now Online!
+28 Sep 2016 11:49:07 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Offline!
+28 Sep 2016 11:49:34 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Online!
+28 Sep 2016 11:49:57 : Penguins, leshemale, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Online!
+28 Sep 2016 11:50:26 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Ugh the teacher is giving us stuff that we havent learned get
+28 Sep 2016 11:50:30 : Penguins, leshemale, SurvivraInHellAKASchool#7191, All from ipads
+28 Sep 2016 11:51:00 : Penguins, leshemale, SurvivraInHellAKASchool#7191, 
+28 Sep 2016 11:51:14 : Penguins, leshemale, SurvivraInHellAKASchool#7191, Boi its only the 2nd week
+28 Sep 2016 11:51:30 : Cipher, general, Botfuzzy77#2209, **Alpha is in School**(Grunt) is now Online!
+28 Sep 2016 11:52:13 : Penguins, leshemale, SurvivraInHellAKASchool#7191, @MOM
+28 Sep 2016 11:52:13 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Offline!
+28 Sep 2016 11:52:16 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Online!
+28 Sep 2016 11:54:32 : Penguins, leshemale, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Offline!
+28 Sep 2016 11:54:54 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Offline!
+28 Sep 2016 11:55:27 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Online!
+28 Sep 2016 11:59:08 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+28 Sep 2016 11:59:08 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+28 Sep 2016 11:59:13 : Penguins, leshemale, Botfuzzy77#2209, **chaliema**(Rayquaza) is now Online!
+28 Sep 2016 12:00:07 : Team Harmony, botchat, D3NSH1N#8702, ;server passion.mcserver.ws
+28 Sep 2016 12:00:08 : Team Harmony, botchat, Botfuzzy77#2209, **Server IP**: passion.mcserver.ws
+28 Sep 2016 12:00:08 : Team Harmony, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 0 players out of 80
+ *Ping*: 144.66 ms
+ *MC Version*: 1.10.2
+28 Sep 2016 12:00:08 : Team Harmony, botchat, Botfuzzy77#2209, *Server is Down :(*
+28 Sep 2016 12:01:13 : Penguins, leshemale, Botfuzzy77#2209, **chaliema**(Rayquaza) is now Offline!
+28 Sep 2016 12:09:39 : Penguins, leshemale, Botfuzzy77#2209, **Imposter Snake**(Suicune) is now Online!
+28 Sep 2016 12:13:45 : Penguins, leshemale, Botfuzzy77#2209, **chaliema**(Rayquaza) is now Online!
+28 Sep 2016 12:15:40 : Cipher, general, Botfuzzy77#2209, **Alpha is in School**(Grunt) is now Offline!
+28 Sep 2016 12:24:37 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+28 Sep 2016 12:24:37 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Online!
+28 Sep 2016 12:25:02 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+28 Sep 2016 12:25:02 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+28 Sep 2016 12:27:11 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **YalHasItAll**(No Role) is now Online!
+28 Sep 2016 12:27:57 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Online!
+28 Sep 2016 12:27:57 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Online!
+28 Sep 2016 12:27:59 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+28 Sep 2016 12:27:59 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Offline!
+28 Sep 2016 12:28:45 : Cipher, general, Botfuzzy77#2209, **Jabulla**(Grunt) is now Online!
+28 Sep 2016 12:31:13 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **YalHasItAll**(No Role) is now Online!
+28 Sep 2016 12:33:57 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+28 Sep 2016 12:33:57 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Offline!
+28 Sep 2016 12:35:57 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **YalHasItAll**(No Role) is now Online!
+28 Sep 2016 12:36:50 : Penguins, leshemale, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Online!
+28 Sep 2016 12:38:06 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **I-Like-Pizzja**(Nazi) is now Online!
+28 Sep 2016 12:38:45 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Offline!
+28 Sep 2016 12:38:50 : Penguins, leshemale, Botfuzzy77#2209, **SurvivraInHellAKASchool**(Deoxys) is now Offline!
+28 Sep 2016 12:39:12 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Online!
+28 Sep 2016 12:40:01 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Offline!
+28 Sep 2016 12:40:29 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Online!
+28 Sep 2016 12:41:26 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **YalHasItAll**(No Role) is now Online!
+28 Sep 2016 12:46:26 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Offline!
+28 Sep 2016 12:46:53 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Online!
+28 Sep 2016 12:47:08 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Offline!
+28 Sep 2016 12:47:35 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Online!
+28 Sep 2016 12:51:38 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(SchutzStaffel) is now Online!
+28 Sep 2016 12:55:16 : Penguins, leshemale, Botfuzzy77#2209, **Imposter Snake**(Suicune) is now Offline!
+28 Sep 2016 12:55:24 : Penguins, leshemale, Botfuzzy77#2209, **Imposter Snake**(Suicune) is now Online!
+28 Sep 2016 12:58:00 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Offline!
+28 Sep 2016 12:58:28 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Online!
+28 Sep 2016 13:03:09 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Offline!
+28 Sep 2016 13:03:09 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Offline!
+28 Sep 2016 13:03:46 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Default**(SchutzStaffel) is now Online!
+28 Sep 2016 13:10:53 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **YalHasItAll**(No Role) is now Online!
+28 Sep 2016 13:12:06 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Offline!
+28 Sep 2016 13:12:35 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Online!
+28 Sep 2016 13:22:35 : Penguins, leshemale, Botfuzzy77#2209, **chaliema**(Rayquaza) is now Online!
+28 Sep 2016 13:39:04 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Default**(SchutzStaffel) is now Online!
+28 Sep 2016 13:45:25 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+28 Sep 2016 13:45:25 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Online!
+28 Sep 2016 13:45:30 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Bloodyskills**(SchutzStaffel) is now Online!
+28 Sep 2016 13:47:25 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+28 Sep 2016 13:47:25 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Offline!
+28 Sep 2016 13:49:12 : Temp Server, general, Botfuzzy77#2209, **Sunstrikeh**(Admin) is now Offline!
+28 Sep 2016 13:49:12 : My Personal Server, general, Botfuzzy77#2209, **Sunstrikeh**(Moderator) is now Offline!
+28 Sep 2016 13:49:21 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Online!
+28 Sep 2016 13:49:21 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Online!
+28 Sep 2016 13:57:57 : Penguins, leshemale, Botfuzzy77#2209, **chaliema**(Rayquaza) is now Online!
+28 Sep 2016 13:58:51 : Penguins, leshemale, Botfuzzy77#2209, **xAlain_(Charizard)**(Suicune) is now Online!
+28 Sep 2016 13:59:56 : Penguins, leshemale, chaliema#8598, so sad
+28 Sep 2016 14:00:24 : Penguins, leshemale, chaliema#8598, where do you from by the way
+28 Sep 2016 14:00:40 : Penguins, leshemale, chaliema#8598, looks quit awful :3
+28 Sep 2016 14:02:06 : Penguins, leshemale, Botfuzzy77#2209, **xAlain_(Charizard)**(Suicune) is now Offline!
+28 Sep 2016 14:06:35 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Fearleas**(No Role) is now Online!
+28 Sep 2016 14:09:52 : Penguins, leshemale, Botfuzzy77#2209, **chaliema**(Rayquaza) is now Offline!
+28 Sep 2016 14:18:53 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **jacksparrow**(No Role) is now Online!
+28 Sep 2016 14:32:03 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Default**(SchutzStaffel) is now Online!
+28 Sep 2016 14:32:18 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, eej jij vieze plopkoek
+28 Sep 2016 14:32:33 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, lekker spelen
+28 Sep 2016 14:34:13 : Cipher, general, Botfuzzy77#2209, **Dudubidu**(Grunt) is now Online!
+28 Sep 2016 14:40:15 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Online!
+28 Sep 2016 14:40:15 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Online!
+28 Sep 2016 14:46:29 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Online!
+28 Sep 2016 14:46:29 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Online!
+28 Sep 2016 14:48:29 : Team Harmony, general, Botfuzzy77#2209, **D3NSH1N**(Team Harmony) is now Offline!
+28 Sep 2016 14:48:29 : Cipher, general, Botfuzzy77#2209, **D3NSH1N**(Officer) is now Offline!
+28 Sep 2016 14:48:49 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, https://www.youtube.com/watch?v=f7KPPdfRs-o
+28 Sep 2016 14:48:53 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, omg kijk
+28 Sep 2016 14:49:01 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, ze gaat om de helft van het filmpje dabben
+28 Sep 2016 14:49:10 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, is wel leuk
+28 Sep 2016 14:49:20 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, same
+28 Sep 2016 14:49:40 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Fearleas**(No Role) is now Offline!
+28 Sep 2016 14:58:07 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Schauda**(Priests of The Raw Man) is now Online!
+28 Sep 2016 14:58:09 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **Schauda**(Priests of The Raw Man) is now Online!
+28 Sep 2016 15:00:25 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Online!
+28 Sep 2016 15:00:25 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Online!
+28 Sep 2016 15:02:25 : Cipher, general, Botfuzzy77#2209, **Topheralan**(Admin) is now Offline!
+28 Sep 2016 15:02:25 : Team Harmony, general, Botfuzzy77#2209, **Topheralan**(Team Harmony) is now Offline!
+28 Sep 2016 15:03:41 : Penguins, leshemale, Botfuzzy77#2209, **chaliema**(Rayquaza) is now Online!
+28 Sep 2016 15:04:42 : Cipher, general, Botfuzzy77#2209, **Akinci**(Grunt) is now Online!
+28 Sep 2016 15:06:12 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Default**(SchutzStaffel) is now Online!
+28 Sep 2016 15:06:22 : Penguins, leshemale, Botfuzzy77#2209, **chaliema**(Rayquaza) is now Offline!
+28 Sep 2016 15:06:42 : Cipher, general, Botfuzzy77#2209, **Akinci**(Grunt) is now Offline!
+28 Sep 2016 15:06:53 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **Gilles**(Nazi) is now Online!
+28 Sep 2016 15:09:10 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, 
+28 Sep 2016 15:10:06 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Online!
+28 Sep 2016 15:10:07 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Online!
+28 Sep 2016 15:10:16 : GetPlebd, weeaboo-chat, Gilles#3169, 
+28 Sep 2016 15:10:28 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, **warnier**(No Role) is now Online!
+28 Sep 2016 15:11:26 : Cipher, general, Botfuzzy77#2209, **Dudubidu**(Grunt) is now Offline!
+28 Sep 2016 15:11:55 : GetPlebd, weeaboo-chat, I-Like-Pizzja#5222, 
+28 Sep 2016 15:13:44 : Penguins, leshemale, Botfuzzy77#2209, **Olivia**(Xerneas) is now Online!
+28 Sep 2016 15:15:33 : Temp Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Member) is now Online!
+28 Sep 2016 15:15:33 : My Personal Server, general, Botfuzzy77#2209, **DJ_Phatzo**(Guide) is now Online!
+28 Sep 2016 15:15:44 : Penguins, leshemale, Botfuzzy77#2209, **Olivia**(Xerneas) is now Offline!
+28 Sep 2016 15:20:31 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Offline!
+28 Sep 2016 15:20:58 : The Raw Man Cult, mainchat, Botfuzzy77#2209, **KawaiiBot**(Bots) is now Online!
+28 Sep 2016 15:23:48 : GreenHillGang, general, Botfuzzy77#2209, **Wertfuzzy77**(No Role) is now Online!
+28 Sep 2016 15:23:48 : Cipher, general, Botfuzzy77#2209, **Wertfuzzy77**(Grand Master) is now Online!
+28 Sep 2016 15:24:36 : The Wild Weebs, music, Wertfuzzy77#0274, ;join
+28 Sep 2016 15:24:36 : The Wild Weebs, music, Botfuzzy77#2209, Sorry, I'm already connected to a channel in server The Wild Weebs
+28 Sep 2016 15:24:39 : The Wild Weebs, music, Wertfuzzy77#0274, ;relog
+28 Sep 2016 15:24:39 : The Wild Weebs, music, Botfuzzy77#2209, Relogging...

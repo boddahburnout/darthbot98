@@ -1,0 +1,30 @@
+Botfuzzy77#2926, Starting up...
+Botfuzzy77#2926, Loaded with Version 0.5.1
+Wertfuzzy77#0274, !ranking 10
+Botfuzzy77#2926, Name: Bakafish, Rank: 1, Index: 173.9
+Name: EHHockey35, Rank: 2, Index: 128.8
+Name: Zeathrus, Rank: 3, Index: 128.6
+Name: TheSolvdow, Rank: 4, Index: 117.3
+Name: BigJoseB, Rank: 5, Index: 115.5
+Name: ruleroftri, Rank: 6, Index: 112.4
+Name: kingbrenner, Rank: 7, Index: 111.2
+Name: sc0tty14, Rank: 8, Index: 108.1
+Name: Lizard_PlayzMC, Rank: 9, Index: 105.4
+Name: PoroTheSquirrel, Rank: 10, Index: 100.8
+
+Wertfuzzy77#0274, !ranking 10 5
+Botfuzzy77#2926, Name: BigJoseB, Rank: 5, Index: 115.5
+Name: ruleroftri, Rank: 6, Index: 112.4
+Name: kingbrenner, Rank: 7, Index: 111.2
+Name: sc0tty14, Rank: 8, Index: 108.1
+Name: Lizard_PlayzMC, Rank: 9, Index: 105.4
+Name: PoroTheSquirrel, Rank: 10, Index: 100.8
+
+Wertfuzzy77#0274, !help ranking
+Botfuzzy77#2926, ```
+!ranking [To=5] [From=1]
+
+Returns the Current Server Rankings
+
+```
+Wertfuzzy77#0274, !relog

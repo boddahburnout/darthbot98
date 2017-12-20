@@ -1,0 +1,1248 @@
+08 Dec 2016 21:18:08 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+08 Dec 2016 21:18:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search who are you
+08 Dec 2016 21:18:14 : LimitlessMc, botchat, Botfuzzy77#2209, Added The Who - Who Are You? to the queue
+08 Dec 2016 21:18:14 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=PdLIerfXuZ4
+08 Dec 2016 21:18:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search walk this way
+08 Dec 2016 21:18:19 : LimitlessMc, botchat, Botfuzzy77#2209, Added RUN-DMC - Walk This Way to the queue
+08 Dec 2016 21:18:19 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=4B_UYYPb-Gk
+08 Dec 2016 21:18:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ;loop 5
+08 Dec 2016 21:18:24 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*The Who - Who Are You?*' **5** more times
+08 Dec 2016 21:18:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+08 Dec 2016 21:18:30 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping The Who - Who Are You?
+08 Dec 2016 21:18:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ;shuffle
+08 Dec 2016 21:18:37 : LimitlessMc, botchat, Botfuzzy77#2209, Shuffling songs...
+08 Dec 2016 21:18:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+08 Dec 2016 21:18:38 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+08 Dec 2016 21:18:38 : LimitlessMc, botchat, Botfuzzy77#2209, 1. RUN-DMC - Walk This Way **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=4B_UYYPb-Gk>
+2. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+3. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+4. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+5. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+Total Time is 0:23:39
+08 Dec 2016 21:18:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+08 Dec 2016 21:18:43 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping The Who - Who Are You?
+08 Dec 2016 21:18:48 : LimitlessMc, botchat, Wertfuzzy77#0274, ;loop 4
+08 Dec 2016 21:18:49 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*RUN-DMC - Walk This Way*' **4** more times
+08 Dec 2016 21:18:51 : LimitlessMc, botchat, Wertfuzzy77#0274, ;shuffle
+08 Dec 2016 21:18:51 : LimitlessMc, botchat, Botfuzzy77#2209, Shuffling songs...
+08 Dec 2016 21:19:00 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+08 Dec 2016 21:19:00 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+08 Dec 2016 21:19:00 : LimitlessMc, botchat, Botfuzzy77#2209, 1. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+2. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+3. RUN-DMC - Walk This Way **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=4B_UYYPb-Gk>
+4. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+5. RUN-DMC - Walk This Way **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=4B_UYYPb-Gk>
+6. RUN-DMC - Walk This Way **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=4B_UYYPb-Gk>
+7. RUN-DMC - Walk This Way **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=4B_UYYPb-Gk>
+8. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+Total Time is 0:35:48
+08 Dec 2016 21:21:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 3
+08 Dec 2016 21:21:05 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: RUN-DMC - Walk This Way
+08 Dec 2016 21:21:06 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+08 Dec 2016 21:21:06 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+08 Dec 2016 21:21:06 : LimitlessMc, botchat, Botfuzzy77#2209, 1. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+2. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+3. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+4. RUN-DMC - Walk This Way **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=4B_UYYPb-Gk>
+5. RUN-DMC - Walk This Way **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=4B_UYYPb-Gk>
+6. RUN-DMC - Walk This Way **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=4B_UYYPb-Gk>
+7. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+Total Time is 0:31:45
+08 Dec 2016 21:21:08 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 4
+08 Dec 2016 21:21:08 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: RUN-DMC - Walk This Way
+08 Dec 2016 21:21:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 4
+08 Dec 2016 21:21:10 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: RUN-DMC - Walk This Way
+08 Dec 2016 21:21:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 4
+08 Dec 2016 21:21:12 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: RUN-DMC - Walk This Way
+08 Dec 2016 21:21:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Walk like that
+08 Dec 2016 21:21:19 : LimitlessMc, botchat, Botfuzzy77#2209, Added HURRICANE CHRIS-WALK LIKE THAT to the queue
+08 Dec 2016 21:21:19 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=2LKF-8Sm1g0
+08 Dec 2016 21:21:20 : LimitlessMc, botchat, Wertfuzzy77#0274, woops
+08 Dec 2016 21:21:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+08 Dec 2016 21:21:22 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+08 Dec 2016 21:21:22 : LimitlessMc, botchat, Botfuzzy77#2209, 1. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+2. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+3. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+4. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+5. HURRICANE CHRIS-WALK LIKE THAT **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=2LKF-8Sm1g0>
+Total Time is 0:23:38
+08 Dec 2016 21:21:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 5
+08 Dec 2016 21:21:24 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: HURRICANE CHRIS-WALK LIKE THAT
+08 Dec 2016 21:21:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;seach Walk this way
+08 Dec 2016 21:21:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Walk this way
+08 Dec 2016 21:21:38 : LimitlessMc, botchat, Botfuzzy77#2209, Added Aerosmith Walk This Way Lyrics to the queue
+08 Dec 2016 21:21:39 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=5UFFa1HbFfA
+08 Dec 2016 21:21:41 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+08 Dec 2016 21:21:41 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+08 Dec 2016 21:21:41 : LimitlessMc, botchat, Botfuzzy77#2209, 1. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+2. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+3. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+4. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+5. Aerosmith Walk This Way Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=5UFFa1HbFfA>
+Total Time is 0:23:01
+08 Dec 2016 21:21:52 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=5UFFa1HbFfA
+08 Dec 2016 21:21:52 : LimitlessMc, botchat, Botfuzzy77#2209, Added Aerosmith Walk This Way Lyrics to the queue
+08 Dec 2016 21:21:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=5UFFa1HbFfA
+08 Dec 2016 21:21:56 : LimitlessMc, botchat, Botfuzzy77#2209, Added Aerosmith Walk This Way Lyrics to the queue
+08 Dec 2016 21:21:56 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=5UFFa1HbFfA
+08 Dec 2016 21:21:57 : LimitlessMc, botchat, Botfuzzy77#2209, Added Aerosmith Walk This Way Lyrics to the queue
+08 Dec 2016 21:21:58 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+08 Dec 2016 21:21:58 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+08 Dec 2016 21:21:58 : LimitlessMc, botchat, Botfuzzy77#2209, 1. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+2. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+3. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+4. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+5. Aerosmith Walk This Way Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=5UFFa1HbFfA>
+6. Aerosmith Walk This Way Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=5UFFa1HbFfA>
+7. Aerosmith Walk This Way Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=5UFFa1HbFfA>
+8. Aerosmith Walk This Way Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=5UFFa1HbFfA>
+Total Time is 0:33:16
+08 Dec 2016 21:22:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;shuffle
+08 Dec 2016 21:22:03 : LimitlessMc, botchat, Botfuzzy77#2209, Shuffling songs...
+08 Dec 2016 21:22:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Shelter music
+08 Dec 2016 21:22:13 : LimitlessMc, botchat, Botfuzzy77#2209, Added Porter Robinson & Madeon - Shelter to the queue
+08 Dec 2016 21:22:14 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=Ts8YP6hhELU
+08 Dec 2016 21:22:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=Ts8YP6hhELU
+08 Dec 2016 21:22:21 : LimitlessMc, botchat, Botfuzzy77#2209, Added Porter Robinson & Madeon - Shelter to the queue
+08 Dec 2016 21:22:27 : LimitlessMc, botchat, Wertfuzzy77#0274, ;playlist Kimi
+08 Dec 2016 21:22:32 : LimitlessMc, botchat, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+08 Dec 2016 21:22:35 : LimitlessMc, botchat, Wertfuzzy77#0274, ;shuffle
+08 Dec 2016 21:22:35 : LimitlessMc, botchat, Botfuzzy77#2209, Shuffling songs...
+08 Dec 2016 21:22:36 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+08 Dec 2016 21:22:36 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+08 Dec 2016 21:22:36 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Porter Robinson & Madeon - Shelter **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=Ts8YP6hhELU>
+2. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+3. Aerosmith Walk This Way Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=5UFFa1HbFfA>
+4. Aerosmith Walk This Way Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=5UFFa1HbFfA>
+5. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+6. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+7. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+8. Aerosmith Walk This Way Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=5UFFa1HbFfA>
+9. Porter Robinson & Madeon - Shelter **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=Ts8YP6hhELU>
+10. Aerosmith Walk This Way Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=5UFFa1HbFfA>
+Total Time is 0:40:36
+08 Dec 2016 21:22:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;shuffle
+08 Dec 2016 21:22:40 : LimitlessMc, botchat, Botfuzzy77#2209, Shuffling songs...
+08 Dec 2016 21:22:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+08 Dec 2016 21:22:42 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+08 Dec 2016 21:22:42 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Aerosmith Walk This Way Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=5UFFa1HbFfA>
+2. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+3. Porter Robinson & Madeon - Shelter **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=Ts8YP6hhELU>
+4. Porter Robinson & Madeon - Shelter **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=Ts8YP6hhELU>
+5. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+6. Aerosmith Walk This Way Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=5UFFa1HbFfA>
+7. Aerosmith Walk This Way Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=5UFFa1HbFfA>
+8. Aerosmith Walk This Way Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=5UFFa1HbFfA>
+9. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+10. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+Total Time is 0:40:36
+08 Dec 2016 21:33:16 : LimitlessMc, botchat, Wertfuzzy77#0274, ;deleteplaylist Kimi
+08 Dec 2016 21:33:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ;removeplaylist Kimi
+08 Dec 2016 21:33:23 : LimitlessMc, botchat, Botfuzzy77#2209, Removed Kimi
+08 Dec 2016 21:33:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ;addplaylist Kimi https://www.youtube.com/watch?v=njVRZZLVwmU https://www.youtube.com/watch?v=mwHZS3jVx98 https://www.youtube.com/watch?v=Us9mAtwcHPI https://www.youtube.com/watch?v=JuyYiIZT7Js
+08 Dec 2016 21:34:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;help MusicPlayer
+08 Dec 2016 21:34:03 : LimitlessMc, botchat, Botfuzzy77#2209, ```
+Commands:
+  loop           
+  join           Joins the Voice channel you are currently in
+  songs          Prints the songs in the queue
+  leave          Leaves the Join chat
+  youtube        Adds a Song for the Bot to Play
+  skip           Skips the Current song
+  viewplaylist   Views the songs of a playlists
+  search         
+  song           Returns information about the current playing song
+  desc           Decription of the Current playing song
+  extendplaylist Extends a custom playlist
+  makeplaylist   Makes a custom playlist for the bot to save
+  playlists      
+  shuffle        Shuffles the songs in the Queue
+  playlist       Adds songs from a predefined playlist to the songs list
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+08 Dec 2016 21:34:13 : LimitlessMc, mainchat, DicloniusPony Senpai Of Yuri#6564, you guys are like the top of the bread slices, everyone touches you but no one actually wants you
+08 Dec 2016 21:34:14 : LimitlessMc, botchat, Wertfuzzy77#0274, ;makeplaylist Kimi https://www.youtube.com/watch?v=njVRZZLVwmU https://www.youtube.com/watch?v=mwHZS3jVx98 https://www.youtube.com/watch?v=Us9mAtwcHPI https://www.youtube.com/watch?v=JuyYiIZT7Js
+08 Dec 2016 21:34:15 : LimitlessMc, botchat, Botfuzzy77#2209, Created Playlist Kimi with 4 songs
+08 Dec 2016 21:34:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ;playlist Kimi
+08 Dec 2016 21:34:30 : LimitlessMc, botchat, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+08 Dec 2016 21:34:41 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+08 Dec 2016 21:34:41 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue, plus [1] more**
+08 Dec 2016 21:34:41 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Porter Robinson & Madeon - Shelter **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=Ts8YP6hhELU>
+2. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+3. Aerosmith Walk This Way Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=5UFFa1HbFfA>
+4. Aerosmith Walk This Way Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=5UFFa1HbFfA>
+5. Aerosmith Walk This Way Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=5UFFa1HbFfA>
+6. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+7. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+8. Kimi no Na wa - (OST #25) Date 2 Piano TUTORIAL **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=mwHZS3jVx98>
+9. 【君の名は。】なんでもないや / RADWIMPS (cover) **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=njVRZZLVwmU>
+10. 【君の名は。】 夢灯籠 / RADWIMPS (cover)by Eve **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=JuyYiIZT7Js>
+Total Time is 0:44:36
+08 Dec 2016 21:34:44 : LimitlessMc, botchat, Wertfuzzy77#0274, ;shuffle
+08 Dec 2016 21:34:44 : LimitlessMc, botchat, Botfuzzy77#2209, Shuffling songs...
+08 Dec 2016 21:34:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+08 Dec 2016 21:34:48 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue, plus [1] more**
+08 Dec 2016 21:34:48 : LimitlessMc, botchat, Botfuzzy77#2209, 1. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+2. Aerosmith Walk This Way Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=5UFFa1HbFfA>
+3. スパークル 【君の名は】full.ver 高音質 **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=Us9mAtwcHPI>
+4. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+5. Kimi no Na wa - (OST #25) Date 2 Piano TUTORIAL **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=mwHZS3jVx98>
+6. Aerosmith Walk This Way Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=5UFFa1HbFfA>
+7. 【君の名は。】なんでもないや / RADWIMPS (cover) **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=njVRZZLVwmU>
+8. 【君の名は。】 夢灯籠 / RADWIMPS (cover)by Eve **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=JuyYiIZT7Js>
+9. Porter Robinson & Madeon - Shelter **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=Ts8YP6hhELU>
+10. Aerosmith Walk This Way Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=5UFFa1HbFfA>
+Total Time is 0:44:36
+08 Dec 2016 21:44:00 : LimitlessMc, botchat, Wertfuzzy77#0274, eh, dont like this version
+08 Dec 2016 21:44:16 : LimitlessMc, botchat, Wertfuzzy77#0274, dont even know what song it is tho xD cause its in Japanese
+08 Dec 2016 21:44:19 : LimitlessMc, botchat, Wertfuzzy77#0274, hep
+08 Dec 2016 21:45:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ah, its called sparkle
+08 Dec 2016 21:45:03 : LimitlessMc, botchat, Wertfuzzy77#0274, thanks google
+08 Dec 2016 21:45:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;makeplaylist Kimi https://www.youtube.com/watch?v=njVRZZLVwmU https://www.youtube.com/watch?v=mwHZS3jVx98 https://www.youtube.com/watch?v=a2GujJZfXpg https://www.youtube.com/watch?v=JuyYiIZT7Js
+08 Dec 2016 21:45:51 : LimitlessMc, botchat, Botfuzzy77#2209, Playlist already exists
+08 Dec 2016 21:45:53 : LimitlessMc, botchat, Wertfuzzy77#0274, kys
+08 Dec 2016 21:45:58 : LimitlessMc, botchat, Wertfuzzy77#0274, ;removeplaylist Kimi
+08 Dec 2016 21:45:58 : LimitlessMc, botchat, Botfuzzy77#2209, Removed Kimi
+08 Dec 2016 21:46:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;makeplaylist Kimi https://www.youtube.com/watch?v=njVRZZLVwmU https://www.youtube.com/watch?v=mwHZS3jVx98 https://www.youtube.com/watch?v=a2GujJZfXpg https://www.youtube.com/watch?v=JuyYiIZT7Js
+08 Dec 2016 21:46:02 : LimitlessMc, botchat, Botfuzzy77#2209, Created Playlist Kimi with 4 songs
+08 Dec 2016 21:46:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+08 Dec 2016 21:46:12 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping スパークル 【君の名は】full.ver 高音質
+08 Dec 2016 21:46:16 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+08 Dec 2016 21:46:16 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+08 Dec 2016 21:46:16 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Kimi no Na wa - (OST #25) Date 2 Piano TUTORIAL **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=mwHZS3jVx98>
+2. Aerosmith Walk This Way Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=5UFFa1HbFfA>
+3. 【君の名は。】なんでもないや / RADWIMPS (cover) **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=njVRZZLVwmU>
+4. 【君の名は。】 夢灯籠 / RADWIMPS (cover)by Eve **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=JuyYiIZT7Js>
+5. Porter Robinson & Madeon - Shelter **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=Ts8YP6hhELU>
+6. Aerosmith Walk This Way Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=5UFFa1HbFfA>
+7. The Who - Who Are You? **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PdLIerfXuZ4>
+Total Time is 0:25:32
+08 Dec 2016 22:27:51 : LimitlessMc, botchat, Wertfuzzy77#0274, ;playlist Kimi
+08 Dec 2016 22:27:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Who are you
+08 Dec 2016 22:27:56 : LimitlessMc, botchat, Botfuzzy77#2209, Added The Who - Who Are You Lyrics (FULL VERSION) to the queue
+08 Dec 2016 22:27:56 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=r5kmCgVhADY
+08 Dec 2016 22:27:58 : LimitlessMc, botchat, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+08 Dec 2016 22:27:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Walk this way
+08 Dec 2016 22:28:01 : LimitlessMc, botchat, Botfuzzy77#2209, Added Aerosmith Walk This Way Lyrics to the queue
+08 Dec 2016 22:28:01 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=5UFFa1HbFfA
+08 Dec 2016 22:32:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;shuffle
+08 Dec 2016 22:32:02 : LimitlessMc, botchat, Botfuzzy77#2209, Shuffling songs...
+08 Dec 2016 22:32:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+08 Dec 2016 22:32:03 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+08 Dec 2016 22:32:03 : LimitlessMc, botchat, Botfuzzy77#2209, 1. 【君の名は。】 夢灯籠 / RADWIMPS (cover)by Eve **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=JuyYiIZT7Js>
+2. Aerosmith Walk This Way Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=5UFFa1HbFfA>
+3. The Who - Who Are You Lyrics (FULL VERSION) **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=r5kmCgVhADY>
+4. Kimi no Na wa - (OST #25) Date 2 Piano TUTORIAL **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=mwHZS3jVx98>
+Total Time is 0:14:09
+08 Dec 2016 22:44:32 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;songs
+08 Dec 2016 22:44:32 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+08 Dec 2016 22:44:32 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Kimi no Na wa - (OST #25) Date 2 Piano TUTORIAL **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=mwHZS3jVx98>
+Total Time is 0:02:16
+08 Dec 2016 22:45:17 : LimitlessMc, botchat, Lightning#6734, .sangs
+08 Dec 2016 22:45:21 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, xD
+08 Dec 2016 22:45:21 : LimitlessMc, botchat, Lightning#6734, :'c
+08 Dec 2016 22:45:37 : LimitlessMc, botchat, Lightning#6734, jay pls bring lightbot to limitless discord D:
+08 Dec 2016 22:48:33 : LimitlessMc, botchat, Lightning#6734, wut hek
+08 Dec 2016 22:48:54 : LimitlessMc, botchat, Lightning#6734, Dis sang
+08 Dec 2016 22:49:28 : LimitlessMc, botchat, Lightning#6734, ;youtube https://www.youtube.com/watch?v=XmOZC0a4IVg
+08 Dec 2016 22:49:29 : LimitlessMc, botchat, Botfuzzy77#2209, Added Final Fantasy X - 1000 Words (full english) to the queue
+08 Dec 2016 22:49:32 : LimitlessMc, botchat, Lightning#6734, c:
+08 Dec 2016 22:49:40 : LimitlessMc, botchat, Lightning#6734, thank me later ❤
+08 Dec 2016 23:16:53 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Who are you
+08 Dec 2016 23:17:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+08 Dec 2016 23:17:03 : LimitlessMc, botchat, Botfuzzy77#2209, Queue is Empty
+08 Dec 2016 23:17:06 : LimitlessMc, botchat, Wertfuzzy77#0274, ??
+08 Dec 2016 23:17:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+08 Dec 2016 23:17:21 : LimitlessMc, botchat, Botfuzzy77#2209, Sorry, I'm already connected to a channel in server LimitlessMc
+08 Dec 2016 23:17:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Who are you
+08 Dec 2016 23:17:28 : LimitlessMc, botchat, Botfuzzy77#2209, Added The Who - Who Are You Lyrics (FULL VERSION) to the queue
+08 Dec 2016 23:17:28 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=r5kmCgVhADY
+08 Dec 2016 23:17:33 : LimitlessMc, botchat, Wertfuzzy77#0274, that was weird
+08 Dec 2016 23:22:08 : LimitlessMc, botchat, 🌟💖Resolate💖🌟#7058, ;songs
+08 Dec 2016 23:22:08 : LimitlessMc, botchat, Botfuzzy77#2209, Queue is Empty
+08 Dec 2016 23:29:44 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Who are you
+08 Dec 2016 23:29:46 : LimitlessMc, botchat, Botfuzzy77#2209, Added The Who - Who Are You Lyrics (FULL VERSION) to the queue
+08 Dec 2016 23:29:46 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=r5kmCgVhADY
+08 Dec 2016 23:30:07 : LimitlessMc, botchat, ηєяσкιη#3586, ;search mdk - sir la wubble orchestra
+08 Dec 2016 23:30:10 : LimitlessMc, botchat, Botfuzzy77#2209, Added MDK - Sur La Wobble (Orchestral Mix) to the queue
+08 Dec 2016 23:30:10 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=WdArKhQojko
+08 Dec 2016 23:59:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Who are you
+08 Dec 2016 23:59:41 : LimitlessMc, botchat, Botfuzzy77#2209, Added The Who - Who Are You Lyrics (FULL VERSION) to the queue
+08 Dec 2016 23:59:41 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=r5kmCgVhADY
+09 Dec 2016 00:23:02 : LimitlessMc, botchat, ηєяσкιη#3586, ;search Koji Kondo - Zelda Medley 2008 kylelandry
+09 Dec 2016 00:23:04 : LimitlessMc, botchat, Botfuzzy77#2209, Added Synthesia - Zelda Medley (Kyle Landry, 2008) to the queue
+09 Dec 2016 00:23:04 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=8hDcOSj9eQY
+09 Dec 2016 00:23:08 : LimitlessMc, botchat, ηєяσкιη#3586, ....
+09 Dec 2016 00:23:12 : LimitlessMc, botchat, ηєяσкιη#3586, Wrong one..
+09 Dec 2016 00:23:15 : LimitlessMc, botchat, ηєяσкιη#3586, ;skip
+09 Dec 2016 00:23:15 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Synthesia - Zelda Medley (Kyle Landry, 2008)
+09 Dec 2016 00:23:23 : LimitlessMc, botchat, ηєяσкιη#3586, ;help
+09 Dec 2016 00:23:24 : LimitlessMc, botchat, Botfuzzy77#2209, ```
+A Bot for the Limitless MC Server Discord! Version 0.14.2.6
+(Created by Wertfuzzy77)
+
+FlavorTexts:
+  image          Returns the First Found Image on Google Images for this Input
+  choose         Chooses from a set of things
+  funify         Funifies a given text input
+  rps            Allows the player to play Rock, Paper, Scissors with the Bot...
+  gif            Returns the First Found Image on Google Images for this Input
+  kys            
+  kill           Adds Emotion
+  lmgtfy         Returns a Link to a "Let me Google That For You" Page
+  slap           Adds Emotion
+  hug            Adds Emotion
+  luck           Returns the Player's Luck
+  rate           Rates the Player
+  kiss           Adds Emotion
+MusicPlayer:
+  loop           
+  join           Joins the Voice channel you are currently in
+  songs          Prints the songs in the queue
+  leave          Leaves the Join chat
+  youtube        Adds a Song for the Bot to Play
+  skip           Skips the Current song
+  viewplaylist   Views the songs of a playlists
+  search         
+  song           Returns information about the current playing song
+  desc           Decription of the Current playing song
+  extendplaylist Extends a custom playlist
+  makeplaylist   Makes a custom playlist for the bot to save
+  playlists      
+  shuffle        Shuffles the songs in the Queue
+  playlist       Adds songs from a predefined playlist to the songs list
+Tournament:
+  data           Returns Player Data
+  sync           Syncs you Discord Account with the Given IG Name
+  redeem         Redeems a Given Code for the prize it contains
+  sell           Used to Sell a Code instead of Redeeming it
+  prize          Returns a Link to where all the Current Prizes can be found
+  tournaments    Returns All tournament info
+  ranking        Returns the Current Server Rankings
+​No Category:
+  status         Returns the Status of the Bot, along with Additional Informa...
+  pokemon        Returns Links to Pokemon pages
+  ev             
+```
+09 Dec 2016 00:23:24 : LimitlessMc, botchat, Botfuzzy77#2209, ```
+  fml            Returns a Random Post from fmylife.com
+  afk            Sets you as AFK, and the Bot will auto Reply for you with th...
+  conch          Ask the Magic Conch a Question
+  source         Returns a link to the source code for this bot
+  joined         Says when a member joined.
+  invite         Returns a Link to the Invite URL for this bot
+  config         Allows you to change settings for the server
+  feedback       Returns a link to a Google Forums, where you can leave feedb...
+  help           Shows this message.
+  server         Returns Information on the Limitless MC server!
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+09 Dec 2016 00:24:53 : LimitlessMc, botchat, ηєяσкιη#3586, ;youtube https://youtu.be/KP2CrM5LVpU
+09 Dec 2016 00:24:54 : LimitlessMc, botchat, Botfuzzy77#2209, Added Zelda - Skyward Sword Main Theme Piano (Ballad of the Goddess) to the queue
+09 Dec 2016 00:27:37 : LimitlessMc, botchat, ηєяσкιη#3586, ;youtube https://youtu.be/6P3lFwZ3xns
+09 Dec 2016 00:27:38 : LimitlessMc, botchat, Botfuzzy77#2209, Added Zelda Medley - Zora's Domain | Gerudo Valley | Ballad of the Goddess for Piano Solo to the queue
+09 Dec 2016 01:18:34 : LimitlessMc, botchat, Wertfuzzy77#0274, ;playlist Kimi
+09 Dec 2016 01:18:41 : LimitlessMc, botchat, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+09 Dec 2016 01:21:51 : LimitlessMc, botchat, Wertfuzzy77#0274, ;fml
+09 Dec 2016 01:21:52 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, my boyfriend thought it would be romantic to make me dinner surrounded by a candlelight setting. By the time I got home, we had 7 firefighters surrounding our house. Turns out one of the candles fell on the carpet and lit up the curtain as well. FML*
+09 Dec 2016 01:21:58 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+09 Dec 2016 01:22:04 : LimitlessMc, botchat, Wertfuzzy77#0274, ;fml
+09 Dec 2016 01:22:05 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was working as the shift manager at my job at a fast food restaurant. Our company policy states that all employees must be clean shaven before coming to work. I had to inform one of the employees, Kris, that they had to shave before clocking in. Kris is a woman. FML*
+09 Dec 2016 01:23:02 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 01:23:03 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, at an important statewide band performance, my mom stayed in her seat, silent, while everyone else gave a standing ovation. FML*
+09 Dec 2016 01:23:59 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 01:24:00 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, while working my shift at Taco Bell, a creepy guy started flirting with me. He said, "You remind me of something," acting as if I knew him from elsewhere. I quickly said I used to work at Chili's. He shook his head and said, "No, not a person! An animal. A sloth maybe." FML*
+09 Dec 2016 01:25:04 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+09 Dec 2016 01:25:09 : LimitlessMc, botchat, Wertfuzzy77#0274, ;fml
+09 Dec 2016 01:25:10 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was babysitting a 7 year-old brat. He refused to eat his vegetables, so I forbade him from playing until they were finished. He stomped off upstairs, so I let him cool off for a couple of minutes. When I went upstairs, he had taken scissors to all of his mother's clothes. FML*
+09 Dec 2016 01:25:17 : LimitlessMc, botchat, Wertfuzzy77#0274, well then
+09 Dec 2016 01:25:45 : LimitlessMc, botchat, crystal4209#4698, lol
+09 Dec 2016 01:25:57 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 01:25:58 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, my parents are forcing me to go to an insanely conservative, Christian private school. I'm gay. This is going to be a long year. FML*
+09 Dec 2016 01:26:15 : LimitlessMc, botchat, crystal4209#4698, ok then
+09 Dec 2016 01:26:47 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 01:26:47 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I let my mother use my computer for school work. Later that day my mom asks me what's wrong with the computer. I look at it, only seeing a "Welcome to Windows XP" screen. She said that she saw a blue screen and pressed L and C when it asked her to. My mom managed to clear my hard drive. FML*
+09 Dec 2016 01:27:11 : LimitlessMc, botchat, crystal4209#4698, lol that must suck
+09 Dec 2016 01:27:45 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+09 Dec 2016 01:28:30 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 01:28:31 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was swimming in my pool with my two sons. A few hours later while on Facebook, I saw that one of them had liked a photo with the caption, "Peeing in a pool, best feeling ever." FML*
+09 Dec 2016 01:28:46 : LimitlessMc, botchat, crystal4209#4698, oh god lol
+09 Dec 2016 01:29:01 : LimitlessMc, botchat, Wertfuzzy77#0274, lol
+09 Dec 2016 01:29:18 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 01:29:19 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was eating some popcorn with a guy, and I noticed a piece of hair coming out my mouth. I pulled it... and pulled it... and eventually some popcorn pieces came out attached to the end of the hair. I was so embarrassed, he tried to make me feel better by saying it looked like a magic trick. FML*
+09 Dec 2016 01:29:42 : LimitlessMc, botchat, crystal4209#4698, oh my
+09 Dec 2016 01:30:14 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 01:30:15 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, two really hot guys pulled up in a car next to mine. They were waving at me and pointing down, I figured they were being pigs so I flipped them off. Turns out they were trying to warn me of the flat tire I had. FML*
+09 Dec 2016 01:30:35 : LimitlessMc, botchat, crystal4209#4698, hahah lol
+09 Dec 2016 01:31:18 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 01:31:19 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I completely shaved my head as a gesture for my boyfriend's mother, who was suffering from cancer and having a terrible time undergoing chemotherapy. Turns out she doesn't even have cancer, and my boyfriend thought I wouldn't have the guts to do it. FML*
+09 Dec 2016 01:31:43 : LimitlessMc, botchat, crystal4209#4698, lol
+09 Dec 2016 01:32:20 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+09 Dec 2016 01:32:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;playlist Kimi Kimi Kimi Kimi
+09 Dec 2016 01:32:46 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 01:32:47 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was walking down the road when a twat on a quad-bike smashed into my leg. It seems that I should've been "walking on the right side of the pavement." FML*
+09 Dec 2016 01:33:01 : LimitlessMc, botchat, crystal4209#4698, lol
+09 Dec 2016 01:33:07 : LimitlessMc, botchat, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+09 Dec 2016 01:33:46 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 01:33:47 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I went into a small coffee shop.  In line, a guy came up to me and was like "I haven't seen you here before, are you new in town?" and I replied with "Oh, no I've lived here for years. The coffee here is crap, though, so I only come here when Starbucks is full" He's the owner of the shop. FML*
+09 Dec 2016 01:34:10 : LimitlessMc, botchat, crystal4209#4698, lol
+09 Dec 2016 01:37:33 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 01:37:34 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was walking in rain. I had my hands in my pants pockets, so that the front of the jacket was pointing down. Halfway to Taco Bell, my crotch felt exceptionally wet. I looked down to see a wet spot. The rain on my jacket was channeled to my crotch. FML*
+09 Dec 2016 01:38:07 : LimitlessMc, botchat, crystal4209#4698, hahahahah lol
+09 Dec 2016 01:42:28 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 01:42:29 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, the incredibly handsome, talented, hilarious, and intelligent man that I've fallen head over heels like no other for is gay. FML*
+09 Dec 2016 01:42:40 : LimitlessMc, botchat, crystal4209#4698, lol
+09 Dec 2016 01:55:59 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 01:56:00 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, in an attempt to be romantic, I kissed my husband as passionately as I could. After, he looked at me and said, "You taste like Chinese food." FML*
+09 Dec 2016 01:56:16 : LimitlessMc, botchat, crystal4209#4698, lol
+09 Dec 2016 02:01:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ;fml
+09 Dec 2016 02:01:16 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was saying goodbye to my 5 year old son before dropping him at my mom's, as I was leaving for two days, and told him I would miss him. He says "l won't miss you, I never miss you when you are gone." FML*
+09 Dec 2016 02:01:24 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+09 Dec 2016 02:07:46 : LimitlessMc, botchat, crystal4209#4698, oh god mean much
+09 Dec 2016 02:09:13 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 02:09:14 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, a drunken guest in the hotel I work at has barricaded himself in the employee restroom and refuses to come out, unless I "promise to love him forever." It's 4am and I'm the only one here. FML*
+09 Dec 2016 02:15:20 : LimitlessMc, botchat, Wertfuzzy77#0274, lol
+09 Dec 2016 02:15:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ;fml
+09 Dec 2016 02:15:23 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was trying to take the cap off a can of spray cooking oil. It was really stuck so I pulled extra hard. It flew off and I punched myself in the head.  I also sprayed myself in the eye with it. The lump on my forehead and my swollen shut eye make me look like Popeye, but I'm a girl. FML*
+09 Dec 2016 02:15:31 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+09 Dec 2016 02:15:39 : LimitlessMc, botchat, Wertfuzzy77#0274, ;fml
+09 Dec 2016 02:15:40 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, my friends and I were drinking boba. On the side of the cup it said "Please drink carefully to avoid choking on the Boba". I started to laugh at the ridiculousness of the label, and choked on the boba in a coughing fit. FML*
+09 Dec 2016 02:15:50 : LimitlessMc, botchat, Wertfuzzy77#0274, lol
+09 Dec 2016 02:40:09 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 02:40:10 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I went to the hospital to visit my aunt and her newborn baby. The receptionist gave me the room number, and I went and my aunt was in the bathroom so I cuddle the baby, only to find that the woman who came out of the bathroom was a complete stranger. I was holding her baby. FML*
+09 Dec 2016 02:40:48 : LimitlessMc, botchat, crystal4209#4698, lol
+09 Dec 2016 02:48:40 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 02:48:41 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was leaving the car wash when I saw my friend walking on the sidewalk. I pulled over next to her and asked if she wanted a ride. Only after getting a face full of the soda she was drinking did I realize I was talking to a complete stranger. FML*
+09 Dec 2016 02:48:57 : LimitlessMc, botchat, crystal4209#4698, lol
+09 Dec 2016 03:15:27 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 03:15:28 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was on my way home from work and decided to stop at the grocery store. I purchased $200 in groceries and went to put them in my car. I then realized I drove my motorcycle today. FML*
+09 Dec 2016 03:15:40 : LimitlessMc, botchat, crystal4209#4698, lol
+09 Dec 2016 03:17:33 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 03:17:34 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I realized that before I can legally drink, I will have been married, divorced, and pregnant. FML*
+09 Dec 2016 03:17:54 : LimitlessMc, botchat, crystal4209#4698, lol
+09 Dec 2016 03:29:23 : LimitlessMc, mainchat, NinjaByzz#0136, https://www.youtube.com/watch?v=MmC4w0TAcLE
+09 Dec 2016 03:35:21 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 03:35:21 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, my mother-in-law gifted us with a new microwave. I told her it was too much and we didn't really need it. Her response, "I just want my grandkids to have food that tastes good for once." I'm a chef. FML*
+09 Dec 2016 03:35:40 : LimitlessMc, botchat, crystal4209#4698, lol
+09 Dec 2016 03:38:30 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 03:38:30 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, while talking to my boyfriend, I was frantically searching for my cell phone. He was curious as to what I was doing so I told him. There was long silence followed by laughter. He could hardly breathe as he told me, "Honey you're on your phone talking to me." FML*
+09 Dec 2016 03:38:56 : LimitlessMc, botchat, crystal4209#4698, lol
+09 Dec 2016 03:39:33 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 03:39:34 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, my ex adopted a dog from the dog pound. It was the same dog he made me get rid of while we were still together. FML*
+09 Dec 2016 03:39:44 : LimitlessMc, botchat, crystal4209#4698, lol
+09 Dec 2016 03:44:05 : LimitlessMc, mainchat, crystal4209#4698, i need sun and dawn stones ;-;
+09 Dec 2016 03:47:00 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 03:47:01 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, both my female flatmate and my gay male flatmate have got their boyfriends round. They've both stuck 'Do Not Disturb' signs on their bedroom doors and are both playing music which doesn't quite muffle the sounds of what they're up to. I haven't had a date in over six months. FML*
+09 Dec 2016 03:47:33 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 03:47:33 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was at a party with my boyfriend of one year when an attractive girl walks over. She asks him, "Is this your girlfriend?" He replied "That depends... are you single?" FML*
+09 Dec 2016 03:47:48 : LimitlessMc, botchat, crystal4209#4698, oh shit
+09 Dec 2016 03:47:59 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 03:48:00 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, a homeless lady decided she needed to change underwear in the middle of the sidewalk. I turned around just in time to see her legs in the air with no undies on. I can never eat salami again. FML*
+09 Dec 2016 03:48:17 : LimitlessMc, botchat, crystal4209#4698, lol
+09 Dec 2016 03:48:21 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 03:48:22 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, we brought our Christmas tree inside to decorate. We decorated it, then went out to dinner as a family. Returning 2 hours later, we came back to find our living room to be occupied. Not with people. The tree had been filled with baby spiders, and they were all over the living room. FML*
+09 Dec 2016 04:04:47 : LimitlessMc, mainchat, Jabulla#3761, There is a herb that lets you use 2 turn moves in 1 turn @crystal4209
+09 Dec 2016 05:25:11 : LimitlessMc, botchat, crystal4209#4698, ;server
+09 Dec 2016 05:25:12 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+09 Dec 2016 05:25:12 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 8 players out of 100
+ *Ping*: 198.978 ms
+ *MC Version*: 1.10.2
+09 Dec 2016 05:25:12 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *XtDiomedes, hayato, Jabulla, YunhoKookie, mcblah714, Skyd_, xBABYGIRLx, Prism_Rena...*
+09 Dec 2016 05:37:28 : LimitlessMc, botchat, crystal4209#4698, ;server
+09 Dec 2016 05:37:28 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+09 Dec 2016 05:37:28 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 9 players out of 100
+ *Ping*: 200.318 ms
+ *MC Version*: 1.10.2
+09 Dec 2016 05:37:28 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *Timsky, Prism_Rena, YunhoKookie, hayato, Skyd_, Jabulla, mcblah714, XtDiomedes, xBABYGIRLx...*
+09 Dec 2016 06:24:23 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 06:24:23 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was stuck in what I thought was traffic on my way home from work. I started weaving in and out of traffic because it seemed to only be a few cars holding up the line. I get to the front of the line and I'd realized I just weaved through a funeral procession. FML*
+09 Dec 2016 06:24:46 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 06:24:47 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was in line at the pharmacy when the man in front of me asked if I wanted to see a picture of a turd that looked like an uncircumcised penis. Before I had time to answer, he showed me a picture of a turd that looked like an uncircumcised penis. FML*
+09 Dec 2016 06:29:09 : The Wild Weebs, general, Wertfuzzy77#0274, ;join
+09 Dec 2016 06:29:09 : The Wild Weebs, general, Botfuzzy77#2209, Sorry, I'm already connected to a channel in server LimitlessMc
+09 Dec 2016 06:29:14 : The Wild Weebs, general, Wertfuzzy77#0274, ;leave
+09 Dec 2016 06:29:18 : The Wild Weebs, general, Wertfuzzy77#0274, ;join
+09 Dec 2016 06:30:31 : The Wild Weebs, general, enragednuke#2565, ;youtube https://www.youtube.com/watch?v=lsLce1I3MjA
+09 Dec 2016 06:30:31 : The Wild Weebs, general, Botfuzzy77#2209, Added Dark Cat - YOU'RE EVERYTHING (ft. Juunana) to the queue
+09 Dec 2016 06:34:37 : The Wild Weebs, general, enragednuke#2565, ;youtube https://www.youtube.com/watch?v=aXojYqEOOkk
+09 Dec 2016 06:34:38 : The Wild Weebs, general, Botfuzzy77#2209, Added Jason Parris X My Buddy Mike ft. Neon Hitch - No Warning to the queue
+09 Dec 2016 06:35:04 : The Wild Weebs, general, enragednuke#2565, ;skip
+09 Dec 2016 06:35:04 : The Wild Weebs, general, Botfuzzy77#2209, Skipping Jason Parris X My Buddy Mike ft. Neon Hitch - No Warning
+09 Dec 2016 06:35:17 : The Wild Weebs, general, enragednuke#2565, ;youtube https://www.youtube.com/watch?v=i7cFaE_Oh4o
+09 Dec 2016 06:35:18 : The Wild Weebs, general, Botfuzzy77#2209, Added RUNAGROUND & Dmitry Ko  - Rest of Me to the queue
+09 Dec 2016 06:44:53 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 06:44:54 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I accidentally kicked a can and it hit a man's shoe. He tried to kick it at me but his foot somehow failed to connect with the can. I could hear it rattling behind me as he failed again and again. So he decided to run up behind me and throw it at my head. FML*
+09 Dec 2016 06:45:18 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 06:45:19 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, at work my arms were full. I needed to get the door open, so instead of pushing the swing door open with my shoulder, I kicked it open with my foot. Right into my manager's face. FML*
+09 Dec 2016 06:45:39 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 06:45:40 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was grading work my students had done with a sub. I realized one student had gotten hold of the teachers' edition of the textbook when I read ten papers in a row that had "Student answers may vary" as the answer to problem number four. My students can't even cheat properly. FML*
+09 Dec 2016 06:46:15 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 06:46:16 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I found out that my favorite pizza place will no longer deliver to my area after dark because they've been robbed too many times. FML*
+09 Dec 2016 06:48:53 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 06:48:54 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, at the office, after a heavy night of drinking, I had to hear my boss walk around with bells attached to her shoes. She circled the office a total of 34 times today. FML*
+09 Dec 2016 06:49:24 : LimitlessMc, botchat, crystal4209#4698, lol
+09 Dec 2016 06:56:58 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 06:56:59 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was in my Honors English class. I sneezed very loudly while my teacher was giving a lecture. I had the genius idea to say, "Sorry, I'm allergic to bullshit." FML*
+09 Dec 2016 07:13:47 : LimitlessMc, botchat, crystal4209#4698, /fml
+09 Dec 2016 07:13:51 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 07:13:52 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I had my first ice skating lesson. I had to wait 5 years for a rink to open in my town, 2 weeks for my lessons to begin, but only 10 minutes to fall and hit my tailbone so hard that I can't walk. FML*
+09 Dec 2016 07:14:25 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 07:14:25 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I got my retainer fitted. It stimulates my gag reflex so badly that I gag every time I try so say anything with a 'P' in it. My orthodontist laughed and suggested I get a thesaurus. FML*
+09 Dec 2016 07:14:48 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 07:14:48 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, a customer said the pants she was buying rang up more than advertised. I quietly told her plus-sizes were not on sale. The customer yelled in front of a whole line of people, "So I'm fat and can't read! Any other insults you'd like to throw at me?" and stormed out of the store. FML*
+09 Dec 2016 07:15:42 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 07:15:43 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I have an ear infection, and everything I hear echoes inside my head.  I'm an orchestra teacher, and we have our first concert next week.  FML*
+09 Dec 2016 07:25:57 : The Wild Weebs, general, Wertfuzzy77#0274, ;search Shelter
+09 Dec 2016 07:25:58 : The Wild Weebs, general, Botfuzzy77#2209, Added Porter Robinson & Madeon - Shelter (Official Audio) to the queue
+09 Dec 2016 07:25:58 : The Wild Weebs, general, Botfuzzy77#2209, https://www.youtube.com/watch?v=HQnC1UHBvWA
+09 Dec 2016 07:27:36 : The Wild Weebs, general, Tally#2764, this is not the music channel you nub
+09 Dec 2016 07:27:41 : The Wild Weebs, general, Tally#2764, @Wertfuzzy77
+09 Dec 2016 07:27:42 : The Wild Weebs, general, Wertfuzzy77#0274, It is now
+09 Dec 2016 07:27:49 : The Wild Weebs, general, enragednuke#2565, kys
+09 Dec 2016 07:28:03 : The Wild Weebs, general, Tally#2764, working on it
+09 Dec 2016 07:28:11 : The Wild Weebs, general, enragednuke#2565, o
+09 Dec 2016 07:28:13 : The Wild Weebs, general, enragednuke#2565, ok
+09 Dec 2016 07:28:14 : The Wild Weebs, general, Tally#2764, lol
+09 Dec 2016 07:28:19 : The Wild Weebs, general, enragednuke#2565, FeelsBadMan
+09 Dec 2016 07:28:22 : The Wild Weebs, general, Wertfuzzy77#0274, That's mildly depressing
+09 Dec 2016 07:28:29 : The Wild Weebs, general, Tally#2764, 😄
+09 Dec 2016 07:28:49 : The Wild Weebs, general, enragednuke#2565, @Tally
+09 Dec 2016 07:29:00 : The Wild Weebs, general, enragednuke#2565, US150 😄
+09 Dec 2016 07:29:07 : The Wild Weebs, general, Wertfuzzy77#0274, ^ I did a thing
+09 Dec 2016 07:37:45 : The Wild Weebs, general, Tally#2764, what
+09 Dec 2016 07:37:48 : The Wild Weebs, general, Tally#2764, 150
+09 Dec 2016 07:37:50 : The Wild Weebs, general, Tally#2764, for that
+09 Dec 2016 07:37:51 : The Wild Weebs, general, Tally#2764, lame
+09 Dec 2016 07:37:54 : The Wild Weebs, general, enragednuke#2565, ?
+09 Dec 2016 07:37:55 : The Wild Weebs, general, enragednuke#2565, lol
+09 Dec 2016 07:37:58 : The Wild Weebs, general, Tally#2764, i want my money back
+09 Dec 2016 07:38:00 : The Wild Weebs, general, enragednuke#2565, no
+09 Dec 2016 07:38:01 : The Wild Weebs, general, enragednuke#2565, i mean
+09 Dec 2016 07:38:05 : The Wild Weebs, general, enragednuke#2565, US #150
+09 Dec 2016 07:38:07 : The Wild Weebs, general, enragednuke#2565, ranked guild
+09 Dec 2016 07:38:09 : The Wild Weebs, general, Tally#2764, 150 in the world i know
+09 Dec 2016 07:38:15 : The Wild Weebs, general, Tally#2764, lame
+09 Dec 2016 07:38:16 : The Wild Weebs, general, enragednuke#2565, 🤔
+09 Dec 2016 07:38:20 : The Wild Weebs, general, Tally#2764, why not top 50
+09 Dec 2016 07:38:27 : The Wild Weebs, general, enragednuke#2565, we only raid 9 hrs a week lol
+09 Dec 2016 07:38:28 : The Wild Weebs, general, Wertfuzzy77#0274, Cause garbage
+09 Dec 2016 07:38:33 : The Wild Weebs, general, Tally#2764, ^
+09 Dec 2016 07:38:33 : The Wild Weebs, general, Botfuzzy77#2209, ^
+09 Dec 2016 07:38:35 : The Wild Weebs, general, enragednuke#2565, we're prob like top 20 for 9hrs/week xd
+09 Dec 2016 07:38:37 : The Wild Weebs, general, enragednuke#2565, also ^
+09 Dec 2016 07:38:45 : The Wild Weebs, general, Tally#2764, lol
+09 Dec 2016 07:38:59 : The Wild Weebs, general, enragednuke#2565, anything in top 50 world is at least 12hours
+09 Dec 2016 07:39:02 : The Wild Weebs, general, enragednuke#2565, most are 16+
+09 Dec 2016 07:39:09 : The Wild Weebs, general, Wertfuzzy77#0274, Kys
+09 Dec 2016 07:39:19 : The Wild Weebs, general, Tally#2764, same
+09 Dec 2016 07:39:48 : The Wild Weebs, general, enragednuke#2565, 死にまえばいい
+09 Dec 2016 07:39:51 : The Wild Weebs, general, Wertfuzzy77#0274, ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+09 Dec 2016 07:39:57 : The Wild Weebs, general, Tally#2764, fucking kanji man
+09 Dec 2016 07:40:01 : The Wild Weebs, general, Tally#2764, go fuck yourself
+09 Dec 2016 07:40:02 : The Wild Weebs, general, enragednuke#2565, し
+09 Dec 2016 07:40:06 : The Wild Weebs, general, enragednuke#2565, しにまえばいい
+09 Dec 2016 07:40:18 : The Wild Weebs, general, Tally#2764, shinimaebaii?
+09 Dec 2016 07:40:22 : The Wild Weebs, general, enragednuke#2565, はい
+09 Dec 2016 07:40:24 : The Wild Weebs, general, Wertfuzzy77#0274, Ingles por favor
+09 Dec 2016 07:41:29 : The Wild Weebs, general, enragednuke#2565, 私を殺した
+09 Dec 2016 07:41:41 : The Wild Weebs, general, Tally#2764, watashi wo something shita
+09 Dec 2016 07:41:50 : The Wild Weebs, general, Tally#2764, fuck kanji
+09 Dec 2016 07:41:52 : The Wild Weebs, music, enragednuke#2565, ;youtube https://www.youtube.com/watch?v=HOtCQA6S0NA
+09 Dec 2016 07:41:53 : The Wild Weebs, music, Botfuzzy77#2209, Added Wiz Khalifa ft. Charlie Puth - See You Again (Absence Remix) to the queue
+09 Dec 2016 07:42:04 : The Wild Weebs, general, enragednuke#2565, koro
+09 Dec 2016 07:42:05 : The Wild Weebs, general, enragednuke#2565, shia
+09 Dec 2016 07:42:07 : The Wild Weebs, general, enragednuke#2565, shita
+09 Dec 2016 07:42:14 : The Wild Weebs, general, Tally#2764, watashi wo koroshita
+09 Dec 2016 07:42:18 : The Wild Weebs, general, enragednuke#2565, yes
+09 Dec 2016 07:42:23 : The Wild Weebs, general, enragednuke#2565, or kimi wo
+09 Dec 2016 07:42:26 : The Wild Weebs, general, enragednuke#2565, no
+09 Dec 2016 07:42:29 : The Wild Weebs, general, enragednuke#2565, 🤔
+09 Dec 2016 07:42:43 : The Wild Weebs, general, enragednuke#2565, 自分を殺した
+09 Dec 2016 07:42:52 : The Wild Weebs, general, Tally#2764, ah shit man
+09 Dec 2016 07:42:55 : The Wild Weebs, general, Tally#2764, im done
+09 Dec 2016 07:43:03 : The Wild Weebs, general, enragednuke#2565, "i killed myself"
+09 Dec 2016 07:43:04 : The Wild Weebs, general, enragednuke#2565, lol
+09 Dec 2016 07:43:12 : The Wild Weebs, general, Tally#2764, ahhhhh
+09 Dec 2016 07:43:15 : The Wild Weebs, general, Tally#2764, hai hai
+09 Dec 2016 07:43:36 : The Wild Weebs, general, enragednuke#2565, はいはい
+09 Dec 2016 07:43:40 : The Wild Weebs, general, enragednuke#2565, はいたい
+09 Dec 2016 07:43:41 : The Wild Weebs, general, enragednuke#2565, はいさい
+09 Dec 2016 07:45:47 : The Wild Weebs, general, Wertfuzzy77#0274, ;loop 1
+09 Dec 2016 07:45:48 : The Wild Weebs, general, Botfuzzy77#2209, Added '*Wiz Khalifa ft. Charlie Puth - See You Again (Absence Remix)*' **1** more times
+09 Dec 2016 07:54:27 : LimitlessMc, botchat, Jay113355#4999, ;server
+09 Dec 2016 07:54:28 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+09 Dec 2016 07:54:28 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 11 players out of 100
+ *Ping*: 270.857 ms
+ *MC Version*: 1.10.2
+09 Dec 2016 07:54:28 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *Kaaateee, xBABYGIRLx, crystal4209, YunhoKookie, Mccabeayak, TurboX3dan, SsSUniverse, jjtwilefc, Jabulla, Skyd_, Bakafish...*
+09 Dec 2016 08:13:40 : The Wild Weebs, music, Wertfuzzy77#0274, ;loop 10
+09 Dec 2016 08:13:41 : The Wild Weebs, music, Botfuzzy77#2209, Added '*Wiz Khalifa ft. Charlie Puth - See You Again (Absence Remix)*' **10** more times
+09 Dec 2016 08:34:59 : LimitlessMc, mainchat, Bakafish#8693, that is power herb
+09 Dec 2016 08:35:08 : LimitlessMc, botchat, Bakafish#8693, ;fml
+09 Dec 2016 08:35:09 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I went out with a girl I've been dating. I dropped her off and she finally asked me if I wanted to come in. When I did, she asked me to change a light bulb in her kitchen, and then promptly sent me home. FML*
+09 Dec 2016 08:35:37 : LimitlessMc, botchat, Bakafish#8693, !meme
+09 Dec 2016 08:35:39 : LimitlessMc, botchat, Gerald#7099, ​http://i.imgflip.com/1fmw3m.jpg
+09 Dec 2016 08:54:05 : LimitlessMc, botchat, Jay113355#4999, ;fml
+09 Dec 2016 08:54:06 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I wanted to join the bus drivers strike. I couldn't… the buses were on strike. FML*
+09 Dec 2016 08:54:23 : LimitlessMc, botchat, Jay113355#4999, ;fml
+09 Dec 2016 08:54:24 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, my parents told me off for reading, as opposed to watching TV like the rest of the family, because it was "anti-social". FML*
+09 Dec 2016 08:54:51 : LimitlessMc, botchat, Jay113355#4999, Oh ive had that one happen before
+09 Dec 2016 10:14:39 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 10:14:40 : LimitlessMc, botchat, Botfuzzy77#2209, *Today,  I was walking in the park with my boyfriend of 3 years. He stopped and knelt down in front of me. I started to panic, then he told me to calm down, my shoe was untied. FML*
+09 Dec 2016 10:14:52 : LimitlessMc, botchat, crystal4209#4698, lol
+09 Dec 2016 11:37:19 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 11:37:20 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, and ever since I was born, I've had a lazy eye. This morning my boyfriend broke up with me. He thought it was funny to state that we just weren't looking at life in the same way. FML*
+09 Dec 2016 11:37:34 : LimitlessMc, botchat, crystal4209#4698, oh god
+09 Dec 2016 11:39:36 : LimitlessMc, botchat, Zorua#5017, Anyone want to join voice chat
+09 Dec 2016 11:40:29 : LimitlessMc, botchat, Zorua#5017, What about you crystal
+09 Dec 2016 11:44:52 : LimitlessMc, botchat, crystal4209#4698, i dont wanna speak
+09 Dec 2016 11:45:04 : LimitlessMc, botchat, Zorua#5017, It's ok I can speak
+09 Dec 2016 11:45:30 : LimitlessMc, botchat, Zorua#5017, Right now I'm mostly singing
+09 Dec 2016 11:48:57 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 11:48:58 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I met my new upstairs neighbors and their 4 kids all under the age of 6. I met them due to all the thudding upstairs. FML*
+09 Dec 2016 11:49:27 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 11:49:28 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, my dad had fun embarrassing me as much as possible in my parent-teacher conference by moaning whenever the teacher talked. FML*
+09 Dec 2016 11:52:37 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 11:52:38 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was at my friends house celebrating his 16th birthday. I couldn't find my phone so I asked my friend's girl if I could borrow her phone to see if I could hear mine ringing. I dial my number and look down to find she has my number is saved in her phone as ASS FACE #3. FML*
+09 Dec 2016 11:57:31 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 11:57:32 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was horseback riding. Somebody yelled something behind me, so I turned around. Next thing I know, I am on the ground and my head is killing me. It turns out I ran into a tree branch. The person behind me simply said, "Watch out." FML*
+09 Dec 2016 11:57:47 : LimitlessMc, botchat, crystal4209#4698, lol
+09 Dec 2016 11:59:33 : LimitlessMc, botchat, crystal4209#4698, selling stuff
+09 Dec 2016 12:04:22 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 12:04:23 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, my constant bragging to friends caught up with me, and everyone believes I'm a swinger. Because of this, no girl wants to go out with me, in case they become just another notch under my belt. The truth is, I'm still a virgin. FML*
+09 Dec 2016 12:07:49 : LimitlessMc, botchat, crystal4209#4698, #Season3
+09 Dec 2016 12:08:37 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 12:08:38 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I woke up at a guy's house drunk and soaked in my own pee. I had passed out with all my clothes on. Since I was late for work and didn't have a change of clothes, all I could do was throw my jeans in the dryer. I had to sit all day at work in crusty pee pants. FML*
+09 Dec 2016 12:09:24 : LimitlessMc, botchat, crystal4209#4698, 14
+09 Dec 2016 12:09:54 : LimitlessMc, mainchat, Third_Worm#4804, Good morning
+09 Dec 2016 12:10:33 : LimitlessMc, mainchat, crystal4209#4698, good morning
+09 Dec 2016 12:10:47 : LimitlessMc, mainchat, crystal4209#4698, join chat
+09 Dec 2016 12:15:43 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 12:15:43 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, after weeks of watching car after car of solo drivers go by in the carpool lane every day, I decided to join them. I'm the one who got pulled over. FML*
+09 Dec 2016 12:18:12 : LimitlessMc, botchat, crystal4209#4698, ;fml
+09 Dec 2016 12:18:13 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, while in a hospital waiting room, a man started talking to me. After a few minutes, he asked me what I did for a living, and I said I'm a stay-at-home mom. He looked me up and down and said, "Huh. No life ambitions, huh?" FML*
+09 Dec 2016 12:18:33 : LimitlessMc, botchat, crystal4209#4698, lol ^
+09 Dec 2016 12:18:56 : LimitlessMc, botchat, crystal4209#4698, no im grinding
+09 Dec 2016 12:19:45 : LimitlessMc, botchat, crystal4209#4698, you need to get a headset worm
+09 Dec 2016 12:20:01 : LimitlessMc, botchat, Third_Worm#4804, @Botfuzzy77 Am I a weeb?
+09 Dec 2016 12:20:06 : LimitlessMc, botchat, crystal4209#4698, i will even get you one if i could T.T
+09 Dec 2016 12:20:09 : LimitlessMc, botchat, Third_Worm#4804, ;-;
+09 Dec 2016 12:20:41 : LimitlessMc, mainchat, Botfuzzy77#2209, Welcome @FapGod69 to LimitlessMc!
+09 Dec 2016 12:30:28 : LimitlessMc, mainchat, Botfuzzy77#2209, Welcome @FapGod69 to LimitlessMc!
+09 Dec 2016 12:30:38 : LimitlessMc, mainchat, Adam#7575, rip no mic in work and no speakers
+09 Dec 2016 12:30:56 : LimitlessMc, mainchat, crystal4209#4698, rip
+09 Dec 2016 12:31:05 : LimitlessMc, mainchat, Third_Worm#4804, rip
+09 Dec 2016 12:31:37 : LimitlessMc, mainchat, crystal4209#4698, yeah
+09 Dec 2016 12:32:51 : LimitlessMc, mainchat, Adam#7575, wont be on until a bit later ebcause im chilling with my new housemate too
+09 Dec 2016 12:33:15 : LimitlessMc, mainchat, crystal4209#4698, ok
+09 Dec 2016 12:33:24 : LimitlessMc, mainchat, crystal4209#4698, no turbo did
+09 Dec 2016 12:34:06 : LimitlessMc, mainchat, Adam#7575, he's so damn similar to me its creepy
+09 Dec 2016 12:34:14 : LimitlessMc, mainchat, Third_Worm#4804, lol
+09 Dec 2016 12:34:25 : LimitlessMc, mainchat, crystal4209#4698, lol
+09 Dec 2016 12:34:26 : LimitlessMc, mainchat, Adam#7575, sam why does your picture change every day 😂
+09 Dec 2016 12:34:33 : LimitlessMc, mainchat, crystal4209#4698, sam?
+09 Dec 2016 12:34:41 : LimitlessMc, mainchat, Third_Worm#4804, Oh yeah, thanks for reminding me
+09 Dec 2016 12:34:45 : LimitlessMc, mainchat, Third_Worm#4804, give me a sec
+09 Dec 2016 12:35:52 : LimitlessMc, mainchat, Third_Worm#4804, okay done
+09 Dec 2016 12:36:00 : LimitlessMc, mainchat, crystal4209#4698, oooo nice
+09 Dec 2016 12:36:15 : LimitlessMc, mainchat, Third_Worm#4804, Thanks, Adam, i get pickly thats why
+09 Dec 2016 12:36:19 : LimitlessMc, mainchat, Third_Worm#4804, i get bored
+09 Dec 2016 12:36:44 : LimitlessMc, mainchat, Third_Worm#4804, ._.lll
+09 Dec 2016 12:36:54 : LimitlessMc, mainchat, crystal4209#4698, adam have you seen our chat?
+09 Dec 2016 12:37:01 : LimitlessMc, mainchat, Third_Worm#4804, yeah?
+09 Dec 2016 12:37:03 : LimitlessMc, mainchat, Third_Worm#4804, have yiu?
+09 Dec 2016 12:37:08 : LimitlessMc, mainchat, crystal4209#4698, to funny
+09 Dec 2016 12:37:08 : LimitlessMc, mainchat, Third_Worm#4804, *You?
+09 Dec 2016 12:44:43 : LimitlessMc, mainchat, crystal4209#4698, hey third is load
+09 Dec 2016 12:44:48 : LimitlessMc, mainchat, crystal4209#4698, loud
+09 Dec 2016 12:44:59 : LimitlessMc, mainchat, Third_Worm#4804, I am?
+09 Dec 2016 12:45:02 : LimitlessMc, mainchat, Third_Worm#4804, impressive
+09 Dec 2016 12:45:23 : LimitlessMc, mainchat, crystal4209#4698, im kidding
+09 Dec 2016 12:47:51 : LimitlessMc, mainchat, Third_Worm#4804, ;-;
+09 Dec 2016 12:54:39 : LimitlessMc, mainchat, Zorua#5017, Why am I muted
+09 Dec 2016 12:54:58 : LimitlessMc, mainchat, Third_Worm#4804, I don't know
+09 Dec 2016 12:55:02 : LimitlessMc, mainchat, Third_Worm#4804, hold on
+09 Dec 2016 12:55:10 : LimitlessMc, mainchat, crystal4209#4698, no
+09 Dec 2016 12:55:20 : LimitlessMc, mainchat, crystal4209#4698, it was probs lightning
+09 Dec 2016 12:55:26 : LimitlessMc, mainchat, Third_Worm#4804, or Alpha
+09 Dec 2016 12:55:32 : LimitlessMc, mainchat, Third_Worm#4804, cause its Alpha
+09 Dec 2016 12:55:32 : LimitlessMc, mainchat, crystal4209#4698, because hes lightning
+09 Dec 2016 12:55:39 : LimitlessMc, mainchat, Third_Worm#4804, ._.
+09 Dec 2016 12:56:00 : LimitlessMc, mainchat, Third_Worm#4804, i should really go to school
+09 Dec 2016 12:56:02 : LimitlessMc, mainchat, crystal4209#4698, oh alpha is on
+09 Dec 2016 12:56:02 : LimitlessMc, mainchat, Third_Worm#4804, hold on
+09 Dec 2016 12:56:09 : LimitlessMc, mainchat, Third_Worm#4804, Yeah Crystal
+09 Dec 2016 12:56:11 : LimitlessMc, mainchat, Third_Worm#4804, ;-;
+09 Dec 2016 12:56:16 : LimitlessMc, mainchat, Lightning#6734, elphabet
+09 Dec 2016 12:56:21 : LimitlessMc, mainchat, Third_Worm#4804, lol
+09 Dec 2016 12:56:21 : LimitlessMc, mainchat, crystal4209#4698, didnt notice
+09 Dec 2016 12:56:22 : LimitlessMc, mainchat, DanTurboX#4833, lol
+09 Dec 2016 12:56:42 : LimitlessMc, mainchat, crystal4209#4698, okai bye
+09 Dec 2016 12:56:53 : LimitlessMc, mainchat, Third_Worm#4804, I'm still here lol
+09 Dec 2016 12:56:58 : LimitlessMc, mainchat, crystal4209#4698, i know
+09 Dec 2016 12:57:34 : LimitlessMc, mainchat, crystal4209#4698, hmm
+09 Dec 2016 12:57:39 : LimitlessMc, mainchat, crystal4209#4698, what do you mean
+09 Dec 2016 12:57:44 : LimitlessMc, mainchat, Third_Worm#4804, ._.
+09 Dec 2016 12:58:04 : LimitlessMc, mainchat, crystal4209#4698, hmm
+09 Dec 2016 12:58:10 : LimitlessMc, mainchat, Third_Worm#4804, Oh
+09 Dec 2016 12:58:34 : LimitlessMc, mainchat, crystal4209#4698, can you explain worm?
+09 Dec 2016 12:59:29 : LimitlessMc, mainchat, Third_Worm#4804, Says I'm still helper
+09 Dec 2016 12:59:39 : LimitlessMc, mainchat, Third_Worm#4804, His discord might be glitched
+09 Dec 2016 12:59:49 : LimitlessMc, mainchat, Zorua#5017, Yes there ia
+09 Dec 2016 13:00:29 : LimitlessMc, mainchat, Zorua#5017, It's not showing that your online
+09 Dec 2016 13:00:36 : LimitlessMc, mainchat, Thoes#2162, You're ugly af
+09 Dec 2016 13:00:50 : LimitlessMc, mainchat, crystal4209#4698, oi thats mean
+09 Dec 2016 13:01:01 : LimitlessMc, mainchat, Zorua#5017, Talking about me?
+09 Dec 2016 13:01:13 : LimitlessMc, mainchat, Thoes#2162, All of u
+09 Dec 2016 13:01:27 : LimitlessMc, mainchat, Zorua#5017, That's not very nice
+09 Dec 2016 13:02:22 : LimitlessMc, mainchat, Third_Worm#4804, Ah Thoes
+09 Dec 2016 13:02:22 : LimitlessMc, mainchat, Third_Worm#4804, Wanna be kicked?
+09 Dec 2016 13:02:32 : LimitlessMc, mainchat, crystal4209#4698, oo can i kick
+09 Dec 2016 13:02:41 : LimitlessMc, mainchat, Third_Worm#4804, Eh sure
+09 Dec 2016 13:03:00 : LimitlessMc, mainchat, crystal4209#4698, wait might just give a warning instead of kick
+09 Dec 2016 13:03:15 : LimitlessMc, mainchat, Third_Worm#4804, Good idea
+09 Dec 2016 13:03:29 : LimitlessMc, mainchat, crystal4209#4698, it would be unfair to kick because of that
+09 Dec 2016 13:03:38 : LimitlessMc, mainchat, Third_Worm#4804, True
+09 Dec 2016 13:04:10 : LimitlessMc, mainchat, crystal4209#4698, @Knight_Steel if you say stuff like that again i will not hesitate to kick you
+09 Dec 2016 13:04:26 : LimitlessMc, mainchat, crystal4209#4698, @Thoes *
+09 Dec 2016 13:04:31 : LimitlessMc, mainchat, DanTurboX#4833, lol
+09 Dec 2016 13:04:45 : LimitlessMc, mainchat, crystal4209#4698, shush
+09 Dec 2016 13:04:53 : LimitlessMc, mainchat, DanTurboX#4833, dont blame other @crystal4209
+09 Dec 2016 13:05:02 : LimitlessMc, mainchat, crystal4209#4698, i clicked the wrong thing ok
+09 Dec 2016 13:05:08 : LimitlessMc, mainchat, DanTurboX#4833, lol
+09 Dec 2016 13:05:17 : LimitlessMc, mainchat, Third_Worm#4804, Lol
+09 Dec 2016 13:07:34 : LimitlessMc, mainchat, Thoes#2162, Wow
+09 Dec 2016 13:07:42 : LimitlessMc, mainchat, Thoes#2162, Love the abusiveness on the server
+09 Dec 2016 13:07:53 : LimitlessMc, mainchat, Thoes#2162, I remember when I was staff I legit said that to everyone
+09 Dec 2016 13:07:59 : LimitlessMc, mainchat, crystal4209#4698, im not abusing im just daying
+09 Dec 2016 13:08:02 : LimitlessMc, mainchat, Thoes#2162, Probably should have a sense of humor
+09 Dec 2016 13:08:07 : LimitlessMc, mainchat, Third_Worm#4804, Mhm, gotta love it
+09 Dec 2016 13:08:11 : LimitlessMc, mainchat, Thoes#2162, Instead of crying of me saying you suck?
+09 Dec 2016 13:08:14 : LimitlessMc, mainchat, crystal4209#4698, saying*
+09 Dec 2016 13:08:22 : LimitlessMc, mainchat, Thoes#2162, Its a joke
+09 Dec 2016 13:08:26 : LimitlessMc, mainchat, Thoes#2162, Learn to take it
+09 Dec 2016 13:08:40 : LimitlessMc, mainchat, crystal4209#4698, i know how to take a joke
+09 Dec 2016 13:08:45 : LimitlessMc, mainchat, Third_Worm#4804, Learn to shut up
+09 Dec 2016 13:08:49 : LimitlessMc, mainchat, crystal4209#4698, yeah
+09 Dec 2016 13:08:49 : LimitlessMc, mainchat, Thoes#2162, LUL
+09 Dec 2016 13:08:50 : LimitlessMc, mainchat, Third_Worm#4804, For once
+09 Dec 2016 13:08:56 : LimitlessMc, mainchat, Thoes#2162, Yes
+09 Dec 2016 13:08:57 : LimitlessMc, mainchat, Thoes#2162, Ok
+09 Dec 2016 13:09:04 : LimitlessMc, mainchat, Lightning#6734, knock it off.
+09 Dec 2016 13:09:16 : LimitlessMc, mainchat, crystal4209#4698, eeep we have been caught
+09 Dec 2016 13:09:29 : LimitlessMc, mainchat, Thoes#2162, @AlphaBit tell this bet kids to learn to take a joke pls
+09 Dec 2016 13:09:31 : LimitlessMc, mainchat, crystal4209#4698, sorry @Lightning
+09 Dec 2016 13:09:37 : LimitlessMc, mainchat, Thoes#2162, Beta
+09 Dec 2016 13:09:42 : LimitlessMc, mainchat, Thoes#2162, Who is lightning
+09 Dec 2016 13:09:46 : LimitlessMc, mainchat, Thoes#2162, Do I know you?
+09 Dec 2016 13:09:50 : LimitlessMc, mainchat, Lightning#6734, someone you're starting to aggravate
+09 Dec 2016 13:10:03 : LimitlessMc, mainchat, crystal4209#4698, your gonna get kicked i know it
+09 Dec 2016 13:10:27 : LimitlessMc, mainchat, Lightning#6734, idk what's going on, and i honestly don't care but it's annoying
+09 Dec 2016 13:10:42 : LimitlessMc, mainchat, Thoes#2162, Lul I made a joke and he instantly said he would kick me
+09 Dec 2016 13:10:49 : LimitlessMc, mainchat, Thoes#2162, So I said it turned to some abusive mess
+09 Dec 2016 13:11:04 : LimitlessMc, mainchat, Thoes#2162, Anyways
+09 Dec 2016 13:11:06 : LimitlessMc, mainchat, Thoes#2162, Im out
+09 Dec 2016 13:11:17 : LimitlessMc, mainchat, crystal4209#4698, im not a he im a she
+09 Dec 2016 13:11:32 : LimitlessMc, mainchat, Thoes#2162, Sorry for assuming your gender
+09 Dec 2016 13:11:41 : LimitlessMc, mainchat, Lightning#6734, i'm just here
+09 Dec 2016 13:11:47 : LimitlessMc, mainchat, crystal4209#4698, T R I G G E R E D
+09 Dec 2016 13:11:51 : LimitlessMc, mainchat, Third_Worm#4804, I'm just annoyed
+09 Dec 2016 13:11:57 : LimitlessMc, mainchat, Thoes#2162, @StubbyMuffins
+09 Dec 2016 13:11:59 : LimitlessMc, mainchat, Thoes#2162, ?
+09 Dec 2016 13:12:03 : LimitlessMc, mainchat, Lightning#6734, lul
+09 Dec 2016 13:12:06 : LimitlessMc, mainchat, Lightning#6734, gl with that
+09 Dec 2016 13:12:11 : LimitlessMc, mainchat, crystal4209#4698, lol
+09 Dec 2016 13:12:12 : LimitlessMc, mainchat, Thoes#2162, Wat
+09 Dec 2016 13:12:14 : LimitlessMc, mainchat, Thoes#2162, He die
+09 Dec 2016 13:12:16 : LimitlessMc, mainchat, Thoes#2162, ?
+09 Dec 2016 13:12:18 : LimitlessMc, mainchat, Third_Worm#4804, Lul
+09 Dec 2016 13:12:21 : LimitlessMc, mainchat, Lightning#6734, stubby hasn't said anything on here in months
+09 Dec 2016 13:12:24 : LimitlessMc, mainchat, Thoes#2162, Oh
+09 Dec 2016 13:12:30 : LimitlessMc, mainchat, Thoes#2162, All old mods died
+09 Dec 2016 13:12:34 : LimitlessMc, mainchat, Lightning#6734, he's alive just not very talkative
+09 Dec 2016 13:12:42 : LimitlessMc, mainchat, Thoes#2162, Stubby loves me
+09 Dec 2016 13:12:48 : LimitlessMc, mainchat, Thoes#2162, He dreams about me
+09 Dec 2016 13:12:52 : LimitlessMc, mainchat, Third_Worm#4804, Mhm
+09 Dec 2016 13:12:57 : LimitlessMc, mainchat, crystal4209#4698, pffftt
+09 Dec 2016 13:12:58 : LimitlessMc, mainchat, Thoes#2162, Ask him about Not_A_Banana
+09 Dec 2016 13:13:04 : LimitlessMc, mainchat, Lightning#6734, Wait.
+09 Dec 2016 13:13:04 : LimitlessMc, mainchat, Thoes#2162, 😉
+09 Dec 2016 13:13:08 : LimitlessMc, mainchat, Thoes#2162, Wait
+09 Dec 2016 13:13:10 : LimitlessMc, mainchat, Lightning#6734, banana...
+09 Dec 2016 13:13:14 : LimitlessMc, mainchat, Thoes#2162, Yes
+09 Dec 2016 13:13:20 : LimitlessMc, mainchat, Lightning#6734, age talked about a damn banana...
+09 Dec 2016 13:13:27 : LimitlessMc, mainchat, Third_Worm#4804, Mhm
+09 Dec 2016 13:13:28 : LimitlessMc, mainchat, crystal4209#4698, *starts singing banana boat*
+09 Dec 2016 13:13:28 : LimitlessMc, mainchat, Thoes#2162, Age loves me aswell
+09 Dec 2016 13:13:40 : LimitlessMc, mainchat, Lightning#6734, age is such a nob jockey lmao
+09 Dec 2016 13:13:45 : LimitlessMc, mainchat, Thoes#2162, Yes
+09 Dec 2016 13:13:48 : LimitlessMc, mainchat, Thoes#2162, So is Ownce
+09 Dec 2016 13:13:53 : LimitlessMc, mainchat, Thoes#2162, Is he still on the server
+09 Dec 2016 13:13:58 : LimitlessMc, mainchat, Lightning#6734, age? yea
+09 Dec 2016 13:14:04 : LimitlessMc, mainchat, Thoes#2162, Ownce
+09 Dec 2016 13:14:07 : LimitlessMc, mainchat, Thoes#2162, ?
+09 Dec 2016 13:14:10 : LimitlessMc, mainchat, crystal4209#4698, hasnt been on in days tho
+09 Dec 2016 13:14:14 : LimitlessMc, mainchat, Lightning#6734, ye ownce shows up randomly
+09 Dec 2016 13:14:17 : LimitlessMc, mainchat, Thoes#2162, Or wesleysnipes
+09 Dec 2016 13:14:22 : LimitlessMc, mainchat, Thoes#2162, Ownce still donates 1k
+09 Dec 2016 13:14:24 : LimitlessMc, mainchat, Thoes#2162, LUL?
+09 Dec 2016 13:14:30 : LimitlessMc, mainchat, Lightning#6734, wesley hasn't been around
+09 Dec 2016 13:14:33 : LimitlessMc, mainchat, Thoes#2162, He used to do that when I was mod
+09 Dec 2016 13:14:47 : LimitlessMc, mainchat, crystal4209#4698, i dont know who these people are
+09 Dec 2016 13:14:53 : LimitlessMc, mainchat, Thoes#2162, Meh
+09 Dec 2016 13:15:00 : LimitlessMc, mainchat, Lightning#6734, been here too long lol
+09 Dec 2016 13:15:03 : LimitlessMc, mainchat, crystal4209#4698, im pretty new
+09 Dec 2016 13:15:05 : LimitlessMc, mainchat, Thoes#2162, Most people I used to play with quit
+09 Dec 2016 13:15:11 : LimitlessMc, mainchat, crystal4209#4698, but not to new
+09 Dec 2016 13:15:17 : LimitlessMc, mainchat, Lightning#6734, snulerofcakes is still here lolol
+09 Dec 2016 13:15:17 : LimitlessMc, mainchat, Thoes#2162, Before I got admin I quit
+09 Dec 2016 13:15:24 : LimitlessMc, mainchat, Thoes#2162, Dont know him?
+09 Dec 2016 13:15:28 : LimitlessMc, mainchat, Thoes#2162, Alpha I do know
+09 Dec 2016 13:15:28 : LimitlessMc, mainchat, Lightning#6734, ruleroftri?
+09 Dec 2016 13:15:31 : LimitlessMc, mainchat, Thoes#2162, Oh
+09 Dec 2016 13:15:32 : LimitlessMc, mainchat, Thoes#2162, Yes
+09 Dec 2016 13:15:35 : LimitlessMc, mainchat, Thoes#2162, I know him
+09 Dec 2016 13:15:39 : LimitlessMc, mainchat, Thoes#2162, HeavenlyBetrayal
+09 Dec 2016 13:15:42 : LimitlessMc, mainchat, Thoes#2162, Cane back?
+09 Dec 2016 13:15:45 : LimitlessMc, mainchat, Lightning#6734, idk
+09 Dec 2016 13:15:52 : LimitlessMc, mainchat, crystal4209#4698, oo i got to speak to you about somthin lightning
+09 Dec 2016 13:15:57 : LimitlessMc, mainchat, Lightning#6734, o.O?
+09 Dec 2016 13:16:00 : LimitlessMc, mainchat, Thoes#2162, Current mod team?
+09 Dec 2016 13:16:04 : LimitlessMc, mainchat, Lightning#6734, le
+09 Dec 2016 13:16:14 : LimitlessMc, mainchat, Lightning#6734, me alpha ruler and survivra
+09 Dec 2016 13:16:26 : LimitlessMc, mainchat, Thoes#2162, Survivra might know me
+09 Dec 2016 13:16:30 : LimitlessMc, mainchat, Lightning#6734, a few went inactive
+09 Dec 2016 13:16:36 : LimitlessMc, mainchat, Thoes#2162, Eoh
+09 Dec 2016 13:16:38 : LimitlessMc, mainchat, Thoes#2162, Admins
+09 Dec 2016 13:16:39 : LimitlessMc, mainchat, Thoes#2162, ?
+09 Dec 2016 13:16:41 : LimitlessMc, mainchat, Thoes#2162, Tyler quit
+09 Dec 2016 13:16:44 : LimitlessMc, mainchat, Thoes#2162, That I know
+09 Dec 2016 13:16:49 : LimitlessMc, mainchat, Lightning#6734, stubby toph user wert and bringer
+09 Dec 2016 13:16:55 : LimitlessMc, mainchat, Thoes#2162, User knows me
+09 Dec 2016 13:16:58 : LimitlessMc, mainchat, Thoes#2162, Bringer admin
+09 Dec 2016 13:16:59 : LimitlessMc, mainchat, Thoes#2162, WAUT
+09 Dec 2016 13:17:02 : LimitlessMc, mainchat, Lightning#6734, ye
+09 Dec 2016 13:17:04 : LimitlessMc, mainchat, Thoes#2162, BRINGER ADMIN
+09 Dec 2016 13:17:05 : LimitlessMc, mainchat, Thoes#2162, OMFG
+09 Dec 2016 13:17:11 : LimitlessMc, mainchat, Thoes#2162, Is the fucker on
+09 Dec 2016 13:17:12 : LimitlessMc, mainchat, Thoes#2162, ?
+09 Dec 2016 13:17:15 : LimitlessMc, mainchat, Lightning#6734, nah he been sick
+09 Dec 2016 13:17:19 : LimitlessMc, mainchat, Thoes#2162, Fuck me
+09 Dec 2016 13:17:22 : LimitlessMc, mainchat, Thoes#2162, Dang
+09 Dec 2016 13:17:29 : LimitlessMc, mainchat, Thoes#2162, Thats the guy that joined
+09 Dec 2016 13:17:32 : LimitlessMc, mainchat, Thoes#2162, In my dats
+09 Dec 2016 13:17:38 : LimitlessMc, mainchat, Thoes#2162, Tell him I said hi
+09 Dec 2016 13:17:43 : LimitlessMc, mainchat, Lightning#6734, will do
+09 Dec 2016 13:17:49 : LimitlessMc, mainchat, Thoes#2162, Fair enough
+09 Dec 2016 13:17:53 : LimitlessMc, mainchat, Thoes#2162, I need to go for a smoke
+09 Dec 2016 13:18:12 : LimitlessMc, mainchat, Lightning#6734, i need to go shopping to finish all this xmas shit
+09 Dec 2016 13:18:22 : LimitlessMc, mainchat, crystal4209#4698, nooo worm
+09 Dec 2016 13:19:01 : LimitlessMc, mainchat, Zorua#5017, No come back
+09 Dec 2016 13:19:06 : LimitlessMc, mainchat, crystal4209#4698, okai then lightning i will talk to you when i wake up then its about what rulers saying to me
+09 Dec 2016 13:19:19 : Cipher, general, AlphaBit#3869, @Anonymous Alligator nig
+09 Dec 2016 13:19:35 : LimitlessMc, mainchat, crystal4209#4698, well its about the gym actualy
+09 Dec 2016 13:19:45 : LimitlessMc, mainchat, Lightning#6734, o.O alright
+09 Dec 2016 13:19:52 : LimitlessMc, mainchat, crystal4209#4698, school
+09 Dec 2016 13:19:54 : LimitlessMc, mainchat, Third_Worm#4804, back
+09 Dec 2016 13:20:00 : Cipher, general, Allianths#4161, who u @AlphaWhore
+09 Dec 2016 13:20:11 : Cipher, general, AlphaBit#3869, ur mum
+09 Dec 2016 13:20:15 : Cipher, general, Allianths#4161, mom feed me
+09 Dec 2016 13:20:25 : LimitlessMc, mainchat, crystal4209#4698, because shes a worm
+09 Dec 2016 13:20:30 : LimitlessMc, mainchat, Third_Worm#4804, discord is unblocked at school Zorua
+09 Dec 2016 13:20:42 : LimitlessMc, mainchat, Third_Worm#4804, and i got grades so we're good
+09 Dec 2016 13:20:57 : LimitlessMc, mainchat, crystal4209#4698, i got bad grades ;-;
+09 Dec 2016 13:21:03 : LimitlessMc, mainchat, Third_Worm#4804, ;-;
+09 Dec 2016 13:21:19 : LimitlessMc, mainchat, crystal4209#4698, you make me feel bad now worm ;-;
+09 Dec 2016 13:21:40 : LimitlessMc, staff, AlphaBit#3869, scrubs dont mention me on weekdays im not the one using the pc
+09 Dec 2016 13:21:47 : LimitlessMc, mainchat, Third_Worm#4804, i'm sorry
+09 Dec 2016 13:21:58 : LimitlessMc, mainchat, crystal4209#4698, its okay i always know that i got bad grades
+09 Dec 2016 13:22:12 : LimitlessMc, staff, Third_Worm#4804, lol, Okay Alpha
+09 Dec 2016 13:22:17 : LimitlessMc, staff, crystal4209#4698, ok
+09 Dec 2016 13:22:18 : LimitlessMc, staff, Third_Worm#4804, See you later
+09 Dec 2016 13:22:35 : LimitlessMc, staff, crystal4209#4698, im gonna go need sleep
+09 Dec 2016 13:22:44 : LimitlessMc, staff, crystal4209#4698, plus i dont wanna hear any more
+09 Dec 2016 13:22:58 : LimitlessMc, mainchat, Third_Worm#4804, its Fine Zorua
+09 Dec 2016 13:22:58 : LimitlessMc, staff, Lightning#6734, le
+09 Dec 2016 13:23:16 : LimitlessMc, staff, crystal4209#4698, oh god hes gonna sing again
+09 Dec 2016 13:23:30 : LimitlessMc, mainchat, Third_Worm#4804, lol Nice
+09 Dec 2016 13:23:51 : LimitlessMc, mainchat, AlphaBit#3869, .-.
+09 Dec 2016 13:24:05 : LimitlessMc, mainchat, Third_Worm#4804, ._.
+09 Dec 2016 13:24:13 : LimitlessMc, mainchat, Third_Worm#4804, kay then
+09 Dec 2016 13:24:14 : LimitlessMc, mainchat, crystal4209#4698, yay alpha
+09 Dec 2016 13:24:44 : LimitlessMc, mainchat, AlphaBit#3869, dafuq is this
+09 Dec 2016 13:24:49 : LimitlessMc, mainchat, Third_Worm#4804, songs
+09 Dec 2016 13:24:51 : LimitlessMc, mainchat, AlphaBit#3869, u ppl high
+09 Dec 2016 13:24:53 : LimitlessMc, mainchat, crystal4209#4698, i dont know
+09 Dec 2016 13:24:54 : LimitlessMc, mainchat, Third_Worm#4804, live with it
+09 Dec 2016 13:25:04 : Cipher, general, AlphaBit#3869, no
+09 Dec 2016 13:25:08 : Cipher, general, AlphaBit#3869, ur on vacay now?
+09 Dec 2016 13:25:24 : LimitlessMc, mainchat, AlphaBit#3869, yea u ppl defo high
+09 Dec 2016 13:25:26 : LimitlessMc, mainchat, Thoes#2162, Hey Alpha
+09 Dec 2016 13:25:31 : LimitlessMc, mainchat, Thoes#2162, U still love me
+09 Dec 2016 13:25:35 : LimitlessMc, mainchat, crystal4209#4698, im not high alpha
+09 Dec 2016 13:25:37 : LimitlessMc, mainchat, Third_Worm#4804, ._.
+09 Dec 2016 13:25:38 : LimitlessMc, mainchat, AlphaBit#3869, no
+09 Dec 2016 13:25:43 : LimitlessMc, mainchat, Third_Worm#4804, Don't ask Zorua
+09 Dec 2016 13:25:43 : LimitlessMc, mainchat, NarcoticMile#6198, idk
+09 Dec 2016 13:25:44 : LimitlessMc, mainchat, Thoes#2162, Love is over?
+09 Dec 2016 13:26:03 : LimitlessMc, mainchat, crystal4209#4698, oi get int he chat miles
+09 Dec 2016 13:26:08 : LimitlessMc, mainchat, Third_Worm#4804, yeah
+09 Dec 2016 13:26:12 : LimitlessMc, mainchat, Third_Worm#4804, songs
+09 Dec 2016 13:26:15 : LimitlessMc, mainchat, AlphaBit#3869, probs @Thoes
+09 Dec 2016 13:26:17 : LimitlessMc, mainchat, NarcoticMile#6198, ok
+09 Dec 2016 13:26:26 : LimitlessMc, mainchat, crystal4209#4698, lol
+09 Dec 2016 13:26:31 : LimitlessMc, mainchat, Third_Worm#4804, boom Miles
+09 Dec 2016 13:26:41 : LimitlessMc, mainchat, crystal4209#4698, oh god dont do the nicco nico niii
+09 Dec 2016 13:26:49 : LimitlessMc, mainchat, Third_Worm#4804, ^
+09 Dec 2016 13:26:49 : LimitlessMc, mainchat, Botfuzzy77#2209, ^
+09 Dec 2016 13:26:52 : LimitlessMc, mainchat, crystal4209#4698, lol
+09 Dec 2016 13:27:02 : LimitlessMc, mainchat, Third_Worm#4804, me and the bot are in sync
+09 Dec 2016 13:27:10 : LimitlessMc, mainchat, Third_Worm#4804, lol Zorua
+09 Dec 2016 13:27:14 : LimitlessMc, mainchat, Third_Worm#4804, Thats Miles
+09 Dec 2016 13:27:14 : LimitlessMc, mainchat, crystal4209#4698, should i mute miles
+09 Dec 2016 13:27:17 : LimitlessMc, mainchat, Third_Worm#4804, and family
+09 Dec 2016 13:27:19 : LimitlessMc, mainchat, Third_Worm#4804, eh sure
+09 Dec 2016 13:27:27 : LimitlessMc, mainchat, Third_Worm#4804, but don't do it for long
+09 Dec 2016 13:27:32 : LimitlessMc, mainchat, crystal4209#4698, yeah
+09 Dec 2016 13:27:44 : LimitlessMc, mainchat, crystal4209#4698, miles tell me when to unmute
+09 Dec 2016 13:27:51 : LimitlessMc, mainchat, NarcoticMile#6198, ok
+09 Dec 2016 13:27:53 : LimitlessMc, mainchat, NarcoticMile#6198, not yet
+09 Dec 2016 13:27:55 : LimitlessMc, mainchat, Third_Worm#4804, ^
+09 Dec 2016 13:27:55 : LimitlessMc, mainchat, Botfuzzy77#2209, ^
+09 Dec 2016 13:27:57 : LimitlessMc, mainchat, crystal4209#4698, ok
+09 Dec 2016 13:28:00 : LimitlessMc, mainchat, Third_Worm#4804, that guy Zorua
+09 Dec 2016 13:28:13 : LimitlessMc, mainchat, Third_Worm#4804, yeah
+09 Dec 2016 13:29:03 : LimitlessMc, staff, Third_Worm#4804, le
+09 Dec 2016 13:29:14 : LimitlessMc, staff, crystal4209#4698, nooo not again
+09 Dec 2016 13:29:31 : LimitlessMc, staff, Third_Worm#4804, and your forced to stay up even more
+09 Dec 2016 13:29:54 : LimitlessMc, mainchat, Third_Worm#4804, There
+09 Dec 2016 13:29:57 : LimitlessMc, mainchat, Third_Worm#4804, unmouted
+09 Dec 2016 13:30:00 : LimitlessMc, mainchat, Third_Worm#4804, *unmuted
+09 Dec 2016 13:30:06 : LimitlessMc, mainchat, crystal4209#4698, go miles
+09 Dec 2016 13:30:11 : LimitlessMc, mainchat, Third_Worm#4804, Miles!
+09 Dec 2016 13:30:16 : LimitlessMc, mainchat, crystal4209#4698, do it
+09 Dec 2016 13:30:24 : LimitlessMc, mainchat, Third_Worm#4804, do itttt
+09 Dec 2016 13:30:28 : LimitlessMc, mainchat, crystal4209#4698, do iiit
+09 Dec 2016 13:30:36 : LimitlessMc, mainchat, Third_Worm#4804, ._>
+09 Dec 2016 13:30:44 : LimitlessMc, mainchat, Third_Worm#4804, do ittt
+09 Dec 2016 13:30:46 : LimitlessMc, mainchat, Third_Worm#4804, lol
+09 Dec 2016 13:30:50 : LimitlessMc, mainchat, crystal4209#4698, please miles
+09 Dec 2016 13:31:15 : LimitlessMc, mainchat, Third_Worm#4804, ._.
+09 Dec 2016 13:31:20 : LimitlessMc, mainchat, Third_Worm#4804, i'll mute you gain
+09 Dec 2016 13:31:22 : LimitlessMc, mainchat, Third_Worm#4804, *again
+09 Dec 2016 13:31:25 : LimitlessMc, mainchat, crystal4209#4698, yeah do that
+09 Dec 2016 13:31:32 : LimitlessMc, mainchat, crystal4209#4698, lol
+09 Dec 2016 13:31:35 : LimitlessMc, mainchat, Third_Worm#4804, lol
+09 Dec 2016 13:31:35 : LimitlessMc, mainchat, crystal4209#4698, XD
+09 Dec 2016 13:31:38 : LimitlessMc, mainchat, Third_Worm#4804, he did it
+09 Dec 2016 13:31:42 : LimitlessMc, mainchat, Third_Worm#4804, lololo
+09 Dec 2016 13:31:42 : LimitlessMc, mainchat, crystal4209#4698, yeah
+09 Dec 2016 13:31:52 : LimitlessMc, mainchat, crystal4209#4698, im dying XD
+09 Dec 2016 13:31:55 : LimitlessMc, mainchat, Third_Worm#4804, me too
+09 Dec 2016 13:32:04 : LimitlessMc, mainchat, Third_Worm#4804, Miles
+09 Dec 2016 13:32:07 : LimitlessMc, mainchat, Third_Worm#4804, do it again
+09 Dec 2016 13:32:14 : LimitlessMc, mainchat, crystal4209#4698, miles do it again please
+09 Dec 2016 13:32:14 : LimitlessMc, mainchat, Third_Worm#4804, Zorua needs to hear
+09 Dec 2016 13:32:17 : LimitlessMc, mainchat, Third_Worm#4804, ._.
+09 Dec 2016 13:32:18 : LimitlessMc, mainchat, NarcoticMile#6198, _-
+09 Dec 2016 13:32:35 : LimitlessMc, mainchat, NarcoticMile#6198, _-=
+09 Dec 2016 13:32:40 : LimitlessMc, mainchat, Third_Worm#4804, lol
+09 Dec 2016 13:32:40 : LimitlessMc, mainchat, crystal4209#4698, its so cringy but its funny
+09 Dec 2016 13:32:55 : LimitlessMc, mainchat, Third_Worm#4804, yeah Crystal, that's why its perfect
+09 Dec 2016 13:33:11 : LimitlessMc, mainchat, crystal4209#4698, especially when miles does it
+09 Dec 2016 13:33:25 : LimitlessMc, mainchat, Third_Worm#4804, mhm
+09 Dec 2016 13:33:30 : LimitlessMc, mainchat, Third_Worm#4804, do it again Miles
+09 Dec 2016 13:33:39 : LimitlessMc, mainchat, Third_Worm#4804, lol Zorua
+09 Dec 2016 13:33:41 : LimitlessMc, mainchat, crystal4209#4698, do it do it
+09 Dec 2016 13:33:44 : LimitlessMc, mainchat, Third_Worm#4804, ^
+09 Dec 2016 13:33:44 : LimitlessMc, mainchat, Botfuzzy77#2209, ^
+09 Dec 2016 13:33:59 : LimitlessMc, mainchat, crystal4209#4698, XD
+09 Dec 2016 13:34:06 : LimitlessMc, mainchat, Third_Worm#4804, omg i'm crying
+09 Dec 2016 13:34:09 : LimitlessMc, mainchat, crystal4209#4698, im litterly dying XD
+09 Dec 2016 13:34:10 : LimitlessMc, mainchat, Third_Worm#4804, literally
+09 Dec 2016 13:34:19 : LimitlessMc, mainchat, crystal4209#4698, i cant spell
+09 Dec 2016 13:34:34 : LimitlessMc, mainchat, crystal4209#4698, it never gets old
+09 Dec 2016 13:34:41 : LimitlessMc, mainchat, crystal4209#4698, im on my computer
+09 Dec 2016 13:34:44 : LimitlessMc, mainchat, Third_Worm#4804, me too
+09 Dec 2016 13:34:56 : LimitlessMc, mainchat, Third_Worm#4804, ._.
+09 Dec 2016 13:34:58 : LimitlessMc, mainchat, Third_Worm#4804, thank u
+09 Dec 2016 13:35:02 : LimitlessMc, mainchat, Third_Worm#4804, lol
+09 Dec 2016 13:35:06 : LimitlessMc, mainchat, crystal4209#4698, someones a robot
+09 Dec 2016 13:35:14 : LimitlessMc, mainchat, crystal4209#4698, i cant hear properly
+09 Dec 2016 13:35:27 : LimitlessMc, mainchat, Third_Worm#4804, thank u again
+09 Dec 2016 13:35:35 : LimitlessMc, mainchat, Third_Worm#4804, ._.
+09 Dec 2016 13:35:54 : LimitlessMc, mainchat, Third_Worm#4804, The staff is most likely wondering why we're spamming mainchat
+09 Dec 2016 13:35:58 : LimitlessMc, mainchat, Third_Worm#4804, ;-;
+09 Dec 2016 13:36:02 : LimitlessMc, mainchat, Third_Worm#4804, ah
+09 Dec 2016 13:36:04 : LimitlessMc, mainchat, crystal4209#4698, yeah lol
+09 Dec 2016 13:36:08 : LimitlessMc, mainchat, Third_Worm#4804, Zorua he does that
+09 Dec 2016 13:36:30 : LimitlessMc, mainchat, crystal4209#4698, why my internet not working
+09 Dec 2016 13:36:30 : LimitlessMc, mainchat, NarcoticMile#6198, lel
+09 Dec 2016 13:36:56 : LimitlessMc, mainchat, crystal4209#4698, oh shit thats loud
+09 Dec 2016 13:37:17 : LimitlessMc, mainchat, crystal4209#4698, https://www.youtube.com/watch?v=xPfMb50dsOk
+09 Dec 2016 13:37:36 : LimitlessMc, mainchat, Third_Worm#4804, ._.
+09 Dec 2016 13:37:42 : LimitlessMc, mainchat, Third_Worm#4804, its not blocked.....
+09 Dec 2016 13:37:50 : LimitlessMc, mainchat, crystal4209#4698, its god i dont watch mlp tho
+09 Dec 2016 13:37:53 : LimitlessMc, mainchat, Third_Worm#4804, ;-; my life is complete
+09 Dec 2016 13:37:57 : LimitlessMc, mainchat, crystal4209#4698, lol
+09 Dec 2016 13:38:02 : LimitlessMc, mainchat, Third_Worm#4804, wait
+09 Dec 2016 13:38:06 : LimitlessMc, mainchat, Third_Worm#4804, miles and you left
+09 Dec 2016 13:38:07 : LimitlessMc, mainchat, Third_Worm#4804, ;-;
+09 Dec 2016 13:38:09 : LimitlessMc, mainchat, Third_Worm#4804, nvm
+09 Dec 2016 13:38:21 : LimitlessMc, mainchat, Third_Worm#4804, my life is ruined
+09 Dec 2016 13:38:23 : LimitlessMc, mainchat, Third_Worm#4804, ah
+09 Dec 2016 13:38:35 : LimitlessMc, mainchat, Third_Worm#4804, the song isn't mlp, its based off of it
+09 Dec 2016 13:38:41 : LimitlessMc, mainchat, crystal4209#4698, yeah
+09 Dec 2016 13:39:05 : LimitlessMc, mainchat, Zorua#5017, Now you left me
+09 Dec 2016 13:39:56 : LimitlessMc, mainchat, Zorua#5017, Come back
+09 Dec 2016 13:41:03 : LimitlessMc, mainchat, Zorua#5017, Crystal why did you leave voice chat
+09 Dec 2016 13:41:31 : LimitlessMc, mainchat, crystal4209#4698, because im talking to my other friends
+09 Dec 2016 13:42:05 : LimitlessMc, mainchat, Zorua#5017, Oh ok
+09 Dec 2016 13:42:34 : LimitlessMc, mainchat, Zorua#5017, Third worm why did you leave
+09 Dec 2016 13:43:26 : LimitlessMc, mainchat, crystal4209#4698, shes talking with us
+09 Dec 2016 13:44:26 : LimitlessMc, mainchat, Zorua#5017, Is it a group chat thing
+09 Dec 2016 13:44:35 : LimitlessMc, mainchat, crystal4209#4698, yeah
+09 Dec 2016 13:44:41 : LimitlessMc, mainchat, Zorua#5017, Oh ok
+09 Dec 2016 13:45:07 : LimitlessMc, mainchat, Zorua#5017, What's the music command
+09 Dec 2016 13:46:58 : LimitlessMc, mainchat, Lightning#6734, it's ;search
+09 Dec 2016 13:47:06 : LimitlessMc, mainchat, Lightning#6734, or ;youtube with the youtube link
+09 Dec 2016 13:47:30 : LimitlessMc, mainchat, Zorua#5017, Oh ok
+09 Dec 2016 13:48:27 : LimitlessMc, botchat, Zorua#5017, ;search umbreon song
+09 Dec 2016 13:48:33 : LimitlessMc, botchat, Botfuzzy77#2209, Added Insanity Eevee evolutions English subtitles [RE-UPLOAD] to the queue
+09 Dec 2016 13:48:33 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=r2g_vq5yVBM
+09 Dec 2016 13:49:00 : LimitlessMc, botchat, Zorua#5017, ...
+09 Dec 2016 13:49:45 : LimitlessMc, botchat, Lightning#6734, ;join
+09 Dec 2016 13:49:45 : LimitlessMc, botchat, Botfuzzy77#2209, Sorry, I'm already connected to a channel in server The Wild Weebs
+09 Dec 2016 13:49:55 : LimitlessMc, botchat, Lightning#6734, ^ rip
+09 Dec 2016 13:50:04 : LimitlessMc, botchat, crystal4209#4698, lol
+09 Dec 2016 13:50:13 : LimitlessMc, botchat, Lightning#6734, you see i don't have that problem
+09 Dec 2016 13:50:14 : LimitlessMc, botchat, Zorua#5017, Wait so what happend
+09 Dec 2016 13:50:28 : LimitlessMc, botchat, Lightning#6734, bot is in another server atm
+09 Dec 2016 13:50:35 : LimitlessMc, botchat, Zorua#5017, Oh ok
+09 Dec 2016 13:51:07 : LimitlessMc, botchat, crystal4209#4698, but why is that server called wild weebs XD
+09 Dec 2016 13:51:14 : LimitlessMc, botchat, Zorua#5017, If this discord wants a music bot it should have bonfire or beemo bot
+09 Dec 2016 13:52:42 : LimitlessMc, botchat, Lightning#6734, we will have lightbot
+09 Dec 2016 13:52:55 : LimitlessMc, botchat, Lightning#6734, all the bot we shall eber need
+09 Dec 2016 13:52:56 : LimitlessMc, botchat, crystal4209#4698, lightbot is kinda dumb......
+09 Dec 2016 13:53:11 : LimitlessMc, botchat, Lightning#6734, you're asking it questions
+09 Dec 2016 13:53:13 : LimitlessMc, botchat, crystal4209#4698, no offence
+09 Dec 2016 13:53:24 : LimitlessMc, botchat, Lightning#6734, it goes off the cleverbot AI i had nothing to do with that bit
+09 Dec 2016 13:53:35 : LimitlessMc, botchat, crystal4209#4698, cleverbot?
+09 Dec 2016 13:53:38 : LimitlessMc, botchat, Lightning#6734, and cleverbot is retarted
+09 Dec 2016 13:53:49 : LimitlessMc, botchat, crystal4209#4698, lol
+09 Dec 2016 13:53:56 : LimitlessMc, botchat, crystal4209#4698, i can tell
+09 Dec 2016 13:54:13 : LimitlessMc, botchat, Lightning#6734, @Botfuzzy77 how do you do sir
+09 Dec 2016 13:54:27 : LimitlessMc, botchat, Lightning#6734, Lul wert brek his reply code?
+09 Dec 2016 13:54:31 : LimitlessMc, botchat, Zorua#5017, But beemo bot can be fun to play with sometimes
+09 Dec 2016 13:54:41 : LimitlessMc, botchat, Lightning#6734, obselete bots
+09 Dec 2016 13:57:38 : LimitlessMc, mainchat, Botfuzzy77#2209, Welcome @FapGod69 to LimitlessMc!
+09 Dec 2016 14:06:35 : LimitlessMc, mainchat, Zorua#5017, Also it was nice meeting you third worm
+09 Dec 2016 14:11:20 : LimitlessMc, mainchat, Third_Worm#4804, nice meeting you as well Zorua
+09 Dec 2016 15:10:48 : Cipher, bot_land, AlphaBit#3869, .srbr
+09 Dec 2016 15:14:05 : LimitlessMc, botchat, jjtwilefc#0051, ;server
+09 Dec 2016 15:14:06 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+09 Dec 2016 15:14:06 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 13 players out of 100
+ *Ping*: 199.832 ms
+ *MC Version*: 1.10.2
+09 Dec 2016 15:14:06 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *Michaelscool15, Nickymon, DaanF925, LegendaryFaze, MattRuc, Water_melon_wolf, FE_Lucina, Mitchyz, Garninc580, moortemans, AlphaBit, XMartiL...*
+09 Dec 2016 15:25:32 : LimitlessMc, botchat, jjtwilefc#0051, ;fml
+09 Dec 2016 15:25:33 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, my daughter asked me if we can make sticker art. Of course I said it was ok so she went to get some stickers. I wondered where she was going when she walked into the bathroom, but I didn't ask. I left the room and when I came back, her paper was blank and my pads were stuck to the wall. FML*
+09 Dec 2016 15:26:01 : LimitlessMc, botchat, jjtwilefc#0051, ;fml
+09 Dec 2016 15:26:01 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I had to water my entire garden. After an exhausting hour of watering hundreds of plants, I turned off the hose and started to feel good about the grueling job. That is, until it started pouring rain. FML*
+09 Dec 2016 15:26:20 : LimitlessMc, botchat, jjtwilefc#0051, ;fml
+09 Dec 2016 15:26:21 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I got home from college.  Since I haven't seen my parents in almost a year I sorta expected them to come meet me/pick me up at the airport. Nope. What did I get instead? A text from my dad saying, "I hope you have a key." FML*
+09 Dec 2016 15:43:56 : LimitlessMc, botchat, jjtwilefc#0051, ;fml
+09 Dec 2016 15:43:57 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I returned home to find that my boyfriend's dog had gotten into the garbage and ripped all my used pads to shreds.  There's a trail of Always tatters leading to his dog bed, and blood everywhere.  My blood.  Oh God.  FML*
+09 Dec 2016 15:44:22 : LimitlessMc, botchat, jjtwilefc#0051, ;fml
+09 Dec 2016 15:44:22 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was excited to start my new job. It was only when I was leaving after a long 8 hour day did I realize all of the personal documents I had I brought in for paperwork had been stolen. I am now down a passport, social security card, and wallet. Great first day. FML*
+09 Dec 2016 15:44:36 : LimitlessMc, botchat, jjtwilefc#0051, ;fml
+09 Dec 2016 15:44:37 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, my brother thought it would be hilarious to take a pair of scissors to all my bras. My mom can't take me shopping for another three days and I have no one to borrow a bra from. I have school. FML*
+09 Dec 2016 16:21:29 : Cipher, general, Allianths#4161, oh ya
+09 Dec 2016 16:36:06 : LimitlessMc, botchat, jjtwilefc#0051, ;server
+09 Dec 2016 16:36:07 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+09 Dec 2016 16:36:07 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 20 players out of 100
+ *Ping*: 199.608 ms
+ *MC Version*: 1.10.2
+09 Dec 2016 16:36:07 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *YOLOFUNGUY, aweblocker, LolopFace, Water_melon_wolf, OMG_ITS_MONKEY, JOBarc, SpencerZim, chill565, AlphaBit, chriiscraft, GeT_a_BucKeT, Michaelscool15...*
+09 Dec 2016 17:29:22 : LimitlessMc, mainchat, DarkNinja458#9006, Hi
+09 Dec 2016 17:46:09 : LimitlessMc, mainchat, Third_Worm#4804, hi
+09 Dec 2016 18:28:12 : GetPlebd, weeaboo-chat, Ỏ̷͖͈̞̩͎̻̫̫̜͉̠̫͕̭̭̫̫̹̗̹͈̼̠шen☆#1099, ewa
+09 Dec 2016 18:29:46 : GetPlebd, weeaboo-chat, Gilles#3169, awe
+09 Dec 2016 18:39:42 : GetPlebd, weeaboo-chat, Ỏ̷͖͈̞̩͎̻̫̫̜͉̠̫͕̭̭̫̫̹̗̹͈̼̠шen☆#1099, ey seyan
+09 Dec 2016 18:39:46 : GetPlebd, weeaboo-chat, Ỏ̷͖͈̞̩͎̻̫̫̜͉̠̫͕̭̭̫̫̹̗̹͈̼̠шen☆#1099, u iets wanna doen
+09 Dec 2016 18:39:55 : GetPlebd, weeaboo-chat, Ỏ̷͖͈̞̩͎̻̫̫̜͉̠̫͕̭̭̫̫̹̗̹͈̼̠шen☆#1099, @Indian Tech Support
+09 Dec 2016 19:08:29 : LimitlessMc, mainchat, Wertfuzzy77#0274, ;join
+09 Dec 2016 19:08:29 : LimitlessMc, mainchat, Botfuzzy77#2209, Sorry, I'm already connected to a channel in server The Wild Weebs
+09 Dec 2016 19:08:32 : LimitlessMc, mainchat, Wertfuzzy77#0274, kys @Botfuzzy77
+09 Dec 2016 19:08:42 : LimitlessMc, mainchat, Wertfuzzy77#0274, you are will be in any server i want you to be in
+09 Dec 2016 19:08:57 : LimitlessMc, botchat, Wertfuzzy77#0274, ;leave
+09 Dec 2016 19:08:58 : LimitlessMc, mainchat, Lightning#6734, lolol
+09 Dec 2016 19:08:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+09 Dec 2016 19:09:04 : LimitlessMc, mainchat, Lightning#6734, u can use lightbot y'kno
+09 Dec 2016 19:09:24 : LimitlessMc, mainchat, Wertfuzzy77#0274, he not in this server tho?
+09 Dec 2016 19:09:43 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+09 Dec 2016 19:09:43 : LimitlessMc, botchat, Botfuzzy77#2209, ```Name: Insanity Eevee evolutions English subtitles [RE-UPLOAD]
+URL: <https://www.youtube.com/watch?v=r2g_vq5yVBM>
+Time: 0:04:56
+Views: 231,400
+Likes: 2,989, 95.92%
+Dislikes: 127, 4.08%
+```
+09 Dec 2016 19:09:51 : LimitlessMc, botchat, Wertfuzzy77#0274, interesting
+09 Dec 2016 19:09:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=HOtCQA6S0NA
+09 Dec 2016 19:10:00 : LimitlessMc, botchat, Botfuzzy77#2209, Added Wiz Khalifa ft. Charlie Puth - See You Again (Absence Remix) to the queue
+09 Dec 2016 19:11:16 : Cipher, music, Wertfuzzy77#0274, ;viewplaylist Cala
+09 Dec 2016 19:13:14 : LimitlessMc, mainchat, Lightning#6734, jay needs to give me the key so she can be ;-;
+09 Dec 2016 19:14:04 : LimitlessMc, botchat, Wertfuzzy77#0274, ;loop 5
+09 Dec 2016 19:14:04 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*Wiz Khalifa ft. Charlie Puth - See You Again (Absence Remix)*' **5** more times
+09 Dec 2016 19:14:12 : LimitlessMc, mainchat, Wertfuzzy77#0274, she xD
+09 Dec 2016 19:14:17 : LimitlessMc, mainchat, Lightning#6734, yes
+09 Dec 2016 19:14:19 : LimitlessMc, mainchat, Lightning#6734, lightbot is a she
+09 Dec 2016 19:14:44 : LimitlessMc, mainchat, Wertfuzzy77#0274, I would say mine isnt, but all of its icons are female anime characters....
+09 Dec 2016 19:14:48 : LimitlessMc, mainchat, Wertfuzzy77#0274, oh wait
+09 Dec 2016 19:14:51 : LimitlessMc, mainchat, Wertfuzzy77#0274, except for one
+09 Dec 2016 19:14:54 : LimitlessMc, mainchat, Lightning#6734, ye
+09 Dec 2016 19:17:47 : Cipher, music, Wertfuzzy77#0274, ;viewplaylist cala
+09 Dec 2016 19:17:47 : Cipher, music, Botfuzzy77#2209, Playlist does not exists
+09 Dec 2016 19:17:53 : Cipher, music, Wertfuzzy77#0274, ;viewplaylist Cala
+09 Dec 2016 19:18:41 : Cipher, music, Wertfuzzy77#0274, "Cala": ["https://www.youtube.com/watch?v=AkA_dCLpm1M", "https://www.youtube.com/watch?v=4Am6iIqPXHY", "https://www.youtube.com/watch?v=eg3F4zpOdK8", "https://www.youtube.com/watch?v=pXRviuL6vMY", "https://www.youtube.com/watch?v=XgJFqVvb2Ws", "https://www.youtube.com/watch?v=YO-XGWSvZB0", "https://www.youtube.com/watch?v=u3VFzuUiTGw", "https://www.youtube.com/watch?v=OsTTacH0jx0", "https://www.youtube.com/watch?v=w8KQmps-Sog", "https://www.youtube.com/watch?v=R8OOWcsFj0U", "https://www.youtube.com/watch?v=lzk58JedcDU", "https://www.youtube.com/watch?v=yzTuBuRdAyA", "https://www.youtube.com/watch?v=xe_iCkFsQKE", "https://www.youtube.com/watch?v=_IaiUY3E1VY", "https://www.youtube.com/watch?v=gnhXHvRoUd0", "https://www.youtube.com/watch?v=3Kq_6XG2CTM", "https://www.youtube.com/watch?v=PAzH-YAlFYc", "https://www.youtube.com/watch?v=kOkQ4T5WO9E", "https://www.youtube.com/watch?v=jDXQN-gnLRo", "https://www.youtube.com/watch?v=yV4klOClPVc", "https://www.youtube.com/watch?v=9BFE3ikUmyk"]
+09 Dec 2016 19:20:21 : GetPlebd, weeaboo-chat, Ỏ̷͖͈̞̩͎̻̫̫̜͉̠̫͕̭̭̫̫̹̗̹͈̼̠шen☆#1099, 
+09 Dec 2016 19:20:37 : GetPlebd, weeaboo-chat, Ỏ̷͖͈̞̩͎̻̫̫̜͉̠̫͕̭̭̫̫̹̗̹͈̼̠шen☆#1099, 
+09 Dec 2016 19:24:39 : Cipher, music, Wertfuzzy77#0274, https://www.youtube.com/watch?v=M2hW6jgomwo
+09 Dec 2016 19:27:19 : GetPlebd, weeaboo-chat, ⎛⎝ Lockpicking ⎠⎞#7794, ;
+09 Dec 2016 19:27:19 : GetPlebd, weeaboo-chat, ⎛⎝ Lockpicking ⎠⎞#7794, ;
+09 Dec 2016 19:27:19 : GetPlebd, weeaboo-chat, ⎛⎝ Lockpicking ⎠⎞#7794, ;
+09 Dec 2016 19:27:20 : GetPlebd, weeaboo-chat, ⎛⎝ Lockpicking ⎠⎞#7794, ;
+09 Dec 2016 19:27:20 : GetPlebd, weeaboo-chat, ⎛⎝ Lockpicking ⎠⎞#7794, ;
+09 Dec 2016 19:27:20 : GetPlebd, weeaboo-chat, ⎛⎝ Lockpicking ⎠⎞#7794, ;
+09 Dec 2016 19:27:20 : GetPlebd, weeaboo-chat, ⎛⎝ Lockpicking ⎠⎞#7794, ;
+09 Dec 2016 19:27:20 : GetPlebd, weeaboo-chat, ⎛⎝ Lockpicking ⎠⎞#7794, ;
+09 Dec 2016 19:27:20 : GetPlebd, weeaboo-chat, Gilles#3169, .
+09 Dec 2016 19:27:21 : GetPlebd, weeaboo-chat, ⎛⎝ Lockpicking ⎠⎞#7794, ;;
+09 Dec 2016 19:27:21 : GetPlebd, weeaboo-chat, Gilles#3169, .
+09 Dec 2016 19:27:21 : GetPlebd, weeaboo-chat, ⎛⎝ Lockpicking ⎠⎞#7794, ;
+09 Dec 2016 19:27:21 : GetPlebd, weeaboo-chat, Gilles#3169, ..
+09 Dec 2016 19:27:21 : GetPlebd, weeaboo-chat, Gilles#3169, .
+09 Dec 2016 19:27:29 : GetPlebd, weeaboo-chat, ⎛⎝ Lockpicking ⎠⎞#7794, ;
+09 Dec 2016 19:27:29 : GetPlebd, weeaboo-chat, ⎛⎝ Lockpicking ⎠⎞#7794, ;
+09 Dec 2016 19:27:30 : GetPlebd, weeaboo-chat, ⎛⎝ Lockpicking ⎠⎞#7794, ;
+09 Dec 2016 19:27:30 : GetPlebd, weeaboo-chat, ⎛⎝ Lockpicking ⎠⎞#7794, ;
+09 Dec 2016 19:27:30 : GetPlebd, weeaboo-chat, ⎛⎝ Lockpicking ⎠⎞#7794, ;
+09 Dec 2016 19:27:30 : GetPlebd, weeaboo-chat, ⎛⎝ Lockpicking ⎠⎞#7794, ;
+09 Dec 2016 19:28:46 : GetPlebd, weeaboo-chat, Indian Tech Support#0498, https://gfycat.com/ContentThunderousLabradorretriever
+09 Dec 2016 19:33:46 : Cipher, music, Wertfuzzy77#0274, https://www.youtube.com/watch?v=VtRNxl236No
+09 Dec 2016 19:35:15 : Cipher, music, Wertfuzzy77#0274, https://www.youtube.com/watch?v=0t2tjNqGyJI
+09 Dec 2016 19:37:00 : Cipher, music, Wertfuzzy77#0274, https://www.youtube.com/watch?v=vi7wzz9kXxg
+09 Dec 2016 19:37:14 : Cipher, music, Wertfuzzy77#0274, https://www.youtube.com/watch?v=u3VFzuUiTGw
+09 Dec 2016 19:38:19 : GetPlebd, weeaboo-chat, Ỏ̷͖͈̞̩͎̻̫̫̜͉̠̫͕̭̭̫̫̹̗̹͈̼̠шen☆#1099, @Christmas Bleach
+09 Dec 2016 19:40:13 : Cipher, music, Wertfuzzy77#0274, https://www.youtube.com/watch?v=1aBmQ0keksA
+09 Dec 2016 19:42:23 : Cipher, music, Wertfuzzy77#0274, https://www.youtube.com/watch?v=okcSbKYPgMA
+09 Dec 2016 19:45:20 : Cipher, music, Wertfuzzy77#0274, https://www.youtube.com/watch?v=R7UbK_FuIkI
+09 Dec 2016 19:53:57 : Cipher, music, Wertfuzzy77#0274, https://www.youtube.com/watch?v=rLmA4iK2yKo
+09 Dec 2016 19:56:12 : Cipher, music, Wertfuzzy77#0274, https://www.youtube.com/watch?v=oH9BmrFsGk4
+09 Dec 2016 20:16:54 : LimitlessMc, botchat, Wertfuzzy77#0274, ;relog
+09 Dec 2016 20:17:01 : LimitlessMc, botchat, DicloniusPony Senpai Of Yuri#6564, https://www.youtube.com/watch?v=4UdepnkstAU

@@ -1,0 +1,80 @@
+16 Jul 2016 19:35:36 : LimitlessMc , Wertfuzzy77#0274 , i think i fixed tho
+16 Jul 2016 19:35:37 : LimitlessMc , Wertfuzzy77#0274 , maybe
+16 Jul 2016 19:35:42 : LimitlessMc , Wertfuzzy77#0274 , ;join
+16 Jul 2016 19:35:49 : LimitlessMc , Wertfuzzy77#0274 , ;playlist Sheeran
+16 Jul 2016 19:36:01 : LimitlessMc , Akinci#5072 , ;youtube https://www.youtube.com/watch?v=oTM3YPTYNo0
+16 Jul 2016 19:36:13 : LimitlessMc , Botfuzzy77#2209 , Finished Adding songs from playlist(s)
+16 Jul 2016 19:36:17 : LimitlessMc , Wertfuzzy77#0274 , ;songs
+16 Jul 2016 19:36:17 : LimitlessMc , Botfuzzy77#2209 , **The Following songs are in the Queue**
+16 Jul 2016 19:36:17 : LimitlessMc , Botfuzzy77#2209 , Ed Sheeran - Photograph (Official Music Video) (https://www.youtube.com/watch?v=nSDgHBxUbVQ)
+Ed Sheeran - Lego House [Official Video] (https://www.youtube.com/watch?v=c4BLVznuWnU)
+Beck - Dreams (Official Audio) (https://www.youtube.com/watch?v=oTM3YPTYNo0)
+Ed Sheeran - Thinking Out Loud [Official Video] (https://www.youtube.com/watch?v=lp-EO5I60KA)
+Ed Sheeran - I See Fire (Music Video) (https://www.youtube.com/watch?v=2fngvQS_PmQ)
+Ed Sheeran - The A Team [Official Video] (https://www.youtube.com/watch?v=UAWcs5H-qgQ)
+
+16 Jul 2016 19:36:18 : LimitlessMc , Akinci#5072 , ;songs
+16 Jul 2016 19:36:18 : LimitlessMc , Botfuzzy77#2209 , **The Following songs are in the Queue**
+16 Jul 2016 19:36:18 : LimitlessMc , Botfuzzy77#2209 , Ed Sheeran - Photograph (Official Music Video) (https://www.youtube.com/watch?v=nSDgHBxUbVQ)
+Ed Sheeran - Lego House [Official Video] (https://www.youtube.com/watch?v=c4BLVznuWnU)
+Beck - Dreams (Official Audio) (https://www.youtube.com/watch?v=oTM3YPTYNo0)
+Ed Sheeran - Thinking Out Loud [Official Video] (https://www.youtube.com/watch?v=lp-EO5I60KA)
+Ed Sheeran - I See Fire (Music Video) (https://www.youtube.com/watch?v=2fngvQS_PmQ)
+Ed Sheeran - The A Team [Official Video] (https://www.youtube.com/watch?v=UAWcs5H-qgQ)
+
+16 Jul 2016 19:36:46 : LimitlessMc , Wertfuzzy77#0274 , I had it add them in slower, cause maybe they were getting corrupted when trying to download more than 1 at a time
+16 Jul 2016 19:36:53 : LimitlessMc , Wertfuzzy77#0274 , so lets see
+16 Jul 2016 19:37:34 : LimitlessMc , Akinci#5072 , Is this i see fire?
+16 Jul 2016 19:37:41 : LimitlessMc , Wertfuzzy77#0274 , no lol
+16 Jul 2016 19:37:48 : LimitlessMc , Wertfuzzy77#0274 , ;song
+16 Jul 2016 19:37:48 : LimitlessMc , Botfuzzy77#2209 , ```Name: Ed Sheeran - Give Me Love [Official Video]
+URL: <https://www.youtube.com/watch?v=FOjdXSrtUxA>
+Time: 0:04:23
+Views: 375,710,578
+Likes: 1,620,294, 97.43%
+Dislikes: 42,748, 2.57%
+```
+16 Jul 2016 19:37:49 : LimitlessMc , Akinci#5072 , What then
+16 Jul 2016 19:37:51 : LimitlessMc , Akinci#5072 , Oh
+16 Jul 2016 19:38:04 : LimitlessMc , Akinci#5072 , Ah oops nvm
+16 Jul 2016 19:39:21 : LimitlessMc , Akinci#5072 , ;youtube https://www.youtube.com/watch?v=PsO6ZnUZI0g
+16 Jul 2016 19:39:30 : LimitlessMc , Akinci#5072 , ;songs
+16 Jul 2016 19:39:30 : LimitlessMc , Botfuzzy77#2209 , **The Following songs are in the Queue**
+16 Jul 2016 19:39:30 : LimitlessMc , Botfuzzy77#2209 , Ed Sheeran - Photograph (Official Music Video) (https://www.youtube.com/watch?v=nSDgHBxUbVQ)
+Ed Sheeran - Lego House [Official Video] (https://www.youtube.com/watch?v=c4BLVznuWnU)
+Beck - Dreams (Official Audio) (https://www.youtube.com/watch?v=oTM3YPTYNo0)
+Ed Sheeran - Thinking Out Loud [Official Video] (https://www.youtube.com/watch?v=lp-EO5I60KA)
+Ed Sheeran - I See Fire (Music Video) (https://www.youtube.com/watch?v=2fngvQS_PmQ)
+Ed Sheeran - The A Team [Official Video] (https://www.youtube.com/watch?v=UAWcs5H-qgQ)
+Kanye West - Stronger (https://www.youtube.com/watch?v=PsO6ZnUZI0g)
+
+16 Jul 2016 19:40:48 : LimitlessMc , Wertfuzzy77#0274 , ;youtube https://www.youtube.com/watch?v=N-YuSKeFMxY https://www.youtube.com/watch?v=uT3SBzmDxGk https://www.youtube.com/watch?v=Mx0xCI1jaUM https://www.youtube.com/watch?v=qfGggAGITwg
+16 Jul 2016 19:41:11 : LimitlessMc , Wertfuzzy77#0274 , ;shuffle
+16 Jul 2016 19:41:11 : LimitlessMc , Botfuzzy77#2209 , Shuffling songs...
+16 Jul 2016 19:41:13 : LimitlessMc , Wertfuzzy77#0274 , ;songs
+16 Jul 2016 19:41:13 : LimitlessMc , Botfuzzy77#2209 , **The Following songs are in the Queue**
+16 Jul 2016 19:41:13 : LimitlessMc , Botfuzzy77#2209 , 2CELLOS - Wake Me Up - Avicii [OFFICIAL VIDEO] (https://www.youtube.com/watch?v=N-YuSKeFMxY)
+2CELLOS - Smooth Criminal [OFFICIAL VIDEO] (https://www.youtube.com/watch?v=Mx0xCI1jaUM)
+Ed Sheeran - The A Team [Official Video] (https://www.youtube.com/watch?v=UAWcs5H-qgQ)
+Beck - Dreams (Official Audio) (https://www.youtube.com/watch?v=oTM3YPTYNo0)
+2CELLOS - Highway To Hell feat. Steve Vai [OFFICIAL VIDEO] (https://www.youtube.com/watch?v=qfGggAGITwg)
+Kanye West - Stronger (https://www.youtube.com/watch?v=PsO6ZnUZI0g)
+Ed Sheeran - Thinking Out Loud [Official Video] (https://www.youtube.com/watch?v=lp-EO5I60KA)
+Ed Sheeran - Lego House [Official Video] (https://www.youtube.com/watch?v=c4BLVznuWnU)
+Ed Sheeran - I See Fire (Music Video) (https://www.youtube.com/watch?v=2fngvQS_PmQ)
+2CELLOS - Thunderstruck [OFFICIAL VIDEO] (https://www.youtube.com/watch?v=uT3SBzmDxGk)
+
+16 Jul 2016 19:45:52 : LimitlessMc , Resolate#7058 , ;song
+16 Jul 2016 19:45:52 : LimitlessMc , Botfuzzy77#2209 , ```Name: 2CELLOS - Wake Me Up - Avicii [OFFICIAL VIDEO]
+URL: <https://www.youtube.com/watch?v=N-YuSKeFMxY>
+Time: 0:03:51
+Views: 16,695,687
+Likes: 159,215, 99.02%
+Dislikes: 1,578, 0.98%
+```
+16 Jul 2016 19:46:12 : LimitlessMc , Wertfuzzy77#0274 , its just 2 guys on Cellos
+16 Jul 2016 19:46:19 : LimitlessMc , Wertfuzzy77#0274 , they are really cool to watch
+16 Jul 2016 19:46:51 : LimitlessMc , Wertfuzzy77#0274 , this 1 and thunderstruck are really good to see
+16 Jul 2016 19:49:19 : LimitlessMc , Wertfuzzy77#0274 , rip
+16 Jul 2016 19:49:40 : LimitlessMc , Wertfuzzy77#0274 , ;relog
+16 Jul 2016 19:49:40 : LimitlessMc , Botfuzzy77#2209 , Relogging...

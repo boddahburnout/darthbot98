@@ -1,0 +1,111 @@
+25 Jun 2016 17:08:37 : LimitlessMc , Akuraizu#8280 , !data Nerokin
+25 Jun 2016 17:08:38 : LimitlessMc , Botfuzzy77#2209 , Sorry, I couldnt find that Player
+25 Jun 2016 17:08:47 : LimitlessMc , Akuraizu#8280 , !data DonTheBreton
+25 Jun 2016 17:08:48 : LimitlessMc , Botfuzzy77#2209 , Name: DonTheBreton
+FuzzyIndex: 104.3, Rank: 25
+Win-Lose Ratio: 1.0
+Tournaments Participated in 1
+TournamentURL: http://limitlessmc.challonge.com/LimitlessMC-cske41s2
+Rank: 7 Out of 26 Participants
+
+
+Players Won Against
+BEVRGaming: 1
+ShakOlphin: 1
+
+
+Players Lost Against
+TheLast1Alive: 1
+Zeathrus: 1
+
+25 Jun 2016 17:08:48 : Cipher , Nerokin#3586 , Okay.. <@!152301153051213824> Is Allianths
+25 Jun 2016 17:08:53 : Cipher , Allianths#4161 , no
+25 Jun 2016 17:09:00 : Cipher , Allianths#4161 , I staffuzzy77
+25 Jun 2016 17:09:13 : Cipher , Nerokin#3586 , Dude, Your ping is @ Allianths #4161
+25 Jun 2016 17:09:48 : Cipher , Wertfuzzy77#0274 , lol
+25 Jun 2016 17:09:58 : Cipher , Nerokin#3586 , But <@151163520120127488> on the other hand is actually named Botfuzzy
+25 Jun 2016 17:10:13 : Cipher , Botfuzzy77#7098 , Wut
+25 Jun 2016 17:10:13 : LimitlessMc , Akuraizu#8280 , !help
+25 Jun 2016 17:10:15 : LimitlessMc , Gerald#7099 , 
+Hello, I am Gerald, the channel Bot. I can do many things, I can even be extended by plugins (weehee).
+
+Current commands: (note that arguments in <> are required, those in [] not)
+  - !clean  : lets me purge messages, options below
+    - !clean lets me purge the last 50 messages
+    - !clean <number> does the same for n messages (no maximum :P)
+    - !clean infinite removes messages until !kill, even the end of the channel doesn't seem like the limit
+    - !clean images deletes any message containing either a link to a jpg, !meme or an attachment
+    - !clean <string> removes every message containing the string
+    - !clean @someone cleans @someones messages in the last 100
+  - <@158641216311787520> (<@!158641216311787520>)  : Talk with me :)
+  - !help (!info) : Prints the help
+  - !kill : Kills me and lets me (hopefully) respawn instantly
+  - !ping (!pong) : Ping Pong
+  - (DM) !nobroadcast : Disables update broadcasts from me if you have a server
+  - (DM) !dobroadcast : Enables update broadcasts from me again
+  - !bugreport <message> : File a bug so it will reach my master even if you can't contact him directly (If it's abused, I will block certain ~~ab~~users)
+  - !invite : Add me to your server
+  - !status : Prints some overall status
+  - (DM) !dropbox <secret> : Register Dropbox. Go to http://ultramc.org:8087/dropbox/authorize
+  - !id <beginning of name> : Outputs their internal id
+  - !serverid : Prints this server's id
+  - !channelid : Let me output the id of thid channel
+  - !roleids : Lists all roles with their ids
+  - !mention <role name> : Mentions everyone in that role
+  - !permissions <username> : Lists all permissions the spefific user has in this channel
+  - !meme <text you wanna write> : Generate a funny image
+  - !play <name> : Plays a specific song from soundcloud
+  - !youtube <name> : Plays a specific song from youtube. Can also be a url
+  - !twitch <name> : Streams from twitch.tv
+25 Jun 2016 17:10:15 : LimitlessMc , Akuraizu#8280 , !commands
+25 Jun 2016 17:10:16 : LimitlessMc , Gerald#7099 , 
+  - !pause : Pauses playback
+  - !stop : Stops playback and empties the queue
+  - !queue : Prints the current queue
+  - !shufflequeue : Shuffles the queue
+  - !flushqueue : Empties the queue
+  - !skip : Skips the current song
+  - !replay : Adds the current playing song to the queue
+  - !webplayer : Outputs your personal webplayer url
+  - !resetsecret : Resets your webplayer secret in case you lost it
+  - !stats  : Outputs which users wrote the most in this channel
+  - !words  : Outputs which users wrote the most words in this channel
+  - !topwords  : Sends the most common words in this channel
+  - !suspicious  : NSA-like who should be tracked a bit more :)
+  - !weblog  : The channel's weblog for easy search in the browser
+  - !punchcard  : The channel's punchcard - when are people active in here
+  - (DM) !steam Authenticates a steam user linking his steam id to the discord id (visit http://ultramc.org:8087/steam
+  - (DM) !nosteam Deauthenticates a steam user and disables notifications
+  - (DM) !arkserver Creates an api token for use of the ARK webalarms
+  - !rate [@mention] : outputs my rating for a user
+  - !luck [@mention] : outputs the luck of a user today
+  - !nowelcome  : Disables the welcome message for this server
+  - !dowelcome  : Enables the welcome message again
+
+(DM) means that you have to issue this command via a direct message to me.
+25 Jun 2016 17:10:17 : Cipher , Wertfuzzy77#0274 , lol
+25 Jun 2016 17:10:28 : Cipher , Wertfuzzy77#0274 , <@187609093001838602>
+25 Jun 2016 17:10:28 : Cipher , Botfuzzy77#2209 , Wut
+25 Jun 2016 17:10:29 : Cipher , Allianths#4161 , botfuzzy hex
+25 Jun 2016 17:10:36 : Cipher , Botfuzzy77#7098 , Wut
+25 Jun 2016 17:10:40 : Cipher , Wertfuzzy77#0274 , !fml
+25 Jun 2016 17:10:41 : Cipher , Botfuzzy77#2209 , *Today, I overheard my boyfriend admitting that he's only dating me because having me around "sucks a bit less than fucking my own hand". FML*
+25 Jun 2016 17:10:52 : Cipher , Wertfuzzy77#0274 , lol
+25 Jun 2016 17:10:57 : Cipher , Nerokin#3586 , @ Botfuzzy77 #7098, *@ Botfuzzy77 #2209*, and @ Botfuzzy77 #8471 are the bots
+25 Jun 2016 17:11:02 : Cipher , Calamariela#4119 , wtf
+25 Jun 2016 17:11:04 : Cipher , Botfuzzy77#7098 , *Today, I woke up and found a small leg of what used to belong to a spider on the corner of my mouth. FML*
+25 Jun 2016 17:11:12 : Cipher , Wertfuzzy77#0274 , wow gg <@151163520120127488>
+25 Jun 2016 17:11:15 : LimitlessMc , Akuraizu#8280 , !sync
+25 Jun 2016 17:11:20 : Cipher , Calamariela#4119 , go home bot
+25 Jun 2016 17:11:22 : Cipher , Allianths#4161 , wtb #007
+25 Jun 2016 17:11:25 : LimitlessMc , Akuraizu#8280 , !sync Akuraizu
+25 Jun 2016 17:11:41 : LimitlessMc , Akuraizu#8280 , !fml
+25 Jun 2016 17:11:43 : LimitlessMc , Botfuzzy77#2209 , *Today, I started dating a seemingly normal guy. Not even four hours into our relationship, he began telling me that he can see spirits, dead people, and that I have a large black dog following me everywhere I go. FML*
+25 Jun 2016 17:11:54 : LimitlessMc , Wertfuzzy77#0274 , lol
+25 Jun 2016 17:12:01 : Cipher , Nerokin#3586 , <@187609093001838602>
+25 Jun 2016 17:12:01 : Cipher , Botfuzzy77#2209 , Wut
+25 Jun 2016 17:12:04 : Cipher , Botfuzzy77#7098 , Wut
+25 Jun 2016 17:12:19 : Cipher , Allianths#4161 , Wut
+25 Jun 2016 17:12:21 : Cipher , Nerokin#3586 , <@196158857788129280> You aren't #2209
+25 Jun 2016 17:12:22 : LimitlessMc , Wertfuzzy77#0274 , !relog
+25 Jun 2016 17:12:22 : LimitlessMc , Botfuzzy77#2209 , Relogging...

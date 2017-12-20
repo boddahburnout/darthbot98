@@ -1,0 +1,2558 @@
+29 Jan 2017 00:06:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+29 Jan 2017 00:06:25 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 44 **Chimecho** for 1686 XP (60% to beat)
+You **Beat** a Level 29 **Empoleon** for 424 XP (90% to beat)
+You **Beat** a Level 93 **Blissey** for 3031 XP (28% to beat)
+You **Beat** a Level 73 **Emboar** for 2700 XP (36% to beat)
+You **Beat** a Level 35 **Whimsicott** for 1029 XP (75% to beat)
+You **Beat** a Level 60 **Torkoal** for 2367 XP (44% to beat)
+You **Lost** to a Level 94 **Skarmory** (28% to beat)
+You **Lost** to a Level 86 **Sawsbuck** (30% to beat)
+You **Beat** a Level 53 **Unfezant** for 2120 XP (50% to beat)
+You **Beat** a Level 36 **Fraxure** for 1118 XP (73% to beat)
+You **Lost** to a Level 81 **Garbodor** (32% to beat)
+You **Beat** a Level 66 **Arbok** for 2537 XP (40% to beat)
+You **Lost** to a Level 74 **Dewott** (35% to beat)
+You **Lost** to a Level 76 **Slowking** (34% to beat)
+You Find a **Ultra Pokeloot** worth 23620 XP
+29 Jan 2017 00:06:25 : LimitlessMc, botchat, Botfuzzy77#2209, You Have Leveled up from **53** to **54**!
+29 Jan 2017 00:06:25 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 35908 XP!
+29 Jan 2017 00:06:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokeboss
+29 Jan 2017 00:06:28 : LimitlessMc, botchat, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> hard to fight and reveal the boss.
+29 Jan 2017 00:06:32 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle iiiiiiiiii
+29 Jan 2017 00:06:32 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 70 Boss **Solrock** has appeared in the Hard zone!
+It has 70875 Health.
+29 Jan 2017 00:06:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+29 Jan 2017 00:06:33 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i:
+:x: :x: :white_check_mark: :x: :x: :x: :x: :x: :x: :white_check_mark:
+29 Jan 2017 00:06:33 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+STAB bonus damage for Ice type (2x)
+Your moves did **174** damage
+29 Jan 2017 00:06:33 : LimitlessMc, botchat, Botfuzzy77#2209, Level 70 Boss **Solrock** has 70701 health left.
+29 Jan 2017 00:07:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle ssissssssi
+29 Jan 2017 00:07:47 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 16 seconds before you can fight the boss again.
+29 Jan 2017 00:13:39 : Cipher, cala, Calamariela#4119, boyyyyy
+29 Jan 2017 00:13:43 : Cipher, cala, Calamariela#4119, what are ya doinggg
+29 Jan 2017 00:18:07 : Cipher, cala, Wertfuzzy77#0274, sorry 😛 got distracted
+29 Jan 2017 00:18:14 : Cipher, cala, Wertfuzzy77#0274, have to go to dinner now tho
+29 Jan 2017 00:18:15 : None, Direct Message with enragednuke, enragednuke#2565, ;debug 1
+29 Jan 2017 00:18:15 : None, Direct Message with enragednuke, Botfuzzy77#2209, ```py
+1
+```
+29 Jan 2017 00:18:27 : Cipher, cala, Calamariela#4119, baiiii
+29 Jan 2017 00:18:32 : None, Direct Message with enragednuke, enragednuke#2565, ;debug bot.send_message(ctx.message.channel, "https://www.youtube.com/watch?v=GPCk3QjEX6M")
+29 Jan 2017 00:18:32 : None, Direct Message with enragednuke, Botfuzzy77#2209, https://www.youtube.com/watch?v=GPCk3QjEX6M
+29 Jan 2017 00:18:32 : None, Direct Message with enragednuke, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7f557c588cf8>
+```
+29 Jan 2017 00:18:34 : Cipher, cala, Wertfuzzy77#0274, ill be back in a little bit 😄
+29 Jan 2017 00:18:34 : Cipher, cala, Wertfuzzy77#0274, bai
+29 Jan 2017 00:18:38 : Cipher, cala, Wertfuzzy77#0274, ;hug Cala
+29 Jan 2017 00:18:38 : Cipher, cala, Botfuzzy77#2209, :hugging: *Wertfuzzy77 Hugged Cala* :hugging:
+29 Jan 2017 00:18:53 : Cipher, cala, Calamariela#4119, ;hug niko
+29 Jan 2017 00:18:53 : Cipher, cala, Botfuzzy77#2209, :hugging: *Calamariela Hugged niko* :hugging:
+29 Jan 2017 00:19:36 : LimitlessMc, mainchat, DicloniusPonyta#6564, have any of you guys played Rune Factory?
+29 Jan 2017 00:19:43 : LimitlessMc, mainchat, DicloniusPonyta#6564, cause i stfg im like the only one ;/
+29 Jan 2017 00:19:57 : Cipher, cala, Wertfuzzy77#0274, ❤
+29 Jan 2017 00:46:54 : LimitlessMc, staff, DonTheBreton#0276, Hi
+29 Jan 2017 00:54:54 : Cipher, cala, Wertfuzzy77#0274, can we take a moment to notice how cute we are together
+29 Jan 2017 00:55:11 : Cipher, cala, Calamariela#4119, woah what! xD
+29 Jan 2017 00:55:32 : Cipher, cala, Wertfuzzy77#0274, 
+29 Jan 2017 00:56:06 : Cipher, cala, Calamariela#4119, oh 😛
+29 Jan 2017 00:56:17 : Cipher, cala, Wertfuzzy77#0274, xD what you think I meant?
+29 Jan 2017 00:56:41 : Cipher, cala, Calamariela#4119, lol idk
+29 Jan 2017 00:56:50 : Cipher, cala, Wertfuzzy77#0274, weirdo
+29 Jan 2017 00:57:44 : LimitlessMc, staff, DonTheBreton#0276, For some reason, posting links in chat is broken. It cuts off the last few letters of the link every time.
+29 Jan 2017 00:58:22 : Cipher, cala, Wertfuzzy77#0274, Like couldnt stop thinking about that during dinner 😛
+29 Jan 2017 00:58:25 : The Western Narc, general, Keemstar#6308, Hello
+29 Jan 2017 00:58:25 : The Western Narc, general, Botfuzzy77#2209, *From The Other Side*
+29 Jan 2017 00:58:28 : The Western Narc, general, Keemstar#6308, Fuck you
+29 Jan 2017 00:58:35 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 00:58:42 : Cipher, cala, Calamariela#4119, you are so helpless
+29 Jan 2017 00:58:49 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 00:58:51 : Cipher, cala, Wertfuzzy77#0274, yup
+29 Jan 2017 00:58:56 : The Western Narc, general, Kronifix#8674, kitty honey
+29 Jan 2017 00:58:59 : Cipher, cala, Calamariela#4119, i must be a very special friend
+29 Jan 2017 00:59:01 : The Western Narc, general, Kronifix#8674, that's a fucking bot youre arguing with
+29 Jan 2017 00:59:04 : The Western Narc, general, Keemstar#6308, Piece of shit think your funny "HAHAHSHHAHAH HELLO FROM THE OTHER SIDE" HAHAAHAH REKMEBER THAT ONE SHITTY ADELE SONG THAT TOOK HER 4 YEARS TO DROP HAHAAHAHAH GET IT
+29 Jan 2017 00:59:06 : The Western Narc, general, Keemstar#6308, HAHAHAHAHHAAH
+29 Jan 2017 00:59:07 : The Western Narc, general, Keemstar#6308, HAHAHAHAA
+29 Jan 2017 00:59:11 : The Western Narc, general, Keemstar#6308, SO FUCKOG FUNNY
+29 Jan 2017 00:59:15 : Cipher, cala, Wertfuzzy77#0274, ya, you are pretty perfect ❤
+29 Jan 2017 00:59:25 : The Western Narc, general, Keemstar#6308, PIECE OF FUCKING SHIT THINK YOUR ACTUALLY FUNNY
+29 Jan 2017 00:59:30 : The Western Narc, general, Kronifix#8674, oh
+29 Jan 2017 00:59:56 : The Western Narc, general, Keemstar#6308, Sorry you had to see that kuro ❤️
+29 Jan 2017 00:59:58 : Cipher, cala, Calamariela#4119, lol nah but glad that im important to you 😛
+29 Jan 2017 01:00:11 : The Western Narc, general, Kronifix#8674, it's okay ❤
+29 Jan 2017 01:00:26 : Cipher, cala, Wertfuzzy77#0274, nub, if you think I'm perfect, you are better than perfect
+29 Jan 2017 01:00:51 : Cipher, cala, Calamariela#4119, quit your sweet talking 😛
+29 Jan 2017 01:01:21 : Cipher, cala, Wertfuzzy77#0274, alright fine, no words
+29 Jan 2017 01:01:27 : Cipher, cala, Wertfuzzy77#0274, ;kiss @Calamariela
+29 Jan 2017 01:01:27 : Cipher, cala, Botfuzzy77#2209, :heart: *Wertfuzzy77 Kissed @Calamariela* :heart:
+29 Jan 2017 01:01:37 : Cipher, cala, Calamariela#4119, boy xD
+29 Jan 2017 01:01:49 : Cipher, cala, Calamariela#4119, this is gonna be a longggg few months
+29 Jan 2017 01:01:54 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 01:02:09 : Cipher, cala, Wertfuzzy77#0274, and I plan to enjoy every moment 😉
+29 Jan 2017 01:03:50 : Cipher, cala, Calamariela#4119, next month i expect improvment mr
+29 Jan 2017 01:04:30 : Cipher, cala, Wertfuzzy77#0274, lets say next month as march 😉 January is already over
+29 Jan 2017 01:05:37 : Cipher, cala, Calamariela#4119, omg xD
+29 Jan 2017 01:06:39 : Cipher, cala, Wertfuzzy77#0274, Also, I'm not very good at rules I don't believe need to be followed.... so I wish you the best of luck trying to tame me
+29 Jan 2017 01:07:45 : Cipher, cala, Calamariela#4119, i will. because when i gain control you wont find me as interesting prob
+29 Jan 2017 01:08:22 : GreenHillGang, general, Kernal Cannon#6221, join the group i sent u
+29 Jan 2017 01:08:26 : GreenHillGang, general, Kernal Cannon#6221, its voice
+29 Jan 2017 01:08:32 : GreenHillGang, general, Xerathkid#0890, re invite me
+29 Jan 2017 01:08:38 : GreenHillGang, general, Xerathkid#0890, i left some things to clear space on the side
+29 Jan 2017 01:08:42 : Cipher, cala, Wertfuzzy77#0274, I mean, its not so much things you say or how interesting you are, its more like you generally just care about me xD thats why im still here
+29 Jan 2017 01:09:03 : GreenHillGang, general, Kernal Cannon#6221, https://discord.gg/W6TqGDf
+29 Jan 2017 01:09:19 : Cipher, cala, Calamariela#4119, oh well shit that wont change xD
+29 Jan 2017 01:09:25 : Cipher, cala, Wertfuzzy77#0274, ❤
+29 Jan 2017 01:09:30 : Cipher, cala, Wertfuzzy77#0274, cute xD
+29 Jan 2017 01:10:02 : Cipher, cala, Calamariela#4119, yeahhhh i care too much...
+29 Jan 2017 01:10:04 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 01:10:22 : Cipher, cala, Wertfuzzy77#0274, i don't mind at all ❤
+29 Jan 2017 01:10:37 : Cipher, cala, Wertfuzzy77#0274, also, no such thing as caring too much
+29 Jan 2017 01:11:35 : Cipher, cala, Calamariela#4119, well pls dont love me as a gf xD i dont want to hurt you anymoreeeee
+29 Jan 2017 01:12:09 : Cipher, cala, Wertfuzzy77#0274, but I lovvveeeeee you ❤
+29 Jan 2017 01:12:55 : Cipher, cala, Calamariela#4119, ik pokie but channel that to friendship...hell ill even be family if ya want
+29 Jan 2017 01:13:06 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 01:13:37 : Cipher, cala, Wertfuzzy77#0274, family you say 😉
+29 Jan 2017 01:14:02 : Cipher, cala, Calamariela#4119, yesss
+29 Jan 2017 01:14:55 : Cipher, cala, Wertfuzzy77#0274, I mean, Mariela Narma does look kinda nice, M&N
+29 Jan 2017 01:15:31 : Cipher, cala, Calamariela#4119, 😅
+29 Jan 2017 01:15:36 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 01:15:47 : Cipher, cala, Calamariela#4119, i wont take your name xD
+29 Jan 2017 01:16:10 : Cipher, cala, Wertfuzzy77#0274, Well you might if you become family a specific way 😉
+29 Jan 2017 01:16:41 : Cipher, cala, Calamariela#4119, no xD we are not marrying
+29 Jan 2017 01:16:51 : Cipher, cala, Wertfuzzy77#0274, xD took you long enough
+29 Jan 2017 01:16:59 : Cipher, cala, Wertfuzzy77#0274, had to spell it out for you, nub
+29 Jan 2017 01:17:07 : Cipher, cala, Calamariela#4119, well sorry xD
+29 Jan 2017 01:17:49 : Cipher, cala, Wertfuzzy77#0274, and ik cutie, ill try to get myself under control, but no promises 😄
+29 Jan 2017 01:18:09 : Cipher, cala, Calamariela#4119, at least you will try
+29 Jan 2017 01:18:17 : Cipher, cala, Wertfuzzy77#0274, ya
+29 Jan 2017 01:18:23 : Cipher, cala, Wertfuzzy77#0274, but you are really really cute tho
+29 Jan 2017 01:18:37 : Cipher, cala, Wertfuzzy77#0274, and fantastic
+29 Jan 2017 01:18:42 : Cipher, cala, Wertfuzzy77#0274, so gonna be hard 😛
+29 Jan 2017 01:19:36 : Cipher, cala, Calamariela#4119, i believe in you 👍
+29 Jan 2017 01:20:48 : Cipher, cala, Wertfuzzy77#0274, See, like you are cheering me on, which is cute in itself xD everything you do is cute
+29 Jan 2017 01:21:13 : Cipher, cala, Calamariela#4119, 😅  damn im that good
+29 Jan 2017 01:21:45 : Cipher, cala, Wertfuzzy77#0274, Si, i really do think you are perfect xD
+29 Jan 2017 01:22:05 : Cipher, cala, Calamariela#4119, hush 😛
+29 Jan 2017 01:22:27 : Cipher, cala, Wertfuzzy77#0274, bet
+29 Jan 2017 01:23:28 : Cipher, cala, Calamariela#4119, soooo whats up
+29 Jan 2017 01:24:03 : Cipher, cala, Wertfuzzy77#0274, I've decided to make a fancy ;ascii code which will make cool looking text art, so I can say "you're cute" in cool art text form xD
+29 Jan 2017 01:24:13 : LimitlessMc, mainchat, DicloniusPonyta#6564, https://www.youtube.com/watch?v=Bli3E7Q67Fc
+29 Jan 2017 01:24:52 : Cipher, cala, Calamariela#4119, really cool 😛 you can call me cute. thats allowed
+29 Jan 2017 01:25:08 : Cipher, cala, Wertfuzzy77#0274, ❤
+29 Jan 2017 01:25:10 : Cipher, cala, Wertfuzzy77#0274, you are cute
+29 Jan 2017 01:25:31 : Cipher, cala, Calamariela#4119, no hearts tho xD
+29 Jan 2017 01:26:09 : LimitlessMc, mainchat, DicloniusPonyta#6564, @Wertfuzzy77 you watch this anime?
+29 Jan 2017 01:26:19 : LimitlessMc, mainchat, DicloniusPonyta#6564, The Anthem of the Heart
+29 Jan 2017 01:26:22 : Cipher, cala, Wertfuzzy77#0274, You are cute❣
+29 Jan 2017 01:26:33 : LimitlessMc, mainchat, Wertfuzzy77#0274, nope
+29 Jan 2017 01:26:42 : Cipher, cala, Calamariela#4119, nope still a heart
+29 Jan 2017 01:26:48 : Cipher, cala, Wertfuzzy77#0274, sux
+29 Jan 2017 01:26:53 : LimitlessMc, mainchat, DicloniusPonyta#6564, o boi you should XD
+29 Jan 2017 01:26:54 : Cipher, cala, Wertfuzzy77#0274, i like sending you hearts 😛
+29 Jan 2017 01:27:05 : Cipher, cala, Calamariela#4119, xD well stop it
+29 Jan 2017 01:27:10 : Cipher, cala, Wertfuzzy77#0274, ❤
+29 Jan 2017 01:27:11 : LimitlessMc, mainchat, DicloniusPonyta#6564, this is the small information if you want it @Wertfuzzy77
+29 Jan 2017 01:27:12 : LimitlessMc, mainchat, DicloniusPonyta#6564, The story revolves around a young girl named Jun Naruse. She is a girl known to be a chatterbox, always saying whatever she likes. One day she sees her father come out from one love hotel with another woman and tells her mother about this, resulting in her parents' divorce. Her father blames her, saddening Jun. While crying, a fairy egg appears and seals her words so she won't hurt people again.
+
+When Jun is in high school, as the result of the "curse", Jun is unable to speak or convey her words aloud. Her homeroom teacher, Kazuki Jōshima, signs her up to Charity Committee members along with three other people: Takumi Sakagami, Natsuki Nitō, and Daiki Tasaki. Daiki adamantly refuses, leading Jun to finally voice her objection after a long time. However, this causes her to have a stomachache.
+29 Jan 2017 01:27:14 : Cipher, cala, Wertfuzzy77#0274, ❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
+29 Jan 2017 01:27:30 : Cipher, cala, Calamariela#4119, 😳
+29 Jan 2017 01:27:37 : Cipher, cala, Calamariela#4119, great
+29 Jan 2017 01:27:42 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 01:27:43 : Cipher, cala, Calamariela#4119, i created a monster
+29 Jan 2017 01:27:44 : Cipher, cala, Wertfuzzy77#0274, adorable
+29 Jan 2017 01:29:09 : Cipher, cala, Calamariela#4119, lol are you watching youtube vids?
+29 Jan 2017 01:29:11 : Cipher, cala, Wertfuzzy77#0274, ,o888888o.    8 8888      88 8888888 8888888888 8 8888888888   
+   8888     `88.  8 8888      88       8 8888       8 8888         
+,8 8888       `8. 8 8888      88       8 8888       8 8888         
+88 8888           8 8888      88       8 8888       8 8888         
+88 8888           8 8888      88       8 8888       8 888888888888 
+88 8888           8 8888      88       8 8888       8 8888         
+88 8888           8 8888      88       8 8888       8 8888         
+`8 8888       .8' ` 8888     ,8P       8 8888       8 8888         
+   8888     ,88'    8888   ,d8P        8 8888       8 8888         
+    `8888888P'       `Y88888P'         8 8888       8 888888888888
+29 Jan 2017 01:29:13 : Cipher, cala, Wertfuzzy77#0274, ew
+29 Jan 2017 01:29:16 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 01:33:37 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;cd
+29 Jan 2017 01:33:37 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You can Train right now!
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+29 Jan 2017 01:33:40 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;train
+29 Jan 2017 01:33:40 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 64 **Empoleon** for 2200 XP (31% to beat)
+You **Beat** a Level 60 **Meloetta** for 2133 XP (33% to beat)
+You **Beat** a Level 47 **Magnezone** for 1838 XP (42% to beat)
+You **Lost** to a Level 30 **Probopass** (66% to beat)
+You **Lost** to a Level 32 **Nosepass** (62% to beat)
+You **Lost** to a Level 70 **Roselia** (28% to beat)
+You **Beat** a Level 43 **Xerneas** for 1711 XP (46% to beat)
+You **Lost** to a Level 50 **Weezing** (40% to beat)
+You **Lost** to a Level 68 **Muk** (29% to beat)
+You **Beat** a Level 58 **Corsola** for 2096 XP (34% to beat)
+You **Beat** a Level 75 **Clawitzer** for 2346 XP (26% to beat)
+29 Jan 2017 01:33:40 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 12324 XP!
+29 Jan 2017 01:33:50 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;pokeboss
+29 Jan 2017 01:33:50 : LimitlessMc, botchat, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> medium to fight and reveal the boss.
+29 Jan 2017 01:35:06 : Cipher, cala, Calamariela#4119, YO!
+29 Jan 2017 01:38:41 : LimitlessMc, mainchat, Chesire Kat#7022, @Wertfuzzy77  i got a snek!
+29 Jan 2017 01:38:46 : LimitlessMc, mainchat, Chesire Kat#7022, i did a long drive
+29 Jan 2017 01:39:02 : LimitlessMc, mainchat, Chesire Kat#7022, and they had sneks aswell as the gecko y brother wanted
+29 Jan 2017 01:39:23 : LimitlessMc, botchat, MoonWolf#8885, ;train
+29 Jan 2017 01:39:23 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 57 **Mawile** (40% to beat)
+You **Lost** to a Level 78 **Boldore** (29% to beat)
+You **Lost** to a Level 87 **Jynx** (26% to beat)
+You **Beat** a Level 40 **Regigigas** for 1564 XP (57% to beat)
+You **Lost** to a Level 77 **Slurpuff** (29% to beat)
+You **Beat** a Level 56 **Minun** for 2168 XP (41% to beat)
+You **Lost** to a Level 33 **Relicanth** (69% to beat)
+You **Lost** to a Level 35 **Munna** (65% to beat)
+You **Beat** a Level 75 **Latios** for 2551 XP (30% to beat)
+You **Lost** to a Level 65 **Tranquill** (35% to beat)
+You **Beat** a Level 35 **Weezing** for 1261 XP (65% to beat)
+You **Lost** to a Level 67 **Beheeyem** (34% to beat)
+You **Beat** a Level 51 **Munchlax** for 2020 XP (45% to beat)
+You Find a **Pokeloot** worth 5192 XP
+29 Jan 2017 01:39:23 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 14756 XP!
+29 Jan 2017 01:39:38 : Cipher, cala, Calamariela#4119, wert 😦
+29 Jan 2017 01:40:12 : Cipher, cala, Wertfuzzy77#0274, sorry 😛
+29 Jan 2017 01:40:19 : Cipher, cala, Wertfuzzy77#0274, roommate was watching pc
+29 Jan 2017 01:41:58 : Cipher, cala, Wertfuzzy77#0274, didnt want him to see all the hearts I am sending 😅
+29 Jan 2017 01:42:09 : Cipher, cala, Calamariela#4119, 😅
+29 Jan 2017 01:42:12 : Cipher, cala, Wertfuzzy77#0274, ❤
+29 Jan 2017 01:42:28 : Cipher, cala, Calamariela#4119, i will kill you
+29 Jan 2017 01:42:35 : Cipher, cala, Wertfuzzy77#0274, CCCCCCCCCCCCC                         tttt                              
+     CCC::::::::::::C                      ttt:::t                              
+   CC:::::::::::::::C                      t:::::t                              
+  C:::::CCCCCCCC::::C                      t:::::t                              
+ C:::::C       CCCCCCuuuuuu    uuuuuuttttttt:::::ttttttt        eeeeeeeeeeee    
+C:::::C              u::::u    u::::ut:::::::::::::::::t      ee::::::::::::ee  
+C:::::C              u::::u    u::::ut:::::::::::::::::t     e::::::eeeee:::::ee
+C:::::C              u::::u    u::::utttttt:::::::tttttt    e::::::e     e:::::e
+C:::::C              u::::u    u::::u      t:::::t          e:::::::eeeee::::::e
+C:::::C              u::::u    u::::u      t:::::t          e:::::::::::::::::e 
+C:::::C              u::::u    u::::u      t:::::t          e::::::eeeeeeeeeee  
+ C:::::C       CCCCCCu:::::uuuu:::::u      t:::::t    tttttte:::::::e           
+  C:::::CCCCCCCC::::Cu:::::::::::::::uu    t::::::tttt:::::te::::::::e          
+   CC:::::::::::::::C u:::::::::::::::u    tt::::::::::::::t e::::::::eeeeeeee  
+     CCC::::::::::::C  uu::::::::uu:::u      tt:::::::::::tt  ee:::::::::::::e  
+        CCCCCCCCCCCCC    uuuuuuuu  uuuu        ttttttttttt      eeeeeeeeeeeeee
+29 Jan 2017 01:42:42 : Cipher, cala, Wertfuzzy77#0274, ```                                                                                
+                                                                                
+        CCCCCCCCCCCCC                         tttt                              
+     CCC::::::::::::C                      ttt:::t                              
+   CC:::::::::::::::C                      t:::::t                              
+  C:::::CCCCCCCC::::C                      t:::::t                              
+ C:::::C       CCCCCCuuuuuu    uuuuuuttttttt:::::ttttttt        eeeeeeeeeeee    
+C:::::C              u::::u    u::::ut:::::::::::::::::t      ee::::::::::::ee  
+C:::::C              u::::u    u::::ut:::::::::::::::::t     e::::::eeeee:::::ee
+C:::::C              u::::u    u::::utttttt:::::::tttttt    e::::::e     e:::::e
+C:::::C              u::::u    u::::u      t:::::t          e:::::::eeeee::::::e
+C:::::C              u::::u    u::::u      t:::::t          e:::::::::::::::::e 
+C:::::C              u::::u    u::::u      t:::::t          e::::::eeeeeeeeeee  
+ C:::::C       CCCCCCu:::::uuuu:::::u      t:::::t    tttttte:::::::e           
+  C:::::CCCCCCCC::::Cu:::::::::::::::uu    t::::::tttt:::::te::::::::e          
+   CC:::::::::::::::C u:::::::::::::::u    tt::::::::::::::t e::::::::eeeeeeee  
+     CCC::::::::::::C  uu::::::::uu:::u      tt:::::::::::tt  ee:::::::::::::e  
+        CCCCCCCCCCCCC    uuuuuuuu  uuuu        ttttttttttt      eeeeeeeeeeeeee  
+                                                                                
+                                                                                
+                                                                                ```
+29 Jan 2017 01:42:54 : Cipher, cala, Calamariela#4119, may i talk with ya roommates???
+29 Jan 2017 01:43:11 : Cipher, cala, Calamariela#4119, i want to join your discord 😛
+29 Jan 2017 01:43:31 : Cipher, cala, Wertfuzzy77#0274, Well, they are both on Limitless discord
+29 Jan 2017 01:43:39 : Cipher, cala, Wertfuzzy77#0274, idk if I can create invites for our server
+29 Jan 2017 01:43:40 : Cipher, cala, Wertfuzzy77#0274, ill see
+29 Jan 2017 01:43:46 : Cipher, cala, Calamariela#4119, okie
+29 Jan 2017 01:44:01 : Cipher, cala, Wertfuzzy77#0274, also, why you wanna talk to my roommates xD
+29 Jan 2017 01:44:13 : Cipher, cala, Calamariela#4119, for fun
+29 Jan 2017 01:44:50 : Cipher, cala, Wertfuzzy77#0274, trying to make me ```  _______                .                      
+ '   /      ___    ___   |     __.  ,   .   ____
+     |    .'   `  /   `  |   .'   \ |   |  (    
+     |    |----' |    |  |   |    | |   |  `--. 
+  `--/    `.___, `.__/| /\__  `._.' `._/| \___.'
+                                                ```
+29 Jan 2017 01:45:02 : Cipher, cala, Calamariela#4119, lol no xD
+29 Jan 2017 01:45:44 : Cipher, cala, Wertfuzzy77#0274, I got my ```py
+___________             
+\_   _____/__.__. ____  
+ |    __)_   |  |/ __ \ 
+ |        \___  \  ___/ 
+/_______  / ____|\___  >
+        \/\/         \/ ``` on your
+29 Jan 2017 01:45:49 : Cipher, cala, Wertfuzzy77#0274, :p
+29 Jan 2017 01:45:51 : Cipher, cala, Wertfuzzy77#0274, you *
+29 Jan 2017 01:46:06 : Cipher, cala, Calamariela#4119, 😅 yes sir
+29 Jan 2017 01:46:11 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 01:48:20 : Cipher, cala, Wertfuzzy77#0274, you are a ```   ______      __  _    
+  / ____/_  __/ /_(_)__ 
+ / /   / / / / __/ / _ \
+/ /___/ /_/ / /_/ /  __/
+\____/\__,_/\__/_/\___/ 
+                        ```
+29 Jan 2017 01:48:23 : Cipher, cala, Wertfuzzy77#0274, 😛
+29 Jan 2017 01:48:30 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 01:50:04 : Cipher, cala, Wertfuzzy77#0274, ``` __  .__   __.         ___           _______      ___       __          ___      ___   ___ ____    ____     _______    ___      .______          _______    ___      .______              ___   ____    __    ____  ___   ____    ____ 
+|  | |  \ |  |        /   \         /  _____|    /   \     |  |        /   \     \  \ /  / \   \  /   /    |   ____|  /   \     |   _  \        |   ____|  /   \     |   _  \            /   \  \   \  /  \  /   / /   \  \   \  /   / 
+|  | |   \|  |       /  ^  \       |  |  __     /  ^  \    |  |       /  ^  \     \  V  /   \   \/   /     |  |__    /  ^  \    |  |_)  |       |  |__    /  ^  \    |  |_)  |          /  ^  \  \   \/    \/   / /  ^  \  \   \/   /  
+|  | |  . `  |      /  /_\  \      |  | |_ |   /  /_\  \   |  |      /  /_\  \     >   <     \_    _/      |   __|  /  /_\  \   |      /        |   __|  /  /_\  \   |      /          /  /_\  \  \            / /  /_\  \  \_    _/   
+|  | |  |\   |     /  _____  \     |  |__| |  /  _____  \  |  `----./  _____  \   /  .  \      |  |        |  |    /  _____  \  |  |\  \----.   |  |    /  _____  \  |  |\  \----.    /  _____  \  \    /\    / /  _____  \   |  |     
+|__| |__| \__|    /__/     \__\     \______| /__/     \__\ |_______/__/     \__\ /__/ \__\     |__|        |__|   /__/     \__\ | _| `._____|   |__|   /__/     \__\ | _| `._____|   /__/     \__\  \__/  \__/ /__/     \__\  |__|     
+                                                                                                                                                                                                                                       ```
+29 Jan 2017 01:50:06 : Cipher, cala, Wertfuzzy77#0274, eww
+29 Jan 2017 01:50:34 : Cipher, cala, Wertfuzzy77#0274, well, thats enough of that xD back to focusing on you
+29 Jan 2017 01:51:09 : Cipher, cala, Calamariela#4119, you mean mc ;P
+29 Jan 2017 01:51:17 : Cipher, cala, Wertfuzzy77#0274, sureeee
+29 Jan 2017 01:51:31 : Cipher, cala, Calamariela#4119, *sigh*
+29 Jan 2017 01:51:35 : Cipher, cala, Wertfuzzy77#0274, I play MC to be with you cutie
+29 Jan 2017 01:54:25 : Cipher, cala, Wertfuzzy77#0274, come closer to me 😉
+29 Jan 2017 01:54:44 : Cipher, cala, Wertfuzzy77#0274, ;kiss @Calamariela
+29 Jan 2017 01:54:44 : Cipher, cala, Botfuzzy77#2209, :heart: *Wertfuzzy77 Kissed @Calamariela* :heart:
+29 Jan 2017 01:55:07 : Cipher, cala, Calamariela#4119, lol weirdo
+29 Jan 2017 01:55:20 : Cipher, cala, Calamariela#4119, soooo no invite 😉
+29 Jan 2017 01:55:24 : Cipher, cala, Wertfuzzy77#0274, hmm?
+29 Jan 2017 01:56:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+29 Jan 2017 01:56:26 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 50 **Beheeyem** (54% to beat)
+You **Lost** to a Level 68 **Kecleon** (39% to beat)
+You **Beat** a Level 53 **Wooper** for 2119 XP (50% to beat)
+You **Lost** to a Level 72 **Hydreigon** (37% to beat)
+You **Lost** to a Level 91 **Larvesta** (29% to beat)
+You **Lost** to a Level 71 **Luxio** (38% to beat)
+You **Lost** to a Level 76 **Skrelp** (35% to beat)
+You **Lost** to a Level 41 **Kyurem** (65% to beat)
+You **Beat** a Level 32 **Hippopotas** for 675 XP (84% to beat)
+You **Beat** a Level 53 **Yanmega** for 2119 XP (50% to beat)
+You **Lost** to a Level 84 **Mantine** (32% to beat)
+You **Lost** to a Level 36 **Goomy** (75% to beat)
+You **Lost** to a Level 102 **Accelgor** (26% to beat)
+You **Lost** to a Level 90 **Bellossom** (30% to beat)
+You **Beat** a Level 32 **Snorunt** for 675 XP (84% to beat)
+You use a **Lucky Egg** to gain more XP!
+29 Jan 2017 01:56:26 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 8382 XP!
+29 Jan 2017 01:56:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokedex
+29 Jan 2017 01:56:38 : LimitlessMc, botchat, Botfuzzy77#2209, Your Pokedex is 44.44% complete!
+29 Jan 2017 01:57:16 : Cipher, cala, Calamariela#4119, mmmmmm
+29 Jan 2017 01:57:29 : Cipher, cala, Wertfuzzy77#0274, invite to what?
+29 Jan 2017 01:57:40 : Cipher, cala, Calamariela#4119, your discord
+29 Jan 2017 01:57:45 : Cipher, cala, Wertfuzzy77#0274, o xD
+29 Jan 2017 01:57:47 : Cipher, cala, Wertfuzzy77#0274, forgot
+29 Jan 2017 01:58:26 : Cipher, cala, Wertfuzzy77#0274, warning, people in here are weird
+29 Jan 2017 01:58:34 : Cipher, cala, Wertfuzzy77#0274, https://discord.gg/pKNqx
+29 Jan 2017 01:58:36 : Cipher, cala, Calamariela#4119, how weird
+29 Jan 2017 01:58:43 : Cipher, cala, Wertfuzzy77#0274, not that weird, but weeby weird
+29 Jan 2017 01:59:02 : Cipher, cala, Calamariela#4119, oh japanese nerds
+29 Jan 2017 01:59:06 : Cipher, cala, Wertfuzzy77#0274, Si
+29 Jan 2017 01:59:16 : Cipher, cala, Wertfuzzy77#0274, 2 of em have actually taken japanese classes
+29 Jan 2017 01:59:32 : Cipher, cala, Wertfuzzy77#0274, and the roles are all varying degrees of weebs xD
+29 Jan 2017 01:59:35 : Cipher, cala, Calamariela#4119, ive been to japan....that count?
+29 Jan 2017 01:59:43 : Cipher, cala, Wertfuzzy77#0274, sure xD
+29 Jan 2017 02:00:16 : Cipher, cala, Calamariela#4119, lol i dont wanna just join randomly xD
+29 Jan 2017 02:00:23 : Cipher, cala, Calamariela#4119, they active or nah
+29 Jan 2017 02:00:30 : Cipher, cala, Wertfuzzy77#0274, barely
+29 Jan 2017 02:00:38 : Cipher, cala, Wertfuzzy77#0274, rn, no one talking
+29 Jan 2017 02:00:45 : Cipher, cala, Calamariela#4119, so they wont notice??? 😛
+29 Jan 2017 02:00:55 : Cipher, cala, Wertfuzzy77#0274, prob not
+29 Jan 2017 02:01:05 : Cipher, cala, Wertfuzzy77#0274, but maybe, who knows
+29 Jan 2017 02:01:19 : Cipher, cala, Calamariela#4119, but it tells the general chat tho xD
+29 Jan 2017 02:01:33 : Cipher, cala, Wertfuzzy77#0274, xD just join, or are you scared 😉
+29 Jan 2017 02:01:55 : Cipher, cala, Calamariela#4119, alittle. ewwwww girllllll coooootiessss
+29 Jan 2017 02:02:04 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 02:02:30 : Cipher, cala, Wertfuzzy77#0274, ew, you have coooooties
+29 Jan 2017 02:02:35 : Cipher, cala, Wertfuzzy77#0274, run away
+29 Jan 2017 02:02:41 : Cipher, cala, Calamariela#4119, they even talk to a girl???
+29 Jan 2017 02:02:44 : Cipher, cala, Calamariela#4119, ever
+29 Jan 2017 02:02:50 : Cipher, cala, Wertfuzzy77#0274, xD they are normal people
+29 Jan 2017 02:03:00 : Cipher, cala, Wertfuzzy77#0274, mostly
+29 Jan 2017 02:04:04 : The Wild Weebs, general, Botfuzzy77#2209, Welcome @Calamariela to The Wild Weebs!
+29 Jan 2017 02:04:11 : Cipher, cala, Wertfuzzy77#0274, gj
+29 Jan 2017 02:04:16 : Cipher, cala, Wertfuzzy77#0274, you clicked the button
+29 Jan 2017 02:04:24 : Cipher, cala, Calamariela#4119, no permission 😛
+29 Jan 2017 02:04:31 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 02:04:55 : Cipher, cala, Calamariela#4119, yeahhhh xD
+29 Jan 2017 02:04:58 : The Wild Weebs, general, Wertfuzzy77#0274, @凛 Need a Casual Weeb role ^
+29 Jan 2017 02:05:06 : The Wild Weebs, general, enragednuke#2565, who tf
+29 Jan 2017 02:05:16 : The Wild Weebs, general, Wertfuzzy77#0274, just do it ya nub
+29 Jan 2017 02:05:28 : The Wild Weebs, general, Wertfuzzy77#0274, ;gif just do it
+29 Jan 2017 02:05:28 : The Wild Weebs, general, Botfuzzy77#2209, http://giphy.com/gifs/tomorrow-just-do-it-procrastinate-xTiTnvi6UtRmRmhP44
+29 Jan 2017 02:06:33 : Cipher, cala, Wertfuzzy77#0274, he being a nub
+29 Jan 2017 02:06:35 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;train
+29 Jan 2017 02:06:35 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 1626 seconds before you can train again.
+29 Jan 2017 02:07:21 : Cipher, music, Wertfuzzy77#0274, ;music
+29 Jan 2017 02:07:29 : Cipher, cala, Calamariela#4119, nice welcome xD
+29 Jan 2017 02:07:30 : Cipher, cala, Calamariela#4119, who
+29 Jan 2017 02:07:32 : Cipher, cala, Calamariela#4119, the
+29 Jan 2017 02:07:33 : Cipher, cala, Calamariela#4119, fuck
+29 Jan 2017 02:07:43 : Cipher, cala, Wertfuzzy77#0274, seems about right for him
+29 Jan 2017 02:07:45 : Cipher, cala, Wertfuzzy77#0274, he a nub
+29 Jan 2017 02:07:54 : Cipher, cala, Wertfuzzy77#0274, also, we dont really get alot of new members xD
+29 Jan 2017 02:08:00 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 02:08:07 : Cipher, music, Wertfuzzy77#0274, ;join
+29 Jan 2017 02:08:39 : Cipher, music, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=p7-TDNTIcrg
+29 Jan 2017 02:08:40 : Cipher, music, Botfuzzy77#2209, Added Martin Spitznagel  - Maple Leaf  - Scott Joplin to the queue
+29 Jan 2017 02:09:02 : Cipher, cala, Wertfuzzy77#0274, music in music channel if interested 😛
+29 Jan 2017 02:09:50 : Cipher, cala, Calamariela#4119, lol nah
+29 Jan 2017 02:10:22 : Cipher, cala, Wertfuzzy77#0274, maybe ill add your playlist just to hear it again xD
+29 Jan 2017 02:10:27 : Cipher, music, Wertfuzzy77#0274, ;playlists
+29 Jan 2017 02:10:27 : Cipher, music, Botfuzzy77#2209, https://www.youtube.com/watch?v=zbaku-cDlpM[0], Bringer[1], positivity[17], Adele[5], WEEB[4], Dragons[4], Train[3], TnDbRn[0], 2015OP&EN[25], Katy[3], Eddie[18], GnR[5], Transistor[23], Perri[2], Old[9], nicky[2], Costantino[13], Maroon[5], ACDC[5], Cala[21], One[3], Akinci[12], Kimi[4], Gold[2], KenAshcorp[11], Shelter[12], GAGA[3], Coldplay[5], Sheeran[6], Animenz[3], SteinsGate[13], 2Cellos[5], Blunt[3], AnimeOpenings[14], MJackson[5], FUN[3], Amagi[1], WEEB2[3]
+29 Jan 2017 02:10:34 : Cipher, music, Wertfuzzy77#0274, ;playlist Cala
+29 Jan 2017 02:10:37 : Cipher, cala, Calamariela#4119, yeahhhh 😛
+29 Jan 2017 02:10:49 : Cipher, music, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+29 Jan 2017 02:10:52 : Cipher, music, Wertfuzzy77#0274, ;songs
+29 Jan 2017 02:10:52 : Cipher, music, Botfuzzy77#2209, **The Following songs are in the Queue, plus [8] more**
+29 Jan 2017 02:10:52 : Cipher, music, Botfuzzy77#2209, 1. Mike Posner - I Took A Pill In Ibiza (SeeB Remix) **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=u3VFzuUiTGw>
+2. Heathens **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=4Am6iIqPXHY>
+3. lit lizards v2 **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=yV4klOClPVc>
+4. Birthday Cake Punjabi Remix - Mickey Singh Feat. Amar Sandhu OFFICIAL MUSIC VIDEO (2013) **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=jDXQN-gnLRo>
+5. Kings Of Leon - Use Somebody (Official Video) **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=gnhXHvRoUd0>
+6. twenty one pilots: Stressed Out [OFFICIAL VIDEO] **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=pXRviuL6vMY>
+7. Muse - Undisclosed Desires **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=R8OOWcsFj0U>
+8. DNCE - Cake By The Ocean **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=PAzH-YAlFYc>
+9. The Weeknd - Earned It (Fifty Shades Of Grey) (Lyric Video) **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=xe_iCkFsQKE>
+10. Calvin Harris - This Is What You Came For (Official Video) ft. Rihanna **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=kOkQ4T5WO9E>
+Total Time is 1:09:44
+29 Jan 2017 02:10:58 : Cipher, music, Wertfuzzy77#0274, ;remove 3
+29 Jan 2017 02:10:58 : Cipher, music, Botfuzzy77#2209, Removed: lit lizards v2
+29 Jan 2017 02:11:05 : Cipher, music, Wertfuzzy77#0274, < . < not that 1 tho
+29 Jan 2017 02:11:13 : Cipher, cala, Calamariela#4119, 😦
+29 Jan 2017 02:11:19 : Cipher, cala, Wertfuzzy77#0274, xD what?
+29 Jan 2017 02:11:23 : Cipher, cala, Calamariela#4119, 😠
+29 Jan 2017 02:11:29 : Cipher, cala, Wertfuzzy77#0274, ???
+29 Jan 2017 02:11:32 : Cipher, cala, Calamariela#4119, hmph
+29 Jan 2017 02:11:38 : Cipher, cala, Wertfuzzy77#0274, wutttttt
+29 Jan 2017 02:11:41 : Cipher, cala, Wertfuzzy77#0274, hep
+29 Jan 2017 02:11:43 : Cipher, cala, Calamariela#4119, lizardssssss
+29 Jan 2017 02:11:45 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 02:12:18 : Cipher, cala, Calamariela#4119, i wont forgive you for this
+29 Jan 2017 02:12:30 : Cipher, cala, Wertfuzzy77#0274, join music and add it yourself 😉
+29 Jan 2017 02:12:40 : Cipher, cala, Calamariela#4119, eh
+29 Jan 2017 02:13:46 : LimitlessMc, botchat, theOnlyJuan#9357, ;cd
+29 Jan 2017 02:13:46 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You can Train right now!
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+29 Jan 2017 02:13:51 : LimitlessMc, botchat, theOnlyJuan#9357, ;train
+29 Jan 2017 02:13:51 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 29 **Joltik** for 1092 XP (62% to beat)
+You **Beat** a Level 19 **Magby** for 288 XP (90% to beat)
+You **Lost** to a Level 46 **Poliwrath** (39% to beat)
+You **Beat** a Level 45 **Budew** for 1728 XP (40% to beat)
+You **Lost** to a Level 59 **Malamar** (30% to beat)
+You **Beat** a Level 53 **Serperior** for 1901 XP (33% to beat)
+You **Lost** to a Level 26 **Moltres** (69% to beat)
+You **Lost** to a Level 55 **Luvdisc** (32% to beat)
+You **Beat** a Level 41 **Maractus** for 1615 XP (43% to beat)
+You **Lost** to a Level 65 **Salamence** (27% to beat)
+You use a **Lucky Egg** to gain more XP!
+You Find a **Pokeloot** worth 2533 XP
+29 Jan 2017 02:13:51 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 12469 XP!
+29 Jan 2017 02:14:02 : LimitlessMc, botchat, theOnlyJuan#9357, ;pokeboss
+29 Jan 2017 02:14:02 : LimitlessMc, botchat, Botfuzzy77#2209, Boss has not been Revealed!
+Please use ;pokebattle <moves> medium to fight and reveal the boss.
+29 Jan 2017 02:14:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cd
+29 Jan 2017 02:14:04 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 2543 seconds
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+29 Jan 2017 02:14:14 : LimitlessMc, botchat, theOnlyJuan#9357, ;pokebattle iiiiiiii
+29 Jan 2017 02:14:14 : LimitlessMc, botchat, Botfuzzy77#2209, A Level 40 Boss **Chesnaught** has appeared in the Medium zone!
+It has 42800 Health.
+29 Jan 2017 02:14:14 : LimitlessMc, botchat, Botfuzzy77#2209, 
+29 Jan 2017 02:14:14 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i:
+:x: :x: :x: :x: :white_check_mark: :x: :x: :x:
+29 Jan 2017 02:14:14 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+STAB bonus damage for Ice type (1x)
+Your moves did **72** damage
+29 Jan 2017 02:14:15 : LimitlessMc, botchat, Botfuzzy77#2209, Level 40 Boss **Chesnaught** has 42728 health left.
+29 Jan 2017 02:14:24 : LimitlessMc, botchat, theOnlyJuan#9357, ;level
+29 Jan 2017 02:14:24 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *theOnlyJuan*
+**Level**: 36
+29 Jan 2017 02:14:24 : LimitlessMc, botchat, Botfuzzy77#2209, 
+29 Jan 2017 02:14:24 : LimitlessMc, botchat, Botfuzzy77#2209, **XP**: 15660/50653
+**Boss Takedowns**: 5
+**Most Dmg in an Attack**: 13069
+29 Jan 2017 02:14:33 : LimitlessMc, botchat, theOnlyJuan#9357, ;gamble 3000
+29 Jan 2017 02:14:33 : LimitlessMc, botchat, Botfuzzy77#2209, You need to gamble atleast 3166 XP
+29 Jan 2017 02:14:38 : Cipher, cala, Wertfuzzy77#0274, this song actually really catchy xD
+29 Jan 2017 02:14:43 : LimitlessMc, botchat, theOnlyJuan#9357, ;gamble 3200
+29 Jan 2017 02:14:44 : LimitlessMc, botchat, Botfuzzy77#2209, You have lost your offering...
+29 Jan 2017 02:14:52 : LimitlessMc, botchat, theOnlyJuan#9357, ;gamble 3200
+29 Jan 2017 02:14:52 : LimitlessMc, botchat, Botfuzzy77#2209, You have lost your offering...
+29 Jan 2017 02:14:54 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+29 Jan 2017 02:14:57 : LimitlessMc, botchat, theOnlyJuan#9357, Rip
+29 Jan 2017 02:15:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamble
+29 Jan 2017 02:15:03 : LimitlessMc, botchat, Botfuzzy77#2209, You need to gamble atleast 10399 XP
+29 Jan 2017 02:15:06 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamble 11000
+29 Jan 2017 02:15:06 : LimitlessMc, botchat, Botfuzzy77#2209, You have lost your offering...
+29 Jan 2017 02:15:09 : LimitlessMc, botchat, theOnlyJuan#9357, ;cd
+29 Jan 2017 02:15:09 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You need to wait 36 seconds
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 3522 seconds
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+29 Jan 2017 02:15:09 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamble 11000
+29 Jan 2017 02:15:09 : LimitlessMc, botchat, Botfuzzy77#2209, You don't have that much XP
+29 Jan 2017 02:15:13 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+29 Jan 2017 02:15:14 : LimitlessMc, botchat, theOnlyJuan#9357, Rip
+29 Jan 2017 02:15:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokeboss
+29 Jan 2017 02:15:15 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Hard Boss Pokemon** =-
+*Name*: Solrock
+*Health*: 70701/70875 (99.75%)
+*Level*: 70
+Last Combo:
+:regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i: :regional_indicator_i:
+:x: :x: :white_check_mark: :x: :x: :x: :x: :x: :x: :white_check_mark:
+29 Jan 2017 02:15:15 : LimitlessMc, botchat, Botfuzzy77#2209, 
+29 Jan 2017 02:15:15 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **Wertfuzzy77** with **174** damage
+29 Jan 2017 02:15:16 : Cipher, cala, Calamariela#4119, grrr your friend is meannnn
+29 Jan 2017 02:15:18 : LimitlessMc, botchat, theOnlyJuan#9357, ;gamble 3200
+29 Jan 2017 02:15:18 : LimitlessMc, botchat, Botfuzzy77#2209, You have lost your offering...
+29 Jan 2017 02:15:18 : LimitlessMc, botchat, Botfuzzy77#2209, You are exhausted from Gambling...
+29 Jan 2017 02:15:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle eeieeeeeei
+29 Jan 2017 02:15:22 : LimitlessMc, botchat, Botfuzzy77#2209, Level 70 Boss **Solrock** in Hard has 70701 health left.
+29 Jan 2017 02:15:22 : LimitlessMc, botchat, Botfuzzy77#2209, 
+29 Jan 2017 02:15:22 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_e: :regional_indicator_e: :regional_indicator_i: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_i:
+:x: :x: :white_check_mark: :x: :x: :x: :x: :x: :x: :white_check_mark:
+29 Jan 2017 02:15:22 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+STAB bonus damage for Ice type (2x)
+Your moves did **174** damage
+29 Jan 2017 02:15:22 : LimitlessMc, botchat, Botfuzzy77#2209, Level 70 Boss **Solrock** has 70527 health left.
+29 Jan 2017 02:15:35 : The Wild Weebs, general, Wertfuzzy77#0274, @凛
+29 Jan 2017 02:15:35 : The Wild Weebs, general, Wertfuzzy77#0274, @凛
+29 Jan 2017 02:15:36 : The Wild Weebs, general, Wertfuzzy77#0274, @凛
+29 Jan 2017 02:15:36 : The Wild Weebs, general, Wertfuzzy77#0274, @凛
+29 Jan 2017 02:15:36 : The Wild Weebs, general, Wertfuzzy77#0274, @凛
+29 Jan 2017 02:15:36 : The Wild Weebs, general, Wertfuzzy77#0274, @凛
+29 Jan 2017 02:15:36 : The Wild Weebs, general, Wertfuzzy77#0274, v
+29 Jan 2017 02:15:37 : The Wild Weebs, general, Wertfuzzy77#0274, @凛
+29 Jan 2017 02:15:39 : LimitlessMc, botchat, theOnlyJuan#9357, 3 losses in a row
+29 Jan 2017 02:15:48 : LimitlessMc, botchat, theOnlyJuan#9357, ;cd
+29 Jan 2017 02:15:48 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 3483 seconds
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You need to wait 90 seconds
+29 Jan 2017 02:15:59 : The Wild Weebs, general, Wertfuzzy77#0274, give role plz ;-;
+29 Jan 2017 02:16:15 : LimitlessMc, botchat, theOnlyJuan#9357, ;pokebattle ffffifff
+29 Jan 2017 02:16:15 : LimitlessMc, botchat, Botfuzzy77#2209, Level 40 Boss **Chesnaught** in Medium has 42728 health left.
+29 Jan 2017 02:16:15 : LimitlessMc, botchat, Botfuzzy77#2209, 
+29 Jan 2017 02:16:15 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_i: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f:
+:x: :white_check_mark: :x: :x: :white_check_mark: :x: :x: :x:
+29 Jan 2017 02:16:15 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+STAB bonus damage for Ice type (1x)
+Your moves did **124** damage
+29 Jan 2017 02:16:15 : LimitlessMc, botchat, Botfuzzy77#2209, Level 40 Boss **Chesnaught** has 42604 health left.
+29 Jan 2017 02:16:58 : Cipher, cala, Wertfuzzy77#0274, si xD
+29 Jan 2017 02:17:25 : Cipher, cala, Calamariela#4119, i not welcome
+29 Jan 2017 02:17:42 : Cipher, cala, Wertfuzzy77#0274, he just in a raid in WoW gets grumpy xD
+29 Jan 2017 02:18:44 : None, Direct Message with TherminatorX, TherminatorX#6644, ;train
+29 Jan 2017 02:18:44 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You **Beat** a Level 63 **Herdier** for 2520 XP (50% to beat)
+You **Lost** to a Level 83 **Grovyle** (37% to beat)
+You **Beat** a Level 35 **Celebi** for 504 XP (90% to beat)
+You **Lost** to a Level 101 **Shelmet** (31% to beat)
+You **Lost** to a Level 94 **Garchomp** (33% to beat)
+You **Beat** a Level 105 **Flareon** for 3528 XP (30% to beat)
+You **Beat** a Level 42 **Zoroark** for 1260 XP (75% to beat)
+You **Beat** a Level 38 **Zorua** for 862 XP (82% to beat)
+You **Beat** a Level 84 **Oddish** for 3150 XP (37% to beat)
+You **Beat** a Level 63 **Salamence** for 2520 XP (50% to beat)
+You **Lost** to a Level 67 **Zygarde** (47% to beat)
+You **Lost** to a Level 87 **Noivern** (36% to beat)
+You **Lost** to a Level 88 **Dewgong** (35% to beat)
+You **Lost** to a Level 103 **Haxorus** (30% to beat)
+You **Beat** a Level 49 **Elekid** for 1799 XP (64% to beat)
+You **Beat** a Level 34 **Rapidash** for 504 XP (90% to beat)
+You **Lost** to a Level 116 **Spiritomb** (27% to beat)
+You Find a **Pokeloot** worth 13108 XP
+You Find an **Master Pokeloot** worth 104858 XP
+29 Jan 2017 02:18:44 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You trained for 108399 XP!
+29 Jan 2017 02:18:56 : None, Direct Message with TherminatorX, TherminatorX#6644, ;level
+29 Jan 2017 02:18:56 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **Name**: *TherminatorX*
+**Level**: 63
+29 Jan 2017 02:18:56 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+29 Jan 2017 02:18:56 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **XP**: 233102/262144
+**Boss Takedowns**: 33
+**Most Dmg in an Attack**: 64152
+29 Jan 2017 02:19:09 : None, Direct Message with TherminatorX, TherminatorX#6644, ;gamble
+29 Jan 2017 02:19:09 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You need to gamble atleast 16385 XP
+29 Jan 2017 02:19:18 : The Wild Weebs, general, enragednuke#2565, WHY
+29 Jan 2017 02:19:25 : None, Direct Message with TherminatorX, TherminatorX#6644, ;gamble 20000
+29 Jan 2017 02:19:25 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You have lost your offering...
+29 Jan 2017 02:19:39 : The Wild Weebs, general, Wertfuzzy77#0274, thanks
+29 Jan 2017 02:19:55 : Cipher, cala, Wertfuzzy77#0274, he did it
+29 Jan 2017 02:20:03 : Cipher, cala, Wertfuzzy77#0274, 💛
+29 Jan 2017 02:20:43 : LimitlessMc, botchat, Wertfuzzy77#0274, ;status
+29 Jan 2017 02:20:44 : LimitlessMc, botchat, Botfuzzy77#2209, UpTime: 2:14:29.900000s
+29 Jan 2017 02:20:44 : LimitlessMc, botchat, Botfuzzy77#2209, Total Messages: 299
+29 Jan 2017 02:20:44 : LimitlessMc, botchat, Botfuzzy77#2209, Servers Joined: 12
+29 Jan 2017 02:21:14 : The Wild Weebs, general, Calamariela#4119, um hi 😛 i feel the love from this guy ------> @凛
+29 Jan 2017 02:21:37 : The Wild Weebs, general, enragednuke#2565, <:err:268999123011633154>
+29 Jan 2017 02:22:37 : Cipher, cala, Wertfuzzy77#0274, also, assume most comments towards him will be met with a custom 🤔 emoji
+29 Jan 2017 02:23:25 : Cipher, cala, Calamariela#4119, the err one lol
+29 Jan 2017 02:23:31 : Cipher, cala, Wertfuzzy77#0274, ya xD
+29 Jan 2017 02:23:45 : LimitlessMc, staff, Lightning#6734, yea it's been broke for a bit
+29 Jan 2017 02:23:45 : Cipher, cala, Calamariela#4119, whats that XD like ughhh
+29 Jan 2017 02:24:12 : Cipher, cala, Wertfuzzy77#0274, that are all slightly distorted 🤔
+29 Jan 2017 02:24:14 : Cipher, cala, Wertfuzzy77#0274, he has like 5
+29 Jan 2017 02:24:21 : Cipher, cala, Wertfuzzy77#0274, also, he is roommate 1
+29 Jan 2017 02:24:28 : Cipher, cala, Wertfuzzy77#0274, other roommate is KR Shaman
+29 Jan 2017 02:24:52 : Cipher, cala, Calamariela#4119, lol weird face to greet me with
+29 Jan 2017 02:24:59 : Cipher, cala, Calamariela#4119, he sounds fun
+29 Jan 2017 02:25:03 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 02:25:07 : Cipher, cala, Calamariela#4119, and i will mess with him the most
+29 Jan 2017 02:25:16 : Cipher, cala, Wertfuzzy77#0274, go for it
+29 Jan 2017 02:25:20 : Cipher, cala, Calamariela#4119, lol
+29 Jan 2017 02:25:47 : Cipher, cala, Wertfuzzy77#0274, no one on that server knows about about your or our MC server, so say whatever you want xD
+29 Jan 2017 02:26:07 : Cipher, cala, Wertfuzzy77#0274, as long as it doesnt have to make me explain alot to my roommates, shuold be fine 😛
+29 Jan 2017 02:26:45 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 02:43:55 : Cipher, music, Wertfuzzy77#0274, ;songs
+29 Jan 2017 02:43:55 : Cipher, music, Botfuzzy77#2209, **The Following songs are in the Queue**
+29 Jan 2017 02:43:56 : Cipher, music, Botfuzzy77#2209, 1. Beyoncè Drunk In Love (Audio) **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=_IaiUY3E1VY>
+2. Naughty Boy ft Sam Smith - La La La **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=OsTTacH0jx0>
+3. Muse - Uprising [Official Video] **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=w8KQmps-Sog>
+4. Nick Jonas - Close ft. Tove Lo **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=XgJFqVvb2Ws>
+5. Kings of Leon - Closer (HQ) **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=eg3F4zpOdK8>
+6. Kevin Lyttle Turn Me On Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=lzk58JedcDU>
+7. ZAYN - PillowTalk (Lyrics) **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=YO-XGWSvZB0>
+8. The Weeknd - The Hills **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=yzTuBuRdAyA>
+Total Time is 0:31:48
+29 Jan 2017 02:44:05 : Cipher, music, Wertfuzzy77#0274, ;clear
+29 Jan 2017 02:44:05 : Cipher, music, Botfuzzy77#2209, Cleared Queue!
+29 Jan 2017 02:44:08 : Cipher, music, Wertfuzzy77#0274, ;songs
+29 Jan 2017 02:44:08 : Cipher, music, Botfuzzy77#2209, **The Following songs are in the Queue**
+29 Jan 2017 02:44:08 : Cipher, music, Botfuzzy77#2209, 1. Naughty Boy ft Sam Smith - La La La **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=OsTTacH0jx0>
+2. Nick Jonas - Close ft. Tove Lo **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=XgJFqVvb2Ws>
+3. Kevin Lyttle Turn Me On Lyrics **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=lzk58JedcDU>
+4. The Weeknd - The Hills **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=yzTuBuRdAyA>
+Total Time is 0:14:47
+29 Jan 2017 02:44:10 : Cipher, music, Wertfuzzy77#0274, ;clear
+29 Jan 2017 02:44:10 : Cipher, music, Botfuzzy77#2209, Cleared Queue!
+29 Jan 2017 02:44:11 : Cipher, music, Wertfuzzy77#0274, ;clear
+29 Jan 2017 02:44:11 : Cipher, music, Botfuzzy77#2209, Cleared Queue!
+29 Jan 2017 02:44:13 : Cipher, music, Wertfuzzy77#0274, ;songs
+29 Jan 2017 02:44:13 : Cipher, music, Botfuzzy77#2209, **The Following songs are in the Queue**
+29 Jan 2017 02:44:13 : Cipher, music, Botfuzzy77#2209, 1. The Weeknd - The Hills **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=yzTuBuRdAyA>
+Total Time is 0:03:54
+29 Jan 2017 02:44:15 : Cipher, music, Wertfuzzy77#0274, ;remove 1
+29 Jan 2017 02:44:15 : Cipher, music, Botfuzzy77#2209, Removed: The Weeknd - The Hills
+29 Jan 2017 02:44:20 : Cipher, music, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=x4r-c4I_9Rc
+29 Jan 2017 02:44:27 : Cipher, music, Wertfuzzy77#0274, ;Radio
+29 Jan 2017 02:44:27 : Cipher, music, Botfuzzy77#2209, Radio Mode: True
+29 Jan 2017 02:47:01 : None, Direct Message with TherminatorX, TherminatorX#6644, ;train
+29 Jan 2017 02:47:01 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Please wait 1903 seconds before you can train again.
+29 Jan 2017 02:52:59 : Cipher, music, Wertfuzzy77#0274, ;songs
+29 Jan 2017 02:52:59 : Cipher, music, Botfuzzy77#2209, **The Following songs are in the Queue**
+29 Jan 2017 02:52:59 : Cipher, music, Botfuzzy77#2209, 1. Adele Emotional Cry 'Someone like you' Live at the Royal Albert Hall **Radio**
+	<https://www.youtube.com/watch?v=t0jKEOkN3gk>
+Total Time is 0:10:00
+29 Jan 2017 02:53:12 : Cipher, music, Wertfuzzy77#0274, ;youtueb https://www.youtube.com/watch?v=08DjMT-qR9g
+29 Jan 2017 02:53:17 : Cipher, music, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=08DjMT-qR9g
+29 Jan 2017 02:53:18 : Cipher, music, Botfuzzy77#2209, Added Adele - Chasing Pavements to the queue
+29 Jan 2017 02:53:25 : Cipher, music, Wertfuzzy77#0274, ;remove 1
+29 Jan 2017 02:53:25 : Cipher, music, Botfuzzy77#2209, Removed: Adele Emotional Cry 'Someone like you' Live at the Royal Albert Hall
+29 Jan 2017 02:55:08 : Cipher, cala, Calamariela#4119, sooooo
+29 Jan 2017 02:55:17 : Cipher, cala, Wertfuzzy77#0274, ?
+29 Jan 2017 02:55:28 : Cipher, cala, Calamariela#4119, im bored
+29 Jan 2017 02:55:33 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 02:55:45 : Cipher, music, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=RDRwqTNLGDs
+29 Jan 2017 02:55:50 : Cipher, music, Wertfuzzy77#0274, ;songs
+29 Jan 2017 02:55:50 : Cipher, music, Botfuzzy77#2209, **The Following songs are in the Queue**
+29 Jan 2017 02:55:50 : Cipher, music, Botfuzzy77#2209, 1. Adele - When We Were Young (Live at The Church Studios) **Radio**
+	<https://www.youtube.com/watch?v=DDWKuo3gXMQ>
+Total Time is 0:05:43
+29 Jan 2017 02:56:01 : Cipher, cala, Wertfuzzy77#0274, music?
+29 Jan 2017 02:56:07 : Cipher, cala, Calamariela#4119, nah
+29 Jan 2017 02:56:29 : Cipher, cala, Wertfuzzy77#0274, not even if i leave my mic open?
+29 Jan 2017 02:56:43 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 02:56:48 : Cipher, cala, Calamariela#4119, don is right there
+29 Jan 2017 02:56:58 : Cipher, cala, Wertfuzzy77#0274, sux
+29 Jan 2017 02:57:11 : Cipher, cala, Wertfuzzy77#0274, cant hear me singing adele then
+29 Jan 2017 02:57:25 : Cipher, cala, Calamariela#4119, your roomates are like wtf
+29 Jan 2017 02:58:12 : Cipher, cala, Wertfuzzy77#0274, ya, they asked me like "who is this random person" xD
+29 Jan 2017 02:58:30 : Cipher, cala, Wertfuzzy77#0274, and I was like erm... they are from the mc server, and wanted to join my discord
+29 Jan 2017 02:58:49 : Cipher, cala, Calamariela#4119, 😅
+29 Jan 2017 02:59:36 : Cipher, cala, Calamariela#4119, we shoulf talk on there and see if we can get people talking
+29 Jan 2017 02:59:58 : Cipher, music, Wertfuzzy77#0274, ;loop 3
+29 Jan 2017 03:00:00 : Cipher, music, Botfuzzy77#2209, Added '*Adele - Don't You Remember (Live at Largo)*' **3** more times
+29 Jan 2017 03:00:52 : Cipher, cala, Wertfuzzy77#0274, I mean, the only people really online that I know are my two roommates, and normally i just turn my chair around and talk to em if i need anything xD
+29 Jan 2017 03:01:17 : Cipher, cala, Calamariela#4119, 😓 okay then
+29 Jan 2017 03:02:44 : Cipher, cala, Wertfuzzy77#0274, now im bored too 😛 literally talking to myself in voice
+29 Jan 2017 03:03:06 : Cipher, cala, Calamariela#4119, yawnnnn
+29 Jan 2017 03:03:33 : Cipher, cala, Wertfuzzy77#0274, anything you wanna talk about?
+29 Jan 2017 03:03:46 : Cipher, cala, Calamariela#4119, mmm nah 😛
+29 Jan 2017 03:04:00 : Cipher, cala, Wertfuzzy77#0274, rip
+29 Jan 2017 03:04:12 : Cipher, cala, Wertfuzzy77#0274, there has to be some random question that could spark a conversation
+29 Jan 2017 03:04:22 : Cipher, cala, Calamariela#4119, nope 😃
+29 Jan 2017 03:04:37 : LimitlessMc, mainchat, ruleroftri#6648, @Chesire Kat why bring this up to wert, Im the only snek here
+29 Jan 2017 03:05:40 : Cipher, cala, Wertfuzzy77#0274, ;wyr
+29 Jan 2017 03:05:41 : Cipher, cala, Botfuzzy77#2209, Would you Rather...
+*Live without your cell phone* or *Live without your iPod*
+29 Jan 2017 03:05:46 : Cipher, cala, Botfuzzy77#2209, People say...
+*23%* and *77%*
+29 Jan 2017 03:05:56 : Cipher, cala, Calamariela#4119, ipod
+29 Jan 2017 03:05:59 : Cipher, cala, Wertfuzzy77#0274, ayy, that cmd still works
+29 Jan 2017 03:06:02 : Cipher, cala, Wertfuzzy77#0274, ya, def ipod
+29 Jan 2017 03:06:07 : Cipher, cala, Wertfuzzy77#0274, dont even use it anymore xD
+29 Jan 2017 03:06:10 : Cipher, cala, Wertfuzzy77#0274, ;wyr
+29 Jan 2017 03:06:10 : Cipher, cala, Botfuzzy77#2209, Would you Rather...
+*Be horribly and hopelessly depressed* or *Have inescapable overwhelming anxiety*
+29 Jan 2017 03:06:14 : Cipher, cala, Wertfuzzy77#0274, oh dear
+29 Jan 2017 03:06:15 : Cipher, cala, Botfuzzy77#2209, People say...
+*41%* and *59%*
+29 Jan 2017 03:06:26 : Cipher, cala, Calamariela#4119, ugh
+29 Jan 2017 03:06:28 : Cipher, cala, Wertfuzzy77#0274, depression
+29 Jan 2017 03:06:55 : Cipher, cala, Calamariela#4119, i guess :p
+29 Jan 2017 03:07:00 : Cipher, cala, Wertfuzzy77#0274, ;wyr
+29 Jan 2017 03:07:00 : Cipher, cala, Botfuzzy77#2209, Would you Rather...
+*Be Chev Chelios from Crank* or *Be The Transporter*
+29 Jan 2017 03:07:03 : Cipher, cala, Wertfuzzy77#0274, wut
+29 Jan 2017 03:07:06 : Cipher, cala, Botfuzzy77#2209, People say...
+*15%* and *85%*
+29 Jan 2017 03:07:07 : Cipher, cala, Calamariela#4119, uhhh
+29 Jan 2017 03:07:18 : Cipher, cala, Wertfuzzy77#0274, i mean sure xD transporter sounds cool
+29 Jan 2017 03:07:29 : Cipher, cala, Wertfuzzy77#0274, ;wyr
+29 Jan 2017 03:07:29 : Cipher, cala, Botfuzzy77#2209, Would you Rather...
+*Discover the Loch Ness Monster* or *Discover Sasquatch *
+29 Jan 2017 03:07:35 : Cipher, cala, Botfuzzy77#2209, People say...
+*61%* and *39%*
+29 Jan 2017 03:07:41 : Cipher, cala, Calamariela#4119, loch ness
+29 Jan 2017 03:07:45 : Cipher, cala, Wertfuzzy77#0274, ya, loch ness monster
+29 Jan 2017 03:07:50 : Cipher, cala, Wertfuzzy77#0274, super cool sea monster
+29 Jan 2017 03:07:54 : Cipher, cala, Calamariela#4119, si
+29 Jan 2017 03:07:59 : Cipher, cala, Wertfuzzy77#0274, ;wyr
+29 Jan 2017 03:08:00 : Cipher, cala, Botfuzzy77#2209, Would you Rather...
+*Have hair covering your entire body* or *Be completely bald*
+29 Jan 2017 03:08:05 : Cipher, cala, Botfuzzy77#2209, People say...
+*26%* and *74%*
+29 Jan 2017 03:08:08 : Cipher, cala, Calamariela#4119, bald
+29 Jan 2017 03:08:14 : Cipher, cala, Calamariela#4119, and wig 😛
+29 Jan 2017 03:08:23 : Cipher, cala, Wertfuzzy77#0274, can I shave the hair? or I have to keep it?
+29 Jan 2017 03:08:41 : Cipher, cala, Calamariela#4119, yo shaving would be annoying
+29 Jan 2017 03:08:44 : Cipher, cala, Wertfuzzy77#0274, true
+29 Jan 2017 03:08:52 : Cipher, cala, Wertfuzzy77#0274, plus gonna be alot of hair
+29 Jan 2017 03:08:55 : Cipher, cala, Wertfuzzy77#0274, yeah, bald
+29 Jan 2017 03:08:58 : Cipher, cala, Wertfuzzy77#0274, ;wyr
+29 Jan 2017 03:08:59 : Cipher, cala, Botfuzzy77#2209, Would you Rather...
+*Be a leper* or *Be a midget*
+29 Jan 2017 03:09:04 : Cipher, cala, Botfuzzy77#2209, People say...
+*34%* and *66%*
+29 Jan 2017 03:09:09 : Cipher, cala, Wertfuzzy77#0274, midget
+29 Jan 2017 03:09:16 : Cipher, cala, Calamariela#4119, midget
+29 Jan 2017 03:09:18 : Cipher, cala, Wertfuzzy77#0274, ;wyr
+29 Jan 2017 03:09:19 : Cipher, cala, Botfuzzy77#2209, Would you Rather...
+*Be black in a white neighborhood* or *Be white in a black neighborhood*
+29 Jan 2017 03:09:24 : Cipher, cala, Botfuzzy77#2209, People say...
+*69%* and *31%*
+29 Jan 2017 03:09:26 : Cipher, cala, Wertfuzzy77#0274, black in white
+29 Jan 2017 03:09:33 : Cipher, cala, Calamariela#4119, ^
+29 Jan 2017 03:09:33 : Cipher, cala, Botfuzzy77#2209, ^
+29 Jan 2017 03:09:39 : Cipher, cala, Wertfuzzy77#0274, you gonna get shot otherwise
+29 Jan 2017 03:09:42 : LimitlessMc, mainchat, Chesire Kat#7022, you were not here
+29 Jan 2017 03:09:44 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 03:09:51 : Cipher, cala, Wertfuzzy77#0274, ;wyr
+29 Jan 2017 03:09:51 : Cipher, cala, Botfuzzy77#2209, Would you Rather...
+*Be caught at home watching Sex and the City by yourself* or *Be caught in a bar with a pink martini in hand*
+29 Jan 2017 03:09:55 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 03:09:56 : LimitlessMc, mainchat, Chesire Kat#7022, @ruleroftri  i was going to ask but you were gone
+29 Jan 2017 03:09:56 : Cipher, cala, Botfuzzy77#2209, People say...
+*42%* and *58%*
+29 Jan 2017 03:10:07 : Cipher, cala, Wertfuzzy77#0274, I'd pull off the pink martini
+29 Jan 2017 03:10:10 : Cipher, cala, Calamariela#4119, second
+29 Jan 2017 03:10:16 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 03:10:19 : Cipher, cala, Calamariela#4119, gayyy
+29 Jan 2017 03:10:48 : Cipher, cala, Wertfuzzy77#0274, also, doesnt say its mine 😉 just says in hand, could be bringing it to a special someone
+29 Jan 2017 03:10:49 : LimitlessMc, mainchat, Chesire Kat#7022, anyway her name is medusa and she isa ball python born on feb 20 2016
+29 Jan 2017 03:10:55 : Cipher, cala, Calamariela#4119, lololol
+29 Jan 2017 03:10:56 : LimitlessMc, mainchat, Chesire Kat#7022, around 2 feet long
+29 Jan 2017 03:11:00 : Cipher, cala, Wertfuzzy77#0274, ;wyr
+29 Jan 2017 03:11:01 : Cipher, cala, Botfuzzy77#2209, Would you Rather...
+*Have no hands* or *Have a naked fat guy stalking you at all times*
+29 Jan 2017 03:11:04 : Cipher, cala, Wertfuzzy77#0274, LOL
+29 Jan 2017 03:11:05 : Cipher, cala, Wertfuzzy77#0274, wut
+29 Jan 2017 03:11:06 : Cipher, cala, Botfuzzy77#2209, People say...
+*28%* and *72%*
+29 Jan 2017 03:11:08 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 03:11:11 : Cipher, cala, Calamariela#4119, omggggg
+29 Jan 2017 03:11:15 : Cipher, cala, Wertfuzzy77#0274, i mean, i like my hands
+29 Jan 2017 03:11:18 : Cipher, cala, Wertfuzzy77#0274, so....
+29 Jan 2017 03:11:20 : Cipher, cala, Wertfuzzy77#0274, great xD
+29 Jan 2017 03:11:28 : Cipher, cala, Calamariela#4119, naked fat guyyyy!!!
+29 Jan 2017 03:11:37 : Cipher, cala, Wertfuzzy77#0274, Ill give him the martini
+29 Jan 2017 03:11:40 : None, Direct Message with TherminatorX, TherminatorX#6644, ;train
+29 Jan 2017 03:11:40 : None, Direct Message with TherminatorX, Botfuzzy77#2209, Please wait 425 seconds before you can train again.
+29 Jan 2017 03:11:47 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 03:11:50 : Cipher, cala, Wertfuzzy77#0274, ;wyr
+29 Jan 2017 03:11:50 : Cipher, cala, Botfuzzy77#2209, Would you Rather...
+*Only be able to whisper* or *Only be able to shout*
+29 Jan 2017 03:11:54 : Cipher, cala, Wertfuzzy77#0274, whisper
+29 Jan 2017 03:11:56 : Cipher, cala, Botfuzzy77#2209, People say...
+*71%* and *29%*
+29 Jan 2017 03:11:58 : Cipher, cala, Calamariela#4119, ^
+29 Jan 2017 03:11:58 : Cipher, cala, Botfuzzy77#2209, ^
+29 Jan 2017 03:12:02 : Cipher, cala, Wertfuzzy77#0274, ;wyr
+29 Jan 2017 03:12:03 : Cipher, cala, Botfuzzy77#2209, Would you Rather...
+*Drive 200 miles well over the legal drunken limit* or *Drive 200 miles after being awake for 72 hours straight*
+29 Jan 2017 03:12:08 : Cipher, cala, Botfuzzy77#2209, People say...
+*39%* and *61%*
+29 Jan 2017 03:12:12 : Cipher, cala, Calamariela#4119, second
+29 Jan 2017 03:12:16 : Cipher, cala, Wertfuzzy77#0274, 72 hours
+29 Jan 2017 03:12:20 : Cipher, cala, Wertfuzzy77#0274, mucho coffee
+29 Jan 2017 03:12:23 : Cipher, cala, Calamariela#4119, si
+29 Jan 2017 03:12:42 : Cipher, cala, Wertfuzzy77#0274, dont even drink coffee, but would literally have to to be able to keep eyes open after 72 hours xD
+29 Jan 2017 03:12:43 : Cipher, cala, Wertfuzzy77#0274, ;wyr
+29 Jan 2017 03:12:43 : Cipher, cala, Botfuzzy77#2209, Would you Rather...
+*Be deaf and have no legs* or *Be blind and have no arms*
+29 Jan 2017 03:12:49 : Cipher, cala, Botfuzzy77#2209, People say...
+*80%* and *20%*
+29 Jan 2017 03:12:53 : Cipher, cala, Wertfuzzy77#0274, no legs
+29 Jan 2017 03:12:56 : Cipher, cala, Wertfuzzy77#0274, wait.. deaf
+29 Jan 2017 03:13:00 : Cipher, cala, Wertfuzzy77#0274, cant hear piano
+29 Jan 2017 03:13:05 : Cipher, cala, Wertfuzzy77#0274, or no hands xD cant play piano
+29 Jan 2017 03:13:07 : Cipher, cala, Wertfuzzy77#0274, rip
+29 Jan 2017 03:13:11 : Cipher, cala, Wertfuzzy77#0274, ;kms
+29 Jan 2017 03:13:11 : Cipher, cala, Botfuzzy77#2209, Bet
+29 Jan 2017 03:13:14 : Cipher, cala, Calamariela#4119, first
+29 Jan 2017 03:13:24 : Cipher, cala, Wertfuzzy77#0274, ;wyr
+29 Jan 2017 03:13:25 : Cipher, cala, Botfuzzy77#2209, Would you Rather...
+*Be Wilma Flintstone* or *Be Velma from the Scooby Doo mystery gang*
+29 Jan 2017 03:13:30 : Cipher, cala, Botfuzzy77#2209, People say...
+*28%* and *72%*
+29 Jan 2017 03:13:34 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 03:13:37 : Cipher, cala, Wertfuzzy77#0274, Velma i guess
+29 Jan 2017 03:13:41 : Cipher, cala, Calamariela#4119, yeah
+29 Jan 2017 03:13:45 : Cipher, cala, Wertfuzzy77#0274, ;wyr
+29 Jan 2017 03:13:46 : Cipher, cala, Botfuzzy77#2209, Would you Rather...
+*Always be sweating* or *Always appear shivering cold*
+29 Jan 2017 03:13:50 : Cipher, cala, Wertfuzzy77#0274, cold
+29 Jan 2017 03:13:51 : Cipher, cala, Botfuzzy77#2209, People say...
+*22%* and *78%*
+29 Jan 2017 03:13:52 : Cipher, cala, Calamariela#4119, coldddd
+29 Jan 2017 03:13:53 : Cipher, cala, Wertfuzzy77#0274, already cold xD
+29 Jan 2017 03:14:05 : Cipher, cala, Wertfuzzy77#0274, ;wyr
+29 Jan 2017 03:14:06 : Cipher, cala, Botfuzzy77#2209, Would you Rather...
+*Speak every language except the language of the country you're currently in* or *Speak only the language of the country you're in, but know the meaning of every single word in that language*
+29 Jan 2017 03:14:11 : Cipher, cala, Botfuzzy77#2209, People say...
+*35%* and *65%*
+29 Jan 2017 03:14:18 : Cipher, cala, Wertfuzzy77#0274, 2nd
+29 Jan 2017 03:14:19 : Cipher, cala, Calamariela#4119, second
+29 Jan 2017 03:14:25 : Cipher, cala, Wertfuzzy77#0274, ;wyr
+29 Jan 2017 03:14:25 : Cipher, cala, Botfuzzy77#2209, Would you Rather...
+*Be deaf and have no legs* or *Be blind and have no arms*
+29 Jan 2017 03:14:29 : Cipher, cala, Wertfuzzy77#0274, ...
+29 Jan 2017 03:14:30 : Cipher, cala, Calamariela#4119, lol
+29 Jan 2017 03:14:31 : Cipher, cala, Botfuzzy77#2209, People say...
+*80%* and *20%*
+29 Jan 2017 03:14:33 : Cipher, cala, Wertfuzzy77#0274, ;wyr
+29 Jan 2017 03:14:33 : Cipher, cala, Botfuzzy77#2209, Would you Rather...
+*Spend a year alone in a deep sea submarine* or *Spend a year alone in a space station*
+29 Jan 2017 03:14:38 : Cipher, cala, Botfuzzy77#2209, People say...
+*31%* and *69%*
+29 Jan 2017 03:14:38 : Cipher, cala, Wertfuzzy77#0274, space
+29 Jan 2017 03:14:43 : Cipher, cala, Wertfuzzy77#0274, atleast ill have a view
+29 Jan 2017 03:15:14 : Cipher, music, Wertfuzzy77#0274, ;songs
+29 Jan 2017 03:15:14 : Cipher, music, Botfuzzy77#2209, **The Following songs are in the Queue**
+29 Jan 2017 03:15:14 : Cipher, music, Botfuzzy77#2209, 1. Adele - Hello **Radio**
+	<https://www.youtube.com/watch?v=YQHsXMglC9A>
+Total Time is 0:06:07
+29 Jan 2017 03:15:17 : Cipher, music, Wertfuzzy77#0274, ;skip
+29 Jan 2017 03:15:17 : Cipher, music, Botfuzzy77#2209, Skipping Adele - When We Were Young (Live at The Church Studios) by request (Radio Song)
+29 Jan 2017 03:15:38 : Cipher, music, Wertfuzzy77#0274, ;song
+29 Jan 2017 03:15:38 : Cipher, music, Botfuzzy77#2209, **Name**: Adele - Hello
+**Requester**: Radio
+**URL**: <https://www.youtube.com/watch?v=YQHsXMglC9A>
+```py
+Time: 0:06:07
+Views: 1,859,122,941
+Likes: 11,216,424, 94.96%
+Dislikes: 595,600, 5.04%
+Skips: 0/0```
+29 Jan 2017 03:18:31 : Cipher, music, Wertfuzzy77#0274, ;songs
+29 Jan 2017 03:18:31 : Cipher, music, Botfuzzy77#2209, **The Following songs are in the Queue**
+29 Jan 2017 03:18:31 : Cipher, music, Botfuzzy77#2209, 1. Adele - Someone Like You **Radio**
+	<https://www.youtube.com/watch?v=hLQl3WQQoQ0>
+Total Time is 0:04:45
+29 Jan 2017 03:18:55 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;train
+29 Jan 2017 03:18:55 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 47 **Amaura** for 1838 XP (42% to beat)
+You **Lost** to a Level 73 **Vespiquen** (27% to beat)
+You **Lost** to a Level 69 **Swablu** (28% to beat)
+You **Lost** to a Level 61 **Magby** (32% to beat)
+You **Beat** a Level 32 **Meowth** for 1200 XP (62% to beat)
+You **Lost** to a Level 51 **Zapdos** (39% to beat)
+You **Lost** to a Level 32 **Pidgeot** (62% to beat)
+You **Lost** to a Level 77 **Wailmer** (25% to beat)
+You **Beat** a Level 26 **Noivern** for 738 XP (76% to beat)
+You **Beat** a Level 61 **Numel** for 2150 XP (32% to beat)
+You **Beat** a Level 46 **Combee** for 1808 XP (43% to beat)
+29 Jan 2017 03:18:55 : LimitlessMc, botchat, Botfuzzy77#2209, You Have Leveled up from **40** to **41**!
+29 Jan 2017 03:18:55 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 7734 XP!
+29 Jan 2017 03:19:10 : Cipher, cala, Calamariela#4119, lag???
+29 Jan 2017 03:19:18 : LimitlessMc, botchat, MrMudkipKipperten#8916, It now tells you when you level up! 😃
+29 Jan 2017 03:19:34 : Unity Of Nirvana, general, Third_Worm#4804, @#SHIP_CrystalBit
+29 Jan 2017 03:19:38 : Unity Of Nirvana, general, Third_Worm#4804, I see you
+29 Jan 2017 03:19:42 : Unity Of Nirvana, general, Third_Worm#4804, Trying to hide
+29 Jan 2017 03:19:47 : Unity Of Nirvana, general, Third_Worm#4804, ;-; from me
+29 Jan 2017 03:19:54 : Cipher, cala, Wertfuzzy77#0274, crashed 😛
+29 Jan 2017 03:20:02 : Cipher, cala, Calamariela#4119, heh 😛
+29 Jan 2017 03:20:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ya
+29 Jan 2017 03:20:29 : Cipher, music, Wertfuzzy77#0274, ;loop
+29 Jan 2017 03:20:30 : Cipher, music, Botfuzzy77#2209, Added '*Adele - Hello*' **1** more times
+29 Jan 2017 03:21:16 : Unity Of Nirvana, general, Crystal4209#4698, I'm not hiding
+29 Jan 2017 03:22:08 : Unity Of Nirvana, general, Crystal4209#4698, I'm just reading through my so called ping on limitless
+29 Jan 2017 03:22:21 : Unity Of Nirvana, general, Crystal4209#4698, Plus I only just woke up
+29 Jan 2017 03:22:26 : LimitlessMc, botchat, MrMudkipKipperten#8916, What do you think you will work on next?
+29 Jan 2017 03:23:21 : LimitlessMc, botchat, Wertfuzzy77#0274, item drops
+29 Jan 2017 03:23:26 : Unity Of Nirvana, general, Third_Worm#4804, Ah so im about go go to bed
+29 Jan 2017 03:23:37 : Unity Of Nirvana, general, Third_Worm#4804, What do you mean ping?
+29 Jan 2017 03:23:39 : Cipher, music, Wertfuzzy77#0274, ;loop
+29 Jan 2017 03:23:40 : Cipher, music, Botfuzzy77#2209, Added '*Adele - Hello*' **1** more times
+29 Jan 2017 03:23:41 : Unity Of Nirvana, general, Third_Worm#4804, Also
+29 Jan 2017 03:23:45 : Unity Of Nirvana, general, Third_Worm#4804, How are you?
+29 Jan 2017 03:24:10 : Cipher, cala, Wertfuzzy77#0274, ;wyr
+29 Jan 2017 03:24:11 : Cipher, cala, Botfuzzy77#2209, Would you Rather...
+*Be a professional Taser testee* or *Be a professional beanbag gun testee*
+29 Jan 2017 03:24:16 : Cipher, cala, Botfuzzy77#2209, People say...
+*44%* and *56%*
+29 Jan 2017 03:24:17 : Cipher, cala, Wertfuzzy77#0274, ouch
+29 Jan 2017 03:24:21 : Cipher, cala, Wertfuzzy77#0274, beanbag
+29 Jan 2017 03:24:22 : Unity Of Nirvana, general, Crystal4209#4698, That staff ping to all staff by tal
+29 Jan 2017 03:24:34 : Unity Of Nirvana, general, Third_Worm#4804, O
+29 Jan 2017 03:24:39 : Unity Of Nirvana, general, Crystal4209#4698, And I guess I'm good
+29 Jan 2017 03:24:39 : Unity Of Nirvana, general, Third_Worm#4804, He was unbanned
+29 Jan 2017 03:24:45 : Unity Of Nirvana, general, Crystal4209#4698, I know
+29 Jan 2017 03:24:46 : Unity Of Nirvana, general, Third_Worm#4804, Lovely
+29 Jan 2017 03:24:57 : Cipher, cala, Wertfuzzy77#0274, ;help
+29 Jan 2017 03:24:57 : None, Direct Message with Wertfuzzy77, Botfuzzy77#2209, ```
+A Bot whose sole Purpose is to serve Wertfuzzy77! Version 0.15.1.3
+(Created by Wertfuzzy77)
+
+FlavorTexts:
+  rate           Rates the Player
+  lmgtfy         Returns a Link to a "Let me Google That For You" Page
+  kill           Adds Emotion
+  gif            Returns the First Found Image on Google Images for this Input
+  rps            Allows the player to play Rock, Paper, Scissors with the Bot...
+  luck           Returns the Player's Luck
+  wyr            
+  slap           Adds Emotion
+  fml            Returns a Random Post from fmylife.com
+  kiss           Adds Emotion
+  hug            Adds Emotion
+  conch          Ask the Magic Conch a Question
+  funify         Funifies a given text input
+  image          Returns the First Found Image on Google Images for this Input
+  kys            
+  choose         Chooses from a set of things
+Games:
+  settype        
+  ranking        
+  pokeboss       Displays Boss Info
+  train          Fights Pokemon for XP
+  lookup         Displays your Current Information
+  cd             Shows your Cooldowns
+  gamble         
+  pokedex        
+  pokebattle     Fights a Pokemon Boss
+  pokehelp       Pokemon Battle Sim Help
+  types          
+  level          Displays your Current Information
+MusicPlayer:
+  search         Searches for a song
+  youtube        Adds a Song for the Bot to Play
+  shuffle        Shuffles the songs in the Queue
+  clear          Clears the Queue
+  leave          Leaves the Join chat
+  loop           Plays the current song again
+  songs          Prints the songs in the queue
+  viewplaylist   Views the songs of a playlists
+  Radio          Toggles Radio Mode
+  extendplaylist Extends a custom playlist
+  playlists      Shows all the current playlists
+  song           Returns information about the current playing song
+  skip           Skips the Current song
+  makeplaylist   Makes a custom playlist for the bot to save
+  playlist       Adds songs from a predefined playlist to the songs list
+```
+29 Jan 2017 03:24:57 : None, Direct Message with Wertfuzzy77, Botfuzzy77#2209, ```
+  join           Joins the Voice channel you are currently in
+  desc           Decription of the Current playing song
+  music          Returns the current status of the Music Bot
+  remove         removes a song from a queue by index
+StaffCmds:
+  tempmute       
+  mute           
+  unmute         
+  unmuteall      Unmutes ALL muted players
+  mutelist       
+​No Category:
+  status         Returns the Status of the Bot, along with Additional Informa...
+  changeIcon     
+  invite         Returns a Link to the Invite URL for this bot
+  source         Returns a link to the source code for this bot
+  help           Shows this message.
+  ev             
+  afk            Sets you as AFK, and the Bot will auto Reply for you with th...
+  feedback       Returns a link to a Google Forums, where you can leave feedb...
+  server         Returns Information on the Limitless MC server!
+  joined         Says when a member joined.
+  pokemon        Returns Links to Pokemon pages
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+29 Jan 2017 03:25:08 : Unity Of Nirvana, general, Third_Worm#4804, The reason for the ban back wired when he came back on lol
+29 Jan 2017 03:25:13 : Cipher, cala, Wertfuzzy77#0274, ;funify Cala, I'm Bored!
+29 Jan 2017 03:25:13 : Cipher, cala, Botfuzzy77#2209, CCaLlAA9, II'mm BBOr,REED!8
+29 Jan 2017 03:25:25 : Cipher, cala, Calamariela#4119, haiii
+29 Jan 2017 03:25:30 : Cipher, cala, Wertfuzzy77#0274, hai 😛
+29 Jan 2017 03:25:31 : Unity Of Nirvana, general, Third_Worm#4804, Ninja just started talking sht about tal
+29 Jan 2017 03:25:45 : Unity Of Nirvana, general, Crystal4209#4698, Wow
+29 Jan 2017 03:25:54 : Cipher, cala, Calamariela#4119, you sleepy?
+29 Jan 2017 03:26:08 : Unity Of Nirvana, general, Third_Worm#4804, Wanna do voice? I can't talk
+29 Jan 2017 03:26:09 : Cipher, cala, Wertfuzzy77#0274, sort of, but not as tired as I thought I would be
+29 Jan 2017 03:26:18 : Unity Of Nirvana, general, Third_Worm#4804, I mean y'all can
+29 Jan 2017 03:26:21 : Cipher, cala, Calamariela#4119, same
+29 Jan 2017 03:26:28 : Unity Of Nirvana, general, Crystal4209#4698, Well I should get out of bed and turn on my comp
+29 Jan 2017 03:26:42 : Unity Of Nirvana, general, Crystal4209#4698, Then see what chores I gotta do
+29 Jan 2017 03:26:47 : Cipher, cala, Wertfuzzy77#0274, Like, Ive been up for 34 hours?
+29 Jan 2017 03:26:50 : Unity Of Nirvana, general, Third_Worm#4804, Alright
+29 Jan 2017 03:27:03 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 03:27:08 : Cipher, cala, Wertfuzzy77#0274, should be exhausted xD
+29 Jan 2017 03:27:12 : Cipher, cala, Wertfuzzy77#0274, but I feel mostly file
+29 Jan 2017 03:27:14 : Cipher, cala, Wertfuzzy77#0274, fine *
+29 Jan 2017 03:27:18 : Unity Of Nirvana, general, Crystal4209#4698, Cause right now I'm just lying down in bed lel
+29 Jan 2017 03:27:33 : Cipher, cala, Calamariela#4119, ditoo
+29 Jan 2017 03:27:35 : Cipher, cala, Calamariela#4119, ditto
+29 Jan 2017 03:27:36 : Unity Of Nirvana, general, Third_Worm#4804, Sam
+29 Jan 2017 03:27:39 : Unity Of Nirvana, general, Third_Worm#4804, Same
+29 Jan 2017 03:27:42 : Cipher, cala, Wertfuzzy77#0274, ;gif ditto
+29 Jan 2017 03:27:43 : Cipher, cala, Botfuzzy77#2209, http://giphy.com/gifs/pokemon-gif-gifs-pMFmBkBTsDMOY
+29 Jan 2017 03:27:45 : Unity Of Nirvana, general, Crystal4209#4698, Lel
+29 Jan 2017 03:27:45 : Unity Of Nirvana, general, Third_Worm#4804, :D
+29 Jan 2017 03:27:50 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 03:28:03 : Unity Of Nirvana, general, Crystal4209#4698, @Wertfuzzy77 you alive?
+29 Jan 2017 03:28:29 : Unity Of Nirvana, general, Wertfuzzy77#0274, mostly
+29 Jan 2017 03:28:36 : Unity Of Nirvana, general, Third_Worm#4804, Ah wert
+29 Jan 2017 03:28:42 : Cipher, cala, Calamariela#4119, im bored pokieeee
+29 Jan 2017 03:28:46 : Unity Of Nirvana, general, Third_Worm#4804, How are you now?
+29 Jan 2017 03:28:51 : Cipher, cala, Wertfuzzy77#0274, ;image pokie
+29 Jan 2017 03:28:53 : Cipher, cala, Botfuzzy77#2209, http://uploads.poplyft.com/wp-content/uploads/2016/01/18232821/Pdlhc0f-Kelly-Brook-pokies.jpg
+29 Jan 2017 03:28:53 : Unity Of Nirvana, general, Third_Worm#4804, After I said brb guys
+29 Jan 2017 03:28:56 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 03:29:00 : Unity Of Nirvana, general, Third_Worm#4804, And its been three hours
+29 Jan 2017 03:29:05 : Cipher, cala, Calamariela#4119, ohhhh
+29 Jan 2017 03:29:08 : Unity Of Nirvana, general, Wertfuzzy77#0274, im good
+29 Jan 2017 03:29:09 : Cipher, cala, Calamariela#4119, those boobs
+29 Jan 2017 03:29:22 : Cipher, cala, Wertfuzzy77#0274, xD I didnt even see that until you pointed it out
+29 Jan 2017 03:29:43 : Cipher, cala, Calamariela#4119, pointy nips
+29 Jan 2017 03:29:51 : Cipher, cala, Wertfuzzy77#0274, "pokie" xD
+29 Jan 2017 03:30:03 : Cipher, cala, Calamariela#4119, xD OMGGG
+29 Jan 2017 03:30:15 : Unity Of Nirvana, general, Third_Worm#4804, Uh huh, your using way too simple words
+29 Jan 2017 03:30:20 : Unity Of Nirvana, general, Third_Worm#4804, What's up?
+29 Jan 2017 03:30:20 : Cipher, cala, Wertfuzzy77#0274, lets see if we get a different picture 😛
+29 Jan 2017 03:30:24 : Cipher, cala, Wertfuzzy77#0274, ;image pokie
+29 Jan 2017 03:30:25 : Cipher, cala, Botfuzzy77#2209, http://uploads.poplyft.com/wp-content/uploads/2016/01/18232821/Pdlhc0f-Kelly-Brook-pokies.jpg
+29 Jan 2017 03:30:26 : Cipher, cala, Wertfuzzy77#0274, nope
+29 Jan 2017 03:30:35 : Unity Of Nirvana, general, Wertfuzzy77#0274, tired
+29 Jan 2017 03:30:38 : Unity Of Nirvana, general, Wertfuzzy77#0274, not alot of sleep
+29 Jan 2017 03:30:42 : Cipher, cala, Calamariela#4119, she got some pokies on her
+29 Jan 2017 03:30:43 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 03:30:45 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 03:30:46 : Cipher, cala, Wertfuzzy77#0274, weirdo
+29 Jan 2017 03:30:59 : Unity Of Nirvana, general, Third_Worm#4804, Maybe sleep for now?
+29 Jan 2017 03:31:04 : Unity Of Nirvana, general, Wertfuzzy77#0274, soon
+29 Jan 2017 03:31:10 : Unity Of Nirvana, general, Wertfuzzy77#0274, maybe
+29 Jan 2017 03:31:15 : Cipher, cala, Calamariela#4119, heh
+29 Jan 2017 03:31:23 : Unity Of Nirvana, general, Third_Worm#4804, Maybe a nap?
+29 Jan 2017 03:31:32 : Unity Of Nirvana, general, Wertfuzzy77#0274, its 10PM xD
+29 Jan 2017 03:31:41 : Unity Of Nirvana, general, Third_Worm#4804, And whatever your doing you can do later?
+29 Jan 2017 03:31:41 : LimitlessMc, mainchat, Chesire Kat#7022, annnd he is gone again -.-
+29 Jan 2017 03:31:46 : Unity Of Nirvana, general, Third_Worm#4804, So?
+29 Jan 2017 03:31:59 : Cipher, cala, Wertfuzzy77#0274, ;image weirdo
+29 Jan 2017 03:32:00 : Cipher, cala, Botfuzzy77#2209, http://idolosol.com/images/weirdo-3.jpg
+29 Jan 2017 03:32:04 : Cipher, cala, Calamariela#4119, ....
+29 Jan 2017 03:32:05 : Cipher, cala, Wertfuzzy77#0274, ^ you
+29 Jan 2017 03:32:08 : Cipher, cala, Wertfuzzy77#0274, 😛
+29 Jan 2017 03:32:12 : Cipher, cala, Calamariela#4119, ;image niko
+29 Jan 2017 03:32:14 : Unity Of Nirvana, general, Third_Worm#4804, Sleep for like two hours, set a alarm
+29 Jan 2017 03:32:14 : Cipher, cala, Botfuzzy77#2209, http://static.comicvine.com/uploads/original/11116/111165259/4413578-4137127286-NikoB.jpg
+29 Jan 2017 03:32:18 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 03:32:18 : Unity Of Nirvana, general, Third_Worm#4804, And wake u
+29 Jan 2017 03:32:21 : Unity Of Nirvana, general, Third_Worm#4804, P
+29 Jan 2017 03:32:22 : LimitlessMc, mainchat, Chesire Kat#7022, i believe the phrase "Im the only snek here" is untrue seeing as he is never here 😏
+29 Jan 2017 03:32:22 : Cipher, cala, Wertfuzzy77#0274, ;image niko
+29 Jan 2017 03:32:23 : Cipher, cala, Botfuzzy77#2209, http://static.comicvine.com/uploads/original/11116/111165259/4413578-4137127286-NikoB.jpg
+29 Jan 2017 03:32:23 : LimitlessMc, mainchat, Tetra#4593, #Rekt
+29 Jan 2017 03:32:24 : Unity Of Nirvana, general, Third_Worm#4804, Do work
+29 Jan 2017 03:32:25 : Cipher, cala, Wertfuzzy77#0274, rip
+29 Jan 2017 03:32:31 : Cipher, cala, Wertfuzzy77#0274, sometimes it gives different images
+29 Jan 2017 03:32:33 : Unity Of Nirvana, general, Third_Worm#4804, And go back to sleep
+29 Jan 2017 03:32:35 : LimitlessMc, mainchat, Chesire Kat#7022, tbh not really
+29 Jan 2017 03:32:36 : Cipher, cala, Wertfuzzy77#0274, ;gif niko
+29 Jan 2017 03:32:36 : Cipher, cala, Botfuzzy77#2209, http://giphy.com/gifs/niko-65i5jwimKC6uQ
+29 Jan 2017 03:32:46 : Cipher, cala, Calamariela#4119, ...
+29 Jan 2017 03:32:47 : LimitlessMc, mainchat, Tetra#4593, "annnd he is gone again -.-"
+#Rekt
+29 Jan 2017 03:32:51 : Cipher, cala, Wertfuzzy77#0274, boring
+29 Jan 2017 03:32:53 : Cipher, cala, Calamariela#4119, ;image mariela
+29 Jan 2017 03:32:54 : Cipher, cala, Botfuzzy77#2209, https://pbs.twimg.com/profile_images/735559267088896000/1mrglw3L.jpg
+29 Jan 2017 03:32:58 : Cipher, cala, Calamariela#4119, damnnnn
+29 Jan 2017 03:33:06 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 03:33:06 : Cipher, cala, Calamariela#4119, i wish xD
+29 Jan 2017 03:33:13 : LimitlessMc, mainchat, Chesire Kat#7022, like i said not really
+29 Jan 2017 03:33:24 : LimitlessMc, mainchat, Tetra#4593, ^ Sign of defeat
+29 Jan 2017 03:33:25 : Cipher, cala, Wertfuzzy77#0274, idk, you look pretty cute to me 😉
+29 Jan 2017 03:33:35 : Cipher, cala, Calamariela#4119, lol thanks
+29 Jan 2017 03:34:16 : LimitlessMc, mainchat, Chesire Kat#7022, ^ signs or early onset dementia
+29 Jan 2017 03:34:21 : Cipher, cala, Calamariela#4119, ;image brandon ward
+29 Jan 2017 03:34:23 : Cipher, cala, Botfuzzy77#2209, http://watchlite.s3.amazonaws.com/person%2Fmugs%2F_WARD-BRANDON-M.jpg
+29 Jan 2017 03:34:33 : LimitlessMc, mainchat, Chesire Kat#7022, #rekt is now aproprate
+29 Jan 2017 03:34:37 : Cipher, cala, Wertfuzzy77#0274, looks like a convict
+29 Jan 2017 03:34:39 : LimitlessMc, mainchat, Chesire Kat#7022, 😏
+29 Jan 2017 03:34:41 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 03:34:56 : Cipher, cala, Wertfuzzy77#0274, ;image Nikolai
+29 Jan 2017 03:34:58 : Cipher, cala, Botfuzzy77#2209, https://lh5.googleusercontent.com/-93pHc1dmYwg/AAAAAAAAAAI/AAAAAAAAHFU/yI8-Z86etPo/photo.jpg
+29 Jan 2017 03:35:03 : Cipher, cala, Wertfuzzy77#0274, ;gif Nikolai
+29 Jan 2017 03:35:04 : Cipher, cala, Botfuzzy77#2209, http://giphy.com/gifs/the-strokes-julian-casablancas-gwYEsYUDvHYXe
+29 Jan 2017 03:35:11 : Cipher, cala, Calamariela#4119, ;image aguirre
+29 Jan 2017 03:35:12 : Cipher, cala, Botfuzzy77#2209, http://sensesofcinema.com/assets/uploads/2012/07/Aguirre.jpg5_.jpg
+29 Jan 2017 03:35:16 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 03:35:18 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 03:35:21 : Cipher, cala, Calamariela#4119, omg
+29 Jan 2017 03:35:38 : Cipher, cala, Wertfuzzy77#0274, ;image Narma
+29 Jan 2017 03:35:39 : Cipher, cala, Botfuzzy77#2209, http://static.indianexpress.com/m-images/M_Id_257711_cotton.jpg
+29 Jan 2017 03:35:48 : Cipher, cala, Wertfuzzy77#0274, ;gif Narma
+29 Jan 2017 03:35:53 : Cipher, cala, Wertfuzzy77#0274, rip
+29 Jan 2017 03:35:57 : Cipher, cala, Calamariela#4119, nope
+29 Jan 2017 03:36:02 : Cipher, cala, Calamariela#4119, cotton???
+29 Jan 2017 03:36:07 : Cipher, cala, Wertfuzzy77#0274, no idea
+29 Jan 2017 03:36:10 : Cipher, cala, Wertfuzzy77#0274, ;gif cats
+29 Jan 2017 03:36:10 : Cipher, cala, Botfuzzy77#2209, http://giphy.com/gifs/cat-hacker-webs-o0vwzuFwCGAFO
+29 Jan 2017 03:36:22 : Cipher, cala, Calamariela#4119, ;image your momma
+29 Jan 2017 03:36:24 : Cipher, cala, Botfuzzy77#2209, http://t.fod4.com/t/7f474cd1f1/c1920x1080_11.jpg
+29 Jan 2017 03:36:28 : Cipher, cala, Calamariela#4119, wow
+29 Jan 2017 03:36:30 : Cipher, cala, Wertfuzzy77#0274, .;gif is more fun 😛
+29 Jan 2017 03:36:40 : Cipher, cala, Wertfuzzy77#0274, ;gif cats
+29 Jan 2017 03:36:40 : Cipher, cala, Botfuzzy77#2209, http://giphy.com/gifs/cats-gl8ymnpv4Sqha
+29 Jan 2017 03:36:46 : Cipher, cala, Calamariela#4119, ;gif mariela aguirre
+29 Jan 2017 03:36:46 : Cipher, cala, Botfuzzy77#2209, http://giphy.com/gifs/HQ7hhaQnbU7MQ
+29 Jan 2017 03:36:47 : LimitlessMc, mainchat, Crystal4209#4698, good morning everyone
+29 Jan 2017 03:36:50 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 03:36:54 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 03:36:56 : Unity Of Nirvana, general, Crystal4209#4698, good morning
+29 Jan 2017 03:36:59 : Cipher, cala, Wertfuzzy77#0274, ;gif Nikolai Narma
+29 Jan 2017 03:36:59 : Cipher, cala, Botfuzzy77#2209, http://giphy.com/gifs/nikolai-fraiture-nFZ1EgUtvyJ4k
+29 Jan 2017 03:37:22 : Unity Of Nirvana, general, Third_Worm#4804, Morning
+29 Jan 2017 03:37:27 : Cipher, cala, Wertfuzzy77#0274, ;gif Nikolai x Mariela
+29 Jan 2017 03:37:27 : Cipher, cala, Botfuzzy77#2209, http://giphy.com/gifs/nikolai-fraiture-5OXV8FgC3BpEA
+29 Jan 2017 03:37:34 : Unity Of Nirvana, general, Crystal4209#4698, im finally awake for once
+29 Jan 2017 03:37:43 : Cipher, cala, Wertfuzzy77#0274, ;gif I ship it
+29 Jan 2017 03:37:44 : Cipher, cala, Botfuzzy77#2209, http://giphy.com/gifs/i-ship-it-f84ScN9n1udAk
+29 Jan 2017 03:37:51 : Cipher, cala, Wertfuzzy77#0274, boring
+29 Jan 2017 03:38:01 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 03:38:05 : Cipher, cala, Wertfuzzy77#0274, ;gif I ship it
+29 Jan 2017 03:38:05 : Cipher, cala, Botfuzzy77#2209, http://giphy.com/gifs/i-ship-it-jiB96x5s4t4OY
+29 Jan 2017 03:38:13 : Cipher, cala, Wertfuzzy77#0274, wut
+29 Jan 2017 03:38:30 : Cipher, cala, Calamariela#4119, ;image mini schnuazer
+29 Jan 2017 03:38:31 : Cipher, cala, Botfuzzy77#2209, https://www.petfinder.com/images/breeds/dog/2010.jpg
+29 Jan 2017 03:38:36 : Cipher, cala, Calamariela#4119, eh
+29 Jan 2017 03:38:38 : Cipher, cala, Wertfuzzy77#0274, ;gif mini schnuazer
+29 Jan 2017 03:38:39 : Cipher, cala, Botfuzzy77#2209, http://giphy.com/gifs/mini-tgjDVHSWjUmac
+29 Jan 2017 03:38:40 : Cipher, cala, Calamariela#4119, same pic
+29 Jan 2017 03:38:44 : Cipher, cala, Wertfuzzy77#0274, lol
+29 Jan 2017 03:38:48 : Cipher, cala, Calamariela#4119, wtf
+29 Jan 2017 03:38:53 : Cipher, cala, Calamariela#4119, its cute tho
+29 Jan 2017 03:38:56 : Cipher, cala, Wertfuzzy77#0274, it is
+29 Jan 2017 03:39:05 : Cipher, cala, Wertfuzzy77#0274, completly useless xD but cute
+29 Jan 2017 03:39:13 : Cipher, cala, Calamariela#4119, ^
+29 Jan 2017 03:39:14 : Cipher, cala, Botfuzzy77#2209, ^
+29 Jan 2017 03:39:33 : Cipher, cala, Wertfuzzy77#0274, ;wyr
+29 Jan 2017 03:39:33 : Cipher, cala, Botfuzzy77#2209, Would you Rather...
+*Have your elbow joints facing the opposite direction* or *Have you knees facing backwards.*
+29 Jan 2017 03:39:38 : Cipher, cala, Botfuzzy77#2209, People say...
+*57%* and *43%*
+29 Jan 2017 03:39:40 : Cipher, cala, Calamariela#4119, ;image donthebreton
+29 Jan 2017 03:39:41 : Cipher, cala, Botfuzzy77#2209, http://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/cb/cbf266e92bfd5d2f2c0bcf73b4bc68341d17789a_full.jpg
+29 Jan 2017 03:39:48 : Cipher, cala, Wertfuzzy77#0274, lol wut
+29 Jan 2017 03:40:00 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 03:40:06 : Cipher, cala, Wertfuzzy77#0274, ;image wertfuzzy77
+29 Jan 2017 03:40:07 : Cipher, cala, Botfuzzy77#2209, http://limitlessmc.net/img/2016/05/Wertfuzzy77.jpg
+29 Jan 2017 03:40:09 : Cipher, cala, Wertfuzzy77#0274, ayy
+29 Jan 2017 03:40:09 : Cipher, cala, Botfuzzy77#2209, Lmao
+29 Jan 2017 03:40:12 : Cipher, cala, Wertfuzzy77#0274, thats actually mine
+29 Jan 2017 03:40:26 : Cipher, cala, Calamariela#4119, reallyyyyy
+29 Jan 2017 03:40:37 : Cipher, cala, Calamariela#4119, ;image calamariela
+29 Jan 2017 03:40:39 : Cipher, cala, Botfuzzy77#2209, https://pbs.twimg.com/media/COwpneRVAAAVnot.jpg
+29 Jan 2017 03:40:41 : LimitlessMc, mainchat, Lightning#6734, hullo
+29 Jan 2017 03:40:44 : Cipher, cala, Calamariela#4119, booo
+29 Jan 2017 03:40:45 : Cipher, cala, Wertfuzzy77#0274, xD
+29 Jan 2017 03:41:08 : Cipher, cala, Wertfuzzy77#0274, ;image Calafuzzy77
+29 Jan 2017 03:41:10 : Unity Of Nirvana, general, Third_Worm#4804, Im actually sleepy for once lol
+29 Jan 2017 03:41:11 : Cipher, cala, Botfuzzy77#2209, ERROR
+29 Jan 2017 03:41:14 : Cipher, cala, Wertfuzzy77#0274, LOL
+29 Jan 2017 03:41:14 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 03:41:16 : Cipher, cala, Wertfuzzy77#0274, rip
+29 Jan 2017 03:41:19 : Unity Of Nirvana, general, Crystal4209#4698, go to sleep then
+29 Jan 2017 03:41:22 : Cipher, cala, Calamariela#4119, xDDDDD
+29 Jan 2017 03:41:26 : LimitlessMc, mainchat, Crystal4209#4698, haii
+29 Jan 2017 03:41:34 : Cipher, cala, Wertfuzzy77#0274, ;image wertiela
+29 Jan 2017 03:41:36 : Cipher, cala, Botfuzzy77#2209, https://img2.newspapers.com/img/thumbnail/85895500/400/400/0_0_6771_9210.jpg?cs=604800
+29 Jan 2017 03:41:38 : None, Direct Message with TherminatorX, TherminatorX#6644, ;train
+29 Jan 2017 03:41:38 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You **Beat** a Level 114 **Regirock** for 3647 XP (27% to beat)
+You **Lost** to a Level 98 **Bronzor** (32% to beat)
+You **Beat** a Level 81 **Chesnaught** for 3080 XP (38% to beat)
+You **Lost** to a Level 83 **Reuniclus** (37% to beat)
+You **Beat** a Level 95 **Kabutops** for 3368 XP (33% to beat)
+You **Lost** to a Level 124 **Cofagrigus** (25% to beat)
+You **Beat** a Level 119 **Watchog** for 3705 XP (26% to beat)
+You **Lost** to a Level 66 **Zoroark** (47% to beat)
+You **Lost** to a Level 61 **Emolga** (51% to beat)
+You **Lost** to a Level 94 **Cobalion** (33% to beat)
+You **Lost** to a Level 96 **Larvesta** (32% to beat)
+You **Lost** to a Level 107 **Sawk** (29% to beat)
+You **Beat** a Level 90 **Karrablast** for 3276 XP (35% to beat)
+You **Lost** to a Level 62 **Smeargle** (50% to beat)
+You **Beat** a Level 50 **Tepig** for 1864 XP (63% to beat)
+You **Lost** to a Level 121 **Stoutland** (26% to beat)
+You **Beat** a Level 41 **Ninjask** for 1167 XP (76% to beat)
+You use a **Lucky Egg** to gain more XP!
+You Find a **Pokeloot** worth 13108 XP
+29 Jan 2017 03:41:38 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You trained for 43268 XP!
+29 Jan 2017 03:41:39 : LimitlessMc, mainchat, Chesire Kat#7022, morning 😄
+29 Jan 2017 03:41:43 : LimitlessMc, mainchat, Chesire Kat#7022, i have a snek
+29 Jan 2017 03:41:46 : Cipher, cala, Calamariela#4119, ....
+29 Jan 2017 03:41:47 : LimitlessMc, mainchat, Chesire Kat#7022, 💙
+29 Jan 2017 03:41:48 : Cipher, cala, Wertfuzzy77#0274, It says pianos!
+29 Jan 2017 03:41:48 : None, Direct Message with TherminatorX, TherminatorX#6644, ;level
+29 Jan 2017 03:41:48 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **Name**: *TherminatorX*
+**Level**: 63
+29 Jan 2017 03:41:49 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+29 Jan 2017 03:41:49 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **XP**: 256370/262144
+**Boss Takedowns**: 33
+**Most Dmg in an Attack**: 64152
+29 Jan 2017 03:41:49 : Unity Of Nirvana, general, Third_Worm#4804, Na, I'm not as tired as wert
+29 Jan 2017 03:41:51 : Cipher, cala, Wertfuzzy77#0274, It ships it
+29 Jan 2017 03:41:56 : Cipher, cala, Calamariela#4119, lol
+29 Jan 2017 03:41:58 : Cipher, cala, Calamariela#4119, nope
+29 Jan 2017 03:42:02 : Cipher, cala, Wertfuzzy77#0274, yup
+29 Jan 2017 03:42:02 : Unity Of Nirvana, general, Third_Worm#4804, I'm more of a alpha atm
+29 Jan 2017 03:42:02 : None, Direct Message with TherminatorX, TherminatorX#6644, ;gamble 20000
+29 Jan 2017 03:42:02 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You have gained back your offering and more!
+29 Jan 2017 03:42:02 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You Have Leveled up from **63** to **64**!
+29 Jan 2017 03:42:02 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You are exhausted from Gambling...
+29 Jan 2017 03:42:10 : Cipher, cala, Wertfuzzy77#0274, ;conch Do you ship it?
+29 Jan 2017 03:42:17 : None, Direct Message with TherminatorX, TherminatorX#6644, ;level
+29 Jan 2017 03:42:17 : Cipher, cala, Wertfuzzy77#0274, ....
+29 Jan 2017 03:42:17 : Cipher, cala, Botfuzzy77#2209, *Very doubtful*
+29 Jan 2017 03:42:17 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **Name**: *TherminatorX*
+**Level**: 64
+29 Jan 2017 03:42:17 : Cipher, cala, Botfuzzy77#2209, The Conch has Spoken!
+29 Jan 2017 03:42:17 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+29 Jan 2017 03:42:17 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **XP**: 24226/274625
+**Boss Takedowns**: 33
+**Most Dmg in an Attack**: 64152
+29 Jan 2017 03:42:22 : Cipher, cala, Wertfuzzy77#0274, ;-;
+29 Jan 2017 03:42:23 : Cipher, cala, Wertfuzzy77#0274, nu
+29 Jan 2017 03:42:26 : Cipher, cala, Wertfuzzy77#0274, bad bot
+29 Jan 2017 03:42:28 : LimitlessMc, mainchat, Crystal4209#4698, nice
+29 Jan 2017 03:42:33 : Cipher, cala, Calamariela#4119, see
+29 Jan 2017 03:42:38 : LimitlessMc, mainchat, Chesire Kat#7022, yea her name is medusa
+29 Jan 2017 03:42:40 : LimitlessMc, mainchat, Chesire Kat#7022, :3
+29 Jan 2017 03:42:45 : Unity Of Nirvana, general, Crystal4209#4698, @Wertfuzzy77 go to sleep
+29 Jan 2017 03:42:48 : Unity Of Nirvana, general, Crystal4209#4698, you need sleep
+29 Jan 2017 03:42:59 : Unity Of Nirvana, general, Third_Worm#4804, Indeed he does
+29 Jan 2017 03:43:00 : Cipher, cala, Wertfuzzy77#0274, it says doubtful 😉 but its always been very doubtful
+29 Jan 2017 03:43:07 : Cipher, cala, Calamariela#4119, ;conch me and niko just friends?
+29 Jan 2017 03:43:07 : Cipher, cala, Botfuzzy77#2209, *Better not tell you now*
+29 Jan 2017 03:43:07 : Cipher, cala, Botfuzzy77#2209, The Conch has Spoken!
+29 Jan 2017 03:43:11 : Cipher, cala, Calamariela#4119, ...
+29 Jan 2017 03:43:14 : Cipher, cala, Wertfuzzy77#0274, LOL
+29 Jan 2017 03:43:23 : Unity Of Nirvana, general, Crystal4209#4698, dont be like me last night and go to bed at 2am and try to wake up at 7am that failed i woke up at 11am instead xD
+29 Jan 2017 03:43:39 : LimitlessMc, mainchat, Crystal4209#4698, ooo
+29 Jan 2017 03:43:40 : Cipher, cala, Wertfuzzy77#0274, ;conch more than friends?
+29 Jan 2017 03:43:40 : Cipher, cala, Botfuzzy77#2209, *My sources say no*
+29 Jan 2017 03:43:40 : Cipher, cala, Botfuzzy77#2209, The Conch has Spoken!
+29 Jan 2017 03:43:43 : Cipher, cala, Calamariela#4119, ew ship bitch is on
+29 Jan 2017 03:43:44 : Cipher, cala, Wertfuzzy77#0274, ;-;
+29 Jan 2017 03:43:51 : LimitlessMc, mainchat, Chesire Kat#7022, :3
+29 Jan 2017 03:44:06 : LimitlessMc, mainchat, Chesire Kat#7022, athena was the second most popular choice
+29 Jan 2017 03:44:11 : Cipher, music, Wertfuzzy77#0274, ;Radio
+29 Jan 2017 03:44:11 : Cipher, music, Botfuzzy77#2209, Radio Mode: False
+29 Jan 2017 03:44:28 : LimitlessMc, mainchat, Chesire Kat#7022, well it was tied with nohtyp
+29 Jan 2017 03:44:33 : Cipher, cala, Wertfuzzy77#0274, ;conch Do you ship Niko Cala?
+29 Jan 2017 03:44:33 : Cipher, cala, Botfuzzy77#2209, *You may rely on it*
+29 Jan 2017 03:44:33 : Cipher, cala, Botfuzzy77#2209, The Conch has Spoken!
+29 Jan 2017 03:44:36 : Cipher, cala, Wertfuzzy77#0274, !
+29 Jan 2017 03:44:38 : Cipher, cala, Wertfuzzy77#0274, we did it
+29 Jan 2017 03:44:42 : LimitlessMc, mainchat, TherminatorX#6644, Nohttp?
+29 Jan 2017 03:44:46 : Cipher, cala, Calamariela#4119, 😅
+29 Jan 2017 03:44:49 : LimitlessMc, mainchat, Chesire Kat#7022, no
+29 Jan 2017 03:44:59 : LimitlessMc, mainchat, TherminatorX#6644, ;P
+29 Jan 2017 03:45:02 : LimitlessMc, mainchat, Chesire Kat#7022, i spelt it exacty
+29 Jan 2017 03:45:14 : Cipher, cala, Wertfuzzy77#0274, ;conch do you think it will happen?
+29 Jan 2017 03:45:14 : Cipher, cala, Botfuzzy77#2209, *Outlook not so good*
+29 Jan 2017 03:45:15 : Cipher, cala, Botfuzzy77#2209, The Conch has Spoken!
+29 Jan 2017 03:45:17 : Cipher, cala, Wertfuzzy77#0274, ;-;
+29 Jan 2017 03:45:17 : LimitlessMc, mainchat, Chesire Kat#7022, 😛
+29 Jan 2017 03:45:20 : Cipher, cala, Calamariela#4119, xD
+29 Jan 2017 03:45:22 : LimitlessMc, mainchat, TherminatorX#6644, Lol
+29 Jan 2017 03:45:33 : LimitlessMc, mainchat, Chesire Kat#7022, then there was anal bead snake
+29 Jan 2017 03:45:41 : LimitlessMc, mainchat, Chesire Kat#7022, hissitia
+29 Jan 2017 03:45:47 : LimitlessMc, mainchat, Chesire Kat#7022, idk about spelling
+29 Jan 2017 03:45:49 : LimitlessMc, mainchat, Chesire Kat#7022, and then
+29 Jan 2017 03:45:55 : LimitlessMc, mainchat, Chesire Kat#7022, maple snake suasage
+29 Jan 2017 03:46:07 : LimitlessMc, mainchat, Chesire Kat#7022, 😄
+29 Jan 2017 03:46:14 : LimitlessMc, mainchat, TherminatorX#6644, Maple by itself would have been nice
+29 Jan 2017 03:46:16 : Unity Of Nirvana, general, Third_Worm#4804, Kat = spam for me
+29 Jan 2017 03:46:21 : LimitlessMc, mainchat, Chesire Kat#7022, yea
+29 Jan 2017 03:46:27 : Cipher, cala, Wertfuzzy77#0274, Well, I'm not gonna trust some sketchy magic conch shell 😆
+29 Jan 2017 03:46:28 : Unity Of Nirvana, general, Third_Worm#4804, My phone is loud af
+29 Jan 2017 03:46:36 : Unity Of Nirvana, general, Crystal4209#4698, lol
+29 Jan 2017 03:46:38 : Unity Of Nirvana, general, Third_Worm#4804, And its getting annoying le
+29 Jan 2017 03:46:40 : LimitlessMc, mainchat, Chesire Kat#7022, also i need to get some more fun things for it XD
+29 Jan 2017 03:46:41 : Unity Of Nirvana, general, Third_Worm#4804, So ima
+29 Jan 2017 03:46:47 : LimitlessMc, mainchat, TherminatorX#6644, Like mice
+29 Jan 2017 03:46:49 : Unity Of Nirvana, general, Third_Worm#4804, Turn it down
+29 Jan 2017 03:46:56 : Unity Of Nirvana, general, Third_Worm#4804, If I can
+29 Jan 2017 03:47:04 : LimitlessMc, mainchat, Chesire Kat#7022, im supposed to feed it ded mice
+29 Jan 2017 03:47:04 : Unity Of Nirvana, general, Crystal4209#4698, oh yeah @Wertfuzzy77 i banned my first person yesterday
+29 Jan 2017 03:47:05 : LimitlessMc, mainchat, Chesire Kat#7022, 😛
+29 Jan 2017 03:47:08 : LimitlessMc, mainchat, Chesire Kat#7022, once a week
+29 Jan 2017 03:47:10 : LimitlessMc, mainchat, TherminatorX#6644, I don't suggest a hamster wheel, tho
+29 Jan 2017 03:47:13 : Unity Of Nirvana, general, Wertfuzzy77#0274, Gj
+29 Jan 2017 03:47:17 : LimitlessMc, mainchat, Chesire Kat#7022, monday or tuesday
+29 Jan 2017 03:47:19 : Unity Of Nirvana, general, Third_Worm#4804, Griff on my gym
+29 Jan 2017 03:47:20 : LimitlessMc, mainchat, Chesire Kat#7022, lmao
+29 Jan 2017 03:47:24 : Unity Of Nirvana, general, Wertfuzzy77#0274, Rip
+29 Jan 2017 03:47:25 : Unity Of Nirvana, general, Third_Worm#4804, Stole my badges too
+29 Jan 2017 03:47:30 : Unity Of Nirvana, general, Wertfuzzy77#0274, xD
+29 Jan 2017 03:47:37 : Unity Of Nirvana, general, Third_Worm#4804, Which really
+29 Jan 2017 03:47:43 : Unity Of Nirvana, general, Third_Worm#4804, Ticks me off
+29 Jan 2017 03:47:46 : LimitlessMc, mainchat, TherminatorX#6644, Suddenly imagining a snake on a treadmill
+29 Jan 2017 03:47:55 : Unity Of Nirvana, general, Third_Worm#4804, I can't get them back damn it ;-;
+29 Jan 2017 03:47:56 : LimitlessMc, mainchat, Chesire Kat#7022, lmao
+29 Jan 2017 03:48:02 : Cipher, cala, Calamariela#4119, oiiii
+29 Jan 2017 03:48:05 : Unity Of Nirvana, general, Crystal4209#4698, worm save it for the ban appeal
+29 Jan 2017 03:48:11 : Cipher, cala, Wertfuzzy77#0274, What?
+29 Jan 2017 03:48:23 : LimitlessMc, mainchat, Chesire Kat#7022, i need to size down one of her hides
+29 Jan 2017 03:48:31 : LimitlessMc, mainchat, Chesire Kat#7022, like fill it up with stuffs
+29 Jan 2017 03:48:38 : LimitlessMc, mainchat, Chesire Kat#7022, so its comfy for her
+29 Jan 2017 03:48:45 : Unity Of Nirvana, general, Third_Worm#4804, Okei, but I'm not allowed to rage
+29 Jan 2017 03:48:59 : Unity Of Nirvana, general, Third_Worm#4804, Since its not my ban
+29 Jan 2017 03:48:59 : Unity Of Nirvana, general, Crystal4209#4698, shhhhh
+29 Jan 2017 03:49:05 : Unity Of Nirvana, general, Crystal4209#4698, shhhhhhhh
+29 Jan 2017 03:49:13 : Unity Of Nirvana, general, Third_Worm#4804, >_>
+29 Jan 2017 03:49:19 : Unity Of Nirvana, general, Crystal4209#4698, do i have to make a new chat for you xD
+29 Jan 2017 03:49:29 : Unity Of Nirvana, general, Third_Worm#4804, Ragingworm
+29 Jan 2017 03:49:35 : LimitlessMc, mainchat, TherminatorX#6644, Btw, if she won't eat specific mice, try moistening them in chicken broth
+29 Jan 2017 03:49:47 : Unity Of Nirvana, general, Third_Worm#4804, I swear worm goes with everything
+29 Jan 2017 03:49:54 : Unity Of Nirvana, general, Crystal4209#4698, there we go do what ever you want in that chat let it all out
+29 Jan 2017 03:50:01 : Cipher, cala, Wertfuzzy77#0274, Having fun bringing me closer to you? 😉
+29 Jan 2017 03:50:09 : Unity Of Nirvana, rage_chat, Third_Worm#4804, I want
+29 Jan 2017 03:50:15 : Cipher, cala, Calamariela#4119, yepppp
+29 Jan 2017 03:50:19 : Unity Of Nirvana, rage_chat, Third_Worm#4804, MY DAMN BADGES BACK
+29 Jan 2017 03:50:24 : Unity Of Nirvana, rage_chat, Third_Worm#4804, pls ;-;
+29 Jan 2017 03:50:26 : LimitlessMc, mainchat, Chesire Kat#7022, O.o
+29 Jan 2017 03:50:31 : LimitlessMc, mainchat, Chesire Kat#7022, thanks for le tip
+29 Jan 2017 03:50:34 : Unity Of Nirvana, rage_chat, Third_Worm#4804, ALSO
+29 Jan 2017 03:50:36 : Cipher, cala, Wertfuzzy77#0274, I mean... If you want to get really close
+29 Jan 2017 03:50:50 : Unity Of Nirvana, rage_chat, Third_Worm#4804, I NEED MY DAMN TEAM FIXED
+29 Jan 2017 03:50:54 : Unity Of Nirvana, rage_chat, Third_Worm#4804, JAASSAAAYY
+29 Jan 2017 03:51:09 : Unity Of Nirvana, rage_chat, Third_Worm#4804, I also need
+29 Jan 2017 03:51:12 : Unity Of Nirvana, rage_chat, Third_Worm#4804, tms
+29 Jan 2017 03:51:12 : Cipher, cala, Wertfuzzy77#0274, ;hug "@Calamariela really close and never let's go"
+29 Jan 2017 03:51:12 : Cipher, cala, Botfuzzy77#2209, :hugging: *Wertfuzzy77 Hugged @Calamariela really close and never let's go* :hugging:
+29 Jan 2017 03:51:18 : Unity Of Nirvana, rage_chat, Third_Worm#4804, Signal beam
+29 Jan 2017 03:51:24 : Unity Of Nirvana, rage_chat, Third_Worm#4804, 2x that
+29 Jan 2017 03:51:26 : LimitlessMc, mainchat, TherminatorX#6644, Classmate in high school owned onr
+29 Jan 2017 03:51:33 : Unity Of Nirvana, rage_chat, Third_Worm#4804, Also
+29 Jan 2017 03:51:47 : Unity Of Nirvana, rage_chat, Third_Worm#4804, CAN I LIKE RAGE AT THE KID ON FORUMS?
+29 Jan 2017 03:51:56 : LimitlessMc, mainchat, TherminatorX#6644, Gave a little presentation on snake care as a project
+29 Jan 2017 03:51:57 : Unity Of Nirvana, rage_chat, Third_Worm#4804, PER-LEASE?
+29 Jan 2017 03:51:59 : Cipher, cala, Calamariela#4119, !!
+29 Jan 2017 03:52:02 : Cipher, cala, Calamariela#4119, ever??
+29 Jan 2017 03:52:07 : Unity Of Nirvana, general, Third_Worm#4804, I think
+29 Jan 2017 03:52:09 : Cipher, cala, Wertfuzzy77#0274, If I can help it
+29 Jan 2017 03:52:16 : Unity Of Nirvana, general, Third_Worm#4804, I can rip some paper
+29 Jan 2017 03:52:21 : Unity Of Nirvana, general, Third_Worm#4804, And I'll be good
+29 Jan 2017 03:52:26 : LimitlessMc, mainchat, TherminatorX#6644, Basically that one factoid is all I can remember from it 😄
+29 Jan 2017 03:52:50 : Cipher, cala, Wertfuzzy77#0274, xD that would be really really nice tho, just hugging you forever
+29 Jan 2017 03:52:59 : LimitlessMc, mainchat, Chesire Kat#7022, lol
+29 Jan 2017 03:53:06 : Unity Of Nirvana, rage_chat, Crystal4209#4698, no
+29 Jan 2017 03:53:07 : Cipher, cala, Calamariela#4119, lol are you just watching me
+29 Jan 2017 03:53:11 : Cipher, cala, Wertfuzzy77#0274, Si
+29 Jan 2017 03:53:15 : Unity Of Nirvana, rage_chat, Third_Worm#4804, okei
+29 Jan 2017 03:53:23 : Unity Of Nirvana, rage_chat, Third_Worm#4804, No means no
+29 Jan 2017 03:53:30 : Unity Of Nirvana, rage_chat, Third_Worm#4804, And that is fine
+29 Jan 2017 03:53:36 : Cipher, cala, Calamariela#4119, lets do somethingggg
+29 Jan 2017 03:53:42 : Cipher, cala, Wertfuzzy77#0274, Like?
+29 Jan 2017 03:53:52 : Cipher, cala, Calamariela#4119, idkkk
+29 Jan 2017 03:53:55 : Cipher, cala, Wertfuzzy77#0274, XD
+29 Jan 2017 03:54:15 : Unity Of Nirvana, rage_chat, Third_Worm#4804, I'm not really mad
+29 Jan 2017 03:54:22 : Unity Of Nirvana, rage_chat, Third_Worm#4804, I'm just salty af
+29 Jan 2017 03:55:07 : Cipher, cala, Wertfuzzy77#0274, It's pretty fun watching you play with me
+29 Jan 2017 03:55:08 : Cipher, cala, Calamariela#4119, movvvvvveeeee
+29 Jan 2017 03:55:18 : LimitlessMc, botchat, TherminatorX#6644, Items?
+29 Jan 2017 03:57:00 : Unity Of Nirvana, rage_chat, Crystal4209#4698, well this chat is for everyone that needs to rage so 😛
+29 Jan 2017 03:57:09 : Unity Of Nirvana, general, Third_Worm#4804, So what are your plans today crystal?
+29 Jan 2017 03:57:50 : Unity Of Nirvana, general, Crystal4209#4698, eh start building that wall of appreciation for matt and maybe build my house more and ofc look for griefers
+29 Jan 2017 03:58:16 : Unity Of Nirvana, general, Third_Worm#4804, Sounds like a plan
+29 Jan 2017 03:58:31 : Cipher, cala, Wertfuzzy77#0274, You've only been back like 2 days, and I'm already impatient about having to wait until summer to see you 😅
+29 Jan 2017 03:59:01 : Unity Of Nirvana, general, Crystal4209#4698, yeah it is
+29 Jan 2017 03:59:10 : Cipher, cala, Calamariela#4119, and if that 😛
+29 Jan 2017 03:59:23 : Cipher, cala, Wertfuzzy77#0274, Ya 😅
+29 Jan 2017 03:59:37 : Cipher, cala, Calamariela#4119, you look like a lost dog
+29 Jan 2017 03:59:42 : Cipher, cala, Wertfuzzy77#0274, Great xD now you just made me a little sad
+29 Jan 2017 03:59:51 : Cipher, cala, Calamariela#4119, sorry 😅
+29 Jan 2017 04:01:32 : Cipher, cala, Calamariela#4119, you in the corner xD
+29 Jan 2017 04:01:35 : Cipher, cala, Calamariela#4119, its funny
+29 Jan 2017 04:01:47 : Cipher, cala, Wertfuzzy77#0274, 😝
+29 Jan 2017 04:01:49 : LimitlessMc, mainchat, Tetra#4593, https://i.ytimg.com/vi/JRVCU8yfNdU/hqdefault.jpg
+29 Jan 2017 04:02:22 : Cipher, cala, Calamariela#4119, like lost puppy xD
+29 Jan 2017 04:02:57 : Cipher, cala, Wertfuzzy77#0274, Yeah 😅 I am a lost puppy rn, won't you please take me into your home
+29 Jan 2017 04:03:09 : Cipher, cala, Calamariela#4119, xD ofc
+29 Jan 2017 04:03:15 : Cipher, cala, Wertfuzzy77#0274, ❤
+29 Jan 2017 04:03:26 : Cipher, cala, Calamariela#4119, lolol
+29 Jan 2017 04:03:38 : LimitlessMc, mainchat, Tetra#4593, https://s-media-cache-ak0.pinimg.com/564x/d2/bd/0e/d2bd0eff079e12423890a75a6721ec55.jpg
+29 Jan 2017 04:03:44 : Cipher, cala, Calamariela#4119, lets explore 😛
+29 Jan 2017 04:04:00 : Cipher, cala, Wertfuzzy77#0274, Getting kinda tired 😅
+29 Jan 2017 04:04:05 : Cipher, cala, Calamariela#4119, sigh
+29 Jan 2017 04:04:09 : Cipher, cala, Calamariela#4119, okayyyy
+29 Jan 2017 04:04:16 : Cipher, music, Wertfuzzy77#0274, ;leave
+29 Jan 2017 04:04:22 : Cipher, cala, Wertfuzzy77#0274, sorry :p
+29 Jan 2017 04:04:31 : Cipher, cala, Calamariela#4119, its okayyy
+29 Jan 2017 04:04:46 : Cipher, cala, Wertfuzzy77#0274, also, thinking about alot of stuff rn
+29 Jan 2017 04:04:55 : Cipher, cala, Calamariela#4119, us?
+29 Jan 2017 04:05:05 : Cipher, cala, Wertfuzzy77#0274, Us
+29 Jan 2017 04:05:16 : Cipher, cala, Calamariela#4119, darn 😛
+29 Jan 2017 04:05:29 : Unity Of Nirvana, general, Crystal4209#4698, oh you left the game wert you going to sleep?
+29 Jan 2017 04:05:29 : Cipher, cala, Calamariela#4119, stop worrying 😃
+29 Jan 2017 04:05:51 : Cipher, cala, Wertfuzzy77#0274, 😝 you don't even know what I'm worrying about
+29 Jan 2017 04:06:22 : Cipher, cala, Calamariela#4119, what are ya worrying about?
+29 Jan 2017 04:07:35 : Unity Of Nirvana, general, Third_Worm#4804, Is he doing what he was told to d-
+29 Jan 2017 04:07:39 : Unity Of Nirvana, general, Third_Worm#4804, I meeean
+29 Jan 2017 04:07:55 : Unity Of Nirvana, general, Crystal4209#4698, @Wertfuzzy77 you going to sleep?
+29 Jan 2017 04:08:03 : Unity Of Nirvana, general, Third_Worm#4804, Is he going to sleep, after all he deserves it?
+29 Jan 2017 04:08:17 : Unity Of Nirvana, general, Crystal4209#4698, also rip normal gym
+29 Jan 2017 04:08:37 : Unity Of Nirvana, general, Third_Worm#4804, I need my Adam back
+29 Jan 2017 04:08:42 : Unity Of Nirvana, general, Crystal4209#4698, me to
+29 Jan 2017 04:08:42 : Unity Of Nirvana, general, Third_Worm#4804, Adaaaam
+29 Jan 2017 04:08:57 : LimitlessMc, botchat, TherminatorX#6644, @Wertfuzzy77 Items?
+29 Jan 2017 04:09:08 : Unity Of Nirvana, general, Third_Worm#4804, Hello crystal
+29 Jan 2017 04:09:29 : Unity Of Nirvana, general, Third_Worm#4804, Also if.your speaking
+29 Jan 2017 04:09:33 : Unity Of Nirvana, general, Third_Worm#4804, I no hear you
+29 Jan 2017 04:09:48 : Unity Of Nirvana, general, Third_Worm#4804, Um nope
+29 Jan 2017 04:09:54 : Unity Of Nirvana, general, Third_Worm#4804, Yes!
+29 Jan 2017 04:09:59 : Cipher, cala, Wertfuzzy77#0274, Are we doing the right thing? Should we really be talking again? Is there even a happy balance we can find? If we do find it, what's the point of we never actually get to hang out? we just go through a lot of mess, for no reason. Mostly, I'm just kinda scared about being alone or left out, especially from you 😝 who I trust the most to never leave me alone
+29 Jan 2017 04:09:59 : Unity Of Nirvana, general, Third_Worm#4804, I can
+29 Jan 2017 04:10:11 : Unity Of Nirvana, general, Third_Worm#4804, Ah I see
+29 Jan 2017 04:10:21 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;train
+29 Jan 2017 04:10:21 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, You **Lost** to a Level 56 **Blissey** (28% to beat)
+You **Lost** to a Level 40 **Plusle** (40% to beat)
+You **Beat** a Level 43 **Cacnea** for 1607 XP (37% to beat)
+You **Lost** to a Level 59 **Seel** (27% to beat)
+You **Beat** a Level 34 **Patrat** for 1355 XP (47% to beat)
+You **Beat** a Level 27 **Hydreigon** for 1042 XP (59% to beat)
+You **Lost** to a Level 47 **Mothim** (34% to beat)
+You **Lost** to a Level 48 **Prinplup** (33% to beat)
+You **Beat** a Level 21 **Onix** for 609 XP (76% to beat)
+You use a **Lucky Egg** to gain more XP!
+You Find a **Pokeloot** worth 1797 XP
+29 Jan 2017 04:10:21 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, You trained for 8717 XP!
+29 Jan 2017 04:10:39 : LimitlessMc, botchat, Wertfuzzy77#0274, ;afk sleep
+29 Jan 2017 04:10:39 : LimitlessMc, botchat, Botfuzzy77#2209, Wertfuzzy77 is now AFK for reason:
+**sleep**
+29 Jan 2017 04:11:00 : Cipher, cala, Wertfuzzy77#0274, 11:11 😉
+29 Jan 2017 04:11:04 : Cipher, cala, Calamariela#4119, 😮
+29 Jan 2017 04:11:08 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;join
+29 Jan 2017 04:11:16 : Cipher, cala, Calamariela#4119, okay stop worrying about allllll of that
+29 Jan 2017 04:11:20 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;playlists
+29 Jan 2017 04:11:20 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, https://www.youtube.com/watch?v=zbaku-cDlpM[0], Bringer[1], positivity[17], Adele[5], WEEB[4], Dragons[4], Train[3], TnDbRn[0], 2015OP&EN[25], Katy[3], Eddie[18], GnR[5], Transistor[23], Perri[2], Old[9], nicky[2], Costantino[13], Maroon[5], ACDC[5], Cala[21], One[3], Akinci[12], Kimi[4], Gold[2], KenAshcorp[11], Shelter[12], GAGA[3], Coldplay[5], Sheeran[6], Animenz[3], SteinsGate[13], 2Cellos[5], Blunt[3], AnimeOpenings[14], MJackson[5], FUN[3], Amagi[1], WEEB2[3]
+29 Jan 2017 04:11:22 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;train
+29 Jan 2017 04:11:22 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, You **Lost** to a Level 68 **Abra** (31% to beat)
+You **Lost** to a Level 71 **Lopunny** (30% to beat)
+You **Lost** to a Level 37 **Lairon** (58% to beat)
+You **Lost** to a Level 29 **Gardevoir** (74% to beat)
+You **Lost** to a Level 57 **Omastar** (37% to beat)
+You **Lost** to a Level 41 **Elgyem** (52% to beat)
+You **Lost** to a Level 51 **Vibrava** (42% to beat)
+You **Lost** to a Level 33 **Eelektross** (65% to beat)
+You **Beat** a Level 26 **Kirlia** for 595 XP (82% to beat)
+You **Lost** to a Level 48 **Panpour** (44% to beat)
+You **Beat** a Level 49 **Togetic** for 1930 XP (43% to beat)
+You **Lost** to a Level 53 **Slugma** (40% to beat)
+You Find a **Pokeloot** worth 4260 XP
+29 Jan 2017 04:11:22 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, You trained for 6785 XP!
+29 Jan 2017 04:11:23 : Cipher, cala, Calamariela#4119, just chill 😃
+29 Jan 2017 04:11:29 : Cipher, cala, Calamariela#4119, go with the flow
+29 Jan 2017 04:11:47 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;playlist Dragons Adele
+29 Jan 2017 04:11:53 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+29 Jan 2017 04:11:56 : Unity Of Nirvana, bot_chat, Third_Worm#4804, ;songs
+29 Jan 2017 04:11:56 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, **The Following songs are in the Queue**
+29 Jan 2017 04:11:56 : Unity Of Nirvana, bot_chat, Botfuzzy77#2209, 1. Imagine Dragons - Demons (Official) **Third_Worm**
+	<https://www.youtube.com/watch?v=mWRsgZuwf_8>
+2. Imagine Dragons - Radioactive **Third_Worm**
+	<https://www.youtube.com/watch?v=ktvTqknDobU>
+3. Imagine Dragons - It's Time **Third_Worm**
+	<https://www.youtube.com/watch?v=sENM2wA_FTg>
+4. Adele - Set Fire To The Rain (Live at The Royal Albert Hall) **Third_Worm**
+	<https://www.youtube.com/watch?v=Ri7-vnrJD3k>
+5. Adele - Rolling in the Deep **Third_Worm**
+	<https://www.youtube.com/watch?v=rYEDA3JcQqw>
+6. Adele - Someone Like You **Third_Worm**
+	<https://www.youtube.com/watch?v=hLQl3WQQoQ0>
+7. Adele - Skyfall (Lyric Video) **Third_Worm**
+	<https://www.youtube.com/watch?v=DeumyOzKqgI>
+8. Adele - Turning Tables (With Lyrics) **Third_Worm**
+	<https://www.youtube.com/watch?v=dx7sLNyIeQk>
+Total Time is 0:33:56
+29 Jan 2017 04:12:01 : Unity Of Nirvana, bot_chat, Third_Worm#4804, Woor
+29 Jan 2017 04:12:04 : Unity Of Nirvana, bot_chat, Third_Worm#4804, Woot
+29 Jan 2017 04:12:18 : Unity Of Nirvana, general, Third_Worm#4804, Bless you
+29 Jan 2017 04:12:28 : Cipher, cala, Wertfuzzy77#0274, I did that before 😅 left me a little broken, now I get a 2nd chance, and I don't wanna make the same mistakes, so I'm worrying about things
+29 Jan 2017 04:13:03 : Cipher, cala, Calamariela#4119, haha just focus on friend things and we should be fine
+29 Jan 2017 04:14:21 : Cipher, cala, Wertfuzzy77#0274, I'm trying 😅 but I really do like you a lot, and it's tough to give away dreams and wants like that
+29 Jan 2017 04:14:56 : Cipher, cala, Calamariela#4119, but we can at least be great friends 😃
+29 Jan 2017 04:19:29 : Unity Of Nirvana, general, Crystal4209#4698, GREAT NEWS WORM
+29 Jan 2017 04:19:44 : Unity Of Nirvana, general, Crystal4209#4698, i went to that kids house and found your badges
+29 Jan 2017 04:21:34 : Unity Of Nirvana, general, Crystal4209#4698, so you had rock , steel and ground correct?
+29 Jan 2017 04:22:04 : Unity Of Nirvana, general, Crystal4209#4698, @#FuzzyRuthlessJayFazingRainbow
+29 Jan 2017 04:24:14 : Unity Of Nirvana, general, Crystal4209#4698, i have put them in my enderchest for now until i can give them back to you
+29 Jan 2017 04:28:32 : LimitlessMc, mainchat, Lightning#6734, nooo my green ness
+29 Jan 2017 04:28:33 : LimitlessMc, mainchat, Lightning#6734, 💔
+29 Jan 2017 04:29:30 : LimitlessMc, mainchat, Crystal4209#4698, xD he changed it back to red
+29 Jan 2017 04:30:05 : LimitlessMc, mainchat, Jay113355#4999, Na i kicked Gernald
+29 Jan 2017 04:30:12 : LimitlessMc, mainchat, Jay113355#4999, Or what ever his name was
+29 Jan 2017 04:30:16 : LimitlessMc, mainchat, Crystal4209#4698, gerald
+29 Jan 2017 04:30:18 : LimitlessMc, mainchat, Lightning#6734, jay
+29 Jan 2017 04:30:19 : LimitlessMc, mainchat, Lightning#6734, pls
+29 Jan 2017 04:30:21 : LimitlessMc, mainchat, Lightning#6734, D:
+29 Jan 2017 04:30:31 : LimitlessMc, mainchat, Lightning#6734, imean yey for no gerald
+29 Jan 2017 04:30:36 : LimitlessMc, mainchat, Lightning#6734, but no yey cause rip green
+29 Jan 2017 04:30:39 : LimitlessMc, mainchat, Jay113355#4999, Im bad with names
+29 Jan 2017 04:30:46 : LimitlessMc, mainchat, Crystal4209#4698, we know jay
+29 Jan 2017 04:30:51 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;leae
+29 Jan 2017 04:30:54 : Unity Of Nirvana, bot_chat, Crystal4209#4698, ;leave
+29 Jan 2017 04:30:56 : LimitlessMc, mainchat, Jay113355#4999, And spelling
+29 Jan 2017 04:30:59 : LimitlessMc, mainchat, Jay113355#4999, and grammer
+29 Jan 2017 04:31:03 : LimitlessMc, mainchat, Lightning#6734, it's okei
+29 Jan 2017 04:31:06 : LimitlessMc, mainchat, Jay113355#4999, and life
+29 Jan 2017 04:31:07 : LimitlessMc, mainchat, Lightning#6734, we still love you bro
+29 Jan 2017 04:31:26 : LimitlessMc, mainchat, Jay113355#4999, Your just saying that cause you want to be green XD
+29 Jan 2017 04:31:30 : LimitlessMc, mainchat, Lightning#6734, nah
+29 Jan 2017 04:31:32 : LimitlessMc, mainchat, Lightning#6734, lol
+29 Jan 2017 04:32:18 : LimitlessMc, mainchat, Crystal4209#4698, why is all the admins green now..
+29 Jan 2017 04:32:19 : LimitlessMc, mainchat, Jay113355#4999, Questions
+29 Jan 2017 04:32:30 : LimitlessMc, mainchat, Jay113355#4999, Does OT work?
+29 Jan 2017 04:32:41 : LimitlessMc, mainchat, Crystal4209#4698, OT?
+29 Jan 2017 04:32:44 : LimitlessMc, mainchat, Jay113355#4999, aka does OT show the players name who gave your your pokemon
+29 Jan 2017 04:32:51 : LimitlessMc, mainchat, Jay113355#4999, or does it always show your self
+29 Jan 2017 04:32:52 : LimitlessMc, mainchat, Crystal4209#4698, i think so
+29 Jan 2017 04:33:09 : LimitlessMc, mainchat, Jay113355#4999, Original Trainer
+29 Jan 2017 04:33:17 : LimitlessMc, mainchat, Crystal4209#4698, yeah i know now lel
+29 Jan 2017 04:33:39 : LimitlessMc, mainchat, Crystal4209#4698, but with long time pokemon that you have had for about 5 months thats been given dont have the name
+29 Jan 2017 04:33:52 : LimitlessMc, mainchat, Jay113355#4999, Dont have the name at all?
+29 Jan 2017 04:34:01 : LimitlessMc, mainchat, Lightning#6734, some of mine have no OT but that was when the invis glitch was still around
+29 Jan 2017 04:34:07 : LimitlessMc, mainchat, Crystal4209#4698, nope just come up blank on my slowbro
+29 Jan 2017 04:34:16 : LimitlessMc, mainchat, Crystal4209#4698, oh yeah that
+29 Jan 2017 04:34:18 : LimitlessMc, mainchat, Lightning#6734, wheee am green
+29 Jan 2017 04:34:34 : LimitlessMc, mainchat, Crystal4209#4698, thats why my slowbro has no OT
+29 Jan 2017 04:35:10 : LimitlessMc, mainchat, Jay113355#4999, Yeah someone was reporting those as bugged
+29 Jan 2017 04:35:14 : LimitlessMc, mainchat, Crystal4209#4698, yeah so OT still works but not when you had gotten it when the person had the invis glitch from long ago
+29 Jan 2017 04:35:19 : LimitlessMc, mainchat, Jay113355#4999, or it always showing as them
+29 Jan 2017 04:36:07 : LimitlessMc, mainchat, Jay113355#4999, Now im debating playing Terracraft, working on the server or doing something else
+29 Jan 2017 04:36:41 : LimitlessMc, mainchat, Crystal4209#4698, which one do you really want to do jay
+29 Jan 2017 04:37:12 : LimitlessMc, mainchat, Jay113355#4999, Go to sleep
+29 Jan 2017 04:37:17 : LimitlessMc, mainchat, Jay113355#4999, or talk with depthy
+29 Jan 2017 04:37:32 : LimitlessMc, mainchat, Jay113355#4999, study for some odd reason
+29 Jan 2017 04:37:46 : LimitlessMc, mainchat, Lightning#6734, depth always has oddly interesting convo's
+29 Jan 2017 04:37:51 : LimitlessMc, mainchat, Lightning#6734, and sleep is always good
+29 Jan 2017 04:38:22 : LimitlessMc, mainchat, Jay113355#4999, Yeah depth is fun to talk to
+29 Jan 2017 04:38:39 : LimitlessMc, mainchat, Jay113355#4999, Then again so is stubby XD
+29 Jan 2017 04:38:57 : LimitlessMc, mainchat, Jay113355#4999, They are intresting people
+29 Jan 2017 04:39:03 : LimitlessMc, mainchat, Lightning#6734, ^ ye
+29 Jan 2017 04:39:22 : LimitlessMc, mainchat, Lightning#6734, an then theres me XD tha not so interesting one 😛
+29 Jan 2017 04:39:30 : LimitlessMc, mainchat, Crystal4209#4698, ^same
+29 Jan 2017 04:39:35 : LimitlessMc, mainchat, Jay113355#4999, And me the guy who doesnt talk
+29 Jan 2017 04:39:41 : LimitlessMc, mainchat, Lightning#6734, perf family
+29 Jan 2017 04:39:42 : LimitlessMc, mainchat, Jay113355#4999, Although
+29 Jan 2017 04:39:44 : LimitlessMc, mainchat, Lightning#6734, LOL
+29 Jan 2017 04:39:47 : LimitlessMc, mainchat, Jay113355#4999, im interesting
+29 Jan 2017 04:39:59 : LimitlessMc, mainchat, Crystal4209#4698, thats very true jay
+29 Jan 2017 04:40:08 : LimitlessMc, mainchat, DicloniusPonyta#6564, true
+29 Jan 2017 04:40:12 : LimitlessMc, mainchat, Lightning#6734, i'm just blunt and extremely outspoken
+29 Jan 2017 04:40:22 : LimitlessMc, mainchat, DicloniusPonyta#6564, i seem to be the drama and weird
+29 Jan 2017 04:40:24 : LimitlessMc, mainchat, Crystal4209#4698, im quiet and not interesting xD
+29 Jan 2017 04:40:52 : LimitlessMc, mainchat, Crystal4209#4698, and i tend to do alot of shenanigans with worm
+29 Jan 2017 04:41:01 : LimitlessMc, mainchat, DicloniusPonyta#6564, crystal and worm = double trouble
+29 Jan 2017 04:41:07 : LimitlessMc, mainchat, Crystal4209#4698, so true
+29 Jan 2017 04:41:21 : LimitlessMc, mainchat, DicloniusPonyta#6564, btw crystal can you do a assassination for me?
+29 Jan 2017 04:41:39 : LimitlessMc, mainchat, Crystal4209#4698, what is needed lel
+29 Jan 2017 04:41:43 : LimitlessMc, mainchat, Jay113355#4999, >. > http://prntscr.com/e1p1t4
+29 Jan 2017 04:41:44 : LimitlessMc, mainchat, DicloniusPonyta#6564, my brother turned off my computer, when i had unfinished art and it deleted all my art ;/ im very sad pony right now
+29 Jan 2017 04:41:49 : LimitlessMc, mainchat, Lightning#6734, boi
+29 Jan 2017 04:41:51 : LimitlessMc, mainchat, Lightning#6734, what is that
+29 Jan 2017 04:42:05 : LimitlessMc, mainchat, Jay113355#4999, im sick of those things
+29 Jan 2017 04:42:10 : LimitlessMc, mainchat, DicloniusPonyta#6564, i lost hours and hours of work because my brother was being a bitch
+29 Jan 2017 04:42:19 : LimitlessMc, mainchat, Jay113355#4999, and the apricorn bugs are anoying too
+29 Jan 2017 04:42:33 : LimitlessMc, mainchat, DicloniusPonyta#6564, i could be a bitch back and delete his resimae
+29 Jan 2017 04:42:40 : LimitlessMc, mainchat, DicloniusPonyta#6564, but nah im not like that ;/
+29 Jan 2017 04:43:07 : LimitlessMc, mainchat, Jay113355#4999, What we're you using as a program
+29 Jan 2017 04:43:18 : LimitlessMc, mainchat, Jay113355#4999, most good programs have a way to recover data
+29 Jan 2017 04:43:24 : LimitlessMc, mainchat, Chesire Kat#7022, ^
+29 Jan 2017 04:43:28 : LimitlessMc, mainchat, DicloniusPonyta#6564, SaiPaint Tool
+29 Jan 2017 04:43:28 : LimitlessMc, mainchat, Lightning#6734, passed my exam today
+29 Jan 2017 04:43:29 : LimitlessMc, mainchat, Lightning#6734, yey
+29 Jan 2017 04:43:32 : LimitlessMc, mainchat, Crystal4209#4698, gg
+29 Jan 2017 04:43:33 : LimitlessMc, mainchat, Chesire Kat#7022, hai jay how was your day?
+29 Jan 2017 04:43:35 : LimitlessMc, mainchat, DicloniusPonyta#6564, there is no way of getting it back ;/
+29 Jan 2017 04:43:37 : LimitlessMc, mainchat, Chesire Kat#7022, nice light
+29 Jan 2017 04:43:39 : LimitlessMc, mainchat, Lightning#6734, got me a fat 70 on the exam
+29 Jan 2017 04:43:41 : LimitlessMc, mainchat, Lightning#6734, lD
+29 Jan 2017 04:43:43 : LimitlessMc, mainchat, Lightning#6734, ;D*
+29 Jan 2017 04:43:47 : LimitlessMc, mainchat, DicloniusPonyta#6564, good job @Lightning
+29 Jan 2017 04:43:50 : LimitlessMc, mainchat, Chesire Kat#7022, i got me a snek
+29 Jan 2017 04:43:52 : LimitlessMc, mainchat, Chesire Kat#7022, :3
+29 Jan 2017 04:43:55 : LimitlessMc, mainchat, Chesire Kat#7022, medusa
+29 Jan 2017 04:44:17 : LimitlessMc, mainchat, Lightning#6734, wher is gilly
+29 Jan 2017 04:44:22 : LimitlessMc, mainchat, Chesire Kat#7022, am trying to get her tanks temperature up to an appropiate temp
+29 Jan 2017 04:44:23 : LimitlessMc, mainchat, Lightning#6734, i need to take his title >_>
+29 Jan 2017 04:44:30 : LimitlessMc, mainchat, Crystal4209#4698, lel
+29 Jan 2017 04:44:35 : LimitlessMc, mainchat, Jay113355#4999, What
+29 Jan 2017 04:44:38 : LimitlessMc, mainchat, Lightning#6734, sec imma call em on skype lol
+29 Jan 2017 04:44:58 : LimitlessMc, mainchat, Chesire Kat#7022, @Jay113355  i think he is refering to head admin position
+29 Jan 2017 04:45:12 : LimitlessMc, mainchat, Jay113355#4999, "am trying to get her tanks temperature up to an appropiate temp" -Chesire Kat - Today at 10:44 PM
+29 Jan 2017 04:45:19 : LimitlessMc, mainchat, Jay113355#4999, Wtf
+?
+29 Jan 2017 04:45:21 : LimitlessMc, mainchat, Crystal4209#4698, well after restart i think ima start working on that project for matt
+29 Jan 2017 04:45:22 : LimitlessMc, mainchat, Chesire Kat#7022, ohhh
+29 Jan 2017 04:45:24 : LimitlessMc, mainchat, Chesire Kat#7022, heat wise
+29 Jan 2017 04:45:41 : LimitlessMc, mainchat, Chesire Kat#7022, medusa needs like a good 90 degrees
+29 Jan 2017 04:45:44 : LimitlessMc, mainchat, Lightning#6734, i'm here to help the people dammit! lol
+29 Jan 2017 04:45:48 : LimitlessMc, mainchat, Lightning#6734, <- totes not drunk
+29 Jan 2017 04:45:49 : LimitlessMc, mainchat, Chesire Kat#7022, but im at 85
+29 Jan 2017 04:45:55 : LimitlessMc, mainchat, Chesire Kat#7022, :/
+29 Jan 2017 04:46:03 : LimitlessMc, mainchat, Chesire Kat#7022, so im hoping it gets good
+29 Jan 2017 04:46:37 : LimitlessMc, mainchat, Chesire Kat#7022, :3
+29 Jan 2017 04:46:48 : LimitlessMc, mainchat, Chesire Kat#7022, when jay joins a voice chat ll must join
+29 Jan 2017 04:46:53 : LimitlessMc, mainchat, Crystal4209#4698, lel
+29 Jan 2017 04:47:00 : LimitlessMc, mainchat, Jay113355#4999, Ive been here for the past 20 minnute
+29 Jan 2017 04:47:09 : LimitlessMc, mainchat, Chesire Kat#7022, i have been afk the past 20 min
+29 Jan 2017 04:47:15 : LimitlessMc, mainchat, Chesire Kat#7022, so thats why i wasnt in here
+29 Jan 2017 04:47:17 : LimitlessMc, mainchat, Chesire Kat#7022, 😛
+29 Jan 2017 04:47:40 : LimitlessMc, mainchat, Crystal4209#4698, @Lightning join us
+29 Jan 2017 04:47:55 : LimitlessMc, mainchat, Chesire Kat#7022, @​everyone join us
+29 Jan 2017 04:47:56 : LimitlessMc, mainchat, Jay113355#4999, @Lightning join the dark side
+29 Jan 2017 04:47:58 : LimitlessMc, mainchat, Lightning#6734, sec i will
+29 Jan 2017 04:48:12 : LimitlessMc, mainchat, Crystal4209#4698, so we are now the dark side nice
+29 Jan 2017 04:48:37 : LimitlessMc, mainchat, Crystal4209#4698, oh god my brother is now singing
+29 Jan 2017 04:50:32 : LimitlessMc, mainchat, Jay113355#4999, Ew
+29 Jan 2017 04:50:33 : LimitlessMc, mainchat, Chesire Kat#7022, 85 degrees!
+29 Jan 2017 04:50:40 : LimitlessMc, mainchat, Chesire Kat#7022, yas we are in the safe zone
+29 Jan 2017 04:52:37 : LimitlessMc, mainchat, Crystal4209#4698, well time to make the wall of appreciation
+29 Jan 2017 04:53:53 : LimitlessMc, botchat, Crystal4209#4698, ;train
+29 Jan 2017 04:53:53 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 1050 seconds before you can train again.
+29 Jan 2017 04:53:56 : LimitlessMc, botchat, Crystal4209#4698, boo
+29 Jan 2017 05:04:09 : LimitlessMc, mainchat, DonTheBreton#0276, My project http://prntscr.com/e1p6bz
+29 Jan 2017 05:04:19 : LimitlessMc, mainchat, Lightning#6734, neat
+29 Jan 2017 05:04:56 : LimitlessMc, mainchat, DonTheBreton#0276, Pretty good for two days I think.
+29 Jan 2017 05:05:02 : LimitlessMc, mainchat, Lightning#6734, yea looks really nice
+29 Jan 2017 05:05:26 : LimitlessMc, mainchat, DonTheBreton#0276, Really got to do something with the warehouse there on the right to tone down the gray
+29 Jan 2017 05:06:03 : LimitlessMc, mainchat, DonTheBreton#0276, Then the port  area
+29 Jan 2017 05:29:38 : None, Direct Message with TherminatorX, TherminatorX#6644, ;gambling
+29 Jan 2017 05:29:45 : None, Direct Message with TherminatorX, TherminatorX#6644, ;gamble
+29 Jan 2017 05:29:45 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You need to gamble atleast 17165 XP
+29 Jan 2017 05:29:51 : None, Direct Message with TherminatorX, TherminatorX#6644, ;train
+29 Jan 2017 05:29:51 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You **Lost** to a Level 89 **Metang** (35% to beat)
+You **Beat** a Level 99 **Voltorb** for 3465 XP (32% to beat)
+You **Beat** a Level 92 **Buizel** for 3339 XP (34% to beat)
+You **Lost** to a Level 117 **Ursaring** (27% to beat)
+You **Lost** to a Level 99 **Scraggy** (32% to beat)
+You **Beat** a Level 58 **Escavalier** for 2295 XP (55% to beat)
+You **Lost** to a Level 98 **Cranidos** (32% to beat)
+You **Beat** a Level 43 **Rattata** for 1309 XP (74% to beat)
+You **Beat** a Level 37 **Furret** for 691 XP (86% to beat)
+You **Lost** to a Level 118 **Ninetales** (27% to beat)
+You **Lost** to a Level 97 **Slakoth** (32% to beat)
+You **Lost** to a Level 116 **Rayquaza** (27% to beat)
+You **Beat** a Level 72 **Zoroark** for 2844 XP (44% to beat)
+You **Lost** to a Level 110 **Wooper** (29% to beat)
+You **Lost** to a Level 116 **Lanturn** (27% to beat)
+You **Beat** a Level 65 **Scyther** for 2599 XP (49% to beat)
+You **Lost** to a Level 41 **Grotle** (78% to beat)
+29 Jan 2017 05:29:51 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You trained for 16542 XP!
+29 Jan 2017 05:31:35 : LimitlessMc, mainchat, Crystal4209#4698, very quiet
+29 Jan 2017 05:33:33 : LimitlessMc, mainchat, Lightning#6734, ye
+29 Jan 2017 05:34:09 : LimitlessMc, mainchat, Crystal4209#4698, and why is the chat called the dark side now xD
+29 Jan 2017 05:34:34 : LimitlessMc, mainchat, Lightning#6734, dunno lol
+29 Jan 2017 05:35:09 : LimitlessMc, mainchat, Crystal4209#4698, family is to loud ;-;
+29 Jan 2017 05:35:18 : LimitlessMc, mainchat, Lightning#6734, rip
+29 Jan 2017 05:35:49 : LimitlessMc, mainchat, TherminatorX#6644, Am just here to listen to people talk
+29 Jan 2017 05:36:03 : LimitlessMc, mainchat, Crystal4209#4698, and my room is on the other side of the house from the lounge room ;-;
+29 Jan 2017 05:36:20 : LimitlessMc, mainchat, Crystal4209#4698, 🥗 theres a salad
+29 Jan 2017 05:36:25 : Pulse, botchat, Lightning#6734, .reload
+29 Jan 2017 05:36:55 : LimitlessMc, mainchat, TherminatorX#6644, 🥗 green salad
+29 Jan 2017 05:37:25 : LimitlessMc, mainchat, Tetra#4593, Uh god
+29 Jan 2017 05:38:37 : LimitlessMc, mainchat, TherminatorX#6644, Yes my child?
+29 Jan 2017 05:38:55 : Pulse, botchat, Lightning#6734, ._reload
+29 Jan 2017 05:39:36 : Pulse, botchat, Lightning#6734, .relog
+29 Jan 2017 05:40:06 : LimitlessMc, mainchat, Crystal4209#4698, who spilled the salt
+29 Jan 2017 05:42:06 : LimitlessMc, mainchat, Crystal4209#4698, its a picture..
+29 Jan 2017 05:42:14 : LimitlessMc, mainchat, Crystal4209#4698, the emoji is on my server
+29 Jan 2017 05:42:34 : LimitlessMc, mainchat, Lightning#6734, 
+29 Jan 2017 05:43:18 : Pulse, mainchat, Lightning#6734, 
+29 Jan 2017 05:43:39 : LimitlessMc, mainchat, Crystal4209#4698, also jay you sound tired
+29 Jan 2017 05:45:52 : LimitlessMc, mainchat, Jay113355#4999, <:salt:275139359324241921>
+29 Jan 2017 05:48:59 : LimitlessMc, mainchat, Crystal4209#4698, <:salt:275139359324241921>
+29 Jan 2017 05:50:38 : LimitlessMc, mainchat, Tetra#4593, https://i.imgflip.com/1d89r1.jpg
+29 Jan 2017 05:50:58 : LimitlessMc, mainchat, Lightning#6734, wat
+29 Jan 2017 05:51:53 : LimitlessMc, botchat, Lightning#6734, ;train
+29 Jan 2017 05:51:53 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 14 **Pancham** (28% to beat)
+You **Beat** a Level 4 **Musharna** for 64 XP (90% to beat)
+You **Beat** a Level 9 **Drilbur** for 355 XP (44% to beat)
+You Find a **Pokeloot** worth 37 XP
+29 Jan 2017 05:51:53 : LimitlessMc, botchat, Botfuzzy77#2209, You Have Leveled up from **8** to **9**!
+29 Jan 2017 05:51:53 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 456 XP!
+29 Jan 2017 05:51:56 : LimitlessMc, botchat, Lightning#6734, WEW
+29 Jan 2017 05:52:47 : Pulse, mainchat, Lightning#6734, bet
+29 Jan 2017 05:52:47 : Pulse, mainchat, LightBot#4090, nahh
+29 Jan 2017 05:53:06 : LimitlessMc, botchat, Lightning#6734, bet
+29 Jan 2017 05:53:06 : LimitlessMc, botchat, LightBot#4090, nahh
+29 Jan 2017 05:53:19 : LimitlessMc, botchat, Lightning#6734, wut
+29 Jan 2017 05:53:19 : LimitlessMc, botchat, LightBot#4090, Hek
+29 Jan 2017 05:55:22 : LimitlessMc, mainchat, Crystal4209#4698, how is this looking so far might change some blocks
+29 Jan 2017 05:56:04 : LimitlessMc, mainchat, Crystal4209#4698, its going by the design of my shine that i made a while back
+29 Jan 2017 06:26:05 : LimitlessMc, mainchat, DicloniusPonyta#6564, anyone here good with clothes designs?
+29 Jan 2017 06:28:12 : LimitlessMc, mainchat, Crystal4209#4698, probs why?
+29 Jan 2017 06:28:28 : LimitlessMc, mainchat, DicloniusPonyta#6564, i need help designing my characters clothes
+29 Jan 2017 06:28:52 : LimitlessMc, mainchat, DicloniusPonyta#6564, the styles are kinda hard to make without copying someone elses '
+29 Jan 2017 06:29:24 : LimitlessMc, mainchat, DicloniusPonyta#6564, https://images.discordapp.net/.eJwNyEEOgyAQAMC_8ABgKSvqtb_wYigSNAGxy3Jp07_XyxzmKzplMYud-WqzUtvRQqVNNq7kU5Sp1pSjv44mQy3KM_uwl3hyU8bpwY0IeDMZO-jpLgQ7PrQBRIPgwCju5ZVpzZ2Ctn35POGdSySssKLW8jqT-P0Bickqgg.dZALhIbcAY0LlgPBSpljRXONtKI
+29 Jan 2017 06:29:27 : LimitlessMc, mainchat, DicloniusPonyta#6564, kinda like this^
+29 Jan 2017 06:29:58 : LimitlessMc, mainchat, Crystal4209#4698, yeah im not the person to ask xD
+29 Jan 2017 06:30:18 : LimitlessMc, mainchat, DicloniusPonyta#6564, Old English and feudal japanese fusion is what it is
+29 Jan 2017 06:30:43 : LimitlessMc, mainchat, DicloniusPonyta#6564, rip ;-;
+29 Jan 2017 06:54:31 : LimitlessMc, mainchat, Tetra#4593, Dropping a new beat soon.
+29 Jan 2017 06:58:44 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;train
+29 Jan 2017 06:58:44 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 64 **Serperior** (32% to beat)
+You **Lost** to a Level 30 **Froslass** (68% to beat)
+You **Lost** to a Level 32 **Victini** (64% to beat)
+You **Beat** a Level 37 **Panpour** for 1462 XP (55% to beat)
+You **Beat** a Level 74 **Cresselia** for 2371 XP (27% to beat)
+You **Beat** a Level 76 **Gothita** for 2395 XP (26% to beat)
+You **Lost** to a Level 75 **Swadloon** (27% to beat)
+You **Lost** to a Level 80 **Pinsir** (25% to beat)
+You **Lost** to a Level 79 **Armaldo** (25% to beat)
+You **Lost** to a Level 40 **Caterpie** (51% to beat)
+You **Beat** a Level 67 **Cyndaquil** for 2276 XP (30% to beat)
+29 Jan 2017 06:58:44 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 8504 XP!
+29 Jan 2017 06:58:52 : LimitlessMc, botchat, MrMudkipKipperten#8916, ;pokedex
+29 Jan 2017 06:58:52 : LimitlessMc, botchat, Botfuzzy77#2209, Your Pokedex is 29.59% complete!
+29 Jan 2017 07:00:06 : LimitlessMc, botchat, Tetra#4593, ;search DJ Tetra - Conquest
+29 Jan 2017 07:03:35 : LimitlessMc, mainchat, Shy#1903, So I was just strolling thru the ocean and found this
+29 Jan 2017 07:03:36 : LimitlessMc, mainchat, Shy#1903, https://gyazo.com/6a64d6116c3893b3c58167e05e708ba0
+29 Jan 2017 07:04:12 : LimitlessMc, mainchat, Tetra#4593, That's my best friend! I've been looking all over for her!
+29 Jan 2017 07:04:30 : None, Direct Message with TherminatorX, TherminatorX#6644, ;train
+29 Jan 2017 07:04:30 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You **Beat** a Level 81 **Garbodor** for 3097 XP (39% to beat)
+You **Lost** to a Level 46 **Ferroseed** (69% to beat)
+You **Beat** a Level 37 **Wailord** for 691 XP (86% to beat)
+You **Lost** to a Level 107 **Aerodactyl** (29% to beat)
+You **Lost** to a Level 50 **Manaphy** (64% to beat)
+You **Lost** to a Level 97 **Sceptile** (32% to beat)
+You **Beat** a Level 86 **Hitmonlee** for 3214 XP (37% to beat)
+You **Beat** a Level 66 **Gallade** for 2637 XP (48% to beat)
+You **Beat** a Level 32 **Delibird** for 512 XP (90% to beat)
+You **Lost** to a Level 95 **Haxorus** (33% to beat)
+You **Beat** a Level 97 **Klefki** for 3430 XP (32% to beat)
+You **Lost** to a Level 44 **Ekans** (72% to beat)
+You **Lost** to a Level 106 **Glalie** (30% to beat)
+You **Lost** to a Level 122 **Eelektross** (26% to beat)
+You **Lost** to a Level 127 **Persian** (25% to beat)
+You **Lost** to a Level 76 **Gyarados** (42% to beat)
+You **Beat** a Level 106 **Duosion** for 3574 XP (30% to beat)
+You Find a **Pokeloot** worth 13732 XP
+29 Jan 2017 07:04:30 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You trained for 30887 XP!
+29 Jan 2017 07:04:34 : LimitlessMc, mainchat, Crystal4209#4698, lel
+29 Jan 2017 07:04:44 : LimitlessMc, mainchat, Shy#1903, lol
+29 Jan 2017 07:04:54 : LimitlessMc, mainchat, Tetra#4593, https://soundcloud.com/djtetra/bomb-the-base
+29 Jan 2017 07:04:54 : None, Direct Message with TherminatorX, TherminatorX#6644, ;gamble 18000
+29 Jan 2017 07:04:54 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You have gained back your offering and more!
+29 Jan 2017 07:05:03 : None, Direct Message with TherminatorX, TherminatorX#6644, ;level
+29 Jan 2017 07:05:03 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **Name**: *TherminatorX*
+**Level**: 64
+29 Jan 2017 07:05:03 : None, Direct Message with TherminatorX, Botfuzzy77#2209, 
+29 Jan 2017 07:05:03 : None, Direct Message with TherminatorX, Botfuzzy77#2209, **XP**: 98655/274625
+**Boss Takedowns**: 33
+**Most Dmg in an Attack**: 64152
+29 Jan 2017 07:05:16 : LimitlessMc, mainchat, Shy#1903, time to get a lead and name tag 😃
+29 Jan 2017 07:08:44 : LimitlessMc, mainchat, Tetra#4593, I thought you said it was time to get laid and a name tag
+29 Jan 2017 07:09:17 : LimitlessMc, mainchat, Shy#1903, Lmfao
+29 Jan 2017 07:09:35 : LimitlessMc, mainchat, Tetra#4593, I was like "wtf is this fucker into?"
+29 Jan 2017 07:11:06 : LimitlessMc, mainchat, DicloniusPonyta#6564, bondage
+29 Jan 2017 07:11:18 : LimitlessMc, mainchat, DicloniusPonyta#6564, it seems
+29 Jan 2017 07:12:02 : LimitlessMc, mainchat, Tetra#4593, https://soundcloud.com/djtetra/space
+29 Jan 2017 07:25:17 : LimitlessMc, mainchat, 123abc#0718, @Jay113355 any chance you can help me on the server I can't interact with anything, a moderator said the server does not see me or something cause I don't show up on /seen
+29 Jan 2017 07:25:43 : LimitlessMc, mainchat, Jay113355#4999, What launcher do you use
+29 Jan 2017 07:25:49 : LimitlessMc, mainchat, 123abc#0718, I tried 2 launchers
+29 Jan 2017 07:25:54 : LimitlessMc, mainchat, 123abc#0718, the normal minecraft one and the pixelmon one
+29 Jan 2017 07:27:20 : LimitlessMc, mainchat, Jay113355#4999, Are you logging in with a email or username? (In the launchers)
+29 Jan 2017 07:27:29 : LimitlessMc, mainchat, 123abc#0718, email
+29 Jan 2017 07:27:34 : LimitlessMc, mainchat, 123abc#0718, email/password
+29 Jan 2017 07:27:44 : LimitlessMc, mainchat, Jay113355#4999, Username?
+29 Jan 2017 07:27:47 : LimitlessMc, mainchat, 123abc#0718, Epimyst
+29 Jan 2017 07:31:48 : LimitlessMc, mainchat, Jay113355#4999, There
+29 Jan 2017 07:31:55 : LimitlessMc, mainchat, Jay113355#4999, done
+29 Jan 2017 07:32:04 : LimitlessMc, mainchat, Jay113355#4999, reload
+29 Jan 2017 07:32:14 : LimitlessMc, mainchat, 123abc#0718, ok
+29 Jan 2017 07:33:06 : LimitlessMc, mainchat, Shy#1903, Jay why r u so smart
+29 Jan 2017 07:33:19 : LimitlessMc, mainchat, Jay113355#4999, Cause i worked to be smart
+29 Jan 2017 07:34:16 : LimitlessMc, mainchat, Shy#1903, I see
+29 Jan 2017 07:34:24 : LimitlessMc, mainchat, Shy#1903, So hard work pays off in the end
+29 Jan 2017 07:34:42 : LimitlessMc, mainchat, Crystal4209#4698, it always has..
+29 Jan 2017 08:08:22 : LimitlessMc, mainchat, StubbyMuffins#1053, why mu name green
+29 Jan 2017 08:13:34 : LimitlessMc, mainchat, Crystal4209#4698, lightning wanted to be green so i think jay made all admins green
+29 Jan 2017 08:13:56 : LimitlessMc, mainchat, StubbyMuffins#1053, but i liked it before QQ lel
+29 Jan 2017 08:14:08 : LimitlessMc, mainchat, StubbyMuffins#1053, now i all i think of is turtles
+29 Jan 2017 08:14:11 : LimitlessMc, mainchat, StubbyMuffins#1053, xD
+29 Jan 2017 08:14:19 : LimitlessMc, mainchat, Crystal4209#4698, xD
+29 Jan 2017 08:54:53 : LimitlessMc, mainchat, Lightning#6734, enjoy my greenness
+29 Jan 2017 09:37:52 : Unity Of Nirvana, general, Crystal4209#4698, oh yeah i gotta go to bed at 10pm tonight mum and dad are shortening my time for when school starts :L
+29 Jan 2017 10:05:58 : LimitlessMc, botchat, Crystal4209#4698, ;train
+29 Jan 2017 10:05:58 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 28 **Swoobat** for 798 XP (76% to beat)
+You **Lost** to a Level 80 **Metapod** (26% to beat)
+You **Beat** a Level 85 **Sharpedo** for 2569 XP (25% to beat)
+You **Lost** to a Level 79 **Karrablast** (27% to beat)
+You **Lost** to a Level 52 **Nidoking** (41% to beat)
+You **Lost** to a Level 44 **Klang** (48% to beat)
+You **Lost** to a Level 50 **Infernape** (43% to beat)
+You **Lost** to a Level 76 **Boldore** (28% to beat)
+You **Lost** to a Level 65 **Stunky** (33% to beat)
+You **Lost** to a Level 62 **Gligar** (34% to beat)
+You **Beat** a Level 62 **Wartortle** for 2247 XP (34% to beat)
+You **Lost** to a Level 52 **Musharna** (41% to beat)
+You use a **Lucky Egg** to gain more XP!
+29 Jan 2017 10:05:58 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 8421 XP!
+29 Jan 2017 10:06:13 : LimitlessMc, botchat, Crystal4209#4698, 8k not bad :L
+29 Jan 2017 10:06:31 : LimitlessMc, botchat, Crystal4209#4698, ;pokedex
+29 Jan 2017 10:06:31 : LimitlessMc, botchat, Botfuzzy77#2209, Your Pokedex is 36.7% complete!
+29 Jan 2017 10:39:08 : GetPlebd, weeaboo-chat, kawaii clorox desu#9784, zxcvbnm ,./;'[]1234567890-\
+29 Jan 2017 11:35:45 : LimitlessMc, botchat, Bakafish#8693, ;train
+29 Jan 2017 11:35:45 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 38 **Venipede** for 1510 XP (46% to beat)
+You **Beat** a Level 34 **Cacnea** for 1358 XP (51% to beat)
+You **Beat** a Level 62 **Kabuto** for 2009 XP (28% to beat)
+You **Lost** to a Level 63 **Uxie** (27% to beat)
+You **Lost** to a Level 59 **Cloyster** (29% to beat)
+You **Lost** to a Level 52 **Starly** (33% to beat)
+You **Lost** to a Level 34 **Fletchinder** (51% to beat)
+You **Lost** to a Level 69 **Noivern** (25% to beat)
+You **Lost** to a Level 51 **Sudowoodo** (34% to beat)
+You **Beat** a Level 25 **Registeel** for 840 XP (70% to beat)
+You use a **Lucky Egg** to gain more XP!
+You Find a **Pokeloot** worth 2333 XP
+29 Jan 2017 11:35:45 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 10909 XP!
+29 Jan 2017 12:13:20 : LimitlessMc, botchat, 🌪🐳Cat God🐉☔️#7058, ;train
+29 Jan 2017 12:13:20 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 45 **Bastiodon** for 1649 XP (35% to beat)
+You **Beat** a Level 46 **Gligar** for 1669 XP (34% to beat)
+You **Beat** a Level 60 **Jellicent** for 1877 XP (26% to beat)
+You **Lost** to a Level 42 **Wobbuffet** (38% to beat)
+You **Lost** to a Level 50 **Braixen** (32% to beat)
+You **Lost** to a Level 55 **Goodra** (29% to beat)
+You **Lost** to a Level 48 **Bidoof** (33% to beat)
+You **Beat** a Level 43 **Sylveon** for 1607 XP (37% to beat)
+You **Lost** to a Level 32 **Palpitoad** (50% to beat)
+29 Jan 2017 12:13:20 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 6802 XP!
+29 Jan 2017 12:13:24 : LimitlessMc, botchat, 🌪🐳Cat God🐉☔️#7058, ;level
+29 Jan 2017 12:13:24 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *🌟💖Resolate💖🌟*
+**Level**: 32
+29 Jan 2017 12:13:24 : LimitlessMc, botchat, Botfuzzy77#2209, 
+29 Jan 2017 12:13:24 : LimitlessMc, botchat, Botfuzzy77#2209, **XP**: 6991/35937
+**Boss Takedowns**: 9
+**Most Dmg in an Attack**: 7624
+29 Jan 2017 12:13:28 : LimitlessMc, botchat, 🌪🐳Cat God🐉☔️#7058, ;ranking
+29 Jan 2017 12:13:28 : LimitlessMc, botchat, Botfuzzy77#2209, :first_place: **TherminatorX** Level **64**
+:second_place: **DanTurboX** Level **54**
+:third_place: **Wertfuzzy77** Level **54**
+:medal: jjtwilefc Level 51
+:medal: MoonWolf Level 46
+:medal: Crystal4209 Level 43
+:medal: MrMudkipKipperten Level 41
+:medal: theOnlyJuan Level 36
+:medal: Bakafish Level 35
+:medal: 🌟💖Resolate💖🌟 Level 32
+29 Jan 2017 12:56:40 : LimitlessMc, botchat, DanTurboX#4833, ;server
+29 Jan 2017 12:56:40 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+29 Jan 2017 12:56:40 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 12 players out of 100
+ *Ping*: 116.297 ms
+ *MC Version*: 1.10.2
+29 Jan 2017 12:56:40 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.1
+29 Jan 2017 12:56:40 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *JaegerOrux, jjtwilefc, rambo2002xl, crystal4209, LolopFace, Jabulla, theprotroller23, Luna_Eclipse123, ShuckDuckmc, Sunstrikeh_614, lukebatt, InkTale_Sam...*
+29 Jan 2017 13:07:30 : LimitlessMc, mainchat, xCoD4-Rampagex#4494, hey guys
+29 Jan 2017 13:08:39 : LimitlessMc, mainchat, Zorua#5017, Hi
+29 Jan 2017 13:09:16 : LimitlessMc, botchat, MoonWolf#8885, ;train
+29 Jan 2017 13:09:16 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 27 **Litwick** (85% to beat)
+You **Beat** a Level 27 **Bulbasaur** for 545 XP (85% to beat)
+You **Beat** a Level 28 **Hydreigon** for 657 XP (82% to beat)
+You **Lost** to a Level 74 **Venonat** (31% to beat)
+You **Lost** to a Level 56 **Mismagius** (41% to beat)
+You **Beat** a Level 66 **Gothita** for 2397 XP (34% to beat)
+You **Lost** to a Level 69 **Natu** (33% to beat)
+You **Lost** to a Level 90 **Jolteon** (25% to beat)
+You **Beat** a Level 86 **Regigigas** for 2695 XP (26% to beat)
+You **Lost** to a Level 36 **Electrode** (63% to beat)
+You **Beat** a Level 59 **Arbok** for 2245 XP (38% to beat)
+You **Beat** a Level 48 **Budew** for 1916 XP (47% to beat)
+You **Lost** to a Level 78 **Lugia** (29% to beat)
+You use a **Lucky Egg** to gain more XP!
+29 Jan 2017 13:09:16 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 15682 XP!
+29 Jan 2017 13:09:23 : LimitlessMc, botchat, MoonWolf#8885, ;join
+29 Jan 2017 13:09:39 : LimitlessMc, botchat, MoonWolf#8885, ;playlist KenAshcorp
+29 Jan 2017 13:09:47 : LimitlessMc, botchat, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+29 Jan 2017 13:13:48 : LimitlessMc, botchat, MoonWolf#8885, ;loop
+29 Jan 2017 13:13:49 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*Ken Ashcorp - The Legend Never Dies*' **1** more times
+29 Jan 2017 13:34:58 : LimitlessMc, mainchat, 『anonymous』#8957, rip
+29 Jan 2017 14:12:41 : LimitlessMc, botchat, Crystal4209#4698, ;train
+29 Jan 2017 14:12:42 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 42 **Corsola** for 1679 XP (51% to beat)
+You **Lost** to a Level 62 **Larvitar** (34% to beat)
+You **Beat** a Level 24 **Castform** for 358 XP (89% to beat)
+You **Lost** to a Level 44 **Beheeyem** (48% to beat)
+You **Lost** to a Level 34 **Kadabra** (63% to beat)
+You **Beat** a Level 41 **Karrablast** for 1636 XP (52% to beat)
+You **Lost** to a Level 77 **Wigglytuff** (27% to beat)
+You **Beat** a Level 34 **Mismagius** for 1264 XP (63% to beat)
+You **Lost** to a Level 45 **Swampert** (47% to beat)
+You **Lost** to a Level 75 **Sunflora** (28% to beat)
+You **Beat** a Level 31 **Slowking** for 1054 XP (69% to beat)
+You **Lost** to a Level 66 **Drifloon** (32% to beat)
+You use a **Lucky Egg** to gain more XP!
+29 Jan 2017 14:12:42 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 8986 XP!
+29 Jan 2017 14:54:35 : Unity Of Nirvana, general, Third_Worm#4804, Mhm
+29 Jan 2017 14:54:41 : Unity Of Nirvana, general, Third_Worm#4804, Thanks!
+29 Jan 2017 14:55:02 : Unity Of Nirvana, general, Third_Worm#4804, I was forced off yesterday sorry about that crystal
+29 Jan 2017 15:16:37 : Unity Of Nirvana, general, Crystal4209#4698, Nah it's ok well anyway I will give you the badges tomorrow
+29 Jan 2017 15:17:47 : Unity Of Nirvana, general, Crystal4209#4698, Now I need to go back to sleep being forced to wake up at 6:30am to get back in the habit for school
+29 Jan 2017 16:37:27 : LimitlessMc, mainchat, Tetra#4593, GG
+29 Jan 2017 16:45:07 : LimitlessMc, botchat, theOnlyJuan#9357, ;cd
+29 Jan 2017 16:45:07 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You can Train right now!
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+29 Jan 2017 16:45:12 : LimitlessMc, botchat, theOnlyJuan#9357, ;train
+29 Jan 2017 16:45:12 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 22 **Zebstrika** for 523 XP (81% to beat)
+You **Beat** a Level 36 **Mothim** for 1440 XP (50% to beat)
+You **Beat** a Level 50 **Simisear** for 1843 XP (36% to beat)
+You **Lost** to a Level 58 **Pangoro** (31% to beat)
+You **Beat** a Level 23 **Stunky** for 626 XP (78% to beat)
+You **Beat** a Level 21 **Carracosta** for 411 XP (85% to beat)
+You **Lost** to a Level 61 **Ursaring** (29% to beat)
+You **Lost** to a Level 37 **Gallade** (48% to beat)
+You **Beat** a Level 30 **Cranidos** for 1152 XP (60% to beat)
+You **Lost** to a Level 48 **Mawile** (37% to beat)
+29 Jan 2017 16:45:12 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 5995 XP!
+29 Jan 2017 16:45:31 : LimitlessMc, botchat, theOnlyJuan#9357, ;gamble 3200
+29 Jan 2017 16:45:31 : LimitlessMc, botchat, Botfuzzy77#2209, You have lost your offering...
+29 Jan 2017 16:45:34 : LimitlessMc, botchat, theOnlyJuan#9357, Rip
+29 Jan 2017 16:45:45 : LimitlessMc, botchat, theOnlyJuan#9357, ;pokeboss
+29 Jan 2017 16:45:45 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Medium Boss Pokemon** =-
+*Name*: Chesnaught
+*Health*: 42604/42800 (99.54%)
+*Level*: 40
+Last Combo:
+:regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f: :regional_indicator_i: :regional_indicator_f: :regional_indicator_f: :regional_indicator_f:
+:x: :white_check_mark: :x: :x: :white_check_mark: :x: :x: :x:
+29 Jan 2017 16:45:45 : LimitlessMc, botchat, Botfuzzy77#2209, 
+29 Jan 2017 16:45:45 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **theOnlyJuan** with **196** damage
+29 Jan 2017 16:45:55 : LimitlessMc, mainchat, ssj4blake#1490, @DarkNinja458 my computer froze
+29 Jan 2017 16:46:07 : LimitlessMc, botchat, theOnlyJuan#9357, ;pokebattle dfddiddd
+29 Jan 2017 16:46:07 : LimitlessMc, botchat, Botfuzzy77#2209, Level 40 Boss **Chesnaught** in Medium has 42604 health left.
+29 Jan 2017 16:46:07 : LimitlessMc, botchat, Botfuzzy77#2209, 
+29 Jan 2017 16:46:07 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_d: :regional_indicator_f: :regional_indicator_d: :regional_indicator_d: :regional_indicator_i: :regional_indicator_d: :regional_indicator_d: :regional_indicator_d:
+:x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :x: :white_check_mark:
+29 Jan 2017 16:46:07 : LimitlessMc, botchat, Botfuzzy77#2209, Its Sort-Of Effective
+Rival Bonus!
+STAB bonus damage for Ice type (1x)
+Your moves did **552** damage
+29 Jan 2017 16:46:07 : LimitlessMc, botchat, Botfuzzy77#2209, Level 40 Boss **Chesnaught** has 42052 health left.
+29 Jan 2017 16:46:11 : LimitlessMc, mainchat, ssj4blake#1490, I had to restart it
+29 Jan 2017 16:54:22 : Unity Of Nirvana, general, Alpha Penguin#3869, HAPPY FUKN BIRTHDAY @#SHIP_CrystalFuzzy42077
+29 Jan 2017 16:54:59 : Unity Of Nirvana, general, Alpha Penguin#3869, Its 1am
+29 Jan 2017 16:55:04 : Unity Of Nirvana, general, Alpha Penguin#3869, And i have classes
+29 Jan 2017 16:55:05 : Unity Of Nirvana, general, Alpha Penguin#3869, Help
+29 Jan 2017 16:55:06 : Unity Of Nirvana, general, Alpha Penguin#3869, Me
+29 Jan 2017 16:56:49 : LimitlessMc, mainchat, Alpha Penguin#3869, Happy Birthday @Alpha Penguin wooo
+29 Jan 2017 16:57:09 : LimitlessMc, mainchat, Alpha Penguin#3869, *sings happy birthday by myself*
+29 Jan 2017 16:59:14 : LimitlessMc, botchat, Alpha Penguin#3869, ;server
+29 Jan 2017 16:59:15 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+29 Jan 2017 16:59:15 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 21 players out of 100
+ *Ping*: 115.444 ms
+ *MC Version*: 1.10.2
+29 Jan 2017 16:59:15 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.1
+29 Jan 2017 16:59:15 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *CaptainChunk, Cryotrees, ShuckDuckmc, jjtwilefc, gimmiadimond, shypokemonrock11, Dark_Ninja458, TheBlitzGamer101, TheWolfGamer480, MattPhilC, AussieAge, _LightinGamer30_...*
+29 Jan 2017 16:59:45 : Unity Of Nirvana, general, Alpha Penguin#3869, 630 curfew later
+29 Jan 2017 16:59:46 : Unity Of Nirvana, general, Alpha Penguin#3869, Help
+29 Jan 2017 16:59:48 : Unity Of Nirvana, general, Alpha Penguin#3869, Me
+29 Jan 2017 17:00:10 : Unity Of Nirvana, general, Alpha Penguin#3869, Sdjdha
+29 Jan 2017 17:00:11 : Unity Of Nirvana, general, Alpha Penguin#3869, Cgldjdd
+29 Jan 2017 17:09:47 : LimitlessMc, botchat, MoonWolf#8885, ;train
+29 Jan 2017 17:09:47 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 27 **Mothim** (85% to beat)
+You **Lost** to a Level 63 **Musharna** (36% to beat)
+You **Lost** to a Level 83 **Duosion** (27% to beat)
+You **Beat** a Level 31 **Shinx** for 949 XP (74% to beat)
+You **Lost** to a Level 72 **Beedrill** (31% to beat)
+You **Lost** to a Level 87 **Axew** (26% to beat)
+You **Beat** a Level 27 **Golett** for 545 XP (85% to beat)
+You **Beat** a Level 30 **Breloom** for 858 XP (76% to beat)
+You **Beat** a Level 58 **Mawile** for 2220 XP (39% to beat)
+You **Beat** a Level 49 **Metang** for 1952 XP (46% to beat)
+You **Lost** to a Level 50 **Spritzee** (46% to beat)
+You **Lost** to a Level 55 **Vanillish** (41% to beat)
+You **Lost** to a Level 70 **Charizard** (32% to beat)
+You use a **Lucky Egg** to gain more XP!
+29 Jan 2017 17:09:47 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 9786 XP!
+29 Jan 2017 17:17:18 : None, Direct Message with TherminatorX, TherminatorX#6644, ;train
+29 Jan 2017 17:17:18 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You **Beat** a Level 96 **Chikorita** for 3413 XP (33% to beat)
+You **Lost** to a Level 72 **Cyndaquil** (44% to beat)
+You **Lost** to a Level 118 **Scizor** (27% to beat)
+You **Beat** a Level 62 **Arcanine** for 2477 XP (51% to beat)
+You **Lost** to a Level 123 **Snubbull** (26% to beat)
+You **Beat** a Level 38 **Slaking** for 808 XP (84% to beat)
+You **Lost** to a Level 90 **Gardevoir** (35% to beat)
+You **Beat** a Level 56 **Gallade** for 2194 XP (57% to beat)
+You **Lost** to a Level 108 **Krookodile** (29% to beat)
+You **Lost** to a Level 67 **Torterra** (47% to beat)
+You **Lost** to a Level 90 **Stunky** (35% to beat)
+You **Lost** to a Level 106 **Audino** (30% to beat)
+You **Lost** to a Level 64 **Glalie** (50% to beat)
+You **Beat** a Level 82 **Machoke** for 3121 XP (39% to beat)
+You **Lost** to a Level 126 **Grotle** (25% to beat)
+You **Beat** a Level 62 **Musharna** for 2477 XP (51% to beat)
+You **Lost** to a Level 118 **Wynaut** (27% to beat)
+You use a **Lucky Egg** to gain more XP!
+You Find a **Pokeloot** worth 13732 XP
+29 Jan 2017 17:17:18 : None, Direct Message with TherminatorX, Botfuzzy77#2209, You trained for 35467 XP!
+29 Jan 2017 17:40:44 : LimitlessMc, botchat, theOnlyJuan#9357, ;cd
+29 Jan 2017 17:40:44 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 268 seconds
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+29 Jan 2017 17:41:16 : LimitlessMc, botchat, theOnlyJuan#9357, ;pokebattle gfdgidgd
+29 Jan 2017 17:41:16 : LimitlessMc, botchat, Botfuzzy77#2209, Level 40 Boss **Chesnaught** in Medium has 42052 health left.
+29 Jan 2017 17:41:16 : LimitlessMc, botchat, Botfuzzy77#2209, 
+29 Jan 2017 17:41:16 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_g: :regional_indicator_f: :regional_indicator_d: :regional_indicator_g: :regional_indicator_i: :regional_indicator_d: :regional_indicator_g: :regional_indicator_d:
+:x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :x: :white_check_mark:
+29 Jan 2017 17:41:16 : LimitlessMc, botchat, Botfuzzy77#2209, Its a Critical Strike
+Its Sort-Of Effective
+Rival Bonus!
+STAB bonus damage for Ice type (1x)
+Your moves did **1335** damage
+29 Jan 2017 17:41:16 : LimitlessMc, botchat, Botfuzzy77#2209, Level 40 Boss **Chesnaught** has 40717 health left.
+29 Jan 2017 17:42:31 : LimitlessMc, mainchat, theOnlyJuan#9357, Happy bday man
+29 Jan 2017 17:42:39 : LimitlessMc, mainchat, theOnlyJuan#9357, @Alpha Penguin
+29 Jan 2017 17:42:56 : LimitlessMc, botchat, theOnlyJuan#9357, ;level
+29 Jan 2017 17:42:56 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *theOnlyJuan*
+**Level**: 36
+29 Jan 2017 17:42:56 : LimitlessMc, botchat, Botfuzzy77#2209, 
+29 Jan 2017 17:42:56 : LimitlessMc, botchat, Botfuzzy77#2209, **XP**: 8855/50653
+**Boss Takedowns**: 5
+**Most Dmg in an Attack**: 13069
+29 Jan 2017 17:43:10 : LimitlessMc, botchat, theOnlyJuan#9357, ;gamble 3200
+29 Jan 2017 17:43:10 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained back your offering and more!
+29 Jan 2017 17:43:22 : LimitlessMc, botchat, theOnlyJuan#9357, ;cd
+29 Jan 2017 17:43:22 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 109 seconds
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+29 Jan 2017 17:52:21 : LimitlessMc, botchat, theOnlyJuan#9357, ;cd
+29 Jan 2017 17:52:21 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You can Train right now!
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+29 Jan 2017 17:52:25 : LimitlessMc, botchat, theOnlyJuan#9357, ;train
+29 Jan 2017 17:52:25 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 47 **Oshawott** (38% to beat)
+You **Beat** a Level 23 **Masquerain** for 626 XP (78% to beat)
+You **Beat** a Level 71 **Abomasnow** for 2149 XP (25% to beat)
+You **Lost** to a Level 33 **Unown** (54% to beat)
+You **Lost** to a Level 31 **Sharpedo** (58% to beat)
+You **Beat** a Level 30 **Cinccino** for 1152 XP (60% to beat)
+You **Lost** to a Level 58 **Omastar** (31% to beat)
+You **Beat** a Level 23 **Liepard** for 626 XP (78% to beat)
+You **Beat** a Level 41 **Garbodor** for 1615 XP (43% to beat)
+You **Lost** to a Level 52 **Volbeat** (34% to beat)
+You Find a **Pokeloot** worth 2533 XP
+29 Jan 2017 17:52:25 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 8701 XP!
+29 Jan 2017 18:02:25 : LimitlessMc, botchat, theOnlyJuan#9357, ;pokedex
+29 Jan 2017 18:02:25 : LimitlessMc, botchat, Botfuzzy77#2209, Your Pokedex is 23.6% complete!
+29 Jan 2017 18:02:30 : LimitlessMc, botchat, theOnlyJuan#9357, ;server
+29 Jan 2017 18:02:30 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+29 Jan 2017 18:02:30 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 21 players out of 100
+ *Ping*: 124.318 ms
+ *MC Version*: 1.10.2
+29 Jan 2017 18:02:30 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.1
+29 Jan 2017 18:02:30 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *LolopFace, gimmiadimond, CaptainChunk, TheBlitzGamer101, HTGyoutube, brightborn, xXWeAreLegendXx, ShuckDuckmc, Mining_Zoroark, theprotroller23, Aidan3495, VisionDude43...*
+29 Jan 2017 18:16:10 : LimitlessMc, botchat, Dankdra#0051, ;train
+29 Jan 2017 18:16:10 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 43 **Uxie** (59% to beat)
+You **Lost** to a Level 94 **Panpour** (27% to beat)
+You **Beat** a Level 48 **Genesect** for 1912 XP (53% to beat)
+You **Lost** to a Level 92 **Carvanha** (27% to beat)
+You **Lost** to a Level 87 **Gigalith** (29% to beat)
+You **Beat** a Level 26 **Swinub** for 408 XP (90% to beat)
+You **Lost** to a Level 85 **Delcatty** (30% to beat)
+You **Beat** a Level 33 **Chimchar** for 927 XP (77% to beat)
+You **Lost** to a Level 44 **Roserade** (57% to beat)
+You **Beat** a Level 36 **Lanturn** for 1189 XP (70% to beat)
+You **Lost** to a Level 38 **Misdreavus** (67% to beat)
+You **Beat** a Level 28 **Rampardos** for 408 XP (90% to beat)
+You **Beat** a Level 35 **Aegislash** for 1107 XP (72% to beat)
+You **Beat** a Level 29 **Swanna** for 492 XP (87% to beat)
+You use a **Lucky Egg** to gain more XP!
+You Find a **Pokeloot** worth 7031 XP
+29 Jan 2017 18:16:10 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 16695 XP!
+29 Jan 2017 18:25:43 : LimitlessMc, botchat, DanTurboX#4833, ;server
+29 Jan 2017 18:25:44 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+29 Jan 2017 18:25:44 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 18 players out of 100
+ *Ping*: 115.813 ms
+ *MC Version*: 1.10.2
+29 Jan 2017 18:25:44 : LimitlessMc, botchat, Botfuzzy77#2209, **Pixelmon Version**: 5.0.1
+29 Jan 2017 18:25:44 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *Dark_Ninja458, LolopFace, brightborn, Aidan3495, VisionDude43, HTGyoutube, TheBlitzGamer101, ShuckDuckmc, xXWeAreLegendXx, TheWolfGamer480, LinkHyrul3, shypokemonrock11...*
+29 Jan 2017 18:41:48 : LimitlessMc, mainchat, DeadPool_Gamer#1571, https://discord.gg/q7HUg
+29 Jan 2017 19:02:39 : Cipher, music, Wertfuzzy77#0274, ;music
+29 Jan 2017 19:02:39 : Cipher, music, Botfuzzy77#2209, Version: 0.4.3
+Queue Length: 0
+Radio Mode: False
+Connected Channel: 🎧 Fuzzy Music
+Song Playing: Ken Ashcorp - Absolute Territory
+29 Jan 2017 19:02:42 : Cipher, music, Wertfuzzy77#0274, ;songs
+29 Jan 2017 19:02:42 : Cipher, music, Botfuzzy77#2209, Queue is Empty
+29 Jan 2017 19:03:22 : Cipher, music, Wertfuzzy77#0274, ;leave
+29 Jan 2017 19:03:24 : Cipher, music, Wertfuzzy77#0274, ;join
+29 Jan 2017 19:03:32 : Cipher, music, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=RDRwqTNLGDs
+29 Jan 2017 19:03:33 : Cipher, music, Botfuzzy77#2209, Added Adele - Don't You Remember (Live at Largo) to the queue
+29 Jan 2017 19:03:34 : LimitlessMc, botchat, MoonWolf#8885, ;train
+29 Jan 2017 19:03:34 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 27 **Dwebble** (85% to beat)
+You **Beat** a Level 77 **Corphish** for 2580 XP (29% to beat)
+You **Beat** a Level 81 **Milotic** for 2635 XP (28% to beat)
+You **Lost** to a Level 50 **Elekid** (46% to beat)
+You **Beat** a Level 64 **Gogoat** for 2357 XP (35% to beat)
+You **Beat** a Level 87 **Barboach** for 2707 XP (26% to beat)
+You **Lost** to a Level 55 **Meowstic** (41% to beat)
+You **Lost** to a Level 69 **Fletchinder** (33% to beat)
+You **Beat** a Level 25 **Rotom** for 368 XP (90% to beat)
+You **Lost** to a Level 38 **Shellos** (60% to beat)
+You **Lost** to a Level 78 **Deerling** (29% to beat)
+You **Lost** to a Level 89 **Psyduck** (25% to beat)
+You **Beat** a Level 43 **Archen** for 1711 XP (53% to beat)
+You Find a **Pokeloot** worth 5192 XP
+29 Jan 2017 19:03:34 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 17550 XP!
+29 Jan 2017 19:03:48 : Cipher, music, Wertfuzzy77#0274, ;Radio
+29 Jan 2017 19:03:48 : Cipher, music, Botfuzzy77#2209, Radio Mode: True
+29 Jan 2017 19:04:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+29 Jan 2017 19:04:05 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 59 **Alomomola** (45% to beat)
+You **Beat** a Level 55 **Victreebel** for 2199 XP (49% to beat)
+You **Beat** a Level 32 **Pangoro** for 675 XP (84% to beat)
+You **Beat** a Level 36 **Donphan** for 1080 XP (75% to beat)
+You **Lost** to a Level 95 **Electrike** (28% to beat)
+You **Beat** a Level 28 **Zigzagoon** for 432 XP (90% to beat)
+You **Beat** a Level 38 **Vespiquen** for 1250 XP (71% to beat)
+You **Beat** a Level 28 **Butterfree** for 432 XP (90% to beat)
+You **Lost** to a Level 67 **Munna** (40% to beat)
+You **Beat** a Level 60 **Armaldo** for 2376 XP (45% to beat)
+You **Beat** a Level 27 **Pidgey** for 432 XP (90% to beat)
+You **Beat** a Level 84 **Crawdaunt** for 2931 XP (32% to beat)
+You **Beat** a Level 57 **Scizor** for 2273 XP (47% to beat)
+You **Beat** a Level 33 **Minun** for 785 XP (81% to beat)
+You **Lost** to a Level 62 **Blaziken** (43% to beat)
+29 Jan 2017 19:04:05 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 14865 XP!
+29 Jan 2017 19:04:19 : LimitlessMc, botchat, Wertfuzzy77#0274, o
+29 Jan 2017 19:04:20 : LimitlessMc, botchat, Wertfuzzy77#0274, im green now
+29 Jan 2017 19:04:22 : LimitlessMc, botchat, Wertfuzzy77#0274, weird
+29 Jan 2017 19:04:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;levl
+29 Jan 2017 19:04:53 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+29 Jan 2017 19:04:53 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 54
+29 Jan 2017 19:04:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+29 Jan 2017 19:04:53 : LimitlessMc, botchat, Botfuzzy77#2209, **XP**: 21815/166375
+**Boss Takedowns**: 21
+**Most Dmg in an Attack**: 35084
+29 Jan 2017 19:04:56 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokeboss
+29 Jan 2017 19:04:56 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Hard Boss Pokemon** =-
+*Name*: Solrock
+*Health*: 70527/70875 (99.51%)
+*Level*: 70
+Last Combo:
+:regional_indicator_e: :regional_indicator_e: :regional_indicator_i: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_e: :regional_indicator_i:
+:x: :x: :white_check_mark: :x: :x: :x: :x: :x: :x: :white_check_mark:
+29 Jan 2017 19:04:56 : LimitlessMc, botchat, Botfuzzy77#2209, 
+29 Jan 2017 19:04:58 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **Wertfuzzy77** with **348** damage
+29 Jan 2017 19:05:04 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle ssissssssi
+29 Jan 2017 19:05:04 : LimitlessMc, botchat, Botfuzzy77#2209, Level 70 Boss **Solrock** in Hard has 70527 health left.
+29 Jan 2017 19:05:05 : LimitlessMc, botchat, Botfuzzy77#2209, 
+29 Jan 2017 19:05:05 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_s: :regional_indicator_s: :regional_indicator_i: :regional_indicator_s: :regional_indicator_s: :regional_indicator_s: :regional_indicator_s: :regional_indicator_s: :regional_indicator_s: :regional_indicator_i:
+:x: :x: :white_check_mark: :x: :x: :x: :x: :x: :x: :white_check_mark:
+29 Jan 2017 19:05:05 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+STAB bonus damage for Ice type (2x)
+Your moves did **184** damage
+29 Jan 2017 19:05:05 : LimitlessMc, botchat, Botfuzzy77#2209, Level 70 Boss **Solrock** has 70343 health left.
+29 Jan 2017 19:05:07 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+29 Jan 2017 19:06:03 : LimitlessMc, botchat, Dankdra#0051, ;train
+29 Jan 2017 19:06:04 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 607 seconds before you can train again.
+29 Jan 2017 19:06:20 : LimitlessMc, botchat, Dankdra#0051, ;pokebattle NNNNNNNNNN
+29 Jan 2017 19:06:20 : LimitlessMc, botchat, Botfuzzy77#2209, Level 70 Boss **Solrock** in Hard has 70343 health left.
+29 Jan 2017 19:06:20 : LimitlessMc, botchat, Botfuzzy77#2209, 
+29 Jan 2017 19:06:20 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :x: :x: :x: :x: :x: :x: :x:
+29 Jan 2017 19:06:20 : LimitlessMc, botchat, Botfuzzy77#2209, Your moves did **0** damage
+29 Jan 2017 19:06:21 : LimitlessMc, botchat, Botfuzzy77#2209, Level 70 Boss **Solrock** has 70343 health left.
+29 Jan 2017 19:06:26 : LimitlessMc, botchat, Dankdra#0051, 😄
+29 Jan 2017 19:06:38 : LimitlessMc, botchat, Wertfuzzy77#0274, lol, why would you try all N xD 2 of em are ice
+29 Jan 2017 19:06:49 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamble
+29 Jan 2017 19:06:49 : LimitlessMc, botchat, Botfuzzy77#2209, You need to gamble atleast 10399 XP
+29 Jan 2017 19:06:50 : LimitlessMc, botchat, Dankdra#0051, Idk
+29 Jan 2017 19:06:52 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamble 11000
+29 Jan 2017 19:06:52 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained back your offering and more!
+29 Jan 2017 19:06:57 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamble 11000
+29 Jan 2017 19:06:57 : LimitlessMc, botchat, Botfuzzy77#2209, You have lost your offering...
+29 Jan 2017 19:06:57 : LimitlessMc, botchat, Botfuzzy77#2209, You are exhausted from Gambling...
+29 Jan 2017 19:06:57 : LimitlessMc, botchat, Dankdra#0051, ;level
+29 Jan 2017 19:06:58 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *jjtwilefc*
+**Level**: 51
+29 Jan 2017 19:06:58 : LimitlessMc, botchat, Botfuzzy77#2209, 
+29 Jan 2017 19:06:58 : LimitlessMc, botchat, Botfuzzy77#2209, **XP**: 131143/140608
+**Boss Takedowns**: 20
+**Most Dmg in an Attack**: 13861
+29 Jan 2017 19:06:59 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+29 Jan 2017 19:07:00 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+29 Jan 2017 19:07:02 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 54
+29 Jan 2017 19:07:02 : LimitlessMc, botchat, Botfuzzy77#2209, 
+29 Jan 2017 19:07:02 : LimitlessMc, botchat, Botfuzzy77#2209, **XP**: 27315/166375
+**Boss Takedowns**: 21
+**Most Dmg in an Attack**: 35084
+29 Jan 2017 19:07:09 : LimitlessMc, botchat, Wertfuzzy77#0274, also ;settype <type>
+29 Jan 2017 19:07:16 : LimitlessMc, botchat, Dankdra#0051, ;gamble 131143
+29 Jan 2017 19:07:16 : LimitlessMc, botchat, Botfuzzy77#2209, You have lost your offering...
+29 Jan 2017 19:07:19 : LimitlessMc, botchat, Dankdra#0051, Yay
+29 Jan 2017 19:07:23 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+29 Jan 2017 19:07:25 : LimitlessMc, botchat, Wertfuzzy77#0274, rip all your xp
+29 Jan 2017 19:07:54 : LimitlessMc, botchat, Dankdra#0051, Yep
+29 Jan 2017 19:07:55 : LimitlessMc, botchat, Wertfuzzy77#0274, I mean, you did have a 45% chance to gain 1.5x that xp
+29 Jan 2017 19:07:59 : LimitlessMc, botchat, Wertfuzzy77#0274, so could have been worth
+29 Jan 2017 19:08:05 : LimitlessMc, botchat, Dankdra#0051, Could have
+29 Jan 2017 19:08:08 : LimitlessMc, botchat, Dankdra#0051, Wasn't
+29 Jan 2017 19:08:09 : Cipher, music, Wertfuzzy77#0274, ;song
+29 Jan 2017 19:08:10 : Cipher, music, Botfuzzy77#2209, **Name**: ADELE - 'Cold Shoulder'
+**Requester**: Radio
+**URL**: <https://www.youtube.com/watch?v=uGwH-x4VoH8>
+```py
+Time: 0:03:11
+Views: 26,399,540
+Likes: 43,885, 96.83%
+Dislikes: 1,438, 3.17%
+Skips: 0/0```
+29 Jan 2017 19:08:13 : LimitlessMc, botchat, Dankdra#0051, :L
+29 Jan 2017 19:08:15 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+29 Jan 2017 19:08:28 : LimitlessMc, botchat, Dankdra#0051, Ooo
+29 Jan 2017 19:08:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lookup Dankdra
+29 Jan 2017 19:08:33 : LimitlessMc, botchat, Wertfuzzy77#0274, ...
+29 Jan 2017 19:08:33 : LimitlessMc, botchat, Dankdra#0051, Just noticed your green
+29 Jan 2017 19:08:35 : LimitlessMc, botchat, Wertfuzzy77#0274, ya
+29 Jan 2017 19:08:41 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lookup jjtwilefc
+29 Jan 2017 19:08:43 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+29 Jan 2017 19:08:46 : LimitlessMc, botchat, Dankdra#0051, ;level
+29 Jan 2017 19:08:46 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *jjtwilefc*
+**Level**: 51
+29 Jan 2017 19:08:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+29 Jan 2017 19:08:47 : LimitlessMc, botchat, Botfuzzy77#2209, **XP**: 0/140608
+**Boss Takedowns**: 20
+**Most Dmg in an Attack**: 13861
+29 Jan 2017 19:08:51 : LimitlessMc, botchat, Dankdra#0051, Le
+29 Jan 2017 19:10:01 : LimitlessMc, botchat, Dankdra#0051, ;gif don't gamble
+29 Jan 2017 19:10:01 : LimitlessMc, botchat, Botfuzzy77#2209, http://giphy.com/gifs/stop-ntBfF9VMMUX8A
+29 Jan 2017 19:10:21 : LimitlessMc, botchat, Dankdra#0051, ;image don't gamble
+29 Jan 2017 19:10:23 : LimitlessMc, botchat, Botfuzzy77#2209, http://www.stpressbooks.com.sg/images/P/Don'tGambling-cvr.jpg
+29 Jan 2017 19:10:46 : LimitlessMc, botchat, Dankdra#0051, I should have read that book
+29 Jan 2017 19:11:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ^
+29 Jan 2017 19:11:37 : LimitlessMc, botchat, Botfuzzy77#2209, ^
+29 Jan 2017 19:11:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+29 Jan 2017 19:11:40 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 54
+29 Jan 2017 19:11:40 : LimitlessMc, botchat, Botfuzzy77#2209, 
+29 Jan 2017 19:11:40 : LimitlessMc, botchat, Botfuzzy77#2209, **XP**: 27315/166375
+**Boss Takedowns**: 21
+**Most Dmg in an Attack**: 35084
+29 Jan 2017 19:11:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cd
+29 Jan 2017 19:11:42 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You need to wait 3143 seconds
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+29 Jan 2017 19:11:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamble 11000
+29 Jan 2017 19:11:47 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained back your offering and more!
+29 Jan 2017 19:11:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamble 11000
+29 Jan 2017 19:11:50 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained back your offering and more!
+29 Jan 2017 19:11:50 : LimitlessMc, botchat, Botfuzzy77#2209, You are exhausted from Gambling...
+29 Jan 2017 19:11:52 : LimitlessMc, botchat, Wertfuzzy77#0274, ayy
+29 Jan 2017 19:11:52 : LimitlessMc, botchat, Botfuzzy77#2209, Lmao
+29 Jan 2017 19:11:53 : LimitlessMc, botchat, Wertfuzzy77#0274, not bad
+29 Jan 2017 19:11:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;level
+29 Jan 2017 19:11:55 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: *Wertfuzzy77*
+**Level**: 54
+29 Jan 2017 19:11:55 : LimitlessMc, botchat, Botfuzzy77#2209, 
+29 Jan 2017 19:11:55 : LimitlessMc, botchat, Botfuzzy77#2209, **XP**: 60315/166375
+**Boss Takedowns**: 21
+**Most Dmg in an Attack**: 35084
+29 Jan 2017 19:12:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokeboss
+29 Jan 2017 19:12:03 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Hard Boss Pokemon** =-
+*Name*: Solrock
+*Health*: 70343/70875 (99.25%)
+*Level*: 70
+Last Combo:
+:regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n: :regional_indicator_n:
+:x: :x: :x: :x: :x: :x: :x: :x: :x: :x:
+29 Jan 2017 19:12:03 : LimitlessMc, botchat, Botfuzzy77#2209, 
+29 Jan 2017 19:12:03 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **Wertfuzzy77** with **532** damage
+29 Jan 2017 19:12:03 : LimitlessMc, botchat, Botfuzzy77#2209, 2nd most Damage by *Dankdra* with *0* damage
+29 Jan 2017 19:12:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle ppippppppi
+29 Jan 2017 19:12:19 : LimitlessMc, botchat, Botfuzzy77#2209, Level 70 Boss **Solrock** in Hard has 70343 health left.
+29 Jan 2017 19:12:19 : LimitlessMc, botchat, Botfuzzy77#2209, 
+29 Jan 2017 19:12:19 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_p: :regional_indicator_p: :regional_indicator_i: :regional_indicator_p: :regional_indicator_p: :regional_indicator_p: :regional_indicator_p: :regional_indicator_p: :regional_indicator_p: :regional_indicator_i:
+:x: :x: :white_check_mark: :white_check_mark: :x: :x: :x: :x: :x: :white_check_mark:
+29 Jan 2017 19:12:19 : LimitlessMc, botchat, Botfuzzy77#2209, Rival Bonus!
+STAB bonus damage for Ice type (2x)
+Your moves did **261** damage
+29 Jan 2017 19:12:19 : LimitlessMc, botchat, Botfuzzy77#2209, Level 70 Boss **Solrock** has 70082 health left.
+29 Jan 2017 19:31:22 : LimitlessMc, mainchat, xShizui_#0865, http://9gag.com/gag/aAdByvp
+29 Jan 2017 19:32:19 : LimitlessMc, mainchat, xShizui_#0865, @Alpha Penguin happy bday mate
+29 Jan 2017 19:43:30 : LimitlessMc, botchat, Dankdra#0051, Bruhh
+29 Jan 2017 19:43:43 : LimitlessMc, botchat, Dankdra#0051, Gamble hax confirmed
+29 Jan 2017 19:43:50 : LimitlessMc, botchat, Dankdra#0051, ;train
+29 Jan 2017 19:43:50 : LimitlessMc, botchat, Botfuzzy77#2209, You **Lost** to a Level 69 **Zweilous** (36% to beat)
+You **Lost** to a Level 100 **Lotad** (25% to beat)
+You **Lost** to a Level 41 **Gothorita** (62% to beat)
+You **Lost** to a Level 88 **Bellsprout** (28% to beat)
+You **Lost** to a Level 75 **Starly** (34% to beat)
+You **Beat** a Level 66 **Archeops** for 2503 XP (38% to beat)
+You **Lost** to a Level 61 **Shinx** (41% to beat)
+You **Beat** a Level 25 **Hoothoot** for 408 XP (90% to beat)
+You **Beat** a Level 98 **Cinccino** for 3018 XP (26% to beat)
+You **Beat** a Level 69 **Sandile** for 2572 XP (36% to beat)
+You **Lost** to a Level 92 **Klefki** (27% to beat)
+You **Lost** to a Level 94 **Machoke** (27% to beat)
+You **Beat** a Level 30 **Nosepass** for 612 XP (85% to beat)
+You **Beat** a Level 93 **Snorunt** for 2961 XP (27% to beat)
+You Find a **Pokeloot** worth 7031 XP
+29 Jan 2017 19:43:50 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 19105 XP!
+29 Jan 2017 19:44:01 : LimitlessMc, botchat, Dankdra#0051, ;gamble 19105
+29 Jan 2017 19:44:01 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained back your offering and more!
+29 Jan 2017 19:44:01 : LimitlessMc, botchat, Botfuzzy77#2209, You are exhausted from Gambling...
+29 Jan 2017 19:44:05 : LimitlessMc, botchat, Dankdra#0051, Yay
+29 Jan 2017 19:55:55 : Cipher, music, Wertfuzzy77#0274, ;song
+29 Jan 2017 19:55:55 : Cipher, music, Botfuzzy77#2209, **Name**: Ellen and First Lady Michelle Obama Go to CVS
+**Requester**: Radio
+**URL**: <https://www.youtube.com/watch?v=2ihOXaU0I8o>
+```py
+Time: 0:09:21
+Views: 17,954,149
+Likes: 298,374, 96.86%
+Dislikes: 9,664, 3.14%
+Skips: 0/0```
+29 Jan 2017 19:55:57 : Cipher, music, Wertfuzzy77#0274, wut
+29 Jan 2017 19:56:06 : Cipher, music, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=BW9Fzwuf43c
+29 Jan 2017 19:56:07 : Cipher, music, Botfuzzy77#2209, Added Adele - Hometown Glory to the queue
+29 Jan 2017 19:56:08 : Cipher, music, Wertfuzzy77#0274, ;remove 1
+29 Jan 2017 19:56:08 : Cipher, music, Botfuzzy77#2209, Removed: Adele - Hometown Glory
+29 Jan 2017 19:56:16 : Cipher, music, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=ibWYROwadYs
+29 Jan 2017 19:56:17 : Cipher, music, Botfuzzy77#2209, Added Adele - Hiding my Heart to the queue
+29 Jan 2017 19:56:28 : Cipher, music, Wertfuzzy77#0274, ;skip
+29 Jan 2017 19:56:28 : Cipher, music, Botfuzzy77#2209, Skipping Ellen and First Lady Michelle Obama Go to CVS by request (Radio Song)
+29 Jan 2017 19:56:45 : Cipher, music, Wertfuzzy77#0274, ;song
+29 Jan 2017 19:56:45 : Cipher, music, Botfuzzy77#2209, **Name**: Ellen and First Lady Michelle Obama Go to CVS
+**Requester**: Radio
+**URL**: <https://www.youtube.com/watch?v=2ihOXaU0I8o>
+```py
+Time: 0:09:21
+Views: 17,954,149
+Likes: 298,374, 96.86%
+Dislikes: 9,664, 3.14%
+Skips: 0/0```
+29 Jan 2017 19:56:49 : Cipher, music, Wertfuzzy77#0274, ;songs
+29 Jan 2017 19:56:49 : Cipher, music, Botfuzzy77#2209, **The Following songs are in the Queue**
+29 Jan 2017 19:56:50 : Cipher, music, Botfuzzy77#2209, 1. Adele - Hiding my Heart **Wertfuzzy77**
+	<https://www.youtube.com/watch?v=ibWYROwadYs>
+Total Time is 0:03:29
+29 Jan 2017 19:56:52 : Cipher, music, Wertfuzzy77#0274, ;song
+29 Jan 2017 19:56:52 : Cipher, music, Botfuzzy77#2209, **Name**: Ellen and First Lady Michelle Obama Go to CVS
+**Requester**: Radio
+**URL**: <https://www.youtube.com/watch?v=2ihOXaU0I8o>
+```py
+Time: 0:09:21
+Views: 17,954,149
+Likes: 298,374, 96.86%
+Dislikes: 9,664, 3.14%
+Skips: 0/0```
+29 Jan 2017 19:56:55 : Cipher, music, Wertfuzzy77#0274, ;skip
+29 Jan 2017 19:56:55 : Cipher, music, Botfuzzy77#2209, Skipping Ellen and First Lady Michelle Obama Go to CVS by request (Radio Song)
+29 Jan 2017 19:57:01 : Cipher, music, Wertfuzzy77#0274, ;song
+29 Jan 2017 19:57:01 : Cipher, music, Botfuzzy77#2209, **Name**: Ellen and First Lady Michelle Obama Go to CVS
+**Requester**: Radio
+**URL**: <https://www.youtube.com/watch?v=2ihOXaU0I8o>
+```py
+Time: 0:09:21
+Views: 17,954,149
+Likes: 298,374, 96.86%
+Dislikes: 9,664, 3.14%
+Skips: 0/0```
+29 Jan 2017 19:57:03 : LimitlessMc, botchat, theOnlyJuan#9357, ;cd
+29 Jan 2017 19:57:04 : LimitlessMc, botchat, Botfuzzy77#2209, **Battle**
+You can battle right now!
+**Train** (*Note: Must be Level 5 to use ;train*)
+You can Train right now!
+**Gamble** (*Note: Must be Level 5 to use ;gamble*)
+You can Gamble right now!
+29 Jan 2017 19:57:08 : LimitlessMc, botchat, theOnlyJuan#9357, ;train
+29 Jan 2017 19:57:08 : LimitlessMc, botchat, Botfuzzy77#2209, You **Beat** a Level 18 **Electabuzz** for 288 XP (90% to beat)
+You **Beat** a Level 36 **Cherrim** for 1440 XP (50% to beat)
+You **Beat** a Level 21 **Farfetch'd** for 411 XP (85% to beat)
+You **Beat** a Level 36 **Murkrow** for 1440 XP (50% to beat)
+You **Beat** a Level 56 **Basculin** for 1954 XP (32% to beat)
+You **Lost** to a Level 38 **Accelgor** (47% to beat)
+You **Lost** to a Level 54 **Sandslash** (33% to beat)
+You **Beat** a Level 18 **Herdier** for 288 XP (90% to beat)
+You **Beat** a Level 61 **Meditite** for 2030 XP (29% to beat)
+You **Beat** a Level 41 **Liepard** for 1615 XP (43% to beat)
+You Find a **Pokeloot** worth 2533 XP
+29 Jan 2017 19:57:08 : LimitlessMc, botchat, Botfuzzy77#2209, You trained for 11999 XP!
+29 Jan 2017 19:57:10 : Cipher, music, Wertfuzzy77#0274, ;musicdebug self.useQueue()
+29 Jan 2017 19:57:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+29 Jan 2017 19:57:17 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 408 seconds before you can train again.
+29 Jan 2017 19:57:33 : Cipher, music, Wertfuzzy77#0274, ;song
+29 Jan 2017 19:57:33 : Cipher, music, Botfuzzy77#2209, **Name**: Adele - Hiding my Heart
+**Requester**: Wertfuzzy77
+**URL**: <https://www.youtube.com/watch?v=ibWYROwadYs>
+```py
+Time: 0:03:29
+Views: 24,541,490
+Likes: 37,598, 97.35%
+Dislikes: 1,024, 2.65%
+Skips: 0/0```
+29 Jan 2017 19:57:46 : LimitlessMc, botchat, theOnlyJuan#9357, ;gamble 11999
+29 Jan 2017 19:57:46 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained back your offering and more!
+29 Jan 2017 19:57:46 : LimitlessMc, botchat, Botfuzzy77#2209, You Have Leveled up from **36** to **37**!
+29 Jan 2017 19:57:53 : LimitlessMc, botchat, theOnlyJuan#9357, Sweet
+29 Jan 2017 19:58:26 : LimitlessMc, botchat, theOnlyJuan#9357, ;pokeboss
+29 Jan 2017 19:58:26 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Medium Boss Pokemon** =-
+*Name*: Chesnaught
+*Health*: 40717/42800 (95.13%)
+*Level*: 40
+Last Combo:
+:regional_indicator_g: :regional_indicator_f: :regional_indicator_d: :regional_indicator_g: :regional_indicator_i: :regional_indicator_d: :regional_indicator_g: :regional_indicator_d:
+:x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :x: :white_check_mark:
+29 Jan 2017 19:58:26 : LimitlessMc, botchat, Botfuzzy77#2209, 
+29 Jan 2017 19:58:26 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **theOnlyJuan** with **2083** damage
+29 Jan 2017 19:58:46 : LimitlessMc, botchat, theOnlyJuan#9357, ;pokebattle wfdwidwd
+29 Jan 2017 19:58:46 : LimitlessMc, botchat, Botfuzzy77#2209, Level 40 Boss **Chesnaught** in Medium has 40717 health left.
+29 Jan 2017 19:58:46 : LimitlessMc, botchat, Botfuzzy77#2209, 
+29 Jan 2017 19:58:47 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_w: :regional_indicator_f: :regional_indicator_d: :regional_indicator_w: :regional_indicator_i: :regional_indicator_d: :regional_indicator_w: :regional_indicator_d:
+:x: :white_check_mark: :white_check_mark: :x: :white_check_mark: :white_check_mark: :x: :white_check_mark:
+29 Jan 2017 19:58:47 : LimitlessMc, botchat, Botfuzzy77#2209, Its a Critical Strike
+Its Sort-Of Effective
+Rival Bonus!
+STAB bonus damage for Ice type (1x)
+Your moves did **1074** damage
+29 Jan 2017 19:58:47 : LimitlessMc, botchat, Botfuzzy77#2209, Level 40 Boss **Chesnaught** has 39643 health left.
+29 Jan 2017 19:59:57 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokeboss
+29 Jan 2017 19:59:57 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Hard Boss Pokemon** =-
+*Name*: Solrock
+*Health*: 70082/70875 (98.88%)
+*Level*: 70
+Last Combo:
+:regional_indicator_p: :regional_indicator_p: :regional_indicator_i: :regional_indicator_p: :regional_indicator_p: :regional_indicator_p: :regional_indicator_p: :regional_indicator_p: :regional_indicator_p: :regional_indicator_i:
+:x: :x: :white_check_mark: :white_check_mark: :x: :x: :x: :x: :x: :white_check_mark:
+29 Jan 2017 19:59:58 : LimitlessMc, botchat, Botfuzzy77#2209, 
+29 Jan 2017 19:59:58 : LimitlessMc, botchat, Botfuzzy77#2209, Most Damage by **Wertfuzzy77** with **793** damage
+29 Jan 2017 19:59:58 : LimitlessMc, botchat, Botfuzzy77#2209, 2nd most Damage by *Dankdra* with *0* damage
+29 Jan 2017 20:00:08 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle bbipbbbbi
+29 Jan 2017 20:00:08 : LimitlessMc, botchat, Botfuzzy77#2209, Please use a Combination of **10** Types. `;types`
+29 Jan 2017 20:00:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pokebattle bbipbbbbbi
+29 Jan 2017 20:00:13 : LimitlessMc, botchat, Botfuzzy77#2209, Level 70 Boss **Solrock** in Hard has 70082 health left.
+29 Jan 2017 20:00:13 : LimitlessMc, botchat, Botfuzzy77#2209, 
+29 Jan 2017 20:00:13 : LimitlessMc, botchat, Botfuzzy77#2209, :regional_indicator_b: :regional_indicator_b: :regional_indicator_i: :regional_indicator_p: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_b: :regional_indicator_i:
+:x: :x: :white_check_mark: :white_check_mark: :x: :x: :x: :white_check_mark: :x: :white_check_mark:
+29 Jan 2017 20:00:13 : LimitlessMc, botchat, Botfuzzy77#2209, Its a Critical Strike
+Rival Bonus!
+STAB bonus damage for Ice type (2x)
+Your moves did **981** damage
+29 Jan 2017 20:00:13 : LimitlessMc, botchat, Botfuzzy77#2209, Level 70 Boss **Solrock** has 69101 health left.
+29 Jan 2017 20:00:42 : Pokemon Mystery Dungeon, rp_chat, Niionkai#7207, Did... did that Heracross just monologue his basic personality... or is this a dream?
+29 Jan 2017 20:01:05 : Pokemon Mystery Dungeon, rp_chat, Niionkai#7207, And nice to meet you Salandit! I like your stripes!
+29 Jan 2017 20:01:15 : Pokemon Mystery Dungeon, rp_chat, Wertfuzzy77#0274, yeah, he tends to do that all the time, we just let him do it
+29 Jan 2017 20:02:03 : Pokemon Mystery Dungeon, rp_chat, Niionkai#7207, Oh... you're big and pretty... are you like a giant Zubat?
+29 Jan 2017 20:02:12 : Cipher, music, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=3gz8mhnu9BA
+29 Jan 2017 20:02:22 : Pokemon Mystery Dungeon, rp_chat, Wertfuzzy77#0274, ...
+29 Jan 2017 20:02:24 : Pokemon Mystery Dungeon, rp_chat, Wertfuzzy77#0274, I'm Batman
+29 Jan 2017 20:02:44 : Pokemon Mystery Dungeon, rp_chat, Niionkai#7207, Like... ZuBatman?
+29 Jan 2017 20:02:50 : Pokemon Mystery Dungeon, rp_chat, Wertfuzzy77#0274, ;gif I'm Batman
+29 Jan 2017 20:02:50 : Pokemon Mystery Dungeon, rp_chat, Botfuzzy77#2209, http://giphy.com/gifs/batman-bruce-wayne-the-dark-knight-trilogy-XHjWXt5EDwx9u
+29 Jan 2017 20:02:59 : Pokemon Mystery Dungeon, rp_chat, Wertfuzzy77#0274, no words, rip
+29 Jan 2017 20:03:21 : Pokemon Mystery Dungeon, rp_chat, Niionkai#7207, Nice to meet you Batman
+29 Jan 2017 20:03:40 : Pokemon Mystery Dungeon, rp_chat, Wertfuzzy77#0274, https://cdn.discordapp.com/attachments/260309333235990538/268294872752979968/no-stop-touching-me-i-am-the-night-this-is-7694007.png
+29 Jan 2017 20:03:52 : Pokemon Mystery Dungeon, rp_chat, Wertfuzzy77#0274, Nice to meet you 😄
+29 Jan 2017 20:04:21 : Pokemon Mystery Dungeon, rp_chat, Niionkai#7207, 😄 Yeee! You sparkle so bright!
+29 Jan 2017 20:05:00 : Pokemon Mystery Dungeon, rp_chat, Wertfuzzy77#0274, yeah, idk why im here in this world
+29 Jan 2017 20:05:09 : Pokemon Mystery Dungeon, rp_chat, Wertfuzzy77#0274, all I can remember is "I'm batman"
+29 Jan 2017 20:05:42 : Pokemon Mystery Dungeon, rp_chat, Niionkai#7207, "In this world"....? Are you one of those super powerful Pokemon that can change history and stuff! ✨
+29 Jan 2017 20:07:21 : Pokemon Mystery Dungeon, rp_chat, Wertfuzzy77#0274, I mean, idk
+29 Jan 2017 20:08:10 : Pokemon Mystery Dungeon, rp_chat, Niionkai#7207, But you're so big and pretty! You have to be! And you're from a different world! Eeeee! *fangirling*
+29 Jan 2017 20:08:49 : Pokemon Mystery Dungeon, rp_chat, Wertfuzzy77#0274, xD
+29 Jan 2017 20:09:55 : Pokemon Mystery Dungeon, rp_chat, Wertfuzzy77#0274, 
+29 Jan 2017 20:11:48 : Cipher, music, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=gcl1Pid51tw
+29 Jan 2017 20:15:37 : Pokemon Mystery Dungeon, rp_chat, Niionkai#7207, eeeee even your smile is cute!!! )^v^)  I wish I was as pretty as you!
+29 Jan 2017 20:18:07 : Pokemon Mystery Dungeon, rp_chat, Wertfuzzy77#0274, https://cdn.discordapp.com/attachments/260309333235990538/268294872752979968/no-stop-touching-me-i-am-the-night-this-is-7694007.png
+29 Jan 2017 20:18:14 : Pokemon Mystery Dungeon, rp_chat, Wertfuzzy77#0274, again P

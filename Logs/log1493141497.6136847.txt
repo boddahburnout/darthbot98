@@ -1,0 +1,409 @@
+25 Apr 2017 17:32:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pb SSSSSSSS
+25 Apr 2017 17:32:15 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 17:32:18 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 17:32:33 : LimitlessMc, botchat, Wertfuzzy77#0274, @TherminatorX !!!!
+25 Apr 2017 17:32:36 : LimitlessMc, botchat, Wertfuzzy77#0274, we beat the system
+25 Apr 2017 17:39:54 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, ᕕ( ᐛ )ᕗ
+25 Apr 2017 17:41:04 : RooberBoobers, kinkyroleplay, dick van lick#7498, tahts ho t
+25 Apr 2017 17:42:04 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug json.loads({"Thing" : True})
+25 Apr 2017 17:42:05 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+TypeError: the JSON object must be str, not 'dict'
+```
+25 Apr 2017 17:42:32 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug json.loads(json.dumps({"Thing" : True}))
+25 Apr 2017 17:42:32 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+{'Thing': True}
+```
+25 Apr 2017 17:44:46 : LimitlessMc, botchat, TherminatorX#6644, @Wertfuzzy77 Woot!
+25 Apr 2017 17:45:14 : LimitlessMc, botchat, TherminatorX#6644, What needed tweaking?
+25 Apr 2017 17:45:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pbs
+25 Apr 2017 17:45:18 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 17:45:32 : LimitlessMc, botchat, Wertfuzzy77#0274, had to get the actual unicode for the emojies to work
+25 Apr 2017 17:45:45 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, stop the spam or else 3 hour mute XD
+25 Apr 2017 17:45:48 : LimitlessMc, botchat, TherminatorX#6644, Ahh
+25 Apr 2017 17:46:14 : RooberBoobers, kinkyrubiestalk, navy#8336, r i p
+25 Apr 2017 17:46:21 : LimitlessMc, botchat, TherminatorX#6644, ;pbt bbbbbbbbbb
+25 Apr 2017 17:46:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 17:46:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 17:46:25 : RooberBoobers, kinkyroleplay, navy#8336, 🥚
+25 Apr 2017 17:46:25 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, you should see our direct messages lmao
+25 Apr 2017 17:46:31 : LimitlessMc, botchat, TherminatorX#6644, ;train
+25 Apr 2017 17:46:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 17:46:34 : RooberBoobers, kinkyroleplay, navy#8336, i didnt mean to se nd th at
+25 Apr 2017 17:46:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 17:46:41 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, go fist yourselves in dm XD
+25 Apr 2017 17:46:42 : LimitlessMc, botchat, TherminatorX#6644, Beat 2
+25 Apr 2017 17:46:46 : RooberBoobers, kinkyroleplay, navy#8336, 🍆 💦 😩 👅
+25 Apr 2017 17:46:46 : LimitlessMc, botchat, TherminatorX#6644, ;_;
+25 Apr 2017 17:46:56 : RooberBoobers, kinkyrubiestalk, navy#8336, r i p  lm a o
+25 Apr 2017 17:48:51 : RooberBoobers, kinkyrubiestalk, navy#8336, h im
+25 Apr 2017 17:48:53 : RooberBoobers, kinkyrubiestalk, navy#8336, im
+25 Apr 2017 17:48:58 : RooberBoobers, kinkyrubiestalk, navy#8336, 3d modeling a duck
+25 Apr 2017 17:49:05 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, wtf
+25 Apr 2017 17:49:16 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, why are you and dicklick picking up lighty;s way of talking
+25 Apr 2017 17:49:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+25 Apr 2017 17:49:20 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, thats spam and is annoying
+25 Apr 2017 17:49:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 17:49:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 17:49:27 : LimitlessMc, botchat, Wertfuzzy77#0274, 😄
+25 Apr 2017 17:49:38 : LimitlessMc, botchat, Wertfuzzy77#0274, lol, your prestige bonus is still more xD
+25 Apr 2017 17:49:41 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+25 Apr 2017 17:50:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ;recent
+25 Apr 2017 17:50:15 : LimitlessMc, botchat, Botfuzzy77#2209, **Wertfuzzy77**: *0* minutes ago
+**TherminatorX**: *3* minutes ago
+**Lastshadow**: *25* minutes ago
+**Lightning**: *29* minutes ago
+There have been *14* players active in the last 24 hours
+25 Apr 2017 17:50:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+25 Apr 2017 17:50:19 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+25 Apr 2017 17:50:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=9wh8FgsEtNQ
+25 Apr 2017 17:50:56 : LimitlessMc, botchat, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=9wh8FgsEtNQ
+25 Apr 2017 17:50:57 : LimitlessMc, botchat, Botfuzzy77#2209, Added BRADIO-Flyers【TVアニメ「デス・パレード」OP曲】(OFFICIAL VIDEO) to the queue
+25 Apr 2017 17:51:02 : LimitlessMc, botchat, Wertfuzzy77#0274, that was weird
+25 Apr 2017 17:51:17 : RooberBoobers, kinkyroleplay, dick van lick#7498, you're beginning to lvoe eggs aren't cha
+25 Apr 2017 17:51:34 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cycle
+25 Apr 2017 17:51:35 : LimitlessMc, botchat, Botfuzzy77#2209, Cycle Mode: True
+25 Apr 2017 17:52:03 : RooberBoobers, kinkyrubiestalk, navy#8336, what
+25 Apr 2017 17:52:21 : RooberBoobers, kinkyrubiestalk, navy#8336, i m pret ty sure ive always wrote like that
+25 Apr 2017 17:52:25 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, we've always talked like this
+25 Apr 2017 17:52:33 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, not always XD
+25 Apr 2017 17:52:34 : RooberBoobers, kinkyroleplay, navy#8336, i hate eggs
+25 Apr 2017 17:52:39 : RooberBoobers, kinkyrubiestalk, navy#8336, rip
+25 Apr 2017 17:53:05 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, lets just say that when me and sam come together, we act like we're drunk af i guess
+25 Apr 2017 17:53:16 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+25 Apr 2017 17:53:19 : LimitlessMc, botchat, Wertfuzzy77#0274, btw, crystal passed you in trains and pokebattles @TherminatorX
+25 Apr 2017 17:53:20 : RooberBoobers, kinkyrubiestalk, navy#8336, ive
+25 Apr 2017 17:53:24 : RooberBoobers, kinkyrubiestalk, navy#8336, alcohol abuse
+25 Apr 2017 17:53:26 : RooberBoobers, kinkyrubiestalk, navy#8336, dont
+25 Apr 2017 17:53:27 : LimitlessMc, botchat, Wertfuzzy77#0274, for the last 7 days
+25 Apr 2017 17:53:32 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, children stop spamming
+25 Apr 2017 17:53:36 : RooberBoobers, kinkyrubiestalk, navy#8336, rIP
+25 Apr 2017 17:53:49 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, dont make me slap you with my horse cock damnit
+25 Apr 2017 17:54:00 : LimitlessMc, botchat, Wertfuzzy77#0274, LOL gilly is #1 in the last 24 hours
+25 Apr 2017 17:54:01 : LimitlessMc, botchat, Wertfuzzy77#0274, go gilly
+25 Apr 2017 17:54:18 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, yes daddy ᕕ( ᐛ )ᕗ
+25 Apr 2017 17:54:26 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, oh wait that said horse cock
+25 Apr 2017 17:54:29 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, sh it
+25 Apr 2017 17:54:42 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, ignore that
+25 Apr 2017 17:55:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;loop 1
+25 Apr 2017 17:55:20 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*BRADIO-Flyers【TVアニメ「デス・パレード」OP曲】(OFFICIAL VIDEO)*' **1** more times
+25 Apr 2017 17:55:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+25 Apr 2017 17:55:28 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 17:56:37 : RooberBoobers, kinkyrubiestalk, navy#8336, hot
+25 Apr 2017 17:57:12 : LimitlessMc, botchat, TherminatorX#6644, Eh
+25 Apr 2017 17:57:18 : LimitlessMc, botchat, TherminatorX#6644, ;pbs
+25 Apr 2017 17:57:19 : RooberBoobers, realtalk, navy#8336, haha are you **triggered**? lmao sjq feminists uwu
+25 Apr 2017 17:57:21 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 17:57:27 : LimitlessMc, botchat, TherminatorX#6644, ;pbt dddddddddd
+25 Apr 2017 17:57:30 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 17:57:32 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 17:57:42 : LimitlessMc, botchat, Wertfuzzy77#0274, also seems to be a littttle faster
+25 Apr 2017 17:58:05 : LimitlessMc, botchat, Wertfuzzy77#0274, and you were just recently passed for #1 overall in pokebattles
+25 Apr 2017 17:58:08 : LimitlessMc, botchat, Wertfuzzy77#0274, by Talha
+25 Apr 2017 17:58:11 : LimitlessMc, botchat, TherminatorX#6644, I've been doing more actual games recently, so my poke stuff is going to take a hit
+25 Apr 2017 17:58:22 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+25 Apr 2017 17:58:31 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, 'a tinned meat product made mainly from ham'
+25 Apr 2017 17:58:33 : LimitlessMc, botchat, Wertfuzzy77#0274, you still #1 on trains
+25 Apr 2017 17:58:37 : LimitlessMc, botchat, Wertfuzzy77#0274, choo choo
+25 Apr 2017 17:58:38 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, oh sh it i see it now
+25 Apr 2017 17:58:53 : LimitlessMc, botchat, TherminatorX#6644, ;pbt eeeeeeeeee
+25 Apr 2017 17:58:55 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 17:58:57 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pbs
+25 Apr 2017 17:58:57 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 17:58:58 : LimitlessMc, botchat, TherminatorX#6644, Also
+25 Apr 2017 17:59:00 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 17:59:04 : LimitlessMc, botchat, TherminatorX#6644, Is it just me
+25 Apr 2017 17:59:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;settype Fire
+25 Apr 2017 17:59:05 : LimitlessMc, botchat, Botfuzzy77#2209, You are now a Fire type
+25 Apr 2017 17:59:09 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pb FFFFFFFF
+25 Apr 2017 17:59:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ?
+25 Apr 2017 17:59:12 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 17:59:15 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 17:59:24 : LimitlessMc, botchat, TherminatorX#6644, Or are the indicators a little brighter blue?
+25 Apr 2017 17:59:32 : LimitlessMc, botchat, Wertfuzzy77#0274, on mobile?
+25 Apr 2017 17:59:36 : LimitlessMc, botchat, TherminatorX#6644, Yeah
+25 Apr 2017 17:59:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ya, they are a different emoji
+25 Apr 2017 17:59:53 : RooberBoobers, kinkyrubiestalk, navy#8336, whats the point of #realtalk bc
+25 Apr 2017 18:00:00 : LimitlessMc, botchat, Wertfuzzy77#0274, same unicode, just translates differently
+25 Apr 2017 18:00:03 : RooberBoobers, kinkyrubiestalk, navy#8336, i think i have a Real Talk™ but
+25 Apr 2017 18:00:14 : LimitlessMc, botchat, TherminatorX#6644, What's the name for them now?
+25 Apr 2017 18:00:17 : LimitlessMc, botchat, Wertfuzzy77#0274, well
+25 Apr 2017 18:00:18 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, its for actual things, not to goof off in
+25 Apr 2017 18:00:22 : RooberBoobers, kinkyrubiestalk, navy#8336, rip
+25 Apr 2017 18:00:27 : LimitlessMc, botchat, Wertfuzzy77#0274, same name
+25 Apr 2017 18:00:44 : RooberBoobers, realtalk, navy#8336, Real Talk™: dont alchol
+25 Apr 2017 18:00:49 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, what do we talk about in there then
+25 Apr 2017 18:00:55 : LimitlessMc, botchat, TherminatorX#6644, Oh right
+25 Apr 2017 18:00:58 : LimitlessMc, botchat, TherminatorX#6644, Derp
+25 Apr 2017 18:01:01 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, we don't really do anything serious lmao
+25 Apr 2017 18:01:08 : RooberBoobers, kinkyrubiestalk, navy#8336, do i tell my oc's dark dramatic backstory /s
+25 Apr 2017 18:01:25 : RooberBoobers, kinkyrubiestalk, navy#8336, i have a serious to talk about but im anxious
+25 Apr 2017 18:01:43 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, *shhh hh h*
+25 Apr 2017 18:01:53 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, you can talk with me if you want
+25 Apr 2017 18:01:55 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, *pats*
+25 Apr 2017 18:04:00 : RooberBoobers, kinkyrubiestalk, navy#8336, ok dont make Drunk™ jokes blease they make me
+25 Apr 2017 18:04:02 : RooberBoobers, kinkyrubiestalk, navy#8336, discomfort
+25 Apr 2017 18:04:20 : LimitlessMc, botchat, Wertfuzzy77#0274, This is what I wanna see 😛
+25 Apr 2017 18:04:31 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, ok
+25 Apr 2017 18:04:32 : LimitlessMc, botchat, Wertfuzzy77#0274, 400% increase in cmd usage in the last month
+25 Apr 2017 18:04:54 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, wanna talk about it?
+25 Apr 2017 18:04:59 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, if you w ant
+25 Apr 2017 18:05:02 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, 1 1 3 1 1 2 3 2 1 3
+25 Apr 2017 18:05:14 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, the fuck
+25 Apr 2017 18:05:22 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, shh, its the answers to something
+25 Apr 2017 18:05:27 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, o k
+25 Apr 2017 18:05:32 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, its school work
+25 Apr 2017 18:05:40 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, oh XD
+25 Apr 2017 18:05:53 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, *you lil' rebel you*
+25 Apr 2017 18:06:08 : RooberBoobers, kinkyrubiestalk, navy#8336, um
+25 Apr 2017 18:06:21 : LimitlessMc, botchat, Wertfuzzy77#0274, LOL
+25 Apr 2017 18:06:24 : LimitlessMc, botchat, Wertfuzzy77#0274, 
+25 Apr 2017 18:06:27 : LimitlessMc, botchat, Wertfuzzy77#0274, 1 lone cmd
+25 Apr 2017 18:06:29 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+25 Apr 2017 18:06:47 : RooberBoobers, kinkyrubiestalk, navy#8336, my Mum™ is an alcoholic and when shes Drunk™ she Changes™ and starts to beat me and Stuff™
+25 Apr 2017 18:06:50 : LimitlessMc, voice-junk, Lastshadow#5809, @Wertfuzzy77 what is the size dimensions for the trainer card background
+25 Apr 2017 18:06:52 : LimitlessMc, botchat, Wertfuzzy77#0274, @Lastshadow fair warning, its the same song over and over again
+25 Apr 2017 18:06:56 : RooberBoobers, kinkyrubiestalk, navy#8336, it makes me Emotional™
+25 Apr 2017 18:06:57 : LimitlessMc, voice-junk, Wertfuzzy77#0274, 600x300
+25 Apr 2017 18:06:58 : RooberBoobers, kinkyrubiestalk, navy#8336, so
+25 Apr 2017 18:07:03 : LimitlessMc, voice-junk, Wertfuzzy77#0274, but it auto resizes
+25 Apr 2017 18:07:09 : LimitlessMc, botchat, Lastshadow#5809, Its
+25 Apr 2017 18:07:12 : LimitlessMc, botchat, Lastshadow#5809, Fine
+25 Apr 2017 18:07:15 : LimitlessMc, voice-junk, Wertfuzzy77#0274, the closer that that ratio the best
+25 Apr 2017 18:07:25 : LimitlessMc, voice-junk, Lastshadow#5809, 600x300
+25 Apr 2017 18:07:26 : LimitlessMc, voice-junk, Lastshadow#5809, K
+25 Apr 2017 18:07:48 : LimitlessMc, voice-junk, Wertfuzzy77#0274, I try to find something around 2000x1000
+25 Apr 2017 18:08:26 : LimitlessMc, voice-junk, Lastshadow#5809, Wert, why can't botfuzzy be at multiple servers at once?
+25 Apr 2017 18:08:30 : LimitlessMc, voice-junk, Wertfuzzy77#0274, it is
+25 Apr 2017 18:08:32 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;status
+25 Apr 2017 18:08:33 : LimitlessMc, voice-junk, Botfuzzy77#2209, ```UpTime: 0:36:54.400000s
+Total Messages: 143
+Servers Joined: 15
+CPU usage: 100.0%
+Memory usage: 41.7%
+```
+25 Apr 2017 18:08:36 : LimitlessMc, voice-junk, Lastshadow#5809, I mean
+25 Apr 2017 18:08:41 : LimitlessMc, voice-junk, Lastshadow#5809, Voice channels
+25 Apr 2017 18:08:56 : LimitlessMc, voice-junk, Wertfuzzy77#0274, well, it can be in 1 voice channel per server
+25 Apr 2017 18:09:07 : LimitlessMc, voice-junk, Wertfuzzy77#0274, there are restrictions built it, nothing I can do about that
+25 Apr 2017 18:09:09 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, Is she good to you when she's not intoxicated?
+25 Apr 2017 18:09:21 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, Does this only happen when she drinks?
+25 Apr 2017 18:09:31 : RooberBoobers, kinkyrubiestalk, navy#8336, y eah
+25 Apr 2017 18:09:35 : LimitlessMc, voice-junk, Lastshadow#5809, No, botfuzzy won't join the voice channel if it's in another server's voice channel
+25 Apr 2017 18:09:37 : RooberBoobers, kinkyrubiestalk, navy#8336, im Ok
+25 Apr 2017 18:09:45 : LimitlessMc, voice-junk, Wertfuzzy77#0274, it does all the time?
+25 Apr 2017 18:09:46 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;music
+25 Apr 2017 18:09:46 : LimitlessMc, voice-junk, Botfuzzy77#2209, Connected to voice channels in the following servers:
+LimitlessMc playing BRADIO-Flyers【TVアニメ「デス・パレード」OP曲】(OFFICIAL VIDEO)
+25 Apr 2017 18:09:52 : LimitlessMc, voice-junk, Lastshadow#5809, Yeah....
+25 Apr 2017 18:09:53 : Pulse, mainchat, Wertfuzzy77#0274, ;join
+25 Apr 2017 18:09:53 : Pulse, mainchat, Botfuzzy77#2209, Connected channel!
+25 Apr 2017 18:09:56 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, She doesn't seriously hurt you or anything right
+25 Apr 2017 18:10:00 : Pulse, mainchat, Wertfuzzy77#0274, ;search Highway to hell
+25 Apr 2017 18:10:02 : Pulse, mainchat, Botfuzzy77#2209, Added AC/DC - Highway to Hell to the queue
+25 Apr 2017 18:10:02 : Pulse, mainchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=qKggnBh2Mdw
+25 Apr 2017 18:10:07 : LimitlessMc, voice-junk, Lastshadow#5809, If one server has botfuzzy joined
+25 Apr 2017 18:10:08 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;music
+25 Apr 2017 18:10:08 : LimitlessMc, voice-junk, Botfuzzy77#2209, Connected to voice channels in the following servers:
+Pulse playing AC/DC - Highway to Hell
+LimitlessMc playing BRADIO-Flyers【TVアニメ「デス・パレード」OP曲】(OFFICIAL VIDEO)
+25 Apr 2017 18:10:12 : LimitlessMc, voice-junk, Lastshadow#5809, It won't let others
+25 Apr 2017 18:10:14 : LimitlessMc, voice-junk, Wertfuzzy77#0274, I just put a song going in pulse
+25 Apr 2017 18:10:16 : LimitlessMc, voice-junk, Wertfuzzy77#0274, works fine
+25 Apr 2017 18:10:25 : LimitlessMc, voice-junk, Lastshadow#5809, K I'll try
+25 Apr 2017 18:10:38 : Shadow's Subnautica, botchat, Lastshadow#5809, ;join
+25 Apr 2017 18:10:39 : Shadow's Subnautica, botchat, Botfuzzy77#2209, Connected channel!
+25 Apr 2017 18:10:50 : RooberBoobers, kinkyrubiestalk, navy#8336, shes
+25 Apr 2017 18:10:54 : LimitlessMc, voice-junk, Lastshadow#5809, It's fixed
+25 Apr 2017 18:10:57 : LimitlessMc, voice-junk, Wertfuzzy77#0274, 😛
+25 Apr 2017 18:10:58 : RooberBoobers, kinkyrubiestalk, navy#8336, bitten and bruised me sometimes-
+25 Apr 2017 18:11:05 : LimitlessMc, voice-junk, Wertfuzzy77#0274, its been having some overall problems the last few days xD
+25 Apr 2017 18:11:07 : LimitlessMc, voice-junk, Lastshadow#5809, Guess I just haven't used botfuzzy in forever
+25 Apr 2017 18:11:11 : LimitlessMc, voice-junk, Wertfuzzy77#0274, been fixing a lot of things
+25 Apr 2017 18:11:16 : RooberBoobers, kinkyrubiestalk, navy#8336, it,s not as often anymore because she was Arrested™
+25 Apr 2017 18:11:25 : LimitlessMc, voice-junk, Lastshadow#5809, And that was an old bug
+25 Apr 2017 18:11:28 : LimitlessMc, voice-junk, Wertfuzzy77#0274, prob
+25 Apr 2017 18:11:35 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, Are you ok
+25 Apr 2017 18:11:50 : LimitlessMc, voice-junk, darth kota#9446, the server is full of furries now....
+25 Apr 2017 18:11:54 : RooberBoobers, kinkyrubiestalk, navy#8336, ye'
+25 Apr 2017 18:11:54 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, Who looks after you and your brother now
+25 Apr 2017 18:11:54 : LimitlessMc, voice-junk, Lastshadow#5809, Hey, can you make it so there is a command thar shows removed bugs/updates
+25 Apr 2017 18:11:58 : RooberBoobers, kinkyrubiestalk, navy#8336, my mom
+25 Apr 2017 18:12:05 : RooberBoobers, kinkyrubiestalk, navy#8336, we,re back togeth-
+25 Apr 2017 18:12:10 : LimitlessMc, voice-junk, Wertfuzzy77#0274, well, you can report bugs
+25 Apr 2017 18:12:11 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;bug
+25 Apr 2017 18:12:11 : LimitlessMc, voice-junk, Botfuzzy77#2209, **Use This Link to Give Feedback on me :D**
+https://goo.gl/forms/3rtdxilNLxQGPJMg2
+25 Apr 2017 18:12:20 : LimitlessMc, voice-junk, Wertfuzzy77#0274, and I try to fix things that are there
+25 Apr 2017 18:13:04 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, I'm guessing that she didn't do anything too bad to get arested, is that right?
+25 Apr 2017 18:13:23 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, Was it because of drinking, or linked to it?
+25 Apr 2017 18:13:35 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, im sorry i just really want to help you out
+25 Apr 2017 18:13:46 : LimitlessMc, voice-junk, Wertfuzzy77#0274, ;music
+25 Apr 2017 18:13:54 : LimitlessMc, voice-junk, Wertfuzzy77#0274, hmmmmmmmmmm
+25 Apr 2017 18:14:06 : LimitlessMc, voice-junk, Wertfuzzy77#0274, oh, you didnt add a song yet
+25 Apr 2017 18:14:10 : RooberBoobers, kinkyrubiestalk, navy#8336, she was drinking and driving
+25 Apr 2017 18:14:29 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, i guessed as much
+25 Apr 2017 18:14:31 : RooberBoobers, kinkyrubiestalk, navy#8336, rip
+25 Apr 2017 18:14:39 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;train
+25 Apr 2017 18:14:43 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, are you ok now
+25 Apr 2017 18:14:44 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 18:14:46 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 18:14:49 : RooberBoobers, kinkyrubiestalk, navy#8336, yeah
+25 Apr 2017 18:14:50 : RooberBoobers, kinkyrubiestalk, navy#8336, thank
+25 Apr 2017 18:14:54 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, does she still drink
+25 Apr 2017 18:14:57 : LimitlessMc, botchat, Wertfuzzy77#0274, Gilly, you are the #1 pokebattle user in that last 24 hours
+25 Apr 2017 18:14:58 : LimitlessMc, botchat, Wertfuzzy77#0274, gj
+25 Apr 2017 18:15:03 : LimitlessMc, botchat, That-Guy-Gilly#6803, lel
+25 Apr 2017 18:15:04 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, and hurt you
+25 Apr 2017 18:15:07 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;level
+25 Apr 2017 18:15:09 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 18:15:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+25 Apr 2017 18:15:18 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 18:15:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lookup That-Guy-Gilly
+25 Apr 2017 18:15:27 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 18:15:31 : LimitlessMc, botchat, That-Guy-Gilly#6803, theres prestiged??!
+25 Apr 2017 18:15:34 : LimitlessMc, botchat, Wertfuzzy77#0274, si
+25 Apr 2017 18:15:36 : LimitlessMc, botchat, Wertfuzzy77#0274, ;prestige
+25 Apr 2017 18:15:36 : LimitlessMc, botchat, Botfuzzy77#2209, You arent a high enough level to Prestige! Level 50 is Required!
+25 Apr 2017 18:15:39 : LimitlessMc, botchat, That-Guy-Gilly#6803, how many jesus
+25 Apr 2017 18:15:40 : LimitlessMc, botchat, Wertfuzzy77#0274, up to prestige 10
+25 Apr 2017 18:15:47 : LimitlessMc, botchat, Wertfuzzy77#0274, first 4 are level 50 you can prestige
+25 Apr 2017 18:15:50 : LimitlessMc, botchat, Wertfuzzy77#0274, and the rest are lv 90
+25 Apr 2017 18:15:50 : RooberBoobers, kinkyrubiestalk, navy#8336, she still drinks but doesnt hurt me anymore
+25 Apr 2017 18:15:53 : RooberBoobers, kinkyrubiestalk, navy#8336, it,s mostly jsut
+25 Apr 2017 18:15:53 : LimitlessMc, botchat, That-Guy-Gilly#6803, jesus
+25 Apr 2017 18:15:56 : RooberBoobers, kinkyrubiestalk, navy#8336, emotional pain
+25 Apr 2017 18:15:59 : LimitlessMc, botchat, Wertfuzzy77#0274, but every prestige grants you an XP bonus
+25 Apr 2017 18:16:00 : RooberBoobers, kinkyrubiestalk, navy#8336, bc im scare
+25 Apr 2017 18:16:01 : LimitlessMc, botchat, Wertfuzzy77#0274, %
+25 Apr 2017 18:16:08 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+25 Apr 2017 18:16:09 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 197 seconds before you can train again.
+25 Apr 2017 18:16:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pbs
+25 Apr 2017 18:16:14 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 18:16:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pb IIIIIFFF
+25 Apr 2017 18:16:20 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 18:16:22 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 18:16:26 : LimitlessMc, botchat, That-Guy-Gilly#6803, ;pb dddddfff
+25 Apr 2017 18:16:27 : LimitlessMc, botchat, Wertfuzzy77#0274, thats the little (+ 6)
+25 Apr 2017 18:16:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 18:16:31 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 18:16:39 : LimitlessMc, botchat, Wertfuzzy77#0274, you gain % more XP based off of your prestige
+25 Apr 2017 18:16:40 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, sam
+25 Apr 2017 18:16:50 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, i really wanna hug you right now
+25 Apr 2017 18:16:55 : RooberBoobers, kinkyrubiestalk, navy#8336, rip
+25 Apr 2017 18:17:00 : LimitlessMc, botchat, TherminatorX#6644, Hey Wert
+25 Apr 2017 18:17:02 : LimitlessMc, botchat, Wertfuzzy77#0274, hmm?
+25 Apr 2017 18:17:04 : RooberBoobers, kinkyrubiestalk, navy#8336, internet hug
+25 Apr 2017 18:17:11 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, is your brother ok
+25 Apr 2017 18:17:12 : LimitlessMc, botchat, TherminatorX#6644, Ranking needs to be fixed
+25 Apr 2017 18:17:20 : LimitlessMc, botchat, Wertfuzzy77#0274, to do?
+25 Apr 2017 18:17:22 : LimitlessMc, botchat, TherminatorX#6644, The command
+25 Apr 2017 18:17:34 : RooberBoobers, kinkyrubiestalk, navy#8336, he doesnt seem As Scared
+25 Apr 2017 18:17:35 : LimitlessMc, botchat, Wertfuzzy77#0274, what about it?
+25 Apr 2017 18:17:44 : LimitlessMc, botchat, TherminatorX#6644, Unicode
+25 Apr 2017 18:17:47 : LimitlessMc, botchat, Wertfuzzy77#0274, o
+25 Apr 2017 18:17:48 : LimitlessMc, botchat, Wertfuzzy77#0274, ew
+25 Apr 2017 18:18:02 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, if you can't stop her from drinking
+25 Apr 2017 18:18:11 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, just stay far from her when she's drunk
+25 Apr 2017 18:18:18 : LimitlessMc, botchat, Wertfuzzy77#0274, sure tho
+25 Apr 2017 18:18:24 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, just lock yourself in your room or something
+25 Apr 2017 18:18:25 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, please
+25 Apr 2017 18:18:30 : RooberBoobers, kinkyrubiestalk, navy#8336, i live in a Tiny House™ but ok i,ll try
+25 Apr 2017 18:18:54 : LimitlessMc, botchat, Wertfuzzy77#0274, also, @That-Guy-Gilly get a cooler ;level card you noob
+25 Apr 2017 18:19:15 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, and make sure your brother is ok too
+25 Apr 2017 18:19:31 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, i guess that you already do that
+25 Apr 2017 18:19:39 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, but i just want to make sure that you will
+25 Apr 2017 18:19:55 : RooberBoobers, kinkyrubiestalk, navy#8336, i lov you
+25 Apr 2017 18:19:57 : RooberBoobers, kinkyrubiestalk, navy#8336, youre
+25 Apr 2017 18:19:58 : RooberBoobers, kinkyrubiestalk, navy#8336, a nice wif
+25 Apr 2017 18:20:29 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, i love you so much too
+25 Apr 2017 18:20:32 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, i just want to
+25 Apr 2017 18:20:35 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, cuddle you
+25 Apr 2017 18:20:45 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, until you're ok
+25 Apr 2017 18:20:48 : RooberBoobers, kinkyrubiestalk, navy#8336, im soft
+25 Apr 2017 18:21:23 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, im Chubby™
+25 Apr 2017 18:21:30 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, can i be invited to your guys's wedding
+25 Apr 2017 18:22:23 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, lmao you can be the gay ring bearer
+25 Apr 2017 18:22:39 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, that sound good
+25 Apr 2017 18:22:43 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, ye
+25 Apr 2017 18:22:56 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, me an my wif @BakaLord will go to your wedding
+25 Apr 2017 18:24:39 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug bot.say(unicodedata.lookup("SQUARED LATIN CAPITAL LETTER Z")
+25 Apr 2017 18:24:39 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+SyntaxError: unexpected EOF while parsing (<string>, line 1)
+```
+25 Apr 2017 18:24:43 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug bot.say(unicodedata.lookup("SQUARED LATIN CAPITAL LETTER Z"))
+25 Apr 2017 18:24:43 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+NameError: name 'bot' is not defined
+```
+25 Apr 2017 18:24:49 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug self.bot.say(unicodedata.lookup("SQUARED LATIN CAPITAL LETTER Z"))
+25 Apr 2017 18:24:50 : LimitlessMc, botchat, Botfuzzy77#2209, 🅉
+25 Apr 2017 18:24:50 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7f612c5b6870>
+```
+25 Apr 2017 18:25:14 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, @Musical Kink will you be our vicar
+25 Apr 2017 18:25:15 : RooberBoobers, kinkyrubiestalk, Botfuzzy77#2209, Not sure.
+25 Apr 2017 18:25:24 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, *h mm m*
+25 Apr 2017 18:26:36 : RooberBoobers, kinkyrubiestalk, navy#8336, bakabea and dick van lewd should go on a double date
+25 Apr 2017 18:27:05 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, actually, since those characters are basically otp as is, we should go as ourselves
+25 Apr 2017 18:27:14 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, like, a draw you and your love on double date
+25 Apr 2017 18:27:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug self.bot.say(unicodedata.lookup("DARK SUNGLASSES"))
+25 Apr 2017 18:27:55 : LimitlessMc, botchat, Botfuzzy77#2209, 🕶
+25 Apr 2017 18:27:55 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7f612c5d2218>
+```
+25 Apr 2017 18:27:57 : LimitlessMc, botchat, Wertfuzzy77#0274, 😛
+25 Apr 2017 18:27:58 : RooberBoobers, kinkyrubiestalk, navy#8336, wha
+25 Apr 2017 18:28:08 : RooberBoobers, kinkyrubiestalk, navy#8336, ok
+25 Apr 2017 18:28:09 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, so we're drawing our roobie and our irl wif's roobie on a da t e
+25 Apr 2017 18:28:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug self.bot.say(unicodedata.lookup("BLACK SKULL AND CROSSBONES"))
+25 Apr 2017 18:28:12 : LimitlessMc, botchat, Botfuzzy77#2209, 🕱
+25 Apr 2017 18:28:12 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7f612c5d2870>
+```
+25 Apr 2017 18:28:14 : RooberBoobers, kinkyrubiestalk, navy#8336, y e s
+25 Apr 2017 18:28:20 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, nono
+25 Apr 2017 18:28:24 : RooberBoobers, kinkyrubiestalk, navy#8336, oh
+25 Apr 2017 18:28:31 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, o o h
+25 Apr 2017 18:28:33 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, we draw ourselves XD
+25 Apr 2017 18:29:07 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, i don't even know what wifey looks like
+25 Apr 2017 18:29:11 : RooberBoobers, kinkyrubiestalk, navy#8336, i want to go on a date with dick van lick, with @Pussy Doge under the table as i feed her hushpuppies-
+25 Apr 2017 18:29:19 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, XD
+25 Apr 2017 18:29:24 : RooberBoobers, kinkyrubiestalk, navy#8336, i should draw a self portrait
+25 Apr 2017 18:29:33 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, y ee
+25 Apr 2017 18:29:39 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, @Lewdie @Dick Van Lick we already saw each others photos in the facebook messager thing
+25 Apr 2017 18:29:40 : RooberBoobers, kinkyrubiestalk, navy#8336, im at school tho rip
+25 Apr 2017 18:29:45 : RooberBoobers, kinkyrubiestalk, navy#8336, wha
+25 Apr 2017 18:30:08 : RooberBoobers, kinkyrubiestalk, navy#8336, i just shaved my head im Cooler™ now
+25 Apr 2017 18:30:10 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, bitc h the only photo i saw of sam was when she was a giraffe
+25 Apr 2017 18:30:15 : RooberBoobers, kinkyrubiestalk, navy#8336, lmao rip
+25 Apr 2017 18:30:28 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, i imagine me and bakalord as ruby and sapphire tbh XD
+25 Apr 2017 18:30:32 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, what do i draw me and a giraffe on a date
+25 Apr 2017 18:30:36 : RooberBoobers, kinkyrubiestalk, navy#8336, im sapphri
+25 Apr 2017 18:30:45 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, im roob then
+25 Apr 2017 18:30:48 : RooberBoobers, kinkyrubiestalk, navy#8336, draw pug x yellow diamond
+25 Apr 2017 18:30:51 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, we should draw each others gems then on a double date? XD
+25 Apr 2017 18:30:56 : RooberBoobers, kinkyrubiestalk, navy#8336, o k
+25 Apr 2017 18:31:01 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, thats some might porn right there
+25 Apr 2017 18:31:17 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, thats better lmao
+25 Apr 2017 18:31:38 : RooberBoobers, kinkyrubiestalk, navy#8336, ᕕ( ᐛ )ᕗ
+25 Apr 2017 18:31:45 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, i might do a outside picnic XD
+25 Apr 2017 18:31:51 : RooberBoobers, kinkyrubiestalk, navy#8336, ooh
+25 Apr 2017 18:31:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug self.bot.say(unicodedata.lookup("CALL ME HAND"))
+25 Apr 2017 18:31:55 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+KeyError: "undefined character name 'CALL ME HAND'"
+```
+25 Apr 2017 18:31:59 : RooberBoobers, kinkyrubiestalk, dick van lick#7498, ᕕ( ᐛ )ᕗ
+25 Apr 2017 18:32:07 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+25 Apr 2017 18:32:12 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, what a regular drawing looks like
+25 Apr 2017 18:32:17 : RooberBoobers, kinkyrubiestalk, navy#8336, last year i drew amedot and rupphire on a double date as lapis watched in the background, dying inside
+25 Apr 2017 18:32:39 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, didn't CN draw that for valentines day tho XD
+25 Apr 2017 18:32:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+25 Apr 2017 18:32:42 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, ruby and sapphire
+25 Apr 2017 18:32:43 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 18:32:44 : RooberBoobers, kinkyrubiestalk, DicloniusPony#6564, lemme grab it
+25 Apr 2017 18:32:46 : RooberBoobers, kinkyrubiestalk, navy#8336, yeah
+25 Apr 2017 18:32:46 : LimitlessMc, botchat, Botfuzzy77#2209, 
+25 Apr 2017 18:32:47 : RooberBoobers, kinkyrubiestalk, navy#8336, yeah
+25 Apr 2017 18:32:51 : RooberBoobers, kinkyrubiestalk, navy#8336, im hers shes mine
+25 Apr 2017 18:33:04 : RooberBoobers, kinkyrubiestalk, navy#8336, and since ruby belongs to sapph, sapphidom is canon
+25 Apr 2017 18:33:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ;relog
+25 Apr 2017 18:33:23 : LimitlessMc, botchat, Botfuzzy77#2209, Relogging...

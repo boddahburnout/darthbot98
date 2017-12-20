@@ -1,0 +1,295 @@
+Botfuzzy77#2926, Starting up...
+Botfuzzy77#2926, Loaded with Version 0.8.7
+Wertfuzzy77#0274, testing 1 2 3
+Wertfuzzy77#0274, !mute Wertfuzzy77
+Botfuzzy77#2926, Muted Wertfuzzy77
+CoolBloo#3806, kk thx
+Wertfuzzy77#0274, testing 1 2 3
+Wertfuzzy77#0274, !unmute Wertfuzzy77
+Wertfuzzy77#0274, Testing 1 2 3
+JustinOPGamer#9138, ok I am back
+Wertfuzzy77#0274, wb
+Wertfuzzy77#0274, I make fancy drop table
+Wertfuzzy77#0274, https://gist.github.com/nnarma/30567d6ea547adce48042b86eec0573d
+JustinOPGamer#9138, thx
+Wertfuzzy77#0274, so now people can actuallly see what the drops are, and their rates
+MajeecWizurd#7777, hello
+Botfuzzy77#2926, *From The Otherside*
+Wertfuzzy77#0274, hello
+Botfuzzy77#2926, *From The Otherside*
+MajeecWizurd#7777, lol i forgot about that
+Wertfuzzy77#0274, ya everyone does
+Wertfuzzy77#0274, i love it
+MajeecWizurd#7777, it makes me giggle everytime
+Wertfuzzy77#0274, ya lol
+MajeecWizurd#7777, XD
+Wertfuzzy77#0274, <@167123959031005186>
+Botfuzzy77#2926, Wut
+Wertfuzzy77#0274, hello
+Botfuzzy77#2926, *From The Otherside*
+MajeecWizurd#7777, <@167123959031005186>
+Botfuzzy77#2926, Wut
+MajeecWizurd#7777, How are you
+MajeecWizurd#7777, <@167123959031005186>  How Are You
+Botfuzzy77#2926, Wut
+MajeecWizurd#7777, lol
+Wertfuzzy77#0274, !debug bot.say("Hello")
+Botfuzzy77#2926, Hello
+Botfuzzy77#2926, ```py
+<discord.message.Message object at 0x0000022369A379E8>
+```
+Wertfuzzy77#0274, gg me
+MajeecWizurd#7777, <@167123959031005186>
+Botfuzzy77#2926, Wut
+Wertfuzzy77#0274, !debug bot.say("Go Home")
+Botfuzzy77#2926, Go Home
+Botfuzzy77#2926, ```py
+<discord.message.Message object at 0x0000022369A37888>
+```
+Wertfuzzy77#0274, !debug bot.say("Go Home").content
+Botfuzzy77#2926, ```py
+AttributeError: 'generator' object has no attribute 'content'
+```
+Wertfuzzy77#0274, !debug bot.say("Go Home").author
+Botfuzzy77#2926, ```py
+AttributeError: 'generator' object has no attribute 'author'
+```
+Wertfuzzy77#0274, :/
+Wertfuzzy77#0274, go home bot
+MajeecWizurd#7777, <@167123959031005186>
+Botfuzzy77#2926, Wut
+JustinOPGamer#9138, did server crash
+Wertfuzzy77#0274, idk
+Wertfuzzy77#0274, not online
+MajeecWizurd#7777, i think it did
+JustinOPGamer#9138, ok
+Wertfuzzy77#0274, well, rip then
+Wertfuzzy77#0274, did you guys take a look at the drop rates?
+MajeecWizurd#7777, lel
+JustinOPGamer#9138, rip Rest In Pepperonis
+MajeecWizurd#7777, no
+Wertfuzzy77#0274, https://gist.github.com/nnarma/30567d6ea547adce48042b86eec0573d
+Wertfuzzy77#0274, Also made a forum post
+JustinOPGamer#9138, yes wert I did
+MajeecWizurd#7777, ya server is ofline
+Wertfuzzy77#0274, any suggestions? or good?
+JustinOPGamer#9138, ummm let me check again okei
+MajeecWizurd#7777, wow i like these but the 5k book is really hard to get isnt it
+Wertfuzzy77#0274, 1st place only
+Wertfuzzy77#0274, for tourneys
+MajeecWizurd#7777, wow
+JustinOPGamer#9138, lel
+Wertfuzzy77#0274, or 2nd place if 20+ people
+JustinOPGamer#9138, Jay u there?
+MajeecWizurd#7777, i really should get going to make my pokes strong lol ive been so distracted by my arena
+CoolBloo#3806, hey server went down
+Wertfuzzy77#0274, ya
+Wertfuzzy77#0274, i know
+MajeecWizurd#7777, ya we know
+JustinOPGamer#9138, yup
+Wertfuzzy77#0274, tis why we are here
+JustinOPGamer#9138, yes ^
+'
+Wertfuzzy77#0274, also forum post
+Wertfuzzy77#0274, http://limitlessmc.net/f/viewtopic.php?f=11&t=3172
+Botfuzzy77#2926, **
+Redeem Tickets
+**
+
+#9550 by Wertfuzzy77
+ Mon Apr 25, 2016 12:36 pm 
+		
+So, Recently I have been working on a Ticket/redeeming system. Some of you might have seen me testing this by giving out $500 books But now I am ready for an official Release.So What are these tickets?Simply Said, These Tickets each contain a redeem code, which can be used on the server Discord to redeem a prize. The prize is completely random, and even I dont know what prize you will get. However, there is a weighted Probability. So for example, a $500 book has a very high chance to drop an item, and a low chance to drop anything else. and this is very diffferent from the 5k book. More information about Drops and Drop rates can be found Below:Link to Drop RatesHow do I get these Drops?There are 3 Major Ways you can receive these codesWin them from an Official TournamentGet them in a Drop PartyWin them in a Game hosted by StaffThe 1st Major Use for these Tickets will be in the Upcoming Noob Tournament. All of the...
+JustinOPGamer#9138, !redeem TEST
+Botfuzzy77#2926, JustinOPGamer won a Items prize from a TESTING book...
+Botfuzzy77#2926, Its a **Power Lens**
+JustinOPGamer#9138, !redeem TEST
+Botfuzzy77#2926, JustinOPGamer won a Items prize from a TESTING book...
+Botfuzzy77#2926, Its a **Expert Belt**
+JustinOPGamer#9138, !redeem TEST
+Botfuzzy77#2926, JustinOPGamer won a Money prize from a TESTING book...
+Botfuzzy77#2926, Its **$3300**
+JustinOPGamer#9138, !redeem TEST
+Botfuzzy77#2926, JustinOPGamer won a Money prize from a TESTING book...
+Botfuzzy77#2926, Its **$1200**
+JustinOPGamer#9138, !redeem TEST
+Wertfuzzy77#0274, cant make it look nice :/
+Botfuzzy77#2926, JustinOPGamer won a Items prize from a TESTING book...
+Botfuzzy77#2926, Its a **Power Anklet**
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+Botfuzzy77#2926, JustinOPGamer won a Items prize from a TESTING book...
+JustinOPGamer#9138, !redeem TEST
+Botfuzzy77#2926, Its a **Power Bracer**
+Botfuzzy77#2926, JustinOPGamer won a Money prize from a TESTING book...
+Botfuzzy77#2926, JustinOPGamer won a Legendary prize from a TESTING book...
+JustinOPGamer#9138, !redeem TEST
+Botfuzzy77#2926, JustinOPGamer won a Money prize from a TESTING book...
+Botfuzzy77#2926, JustinOPGamer won a Money prize from a TESTING book...
+Botfuzzy77#2926, JustinOPGamer won a Items prize from a TESTING book...
+Botfuzzy77#2926, JustinOPGamer won a Money prize from a TESTING book...
+Botfuzzy77#2926, Its **$1000**
+Botfuzzy77#2926, 
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, v
+JustinOPGamer#9138, v!redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+Wertfuzzy77#0274, !mute JustinOPGamer
+JustinOPGamer#9138, oooo moltres
+Botfuzzy77#2926, JustinOPGamer won a Money prize from a TESTING book...
+Botfuzzy77#2926, Muted JustinOPGamer
+Botfuzzy77#2926, JustinOPGamer won a Money prize from a TESTING book...
+Botfuzzy77#2926, Its **$1700**
+Botfuzzy77#2926, JustinOPGamer won a Money prize from a TESTING book...
+Botfuzzy77#2926, Its **$3000**
+Botfuzzy77#2926, JustinOPGamer won a Money prize from a TESTING book...
+Botfuzzy77#2926, Its **$3900**
+Botfuzzy77#2926, Its **$4300**
+Botfuzzy77#2926, Its **$1700**
+Wertfuzzy77#0274, rip
+JustinOPGamer#9138, rip
+Wertfuzzy77#0274, i mute u
+Wertfuzzy77#0274, :p
+Botfuzzy77#2926, Its **$4500**
+Botfuzzy77#2926, JustinOPGamer won a Items prize from a TESTING book...
+Botfuzzy77#2926, Its **$1500**
+Botfuzzy77#2926, JustinOPGamer won a Money prize from a TESTING book...
+Botfuzzy77#2926, Its a **Wise Glasses**
+Botfuzzy77#2926, Its a **Power Lens**
+Botfuzzy77#2926, Its **$4800**
+JustinOPGamer#9138, lel immunte to mute
+CoolBloo#3806, nice
+JustinOPGamer#9138, wert I am iimmune
+MajeecWizurd#7777, !redeem TEST
+Botfuzzy77#2926, Sorry <@167709721652887552>, I cant talk right here, it isnt safe, but visit me in #botchat
+MajeecWizurd#7777, lol oops
+JustinOPGamer#9138, lol
+MajeecWizurd#7777, !redeem TEST
+Botfuzzy77#2926, MajeecWizurd won a Money prize from a TESTING book...
+Botfuzzy77#2926, Its **$4500**
+Wertfuzzy77#0274, !mutelist
+Botfuzzy77#2926, Mute List:
+JustinOPGamer
+
+MajeecWizurd#7777, wow
+MajeecWizurd#7777, lol
+MajeecWizurd#7777, rip justin
+Wertfuzzy77#0274, !unmute JustinOPGamer
+Botfuzzy77#2926, Unmuted JustinOPGamer
+JustinOPGamer#9138, lel
+JustinOPGamer#9138, !redeem TEST
+Botfuzzy77#2926, JustinOPGamer won a Items prize from a TESTING book...
+Botfuzzy77#2926, Its a **Eviolite**
+JustinOPGamer#9138, nah
+MajeecWizurd#7777, hay so who brings the server back online
+JustinOPGamer#9138, wert do the redeem test lets compare it we each do it once
+JustinOPGamer#9138, !redeem TEST
+Botfuzzy77#2926, JustinOPGamer won a Items prize from a TESTING book...
+Botfuzzy77#2926, Its a **Lucky egg**
+Wertfuzzy77#0274, !redeem TEST
+Botfuzzy77#2926, Wertfuzzy77 won a Items prize from a TESTING book...
+Botfuzzy77#2926, Its a **Destiny Knot**
+Wertfuzzy77#0274, aw
+MajeecWizurd#7777, !redeem TEST
+Botfuzzy77#2926, MajeecWizurd won a Items prize from a TESTING book...
+Botfuzzy77#2926, Its a **Choice Scarf**
+MajeecWizurd#7777, im the best
+JustinOPGamer#9138, lel
+Wertfuzzy77#0274, Lucky Egg > Desitiny knot
+JustinOPGamer#9138, ^
+Wertfuzzy77#0274, Lucky egg > Choice scarf
+JustinOPGamer#9138, !redeem TEST
+Wertfuzzy77#0274, again
+Botfuzzy77#2926, JustinOPGamer won a Money prize from a TESTING book...
+Botfuzzy77#2926, Its **$2700**
+Wertfuzzy77#0274, !redeem TEST
+Botfuzzy77#2926, Wertfuzzy77 won a Items prize from a TESTING book...
+Botfuzzy77#2926, Its a **Power Band**
+JustinOPGamer#9138, boom
+Wertfuzzy77#0274, gj
+JustinOPGamer#9138, thx
+Wertfuzzy77#0274, !mute JustinOPGamer
+Botfuzzy77#2926, Muted JustinOPGamer
+Wertfuzzy77#0274, again
+Wertfuzzy77#0274, !redeem TEST
+Botfuzzy77#2926, Wertfuzzy77 won a Money prize from a TESTING book...
+Botfuzzy77#2926, Its **$1700**
+JustinOPGamer#9138, lel
+Wertfuzzy77#0274, i win
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST!redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST!redeem TEST!redeem TEST!redeem TEST!redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, v
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+MajeecWizurd#7777, so how the does the server come back on does jay have to do it
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST!redeem TEST!redeem TEST
+JustinOPGamer#9138, !redeem TEST
+Wertfuzzy77#0274, so, you dont have a redeem? <@170363815844773889>
+JustinOPGamer#9138, !redeem TEST!redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+Wertfuzzy77#0274, guess I win by default
+JustinOPGamer#9138, lel
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, v
+JustinOPGamer#9138, v
+JustinOPGamer#9138, !redeem TEST!redeem TEST!redeem TEST
+JustinOPGamer#9138, !redeem TEST
+JustinOPGamer#9138, v
+JustinOPGamer#9138, v
+JustinOPGamer#9138, lrll
+Wertfuzzy77#0274, staup
+JustinOPGamer#9138, lel
+Wertfuzzy77#0274, !unmute JustinOPGamer
+Botfuzzy77#2926, Unmuted JustinOPGamer
+JustinOPGamer#9138, wrong chat
+Wertfuzzy77#0274, i fix okei
+JustinOPGamer#9138, !redeem TEST
+Botfuzzy77#2926, JustinOPGamer won a Items prize from a TESTING book...
+Botfuzzy77#2926, Its a **Power Bracer**
+MajeecWizurd#7777, server?
+Wertfuzzy77#0274, "Heart beat failed, server did /stop and didn't come back"
+Wertfuzzy77#0274, Seph
+JustinOPGamer#9138, lol
+JustinOPGamer#9138, jay def trying to get server back up as soon as it went down he goes offline from discord
+Wertfuzzy77#0274, maybe idk
+JustinOPGamer#9138, !redeem TEST
+Botfuzzy77#2926, JustinOPGamer won a Items prize from a TESTING book...
+Botfuzzy77#2926, Its a **Master Ball!**
+Wertfuzzy77#0274, prob tho
+Wertfuzzy77#0274, gg
+JustinOPGamer#9138, ooooo
+JustinOPGamer#9138, it back up
+JustinOPGamer#9138, bye wert see ya on server
+Wertfuzzy77#0274, Fixed
+Wertfuzzy77#0274, seph-
+Wertfuzzy77#0274, !relog
+Botfuzzy77#2926, Relogging...

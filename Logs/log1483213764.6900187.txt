@@ -1,0 +1,96 @@
+31 Dec 2016 19:49:33 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+31 Dec 2016 19:49:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Highway to Hell Original
+31 Dec 2016 19:49:50 : LimitlessMc, botchat, Botfuzzy77#2209, Added AC/DC : Highway to hell (Full song) to the queue
+31 Dec 2016 19:49:50 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=k_jCu_u28Ig
+31 Dec 2016 19:50:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ;Radio
+31 Dec 2016 19:50:30 : LimitlessMc, botchat, Botfuzzy77#2209, Radio Mode: True
+31 Dec 2016 19:51:18 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+31 Dec 2016 19:51:18 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+31 Dec 2016 19:51:18 : LimitlessMc, botchat, Botfuzzy77#2209, 1. AC/DC - Highway to Hell **Radio**
+	<https://www.youtube.com/watch?v=gEPmA3USJdI>
+Total Time is 0:04:44
+31 Dec 2016 19:51:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 1
+31 Dec 2016 19:51:23 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: AC/DC - Highway to Hell
+31 Dec 2016 19:51:27 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+31 Dec 2016 19:51:27 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+31 Dec 2016 19:51:27 : LimitlessMc, botchat, Botfuzzy77#2209, 1. AC/DC - Highway to Hell **Radio**
+	<https://www.youtube.com/watch?v=gEPmA3USJdI>
+Total Time is 0:04:44
+31 Dec 2016 19:51:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Back in Black original
+31 Dec 2016 19:51:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 1
+31 Dec 2016 19:51:39 : LimitlessMc, botchat, Botfuzzy77#2209, Added ACDC - Back In Black - Original.wmv to the queue
+31 Dec 2016 19:51:39 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: AC/DC - Highway to Hell
+31 Dec 2016 19:51:40 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=xFbnyftPHAQ
+31 Dec 2016 19:51:53 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Shook me all night long original
+31 Dec 2016 19:51:54 : LimitlessMc, botchat, Botfuzzy77#2209, Added AC/DC - You Shook Me All Night Long [Lyrics In Description] to the queue
+31 Dec 2016 19:51:54 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=xuoXkMZvD5Q
+31 Dec 2016 19:54:08 : LimitlessMc, mainchat, shuck#1142, @Jay113355 could u help my freind (ig - lolopface) he cant join the game because of a glitch this morning that said he was in the game when he wasnt and his player was there. and he doesnt have discord so he asked me to do it.
+31 Dec 2016 19:56:01 : LimitlessMc, mainchat, Jay113355#4999, Whats the error when he joins?
+31 Dec 2016 20:01:25 : LimitlessMc, mainchat, shuck#1142, timed out but beore he said it was code and stuff
+31 Dec 2016 20:02:52 : LimitlessMc, mainchat, Gerald#7099, ​A meowth welcome to @LolopFace
+31 Dec 2016 20:03:20 : LimitlessMc, mainchat, shuck#1142, ah there he is @Jay113355
+31 Dec 2016 20:03:23 : LimitlessMc, mainchat, Corbstep#7227, im back!!!
+!
+31 Dec 2016 20:04:01 : LimitlessMc, mainchat, LolopFace#5646, hi
+31 Dec 2016 20:04:14 : LimitlessMc, mainchat, Corbstep#7227, anyone have duskull yet?
+31 Dec 2016 20:04:17 : LimitlessMc, mainchat, LolopFace#5646, @Jay113355  can you help me?
+31 Dec 2016 20:04:24 : LimitlessMc, mainchat, Corbstep#7227, yeah sure
+31 Dec 2016 20:04:28 : LimitlessMc, mainchat, Jay113355#4999, Whats the error message
+31 Dec 2016 20:04:52 : LimitlessMc, mainchat, Corbstep#7227, jay can you actually make sure it spawn duskull pls?
+31 Dec 2016 20:05:02 : LimitlessMc, mainchat, LolopFace#5646, it says no further infomation
+31 Dec 2016 20:05:17 : LimitlessMc, mainchat, Jay113355#4999, it does @Corbstep
+31 Dec 2016 20:05:30 : LimitlessMc, mainchat, Corbstep#7227, i have spent 4 hours and i swear it does not
+31 Dec 2016 20:05:44 : LimitlessMc, mainchat, Jay113355#4999, try joining @LolopFace
+31 Dec 2016 20:05:44 : LimitlessMc, mainchat, jjtwilefc#0051, It does lol
+31 Dec 2016 20:05:53 : LimitlessMc, mainchat, LolopFace#5646, JavaConnectExeption : Connection Timed Out : No further infomation
+31 Dec 2016 20:06:03 : LimitlessMc, mainchat, LolopFace#5646, k
+31 Dec 2016 20:06:43 : LimitlessMc, mainchat, LolopFace#5646, comes up with the above ^
+31 Dec 2016 20:06:44 : LimitlessMc, mainchat, shuck#1142, if saw it a few times
+31 Dec 2016 20:07:03 : LimitlessMc, mainchat, Jay113355#4999, Are you sure you have the connection in the first place
+31 Dec 2016 20:07:03 : LimitlessMc, mainchat, shuck#1142, (duskull thing)
+31 Dec 2016 20:07:13 : LimitlessMc, mainchat, Jay113355#4999, do you see us as online on the mp screen
+31 Dec 2016 20:07:27 : LimitlessMc, mainchat, LolopFace#5646, what you mean? @Jay113355
+31 Dec 2016 20:07:47 : LimitlessMc, mainchat, LolopFace#5646, I have to do the Direct conect thing
+31 Dec 2016 20:08:08 : LimitlessMc, mainchat, Jay113355#4999, copy and paste the ip your putting in
+31 Dec 2016 20:08:30 : LimitlessMc, mainchat, LolopFace#5646, mc.Limitless.net
+31 Dec 2016 20:08:42 : LimitlessMc, mainchat, Jay113355#4999, mc.limitlessmc.net
+31 Dec 2016 20:08:46 : LimitlessMc, mainchat, jjtwilefc#0051, Le
+31 Dec 2016 20:08:58 : LimitlessMc, mainchat, Jay113355#4999, you got it wrong
+31 Dec 2016 20:09:02 : LimitlessMc, mainchat, LolopFace#5646, lol im sooo dumb
+31 Dec 2016 20:09:04 : LimitlessMc, mainchat, Jay113355#4999, and you joned
+31 Dec 2016 20:09:06 : LimitlessMc, mainchat, LolopFace#5646, omfg
+31 Dec 2016 20:09:12 : LimitlessMc, mainchat, LolopFace#5646, i didnt put the second mc
+31 Dec 2016 20:09:17 : LimitlessMc, mainchat, shuck#1142, lol
+31 Dec 2016 20:09:44 : LimitlessMc, mainchat, Jay113355#4999, @Corbstep  are you looking in the right biome?
+31 Dec 2016 20:09:51 : LimitlessMc, mainchat, Jay113355#4999, and at the right time of day?
+31 Dec 2016 20:10:00 : LimitlessMc, mainchat, Corbstep#7227, in the mesa, i looked it up on pixelmon wiki
+31 Dec 2016 20:10:29 : LimitlessMc, mainchat, jjtwilefc#0051, There are different types of mesa, might only spawn in certain ones
+31 Dec 2016 20:10:46 : LimitlessMc, mainchat, jjtwilefc#0051, What's your ign?
+31 Dec 2016 20:10:49 : LimitlessMc, mainchat, Corbstep#7227, and at night jay
+31 Dec 2016 20:10:58 : LimitlessMc, mainchat, shuck#1142, go to ground gym a few around there
+31 Dec 2016 20:10:59 : LimitlessMc, mainchat, Corbstep#7227, i checked, it spawns in all mesa
+31 Dec 2016 20:11:05 : LimitlessMc, mainchat, Corbstep#7227, i am at ground gym
+31 Dec 2016 20:11:37 : LimitlessMc, mainchat, shuck#1142, probs just cus alot of people in server
+31 Dec 2016 20:21:48 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+31 Dec 2016 20:21:48 : LimitlessMc, botchat, Botfuzzy77#2209, **Name**: Iron Man 3 - Highway to Hell
+**Requester**: Radio
+**URL**: <https://www.youtube.com/watch?v=sLzDKQ_KQj8>
+```py
+Time: 0:03:31
+Views: 2,289,631
+Likes: 7,458, 96.61%
+Dislikes: 262, 3.39%```
+31 Dec 2016 20:25:40 : LimitlessMc, mainchat, Wertfuzzy77#0274, Happy new year 😄 to people on the otherside of the planet
+31 Dec 2016 20:34:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Old timer rock and roll
+31 Dec 2016 20:34:28 : LimitlessMc, botchat, Botfuzzy77#2209, Added Bob Segar - Old time rock n roll Lyrics Request - Heyy00121 to the queue
+31 Dec 2016 20:34:28 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=Ei4a4MJQ0rw
+31 Dec 2016 20:34:41 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 1
+31 Dec 2016 20:34:41 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: Full Metal Jacket Opening Scene
+31 Dec 2016 20:34:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+31 Dec 2016 20:34:42 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Top Gun legendary opening scene and credits JarO.mp4 by request (Radio Song)
+31 Dec 2016 20:54:41 : LimitlessMc, mainchat, ChesireKat#7022, ^
+31 Dec 2016 20:54:41 : LimitlessMc, mainchat, Botfuzzy77#2209, ^
+31 Dec 2016 20:55:11 : LimitlessMc, mainchat, ChesireKat#7022, tomorrow is 2017 for me :3
+31 Dec 2016 20:55:16 : LimitlessMc, mainchat, Prism_Rena#0543, (0+0)/ may you all have a good night. Be safe with the partying
+31 Dec 2016 22:00:28 : LimitlessMc, mainchat, ChesireKat#7022, @Wertfuzzy77  ohmylord what did i come back to XD
+31 Dec 2016 22:01:07 : LimitlessMc, botchat, ChesireKat#7022, ;song

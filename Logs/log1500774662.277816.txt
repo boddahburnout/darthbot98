@@ -1,0 +1,465 @@
+23 Jul 2017 01:51:12 : LimitlessMc, botchat, Bakafish#8693, before, prestiging too many times would make you gain score way too slowly
+23 Jul 2017 01:51:22 : LimitlessMc, botchat, Wertfuzzy77#0274, it should be better now tho
+23 Jul 2017 01:51:28 : LimitlessMc, botchat, Bakafish#8693, guess the formula was changed to account for that?
+23 Jul 2017 01:51:32 : LimitlessMc, botchat, Wertfuzzy77#0274, ya
+23 Jul 2017 01:51:43 : LimitlessMc, botchat, Wertfuzzy77#0274, XP stored in prestiges counts as 2x
+23 Jul 2017 01:52:10 : LimitlessMc, botchat, Bakafish#8693, as in all exp gained in a set prestige
+23 Jul 2017 01:52:19 : LimitlessMc, botchat, Wertfuzzy77#0274, so the score of someone who is lv 50 Prestige 0, would be 1/2 the amount of someone in lv 5 Prestige 1
+23 Jul 2017 01:52:34 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+23 Jul 2017 01:52:35 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+23 Jul 2017 01:52:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;yplaylist https://www.youtube.com/playlist?list=PLdakRkpsmtJHASl749igX8CUBGe0-DSH2
+23 Jul 2017 01:52:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cycle
+23 Jul 2017 01:52:50 : LimitlessMc, botchat, Botfuzzy77#2209, Cycle Mode: True
+23 Jul 2017 01:54:06 : LimitlessMc, botchat, Bakafish#8693, guess i'll prestige in a few more levels, prob at 80ish
+23 Jul 2017 01:54:12 : LimitlessMc, botchat, Bakafish#8693, gotta make the most of that double
+23 Jul 2017 01:54:13 : LimitlessMc, botchat, Botfuzzy77#2209, Finished Adding songs from playlist
+23 Jul 2017 01:54:14 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cd
+23 Jul 2017 01:54:17 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 01:54:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ;shuffle
+23 Jul 2017 01:54:17 : LimitlessMc, botchat, Botfuzzy77#2209, Shuffled songs!
+23 Jul 2017 01:54:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+23 Jul 2017 01:54:20 : LimitlessMc, botchat, Wertfuzzy77#0274, sure
+23 Jul 2017 01:54:21 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 01:54:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ;-;
+23 Jul 2017 01:54:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pbs
+23 Jul 2017 01:54:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 01:54:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lv
+23 Jul 2017 01:54:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 01:54:36 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pb GGGGGGGG
+23 Jul 2017 01:54:39 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 01:54:41 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 01:55:11 : LimitlessMc, botchat, Bakafish#8693, seaking them exps to mine with
+23 Jul 2017 01:55:20 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+23 Jul 2017 01:55:20 : LimitlessMc, botchat, TherminatorX#6644, ;mine
+23 Jul 2017 01:55:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 01:55:31 : LimitlessMc, botchat, Wertfuzzy77#0274, mining is bad at high levels
+23 Jul 2017 01:55:33 : LimitlessMc, botchat, TherminatorX#6644, ;train
+23 Jul 2017 01:55:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 01:55:38 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 01:55:40 : LimitlessMc, botchat, Bakafish#8693, ;lv
+23 Jul 2017 01:55:44 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 01:55:47 : LimitlessMc, botchat, Wertfuzzy77#0274, or rather, its riskier
+23 Jul 2017 01:55:52 : LimitlessMc, botchat, TherminatorX#6644, ;pbs
+23 Jul 2017 01:55:55 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 01:56:00 : LimitlessMc, botchat, TherminatorX#6644, ;pbt b
+23 Jul 2017 01:56:02 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 01:56:09 : LimitlessMc, botchat, TherminatorX#6644, ;pbt bbbbbbbbbbbbbbb
+23 Jul 2017 01:56:12 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 01:56:14 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 01:56:15 : LimitlessMc, botchat, Wertfuzzy77#0274, lol
+23 Jul 2017 01:56:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pb FFFFFGFF
+23 Jul 2017 01:56:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 01:56:28 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 01:56:36 : LimitlessMc, botchat, Bakafish#8693, ;cd
+23 Jul 2017 01:56:38 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 01:57:03 : LimitlessMc, botchat, TherminatorX#6644, ;cd
+23 Jul 2017 01:57:06 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 01:57:22 : LimitlessMc, botchat, TherminatorX#6644, ;pbt ddddddddddddddd
+23 Jul 2017 01:57:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 01:57:26 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 01:57:36 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pb IIIIIGII
+23 Jul 2017 01:57:36 : LimitlessMc, botchat, Bakafish#8693, so you stored the exp gain history of every user here?
+23 Jul 2017 01:57:38 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 01:57:41 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 01:57:42 : LimitlessMc, botchat, Bakafish#8693, in order to calculate score that is
+23 Jul 2017 01:57:48 : LimitlessMc, botchat, Wertfuzzy77#0274, nah
+23 Jul 2017 01:58:15 : LimitlessMc, botchat, Wertfuzzy77#0274, I just calculate it from your Level and your current XP
+23 Jul 2017 01:58:25 : LimitlessMc, botchat, Wertfuzzy77#0274, which means if you lose XP from ;mine, your score can go down
+23 Jul 2017 01:58:41 : LimitlessMc, mainchat, Lightning#6734, Rs code annoys me
+23 Jul 2017 01:58:44 : LimitlessMc, botchat, Bakafish#8693, obviously not by the full amount of exp
+23 Jul 2017 01:59:07 : LimitlessMc, mainchat, Lightning#6734, should get a new tattoo on my arm that says #CodeTriggered
+23 Jul 2017 01:59:18 : LimitlessMc, botchat, TherminatorX#6644, ;pbt eeeeddeeeeeeeee
+23 Jul 2017 01:59:20 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 01:59:22 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 01:59:22 : LimitlessMc, mainchat, Wertfuzzy77#0274, #2edgy4me
+23 Jul 2017 01:59:29 : LimitlessMc, mainchat, Lightning#6734, lul
+23 Jul 2017 01:59:34 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pb IEEEEGEE
+23 Jul 2017 01:59:36 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 01:59:36 : LimitlessMc, mainchat, Lightning#6734, don't you have any tats wert?
+23 Jul 2017 01:59:38 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 01:59:53 : LimitlessMc, mainchat, Wertfuzzy77#0274, no why
+23 Jul 2017 01:59:56 : LimitlessMc, mainchat, Wertfuzzy77#0274, find em weird
+23 Jul 2017 01:59:56 : LimitlessMc, mainchat, Lightning#6734, o.O
+23 Jul 2017 01:59:58 : LimitlessMc, botchat, Bakafish#8693, so exp gained in a single prestige bracket actually doesn't matter
+23 Jul 2017 02:00:03 : LimitlessMc, botchat, Bakafish#8693, outside of satisfying prestige exp costs
+23 Jul 2017 02:00:11 : LimitlessMc, botchat, Wertfuzzy77#0274, correct?
+23 Jul 2017 02:00:13 : LimitlessMc, mainchat, Lightning#6734, kinda though you'd atleast have 2 or 3 anime inspired ones
+23 Jul 2017 02:00:21 : LimitlessMc, botchat, Wertfuzzy77#0274, I mean, it all goes into the score
+23 Jul 2017 02:00:26 : LimitlessMc, botchat, Wertfuzzy77#0274, but Prestige XP is worth more
+23 Jul 2017 02:00:35 : LimitlessMc, mainchat, Wertfuzzy77#0274, xD
+23 Jul 2017 02:00:41 : LimitlessMc, mainchat, Wertfuzzy77#0274, what kind of weeb do you think I am
+23 Jul 2017 02:00:41 : LimitlessMc, botchat, TherminatorX#6644, Takedowns are key though
+23 Jul 2017 02:00:52 : LimitlessMc, mainchat, Lightning#6734, The Weeb ❤
+23 Jul 2017 02:00:56 : LimitlessMc, botchat, Wertfuzzy77#0274, which is why you passed crystal lol
+23 Jul 2017 02:01:02 : LimitlessMc, botchat, TherminatorX#6644, ye
+23 Jul 2017 02:01:04 : LimitlessMc, mainchat, Wertfuzzy77#0274, xD
+23 Jul 2017 02:01:05 : LimitlessMc, mainchat, Wertfuzzy77#0274, same
+23 Jul 2017 02:01:09 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+23 Jul 2017 02:01:11 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:01:13 : LimitlessMc, botchat, Bakafish#8693, so takedowns have greater weight as well
+23 Jul 2017 02:01:20 : LimitlessMc, mainchat, Lightning#6734, le
+23 Jul 2017 02:01:21 : LimitlessMc, botchat, Wertfuzzy77#0274, well, actually have a weight now xD
+23 Jul 2017 02:01:24 : LimitlessMc, botchat, Wertfuzzy77#0274, before they did nothing
+23 Jul 2017 02:01:32 : LimitlessMc, botchat, Wertfuzzy77#0274, and largest damage also gives you score
+23 Jul 2017 02:01:45 : LimitlessMc, botchat, TherminatorX#6644, owo
+23 Jul 2017 02:01:48 : LimitlessMc, botchat, Bakafish#8693, no wonder why fiodor is so high
+23 Jul 2017 02:02:02 : LimitlessMc, botchat, Bakafish#8693, pm'ing like a snek
+23 Jul 2017 02:02:19 : LimitlessMc, botchat, TherminatorX#6644, You might want to reset that for me then, since my highest damage was before the nerf
+23 Jul 2017 02:02:42 : LimitlessMc, botchat, TherminatorX#6644, Or just set it to 20k
+23 Jul 2017 02:03:04 : LimitlessMc, botchat, Wertfuzzy77#0274, yeah, ill fix it later, cause I would have to shut-down bot and manually update it
+23 Jul 2017 02:03:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lookup TherminatorX
+23 Jul 2017 02:03:18 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:03:20 : LimitlessMc, botchat, Wertfuzzy77#0274, I might reset them all
+23 Jul 2017 02:03:22 : LimitlessMc, botchat, TherminatorX#6644, ;pbt efffddfffefffff
+23 Jul 2017 02:03:24 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:03:26 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:03:48 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pbs
+23 Jul 2017 02:03:50 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:03:52 : LimitlessMc, mainchat, Bakafish#8693, wew
+23 Jul 2017 02:03:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pb Iwwwwgew
+23 Jul 2017 02:04:02 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:04:04 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:04:28 : LimitlessMc, mainchat, Wertfuzzy77#0274, "Runescape code" wat
+23 Jul 2017 02:05:27 : LimitlessMc, botchat, TherminatorX#6644, ;pbt egggddfggeggggg
+23 Jul 2017 02:05:29 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:05:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+23 Jul 2017 02:05:31 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:05:31 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Michael Buble - Daddy's Little Girl - Lyrics by request of the requester
+23 Jul 2017 02:06:01 : LimitlessMc, botchat, Wertfuzzy77#0274, @Fiodor
+23 Jul 2017 02:06:13 : LimitlessMc, botchat, Wertfuzzy77#0274, gg
+23 Jul 2017 02:06:22 : LimitlessMc, botchat, VividerConch#9448, ayyyyyy
+23 Jul 2017 02:06:25 : LimitlessMc, botchat, TherminatorX#6644, Botting possibility?
+23 Jul 2017 02:06:28 : LimitlessMc, mainchat, VividerConch#9448, Ayyyyyy
+23 Jul 2017 02:06:32 : LimitlessMc, mainchat, VividerConch#9448, How are yall?
+23 Jul 2017 02:06:35 : LimitlessMc, botchat, Wertfuzzy77#0274, nah, its only 2k
+23 Jul 2017 02:06:42 : LimitlessMc, botchat, Wertfuzzy77#0274, this is the past month in only PMs
+23 Jul 2017 02:06:53 : LimitlessMc, botchat, TherminatorX#6644, Ahhh
+23 Jul 2017 02:07:11 : LimitlessMc, botchat, Wertfuzzy77#0274, this is reg
+23 Jul 2017 02:07:16 : LimitlessMc, botchat, Wertfuzzy77#0274, all servers
+23 Jul 2017 02:07:18 : LimitlessMc, botchat, Wertfuzzy77#0274, in the last month
+23 Jul 2017 02:07:25 : LimitlessMc, mainchat, Wertfuzzy77#0274, good
+23 Jul 2017 02:07:27 : LimitlessMc, mainchat, Wertfuzzy77#0274, how are you?
+23 Jul 2017 02:07:28 : LimitlessMc, botchat, TherminatorX#6644, Yeah
+23 Jul 2017 02:07:32 : LimitlessMc, mainchat, VividerConch#9448, Eh
+23 Jul 2017 02:07:36 : LimitlessMc, mainchat, VividerConch#9448, I could be better
+23 Jul 2017 02:07:44 : LimitlessMc, mainchat, VividerConch#9448, but good nontheless
+23 Jul 2017 02:07:47 : LimitlessMc, botchat, TherminatorX#6644, Now that pokebattle is a main source again, I'll probally get back to it
+23 Jul 2017 02:08:44 : LimitlessMc, botchat, Wertfuzzy77#0274, 
+23 Jul 2017 02:08:46 : LimitlessMc, botchat, TherminatorX#6644, ;pbt egiiddfiieiggii
+23 Jul 2017 02:08:49 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:08:51 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:08:58 : LimitlessMc, botchat, Wertfuzzy77#0274, look at my fancy dashboard 😄
+23 Jul 2017 02:09:07 : LimitlessMc, botchat, TherminatorX#6644, Sheesh
+23 Jul 2017 02:09:11 : LimitlessMc, botchat, TherminatorX#6644, 2fancy4me
+23 Jul 2017 02:09:23 : LimitlessMc, botchat, TherminatorX#6644, and what about ;gamble?
+23 Jul 2017 02:09:38 : LimitlessMc, botchat, Wertfuzzy77#0274, I don't have a graph for that yet, but I can make one real quick
+23 Jul 2017 02:12:02 : LimitlessMc, botchat, TherminatorX#6644, ;pbt egnnddfnnenggni
+23 Jul 2017 02:12:04 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:12:06 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:12:07 : LimitlessMc, botchat, Wertfuzzy77#0274, 
+23 Jul 2017 02:12:13 : LimitlessMc, botchat, Wertfuzzy77#0274, crystal has like 550
+23 Jul 2017 02:12:36 : LimitlessMc, botchat, TherminatorX#6644, Hmm
+23 Jul 2017 02:12:45 : LimitlessMc, botchat, TherminatorX#6644, What about winning %s?
+23 Jul 2017 02:12:53 : LimitlessMc, botchat, Wertfuzzy77#0274, thats a little tougher xD
+23 Jul 2017 02:12:55 : LimitlessMc, botchat, TherminatorX#6644, For both mine and gamble?
+23 Jul 2017 02:12:59 : LimitlessMc, botchat, Wertfuzzy77#0274, would have to actually write a new query
+23 Jul 2017 02:13:16 : LimitlessMc, botchat, Wertfuzzy77#0274, I mean, I could give you theoretical winning %
+23 Jul 2017 02:13:29 : LimitlessMc, botchat, TherminatorX#6644, But not the actual ones
+23 Jul 2017 02:13:39 : LimitlessMc, botchat, Wertfuzzy77#0274, I would have to scrape through all of the log files
+23 Jul 2017 02:13:43 : LimitlessMc, botchat, TherminatorX#6644, Ew
+23 Jul 2017 02:13:49 : LimitlessMc, botchat, Wertfuzzy77#0274, I don't save that
+23 Jul 2017 02:13:59 : LimitlessMc, botchat, Wertfuzzy77#0274, all of this info is takes from log files
+23 Jul 2017 02:14:06 : LimitlessMc, mainchat, Lightning#6734, yes wert runescape code
+23 Jul 2017 02:14:31 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+23 Jul 2017 02:14:31 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Michael Bublé - Jingle Bells (Feat. The Puppini Sisters) [Official Lyric Video] by request of the requester
+23 Jul 2017 02:14:57 : LimitlessMc, botchat, TherminatorX#6644, ;pbt egppddfnpepggpi
+23 Jul 2017 02:14:59 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:15:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:15:51 : LimitlessMc, botchat, TherminatorX#6644, Oh right, Insane bosses take less damage from moves
+23 Jul 2017 02:16:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pbs
+23 Jul 2017 02:16:13 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:16:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pb IWWPWGEP
+23 Jul 2017 02:16:31 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:16:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:16:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ;settype water
+23 Jul 2017 02:16:39 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:16:42 : LimitlessMc, botchat, Wertfuzzy77#0274, wat
+23 Jul 2017 02:16:45 : LimitlessMc, botchat, Wertfuzzy77#0274, WAT
+23 Jul 2017 02:16:45 : LimitlessMc, botchat, TherminatorX#6644, wut
+23 Jul 2017 02:16:52 : LimitlessMc, botchat, Wertfuzzy77#0274, @Botfuzzy77 you are dumb
+23 Jul 2017 02:16:53 : LimitlessMc, botchat, TherminatorX#6644, u dun messed up
+23 Jul 2017 02:16:53 : LimitlessMc, botchat, Botfuzzy77#2209, On a good day, yes.
+23 Jul 2017 02:16:56 : LimitlessMc, botchat, Wertfuzzy77#0274, lol
+23 Jul 2017 02:16:57 : LimitlessMc, botchat, TherminatorX#6644, LOL
+23 Jul 2017 02:17:28 : LimitlessMc, botchat, Wertfuzzy77#0274, wait, thats just a visual bug
+23 Jul 2017 02:17:32 : LimitlessMc, botchat, Wertfuzzy77#0274, the code is fine
+23 Jul 2017 02:17:40 : LimitlessMc, botchat, Wertfuzzy77#0274, I had a hard coded time in the print statement
+23 Jul 2017 02:18:30 : LimitlessMc, botchat, Wertfuzzy77#0274, next restart will be fixed 😄
+23 Jul 2017 02:20:06 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cd
+23 Jul 2017 02:20:08 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:20:09 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine\
+23 Jul 2017 02:20:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;mine
+23 Jul 2017 02:20:13 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:20:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ;-;
+23 Jul 2017 02:20:18 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+23 Jul 2017 02:20:19 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:20:21 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:20:26 : LimitlessMc, botchat, TherminatorX#6644, ;pbt egppddfnsesggIP
+23 Jul 2017 02:20:28 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:20:30 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:20:37 : LimitlessMc, botchat, TherminatorX#6644, ;train
+23 Jul 2017 02:20:37 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 301 seconds before you can train again.
+23 Jul 2017 02:20:49 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pbs
+23 Jul 2017 02:20:50 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:20:51 : LimitlessMc, botchat, Wertfuzzy77#0274, ;types
+23 Jul 2017 02:20:51 : LimitlessMc, botchat, Botfuzzy77#2209, -= **Possible Types ** =-
+:regional_indicator_n: ormal
+:regional_indicator_f: ire
+:regional_indicator_w: ater
+:regional_indicator_g: rass
+:regional_indicator_p: oison
+:regional_indicator_d: ragon
+:regional_indicator_s: teel
+:regional_indicator_e: lectric
+:regional_indicator_b: ug
+:regional_indicator_i: ce
+23 Jul 2017 02:20:53 : LimitlessMc, botchat, TherminatorX#6644, ;settype grass
+23 Jul 2017 02:20:55 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:21:00 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pb IWWDWGED
+23 Jul 2017 02:21:03 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:21:05 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:21:08 : LimitlessMc, botchat, TherminatorX#6644, ;cd
+23 Jul 2017 02:21:10 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:21:16 : LimitlessMc, botchat, TherminatorX#6644, ;lv
+23 Jul 2017 02:21:19 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:21:29 : LimitlessMc, botchat, TherminatorX#6644, ;mine
+23 Jul 2017 02:21:31 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:21:41 : LimitlessMc, botchat, TherminatorX#6644, ;pbt egppddfnsesggpi
+23 Jul 2017 02:21:42 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:21:44 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:22:04 : LimitlessMc, botchat, TherminatorX#6644, ;pbs
+23 Jul 2017 02:22:07 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:22:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lv
+23 Jul 2017 02:22:20 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:22:44 : LimitlessMc, botchat, Wertfuzzy77#0274, ;bg http://i.imgur.com/5EsWxSZ.png
+23 Jul 2017 02:22:46 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:22:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;color reset
+23 Jul 2017 02:22:54 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:22:54 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lv
+23 Jul 2017 02:22:57 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:23:20 : LimitlessMc, botchat, TherminatorX#6644, ;pbt egppddfnsesggpi
+23 Jul 2017 02:23:23 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:23:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:24:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pb WIwnwgen
+23 Jul 2017 02:24:30 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:24:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:24:54 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lv
+23 Jul 2017 02:24:57 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:25:07 : LimitlessMc, mainchat, StubbyMuffins#1053, i has tattoos
+23 Jul 2017 02:25:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;color palette
+23 Jul 2017 02:25:14 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:25:20 : LimitlessMc, mainchat, StubbyMuffins#1053, 3 small ones
+23 Jul 2017 02:25:33 : LimitlessMc, botchat, TherminatorX#6644, ;pbt egggdgfnsgsgggi
+23 Jul 2017 02:25:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:25:37 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:25:43 : LimitlessMc, botchat, Wertfuzzy77#0274, ;color bar 210 120 195
+23 Jul 2017 02:25:45 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:25:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lv
+23 Jul 2017 02:25:49 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:26:36 : LimitlessMc, botchat, Wertfuzzy77#0274, ;color bar 189 108 176
+23 Jul 2017 02:26:38 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:26:39 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lv
+23 Jul 2017 02:26:42 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:27:09 : LimitlessMc, botchat, Wertfuzzy77#0274, ;color bar 170 90 176
+23 Jul 2017 02:27:11 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:27:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lv
+23 Jul 2017 02:27:15 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:27:41 : LimitlessMc, botchat, TherminatorX#6644, ;pbt eiiidifnsisigii
+23 Jul 2017 02:27:43 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:27:45 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:27:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ;color bar 160 60 170
+23 Jul 2017 02:27:50 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:27:51 : LimitlessMc, botchat, Wertfuzzy77#0274, ;lv
+23 Jul 2017 02:27:54 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:28:00 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cd
+23 Jul 2017 02:28:02 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:28:15 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pb WIwnwges
+23 Jul 2017 02:28:17 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:28:20 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:28:33 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+23 Jul 2017 02:28:33 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Michael Bublé - I've Got The World On A String at Madison Square Garden [Live] by request of the requester
+23 Jul 2017 02:28:34 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cd
+23 Jul 2017 02:28:37 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:28:52 : LimitlessMc, botchat, TherminatorX#6644, ;prestige
+23 Jul 2017 02:28:54 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:29:00 : LimitlessMc, botchat, TherminatorX#6644, ;level
+23 Jul 2017 02:29:02 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:29:07 : LimitlessMc, botchat, TherminatorX#6644, ;ranking
+23 Jul 2017 02:29:10 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:29:14 : LimitlessMc, botchat, TherminatorX#6644, So Wert
+23 Jul 2017 02:29:38 : LimitlessMc, botchat, TherminatorX#6644, If I were to prestige now (I won't due to low level boss being ew)
+23 Jul 2017 02:29:47 : LimitlessMc, botchat, TherminatorX#6644, What would happen with scores?
+23 Jul 2017 02:29:55 : LimitlessMc, botchat, Wertfuzzy77#0274, your score will go up
+23 Jul 2017 02:30:01 : LimitlessMc, botchat, Wertfuzzy77#0274, prob?
+23 Jul 2017 02:30:12 : LimitlessMc, botchat, Wertfuzzy77#0274, well, if I did it right, it will go up
+23 Jul 2017 02:30:14 : LimitlessMc, botchat, Wertfuzzy77#0274, by...
+23 Jul 2017 02:30:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug self.totalXPTo(90)
+23 Jul 2017 02:30:30 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+16768800
+```
+23 Jul 2017 02:30:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug self.totalXPTo(90)/100
+23 Jul 2017 02:30:42 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+167688.0
+```
+23 Jul 2017 02:30:55 : LimitlessMc, botchat, Wertfuzzy77#0274, about 160k
+23 Jul 2017 02:31:06 : LimitlessMc, botchat, Wertfuzzy77#0274, "if I did it right"
+23 Jul 2017 02:31:13 : LimitlessMc, botchat, TherminatorX#6644, Mkay
+23 Jul 2017 02:31:28 : LimitlessMc, botchat, TherminatorX#6644, And I'd be at level....15?
+23 Jul 2017 02:31:38 : OblivionEvolved, bots, StubbyMuffins#1053, ;level
+23 Jul 2017 02:31:40 : OblivionEvolved, bots, Botfuzzy77#2209, 
+23 Jul 2017 02:31:46 : OblivionEvolved, bots, StubbyMuffins#1053, ;ranking
+23 Jul 2017 02:31:46 : OblivionEvolved, bots, Botfuzzy77#2209, 
+23 Jul 2017 02:31:52 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug self.totalXPTo(91) - self.totalXPTo(90)
+23 Jul 2017 02:31:52 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+753571
+```
+23 Jul 2017 02:31:59 : OblivionEvolved, bots, StubbyMuffins#1053, ;train
+23 Jul 2017 02:31:59 : OblivionEvolved, bots, Botfuzzy77#2209, 
+23 Jul 2017 02:31:59 : OblivionEvolved, bots, Botfuzzy77#2209, 
+23 Jul 2017 02:32:06 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug self.totalXPTo(15)
+23 Jul 2017 02:32:06 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+14175
+```
+23 Jul 2017 02:32:11 : LimitlessMc, botchat, TherminatorX#6644, oh
+23 Jul 2017 02:32:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug self.totalXPTo(30)
+23 Jul 2017 02:32:12 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+216000
+```
+23 Jul 2017 02:32:18 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug self.totalXPTo(50)
+23 Jul 2017 02:32:18 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+1625400
+```
+23 Jul 2017 02:32:22 : LimitlessMc, botchat, Wertfuzzy77#0274, 40s
+23 Jul 2017 02:32:23 : LimitlessMc, botchat, Wertfuzzy77#0274, prob
+23 Jul 2017 02:32:32 : LimitlessMc, botchat, Wertfuzzy77#0274, ;gamesdebug self.totalXPTo(43)
+23 Jul 2017 02:32:32 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+894691
+```
+23 Jul 2017 02:32:41 : LimitlessMc, botchat, Wertfuzzy77#0274, 42 or 43 would be my guess
+23 Jul 2017 02:33:08 : LimitlessMc, botchat, TherminatorX#6644, Medium bosses start at 20?
+23 Jul 2017 02:33:09 : OblivionEvolved, bots, Wertfuzzy77#0274, ;cd
+23 Jul 2017 02:33:09 : OblivionEvolved, bots, Botfuzzy77#2209, 
+23 Jul 2017 02:33:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ya
+23 Jul 2017 02:33:23 : LimitlessMc, botchat, Wertfuzzy77#0274, hard at 50
+23 Jul 2017 02:33:27 : LimitlessMc, botchat, Wertfuzzy77#0274, insane at 80
+23 Jul 2017 02:33:33 : LimitlessMc, botchat, TherminatorX#6644, aight
+23 Jul 2017 02:33:44 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pb IWwnwges
+23 Jul 2017 02:33:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:33:49 : LimitlessMc, botchat, Wertfuzzy77#0274, 😄
+23 Jul 2017 02:33:49 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:34:00 : LimitlessMc, botchat, TherminatorX#6644, Will probs beat this boss, level up, and then prestige
+23 Jul 2017 02:34:16 : LimitlessMc, botchat, TherminatorX#6644, Hmm
+23 Jul 2017 02:34:30 : LimitlessMc, botchat, TherminatorX#6644, Would that toss me in the 50s due to being 92?
+23 Jul 2017 02:34:40 : LimitlessMc, botchat, TherminatorX#6644, Or just high 40s?
+23 Jul 2017 02:34:58 : LimitlessMc, botchat, Wertfuzzy77#0274, high 40s
+23 Jul 2017 02:35:09 : LimitlessMc, botchat, Wertfuzzy77#0274, you would have to be like half way to 93 to be 50s
+23 Jul 2017 02:35:33 : LimitlessMc, botchat, Wertfuzzy77#0274, if you had like 0 XP and lv 92, you would prob prestige into like 48
+23 Jul 2017 02:35:40 : LimitlessMc, botchat, Wertfuzzy77#0274, or maybe 49
+23 Jul 2017 02:36:34 : LimitlessMc, botchat, Wertfuzzy77#0274, ;cd
+23 Jul 2017 02:36:36 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:36:38 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pb IWwnwges
+23 Jul 2017 02:36:40 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:36:43 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:36:48 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pbs
+23 Jul 2017 02:36:50 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:37:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+23 Jul 2017 02:37:47 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Michael Buble - Mack the knife Lyrics by request of the requester
+23 Jul 2017 02:37:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+23 Jul 2017 02:37:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:38:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pb swsssges
+23 Jul 2017 02:38:33 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:38:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:38:39 : LimitlessMc, botchat, Wertfuzzy77#0274, woops
+23 Jul 2017 02:41:40 : LimitlessMc, botchat, TherminatorX#6644, ;afk snackies
+23 Jul 2017 02:41:40 : LimitlessMc, botchat, Botfuzzy77#2209, TherminatorX is now AFK for reason:
+**snackies**
+23 Jul 2017 02:42:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ;pb pwwppses
+23 Jul 2017 02:42:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:42:28 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:45:40 : LimitlessMc, mainchat, Lightning#6734, i want moar  only have 5
+23 Jul 2017 02:57:09 : LimitlessMc, botchat, TherminatorX#6644, ;afk
+23 Jul 2017 02:57:09 : LimitlessMc, botchat, Botfuzzy77#2209, TherminatorX is no Longer AFK
+23 Jul 2017 02:57:12 : LimitlessMc, botchat, TherminatorX#6644, ;cd
+23 Jul 2017 02:57:14 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:57:17 : LimitlessMc, botchat, TherminatorX#6644, ;train
+23 Jul 2017 02:57:19 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:57:21 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:57:23 : LimitlessMc, botchat, TherminatorX#6644, ;pbs
+23 Jul 2017 02:57:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:57:53 : LimitlessMc, botchat, TherminatorX#6644, ;pbt enindifnsnsngni
+23 Jul 2017 02:57:55 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 02:57:57 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 03:38:37 : LimitlessMc, mainchat, Sacramentum#8702, Hey, can someone send me the latest pixelmon version via discord PM? Thanks!
+23 Jul 2017 03:39:55 : Ultralight Memes, pokebattle, ZA BARDO#5930, ;train
+23 Jul 2017 03:39:55 : Ultralight Memes, pokebattle, Botfuzzy77#2209, 
+23 Jul 2017 03:39:55 : Ultralight Memes, pokebattle, Botfuzzy77#2209, 
+23 Jul 2017 03:39:58 : Ultralight Memes, pokebattle, ZA BARDO#5930, ;level
+23 Jul 2017 03:39:59 : Ultralight Memes, pokebattle, Botfuzzy77#2209, 
+23 Jul 2017 03:40:09 : Ultralight Memes, pokebattle, ZA BARDO#5930, ;gamble 11639
+23 Jul 2017 03:55:32 : Ultralight Memes, ultralight-memes, Guy#9635, https://www.youtube.com/watch?v=Ob37S3foodw
+23 Jul 2017 04:03:50 : LimitlessMc, botchat, TherminatorX#6644, ;pbt epipdifnspspgpi
+23 Jul 2017 04:03:53 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 04:03:54 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 04:04:04 : LimitlessMc, botchat, TherminatorX#6644, they pick up stuff
+23 Jul 2017 04:07:31 : LimitlessMc, botchat, TherminatorX#6644, ;pbt esisdifnssssgsi
+23 Jul 2017 04:07:34 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 04:07:36 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 04:11:28 : LimitlessMc, mainchat, Bakafish#8693, http://www.mediafire.com/file/n038wrsso80kxcj/Pixelmon-1.10.2-5.1.2-universal.jar
+23 Jul 2017 04:12:04 : LimitlessMc, mainchat, Bakafish#8693, if that's what you are looking for @Sacramentum
+23 Jul 2017 04:12:56 : LimitlessMc, mainchat, Bakafish#8693, also today was a great day for pokemon go
+23 Jul 2017 04:13:10 : LimitlessMc, mainchat, Bakafish#8693, even if not in go fest
+23 Jul 2017 04:14:16 : LimitlessMc, mainchat, Bakafish#8693, heard the fest didn't go so well
+23 Jul 2017 04:15:21 : LimitlessMc, mainchat, Bakafish#8693, but they tripled egg hatch & buddy candy rates, as well as doubled candy yield from any capture/hatch and most exp gains
+23 Jul 2017 04:18:47 : Ultralight Memes, pokebattle, ZA BARDO#5930, ;gamble 11639
+23 Jul 2017 04:28:37 : Alone Server, bot_chat, Crystal4209#4698, ;afk
+23 Jul 2017 04:28:44 : Alone Server, bot_chat, Crystal4209#4698, ;join
+23 Jul 2017 04:28:45 : Alone Server, bot_chat, Botfuzzy77#2209, Connected channel!
+23 Jul 2017 04:28:54 : Alone Server, bot_chat, Crystal4209#4698, ;search fairy tail dragon force
+23 Jul 2017 04:28:55 : Alone Server, bot_chat, Botfuzzy77#2209, Added Fairy Tail - Dragon Force Ost to the queue
+23 Jul 2017 04:28:55 : Alone Server, bot_chat, Botfuzzy77#2209, https://www.youtube.com/watch?v=KQwxKpu-HfA
+23 Jul 2017 04:28:59 : Alone Server, bot_chat, Crystal4209#4698, ;recommmend
+23 Jul 2017 04:29:06 : Alone Server, bot_chat, Crystal4209#4698, ;recommend
+23 Jul 2017 04:29:06 : Alone Server, bot_chat, Botfuzzy77#2209, Recommend Songs to play: True
+23 Jul 2017 04:29:09 : Alone Server, bot_chat, Crystal4209#4698, ;pbs
+23 Jul 2017 04:29:10 : Alone Server, bot_chat, Botfuzzy77#2209, 
+23 Jul 2017 04:30:43 : Alone Server, bot_chat, Crystal4209#4698, ;settype steel
+23 Jul 2017 04:30:43 : Alone Server, bot_chat, Botfuzzy77#2209, 
+23 Jul 2017 04:30:57 : LimitlessMc, botchat, Crystal4209#4698, @Wertfuzzy77 i cant change my typing ;-;
+23 Jul 2017 04:31:18 : Alone Server, bot_chat, Crystal4209#4698, ;pb nnnnnnnnnnnnnnn
+23 Jul 2017 04:31:18 : Alone Server, bot_chat, Botfuzzy77#2209, 
+23 Jul 2017 04:31:19 : Alone Server, bot_chat, Botfuzzy77#2209, 
+23 Jul 2017 04:31:28 : LimitlessMc, botchat, Crystal4209#4698, ;settype steel
+23 Jul 2017 04:31:31 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 04:31:34 : LimitlessMc, botchat, Crystal4209#4698, ;-;
+23 Jul 2017 04:32:06 : Alone Server, bot_chat, Crystal4209#4698, ;pb ppppppppppppppp
+23 Jul 2017 04:32:06 : Alone Server, bot_chat, Botfuzzy77#2209, 
+23 Jul 2017 04:32:16 : Alone Server, bot_chat, Crystal4209#4698, ;pb ppppppppppppppp
+23 Jul 2017 04:32:16 : Alone Server, bot_chat, Botfuzzy77#2209, 
+23 Jul 2017 04:32:25 : Alone Server, bot_chat, Crystal4209#4698, ;pb ppppppppppppppp
+23 Jul 2017 04:32:25 : Alone Server, bot_chat, Botfuzzy77#2209, 
+23 Jul 2017 04:32:26 : Alone Server, bot_chat, Botfuzzy77#2209, 
+23 Jul 2017 04:32:59 : Legacy Craft, general, Sleeping Quill#1038, It's totally a virus
+23 Jul 2017 04:33:14 : Alone Server, bot_chat, Crystal4209#4698, ;pb bbbbbbbbbbbbbbb
+23 Jul 2017 04:33:14 : Alone Server, bot_chat, Botfuzzy77#2209, 
+23 Jul 2017 04:33:26 : Alone Server, bot_chat, Crystal4209#4698, ;pb bbbbbbbbbbbbbbb
+23 Jul 2017 04:33:26 : Alone Server, bot_chat, Botfuzzy77#2209, 
+23 Jul 2017 04:33:26 : Alone Server, bot_chat, Botfuzzy77#2209, 
+23 Jul 2017 04:34:33 : LimitlessMc, botchat, Crystal4209#4698, ;ranking
+23 Jul 2017 04:34:33 : Legacy Craft, general, Sleeping Quill#1038, @DormantSolice you know not everyone has a good enough computer to build with recording
+23 Jul 2017 04:34:35 : LimitlessMc, botchat, Botfuzzy77#2209, 
+23 Jul 2017 04:34:48 : Alone Server, bot_chat, Crystal4209#4698, ;pb wwwwwwwwwwwwwww
+23 Jul 2017 04:34:48 : Alone Server, bot_chat, Botfuzzy77#2209, 
+23 Jul 2017 04:34:48 : Alone Server, bot_chat, Botfuzzy77#2209, 
+23 Jul 2017 04:35:50 : Alone Server, bot_chat, Crystal4209#4698, ;pb fffffffffffffff
+23 Jul 2017 04:35:50 : Alone Server, bot_chat, Botfuzzy77#2209, 
+23 Jul 2017 04:35:50 : Alone Server, bot_chat, Botfuzzy77#2209, 

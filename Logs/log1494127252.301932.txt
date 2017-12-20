@@ -1,0 +1,131 @@
+07 May 2017 03:21:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+07 May 2017 03:21:02 : LimitlessMc, botchat, Botfuzzy77#2209, Connected channel!
+07 May 2017 03:21:08 : LimitlessMc, botchat, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=oerZ1cYE-Qk
+07 May 2017 03:21:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;radio
+07 May 2017 03:21:13 : LimitlessMc, botchat, Botfuzzy77#2209, **Please choose one of these options**: 
+```py
+Electro Hub       https://temp.discord.fm/libraries/electro-hub
+Chill Corner      https://temp.discord.fm/libraries/chill-corner
+Korean Madness    https://temp.discord.fm/libraries/korean-madness
+Japanese Lounge   https://temp.discord.fm/libraries/japanese-lounge
+Classical         https://temp.discord.fm/libraries/classical
+Retro Renegade    https://temp.discord.fm/libraries/retro-renegade
+Metal Mix         https://temp.discord.fm/libraries/metal-mix
+Hip-hop           https://temp.discord.fm/libraries/hip-hop
+Electro Swing     https://temp.discord.fm/libraries/electro-swing
+Purely Pop        https://temp.discord.fm/libraries/purely-pop
+Rock-n-Roll       https://temp.discord.fm/libraries/rock-n-roll
+Coffee-house Jazz https://temp.discord.fm/libraries/coffee-house-jazz```
+Example: `;Radio Purely Pop`
+07 May 2017 03:21:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ;radio Rock-n-roll
+07 May 2017 03:21:18 : LimitlessMc, botchat, Botfuzzy77#2209, Now listening to **Rock-n-Roll** radio channel
+07 May 2017 03:21:21 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+07 May 2017 03:21:24 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 03:21:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+07 May 2017 03:21:31 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 03:21:36 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+07 May 2017 03:21:36 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Billy Joel - Live at Bonnaroo 2015 (Full Concert) (HD) by request of the requester
+07 May 2017 03:21:41 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+07 May 2017 03:21:43 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 03:21:45 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+07 May 2017 03:21:45 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Pearl Jam - Even Flow by request (Radio Song)
+07 May 2017 03:22:09 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+07 May 2017 03:22:09 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Lenny Kravitz - Fly Away by request (Radio Song)
+07 May 2017 03:22:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+07 May 2017 03:22:19 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 03:22:23 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+07 May 2017 03:22:25 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 03:22:35 : LimitlessMc, botchat, Wertfuzzy77#0274, lol, rip likes and dislikes
+07 May 2017 03:22:38 : LimitlessMc, botchat, Wertfuzzy77#0274, atleast that code works xD
+07 May 2017 03:22:49 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+07 May 2017 03:22:51 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 03:22:55 : LimitlessMc, botchat, Wertfuzzy77#0274, interesting
+07 May 2017 03:23:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+07 May 2017 03:23:04 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 03:23:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ;clear
+07 May 2017 03:23:10 : LimitlessMc, botchat, Botfuzzy77#2209, Cleared Queue!
+07 May 2017 03:23:12 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+07 May 2017 03:23:14 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 03:23:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+07 May 2017 03:23:27 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 03:23:33 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 1
+07 May 2017 03:23:34 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: REO Speedwagon - Can't Fight This Feeling
+07 May 2017 03:23:36 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 1
+07 May 2017 03:23:37 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: Billy Idol - "Mony Mony"
+07 May 2017 03:23:39 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+07 May 2017 03:23:41 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 03:23:48 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 3
+07 May 2017 03:23:49 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: The Stroke
+07 May 2017 03:23:51 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 4
+07 May 2017 03:23:52 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: Silent Lucidity QueensRyche HD
+07 May 2017 03:23:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+07 May 2017 03:23:57 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 03:24:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 4
+07 May 2017 03:24:03 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: Burnin' for You
+07 May 2017 03:24:04 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 4
+07 May 2017 03:24:05 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: U2 New Year's Day (Full Version)
+07 May 2017 03:24:07 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+07 May 2017 03:24:09 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 03:24:13 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 4
+07 May 2017 03:24:14 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: ZZ Top - La Grange
+07 May 2017 03:24:14 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 4
+07 May 2017 03:24:15 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: ZZ Top - Got me under Pressure [HD] [Studio Version]
+07 May 2017 03:24:19 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+07 May 2017 03:24:21 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 03:24:27 : LimitlessMc, botchat, Wertfuzzy77#0274, ;remove 4
+07 May 2017 03:24:28 : LimitlessMc, botchat, Botfuzzy77#2209, Removed: Chicago - Does Anybody Really Know What Time It Is?
+07 May 2017 03:24:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+07 May 2017 03:24:31 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 03:28:55 : LimitlessMc, botchat, Wertfuzzy77#0274, ;radio off
+07 May 2017 03:28:55 : LimitlessMc, botchat, Botfuzzy77#2209, Radio mode OFF
+07 May 2017 03:28:56 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+07 May 2017 03:28:58 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 03:29:05 : LimitlessMc, botchat, Wertfuzzy77#0274, ;radio
+07 May 2017 03:29:05 : LimitlessMc, botchat, Botfuzzy77#2209, **Please choose one of these options**: 
+```py
+Electro Hub       https://temp.discord.fm/libraries/electro-hub
+Chill Corner      https://temp.discord.fm/libraries/chill-corner
+Korean Madness    https://temp.discord.fm/libraries/korean-madness
+Japanese Lounge   https://temp.discord.fm/libraries/japanese-lounge
+Classical         https://temp.discord.fm/libraries/classical
+Retro Renegade    https://temp.discord.fm/libraries/retro-renegade
+Metal Mix         https://temp.discord.fm/libraries/metal-mix
+Hip-hop           https://temp.discord.fm/libraries/hip-hop
+Electro Swing     https://temp.discord.fm/libraries/electro-swing
+Purely Pop        https://temp.discord.fm/libraries/purely-pop
+Rock-n-Roll       https://temp.discord.fm/libraries/rock-n-roll
+Coffee-house Jazz https://temp.discord.fm/libraries/coffee-house-jazz```
+Example: `;Radio Purely Pop`
+07 May 2017 03:29:08 : LimitlessMc, botchat, Wertfuzzy77#0274, ;radio metal mix
+07 May 2017 03:29:09 : LimitlessMc, botchat, Botfuzzy77#2209, Now listening to **Metal Mix** radio channel
+07 May 2017 03:29:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+07 May 2017 03:29:14 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 03:29:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ;music
+07 May 2017 03:29:19 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 03:29:30 : LimitlessMc, botchat, Wertfuzzy77#0274, beautiful
+07 May 2017 03:29:34 : LimitlessMc, botchat, Wertfuzzy77#0274, everything works
+07 May 2017 03:30:32 : LimitlessMc, botchat, Wertfuzzy77#0274, ;radio
+07 May 2017 03:30:33 : LimitlessMc, botchat, Botfuzzy77#2209, **Please choose one of these options**: 
+```py
+Electro Hub       https://temp.discord.fm/libraries/electro-hub
+Chill Corner      https://temp.discord.fm/libraries/chill-corner
+Korean Madness    https://temp.discord.fm/libraries/korean-madness
+Japanese Lounge   https://temp.discord.fm/libraries/japanese-lounge
+Classical         https://temp.discord.fm/libraries/classical
+Retro Renegade    https://temp.discord.fm/libraries/retro-renegade
+Metal Mix         https://temp.discord.fm/libraries/metal-mix
+Hip-hop           https://temp.discord.fm/libraries/hip-hop
+Electro Swing     https://temp.discord.fm/libraries/electro-swing
+Purely Pop        https://temp.discord.fm/libraries/purely-pop
+Rock-n-Roll       https://temp.discord.fm/libraries/rock-n-roll
+Coffee-house Jazz https://temp.discord.fm/libraries/coffee-house-jazz```
+Example: `;Radio Purely Pop`
+07 May 2017 03:30:33 : LimitlessMc, botchat, Botfuzzy77#2209, Currently listening to the *Metal Mix* radio channel
+07 May 2017 03:30:42 : LimitlessMc, botchat, Wertfuzzy77#0274, ;radio Electro hub
+07 May 2017 03:30:42 : LimitlessMc, botchat, Botfuzzy77#2209, Now listening to **Electro Hub** radio channel
+07 May 2017 03:30:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip
+07 May 2017 03:30:47 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping In Flames - Through Oblivion by request (Radio Song)
+07 May 2017 03:30:58 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+07 May 2017 03:31:01 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 May 2017 03:31:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+07 May 2017 03:31:05 : LimitlessMc, botchat, Botfuzzy77#2209, 

@@ -1,0 +1,15 @@
+10 Jul 2016 15:49:46 : Cipher , Wertfuzzy77#0274 , ;join
+10 Jul 2016 15:49:50 : Cipher , Wertfuzzy77#0274 , ;youtube https://www.youtube.com/watch?v=pB-5XG-DbAA
+10 Jul 2016 15:49:54 : Cipher , Wertfuzzy77#0274 , ;showQueue
+10 Jul 2016 15:50:01 : Cipher , Wertfuzzy77#0274 , ;showqueue
+10 Jul 2016 15:50:01 : Cipher , Botfuzzy77#2209 , []
+10 Jul 2016 15:50:03 : Cipher , Wertfuzzy77#0274 , oooo
+10 Jul 2016 15:50:05 : Cipher , Wertfuzzy77#0274 , we did it
+10 Jul 2016 15:50:11 : Cipher , Wertfuzzy77#0274 , ;youtube https://www.youtube.com/watch?v=pB-5XG-DbAA
+10 Jul 2016 15:50:15 : Cipher , Wertfuzzy77#0274 , ;showqueue
+10 Jul 2016 15:50:15 : Cipher , Botfuzzy77#2209 , ['https://www.youtube.com/watch?v=pB-5XG-DbAA']
+10 Jul 2016 15:50:21 : Cipher , Wertfuzzy77#0274 , ;skip
+10 Jul 2016 15:50:21 : Cipher , Botfuzzy77#2209 , Skipping Sam Smith - Stay With Me
+10 Jul 2016 15:50:25 : Cipher , Wertfuzzy77#0274 , ;showqueue
+10 Jul 2016 15:50:25 : Cipher , Botfuzzy77#2209 , ['https://www.youtube.com/watch?v=pB-5XG-DbAA']
+10 Jul 2016 15:51:08 : Cipher , Wertfuzzy77#0274 , ;relog

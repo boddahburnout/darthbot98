@@ -1,0 +1,149 @@
+15 Dec 2017 23:45:07 : darth, general, darth kota#9446, Fight club lffhuyg
+15 Dec 2017 23:45:54 : darth, general, darth kota#9446, ;debug on_message
+15 Dec 2017 23:45:55 : darth, general, darthbot98#5182, ```py
+<function on_message at 0x03C7EA08>
+```
+15 Dec 2017 23:46:05 : darth, general, darth kota#9446, Fight club
+15 Dec 2017 23:46:16 : None, Direct Message with darth kota, darth kota#9446, Fight club
+15 Dec 2017 23:46:52 : darth, general, darth kota#9446, ;join
+15 Dec 2017 23:46:53 : darth, general, darthbot98#5182, Connected channel!
+15 Dec 2017 23:47:03 : darth, general, darth kota#9446, ;search simple man
+15 Dec 2017 23:47:08 : darth, general, darthbot98#5182, Added Simple Man - Lynyrd Skynyrd - Lyrics HD to the queue
+15 Dec 2017 23:47:08 : darth, general, darthbot98#5182, https://www.youtube.com/watch?v=sMmTkKz60W8
+15 Dec 2017 23:48:01 : darth, general, darth kota#9446, ;pause
+15 Dec 2017 23:48:08 : darth, general, darth kota#9446, ;resume
+16 Dec 2017 00:00:32 : None, Direct Message with darth kota, darth kota#9446, ;debug fight club
+16 Dec 2017 00:00:33 : None, Direct Message with darth kota, darthbot98#5182, Rule number 1!
+16 Dec 2017 00:00:45 : None, Direct Message with darth kota, darth kota#9446, Fight club
+16 Dec 2017 00:01:17 : darth, general, darth kota#9446, Fight club
+16 Dec 2017 00:01:27 : darth, general, darth kota#9446, fight club
+16 Dec 2017 00:01:28 : darth, general, darthbot98#5182, Rule number 1!
+16 Dec 2017 00:01:48 : darth, general, darth kota#9446, fight club
+16 Dec 2017 00:01:48 : darth, general, darthbot98#5182, Rule number 1!
+16 Dec 2017 00:05:53 : darth, general, darth kota#9446, fight club
+16 Dec 2017 00:05:53 : darth, general, darthbot98#5182, Rule number 1!
+16 Dec 2017 01:00:45 : FAM, videos-and-music, darthbot98#5182, Connected channel!
+16 Dec 2017 01:01:14 : FAM, videos-and-music, darthbot98#5182, Finished Adding songs from playlist
+16 Dec 2017 01:01:18 : FAM, videos-and-music, darthbot98#5182, 
+16 Dec 2017 01:01:26 : FAM, videos-and-music, darthbot98#5182, Finished Adding songs from playlist(s)
+16 Dec 2017 01:01:33 : FAM, videos-and-music, darthbot98#5182, Finished Adding songs from playlist
+16 Dec 2017 01:02:06 : FAM, videos-and-music, darthbot98#5182, 
+16 Dec 2017 01:02:11 : FAM, videos-and-music, darthbot98#5182, Added The Who - Won't Get Fooled Again to the queue
+16 Dec 2017 01:02:13 : FAM, videos-and-music, darthbot98#5182, 
+16 Dec 2017 01:02:20 : FAM, videos-and-music, darthbot98#5182, Finished Adding songs from playlist
+16 Dec 2017 01:02:31 : FAM, videos-and-music, darthbot98#5182, 
+16 Dec 2017 01:03:44 : FAM, videos-and-music, darth kota#9446, Use topic
+16 Dec 2017 01:03:53 : FAM, videos-and-music, darth kota#9446, ;help
+16 Dec 2017 01:03:53 : FAM, videos-and-music, darthbot98#5182, I've PM'ed you a list of my commands
+16 Dec 2017 01:03:54 : None, Direct Message with darth kota, darthbot98#5182, ```
+Darth bot, a bot for the fam, Version 0.15.1.3
+(Created by Wertfuzzy77 & Darth Kota98)
+
+FlavorTexts:
+  afk              Sets you as AFK, and the Bot will auto Reply for you with ...
+  choose           Chooses from a set of things
+  conch            Ask the Magic Conch a Question
+  ev               
+  fml              Returns a Random Post from fmylife.com
+  funify           Funifies a given text input
+  gif              Returns the First Found Image on Google Images for this Input
+  hates            Adds Emotion
+  highfive         
+  hug              Adds Emotion
+  kill             Adds Emotion
+  kiss             Adds Emotion
+  kys              
+  likes            Adds Emotion
+  lmgtfy           Returns a Link to a "Let me Google That For You" Page
+  loves            Adds Emotion
+  luck             Returns the Player's Luck
+  pokemon          Returns Links to Pokemon pages
+  rate             Rates the Player
+  rps              Allows the player to play Rock, Paper, Scissors with the B...
+  server           Returns Information on the Limitless MC server!
+  slap             Adds Emotion
+  wyr              
+Games:
+  changeBackground 
+  color            
+  cooldown         Shows your Cooldowns
+  level            Displays your Current Information
+  mine             Allows you to mine for a risk to your XP
+  pokebattle       Fights a Pokemon Boss
+  pokeboss         Displays Boss Info
+  pokedex          
+  pokehelp         Pokemon Battle Sim Help (Basically useless)
+  prestige         Allows you to prestige at the cost of levels
+  ranking          Shows the Ranking of the top players
+  recent           
+  settype          
+  train            Fights Pokemon for XP
+  types            
+MusicPlayer:
+  radio            Enables Radio Mode
+  clear            Clears the Queue
+  cycle            Tells the bot to cycle the current songs in the queue
+  extendplaylist   Extends a custom playlist
+  join             Joins the Voice channel you are currently in
+```
+16 Dec 2017 01:03:58 : FAM, off-topic, darthbot98#5182, Finished Adding songs from playlist
+16 Dec 2017 01:04:00 : FAM, off-topic, darthbot98#5182, 
+16 Dec 2017 01:04:23 : FAM, videos-and-music, darth kota#9446, At the bottom
+16 Dec 2017 01:04:45 : FAM, videos-and-music, darthbot98#5182, set!
+16 Dec 2017 01:05:00 : FAM, videos-and-music, darthbot98#5182, set!
+16 Dec 2017 01:05:03 : FAM, videos-and-music, darthbot98#5182, set!
+16 Dec 2017 01:05:06 : FAM, videos-and-music, darthbot98#5182, set!
+16 Dec 2017 01:05:12 : FAM, videos-and-music, darthbot98#5182, set!
+16 Dec 2017 01:05:40 : FAM, videos-and-music, darth kota#9446, ;view playlist
+16 Dec 2017 01:05:44 : FAM, videos-and-music, darthbot98#5182, Playlist does not exists
+16 Dec 2017 01:05:54 : FAM, videos-and-music, darthbot98#5182, Playlist does not exists
+16 Dec 2017 01:06:01 : FAM, videos-and-music, darthbot98#5182, Finished Adding songs from playlist
+16 Dec 2017 01:06:14 : FAM, videos-and-music, darth kota#9446, Reeee
+16 Dec 2017 01:06:17 : FAM, videos-and-music, darthbot98#5182, Created Playlist 1 with 0 songs
+16 Dec 2017 01:06:26 : FAM, videos-and-music, darthbot98#5182, Playlist already exists
+16 Dec 2017 01:06:52 : FAM, videos-and-music, darthbot98#5182, Finished Adding songs from playlist(s)
+16 Dec 2017 01:07:10 : FAM, videos-and-music, darthbot98#5182, Playlist already exists
+16 Dec 2017 01:07:16 : FAM, videos-and-music, darthbot98#5182, Created Playlist 2 with 1 songs
+16 Dec 2017 01:07:21 : FAM, videos-and-music, darthbot98#5182, Finished Adding songs from playlist(s)
+16 Dec 2017 01:08:30 : FAM, videos-and-music, darth kota#9446, I’ll help you later I’m at work
+16 Dec 2017 01:13:20 : FAM, main, Mee6#4876, This faggot: **fliberdoodle** just left our server.
+16 Dec 2017 01:53:47 : FAM, off-topic, darth kota#9446, ;playlist https://www.youtube.com/watch?v=SHhrZgojY1Q&list=PL8EAA83325701CE9C
+16 Dec 2017 01:55:10 : FAM, off-topic, darth kota#9446, ;reload
+16 Dec 2017 01:55:11 : FAM, off-topic, darthbot98#5182, Reloaded
+16 Dec 2017 01:55:28 : FAM, off-topic, darth kota#9446, ;playlist https://www.youtube.com/watch?v=SHhrZgojY1Q&list=PL8EAA83325701CE9C
+16 Dec 2017 01:55:29 : FAM, off-topic, darthbot98#5182, The Bot isnt connected in this server!
+16 Dec 2017 01:55:35 : FAM, off-topic, darth kota#9446, ;join
+16 Dec 2017 01:55:36 : FAM, off-topic, darthbot98#5182, Reconnected channel!
+16 Dec 2017 01:55:43 : FAM, off-topic, darth kota#9446, ;playlist https://www.youtube.com/watch?v=SHhrZgojY1Q&list=PL8EAA83325701CE9C
+16 Dec 2017 01:56:19 : FAM, off-topic, darth kota#9446, ;playlists
+16 Dec 2017 01:56:19 : FAM, off-topic, darthbot98#5182, TheChad[22], AnimeOpenings[14], Shadow[4], Perri[2], Niko[8], pixelmon[17], Eddie[18], 2015OP&EN[25], 2Cellos[5], Sheeran[6], subnautica[6], Draxos[13], Bringer[1], Dragons[4], Purr[12], Blunt[3], TLT[0], purr[6], nicky[2], Adele[5], Minecraft[10], Costantino[13], pur[8], Akinci[12], Old[9], Animenz[3], MJackson[5], WEEB2[3], FUN[3], TnDbRn[0], Amagi[1], Stubby[13], Carrie[2], GnR[5], Kimi[4], Cala[21], pokemon[13], GAGA[3], Katy[3], KenAshcorp[11], ACDC[5], Maroon[5], positivity[20], Train[3], WEEB[4], Trap[9], Coldplay[5], SteinsGate[13], Shelter[12], creepypasta[1], 1[0], 2[1]
+16 Dec 2017 01:58:54 : FAM, off-topic, darth kota#9446, ;yplaylist https://www.youtube.com/watch?v=SHhrZgojY1Q&list=PL8EAA83325701CE9C
+16 Dec 2017 01:58:56 : FAM, off-topic, darthbot98#5182, Finished Adding songs from playlist
+16 Dec 2017 01:59:23 : FAM, off-topic, darth kota#9446, ;playlist
+16 Dec 2017 01:59:23 : FAM, off-topic, darthbot98#5182, Finished Adding songs from playlist(s)
+16 Dec 2017 01:59:31 : FAM, off-topic, darth kota#9446, ;playlists
+16 Dec 2017 01:59:32 : FAM, off-topic, darthbot98#5182, TheChad[22], AnimeOpenings[14], Shadow[4], Perri[2], Niko[8], pixelmon[17], Eddie[18], 2015OP&EN[25], 2Cellos[5], Sheeran[6], subnautica[6], Draxos[13], Bringer[1], Dragons[4], Purr[12], Blunt[3], TLT[0], purr[6], nicky[2], Adele[5], Minecraft[10], Costantino[13], pur[8], Akinci[12], Old[9], Animenz[3], MJackson[5], WEEB2[3], FUN[3], TnDbRn[0], Amagi[1], Stubby[13], Carrie[2], GnR[5], Kimi[4], Cala[21], pokemon[13], GAGA[3], Katy[3], KenAshcorp[11], ACDC[5], Maroon[5], positivity[20], Train[3], WEEB[4], Trap[9], Coldplay[5], SteinsGate[13], Shelter[12], creepypasta[1], 1[0], 2[1]
+16 Dec 2017 02:01:34 : FAM, off-topic, darth kota#9446, ;yplaylist https://www.youtube.com/playlist?list=PL8EAA83325701CE9C
+16 Dec 2017 02:03:58 : FAM, off-topic, darthbot98#5182, How are you??
+16 Dec 2017 02:04:12 : FAM, off-topic, darth kota#9446, ;playlist
+16 Dec 2017 02:04:12 : FAM, off-topic, darthbot98#5182, Finished Adding songs from playlist(s)
+16 Dec 2017 02:04:18 : FAM, off-topic, darth kota#9446, ;playlists
+16 Dec 2017 02:04:18 : FAM, off-topic, darthbot98#5182, TheChad[22], AnimeOpenings[14], Shadow[4], Perri[2], Niko[8], pixelmon[17], Eddie[18], 2015OP&EN[25], 2Cellos[5], Sheeran[6], subnautica[6], Draxos[13], Bringer[1], Dragons[4], Purr[12], Blunt[3], TLT[0], purr[6], nicky[2], Adele[5], Minecraft[10], Costantino[13], pur[8], Akinci[12], Old[9], Animenz[3], MJackson[5], WEEB2[3], FUN[3], TnDbRn[0], Amagi[1], Stubby[13], Carrie[2], GnR[5], Kimi[4], Cala[21], pokemon[13], GAGA[3], Katy[3], KenAshcorp[11], ACDC[5], Maroon[5], positivity[20], Train[3], WEEB[4], Trap[9], Coldplay[5], SteinsGate[13], Shelter[12], creepypasta[1], 1[0], 2[1]
+16 Dec 2017 02:04:26 : FAM, off-topic, darth kota#9446, ;songs
+16 Dec 2017 02:04:26 : FAM, off-topic, darthbot98#5182, 
+16 Dec 2017 02:05:12 : FAM, off-topic, darth kota#9446, ;pause
+16 Dec 2017 02:05:15 : FAM, off-topic, darthbot98#5182, Finished Adding songs from playlist
+16 Dec 2017 02:06:32 : FAM, off-topic, darthbot98#5182, TheChad[22], AnimeOpenings[14], Shadow[4], Perri[2], Niko[8], pixelmon[17], Eddie[18], 2015OP&EN[25], 2Cellos[5], Sheeran[6], subnautica[6], Draxos[13], Bringer[1], Dragons[4], Purr[12], Blunt[3], TLT[0], purr[6], nicky[2], Adele[5], Minecraft[10], Costantino[13], pur[8], Akinci[12], Old[9], Animenz[3], MJackson[5], WEEB2[3], FUN[3], TnDbRn[0], Amagi[1], Stubby[13], Carrie[2], GnR[5], Kimi[4], Cala[21], pokemon[13], GAGA[3], Katy[3], KenAshcorp[11], ACDC[5], Maroon[5], positivity[20], Train[3], WEEB[4], Trap[9], Coldplay[5], SteinsGate[13], Shelter[12], creepypasta[1], 1[0], 2[1]
+16 Dec 2017 02:07:21 : FAM, videos-and-music, darthbot98#5182, Created Playlist ClassicRock with 1 songs
+16 Dec 2017 02:07:51 : FAM, videos-and-music, darthbot98#5182, Rule number 1!
+16 Dec 2017 02:08:19 : FAM, videos-and-music, darthbot98#5182, TheChad[22], AnimeOpenings[14], Shadow[4], Perri[2], Niko[8], pixelmon[17], Eddie[18], 2015OP&EN[25], 2Cellos[5], Sheeran[6], subnautica[6], Draxos[13], Bringer[1], Dragons[4], Purr[12], Blunt[3], TLT[0], purr[6], nicky[2], Adele[5], Minecraft[10], Costantino[13], pur[8], Akinci[12], Old[9], Animenz[3], MJackson[5], WEEB2[3], FUN[3], TnDbRn[0], Amagi[1], Stubby[13], Carrie[2], GnR[5], Kimi[4], Cala[21], pokemon[13], GAGA[3], Katy[3], KenAshcorp[11], ACDC[5], Maroon[5], positivity[20], Train[3], WEEB[4], Trap[9], Coldplay[5], SteinsGate[13], Shelter[12], creepypasta[1], 1[0], 2[1], ClassicRock[1]
+16 Dec 2017 02:08:35 : FAM, videos-and-music, darthbot98#5182, TheChad[22], AnimeOpenings[14], Shadow[4], Perri[2], Niko[8], pixelmon[17], Eddie[18], 2015OP&EN[25], 2Cellos[5], Sheeran[6], subnautica[6], Draxos[13], Bringer[1], Dragons[4], Purr[12], Blunt[3], TLT[0], purr[6], nicky[2], Adele[5], Minecraft[10], Costantino[13], pur[8], Akinci[12], Old[9], Animenz[3], MJackson[5], WEEB2[3], FUN[3], TnDbRn[0], Amagi[1], Stubby[13], Carrie[2], GnR[5], Kimi[4], Cala[21], pokemon[13], GAGA[3], Katy[3], KenAshcorp[11], ACDC[5], Maroon[5], positivity[20], Train[3], WEEB[4], Trap[9], Coldplay[5], SteinsGate[13], Shelter[12], creepypasta[1], 1[0], 2[1], ClassicRock[1]
+16 Dec 2017 02:08:37 : FAM, videos-and-music, darthbot98#5182, TheChad[22], AnimeOpenings[14], Shadow[4], Perri[2], Niko[8], pixelmon[17], Eddie[18], 2015OP&EN[25], 2Cellos[5], Sheeran[6], subnautica[6], Draxos[13], Bringer[1], Dragons[4], Purr[12], Blunt[3], TLT[0], purr[6], nicky[2], Adele[5], Minecraft[10], Costantino[13], pur[8], Akinci[12], Old[9], Animenz[3], MJackson[5], WEEB2[3], FUN[3], TnDbRn[0], Amagi[1], Stubby[13], Carrie[2], GnR[5], Kimi[4], Cala[21], pokemon[13], GAGA[3], Katy[3], KenAshcorp[11], ACDC[5], Maroon[5], positivity[20], Train[3], WEEB[4], Trap[9], Coldplay[5], SteinsGate[13], Shelter[12], creepypasta[1], 1[0], 2[1], ClassicRock[1]
+16 Dec 2017 02:08:39 : FAM, videos-and-music, darthbot98#5182, Finished Adding songs from playlist(s)
+16 Dec 2017 02:10:50 : FAM, videos-and-music, darthbot98#5182, 
+16 Dec 2017 02:11:00 : FAM, videos-and-music, darthbot98#5182, Recommend Songs to play: True
+16 Dec 2017 02:11:03 : FAM, videos-and-music, darthbot98#5182, 
+16 Dec 2017 02:55:08 : FAM, videos-and-music, darthbot98#5182, 
+16 Dec 2017 03:55:53 : FAM, main, Psychopomp#4082, why do you care so much when people who are never active leave the server
+16 Dec 2017 04:30:57 : FAM, main, Psychopomp#4082, they were adopted anyway
+16 Dec 2017 04:59:09 : FAM, videos-and-music, darthbot98#5182, 

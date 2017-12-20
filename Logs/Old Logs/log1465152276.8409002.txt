@@ -1,0 +1,63 @@
+Topheralan#1202, I haven't downloaded the discord to mc yet and I don't think I will. Lol
+Dudubidu#6605, I will with the next update
+Wertfuzzy77#0274, ```Patch Notes 0.10.5
+-Implemented Slap cmd
+```
+Akinci#5072, Is that a thing? Discord in MC?
+Wertfuzzy77#0274, !slap Topher
+Topheralan#1202, !slap Calamariela
+Botfuzzy77#2926, **Wertfuzzy77 slapped Topher**
+Botfuzzy77#2926, **Topheralan slapped Calamariela**
+Topheralan#1202, Lmao!!
+Akinci#5072, !slap akinci
+Botfuzzy77#2926, **Akinci slapped akinci**
+Wertfuzzy77#0274, gj
+Akinci#5072, Lol
+Akinci#5072, It hurts
+Calamariela#4119, can i kiss toph?
+Dudubidu#6605, !slap botfuzzy77
+Botfuzzy77#2926, **Dudubidu slapped botfuzzy77**
+Wertfuzzy77#0274, i wish i could color text
+Topheralan#1202, !slap GET AN ICON YA BUM
+Botfuzzy77#2926, **Topheralan slapped GET**
+Wertfuzzy77#0274, lol gg
+Dudubidu#6605, <@167123959031005186> u dumb
+Botfuzzy77#2926, Wut
+Topheralan#1202, And no you may not <@183307266475294721> 
+Calamariela#4119, plsssss
+Calamariela#4119, cheek kissy
+Topheralan#1202, !cuntpunch Calamariela
+Calamariela#4119, xD
+Topheralan#1202, Lelel
+Calamariela#4119, !kiss toph
+Dudubidu#6605, Er
+Wertfuzzy77#0274, nother sec
+Topheralan#1202, Always improving <@167123959031005186> 
+Botfuzzy77#2926, Wut
+Wertfuzzy77#0274, !status
+Botfuzzy77#2926, UpTime: 159.358s
+Botfuzzy77#2926, Total Messages: 28
+Akinci#5072, Seems like implementing cmds are easy <@!134441036905840640> 
+Wertfuzzy77#0274, well ya
+Wertfuzzy77#0274, these ones are 1 line
+Wertfuzzy77#0274, ```@bot.command(pass_context = True)
+async def slap(ctx, member : str):
+    await bot.say("**{} slapped {}**".format(ctx.message.author.name, member))```
+Dudubidu#6605, Its not that hard for commands like that
+Dudubidu#6605, Ik how python works
+Dudubidu#6605, But it is an if
+Wertfuzzy77#0274, looks complicated but ez
+Topheralan#1202, I honestly feel like it's some sort of wizardry
+Wertfuzzy77#0274, is
+Akinci#5072, Lol
+Wertfuzzy77#0274, i am a wizard
+Dudubidu#6605, *idk
+Akinci#5072, !slap wizard
+Botfuzzy77#2926, **Akinci slapped wizard**
+Dudubidu#6605, Am i right wert?
+Akinci#5072, :/
+Topheralan#1202, Lol
+Topheralan#1202, !slap Botfuzzy77
+Botfuzzy77#2926, **Topheralan slapped Botfuzzy77**
+Wertfuzzy77#0274, !relog
+Botfuzzy77#2926, Relogging...

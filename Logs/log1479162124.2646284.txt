@@ -1,0 +1,1091 @@
+14 Nov 2016 22:22:21 : The Wild Weebs, music, Wertfuzzy77#0274, ;join
+14 Nov 2016 22:22:25 : The Wild Weebs, music, Wertfuzzy77#0274, ;playlist AnimeOpenings
+14 Nov 2016 22:22:36 : LimitlessMc, botchat, crystal4209#4698, ;server
+14 Nov 2016 22:22:37 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+14 Nov 2016 22:22:37 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 10 players out of 200
+ *Ping*: 149.786 ms
+ *MC Version*: 1.10.2
+14 Nov 2016 22:22:37 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *fugarwe, _BeefBoy, Prism_Rena, sonurtoichi, Omed, loserulz12, LaPierre002, Panejo, GentlyGaming, S_a_r_a_h1...*
+14 Nov 2016 22:23:16 : The Wild Weebs, music, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+14 Nov 2016 22:24:39 : LimitlessMc, botchat, DDriggs00#0005, ;h
+14 Nov 2016 22:24:45 : LimitlessMc, botchat, DDriggs00#0005, ;hep
+14 Nov 2016 22:24:45 : LimitlessMc, botchat, Botfuzzy77#2209, Dont Be Lazy, Type ;help
+14 Nov 2016 22:25:45 : LimitlessMc, botchat, DDriggs00#0005, ;luck
+14 Nov 2016 22:25:45 : LimitlessMc, botchat, Botfuzzy77#2209, DDriggs00's luck is 55.99 out of 100, which is **Not Bad**
+14 Nov 2016 22:26:24 : LimitlessMc, botchat, DDriggs00#0005, ;luck notch
+14 Nov 2016 22:26:24 : LimitlessMc, botchat, Botfuzzy77#2209, DDriggs00's luck is 97.31 out of 100, which is **AMAZING**
+14 Nov 2016 23:07:54 : The Wild Weebs, general, Tally#2764, ?train
+14 Nov 2016 23:07:54 : The Wild Weebs, general, enragedrobo#6009, You begin training...
+
+You didn't benefit much from basic training...
+
+You begin fighting some monsters in the forest...
+You *beat* a Lv. **36** **General** (EXP: +**216.0**) (Chance: **17.193%**)
+You *beat* a Lv. **38** **General** (EXP: +**228.0**) (Chance: **15.463%**)
+You *lost* to a Lv. **48** **Captain** (Chance: **6.747%**)
+
+You gained **1056** XP!
+14 Nov 2016 23:07:58 : The Wild Weebs, general, Tally#2764, ?summary
+14 Nov 2016 23:07:58 : The Wild Weebs, general, enragedrobo#6009, @Tally
+
+**Level 17** (1644 EXP)
+Gamble: **Up!**
+Boss: **-5278** minutes
+Train: **59** minutes
+Grace: **Up!**
+14 Nov 2016 23:08:03 : The Wild Weebs, general, Tally#2764, ummmmmmmmmm
+14 Nov 2016 23:08:09 : The Wild Weebs, general, Tally#2764, that boss timer @凛
+14 Nov 2016 23:08:17 : The Wild Weebs, general, Tally#2764, ?gamble 1600
+14 Nov 2016 23:08:17 : The Wild Weebs, general, enragedrobo#6009, The black magic courses through you. You gain a portion of your remaining level.
+14 Nov 2016 23:08:21 : The Wild Weebs, general, Tally#2764, ?summary
+14 Nov 2016 23:08:21 : The Wild Weebs, general, enragedrobo#6009, **:up: | Level Up!**
+14 Nov 2016 23:08:21 : The Wild Weebs, general, enragedrobo#6009, 
+14 Nov 2016 23:08:22 : The Wild Weebs, general, enragedrobo#6009, @Tally
+
+**Level 18** (249 EXP)
+Gamble: **Up!**
+Boss: **-5302** minutes
+Train: **59** minutes
+Grace: **Up!**
+14 Nov 2016 23:08:41 : The Wild Weebs, general, Tally#2764, @Wertfuzzy77 why is boss timer fucked
+14 Nov 2016 23:10:10 : The Wild Weebs, general, enragednuke#2565, lol ik
+14 Nov 2016 23:10:13 : The Wild Weebs, general, enragednuke#2565, its cause boss is dead
+14 Nov 2016 23:12:46 : The Wild Weebs, general, enragednuke#2565, @Wertfuzzy77 check out this problem https://projecteuler.net/problem=24
+14 Nov 2016 23:12:56 : The Wild Weebs, general, enragednuke#2565, got my brain workin on that one
+14 Nov 2016 23:21:40 : The Wild Weebs, general, Wertfuzzy77#0274, when food
+14 Nov 2016 23:22:48 : The Wild Weebs, general, enragednuke#2565, uh
+14 Nov 2016 23:22:54 : The Wild Weebs, general, enragednuke#2565, right now I guess, i'll leave in like 30s
+14 Nov 2016 23:23:02 : The Wild Weebs, general, enragednuke#2565, look at that problem while u wait
+14 Nov 2016 23:23:08 : The Wild Weebs, general, Wertfuzzy77#0274, I am, and thinking of a way to solve
+14 Nov 2016 23:24:11 : The Wild Weebs, coding, Wertfuzzy77#0274, ;debug 1*2*3*4*5*6*7*8*9
+14 Nov 2016 23:24:11 : The Wild Weebs, coding, Botfuzzy77#2209, ```py
+362880
+```
+14 Nov 2016 23:24:30 : The Wild Weebs, coding, Wertfuzzy77#0274, 1000000/362880
+14 Nov 2016 23:24:35 : The Wild Weebs, coding, Wertfuzzy77#0274, ;debug 1000000/362880
+14 Nov 2016 23:24:35 : The Wild Weebs, coding, Botfuzzy77#2209, ```py
+2.755731922398589
+```
+14 Nov 2016 23:25:30 : The Wild Weebs, coding, Wertfuzzy77#0274, ;debug 362880 * 2
+14 Nov 2016 23:25:30 : The Wild Weebs, coding, Botfuzzy77#2209, ```py
+725760
+```
+14 Nov 2016 23:25:51 : The Wild Weebs, coding, Wertfuzzy77#0274, ;debug 12345678
+14 Nov 2016 23:25:51 : The Wild Weebs, coding, Botfuzzy77#2209, ```py
+12345678
+```
+14 Nov 2016 23:26:02 : The Wild Weebs, coding, Wertfuzzy77#0274, ;debug 1*2*3*4*5*6*7*8
+14 Nov 2016 23:26:02 : The Wild Weebs, coding, Botfuzzy77#2209, ```py
+40320
+```
+14 Nov 2016 23:26:15 : The Wild Weebs, coding, Wertfuzzy77#0274, ;debug 1000000-725760
+14 Nov 2016 23:26:15 : The Wild Weebs, coding, Botfuzzy77#2209, ```py
+274240
+```
+14 Nov 2016 23:26:28 : The Wild Weebs, coding, Wertfuzzy77#0274, ;debug 274240/40320
+14 Nov 2016 23:26:28 : The Wild Weebs, coding, Botfuzzy77#2209, ```py
+6.801587301587301
+```
+14 Nov 2016 23:26:52 : The Wild Weebs, coding, Wertfuzzy77#0274, ;debug 40320 * 6 + 725760
+14 Nov 2016 23:26:52 : The Wild Weebs, coding, Botfuzzy77#2209, ```py
+967680
+```
+14 Nov 2016 23:27:30 : The Wild Weebs, coding, Wertfuzzy77#0274, ;debug 1*2*3*4*5*6*7
+14 Nov 2016 23:27:30 : The Wild Weebs, coding, Botfuzzy77#2209, ```py
+5040
+```
+14 Nov 2016 23:27:39 : The Wild Weebs, coding, Wertfuzzy77#0274, ;debug 1000000 - 967680
+14 Nov 2016 23:27:39 : The Wild Weebs, coding, Botfuzzy77#2209, ```py
+32320
+```
+14 Nov 2016 23:27:49 : The Wild Weebs, coding, Wertfuzzy77#0274, ;debug 32320/5040
+14 Nov 2016 23:27:49 : The Wild Weebs, coding, Botfuzzy77#2209, ```py
+6.412698412698413
+```
+14 Nov 2016 23:28:01 : The Wild Weebs, coding, Wertfuzzy77#0274, ;debug 5040 * 6
+14 Nov 2016 23:28:01 : The Wild Weebs, coding, Botfuzzy77#2209, ```py
+30240
+```
+14 Nov 2016 23:28:10 : The Wild Weebs, coding, Wertfuzzy77#0274, ;debug 967680 + 30240
+14 Nov 2016 23:28:10 : The Wild Weebs, coding, Botfuzzy77#2209, ```py
+997920
+```
+14 Nov 2016 23:28:32 : The Wild Weebs, coding, Wertfuzzy77#0274, ;debug 1*2*3*4*5*6
+14 Nov 2016 23:28:32 : The Wild Weebs, coding, Botfuzzy77#2209, ```py
+720
+```
+14 Nov 2016 23:28:43 : The Wild Weebs, coding, Wertfuzzy77#0274, ;debug 1000000-997920
+14 Nov 2016 23:28:44 : The Wild Weebs, coding, Botfuzzy77#2209, ```py
+2080
+```
+14 Nov 2016 23:28:47 : The Wild Weebs, coding, Wertfuzzy77#0274, ;debug 2080/720
+14 Nov 2016 23:28:48 : The Wild Weebs, coding, Botfuzzy77#2209, ```py
+2.888888888888889
+```
+14 Nov 2016 23:29:01 : The Wild Weebs, coding, Wertfuzzy77#0274, ;debug 720*2
+14 Nov 2016 23:29:01 : The Wild Weebs, coding, Botfuzzy77#2209, ```py
+1440
+```
+14 Nov 2016 23:29:12 : The Wild Weebs, coding, Wertfuzzy77#0274, ;debug 997920 + 1440
+14 Nov 2016 23:29:12 : The Wild Weebs, coding, Botfuzzy77#2209, ```py
+999360
+```
+14 Nov 2016 23:29:26 : The Wild Weebs, coding, Wertfuzzy77#0274, ;debug 1*2*3*4*5
+14 Nov 2016 23:29:26 : The Wild Weebs, coding, Botfuzzy77#2209, ```py
+120
+```
+14 Nov 2016 23:29:34 : The Wild Weebs, coding, Wertfuzzy77#0274, ;debug 1000000-999360
+14 Nov 2016 23:29:34 : The Wild Weebs, coding, Botfuzzy77#2209, ```py
+640
+```
+14 Nov 2016 23:29:41 : The Wild Weebs, coding, Wertfuzzy77#0274, ;debug 640/120
+14 Nov 2016 23:29:41 : The Wild Weebs, coding, Botfuzzy77#2209, ```py
+5.333333333333333
+```
+14 Nov 2016 23:29:49 : The Wild Weebs, coding, Wertfuzzy77#0274, ;debug 120*5
+14 Nov 2016 23:29:49 : The Wild Weebs, coding, Botfuzzy77#2209, ```py
+600
+```
+14 Nov 2016 23:30:18 : The Wild Weebs, coding, Wertfuzzy77#0274, ;debug 1*2*3*4
+14 Nov 2016 23:30:18 : The Wild Weebs, coding, Botfuzzy77#2209, ```py
+24
+```
+14 Nov 2016 23:30:43 : The Wild Weebs, coding, Wertfuzzy77#0274, ;debug 123
+14 Nov 2016 23:30:43 : The Wild Weebs, coding, Botfuzzy77#2209, ```py
+123
+```
+14 Nov 2016 23:30:52 : The Wild Weebs, coding, Wertfuzzy77#0274, ;debug 1*2*3
+14 Nov 2016 23:30:52 : The Wild Weebs, coding, Botfuzzy77#2209, ```py
+6
+```
+14 Nov 2016 23:30:59 : The Wild Weebs, coding, Wertfuzzy77#0274, ;debug 100-84
+14 Nov 2016 23:30:59 : The Wild Weebs, coding, Botfuzzy77#2209, ```py
+16
+```
+14 Nov 2016 23:32:59 : The Wild Weebs, general, Wertfuzzy77#0274, @凛 you left yet?
+14 Nov 2016 23:34:11 : The Wild Weebs, general, enragednuke#2565, I'm basically almost there...
+14 Nov 2016 23:34:27 : The Wild Weebs, general, enragednuke#2565, I said i was leaving in 30 seconds awhile afo
+14 Nov 2016 23:34:31 : The Wild Weebs, general, enragednuke#2565, ago
+14 Nov 2016 23:40:23 : The Wild Weebs, general, Tally#2764, penis ❤
+14 Nov 2016 23:40:26 : The Wild Weebs, general, Tally#2764, ^ tony
+14 Nov 2016 23:46:13 : LimitlessMc, mainchat, theOnlyJuan#9357, Wait for 12
+14 Nov 2016 23:46:59 : LimitlessMc, botchat, theOnlyJuan#9357, ;luck
+14 Nov 2016 23:46:59 : LimitlessMc, botchat, Botfuzzy77#2209, theOnlyJuan's luck is 24.72 out of 100, which is **Pretty Bad**
+14 Nov 2016 23:47:06 : LimitlessMc, botchat, theOnlyJuan#9357, ;luck
+14 Nov 2016 23:47:06 : LimitlessMc, botchat, Botfuzzy77#2209, theOnlyJuan's luck is 75.59 out of 100, which is **Pretty Good**
+14 Nov 2016 23:47:12 : LimitlessMc, botchat, theOnlyJuan#9357, ;server
+14 Nov 2016 23:47:12 : LimitlessMc, botchat, Botfuzzy77#2209, *Server is Down :(*
+14 Nov 2016 23:47:21 : LimitlessMc, botchat, theOnlyJuan#9357, Rip
+14 Nov 2016 23:47:29 : LimitlessMc, botchat, theOnlyJuan#9357, ;fml
+14 Nov 2016 23:47:30 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I went to the dentist after not being there for 3 years.  I was told that I had loads of cavities and that I would need to pay $3,000 for a serious mouth surgery.  The reason I hadn't been to the dentist in 3 years: I've been married to a dentist for 3 years that said my teeth were "perfect."  FML*
+14 Nov 2016 23:48:01 : LimitlessMc, botchat, theOnlyJuan#9357, Lel
+14 Nov 2016 23:56:15 : The Wild Weebs, general, enragednuke#2565, wat
+15 Nov 2016 00:02:33 : The Wild Weebs, general, Ryan#3332, penis 😍
+15 Nov 2016 00:20:40 : LimitlessMc, botchat, Wertfuzzy77#0274, lol
+15 Nov 2016 00:20:41 : LimitlessMc, botchat, Wertfuzzy77#0274, ;fml
+15 Nov 2016 00:20:42 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, while on a vacation, I tried to step out of myself and flirt with this boy who I thought was cute. He was going along with it and nodding so I thought it was working. Then he opened his mouth and I realized he didn't speak English. FML*
+15 Nov 2016 00:20:51 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+15 Nov 2016 00:22:31 : LimitlessMc, botchat, Wertfuzzy77#0274, ;fml
+15 Nov 2016 00:22:31 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, my teenage daughter tried to convince me that the UK is a part of Canada. After I pulled out a map to prove her wrong, she got all angry and defensive, and said that nobody's perfect at "geometry". My daughter is an idiot. FML*
+15 Nov 2016 00:22:44 : LimitlessMc, botchat, Wertfuzzy77#0274, lol
+15 Nov 2016 00:22:53 : LimitlessMc, botchat, Wertfuzzy77#0274, ;fml
+15 Nov 2016 00:22:53 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was diagnosed with food poisoning for the third time since moving to this base in Japan. My husband keeps cooking questionable meat and vegetables from the commissary because he thinks the food from a Japanese grocery store is radioactive. FML*
+15 Nov 2016 00:23:02 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+15 Nov 2016 00:23:09 : LimitlessMc, botchat, Wertfuzzy77#0274, ;fml
+15 Nov 2016 00:23:10 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I started my period. I am getting married tomorrow. So, not only am I going to be on my period for my wedding night and honeymoon, my best friend has to help me change my pad because my dress is so big. FML*
+15 Nov 2016 00:23:23 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+15 Nov 2016 00:23:34 : LimitlessMc, botchat, Wertfuzzy77#0274, ;fml
+15 Nov 2016 00:23:35 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, my mum asked when she's getting grandkids. I had to tell her that, at 21 years old, I hadn't even managed to get a boyfriend yet. FML*
+15 Nov 2016 00:23:42 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+15 Nov 2016 00:23:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;fml
+15 Nov 2016 00:23:51 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, my boyfriend of three years asked me if I ever wanted to get married. I said yes. He said, 'But what happens if you never find a guy who likes you that much?' FML*
+15 Nov 2016 00:24:09 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+15 Nov 2016 00:24:14 : LimitlessMc, botchat, Wertfuzzy77#0274, thats 3 rips in a row
+15 Nov 2016 00:24:16 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+15 Nov 2016 00:24:25 : LimitlessMc, botchat, Wertfuzzy77#0274, ;fml
+15 Nov 2016 00:24:26 : LimitlessMc, botchat, Botfuzzy77#2209, *Today,  I found out that my neighbors' 9 year old son has been the one taking a shit on my doorstep everyday. Why? Because Cartman from South Park said that if you keep doing it, the person in the house will move. FML*
+15 Nov 2016 00:24:39 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+15 Nov 2016 00:24:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ;fml
+15 Nov 2016 00:24:50 : LimitlessMc, botchat, Botfuzzy77#2209, *Today,  I had to fake fall down the stairs so my mom would stop texting and actually pay attention to what I was saying. FML*
+15 Nov 2016 00:25:00 : LimitlessMc, botchat, Wertfuzzy77#0274, lol
+15 Nov 2016 00:38:40 : The Wild Weebs, general, enragednuke#2565, wat
+15 Nov 2016 01:07:37 : The Wild Weebs, general, Wertfuzzy77#0274, ?train
+15 Nov 2016 01:07:37 : The Wild Weebs, general, enragedrobo#6009, You begin training...
+
+You didn't benefit much from basic training...
+
+You begin fighting some monsters in the forest...
+You *beat* a Lv. **36** **Soldier** (EXP: +**180**) (Chance: **48.98%**)
+You *beat* a Lv. **57** **Captain** (EXP: +**356.25**) (Chance: **29.273%**)
+
+You gained **2216** XP!
+15 Nov 2016 01:07:40 : GreenHillGang, general, Roshannarma#0890, @Wertfuzzy77 nick
+15 Nov 2016 01:07:41 : GreenHillGang, general, Roshannarma#0890, game
+15 Nov 2016 01:12:31 : GreenHillGang, general, Roshannarma#0890, @Wertfuzzy77
+15 Nov 2016 01:12:57 : LimitlessMc, botchat, Wertfuzzy77#0274, ;fml
+15 Nov 2016 01:12:57 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was at a café with my friends when an elderly man noticed my dimples. He came up to me, stroked them while whispering, "One in a million" then walked out. Now my friends do this to me constantly, even while driving home. I almost hit a tree. FML*
+15 Nov 2016 01:13:16 : LimitlessMc, botchat, Wertfuzzy77#0274, lol
+15 Nov 2016 01:13:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ;fml
+15 Nov 2016 01:13:18 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I locked myself out of my truck for the first time.  While trying to unlock it, it started to rain.  After half an hour, I successfully unlocked the door and then drove over my book bag, which I had placed underneath the car to keep it out of the rain.  FML*
+15 Nov 2016 01:13:28 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+15 Nov 2016 01:13:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;fml
+15 Nov 2016 01:13:31 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, while working at McDonald's, a woman asked me what came on a bacon, egg, and cheese biscuit. Trying not to laugh, I respond, "Bacon, egg, and cheese." She then realizes the stupidity of her question, and launches three dollars worth of quarters at my face and says, "Laugh at that, jerk." FML*
+15 Nov 2016 01:39:32 : GreenHillGang, general, Wertfuzzy77#0274, sorry, forgot and started an aram game
+15 Nov 2016 01:44:58 : GreenHillGang, general, Roshannarma#0890, lol
+15 Nov 2016 01:45:32 : GreenHillGang, general, Roshannarma#0890, you spectating my game?
+15 Nov 2016 01:46:58 : LimitlessMc, botchat, theOnlyJuan#9357, Lel ^
+15 Nov 2016 01:47:04 : LimitlessMc, botchat, theOnlyJuan#9357, ;server
+15 Nov 2016 01:47:04 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+15 Nov 2016 01:47:04 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 20 players out of 200
+ *Ping*: 150.112 ms
+ *MC Version*: 1.10.2
+15 Nov 2016 01:47:04 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *FearlessFalconX, YunhoKookie, coolpix6, AussieAge, Bringer0fDeath7, fugarwe, Prism_Rena, MGirard, ZaqDotExe, LaPierre002, S_a_r_a_h1, starwarsdude776...*
+15 Nov 2016 01:47:56 : GreenHillGang, general, Wertfuzzy77#0274, ya
+15 Nov 2016 01:48:02 : GreenHillGang, general, Roshannarma#0890, i finished
+15 Nov 2016 01:49:58 : LimitlessMc, botchat, theOnlyJuan#9357, ;join
+15 Nov 2016 01:49:58 : LimitlessMc, botchat, Botfuzzy77#2209, Sorry, I'm already connected to a channel in server The Wild Weebs
+15 Nov 2016 01:50:07 : LimitlessMc, botchat, theOnlyJuan#9357, Rip
+15 Nov 2016 01:55:05 : LimitlessMc, mainchat, Spankster216#8779, 12. definitly
+15 Nov 2016 03:26:40 : The Wild Weebs, general, Wertfuzzy77#0274, ?train
+15 Nov 2016 03:26:40 : The Wild Weebs, general, enragedrobo#6009, You begin training...
+
+You didn't benefit much from basic training...
+
+You begin fighting some monsters in the forest...
+You *lost* to a Lv. **34** **General** (Chance: **24.713%**)
+
+You gained **1680** XP!
+15 Nov 2016 04:44:07 : LimitlessMc, botchat, DDriggs00#0005, ;rate
+15 Nov 2016 04:44:07 : LimitlessMc, botchat, Botfuzzy77#2209, DDriggs00 is Basically Garbage
+15 Nov 2016 04:44:16 : LimitlessMc, botchat, DDriggs00#0005, ;luck
+15 Nov 2016 04:44:16 : LimitlessMc, botchat, Botfuzzy77#2209, DDriggs00's luck is 86.0 out of 100, which is **AMAZING**
+15 Nov 2016 04:44:26 : LimitlessMc, botchat, DDriggs00#0005, ;help
+15 Nov 2016 04:44:26 : LimitlessMc, botchat, Botfuzzy77#2209, ```
+A Bot for the Limitless MC Server Discord! Version 0.14.2.6
+(Created by Wertfuzzy77)
+
+FlavorTexts:
+  luck           Returns the Player's Luck
+  hug            Adds Emotion
+  funify         Funifies a given text input
+  kiss           Adds Emotion
+  choose         Chooses from a set of things
+  lmgtfy         Returns a Link to a "Let me Google That For You" Page
+  kill           Adds Emotion
+  image          
+  slap           Adds Emotion
+  rate           Rates the Player
+  kys            
+  rps            Allows the player to play Rock, Paper, Scissors with the Bot...
+MusicPlayer:
+  desc           Decription of the Current playing song
+  loop           
+  youtube        Adds a Song for the Bot to Play
+  leave          Leaves the Join chat
+  playlist       Adds songs from a predefined playlist to the songs list
+  viewplaylist   Views the songs of a playlists
+  extendplaylist Extends a custom playlist
+  skip           Skips the Current song
+  makeplaylist   Makes a custom playlist for the bot to save
+  join           Joins the Voice channel you are currently in
+  songs          Prints the songs in the queue
+  search         
+  playlists      
+  song           Returns information about the current playing song
+  shuffle        Shuffles the songs in the Queue
+StaffCmds:
+  unmuteall      Unmutes ALL muted players
+  unmute         
+  mute           
+  tempmute       
+  mutelist       
+Tournament:
+  prize          Returns a Link to where all the Current Prizes can be found
+  sell           Used to Sell a Code instead of Redeeming it
+  ranking        Returns the Current Server Rankings
+  data           Returns Player Data
+  redeem         Redeems a Given Code for the prize it contains
+  sync           Syncs you Discord Account with the Given IG Name
+  tournaments    Returns All tournament info
+​No Category:
+  server         Returns Information on the Limitless MC server!
+  ev             
+  help           Shows this message.
+```
+15 Nov 2016 04:44:26 : LimitlessMc, botchat, Botfuzzy77#2209, ```
+  pokemon        Returns Links to Pokemon pages
+  afk            Sets you as AFK, and the Bot will auto Reply for you with th...
+  conch          Ask the Magic Conch a Question
+  joined         Says when a member joined.
+  feedback       Returns a link to a Google Forums, where you can leave feedb...
+  fml            Returns a Random Post from fmylife.com
+  config         Allows you to change settings for the server
+  source         Returns a link to the source code for this bot
+  status         Returns the Status of the Bot, along with Additional Informa...
+  invite         Returns a Link to the Invite URL for this bot
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+15 Nov 2016 04:44:42 : LimitlessMc, botchat, DDriggs00#0005, ;conch
+15 Nov 2016 04:45:15 : LimitlessMc, botchat, DDriggs00#0005, ;status
+15 Nov 2016 04:45:15 : LimitlessMc, botchat, Botfuzzy77#2209, UpTime: 6:23:11.100000s
+15 Nov 2016 04:45:15 : LimitlessMc, botchat, Botfuzzy77#2209, Total Messages: 118
+15 Nov 2016 04:45:15 : LimitlessMc, botchat, Botfuzzy77#2209, Servers Joined: 10
+15 Nov 2016 04:45:53 : LimitlessMc, botchat, DDriggs00#0005, ;pokemon bisharp
+15 Nov 2016 04:45:53 : LimitlessMc, botchat, Botfuzzy77#2209, Pixelmon Page: http://pixelmonmod.com/wiki/index.php?title=bisharp
+15 Nov 2016 04:45:53 : LimitlessMc, botchat, Botfuzzy77#2209, Bulbapedia Page: http://bulbapedia.bulbagarden.net/wiki/bisharp
+15 Nov 2016 04:45:53 : LimitlessMc, botchat, Botfuzzy77#2209, Pokemon DB: http://pokemondb.net/pokedex/bisharp
+15 Nov 2016 04:45:53 : LimitlessMc, botchat, Botfuzzy77#2209, Smogon: http://www.smogon.com/dex/bw/pokemon/bisharp
+15 Nov 2016 04:46:36 : LimitlessMc, botchat, DDriggs00#0005, ;sync
+15 Nov 2016 04:47:18 : LimitlessMc, botchat, DDriggs00#0005, ;hug
+15 Nov 2016 04:47:32 : LimitlessMc, botchat, DDriggs00#0005, ;rps r
+15 Nov 2016 04:47:32 : LimitlessMc, botchat, Botfuzzy77#2209, You need to put in either (R)ock, (P)aper, or (S)cissors
+15 Nov 2016 04:47:39 : LimitlessMc, botchat, DDriggs00#0005, ;rps S
+15 Nov 2016 04:47:40 : LimitlessMc, botchat, Botfuzzy77#2209, You throw :v:
+I throw :v:
+15 Nov 2016 04:47:40 : LimitlessMc, botchat, Botfuzzy77#2209, Its a Tie, we both put :v:
+15 Nov 2016 04:48:01 : LimitlessMc, botchat, DDriggs00#0005, ;invite
+15 Nov 2016 04:48:01 : LimitlessMc, botchat, Botfuzzy77#2209, https://discordapp.com/oauth2/authorize?client_id=187608834381053952&scope=bot&permissions=00000008
+15 Nov 2016 04:48:16 : LimitlessMc, botchat, DDriggs00#0005, ;help
+15 Nov 2016 04:48:16 : LimitlessMc, botchat, Botfuzzy77#2209, ```
+A Bot for the Limitless MC Server Discord! Version 0.14.2.6
+(Created by Wertfuzzy77)
+
+FlavorTexts:
+  luck           Returns the Player's Luck
+  hug            Adds Emotion
+  funify         Funifies a given text input
+  kiss           Adds Emotion
+  choose         Chooses from a set of things
+  lmgtfy         Returns a Link to a "Let me Google That For You" Page
+  kill           Adds Emotion
+  image          
+  slap           Adds Emotion
+  rate           Rates the Player
+  kys            
+  rps            Allows the player to play Rock, Paper, Scissors with the Bot...
+MusicPlayer:
+  desc           Decription of the Current playing song
+  loop           
+  youtube        Adds a Song for the Bot to Play
+  leave          Leaves the Join chat
+  playlist       Adds songs from a predefined playlist to the songs list
+  viewplaylist   Views the songs of a playlists
+  extendplaylist Extends a custom playlist
+  skip           Skips the Current song
+  makeplaylist   Makes a custom playlist for the bot to save
+  join           Joins the Voice channel you are currently in
+  songs          Prints the songs in the queue
+  search         
+  playlists      
+  song           Returns information about the current playing song
+  shuffle        Shuffles the songs in the Queue
+StaffCmds:
+  unmuteall      Unmutes ALL muted players
+  unmute         
+  mute           
+  tempmute       
+  mutelist       
+Tournament:
+  prize          Returns a Link to where all the Current Prizes can be found
+  sell           Used to Sell a Code instead of Redeeming it
+  ranking        Returns the Current Server Rankings
+  data           Returns Player Data
+  redeem         Redeems a Given Code for the prize it contains
+  sync           Syncs you Discord Account with the Given IG Name
+  tournaments    Returns All tournament info
+​No Category:
+  server         Returns Information on the Limitless MC server!
+  ev             
+  help           Shows this message.
+```
+15 Nov 2016 04:48:16 : LimitlessMc, botchat, Botfuzzy77#2209, ```
+  pokemon        Returns Links to Pokemon pages
+  afk            Sets you as AFK, and the Bot will auto Reply for you with th...
+  conch          Ask the Magic Conch a Question
+  joined         Says when a member joined.
+  feedback       Returns a link to a Google Forums, where you can leave feedb...
+  fml            Returns a Random Post from fmylife.com
+  config         Allows you to change settings for the server
+  source         Returns a link to the source code for this bot
+  status         Returns the Status of the Bot, along with Additional Informa...
+  invite         Returns a Link to the Invite URL for this bot
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+15 Nov 2016 04:48:38 : LimitlessMc, botchat, DDriggs00#0005, ;funify test
+15 Nov 2016 04:48:38 : LimitlessMc, botchat, Botfuzzy77#2209, TESt7
+15 Nov 2016 04:49:28 : LimitlessMc, botchat, DDriggs00#0005, ;fml | ;funify
+15 Nov 2016 04:49:29 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I went to throw out the garbage outside. I noticed at the bottom of my can was a lot of rice. I was angry at my brother for making a mess. As I went to clean it up, the rice moved. It wasn't rice, it was maggots.  FML*
+15 Nov 2016 04:50:19 : LimitlessMc, botchat, DDriggs00#0005, ;funify Today, I went to throw out the garbage outside. I noticed at the bottom of my can was a lot of rice. I was angry at my brother for making a mess. As I went to clean it up, the rice moved. It wasn't rice, it was maggots.  FML
+15 Nov 2016 04:50:19 : LimitlessMc, botchat, Botfuzzy77#2209, Tt+odD$ay, I WWennT toO tHr!ROow OUUT tHee GGaArrbBagEE OuuTSIidDe. iI nOOTiCCee:D at thE;E BotTTOoM oOf MMYy Ca$N wAAs a6A lOOtt Oof rRiI$ccEE.. i WwasS Anng$Rry AT My BbRotThHeer7R ffORr makkinng aa/ meEsS.. aASs I wwEEnTt Tt[o C lea(n It uuPP, tHh}E riCCeE MmoO,veEDD.} it{T WAASSn'Tt rIi6cee, It wA{S maGG4gOoTTss.. F fm7L
+15 Nov 2016 05:56:33 : LimitlessMc, botchat, Wertfuzzy77#0274, lol @DDriggs00 did you just try to pipe my cmds xD
+15 Nov 2016 05:56:49 : LimitlessMc, botchat, Wertfuzzy77#0274, gg
+15 Nov 2016 05:57:20 : LimitlessMc, botchat, Wertfuzzy77#0274, and btw, you can do ;help cmd
+15 Nov 2016 05:57:30 : LimitlessMc, botchat, Wertfuzzy77#0274, like
+15 Nov 2016 05:57:32 : LimitlessMc, botchat, Wertfuzzy77#0274, ;help hug
+15 Nov 2016 05:57:32 : LimitlessMc, botchat, Botfuzzy77#2209, ```
+;hug <member>
+
+Adds Emotion
+
+```
+15 Nov 2016 05:57:39 : LimitlessMc, botchat, Wertfuzzy77#0274, ;help funify
+15 Nov 2016 05:57:39 : LimitlessMc, botchat, Botfuzzy77#2209, ```
+;funify [text...]
+
+Funifies a given text input
+
+```
+15 Nov 2016 05:57:49 : LimitlessMc, botchat, Wertfuzzy77#0274, ;funify Tt+odD$ay, I WWennT toO tHr!ROow OUUT tHee GGaArrbBagEE OuuTSIidDe. iI nOOTiCCee:D at thE;E BotTTOoM oOf MMYy Ca$N wAAs a6A lOOtt Oof rRiI$ccEE.. i WwasS Anng$Rry AT My BbRotThHeer7R ffORr makkinng aa/ meEsS.. aASs I wwEEnTt Tt[o C lea(n It uuPP, tHh}E riCCeE MmoO,veEDD.} it{T WAASSn'Tt rIi6cee, It wA{S maGG4gOoTTss.. F fm7L
+15 Nov 2016 05:57:49 : LimitlessMc, botchat, Botfuzzy77#2209, TtT++oDdd&$$aAYy, Ii W+WweNNNnt. tOooo TthR!R,ro OOWW oOUUUTT tthEe, ggaaaRRBBBageEeE o(oUUtsIiIDdddEE. iiII NnOOTtiCCcCeeee:d ATt tthe;;e BBOTtTT[toOoMM ooOf MmmYYyY C9ca$N wAaAAss4 AA6aa lloott OooFF r6RIiII$$CCCeEE.=.., I wW[wassSs aNn5nNG$$rrryY AT mYy bBrrOOtTtHheeer7RR fforR MM#A2aKKiI=NNNG aA// mMeE4EesssS.'. AaA]aS:sS ii9 wWw(weEnNTTtt T:tT[$[O C L=LEaa((N itt U!uP6P4p,, Tthhh}eE Rr!i#ICcEEe MMmMoo,vE/eEEdd.} iITt{t wA2aaSssSn''TttT RIiI6ceee, iT wwAA{{S magGgG4GgOot}tTsSS.0. Ff f5FM7l
+15 Nov 2016 05:57:57 : LimitlessMc, botchat, Wertfuzzy77#0274, ;fml
+15 Nov 2016 05:57:58 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, my friends thought it would be funny to slip a condom under my pillow at boot camp. The staff found out, I got bitched out for 30 minutes straight, and now I have to put a condom on the grip of any rifle I'm issued for a week. My new callsign is "Love Glove". FML*
+15 Nov 2016 05:58:20 : LimitlessMc, botchat, Wertfuzzy77#0274, ;fml
+15 Nov 2016 05:58:20 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, my kitten decided that having diarrhea was not a good enough reason to stop running in circles around my living room. FML*
+15 Nov 2016 05:58:28 : LimitlessMc, botchat, Wertfuzzy77#0274, lol
+15 Nov 2016 05:58:29 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+15 Nov 2016 05:58:30 : LimitlessMc, botchat, Wertfuzzy77#0274, ;fml
+15 Nov 2016 05:58:30 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I couldn't figure out what was worse: accidentally dropping my car keys into the bottom of a filthy park lake, or getting a fishhook through my toenail in an attempt to retrieve them. FML*
+15 Nov 2016 05:58:39 : LimitlessMc, botchat, Wertfuzzy77#0274, ewwwwww
+15 Nov 2016 05:58:44 : LimitlessMc, botchat, Wertfuzzy77#0274, def the fishhook
+15 Nov 2016 05:58:47 : LimitlessMc, botchat, Wertfuzzy77#0274, v bad
+15 Nov 2016 08:25:44 : LimitlessMc, botchat, crystal4209#4698, ;server
+15 Nov 2016 08:25:44 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+15 Nov 2016 08:25:45 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 3 players out of 200
+ *Ping*: 149.371 ms
+ *MC Version*: 1.10.2
+15 Nov 2016 08:25:45 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *Kernla, Xnarutsu_M3, AussieAge...*
+15 Nov 2016 09:00:28 : LimitlessMc, mainchat, Zorua#5017, what is the music voice chat for?
+15 Nov 2016 09:02:14 : LimitlessMc, mainchat, Zorua#5017, lightning
+15 Nov 2016 09:17:18 : LimitlessMc, mainchat, Lightning#6734, for music with the bot
+15 Nov 2016 10:37:53 : LimitlessMc, botchat, Lightning#6734, ;server
+15 Nov 2016 10:37:54 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+15 Nov 2016 10:37:54 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 4 players out of 200
+ *Ping*: 149.429 ms
+ *MC Version*: 1.10.2
+15 Nov 2016 10:37:54 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *AussieAge, crystal4209, GentlyGaming, jamesfong517...*
+15 Nov 2016 11:27:07 : Friends, news-and-updates, Aethex#0394, Welcome To Gran Pulse
+15 Nov 2016 11:27:08 : Friends, news-and-updates, Gerald#7099, ​A meowth welcome to @Botfuzzy77
+15 Nov 2016 11:27:08 : Friends, news-and-updates, Botfuzzy77#2209, What's that?
+15 Nov 2016 11:33:00 : Penguins 2, general, Young mom#1962, HAHAHA "I found palkia"
+15 Nov 2016 11:33:05 : Penguins 2, general, Young mom#1962, I'm crying :'D
+15 Nov 2016 11:34:50 : Penguins 2, general, Young mom#1962, @xAlain_(Charizard)  you can keep fennec foxes as pets yo o_o
+15 Nov 2016 11:35:21 : Friends, botchat, Lightning#6734, ;hep
+15 Nov 2016 11:35:21 : Friends, botchat, Botfuzzy77#2209, Dont Be Lazy, Type ;help
+15 Nov 2016 11:35:24 : Friends, botchat, Lightning#6734, 😉
+15 Nov 2016 11:35:29 : Friends, botchat, Lightning#6734, ;playlist
+15 Nov 2016 11:35:29 : Friends, botchat, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+15 Nov 2016 11:35:36 : Friends, botchat, Lightning#6734, ;playlists
+15 Nov 2016 11:35:36 : Friends, botchat, Botfuzzy77#2209, Old[9], Akinci[12], Adele[5], AnimeOpenings[17], Train[3], Bringer[1], AIDS[0], Blunt[3], MJackson[5], Cala[21], Lightning[6], Resolate[0], Maroon[5], GnR[5], 2Cellos[5], test[1], GAGA[3], SteinsGate[13], Shelter[1], Amagi[1], WEEB2[3], Coldplay[5], nicky[2], WEEB[4], Animenz[3], Dragons[4], Katy[3], Perri[2], ACDC[5], Sheeran[6], Kimi[4], FUN[3], 2015OP&EN[65]
+15 Nov 2016 11:35:49 : Friends, botchat, Lightning#6734, !clean
+15 Nov 2016 11:35:50 : Friends, botchat, Gerald#7099, ​I'm done with my job! 11 messages removed
+15 Nov 2016 11:36:33 : Friends, botchat, crystal4209#4698, when did you get botfuzzy77
+15 Nov 2016 11:48:04 : Friends, botchat, Lightning#6734, earlier i alos have the code for it lol
+15 Nov 2016 11:48:07 : Friends, botchat, Lightning#6734, ;join
+15 Nov 2016 11:48:07 : Friends, botchat, Botfuzzy77#2209, Sorry, I'm already connected to a channel in server The Wild Weebs
+15 Nov 2016 11:48:14 : Friends, botchat, Lightning#6734, le
+15 Nov 2016 11:48:33 : Friends, botchat, crystal4209#4698, the wild weebs?
+15 Nov 2016 11:48:39 : Friends, botchat, Lightning#6734, no clue
+15 Nov 2016 11:48:49 : Friends, botchat, crystal4209#4698, lol
+15 Nov 2016 11:48:52 : Friends, botchat, Lightning#6734, ;playlist Lightning
+15 Nov 2016 11:49:09 : Friends, botchat, Lightning#6734, emg... do i have to force run my own lol
+15 Nov 2016 11:49:38 : Friends, botchat, crystal4209#4698, lol
+15 Nov 2016 11:50:11 : Pulse, botchat, Lightning#6734, ;leave
+15 Nov 2016 11:50:16 : Pulse, botchat, Lightning#6734, ;join
+15 Nov 2016 11:50:21 : Pulse, botchat, Lightning#6734, kek
+15 Nov 2016 11:50:23 : Pulse, botchat, Lightning#6734, ;playlist Lightning
+15 Nov 2016 11:50:23 : Pulse, botchat, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+15 Nov 2016 11:50:48 : Pulse, botchat, Lightning#6734, ;viewplaylist Lightning
+15 Nov 2016 11:51:50 : Pulse, botchat, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+15 Nov 2016 11:52:03 : Pulse, botchat, Botfuzzy77#2209, Steel Panther ~ Stripper Girl <https://www.youtube.com/watch?v=W8v-CDnFlwM>
+Asian Hooker - Steel Panther <https://www.youtube.com/watch?v=iBcX9plkfpU>
+Steel Panther - Community Property (lyrics) <https://www.youtube.com/watch?v=Odz4oi6GN0Y>
+Escape The Fate  Just A Memory lyric video <https://www.youtube.com/watch?v=gtffXlzHy1A>
+Chrono Cross OST - Star-Stealing Girl <https://www.youtube.com/watch?v=YoEMaWrQBQM&list=PL597A5805D4A5D68E>
+17 Girls In A Row (Explicit) <https://www.youtube.com/watch?v=cP16QH_eq5U>
+15 Nov 2016 11:52:16 : Pulse, botchat, Lightning#6734, ;halp
+15 Nov 2016 11:52:19 : Pulse, botchat, Lightning#6734, ;help
+15 Nov 2016 11:52:19 : Pulse, botchat, Botfuzzy77#2209, ```
+A Bot for the Limitless MC Server Discord! Version 0.14.2.6
+(Created by Wertfuzzy77)
+
+FlavorTexts:
+  luck           Returns the Player's Luck
+  hug            Adds Emotion
+  funify         Funifies a given text input
+  kiss           Adds Emotion
+  choose         Chooses from a set of things
+  lmgtfy         Returns a Link to a "Let me Google That For You" Page
+  kill           Adds Emotion
+  image          
+  slap           Adds Emotion
+  rate           Rates the Player
+  kys            
+  rps            Allows the player to play Rock, Paper, Scissors with the Bot...
+MusicPlayer:
+  desc           Decription of the Current playing song
+  loop           
+  youtube        Adds a Song for the Bot to Play
+  leave          Leaves the Join chat
+  playlist       Adds songs from a predefined playlist to the songs list
+  viewplaylist   Views the songs of a playlists
+  extendplaylist Extends a custom playlist
+  skip           Skips the Current song
+  makeplaylist   Makes a custom playlist for the bot to save
+  join           Joins the Voice channel you are currently in
+  songs          Prints the songs in the queue
+  search         
+  playlists      
+  song           Returns information about the current playing song
+  shuffle        Shuffles the songs in the Queue
+StaffCmds:
+  unmuteall      Unmutes ALL muted players
+  unmute         
+  mute           
+  tempmute       
+  mutelist       
+Tournament:
+  prize          Returns a Link to where all the Current Prizes can be found
+  sell           Used to Sell a Code instead of Redeeming it
+  ranking        Returns the Current Server Rankings
+  data           Returns Player Data
+  redeem         Redeems a Given Code for the prize it contains
+  sync           Syncs you Discord Account with the Given IG Name
+  tournaments    Returns All tournament info
+​No Category:
+  server         Returns Information on the Limitless MC server!
+  ev             
+  help           Shows this message.
+```
+15 Nov 2016 11:52:19 : Pulse, botchat, Botfuzzy77#2209, ```
+  pokemon        Returns Links to Pokemon pages
+  afk            Sets you as AFK, and the Bot will auto Reply for you with th...
+  conch          Ask the Magic Conch a Question
+  joined         Says when a member joined.
+  feedback       Returns a link to a Google Forums, where you can leave feedb...
+  fml            Returns a Random Post from fmylife.com
+  config         Allows you to change settings for the server
+  source         Returns a link to the source code for this bot
+  status         Returns the Status of the Bot, along with Additional Informa...
+  invite         Returns a Link to the Invite URL for this bot
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+15 Nov 2016 11:52:38 : Pulse, botchat, Lightning#6734, ;search waka laka
+15 Nov 2016 11:52:40 : Pulse, botchat, Botfuzzy77#2209, Added Waka Laka - Azumanga Daioh to the queue
+15 Nov 2016 11:52:40 : Pulse, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=Ck_8ULKRs7Q
+15 Nov 2016 11:53:06 : Pulse, botchat, Lightning#6734, ;queue
+15 Nov 2016 11:53:13 : Pulse, botchat, Lightning#6734, ;songs
+15 Nov 2016 11:53:13 : Pulse, botchat, Botfuzzy77#2209, **The Following songs are in the Queue, plus [1] more**
+15 Nov 2016 11:53:13 : Pulse, botchat, Botfuzzy77#2209, 1. Escape The Fate  Just A Memory lyric video
+	<https://www.youtube.com/watch?v=gtffXlzHy1A>
+2. Steel Panther - Community Property (lyrics)
+	<https://www.youtube.com/watch?v=Odz4oi6GN0Y>
+3. Steel Panther ~ Stripper Girl
+	<https://www.youtube.com/watch?v=W8v-CDnFlwM>
+4. Chrono Cross OST - Star-Stealing Girl
+	<https://www.youtube.com/watch?v=YoEMaWrQBQM&list=PL597A5805D4A5D68E>
+5. Asian Hooker - Steel Panther
+	<https://www.youtube.com/watch?v=iBcX9plkfpU>
+6. Chrono Cross OST - Star-Stealing Girl
+	<https://www.youtube.com/watch?v=YoEMaWrQBQM&list=PL597A5805D4A5D68E>
+7. Steel Panther - Community Property (lyrics)
+	<https://www.youtube.com/watch?v=Odz4oi6GN0Y>
+8. Escape The Fate  Just A Memory lyric video
+	<https://www.youtube.com/watch?v=gtffXlzHy1A>
+9. Steel Panther ~ Stripper Girl
+	<https://www.youtube.com/watch?v=W8v-CDnFlwM>
+10. 17 Girls In A Row (Explicit)
+	<https://www.youtube.com/watch?v=cP16QH_eq5U>
+Total Time is 0:43:55
+15 Nov 2016 11:53:45 : Pulse, botchat, Lightning#6734, ;leave
+15 Nov 2016 11:53:50 : Pulse, botchat, Lightning#6734, ;join
+15 Nov 2016 11:55:18 : Pulse, botchat, Lightning#6734, ;forceplay https://www.youtube.com/watch?v=Ck_8ULKRs7Q
+15 Nov 2016 11:55:25 : Pulse, botchat, Lightning#6734, ;songs
+15 Nov 2016 11:55:25 : Pulse, botchat, Botfuzzy77#2209, **The Following songs are in the Queue, plus [1] more**
+15 Nov 2016 11:55:25 : Pulse, botchat, Botfuzzy77#2209, 1. Escape The Fate  Just A Memory lyric video
+	<https://www.youtube.com/watch?v=gtffXlzHy1A>
+2. Steel Panther - Community Property (lyrics)
+	<https://www.youtube.com/watch?v=Odz4oi6GN0Y>
+3. Steel Panther ~ Stripper Girl
+	<https://www.youtube.com/watch?v=W8v-CDnFlwM>
+4. Chrono Cross OST - Star-Stealing Girl
+	<https://www.youtube.com/watch?v=YoEMaWrQBQM&list=PL597A5805D4A5D68E>
+5. Asian Hooker - Steel Panther
+	<https://www.youtube.com/watch?v=iBcX9plkfpU>
+6. Chrono Cross OST - Star-Stealing Girl
+	<https://www.youtube.com/watch?v=YoEMaWrQBQM&list=PL597A5805D4A5D68E>
+7. Steel Panther - Community Property (lyrics)
+	<https://www.youtube.com/watch?v=Odz4oi6GN0Y>
+8. Escape The Fate  Just A Memory lyric video
+	<https://www.youtube.com/watch?v=gtffXlzHy1A>
+9. Steel Panther ~ Stripper Girl
+	<https://www.youtube.com/watch?v=W8v-CDnFlwM>
+10. 17 Girls In A Row (Explicit)
+	<https://www.youtube.com/watch?v=cP16QH_eq5U>
+Total Time is 0:43:55
+15 Nov 2016 11:55:38 : Pulse, botchat, Lightning#6734, there we go!
+15 Nov 2016 11:57:33 : Pulse, botchat, Lightning#6734, !clean
+15 Nov 2016 11:57:34 : Pulse, botchat, Gerald#7099, ​I'm done with my job! 38 messages removed
+15 Nov 2016 12:58:26 : Pulse, botchat, Lightning#6734, ;songs
+15 Nov 2016 12:58:26 : Pulse, botchat, Botfuzzy77#2209, **The Following songs are in the Queue, plus [1] more**
+15 Nov 2016 12:58:26 : Pulse, botchat, Botfuzzy77#2209, 1. Escape The Fate  Just A Memory lyric video
+	<https://www.youtube.com/watch?v=gtffXlzHy1A>
+2. Steel Panther - Community Property (lyrics)
+	<https://www.youtube.com/watch?v=Odz4oi6GN0Y>
+3. Steel Panther ~ Stripper Girl
+	<https://www.youtube.com/watch?v=W8v-CDnFlwM>
+4. Chrono Cross OST - Star-Stealing Girl
+	<https://www.youtube.com/watch?v=YoEMaWrQBQM&list=PL597A5805D4A5D68E>
+5. Asian Hooker - Steel Panther
+	<https://www.youtube.com/watch?v=iBcX9plkfpU>
+6. Chrono Cross OST - Star-Stealing Girl
+	<https://www.youtube.com/watch?v=YoEMaWrQBQM&list=PL597A5805D4A5D68E>
+7. Steel Panther - Community Property (lyrics)
+	<https://www.youtube.com/watch?v=Odz4oi6GN0Y>
+8. Escape The Fate  Just A Memory lyric video
+	<https://www.youtube.com/watch?v=gtffXlzHy1A>
+9. Steel Panther ~ Stripper Girl
+	<https://www.youtube.com/watch?v=W8v-CDnFlwM>
+10. 17 Girls In A Row (Explicit)
+	<https://www.youtube.com/watch?v=cP16QH_eq5U>
+Total Time is 0:43:55
+15 Nov 2016 12:58:31 : Pulse, botchat, Lightning#6734, ;play
+15 Nov 2016 12:58:37 : Pulse, botchat, Lightning#6734, ;help
+15 Nov 2016 12:58:37 : Pulse, botchat, Botfuzzy77#2209, ```
+A Bot for the Limitless MC Server Discord! Version 0.14.2.6
+(Created by Wertfuzzy77)
+
+FlavorTexts:
+  luck           Returns the Player's Luck
+  hug            Adds Emotion
+  funify         Funifies a given text input
+  kiss           Adds Emotion
+  choose         Chooses from a set of things
+  lmgtfy         Returns a Link to a "Let me Google That For You" Page
+  kill           Adds Emotion
+  image          
+  slap           Adds Emotion
+  rate           Rates the Player
+  kys            
+  rps            Allows the player to play Rock, Paper, Scissors with the Bot...
+MusicPlayer:
+  desc           Decription of the Current playing song
+  loop           
+  youtube        Adds a Song for the Bot to Play
+  leave          Leaves the Join chat
+  playlist       Adds songs from a predefined playlist to the songs list
+  viewplaylist   Views the songs of a playlists
+  extendplaylist Extends a custom playlist
+  skip           Skips the Current song
+  makeplaylist   Makes a custom playlist for the bot to save
+  join           Joins the Voice channel you are currently in
+  songs          Prints the songs in the queue
+  search         
+  playlists      
+  song           Returns information about the current playing song
+  shuffle        Shuffles the songs in the Queue
+StaffCmds:
+  unmuteall      Unmutes ALL muted players
+  unmute         
+  mute           
+  tempmute       
+  mutelist       
+Tournament:
+  prize          Returns a Link to where all the Current Prizes can be found
+  sell           Used to Sell a Code instead of Redeeming it
+  ranking        Returns the Current Server Rankings
+  data           Returns Player Data
+  redeem         Redeems a Given Code for the prize it contains
+  sync           Syncs you Discord Account with the Given IG Name
+  tournaments    Returns All tournament info
+​No Category:
+  server         Returns Information on the Limitless MC server!
+  ev             
+  help           Shows this message.
+```
+15 Nov 2016 12:58:37 : Pulse, botchat, Botfuzzy77#2209, ```
+  pokemon        Returns Links to Pokemon pages
+  afk            Sets you as AFK, and the Bot will auto Reply for you with th...
+  conch          Ask the Magic Conch a Question
+  joined         Says when a member joined.
+  feedback       Returns a link to a Google Forums, where you can leave feedb...
+  fml            Returns a Random Post from fmylife.com
+  config         Allows you to change settings for the server
+  source         Returns a link to the source code for this bot
+  status         Returns the Status of the Bot, along with Additional Informa...
+  invite         Returns a Link to the Invite URL for this bot
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+15 Nov 2016 12:59:24 : Pulse, botchat, Lightning#6734, ;config
+15 Nov 2016 12:59:24 : Pulse, botchat, Botfuzzy77#2209, Invalid config command passed...
+15 Nov 2016 12:59:42 : Pulse, botchat, Lightning#6734, ;status
+15 Nov 2016 12:59:42 : Pulse, botchat, Botfuzzy77#2209, UpTime: 14:37:38s
+15 Nov 2016 12:59:42 : Pulse, botchat, Botfuzzy77#2209, Total Messages: 191
+15 Nov 2016 12:59:42 : Pulse, botchat, Botfuzzy77#2209, Servers Joined: 11
+15 Nov 2016 13:00:09 : Pulse, botchat, Lightning#6734, ;skip
+15 Nov 2016 13:00:09 : Pulse, botchat, Botfuzzy77#2209, Skipping Waka Laka - Azumanga Daioh
+15 Nov 2016 13:01:00 : Pulse, botchat, Lightning#6734, ;skip
+15 Nov 2016 13:01:00 : Pulse, botchat, Botfuzzy77#2209, Skipping Waka Laka - Azumanga Daioh
+15 Nov 2016 13:01:04 : Pulse, botchat, Lightning#6734, ;stop
+15 Nov 2016 13:01:08 : Pulse, botchat, Lightning#6734, !clean
+15 Nov 2016 13:01:09 : Pulse, botchat, Gerald#7099, ​I'm done with my job! 19 messages removed
+15 Nov 2016 13:01:10 : Pulse, botchat, Lightning#6734, ;leave
+15 Nov 2016 13:22:15 : LimitlessMc, mainchat, crystal4209#4698, 4 more pokes to do then I can be ground gym leader
+15 Nov 2016 15:15:06 : LimitlessMc, botchat, jjtwilefc#0051, ;server
+15 Nov 2016 15:15:06 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+15 Nov 2016 15:15:06 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 8 players out of 200
+ *Ping*: 149.791 ms
+ *MC Version*: 1.10.2
+15 Nov 2016 15:15:06 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *apefar02, Prism_Rena, stian123gamer, Mitchyz, GentlyGaming, FearlessFalconX, Bringer0fDeath7, Omed...*
+15 Nov 2016 17:57:18 : The Wild Weebs, general, Wertfuzzy77#0274, ?train
+15 Nov 2016 17:57:18 : The Wild Weebs, general, enragedrobo#6009, You begin training...
+
+You dodge a quick foe (Chance: **50.0**%)
+
+You begin fighting some monsters in the forest...
+You *lost* to a Lv. **54** **King** (Chance: **1.961%**)
+You *lost* to a Lv. **63** **Captain** (Chance: **24.375%**)
+
+You gained **3528** XP!
+15 Nov 2016 18:00:02 : The Wild Weebs, general, Wertfuzzy77#0274, ?summary
+15 Nov 2016 18:00:02 : The Wild Weebs, general, enragedrobo#6009, **:up: | Level Up!**
+15 Nov 2016 18:00:02 : The Wild Weebs, general, enragedrobo#6009, 
+15 Nov 2016 18:00:03 : The Wild Weebs, general, enragedrobo#6009, @Wertfuzzy77
+
+**Level 29** (2699 EXP)
+Gamble: **Up!**
+Boss: **Up!**
+Train: **57** minutes
+Grace: **Up!**
+15 Nov 2016 18:00:08 : The Wild Weebs, general, Wertfuzzy77#0274, ?gamble 2699
+15 Nov 2016 18:00:08 : The Wild Weebs, general, enragedrobo#6009, You would have lost offering, but the Grace of Light has saved it. You cannot be saved for another two hours.
+15 Nov 2016 18:00:13 : The Wild Weebs, general, Wertfuzzy77#0274, ?level
+15 Nov 2016 18:00:13 : The Wild Weebs, general, enragedrobo#6009, :newspaper: | **Wertfuzzy77's Level Card**
+15 Nov 2016 18:00:13 : The Wild Weebs, general, enragedrobo#6009, 
+15 Nov 2016 18:00:13 : The Wild Weebs, general, enragedrobo#6009, The **Grace of Light** lingers at your shoulder, eager to await your **prestige** (you are eligible to prestige with `?prestige`)
+15 Nov 2016 18:00:19 : The Wild Weebs, general, Wertfuzzy77#0274, ?prestige
+15 Nov 2016 18:00:19 : The Wild Weebs, general, enragedrobo#6009, The **Grace of Light** speaks to you...
+
+You are worthy of raising your **prestige**.
+If you do so, you will lose all the XP needed to go from 1 to 25 (63964)
+Your overall ranking will also be dropped in this process.
+However, you will permanently earn 100 percent extra experience and both `?grace` and `?train` will be reset.
+
+You will keep the ability to do `?setbg`, but will have to re-level for anything else.
+
+**Are you sure you want to prestige?** (y/n)
+15 Nov 2016 18:00:21 : The Wild Weebs, general, Wertfuzzy77#0274, y
+15 Nov 2016 18:00:22 : The Wild Weebs, general, enragedrobo#6009, Very well, you are now **Prestige 5**
+15 Nov 2016 18:00:26 : The Wild Weebs, general, Wertfuzzy77#0274, ?summary
+15 Nov 2016 18:00:26 : The Wild Weebs, general, enragedrobo#6009, **:up: | Level Up!**
+15 Nov 2016 18:00:26 : The Wild Weebs, general, enragedrobo#6009, 
+15 Nov 2016 18:00:26 : The Wild Weebs, general, enragedrobo#6009, **Level 5 Perks**
+Unlocked `?gamble <amt>` and `?train`
+15 Nov 2016 18:00:26 : The Wild Weebs, general, enragedrobo#6009, @Wertfuzzy77
+
+**Level 22** (1346 EXP)
+Gamble: **Up!**
+Boss: **Up!**
+Train: **Up!**
+Grace: **Up!**
+15 Nov 2016 18:00:31 : The Wild Weebs, general, Wertfuzzy77#0274, ?train
+15 Nov 2016 18:00:31 : The Wild Weebs, general, enragedrobo#6009, You begin training...
+
+You didn't benefit much from basic training...
+
+You begin fighting some monsters in the forest...
+You *beat* a Lv. **54** **Peon** (EXP: +**81.0**) (Chance: **94.215%**)
+
+You gained **1665** XP!
+15 Nov 2016 18:00:50 : The Wild Weebs, general, Wertfuzzy77#0274, ?summary
+15 Nov 2016 18:00:50 : The Wild Weebs, general, enragedrobo#6009, @Wertfuzzy77
+
+**Level 22** (3071 EXP)
+Gamble: **Up!**
+Boss: **Up!**
+Train: **59** minutes
+Grace: **Up!**
+15 Nov 2016 18:00:52 : The Wild Weebs, general, enragednuke#2565, ?tran
+15 Nov 2016 18:00:53 : The Wild Weebs, general, enragednuke#2565, ?train
+15 Nov 2016 18:00:53 : The Wild Weebs, general, enragedrobo#6009, You begin training...
+
+Your blade feels swifter than before (Chance: **50.0**%)
+
+You begin fighting some monsters in the forest...
+You *lost* to a Lv. **55** **Soldier** (Chance: **49.923%**)
+You *lost* to a Lv. **73** **Captain** (Chance: **38.139%**)
+You *beat* a Lv. **146** **Peon** (EXP: +**525.5999999999999**) (Chance: **26.509%**)
+You *lost* to a Lv. **120** **Soldier** (Chance: **27.119%**)
+You *lost* to a Lv. **147** **General** (Chance: **2.855%**)
+You *beat* a Lv. **44** **Soldier** (EXP: +**633.5999999999999**) (Chance: **53.768%**)
+You *beat* a Lv. **61** **Peon** (EXP: +**219.60000000000002**) (Chance: **100%**)
+You *beat* a Lv. **45** **Captain** (EXP: +**810.0**) (Chance: **42.215%**)
+You *beat* a Lv. **108** **Peon** (EXP: +**388.79999999999995**) (Chance: **100%**)
+You *lost* to a Lv. **149** **Peon** (Chance: **15.379%**)
+You *lost* to a Lv. **63** **Soldier** (Chance: **49.308%**)
+You *lost* to a Lv. **111** **Captain** (Chance: **26.159%**)
+You *lost* to a Lv. **105** **Captain** (Chance: **28.789%**)
+
+You gained **11390** XP!
+15 Nov 2016 18:00:55 : The Wild Weebs, general, enragednuke#2565, ?summary
+15 Nov 2016 18:00:55 : The Wild Weebs, general, enragedrobo#6009, @凛
+
+**Level 51** (101945 EXP)
+Gamble: **Up!**
+Boss: **Up!**
+Train: **59** minutes
+Grace: **Up!**
+15 Nov 2016 18:01:00 : The Wild Weebs, general, enragednuke#2565, ?gamble 101945
+15 Nov 2016 18:01:00 : The Wild Weebs, general, enragedrobo#6009, You would have lost offering, but the Grace of Light has saved it. You cannot be saved for another two hours.
+15 Nov 2016 18:01:08 : The Wild Weebs, general, Wertfuzzy77#0274, ?gamble 3071
+15 Nov 2016 18:01:08 : The Wild Weebs, general, enragedrobo#6009, You feel the dark magic choke you. You do not dare try again for **2 minutes**
+15 Nov 2016 18:01:11 : The Wild Weebs, general, enragednuke#2565, ?gamble 1
+15 Nov 2016 18:01:11 : The Wild Weebs, general, enragedrobo#6009, You need to offer at least one eighth of your level (15458.25)
+15 Nov 2016 18:01:15 : The Wild Weebs, general, enragednuke#2565, ?gamble 15489
+15 Nov 2016 18:01:15 : The Wild Weebs, general, enragedrobo#6009, You feel slightly refreshed, but the offering was not enough to fully refresh you.
+(Sacrifice at least a fourth of a level to unlock this result)
+15 Nov 2016 18:01:21 : The Wild Weebs, general, enragednuke#2565, ?gamble 15489
+15 Nov 2016 18:01:21 : The Wild Weebs, general, enragedrobo#6009, You feel the dark magic choke you. You do not dare try again for **2 minutes**
+15 Nov 2016 18:01:25 : The Wild Weebs, general, enragednuke#2565, ?gamble 15489
+15 Nov 2016 18:01:25 : The Wild Weebs, general, enragedrobo#6009, You are too afraid to attempt to gamble yet. Try again in 1 minutes.
+15 Nov 2016 18:57:31 : GetPlebd, weeaboo-chat, Default#9353, https://gamurs.com/articles/blizzcon-2016-playing-heroes-of-the-storm-unlocks-genji-skin-in-overwatch
+15 Nov 2016 18:59:13 : GetPlebd, weeaboo-chat, Default#9353, http://www.polygon.com/2016/11/4/13524624/overwatch-oni-genji-skin-heroes-of-the-storm
+15 Nov 2016 18:59:59 : LimitlessMc, botchat, DDriggs00#0005, @Wertfuzzy77 yes, I did try to pipe commands, and it did not work :(
+15 Nov 2016 19:00:05 : GetPlebd, weeaboo-chat, Default#9353, 
+15 Nov 2016 19:00:48 : LimitlessMc, botchat, Wertfuzzy77#0274, yeah, doesnt work lol
+15 Nov 2016 19:05:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ;fml
+15 Nov 2016 19:05:37 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, my husband bought me a present for our three year anniversary. It was a pack of 20 cigarettes. I don't smoke. He does. FML*
+15 Nov 2016 19:05:44 : LimitlessMc, botchat, Wertfuzzy77#0274, lol
+15 Nov 2016 19:05:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ;fml
+15 Nov 2016 19:05:48 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was volunteering at a school. There's this really bratty boy there and he was being rude, so I joked, "How are you ever gonna get a girlfriend when you're so mean?" He responds, "I think the better question is how are you ever gonna get a boyfriend when you're so ugly." He's 7. FML*
+15 Nov 2016 19:05:56 : LimitlessMc, botchat, Wertfuzzy77#0274, LOL
+15 Nov 2016 19:06:02 : GetPlebd, weeaboo-chat, ⎛⎝ Lockpicking ⎠⎞#7794, 
+15 Nov 2016 19:06:02 : LimitlessMc, botchat, Wertfuzzy77#0274, ;fml
+15 Nov 2016 19:06:03 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, it was really cold and windy and I started my car before work.  I locked the front door of my house and shut it behind me to leave.  The wind was blowing and all my hair got shut in my locked front door... with my keys in my car's ignition. FML*
+15 Nov 2016 19:06:20 : LimitlessMc, botchat, Wertfuzzy77#0274, xD
+15 Nov 2016 19:06:21 : LimitlessMc, botchat, Wertfuzzy77#0274, ;fml
+15 Nov 2016 19:06:22 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, after a week of insomnia, I finally managed to fall asleep. Thirty minutes later, my friends decided to bang on my door, yelling at me to wake up and party with them. I'm now wide awake and hallucinating from lack of sleep. FML*
+15 Nov 2016 19:06:33 : LimitlessMc, botchat, Wertfuzzy77#0274, rip
+15 Nov 2016 19:06:45 : LimitlessMc, botchat, Wertfuzzy77#0274, ;fml
+15 Nov 2016 19:06:46 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I got kicked off the train because I refused to stand for an old lady who wanted to sit down. There was an empty seat right next to me. FML*
+15 Nov 2016 19:07:52 : LimitlessMc, botchat, Wertfuzzy77#0274, ;fml
+15 Nov 2016 19:07:57 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, my commitment issues were perfectly illustrated when I couldn't put a nail in the wall to hang a painting, because, "What if I change my mind?" FML*
+15 Nov 2016 19:08:19 : GetPlebd, weeaboo-chat, Botfuzzy77#2209, Welcome @Flaze to GetPlebd!
+15 Nov 2016 19:08:21 : GetPlebd, weeaboo-chat, Mee6#4876, @Flaze, Welcome to **GetPlebd**! Veel plezier sukkel!
+15 Nov 2016 19:08:31 : LimitlessMc, botchat, Wertfuzzy77#0274, lol
+15 Nov 2016 19:09:24 : LimitlessMc, botchat, Wertfuzzy77#0274, ;fml
+15 Nov 2016 19:09:25 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I finally figured out that when a man says "Maybe some other time, I'll be busy then" more than once, he really means "I don't really want to see you again. I didn't think you'd actually USE my number." FML*
+15 Nov 2016 19:09:45 : LimitlessMc, botchat, Wertfuzzy77#0274, ;fml
+15 Nov 2016 19:09:45 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, while on the bus, I watched a homeless man pop a pimple on his arm and eat it. FML*
+15 Nov 2016 19:09:50 : LimitlessMc, botchat, Wertfuzzy77#0274, ew
+15 Nov 2016 19:40:10 : LimitlessMc, mainchat, Lightning#6734, i'll try and get on later guys just extremely sick right now ;-;
+15 Nov 2016 19:46:51 : The Wild Weebs, general, enragednuke#2565, ?train
+15 Nov 2016 19:46:51 : The Wild Weebs, general, enragedrobo#6009, You begin training...
+
+You didn't benefit much from basic training...
+
+You begin fighting some monsters in the forest...
+You *lost* to a Lv. **133** **Captain** (Chance: **14.148%**)
+You *lost* to a Lv. **142** **Soldier** (Chance: **10.203%**)
+You *beat* a Lv. **27** **Captain** (EXP: +**202.5**) (Chance: **75.433%**)
+You *lost* to a Lv. **42** **General** (Chance: **28.114%**)
+You *beat* a Lv. **47** **Soldier** (EXP: +**282**) (Chance: **51.23%**)
+You *beat* a Lv. **68** **Peon** (EXP: +**102.0**) (Chance: **100%**)
+You *beat* a Lv. **77** **Soldier** (EXP: +**462**) (Chance: **46.751%**)
+You *beat* a Lv. **99** **Captain** (EXP: +**742.5**) (Chance: **31.142%**)
+You *lost* to a Lv. **26** **King** (Chance: **4.903%**)
+You *lost* to a Lv. **101** **Captain** (Chance: **30.388%**)
+You *beat* a Lv. **62** **Soldier** (EXP: +**372**) (Chance: **49.418%**)
+You *lost* to a Lv. **38** **Captain** (Chance: **50.396%**)
+You *lost* to a Lv. **105** **Soldier** (Chance: **35.986%**)
+You *beat* a Lv. **33** **Peon** (EXP: +**49.5**) (Chance: **100%**)
+
+You gained **5884** XP!
+15 Nov 2016 19:46:53 : The Wild Weebs, general, enragednuke#2565, ?summary
+15 Nov 2016 19:46:53 : The Wild Weebs, general, enragedrobo#6009, @凛
+
+**Level 51** (107979 EXP)
+Gamble: **Up!**
+Boss: **Up!**
+Train: **59** minutes
+Grace: **14** minutes
+15 Nov 2016 19:46:55 : The Wild Weebs, general, enragednuke#2565, ?gamble 1
+15 Nov 2016 19:46:55 : The Wild Weebs, general, enragedrobo#6009, You need to offer at least one eighth of your level (15458.25)
+15 Nov 2016 19:47:03 : The Wild Weebs, general, enragednuke#2565, ?gamble 15459
+15 Nov 2016 19:47:03 : The Wild Weebs, general, enragedrobo#6009, You feel the black magic grace you with a gift. You gain back your offering and more.
+15 Nov 2016 19:47:06 : The Wild Weebs, general, enragednuke#2565, ?gamble 15459
+15 Nov 2016 19:47:06 : The Wild Weebs, general, enragedrobo#6009, Unfortunately, the black magic steals away part of you. You lose the offering.
+15 Nov 2016 19:47:08 : The Wild Weebs, general, enragednuke#2565, ?gamble 15459
+15 Nov 2016 19:47:08 : The Wild Weebs, general, enragedrobo#6009, You feel the dark magic choke you. You do not dare try again for **2 minutes**
+15 Nov 2016 19:47:09 : The Wild Weebs, general, enragednuke#2565, ?gamble 15459
+15 Nov 2016 19:47:09 : The Wild Weebs, general, enragedrobo#6009, You are too afraid to attempt to gamble yet. Try again in 1 minutes.
+15 Nov 2016 19:47:10 : The Wild Weebs, general, enragednuke#2565, sdfds
+15 Nov 2016 19:47:10 : The Wild Weebs, general, enragedrobo#6009, **:up: | Level Up!**
+15 Nov 2016 19:47:10 : The Wild Weebs, general, enragedrobo#6009, 
+15 Nov 2016 19:47:10 : The Wild Weebs, general, enragednuke#2565, f
+15 Nov 2016 19:47:11 : The Wild Weebs, general, enragednuke#2565, sfd
+15 Nov 2016 19:47:11 : The Wild Weebs, general, enragednuke#2565, ds
+15 Nov 2016 19:47:11 : The Wild Weebs, general, enragednuke#2565, fs
+15 Nov 2016 19:47:11 : The Wild Weebs, general, enragednuke#2565, f
+15 Nov 2016 19:47:14 : The Wild Weebs, general, enragednuke#2565, o
+15 Nov 2016 19:47:51 : The Wild Weebs, general, Wertfuzzy77#0274, ?train
+15 Nov 2016 19:47:51 : The Wild Weebs, general, enragedrobo#6009, You begin training...
+
+You didn't benefit much from basic training...
+
+You begin fighting some monsters in the forest...
+You *lost* to a Lv. **24** **General** (Chance: **24.948%**)
+You *lost* to a Lv. **31** **Captain** (Chance: **38.326%**)
+You *beat* a Lv. **16** **Soldier** (EXP: +**96**) (Chance: **64.876%**)
+You *lost* to a Lv. **52** **General** (Chance: **13.378%**)
+You *lost* to a Lv. **55** **Soldier** (Chance: **21.875%**)
+You *beat* a Lv. **45** **Soldier** (EXP: +**270**) (Chance: **36.338%**)
+
+You gained **1950** XP!
+15 Nov 2016 19:47:56 : The Wild Weebs, general, Wertfuzzy77#0274, ?summary
+15 Nov 2016 19:47:56 : The Wild Weebs, general, enragedrobo#6009, @Wertfuzzy77
+
+**Level 22** (5111 EXP)
+Gamble: **Up!**
+Boss: **Up!**
+Train: **59** minutes
+Grace: **Up!**
+15 Nov 2016 19:48:00 : The Wild Weebs, general, Wertfuzzy77#0274, ?gamble 5111
+15 Nov 2016 19:48:00 : The Wild Weebs, general, enragedrobo#6009, The black magic courses through you. You gain a portion of your remaining level.
+15 Nov 2016 19:48:02 : The Wild Weebs, general, enragednuke#2565, ?summary
+15 Nov 2016 19:48:02 : The Wild Weebs, general, enragedrobo#6009, @凛
+
+**Level 52** (61908 EXP)
+Gamble: **66** seconds
+Boss: **Up!**
+Train: **58** minutes
+Grace: **12** minutes
+15 Nov 2016 19:48:07 : The Wild Weebs, general, enragednuke#2565, ?gamble 1
+15 Nov 2016 19:48:07 : The Wild Weebs, general, Wertfuzzy77#0274, ?summary
+15 Nov 2016 19:48:07 : The Wild Weebs, general, enragedrobo#6009, You are too afraid to attempt to gamble yet. Try again in 1 minutes.
+15 Nov 2016 19:48:07 : The Wild Weebs, general, enragedrobo#6009, **:up: | Level Up!**
+15 Nov 2016 19:48:07 : The Wild Weebs, general, enragedrobo#6009, 
+15 Nov 2016 19:48:07 : The Wild Weebs, general, enragedrobo#6009, @Wertfuzzy77
+
+**Level 23** (4739 EXP)
+Gamble: **Up!**
+Boss: **Up!**
+Train: **59** minutes
+Grace: **Up!**
+15 Nov 2016 19:48:11 : The Wild Weebs, general, enragednuke#2565, lol
+15 Nov 2016 19:48:11 : The Wild Weebs, general, enragedrobo#6009, \_o\_
+15 Nov 2016 19:48:18 : The Wild Weebs, general, Wertfuzzy77#0274, ?gamble 4739
+15 Nov 2016 19:48:18 : The Wild Weebs, general, enragedrobo#6009, You would have lost offering, but the Grace of Light has saved it. You cannot be saved for another two hours.
+15 Nov 2016 19:48:22 : The Wild Weebs, general, Wertfuzzy77#0274, ?gamble 1
+15 Nov 2016 19:48:22 : The Wild Weebs, general, enragedrobo#6009, You need to offer at least one eighth of your level (878.875)
+15 Nov 2016 19:48:31 : The Wild Weebs, general, Wertfuzzy77#0274, ?gamble 1900
+15 Nov 2016 19:48:31 : The Wild Weebs, general, enragedrobo#6009, You feel the dark magic choke you. You do not dare try again for **2 minutes**
+15 Nov 2016 19:48:33 : The Wild Weebs, general, Wertfuzzy77#0274, rip
+15 Nov 2016 19:49:34 : The Wild Weebs, general, enragednuke#2565, rip
+15 Nov 2016 19:49:36 : The Wild Weebs, general, enragednuke#2565, ?gamble 1
+15 Nov 2016 19:49:36 : The Wild Weebs, general, enragedrobo#6009, You need to offer at least one eighth of your level (17074.875)
+15 Nov 2016 19:49:40 : The Wild Weebs, general, enragednuke#2565, ?gamble 17075
+15 Nov 2016 19:49:40 : The Wild Weebs, general, enragedrobo#6009, You feel the dark magic choke you. You do not dare try again for **2 minutes**
+15 Nov 2016 19:49:42 : The Wild Weebs, general, enragednuke#2565, mfkr
+15 Nov 2016 19:57:46 : Cipher, music, Wertfuzzy77#0274, ;join
+15 Nov 2016 19:58:03 : Cipher, music, Wertfuzzy77#0274, ;search Your Lie in April opening
+15 Nov 2016 19:58:04 : Cipher, music, Botfuzzy77#2209, Added Shigatsu wa Kimi no Uso Opening 1 to the queue
+15 Nov 2016 19:58:04 : Cipher, music, Botfuzzy77#2209, https://www.youtube.com/watch?v=3bm8vZVFYyU
+15 Nov 2016 19:58:30 : Cipher, music, Wertfuzzy77#0274, ;help MusicPlayer
+15 Nov 2016 19:58:30 : Cipher, music, Botfuzzy77#2209, ```
+Commands:
+  desc           Decription of the Current playing song
+  loop           
+  youtube        Adds a Song for the Bot to Play
+  leave          Leaves the Join chat
+  playlist       Adds songs from a predefined playlist to the songs list
+  viewplaylist   Views the songs of a playlists
+  extendplaylist Extends a custom playlist
+  skip           Skips the Current song
+  makeplaylist   Makes a custom playlist for the bot to save
+  join           Joins the Voice channel you are currently in
+  songs          Prints the songs in the queue
+  search         
+  playlists      
+  song           Returns information about the current playing song
+  shuffle        Shuffles the songs in the Queue
+
+Type ;help command for more info on a command.
+You can also type ;help category for more info on a category.
+```
+15 Nov 2016 19:58:41 : Cipher, music, Wertfuzzy77#0274, ;extendplaylist AnimeOpenings https://www.youtube.com/watch?v=3bm8vZVFYyU
+15 Nov 2016 20:00:14 : Cipher, music, Wertfuzzy77#0274, ;search Angel beats opening
+15 Nov 2016 20:00:16 : Cipher, music, Botfuzzy77#2209, Added Angel Beats Opening vostfr to the queue
+15 Nov 2016 20:00:16 : Cipher, music, Botfuzzy77#2209, https://www.youtube.com/watch?v=Erm8Z0Qs8xE
+15 Nov 2016 20:00:54 : Cipher, music, Wertfuzzy77#0274, ;extendplaylist AnimeOpenings https://www.youtube.com/watch?v=Erm8Z0Qs8xE
+15 Nov 2016 20:09:58 : Cipher, music, Wertfuzzy77#0274, ;songs
+15 Nov 2016 20:09:58 : Cipher, music, Botfuzzy77#2209, **The Following songs are in the Queue, plus [3] more**
+15 Nov 2016 20:09:58 : Cipher, music, Botfuzzy77#2209, 1. Escape The Fate  Just A Memory lyric video
+	<https://www.youtube.com/watch?v=gtffXlzHy1A>
+2. Steel Panther - Community Property (lyrics)
+	<https://www.youtube.com/watch?v=Odz4oi6GN0Y>
+3. Steel Panther ~ Stripper Girl
+	<https://www.youtube.com/watch?v=W8v-CDnFlwM>
+4. Chrono Cross OST - Star-Stealing Girl
+	<https://www.youtube.com/watch?v=YoEMaWrQBQM&list=PL597A5805D4A5D68E>
+5. Asian Hooker - Steel Panther
+	<https://www.youtube.com/watch?v=iBcX9plkfpU>
+6. Chrono Cross OST - Star-Stealing Girl
+	<https://www.youtube.com/watch?v=YoEMaWrQBQM&list=PL597A5805D4A5D68E>
+7. Steel Panther - Community Property (lyrics)
+	<https://www.youtube.com/watch?v=Odz4oi6GN0Y>
+8. Escape The Fate  Just A Memory lyric video
+	<https://www.youtube.com/watch?v=gtffXlzHy1A>
+9. Steel Panther ~ Stripper Girl
+	<https://www.youtube.com/watch?v=W8v-CDnFlwM>
+10. 17 Girls In A Row (Explicit)
+	<https://www.youtube.com/watch?v=cP16QH_eq5U>
+Total Time is 0:46:56
+15 Nov 2016 20:10:07 : Cipher, music, Wertfuzzy77#0274, ;leave
+15 Nov 2016 20:10:09 : Cipher, music, Wertfuzzy77#0274, ;reload
+15 Nov 2016 20:10:09 : Cipher, music, Botfuzzy77#2209, Reloaded all Modules
+15 Nov 2016 20:10:24 : Cipher, music, Wertfuzzy77#0274, ;join
+15 Nov 2016 20:12:21 : LimitlessMc, mainchat, theOnlyJuan#9357, Its all good fam we understand @Lightning
+15 Nov 2016 20:15:51 : Cipher, music, Wertfuzzy77#0274, ;leave
+15 Nov 2016 20:15:52 : Cipher, music, Wertfuzzy77#0274, ;reload
+15 Nov 2016 20:15:52 : Cipher, music, Botfuzzy77#2209, Reloaded all Modules
+15 Nov 2016 20:15:55 : Cipher, music, Wertfuzzy77#0274, ;join
+15 Nov 2016 20:16:14 : Cipher, music, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=Erm8Z0Qs8xE
+15 Nov 2016 20:16:15 : Cipher, music, Botfuzzy77#2209, Added Angel Beats Opening vostfr to the queue
+15 Nov 2016 20:16:28 : Cipher, music, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=Erm8Z0Qs8xE
+15 Nov 2016 20:16:29 : Cipher, music, Botfuzzy77#2209, Added Angel Beats Opening vostfr to the queue
+15 Nov 2016 20:16:32 : Cipher, music, Wertfuzzy77#0274, ;songs
+15 Nov 2016 20:16:32 : Cipher, music, Botfuzzy77#2209, Queue is Empty
+15 Nov 2016 20:16:36 : Cipher, music, Wertfuzzy77#0274, hm?
+15 Nov 2016 20:17:30 : Cipher, music, Wertfuzzy77#0274, ;youtube https://www.youtube.com/watch?v=Erm8Z0Qs8xE
+15 Nov 2016 20:17:31 : Cipher, music, Botfuzzy77#2209, Added Angel Beats Opening vostfr to the queue
+15 Nov 2016 20:18:13 : LimitlessMc, botchat, DDriggs00#0005, @Botfuzzy77 what is the integral of x^x
+15 Nov 2016 20:18:14 : LimitlessMc, botchat, Botfuzzy77#2209, What is Cage of Eden?
+15 Nov 2016 20:18:29 : Cipher, music, Wertfuzzy77#0274, ;song
+15 Nov 2016 20:18:29 : Cipher, music, Botfuzzy77#2209, ```Name: Angel Beats Opening vostfr
+URL: <https://www.youtube.com/watch?v=Erm8Z0Qs8xE>
+Time: 0:01:30
+Views: 160,317
+Likes: 1,426, 98.34%
+Dislikes: 24, 1.66%
+```
+15 Nov 2016 20:20:06 : Cipher, music, Wertfuzzy77#0274, ;relod
+15 Nov 2016 20:20:08 : Cipher, music, Wertfuzzy77#0274, ;relog
+15 Nov 2016 20:20:08 : Cipher, music, Botfuzzy77#2209, Relogging...

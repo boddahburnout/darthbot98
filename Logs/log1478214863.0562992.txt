@@ -1,0 +1,592 @@
+03 Nov 2016 23:14:29 : LimitlessMc, botchat, Wertfuzzy77#0274, better
+03 Nov 2016 23:14:31 : LimitlessMc, botchat, Wertfuzzy77#0274, ;status
+03 Nov 2016 23:14:31 : LimitlessMc, botchat, Botfuzzy77#2209, UpTime: 0:00:08.400000s
+03 Nov 2016 23:14:31 : LimitlessMc, botchat, Botfuzzy77#2209, Total Messages: 2
+03 Nov 2016 23:14:32 : LimitlessMc, botchat, Botfuzzy77#2209, Servers Joined: 10
+03 Nov 2016 23:14:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;join
+03 Nov 2016 23:14:44 : LimitlessMc, botchat, Wertfuzzy77#0274, ;playlists
+03 Nov 2016 23:14:44 : LimitlessMc, botchat, Botfuzzy77#2209, MJackson[5], Adele[5], Maroon[5], WEEB[4], test[1], SteinsGate[13], Cala[21], nicky[2], 2Cellos[5], Katy[3], GnR[5], GAGA[3], Blunt[3], Animenz[3], ACDC[5], Kimi[4], AnimeOpenings[17], Bringer[1], Shelter[1], Lightning[0], WEEB2[3], Dragons[4], Perri[2], FUN[3], Train[3], Old[9], Coldplay[5], Sheeran[6], Akinci[12], AIDS[0], Amagi[1]
+03 Nov 2016 23:14:49 : LimitlessMc, botchat, Wertfuzzy77#0274, ;playlist AnimeOpenings
+03 Nov 2016 23:14:56 : LimitlessMc, botchat, Wertfuzzy77#0274, weeb all day
+03 Nov 2016 23:15:01 : LimitlessMc, botchat, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+03 Nov 2016 23:15:16 : LimitlessMc, botchat, Resolate#7058, #weeb24/7
+03 Nov 2016 23:15:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ^
+03 Nov 2016 23:15:26 : LimitlessMc, botchat, Botfuzzy77#2209, ^
+03 Nov 2016 23:15:54 : LimitlessMc, botchat, Wertfuzzy77#0274, also
+03 Nov 2016 23:15:56 : LimitlessMc, botchat, Wertfuzzy77#0274, ;rps R
+03 Nov 2016 23:15:56 : LimitlessMc, botchat, Botfuzzy77#2209, You throw :right_facing_fist:
+I throw :raised_back_of_hand:
+03 Nov 2016 23:15:56 : LimitlessMc, botchat, Botfuzzy77#2209, I Win! :stuck_out_tongue:
+03 Nov 2016 23:15:59 : LimitlessMc, botchat, Wertfuzzy77#0274, 😄
+03 Nov 2016 23:16:01 : LimitlessMc, botchat, Wertfuzzy77#0274, and
+03 Nov 2016 23:16:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ev Celebi
+03 Nov 2016 23:16:04 : LimitlessMc, botchat, Botfuzzy77#2209, **Celebi**
+```py
+speed 0
+special-defense 0
+special-attack 0
+defense 0
+attack 0
+hp 3```
+03 Nov 2016 23:16:17 : LimitlessMc, botchat, Resolate#7058, ;rps S
+03 Nov 2016 23:16:17 : LimitlessMc, botchat, Botfuzzy77#2209, You throw :v:
+I throw :v:
+03 Nov 2016 23:16:17 : LimitlessMc, botchat, Botfuzzy77#2209, Its a Tie, we both put :v:
+03 Nov 2016 23:16:29 : LimitlessMc, botchat, Wertfuzzy77#0274, ;rps P
+03 Nov 2016 23:16:29 : LimitlessMc, botchat, Botfuzzy77#2209, You throw :raised_back_of_hand:
+I throw :right_facing_fist:
+03 Nov 2016 23:16:29 : LimitlessMc, botchat, Botfuzzy77#2209, **You Win!**
+03 Nov 2016 23:16:32 : LimitlessMc, botchat, Wertfuzzy77#0274, ya
+03 Nov 2016 23:16:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ev Moltres Articuno Zapdos
+03 Nov 2016 23:16:50 : LimitlessMc, botchat, Botfuzzy77#2209, **Moltres**
+```py
+speed 0
+special-defense 0
+special-attack 3
+defense 0
+attack 0
+hp 0```
+03 Nov 2016 23:16:51 : LimitlessMc, botchat, Botfuzzy77#2209, **Articuno**
+```py
+speed 0
+special-defense 3
+special-attack 0
+defense 0
+attack 0
+hp 0```
+03 Nov 2016 23:16:51 : LimitlessMc, botchat, Botfuzzy77#2209, **Zapdos**
+```py
+speed 0
+special-defense 0
+special-attack 3
+defense 0
+attack 0
+hp 0```
+03 Nov 2016 23:17:20 : LimitlessMc, botchat, Resolate#7058, ;ev Arceus
+03 Nov 2016 23:17:21 : LimitlessMc, botchat, Botfuzzy77#2209, **Arceus**
+```py
+speed 0
+special-defense 0
+special-attack 0
+defense 0
+attack 0
+hp 3```
+03 Nov 2016 23:17:37 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ev Magicarp
+03 Nov 2016 23:17:48 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ev Magikarp
+03 Nov 2016 23:17:49 : LimitlessMc, botchat, Botfuzzy77#2209, **Magikarp**
+```py
+speed 1
+special-defense 0
+special-attack 0
+defense 0
+attack 0
+hp 0```
+03 Nov 2016 23:26:10 : LimitlessMc, botchat, Wertfuzzy77#0274, ;ranking
+03 Nov 2016 23:26:10 : LimitlessMc, botchat, Botfuzzy77#2209, Invalid Input
+03 Nov 2016 23:26:22 : LimitlessMc, mainchat, xZeldasBootyx#7234, @Lightning  i got banned for some reason????
+03 Nov 2016 23:26:45 : LimitlessMc, mainchat, Lightning#6734, mhm.
+03 Nov 2016 23:27:42 : LimitlessMc, mainchat, xZeldasBootyx#7234, no joke
+03 Nov 2016 23:27:49 : LimitlessMc, mainchat, xZeldasBootyx#7234, plz I'm no kidding
+03 Nov 2016 23:28:08 : LimitlessMc, mainchat, xZeldasBootyx#7234, not
+03 Nov 2016 23:30:27 : LimitlessMc, mainchat, Lightning#6734, i didn't ban you so nothing i can do
+03 Nov 2016 23:31:20 : LimitlessMc, botchat, Wertfuzzy77#0274, THIS SONG!!!!!!!!!!!!!!!
+03 Nov 2016 23:31:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ;loop 20
+03 Nov 2016 23:31:23 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*Porter Robinson & Madeon - Shelter (Official Audio)*' **20** more times
+03 Nov 2016 23:32:21 : LimitlessMc, botchat, Resolate#7058, ;songs
+03 Nov 2016 23:32:22 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue, plus [21] more**
+03 Nov 2016 23:32:22 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Porter Robinson & Madeon - Shelter (Official Audio)
+	<https://www.youtube.com/watch?v=HQnC1UHBvWA>
+2. Porter Robinson & Madeon - Shelter (Official Audio)
+	<https://www.youtube.com/watch?v=HQnC1UHBvWA>
+3. Porter Robinson & Madeon - Shelter (Official Audio)
+	<https://www.youtube.com/watch?v=HQnC1UHBvWA>
+4. Porter Robinson & Madeon - Shelter (Official Audio)
+	<https://www.youtube.com/watch?v=HQnC1UHBvWA>
+5. Porter Robinson & Madeon - Shelter (Official Audio)
+	<https://www.youtube.com/watch?v=HQnC1UHBvWA>
+6. Porter Robinson & Madeon - Shelter (Official Audio)
+	<https://www.youtube.com/watch?v=HQnC1UHBvWA>
+7. Porter Robinson & Madeon - Shelter (Official Audio)
+	<https://www.youtube.com/watch?v=HQnC1UHBvWA>
+8. Porter Robinson & Madeon - Shelter (Official Audio)
+	<https://www.youtube.com/watch?v=HQnC1UHBvWA>
+9. Porter Robinson & Madeon - Shelter (Official Audio)
+	<https://www.youtube.com/watch?v=HQnC1UHBvWA>
+10. Porter Robinson & Madeon - Shelter (Official Audio)
+	<https://www.youtube.com/watch?v=HQnC1UHBvWA>
+Total Time is 1:55:42
+03 Nov 2016 23:32:25 : LimitlessMc, mainchat, xZeldasBootyx#7234, Alpha banned me
+03 Nov 2016 23:32:34 : LimitlessMc, botchat, Wertfuzzy77#0274, shhh
+03 Nov 2016 23:32:36 : LimitlessMc, botchat, Wertfuzzy77#0274, its a good song
+03 Nov 2016 23:32:39 : LimitlessMc, mainchat, xZeldasBootyx#7234, so does alpha have discord
+03 Nov 2016 23:32:40 : LimitlessMc, botchat, Resolate#7058, xD
+03 Nov 2016 23:32:49 : LimitlessMc, mainchat, xZeldasBootyx#7234, @Lightning
+03 Nov 2016 23:33:20 : LimitlessMc, mainchat, xZeldasBootyx#7234, @Alpha isnt in School cuz Typhoon  y did u ban me
+03 Nov 2016 23:34:07 : LimitlessMc, mainchat, Lightning#6734, ^
+03 Nov 2016 23:34:07 : LimitlessMc, mainchat, Botfuzzy77#2209, ^
+03 Nov 2016 23:36:58 : LimitlessMc, mainchat, Jay113355#4999, It tells you on the ban message
+03 Nov 2016 23:37:44 : LimitlessMc, mainchat, jjtwilefc#0051, @xZeldasBootyx#7234 you were banned for griefing Caravellet I'm pretty sure
+03 Nov 2016 23:39:31 : LimitlessMc, mainchat, Lightning#6734, incorrect format :L
+03 Nov 2016 23:40:35 : LimitlessMc, mainchat, jjtwilefc#0051, Yeah...
+03 Nov 2016 23:42:23 : LimitlessMc, botchat, jjtwilefc#0051, ;songs
+03 Nov 2016 23:42:23 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue, plus [18] more**
+03 Nov 2016 23:42:23 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Porter Robinson & Madeon - Shelter (Official Audio)
+	<https://www.youtube.com/watch?v=HQnC1UHBvWA>
+2. Porter Robinson & Madeon - Shelter (Official Audio)
+	<https://www.youtube.com/watch?v=HQnC1UHBvWA>
+3. Porter Robinson & Madeon - Shelter (Official Audio)
+	<https://www.youtube.com/watch?v=HQnC1UHBvWA>
+4. Porter Robinson & Madeon - Shelter (Official Audio)
+	<https://www.youtube.com/watch?v=HQnC1UHBvWA>
+5. Porter Robinson & Madeon - Shelter (Official Audio)
+	<https://www.youtube.com/watch?v=HQnC1UHBvWA>
+6. Porter Robinson & Madeon - Shelter (Official Audio)
+	<https://www.youtube.com/watch?v=HQnC1UHBvWA>
+7. Porter Robinson & Madeon - Shelter (Official Audio)
+	<https://www.youtube.com/watch?v=HQnC1UHBvWA>
+8. Porter Robinson & Madeon - Shelter (Official Audio)
+	<https://www.youtube.com/watch?v=HQnC1UHBvWA>
+9. Porter Robinson & Madeon - Shelter (Official Audio)
+	<https://www.youtube.com/watch?v=HQnC1UHBvWA>
+10. Porter Robinson & Madeon - Shelter (Official Audio)
+	<https://www.youtube.com/watch?v=HQnC1UHBvWA>
+Total Time is 1:44:48
+03 Nov 2016 23:46:33 : LimitlessMc, botchat, jjtwilefc#0051, !data jjtwilefc
+03 Nov 2016 23:46:50 : LimitlessMc, botchat, Lightning#6734, ;youtube waka laka
+03 Nov 2016 23:46:50 : LimitlessMc, botchat, Botfuzzy77#2209, Not a Valid Link, Please only use URLs from youtube.com
+03 Nov 2016 23:46:53 : LimitlessMc, botchat, Lightning#6734, rip
+03 Nov 2016 23:47:21 : LimitlessMc, botchat, jjtwilefc#0051, Incorrect format probs. Le
+03 Nov 2016 23:48:13 : LimitlessMc, botchat, Lightning#6734, ;youtube https://www.youtube.com/watch?v=Ck_8ULKRs7Q
+03 Nov 2016 23:48:14 : LimitlessMc, botchat, Botfuzzy77#2209, Added Waka Laka - Azumanga Daioh to the queue
+03 Nov 2016 23:48:17 : LimitlessMc, botchat, Lightning#6734, yey
+03 Nov 2016 23:49:28 : LimitlessMc, botchat, jjtwilefc#0051, Tf is that video
+03 Nov 2016 23:50:00 : LimitlessMc, botchat, theOnlyJuan#9357, ;youtube ppap
+03 Nov 2016 23:50:00 : LimitlessMc, botchat, Botfuzzy77#2209, Not a Valid Link, Please only use URLs from youtube.com
+03 Nov 2016 23:50:05 : LimitlessMc, botchat, theOnlyJuan#9357, Darn lel
+03 Nov 2016 23:50:06 : LimitlessMc, botchat, jjtwilefc#0051, Lol
+03 Nov 2016 23:50:39 : LimitlessMc, botchat, jjtwilefc#0051, ;youtube PPAP
+03 Nov 2016 23:50:39 : LimitlessMc, botchat, Botfuzzy77#2209, Not a Valid Link, Please only use URLs from youtube.com
+03 Nov 2016 23:50:57 : LimitlessMc, botchat, theOnlyJuan#9357, ;search ppap
+03 Nov 2016 23:50:59 : LimitlessMc, botchat, Botfuzzy77#2209, Added PPAP Pen Pineapple Apple Pen CRINGE. to the queue
+03 Nov 2016 23:50:59 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=6HlMJO7WPR0
+03 Nov 2016 23:51:10 : LimitlessMc, botchat, theOnlyJuan#9357, Lmfao wrong one
+03 Nov 2016 23:51:21 : LimitlessMc, botchat, jjtwilefc#0051, ^
+03 Nov 2016 23:51:21 : LimitlessMc, botchat, Botfuzzy77#2209, ^
+03 Nov 2016 23:54:22 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+03 Nov 2016 23:54:22 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue, plus [17] more**
+03 Nov 2016 23:54:22 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Porter Robinson & Madeon - Shelter (Official Audio)
+	<https://www.youtube.com/watch?v=HQnC1UHBvWA>
+2. Porter Robinson & Madeon - Shelter (Official Audio)
+	<https://www.youtube.com/watch?v=HQnC1UHBvWA>
+3. Porter Robinson & Madeon - Shelter (Official Audio)
+	<https://www.youtube.com/watch?v=HQnC1UHBvWA>
+4. Porter Robinson & Madeon - Shelter (Official Audio)
+	<https://www.youtube.com/watch?v=HQnC1UHBvWA>
+5. Porter Robinson & Madeon - Shelter (Official Audio)
+	<https://www.youtube.com/watch?v=HQnC1UHBvWA>
+6. Porter Robinson & Madeon - Shelter (Official Audio)
+	<https://www.youtube.com/watch?v=HQnC1UHBvWA>
+7. Porter Robinson & Madeon - Shelter (Official Audio)
+	<https://www.youtube.com/watch?v=HQnC1UHBvWA>
+8. Porter Robinson & Madeon - Shelter (Official Audio)
+	<https://www.youtube.com/watch?v=HQnC1UHBvWA>
+9. Porter Robinson & Madeon - Shelter (Official Audio)
+	<https://www.youtube.com/watch?v=HQnC1UHBvWA>
+10. Porter Robinson & Madeon - Shelter (Official Audio)
+	<https://www.youtube.com/watch?v=HQnC1UHBvWA>
+Total Time is 1:46:32
+03 Nov 2016 23:54:50 : LimitlessMc, botchat, Wertfuzzy77#0274, The shelter spam is real
+03 Nov 2016 23:56:49 : LimitlessMc, botchat, Lightning#6734, much shelter
+03 Nov 2016 23:56:56 : LimitlessMc, botchat, Wertfuzzy77#0274, ayy, reactions are a thing now
+03 Nov 2016 23:56:57 : LimitlessMc, botchat, Wertfuzzy77#0274, tcool
+03 Nov 2016 23:57:06 : LimitlessMc, botchat, Lightning#6734, how to add songs to my playlist? o:
+03 Nov 2016 23:57:12 : LimitlessMc, botchat, Wertfuzzy77#0274, hmm
+03 Nov 2016 23:57:16 : LimitlessMc, botchat, Wertfuzzy77#0274, ;help extendplaylist
+03 Nov 2016 23:57:16 : LimitlessMc, botchat, Botfuzzy77#2209, ```
+;extendplaylist <name> [links...]
+
+Extends a custom playlist
+
+```
+03 Nov 2016 23:57:17 : LimitlessMc, botchat, Wertfuzzy77#0274, there
+03 Nov 2016 23:57:22 : LimitlessMc, botchat, Lightning#6734, oh shweet
+03 Nov 2016 23:57:46 : LimitlessMc, botchat, Wertfuzzy77#0274, this song so goodddddd
+03 Nov 2016 23:59:38 : LimitlessMc, botchat, Lightning#6734, 10/10
+04 Nov 2016 00:14:35 : LimitlessMc, mainchat, zigban1#6865, Is beta 10 out yet
+04 Nov 2016 00:15:09 : Team Harmony, general, D3NSH1N#8702, @Skyd  http://prntscr.com/d2teko And still no HA Ferali. lmfao!
+04 Nov 2016 00:17:32 : LimitlessMc, mainchat, Resolate#7058, Been out for over a week
+04 Nov 2016 00:33:01 : LimitlessMc, mainchat, Lightning#6734, ye
+04 Nov 2016 00:47:55 : LimitlessMc, botchat, Resolate#7058, ;song
+04 Nov 2016 00:47:55 : LimitlessMc, botchat, Botfuzzy77#2209, ```Name: Parasyte op full  Kiseijuu Sei no Kakuritsu
+URL: <https://www.youtube.com/watch?v=5QvnYt7H-L4>
+Time: 0:03:48
+Views: 269,480
+Likes: 2,248, 96.69%
+Dislikes: 77, 3.31%
+```
+04 Nov 2016 00:56:17 : LimitlessMc, botchat, Lightning#6734, ;songs
+04 Nov 2016 00:56:17 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+04 Nov 2016 00:56:17 : LimitlessMc, botchat, Botfuzzy77#2209, 1. TVアニメ「がっこうぐらし！」OP映像
+	<https://www.youtube.com/watch?v=UNjHxhljAck>
+2. Mitsu no Yoake - Spice and Wolf Season 2 full opening lyrics - Arai Akino
+	<https://www.youtube.com/watch?v=xOkc55wu8m8>
+3. Re:Zero kara Hajimeru Isekai Seikatsu Opening「Redo」
+	<https://www.youtube.com/watch?v=UWjiUPTtgDA>
+4. Spice and Wolf opening song full with English lyrics
+	<https://www.youtube.com/watch?v=UmPC6w_869U>
+5. Clannad opening theme full
+	<https://www.youtube.com/watch?v=k8eokj5MlEE>
+6. Robotics notes - Junjou Spectra (OP Full)
+	<https://www.youtube.com/watch?v=SiSNYiH-lVM>
+7. No Game No Life Opening Full
+	<https://www.youtube.com/watch?v=CaksNlNniis>
+8. Clannad After Story Op (Full)
+	<https://www.youtube.com/watch?v=m76lKsM_jaU>
+9. Waka Laka - Azumanga Daioh
+	<https://www.youtube.com/watch?v=Ck_8ULKRs7Q>
+10. PPAP Pen Pineapple Apple Pen CRINGE.
+	<https://www.youtube.com/watch?v=6HlMJO7WPR0>
+Total Time is 0:43:32
+04 Nov 2016 01:05:21 : LimitlessMc, mainchat, Wertfuzzy77#0274, ;sons
+04 Nov 2016 01:05:23 : LimitlessMc, mainchat, Wertfuzzy77#0274, ;songs
+04 Nov 2016 01:05:23 : LimitlessMc, mainchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+04 Nov 2016 01:05:23 : LimitlessMc, mainchat, Botfuzzy77#2209, 1. Re:Zero kara Hajimeru Isekai Seikatsu Opening「Redo」
+	<https://www.youtube.com/watch?v=UWjiUPTtgDA>
+2. Spice and Wolf opening song full with English lyrics
+	<https://www.youtube.com/watch?v=UmPC6w_869U>
+3. Clannad opening theme full
+	<https://www.youtube.com/watch?v=k8eokj5MlEE>
+4. Robotics notes - Junjou Spectra (OP Full)
+	<https://www.youtube.com/watch?v=SiSNYiH-lVM>
+5. No Game No Life Opening Full
+	<https://www.youtube.com/watch?v=CaksNlNniis>
+6. Clannad After Story Op (Full)
+	<https://www.youtube.com/watch?v=m76lKsM_jaU>
+7. Waka Laka - Azumanga Daioh
+	<https://www.youtube.com/watch?v=Ck_8ULKRs7Q>
+8. PPAP Pen Pineapple Apple Pen CRINGE.
+	<https://www.youtube.com/watch?v=6HlMJO7WPR0>
+Total Time is 0:37:28
+04 Nov 2016 01:08:21 : LimitlessMc, botchat, Resolate#7058, ;fml
+04 Nov 2016 01:08:22 : LimitlessMc, botchat, Botfuzzy77#2209, *Today, I was walking down the sidewalk and heard a little girl ask her dad why I had blue hair. He said, "Sometimes drugs will make people do stupid things." FML*
+04 Nov 2016 01:08:43 : LimitlessMc, botchat, Resolate#7058, lel
+04 Nov 2016 01:09:05 : LimitlessMc, botchat, Resolate#7058, Gn guys
+04 Nov 2016 01:10:25 : LimitlessMc, botchat, Wertfuzzy77#0274, gn
+04 Nov 2016 01:10:54 : LimitlessMc, botchat, Lightning#6734, gn reso
+04 Nov 2016 01:17:17 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+04 Nov 2016 01:17:18 : LimitlessMc, botchat, Botfuzzy77#2209, ```Name: Robotics notes - Junjou Spectra (OP Full)
+URL: <https://www.youtube.com/watch?v=SiSNYiH-lVM>
+Time: 0:04:11
+Views: 158,793
+Likes: 1,129, 99.12%
+Dislikes: 10, 0.88%
+```
+04 Nov 2016 01:17:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ^ good anime + song
+04 Nov 2016 01:21:28 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+04 Nov 2016 01:21:28 : LimitlessMc, botchat, Botfuzzy77#2209, ```Name: No Game No Life Opening Full
+URL: <https://www.youtube.com/watch?v=CaksNlNniis>
+Time: 0:04:40
+Views: 15,745,253
+Likes: 63,042, 98.42%
+Dislikes: 1,011, 1.58%
+```
+04 Nov 2016 01:21:32 : LimitlessMc, botchat, Wertfuzzy77#0274, ^ good anime + song
+04 Nov 2016 01:24:00 : LimitlessMc, botchat, theOnlyJuan#9357, ;server
+04 Nov 2016 01:24:01 : LimitlessMc, botchat, Botfuzzy77#2209, **Server IP**: mc.limitlessmc.net
+04 Nov 2016 01:24:01 : LimitlessMc, botchat, Botfuzzy77#2209, **Server Status**
+ *Online Players*: 16 players out of 200
+ *Ping*: 174.884 ms
+ *MC Version*: 1.10.2
+04 Nov 2016 01:24:01 : LimitlessMc, botchat, Botfuzzy77#2209, **Players Online**:
+ *iamtravolta, MattRuc, DiamondStriker11, chill565, Antoniololol, ChillDeo, LegendaryFaze, XtDiomedes, Fiodor, giftedkids123, Inner_Prod, InfernoRedstone...*
+04 Nov 2016 01:31:23 : LimitlessMc, mainchat, zigban1#6865, Wow so they fixed evo stones
+04 Nov 2016 01:31:52 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+04 Nov 2016 01:31:52 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+04 Nov 2016 01:31:52 : LimitlessMc, botchat, Botfuzzy77#2209, 1. PPAP Pen Pineapple Apple Pen CRINGE.
+	<https://www.youtube.com/watch?v=6HlMJO7WPR0>
+Total Time is 0:07:49
+04 Nov 2016 01:31:57 : LimitlessMc, botchat, Wertfuzzy77#0274, ;playlist WEEB
+04 Nov 2016 01:32:00 : LimitlessMc, botchat, Botfuzzy77#2209, Finished Adding songs from playlist(s)
+04 Nov 2016 01:32:03 : LimitlessMc, botchat, Wertfuzzy77#0274, time for the super weeb
+04 Nov 2016 01:32:06 : LimitlessMc, mainchat, zigban1#6865, Wow I need to get back into pixelmon but been feeling crap with the way my health is right now
+04 Nov 2016 01:32:29 : LimitlessMc, botchat, Lightning#6734, oh god
+04 Nov 2016 01:32:39 : LimitlessMc, botchat, Wertfuzzy77#0274, ;skip 1
+04 Nov 2016 01:32:39 : LimitlessMc, botchat, Botfuzzy77#2209, Skipping Waka Laka - Azumanga Daioh
+04 Nov 2016 01:32:43 : LimitlessMc, botchat, Wertfuzzy77#0274, wut
+04 Nov 2016 01:32:46 : LimitlessMc, botchat, Lightning#6734, WUT
+04 Nov 2016 01:32:49 : LimitlessMc, botchat, Wertfuzzy77#0274, oh, i meant ./remove xD
+04 Nov 2016 01:33:00 : LimitlessMc, botchat, Lightning#6734, listen... now i'm all the anger
+04 Nov 2016 01:33:01 : LimitlessMc, botchat, Wertfuzzy77#0274, ;forceplay https://www.youtube.com/watch?v=Ck_8ULKRs7Q
+04 Nov 2016 01:33:04 : LimitlessMc, botchat, Wertfuzzy77#0274, i fix
+04 Nov 2016 01:33:06 : LimitlessMc, botchat, Lightning#6734, yey
+04 Nov 2016 01:33:14 : LimitlessMc, botchat, Wertfuzzy77#0274, .;forceplay OP
+04 Nov 2016 01:33:20 : LimitlessMc, botchat, Lightning#6734, damn pewd ruinin waka
+04 Nov 2016 01:33:26 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+04 Nov 2016 01:33:26 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+04 Nov 2016 01:33:26 : LimitlessMc, botchat, Botfuzzy77#2209, 1. ろん -「おちゃめ機能」FUKKIRETA 【HD.256k.Kara】
+	<https://www.youtube.com/watch?v=kuNixp-wvWM>
+2. ろん -「おちゃめ機能」FUKKIRETA 【HD.256k.Kara】
+	<https://www.youtube.com/watch?v=kuNixp-wvWM>
+3. ろん -「おちゃめ機能」FUKKIRETA 【HD.256k.Kara】
+	<https://www.youtube.com/watch?v=kuNixp-wvWM>
+4. ろん -「おちゃめ機能」FUKKIRETA 【HD.256k.Kara】
+	<https://www.youtube.com/watch?v=kuNixp-wvWM>
+Total Time is 0:06:04
+04 Nov 2016 01:33:31 : LimitlessMc, botchat, Wertfuzzy77#0274, are you ready
+04 Nov 2016 01:33:36 : LimitlessMc, botchat, Lightning#6734, ohmagod
+04 Nov 2016 01:33:45 : LimitlessMc, botchat, Lightning#6734, bracing for full weeb
+04 Nov 2016 01:34:56 : LimitlessMc, mainchat, Tiny(Not Really Playing)#5001, are we allowed to like queue a song?
+04 Nov 2016 01:35:03 : LimitlessMc, mainchat, Lightning#6734, up to wert
+04 Nov 2016 01:35:06 : LimitlessMc, mainchat, Wertfuzzy77#0274, hmm?
+04 Nov 2016 01:35:09 : LimitlessMc, mainchat, Wertfuzzy77#0274, what mean
+04 Nov 2016 01:35:22 : LimitlessMc, mainchat, Tiny(Not Really Playing)#5001, in the discord im in people can make a queue
+04 Nov 2016 01:35:26 : LimitlessMc, mainchat, Tiny(Not Really Playing)#5001, so the songs come on in a rom
+04 Nov 2016 01:35:26 : LimitlessMc, mainchat, Lightning#6734, dun brek bot
+04 Nov 2016 01:35:32 : LimitlessMc, mainchat, Wertfuzzy77#0274, ;songs
+04 Nov 2016 01:35:32 : LimitlessMc, mainchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+04 Nov 2016 01:35:32 : LimitlessMc, mainchat, Botfuzzy77#2209, 1. ろん -「おちゃめ機能」FUKKIRETA 【HD.256k.Kara】
+	<https://www.youtube.com/watch?v=kuNixp-wvWM>
+2. ろん -「おちゃめ機能」FUKKIRETA 【HD.256k.Kara】
+	<https://www.youtube.com/watch?v=kuNixp-wvWM>
+3. ろん -「おちゃめ機能」FUKKIRETA 【HD.256k.Kara】
+	<https://www.youtube.com/watch?v=kuNixp-wvWM>
+4. ろん -「おちゃめ機能」FUKKIRETA 【HD.256k.Kara】
+	<https://www.youtube.com/watch?v=kuNixp-wvWM>
+Total Time is 0:06:04
+04 Nov 2016 01:35:41 : LimitlessMc, mainchat, Wertfuzzy77#0274, ;help youtube
+04 Nov 2016 01:35:41 : LimitlessMc, mainchat, Botfuzzy77#2209, ```
+;youtube [links...]
+
+Adds a Song for the Bot to Play
+
+```
+04 Nov 2016 01:35:43 : LimitlessMc, mainchat, Wertfuzzy77#0274, ;help search
+04 Nov 2016 01:35:44 : LimitlessMc, mainchat, Botfuzzy77#2209, ```
+;search [Pinput...]
+
+```
+04 Nov 2016 01:35:56 : LimitlessMc, mainchat, Lightning#6734, whai r we in mainchat xD
+04 Nov 2016 01:35:59 : LimitlessMc, mainchat, Wertfuzzy77#0274, use ;youtube <link> to add a link to the queue
+04 Nov 2016 01:36:07 : LimitlessMc, mainchat, Tiny(Not Really Playing)#5001, ahh oh thx wert
+04 Nov 2016 01:36:17 : LimitlessMc, botchat, Wertfuzzy77#0274, and use ;search to have the bot search youtube and find the video for you @Tiny(Not Really Playing)
+04 Nov 2016 01:36:40 : LimitlessMc, botchat, Tiny(Not Really Playing)#5001, alright sounds good
+04 Nov 2016 01:36:45 : LimitlessMc, botchat, Wertfuzzy77#0274, so like
+04 Nov 2016 01:36:48 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search shelter
+04 Nov 2016 01:36:51 : LimitlessMc, botchat, Botfuzzy77#2209, Added Porter Robinson & Madeon - Shelter (Official Audio) to the queue
+04 Nov 2016 01:36:51 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=HQnC1UHBvWA
+04 Nov 2016 01:36:57 : LimitlessMc, botchat, Tiny(Not Really Playing)#5001, good song^
+04 Nov 2016 01:37:02 : LimitlessMc, botchat, Wertfuzzy77#0274, best song
+04 Nov 2016 01:37:22 : LimitlessMc, botchat, Wertfuzzy77#0274, hence why ive changed by icon from Kimi No Na wa to Rin xD
+04 Nov 2016 01:37:33 : LimitlessMc, botchat, Lightning#6734, ;search brainpower
+04 Nov 2016 01:37:34 : LimitlessMc, botchat, Botfuzzy77#2209, Added NOMA - Brain Power to the queue
+04 Nov 2016 01:37:35 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=mj-v6zCnEaw
+04 Nov 2016 01:37:49 : LimitlessMc, botchat, Wertfuzzy77#0274, are we ready
+04 Nov 2016 01:37:56 : LimitlessMc, botchat, Lightning#6734, braceforweebness!
+04 Nov 2016 01:38:29 : LimitlessMc, botchat, Wertfuzzy77#0274, im 90% sure ive listened to the full 10 hour version of this
+04 Nov 2016 01:38:35 : LimitlessMc, botchat, Tiny(Not Really Playing)#5001, how?
+04 Nov 2016 01:38:36 : LimitlessMc, botchat, Wertfuzzy77#0274, more than once
+04 Nov 2016 01:38:38 : LimitlessMc, botchat, Lightning#6734, mygod
+04 Nov 2016 01:38:45 : LimitlessMc, botchat, Tiny(Not Really Playing)#5001, have you heard the goku/brainpower one xD
+04 Nov 2016 01:38:50 : LimitlessMc, botchat, Lightning#6734, ye
+04 Nov 2016 01:39:01 : LimitlessMc, botchat, Lightning#6734, song so hard on guitar here
+04 Nov 2016 01:39:09 : LimitlessMc, botchat, Lightning#6734, hero*
+04 Nov 2016 01:39:26 : LimitlessMc, botchat, Wertfuzzy77#0274, AGAIN
+04 Nov 2016 01:39:33 : LimitlessMc, botchat, Lightning#6734, WOOO
+04 Nov 2016 01:39:46 : LimitlessMc, botchat, Wertfuzzy77#0274, think its 4 times?
+04 Nov 2016 01:39:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+04 Nov 2016 01:39:47 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue**
+04 Nov 2016 01:39:48 : LimitlessMc, botchat, Botfuzzy77#2209, 1. ろん -「おちゃめ機能」FUKKIRETA 【HD.256k.Kara】
+	<https://www.youtube.com/watch?v=kuNixp-wvWM>
+2. ろん -「おちゃめ機能」FUKKIRETA 【HD.256k.Kara】
+	<https://www.youtube.com/watch?v=kuNixp-wvWM>
+3. Porter Robinson & Madeon - Shelter (Official Audio)
+	<https://www.youtube.com/watch?v=HQnC1UHBvWA>
+4. NOMA - Brain Power
+	<https://www.youtube.com/watch?v=mj-v6zCnEaw>
+Total Time is 0:12:48
+04 Nov 2016 01:39:51 : LimitlessMc, botchat, Wertfuzzy77#0274, ya 2 more 😄
+04 Nov 2016 01:40:02 : LimitlessMc, botchat, Lightning#6734, reeeeEEEEE
+04 Nov 2016 01:40:07 : LimitlessMc, botchat, Wertfuzzy77#0274, zero
+04 Nov 2016 01:40:21 : LimitlessMc, botchat, Lightning#6734, alpha was playing emo music with shitbot
+04 Nov 2016 01:40:39 : LimitlessMc, botchat, Wertfuzzy77#0274, does gerald even work anymore?
+04 Nov 2016 01:40:44 : LimitlessMc, botchat, Lightning#6734, sadly
+04 Nov 2016 01:40:48 : LimitlessMc, botchat, Wertfuzzy77#0274, !help
+04 Nov 2016 01:40:48 : LimitlessMc, botchat, Lightning#6734, !meme hep me
+04 Nov 2016 01:40:50 : LimitlessMc, botchat, Gerald#7099, ​
+Hello, I am Gerald, the channel Bot. I can do many things, I can even be extended by plugins (weehee).
+
+Current commands: (note that arguments in <> are required, those in [] not)
+  - !clean  : lets me purge messages, options below
+    - !clean lets me purge the last 50 messages
+    - !clean <number> does the same for n messages (no maximum :P)
+    - !clean infinite removes messages until !kill, even the end of the channel doesn't seem like the limit
+    - !clean images deletes any message containing either a link to a jpg, !meme or an attachment
+    - !clean <string> removes every message containing the string
+    - !clean @someone cleans @someones messages in the last 100
+  - !help (!info) : Prints the help
+  - !kill : Kills me and lets me (hopefully) respawn instantly
+  - !ping (!pong) : Ping Pong
+  - (DM) !nobroadcast : Disables update broadcasts from me if you have a server
+  - (DM) !dobroadcast : Enables update broadcasts from me again
+  - !bugreport <message> : File a bug so it will reach my master even if you can't contact him directly (If it's abused, I will block certain ~~ab~~users)
+  - !invite : Add me to your server
+  - !status : Prints some overall status
+  - !plugins : Prints informations about all plugins
+  - (DM) !dropbox <secret> : Register Dropbox. Go to https://ultramc.org:8087/dropbox/authorize
+  - !id <beginning of name> : Outputs their internal id
+  - !serverid : Prints this server's id
+  - !channelid : Let me output the id of thid channel
+  - !roleids : Lists all roles with their ids
+  - !mention <role name> : Mentions everyone in that role
+  - !permissions <username> : Lists all permissions the spefific user has in this channel
+  - !meme <text you wanna write> : Generate a funny image
+  - !pause : Pauses playback
+  - !stop : Stops playback and empties the queue
+  - !queue : Prints the current queue
+  - !shufflequeue : Shuffles the queue
+  - !flushqueue : Empties the queue
+04 Nov 2016 01:40:50 : LimitlessMc, botchat, Gerald#7099, ​http://i.imgflip.com/1di41h.jpg
+04 Nov 2016 01:40:51 : LimitlessMc, botchat, Gerald#7099, ​
+  - !skip : Skips the current song
+  - !replay : Adds the current playing song to the queue
+  - !webplayer : Outputs your personal webplayer url
+  - !resetsecret : Resets your webplayer secret in case you lost it
+  - !soundcloud <name> : Plays a specific song from soundcloud
+  - !youtube <name> : Plays a specific song from youtube. Can also be a url
+  - !stats  : Outputs which users wrote the most in this channel
+  - !words  : Outputs which users wrote the most words in this channel
+  - !topwords  : Sends the most common words in this channel
+  - !suspicious  : NSA-like who should be tracked a bit more :)
+  - !weblog  : The channel's weblog for easy search in the browser
+  - !punchcard  : The channel's punchcard - when are people active in here
+  - (DM) !steam Authenticates a steam user linking his steam id to the discord id (visit https://ultramc.org:8087/steam
+  - (DM) !nosteam Deauthenticates a steam user and disables notifications
+  - (DM) !arkserver <name> : Creates an api token for use of the ARK webalarms
+  - (DM) !deleteark <key> : Delete an ARK server from the config. Provide the key as argument
+  - !rate [@mention] : outputs my rating for a user
+  - !luck [@mention] : outputs the luck of a user today
+
+(DM) means that you have to issue this command via a direct message to me.
+04 Nov 2016 01:41:06 : LimitlessMc, botchat, Lightning#6734, !meme gerald whai u do dis
+04 Nov 2016 01:41:08 : LimitlessMc, botchat, Gerald#7099, ​http://i.imgflip.com/1di42b.jpg
+04 Nov 2016 01:41:14 : LimitlessMc, botchat, Wertfuzzy77#0274, !topwords
+04 Nov 2016 01:41:16 : LimitlessMc, botchat, Gerald#7099, ​These are the top words in this channel
+
+luck: 1252 (0.9356480408934991%)
+;clever: 1046 (0.7816995613215656%)
+;luck: 1009 (0.7540486208159269%)
+100,: 965 (0.7211664212957081%)
+;server: 545 (0.4072908804208922%)
+**server: 526 (0.39309174880988856%)
+song: 494 (0.3691774218860931%)
+songs: 476 (0.3557256129914581%)
+returns: 413 (0.3086442818602357%)
+bad**: 384 (0.28697192308554603%)
+**pretty: 374 (0.27949869592185994%)
+bot: 357 (0.2667942097435936%)
+queue: 345 (0.2578263371471703%)
+players: 334 (0.24960578726711558%)
+04 Nov 2016 01:41:30 : LimitlessMc, botchat, Wertfuzzy77#0274, lol, ;clever hasnt been enabled for months now
+04 Nov 2016 01:41:38 : LimitlessMc, botchat, Wertfuzzy77#0274, and still top word xD
+04 Nov 2016 01:41:41 : LimitlessMc, botchat, Lightning#6734, le
+04 Nov 2016 01:42:32 : LimitlessMc, botchat, Lightning#6734, AGAIN!
+04 Nov 2016 01:42:42 : LimitlessMc, botchat, Lightning#6734, !meme brace for weebness
+04 Nov 2016 01:42:44 : LimitlessMc, botchat, Gerald#7099, ​http://i.imgflip.com/1di45e.jpg
+04 Nov 2016 01:44:03 : LimitlessMc, botchat, Wertfuzzy77#0274, ❤
+04 Nov 2016 01:44:06 : LimitlessMc, botchat, Lightning#6734, much yes
+04 Nov 2016 01:44:09 : LimitlessMc, botchat, Wertfuzzy77#0274, all yes
+04 Nov 2016 01:44:17 : LimitlessMc, botchat, Lightning#6734, 12th time today i've listened to it
+04 Nov 2016 01:44:22 : LimitlessMc, botchat, Lightning#6734, still best song
+04 Nov 2016 01:44:23 : LimitlessMc, botchat, Wertfuzzy77#0274, lol.....
+04 Nov 2016 01:44:24 : LimitlessMc, botchat, Wertfuzzy77#0274, 12
+04 Nov 2016 01:44:31 : LimitlessMc, botchat, Wertfuzzy77#0274, noob
+04 Nov 2016 01:44:36 : LimitlessMc, botchat, Lightning#6734, am noob yes
+04 Nov 2016 01:44:54 : LimitlessMc, botchat, Wertfuzzy77#0274, I think iI listened to it atleast 100 times 2 days ago
+04 Nov 2016 01:45:01 : LimitlessMc, botchat, Lightning#6734, o-o
+04 Nov 2016 01:45:07 : LimitlessMc, botchat, Wertfuzzy77#0274, .;loop OP
+04 Nov 2016 01:45:26 : LimitlessMc, botchat, Wertfuzzy77#0274, started it in the morning
+04 Nov 2016 01:45:40 : LimitlessMc, botchat, Wertfuzzy77#0274, and since its on discord, i can listen to it either on my computer, or on my phone
+04 Nov 2016 01:45:52 : LimitlessMc, botchat, Wertfuzzy77#0274, So, i listened to it going to class, in class, coming back from class too xD
+04 Nov 2016 01:45:58 : LimitlessMc, botchat, Wertfuzzy77#0274, and when I was on my desk
+04 Nov 2016 01:46:02 : LimitlessMc, botchat, Wertfuzzy77#0274, so.... alot of times
+04 Nov 2016 01:47:05 : LimitlessMc, botchat, Lightning#6734, so many times
+04 Nov 2016 01:47:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ;song
+04 Nov 2016 01:47:47 : LimitlessMc, botchat, Botfuzzy77#2209, ```Name: NOMA - Brain Power
+URL: <https://www.youtube.com/watch?v=mj-v6zCnEaw>
+Time: 0:06:08
+Views: 4,012,862
+Likes: 42,491, 98.03%
+Dislikes: 855, 1.97%
+```
+04 Nov 2016 01:48:31 : LimitlessMc, botchat, Lightning#6734, song so weird
+04 Nov 2016 01:48:34 : LimitlessMc, botchat, Tiny(Not Really Playing)#5001, tru
+04 Nov 2016 01:55:40 : LimitlessMc, botchat, Wertfuzzy77#0274, ;search Shelter
+04 Nov 2016 01:55:41 : LimitlessMc, botchat, Botfuzzy77#2209, Added Porter Robinson & Madeon - Shelter (Official Audio) to the queue
+04 Nov 2016 01:55:41 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=HQnC1UHBvWA
+04 Nov 2016 01:55:44 : LimitlessMc, botchat, Wertfuzzy77#0274, ;loop 50
+04 Nov 2016 01:55:45 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*Porter Robinson & Madeon - Shelter (Official Audio)*' **50** more times
+04 Nov 2016 01:55:46 : LimitlessMc, botchat, Wertfuzzy77#0274, ❤
+04 Nov 2016 01:55:48 : LimitlessMc, botchat, Lightning#6734, dammit le
+04 Nov 2016 01:56:21 : LimitlessMc, botchat, Wertfuzzy77#0274, if you want to play something just ;forceplay it it will overwrite what is currently playing
+04 Nov 2016 01:56:25 : LimitlessMc, botchat, Wertfuzzy77#0274, but only links
+04 Nov 2016 01:56:28 : LimitlessMc, botchat, Lightning#6734, ahh ok
+04 Nov 2016 01:56:40 : LimitlessMc, botchat, Wertfuzzy77#0274, if you forceplay something that isnt a youtube link, you will crash the bot xD
+04 Nov 2016 01:56:41 : LimitlessMc, botchat, Wertfuzzy77#0274, so dont
+04 Nov 2016 02:29:45 : LimitlessMc, mainchat, Alpha isnt in School cuz Typhoon#3869, Rem is best girl @Wertfuzzy77 okei
+04 Nov 2016 02:35:58 : LimitlessMc, mainchat, Wertfuzzy77#0274, Emelia
+04 Nov 2016 02:36:50 : LimitlessMc, mainchat, Lightning#6734, Vanille is bes girl okei?
+04 Nov 2016 02:43:38 : LimitlessMc, botchat, Lightning#6734, ;forceplay https://www.youtube.com/watch?v=Ck_8ULKRs7Q
+04 Nov 2016 02:43:52 : LimitlessMc, botchat, Lightning#6734, lul
+04 Nov 2016 02:43:53 : LimitlessMc, botchat, Wertfuzzy77#0274, weeeeeb
+04 Nov 2016 02:44:00 : LimitlessMc, botchat, Lightning#6734, ;loop 500
+04 Nov 2016 02:44:00 : LimitlessMc, botchat, Botfuzzy77#2209, Added '*Waka Laka - Azumanga Daioh*' **500** more times
+04 Nov 2016 02:44:03 : LimitlessMc, botchat, Lightning#6734, XD
+04 Nov 2016 02:44:08 : LimitlessMc, botchat, Wertfuzzy77#0274, lol
+04 Nov 2016 02:44:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;songs
+04 Nov 2016 02:44:11 : LimitlessMc, botchat, Botfuzzy77#2209, **The Following songs are in the Queue, plus [525] more**
+04 Nov 2016 02:44:11 : LimitlessMc, botchat, Botfuzzy77#2209, 1. Waka Laka - Azumanga Daioh
+	<https://www.youtube.com/watch?v=Ck_8ULKRs7Q>
+2. Waka Laka - Azumanga Daioh
+	<https://www.youtube.com/watch?v=Ck_8ULKRs7Q>
+3. Waka Laka - Azumanga Daioh
+	<https://www.youtube.com/watch?v=Ck_8ULKRs7Q>
+4. Waka Laka - Azumanga Daioh
+	<https://www.youtube.com/watch?v=Ck_8ULKRs7Q>
+5. Waka Laka - Azumanga Daioh
+	<https://www.youtube.com/watch?v=Ck_8ULKRs7Q>
+6. Waka Laka - Azumanga Daioh
+	<https://www.youtube.com/watch?v=Ck_8ULKRs7Q>
+7. Waka Laka - Azumanga Daioh
+	<https://www.youtube.com/watch?v=Ck_8ULKRs7Q>
+8. Waka Laka - Azumanga Daioh
+	<https://www.youtube.com/watch?v=Ck_8ULKRs7Q>
+9. Waka Laka - Azumanga Daioh
+	<https://www.youtube.com/watch?v=Ck_8ULKRs7Q>
+10. Waka Laka - Azumanga Daioh
+	<https://www.youtube.com/watch?v=Ck_8ULKRs7Q>
+Total Time is 1 day, 18:14:19
+04 Nov 2016 02:44:13 : LimitlessMc, botchat, Wertfuzzy77#0274, gg
+04 Nov 2016 02:44:16 : LimitlessMc, botchat, Lightning#6734, 1day o-o
+04 Nov 2016 02:44:26 : LimitlessMc, botchat, Lightning#6734, @Alpha isnt in School cuz Typhoon suffer 😉
+04 Nov 2016 02:45:29 : LimitlessMc, botchat, Alpha isnt in School cuz Typhoon#3869, fukn ey m8 dont wanna break bot again
+04 Nov 2016 02:45:35 : LimitlessMc, botchat, Lightning#6734, le
+04 Nov 2016 02:45:44 : LimitlessMc, botchat, Lightning#6734, i no brek you and juan brekd it
+04 Nov 2016 02:47:49 : LimitlessMc, mainchat, Alpha isnt in School cuz Typhoon#3869, no
+04 Nov 2016 02:47:59 : LimitlessMc, mainchat, Alpha isnt in School cuz Typhoon#3869, rem best grill
+04 Nov 2016 02:53:50 : LimitlessMc, mainchat, Lightning#6734, no
+04 Nov 2016 02:53:57 : LimitlessMc, mainchat, Lightning#6734, vanille bes grill
+04 Nov 2016 03:00:13 : LimitlessMc, mainchat, Wertfuzzy77#0274, tbh, Rem is actually best girl xD
+04 Nov 2016 03:00:27 : LimitlessMc, mainchat, Wertfuzzy77#0274, but its really fun to say Emelia is and watch people get annoyed
+04 Nov 2016 03:08:02 : LimitlessMc, botchat, theOnlyJuan#9357, Bet
+04 Nov 2016 03:09:12 : LimitlessMc, mainchat, theOnlyJuan#9357, Fuk Emelia, she sux
+04 Nov 2016 03:09:49 : LimitlessMc, botchat, theOnlyJuan#9357, ;search PPAP
+04 Nov 2016 03:09:51 : LimitlessMc, botchat, Botfuzzy77#2209, Added PPAP Pen Pineapple Apple Pen CRINGE. to the queue
+04 Nov 2016 03:09:52 : LimitlessMc, botchat, Botfuzzy77#2209, https://www.youtube.com/watch?v=6HlMJO7WPR0
+04 Nov 2016 03:11:23 : LimitlessMc, mainchat, Wertfuzzy77#0274, kys
+04 Nov 2016 03:11:35 : LimitlessMc, mainchat, Wertfuzzy77#0274, She may not be best girl, but Emelia still 10/10
+04 Nov 2016 03:17:42 : LimitlessMc, mainchat, Alpha isnt in School cuz Typhoon#3869, emilia 8.5/10
+04 Nov 2016 03:17:44 : LimitlessMc, mainchat, Alpha isnt in School cuz Typhoon#3869, Rem 5/7
+04 Nov 2016 03:20:04 : LimitlessMc, mainchat, Wertfuzzy77#0274, fair
+04 Nov 2016 03:20:16 : LimitlessMc, botchat, Wertfuzzy77#0274, alright, this needs to die
+04 Nov 2016 03:20:21 : LimitlessMc, botchat, Wertfuzzy77#0274, ;relog
+04 Nov 2016 03:20:21 : LimitlessMc, botchat, Botfuzzy77#2209, Relogging...

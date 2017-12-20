@@ -1,0 +1,85 @@
+07 Apr 2017 05:26:06 : LimitlessMc, botchat, Wertfuzzy77#0274, just looks way cleaner
+07 Apr 2017 05:26:11 : LimitlessMc, botchat, Wertfuzzy77#0274, ;train
+07 Apr 2017 05:26:11 : LimitlessMc, botchat, Botfuzzy77#2209, Please wait 708 seconds before you can train again.
+07 Apr 2017 05:26:12 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 Apr 2017 05:26:12 : LimitlessMc, botchat, Botfuzzy77#2209, You have gained 7814 (+ 781) XP
+07 Apr 2017 05:28:59 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug bot.send_message(ctx.message.channel, embed=discord.Embed(title='Pokemon Training Session', colour=0x3232FF).add_field("Testing", 123)
+07 Apr 2017 05:28:59 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+SyntaxError: unexpected EOF while parsing (<string>, line 1)
+```
+07 Apr 2017 05:28:59 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+SyntaxError: unexpected EOF while parsing (<string>, line 1)
+```
+07 Apr 2017 05:29:04 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug bot.send_message(ctx.message.channel, embed=discord.Embed(title='Pokemon Training Session', colour=0x3232FF).add_field("Testing", 123))
+07 Apr 2017 05:29:04 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+TypeError: add_field() takes 1 positional argument but 3 were given
+```
+07 Apr 2017 05:29:05 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+TypeError: add_field() takes 1 positional argument but 3 were given
+```
+07 Apr 2017 05:29:21 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug bot.send_message(ctx.message.channel, embed=discord.Embed(title='Pokemon Training Session', colour=0x3232FF).add_field(name="Testing", value=123))
+07 Apr 2017 05:29:21 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 Apr 2017 05:29:21 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7f226a48e5b8>
+```
+07 Apr 2017 05:29:21 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 Apr 2017 05:29:21 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x0539C378>
+```
+07 Apr 2017 05:29:27 : LimitlessMc, botchat, Wertfuzzy77#0274, hmmmm
+07 Apr 2017 05:29:47 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug bot.send_message(ctx.message.channel, embed=discord.Embed(title='Pokemon Training Session', colour=0x3232FF).add_field(name="Testing", value=123).add_field(name="Testing2", value=456))
+07 Apr 2017 05:29:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 Apr 2017 05:29:47 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 Apr 2017 05:29:47 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7f226a48e5b8>
+```
+07 Apr 2017 05:29:47 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x0539C738>
+```
+07 Apr 2017 05:29:51 : LimitlessMc, botchat, Wertfuzzy77#0274, ooooooooooooooooo
+07 Apr 2017 05:29:54 : LimitlessMc, botchat, Wertfuzzy77#0274, v fancy
+07 Apr 2017 05:30:52 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug bot.send_message(ctx.message.channel, embed=discord.Embed(title='Pokemon Training Session', colour=0x3232FF).set_thumbnail("http://eskipaper.com/images/stunning-anime-scenery-wallpaper-1.jpg")
+07 Apr 2017 05:30:52 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+SyntaxError: unexpected EOF while parsing (<string>, line 1)
+```
+07 Apr 2017 05:30:52 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+SyntaxError: unexpected EOF while parsing (<string>, line 1)
+```
+07 Apr 2017 05:31:00 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug bot.send_message(ctx.message.channel, embed=discord.Embed(title='Pokemon Training Session', colour=0x3232FF).set_thumbnail("http://eskipaper.com/images/stunning-anime-scenery-wallpaper-1.jpg"))
+07 Apr 2017 05:31:00 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+TypeError: set_thumbnail() takes 1 positional argument but 2 were given
+```
+07 Apr 2017 05:31:00 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+TypeError: set_thumbnail() takes 1 positional argument but 2 were given
+```
+07 Apr 2017 05:31:18 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug bot.send_message(ctx.message.channel, embed=discord.Embed(title='Pokemon Training Session', colour=0x3232FF).set_thumbnail(url="http://eskipaper.com/images/stunning-anime-scenery-wallpaper-1.jpg"))
+07 Apr 2017 05:31:18 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 Apr 2017 05:31:18 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 Apr 2017 05:31:18 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7f226a49b870>
+```
+07 Apr 2017 05:31:18 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x0539C738>
+```
+07 Apr 2017 05:31:23 : LimitlessMc, botchat, Wertfuzzy77#0274, oooooooooooooooooooooooooooooooooooooooooooooo
+07 Apr 2017 05:31:39 : LimitlessMc, botchat, Wertfuzzy77#0274, I can put the pokemon images in there
+07 Apr 2017 05:31:43 : LimitlessMc, botchat, Wertfuzzy77#0274, this is 11/10
+07 Apr 2017 05:31:45 : LimitlessMc, botchat, Wertfuzzy77#0274, changes everything
+07 Apr 2017 05:31:56 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug bot.send_message(ctx.message.channel, embed=discord.Embed(title='Pokemon Training Session', colour=0x3232FF).set_image(url="http://eskipaper.com/images/stunning-anime-scenery-wallpaper-1.jpg"))
+07 Apr 2017 05:31:56 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 Apr 2017 05:31:56 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 Apr 2017 05:31:57 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7f226a1ea3e8>
+```
+07 Apr 2017 05:31:57 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x0544E468>
+```
+07 Apr 2017 05:32:41 : LimitlessMc, botchat, Wertfuzzy77#0274, ;debug bot.send_message(ctx.message.channel, embed=discord.Embed(title='Pokemon Training Session', colour=0x3232FF).set_image(url="http://eskipaper.com/images/stunning-anime-scenery-wallpaper-1.jpg").set_footer(text="A fancy anime background Image"))
+07 Apr 2017 05:32:42 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 Apr 2017 05:32:42 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x7f226a1ea3e8>
+```
+07 Apr 2017 05:32:42 : LimitlessMc, botchat, Botfuzzy77#2209, 
+07 Apr 2017 05:32:42 : LimitlessMc, botchat, Botfuzzy77#2209, ```py
+<discord.message.Message object at 0x0544E5D0>
+```

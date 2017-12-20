@@ -1,0 +1,96 @@
+15 Jul 2016 23:10:33 : Cipher , Wertfuzzy77#0274 , ;reload
+15 Jul 2016 23:10:33 : Cipher , Botfuzzy77#2209 , Reloaded all Modules
+15 Jul 2016 23:10:40 : Cipher , Wertfuzzy77#0274 , ;playlists
+15 Jul 2016 23:11:06 : Cipher , Wertfuzzy77#0274 , ;reload
+15 Jul 2016 23:11:06 : Cipher , Botfuzzy77#2209 , Reloaded all Modules
+15 Jul 2016 23:11:09 : Cipher , Wertfuzzy77#0274 , ;playlists
+15 Jul 2016 23:11:09 : Cipher , Botfuzzy77#2209 , {'Adele': ['https://www.youtube.com/watch?v=Ri7-vnrJD3k', 'https://www.youtube.com/watch?v=rYEDA3JcQqw', 'https://www.youtube.com/watch?v=hLQl3WQQoQ0', 'https://www.youtube.com/watch?v=YQHsXMglC9A', 'https://www.youtube.com/watch?v=dx7sLNyIeQk'], 'Sheeran': ['https://www.youtube.com/watch?v=lp-EO5I60KA', 'https://www.youtube.com/watch?v=FOjdXSrtUxA', 'https://www.youtube.com/watch?v=nSDgHBxUbVQ', 'https://www.youtube.com/watch?v=c4BLVznuWnU', 'https://www.youtube.com/watch?v=2fngvQS_PmQ', 'https://www.youtube.com/watch?v=UAWcs5H-qgQ'], 'Maroon': ['https://www.youtube.com/watch?v=09R8_2nJtjg', 'https://www.youtube.com/watch?v=iEPTlhBmwRg', 'https://www.youtube.com/watch?v=qpgTC9MDx1o', 'https://www.youtube.com/watch?v=NmugSMBh_iI', 'https://www.youtube.com/watch?v=KRaWnd3LJfs'], 'WEEB': ['https://www.youtube.com/watch?v=kuNixp-wvWM']}
+15 Jul 2016 23:13:10 : Cipher , Wertfuzzy77#0274 , ;reload
+15 Jul 2016 23:13:10 : Cipher , Botfuzzy77#2209 , Reloaded all Modules
+15 Jul 2016 23:13:13 : Cipher , Wertfuzzy77#0274 , ;playlists
+15 Jul 2016 23:13:13 : Cipher , Botfuzzy77#2209 , dict_items([('Adele', ['https://www.youtube.com/watch?v=Ri7-vnrJD3k', 'https://www.youtube.com/watch?v=rYEDA3JcQqw', 'https://www.youtube.com/watch?v=hLQl3WQQoQ0', 'https://www.youtube.com/watch?v=YQHsXMglC9A', 'https://www.youtube.com/watch?v=dx7sLNyIeQk']), ('Sheeran', ['https://www.youtube.com/watch?v=lp-EO5I60KA', 'https://www.youtube.com/watch?v=FOjdXSrtUxA', 'https://www.youtube.com/watch?v=nSDgHBxUbVQ', 'https://www.youtube.com/watch?v=c4BLVznuWnU', 'https://www.youtube.com/watch?v=2fngvQS_PmQ', 'https://www.youtube.com/watch?v=UAWcs5H-qgQ']), ('Maroon', ['https://www.youtube.com/watch?v=09R8_2nJtjg', 'https://www.youtube.com/watch?v=iEPTlhBmwRg', 'https://www.youtube.com/watch?v=qpgTC9MDx1o', 'https://www.youtube.com/watch?v=NmugSMBh_iI', 'https://www.youtube.com/watch?v=KRaWnd3LJfs']), ('WEEB', ['https://www.youtube.com/watch?v=kuNixp-wvWM'])])
+15 Jul 2016 23:13:16 : Cipher , Wertfuzzy77#0274 , ugh
+15 Jul 2016 23:14:57 : Cipher , Wertfuzzy77#0274 , ;reload
+15 Jul 2016 23:14:57 : Cipher , Botfuzzy77#2209 , Something went wrong :(
+15 Jul 2016 23:14:57 : Cipher , Botfuzzy77#2209 , SyntaxError: invalid syntax (Music.py, line 67)
+15 Jul 2016 23:15:06 : Cipher , Wertfuzzy77#0274 , ;reload
+15 Jul 2016 23:15:06 : Cipher , Botfuzzy77#2209 , Reloaded all Modules
+15 Jul 2016 23:15:10 : Cipher , Wertfuzzy77#0274 , ;playlists
+15 Jul 2016 23:15:18 : Cipher , Wertfuzzy77#0274 , ;reload
+15 Jul 2016 23:15:18 : Cipher , Botfuzzy77#2209 , Reloaded all Modules
+15 Jul 2016 23:15:20 : Cipher , Wertfuzzy77#0274 , ;playlists
+15 Jul 2016 23:15:21 : Cipher , Botfuzzy77#2209 , Adele, Sheeran, Maroon, WEEB
+15 Jul 2016 23:15:32 : LimitlessMc , Akuraizu#8280 , ;image Akuraizu\
+15 Jul 2016 23:15:33 : LimitlessMc , Botfuzzy77#2209 , http://www.minecraftskins.com/thumbnails/akuraizu-8572709.png
+15 Jul 2016 23:15:37 : LimitlessMc , Akuraizu#8280 , oh fuck
+15 Jul 2016 23:15:41 : LimitlessMc , Akuraizu#8280 , KILL IT
+15 Jul 2016 23:15:44 : LimitlessMc , Wertfuzzy77#0274 , xD
+15 Jul 2016 23:15:49 : LimitlessMc , Akuraizu#8280 , ;images SeprykonX
+15 Jul 2016 23:15:51 : LimitlessMc , Resolate#7058 , lol
+15 Jul 2016 23:15:56 : LimitlessMc , Akuraizu#8280 , ;image SeprykonX
+15 Jul 2016 23:15:56 : LimitlessMc , Botfuzzy77#2209 , http://www.minecraftskins.com/3D/bigcombine/skin_20130531014236124601both.png
+15 Jul 2016 23:16:10 : LimitlessMc , Wertfuzzy77#0274 , ;image Jay113355
+15 Jul 2016 23:16:11 : LimitlessMc , Botfuzzy77#2209 , https://minecraft-statistic.net/face/Jay113355.png
+15 Jul 2016 23:16:16 : LimitlessMc , Wertfuzzy77#0274 , lol
+15 Jul 2016 23:16:21 : LimitlessMc , Akuraizu#8280 , ;image Wertfuzzy69
+15 Jul 2016 23:16:22 : LimitlessMc , Botfuzzy77#2209 , ERROR
+15 Jul 2016 23:16:25 : LimitlessMc , Akuraizu#8280 , aw
+15 Jul 2016 23:16:27 : LimitlessMc , Wertfuzzy77#0274 , <@128244218761183232>  use that as your profile pic
+15 Jul 2016 23:16:28 : LimitlessMc , Wertfuzzy77#0274 , xD
+15 Jul 2016 23:16:31 : LimitlessMc , Wertfuzzy77#0274 , lol rip
+15 Jul 2016 23:16:41 : LimitlessMc , Resolate#7058 , xD
+15 Jul 2016 23:16:41 : LimitlessMc , Wertfuzzy77#0274 , weird
+15 Jul 2016 23:16:46 : LimitlessMc , Akuraizu#8280 , ;image Triangles
+15 Jul 2016 23:16:47 : LimitlessMc , Botfuzzy77#2209 , https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Pink_triangle_up.svg/2000px-Pink_triangle_up.svg.png
+15 Jul 2016 23:16:53 : LimitlessMc , Akuraizu#8280 , ;image Illuminati
+15 Jul 2016 23:16:54 : LimitlessMc , Botfuzzy77#2209 , http://ajournalofmusicalthings.com/wp-content/uploads/Illuminati-Logo.png
+15 Jul 2016 23:17:01 : LimitlessMc , Wertfuzzy77#0274 , lol, why did it fail for that 1?
+15 Jul 2016 23:17:08 : LimitlessMc , Akuraizu#8280 , because wertfuzzy 69
+15 Jul 2016 23:17:21 : LimitlessMc , Akuraizu#8280 , ;image 77
+15 Jul 2016 23:17:22 : LimitlessMc , Botfuzzy77#2209 , http://thetruthwins.com/wp-content/uploads/2012/08/77-Percent-Of-All-Americans-Live-Paycheck-To-Paycheck-At-Least-Part-Of-The-Time.png
+15 Jul 2016 23:17:29 : LimitlessMc , Resolate#7058 , ;image 69
+15 Jul 2016 23:17:30 : LimitlessMc , Botfuzzy77#2209 , http://deadseriousness.com/wp-content/uploads/2015/06/69.png
+15 Jul 2016 23:17:35 : LimitlessMc , Akuraizu#8280 , ;image A-style
+15 Jul 2016 23:17:36 : LimitlessMc , Botfuzzy77#2209 , http://i.imgur.com/8Fgx8Qn.png
+15 Jul 2016 23:17:49 : LimitlessMc , Akuraizu#8280 , Nice logo
+15 Jul 2016 23:18:01 : LimitlessMc , Resolate#7058 , Very nice
+15 Jul 2016 23:18:46 : LimitlessMc , Wertfuzzy77#0274 , ;reload
+15 Jul 2016 23:18:46 : LimitlessMc , Botfuzzy77#2209 , Reloaded all Modules
+15 Jul 2016 23:18:58 : LimitlessMc , Wertfuzzy77#0274 , ;join
+15 Jul 2016 23:19:03 : LimitlessMc , Wertfuzzy77#0274 , ;playlist Adele
+15 Jul 2016 23:19:08 : LimitlessMc , Botfuzzy77#2209 , Finished Adding songs from playlist(s)
+15 Jul 2016 23:19:13 : LimitlessMc , Wertfuzzy77#0274 , ;songs
+15 Jul 2016 23:19:20 : LimitlessMc , Akuraizu#8280 , ;meme Wert, where my chocolates at?
+15 Jul 2016 23:19:26 : LimitlessMc , Wertfuzzy77#0274 , no memes
+15 Jul 2016 23:19:27 : LimitlessMc , Wertfuzzy77#0274 , ever
+15 Jul 2016 23:19:32 : LimitlessMc , Wertfuzzy77#0274 , super spammy
+15 Jul 2016 23:19:32 : LimitlessMc , Akuraizu#8280 , !meme Wert, where my chocolates at?
+15 Jul 2016 23:19:33 : LimitlessMc , Gerald#7099 , http://i.imgflip.com/17gz2s.jpg
+15 Jul 2016 23:19:50 : LimitlessMc , Wertfuzzy77#0274 , ;conch do i give him chocolate?
+15 Jul 2016 23:19:51 : LimitlessMc , Botfuzzy77#2209 , *Outlook good*
+15 Jul 2016 23:19:51 : LimitlessMc , Botfuzzy77#2209 , The Conch has Spoken!
+15 Jul 2016 23:19:59 : LimitlessMc , Wertfuzzy77#0274 , ;clever gimme some chocolate
+15 Jul 2016 23:20:00 : LimitlessMc , Botfuzzy77#2209 , No, I'll eat all of it myself.
+15 Jul 2016 23:20:05 : LimitlessMc , Wertfuzzy77#0274 , ;clever hey no
+15 Jul 2016 23:20:06 : LimitlessMc , Botfuzzy77#2209 , Tell you what?
+15 Jul 2016 23:20:11 : LimitlessMc , Wertfuzzy77#0274 , ;clever what
+15 Jul 2016 23:20:12 : LimitlessMc , Botfuzzy77#2209 , Okay, no more hahaha.
+15 Jul 2016 23:20:24 : LimitlessMc , Wertfuzzy77#0274 , ;clever *cries*
+15 Jul 2016 23:20:27 : LimitlessMc , Botfuzzy77#2209 , Why are you crying?
+15 Jul 2016 23:20:35 : LimitlessMc , Wertfuzzy77#0274 , ;clever cause you didnt give me chocolate
+15 Jul 2016 23:20:37 : LimitlessMc , Botfuzzy77#2209 , I will do so.
+15 Jul 2016 23:20:44 : LimitlessMc , Wertfuzzy77#0274 , ;clever GIMME CHOCOLATE
+15 Jul 2016 23:20:48 : LimitlessMc , Botfuzzy77#2209 , I have none to give.
+15 Jul 2016 23:20:51 : LimitlessMc , Wertfuzzy77#0274 , wut
+15 Jul 2016 23:20:58 : LimitlessMc , Resolate#7058 , *cries*
+15 Jul 2016 23:21:28 : LimitlessMc , Resolate#7058 , ;clevr Oi, can I have some chocolate?
+15 Jul 2016 23:21:39 : LimitlessMc , Resolate#7058 , kms
+15 Jul 2016 23:21:52 : LimitlessMc , Wertfuzzy77#0274 , ;reload
+15 Jul 2016 23:21:52 : LimitlessMc , Botfuzzy77#2209 , Reloaded all Modules
+15 Jul 2016 23:21:54 : LimitlessMc , Wertfuzzy77#0274 , ;songs
+15 Jul 2016 23:21:54 : LimitlessMc , Botfuzzy77#2209 , Queue is Empty
+15 Jul 2016 23:22:00 : LimitlessMc , Resolate#7058 , ;clever Oi, Can I have some Chocolate
+15 Jul 2016 23:22:03 : LimitlessMc , Botfuzzy77#2209 , Yes *gives you chocolate*.
+15 Jul 2016 23:22:04 : LimitlessMc , Wertfuzzy77#0274 , ;shutdown
+15 Jul 2016 23:22:04 : LimitlessMc , Botfuzzy77#2209 , Ok :(
+15 Jul 2016 23:22:05 : LimitlessMc , Botfuzzy77#2209 , Gooodbye cruel world
