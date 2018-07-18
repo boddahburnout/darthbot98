@@ -23,7 +23,6 @@ from cleverwrap import CleverWrap
 from Util.API_Caller import *
 
 VERSION = "0.15.1.3"
-os.chdir("C:/Users/Dakota/Downloads/Botfuzzy77-master/Botfuzzy77-master")
 description = '''Darth bot, a bot for the fam, Version {}
 (Created by Wertfuzzy77 & Darth Kota98)'''.format(VERSION)
 bot = commands.Bot(command_prefix=';', description=description, pm_help = True)
@@ -416,4 +415,4 @@ async def startpoll(ctx):
     await bot.send_message(channel, embed=Embed)
 
 if __name__ == '__main__':
-    bot.run('MzE1NDczMzkzNDAxMjAwNjUx.DPLNqw.m_YpO0pdGPzbYNF2Gd5dlqX90EQ')
+    bot.run('MzE1NDczMzkzNDAxMjAwNjUx.DjAmBw.x063UUSqYklv12tj7r4ctOXCDzQ')
