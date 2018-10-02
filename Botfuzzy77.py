@@ -415,4 +415,4 @@ async def startpoll(ctx):
     await bot.send_message(channel, embed=Embed)
 
 if __name__ == '__main__':
-    bot.run('MzE1NDczMzkzNDAxMjAwNjUx.DpVIQg.71ZuhDic6NVlyQMK_pZ7pSPfXSc')
+    bot.run('')
