@@ -105,7 +105,7 @@ class FlavorTexts:
 		'Returns Information on the Limitless MC server!'
 		IP = [IP]
 		if IP == [None]:
-			ServerIPs = {"237329306232029184" : ["infinity.protongaming.co.uk", 'skyfactory.protongaming.co.uk'], "333330598871695360" : ["playpokeislands.tk:25650"], "197586442300424193" : ["198.50.156.149:25603"], "230515184265986048" : ["crystalfantasy.cf:29774"]}
+			ServerIPs = {"535484961357037568" : ["darthcraft.hoptp.org"], "237329306232029184" : ["infinity.protongaming.co.uk", 'skyfactory.protongaming.co.uk'], "333330598871695360" : ["playpokeislands.tk:25650"], "197586442300424193" : ["198.50.156.149:25603"], "230515184265986048" : ["crystalfantasy.cf:29774"]}
 			IPs = ServerIPs.get(ctx.message.server.id, IP)
 			if IPs == [None]:
 				IPs = ["mc.limitlessmc.net"]
