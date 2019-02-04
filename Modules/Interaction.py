@@ -102,13 +102,13 @@ class FlavorTexts:
 	
 	@commands.command(pass_context = True)
 	async def server(self, ctx, IP = None):
-		'Returns Information on the Limitless MC server!'
+		'Returns Information on the Darthcraft Mc server!'
 		IP = [IP]
 		if IP == [None]:
-			ServerIPs = {"535484961357037568" : ["darthcraft.hoptp.org"], "237329306232029184" : ["infinity.protongaming.co.uk", 'skyfactory.protongaming.co.uk'], "333330598871695360" : ["playpokeislands.tk:25650"], "197586442300424193" : ["198.50.156.149:25603"], "230515184265986048" : ["crystalfantasy.cf:29774"]}
+			ServerIPs = {"535484961357037568" : ["darthcraft.hopto.org"], "237329306232029184" : ["infinity.protongaming.co.uk", 'skyfactory.protongaming.co.uk'], "333330598871695360" : ["playpokeislands.tk:25650"], "197586442300424193" : ["198.50.156.149:25603"], "230515184265986048" : ["crystalfantasy.cf:29774"]}
 			IPs = ServerIPs.get(ctx.message.server.id, IP)
 			if IPs == [None]:
-				IPs = ["mc.limitlessmc.net"]
+				IPs = ["darthcraft.hopto.org"]
 		else:
 			IPs = IP
 		for IP in IPs:
