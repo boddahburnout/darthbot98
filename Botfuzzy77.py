@@ -140,7 +140,7 @@ async def relog(ctx):
 @bot.command()
 async def invite():
     'Returns a Link to the Invite URL for this bot'
-    await bot.say("https://discordapp.com/oauth2/authorize?client_id=187608834381053952&scope=bot&permissions=00000008")
+    await bot.say("https://discordapp.com/oauth2/authorize?client_id=315473393401200651&scope=bot&permissions=00000008")
 
 @bot.event
 async def on_member_join(member):
