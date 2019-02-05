@@ -123,7 +123,7 @@ async def status(ctx):
 @bot.command()
 async def source():
     'Returns a link to the source code for this bot'
-    await bot.say("https://github.com/77Wertfuzzy77/Botfuzzy77")
+    await bot.say("https://github.com/darthbot98/darthbot98")
 
 @bot.command(pass_context = True, hidden = True)
 async def relog(ctx):
