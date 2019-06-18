@@ -1,4 +1,4 @@
 @echo off
 :reset
-start /w Botfuzzy77.bat
+start /w darthbot.bat
 goto reset
